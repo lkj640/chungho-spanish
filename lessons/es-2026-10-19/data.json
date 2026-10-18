@@ -1,0 +1,1596 @@
+{
+ "id": "es-2026-10-19",
+ "lang": "es",
+ "date": "2026-10-19",
+ "title": "스페인어로 감정 표현하기",
+ "es": "¿Cómo te sientes hoy? — Estoy agotado.",
+ "emoji": "😊",
+ "level": "A1–A2",
+ "channel": "Español Auténtico",
+ "videoTitle": "How to Express Feelings in Spanish | Spanish for Beginners",
+ "youtube": "96JF3XN_9SI",
+ "duration": "22:20",
+ "speakers": {
+  "S": "Sofía",
+  "C": "Carlos"
+ },
+ "summary": "기분은 estar와 sentirse, 몸의 감각과 두려움은 tener, 성격은 ser, 갑자기 바뀌는 기분은 ponerse로 말해요. 친구에게 \"¿Qué tienes?\"라고 묻고 \"No es nada\"라고 답하는 법까지 배워요.",
+ "topics": [
+  "estar + 감정: estoy agotado / emocionada",
+  "sentirse: me siento nerviosa",
+  "tener + 명사: tengo miedo · tengo vergüenza",
+  "¿Qué tienes? · ¿Te pasa algo? · No es nada",
+  "ser vs estar: soy aburrido ≠ estoy aburrido",
+  "ponerse: me pongo feliz"
+ ],
+ "grammar": [
+  {
+   "title": "① 감정을 말하는 4가지 동사",
+   "lead": "스페인어는 감정의 <b>종류와 지속 시간</b>에 따라 동사를 골라 써요.",
+   "table": {
+    "head": [
+     "동사",
+     "언제?",
+     "예문"
+    ],
+    "rows": [
+     [
+      "estar + 형용사",
+      "지금 이 순간의 기분 (일시적)",
+      "Estoy agotado."
+     ],
+     [
+      "sentirse + 형용사",
+      "estar와 비슷, '~하게 느껴'",
+      "Me siento nerviosa."
+     ],
+     [
+      "tener + 명사",
+      "몸의 감각, 두려움·창피함",
+      "Tengo miedo."
+     ],
+     [
+      "ser + 형용사",
+      "성격, 원래 그런 사람",
+      "Soy alegre."
+     ],
+     [
+      "ponerse + 형용사",
+      "갑자기 그렇게 되는 반응",
+      "Me pongo feliz."
+     ]
+    ]
+   },
+   "tip": "감정 형용사는 주어의 성에 맞춰요: Carlos está agotado / Sofía está agotada · emocionado / emocionada."
+  },
+  {
+   "title": "② estar — 감정은 바뀌니까",
+   "lead": "감정과 기분은 계속 바뀌고 영원하지 않아요. 그래서 <b>estar</b>를 써요.",
+   "examples": [
+    [
+     "Hoy estoy agotado, pero mañana voy a estar lleno de energía.",
+     "오늘은 녹초지만 내일은 에너지가 넘칠 거야."
+    ],
+    [
+     "Estoy emocionada por mi viaje de fin de semana.",
+     "주말 여행 때문에 신나."
+    ],
+    [
+     "El lunes por la mañana voy a estar un poco triste.",
+     "월요일 아침엔 좀 우울할 거야."
+    ],
+    [
+     "Estar triste · estar feliz · estar preocupado · estar estresado",
+     "슬프다 · 행복하다 · 걱정되다 · 스트레스받다"
+    ]
+   ],
+   "tip": "영어 excited는 emocionado/a예요. excitado는 성적인 의미로 들릴 수 있어서 쓰지 않아요!"
+  },
+  {
+   "title": "③ sentirse — '~하게 느껴'",
+   "lead": "재귀동사라서 대명사 me · te · se · nos를 붙여요. estar처럼 지금의 감정을 자연스럽게 표현해요.",
+   "table": {
+    "head": [
+     "주어",
+     "sentirse",
+     "예문"
+    ],
+    "rows": [
+     [
+      "yo",
+      "me siento",
+      "Me siento muy feliz."
+     ],
+     [
+      "tú",
+      "te sientes",
+      "Te sientes un poco triste."
+     ],
+     [
+      "él / ella",
+      "se siente",
+      "Se siente estresado."
+     ],
+     [
+      "nosotros",
+      "nos sentimos",
+      "Nos sentimos seguros."
+     ]
+    ]
+   },
+   "tip": "과거의 감정은 불완료 과거로: Me sentía muy insegura al hablar. (말할 때 정말 자신이 없었어)"
+  },
+  {
+   "title": "④ tener — 감각 명사에는 estar ✗",
+   "lead": "miedo, hambre, frío, vergüenza는 <b>명사</b>예요. 그래서 estar가 아니라 <b>tener</b>를 써요.",
+   "examples": [
+    [
+     "Tengo hambre. (✗ Estoy hambre)",
+     "배고파."
+    ],
+    [
+     "Tengo miedo de equivocarme. (✗ Estoy miedoso)",
+     "틀릴까 봐 무서워."
+    ],
+    [
+     "A veces tengo vergüenza de mi pronunciación.",
+     "가끔 내 발음이 창피해."
+    ],
+    [
+     "Cuando tengo mucha hambre, me pongo de muy mal humor.",
+     "배가 많이 고프면 기분이 아주 나빠져."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ ser vs estar — 성격일까, 지금 기분일까?",
+   "lead": "같은 형용사도 동사에 따라 뜻이 완전히 달라져요.",
+   "table": {
+    "head": [
+     "형용사",
+     "ser (성격)",
+     "estar (지금 기분)"
+    ],
+    "rows": [
+     [
+      "alegre",
+      "밝은 성격이다",
+      "(지금) 기분이 좋다"
+     ],
+     [
+      "nervioso/a",
+      "예민한 성격이다",
+      "(지금) 긴장된다"
+     ],
+     [
+      "aburrido/a",
+      "재미없는 사람이다 (I'm boring)",
+      "심심하다, 지루하다 (I'm bored)"
+     ]
+    ]
+   },
+   "tip": "⚠️ 심심할 때 \"Soy aburrida\"라고 하면 '나는 재미없는 사람이야'가 돼요. 꼭 \"Estoy aburrida\"!"
+  },
+  {
+   "title": "⑥ ponerse — 기분이 갑자기 바뀔 때",
+   "lead": "어떤 일에 대한 <b>즉각적인 반응</b>으로 감정이 바뀌면 ponerse(~하게 되다)를 써요.",
+   "examples": [
+    [
+     "Si veo un perrito muy lindo en la calle, me pongo feliz.",
+     "길에서 귀여운 강아지를 보면 기분이 좋아져."
+    ],
+    [
+     "Si mi jefe me da más trabajo el viernes, me pongo enojada.",
+     "금요일에 상사가 일을 더 주면 화가 나."
+    ],
+    [
+     "Me pongo nervioso cuando hablo en público.",
+     "사람들 앞에서 말하면 긴장돼."
+    ],
+    [
+     "Leer sus comentarios siempre nos pone muy felices.",
+     "여러분의 댓글을 읽으면 늘 아주 행복해져요."
+    ]
+   ],
+   "tip": "ponerse 현재형: me pongo · te pones · se pone · nos ponemos · se ponen"
+  },
+  {
+   "title": "⑦ 친구에게 묻고 답하기",
+   "lead": "평소와 다른 친구에게 다정하게 물어보고, 말하고 싶지 않을 때 예의 바르게 넘기는 표현이에요.",
+   "examples": [
+    [
+     "¿Qué tienes?",
+     "무슨 일 있어? (부드러운 말투로)"
+    ],
+    [
+     "¿Te pasa algo?",
+     "무슨 일 있어? (걱정해 주는 느낌)"
+    ],
+    [
+     "¿Cómo te sientes hoy?",
+     "오늘 기분 어때?"
+    ],
+    [
+     "No es nada, solo estoy un poco cansada.",
+     "아무것도 아니야, 그냥 좀 피곤해서."
+    ],
+    [
+     "Estoy bien, gracias. Solo necesito descansar un poco.",
+     "괜찮아, 고마워. 그냥 좀 쉬어야겠어."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "¿Cómo estás hoy? — La verdad es que hoy estoy un poco agotado.",
+   "오늘 어때? — 사실 오늘은 좀 지쳤어."
+  ],
+  [
+   "Me siento bastante estresado por un proyecto.",
+   "프로젝트 때문에 스트레스를 꽤 받고 있어."
+  ],
+  [
+   "Me siento muy emocionada. Hoy es viernes.",
+   "정말 신나. 오늘 금요일이잖아."
+  ],
+  [
+   "Me siento nerviosa y tengo miedo de equivocarme.",
+   "긴장되고 틀릴까 봐 무서워."
+  ],
+  [
+   "Si no almuerzo a tiempo, me siento muy enfadada.",
+   "제때 점심을 안 먹으면 정말 짜증 나."
+  ],
+  [
+   "Oye, ¿te pasa algo?",
+   "저기, 무슨 일 있어?"
+  ],
+  [
+   "No es nada, solo estoy un poco cansada.",
+   "아무것도 아니야, 그냥 좀 피곤해."
+  ],
+  [
+   "Estoy aburrida. (✗ Soy aburrida)",
+   "심심해."
+  ],
+  [
+   "Mi hermana es muy nerviosa.",
+   "우리 언니는 아주 예민한 성격이야."
+  ],
+  [
+   "Me pongo feliz cuando veo un perrito.",
+   "강아지를 보면 기분이 좋아져."
+  ],
+  [
+   "¿Cómo me siento en este momento?",
+   "지금 나는 기분이 어떻지?"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el sentimiento",
+   "ko": "감정, 기분",
+   "ex": "Cómo hablar de nuestros sentimientos y emociones.",
+   "exKo": "우리의 감정과 기분을 말하는 법."
+  },
+  {
+   "es": "agotado/a",
+   "ko": "녹초가 된, 기진맥진한",
+   "ex": "Estoy agotado después de tanto trabajo.",
+   "exKo": "일을 너무 많이 해서 녹초야."
+  },
+  {
+   "es": "estresado/a",
+   "ko": "스트레스받은",
+   "ex": "Me siento bastante estresado por un proyecto.",
+   "exKo": "프로젝트 때문에 꽤 스트레스받아."
+  },
+  {
+   "es": "emocionado/a",
+   "ko": "신난, 설레는 (= excited)",
+   "ex": "Me siento muy emocionada.",
+   "exKo": "정말 신나."
+  },
+  {
+   "es": "animado/a",
+   "ko": "기운이 나는, 활기찬",
+   "ex": "Por eso me siento tan animada hoy.",
+   "exKo": "그래서 오늘 이렇게 기운이 나."
+  },
+  {
+   "es": "apagado/a",
+   "ko": "(기분이) 처진, 축 늘어진",
+   "ex": "El lunes voy a estar un poco apagada.",
+   "exKo": "월요일엔 좀 처져 있을 거야."
+  },
+  {
+   "es": "tener pereza",
+   "ko": "귀찮다, 하기 싫다",
+   "ex": "Tenemos pereza de volver al trabajo.",
+   "exKo": "일하러 돌아가기 귀찮아."
+  },
+  {
+   "es": "preocupado/a",
+   "ko": "걱정하는",
+   "ex": "Tal vez está triste o preocupado.",
+   "exKo": "아마 슬프거나 걱정이 있을 거야."
+  },
+  {
+   "es": "nervioso/a",
+   "ko": "긴장한 / 예민한 (성격)",
+   "ex": "Me siento muy nerviosa al hablar.",
+   "exKo": "말할 때 정말 긴장돼."
+  },
+  {
+   "es": "equivocarse",
+   "ko": "틀리다, 실수하다",
+   "ex": "Tengo miedo de equivocarme.",
+   "exKo": "틀릴까 봐 무서워."
+  },
+  {
+   "es": "sentirse",
+   "ko": "(기분이) ~하게 느끼다",
+   "ex": "¿Cómo te sientes hoy?",
+   "exKo": "오늘 기분 어때?"
+  },
+  {
+   "es": "inseguro/a",
+   "ko": "자신 없는, 불안한",
+   "ex": "Me sentía muy insegura al hablar.",
+   "exKo": "말할 때 정말 자신이 없었어."
+  },
+  {
+   "es": "la zona de confort",
+   "ko": "편안한 영역, 안전지대",
+   "ex": "Cuando salimos de nuestra zona de confort.",
+   "exKo": "우리가 안전지대를 벗어날 때."
+  },
+  {
+   "es": "orgulloso/a",
+   "ko": "자랑스러워하는",
+   "ex": "Estoy orgulloso de mi progreso.",
+   "exKo": "내 발전이 자랑스러워."
+  },
+  {
+   "es": "la frustración",
+   "ko": "좌절감",
+   "ex": "Primero sentimos miedo o frustración.",
+   "exKo": "처음엔 두려움이나 좌절을 느껴."
+  },
+  {
+   "es": "el humor",
+   "ko": "기분",
+   "ex": "Me pongo de muy mal humor.",
+   "exKo": "기분이 아주 나빠져."
+  },
+  {
+   "es": "enfadado/a · enojado/a",
+   "ko": "화난 (스페인 · 중남미)",
+   "ex": "Si no almuerzo, me siento muy enfadada.",
+   "exKo": "점심을 안 먹으면 정말 화가 나."
+  },
+  {
+   "es": "tener miedo",
+   "ko": "무섭다",
+   "ex": "Tengo miedo. (✗ Estoy miedoso)",
+   "exKo": "무서워."
+  },
+  {
+   "es": "tener vergüenza",
+   "ko": "창피하다, 쑥스럽다",
+   "ex": "Tengo vergüenza de mi pronunciación.",
+   "exKo": "내 발음이 창피해."
+  },
+  {
+   "es": "apenado/a · tímido/a",
+   "ko": "부끄러운 · 수줍은",
+   "ex": "Sentirse apenado o tímido por algo.",
+   "exKo": "무언가 때문에 부끄럽거나 쑥스럽다."
+  },
+  {
+   "es": "callado/a",
+   "ko": "말이 없는, 조용한",
+   "ex": "Veo a un amigo un poco triste o callado.",
+   "exKo": "친구가 좀 슬프거나 말이 없어 보여."
+  },
+  {
+   "es": "¿Qué tienes?",
+   "ko": "무슨 일 있어?",
+   "ex": "Oye, ¿qué tienes? Te veo triste.",
+   "exKo": "저기, 무슨 일 있어? 슬퍼 보여."
+  },
+  {
+   "es": "¿Te pasa algo?",
+   "ko": "무슨 일 있어?",
+   "ex": "¿Te pasa algo? No estás como siempre.",
+   "exKo": "무슨 일 있어? 평소 같지 않네."
+  },
+  {
+   "es": "No es nada.",
+   "ko": "아무것도 아니야.",
+   "ex": "No es nada, solo estoy un poco cansada.",
+   "exKo": "아무것도 아니야, 그냥 좀 피곤해."
+  },
+  {
+   "es": "empático/a",
+   "ko": "공감하는",
+   "ex": "Es una forma muy empática de preguntar.",
+   "exKo": "아주 공감 어린 질문 방식이야."
+  },
+  {
+   "es": "alegre",
+   "ko": "밝은 / 기쁜",
+   "ex": "Soy alegre. / Estoy alegre.",
+   "exKo": "나는 밝은 성격이야. / 나 지금 기뻐."
+  },
+  {
+   "es": "el carácter",
+   "ko": "성격",
+   "ex": "Tu hermana tiene un carácter nervioso.",
+   "exKo": "너희 언니는 예민한 성격이야."
+  },
+  {
+   "es": "aburrido/a",
+   "ko": "심심한 (estar) / 재미없는 (ser)",
+   "ex": "Estoy aburrida. ≠ Soy aburrida.",
+   "exKo": "심심해. ≠ 나는 재미없는 사람이야."
+  },
+  {
+   "es": "el aburrimiento",
+   "ko": "지루함, 따분함",
+   "ex": "Sientes aburrimiento.",
+   "exKo": "지루함을 느껴."
+  },
+  {
+   "es": "ponerse + 형용사",
+   "ko": "(갑자기) ~해지다",
+   "ex": "Me pongo feliz cuando veo un perrito.",
+   "exKo": "강아지를 보면 기분이 좋아져."
+  },
+  {
+   "es": "el estado de ánimo",
+   "ko": "기분, 심리 상태",
+   "ex": "Mi estado de ánimo cambia muy rápido.",
+   "exKo": "기분이 아주 빨리 바뀌어."
+  },
+  {
+   "es": "de repente",
+   "ko": "갑자기",
+   "ex": "¿Qué pasa cuando una emoción llega de repente?",
+   "exKo": "감정이 갑자기 찾아오면 어떻게 돼?"
+  },
+  {
+   "es": "la ilusión",
+   "ko": "설렘, 기대",
+   "ex": "Mucha ilusión por algo bueno que va a pasar.",
+   "exKo": "곧 일어날 좋은 일에 대한 큰 설렘."
+  },
+  {
+   "es": "quedarse en blanco",
+   "ko": "머리가 하얘지다",
+   "ex": "Mi mente se quedaba en blanco.",
+   "exKo": "머리가 하얘지곤 했어."
+  },
+  {
+   "es": "el desafío",
+   "ko": "도전",
+   "ex": "Aprender español puede ser un gran desafío.",
+   "exKo": "스페인어 공부는 큰 도전일 수 있어."
+  },
+  {
+   "es": "un abrazo",
+   "ko": "포옹 (편지·인사 끝에)",
+   "ex": "Un gran abrazo para todos.",
+   "exKo": "모두에게 큰 포옹을 보내요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "오늘 너무 피곤할 때 가장 알맞은 말은?",
+   "options": [
+    "Soy agotado.",
+    "Estoy agotado.",
+    "Tengo agotado.",
+    "Me pongo agotado."
+   ],
+   "answer": 1,
+   "explain": "일시적인 상태라서 estar + agotado. ser를 쓰면 성격처럼 들려요."
+  },
+  {
+   "q": "영어 'I'm so excited!'를 스페인어로 자연스럽게 말하면?",
+   "options": [
+    "¡Estoy muy excitada!",
+    "¡Estoy muy emocionada!",
+    "¡Soy muy emocionada!",
+    "¡Tengo emoción!"
+   ],
+   "answer": 1,
+   "explain": "excited = emocionado/a. excitado는 다른(성적인) 의미로 들릴 수 있어요."
+  },
+  {
+   "q": "\"배고파\"로 맞는 것은?",
+   "options": [
+    "Estoy hambre.",
+    "Soy hambre.",
+    "Tengo hambre.",
+    "Me pongo hambre."
+   ],
+   "answer": 2,
+   "explain": "hambre는 명사라서 tener를 써요. 'estoy hambre'는 대표적인 실수예요."
+  },
+  {
+   "q": "\"무서워\"로 맞는 것은?",
+   "options": [
+    "Estoy miedoso.",
+    "Tengo miedo.",
+    "Soy miedo.",
+    "Me siento miedo."
+   ],
+   "answer": 1,
+   "explain": "miedo(두려움)는 명사 → tengo miedo."
+  },
+  {
+   "q": "할 일이 없어서 심심할 때는?",
+   "options": [
+    "Soy aburrida.",
+    "Estoy aburrida.",
+    "Tengo aburrida.",
+    "Me siento aburrimiento."
+   ],
+   "answer": 1,
+   "explain": "estar aburrido = I'm bored. ser aburrido = I'm boring(재미없는 사람)이에요."
+  },
+  {
+   "q": "'Mi hermana es muy nerviosa.'의 뜻은?",
+   "options": [
+    "언니가 지금 긴장했어.",
+    "언니는 예민한 성격이야.",
+    "언니가 화났어.",
+    "언니가 아파."
+   ],
+   "answer": 1,
+   "explain": "ser + nervioso는 성격을 말해요. 지금 긴장한 상태라면 está nerviosa."
+  },
+  {
+   "q": "귀여운 강아지를 보고 갑자기 기분이 좋아질 때는?",
+   "options": [
+    "Me pongo feliz.",
+    "Soy feliz.",
+    "Tengo feliz.",
+    "Pongo feliz."
+   ],
+   "answer": 0,
+   "explain": "즉각적인 감정 변화는 ponerse + 형용사. 재귀대명사 me를 잊지 마세요."
+  },
+  {
+   "q": "말이 없는 친구에게 다정하게 묻는 말이 아닌 것은?",
+   "options": [
+    "¿Qué tienes?",
+    "¿Te pasa algo?",
+    "¿Cómo te sientes?",
+    "¿Qué hora es?"
+   ],
+   "answer": 3,
+   "explain": "¿Qué hora es?는 '몇 시야?'예요."
+  },
+  {
+   "q": "말하고 싶지 않을 때 예의 바르게 넘기는 말은?",
+   "options": [
+    "No es nada, solo estoy un poco cansada.",
+    "¡Déjame!",
+    "Tengo razón.",
+    "Soy aburrida."
+   ],
+   "answer": 0,
+   "explain": "\"No es nada\"(아무것도 아니야) + 가벼운 이유가 부드럽고 자연스러워요."
+  },
+  {
+   "q": "빈칸: ¿Cómo te ___ hoy? (오늘 기분 어때?)",
+   "options": [
+    "sientes",
+    "siento",
+    "sienta",
+    "sentir"
+   ],
+   "answer": 0,
+   "explain": "tú → te sientes. (yo → me siento)"
+  },
+  {
+   "q": "'tener vergüenza'의 뜻은?",
+   "options": [
+    "화가 나다",
+    "창피하다",
+    "졸리다",
+    "운이 좋다"
+   ],
+   "answer": 1,
+   "explain": "vergüenza = 창피함. \"Tengo vergüenza de mi pronunciación.\""
+  },
+  {
+   "q": "감정 표현에 estar를 쓰는 이유는?",
+   "options": [
+    "감정은 성격이라서",
+    "감정은 계속 바뀌는 일시적 상태라서",
+    "감정은 명사라서",
+    "감정은 과거의 일이라서"
+   ],
+   "answer": 1,
+   "explain": "감정은 영원하지 않고 바뀌어요. 그래서 일시적인 상태를 나타내는 estar를 써요."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사와 오늘의 주제",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "S",
+     "es": "Hola a todos, bienvenidos a un nuevo episodio de Español Auténtico.",
+     "ko": "안녕하세요 여러분, Español Auténtico의 새 에피소드에 오신 걸 환영해요."
+    },
+    {
+     "t": 6.4,
+     "s": "S",
+     "es": "Si buscas Spanish listening practice o clases de español para mejorar tu nivel y entender a los nativos, estás en el lugar correcto.",
+     "ko": "듣기 연습이나 실력을 키우고 원어민을 이해할 수 있는 스페인어 수업을 찾고 있다면, 제대로 찾아오셨어요."
+    },
+    {
+     "t": 19.0,
+     "s": "S",
+     "es": "Hoy vamos a hablar de un tema superinteresante y muy humano: cómo hablar de nuestros sentimientos y emociones.",
+     "ko": "오늘은 아주 흥미롭고 인간적인 주제, 우리의 감정과 기분을 말하는 법에 대해 이야기할 거예요."
+    },
+    {
+     "t": 29.5,
+     "s": "C",
+     "es": "Hola, Sofía. Hola a todos.",
+     "ko": "안녕, 소피아. 여러분 안녕하세요."
+    },
+    {
+     "t": 32.0,
+     "s": "C",
+     "es": "Exactamente. Para aprender español de verdad no solo necesitas saber cómo pedir comida o cómo presentarte; necesitas saber cómo expresar lo que sientes por dentro.",
+     "ko": "맞아요. 스페인어를 제대로 배우려면 음식 주문이나 자기소개만 알아서는 안 돼요. 마음속으로 느끼는 걸 표현할 줄 알아야 해요."
+    },
+    {
+     "t": 44.2,
+     "s": "C",
+     "es": "Es algo fundamental para tener una verdadera Spanish conversation y para conectar de forma real con otras personas.",
+     "ko": "진짜 대화를 하고 다른 사람과 진심으로 연결되려면 꼭 필요한 거예요."
+    },
+    {
+     "t": 52.7,
+     "s": "S",
+     "es": "Así es, Carlos. Y antes de empezar con nuestra lección de español para principiantes, quiero pedirles un favor muy grande a todos los que nos escuchan.",
+     "ko": "맞아요, 카를로스. 그리고 초급 스페인어 수업을 시작하기 전에, 듣고 계신 모든 분께 아주 큰 부탁을 하나 드리고 싶어요."
+    },
+    {
+     "t": 64.0,
+     "s": "S",
+     "es": "Si les gusta este Spanish podcast y quieren ayudarnos, por favor, suscríbanse al canal y dejen un me gusta en este video.",
+     "ko": "이 팟캐스트가 마음에 들고 저희를 돕고 싶으시다면, 채널을 구독하고 이 영상에 '좋아요'를 눌러 주세요."
+    },
+    {
+     "t": 71.1,
+     "s": "C",
+     "es": "Sí, es de gran ayuda para nosotros. Cuando te suscribes y dejas un comentario, la plataforma entiende que este contenido es útil.",
+     "ko": "네, 저희에게 큰 도움이 돼요. 구독하고 댓글을 남겨 주시면 플랫폼이 이 콘텐츠가 유용하다고 인식해요."
+    },
+    {
+     "t": 78.6,
+     "s": "C",
+     "es": "De esta manera el canal crece y nosotros podemos seguir creando más Spanish lessons totalmente gratis, para ayudarles a hablar español con más seguridad cada día. Muchísimas gracias por el apoyo.",
+     "ko": "그렇게 채널이 성장하고, 여러분이 매일 더 자신 있게 스페인어로 말하도록 돕는 무료 수업을 계속 만들 수 있어요. 응원해 주셔서 정말 감사해요."
+    }
+   ]
+  },
+  {
+   "title": "오늘 기분 어때? — agotado · emocionada",
+   "lines": [
+    {
+     "t": 90.0,
+     "s": "S",
+     "es": "Gracias a todos. Bueno, Carlos, vamos al tema de hoy. Te estoy mirando y te veo un poco diferente. ¿Cómo estás hoy?",
+     "ko": "모두 감사해요. 자, 카를로스, 오늘의 주제로 가 볼까요. 보니까 좀 달라 보여요. 오늘 기분 어때요?"
+    },
+    {
+     "t": 99.1,
+     "s": "S",
+     "es": "Pero, por favor, no me digas solamente \"bien\". Quiero una respuesta auténtica, como nuestro canal.",
+     "ko": "그런데 제발 그냥 \"좋아\"라고만 하지 마세요. 우리 채널처럼 진짜 대답을 듣고 싶어요."
+    },
+    {
+     "t": 106.8,
+     "s": "C",
+     "es": "Tienes mucha razón, Sofía. Por costumbre, siempre decimos \"estoy bien\" de forma automática cuando alguien nos pregunta. Pero la verdad es que hoy estoy un poco agotado.",
+     "ko": "맞는 말이에요, 소피아. 누가 물어보면 습관적으로 자동으로 \"잘 지내\"라고 하죠. 그런데 사실 오늘은 좀 지쳤어요."
+    },
+    {
+     "t": 120.0,
+     "s": "C",
+     "es": "Es una palabra muy buena para ampliar nuestro vocabulario español. Agotado significa que estoy muy cansado, casi sin energía. Agotado.",
+     "ko": "어휘를 넓히기 아주 좋은 단어예요. agotado는 아주 피곤해서 기운이 거의 없다는 뜻이에요. Agotado."
+    },
+    {
+     "t": 131.0,
+     "s": "S",
+     "es": "¿Y por qué? ¿Trabajaste mucho esta semana o pasó algo más?",
+     "ko": "왜요? 이번 주에 일을 많이 했어요, 아니면 다른 일이 있었어요?"
+    },
+    {
+     "t": 135.7,
+     "s": "C",
+     "es": "Sí, tuve muchísimo trabajo en la oficina y, además, no dormí bien anoche por el calor, así que hoy mi nivel de energía está muy bajo. También me siento bastante estresado por un proyecto.",
+     "ko": "네, 사무실에 일이 엄청 많았고, 게다가 어젯밤엔 더워서 잠을 잘 못 잤어요. 그래서 오늘은 에너지가 바닥이에요. 프로젝트 때문에 스트레스도 꽤 받고 있고요."
+    },
+    {
+     "t": 151.0,
+     "s": "C",
+     "es": "¿Y tú, cómo te sientes hoy?",
+     "ko": "당신은요, 오늘 기분이 어때요?"
+    },
+    {
+     "t": 153.0,
+     "s": "S",
+     "es": "Pues yo me siento muy emocionada. Hoy es viernes y tengo unos planes muy divertidos para este fin de semana.",
+     "ko": "저는 아주 신나요. 오늘은 금요일이고 이번 주말에 아주 재미있는 계획이 있거든요."
+    },
+    {
+     "t": 161.0,
+     "s": "C",
+     "es": "Qué bueno. Emocionada es una palabra excelente para nuestro learn Spanish vocabulary. En inglés, por ejemplo, muchas veces dicen excited, y en español decimos emocionado o emocionada.",
+     "ko": "잘됐네요. emocionada는 어휘 공부에 아주 좋은 단어예요. 영어로는 보통 excited라고 하는데, 스페인어로는 emocionado 또는 emocionada라고 해요."
+    },
+    {
+     "t": 174.7,
+     "s": "C",
+     "es": "¿Se puede saber qué vas a hacer el fin de semana?",
+     "ko": "주말에 뭐 할 건지 물어봐도 돼요?"
+    },
+    {
+     "t": 178.3,
+     "s": "S",
+     "es": "Claro. Voy a ir a la montaña a caminar con unos amigos; por eso me siento tan animada hoy.",
+     "ko": "물론이죠. 친구들이랑 산에 걸으러 갈 거예요. 그래서 오늘 이렇게 기운이 나요."
+    }
+   ]
+  },
+  {
+   "title": "왜 estar일까? — 감정은 잠깐의 상태",
+   "lines": [
+    {
+     "t": 185.0,
+     "s": "S",
+     "es": "Pero, volviendo a la gramática y a los sentimientos, Carlos, ¿por qué usamos siempre el verbo estar para decir \"estoy cansado\" o \"estoy emocionada\"?",
+     "ko": "그런데 문법과 감정 이야기로 돌아가서, 카를로스, \"estoy cansado\"나 \"estoy emocionada\"라고 할 때 왜 항상 estar를 쓰는 거예요?"
+    },
+    {
+     "t": 195.7,
+     "s": "C",
+     "es": "Esa es una pregunta fantástica, especialmente para nuestros estudiantes de español A1 y nivel básico.",
+     "ko": "아주 좋은 질문이에요. 특히 A1과 기초 단계 학생들에게요."
+    },
+    {
+     "t": 203.1,
+     "s": "C",
+     "es": "Usamos el verbo estar porque los sentimientos y las emociones cambian constantemente; no son algo permanente.",
+     "ko": "감정과 기분은 계속 바뀌고 영원한 게 아니라서 estar를 써요."
+    },
+    {
+     "t": 211.0,
+     "s": "C",
+     "es": "Hoy yo estoy agotado, pero te aseguro que mañana, después de dormir, voy a estar lleno de energía.",
+     "ko": "오늘 저는 지쳐 있지만, 장담컨대 내일 자고 나면 에너지가 넘칠 거예요."
+    },
+    {
+     "t": 217.9,
+     "s": "S",
+     "es": "Ah, claro, tiene todo el sentido. Entonces, es un estado temporal.",
+     "ko": "아, 그렇군요, 완전히 이해돼요. 그러니까 일시적인 상태인 거죠."
+    },
+    {
+     "t": 222.5,
+     "s": "S",
+     "es": "Yo estoy emocionada hoy por mi viaje de fin de semana, pero el lunes por la mañana probablemente voy a estar un poco triste o apagada.",
+     "ko": "저는 오늘 주말 여행 때문에 신나지만, 월요일 아침엔 아마 좀 우울하거나 처져 있겠죠."
+    },
+    {
+     "t": 231.9,
+     "s": "C",
+     "es": "Exactamente. El lunes todos estamos un poco tristes o tenemos pereza de volver al trabajo. Es la naturaleza humana.",
+     "ko": "바로 그거예요. 월요일엔 다들 조금 우울하거나 일하러 가기 귀찮죠. 인간의 본성이에요."
+    },
+    {
+     "t": 240.0,
+     "s": "C",
+     "es": "En el español nativo usamos continuamente estas expresiones con el verbo estar para hablar del momento presente: estar triste, estar feliz, estar preocupado.",
+     "ko": "원어민들은 지금 이 순간을 말할 때 estar를 쓴 표현을 계속 써요. estar triste(슬프다), estar feliz(행복하다), estar preocupado(걱정되다)."
+    }
+   ]
+  },
+  {
+   "title": "또 다른 방법: sentirse",
+   "lines": [
+    {
+     "t": 250.8,
+     "s": "S",
+     "es": "Entiendo perfectamente. ¿Y qué me dices de la palabra nervioso?",
+     "ko": "완벽하게 이해했어요. 그럼 nervioso라는 단어는요?"
+    },
+    {
+     "t": 255.1,
+     "s": "S",
+     "es": "Te lo pregunto porque a veces, cuando intento hablar español con personas de otros países, me siento muy nerviosa y tengo miedo de equivocarme.",
+     "ko": "왜 묻냐면, 가끔 다른 나라 사람들과 스페인어로 말하려고 하면 아주 긴장되고 틀릴까 봐 무섭거든요."
+    },
+    {
+     "t": 264.9,
+     "s": "C",
+     "es": "Es completamente normal, Sofía.",
+     "ko": "완전히 정상이에요, 소피아."
+    },
+    {
+     "t": 267.0,
+     "s": "C",
+     "es": "Muchos de nuestros estudiantes que quieren improve Spanish se sienten nerviosos al principio. Estar nervioso es una reacción natural cuando salimos de nuestra zona de confort.",
+     "ko": "실력을 늘리고 싶은 학생 중 많은 분이 처음엔 긴장해요. 편안한 영역을 벗어날 때 긴장하는 건 자연스러운 반응이에요."
+    },
+    {
+     "t": 278.0,
+     "s": "C",
+     "es": "Pero mira qué bien lo has dicho, Sofía: \"Me siento nerviosa\". Usar el verbo sentirse es otra forma perfecta y muy natural de expresar tus emociones, igual que el verbo estar.",
+     "ko": "그런데 방금 정말 잘 말했어요, 소피아. \"Me siento nerviosa.\" sentirse를 쓰는 건 estar처럼 감정을 표현하는 또 다른 완벽하고 자연스러운 방법이에요."
+    },
+    {
+     "t": 288.9,
+     "s": "S",
+     "es": "Me encanta eso que dices, Carlos.",
+     "ko": "그 말 너무 좋네요, 카를로스."
+    },
+    {
+     "t": 291.0,
+     "s": "S",
+     "es": "Usar el verbo sentirse me parece una alternativa muy natural para nuestra conversación en español.",
+     "ko": "sentirse를 쓰는 건 회화에서 아주 자연스러운 대안 같아요."
+    },
+    {
+     "t": 298.4,
+     "s": "S",
+     "es": "Y hablando de sentirse nerviosa, recuerdo que en mi primer día estudiando español para extranjeros me sentía muy insegura al hablar. Pero, poco a poco, al escuchar español todos los días, esa emoción negativa desapareció.",
+     "ko": "긴장 이야기가 나와서 말인데, 외국인을 위한 스페인어를 처음 공부하던 날 말할 때 정말 자신이 없었던 게 기억나요. 그런데 매일 스페인어를 들으면서 그 부정적인 감정이 조금씩 사라졌어요."
+    },
+    {
+     "t": 314.9,
+     "s": "C",
+     "es": "Es un proceso muy lógico y normal, Sofía.",
+     "ko": "아주 당연하고 정상적인 과정이에요, 소피아."
+    },
+    {
+     "t": 318.0,
+     "s": "C",
+     "es": "A todos nos pasa cuando empezamos a aprender un idioma nuevo. Primero sentimos miedo o frustración, pero luego, con mucha práctica y buenas Spanish lessons, empezamos a sentirnos seguros y orgullosos de nuestro progreso.",
+     "ko": "새 언어를 배우기 시작하면 누구나 그래요. 처음엔 두려움이나 좌절을 느끼지만, 연습을 많이 하고 좋은 수업을 들으면 자신감이 생기고 자신의 발전이 자랑스러워지기 시작해요."
+    }
+   ]
+  },
+  {
+   "title": "감정에도 tener — tener miedo · tener vergüenza",
+   "lines": [
+    {
+     "t": 333.8,
+     "s": "C",
+     "es": "Y, ya que mencionas el miedo, aquí hay un detalle superimportante para la gramática y nuestras clases de español.",
+     "ko": "그리고 두려움 이야기가 나왔으니, 문법에 아주 중요한 포인트가 하나 있어요."
+    },
+    {
+     "t": 342.0,
+     "s": "S",
+     "es": "Uy, me encantan los detalles gramaticales.",
+     "ko": "와, 저 문법 포인트 정말 좋아해요."
+    },
+    {
+     "t": 345.0,
+     "s": "S",
+     "es": "¿De qué se trata? Porque sé que expresar los sentimientos en otro idioma a veces puede ser un poco confuso. Siempre trato de buscar las mejores frases en español para no equivocarme.",
+     "ko": "뭔데요? 다른 언어로 감정을 표현하는 게 가끔 좀 헷갈리잖아요. 저는 틀리지 않으려고 항상 가장 좋은 표현을 찾으려고 해요."
+    },
+    {
+     "t": 357.2,
+     "s": "C",
+     "es": "Pues mira: hemos hablado de usar estar y sentirse para las emociones, pero en el español nativo hay un grupo de sentimientos y sensaciones muy comunes que no usan ni estar ni sentirse. Usamos el verbo tener.",
+     "ko": "자, 봐요. 감정에 estar와 sentirse를 쓴다고 했죠. 그런데 원어민 스페인어에는 estar도 sentirse도 쓰지 않는 아주 흔한 감정·감각 그룹이 있어요. tener를 써요."
+    },
+    {
+     "t": 371.0,
+     "s": "C",
+     "es": "Esto es clave para mejorar tu nivel. El verbo tener.",
+     "ko": "실력을 늘리는 데 핵심이에요. 동사 tener."
+    },
+    {
+     "t": 375.9,
+     "s": "S",
+     "es": "Ah, creo que sé de qué hablas. ¿Te refieres a cuando hablamos de sensaciones físicas que cambian nuestro humor?",
+     "ko": "아, 무슨 말인지 알 것 같아요. 기분을 바꾸는 신체 감각을 말할 때를 말하는 거죠?"
+    },
+    {
+     "t": 386.3,
+     "s": "S",
+     "es": "Por ejemplo, en inglés decimos I am hungry con el verbo ser o estar, pero en español no puedo decir \"estoy hambre\", ¿verdad?",
+     "ko": "예를 들어 영어로는 be동사로 I am hungry라고 하지만, 스페인어로는 \"estoy hambre\"라고 못 하잖아요?"
+    },
+    {
+     "t": 397.9,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 399.0,
+     "s": "C",
+     "es": "Decir \"estoy hambre\" es uno de los errores más clásicos en los estudiantes de nivel básico. Para las sensaciones físicas que sentimos en el cuerpo, usamos el verbo tener.",
+     "ko": "\"estoy hambre\"는 초급 학생들의 가장 전형적인 실수 중 하나예요. 몸으로 느끼는 신체 감각에는 tener를 써요."
+    },
+    {
+     "t": 411.2,
+     "s": "C",
+     "es": "Decimos tener hambre, tener sed, tener frío o tener calor. Y créeme, cuando yo tengo mucha hambre, me pongo de muy mal humor.",
+     "ko": "tener hambre, tener sed, tener frío, tener calor라고 해요. 그리고 진짜예요, 저는 배가 많이 고프면 기분이 아주 나빠져요."
+    },
+    {
+     "t": 420.2,
+     "s": "S",
+     "es": "Yo también. Si no almuerzo a tiempo, me siento muy enfadada. Entonces decimos \"tengo hambre\" y \"tengo frío\".",
+     "ko": "저도요. 제때 점심을 안 먹으면 정말 짜증 나요. 그러니까 \"tengo hambre\", \"tengo frío\"라고 하는 거죠."
+    },
+    {
+     "t": 428.0,
+     "s": "S",
+     "es": "Es un excelente consejo para nuestro Spanish vocabulary. Pero, ¿usamos el verbo tener para emociones psicológicas también, o solo para cosas físicas?",
+     "ko": "어휘 공부에 아주 좋은 팁이에요. 그런데 tener를 심리적인 감정에도 쓰나요, 아니면 신체적인 것에만 쓰나요?"
+    },
+    {
+     "t": 439.6,
+     "s": "C",
+     "es": "Excelente pregunta. Sí, también lo usamos para algunas emociones fuertes. Por ejemplo, antes dijiste que sentías nervios al hablar.",
+     "ko": "아주 좋은 질문이에요. 네, 몇몇 강한 감정에도 써요. 예를 들어 아까 말할 때 긴장된다고 했죠."
+    },
+    {
+     "t": 449.7,
+     "s": "C",
+     "es": "En español es muy común tener miedo. En lugar de decir \"estoy miedoso\", decimos \"tengo miedo\".",
+     "ko": "스페인어에서는 tener miedo가 아주 흔해요. \"estoy miedoso\"라고 하지 않고 \"tengo miedo\"라고 해요."
+    },
+    {
+     "t": 457.0,
+     "s": "C",
+     "es": "Otra emoción muy común es tener vergüenza, que significa sentirse apenado o tímido por algo.",
+     "ko": "또 아주 흔한 감정은 tener vergüenza예요. 무언가 때문에 창피하거나 쑥스럽다는 뜻이에요."
+    },
+    {
+     "t": 463.4,
+     "s": "S",
+     "es": "Ah, tener vergüenza, sí, es una frase muy útil. A veces tengo vergüenza de mi pronunciación española, pero sé que la única forma de mejorar es practicando y hablando sin parar.",
+     "ko": "아, tener vergüenza, 네, 아주 유용한 표현이에요. 가끔 제 스페인어 발음이 창피하지만, 나아지는 유일한 방법은 쉬지 않고 연습하고 말하는 거라는 걸 알아요."
+    }
+   ]
+  },
+  {
+   "title": "친구에게 묻기 — ¿Qué tienes? · ¿Te pasa algo?",
+   "lines": [
+    {
+     "t": 475.5,
+     "s": "S",
+     "es": "Oye, Carlos, ¿y si veo a un amigo que está un poco triste o callado? ¿Cómo le pregunto qué le pasa usando estas palabras?",
+     "ko": "저기, 카를로스, 친구가 좀 슬퍼 보이거나 말이 없으면요? 이 단어들로 무슨 일인지 어떻게 물어봐요?"
+    },
+    {
+     "t": 483.9,
+     "s": "C",
+     "es": "Esa es una situación muy real.",
+     "ko": "아주 현실적인 상황이네요."
+    },
+    {
+     "t": 486.0,
+     "s": "C",
+     "es": "Si quieres preguntar por los sentimientos de un amigo, puedes usar una frase muy natural. Simplemente le preguntas: \"¿Qué tienes?\"",
+     "ko": "친구의 기분을 묻고 싶으면 아주 자연스러운 말이 있어요. 그냥 \"¿Qué tienes?(무슨 일 있어?)\"라고 물어보면 돼요."
+    },
+    {
+     "t": 494.5,
+     "s": "C",
+     "es": "Suena muy simple, pero en el mundo hispano, cuando preguntas \"¿qué tienes?\" con un tono suave, la otra persona entiende que le estás preguntando por sus emociones o sus problemas.",
+     "ko": "아주 간단하게 들리지만, 스페인어권에서는 부드러운 말투로 \"¿qué tienes?\"라고 물으면 상대방은 자기 기분이나 고민을 묻는다는 걸 알아들어요."
+    },
+    {
+     "t": 506.2,
+     "s": "S",
+     "es": "Solo \"¿qué tienes?\". Qué fácil. Me gusta mucho porque es corto y directo.",
+     "ko": "그냥 \"¿qué tienes?\". 정말 쉽네요. 짧고 직접적이라 아주 좋아요."
+    },
+    {
+     "t": 511.0,
+     "s": "S",
+     "es": "¿Hay alguna otra opción si quiero variar un poco mis palabras durante una Spanish conversation?",
+     "ko": "대화 중에 말을 좀 바꿔 보고 싶으면 다른 표현도 있어요?"
+    },
+    {
+     "t": 517.7,
+     "s": "C",
+     "es": "Sí, claro. Otra opción fantástica y muy auténtica es preguntar: \"¿Te pasa algo?\" Es una forma muy empática de demostrar que te importa la otra persona.",
+     "ko": "네, 물론이죠. 또 하나 아주 좋고 진짜 원어민다운 표현은 \"¿Te pasa algo?(무슨 일 있어?)\"예요. 상대를 신경 쓰고 있다는 걸 보여 주는 아주 공감 어린 표현이에요."
+    },
+    {
+     "t": 528.5,
+     "s": "C",
+     "es": "Significa que has notado que no está actuando como siempre. Tal vez está triste, preocupado o enojado, y quieres ayudar.",
+     "ko": "상대가 평소와 다르다는 걸 알아챘다는 뜻이에요. 슬프거나, 걱정되거나, 화가 났을지도 모르니 돕고 싶은 거죠."
+    },
+    {
+     "t": 537.0,
+     "s": "C",
+     "es": "Es una frase esencial para conectar de verdad con la gente.",
+     "ko": "사람들과 진심으로 연결되는 데 꼭 필요한 말이에요."
+    },
+    {
+     "t": 541.1,
+     "s": "S",
+     "es": "A mí me encanta la frase \"¿Te pasa algo?\". Suena muy natural y es perfecta para tener una buena conversación en español.",
+     "ko": "저는 \"¿Te pasa algo?\"라는 말이 정말 좋아요. 아주 자연스럽게 들리고 좋은 대화를 하기에 딱이에요."
+    },
+    {
+     "t": 549.4,
+     "s": "S",
+     "es": "Creo que usar estas expresiones hace que no parezcamos robots cuando intentamos hablar español con otras personas.",
+     "ko": "이런 표현을 쓰면 다른 사람과 스페인어로 말할 때 로봇처럼 보이지 않는 것 같아요."
+    },
+    {
+     "t": 557.3,
+     "s": "C",
+     "es": "Exacto, Sofía. Y para nuestros oyentes que buscan clases de español reales y prácticas, este es el gran secreto.",
+     "ko": "맞아요, 소피아. 그리고 실제적이고 실용적인 스페인어 수업을 찾는 청취자분들께, 이게 큰 비결이에요."
+    },
+    {
+     "t": 565.0,
+     "s": "C",
+     "es": "No solo necesitas aprender las reglas de gramática, sino que necesitas aprender a conectar emocionalmente con los demás.",
+     "ko": "문법 규칙만 배우는 게 아니라, 다른 사람과 감정적으로 연결되는 법을 배워야 해요."
+    }
+   ]
+  },
+  {
+   "title": "말하고 싶지 않을 때 — No es nada",
+   "lines": [
+    {
+     "t": 573.1,
+     "s": "S",
+     "es": "Oye, Carlos, muchas veces, cuando me preguntan \"¿Te pasa algo?\", yo no quiero hablar de mi problema en ese momento.",
+     "ko": "저기, 카를로스, 누가 \"무슨 일 있어?\"라고 물어도 그 순간엔 제 문제를 이야기하고 싶지 않을 때가 많아요."
+    },
+    {
+     "t": 580.9,
+     "s": "S",
+     "es": "¿Cómo puedo responder de forma educada si me siento triste, pero prefiero estar en silencio? Es algo muy útil para aprender español para la vida real.",
+     "ko": "슬프지만 조용히 있고 싶을 때 어떻게 예의 바르게 대답할 수 있어요? 실생활 스페인어에 아주 유용할 것 같아요."
+    },
+    {
+     "t": 591.0,
+     "s": "C",
+     "es": "Esa es una situación muy común en el español nativo. Todos necesitamos nuestro espacio a veces.",
+     "ko": "원어민 사이에서도 아주 흔한 상황이에요. 누구나 가끔은 자기만의 시간이 필요하죠."
+    },
+    {
+     "t": 598.2,
+     "s": "C",
+     "es": "Si alguien te pregunta y no quieres hablar, puedes decir simplemente: \"No es nada, solo estoy un poco cansada.\"",
+     "ko": "누가 물어봤는데 말하고 싶지 않으면 그냥 \"아무것도 아니야, 그냥 좀 피곤해서 그래\"라고 하면 돼요."
+    },
+    {
+     "t": 606.6,
+     "s": "C",
+     "es": "O también puedes usar otra opción muy educada: \"Estoy bien, gracias. Solo necesito descansar un poco.\" Son frases en español muy suaves que todos entienden.",
+     "ko": "아니면 아주 예의 바른 다른 표현도 있어요. \"괜찮아, 고마워. 그냥 좀 쉬어야 할 것 같아.\" 누구나 알아듣는 아주 부드러운 표현이에요."
+    },
+    {
+     "t": 618.3,
+     "s": "S",
+     "es": "Anotado. \"No es nada.\"",
+     "ko": "메모했어요. \"No es nada.\""
+    },
+    {
+     "t": 620.0,
+     "s": "S",
+     "es": "Es una respuesta muy fácil y extremadamente útil para nuestro Spanish vocabulary.",
+     "ko": "아주 쉽고 엄청 유용한 대답이네요."
+    },
+    {
+     "t": 626.3,
+     "s": "S",
+     "es": "Carlos, creo que hemos mencionado muchas expresiones nuevas y superimportantes hoy sobre los sentimientos. ¿Hacemos nuestra sección favorita de Español Auténtico?",
+     "ko": "카를로스, 오늘 감정에 관한 새롭고 중요한 표현을 많이 말한 것 같아요. Español Auténtico의 인기 코너를 해 볼까요?"
+    },
+    {
+     "t": 638.8,
+     "s": "C",
+     "es": "Claro que sí. Es el momento perfecto para hacer nuestro análisis de vocabulario.",
+     "ko": "물론이죠. 어휘 분석을 하기 딱 좋은 때예요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 분석 ①",
+   "lines": [
+    {
+     "t": 645.0,
+     "s": "C",
+     "es": "Esto es clave para mejorar la comprensión y hacer una buena Spanish listening practice. Vamos a repasar cinco palabras y expresiones de hoy. Empieza tú, Sofía.",
+     "ko": "이해력을 키우고 듣기 연습을 잘하는 데 핵심이에요. 오늘 나온 단어와 표현 다섯 개를 복습해 봐요. 소피아, 먼저 해요."
+    },
+    {
+     "t": 656.9,
+     "s": "S",
+     "es": "Agotado significa estar muy, muy cansado, casi sin nada de energía. Es un adjetivo que usamos siempre con el verbo estar. Por ejemplo, puedes decir: \"Estoy agotado después de tanto trabajo en la oficina.\"",
+     "ko": "agotado는 아주아주 피곤해서 기운이 거의 없다는 뜻이에요. 항상 estar와 함께 쓰는 형용사예요. 예를 들어 \"사무실에서 일을 너무 많이 해서 녹초가 됐어\"라고 할 수 있어요."
+    },
+    {
+     "t": 672.2,
+     "s": "S",
+     "es": "Emocionada.",
+     "ko": "Emocionada(신난)."
+    },
+    {
+     "t": 673.0,
+     "s": "S",
+     "es": "Es un estado temporal de alegría y mucha ilusión por algo bueno que va a pasar, como un viaje o una fiesta.",
+     "ko": "여행이나 파티처럼 곧 일어날 좋은 일 때문에 기쁘고 아주 설레는 일시적인 상태예요."
+    },
+    {
+     "t": 680.1,
+     "s": "S",
+     "es": "Recuerden que en el español para extranjeros a veces hay confusión, pero no usamos la palabra \"excitado\" para esto; usamos \"emocionado\".",
+     "ko": "외국인들이 가끔 헷갈리는데, 이럴 때는 \"excitado\"를 쓰지 않고 \"emocionado\"를 쓴다는 걸 기억하세요."
+    },
+    {
+     "t": 689.1,
+     "s": "S",
+     "es": "Sentirse es un verbo reflexivo que usamos mucho para expresar cómo nos sentimos física o mentalmente en un momento específico. Por ejemplo: me siento muy feliz, te sientes un poco triste o nos sentimos seguros.",
+     "ko": "sentirse는 특정한 순간에 몸이나 마음으로 어떻게 느끼는지 표현할 때 많이 쓰는 재귀동사예요. 예를 들어 me siento muy feliz(정말 행복해), te sientes un poco triste(너는 좀 슬프구나), nos sentimos seguros(우리는 자신 있어)."
+    },
+    {
+     "t": 703.0,
+     "s": "S",
+     "es": "Tener miedo es la expresión correcta y natural para decir que algo te asusta mucho. Es fundamental recordar que con los sustantivos de sensaciones como miedo, hambre o frío no usamos el verbo estar; usamos siempre el verbo tener.",
+     "ko": "tener miedo는 무언가가 아주 무섭다고 말하는 올바르고 자연스러운 표현이에요. miedo, hambre, frío 같은 감각 명사에는 estar가 아니라 항상 tener를 쓴다는 걸 꼭 기억하세요."
+    },
+    {
+     "t": 719.4,
+     "s": "S",
+     "es": "¿Qué tienes? Es una pregunta muy corta, muy directa, pero a la vez muy amable. La usamos para preguntar a otra persona sobre sus sentimientos cuando vemos que está triste, preocupada, callada o enferma.",
+     "ko": "¿Qué tienes? 아주 짧고 직접적이지만 동시에 아주 다정한 질문이에요. 상대가 슬프거나, 걱정 있거나, 말이 없거나, 아파 보일 때 기분을 묻는 말이에요."
+    },
+    {
+     "t": 733.9,
+     "s": "C",
+     "es": "Un excelente análisis, Sofía.",
+     "ko": "훌륭한 분석이에요, 소피아."
+    },
+    {
+     "t": 736.0,
+     "s": "C",
+     "es": "Escuchar y repetir estas cinco expresiones es la mejor estrategia si buscas how to learn Spanish de forma verdaderamente natural.",
+     "ko": "정말 자연스럽게 배우는 법을 찾는다면, 이 다섯 표현을 듣고 따라 하는 게 최고의 전략이에요."
+    },
+    {
+     "t": 744.1,
+     "s": "C",
+     "es": "Muchos estudiantes de español A1 cometen el error de escribir listas largas en un cuaderno, pero es mucho mejor aprender en contexto y escuchando.",
+     "ko": "A1 학생들은 공책에 긴 단어 목록을 쓰는 실수를 많이 하는데, 맥락 속에서 들으면서 배우는 게 훨씬 좋아요."
+    },
+    {
+     "t": 753.3,
+     "s": "S",
+     "es": "Tienes mucha razón en eso. Cuando yo era estudiante principiante, memorizaba listas interminables de palabras, pero al final mi mente se quedaba en blanco y no sabía cómo usarlas en una verdadera Spanish conversation.",
+     "ko": "그 말 정말 맞아요. 저도 초보였을 때 끝도 없는 단어 목록을 외웠는데, 결국 머리가 하얘져서 실제 대화에서는 어떻게 써야 할지 몰랐어요."
+    },
+    {
+     "t": 767.0,
+     "s": "S",
+     "es": "Aprender en contexto, exactamente como hacemos en este podcast, es muchísimo más efectivo y divertido.",
+     "ko": "이 팟캐스트에서 하는 것처럼 맥락 속에서 배우는 게 훨씬 효과적이고 재미있어요."
+    },
+    {
+     "t": 774.6,
+     "s": "C",
+     "es": "Así es. Por eso siempre recomendamos a nuestra gran comunidad que escuchen el episodio varias veces. La repetición es magia pura para el cerebro.",
+     "ko": "맞아요. 그래서 저희는 항상 에피소드를 여러 번 들으라고 권해요. 반복은 뇌에 순수한 마법이에요."
+    },
+    {
+     "t": 785.4,
+     "s": "C",
+     "es": "Si escuchas cómo usamos el verbo estar, el verbo sentirse y el verbo tener para las emociones en situaciones reales, pronto lo harás de forma automática, sin pensar en tu idioma materno.",
+     "ko": "실제 상황에서 감정에 estar, sentirse, tener를 어떻게 쓰는지 들으면, 곧 모국어로 생각하지 않고 자동으로 말하게 될 거예요."
+    },
+    {
+     "t": 799.3,
+     "s": "S",
+     "es": "Es verdad.",
+     "ko": "맞아요."
+    }
+   ]
+  },
+  {
+   "title": "ser vs estar — 성격일까, 지금 기분일까?",
+   "lines": [
+    {
+     "t": 800.0,
+     "s": "S",
+     "es": "Escuchar y repetir es el mejor truco para aprender español rápido y de forma natural.",
+     "ko": "듣고 따라 하는 게 스페인어를 빠르고 자연스럽게 배우는 최고의 요령이에요."
+    },
+    {
+     "t": 805.4,
+     "s": "S",
+     "es": "Y, hablando de trucos para mejorar nuestra conversación en español, Carlos, hay algo que siempre me confunde mucho cuando intento hablar sobre mis propias emociones.",
+     "ko": "그리고 회화 실력을 늘리는 요령 이야기가 나와서 말인데, 카를로스, 제 감정을 말하려고 할 때마다 늘 헷갈리는 게 있어요."
+    },
+    {
+     "t": 816.0,
+     "s": "C",
+     "es": "Cuéntame, Sofía; para eso estamos aquí, en nuestras clases de español. ¿Cuál es esa duda que tienes? Seguro que muchos de nuestros oyentes piensan lo mismo.",
+     "ko": "말해 봐요, 소피아. 그러려고 수업하는 거잖아요. 어떤 게 궁금해요? 분명 많은 청취자도 같은 생각일 거예요."
+    },
+    {
+     "t": 826.0,
+     "s": "S",
+     "es": "Pues ya sabemos que usamos el verbo estar para expresar emociones temporales, como \"estoy triste\" o \"estoy cansada\".",
+     "ko": "감정이 일시적일 때는 \"estoy triste\", \"estoy cansada\"처럼 estar를 쓴다는 건 이제 알아요."
+    },
+    {
+     "t": 835.3,
+     "s": "S",
+     "es": "Pero a veces, cuando hago mi Spanish listening practice, escucho a los nativos usar el verbo ser con palabras de sentimientos. Por ejemplo, dicen \"soy una persona alegre\" o \"estoy alegre\". ¿Cuál es la diferencia real en el español nativo?",
+     "ko": "그런데 가끔 듣기 연습을 하다 보면 원어민들이 감정 단어에 ser를 쓰는 게 들려요. 예를 들어 \"soy una persona alegre\" 또는 \"estoy alegre\"라고 하죠. 실제로 무슨 차이가 있어요?"
+    },
+    {
+     "t": 854.4,
+     "s": "C",
+     "es": "Ah, esa es una de las preguntas más maravillosas y útiles sobre la lengua española.",
+     "ko": "아, 그건 스페인어에 관한 가장 멋지고 유용한 질문 중 하나예요."
+    },
+    {
+     "t": 861.0,
+     "s": "C",
+     "es": "Es un tema clásico en el español para principiantes, pero te aseguro que también es fundamental para el español avanzado. La diferencia cambia por completo el significado de la frase.",
+     "ko": "초급 스페인어의 단골 주제지만, 고급 스페인어에서도 정말 중요해요. 이 차이로 문장의 의미가 완전히 바뀌거든요."
+    },
+    {
+     "t": 874.3,
+     "s": "C",
+     "es": "Como bien dijimos antes, estar es para un sentimiento en este momento exacto, pero ser es para hablar de tu personalidad, de tu forma de ser.",
+     "ko": "아까 말했듯이 estar는 바로 지금 이 순간의 감정이고, ser는 성격, 즉 그 사람의 됨됨이를 말할 때 써요."
+    },
+    {
+     "t": 884.5,
+     "s": "S",
+     "es": "Entiendo perfectamente. Entonces, si yo digo \"estoy alegre\", significa que hoy, en este momento, me siento feliz por algo que pasó.",
+     "ko": "완벽하게 이해했어요. 그러니까 \"estoy alegre\"라고 하면 오늘, 지금 이 순간 무슨 일 때문에 기분이 좋다는 뜻이고요."
+    },
+    {
+     "t": 894.0,
+     "s": "S",
+     "es": "Pero si digo \"soy alegre\", significa que mi personalidad es positiva casi siempre en mi vida diaria. ¿Es correcto?",
+     "ko": "\"soy alegre\"라고 하면 제 성격이 일상에서 거의 늘 밝다는 뜻이죠. 맞아요?"
+    },
+    {
+     "t": 900.8,
+     "s": "C",
+     "es": "Perfecto. Lo has explicado de maravilla. Eres una excelente estudiante, y esto pasa con muchísimas palabras de nuestro vocabulario español. Otro ejemplo muy común en la vida real es la palabra nervioso.",
+     "ko": "완벽해요. 정말 훌륭하게 설명했어요. 정말 뛰어난 학생이네요. 그리고 이건 아주 많은 스페인어 단어에서 일어나요. 실생활에서 아주 흔한 또 다른 예는 nervioso예요."
+    },
+    {
+     "t": 912.8,
+     "s": "S",
+     "es": "Oh, sí. Antes te dije: \"Estoy nerviosa por mi pronunciación española al grabar este podcast.\" Eso es totalmente temporal.",
+     "ko": "아, 네. 아까 \"이 팟캐스트를 녹음하면서 제 발음 때문에 긴장돼요\"라고 했잖아요. 그건 완전히 일시적인 거고요."
+    },
+    {
+     "t": 920.0,
+     "s": "S",
+     "es": "Pero mi hermana, por ejemplo, siempre se preocupa por absolutamente todo, todos los días. Entonces, de ella puedo decir: \"Ella es muy nerviosa.\"",
+     "ko": "그런데 예를 들어 제 언니는 매일 정말 모든 일을 걱정해요. 그러니까 언니에 대해서는 \"Ella es muy nerviosa(그녀는 아주 예민한 성격이야)\"라고 할 수 있죠."
+    },
+    {
+     "t": 931.0,
+     "s": "C",
+     "es": "Exactamente. Tu hermana tiene un carácter nervioso; es parte de su personalidad. Tú solo sientes nervios temporales por el idioma.",
+     "ko": "바로 그거예요. 언니는 예민한 성격이고, 그게 성격의 일부예요. 당신은 언어 때문에 잠깐 긴장하는 거고요."
+    },
+    {
+     "t": 941.0,
+     "s": "C",
+     "es": "Hay una palabra más que cambia drásticamente y es vital para la Spanish conversation: la palabra aburrido.",
+     "ko": "의미가 확 바뀌는, 회화에 아주 중요한 단어가 하나 더 있어요. aburrido예요."
+    },
+    {
+     "t": 948.0,
+     "s": "S",
+     "es": "Aburrido. Yo uso mucho esa palabra cuando no tengo nada que hacer y quiero mejorar mi español viendo la televisión. Yo digo: \"Estoy aburrida.\"",
+     "ko": "Aburrido. 저는 할 일이 없어서 TV를 보며 스페인어 공부를 하고 싶을 때 그 단어를 많이 써요. \"Estoy aburrida(심심해)\"라고 하죠."
+    },
+    {
+     "t": 957.3,
+     "s": "C",
+     "es": "Y lo dices muy bien. Estar aburrido significa que en este momento no te diviertes; sientes aburrimiento. En inglés sería I am bored.",
+     "ko": "아주 잘 말했어요. estar aburrido는 지금 재미가 없다, 지루함을 느낀다는 뜻이에요. 영어로는 I am bored예요."
+    },
+    {
+     "t": 966.0,
+     "s": "C",
+     "es": "Pero, por favor, todos los que nos escuchan, tengan mucho cuidado con decir \"soy aburrido\" o \"soy aburrida\".",
+     "ko": "그런데 듣고 계신 여러분, \"soy aburrido\"나 \"soy aburrida\"라고 말하는 건 정말 조심하세요."
+    },
+    {
+     "t": 974.2,
+     "s": "S",
+     "es": "¿Por qué? ¿Qué significa \"soy aburrida\"? Suena un poco mal, por tu tono de voz.",
+     "ko": "왜요? \"soy aburrida\"는 무슨 뜻이에요? 말투를 들으니 좀 안 좋은 뜻 같아요."
+    },
+    {
+     "t": 980.2,
+     "s": "C",
+     "es": "Sí, el significado es muy diferente. Ser aburrido significa que tú eres una persona que no es divertida, que no tiene temas de conversación. En inglés sería I am boring.",
+     "ko": "네, 뜻이 아주 달라요. ser aburrido는 재미없는 사람, 대화거리가 없는 사람이라는 뜻이에요. 영어로는 I am boring이죠."
+    },
+    {
+     "t": 993.0,
+     "s": "C",
+     "es": "Si le dices a un amigo nativo \"soy aburrida\", él va a pensar que tienes una personalidad muy poco interesante.",
+     "ko": "원어민 친구에게 \"soy aburrida\"라고 하면, 당신이 아주 재미없는 성격이라고 생각할 거예요."
+    },
+    {
+     "t": 999.9,
+     "s": "S",
+     "es": "¡Qué horror! Definitivamente no quiero decir eso en mis Spanish lessons. \"Estoy aburrida\" es un sentimiento temporal y normal; \"soy aburrida\" es tener una mala personalidad. Es un consejo de oro para nuestro vocabulario.",
+     "ko": "끔찍해라! 절대 그런 말은 하고 싶지 않아요. \"Estoy aburrida\"는 일시적이고 평범한 감정이고, \"soy aburrida\"는 성격이 별로라는 거네요. 어휘 공부에 황금 같은 팁이에요."
+    },
+    {
+     "t": 1013.6,
+     "s": "C",
+     "es": "Así es.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 1014.0,
+     "s": "C",
+     "es": "Estos pequeños detalles hacen una gran diferencia cuando queremos aprender español de verdad.",
+     "ko": "스페인어를 제대로 배우고 싶을 때는 이런 작은 디테일이 큰 차이를 만들어요."
+    },
+    {
+     "t": 1020.1,
+     "s": "C",
+     "es": "¿Qué te parece si hacemos una rápida sección de análisis de estas palabras tan importantes, para fijarlas en la memoria de todos los que buscan how to learn Spanish paso a paso?",
+     "ko": "차근차근 배우고 싶은 모든 분의 기억에 남도록, 이 중요한 단어들을 빠르게 분석해 보는 건 어때요?"
+    },
+    {
+     "t": 1031.6,
+     "s": "S",
+     "es": "Es una idea genial. Vamos a repasar estas palabras clave para no confundir emociones con personalidad. Yo empiezo.",
+     "ko": "좋은 생각이에요. 감정과 성격을 헷갈리지 않도록 핵심 단어를 복습해 봐요. 제가 먼저 할게요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 분석 ② ser / estar",
+   "lines": [
+    {
+     "t": 1039.0,
+     "s": "S",
+     "es": "Ser alegre significa tener una personalidad feliz y positiva casi todo el tiempo. Es parte del carácter de una persona; no es solo un sentimiento de hoy.",
+     "ko": "ser alegre는 거의 언제나 밝고 긍정적인 성격이라는 뜻이에요. 그 사람 성격의 일부이고, 오늘만의 기분이 아니에요."
+    },
+    {
+     "t": 1050.5,
+     "s": "S",
+     "es": "Estar alegre es sentir felicidad o mucha alegría en un momento específico, tal vez por una buena noticia o un día hermoso. Es un estado temporal, como todos los sentimientos con el verbo estar.",
+     "ko": "estar alegre는 좋은 소식이나 아름다운 날씨 때문에 특정한 순간에 행복하고 아주 기쁜 거예요. estar를 쓰는 모든 감정처럼 일시적인 상태예요."
+    },
+    {
+     "t": 1065.0,
+     "s": "S",
+     "es": "Ser nervioso se usa para describir a una persona que normalmente se preocupa por todo, que vive con tensión o estrés como parte natural de su forma de ser.",
+     "ko": "ser nervioso는 평소에 모든 걸 걱정하고, 긴장과 스트레스가 성격의 일부인 사람을 묘사할 때 써요."
+    },
+    {
+     "t": 1074.8,
+     "s": "S",
+     "es": "Estar aburrido es la emoción que sentimos cuando no tenemos nada interesante que hacer: cuando esperamos el autobús o cuando vemos una película muy mala. Es un sentimiento totalmente temporal.",
+     "ko": "estar aburrido는 버스를 기다리거나 아주 재미없는 영화를 볼 때처럼, 할 만한 재미있는 일이 없을 때 느끼는 감정이에요. 완전히 일시적인 감정이죠."
+    },
+    {
+     "t": 1086.9,
+     "s": "S",
+     "es": "Ser aburrido es describir a una persona, una clase o un libro que no tiene nada de diversión y no es interesante. Cuidado con no confundirlo al hablar sobre ti mismo.",
+     "ko": "ser aburrido는 전혀 재미없고 흥미롭지 않은 사람, 수업, 책을 묘사하는 말이에요. 자기 자신에 대해 말할 때 헷갈리지 않게 조심하세요."
+    },
+    {
+     "t": 1097.4,
+     "s": "C",
+     "es": "Excelente trabajo, Sofía.",
+     "ko": "훌륭해요, 소피아."
+    },
+    {
+     "t": 1099.0,
+     "s": "C",
+     "es": "Escuchar estas sutiles diferencias es vital para tu Spanish listening.",
+     "ko": "이런 미묘한 차이를 알아듣는 게 듣기 실력에 정말 중요해요."
+    },
+    {
+     "t": 1104.6,
+     "s": "C",
+     "es": "Si todos practican estos pequeños ejemplos en voz alta en casa, notarán que su nivel al escuchar español y al hablarlo con otras personas mejora de forma increíble y mucho más natural.",
+     "ko": "모두 집에서 이 짧은 예문들을 소리 내어 연습하면, 스페인어를 듣고 다른 사람과 말하는 실력이 놀랍도록, 훨씬 자연스럽게 느는 걸 느낄 거예요."
+    },
+    {
+     "t": 1119.2,
+     "s": "S",
+     "es": "Es increíble cómo cambia el significado, Carlos.",
+     "ko": "의미가 이렇게 바뀌다니 놀라워요, 카를로스."
+    }
+   ]
+  },
+  {
+   "title": "갑자기 바뀌는 기분 — ponerse",
+   "lines": [
+    {
+     "t": 1123.0,
+     "s": "S",
+     "es": "Prometo que nunca voy a decir \"soy aburrida\" en mis próximas clases de español. Pero ahora tengo una última duda sobre los sentimientos.",
+     "ko": "다음 수업에서는 절대 \"soy aburrida\"라고 하지 않겠다고 약속해요. 그런데 이제 감정에 관해 마지막으로 하나 궁금한 게 있어요."
+    },
+    {
+     "t": 1132.0,
+     "s": "S",
+     "es": "¿Qué pasa cuando una emoción llega de repente? Por ejemplo, si recibo una buena noticia y mi estado de ánimo cambia muy rápido en ese preciso segundo, ¿uso el verbo estar?",
+     "ko": "감정이 갑자기 찾아올 때는요? 예를 들어 좋은 소식을 듣고 바로 그 순간 기분이 확 바뀌면, 그때도 estar를 써요?"
+    },
+    {
+     "t": 1143.4,
+     "s": "C",
+     "es": "Esa es una pregunta digna de español avanzado, pero muy fácil de entender para todos.",
+     "ko": "고급 스페인어 수준의 질문이지만, 누구나 쉽게 이해할 수 있어요."
+    },
+    {
+     "t": 1149.0,
+     "s": "C",
+     "es": "Cuando una emoción cambia de repente, como una reacción inmediata a algo, usamos el verbo ponerse. Es un verbo reflexivo fantástico para nuestra conversación en español diaria.",
+     "ko": "무언가에 대한 즉각적인 반응처럼 감정이 갑자기 바뀔 때는 ponerse를 써요. 일상 회화에 아주 좋은 재귀동사예요."
+    },
+    {
+     "t": 1161.2,
+     "s": "C",
+     "es": "Decimos ponerse feliz, ponerse triste o ponerse nervioso.",
+     "ko": "ponerse feliz(기뻐지다), ponerse triste(슬퍼지다), ponerse nervioso(긴장하게 되다)라고 해요."
+    },
+    {
+     "t": 1165.2,
+     "s": "S",
+     "es": "Ah, ponerse. Entonces, si mi jefe me dice que tengo más trabajo el viernes por la tarde, yo no digo \"estoy enojada\", sino \"me pongo enojada\", porque es una reacción rápida e inesperada.",
+     "ko": "아, ponerse. 그러니까 금요일 오후에 상사가 일이 더 있다고 하면 \"estoy enojada\"가 아니라 \"me pongo enojada(화가 나)\"라고 하는 거네요. 빠르고 예상치 못한 반응이니까요."
+    },
+    {
+     "t": 1178.0,
+     "s": "S",
+     "es": "O si veo un perrito muy lindo en la calle, me pongo feliz. Qué interesante para ampliar nuestro vocabulario español.",
+     "ko": "아니면 길에서 아주 귀여운 강아지를 보면 me pongo feliz(기분이 좋아져요). 어휘를 넓히기에 정말 흥미롭네요."
+    },
+    {
+     "t": 1187.1,
+     "s": "C",
+     "es": "Lo has entendido a la perfección, Sofía. \"Me pongo feliz\" es exactamente lo que decimos en el español nativo.",
+     "ko": "완벽하게 이해했어요, 소피아. \"Me pongo feliz\"가 바로 원어민들이 하는 말이에요."
+    },
+    {
+     "t": 1195.7,
+     "s": "C",
+     "es": "Este pequeño detalle marca una gran diferencia cuando quieres hablar español con naturalidad.",
+     "ko": "자연스럽게 스페인어를 말하고 싶을 때 이 작은 디테일이 큰 차이를 만들어요."
+    }
+   ]
+  },
+  {
+   "title": "오늘의 연습과 마무리",
+   "lines": [
+    {
+     "t": 1203.0,
+     "s": "C",
+     "es": "Si escuchas nuestro podcast con atención, notarás que usamos el verbo ponerse muchísimas veces.",
+     "ko": "저희 팟캐스트를 잘 들어 보면 ponerse를 정말 많이 쓴다는 걸 알게 될 거예요."
+    },
+    {
+     "t": 1209.7,
+     "s": "S",
+     "es": "Me gusta mucho. Creo que aprender a expresar exactamente lo que sentimos es la mejor manera de conectar con las personas en otro idioma.",
+     "ko": "정말 좋아요. 느끼는 걸 정확히 표현하는 법을 배우는 게 다른 언어로 사람들과 연결되는 가장 좋은 방법 같아요."
+    },
+    {
+     "t": 1219.3,
+     "s": "S",
+     "es": "Carlos, para todos los estudiantes de español para extranjeros que nos están escuchando ahora mismo, ¿cuál es el mejor consejo para practicar todo este vocabulario hoy mismo?",
+     "ko": "카를로스, 지금 듣고 계신 학생들이 오늘 바로 이 어휘를 연습하려면 어떤 게 제일 좋을까요?"
+    },
+    {
+     "t": 1231.5,
+     "s": "C",
+     "es": "Mi mejor consejo para mejorar tu Spanish language es muy simple.",
+     "ko": "제 최고의 팁은 아주 간단해요."
+    },
+    {
+     "t": 1236.0,
+     "s": "C",
+     "es": "Hoy, durante tu rutina, pregúntate a ti mismo en voz alta: \"¿Cómo me siento en este momento?\" Y responde en español: usa \"tengo hambre\", \"estoy cansado\" o \"me pongo feliz\".",
+     "ko": "오늘 일상 속에서 소리 내어 스스로에게 물어보세요. \"지금 나는 기분이 어떻지?\" 그리고 스페인어로 대답하세요. \"tengo hambre\", \"estoy cansado\", \"me pongo feliz\"를 써서요."
+    },
+    {
+     "t": 1246.4,
+     "s": "C",
+     "es": "Es una excelente Spanish listening practice interna y te ayuda a pensar directamente en el idioma, sin traducir.",
+     "ko": "머릿속으로 하는 훌륭한 듣기 연습이고, 번역하지 않고 바로 스페인어로 생각하는 데 도움이 돼요."
+    },
+    {
+     "t": 1253.2,
+     "s": "S",
+     "es": "Es un ejercicio genial. Lo voy a hacer hoy mismo durante mi viaje a la montaña.",
+     "ko": "좋은 연습이네요. 오늘 산에 가면서 바로 해 볼게요."
+    },
+    {
+     "t": 1258.0,
+     "s": "S",
+     "es": "Y para todos los que nos escuchan: queremos leerlos. Por favor, vayan a los comentarios aquí abajo y escriban una oración usando una de las palabras que aprendimos hoy.",
+     "ko": "그리고 듣고 계신 여러분, 여러분의 글을 읽고 싶어요. 아래 댓글에 오늘 배운 단어 하나를 써서 문장을 써 주세요."
+    },
+    {
+     "t": 1270.9,
+     "s": "S",
+     "es": "Cuéntennos: ¿cómo se sienten hoy? ¿Están emocionados? ¿Están agotados? O tal vez tienen hambre.",
+     "ko": "알려 주세요. 오늘 기분이 어떠세요? 신나세요? 지치셨어요? 아니면 배가 고프신가요?"
+    },
+    {
+     "t": 1278.2,
+     "s": "C",
+     "es": "Exacto. Queremos conocerlos mejor y leer sus frases en español.",
+     "ko": "맞아요. 여러분을 더 알고 싶고, 여러분의 스페인어 문장을 읽고 싶어요."
+    },
+    {
+     "t": 1283.0,
+     "s": "C",
+     "es": "Leer los comentarios de nuestra comunidad es algo que siempre nos pone muy felices. Y recuerden: si este Spanish podcast les ayuda a mejorar cada día y disfrutan de nuestras charlas, por favor, suscríbanse al canal.",
+     "ko": "커뮤니티의 댓글을 읽는 건 언제나 저희를 행복하게 해요. 그리고 기억하세요. 이 팟캐스트가 매일 실력을 키우는 데 도움이 되고 저희 대화가 즐거우시다면 채널을 구독해 주세요."
+    },
+    {
+     "t": 1298.4,
+     "s": "S",
+     "es": "Sí, su suscripción y sus me gustas son superimportantes para nosotros. Le indican a la plataforma que estas Spanish lessons son útiles, nos ayudan a crecer muchísimo y nos motivan a seguir creando más contenido gratuito para ustedes.",
+     "ko": "네, 여러분의 구독과 '좋아요'는 저희에게 정말 중요해요. 이 수업이 유용하다고 플랫폼에 알려 주고, 저희가 크게 성장하게 도와주고, 무료 콘텐츠를 계속 만들 힘이 돼요."
+    },
+    {
+     "t": 1315.0,
+     "s": "S",
+     "es": "Aprender español puede ser un gran desafío, pero juntos es mucho más divertido. No olviden suscribirse y dejar su me gusta antes de irse.",
+     "ko": "스페인어 공부는 큰 도전일 수 있지만, 함께하면 훨씬 재미있어요. 가시기 전에 구독과 '좋아요' 잊지 마세요."
+    },
+    {
+     "t": 1322.9,
+     "s": "C",
+     "es": "Muchísimas gracias, Sofía, por tus preguntas tan útiles, y muchísimas gracias a todos por acompañarnos hoy en Español Auténtico.",
+     "ko": "유용한 질문 고마워요, 소피아. 그리고 오늘 Español Auténtico와 함께해 주신 모든 분께 정말 감사해요."
+    },
+    {
+     "t": 1330.4,
+     "s": "C",
+     "es": "Sigan practicando, traten de escuchar español todos los días y no tengan miedo de expresar sus emociones reales. Nos escuchamos muy pronto. Un gran abrazo para todos.",
+     "ko": "계속 연습하고, 매일 스페인어를 들으려고 노력하고, 진짜 감정을 표현하는 걸 두려워하지 마세요. 곧 또 만나요. 모두에게 큰 포옹을 보내요."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+  "lang": "es",
+  "date": "2026-10-19",
+  "title": "스페인어로 감정 표현하기",
+  "es": "¿Cómo te sientes hoy? — Estoy agotado.",
+  "emoji": "😊",
+  "level": "A1–A2",
+  "channel": "Español Auténtico",
+  "videoTitle": "How to Express Feelings in Spanish | Spanish for Beginners",
+  "youtube": "96JF3XN_9SI",
+  "duration": "22:20",
+  "speakers": { "S": "Sofía", "C": "Carlos" },
+  "summary": "기분은 estar와 sentirse, 몸의 감각과 두려움은 tener, 성격은 ser, 갑자기 바뀌는 기분은 ponerse로 말해요. 친구에게 \"¿Qué tienes?\"라고 묻고 \"No es nada\"라고 답하는 법까지 배워요.",
+  "topics": [
+    "estar + 감정: estoy agotado / emocionada",
+    "sentirse: me siento nerviosa",
+    "tener + 명사: tengo miedo · tengo vergüenza",
+    "¿Qué tienes? · ¿Te pasa algo? · No es nada",
+    "ser vs estar: soy aburrido ≠ estoy aburrido",
+    "ponerse: me pongo feliz"
+  ],
+  "grammar": [
+    {
+      "title": "① 감정을 말하는 4가지 동사",
+      "lead": "스페인어는 감정의 <b>종류와 지속 시간</b>에 따라 동사를 골라 써요.",
+      "table": {
+        "head": ["동사", "언제?", "예문"],
+        "rows": [
+          ["estar + 형용사", "지금 이 순간의 기분 (일시적)", "Estoy agotado."],
+          ["sentirse + 형용사", "estar와 비슷, '~하게 느껴'", "Me siento nerviosa."],
+          ["tener + 명사", "몸의 감각, 두려움·창피함", "Tengo miedo."],
+          ["ser + 형용사", "성격, 원래 그런 사람", "Soy alegre."],
+          ["ponerse + 형용사", "갑자기 그렇게 되는 반응", "Me pongo feliz."]
+        ]
+      },
+      "tip": "감정 형용사는 주어의 성에 맞춰요: Carlos está agotado / Sofía está agotada · emocionado / emocionada."
+    },
+    {
+      "title": "② estar — 감정은 바뀌니까",
+      "lead": "감정과 기분은 계속 바뀌고 영원하지 않아요. 그래서 <b>estar</b>를 써요.",
+      "examples": [
+        ["Hoy estoy agotado, pero mañana voy a estar lleno de energía.", "오늘은 녹초지만 내일은 에너지가 넘칠 거야."],
+        ["Estoy emocionada por mi viaje de fin de semana.", "주말 여행 때문에 신나."],
+        ["El lunes por la mañana voy a estar un poco triste.", "월요일 아침엔 좀 우울할 거야."],
+        ["Estar triste · estar feliz · estar preocupado · estar estresado", "슬프다 · 행복하다 · 걱정되다 · 스트레스받다"]
+      ],
+      "tip": "영어 excited는 emocionado/a예요. excitado는 성적인 의미로 들릴 수 있어서 쓰지 않아요!"
+    },
+    {
+      "title": "③ sentirse — '~하게 느껴'",
+      "lead": "재귀동사라서 대명사 me · te · se · nos를 붙여요. estar처럼 지금의 감정을 자연스럽게 표현해요.",
+      "table": {
+        "head": ["주어", "sentirse", "예문"],
+        "rows": [
+          ["yo", "me siento", "Me siento muy feliz."],
+          ["tú", "te sientes", "Te sientes un poco triste."],
+          ["él / ella", "se siente", "Se siente estresado."],
+          ["nosotros", "nos sentimos", "Nos sentimos seguros."]
+        ]
+      },
+      "tip": "과거의 감정은 불완료 과거로: Me sentía muy insegura al hablar. (말할 때 정말 자신이 없었어)"
+    },
+    {
+      "title": "④ tener — 감각 명사에는 estar ✗",
+      "lead": "miedo, hambre, frío, vergüenza는 <b>명사</b>예요. 그래서 estar가 아니라 <b>tener</b>를 써요.",
+      "examples": [
+        ["Tengo hambre. (✗ Estoy hambre)", "배고파."],
+        ["Tengo miedo de equivocarme. (✗ Estoy miedoso)", "틀릴까 봐 무서워."],
+        ["A veces tengo vergüenza de mi pronunciación.", "가끔 내 발음이 창피해."],
+        ["Cuando tengo mucha hambre, me pongo de muy mal humor.", "배가 많이 고프면 기분이 아주 나빠져."]
+      ]
+    },
+    {
+      "title": "⑤ ser vs estar — 성격일까, 지금 기분일까?",
+      "lead": "같은 형용사도 동사에 따라 뜻이 완전히 달라져요.",
+      "table": {
+        "head": ["형용사", "ser (성격)", "estar (지금 기분)"],
+        "rows": [
+          ["alegre", "밝은 성격이다", "(지금) 기분이 좋다"],
+          ["nervioso/a", "예민한 성격이다", "(지금) 긴장된다"],
+          ["aburrido/a", "재미없는 사람이다 (I'm boring)", "심심하다, 지루하다 (I'm bored)"]
+        ]
+      },
+      "tip": "⚠️ 심심할 때 \"Soy aburrida\"라고 하면 '나는 재미없는 사람이야'가 돼요. 꼭 \"Estoy aburrida\"!"
+    },
+    {
+      "title": "⑥ ponerse — 기분이 갑자기 바뀔 때",
+      "lead": "어떤 일에 대한 <b>즉각적인 반응</b>으로 감정이 바뀌면 ponerse(~하게 되다)를 써요.",
+      "examples": [
+        ["Si veo un perrito muy lindo en la calle, me pongo feliz.", "길에서 귀여운 강아지를 보면 기분이 좋아져."],
+        ["Si mi jefe me da más trabajo el viernes, me pongo enojada.", "금요일에 상사가 일을 더 주면 화가 나."],
+        ["Me pongo nervioso cuando hablo en público.", "사람들 앞에서 말하면 긴장돼."],
+        ["Leer sus comentarios siempre nos pone muy felices.", "여러분의 댓글을 읽으면 늘 아주 행복해져요."]
+      ],
+      "tip": "ponerse 현재형: me pongo · te pones · se pone · nos ponemos · se ponen"
+    },
+    {
+      "title": "⑦ 친구에게 묻고 답하기",
+      "lead": "평소와 다른 친구에게 다정하게 물어보고, 말하고 싶지 않을 때 예의 바르게 넘기는 표현이에요.",
+      "examples": [
+        ["¿Qué tienes?", "무슨 일 있어? (부드러운 말투로)"],
+        ["¿Te pasa algo?", "무슨 일 있어? (걱정해 주는 느낌)"],
+        ["¿Cómo te sientes hoy?", "오늘 기분 어때?"],
+        ["No es nada, solo estoy un poco cansada.", "아무것도 아니야, 그냥 좀 피곤해서."],
+        ["Estoy bien, gracias. Solo necesito descansar un poco.", "괜찮아, 고마워. 그냥 좀 쉬어야겠어."]
+      ]
+    }
+  ],
+  "phrases": [
+    ["¿Cómo estás hoy? — La verdad es que hoy estoy un poco agotado.", "오늘 어때? — 사실 오늘은 좀 지쳤어."],
+    ["Me siento bastante estresado por un proyecto.", "프로젝트 때문에 스트레스를 꽤 받고 있어."],
+    ["Me siento muy emocionada. Hoy es viernes.", "정말 신나. 오늘 금요일이잖아."],
+    ["Me siento nerviosa y tengo miedo de equivocarme.", "긴장되고 틀릴까 봐 무서워."],
+    ["Si no almuerzo a tiempo, me siento muy enfadada.", "제때 점심을 안 먹으면 정말 짜증 나."],
+    ["Oye, ¿te pasa algo?", "저기, 무슨 일 있어?"],
+    ["No es nada, solo estoy un poco cansada.", "아무것도 아니야, 그냥 좀 피곤해."],
+    ["Estoy aburrida. (✗ Soy aburrida)", "심심해."],
+    ["Mi hermana es muy nerviosa.", "우리 언니는 아주 예민한 성격이야."],
+    ["Me pongo feliz cuando veo un perrito.", "강아지를 보면 기분이 좋아져."],
+    ["¿Cómo me siento en este momento?", "지금 나는 기분이 어떻지?"]
+  ],
+  "vocab": [
+    { "es": "el sentimiento", "ko": "감정, 기분", "ex": "Cómo hablar de nuestros sentimientos y emociones.", "exKo": "우리의 감정과 기분을 말하는 법." },
+    { "es": "agotado/a", "ko": "녹초가 된, 기진맥진한", "ex": "Estoy agotado después de tanto trabajo.", "exKo": "일을 너무 많이 해서 녹초야." },
+    { "es": "estresado/a", "ko": "스트레스받은", "ex": "Me siento bastante estresado por un proyecto.", "exKo": "프로젝트 때문에 꽤 스트레스받아." },
+    { "es": "emocionado/a", "ko": "신난, 설레는 (= excited)", "ex": "Me siento muy emocionada.", "exKo": "정말 신나." },
+    { "es": "animado/a", "ko": "기운이 나는, 활기찬", "ex": "Por eso me siento tan animada hoy.", "exKo": "그래서 오늘 이렇게 기운이 나." },
+    { "es": "apagado/a", "ko": "(기분이) 처진, 축 늘어진", "ex": "El lunes voy a estar un poco apagada.", "exKo": "월요일엔 좀 처져 있을 거야." },
+    { "es": "tener pereza", "ko": "귀찮다, 하기 싫다", "ex": "Tenemos pereza de volver al trabajo.", "exKo": "일하러 돌아가기 귀찮아." },
+    { "es": "preocupado/a", "ko": "걱정하는", "ex": "Tal vez está triste o preocupado.", "exKo": "아마 슬프거나 걱정이 있을 거야." },
+    { "es": "nervioso/a", "ko": "긴장한 / 예민한 (성격)", "ex": "Me siento muy nerviosa al hablar.", "exKo": "말할 때 정말 긴장돼." },
+    { "es": "equivocarse", "ko": "틀리다, 실수하다", "ex": "Tengo miedo de equivocarme.", "exKo": "틀릴까 봐 무서워." },
+    { "es": "sentirse", "ko": "(기분이) ~하게 느끼다", "ex": "¿Cómo te sientes hoy?", "exKo": "오늘 기분 어때?" },
+    { "es": "inseguro/a", "ko": "자신 없는, 불안한", "ex": "Me sentía muy insegura al hablar.", "exKo": "말할 때 정말 자신이 없었어." },
+    { "es": "la zona de confort", "ko": "편안한 영역, 안전지대", "ex": "Cuando salimos de nuestra zona de confort.", "exKo": "우리가 안전지대를 벗어날 때." },
+    { "es": "orgulloso/a", "ko": "자랑스러워하는", "ex": "Estoy orgulloso de mi progreso.", "exKo": "내 발전이 자랑스러워." },
+    { "es": "la frustración", "ko": "좌절감", "ex": "Primero sentimos miedo o frustración.", "exKo": "처음엔 두려움이나 좌절을 느껴." },
+    { "es": "el humor", "ko": "기분", "ex": "Me pongo de muy mal humor.", "exKo": "기분이 아주 나빠져." },
+    { "es": "enfadado/a · enojado/a", "ko": "화난 (스페인 · 중남미)", "ex": "Si no almuerzo, me siento muy enfadada.", "exKo": "점심을 안 먹으면 정말 화가 나." },
+    { "es": "tener miedo", "ko": "무섭다", "ex": "Tengo miedo. (✗ Estoy miedoso)", "exKo": "무서워." },
+    { "es": "tener vergüenza", "ko": "창피하다, 쑥스럽다", "ex": "Tengo vergüenza de mi pronunciación.", "exKo": "내 발음이 창피해." },
+    { "es": "apenado/a · tímido/a", "ko": "부끄러운 · 수줍은", "ex": "Sentirse apenado o tímido por algo.", "exKo": "무언가 때문에 부끄럽거나 쑥스럽다." },
+    { "es": "callado/a", "ko": "말이 없는, 조용한", "ex": "Veo a un amigo un poco triste o callado.", "exKo": "친구가 좀 슬프거나 말이 없어 보여." },
+    { "es": "¿Qué tienes?", "ko": "무슨 일 있어?", "ex": "Oye, ¿qué tienes? Te veo triste.", "exKo": "저기, 무슨 일 있어? 슬퍼 보여." },
+    { "es": "¿Te pasa algo?", "ko": "무슨 일 있어?", "ex": "¿Te pasa algo? No estás como siempre.", "exKo": "무슨 일 있어? 평소 같지 않네." },
+    { "es": "No es nada.", "ko": "아무것도 아니야.", "ex": "No es nada, solo estoy un poco cansada.", "exKo": "아무것도 아니야, 그냥 좀 피곤해." },
+    { "es": "empático/a", "ko": "공감하는", "ex": "Es una forma muy empática de preguntar.", "exKo": "아주 공감 어린 질문 방식이야." },
+    { "es": "alegre", "ko": "밝은 / 기쁜", "ex": "Soy alegre. / Estoy alegre.", "exKo": "나는 밝은 성격이야. / 나 지금 기뻐." },
+    { "es": "el carácter", "ko": "성격", "ex": "Tu hermana tiene un carácter nervioso.", "exKo": "너희 언니는 예민한 성격이야." },
+    { "es": "aburrido/a", "ko": "심심한 (estar) / 재미없는 (ser)", "ex": "Estoy aburrida. ≠ Soy aburrida.", "exKo": "심심해. ≠ 나는 재미없는 사람이야." },
+    { "es": "el aburrimiento", "ko": "지루함, 따분함", "ex": "Sientes aburrimiento.", "exKo": "지루함을 느껴." },
+    { "es": "ponerse + 형용사", "ko": "(갑자기) ~해지다", "ex": "Me pongo feliz cuando veo un perrito.", "exKo": "강아지를 보면 기분이 좋아져." },
+    { "es": "el estado de ánimo", "ko": "기분, 심리 상태", "ex": "Mi estado de ánimo cambia muy rápido.", "exKo": "기분이 아주 빨리 바뀌어." },
+    { "es": "de repente", "ko": "갑자기", "ex": "¿Qué pasa cuando una emoción llega de repente?", "exKo": "감정이 갑자기 찾아오면 어떻게 돼?" },
+    { "es": "la ilusión", "ko": "설렘, 기대", "ex": "Mucha ilusión por algo bueno que va a pasar.", "exKo": "곧 일어날 좋은 일에 대한 큰 설렘." },
+    { "es": "quedarse en blanco", "ko": "머리가 하얘지다", "ex": "Mi mente se quedaba en blanco.", "exKo": "머리가 하얘지곤 했어." },
+    { "es": "el desafío", "ko": "도전", "ex": "Aprender español puede ser un gran desafío.", "exKo": "스페인어 공부는 큰 도전일 수 있어." },
+    { "es": "un abrazo", "ko": "포옹 (편지·인사 끝에)", "ex": "Un gran abrazo para todos.", "exKo": "모두에게 큰 포옹을 보내요." }
+  ],
+  "quiz": [
+    { "q": "오늘 너무 피곤할 때 가장 알맞은 말은?", "options": ["Soy agotado.", "Estoy agotado.", "Tengo agotado.", "Me pongo agotado."], "answer": 1, "explain": "일시적인 상태라서 estar + agotado. ser를 쓰면 성격처럼 들려요." },
+    { "q": "영어 'I'm so excited!'를 스페인어로 자연스럽게 말하면?", "options": ["¡Estoy muy excitada!", "¡Estoy muy emocionada!", "¡Soy muy emocionada!", "¡Tengo emoción!"], "answer": 1, "explain": "excited = emocionado/a. excitado는 다른(성적인) 의미로 들릴 수 있어요." },
+    { "q": "\"배고파\"로 맞는 것은?", "options": ["Estoy hambre.", "Soy hambre.", "Tengo hambre.", "Me pongo hambre."], "answer": 2, "explain": "hambre는 명사라서 tener를 써요. 'estoy hambre'는 대표적인 실수예요." },
+    { "q": "\"무서워\"로 맞는 것은?", "options": ["Estoy miedoso.", "Tengo miedo.", "Soy miedo.", "Me siento miedo."], "answer": 1, "explain": "miedo(두려움)는 명사 → tengo miedo." },
+    { "q": "할 일이 없어서 심심할 때는?", "options": ["Soy aburrida.", "Estoy aburrida.", "Tengo aburrida.", "Me siento aburrimiento."], "answer": 1, "explain": "estar aburrido = I'm bored. ser aburrido = I'm boring(재미없는 사람)이에요." },
+    { "q": "'Mi hermana es muy nerviosa.'의 뜻은?", "options": ["언니가 지금 긴장했어.", "언니는 예민한 성격이야.", "언니가 화났어.", "언니가 아파."], "answer": 1, "explain": "ser + nervioso는 성격을 말해요. 지금 긴장한 상태라면 está nerviosa." },
+    { "q": "귀여운 강아지를 보고 갑자기 기분이 좋아질 때는?", "options": ["Me pongo feliz.", "Soy feliz.", "Tengo feliz.", "Pongo feliz."], "answer": 0, "explain": "즉각적인 감정 변화는 ponerse + 형용사. 재귀대명사 me를 잊지 마세요." },
+    { "q": "말이 없는 친구에게 다정하게 묻는 말이 아닌 것은?", "options": ["¿Qué tienes?", "¿Te pasa algo?", "¿Cómo te sientes?", "¿Qué hora es?"], "answer": 3, "explain": "¿Qué hora es?는 '몇 시야?'예요." },
+    { "q": "말하고 싶지 않을 때 예의 바르게 넘기는 말은?", "options": ["No es nada, solo estoy un poco cansada.", "¡Déjame!", "Tengo razón.", "Soy aburrida."], "answer": 0, "explain": "\"No es nada\"(아무것도 아니야) + 가벼운 이유가 부드럽고 자연스러워요." },
+    { "q": "빈칸: ¿Cómo te ___ hoy? (오늘 기분 어때?)", "options": ["sientes", "siento", "sienta", "sentir"], "answer": 0, "explain": "tú → te sientes. (yo → me siento)" },
+    { "q": "'tener vergüenza'의 뜻은?", "options": ["화가 나다", "창피하다", "졸리다", "운이 좋다"], "answer": 1, "explain": "vergüenza = 창피함. \"Tengo vergüenza de mi pronunciación.\"" },
+    { "q": "감정 표현에 estar를 쓰는 이유는?", "options": ["감정은 성격이라서", "감정은 계속 바뀌는 일시적 상태라서", "감정은 명사라서", "감정은 과거의 일이라서"], "answer": 1, "explain": "감정은 영원하지 않고 바뀌어요. 그래서 일시적인 상태를 나타내는 estar를 써요." }
+  ]
+}

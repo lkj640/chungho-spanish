@@ -1,7 +1,53 @@
 {
  "lessons": [
   {
-   "id": "2026-10-18-2",
+   "id": "zh-2026-10-19",
+   "lang": "zh",
+   "date": "2026-10-19",
+   "title": "진정한 만족(知足)이란? 번아웃을 치유하는 장자의 지혜",
+   "es": "知足常乐 · 返璞归真",
+   "emoji": "🐢",
+   "level": "HSK 4–5",
+   "channel": "Chinese Daily Podcast",
+   "youtube": "uRzkyLtEFcQ",
+   "duration": "13:50",
+   "summary": "\"집이 만 칸이어도 잠자리는 여덟 자\" — 작은 새와 나뭇가지, 목마른 생쥐, 금 상자 속 거북이. 장자의 우화로 体面·知足常乐·返璞归真·身心健康을 배우고, 不过·宁愿…也不…·即使…也 같은 핵심 구문을 익혀요.",
+   "topics": [
+    "屋宽万间，夜宿不过八尺",
+    "庄子 우화: 小鸟 · 小老鼠 · 神龟",
+    "핵심 개념: 体面 · 知足常乐 · 返璞归真 · 身心健康",
+    "구문: 不过 · 即使…也 · 宁愿…也不 · 不是…而是",
+    "越来越 · 连…都 · V着V着"
+   ],
+   "vocabCount": 40,
+   "lineCount": 123
+  },
+  {
+   "id": "es-2026-10-19",
+   "lang": "es",
+   "date": "2026-10-19",
+   "title": "스페인어로 감정 표현하기",
+   "es": "¿Cómo te sientes hoy? — Estoy agotado.",
+   "emoji": "😊",
+   "level": "A1–A2",
+   "channel": "Español Auténtico",
+   "youtube": "96JF3XN_9SI",
+   "duration": "22:20",
+   "summary": "기분은 estar와 sentirse, 몸의 감각과 두려움은 tener, 성격은 ser, 갑자기 바뀌는 기분은 ponerse로 말해요. 친구에게 \"¿Qué tienes?\"라고 묻고 \"No es nada\"라고 답하는 법까지 배워요.",
+   "topics": [
+    "estar + 감정: estoy agotado / emocionada",
+    "sentirse: me siento nerviosa",
+    "tener + 명사: tengo miedo · tengo vergüenza",
+    "¿Qué tienes? · ¿Te pasa algo? · No es nada",
+    "ser vs estar: soy aburrido ≠ estoy aburrido",
+    "ponerse: me pongo feliz"
+   ],
+   "vocabCount": 36,
+   "lineCount": 152
+  },
+  {
+   "id": "es-2026-10-18-2",
+   "lang": "es",
    "date": "2026-10-18",
    "title": "동사 TENER로 말하는 필수 표현 15가지",
    "es": "Tengo hambre, tengo sueño, tengo prisa…",
@@ -23,7 +69,8 @@
    "lineCount": 190
   },
   {
-   "id": "2026-10-18",
+   "id": "es-2026-10-18",
+   "lang": "es",
    "date": "2026-10-18",
    "title": "조건법으로 상상하고 공손하게 부탁하기",
    "es": "¿Qué harías si ganaras la lotería?",

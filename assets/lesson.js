@@ -1,24 +1,30 @@
 (async () => {
-  const { esc, fmtDate, store, say } = U;
+  const { LANGS, esc, fmtDate, store, say, fixId } = U;
   const $ = id => document.getElementById(id);
   const fmt = t => { t = Math.max(0, t | 0); return (t / 60 | 0) + ":" + String(t % 60).padStart(2, "0"); };
+  let lang = "es";
   const sayBtn = text => `<button class="say" data-say="${esc(text)}" aria-label="발음 듣기">🔊</button>`;
-  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say); } });
+  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say, lang); } });
 
   // ---------- 강의 불러오기 ----------
-  const id = new URLSearchParams(location.search).get("d");
+  const id = fixId(new URLSearchParams(location.search).get("d"));
   let L = null;
-  if (/^\d{4}-\d{2}-\d{2}(-\d+)?$/.test(id || "")) L = await fetch(`lessons/${id}/data.json`, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  if (/^[a-z]{2}-\d{4}-\d{2}-\d{2}(-\d+)?$/.test(id || "")) L = await fetch(`lessons/${id}/data.json`, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
   if (!L) {
     $("hero").innerHTML = '<h1>강의를 찾을 수 없어요</h1><p><a href="./">홈으로 돌아가기</a></p>';
     document.querySelectorAll(".pane,.bar,.tabs").forEach(e => e.remove());
     return;
   }
+  lang = L.lang || "es";
+  const LG = LANGS[lang] || LANGS.es;
+  document.documentElement.dataset.lang = lang;
+  $("backLink").href = `./?lang=${lang}`;
+  $("backLink").textContent = `‹ ${LG.flag} ${LG.name}`;
   const who = L.speakers || {};
-  document.title = `${L.title} · ${fmtDate(L.date)} · 충호의 스페인어 열공 사이트`;
-  $("ttl").textContent = `${fmtDate(L.date)} · ${L.channel || ""}`;
+  document.title = `${L.title} · ${fmtDate(L.date)} · 충호의 어학 열공 사이트`;
+  $("ttl").textContent = `${LG.name} · ${fmtDate(L.date)} · ${L.channel || ""}`;
   $("hero").innerHTML = `<div class="chips"><span class="chip yel">${esc(L.channel || "")}</span><span class="chip">${esc(L.level || "")}</span>${L.duration ? `<span class="chip">⏱ ${esc(L.duration)}</span>` : ""}</div>
-    <h1>${esc(L.emoji || "")} ${esc(L.title)}</h1><div class="es">${esc(L.es || "")}</div>
+    <h1>${esc(L.emoji || "")} ${esc(L.title)}</h1><div class="es" lang="${esc(lang)}">${esc(L.es || "")}</div>
     ${L.summary ? `<p>${esc(L.summary)}</p>` : ""}
     <p><a href="https://www.youtube.com/watch?v=${esc(L.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 원본 보기</a></p>`;
 
@@ -44,7 +50,7 @@
     opts += `<option value="${si}">${fmt(t0)} · ${esc(s.title)}</option>`;
     for (const l of s.lines) {
       html += `<div class="line ${esc(l.s)}" data-i="${n++}" data-t="${l.t}"><div class="who">${esc(who[l.s] || l.s)}<span class="ts">${fmt(l.t)}</span></div>
-        <div class="txt"><div class="es">${esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
+        <div class="txt">${l.py ? `<div class="py">${esc(l.py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
     }
   });
   $("lines").innerHTML = html;
@@ -58,6 +64,10 @@
     const el = $(id); el.checked = store.get(key, def); apply(el.checked);
     el.onchange = () => { store.set(key, el.checked); apply(el.checked); };
   };
+  if (lines.some(l => l.querySelector(".py"))) {
+    $("optPyWrap").hidden = false;
+    bindOpt("optPy", "opt_py", true, v => document.body.classList.toggle("no-py", !v));
+  }
   bindOpt("optKo", "opt_ko", true, v => document.body.classList.toggle("no-ko", !v));
   bindOpt("optHide", "opt_hide", false, v => document.body.classList.toggle("hide-es", v));
   bindOpt("optScroll", "opt_scroll", true, () => {});
@@ -133,19 +143,24 @@
   $("doneBtn").onclick = () => { if (done[L.id]) delete done[L.id]; else done[L.id] = Date.now(); store.set("done", done); paintDone(); };
   paintDone();
 
-  // ---------- 문법 ----------
+  // ---------- 정리 (문법·표현) ----------
+  // 예문은 [원문, 한국어] 또는 [원문, 병음, 한국어]
+  const exRow = r => {
+    const [src, a, b] = r, py = r.length > 2 ? a : "", ko = r.length > 2 ? b : a;
+    return `<div class="ex">${py ? `<div class="py">${esc(py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${esc(src)} ${sayBtn(src)}</div><div class="ko">${esc(ko)}</div></div>`;
+  };
   let g = "";
   for (const c of L.grammar || []) {
     g += `<section class="card gcard"><h3>${esc(c.title)}</h3>${c.lead ? `<p class="lead">${c.lead}</p>` : ""}`;
     if (c.table) g += `<div class="tblwrap"><table class="tbl"><thead><tr>${c.table.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
       <tbody>${c.table.rows.map(r => `<tr>${r.map(x => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
-    if (c.examples) g += c.examples.map(([es, ko]) => `<div class="ex"><div class="es">${esc(es)} ${sayBtn(es)}</div><div class="ko">${esc(ko)}</div></div>`).join("");
+    if (c.examples) g += c.examples.map(exRow).join("");
     if (c.tip) g += `<div class="tip">💡 ${esc(c.tip)}</div>`;
     g += `</section>`;
   }
   if (L.phrases && L.phrases.length) {
     g += `<section class="card gcard"><h3>🗣 따라 말해 보기 — 핵심 문장</h3>` +
-      L.phrases.map(([es, ko]) => `<div class="ex"><div class="es">${esc(es)} ${sayBtn(es)}</div><div class="ko">${esc(ko)}</div></div>`).join("") + `</section>`;
+      L.phrases.map(exRow).join("") + `</section>`;
   }
   $("pane-grammar").innerHTML = g || '<p class="hint">문법 정리가 없어요.</p>';
 
@@ -164,9 +179,9 @@
     $("vgrid").innerHTML = rows.map(v => {
       const k = !!known[kkey(v)];
       return `<div class="vcard${k ? " known" : ""}" data-k="${esc(kkey(v))}">
-        <div><span class="w">${esc(v.es)}</span> ${sayBtn(v.es)}<div class="m">${esc(v.ko)}</div></div>
+        <div>${v.py ? `<div class="py">${esc(v.py)}</div>` : ""}<span class="w" lang="${esc(lang)}">${esc(v.es)}</span> ${sayBtn(v.es)}<div class="m">${esc(v.ko)}</div></div>
         <div class="acts"><button class="k">${k ? "✓ 외웠어요" : "외웠어요"}</button></div>
-        ${v.ex ? `<div class="x"><div>${esc(v.ex)} ${sayBtn(v.ex)}</div><div class="ko">${esc(v.exKo || "")}</div></div>` : ""}
+        ${v.ex ? `<div class="x"><div lang="${esc(lang)}">${esc(v.ex)} ${sayBtn(v.ex)}</div><div class="ko">${esc(v.exKo || "")}</div></div>` : ""}
       </div>`;
     }).join("") || '<p class="hint">해당하는 단어가 없어요.</p>';
     const kn = vocab.filter(v => known[kkey(v)]).length;

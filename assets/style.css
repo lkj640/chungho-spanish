@@ -169,3 +169,21 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
   .line { grid-template-columns: 50px 1fr; padding: 8px 4px; }
   .tabs button { font-size: 14px; }
 }
+
+/* ---------- 언어별 ---------- */
+.langnav { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 0 0 6px; }
+.langnav a { flex: none; padding: 6px 12px; border-radius: 99px; background: var(--card); border: 1px solid var(--line); text-decoration: none; color: var(--ink); font-size: 14px; }
+.langnav a b { color: var(--red); margin-left: 2px; }
+.langsec { margin-top: 26px; scroll-margin-top: 12px; }
+.langhead { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; margin-bottom: 10px; }
+.langhead h3 { margin: 0; font-size: 19px; }
+.langhead h3 span, .langT span { font-size: 13px; color: var(--muted); font-weight: 400; margin-left: 4px; }
+.langhead a { font-size: 14px; text-decoration: none; white-space: nowrap; }
+.langT { margin: 6px 0 14px; font-size: 22px; }
+.card.empty { text-align: center; color: var(--muted); border-style: dashed; box-shadow: none; padding: 22px; }
+.py { font-size: 13px; color: var(--blue); letter-spacing: .01em; }
+body.no-py .line .py { display: none; }
+body.hide-es .line:not(.active):not(.peek) .py { filter: blur(5px); }
+[lang="zh"].es, .line .es[lang="zh"], .w[lang="zh"] { font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+.line .es[lang="zh"], .line .es[lang="ja"] { font-size: 18px; line-height: 1.6; }
+.vcard .py { margin-bottom: -2px; }

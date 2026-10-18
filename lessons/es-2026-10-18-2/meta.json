@@ -1,0 +1,663 @@
+{
+  "lang": "es",
+  "date": "2026-10-18",
+  "title": "동사 TENER로 말하는 필수 표현 15가지",
+  "es": "Tengo hambre, tengo sueño, tengo prisa…",
+  "emoji": "💪",
+  "level": "A1–A2",
+  "channel": "Español Auténtico",
+  "videoTitle": "15 Essential Phrases with the Verb TENER | Learn Spanish for Beginners",
+  "youtube": "_km0prjkHH8",
+  "duration": "28:12",
+  "speakers": {
+    "S": "Sofía",
+    "C": "Carlos"
+  },
+  "summary": "배고파·목말라·더워·추워부터 졸려·무서워·네 말이 맞아, 아파·조심해·운이 좋아·~하고 싶어, 그리고 나이·인내심·성공까지. 한국어나 영어로는 '~이다'로 말하는 상태를 스페인어는 tener(가지다)로 말해요.",
+  "topics": [
+    "tener 현재형: tengo · tienes · tiene…",
+    "몸의 감각: hambre · sed · calor · frío · sueño",
+    "감정·상태: prisa · miedo · razón · suerte · paciencia",
+    "tener dolor de + 신체 부위 · tener ganas de + 동사원형",
+    "나이는 tener: Tengo 30 años (✗ soy 30)",
+    "왜 muy가 아니라 mucho/mucha일까?"
+  ],
+  "grammar": [
+    {
+      "title": "① tener 현재형 변화",
+      "lead": "tener는 불규칙 동사예요. 오늘 나오는 표현은 모두 이 형태에 명사만 붙이면 돼요.",
+      "table": {
+        "head": [
+          "주어",
+          "tener",
+          "예시"
+        ],
+        "rows": [
+          [
+            "yo",
+            "tengo",
+            "Tengo hambre."
+          ],
+          [
+            "tú",
+            "tienes",
+            "Tienes razón."
+          ],
+          [
+            "él / ella / usted",
+            "tiene",
+            "Mi hermano tiene 20 años."
+          ],
+          [
+            "nosotros",
+            "tenemos",
+            "Tenemos prisa."
+          ],
+          [
+            "vosotros",
+            "tenéis",
+            "¿Tenéis frío?"
+          ],
+          [
+            "ellos / ustedes",
+            "tienen",
+            "¿Tienen sueño?"
+          ]
+        ]
+      },
+      "tip": "yo만 tengo(-go), tú·él·ellos는 어간이 tien-으로 바뀌고, nosotros·vosotros는 그대로 ten-이에요."
+    },
+    {
+      "title": "② 오늘의 15가지 tener 표현",
+      "lead": "한국어로는 '배고프다', 영어로는 I am hungry지만, 스페인어는 '배고픔을 <b>가지고</b> 있다'라고 말해요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예문"
+        ],
+        "rows": [
+          [
+            "tener hambre",
+            "배고프다",
+            "Tengo mucha hambre."
+          ],
+          [
+            "tener sed",
+            "목마르다",
+            "Dame agua, tengo sed."
+          ],
+          [
+            "tener calor",
+            "덥다",
+            "Tengo mucho calor."
+          ],
+          [
+            "tener frío",
+            "춥다",
+            "Tengo frío, cierra la ventana."
+          ],
+          [
+            "tener prisa",
+            "급하다, 바쁘다",
+            "Corre, que tengo prisa."
+          ],
+          [
+            "tener sueño",
+            "졸리다",
+            "Me voy a la cama, tengo sueño."
+          ],
+          [
+            "tener miedo (a/de)",
+            "무섭다",
+            "Tengo miedo a las arañas."
+          ],
+          [
+            "tener razón",
+            "(말이) 맞다, 옳다",
+            "Sí, tienes razón."
+          ],
+          [
+            "tener dolor de…",
+            "~가 아프다",
+            "Tengo dolor de cabeza."
+          ],
+          [
+            "tener cuidado",
+            "조심하다",
+            "Tienes que tener cuidado."
+          ],
+          [
+            "tener suerte",
+            "운이 좋다",
+            "¡Tengo mucha suerte!"
+          ],
+          [
+            "tener ganas de + 원형",
+            "~하고 싶다",
+            "Tengo ganas de comer pizza."
+          ],
+          [
+            "tener … años",
+            "~살이다",
+            "Tengo 30 años."
+          ],
+          [
+            "tener paciencia",
+            "인내심이 있다",
+            "Respiro y tengo paciencia."
+          ],
+          [
+            "tener éxito",
+            "성공하다",
+            "Mi negocio tiene éxito."
+          ]
+        ]
+      }
+    },
+    {
+      "title": "③ muy가 아니라 mucho / mucha",
+      "lead": "hambre, frío, calor 같은 말은 형용사가 아니라 <b>명사</b>예요. 그래서 '아주'는 muy가 아니라 명사를 꾸미는 <b>mucho/mucha</b>를 쓰고, 명사의 성에 맞춰요.",
+      "table": {
+        "head": [
+          "여성 명사 → mucha",
+          "남성 명사 → mucho"
+        ],
+        "rows": [
+          [
+            "mucha hambre",
+            "mucho calor"
+          ],
+          [
+            "mucha sed",
+            "mucho frío"
+          ],
+          [
+            "mucha prisa",
+            "mucho sueño"
+          ],
+          [
+            "mucha suerte",
+            "mucho miedo"
+          ],
+          [
+            "mucha paciencia",
+            "mucho éxito"
+          ],
+          [
+            "muchas ganas (복수)",
+            "mucho cuidado"
+          ]
+        ]
+      },
+      "tip": "✗ Tengo muy frío → ✓ Tengo mucho frío. hambre는 여성 명사라서 el hambre라고 쓰지만 꾸밀 땐 mucha hambre예요. '전혀 없다'는 no tengo nada de paciencia."
+    },
+    {
+      "title": "④ 뒤에 무엇이 오는지 주의!",
+      "lead": "몇몇 표현은 뒤에 붙는 말이 정해져 있어요.",
+      "examples": [
+        [
+          "Tengo dolor de cabeza / de estómago / de muelas / de espalda.",
+          "tener dolor + de + 신체 부위 (두통 / 복통 / 치통 / 요통)"
+        ],
+        [
+          "Tengo ganas de ir a la playa este fin de semana.",
+          "tener ganas de + 동사원형 (항상 원형!)"
+        ],
+        [
+          "Tengo miedo a volar en avión.",
+          "tener miedo a / de + 대상·동사원형"
+        ],
+        [
+          "Tienes que tener cuidado.",
+          "tener que + 동사원형 = ~해야 한다"
+        ]
+      ]
+    },
+    {
+      "title": "⑤ 나이는 tener — 황금률",
+      "lead": "스페인어에서 나이는 내가 '~인' 것이 아니라 내가 쌓아 온, <b>가진</b> 것이에요. 사람·동물·물건 모두 똑같아요.",
+      "examples": [
+        [
+          "Tengo 30 años.",
+          "저는 서른 살이에요. (✗ Soy 30)"
+        ],
+        [
+          "¿Cuántos años tienes?",
+          "몇 살이에요?"
+        ],
+        [
+          "Esta casa antigua tiene 100 años.",
+          "이 오래된 집은 100년 됐어요."
+        ],
+        [
+          "Mi coche nuevo tiene 2 años.",
+          "내 새 차는 2년 됐어요."
+        ]
+      ],
+      "tip": "흔한 실수: soy hambriento ✗ · soy rápido ✗ (급하다는 뜻으로) · ser suceso ✗ → tengo hambre · tengo prisa · tener éxito ✓"
+    }
+  ],
+  "phrases": [
+    [
+      "Tengo mucha hambre. Necesito comer.",
+      "너무 배고파. 뭐 좀 먹어야겠어."
+    ],
+    [
+      "Por favor, dame un vaso de agua, porque tengo sed.",
+      "물 한 잔만 줘, 목말라."
+    ],
+    [
+      "Tengo mucho frío. Necesito mi chaqueta.",
+      "너무 추워. 재킷이 필요해."
+    ],
+    [
+      "Corre, corre, que tengo prisa.",
+      "뛰어, 뛰어, 급해!"
+    ],
+    [
+      "Me voy a la cama, porque tengo mucho sueño.",
+      "너무 졸려서 자러 갈래."
+    ],
+    [
+      "¿Qué fue ese ruido? Tengo miedo.",
+      "방금 그 소리 뭐야? 무서워."
+    ],
+    [
+      "Sí, estoy de acuerdo contigo. Tienes razón.",
+      "응, 네 말에 동의해. 네 말이 맞아."
+    ],
+    [
+      "Tengo dolor de cabeza.",
+      "머리가 아파."
+    ],
+    [
+      "Voy a tener cuidado para no caer al suelo.",
+      "넘어지지 않게 조심할게."
+    ],
+    [
+      "¡Qué día tan maravilloso! Tengo mucha suerte.",
+      "정말 멋진 날이야! 나 운이 너무 좋아."
+    ],
+    [
+      "Tengo ganas de ir a la playa este fin de semana.",
+      "이번 주말에 해변에 가고 싶어."
+    ],
+    [
+      "Tengo 30 años.",
+      "저는 서른 살이에요."
+    ],
+    [
+      "No pasa nada. Tengo paciencia.",
+      "괜찮아. 나는 인내심이 있어."
+    ],
+    [
+      "Mi negocio es muy famoso. Tengo éxito.",
+      "내 가게는 아주 유명해. 나 성공했어."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "tener hambre",
+      "ko": "배고프다",
+      "ex": "Tengo mucha hambre. Necesito comer.",
+      "exKo": "너무 배고파. 뭐 좀 먹어야겠어."
+    },
+    {
+      "es": "tener sed",
+      "ko": "목마르다",
+      "ex": "Dame un vaso de agua, porque tengo sed.",
+      "exKo": "물 한 잔 줘, 목말라."
+    },
+    {
+      "es": "tener calor",
+      "ko": "덥다",
+      "ex": "Necesito la sombra, porque tengo mucho calor.",
+      "exKo": "너무 더워서 그늘이 필요해."
+    },
+    {
+      "es": "tener frío",
+      "ko": "춥다",
+      "ex": "Tengo frío. Por favor, cierra la ventana.",
+      "exKo": "추워. 창문 좀 닫아 줘."
+    },
+    {
+      "es": "tener prisa",
+      "ko": "급하다, 서두르다",
+      "ex": "Señor, vaya más rápido, tengo mucha prisa.",
+      "exKo": "기사님, 더 빨리 가 주세요, 너무 급해요."
+    },
+    {
+      "es": "tener sueño",
+      "ko": "졸리다",
+      "ex": "Me voy a la cama porque tengo sueño.",
+      "exKo": "졸려서 자러 갈래."
+    },
+    {
+      "es": "tener miedo (a / de)",
+      "ko": "무섭다, ~을 무서워하다",
+      "ex": "Tengo miedo a las arañas.",
+      "exKo": "나는 거미가 무서워."
+    },
+    {
+      "es": "tener razón",
+      "ko": "(말이) 맞다, 옳다",
+      "ex": "Sí, tienes razón, pienso igual que tú.",
+      "exKo": "응, 네 말이 맞아, 나도 같은 생각이야."
+    },
+    {
+      "es": "tener dolor de…",
+      "ko": "~가 아프다",
+      "ex": "Tengo dolor de estómago.",
+      "exKo": "배가 아파."
+    },
+    {
+      "es": "tener cuidado",
+      "ko": "조심하다",
+      "ex": "Tienes que tener cuidado con los coches.",
+      "exKo": "차 조심해야 해."
+    },
+    {
+      "es": "tener suerte",
+      "ko": "운이 좋다",
+      "ex": "Aprobaste sin estudiar. ¡Tienes mucha suerte!",
+      "exKo": "공부도 안 하고 붙었네. 너 정말 운 좋다!"
+    },
+    {
+      "es": "tener ganas de + 원형",
+      "ko": "~하고 싶다",
+      "ex": "Tengo ganas de comer pizza.",
+      "exKo": "피자 먹고 싶다."
+    },
+    {
+      "es": "tener … años",
+      "ko": "~살이다",
+      "ex": "Mi hermano tiene 20 años.",
+      "exKo": "내 남동생은 스무 살이야."
+    },
+    {
+      "es": "tener paciencia",
+      "ko": "인내심이 있다, 참을성 있다",
+      "ex": "Para estudiar español, sí tengo paciencia.",
+      "exKo": "스페인어 공부에는 인내심이 있어."
+    },
+    {
+      "es": "tener éxito",
+      "ko": "성공하다",
+      "ex": "Vas a tener éxito si practicas cada día.",
+      "exKo": "매일 연습하면 성공할 거야."
+    },
+    {
+      "es": "tener que + 원형",
+      "ko": "~해야 한다",
+      "ex": "Tienes que tener cuidado.",
+      "exKo": "조심해야 해."
+    },
+    {
+      "es": "poseer",
+      "ko": "소유하다",
+      "ex": "El verbo tener significa poseer cosas.",
+      "exKo": "tener는 물건을 소유한다는 뜻이야."
+    },
+    {
+      "es": "la nevera",
+      "ko": "냉장고",
+      "ex": "Abro la nevera y digo: tengo hambre.",
+      "exKo": "냉장고를 열고 '배고파'라고 해."
+    },
+    {
+      "es": "sudar",
+      "ko": "땀을 흘리다",
+      "ex": "El sol me hace sudar.",
+      "exKo": "햇볕 때문에 땀이 나."
+    },
+    {
+      "es": "la sombra",
+      "ko": "그늘, 그림자",
+      "ex": "Necesito la sombra o el aire acondicionado.",
+      "exKo": "그늘이나 에어컨이 필요해."
+    },
+    {
+      "es": "la maleta",
+      "ko": "여행 가방",
+      "ex": "Corres por la calle con tu maleta.",
+      "exKo": "여행 가방을 들고 길을 뛰어."
+    },
+    {
+      "es": "bostezar",
+      "ko": "하품하다",
+      "ex": "Solo de pensarlo, bostezo.",
+      "exKo": "생각만 해도 하품이 나."
+    },
+    {
+      "es": "el ruido",
+      "ko": "소음, 소리",
+      "ex": "Escuchas un ruido extraño cerca de la ventana.",
+      "exKo": "창문 근처에서 이상한 소리가 들려."
+    },
+    {
+      "es": "latir",
+      "ko": "(심장이) 뛰다",
+      "ex": "Tu corazón late muy rápido.",
+      "exKo": "심장이 아주 빨리 뛰어."
+    },
+    {
+      "es": "estar de acuerdo (con)",
+      "ko": "(~와) 동의하다",
+      "ex": "Estoy de acuerdo contigo.",
+      "exKo": "네 말에 동의해."
+    },
+    {
+      "es": "mojado/a",
+      "ko": "젖은",
+      "ex": "El suelo está muy mojado.",
+      "exKo": "바닥이 아주 젖어 있어."
+    },
+    {
+      "es": "la advertencia",
+      "ko": "경고",
+      "ex": "«Ten cuidado» funciona como una advertencia.",
+      "exKo": "'조심해'는 경고처럼 쓰여."
+    },
+    {
+      "es": "ojalá",
+      "ko": "그랬으면 좋겠다",
+      "ex": "¿Ganar la lotería? ¡Ojalá!",
+      "exKo": "복권 당첨? 그랬으면 좋겠다!"
+    },
+    {
+      "es": "la muela · la espalda",
+      "ko": "어금니 · 등",
+      "ex": "Tengo dolor de muelas y de espalda.",
+      "exKo": "이랑 등이 아파."
+    },
+    {
+      "es": "aprobar (un examen)",
+      "ko": "(시험에) 합격하다",
+      "ex": "Aprobaste un examen muy difícil.",
+      "exKo": "아주 어려운 시험에 합격했어."
+    },
+    {
+      "es": "enfadarse",
+      "ko": "화내다",
+      "ex": "Tolerar problemas sin enfadarse.",
+      "exKo": "화내지 않고 문제를 견디다."
+    },
+    {
+      "es": "la edad",
+      "ko": "나이",
+      "ex": "¿Cuál es tu edad?",
+      "exKo": "나이가 어떻게 돼?"
+    },
+    {
+      "es": "el triunfo",
+      "ko": "승리, 성공",
+      "ex": "Entender a los nativos será un triunfo.",
+      "exKo": "원어민 말을 알아듣는 건 큰 승리가 될 거야."
+    },
+    {
+      "es": "de madrugada",
+      "ko": "새벽에",
+      "ex": "Son las 2 de la madrugada.",
+      "exKo": "새벽 2시야."
+    },
+    {
+      "es": "adivinar",
+      "ko": "맞히다, 추측하다",
+      "ex": "¿Cuántas situaciones adivinaron?",
+      "exKo": "몇 개 상황을 맞히셨나요?"
+    },
+    {
+      "es": "rendirse",
+      "ko": "포기하다",
+      "ex": "Para hablar bien, nunca deben rendirse.",
+      "exKo": "잘 말하려면 절대 포기하면 안 돼요."
+    },
+    {
+      "es": "la clave",
+      "ko": "핵심, 비결",
+      "ex": "La clave es escuchar a los nativos todos los días.",
+      "exKo": "비결은 매일 원어민의 말을 듣는 거야."
+    },
+    {
+      "es": "el mensaje",
+      "ko": "메시지",
+      "ex": "Nos encanta leer todos sus mensajes.",
+      "exKo": "여러분의 메시지를 읽는 게 정말 좋아요."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "\"나는 배고파\"를 스페인어로 바르게 말한 것은?",
+      "options": [
+        "Soy hambriento.",
+        "Estoy hambre.",
+        "Tengo hambre.",
+        "Hago hambre."
+      ],
+      "answer": 2,
+      "explain": "몸의 감각은 tener + 명사로 말해요. soy hambriento라고 하지 않아요."
+    },
+    {
+      "q": "\"너무 추워\"로 맞는 것은?",
+      "options": [
+        "Tengo muy frío.",
+        "Tengo mucho frío.",
+        "Tengo mucha frío.",
+        "Soy mucho frío."
+      ],
+      "answer": 1,
+      "explain": "frío는 남성 명사라서 mucho로 꾸며요. 명사 앞에는 muy를 쓸 수 없어요."
+    },
+    {
+      "q": "빈칸: Tengo ___ hambre.",
+      "options": [
+        "mucho",
+        "muy",
+        "mucha",
+        "muchos"
+      ],
+      "answer": 2,
+      "explain": "hambre는 여성 명사예요(el hambre라고 쓰지만 여성). 그래서 mucha hambre."
+    },
+    {
+      "q": "기차를 놓칠 것 같아 뛰면서 하는 말은?",
+      "options": [
+        "Tengo sueño.",
+        "Tengo prisa.",
+        "Tengo razón.",
+        "Tengo suerte."
+      ],
+      "answer": 1,
+      "explain": "tener prisa = 급하다, 서두르다. 'soy rápido'라고 하지 않아요."
+    },
+    {
+      "q": "친구 의견에 동의할 때: \"네 말이 맞아\"는?",
+      "options": [
+        "Tienes razón.",
+        "Eres razón.",
+        "Tienes cuidado.",
+        "Tengo razón."
+      ],
+      "answer": 0,
+      "explain": "tener razón = (말이) 옳다. 상대에게는 tú 형태 tienes를 써요."
+    },
+    {
+      "q": "\"머리가 아파\"로 알맞은 것은?",
+      "options": [
+        "Tengo dolor en cabeza.",
+        "Tengo dolor de cabeza.",
+        "Soy dolor de cabeza.",
+        "Tengo cabeza de dolor."
+      ],
+      "answer": 1,
+      "explain": "tener dolor + de + 신체 부위. 항상 전치사 de를 써요."
+    },
+    {
+      "q": "빈칸: Tengo ganas ___ ir a la playa.",
+      "options": [
+        "a",
+        "que",
+        "de",
+        "en"
+      ],
+      "answer": 2,
+      "explain": "tener ganas de + 동사원형 = ~하고 싶다."
+    },
+    {
+      "q": "\"저는 서른 살이에요\"는?",
+      "options": [
+        "Soy 30 años.",
+        "Estoy 30 años.",
+        "Tengo 30 años.",
+        "Hay 30 años."
+      ],
+      "answer": 2,
+      "explain": "나이는 '가진' 것이라 tener + 숫자 + años. 'soy 30'은 흔한 실수예요."
+    },
+    {
+      "q": "젖은 바닥을 보고 하는 경고는?",
+      "options": [
+        "¡Ten suerte!",
+        "¡Ten cuidado!",
+        "¡Ten prisa!",
+        "¡Ten sueño!"
+      ],
+      "answer": 1,
+      "explain": "tener cuidado = 조심하다. 엄마들이 가장 많이 하는 말이죠."
+    },
+    {
+      "q": "사하라 사막, 45도, 물병이 없어요. 어떤 두 표현이 어울릴까요?",
+      "options": [
+        "tener frío y tener miedo",
+        "tener calor y tener sed",
+        "tener sueño y tener prisa",
+        "tener razón y tener éxito"
+      ],
+      "answer": 1,
+      "explain": "덥고(tengo calor) 목말라요(tengo sed). 사막에서는 둘이 늘 같이 와요."
+    },
+    {
+      "q": "'tener éxito'의 뜻은?",
+      "options": [
+        "출구가 있다",
+        "성공하다",
+        "흥분하다",
+        "사건이 있다"
+      ],
+      "answer": 1,
+      "explain": "éxito는 '성공'이에요. 영어 exit(출구)와 헷갈리기 쉬워요! 'ser suceso'라고도 하지 않아요."
+    },
+    {
+      "q": "'rendirse'의 뜻은?",
+      "options": [
+        "포기하다",
+        "쉬다",
+        "맞히다",
+        "돌아오다"
+      ],
+      "answer": 0,
+      "explain": "rendirse = 포기하다. \"Nunca deben rendirse.\" (절대 포기하지 마세요)"
+    }
+  ]
+}
