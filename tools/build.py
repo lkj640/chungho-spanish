@@ -132,6 +132,9 @@ def add_pinyin(sections):
                         syls[i] = "de"
                     elif c == "得" and y == "dé" and prev and _han(prev) and prev not in "获取赢难记" and i + 1 < len(toks) and toks[i + 1] != "到":
                         syls[i] = "de"
+            # 한자 한 글자마다 병음을 위에 달 수 있게 [[글자, 병음], …] (문장부호 등은 병음 없이)
+            if len(syls) == len(toks):
+                l["rb"] = [[c, y if _han(c) else ""] for c, y in zip(toks, syls)]
             out = ""
             for syl in syls:
                 syl = syl.translate(PUNCT)

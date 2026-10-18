@@ -26,6 +26,7 @@
   $("hero").innerHTML = `<div class="chips"><span class="chip yel">${esc(L.channel || "")}</span><span class="chip">${esc(L.level || "")}</span>${L.duration ? `<span class="chip">⏱ ${esc(L.duration)}</span>` : ""}</div>
     <h1>${esc(L.emoji || "")} ${esc(L.title)}</h1><div class="es" lang="${esc(lang)}">${esc(L.es || "")}</div>
     ${L.summary ? `<p>${esc(L.summary)}</p>` : ""}
+    ${Object.keys(who).length ? `<div class="cast">출연: ${Object.entries(who).map(([k, v], i) => `<b class="sp${i % 4}">${esc(v)}</b>`).join(" · ")} <span class="ts">※ 화자 구분은 대화 맥락 기준</span></div>` : ""}
     ${L.youtube ? `<p><a href="https://www.youtube.com/watch?v=${esc(L.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 원본 보기</a></p>` : ""}`;
 
   // ---------- 탭 ----------
@@ -53,7 +54,7 @@
     opts += `<option value="${si}">${fmt(t0)} · ${esc(s.title)}</option>`;
     for (const l of s.lines) {
       html += `<div class="line sp${Math.max(0, spk.indexOf(l.s)) % 4}" data-i="${n++}" data-t="${l.t}"><div class="who">${esc(who[l.s] || l.s)}<span class="ts">${fmt(l.t)}</span></div>
-        <div class="txt">${l.py ? `<div class="py">${esc(l.py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${l.rb ? rubyHtml(l.rb) : esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
+        <div class="txt">${l.py && !l.rb ? `<div class="py">${esc(l.py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${l.rb ? rubyHtml(l.rb) : esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
     }
   });
   $("lines").innerHTML = html;
@@ -70,10 +71,11 @@
   };
   if (lines.some(l => l.querySelector(".py, rt"))) {
     $("optPyWrap").hidden = false;
-    $("optPyWrap").lastChild.textContent = lang === "ja" ? " 후리가나" : " 병음";
+    $("optPyWrap").lastChild.textContent = lang === "ja" ? " 후리가나 보기" : " 병음 보기";
     bindOpt("optPy", "opt_py", true, v => document.body.classList.toggle("no-py", !v));
   }
   bindOpt("optKo", "opt_ko", true, v => document.body.classList.toggle("no-ko", !v));
+  $("hideLbl").textContent = `${LG.native} 가리기`;
   bindOpt("optHide", "opt_hide", false, v => document.body.classList.toggle("hide-es", v));
   bindOpt("optScroll", "opt_scroll", true, () => {});
 
@@ -149,7 +151,15 @@
       if (t >= end - 0.1 || t < T[loopIdx] - 1) { P.seek(T[loopIdx]); return; }
     }
     setActive(idxAt(t));
+    const d = P.dur();
+    if (d && d < 1e8) {
+      $("curT").textContent = fmt(t); $("durT").textContent = fmt(d);
+      if (!dragging) $("seek").value = Math.round(t / d * 1000);
+    }
   }, 200);
+  let dragging = false;
+  $("seek").addEventListener("input", () => { dragging = true; const d = P.dur(); if (d < 1e8) $("curT").textContent = fmt($("seek").value / 1000 * d); });
+  $("seek").addEventListener("change", async () => { await P.readyP; const d = P.dur(); if (d < 1e8) P.seek($("seek").value / 1000 * d); dragging = false; });
 
   $("lines").addEventListener("click", e => {
     const l = e.target.closest(".line"); if (!l) return;
