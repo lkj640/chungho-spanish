@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>강의 · 충호의 스페인어 열공 사이트</title>
+<meta name="theme-color" content="#c8102e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇪🇸</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="stripe"></div>
+<div class="topbar"><div class="wrap">
+  <div class="row"><a class="back" href="./">‹ 홈</a><div class="ttl" id="ttl"></div></div>
+  <div class="tabs" role="tablist">
+    <button role="tab" data-tab="listen" aria-selected="true">🎧 듣기</button>
+    <button role="tab" data-tab="grammar" aria-selected="false">📘 문법</button>
+    <button role="tab" data-tab="vocab" aria-selected="false">📝 단어장</button>
+    <button role="tab" data-tab="quiz" aria-selected="false">✏️ 퀴즈</button>
+  </div>
+</div></div>
+
+<div class="wrap">
+  <div class="hero" id="hero"></div>
+
+  <section class="pane on" id="pane-listen">
+    <div class="ytbox"><div id="yt"></div></div>
+    <p class="hint">문장을 누르면 그 부분부터 재생돼요. 아이폰에서 처음 재생이 안 되면 영상의 ▶를 한 번 직접 눌러 주세요.</p>
+    <div class="opts">
+      <label><input type="checkbox" id="optKo" checked> 한국어 번역</label>
+      <label><input type="checkbox" id="optHide"> 스페인어 가리기 (받아쓰기)</label>
+      <label><input type="checkbox" id="optScroll" checked> 자동 스크롤</label>
+      <label><input type="checkbox" id="optLoop"> 현재 문장 반복</label>
+    </div>
+    <select class="jump" id="jump" aria-label="구간 이동"></select>
+    <div id="lines"></div>
+    <div class="done-box"><button class="btn primary" id="doneBtn"></button></div>
+  </section>
+
+  <section class="pane" id="pane-grammar"></section>
+  <section class="pane" id="pane-vocab"></section>
+  <section class="pane" id="pane-quiz"></section>
+</div>
+
+<div class="bar" id="bar"><div class="wrap">
+  <button class="ib" id="prev" aria-label="이전 문장">⏮</button>
+  <button class="ib play" id="play" aria-label="재생">▶</button>
+  <button class="ib" id="next" aria-label="다음 문장">⏭</button>
+  <div class="now" id="now">문장을 눌러 재생해 보세요</div>
+  <select class="rate" id="rate" aria-label="재생 속도">
+    <option value="0.75">0.75×</option><option value="0.85">0.85×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option>
+  </select>
+</div></div>
+
+<script src="assets/common.js"></script>
+<script src="assets/lesson.js"></script>
+</body>
+</html>

@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-18",
+  "title": "조건법으로 상상하고 공손하게 부탁하기",
+  "es": "¿Qué harías si ganaras la lotería?",
+  "emoji": "🎰",
+  "level": "B1",
+  "channel": "Español Auténtico",
+  "videoTitle": "Conditional Tense & Polite Requests Level B1",
+  "youtube": "0DYi2JIYUIs",
+  "duration": "29:55",
+  "speakers": { "S": "Sofía", "C": "Carlos" },
+  "summary": "복권 당첨, 지갑 분실, 생일 선물, 공원에서 만난 배우 — 네 가지 가정 상황으로 조건법(-ía)을 익히고, me gustaría · podrías · deberías · yo que tú로 공손하게 부탁하고 조언하는 법을 배워요.",
+  "topics": [
+    "조건법 만들기: 동사원형 + -ía",
+    "불규칙 동사: haría · tendría · podría",
+    "가정하기: Si ganara…, viajaría…",
+    "공손한 부탁: me gustaría · ¿podrías…? · ¿le importaría?",
+    "조언하기: yo que tú · deberías"
+  ],
+  "grammar": [
+    {
+      "title": "① 조건법(Condicional) 만들기",
+      "lead": "규칙 동사는 아주 쉬워요. <b>동사원형 전체</b>에 어미를 붙이기만 하면 돼요. -ar / -er / -ir 모두 같은 어미예요.",
+      "table": {
+        "head": ["주어", "어미", "viajar", "comer", "vivir"],
+        "rows": [
+          ["yo", "-ía", "viajaría", "comería", "viviría"],
+          ["tú", "-ías", "viajarías", "comerías", "vivirías"],
+          ["él / ella / usted", "-ía", "viajaría", "comería", "viviría"],
+          ["nosotros", "-íamos", "viajaríamos", "comeríamos", "viviríamos"],
+          ["vosotros", "-íais", "viajaríais", "comeríais", "viviríais"],
+          ["ellos / ustedes", "-ían", "viajarían", "comerían", "vivirían"]
+        ]
+      },
+      "tip": "yo와 él/ella 형태가 똑같아요. 그래서 헷갈릴 땐 주어(yo, él)를 붙여 말해요."
+    },
+    {
+      "title": "② 불규칙 동사 — los verbos rebeldes",
+      "lead": "자주 쓰는 동사 몇 개는 어간이 바뀌어요. 어미(-ía, -ías…)는 똑같아요. ★ 표시는 이번 영상에 나온 동사예요.",
+      "table": {
+        "head": ["동사원형", "바뀐 어간", "yo 형태", "뜻"],
+        "rows": [
+          ["hacer ★", "har-", "haría", "하다"],
+          ["tener ★", "tendr-", "tendría", "가지다"],
+          ["poder ★", "podr-", "podría", "할 수 있다"],
+          ["decir ★", "dir-", "diría", "말하다"],
+          ["poner(se) ★", "pondr-", "me pondría", "놓다 / ~하게 되다"],
+          ["querer", "querr-", "querría", "원하다"],
+          ["salir", "saldr-", "saldría", "나가다"],
+          ["venir", "vendr-", "vendría", "오다"],
+          ["saber", "sabr-", "sabría", "알다"],
+          ["haber", "habr-", "habría", "있다"]
+        ]
+      },
+      "tip": "✗ hacería → ✓ haría · ✗ tenería → ✓ tendría · ✗ podería → ✓ podría"
+    },
+    {
+      "title": "③ 가정하기 — Si + 접속법 과거, 조건법",
+      "lead": "지금 현실이 아닌 일을 상상할 때: <b>Si + 접속법 과거</b>(ganara, estuviera, tuviera, fuera), <b>조건법</b>.",
+      "examples": [
+        ["Si ganara la lotería, viajaría por todo el mundo.", "복권에 당첨된다면 전 세계를 여행할 텐데."],
+        ["Si estuviera en un restaurante y no tuviera mi cartera, me moriría de vergüenza.", "식당에 있는데 지갑이 없다면 창피해서 죽을 거야."],
+        ["Si estuviera leyendo un libro, no lo interrumpiría.", "그가 책을 읽고 있다면 방해하지 않을 거야."],
+        ["¿Qué harías si te dieras cuenta de que has perdido tu cartera?", "지갑을 잃어버린 걸 알게 된다면 어떻게 할 거야?"]
+      ],
+      "tip": "접속법 과거 만들기: 3인칭 복수 과거(ganaron, estuvieron, tuvieron) → -ron을 빼고 -ra. ganaron → ganara."
+    },
+    {
+      "title": "④ 미래 vs 조건법",
+      "lead": "미래는 <b>확실한 일</b>, 조건법은 <b>조건에 달린 일</b> 또는 <b>공손한 바람</b>이에요.",
+      "examples": [
+        ["Mañana trabajaré.", "내일 일할 거야. (확실한 계획 → 미래)"],
+        ["Si ganara la lotería, no trabajaría.", "복권에 당첨되면 일 안 할 텐데. (가정 → 조건법)"],
+        ["Mañana comeré en ese restaurante.", "내일 그 식당에서 먹을 거야. (계획 → 미래)"],
+        ["Hola, me gustaría comer aquí. ¿Tienen una mesa para dos?", "여기서 식사하고 싶은데요. 두 명 자리 있나요? (현재의 바람 → 공손한 조건법)"]
+      ]
+    },
+    {
+      "title": "⑤ 공손한 부탁 — el condicional de cortesía",
+      "lead": "quiero(원해요)는 문법적으로 틀리진 않지만 명령처럼 들릴 수 있어요. 조건법은 말을 부드럽게 하는 <b>'공손함의 방패'</b>예요.",
+      "examples": [
+        ["Me gustaría un café con leche, por favor.", "카페라테 한 잔 주세요. (Me gustaría + 명사)"],
+        ["Me gustaría probarme esta camisa.", "이 셔츠 입어 보고 싶어요. (Me gustaría + 동사원형)"],
+        ["¿Podrías traerme la cuenta, por favor?", "계산서 좀 가져다줄래요? (tú에게)"],
+        ["Perdone, ¿podría decirme dónde está el metro?", "실례합니다, 지하철역이 어디인지 알려 주시겠어요? (usted에게)"],
+        ["Perdone, me gustaría hacerme una foto con usted, ¿le importaría?", "같이 사진 찍고 싶은데, 괜찮으실까요?"],
+        ["Oye, ¿podrías pasarme la sal?", "야, 소금 좀 건네줄래? (친구 사이)"]
+      ],
+      "tip": "tú(친구) ↔ usted(모르는 사람·윗사람): podrías ↔ podría, perdona ↔ perdone, oye ↔ disculpe. 친구·가족끼리는 \"dame agua\"처럼 직설적으로 말해도 자연스러워요."
+    },
+    {
+      "title": "⑥ 조언하기 — yo que tú · deberías",
+      "lead": "명령형(Ve al médico)보다 훨씬 부드럽게 조언할 수 있어요.",
+      "examples": [
+        ["Yo que tú, iría al médico.", "내가 너라면 병원에 갈 거야."],
+        ["Yo en tu lugar, dormiría más este fin de semana.", "내가 네 입장이라면 이번 주말엔 잠을 더 잘 거야."],
+        ["Deberías ir al médico.", "병원에 가 보는 게 좋겠어. (= you should)"],
+        ["Yo que ustedes, me suscribiría a este canal.", "내가 여러분이라면 이 채널을 구독할 거예요."]
+      ],
+      "tip": "yo que tú = si yo fuera tú (내가 너라면). 뒤에는 항상 조건법이 와요."
+    }
+  ],
+  "phrases": [
+    ["¿Qué harías si ganaras la lotería?", "복권에 당첨되면 뭘 할 거야?"],
+    ["Es una locura solo pensarlo.", "생각만 해도 말도 안 돼."],
+    ["Me gustaría un café con leche, por favor.", "카페라테 한 잔 주세요."],
+    ["¿Podrías traerme la cuenta, por favor?", "계산서 좀 가져다줄래요?"],
+    ["¿Tienen una mesa para dos?", "두 명 자리 있나요?"],
+    ["Me moriría de vergüenza.", "창피해서 죽을 것 같아."],
+    ["Lo siento muchísimo. Soy un desastre.", "정말 미안해. 나 진짜 엉망이야."],
+    ["Bromas aparte…", "농담은 그렇고…"],
+    ["Yo que tú, iría al médico.", "내가 너라면 병원에 갈 거야."],
+    ["¿Le importaría?", "괜찮으시겠어요?"],
+    ["Respiraría hondo.", "숨을 깊이 쉴 거야."],
+    ["Es una oportunidad única en la vida.", "일생에 한 번뿐인 기회야."]
+  ],
+  "vocab": [
+    { "es": "la lotería", "ko": "복권", "ex": "¿Qué harías si ganaras la lotería?", "exKo": "복권에 당첨되면 뭘 할 거야?" },
+    { "es": "el boleto / el billete", "ko": "표, 티켓 (복권·영화·기차)", "ex": "Tienes el boleto ganador en la mano.", "exKo": "당첨 복권이 네 손에 있어." },
+    { "es": "el premio", "ko": "상, 상금", "ex": "Si tus números salen elegidos, ganas un premio.", "exKo": "숫자가 뽑히면 상금을 받아." },
+    { "es": "soñar despierto", "ko": "백일몽을 꾸다, 공상하다", "ex": "Antes de empezar a soñar despiertos…", "exKo": "공상을 시작하기 전에…" },
+    { "es": "una locura", "ko": "미친 짓, 말도 안 되는 일", "ex": "Es una locura solo pensarlo.", "exKo": "생각만 해도 말도 안 돼." },
+    { "es": "hipotético/a", "ko": "가정의, 가상의", "ex": "Una situación hipotética no es real en este momento.", "exKo": "가정 상황은 지금 현실이 아니야." },
+    { "es": "darse cuenta (de)", "ko": "깨닫다, 알아차리다", "ex": "¿Te diste cuenta de cómo terminan los verbos?", "exKo": "동사가 어떻게 끝나는지 알아챘어?" },
+    { "es": "educado/a · cortés", "ko": "예의 바른 · 공손한", "ex": "Usamos el condicional para ser educados y corteses.", "exKo": "예의 바르고 공손하려고 조건법을 써." },
+    { "es": "maleducado/a", "ko": "무례한, 버릇없는", "ex": "Decir «dame agua» no suena maleducado entre amigos.", "exKo": "친구끼리 '물 줘'는 무례하게 들리지 않아." },
+    { "es": "directo/a", "ko": "직설적인", "ex": "Decir quiero suena muy directo.", "exKo": "quiero라고 하면 아주 직설적으로 들려." },
+    { "es": "sonar", "ko": "~하게 들리다", "ex": "Me gustaría suena amable.", "exKo": "me gustaría는 친절하게 들려." },
+    { "es": "mandón / mandona", "ko": "이래라저래라하는, 우두머리 행세하는", "ex": "No quiero sonar como una jefa mandona.", "exKo": "이래라저래라하는 상사처럼 들리고 싶지 않아." },
+    { "es": "suavizar", "ko": "부드럽게 하다, 누그러뜨리다", "ex": "El condicional suaviza nuestras palabras.", "exKo": "조건법은 우리 말을 부드럽게 해 줘." },
+    { "es": "la cuenta", "ko": "계산서", "ex": "¿Podrías traerme la cuenta, por favor?", "exKo": "계산서 좀 가져다줄래요?" },
+    { "es": "el camarero / la camarera", "ko": "웨이터, 종업원", "ex": "Si hay un problema grave, no hablas con el camarero.", "exKo": "심각한 문제가 있으면 웨이터와 이야기하지 않아." },
+    { "es": "probarse", "ko": "(옷을) 입어 보다", "ex": "Me gustaría probarme esta camisa.", "exKo": "이 셔츠 입어 보고 싶어요." },
+    { "es": "el reto", "ko": "도전, 과제", "ex": "Queremos ponerles un pequeño reto práctico.", "exKo": "작은 실전 과제를 드리고 싶어요." },
+    { "es": "la cartera", "ko": "지갑", "ex": "He perdido mi cartera.", "exKo": "지갑을 잃어버렸어." },
+    { "es": "la pesadilla", "ko": "악몽", "ex": "Eso no es un sueño, es una pesadilla.", "exKo": "그건 꿈이 아니라 악몽이야." },
+    { "es": "la vergüenza", "ko": "창피함, 부끄러움", "ex": "Me moriría de vergüenza.", "exKo": "창피해서 죽을 것 같아." },
+    { "es": "el bolsillo", "ko": "주머니", "ex": "Buscaría en todos mis bolsillos.", "exKo": "주머니를 전부 찾아볼 거야." },
+    { "es": "el / la gerente", "ko": "매니저, 지배인", "ex": "Pediría hablar con el gerente.", "exKo": "매니저와 이야기하게 해 달라고 할 거야." },
+    { "es": "prometer", "ko": "약속하다", "ex": "Prometería volver con el dinero.", "exKo": "돈을 가지고 다시 오겠다고 약속할 거야." },
+    { "es": "la deuda", "ko": "빚", "ex": "Vas a volver mañana para pagar la deuda.", "exKo": "내일 와서 빚을 갚을 거야." },
+    { "es": "el timbre", "ko": "초인종", "ex": "Llegas a su casa y tocas el timbre.", "exKo": "그의 집에 도착해서 초인종을 눌러." },
+    { "es": "el regalo", "ko": "선물", "ex": "Has olvidado comprar su regalo.", "exKo": "그의 선물 사는 걸 잊었어." },
+    { "es": "sincero/a", "ko": "솔직한, 진실한", "ex": "Creo que sería muy sincera.", "exKo": "아주 솔직하게 말할 것 같아." },
+    { "es": "un desastre", "ko": "재난 / (구어) 엉망인 사람", "ex": "Lo siento muchísimo. Soy un desastre.", "exKo": "정말 미안해. 나 진짜 엉망이야." },
+    { "es": "la presencia", "ko": "존재, 참석", "ex": "Mi regalo es mi maravillosa presencia.", "exKo": "내 선물은 나의 멋진 존재야." },
+    { "es": "el consejo", "ko": "조언", "ex": "Lo usamos muchísimo para dar consejos.", "exKo": "조언할 때 정말 많이 써." },
+    { "es": "yo en tu lugar", "ko": "내가 네 입장이라면", "ex": "Yo en tu lugar, dormiría más.", "exKo": "내가 네 입장이라면 잠을 더 잘 거야." },
+    { "es": "paralizado/a", "ko": "얼어붙은, 마비된", "ex": "Creo que me quedaría paralizada.", "exKo": "얼어붙어 버릴 것 같아." },
+    { "es": "famoso/a", "ko": "유명한 / 유명인", "ex": "De repente ves a una persona muy famosa.", "exKo": "갑자기 아주 유명한 사람을 봐." },
+    { "es": "el banco", "ko": "벤치 / 은행", "ex": "Está sentado solo en un banco del parque.", "exKo": "공원 벤치에 혼자 앉아 있어." },
+    { "es": "acercarse", "ko": "다가가다", "ex": "Me acercaría muy despacio.", "exKo": "아주 천천히 다가갈 거야." },
+    { "es": "interrumpir", "ko": "방해하다, 끼어들다", "ex": "Si estuviera leyendo, no lo interrumpiría.", "exKo": "책을 읽고 있다면 방해하지 않을 거야." },
+    { "es": "respirar hondo", "ko": "숨을 깊이 쉬다", "ex": "Respiraría hondo y le pediría una foto.", "exKo": "숨을 깊이 쉬고 사진을 부탁할 거야." },
+    { "es": "el autógrafo", "ko": "사인 (유명인의)", "ex": "¿Podría darme un autógrafo, por favor?", "exKo": "사인 한 장 해 주실 수 있을까요?" }
+  ],
+  "quiz": [
+    { "q": "hacer의 조건법 yo 형태는?", "options": ["hacería", "haría", "hacía", "haré"], "answer": 1, "explain": "hacer는 불규칙 → 어간 har- + ía = haría. hacía는 불완료 과거, haré는 미래예요." },
+    { "q": "tener의 조건법 yo 형태는?", "options": ["tenería", "tendré", "tendría", "tenía"], "answer": 2, "explain": "tener → tendr- + ía = tendría. 'Si ganara la lotería, tendría una casa enorme.'" },
+    { "q": "카페에서 가장 공손하고 자연스러운 주문은?", "options": ["Quiero un café.", "Dame un café.", "Me gustaría un café, por favor.", "Querré un café."], "answer": 2, "explain": "Me gustaría(= I would like)가 가장 부드럽고 공손해요. quiero는 틀리진 않지만 직설적이에요." },
+    { "q": "처음 보는 사람에게 길을 물을 때 알맞은 표현은?", "options": ["Oye, ¿podrías decirme dónde está el metro?", "Perdone, ¿podría decirme dónde está el metro?", "Dime dónde está el metro.", "Diré dónde está el metro."], "answer": 1, "explain": "모르는 사람에게는 usted 형태: perdone + ¿podría…? oye/podrías는 친구 사이에 써요." },
+    { "q": "빈칸: Si ganara la lotería, ___ por todo el mundo.", "options": ["viajaré", "viajo", "viajaría", "viajé"], "answer": 2, "explain": "Si + 접속법 과거(ganara) 뒤에는 조건법(viajaría)이 와요." },
+    { "q": "\"Mañana comeré paella.\"에서 미래형을 쓴 이유는?", "options": ["가정이라서", "공손하게 말하려고", "확실한 계획이라서", "과거의 습관이라서"], "answer": 2, "explain": "미래 시제는 확실한 계획·일어날 일에 써요. 조건법은 가정이나 공손한 바람이에요." },
+    { "q": "\"Yo que tú, ___ al médico.\" 빈칸에 알맞은 말은?", "options": ["iría", "voy", "ve", "iré"], "answer": 0, "explain": "yo que tú(내가 너라면) 뒤에는 조건법: ir → iría." },
+    { "q": "\"Deberías dormir más.\"의 뜻은?", "options": ["너는 잠을 더 잤어.", "너는 잠을 더 자는 게 좋겠어.", "나는 잠을 더 잘 거야.", "잠을 더 자!"], "answer": 1, "explain": "deberías = you should. 부드러운 조언이에요." },
+    { "q": "'Soy un desastre'를 구어로 말하면 어떤 뜻?", "options": ["나는 지진을 겪었어", "나는 아주 정리를 잘해", "나는 정신없고 실수를 잘하는 사람이야", "나는 재난 전문가야"], "answer": 2, "explain": "구어로는 '나 진짜 엉망이야, 덜렁이야'라는 뜻이에요." },
+    { "q": "이 영상에서 'banco'는 무슨 뜻으로 쓰였나요?", "options": ["은행", "벤치", "책상", "다리"], "answer": 1, "explain": "공원에 있는 긴 의자, 벤치예요. 돈을 맡기는 은행이 아니에요." },
+    { "q": "\"¿Le importaría?\"의 뜻으로 가장 알맞은 것은?", "options": ["중요한가요?", "괜찮으시겠어요?", "수입하시겠어요?", "기억하시나요?"], "answer": 1, "explain": "importar(신경 쓰이다)의 조건법 → '괜찮으실까요?' 아주 우아한 공손 표현이에요." },
+    { "q": "poder의 조건법 tú 형태는?", "options": ["poderías", "podrías", "puedes", "podrás"], "answer": 1, "explain": "poder → podr- + ías = podrías. '¿Podrías traerme la cuenta?'" }
+  ]
+}
