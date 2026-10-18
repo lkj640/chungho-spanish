@@ -66,16 +66,17 @@ def main():
         if not meta_p.exists():
             continue
         meta = json.loads(meta_p.read_text(encoding="utf-8"))
-        data = dict(meta)
+        data = {"id": d.name} | meta
         if script_p.exists():
             data["sections"] = parse_script(script_p)
         (d / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
         nlines = sum(len(s["lines"]) for s in data.get("sections", []))
-        index.append({k: meta.get(k) for k in
+        index.append({"id": d.name} | {k: meta.get(k) for k in
                       ("date", "title", "es", "emoji", "level", "channel", "youtube", "duration", "summary", "topics")}
                      | {"vocabCount": len(meta.get("vocab", [])), "lineCount": nlines})
         print(f"✓ {d.name}: 문장 {nlines}개 · 단어 {len(meta.get('vocab', []))}개 · 퀴즈 {len(meta.get('quiz', []))}개")
-    index.sort(key=lambda x: x["date"], reverse=True)
+    # 같은 날 강의가 여럿이면 폴더 이름에 -2, -3…을 붙여요 (예: 2026-10-18-2)
+    index.sort(key=lambda x: (x["date"], len(x["id"]), x["id"]), reverse=True)
     (ROOT / "lessons.json").write_text(json.dumps({"lessons": index}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"✓ lessons.json: 총 {len(index)}개 강의")
 

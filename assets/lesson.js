@@ -6,9 +6,9 @@
   document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say); } });
 
   // ---------- 강의 불러오기 ----------
-  const date = new URLSearchParams(location.search).get("d");
+  const id = new URLSearchParams(location.search).get("d");
   let L = null;
-  if (/^\d{4}-\d{2}-\d{2}$/.test(date || "")) L = await fetch(`lessons/${date}/data.json`, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  if (/^\d{4}-\d{2}-\d{2}(-\d+)?$/.test(id || "")) L = await fetch(`lessons/${id}/data.json`, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
   if (!L) {
     $("hero").innerHTML = '<h1>강의를 찾을 수 없어요</h1><p><a href="./">홈으로 돌아가기</a></p>';
     document.querySelectorAll(".pane,.bar,.tabs").forEach(e => e.remove());
@@ -129,8 +129,8 @@
 
   // 공부 완료 체크
   const done = store.get("done", {});
-  const paintDone = () => { $("doneBtn").textContent = done[L.date] ? "✅ 공부 완료! (다시 누르면 취소)" : "🎉 이 강의 공부 완료하기"; };
-  $("doneBtn").onclick = () => { if (done[L.date]) delete done[L.date]; else done[L.date] = Date.now(); store.set("done", done); paintDone(); };
+  const paintDone = () => { $("doneBtn").textContent = done[L.id] ? "✅ 공부 완료! (다시 누르면 취소)" : "🎉 이 강의 공부 완료하기"; };
+  $("doneBtn").onclick = () => { if (done[L.id]) delete done[L.id]; else done[L.id] = Date.now(); store.set("done", done); paintDone(); };
   paintDone();
 
   // ---------- 문법 ----------
@@ -151,7 +151,7 @@
 
   // ---------- 단어장 ----------
   const known = store.get("known", {});
-  const kkey = v => L.date + "|" + v.es;
+  const kkey = v => L.id + "|" + v.es;
   let vfilter = "all";
   const vocab = L.vocab || [];
   $("pane-vocab").innerHTML = `<div class="vtools">

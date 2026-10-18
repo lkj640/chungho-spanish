@@ -6,9 +6,9 @@
   if (!list.length) { app.innerHTML = '<p class="hint">아직 강의가 없어요.</p>'; return; }
 
   const done = store.get("done", {});
-  const link = l => `lesson.html?d=${l.date}`;
+  const link = l => `lesson.html?d=${l.id}`;
   const totalWords = list.reduce((a, l) => a + (l.vocabCount || 0), 0);
-  const doneCount = list.filter(l => done[l.date]).length;
+  const doneCount = list.filter(l => done[l.id]).length;
   const latest = list[0];
 
   let html = `<div class="stats">
@@ -18,7 +18,7 @@
     </div>
     <section class="card latest">
       <div class="chips"><span class="chip red">🆕 최신 강의</span><span class="chip">${fmtDate(latest.date)}</span>
-        <span class="chip yel">${esc(latest.level || "")}</span>${done[latest.date] ? '<span class="chip green">✓ 완료</span>' : ""}</div>
+        <span class="chip yel">${esc(latest.level || "")}</span>${done[latest.id] ? '<span class="chip green">✓ 완료</span>' : ""}</div>
       <h2>${esc(latest.emoji || "")} ${esc(latest.title)}</h2>
       <div class="es">${esc(latest.es || "")}</div>
       <p>${esc(latest.summary || "")}</p>
@@ -46,7 +46,7 @@
         <div class="em">${esc(l.emoji || "📗")}</div>
         <div><div class="d">${fmtDate(l.date)} · ${esc(l.channel || "")} · ${esc(l.level || "")}${l.duration ? " · " + esc(l.duration) : ""}</div>
           <div class="t">${esc(l.title)}</div><div class="d">${esc(l.es || "")}</div></div>
-        <div class="go">${done[l.date] ? "✅" : "›"}</div></a>`;
+        <div class="go">${done[l.id] ? "✅" : "›"}</div></a>`;
     }
     document.getElementById("lst").innerHTML = out ? `<div class="list">${out}</div>` : '<p class="hint">찾는 강의가 없어요.</p>';
   }

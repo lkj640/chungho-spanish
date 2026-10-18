@@ -1,0 +1,323 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 스페인어 | 한국어
+# 화자: S = Sofía, C = Carlos.  END = 영상 끝 시각
+END 28:12
+
+[00:00]
+## 인사와 소개
+S | Hola a todos y todas, bienvenidos a Español Auténtico. | 안녕하세요 여러분, Español Auténtico에 오신 걸 환영해요.
+S | Si tu objetivo es aprender a hablar español de forma natural, o si buscas un buen Spanish podcast para escuchar todos los días, estás en el lugar perfecto. | 스페인어를 자연스럽게 말하는 게 목표이거나, 매일 들을 좋은 스페인어 팟캐스트를 찾고 있다면 딱 맞는 곳에 오셨어요.
+C | Hola, amigos, qué bueno estar aquí con ustedes. Este es el canal ideal para tu Spanish listening practice. | 안녕하세요 여러분, 함께하게 되어 정말 좋네요. 듣기 연습을 하기에 딱 좋은 채널이에요.
+
+[00:26]
+C | Hoy hemos preparado un episodio muy especial, pensado para todos los que buscan español para principiantes. | 오늘은 초급 스페인어를 찾는 모든 분들을 위해 아주 특별한 에피소드를 준비했어요.
+S | Así es, Carlos. En Español Auténtico nos encanta practicar la conversación en español real, el que usamos en la calle. | 맞아요, 카를로스. Español Auténtico에서는 길거리에서 실제로 쓰는 진짜 스페인어 회화를 연습하는 걸 좋아해요.
+S | Pero antes de empezar con nuestro tema de hoy, quiero pedirles un favor muy importante a todos los que nos escuchan. | 그런데 오늘 주제를 시작하기 전에, 듣고 계신 모든 분께 아주 중요한 부탁을 하나 드리고 싶어요.
+S | Si les gusta aprender con nosotros, por favor, suscríbanse al canal ahora mismo. | 저희와 함께 배우는 게 좋으시다면, 지금 바로 채널을 구독해 주세요.
+
+[00:52]
+C | Sí, por favor. Es superimportante. Dejar un me gusta, escribir un comentario y suscribirse ayuda muchísimo a que el canal crezca. | 네, 부탁드려요. 정말 중요해요. '좋아요'를 누르고, 댓글을 쓰고, 구독하는 게 채널이 성장하는 데 큰 도움이 돼요.
+C | Cuando ustedes interactúan, YouTube recomienda nuestros videos a más personas, y así nosotros podemos seguir creando más clases de español totalmente gratis para ustedes. Solo toma un segundo. | 여러분이 참여해 주시면 유튜브가 더 많은 사람에게 저희 영상을 추천해 주고, 그래야 완전히 무료인 스페인어 수업을 계속 만들 수 있어요. 1초면 돼요.
+S | Exactamente. | 맞아요.
+
+[01:18]
+S | Y para participar hoy de forma activa, les pido que escriban en los comentarios una de las expresiones nuevas que vamos a aprender. | 그리고 오늘 적극적으로 참여하실 수 있게, 오늘 배울 새 표현 중 하나를 댓글에 써 주세요.
+S | Hoy vamos a estudiar el vocabulario español relacionado con el verbo tener. Es un verbo fundamental. | 오늘은 동사 tener와 관련된 어휘를 공부할 거예요. 아주 기본적인 동사죠.
+C | El verbo tener… yo sé que significa poseer cosas. Por ejemplo, yo digo: "Tengo un teléfono nuevo" o "Tengo una casa pequeña". ¿Vamos a practicar eso hoy, Sofía? | 동사 tener… 물건을 가지고 있다는 뜻인 건 알아요. 예를 들어 "새 휴대폰이 있어" 또는 "작은 집이 있어"라고 하죠. 오늘 그걸 연습하는 거예요, 소피아?
+S | No exactamente, Carlos. | 꼭 그렇진 않아요, 카를로스.
+
+[01:45]
+S | Hoy vamos a practicar frases en español muy comunes donde usamos el verbo tener para expresar sensaciones físicas de nuestro cuerpo. | 오늘은 우리 몸의 신체 감각을 표현할 때 tener를 쓰는, 아주 흔한 스페인어 문장들을 연습할 거예요.
+S | En otros idiomas las personas usan el verbo ser o estar para esto, pero los hablantes de español nativo siempre usamos tener. | 다른 언어에서는 이럴 때 '~이다(ser/estar)' 동사를 쓰지만, 스페인어 원어민은 항상 tener를 써요.
+C | Ah, claro, ya entiendo. Te refieres a situaciones del cuerpo. | 아, 그렇군요, 이제 알겠어요. 몸 상태에 관한 상황을 말하는 거군요.
+
+[02:12]
+## ① 배고파 · 목말라 · 더워 · 추워
+C | Por ejemplo, son las 2 de la tarde, yo no he comido nada en todo el día y mi estómago hace ruido. | 예를 들어 오후 2시인데 하루 종일 아무것도 안 먹어서 배에서 꼬르륵 소리가 나요.
+S | Ese es el mejor ejemplo. En esa situación nosotros decimos tener hambre. Tener hambre es una sensación que todos conocemos muy bien. | 그게 가장 좋은 예예요. 그럴 때 우리는 tener hambre(배고프다)라고 해요. 배고픔은 우리 모두 잘 아는 감각이죠.
+C | Claro. Tener hambre. Yo llego a casa después del trabajo, abro la nevera y digo: "Tengo mucha hambre. Necesito comer". Tengo mucha hambre. | 그렇죠. Tener hambre. 퇴근하고 집에 와서 냉장고를 열고 "너무 배고파. 뭐 좀 먹어야겠어"라고 말해요. Tengo mucha hambre.
+
+[02:36]
+S | Perfecto, esa es nuestra primera expresión. Ahora imagina otra microsituación. | 완벽해요, 그게 첫 번째 표현이에요. 이제 또 다른 짧은 상황을 상상해 봐요.
+S | Estás caminando por un parque enorme. Hace mucho sol. Has caminado por una hora y necesitas beber agua de forma urgente. | 아주 큰 공원을 걷고 있어요. 햇볕이 강해요. 한 시간 동안 걸어서 급하게 물을 마셔야 해요.
+C | ¡Uf! En ese caso digo tener sed. Tener sed. Digo: "Por favor, dame un vaso de agua, porque tengo sed". | 휴! 그럴 땐 tener sed(목마르다)라고 해요. Tener sed. "물 한 잔만 줘, 목말라"라고 하죠.
+
+[03:01]
+C | Tengo sed. | Tengo sed.
+S | Muy bien, Carlos. Tener sed es nuestra segunda expresión vital. Pero, ¿qué pasa con la temperatura de tu cuerpo mientras caminas bajo ese sol tan fuerte? | 아주 좋아요, 카를로스. Tener sed가 두 번째 필수 표현이에요. 그런데 그렇게 강한 햇볕 아래를 걸을 때 몸의 온도는 어때요?
+C | Tengo calor. Tener calor. El sol me hace sudar. Necesito la sombra o el aire acondicionado, porque tengo mucho calor. | 더워요. Tener calor(덥다). 햇볕 때문에 땀이 나요. 너무 더워서 그늘이나 에어컨이 필요해요.
+S | Así es. Tener calor. Tener calor. Ahora vamos al extremo opuesto. | 맞아요. Tener calor. Tener calor. 이제 정반대로 가 볼까요.
+
+[03:30]
+S | Imagina que es diciembre, estás en la nieve y olvidaste tu chaqueta en casa. | 12월이고, 눈 속에 있는데 재킷을 집에 두고 왔다고 상상해 봐요.
+C | Entonces, la expresión es tener frío. Tener frío. Yo diría: "Tengo mucho frío. Necesito mi chaqueta de inmediato". | 그럼 표현은 tener frío(춥다)예요. Tener frío. 저라면 "너무 추워. 당장 재킷이 필요해"라고 하겠어요.
+S | Excelente. Ya hemos visto cuatro situaciones muy cotidianas. | 훌륭해요. 벌써 아주 일상적인 상황 네 가지를 봤어요.
+
+[03:54]
+S | Vamos a repasarlas lentamente para mejorar la pronunciación española y fijar las ideas en la memoria de nuestros estudiantes. | 발음을 좋게 하고 학생들 기억에 확실히 남도록 천천히 복습해 봐요.
+C | Me parece una idea genial, Sofía. Vamos a hacer nuestra famosa sección de análisis del vocabulario para explicar todo paso a paso. | 아주 좋은 생각이에요, 소피아. 우리의 유명한 어휘 분석 코너로 하나씩 차근차근 설명해 봐요.
+## 어휘 분석 ①
+S | Tener. En español, este verbo es la base para expresar estados físicos. No lo usamos solo para objetos, sino para decir cómo se siente nuestro cuerpo. | Tener. 스페인어에서 이 동사는 신체 상태를 표현하는 기본이에요. 물건에만 쓰는 게 아니라 우리 몸이 어떻게 느끼는지 말할 때도 써요.
+
+[04:20]
+S | Es vital memorizar su conjugación básica: yo tengo, tú tienes, él tiene. | 기본 변화형을 꼭 외워야 해요. yo tengo, tú tienes, él tiene.
+S | Tener hambre. Usamos esta expresión cuando nuestro cuerpo necesita alimentos. Nunca decimos "soy hambriento". Decimos "tengo hambre". Es ideal para usar en un restaurante o en casa antes de la comida. | Tener hambre. 몸이 음식을 필요로 할 때 쓰는 표현이에요. 절대 "soy hambriento"라고 하지 않고 "tengo hambre"라고 해요. 식당이나 집에서 식사 전에 쓰기 좋아요.
+S | Tener sed es la necesidad de beber líquidos, casi siempre agua. Cuando haces deporte o caminas bajo el sol, tú dices: "Tengo sed". | Tener sed는 마실 것, 거의 언제나 물이 필요한 상태예요. 운동하거나 햇볕 아래를 걸을 때 "Tengo sed"라고 해요.
+
+[04:50]
+S | Escucha y repite en casa: tengo sed, tienes sed. | 집에서 듣고 따라 해 보세요. tengo sed, tienes sed.
+S | Tener calor es la sensación que sentimos cuando la temperatura del ambiente es muy alta. En el verano de España, la frase más escuchada es "tengo calor". | Tener calor는 주변 온도가 아주 높을 때 느끼는 감각이에요. 스페인의 여름에 가장 많이 들리는 말이 "tengo calor"예요.
+S | Tener frío es lo contrario. Cuando la temperatura es muy baja, en pleno invierno, usamos tener frío. | Tener frío는 그 반대예요. 한겨울처럼 온도가 아주 낮을 때 써요.
+S | En casa, si la ventana está abierta en invierno, decimos: "Tengo frío. Por favor, cierra la ventana". | 겨울에 집에서 창문이 열려 있으면 "추워. 창문 좀 닫아 줘"라고 해요.
+
+[05:21]
+## mucho vs muy — 왜 mucho일까?
+C | Sofía, estoy notando un detalle muy interesante en estas frases en español. | 소피아, 이 문장들에서 아주 흥미로운 점을 발견했어요.
+C | Me doy cuenta de que siempre usamos la palabra mucho con estas expresiones y nunca usamos muy. Decimos "tengo mucho frío" o "tengo mucha hambre", pero nunca decimos "tengo muy frío". Es un poco confuso para los extranjeros. | 이 표현들에는 항상 mucho를 쓰고 muy는 절대 안 쓰네요. "tengo mucho frío", "tengo mucha hambre"라고 하지 "tengo muy frío"라고는 안 해요. 외국인에게는 좀 헷갈려요.
+
+[05:48]
+C | ¿Es una regla fija? | 정해진 규칙인가요?
+S | Esa es una pregunta excelente, Carlos, y es una duda muy normal cuando quieres aprender español desde cero. | 아주 좋은 질문이에요, 카를로스. 스페인어를 처음부터 배울 때 아주 흔히 생기는 궁금증이죠.
+S | La respuesta es bastante sencilla: palabras como hambre, frío o calor no son adjetivos, son sustantivos. Son cosas. | 답은 꽤 간단해요. hambre, frío, calor 같은 말은 형용사가 아니라 명사예요. '것'이죠.
+C | Ah, claro, entiendo. Por eso decimos mucho, porque tenemos mucha cantidad de esa cosa en nuestro cuerpo. | 아, 그렇구나, 이해했어요. 그래서 mucho라고 하는 거군요. 우리 몸에 그 '것'이 많이 있으니까요.
+
+[06:16]
+C | No podemos usar muy. Qué buen consejo para nuestra Spanish conversation de hoy. | muy는 쓸 수 없는 거죠. 오늘 회화에 정말 좋은 팁이에요.
+S | Exactamente. Es un error común, pero muy fácil de corregir. | 바로 그거예요. 흔한 실수지만 고치기 아주 쉬워요.
+## ② 바빠 · 졸려 · 무서워 · 네 말이 맞아
+S | Ahora que sabemos esto, vamos a continuar con nuestras microsituaciones. Imagina esta escena: son las 8:05 de la mañana. Tu tren sale a las 8 en punto. | 이제 이걸 알았으니 짧은 상황 연습을 계속해 봐요. 이런 장면을 상상해 봐요. 아침 8시 5분이에요. 기차는 8시 정각에 출발해요.
+
+[06:41]
+S | Corres por la calle con tu maleta y miras el reloj constantemente. ¿Qué dices? | 여행 가방을 들고 길을 뛰면서 계속 시계를 봐요. 뭐라고 말해요?
+C | Digo: tengo prisa. Tener prisa. Digo: "Corre, corre, que tengo prisa y pierdo el tren". Tengo prisa. | "급해!"라고 해요. Tener prisa(급하다, 서두르다). "뛰어, 뛰어, 급해서 기차 놓치겠어"라고 하죠. Tengo prisa.
+S | Exacto. Tener prisa. Tener prisa. | 맞아요. Tener prisa. Tener prisa.
+S | Ahora imagina otro escenario. Son las 12 de la noche. Tuviste un día de trabajo muy largo y cansado. Tus ojos se cierran solos frente al televisor y bostezas sin parar. | 이제 다른 상황을 상상해 봐요. 밤 12시예요. 아주 길고 피곤한 하루를 보냈어요. TV 앞에서 눈이 저절로 감기고 하품이 멈추지 않아요.
+
+[07:16]
+C | En ese caso digo: tengo sueño. Tener sueño. Digo: "Me voy a la cama ahora mismo, porque tengo mucho sueño". Tengo sueño. | 그럴 땐 "졸려"라고 해요. Tener sueño(졸리다). "너무 졸려서 지금 바로 자러 갈래"라고 하죠. Tengo sueño.
+S | Muy bien, Carlos. Tener sueño. Tener sueño. | 아주 좋아요, 카를로스. Tener sueño. Tener sueño.
+S | Vamos con otra emoción corporal muy fuerte. Estás solo en tu casa. Es de noche y todo está muy oscuro. | 또 다른 아주 강한 몸의 감정으로 가 봐요. 집에 혼자 있어요. 밤이고 모든 게 아주 어두워요.
+
+[07:46]
+S | De repente escuchas un ruido extraño cerca de la ventana y tu corazón late muy rápido. | 갑자기 창문 근처에서 이상한 소리가 들리고 심장이 아주 빨리 뛰어요.
+C | Uy, en esa situación digo: tengo miedo. Tener miedo. Digo: "¿Qué fue ese ruido enorme? Tengo miedo". Tengo miedo. | 으, 그럴 땐 "무서워"라고 해요. Tener miedo(무섭다). "방금 그 엄청난 소리 뭐야? 무서워"라고 하죠. Tengo miedo.
+S | Sí, es una reacción natural tener miedo. Tener miedo. | 네, 무서운 건 자연스러운 반응이에요. Tener miedo.
+S | Y aquí va otra situación un poco diferente a las demás, pero que usamos todos los días. Tú y yo estamos debatiendo amigablemente. Yo digo que el cielo es azul. | 그리고 다른 것들과 조금 다르지만 매일 쓰는 상황이 하나 더 있어요. 당신과 제가 사이좋게 토론하고 있어요. 제가 하늘은 파랗다고 말해요.
+
+[08:23]
+S | Tú estás totalmente de acuerdo conmigo porque es un hecho real. ¿Qué me dices? | 그건 사실이니까 당신은 저에게 완전히 동의해요. 저에게 뭐라고 해요?
+C | Te digo: tienes razón. Tener razón. Digo: "Sí, Sofía, estoy de acuerdo contigo. Tienes razón". Tienes razón. | "네 말이 맞아"라고 해요. Tener razón(옳다, 맞다). "응, 소피아, 네 말에 동의해. 네 말이 맞아"라고 하죠. Tienes razón.
+S | Perfecto. Tener razón. Tener razón. Dominar estas expresiones es fundamental para hablar español con fluidez y naturalidad. | 완벽해요. Tener razón. Tener razón. 이 표현들을 익히는 게 유창하고 자연스럽게 말하는 데 아주 중요해요.
+C | Amigos que nos escuchan, si este episodio les está ayudando a mejorar su vocabulario, por favor, dejen un me gusta en este video ahora mismo. | 듣고 계신 여러분, 이 에피소드가 어휘 공부에 도움이 된다면 지금 바로 '좋아요'를 눌러 주세요.
+S | Sí, por favor. | 네, 부탁드려요.
+
+[09:04]
+S | Y también pueden escribir en los comentarios cuál de estas emociones sienten en este momento. ¿Tienen sueño? ¿Tienen prisa? | 그리고 지금 이 감정 중 어떤 걸 느끼고 있는지 댓글로 써 주셔도 돼요. 졸리세요? 바쁘세요?
+S | Escribir en los comentarios es un ejercicio fantástico de Spanish vocabulary y además apoya muchísimo al canal. Muchas gracias a todos por ese apoyo. | 댓글을 쓰는 건 훌륭한 어휘 연습이고, 채널에도 큰 도움이 돼요. 응원해 주셔서 모두 정말 감사해요.
+S | Bueno, Carlos, vamos a hacer una pausa para analizar estas cuatro nuevas expresiones. | 자, 카를로스, 잠깐 멈추고 이 새로운 표현 네 개를 분석해 봐요.
+
+[09:30]
+## 어휘 분석 ②
+S | Es el momento de nuestra sección de análisis del vocabulario. | 어휘 분석 코너 시간이에요.
+C | Claro que sí, Sofía. Hacer este repaso paso a paso es la mejor técnica para escuchar español de forma activa y no olvidar las palabras nuevas. | 물론이죠, 소피아. 이렇게 하나씩 복습하는 게 적극적으로 듣고 새 단어를 잊지 않는 최고의 방법이에요.
+C | Tener prisa. Usamos esta expresión cuando no tenemos tiempo suficiente. Cuando necesitas ir rápido a un lugar o terminar algo pronto, no dices "soy rápido", dices "tengo prisa". | Tener prisa. 시간이 충분하지 않을 때 쓰는 표현이에요. 어딘가에 빨리 가거나 뭔가를 빨리 끝내야 할 때, "soy rápido"가 아니라 "tengo prisa"라고 해요.
+
+[10:00]
+C | Tener sueño es la sensación física que sientes cuando tu cuerpo necesita dormir. Al final de un día largo es muy común decir: "Tengo mucho sueño" antes de ir a descansar. | Tener sueño는 몸이 잠을 필요로 할 때 느끼는 신체 감각이에요. 긴 하루가 끝나고 쉬러 가기 전에 "Tengo mucho sueño"라고 아주 흔히 말해요.
+C | Tener miedo es la emoción de alarma, peligro o pánico ante algo. Por ejemplo, muchas personas dicen: "Tengo miedo a volar en avión" o "Tengo miedo a las arañas". | Tener miedo는 무언가 앞에서 느끼는 경계, 위험, 공포의 감정이에요. 예를 들어 많은 사람이 "비행기 타는 게 무서워" 또는 "거미가 무서워"라고 해요.
+C | Tener razón. | Tener razón.
+
+[10:33]
+C | Usamos esta frase para confirmar que una persona dice la verdad o que su opinión es correcta. Es muy útil en cualquier debate para decir: "Sí, tienes razón, pienso igual que tú". | 누군가 사실을 말하거나 그 의견이 옳다고 확인할 때 쓰는 말이에요. 어떤 토론에서든 "응, 네 말이 맞아, 나도 같은 생각이야"라고 할 때 아주 유용해요.
+S | Excelente. Estas frases con el verbo tener son supernecesarias. Si practican esto todos los días, van a notar una mejora gigante al escuchar a los nativos. | 훌륭해요. tener를 쓴 이 문장들은 정말 꼭 필요해요. 매일 연습하면 원어민 말을 들을 때 엄청난 발전을 느낄 거예요.
+C | Oye, Sofía, todas estas frases son muy útiles en la vida diaria, pero me surge otra duda importante. | 저기, 소피아, 이 문장들 모두 일상에서 아주 유용한데, 또 중요한 궁금증이 생겼어요.
+
+[11:03]
+## ③ 아파 · 조심해 · 운이 좋아 · ~하고 싶어
+C | Hasta ahora hemos hablado de sensaciones como el hambre, el frío o el miedo. ¿El verbo tener se usa también para hablar de problemas de salud o partes del cuerpo? | 지금까지는 배고픔, 추위, 두려움 같은 감각을 이야기했잖아요. tener는 건강 문제나 신체 부위를 말할 때도 쓰나요?
+C | Por ejemplo, si un día me duele mucho la cabeza, ¿también uso el verbo tener en español? | 예를 들어 어느 날 머리가 많이 아프면, 스페인어로 그때도 tener를 쓰나요?
+S | Qué buena pregunta, Carlos. | 아주 좋은 질문이에요, 카를로스.
+
+[11:26]
+S | Y la respuesta es sí, absolutamente. Para hablar de problemas físicos o de salud, siempre usamos el verbo tener más la palabra dolor. Es una estructura muy lógica y muy útil en la vida diaria. | 답은 '그렇다'예요, 당연히요. 신체나 건강 문제를 말할 때는 항상 tener + dolor(통증)를 써요. 아주 논리적이고 일상에서 정말 유용한 구조예요.
+C | Ah, entonces, si yo trabajo todo el día mirando la pantalla del ordenador y mis ojos están cansados, yo digo: "Tengo dolor de cabeza". Tengo dolor de cabeza. | 아, 그럼 하루 종일 컴퓨터 화면을 보며 일해서 눈이 피곤하면 "머리가 아파"라고 하는 거네요. Tengo dolor de cabeza.
+
+[12:00]
+S | Eso es perfecto. Tengo dolor de cabeza. Y si comes mucha cantidad de comida rápida y te sientes mal después, tú dices: "Tengo dolor de estómago". Tengo dolor de estómago. | 완벽해요. Tengo dolor de cabeza. 그리고 패스트푸드를 너무 많이 먹고 나서 속이 안 좋으면 "배가 아파"라고 해요. Tengo dolor de estómago.
+C | Es muy directo. Así es mucho más fácil hacer nuestra Spanish listening practice y mejorar rápido. ¿Qué otra situación importante expresamos con este verbo? | 아주 직관적이네요. 이러면 듣기 연습을 하고 빨리 실력을 늘리기 훨씬 쉬워요. 이 동사로 표현하는 또 다른 중요한 상황은 뭐가 있나요?
+S | Imagina esta escena. | 이런 장면을 상상해 봐요.
+
+[12:23]
+S | Estás caminando por la calle, ha llovido mucho y el suelo está muy mojado. O estás cruzando una avenida con muchos coches veloces. Yo te miro y te digo: "Tienes que tener cuidado". Tener cuidado. | 길을 걷고 있는데 비가 많이 와서 바닥이 아주 젖어 있어요. 아니면 빠른 차가 많은 큰길을 건너고 있어요. 제가 당신을 보며 "조심해야 해"라고 말해요. Tener cuidado(조심하다).
+C | Ah, funciona como una advertencia. | 아, 경고처럼 쓰이는군요.
+
+[12:47]
+C | Yo veo el piso mojado y digo: "Voy a tener cuidado para no caer al suelo". Tener cuidado. Me encanta esa expresión. | 젖은 바닥을 보고 "넘어지지 않게 조심해야지"라고 하는 거죠. Tener cuidado. 이 표현 정말 좋아요.
+S | Es una de las frases en español más usadas por todas las madres del mundo. | 전 세계 모든 엄마들이 가장 많이 쓰는 스페인어 문장 중 하나예요.
+S | Ahora imagina esto: compras un billete de lotería y ganas el premio mayor, o caminas por el parque y encuentras un billete de 50 € en el suelo. | 이제 이걸 상상해 봐요. 복권을 사서 1등에 당첨되거나, 공원을 걷다가 바닥에서 50유로 지폐를 발견해요.
+C | ¡Guau! Ojalá. | 와! 그랬으면 좋겠다.
+
+[13:12]
+C | En ese caso digo: tengo suerte. Tener suerte. Yo saltaría de alegría y diría: "¡Qué día tan maravilloso! Tengo mucha suerte". Tengo suerte. | 그럴 땐 "운이 좋아"라고 해요. Tener suerte(운이 좋다). 기뻐서 펄쩍 뛰며 "정말 멋진 날이야! 나 운이 너무 좋아"라고 하겠죠. Tengo suerte.
+S | Exacto. Tener suerte. Tener suerte. | 맞아요. Tener suerte. Tener suerte.
+S | Y hablando de cosas buenas, amigos que nos escuchan, si ustedes quieren tener mucha suerte con su aprendizaje y learn Spanish vocabulary de forma fácil, hagan clic en el botón de suscribirse ahora mismo. | 좋은 일 이야기가 나온 김에, 듣고 계신 여러분, 공부에 큰 행운이 따르고 어휘를 쉽게 배우고 싶다면 지금 바로 구독 버튼을 눌러 주세요.
+
+[13:43]
+S | Dejen su me gusta para apoyar estas clases de español y escriban en los comentarios: ¿tienen suerte ustedes normalmente? | 이 수업을 응원하는 의미로 '좋아요'를 남기고, 댓글에 써 주세요. 여러분은 평소에 운이 좋은 편인가요?
+S | Suscribirse es totalmente gratis y es el motor de nuestro canal. | 구독은 완전히 무료이고, 저희 채널의 원동력이에요.
+C | Y ya que hablamos de cosas que deseamos, Sofía, ¿cómo digo que quiero hacer algo divertido? Por ejemplo, si es viernes y quiero ir a comer fuera. | 그리고 바라는 것 이야기가 나온 김에, 소피아, 재미있는 걸 하고 싶다는 건 어떻게 말해요? 예를 들어 금요일이라 외식하러 가고 싶을 때요.
+S | Para eso usamos otra frase estrella del vocabulario español. | 그럴 땐 스페인어 어휘의 또 다른 스타 표현을 써요.
+
+[14:11]
+S | Tener ganas de. Si quieres una pizza, dices: "Tengo ganas de comer pizza". Tengo ganas de comer pizza. | Tener ganas de(~하고 싶다). 피자가 먹고 싶으면 "피자 먹고 싶다"라고 해요. Tengo ganas de comer pizza.
+C | Qué útil para hablar español con mis amigos. Entonces, si quiero ver el mar, digo: "Tengo ganas de ir a la playa este fin de semana". Tener ganas de. | 친구들이랑 스페인어로 말할 때 정말 유용하겠네요. 그럼 바다가 보고 싶으면 "이번 주말에 해변에 가고 싶어"라고 하는 거죠. Tener ganas de.
+S | Perfecto, Carlos, lo has entendido a la primera. Ahora vamos a nuestra sección de análisis del vocabulario para explicar estas cuatro frases paso a paso. | 완벽해요, 카를로스, 한 번에 이해했네요. 이제 어휘 분석 코너에서 이 네 문장을 하나씩 설명해 봐요.
+C | Genial. | 좋아요.
+
+[14:46]
+## 어휘 분석 ③
+C | Presten mucha atención en casa, porque analizar las palabras nos ayuda muchísimo con el Spanish listening diario. | 집에서 잘 들어 주세요. 단어를 분석하는 게 매일의 듣기 연습에 정말 큰 도움이 돼요.
+C | Tener dolor. Usamos esta combinación para describir molestias físicas. Siempre debes agregar la preposición de y la parte del cuerpo. | Tener dolor. 신체의 불편함을 묘사할 때 쓰는 조합이에요. 항상 전치사 de와 신체 부위를 붙여야 해요.
+C | Puedes decir tener dolor de cabeza, tener dolor de muelas o tener dolor de espalda. Es vocabulario médico esencial. | tener dolor de cabeza(두통), tener dolor de muelas(치통), tener dolor de espalda(요통)처럼 말할 수 있어요. 꼭 필요한 의료 어휘예요.
+C | Tener cuidado significa prestar atención para evitar un accidente, un peligro o un problema. | Tener cuidado는 사고, 위험, 문제를 피하려고 주의를 기울인다는 뜻이에요.
+
+[15:16]
+C | Como dijimos, es muy normal escuchar a los padres decir a sus niños: "Tienes que tener cuidado" cuando juegan cerca de la calle. | 말했듯이, 아이들이 길 근처에서 놀 때 부모가 "조심해야 해"라고 하는 걸 아주 흔히 들을 수 있어요.
+C | Tener suerte es la situación donde cosas buenas y positivas te pasan por sorpresa o por casualidad. | Tener suerte는 좋고 긍정적인 일이 뜻밖에, 또는 우연히 일어나는 상황이에요.
+C | Si apruebas un examen muy difícil sin estudiar casi nada, tus amigos te dirán: "Tienes mucha suerte". | 거의 공부도 안 했는데 아주 어려운 시험에 합격하면, 친구들이 "너 정말 운 좋다"라고 할 거예요.
+
+[15:46]
+C | Tener ganas de es el equivalente perfecto a desear o querer hacer una actividad. Es una frase muy natural. | Tener ganas de는 어떤 활동을 바라거나 하고 싶다는 말과 완벽하게 같은 뜻이에요. 아주 자연스러운 표현이죠.
+C | Recuerden que siempre, siempre va seguida de un verbo en infinitivo, como tener ganas de dormir o tener ganas de bailar. | 기억하세요. 뒤에는 항상, 항상 동사원형이 와요. tener ganas de dormir(자고 싶다), tener ganas de bailar(춤추고 싶다)처럼요.
+S | Muy bien explicado, Carlos. Cada día dominas mejor el español nativo. | 아주 잘 설명했어요, 카를로스. 날마다 원어민 스페인어를 더 잘하게 되네요.
+C | Muchas gracias, Sofía. Tú tienes mucha paciencia. Pero me queda una duda muy grande sobre este verbo. | 정말 고마워요, 소피아. 정말 인내심이 많으시네요. 그런데 이 동사에 대해 아주 큰 궁금증이 하나 남아 있어요.
+
+[16:13]
+## ④ 나이 · 인내심 · 성공
+C | Ya hemos visto dolores, emociones, necesidades físicas y deseos. Pero cuando yo hablo en inglés sobre los años que tengo de vida, uso el verbo to be. | 통증, 감정, 신체적 욕구, 바람은 이미 봤어요. 그런데 영어로 제 나이를 말할 때는 to be 동사를 쓰거든요.
+C | En la lengua española, ¿cómo hablamos de nuestra edad? ¿Los años también son una cosa que tenemos? | 스페인어로는 나이를 어떻게 말해요? 나이도 우리가 '가진' 것인가요?
+S | Tienes toda la razón, Carlos. | 정확해요, 카를로스.
+
+[16:34]
+S | Es una excelente observación para aprender español de verdad. Esta es una regla de oro. | 스페인어를 제대로 배우는 데 아주 훌륭한 관찰이에요. 이건 황금률이에요.
+S | En la lengua española, los años no son algo que tú eres, sino algo que tú has acumulado. Los años son tuyos, los posees. Por lo tanto, usamos el verbo tener. | 스페인어에서 나이는 내가 '~인' 것이 아니라 내가 쌓아 온 것이에요. 세월은 내 것이고, 내가 가진 거죠. 그래서 tener를 써요.
+C | Qué interesante forma de pensar. Entonces, los años son como una colección. Si estoy en una fiesta de cumpleaños y una persona me pregunta mi edad, yo digo: "Tengo 30 años". Tengo 30 años. | 흥미로운 사고방식이네요. 그럼 나이는 일종의 수집품 같은 거군요. 생일 파티에서 누가 나이를 물으면 "서른 살이에요"라고 하는 거죠. Tengo 30 años.
+S | Exacto. Tener años. | 맞아요. Tener años.
+
+[17:14]
+S | Tener años es fundamental en nuestra conversación en español diaria. Tú tienes 30 años, mi hermano tiene 20 y yo tengo 32 años. | Tener años는 일상 회화에서 아주 기본이에요. 당신은 서른 살, 제 남동생은 스무 살, 저는 서른두 살이에요.
+S | Es un error muy común decir "soy 30". Por favor, amigos, no lo hagan nunca. | "soy 30"이라고 말하는 건 아주 흔한 실수예요. 여러분, 절대 그렇게 말하지 마세요.
+C | Prometido, Sofía. Usar el verbo correcto es clave para improve Spanish rapidly. Incluso podemos usarlo con las cosas, ¿verdad? Por ejemplo, puedo decir: "Esta casa antigua tiene 100 años". | 약속할게요, 소피아. 올바른 동사를 쓰는 게 빨리 느는 비결이죠. 물건에도 쓸 수 있죠? 예를 들어 "이 오래된 집은 100년 됐어"라고 할 수 있잖아요.
+
+[17:47]
+S | Perfectamente, Carlos. Es exactamente igual para personas, animales o cosas. | 완벽해요, 카를로스. 사람, 동물, 물건 모두 똑같아요.
+S | Y dime, ¿qué cualidad necesitas cuando esa casa antigua necesita muchas reparaciones y el trabajo es lento? | 그럼 말해 봐요. 그 오래된 집에 수리할 게 많고 작업이 느릴 때 어떤 자질이 필요할까요?
+C | Ah, en ese caso necesito estar muy tranquilo. Digo: tengo paciencia. Tener paciencia. Respiro profundo y repito: "Tengo paciencia". | 아, 그럴 땐 아주 차분해야죠. "인내심을 가져"라고 해요. Tener paciencia(인내심이 있다). 깊게 숨 쉬고 "Tengo paciencia"라고 되뇌어요.
+S | Así es. Tener paciencia. Tener paciencia. | 맞아요. Tener paciencia. Tener paciencia.
+
+[18:19]
+S | Y si ustedes, nuestros queridos estudiantes, tienen paciencia y practican todos los días, van a lograr su objetivo de hablar fluido. Aprender un idioma no es mágico, requiere tiempo. | 그리고 사랑하는 학생 여러분도 인내심을 갖고 매일 연습하면 유창하게 말한다는 목표를 이룰 거예요. 언어 공부는 마법이 아니라 시간이 필요해요.
+C | Totalmente de acuerdo. Yo, por ejemplo, no tengo nada de paciencia cuando tengo hambre. Es la peor combinación. Pero para estudiar español, sí tengo paciencia. | 완전히 동의해요. 예를 들어 저는 배고플 때는 인내심이 전혀 없어요. 최악의 조합이죠. 그래도 스페인어 공부에는 인내심이 있어요.
+
+[18:47]
+C | Por cierto, chicos, si están disfrutando y aprendiendo en este episodio, no olviden suscribirse a Español Auténtico ahora mismo. | 그건 그렇고 여러분, 이 에피소드가 즐겁고 도움이 된다면 지금 바로 Español Auténtico 구독 잊지 마세요.
+S | Sí, por favor. Su me gusta, sus comentarios y su suscripción nos ayudan a crear más clases de español gratis para el mundo. | 네, 부탁드려요. 여러분의 '좋아요', 댓글, 구독이 전 세계를 위한 무료 스페인어 수업을 더 만드는 데 도움이 돼요.
+S | Dígannos en los comentarios en qué situación ustedes no tienen paciencia. Queremos leerlos. Es una gran pregunta para practicar. | 어떤 상황에서 인내심이 없어지는지 댓글로 알려 주세요. 읽고 싶어요. 연습하기 좋은 질문이에요.
+C | Bueno, Sofía, ya tenemos 14 frases superútiles. | 자, 소피아, 벌써 아주 유용한 문장이 14개예요.
+
+[19:17]
+C | ¿Cuál es la última de nuestra lista de 15 de hoy? | 오늘 15개 목록의 마지막은 뭐예요?
+S | Imagina que abres un restaurante, trabajas mucho, la comida es deliciosa y todos los días el local está lleno de personas muy felices. | 당신이 식당을 열어서 열심히 일하고, 음식은 맛있고, 매일 가게가 행복한 사람들로 가득하다고 상상해 봐요.
+S | En esa situación tan positiva usamos otra frase esencial del vocabulario español. Tú dices: tener éxito. Tener éxito. | 그렇게 긍정적인 상황에서는 또 다른 필수 표현을 써요. tener éxito(성공하다)라고 해요. Tener éxito.
+S | No decimos "ser suceso". Decimos que la persona tiene éxito en su proyecto o negocio. | "ser suceso"라고 하지 않아요. 그 사람이 프로젝트나 사업에서 tiene éxito(성공한다)라고 말해요.
+C | Me encanta esa expresión. | 그 표현 정말 좋아요.
+
+[19:50]
+C | Entonces, yo miro mi restaurante lleno y digo: "Mi negocio es muy famoso. Tengo éxito". Tengo éxito. | 그럼 꽉 찬 제 식당을 보면서 "내 가게가 아주 유명해. 나 성공했어"라고 하는 거죠. Tengo éxito.
+C | Es una frase muy motivadora para terminar nuestra lista. | 목록을 마무리하기에 아주 힘이 나는 문장이네요.
+S | Así es, Carlos. Tener éxito. Tener éxito. Y estoy segura de que todos nuestros oyentes van a tener éxito con su aprendizaje. | 맞아요, 카를로스. Tener éxito. Tener éxito. 그리고 청취자 여러분 모두 공부에서 성공할 거라고 확신해요.
+S | Ahora, como siempre, vamos a hacer la sección de análisis del vocabulario para repasar. | 이제 늘 그렇듯 복습을 위해 어휘 분석 코너를 해 봐요.
+
+[20:19]
+## 어휘 분석 ④
+C | Perfecto. Esta es mi parte favorita para fijar en la memoria las palabras que escuchamos en nuestro Spanish podcast. | 좋아요. 팟캐스트에서 들은 단어를 기억에 새기는, 제가 제일 좋아하는 부분이에요.
+S | Vamos a analizar cinco expresiones y palabras clave de esta última parte. | 이 마지막 부분의 핵심 표현과 단어 다섯 개를 분석해 봐요.
+S | Tener años. Usamos esta frase para expresar la edad de una persona, un animal o incluso un objeto antiguo. Siempre se usa con un número y la palabra años. Por ejemplo: "Mi coche nuevo tiene 2 años". | Tener años. 사람, 동물, 심지어 오래된 물건의 나이를 표현할 때 써요. 항상 숫자와 años를 함께 써요. 예를 들어 "내 새 차는 2년 됐어."
+
+[20:50]
+S | Tener paciencia es la capacidad de esperar con tranquilidad o de tolerar problemas sin enfadarse. En la vida moderna, con tanto estrés, es vital tener paciencia en el tráfico de la ciudad. | Tener paciencia는 차분하게 기다리거나 화내지 않고 문제를 견디는 능력이에요. 스트레스가 많은 현대 생활에서는 도시의 교통 체증 속에서 인내심을 갖는 게 꼭 필요하죠.
+S | Tener éxito significa triunfar, lograr una meta difícil o conseguir un resultado muy positivo en una actividad. | Tener éxito는 성공하다, 어려운 목표를 이루다, 어떤 활동에서 아주 좋은 결과를 얻는다는 뜻이에요.
+S | Todos los estudiantes aquí presentes van a tener éxito si practican un poco cada día. | 여기 계신 학생 모두 매일 조금씩 연습하면 성공할 거예요.
+
+[21:20]
+S | La edad es el sustantivo que usamos para hablar del tiempo que una persona o cosa ha vivido. Si no sabes cuántos años tiene alguien en una conversación, puedes preguntar directamente: "¿Cuál es tu edad?" | La edad(나이)는 사람이나 물건이 살아온 시간을 말할 때 쓰는 명사예요. 대화 중 누군가의 나이를 모르면 "¿Cuál es tu edad?(나이가 어떻게 돼?)"라고 바로 물어볼 수 있어요.
+S | El triunfo es un sinónimo muy bonito y poderoso de éxito. Es la gran victoria después de un esfuerzo constante. Conseguir entender a los nativos será un triunfo enorme para todos ustedes. | El triunfo(승리)는 éxito의 아주 멋지고 강렬한 동의어예요. 꾸준한 노력 끝의 큰 승리죠. 원어민의 말을 알아듣게 되는 건 여러분 모두에게 엄청난 승리가 될 거예요.
+
+[21:51]
+## 마무리 게임: 어떤 tener일까?
+C | Sofía, me siento superpreparado con estas 15 frases. De verdad, son fundamentales. | 소피아, 이 15개 문장으로 완전히 준비된 기분이에요. 정말 기본 중의 기본이네요.
+C | Pero ahora que hemos visto la teoría paso a paso, ¿cómo puedo estar seguro de que mi cerebro las recuerda todas? ¿Hay alguna forma divertida de poner a prueba a nuestra audiencia hoy antes de terminar? | 그런데 이론을 차근차근 봤으니, 제 뇌가 전부 기억하는지 어떻게 확인하죠? 끝내기 전에 오늘 청취자들을 재미있게 시험해 볼 방법이 있을까요?
+S | Claro que sí, Carlos. | 물론이죠, 카를로스.
+
+[22:17]
+S | Para terminar esta clase de español para extranjeros de una manera muy dinámica, vamos a hacer un pequeño juego interactivo. | 외국인을 위한 이 스페인어 수업을 아주 역동적으로 마무리하기 위해, 작은 참여형 게임을 해 볼게요.
+S | Yo voy a describir una situación, y tú, junto con nuestra audiencia, deben adivinar qué expresión con el verbo tener usamos. | 제가 상황을 설명하면, 당신과 청취자 여러분이 tener를 쓴 어떤 표현인지 맞혀야 해요.
+C | Me parece una idea genial. Es perfecto para nuestra Spanish comprehension practice. Chicos que nos escuchan, escriban sus respuestas en los comentarios mientras escuchan mis respuestas. Vamos a jugar. | 아주 좋은 생각이에요. 이해력 연습에 딱이네요. 듣고 계신 여러분, 제 답을 들으면서 댓글에 여러분의 답을 써 주세요. 게임 시작해요.
+S | Muy bien. | 좋아요.
+
+[22:45]
+S | Primera situación. Estás en el desierto del Sahara. El sol brilla superfuerte, el cielo es azul y el termómetro marca 45 grados. Has caminado por horas y no tienes tu botella de agua. ¿Qué tienes? | 첫 번째 상황. 사하라 사막에 있어요. 해가 엄청 강하게 내리쬐고, 하늘은 파랗고, 온도계는 45도를 가리켜요. 몇 시간째 걸었는데 물병이 없어요. 어떤 상태예요?
+C | Esa es muy fácil. Primero, tengo calor, y segundo, tengo sed. Tener calor y tener sed. Esas dos cosas siempre van juntas en el desierto. | 그건 아주 쉬워요. 첫째, 더워요. 둘째, 목말라요. Tener calor와 tener sed. 사막에서는 이 둘이 늘 같이 오죠.
+S | Muy bien, Carlos. Tener calor y tener sed. Tener calor y tener sed. | 아주 좋아요, 카를로스. Tener calor y tener sed.
+
+[23:20]
+S | Vamos con la siguiente situación. Es medianoche. Estás completamente solo en casa. Estás viendo una película de terror y, de repente, la puerta se abre sola con un ruido muy fuerte. | 다음 상황으로 가요. 자정이에요. 집에 완전히 혼자 있어요. 공포 영화를 보고 있는데 갑자기 문이 큰 소리를 내며 저절로 열려요.
+C | Uy, no. En ese caso digo inmediatamente: tengo miedo. Tener miedo. Digo: "Por favor, enciende todas las luces, porque tengo miedo". Tengo miedo. | 으, 안 돼. 그럴 땐 바로 "무서워"라고 해요. Tener miedo. "제발 불 다 켜 줘, 무서워"라고 하죠. Tengo miedo.
+S | Excelente respuesta. Tener miedo. Tener miedo. | 훌륭한 답이에요. Tener miedo. Tener miedo.
+
+[23:51]
+S | Tercera situación del juego. Vas a llegar muy tarde al aeropuerto. Tu vuelo internacional sale en 30 minutos y el taxi en el que viajas va extremadamente lento. | 게임의 세 번째 상황. 공항에 아주 늦게 도착하게 생겼어요. 국제선이 30분 뒤에 출발하는데, 타고 있는 택시가 엄청 느리게 가요.
+C | ¡Qué estrés! Le digo al conductor: tengo prisa. Tener prisa. Digo: "Señor, por favor, vaya más rápido, porque tengo mucha prisa y el avión se va". Tengo prisa. | 스트레스 받네요! 기사님께 "급해요"라고 말해요. Tener prisa. "기사님, 제발 좀 더 빨리 가 주세요. 너무 급해요, 비행기가 떠나요"라고 하죠. Tengo prisa.
+S | Perfecto, Carlos. Tener prisa. Tener prisa. | 완벽해요, 카를로스. Tener prisa. Tener prisa.
+S | Cuarta situación: son las 2 de la madrugada. | 네 번째 상황. 새벽 2시예요.
+
+[24:22]
+S | Has trabajado durante 15 horas seguidas. Estás frente a tu ordenador y tus ojos no pueden estar abiertos. | 15시간 연속으로 일했어요. 컴퓨터 앞에 있는데 눈을 뜨고 있을 수가 없어요.
+C | Ay, solo de pensarlo bostezo. Digo: tengo sueño. Tener sueño. Digo: "Me voy a dormir ahora mismo. Apago el ordenador porque tengo sueño". Tengo sueño. | 아, 생각만 해도 하품이 나요. "졸려"라고 해요. Tener sueño. "지금 바로 자러 갈래. 졸려서 컴퓨터 끌게"라고 하죠. Tengo sueño.
+S | Correcto, Carlos. Tener sueño. Tener sueño. | 정답이에요, 카를로스. Tener sueño. Tener sueño.
+S | Ahora, la última situación del juego. Estás estudiando mucho. | 이제 게임의 마지막 상황이에요. 공부를 아주 열심히 하고 있어요.
+
+[24:53]
+S | La gramática a veces es difícil y no entiendes todo al principio, pero tú decides no rendirte, respiras profundo y sigues practicando cada día para mejorar. | 문법은 가끔 어렵고 처음엔 다 이해되지 않지만, 포기하지 않기로 하고 깊게 숨 쉰 다음 실력을 늘리려고 매일 연습을 계속해요.
+C | Ah, esa me encanta. En esa situación digo: tengo paciencia. Tener paciencia. Digo: "No pasa nada. Voy a aprender a hablar español paso a paso, porque tengo paciencia". Tengo paciencia. | 아, 이거 정말 좋아요. 그럴 땐 "인내심이 있어"라고 해요. Tener paciencia. "괜찮아. 나는 인내심이 있으니까 스페인어를 한 걸음씩 배울 거야"라고 하죠. Tengo paciencia.
+S | Así se habla, Carlos. Tener paciencia. Tener paciencia. | 바로 그거예요, 카를로스. Tener paciencia. Tener paciencia.
+
+[25:23]
+S | Esa es la verdadera clave para aprender español con éxito. | 그게 스페인어를 성공적으로 배우는 진짜 비결이에요.
+C | Amigos, si les gustó este pequeño juego interactivo, por favor, dejen su me gusta en el video y, si todavía no lo han hecho, suscríbanse al canal ahora mismo. Es la mejor manera de apoyar estas clases de español gratuitas. | 여러분, 이 작은 게임이 재미있으셨다면 영상에 '좋아요'를 눌러 주시고, 아직 안 하셨다면 지금 바로 구독해 주세요. 이 무료 스페인어 수업을 응원하는 가장 좋은 방법이에요.
+S | Sí, por favor. Y escriban en los comentarios cuántas situaciones adivinaron correctamente antes de que yo dijera la respuesta. Nos encanta leer todos sus mensajes y responder sus dudas. | 네, 부탁드려요. 그리고 제가 답을 말하기 전에 몇 개를 맞혔는지 댓글로 알려 주세요. 여러분의 메시지를 읽고 질문에 답하는 걸 정말 좋아해요.
+
+[25:53]
+## 어휘 분석 ⑤ & 마무리
+S | Muchas gracias a todos por participar. Ahora, para cerrar nuestro episodio con broche de oro, vamos a hacer nuestra última sección de análisis del vocabulario. | 참여해 주신 모든 분께 감사해요. 이제 에피소드를 멋지게 마무리하기 위해 마지막 어휘 분석 코너를 해 볼게요.
+S | Vamos a repasar algunas palabras clave que usamos ahora mismo durante el juego. | 방금 게임에서 쓴 핵심 단어 몇 개를 복습해 봐요.
+C | Excelente idea, Sofía. Presten mucha atención en casa, porque este vocabulario es extraútil para sus conversaciones diarias y para entender mejor el español nativo. | 아주 좋은 생각이에요, 소피아. 집에서 잘 들어 주세요. 이 어휘는 일상 대화와 원어민 스페인어를 더 잘 이해하는 데 아주 유용해요.
+
+[26:25]
+S | Adivinar es descubrir algo oculto o encontrar la respuesta correcta en un juego sin saberla antes. Cuando no sabes una palabra en español, a veces puedes adivinar su significado por el contexto de la frase. | 아디비나르(맞히다, 추측하다)는 숨겨진 걸 알아내거나, 미리 모르는 상태에서 게임의 정답을 찾는 거예요. 스페인어 단어를 모를 때 문장의 맥락으로 뜻을 추측할 수 있죠.
+S | El juego es una actividad divertida que hacemos para entretenernos o para aprender de forma relajada. Hacer un juego con el vocabulario es una técnica perfecta para mejorar tu Spanish listening sin aburrirte. | 엘 후에고(게임, 놀이)는 즐기거나 편하게 배우려고 하는 재미있는 활동이에요. 어휘로 게임을 하는 건 지루하지 않게 듣기 실력을 키우는 완벽한 방법이에요.
+
+[26:51]
+S | Rendirse significa abandonar un objetivo, dejar de intentar hacer algo porque parece muy difícil o imposible. En nuestro canal siempre les decimos a los estudiantes que, para hablar bien, nunca deben rendirse. | 렌디르세(포기하다)는 너무 어렵거나 불가능해 보여서 목표를 버리고 시도를 그만두는 거예요. 저희 채널에서는 항상 학생들에게 잘 말하려면 절대 포기하지 말라고 해요.
+S | La clave es la solución a un gran problema o el secreto para conseguir algo importante en la vida. Por ejemplo, la clave para mejorar la pronunciación española es escuchar a las personas nativas todos los días. | 라 클라베(핵심, 비결)는 큰 문제의 해결책이나 인생에서 중요한 걸 이루는 비밀이에요. 예를 들어 스페인어 발음을 좋게 하는 비결은 매일 원어민의 말을 듣는 거예요.
+
+[27:18]
+S | El mensaje es la información escrita o hablada que enviamos de una persona a otra persona. A nosotros, en el podcast, nos hace muy felices recibir cada mensaje positivo que ustedes dejan en la sección de comentarios. | 엘 멘사헤(메시지)는 한 사람이 다른 사람에게 보내는 글이나 말로 된 정보예요. 여러분이 댓글 창에 남겨 주시는 긍정적인 메시지 하나하나가 저희를 정말 행복하게 해요.
+C | ¡Qué buen vocabulario! Ha sido una clase verdaderamente espectacular, Sofía. | 정말 좋은 어휘네요! 정말 멋진 수업이었어요, 소피아.
+
+[27:39]
+C | Hemos aprendido 15 frases maravillosas con el verbo tener. Hemos jugado y, lo más importante, hemos aprendido a usarlas en la vida real. | tener를 쓴 멋진 문장 15개를 배웠어요. 게임도 했고, 무엇보다 실생활에서 쓰는 법을 배웠죠.
+S | Gracias a ti, Carlos, y a todos los valientes estudiantes que nos escuchan desde casa, en el coche o caminando por el parque. Recuerden seguir practicando. | 고마워요, 카를로스. 그리고 집에서, 차에서, 공원을 걸으며 듣고 계신 용감한 학생 여러분 모두 감사해요. 계속 연습하는 거 잊지 마세요.
+S | Nos escuchamos muy pronto en otro episodio de Español Auténtico. ¡Hasta la próxima, amigos! | 곧 Español Auténtico의 다른 에피소드에서 만나요. 다음에 또 봐요, 여러분!
+
+[28:04]
+C | Sigan escuchando, sigan aprendiendo y nunca olviden tener mucha paciencia. ¡Adiós a todos! | 계속 듣고, 계속 배우고, 인내심을 많이 갖는 걸 절대 잊지 마세요. 모두 안녕히!
