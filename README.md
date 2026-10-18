@@ -20,7 +20,9 @@
    S | Hola a todos. | 안녕하세요 여러분.
    ```
 3. `meta.json`: `lang`, 제목, 유튜브 ID, 화자 이름, 문법, 단어, 퀴즈를 넣어요 (기존 강의 파일을 참고하세요).
-   중국어는 `pip3 install pypinyin`이 있으면 대본 병음이 자동으로 붙어요. 틀린 병음은 `tools/build.py`의 `PHRASES`에 추가해요.
+   중국어는 `pip3 install pypinyin`이 있으면 병음이, 일본어는 `pip3 install pykakasi`가 있으면 후리가나가 자동으로 붙어요.
+   틀린 읽기는 `tools/build.py`의 `PHRASES`(중국어) / `JA_FIX`(일본어)에 추가해요.
+   유튜브 영상이 없으면 오디오 파일을 폴더에 넣고 `"audio": "audio.m4a"`라고 적어요.
 4. `python3 tools/build.py` 실행 → `data.json`과 `lessons.json`이 만들어져요.
 5. commit하고 push하면 GitHub Pages에 반영돼요.
 

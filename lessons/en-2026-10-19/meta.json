@@ -1,0 +1,160 @@
+{
+  "lang": "en",
+  "date": "2026-10-19",
+  "title": "인생은 여정이 아니다 — 앨런 와츠의 음악과 춤",
+  "es": "Life was never a pilgrimage. It was always a musical thing.",
+  "emoji": "🎼",
+  "level": "B2–C1",
+  "channel": "Deep Dive 오디오",
+  "videoTitle": "Why Life Is Not A Journey",
+  "audio": "audio.m4a",
+  "duration": "21:29",
+  "speakers": { "A": "Host A", "B": "Host B" },
+  "summary": "두 진행자가 철학자 앨런 와츠의 강연 'Life Is Not a Journey'를 파고드는 딥다이브예요. 피아노는 'work'가 아니라 'play'한다, 지휘자가 가장 빨리 끝낸다고 최고가 아니다 — 학교와 회사의 '매달린 당근', 도착의 오류(arrival fallacy), 그리고 지금 흐르는 음악에 맞춰 춤추는 삶에 대해 이야기해요.",
+  "topics": [
+    "Life is not a journey — it's music and dance",
+    "dangling carrots · conveyor belt · treadmill",
+    "the arrival fallacy · delayed gratification",
+    "구문: It is one thing to A, but entirely another to B",
+    "가정법: If music were a journey, …would…",
+    "구동사: unpack · dig into · check off · play devil's advocate"
+  ],
+  "grammar": [
+    {
+      "title": "① 핵심 비유 — 여정(journey) vs 음악·춤(music & dance)",
+      "lead": "와츠의 주장을 한눈에 정리했어요. 두 진행자가 계속 오가는 대비예요.",
+      "table": {
+        "head": ["journey / pilgrimage 사고", "music & dance 사고"],
+        "rows": [
+          ["목적지(destination)만 중요", "과정 자체가 목적 (the dancing itself)"],
+          ["현재를 견딘다 (endure)", "현재에 산다 (inhabit)"],
+          ["미래형: working", "현재형: playing"],
+          ["외적 동기 (gold star, grades)", "내적 동기 (inherently interesting)"],
+          ["arrival fallacy: 도착하면 행복할 거야", "The music is playing right now."],
+          ["heavy hiking boots", "dancing shoes"]
+        ]
+      },
+      "tip": "We play the piano. We don't work the piano. — 영어의 play/work 구분이 와츠 비유의 출발점이에요."
+    },
+    {
+      "title": "② 가정법 과거 — If music were a journey…",
+      "lead": "현실과 반대되는 상상을 할 때 <b>If + 과거형(be동사는 were), 주어 + would + 동사원형</b>을 써요.",
+      "examples": [
+        ["If music were a journey, the best conductor would be the one who finishes the fastest.", "음악이 여정이라면, 최고의 지휘자는 가장 빨리 끝내는 사람이겠죠."],
+        ["If the point of dancing was to end up at x and y, you would just walk over there.", "춤의 목적이 x, y에 도착하는 거라면, 그냥 거기로 걸어가면 되겠죠."],
+        ["If you were to treat your routine as a piece of music, how would your day change?", "일상을 한 곡의 음악으로 대한다면 하루가 어떻게 달라질까요? (were to = 혹시 ~한다면)"],
+        ["Composers wouldn't even bother writing the journey of the song.", "작곡가들은 곡의 여정을 쓰는 수고조차 하지 않겠죠."]
+      ],
+      "tip": "구어에서는 If it was…도 쓰지만, 격식 있는 가정은 If it were… 가 정석이에요."
+    },
+    {
+      "title": "③ 대조·강조 구문",
+      "lead": "토론에서 바로 쓸 수 있는 고급 구문이에요.",
+      "examples": [
+        ["It is one thing to print \"be playful\" on a coffee mug, but it is entirely another to actually live that way.", "A하는 것과 B하는 것은 완전히 별개다."],
+        ["We basically just endure the present moment rather than inhabit it.", "A rather than B = B하기보다는 A한다."],
+        ["Watts never claims that having goals is inherently bad. The error is delaying your living.", "주장의 오해를 바로잡기: never claims that… / The error is…"],
+        ["It is in this state of depletion that the grand deception becomes crystal clear.", "It is … that … 강조 구문: 바로 이 상태에서야 ~해진다."],
+        ["What's fascinating here is how deeply ingrained this obsession is.", "What's + 형용사 + is … = ~한 점은 …이다."]
+      ]
+    },
+    {
+      "title": "④ 대화를 이끄는 구동사·관용 표현",
+      "lead": "팟캐스트 진행자들이 대화를 넘기고 이어 갈 때 쓰는 표현이에요.",
+      "table": {
+        "head": ["표현", "뜻", "예문"],
+        "rows": [
+          ["let's unpack this", "하나씩 풀어 보자", "Okay, let's unpack this."],
+          ["dig into", "깊이 파고들다", "I want to dig into how he illustrates that."],
+          ["walk me through", "차근차근 설명해 줘", "Walk me through the mechanics of that."],
+          ["play devil's advocate", "일부러 반대 입장에서 말하다", "Let me play devil's advocate."],
+          ["I'm tracking with you", "잘 따라가고 있어", "I am tracking with the music analogy."],
+          ["point the finger at", "~을 탓하다, 지목하다", "Watts points the finger at our education."],
+          ["catch up with", "(결국) 따라잡다, 대가가 돌아오다", "It catches up with you."],
+          ["mull over", "곰곰이 생각하다", "something to mull over"]
+        ]
+      }
+    },
+    {
+      "title": "⑤ 일과 압박을 말하는 표현",
+      "lead": "직장인의 일상을 묘사할 때 원어민이 자주 쓰는 말들이에요.",
+      "examples": [
+        ["You are grinding away, checking off all the boxes.", "꾸역꾸역 버티며 할 일에 체크하고 있다."],
+        ["the daily grind", "고된 일상, 반복되는 일"],
+        ["a lifelong series of dangling carrots", "평생 눈앞에 매달린 당근(미끼 같은 보상)"],
+        ["from the classroom to the cubicle", "교실에서 칸막이 사무실로"],
+        ["hustle culture / monetize your hobbies", "허슬 문화 / 취미를 돈벌이로 만들다"],
+        ["quotas or quarterly targets", "할당량이나 분기 목표"]
+      ]
+    }
+  ],
+  "phrases": [
+    ["What if that exact phrase is actually the root cause of your burnout?", "만약 바로 그 말이 번아웃의 근본 원인이라면요?"],
+    ["It feels like you're just waiting for permission to live.", "살아도 된다는 허락을 기다리는 것 같아요."],
+    ["We say that we play the piano. We do not say that we work the piano.", "피아노는 'play'한다고 하지, 'work'한다고 하지 않아요."],
+    ["The purpose of the dance is the dancing itself.", "춤의 목적은 춤추는 것 그 자체예요."],
+    ["Let me play devil's advocate here.", "여기서 일부러 반론을 해 볼게요."],
+    ["Watts never claims that having goals is inherently bad.", "와츠는 목표를 갖는 게 그 자체로 나쁘다고 한 적이 없어요."],
+    ["They realize the view is just more mountains.", "보이는 건 그저 더 많은 산이라는 걸 깨닫죠."],
+    ["The past is a memory. The future is an imagination.", "과거는 기억이고, 미래는 상상이에요."],
+    ["We are swapping out the heavy hiking boots for dancing shoes.", "무거운 등산화를 댄스화로 바꿔 신는 거예요."],
+    ["Your life is happening right now.", "여러분의 삶은 바로 지금 펼쳐지고 있어요."],
+    ["How would the actual tempo and rhythm of your day change?", "하루의 실제 템포와 리듬은 어떻게 달라질까요?"]
+  ],
+  "vocab": [
+    { "es": "cliché", "ko": "진부한 표현, 상투어", "ex": "It's the ultimate cultural cliché.", "exKo": "궁극의 문화적 클리셰예요." },
+    { "es": "burnout", "ko": "번아웃, 극도의 피로", "ex": "the root cause of your burnout", "exKo": "번아웃의 근본 원인" },
+    { "es": "milestone", "ko": "이정표, 중요한 단계", "ex": "the pressure to reach the next big milestone", "exKo": "다음 큰 이정표에 도달해야 한다는 압박" },
+    { "es": "grind away", "ko": "꾸역꾸역 열심히 하다", "ex": "You are grinding away, checking off all the boxes.", "exKo": "꾸역꾸역 할 일에 체크하고 있어." },
+    { "es": "grueling", "ko": "몹시 고된", "ex": "a grueling cross-country road trip", "exKo": "고된 대륙 횡단 자동차 여행" },
+    { "es": "tedious", "ko": "지루하고 따분한", "ex": "a tedious obstacle in our way", "exKo": "길을 막는 지루한 장애물" },
+    { "es": "endure", "ko": "견디다, 참다", "ex": "We just endure the present moment.", "exKo": "우리는 현재를 그저 견뎌." },
+    { "es": "inhabit", "ko": "~에 살다, 머물다", "ex": "endure the present rather than inhabit it", "exKo": "현재에 머물기보다 견디다" },
+    { "es": "dismantle", "ko": "해체하다", "ex": "That is the exact trap we are dismantling today.", "exKo": "그게 오늘 우리가 해체할 함정이에요." },
+    { "es": "counterintuitive", "ko": "직관에 반하는", "ex": "the counterintuitive nuances of Watts' philosophy", "exKo": "와츠 철학의 직관에 반하는 뉘앙스" },
+    { "es": "ingrained", "ko": "깊이 배어든, 뿌리 깊은", "ex": "deeply ingrained in our collective psyche", "exKo": "우리 집단 심리에 깊이 박힌" },
+    { "es": "premise", "ko": "전제", "ex": "the fundamental premise of living", "exKo": "삶의 근본 전제" },
+    { "es": "analogy", "ko": "비유, 유추", "ex": "his grand analogy of music and dance", "exKo": "음악과 춤이라는 그의 멋진 비유" },
+    { "es": "absurdity", "ko": "터무니없음, 부조리", "ex": "It would be absolute absurdity.", "exKo": "완전히 터무니없을 거예요." },
+    { "es": "frantically", "ko": "미친 듯이, 정신없이", "ex": "wave the baton frantically", "exKo": "미친 듯이 지휘봉을 흔들다" },
+    { "es": "unhinged", "ko": "제정신이 아닌", "ex": "It sounds completely unhinged.", "exKo": "완전히 미친 소리 같아." },
+    { "es": "bypass", "ko": "건너뛰다, 우회하다", "ex": "They completely bypass the pacing.", "exKo": "속도감을 완전히 건너뛰어." },
+    { "es": "resonance", "ko": "울림, 공명", "ex": "the emotional resonance of the information", "exKo": "정보가 주는 감정적 울림" },
+    { "es": "immersed", "ko": "몰두한, 푹 빠진", "ex": "They are completely immersed in the present.", "exKo": "완전히 현재에 빠져 있어." },
+    { "es": "relentless", "ko": "끊임없는, 가차 없는", "ex": "a relentless treadmill", "exKo": "끝없는 러닝머신" },
+    { "es": "conditioning", "ko": "길들임, 조건화", "ex": "the source of this conditioning", "exKo": "이 길들임의 근원" },
+    { "es": "intrinsic", "ko": "본질적인, 내재적인", "ex": "devoid of intrinsic value", "exKo": "본질적 가치가 전혀 없는" },
+    { "es": "dangling carrot", "ko": "눈앞에 매달린 당근(미끼)", "ex": "a lifelong series of dangling carrots", "exKo": "평생 이어지는 매달린 당근" },
+    { "es": "delay gratification", "ko": "만족을 미루다", "ex": "wired to delay gratification", "exKo": "만족을 미루도록 배선된" },
+    { "es": "stepping stone", "ko": "디딤돌, 발판", "ex": "today as a stepping stone to tomorrow", "exKo": "내일로 가는 디딤돌로서의 오늘" },
+    { "es": "conveyor belt", "ko": "컨베이어 벨트", "ex": "the educational conveyor belt", "exKo": "교육이라는 컨베이어 벨트" },
+    { "es": "monetize", "ko": "돈벌이로 만들다, 수익화하다", "ex": "pressure to monetize our weekend hobbies", "exKo": "주말 취미를 수익화해야 한다는 압박" },
+    { "es": "quota", "ko": "할당량", "ex": "Your reward is simply higher quotas.", "exKo": "보상은 그저 더 높은 할당량이야." },
+    { "es": "foreclose (on)", "ko": "(담보물을) 압류하다", "ex": "The bank is going to foreclose on my house.", "exKo": "은행이 내 집을 압류할 거야." },
+    { "es": "nihilism", "ko": "허무주의", "ex": "devolving into pure nihilism", "exKo": "순전한 허무주의로 전락하는 것" },
+    { "es": "bestow", "ko": "수여하다, 안겨 주다", "ex": "bestow happiness upon you", "exKo": "너에게 행복을 안겨 주다" },
+    { "es": "arrival fallacy", "ko": "도착의 오류", "ex": "what psychologists call the arrival fallacy", "exKo": "심리학자들이 도착의 오류라고 부르는 것" },
+    { "es": "vantage point", "ko": "관점, 유리한 위치", "ex": "from this 40-year-old vantage point", "exKo": "마흔 살이라는 위치에서" },
+    { "es": "austerity", "ko": "긴축, 극도의 절약", "ex": "People live in absolute austerity.", "exKo": "사람들은 극도로 절약하며 살아." },
+    { "es": "depleted", "ko": "고갈된, 바닥난", "ex": "physically, mentally, and energetically depleted", "exKo": "몸도 마음도 기력도 바닥난" },
+    { "es": "pilgrimage", "ko": "순례", "ex": "We treated human life as a pilgrimage.", "exKo": "우리는 삶을 순례로 대했어." },
+    { "es": "arduous", "ko": "몹시 힘든", "ex": "an arduous journey to a grand final goal", "exKo": "거대한 최종 목표를 향한 힘겨운 여정" },
+    { "es": "secular", "ko": "세속의, 비종교적인", "ex": "For a secular society, that goal was earthly success.", "exKo": "세속 사회에서 그 목표는 세속적 성공이었어." },
+    { "es": "deferment", "ko": "연기, 유예", "ex": "the ultimate deferment of living", "exKo": "삶의 궁극적 유예" },
+    { "es": "mundane", "ko": "평범한, 일상적인", "ex": "your completely mundane daily routine", "exKo": "완전히 평범한 일상" }
+  ],
+  "quiz": [
+    { "q": "와츠가 삶을 비유한 것은?", "options": ["마라톤과 결승선", "음악과 춤", "등산과 정상", "학교와 졸업"], "answer": 1, "explain": "He compares the entire structure of human life to music and dance." },
+    { "q": "'We play the piano. We do not ___ the piano.' 빈칸은?", "options": ["work", "finish", "travel", "climb"], "answer": 0, "explain": "음악은 일(work)이 아니라 놀이(play)라는 비유의 출발점이에요." },
+    { "q": "'If music were a journey'에서 were를 쓴 이유는?", "options": ["과거의 사실이라서", "현실과 반대되는 가정이라서", "주어가 복수라서", "미래 계획이라서"], "answer": 1, "explain": "가정법 과거: If + 과거형(be동사는 were), 주어 + would + 동사원형." },
+    { "q": "'dangling carrots'가 뜻하는 것은?", "options": ["건강한 식단", "눈앞에 매달아 계속 쫓게 만드는 보상", "농사일", "어린 시절의 추억"], "answer": 1, "explain": "당나귀 앞에 매단 당근처럼, 늘 다음 단계로 내모는 보상을 뜻해요." },
+    { "q": "와츠가 이런 길들임의 근원으로 지목한 것은?", "options": ["부모", "교육(학년제)", "종교", "광고"], "answer": 1, "explain": "Watts points the finger directly at ... our education — the graded system." },
+    { "q": "'arrival fallacy'란?", "options": ["목적지에 늦게 도착하는 것", "어떤 목표에 도착하면 영원히 행복해질 거라는 믿음", "여행 계획의 실수", "공항에서의 혼란"], "answer": 1, "explain": "It's the belief that once you arrive at a certain destination, you will be permanently happy." },
+    { "q": "와츠는 목표를 갖는 것에 대해 뭐라고 하나요?", "options": ["모든 목표는 해롭다", "목표 자체는 나쁘지 않다. 문제는 목표에 도달할 때까지 사는 걸 미루는 것", "목표는 클수록 좋다", "목표는 남이 정해 줘야 한다"], "answer": 1, "explain": "Watts never claims that having goals is inherently bad... The fatal error is delaying your living." },
+    { "q": "'Let me play devil's advocate.'의 뜻은?", "options": ["악마 역할을 할게", "일부러 반대 입장에서 말해 볼게", "변호사를 부를게", "농담할게"], "answer": 1, "explain": "토론에서 일부러 반론을 제기할 때 쓰는 관용 표현이에요." },
+    { "q": "FIRE 운동 사례에서 정상에 오른 사람들이 깨달은 것은?", "options": ["경치가 정말 아름답다", "보이는 건 그저 더 많은 산이다", "다시 내려가야 한다", "돈이 부족하다"], "answer": 1, "explain": "They realize the view is just more mountains — 올라가는 길을 즐기는 법을 잊었던 거죠." },
+    { "q": "'endure the present rather than inhabit it'의 뜻은?", "options": ["현재에 머물기보다 그저 견딘다", "현재를 견디기보다 즐긴다", "현재를 피한다", "현재에 집을 짓는다"], "answer": 0, "explain": "A rather than B = B하기보다는 A한다." },
+    { "q": "'grueling'과 뜻이 가장 가까운 단어는?", "options": ["arduous", "playful", "mundane", "secular"], "answer": 0, "explain": "grueling = arduous = 몹시 고된." },
+    { "q": "마지막에 던진 질문의 핵심은?", "options": ["내일 계획을 세우자", "평범한 일상을 한 곡의 음악으로 대하면 하루의 리듬이 어떻게 달라질까?", "목표 목록을 불태우자", "일을 그만두자"], "answer": 1, "explain": "If you were to treat your daily routine as a piece of music... how would the tempo and rhythm of your day change?" }
+  ]
+}

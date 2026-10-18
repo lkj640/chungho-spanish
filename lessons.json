@@ -23,6 +23,28 @@
    "lineCount": 123
   },
   {
+   "id": "ja-2026-10-19",
+   "lang": "ja",
+   "date": "2026-10-19",
+   "title": "일본 문화의 핵심: 시타즈미(下積み)의 힘",
+   "es": "目に見えない地道な努力が、大きな花を咲かせる",
+   "emoji": "🍣",
+   "level": "JLPT N3–N2",
+   "channel": "日本語デイリーポッドキャスト",
+   "youtube": "mShDvZzqqSI",
+   "duration": "08:20",
+   "summary": "초밥 장인은 몇 년 동안 청소와 설거지만 한대요. 하루키와 유이가 '下積み(밑바닥 수련 기간)'를 나무의 뿌리에 비유하며, 눈에 보이지 않는 꾸준한 노력의 가치를 이야기해요. 〜させてもらえない · 〜ことで · 〜ちゃう 같은 회화체 문법도 함께 익혀요.",
+   "topics": [
+    "下積み(したづみ) · 修行 · 一人前",
+    "コツコツ · 地道に · 積み重ね",
+    "〜させてもらえない (사역 + 수혜)",
+    "〜ことで · 〜ようになる · 〜こそ",
+    "회화체: 〜ちゃう · 〜って · 〜んだ"
+   ],
+   "vocabCount": 39,
+   "lineCount": 89
+  },
+  {
    "id": "es-2026-10-19",
    "lang": "es",
    "date": "2026-10-19",
@@ -44,6 +66,29 @@
    ],
    "vocabCount": 36,
    "lineCount": 152
+  },
+  {
+   "id": "en-2026-10-19",
+   "lang": "en",
+   "date": "2026-10-19",
+   "title": "인생은 여정이 아니다 — 앨런 와츠의 음악과 춤",
+   "es": "Life was never a pilgrimage. It was always a musical thing.",
+   "emoji": "🎼",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "21:29",
+   "summary": "두 진행자가 철학자 앨런 와츠의 강연 'Life Is Not a Journey'를 파고드는 딥다이브예요. 피아노는 'work'가 아니라 'play'한다, 지휘자가 가장 빨리 끝낸다고 최고가 아니다 — 학교와 회사의 '매달린 당근', 도착의 오류(arrival fallacy), 그리고 지금 흐르는 음악에 맞춰 춤추는 삶에 대해 이야기해요.",
+   "topics": [
+    "Life is not a journey — it's music and dance",
+    "dangling carrots · conveyor belt · treadmill",
+    "the arrival fallacy · delayed gratification",
+    "구문: It is one thing to A, but entirely another to B",
+    "가정법: If music were a journey, …would…",
+    "구동사: unpack · dig into · check off · play devil's advocate"
+   ],
+   "vocabCount": 40,
+   "lineCount": 206
   },
   {
    "id": "es-2026-10-18-2",

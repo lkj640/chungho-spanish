@@ -26,7 +26,7 @@
   $("hero").innerHTML = `<div class="chips"><span class="chip yel">${esc(L.channel || "")}</span><span class="chip">${esc(L.level || "")}</span>${L.duration ? `<span class="chip">⏱ ${esc(L.duration)}</span>` : ""}</div>
     <h1>${esc(L.emoji || "")} ${esc(L.title)}</h1><div class="es" lang="${esc(lang)}">${esc(L.es || "")}</div>
     ${L.summary ? `<p>${esc(L.summary)}</p>` : ""}
-    <p><a href="https://www.youtube.com/watch?v=${esc(L.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 원본 보기</a></p>`;
+    ${L.youtube ? `<p><a href="https://www.youtube.com/watch?v=${esc(L.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 원본 보기</a></p>` : ""}`;
 
   // ---------- 탭 ----------
   const tabs = [...document.querySelectorAll(".tabs button")];
@@ -44,19 +44,23 @@
 
   // ---------- 대본 ----------
   let html = "", opts = '<option value="">📍 구간으로 이동…</option>', n = 0;
+  const spk = Object.keys(who);
+  // 일본어 후리가나: rb = [[원문 조각, 읽기], …] (읽기는 한자가 있는 조각에만)
+  const rubyHtml = rb => rb.map(([o, r]) => r ? `<ruby>${esc(o)}<rt>${esc(r)}</rt></ruby>` : esc(o)).join("");
   (L.sections || []).forEach((s, si) => {
     const t0 = s.lines[0] ? s.lines[0].t : 0;
     html += `<h2 class="secT" id="sec${si}">${esc(s.title)} <span class="hint">${fmt(t0)}</span></h2>`;
     opts += `<option value="${si}">${fmt(t0)} · ${esc(s.title)}</option>`;
     for (const l of s.lines) {
-      html += `<div class="line ${esc(l.s)}" data-i="${n++}" data-t="${l.t}"><div class="who">${esc(who[l.s] || l.s)}<span class="ts">${fmt(l.t)}</span></div>
-        <div class="txt">${l.py ? `<div class="py">${esc(l.py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
+      html += `<div class="line sp${Math.max(0, spk.indexOf(l.s)) % 4}" data-i="${n++}" data-t="${l.t}"><div class="who">${esc(who[l.s] || l.s)}<span class="ts">${fmt(l.t)}</span></div>
+        <div class="txt">${l.py ? `<div class="py">${esc(l.py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${l.rb ? rubyHtml(l.rb) : esc(l.es)}</div><div class="ko">${esc(l.ko)}</div></div></div>`;
     }
   });
   $("lines").innerHTML = html;
   $("jump").innerHTML = opts;
   $("jump").onchange = e => { const v = e.target.value; if (v !== "") { $("sec" + v).scrollIntoView({ behavior: "smooth" }); e.target.value = ""; } };
   const lines = [...document.querySelectorAll(".line")];
+  const RAW = (L.sections || []).flatMap(s => s.lines.map(l => l.es));
   const T = lines.map(l => +l.dataset.t);
 
   // 보기 옵션 (기기에 저장)
@@ -64,35 +68,65 @@
     const el = $(id); el.checked = store.get(key, def); apply(el.checked);
     el.onchange = () => { store.set(key, el.checked); apply(el.checked); };
   };
-  if (lines.some(l => l.querySelector(".py"))) {
+  if (lines.some(l => l.querySelector(".py, rt"))) {
     $("optPyWrap").hidden = false;
+    $("optPyWrap").lastChild.textContent = lang === "ja" ? " 후리가나" : " 병음";
     bindOpt("optPy", "opt_py", true, v => document.body.classList.toggle("no-py", !v));
   }
   bindOpt("optKo", "opt_ko", true, v => document.body.classList.toggle("no-ko", !v));
   bindOpt("optHide", "opt_hide", false, v => document.body.classList.toggle("hide-es", v));
   bindOpt("optScroll", "opt_scroll", true, () => {});
 
-  // ---------- 유튜브 플레이어 ----------
-  let yt = null, ready = false, state = -1;
-  const readyP = new Promise(res => {
-    window.onYouTubeIframeAPIReady = () => {
-      yt = new YT.Player("yt", {
-        videoId: L.youtube,
-        playerVars: { playsinline: 1, rel: 0, modestbranding: 1 },
-        events: {
-          onReady: () => { ready = true; yt.setPlaybackRate(+$("rate").value); res(); },
-          onStateChange: e => { state = e.data; $("play").textContent = playing() ? "❚❚" : "▶"; },
-        },
-      });
+  // ---------- 플레이어: 유튜브 영상 또는 오디오 파일(meta.json의 "audio") ----------
+  const paintPlay = () => { $("play").textContent = P.playing() ? "❚❚" : "▶"; };
+  const P = L.youtube ? youtubePlayer() : audioPlayer();
+  function youtubePlayer() {
+    let yt = null, ready = false, state = -1;
+    const readyP = new Promise(res => {
+      window.onYouTubeIframeAPIReady = () => {
+        yt = new YT.Player("yt", {
+          videoId: L.youtube,
+          playerVars: { playsinline: 1, rel: 0, modestbranding: 1 },
+          events: {
+            onReady: () => { ready = true; yt.setPlaybackRate(+$("rate").value); res(); },
+            onStateChange: e => { state = e.data; paintPlay(); },
+          },
+        });
+      };
+    });
+    const s = document.createElement("script");
+    s.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(s);
+    return {
+      readyP, ready: () => ready,
+      playing: () => state === 1 || state === 3,
+      now: () => (ready ? yt.getCurrentTime() || 0 : 0),
+      dur: () => (ready ? yt.getDuration() : 1e9),
+      seek: t => yt.seekTo(Math.max(0, t), true),
+      play: () => yt.playVideo(), pause: () => yt.pauseVideo(),
+      rate: r => ready && yt.setPlaybackRate(r),
     };
-  });
-  const s = document.createElement("script");
-  s.src = "https://www.youtube.com/iframe_api";
-  document.head.appendChild(s);
-
-  const playing = () => state === 1 || state === 3;
-  const now = () => (ready ? yt.getCurrentTime() || 0 : 0);
-  async function seekPlay(t) { await readyP; yt.seekTo(Math.max(0, t), true); yt.playVideo(); }
+  }
+  function audioPlayer() {
+    const box = document.querySelector(".ytbox");
+    box.className = "audiobox";
+    box.innerHTML = `<audio id="au" controls preload="metadata" src="lessons/${esc(L.id)}/${esc(L.audio)}"></audio>`;
+    const au = $("au");
+    ["play", "pause", "ended"].forEach(ev => au.addEventListener(ev, paintPlay));
+    const readyP = new Promise(res => au.readyState >= 1 ? res() : au.addEventListener("loadedmetadata", res, { once: true }));
+    readyP.then(() => { au.playbackRate = +$("rate").value; });
+    return {
+      readyP, ready: () => au.readyState >= 1,
+      playing: () => !au.paused,
+      now: () => au.currentTime,
+      dur: () => au.duration || 1e9,
+      seek: t => { au.currentTime = Math.max(0, t); },
+      play: () => au.play().catch(() => {}), pause: () => au.pause(),
+      rate: r => { au.playbackRate = r; },
+    };
+  }
+  const playing = () => P.playing();
+  async function seekPlay(t) { await P.readyP; P.seek(t); P.play(); }
 
   // ---------- 화면 동기화 ----------
   let cur = -1, loopIdx = -1;
@@ -104,15 +138,15 @@
     if (i < 0) return;
     const l = lines[i];
     l.classList.add("active");
-    $("now").textContent = l.querySelector(".es").textContent;
+    $("now").textContent = RAW[i];
     if ($("optScroll").checked && playing()) l.scrollIntoView({ behavior: "smooth", block: "center" });
   }
   setInterval(() => {
-    if (!ready) return;
-    const t = now();
+    if (!P.ready()) return;
+    const t = P.now();
     if ($("optLoop").checked && loopIdx >= 0 && playing()) {
-      const end = loopIdx + 1 < T.length ? T[loopIdx + 1] : yt.getDuration();
-      if (t >= end - 0.1 || t < T[loopIdx] - 1) { yt.seekTo(T[loopIdx], true); return; }
+      const end = loopIdx + 1 < T.length ? T[loopIdx + 1] : P.dur();
+      if (t >= end - 0.1 || t < T[loopIdx] - 1) { P.seek(T[loopIdx]); return; }
     }
     setActive(idxAt(t));
   }, 200);
@@ -124,12 +158,13 @@
     loopIdx = i; setActive(i); seekPlay(T[i]);
   });
   $("optLoop").onchange = () => { loopIdx = cur; };
-  $("play").onclick = async () => { await readyP; if (playing()) yt.pauseVideo(); else { if (cur < 0 && T.length) yt.seekTo(T[0], true); yt.playVideo(); } };
+  $("play").onclick = async () => { await P.readyP; if (playing()) P.pause(); else { if (cur < 0 && T.length) P.seek(T[0]); P.play(); } };
   const step = d => { const i = Math.min(T.length - 1, Math.max(0, (cur < 0 ? 0 : cur) + d)); loopIdx = i; setActive(i); seekPlay(T[i]); };
   $("prev").onclick = () => step(-1);
   $("next").onclick = () => step(1);
   $("rate").value = String(store.get("rate", 1));
-  $("rate").onchange = e => { store.set("rate", +e.target.value); ready && yt.setPlaybackRate(+e.target.value); };
+  P.readyP.then(() => P.rate(+$("rate").value));
+  $("rate").onchange = e => { store.set("rate", +e.target.value); P.rate(+e.target.value); };
   document.addEventListener("keydown", e => {
     if (e.target.matches("input,select,textarea") || !$("pane-listen").classList.contains("on")) return;
     if (e.code === "Space") { e.preventDefault(); $("play").click(); }

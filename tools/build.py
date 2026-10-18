@@ -4,6 +4,8 @@
 폴더 이름: <언어>-YYYY-MM-DD (같은 날 같은 언어가 또 있으면 -2, -3…)
 언어 코드: en 영어 · ja 일본어 · zh 중국어 · es 스페인어 (meta.json의 "lang")
 중국어(zh)는 pypinyin이 있으면 문장마다 병음(py)을 자동으로 달아요.
+일본어(ja)는 pykakasi가 있으면 한자 위에 후리가나(rb)를 자동으로 달아요.
+유튜브가 없는 강의는 meta.json에 "audio": "audio.m4a"처럼 같은 폴더의 오디오 파일을 적어요.
 
 script.txt 형식
   END mm:ss                 영상 끝 시각
@@ -139,6 +141,57 @@ def add_pinyin(sections):
             l["py"] = re.sub(r"\s+", " ", out).strip()
 
 
+def _kanji(c):
+    return "\u4e00" <= c <= "\u9fff" or c in "々〆ヶ"
+
+
+# pykakasi가 틀리게 읽는 말은 여기에 추가하세요 (원문: 읽기)
+JA_FIX = {"今日": "きょう", "日本": "にほん", "笑": "わら", "地道": "じみち", "後": "あと", "通り": "とおり",
+          "習": "なら", "養": "やしな", "一人前": "いちにんまえ", "今頃": "いまごろ", "下積み": "したづみ", "根付く": "ねづく", "根っこ": "ねっこ"}
+
+
+def add_ruby(sections):
+    try:
+        import pykakasi
+    except ImportError:
+        print("  (pykakasi가 없어서 후리가나는 건너뛰어요: pip3 install pykakasi)")
+        return
+    kks = pykakasi.kakasi()
+    for s in sections:
+        for l in s["lines"]:
+            rb = []
+            for tok in kks.convert(l["es"]):
+                o, r = tok["orig"], tok["hira"]
+                if not any(_kanji(c) for c in o):
+                    rb.append([o, ""]); continue
+                r = JA_FIX.get(o, r)
+                # 앞뒤로 겹치는 가나(送り仮名)는 빼고 한자 부분에만 읽기를 달아요
+                head = 0
+                while head < len(o) and head < len(r) and not _kanji(o[head]) and o[head] == r[head]:
+                    head += 1
+                tail = 0
+                while tail < len(o) - head and tail < len(r) - head and not _kanji(o[-1 - tail]) and o[-1 - tail] == r[-1 - tail]:
+                    tail += 1
+                ko, kr = o[head:len(o) - tail], r[head:len(r) - tail]
+                kr = JA_FIX.get(ko, kr)
+                if head: rb.append([o[:head], ""])
+                rb.append([ko, kr])
+                if tail: rb.append([o[len(o) - tail:], ""])
+            # 연속된 가나 조각은 합쳐서 가볍게 · 「ヶ月」은 한 덩어리로
+            merged = []
+            for o, r in rb:
+                if o == "月" and merged and merged[-1][0] == "ヶ":
+                    merged[-1] = ["ヶ月", "かげつ"]; continue
+                # 동사 연용형 + 方 = かた (炊き方·握り方), 그 밖에는 ほう (教わった方が)
+                if o == "方" and r == "ほう" and merged and not merged[-1][1] and merged[-1][0][-1:] in "きしちにひみりぎじびいえけせてねめれげべ":
+                    r = "かた"
+                if merged and not r and not merged[-1][1]:
+                    merged[-1][0] += o
+                else:
+                    merged.append([o, r])
+            l["rb"] = merged
+
+
 def main():
     index = []
     for d in sorted(p for p in LESSONS.iterdir() if p.is_dir()):
@@ -151,6 +204,8 @@ def main():
             data["sections"] = parse_script(script_p)
             if meta.get("lang") == "zh":
                 add_pinyin(data["sections"])
+            elif meta.get("lang") == "ja":
+                add_ruby(data["sections"])
         (d / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
         nlines = sum(len(s["lines"]) for s in data.get("sections", []))
         index.append({"id": d.name} | {k: meta.get(k) for k in
