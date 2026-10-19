@@ -9,7 +9,7 @@
 
 script.txt 형식
   END mm:ss                 영상 끝 시각
-  [mm:ss]                   유튜브 transcript의 구간 시작 시각
+  [mm:ss]                   유튜브 transcript의 구간 시작 시각 (문장별로 [mm:ss.ss]도 돼요)
   ## 섹션 제목               (다음 줄부터 새 섹션)
   S | 원문 | 한국어            화자 코드는 meta.json의 speakers 참고
 구간 안의 각 줄 시작 시각은 글자 수 비율로 나눠서 계산해요.
@@ -25,7 +25,7 @@ LESSONS = ROOT / "lessons"
 
 def secs(s):
     m, s = s.split(":")
-    return int(m) * 60 + int(s)
+    return int(m) * 60 + float(s)
 
 
 def parse_script(path):
@@ -38,7 +38,7 @@ def parse_script(path):
             continue
         if line.startswith("END "):
             end = secs(line[4:].strip())
-        elif m := re.fullmatch(r"\[(\d+:\d\d)\]", line):
+        elif m := re.fullmatch(r"\[(\d+:\d\d(?:\.\d+)?)\]", line):
             chunks.append([secs(m.group(1)), []])
         elif line.startswith("## "):
             pending_sec = line[3:].strip()
@@ -74,6 +74,7 @@ PHRASES = {
     "这只": [["zhè"], ["zhī"]], "那只": [["nà"], ["zhī"]], "一只": [["yī"], ["zhī"]], "两只": [["liǎng"], ["zhī"]],
     "长达": [["cháng"], ["dá"]], "米长": [["mǐ"], ["cháng"]], "要还": [["yào"], ["huán"]], "数不清": [["shǔ"], ["bu"], ["qīng"]], "种出": [["zhòng"], ["chū"]],
     "饱觉": [["bǎo"], ["jiào"]], "好觉": [["hǎo"], ["jiào"]], "觉也": [["jiào"], ["yě"]], "个觉": [["gè"], ["jiào"]],
+    "哈喽": [["hā"], ["lou"]], "就得": [["jiù"], ["děi"]], "你得": [["nǐ"], ["děi"]], "大汗": [["dà"], ["hàn"]],
 }
 
 
