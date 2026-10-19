@@ -108,6 +108,10 @@ footer { margin: 40px 0 30px; color: var(--mut); font-size: 13px; }
 .ytbox iframe, .ytbox #yt { position: absolute; inset: 0; width: 100%; height: 100%; }
 .audiobox { margin: 12px 0 6px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; }
 .audiobox audio { width: 100%; }
+.ytbox[hidden], .audiobox[hidden] { display: none; }
+.srcsw { display: flex; gap: 6px; margin: 12px 0 0; }
+.srcsw button { flex: 1; min-width: 0; font: inherit; font-size: 14px; font-weight: 600; padding: 8px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--mut); cursor: pointer; }
+.srcsw button[aria-pressed="true"] { border-color: var(--fg); color: var(--fg); background: var(--zebra, transparent); }
 .opts { display: flex; gap: 6px 16px; flex-wrap: wrap; font-size: 14px; color: var(--mut); margin: 10px 0 8px; }
 .opts label { cursor: pointer; display: flex; align-items: center; gap: 6px; }
 .jump, select.rate { font: inherit; font-size: 13px; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; }

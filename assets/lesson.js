@@ -79,8 +79,43 @@
   bindOpt("optScroll", "opt_scroll", true, () => {});
 
   // ---------- 플레이어: 유튜브 영상 또는 오디오 파일(meta.json의 "audio") ----------
+  // 둘 다 있으면 위에 전환 버튼이 생겨요. 고른 쪽은 기기에 저장되고, 처음엔 광고 없는 오디오로 시작해요.
   const paintPlay = () => { $("play").textContent = P.playing() ? "❚❚" : "▶"; };
-  const P = L.youtube ? youtubePlayer() : audioPlayer();
+  const ytBox = document.querySelector(".ytbox");
+  const audioBox = document.createElement("div");
+  audioBox.className = "audiobox";
+  ytBox.after(audioBox);
+  const players = {};
+  const getPlayer = m => players[m] || (players[m] = m === "yt" ? youtubePlayer() : audioPlayer());
+  let mode = !L.youtube ? "audio" : !L.audio ? "yt" : store.get("src", "audio") === "yt" ? "yt" : "audio";
+  const showSrc = () => {
+    ytBox.hidden = mode !== "yt";
+    audioBox.hidden = mode !== "audio";
+    document.querySelectorAll(".srcsw button").forEach(b => b.setAttribute("aria-pressed", b.dataset.src === mode));
+  };
+  let P = getPlayer(mode);
+  if (L.youtube && L.audio) {
+    const sw = document.createElement("div");
+    sw.className = "srcsw";
+    sw.setAttribute("role", "group");
+    sw.setAttribute("aria-label", "재생 방식");
+    sw.innerHTML = '<button type="button" data-src="audio">🎧 MP3 (광고 없음)</button><button type="button" data-src="yt">🎬 유튜브 영상</button>';
+    ytBox.before(sw);
+    sw.onclick = async e => {
+      const b = e.target.closest("[data-src]");
+      if (!b || b.dataset.src === mode) return;
+      const was = P.playing(), t = P.now();
+      if (P.ready()) P.pause();
+      mode = b.dataset.src; store.set("src", mode);
+      P = getPlayer(mode); showSrc(); paintPlay();
+      await P.readyP;
+      P.rate(+$("rate").value);
+      if (t) P.seek(t);
+      if (was) P.play();
+      paintPlay();
+    };
+  }
+  showSrc();
   function youtubePlayer() {
     let yt = null, ready = false, state = -1;
     const readyP = new Promise(res => {
@@ -109,9 +144,7 @@
     };
   }
   function audioPlayer() {
-    const box = document.querySelector(".ytbox");
-    box.className = "audiobox";
-    box.innerHTML = `<audio id="au" controls preload="metadata" src="lessons/${esc(L.id)}/${esc(L.audio)}"></audio>`;
+    audioBox.innerHTML = `<audio id="au" controls preload="metadata" src="lessons/${esc(L.id)}/${esc(L.audio)}"></audio>`;
     const au = $("au");
     ["play", "pause", "ended"].forEach(ev => au.addEventListener(ev, paintPlay));
     const readyP = new Promise(res => au.readyState >= 1 ? res() : au.addEventListener("loadedmetadata", res, { once: true }));
