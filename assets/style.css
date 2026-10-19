@@ -209,9 +209,10 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
 /* 휴대폰(세로·가로 모두): 화자 이름을 문장 위로 올려 글자 폭을 넓히고, 읽는 글자를 크게, 줄 간격은 촘촘하게 */
 @media (max-width: 520px), (max-height: 520px) and (orientation: landscape) {
   .line { flex-direction: column; gap: 0; padding: 8px 12px; }
-  .line .es, .line .es:has(ruby), .ex .es:has(ruby), .vcard .w:has(ruby) { line-height: 1.75; }
-  body.no-py .line .es { line-height: 1.4; }
-  .ko, .py, .vcard .x, .tip, .explain { line-height: 1.45; }
+  .line .es, .ex .es, body.no-py .line .es { line-height: 1.38; }  /* 영어·스페인어처럼 병음/후리가나가 없는 문장 */
+  .line .es:has(ruby), .ex .es:has(ruby), .vcard .w:has(ruby) { line-height: 1.75; }
+  body.no-py .line .es:has(ruby) { line-height: 1.38; }
+  .ko, .py, .vcard .x, .tip, .explain { line-height: 1.4; }
   .line .ko { margin-top: 2px; }
   .line .who { flex: none; flex-direction: row; align-items: baseline; gap: 8px; font-size: calc(14px * var(--z)); }
   .line .es { font-size: calc(21px * var(--z)); }
