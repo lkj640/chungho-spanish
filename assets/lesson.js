@@ -78,6 +78,14 @@
   bindOpt("optHide", "opt_hide", false, v => document.body.classList.toggle("hide-es", v));
   bindOpt("optScroll", "opt_scroll", true, () => {});
 
+  // 글자 크기 (보통 · 크게 · 아주 크게) — 대본·정리·단어장·퀴즈 모두에 적용, 기기에 저장
+  const setZoom = z => {
+    document.documentElement.style.setProperty("--z", z);
+    $("fseg").querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", +b.dataset.z === z));
+  };
+  setZoom(store.get("zoom", 1));
+  $("fseg").onclick = e => { const b = e.target.closest("[data-z]"); if (b) { store.set("zoom", +b.dataset.z); setZoom(+b.dataset.z); } };
+
   // ---------- 플레이어: 유튜브 영상 또는 오디오 파일(meta.json의 "audio") ----------
   // 둘 다 있으면 위에 전환 버튼이 생겨요. 고른 쪽은 기기에 저장되고, 처음엔 광고 없는 오디오로 시작해요.
   const paintPlay = () => { $("play").textContent = P.playing() ? "❚❚" : "▶"; };
