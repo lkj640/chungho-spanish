@@ -1,0 +1,322 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, C = Carlos.  END = 영상 끝 시각
+END 25:30
+
+[00:00]
+## 지하철에서 생긴 일 — "Lo siento"가 이상했나?
+S | Ay, hola, Carlos. Hoy vengo con una historia un poco triste y divertida al mismo tiempo. | 아, 안녕하세요 카를로스. 오늘은 조금 슬프면서도 웃긴 이야기를 가져왔어요.
+S | Ayer estaba en el metro, había mucha gente y sin querer le pisé el pie a una señora. | 어제 지하철에 있었는데 사람이 정말 많았고, 실수로 어떤 아주머니의 발을 밟았어요.
+S | Quería pedir disculpas, quería sonar natural, pero mi mente se quedó en blanco. | 사과하고 싶었고 자연스럽게 말하고 싶었는데, 머리가 하얘졌어요.
+S | Solo dije: "Lo siento". Y ella me miró un poco raro. | 그냥 "Lo siento(유감이에요)"라고만 했어요. 그랬더니 그분이 저를 좀 이상하게 쳐다봤어요.
+
+[00:33]
+S | Por eso creo que nuestro tema de hoy es perfecto para todos los que quieren aprender español y mejorar su vocabulario español en situaciones reales. | 그래서 오늘 주제가 실제 상황에서 스페인어를 배우고 어휘를 늘리고 싶은 모든 분께 딱인 것 같아요.
+C | Hola, Sofía, y hola a todos los que nos escuchan. No te preocupes, lo que te pasó es supernormal. | 안녕, 소피아. 그리고 듣고 계신 모든 분 안녕하세요. 걱정 마, 너한테 일어난 일은 아주 흔한 일이야.
+C | Bienvenidos a Español Auténtico, el mejor lugar para tu Spanish listening practice. | Español Auténtico에 오신 걸 환영해요. 듣기 연습에 가장 좋은 곳이에요.
+C | Aquí aprendemos el idioma de verdad, con español para principiantes y estudiantes intermedios. | 여기서는 초급자와 중급 학생을 위한 진짜 언어를 배워요.
+
+[01:01]
+C | Este es un Spanish podcast diseñado para que puedas escuchar español en tu día a día mientras cocinas, caminas o descansas. | 요리하거나, 걷거나, 쉬면서 일상 속에서 스페인어를 들을 수 있도록 만든 팟캐스트예요.
+C | Y hoy vamos a hablar exactamente de eso: cómo pedir perdón según la situación. | 그리고 오늘은 바로 그 이야기, 상황에 따라 사과하는 법을 이야기할 거예요.
+S | Exacto. Es un tema muy importante para cualquier conversación en español. | 맞아요. 어떤 스페인어 대화에서든 아주 중요한 주제예요.
+S | Pero antes de empezar con nuestra clase de hoy, quiero pedirles un favor muy grande a todos los que nos están viendo o escuchando. | 그런데 오늘 수업을 시작하기 전에, 보고 계시거나 듣고 계신 모든 분께 큰 부탁을 하나 드리고 싶어요.
+S | Por favor, suscríbanse al canal y dejen un me gusta en este video. | 채널을 구독하고 이 영상에 '좋아요'를 눌러 주세요.
+
+[01:38]
+C | Así es, Sofía. Suscribirse, darle like y comentar es vital para nosotros. | 맞아, 소피아. 구독, 좋아요, 댓글은 저희에게 정말 중요해요.
+C | Nos ayuda muchísimo a que el canal siga creciendo y a que YouTube recomiende nuestros videos a más personas. | 채널이 계속 성장하고 유튜브가 더 많은 사람에게 영상을 추천하는 데 큰 도움이 돼요.
+C | Gracias a su apoyo, podemos seguir haciendo estas clases de español totalmente gratis para ustedes. Además, nos encanta leer sus comentarios. | 여러분의 응원 덕분에 이 스페인어 수업을 계속 무료로 만들 수 있어요. 그리고 여러분의 댓글 읽는 걸 정말 좋아해요.
+
+[02:05]
+C | Cuéntennos: ¿alguna vez han pasado vergüenza por no saber qué decir en español? | 알려 주세요. 스페인어로 뭐라고 해야 할지 몰라서 창피했던 적이 있나요?
+S | Sí, por favor, escriban sus historias en los comentarios. | 네, 댓글에 여러분의 이야기를 써 주세요.
+S | Y bueno, Carlos, volviendo a mi tragedia en el metro: yo dije "Lo siento". ¿Por qué la señora me miró raro? ¿Está mal dicho? Pensaba que era la traducción directa para disculparse. | 자, 카를로스, 지하철 비극으로 돌아가서요. 저는 "Lo siento"라고 했잖아요. 그분은 왜 저를 이상하게 봤을까요? 틀린 말인가요? 사과할 때 쓰는 직역인 줄 알았어요.
+C | No está mal dicho, Sofía, pero el español es un idioma con muchos matices. | 틀린 말은 아니야, 소피아. 그런데 스페인어는 뉘앙스가 아주 많은 언어야.
+
+[02:32]
+C | Las palabras cambian dependiendo del nivel de formalidad y de la gravedad del error. | 격식의 정도와 실수의 심각성에 따라 쓰는 말이 달라져.
+C | No es lo mismo pisar a alguien en el metro que llegar tarde a una reunión de trabajo o romper el teléfono de tu mejor amigo. | 지하철에서 누군가의 발을 밟는 것과, 회의에 늦는 것, 가장 친한 친구의 휴대폰을 망가뜨리는 건 같지 않잖아.
+S | Tienes toda la razón, y creo que para las personas que hablan otros idiomas es difícil entender cuándo usar cada palabra. | 정말 맞는 말이에요. 다른 언어를 쓰는 사람들에게는 각 단어를 언제 써야 하는지 이해하기 어려운 것 같아요.
+S | En las escuelas siempre nos enseñan una sola forma, pero en la calle la gente habla diferente. | 학교에서는 늘 한 가지 표현만 가르쳐 주는데, 길거리에서는 사람들이 다르게 말하잖아요.
+
+[03:01]
+## 어휘 분석 ① perdón vs lo siento
+S | Necesitamos aprender el español nativo. | 원어민의 스페인어를 배워야 해요.
+C | Exactamente. Por eso hoy vamos a hacer una pequeña sección de análisis del vocabulario. Vamos a ver algunas de las expresiones más importantes. | 바로 그거야. 그래서 오늘은 작은 어휘 분석 코너를 해 볼 거야. 가장 중요한 표현 몇 가지를 살펴보자.
+C | Yo creo que podemos empezar por la palabra más común de todas, la que usamos para casi todo en la calle. Sofía, ¿quieres empezar tú? | 가장 흔한 단어, 길에서 거의 모든 상황에 쓰는 말부터 시작하면 좋겠어. 소피아, 네가 먼저 할래?
+S | Claro que sí. Perdón. Esta palabra es muy directa y muy común. | 물론이죠. Perdón(미안해요/실례해요). 이 단어는 아주 직접적이고 아주 흔해요.
+
+[03:30]
+S | Se usa principalmente para errores pequeños, accidentes sin importancia o interrupciones. | 주로 작은 실수, 별것 아닌 사고, 말을 끊을 때 써요.
+S | Por ejemplo, si chocas con alguien en la calle por accidente, dices: "Perdón". También se usa cuando quieres pasar y alguien está en tu camino. | 예를 들어 길에서 실수로 누군가와 부딪히면 "Perdón"이라고 해요. 지나가고 싶은데 누가 길을 막고 있을 때도 써요.
+C | Lo siento. Esta expresión viene del verbo sentir. | Lo siento. 이 표현은 동사 sentir(느끼다)에서 왔어.
+C | La usamos cuando el error es un poco más grave y queremos mostrar arrepentimiento real o empatía. | 실수가 조금 더 심각해서 진심 어린 후회나 공감을 보여 주고 싶을 때 써.
+
+[03:59]
+C | Por ejemplo, si olvidas el cumpleaños de un amigo, dices: "Lo siento mucho". | 예를 들어 친구 생일을 잊어버렸다면 "Lo siento mucho(정말 미안해)"라고 해.
+C | O también se usa para dar el pésame o cuando alguien está enfermo: "Siento mucho que estés mal". | 아니면 조의를 표할 때나 누가 아플 때도 써. "Siento mucho que estés mal(몸이 안 좋다니 정말 안타까워)."
+S | Ah, ahora entiendo. En el metro, como fue un accidente pequeño, un simple choque de pies, la señora probablemente esperaba un rápido "perdón" o "perdona". | 아, 이제 알겠어요. 지하철에서는 작은 사고, 그냥 발끼리 부딪힌 거라서 그분은 아마 빠른 "perdón"이나 "perdona"를 기대했겠네요.
+
+[04:30]
+S | Al decir "lo siento", tal vez sonó demasiado dramático para la situación, como si yo estuviera sufriendo mucho por haber pisado su zapato. | "lo siento"라고 하니까 상황에 비해 너무 극적으로 들렸을 수도 있겠어요. 마치 신발 밟은 걸로 제가 엄청 괴로워하는 것처럼요.
+C | Exacto. Imagina que le dices: "Lo siento mucho, del fondo de mi corazón, por pisar un zapato". Es demasiado. | 바로 그거야. "신발을 밟아서 진심으로, 마음 깊이 유감입니다"라고 말한다고 상상해 봐. 너무 과하지.
+C | En España y en muchos países de Latinoamérica somos prácticos en la calle. Un simple "ay, perdón" es suficiente para un accidente pequeño. | 스페인과 많은 중남미 나라에서는 길에서 실용적으로 말해. 작은 사고에는 간단한 "아, 미안해요"면 충분해.
+
+[04:56]
+## 직장에서 — disculpa / disculpe
+C | Pero, ¿qué pasa si el accidente no es pequeño? ¿Qué pasa si el contexto es diferente? | 그런데 사고가 작지 않다면? 상황이 다르다면 어떨까?
+S | Bueno, Carlos, si el contexto es diferente, por ejemplo, en el lugar de trabajo, si yo cometo un error grave en la oficina, no creo que un simple "perdón" rápido sea suficiente, ¿verdad? | 음, 카를로스, 상황이 다르다면, 예를 들어 직장에서 제가 사무실에서 큰 실수를 하면, 그냥 빠른 "perdón"으로는 부족하겠죠?
+S | Siento que mi jefe me miraría muy mal. | 상사가 저를 아주 안 좋게 볼 것 같아요.
+C | Tienes toda la razón, Sofía. | 정말 맞아, 소피아.
+
+[05:22]
+C | En un ambiente formal, como el trabajo, o con personas que no conocemos, usamos otras palabras. | 직장 같은 격식 있는 자리나 모르는 사람과는 다른 말을 써.
+C | Aquí es muy importante usar el Spanish vocabulary adecuado para cada situación. Así demostramos respeto y profesionalismo. | 여기서는 상황에 맞는 어휘를 쓰는 게 아주 중요해. 그래야 존중과 프로다움을 보여 줄 수 있어.
+S | Oh, eso me interesa mucho, porque a veces en mi trabajo me da un poco de miedo hablar. Siento que mi Spanish conversation no es muy profesional todavía. | 오, 그거 정말 궁금해요. 가끔 직장에서 말하는 게 좀 무섭거든요. 제 스페인어 회화가 아직 그렇게 전문적이지 않은 것 같아서요.
+S | ¿Qué debo decir si, por ejemplo, llego tarde a una reunión importante con mi jefe o con un cliente? | 예를 들어 상사나 고객과의 중요한 회의에 늦으면 뭐라고 해야 해요?
+C | Es una excelente pregunta, y es algo que le pasa a todo el mundo. | 아주 좋은 질문이야. 누구에게나 일어나는 일이지.
+
+[05:57]
+C | En ese caso, la palabra mágica es "disculpa" si hablas de manera informal con un colega, o "disculpe" si hablas de manera formal con un cliente. | 그럴 땐 동료와 편하게 말할 때는 "disculpa", 고객과 격식 있게 말할 때는 "disculpe"가 마법의 단어야.
+C | Vamos a continuar con nuestra sección de análisis del vocabulario para explicarlo mejor. | 더 잘 설명하려고 어휘 분석 코너를 계속해 보자.
+C | Disculpa. Esta palabra es un poco más formal y educada que un simple "perdón". Se usa mucho en el trabajo o cuando interrumpes a alguien educadamente en la calle. | Disculpa. 이 단어는 그냥 "perdón"보다 조금 더 격식 있고 예의 바른 말이야. 직장에서나 길에서 누군가에게 공손하게 말을 걸 때 많이 써.
+
+[06:25]
+C | Por ejemplo, puedes decir: "Disculpa, ¿tienes la hora?" o "Disculpa, ¿puedo hacer una pregunta rápida?" | 예를 들어 "실례지만, 몇 시인지 아세요?"나 "실례지만, 빨리 하나만 물어봐도 될까요?"라고 할 수 있어.
+C | Disculpe. Esta es la forma de usted. La usamos para mostrar mucho respeto a personas mayores, autoridades, jefes o clientes importantes. | Disculpe. 이건 usted(당신) 형태야. 어르신, 관계자, 상사, 중요한 고객에게 깊은 존중을 보일 때 써.
+C | Si llegas tarde a la reunión de trabajo, puedes decir: "Disculpe la tardanza, había muchísimo tráfico". | 회의에 늦었다면 "늦어서 죄송합니다, 차가 엄청 막혔어요"라고 할 수 있어.
+
+[06:52]
+C | Es una frase perfecta para nuestras clases de español, muy útil para la vida diaria. | 우리 수업에 딱 맞는, 일상에서 아주 유용한 문장이야.
+## 큰 실수엔 — lo siento muchísimo · mil perdones
+S | Ah, qué frase tan útil: "Disculpe la tardanza". Lo voy a anotar en mi cuaderno ahora mismo, porque seguro que la voy a necesitar. | 아, 정말 유용한 문장이네요. "Disculpe la tardanza." 분명 필요할 테니 지금 바로 공책에 적어 둘게요.
+S | Pero, ¿y qué pasa si rompo algo valioso? Imagina que estoy en la casa de mi suegra por primera vez y por accidente rompo su jarrón favorito. ¡Qué desastre total! | 그런데 귀한 물건을 깨뜨리면요? 시어머니 댁에 처음 갔는데 실수로 그분이 가장 아끼는 꽃병을 깼다고 상상해 보세요. 완전 대참사죠!
+C | Uy, eso sí que es un desastre gigante, Sofía. | 으, 그건 정말 엄청난 참사다, 소피아.
+
+[07:20]
+C | En esa situación, "disculpa" definitivamente no es suficiente. Necesitas usar algo mucho más fuerte, algo que demuestre que te sientes terrible, triste y avergonzada por el accidente. | 그런 상황에서는 "disculpa"로는 절대 부족해. 훨씬 강한 말, 그 사고 때문에 정말 괴롭고 슬프고 부끄럽다는 걸 보여 주는 말이 필요해.
+S | Entonces, ¿qué digo? "Lo siento muchísimo". | 그럼 뭐라고 해요? "Lo siento muchísimo(정말 너무 죄송해요)"?
+C | Sí, "lo siento muchísimo" es una muy buena opción, pero también hay una expresión muy común entre los hispanohablantes cuando queremos exagerar un poco nuestro arrepentimiento. | 응, "lo siento muchísimo"도 아주 좋은 선택이야. 그런데 후회를 조금 과장하고 싶을 때 스페인어권 사람들이 아주 흔히 쓰는 표현도 있어.
+C | Es una expresión muy emocional. Decimos: "Mil perdones". | 아주 감정적인 표현이야. "Mil perdones(천 번 사과드려요)"라고 해.
+
+[07:53]
+C | Mil perdones. Esta frase significa literalmente que pides perdón mil veces. Es una forma de decir que te sientes supermal. | Mil perdones. 말 그대로 천 번 사과한다는 뜻이야. 정말 미안해서 어쩔 줄 모르겠다는 표현이지.
+S | Entonces, si rompo el jarrón de mi suegra, yo diría: "Ay, mil perdones, no fue mi intención. Le juro que le compraré uno nuevo mañana mismo". | 그럼 시어머니 꽃병을 깼다면 이렇게 말하겠네요. "아, 정말 죄송해요, 일부러 그런 게 아니에요. 내일 당장 새것을 사 드리겠다고 맹세할게요."
+C | Exactamente. Así demuestras que realmente te importa la otra persona y sus sentimientos. | 바로 그거야. 그렇게 해야 상대방과 그 사람의 감정을 정말 신경 쓰고 있다는 걸 보여 줄 수 있어.
+
+[08:23]
+C | Al aprender español, entender estas diferencias emocionales es fundamental. | 스페인어를 배울 때 이런 감정의 차이를 이해하는 건 아주 중요해.
+C | No es solo aprender gramática de memoria; es saber cómo conectar con la gente de forma real. | 문법을 외우는 것만이 아니라, 사람들과 진짜로 연결되는 법을 아는 거야.
+S | Tienes mucha razón. A veces los estudiantes de idiomas nos concentramos tanto en conjugar bien los verbos que olvidamos la parte humana, olvidamos la empatía. Y pedir perdón es pura empatía. | 정말 맞아요. 언어를 배우는 학생들은 가끔 동사 변화를 정확히 하는 데 너무 집중해서 인간적인 부분, 공감을 잊어버려요. 그리고 사과는 순수한 공감이죠.
+C | Así es, Sofía. | 맞아, 소피아.
+
+[08:49]
+## 내 잘못일 때 — me equivoqué
+C | Y hay otro escenario muy común en la vida. ¿Qué pasa cuando no es un accidente físico, como pisar un zapato o romper un jarrón, sino un error mental? | 그리고 살면서 아주 흔한 다른 상황이 있어. 신발을 밟거나 꽃병을 깨는 물리적 사고가 아니라 머리로 한 실수라면?
+C | Por ejemplo, cuando das una información equivocada a un compañero. | 예를 들어 동료에게 잘못된 정보를 줬을 때.
+S | Mm. ¿Te refieres a situaciones como si yo digo que una cena es a las 8, pero en realidad es a las 9? | 음. 저녁 약속이 8시라고 했는데 사실은 9시였던 그런 상황 말하는 거예요?
+C | Exacto. | 그렇지.
+
+[09:17]
+C | En ese caso, pedir perdón está bien, pero los nativos solemos usar otra frase para asumir la responsabilidad total del error. Es una forma de decir "yo tengo la culpa". | 그럴 땐 사과도 괜찮지만, 원어민들은 실수의 책임을 온전히 지기 위해 보통 다른 말을 써. '내 탓이야'라고 말하는 방식이지.
+C | Usamos mucho el verbo equivocarse: "Me equivoqué". Esta frase significa que tú hiciste algo mal, que fue tu error completamente. | 동사 equivocarse(틀리다)를 많이 써. "Me equivoqué(내가 착각했어/잘못했어)." 네가 뭔가를 잘못했다, 완전히 네 실수였다는 뜻이야.
+C | Es una frase muy honesta y directa. Por ejemplo, puedes decir: "Me equivoqué con la hora de la cena. Lo siento mucho". | 아주 솔직하고 직접적인 말이야. 예를 들어 "저녁 시간을 내가 잘못 알았어. 정말 미안해"라고 할 수 있어.
+
+[09:44]
+C | Así asumes tu responsabilidad de forma clara. | 그렇게 하면 책임을 분명하게 지는 거지.
+S | Muy bien explicado. Es una frase muy poderosa en cualquier idioma. | 설명 정말 좋네요. 어떤 언어에서든 아주 힘 있는 말이에요.
+C | A la gente le gusta mucho la honestidad. Decir "me equivoqué" demuestra madurez. | 사람들은 솔직함을 정말 좋아해. "me equivoqué"라고 말하는 건 성숙함을 보여 줘.
+C | Y eso es exactamente lo que queremos enseñar aquí, en Español Auténtico: un idioma real, humano y listo para la calle. | 그리고 그게 바로 Español Auténtico에서 가르치고 싶은 거야. 진짜이고, 인간적이고, 길에서 바로 쓸 수 있는 언어.
+S | Me encanta. Siento que mi vocabulario se está expandiendo mucho hoy. Ya tengo muchas opciones. | 너무 좋아요. 오늘 어휘가 정말 많이 늘어나는 느낌이에요. 벌써 선택지가 많아요.
+
+[10:11]
+S | Perdón, lo siento, disculpa, mil perdones y me equivoqué. Son herramientas fantásticas. | Perdón, lo siento, disculpa, mil perdones, 그리고 me equivoqué. 정말 멋진 도구들이에요.
+C | Son las mejores herramientas, sin duda, y saber cuándo usar cada una te va a hacer sonar mucho más natural, como si hubieras vivido años en España o en América Latina. | 의심할 여지 없이 최고의 도구야. 각각을 언제 쓰는지 알면 스페인이나 중남미에서 몇 년 산 것처럼 훨씬 자연스럽게 들릴 거야.
+## 사과를 받을 때 — 어떻게 대답할까?
+C | Pero, Sofía, creo que también es superimportante saber cómo responder cuando alguien te pide perdón a ti. | 그런데 소피아, 누군가 너에게 사과할 때 어떻게 대답하는지 아는 것도 정말 중요한 것 같아.
+
+[10:38]
+C | No nos podemos quedar callados mirando a la otra persona, ¿verdad? En verdad sería superincómodo. | 아무 말 없이 상대를 쳐다보고만 있을 수는 없잖아? 정말 엄청 어색할 거야.
+C | Imagina que te digo: "Lo siento muchísimo porque rompí tu teléfono", y tú solo me miras en silencio con los brazos cruzados. Creo que yo empezaría a sudar y a llorar de los nervios. | 내가 "네 휴대폰을 망가뜨려서 정말 미안해"라고 했는데, 네가 팔짱을 끼고 말없이 나를 쳐다보기만 한다고 상상해 봐. 나는 긴장해서 땀을 흘리고 울기 시작할 것 같아.
+C | Saber cómo responder a una disculpa es básico para mantener viva una conversación en español. | 사과에 어떻게 답하는지 아는 건 스페인어 대화를 이어 가는 데 기본이야.
+
+[11:04]
+S | Yo recuerdo que antes, cuando alguien me pedía perdón, mi mente se bloqueaba. No sabía qué decir y solo respondía "ok", o peor aún, decía "gracias". | 예전에 누가 저에게 사과하면 머리가 멈춰 버렸던 게 기억나요. 뭐라고 할지 몰라서 그냥 "ok"라고 하거나, 더 심하면 "gracias(고마워요)"라고 했어요.
+C | Ay, Sofía, decir "gracias" cuando alguien te pide perdón por pisarte el pie sí que suena bastante raro. Pero no te sientas mal, es un error muy normal al aprender español. | 아이고, 소피아, 발을 밟아서 사과하는 사람에게 "gracias"라고 하는 건 정말 꽤 이상하게 들려. 그래도 기분 나빠하지 마. 스페인어를 배울 때 아주 흔한 실수야.
+C | Para los que estudian español para extranjeros, a veces es difícil encontrar la frase exacta para hacer sentir bien a la otra persona en ese segundo de tensión, porque de eso se trata, ¿verdad? | 외국인으로서 스페인어를 공부하는 사람들은 그 긴장된 순간에 상대의 마음을 편하게 해 줄 정확한 말을 찾기가 어려울 때가 있어. 결국 그게 핵심이잖아, 그렇지?
+C | Cuando respondemos a una disculpa, casi siempre queremos calmar al otro y decirle que todo está bien. | 사과에 답할 때 우리는 거의 언제나 상대를 진정시키고 다 괜찮다고 말해 주고 싶어 하지.
+
+[11:44]
+S | Exacto. Queremos quitarle peso al error, hacer que el problema parezca más pequeño. | 맞아요. 실수의 무게를 덜어 주고 문제가 더 작게 느껴지게 하고 싶은 거죠.
+S | Y me encanta que en nuestra práctica de Spanish listening de hoy podamos ver las dos caras de la moneda: cómo pedir disculpas y cómo aceptarlas, porque la comunicación siempre es un baile de dos personas. | 그리고 오늘 듣기 연습에서 동전의 양면, 즉 사과하는 법과 사과를 받아들이는 법을 둘 다 볼 수 있어서 정말 좋아요. 대화는 언제나 두 사람이 추는 춤이니까요.
+S | Empezamos con las frases para perdonar a alguien. | 누군가를 용서할 때 쓰는 말부터 시작해요.
+C | Me parece una idea fantástica. | 아주 좋은 생각이야.
+
+[12:08]
+## 어휘 분석 ② 사과에 답하는 말
+C | Vamos a continuar analizando el vocabulario para ver las mejores opciones. | 가장 좋은 표현들을 보려고 어휘 분석을 계속하자.
+C | Y recuerden en casa: usar estas frases les ayudará muchísimo a hablar español de una manera mucho más natural, fluida y amable. Empieza tú, Sofía, con la frase más famosa de todas. | 그리고 집에서 듣는 여러분, 이 표현들을 쓰면 훨씬 자연스럽고, 유창하고, 다정하게 스페인어를 말하는 데 큰 도움이 될 거예요. 소피아, 가장 유명한 말부터 시작해 줘.
+S | No pasa nada. Esta es, sin duda, la frase que más escucho en España y en muchos otros lugares. Se usa muchísimo todos los días. | No pasa nada(괜찮아요, 별일 아니에요). 이건 의심할 여지 없이 스페인과 다른 많은 곳에서 제가 가장 많이 듣는 말이에요. 매일 정말 많이 써요.
+
+[12:34]
+S | Significa que el problema es cero, que no hay ninguna consecuencia negativa. | 문제가 전혀 없다, 나쁜 결과가 하나도 없다는 뜻이에요.
+S | Si alguien choca contigo en el supermercado y te dice "Ay, perdón", tú le respondes con una sonrisa: "No pasa nada". Es muy amigable y elimina la tensión de inmediato. | 슈퍼마켓에서 누가 당신과 부딪히고 "아, 미안해요"라고 하면, 웃으면서 "No pasa nada"라고 답해요. 아주 친근하고 긴장을 바로 풀어 줘요.
+S | No te preocupes. Esta es otra respuesta excelente y llena de empatía. | No te preocupes(걱정 마). 이것도 공감이 가득한 아주 좋은 대답이에요.
+
+[12:58]
+S | Literalmente le estás diciendo a la otra persona que deje de tener una preocupación en su cabeza por culpa de su error. | 말 그대로 상대에게 자기 실수 때문에 머릿속에 걱정을 품지 말라고 하는 거예요.
+S | Si un amigo llega 10 minutos tarde al cine y te dice "Disculpa por llegar tarde", tú respondes: "No te preocupes, la película todavía no empieza". | 친구가 영화관에 10분 늦게 와서 "늦어서 미안해"라고 하면, "걱정 마, 영화 아직 시작 안 했어"라고 답해요.
+S | Y un detalle importante: si es una situación formal con tu jefe, solo cambias una letra y dices "No se preocupe". | 그리고 중요한 포인트 하나. 상사와의 격식 있는 상황이라면 글자 하나만 바꿔서 "No se preocupe"라고 해요.
+S | No hay problema. | No hay problema(문제없어요).
+
+[13:23]
+S | Esta expresión es superútil y muy fácil de recordar, porque es casi igual en muchos otros idiomas. Sirve tanto para situaciones informales como formales. | 이 표현은 아주 유용하고 기억하기 쉬워요. 다른 많은 언어와 거의 같거든요. 편한 상황에도 격식 있는 상황에도 다 써요.
+S | Por ejemplo, si un compañero de oficina te dice "Me equivoqué con el documento, lo siento", tú puedes decir: "No hay problema, lo arreglamos ahora mismo en la computadora". Es muy práctica para solucionar cosas rápido. | 예를 들어 회사 동료가 "서류를 잘못 작성했어, 미안해"라고 하면 "문제없어, 지금 바로 컴퓨터로 고치자"라고 할 수 있어요. 일을 빨리 해결할 때 아주 실용적이에요.
+S | Está bien. Esta frase es un poco más neutra y seria. | Está bien(알았어, 괜찮아). 이건 조금 더 중립적이고 진지한 말이에요.
+
+[13:49]
+S | Significa que aceptas la disculpa, pero quizás el error sí te molestó un poquito. No es tan cálida y feliz como decir "No pasa nada". | 사과는 받아들이지만, 그 실수가 조금은 거슬렸을 수도 있다는 뜻이에요. "No pasa nada"만큼 따뜻하고 밝지는 않아요.
+S | Por ejemplo, si un amigo olvida devolverte dinero y te pide mil perdones, tú puedes decirle: "Está bien, pero por favor dámelo mañana". | 예를 들어 친구가 돈 갚는 걸 잊고 천 번 사과하면 "알았어, 그래도 내일은 꼭 줘"라고 할 수 있어요.
+S | Aceptas el perdón, pero pones un límite claro. | 사과는 받아들이지만 분명한 선을 긋는 거죠.
+S | No tiene importancia. | No tiene importancia(별거 아니에요).
+
+[14:15]
+S | Esta me gusta muchísimo porque suena muy dulce y educada. Significa que el error es tan, tan pequeño que no merece la pena hablar más del tema. | 저는 이 말을 정말 좋아해요. 아주 다정하고 예의 바르게 들리거든요. 실수가 너무너무 작아서 더 이야기할 가치도 없다는 뜻이에요.
+S | Si yo derramo un poco de café en la mesa sin querer y te pido disculpas, tú me puedes decir: "Tranquila, no tiene importancia, es solo café". | 제가 실수로 테이블에 커피를 조금 쏟고 사과하면 "괜찮아, 별거 아니야, 그냥 커피인걸"이라고 말해 줄 수 있어요.
+S | Creo que es un vocabulario español muy rico para mostrar amabilidad. | 친절함을 보여 주는 아주 풍부한 어휘인 것 같아요.
+C | Totalmente de acuerdo, Sofía. | 완전히 동의해, 소피아.
+
+[14:39]
+## 메시지와 이메일로 사과하기
+C | Son frases cortas y sencillas, pero cambian por completo la forma en que conectamos con la gente a nuestro alrededor. | 짧고 간단한 말들이지만, 주변 사람들과 연결되는 방식을 완전히 바꿔 줘.
+C | Y bueno, hasta ahora hemos hablado de pedir disculpas y aceptarlas cara a cara, mirando a los ojos a la otra persona, pero vivimos en un mundo muy digital. | 자, 지금까지는 상대의 눈을 보며 얼굴을 맞대고 사과하고 받아들이는 이야기를 했는데, 우리는 아주 디지털한 세상에 살고 있지.
+C | Muchas veces no estamos frente a frente cuando cometemos un error. | 실수를 할 때 얼굴을 마주하고 있지 않은 경우가 많아.
+
+[15:02]
+C | ¿Qué pasa si tienes que pedir perdón por un mensaje de WhatsApp o escribir un correo electrónico formal en el trabajo para disculparte con un cliente? Las reglas del juego cambian bastante en ese momento. | 왓츠앱 메시지로 사과해야 하거나, 직장에서 고객에게 사과하는 격식 있는 이메일을 써야 한다면? 그때는 게임의 규칙이 꽤 달라져.
+S | Es muy cierto, Carlos. Enviar un mensaje de WhatsApp o un correo electrónico es completamente distinto. | 정말 맞아요, 카를로스. 왓츠앱 메시지나 이메일을 보내는 건 완전히 달라요.
+S | En persona puedes usar tus manos, tu cara, tu sonrisa para demostrar que lo sientes de verdad, pero en un texto las palabras son frías. | 직접 만나면 손짓, 표정, 미소로 진심으로 미안하다는 걸 보여 줄 수 있지만, 글에서는 말이 차갑게 느껴져요.
+
+[15:30]
+S | A veces, cuando intento escribir un correo formal en mi trabajo, me paso media hora mirando la pantalla. No sé cómo empezar. | 가끔 직장에서 격식 있는 이메일을 쓰려고 하면 화면만 30분씩 쳐다봐요. 어떻게 시작해야 할지 모르겠어요.
+S | Y me imagino que para nuestros oyentes que buscan improve Spanish, escribir correos formales es un desafío enorme. | 그리고 실력을 키우고 싶은 청취자분들께도 격식 있는 이메일 쓰기는 엄청난 도전일 것 같아요.
+C | Te entiendo perfectamente, Sofía. La escritura asusta un poco porque queda ahí guardada para siempre. | 완전히 이해해, 소피아. 글은 영원히 남으니까 좀 무섭지.
+
+[15:57]
+C | En la oficina no puedes enviar un correo a tu jefe diciendo "Ay, perdón". Suena muy poco profesional. | 회사에서 상사에게 "아, 미안요"라고 이메일을 보낼 수는 없잖아. 너무 프로답지 못하게 들려.
+C | Cuando escribimos, especialmente en el trabajo, necesitamos usar frases en español que sean claras, precisas y educadas. | 글을 쓸 때, 특히 직장에서는 명확하고, 정확하고, 예의 바른 스페인어 표현을 써야 해.
+C | Para dominar el español avanzado en el mundo laboral, hay un par de expresiones de cortesía que siempre funcionan muy bien en los textos. | 직장에서 고급 스페인어를 잘 쓰려면, 글에서 항상 잘 통하는 공손한 표현이 몇 가지 있어.
+S | ¡Genial! | 좋아요!
+
+[16:23]
+## 어휘 분석 ③ 이메일 · 채팅 표현
+S | Entonces, hagamos nuestra sección de vocabulario enfocada en mensajes y correos electrónicos. Así todos podemos anotar estas frases y usarlas mañana mismo en la oficina o con nuestros amigos por chat. | 그럼 메시지와 이메일에 초점을 맞춘 어휘 코너를 해요. 다들 이 표현들을 적어 뒀다가 내일 바로 회사에서나 친구들과 채팅할 때 쓸 수 있게요.
+S | Yo empiezo con una que he visto mucho en los correos de mi empresa: Lamento. Esta palabra viene del verbo lamentar. | 제가 회사 이메일에서 많이 본 것부터 시작할게요. Lamento(유감입니다). 동사 lamentar에서 왔어요.
+S | Es mucho más formal que "lo siento". Se usa muchísimo en los correos corporativos. | "lo siento"보다 훨씬 격식 있어요. 회사 이메일에서 정말 많이 써요.
+
+[16:52]
+S | Por ejemplo, si envías un documento tarde, escribes "Lamento el retraso", o si hay un problema con una factura, "Lamento la confusión". Es directo, elegante y muy profesional. | 예를 들어 서류를 늦게 보내면 "Lamento el retraso(지연되어 죄송합니다)", 청구서에 문제가 있으면 "Lamento la confusión(혼란을 드려 죄송합니다)"이라고 써요. 직접적이고, 세련되고, 아주 전문적이에요.
+S | Te pido disculpas. Esta es otra estructura excelente para los correos o mensajes importantes. En lugar de decir solo "disculpa", lo dices de manera completa. | Te pido disculpas(사과할게). 중요한 이메일이나 메시지에 좋은 또 다른 구조예요. 그냥 "disculpa"라고 하는 대신 완전한 문장으로 말하는 거예요.
+S | Y si es para un jefe o cliente, usas la forma formal: "Le pido disculpas". | 상사나 고객에게는 격식 있는 형태 "Le pido disculpas(사과드립니다)"를 써요.
+
+[17:19]
+S | Por ejemplo: "Le pido disculpas por el error en el sistema de ayer". Es una forma muy madura de asumir la responsabilidad por escrito. | 예를 들어 "어제 시스템 오류에 대해 사과드립니다." 글로 책임을 지는 아주 성숙한 방식이에요.
+C | Mis más sinceras disculpas. Esta suena superformal. Supongo que se usa cuando el error es bastante grave en el trabajo, ¿verdad? Como si un cliente está muy enfadado y tienes que calmarlo por correo. | Mis más sinceras disculpas(진심으로 사과드립니다). 이건 아주 격식 있게 들려. 직장에서 실수가 꽤 심각할 때 쓰는 것 같아, 그렇지? 고객이 많이 화가 나서 이메일로 진정시켜야 할 때처럼.
+
+[17:45]
+C | Puedes escribir: "Le ofrezco mis más sinceras disculpas por las molestias causadas". Suena a que tienes un nivel de español para extranjeros altísimo y muy pulido. | "불편을 끼쳐 드린 점 진심으로 사과드립니다"라고 쓸 수 있어. 외국인으로서 아주 높고 세련된 스페인어 실력을 가진 것처럼 들려.
+S | Exactamente. Es perfecta para atención al cliente o errores graves. | 바로 그거예요. 고객 응대나 심각한 실수에 딱이에요.
+S | Pero bueno, no todo en la vida es trabajo y correos de negocios. ¿Qué pasa con las aplicaciones de mensajería? | 그런데 인생이 일과 업무 이메일만은 아니잖아요. 메신저 앱은요?
+S | Imagina que estás hablando con un buen amigo y envías un mensaje en el grupo equivocado o borras una foto importante por accidente. | 친한 친구와 이야기하다가 메시지를 엉뚱한 단톡방에 보내거나, 실수로 중요한 사진을 지웠다고 상상해 보세요.
+
+[18:17]
+S | Para el learn Spanish vocabulary de la vida diaria, hay frases informales que nos salvan la vida rápidamente. | 일상 어휘에는 우리를 순식간에 살려 주는 편한 표현들이 있어요.
+C | Fue sin querer. Esta me encanta, es supernormal y la usamos muchísimo los jóvenes. Significa que fue un accidente total, que no tenías mala intención. | Fue sin querer(일부러 그런 게 아니야). 이 말 정말 좋아. 아주 흔하고 젊은 사람들이 정말 많이 써. 완전히 사고였다, 나쁜 의도는 없었다는 뜻이야.
+C | Si rompes algo en un juego o mandas un mensaje raro, escribes rápido en el chat: "Uy, lo siento, fue sin querer". | 게임하다가 뭔가를 망가뜨리거나 이상한 메시지를 보냈을 때 채팅에 빨리 "앗, 미안, 일부러 그런 거 아냐"라고 써.
+
+[18:38]
+C | Es una frase genial para las clases de español porque te hace sonar como un verdadero hispanohablante nativo. | 진짜 원어민처럼 들리게 해 주니까 스페인어 수업에 딱 좋은 표현이야.
+C | No volverá a pasar. Y esta última es una promesa. Es clave tanto para lo formal como para lo informal. | No volverá a pasar(다시는 이런 일 없을 거예요). 이 마지막 말은 약속이야. 격식 있는 자리에서도 편한 자리에서도 핵심이지.
+C | Significa que has aprendido la lección y que prometes no repetir tu error. Es el final perfecto para una disculpa escrita. | 교훈을 얻었고 같은 실수를 반복하지 않겠다고 약속한다는 뜻이야. 글로 하는 사과의 완벽한 마무리지.
+C | Por ejemplo, en un correo: "Lamento la confusión. | 예를 들어 이메일에서 "혼란을 드려 죄송합니다.
+
+[19:04]
+C | Le aseguro que no volverá a pasar". Da mucha tranquilidad a la persona que lee tu mensaje. | 다시는 이런 일이 없도록 하겠습니다." 메시지를 읽는 사람을 아주 안심시켜 줘.
+S | ¡Qué buenas frases! Siento que ahora tengo un manual completo para sobrevivir a cualquier error, ya sea en persona o por escrito. | 정말 좋은 표현들이에요! 이제 직접 만나서든 글로든 어떤 실수도 살아남을 수 있는 완벽한 매뉴얼이 생긴 것 같아요.
+S | Ya no voy a entrar en pánico cuando tenga que escribir un correo pidiendo perdón o cuando mande un WhatsApp a la persona equivocada. | 이제 사과 이메일을 써야 하거나 왓츠앱을 엉뚱한 사람에게 보내도 당황하지 않을 거예요.
+
+[19:28]
+S | Solo tengo que respirar profundo, recordar estas palabras y enviarlo. | 깊게 숨 쉬고, 이 말들을 떠올리고, 보내기만 하면 되니까요.
+## 목소리 톤이 중요해요
+C | De eso se trata, Sofía. El objetivo de este canal no es que hables perfecto y no tengas ningún error nunca. | 바로 그거야, 소피아. 이 채널의 목표는 완벽하게 말하고 절대 실수하지 않는 게 아니야.
+C | El objetivo es darte las herramientas para hablar español con confianza en la vida real. Y saber pedir perdón es, irónicamente, una de las mejores formas de ganar esa confianza. | 실생활에서 자신 있게 스페인어로 말할 수 있는 도구를 주는 거지. 그리고 아이러니하게도 사과하는 법을 아는 게 그 자신감을 얻는 가장 좋은 방법 중 하나야.
+
+[19:53]
+C | Cuando sabes solucionar un error con gracia y buena educación, la gente te respeta más. | 실수를 품위 있고 예의 바르게 해결할 줄 알면, 사람들이 너를 더 존중해.
+C | Pero oye, no solo importan las palabras. El tono de voz también cuenta muchísimo cuando estamos en persona o cuando mandamos un audio de voz en WhatsApp, ¿no crees? | 그런데 말이야, 말만 중요한 게 아니야. 직접 만날 때나 왓츠앱으로 음성 메시지를 보낼 때는 목소리 톤도 정말 중요해. 그렇지 않아?
+S | Tienes toda la razón, Carlos. El tono de voz lo es todo. | 정말 맞아요, 카를로스. 목소리 톤이 전부예요.
+S | Puedes usar las mejores palabras del mundo, puedes escribir el mensaje perfecto, pero si tu tono de voz es frío o sarcástico, la disculpa no sirve para nada. Especialmente cuando mandas un audio por WhatsApp. | 세상에서 가장 좋은 말을 쓰고 완벽한 메시지를 써도, 목소리 톤이 차갑거나 비꼬는 듯하면 사과는 아무 소용이 없어요. 특히 왓츠앱 음성 메시지를 보낼 때요.
+
+[20:27]
+S | A veces, por intentar hacer una broma para quitarle peso al asunto, podemos ofender más a la otra persona. | 가끔 분위기를 가볍게 하려고 농담을 하다가 상대를 더 기분 나쁘게 할 수도 있어요.
+S | Es algo que noto mucho al escuchar español en la calle: la melodía de la voz cambia por completo cuando alguien está arrepentido de verdad. | 길에서 스페인어를 들을 때 많이 느끼는 건데, 누군가 진심으로 뉘우칠 때는 목소리의 멜로디가 완전히 달라져요.
+C | Así es, Sofía. | 맞아, 소피아.
+
+[20:47]
+C | La pronunciación española no es solamente saber cómo decir la letra R o cómo pronunciar la J. También incluye la entonación y la emoción que ponemos en cada sílaba. | 스페인어 발음은 R을 어떻게 굴리는지, J를 어떻게 발음하는지만이 아니야. 음절마다 담는 억양과 감정도 포함돼.
+C | Cuando un español nativo pide perdón de forma sincera, normalmente baja un poco el volumen de su voz, habla un poco más despacio y mantiene un tono suave. | 원어민이 진심으로 사과할 때는 보통 목소리를 조금 낮추고, 조금 더 천천히 말하고, 부드러운 톤을 유지해.
+C | Si dices "perdón" rápido y gritando, suena como si estuvieras enojado por tener que pedir disculpas, y eso crea un problema mayor. | "perdón"을 빠르게, 소리치듯 말하면 사과해야 하는 게 화난 것처럼 들려서 더 큰 문제가 생겨.
+S | Totalmente. | 완전히 맞아요.
+
+[21:22]
+S | Si yo te piso el pie y te digo gritando "Bueno, pues perdón", seguro que te vas a enfadar mucho más conmigo. | 제가 당신 발을 밟고 소리치면서 "아, 그래요, 미안하다고요"라고 하면, 분명 저한테 훨씬 더 화가 날 거예요.
+S | Por eso es tan útil tener estas sesiones de conversación en español aquí en el canal. Nos ayudan a entender el contexto emocional, no solo la gramática pura. | 그래서 이 채널의 스페인어 대화 시간이 정말 유용해요. 순수한 문법만이 아니라 감정적인 맥락을 이해하게 도와주니까요.
+
+[21:42]
+## 화해하기 — hacer las paces · sin rencores
+S | Y creo que, para completar todo este proceso de pedir disculpas, nos falta ver qué pasa justo después. Es decir, ¿cómo volvemos a la normalidad con esa persona? | 그리고 사과하는 과정 전체를 완성하려면, 바로 그다음에 무슨 일이 일어나는지 봐야 할 것 같아요. 그러니까 그 사람과 어떻게 다시 평소처럼 돌아가죠?
+C | Tienes una idea excelente. Después del perdón viene la reconciliación, y para eso también tenemos un vocabulario muy específico que nos ayuda a cerrar el conflicto. | 아주 좋은 생각이야. 사과 다음에는 화해가 오고, 거기에도 갈등을 마무리하게 도와주는 아주 구체적인 어휘가 있어.
+C | Vamos a hacer una última sección de análisis de vocabulario con las expresiones que usamos cuando el problema ya está solucionado. | 문제가 이미 해결됐을 때 쓰는 표현들로 마지막 어휘 분석 코너를 해 보자.
+
+[22:08]
+C | Empieza tú con una de las más bonitas. | 가장 예쁜 표현 중 하나로 시작해 줘.
+S | Hacer las paces. Esta es una de mis expresiones favoritas al aprender español. | Hacer las paces(화해하다). 스페인어를 배우면서 제가 가장 좋아하게 된 표현 중 하나예요.
+S | Significa exactamente que el conflicto ha terminado y que volvemos a ser amigos o volvemos a tener una buena relación. Viene de la palabra paz. | 갈등이 끝났고 다시 친구가 되거나 좋은 관계로 돌아간다는 뜻이에요. paz(평화)라는 단어에서 왔어요.
+
+[22:27]
+S | Por ejemplo, después de una discusión con tu hermano y pedirle perdón, le puedes decir: "¿Hacemos las paces?". Es como firmar un tratado de paz emocional. | 예를 들어 형제와 말다툼하고 사과한 뒤 "우리 화해할까?"라고 할 수 있어요. 감정의 평화 조약에 서명하는 것 같아요.
+S | Estar resentido. Esta expresión describe el sentimiento opuesto. | Estar resentido(앙금이 남아 있다). 이 표현은 반대의 감정을 말해요.
+S | La usamos cuando alguien ha aceptado tu perdón con palabras, pero por dentro todavía siente un poco de dolor o de enfado por tu error. | 누군가 말로는 사과를 받아들였지만, 속으로는 아직 그 실수 때문에 조금 아프거나 화가 나 있을 때 써요.
+
+[22:55]
+S | Por ejemplo: "Juan me dijo que no pasa nada, pero creo que todavía está resentido por lo que le dije ayer". | 예를 들어 "후안은 괜찮다고 했지만, 어제 내가 한 말 때문에 아직 마음이 상해 있는 것 같아."
+S | Es muy útil para describir emociones complejas en cualquier Spanish language. | 복잡한 감정을 표현할 때 아주 유용해요.
+S | Te lo digo de verdad. Usamos muchísimo esta pequeña frase al final de una disculpa para confirmar que somos completamente sinceros. | Te lo digo de verdad(진심이야). 사과 끝에 우리가 완전히 진심이라는 걸 확인시키려고 이 짧은 말을 정말 많이 써요.
+S | Si ves que la otra persona duda de ti o piensa que no te importa, añades esto para darle fuerza a tu disculpa. | 상대가 의심하거나 당신이 신경 안 쓴다고 생각하는 것 같으면, 사과에 힘을 실으려고 이 말을 덧붙여요.
+
+[23:20]
+S | Por ejemplo: "Siento mucho no haber ido a tu fiesta, te lo digo de verdad, estaba muy enferma". Ayuda a romper esa barrera de duda. | 예를 들어 "네 파티에 못 가서 정말 미안해, 진심이야, 많이 아팠어." 의심의 벽을 허무는 데 도움이 돼요.
+S | Sin rencores. Esta frase la dice la persona que acepta la disculpa para asegurar que no va a estar resentida en el futuro. | Sin rencores(앙금 없이, 서운한 거 없어). 사과를 받는 사람이 앞으로 마음에 담아 두지 않겠다고 확인해 주는 말이에요.
+S | Un rencor es un sentimiento negativo que guardas por mucho tiempo. | rencor(원한, 앙금)는 오랫동안 품고 있는 부정적인 감정이에요.
+
+[23:47]
+S | Así que, si un amigo te pide mil perdones por romper tu taza favorita y tú quieres que él se sienta tranquilo, le dices: "Tranquilo, de verdad, está bien. Sin rencores". | 그러니까 친구가 당신이 아끼는 머그잔을 깨서 천 번 사과하고, 그 친구를 안심시키고 싶다면 "괜찮아, 진짜로 괜찮아. 마음에 담아 두지 않을게"라고 말해요.
+S | Una forma muy madura de continuar la relación. | 관계를 이어 가는 아주 성숙한 방법이에요.
+C | Me encantan todas estas expresiones. Son oro puro para nuestra vida diaria. Siento que hoy hemos aprendido muchísimo sobre cómo ser más empáticos y humanos al hablar. | 이 표현들 정말 다 좋다. 일상에 꼭 필요한 순금 같은 말들이야. 오늘 말할 때 더 공감하고 인간적이 되는 법을 정말 많이 배운 것 같아.
+
+[24:08]
+## 마무리
+C | Y ahora es el turno de todos ustedes, los que nos están viendo y escuchando desde casa. Queremos leerlos. | 이제 집에서 보고 듣고 계신 여러분 차례예요. 여러분의 글을 읽고 싶어요.
+C | Por favor, dejen un comentario aquí abajo usando una de las expresiones que aprendimos hoy. | 오늘 배운 표현 중 하나를 써서 아래에 댓글을 남겨 주세요.
+C | Pueden inventar una situación divertida, como pedir perdón por comerse la última porción de pizza de su amigo. | 친구의 마지막 피자 조각을 먹어 버려서 사과하는 것처럼 재미있는 상황을 지어내도 좋아요.
+S | Exacto. Queremos ver esos comentarios llenos de creatividad. | 맞아요. 창의력 넘치는 댓글을 보고 싶어요.
+
+[24:33]
+S | Escribir y participar es la mejor manera de practicar. | 쓰고 참여하는 게 가장 좋은 연습 방법이에요.
+C | Y si este episodio les ha ayudado, por favor, suscríbanse a Español Auténtico y denle un me gusta al video. | 그리고 이 에피소드가 도움이 됐다면 Español Auténtico를 구독하고 영상에 '좋아요'를 눌러 주세요.
+C | Como dijimos al principio, eso le dice a YouTube que nuestro contenido es útil y nos permite seguir creando estas clases de forma gratuita para todos ustedes. | 처음에 말했듯이, 그게 유튜브에 저희 콘텐츠가 유용하다고 알려 주고, 여러분 모두를 위해 이 수업을 계속 무료로 만들 수 있게 해 줘요.
+
+[24:58]
+C | Compartan este video con cualquier amigo que esté estudiando nuestro hermoso idioma. Gracias a todos por acompañarnos hoy en este viaje de aprendizaje. | 이 아름다운 언어를 공부하는 친구가 있다면 이 영상을 공유해 주세요. 오늘 이 배움의 여정에 함께해 주셔서 모두 감사해요.
+C | Recuerden que equivocarse es de humanos, pero saber pedir perdón en español es de verdaderos expertos. Nos vemos en la próxima clase. | 실수하는 건 인간적인 일이지만, 스페인어로 사과할 줄 아는 건 진짜 전문가의 일이라는 걸 기억하세요. 다음 수업에서 만나요.
+S | Así es. No tengan miedo de cometer errores. Salgan a la calle, hablen mucho y disfruten del proceso. Un abrazo muy grande para todos, y hasta la próxima. ¡Adiós! | 맞아요. 실수하는 걸 두려워하지 마세요. 밖에 나가서 많이 말하고 그 과정을 즐기세요. 모두에게 큰 포옹을 보내요, 다음에 또 만나요. 안녕!

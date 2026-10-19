@@ -1,0 +1,170 @@
+{
+  "lang": "es",
+  "date": "2026-10-19",
+  "title": "원어민처럼 사과하기 — \"Lo siento\"만 쓰지 마세요",
+  "es": "Perdón · Disculpe · Mil perdones · No pasa nada",
+  "emoji": "🙏",
+  "level": "A2–B1",
+  "channel": "Español Auténtico",
+  "videoTitle": "How to Apologize in Spanish Like a Native | Stop Saying Lo Siento",
+  "youtube": "e9KIdo6DXsg",
+  "duration": "25:30",
+  "speakers": { "S": "Sofía", "C": "Carlos" },
+  "summary": "지하철에서 발을 밟고 \"Lo siento\"라고 했다가 이상한 눈길을 받은 소피아. 작은 실수엔 perdón, 직장에선 disculpe, 큰 실수엔 mil perdones, 내 잘못이면 me equivoqué — 사과를 받을 때(no pasa nada), 이메일로 사과할 때(lamento), 그리고 화해(hacer las paces)까지 상황별로 배워요.",
+  "topics": [
+    "작은 실수: perdón / perdona",
+    "진심 어린 유감: lo siento (mucho)",
+    "직장·격식: disculpa / disculpe la tardanza",
+    "큰 실수: lo siento muchísimo · mil perdones · me equivoqué",
+    "사과에 답하기: no pasa nada · no te preocupes · sin rencores",
+    "이메일: lamento el retraso · le pido disculpas"
+  ],
+  "grammar": [
+    {
+      "title": "① 상황별 사과 표현 한눈에 보기",
+      "lead": "\"Lo siento\"는 틀린 말이 아니지만, 작은 실수에는 너무 극적으로 들릴 수 있어요. <b>실수의 크기와 격식</b>에 맞춰 골라 써요.",
+      "table": {
+        "head": ["상황", "표현", "느낌"],
+        "rows": [
+          ["발을 밟음 · 부딪힘 · 길 비켜 달라", "Perdón / Perdona", "가볍고 빠른 '앗, 미안해요'"],
+          ["말을 걸 때 · 동료에게", "Disculpa", "perdón보다 조금 공손"],
+          ["상사 · 고객 · 어르신", "Disculpe", "usted 존댓말"],
+          ["친구 생일을 잊음 · 조의", "Lo siento (mucho)", "진심 어린 유감·공감"],
+          ["귀한 물건을 깸", "Lo siento muchísimo / Mil perdones", "정말 어쩔 줄 모르겠어요"],
+          ["잘못된 정보를 줌", "Me equivoqué", "내 잘못이에요 (책임 인정)"],
+          ["실수로 그런 거야 (채팅)", "Fue sin querer", "일부러 그런 거 아냐"]
+        ]
+      },
+      "tip": "lo siento = '내가 (그것을) 느낀다' → 원래 유감·안타까움을 나타내요. 그래서 조의를 표할 때도 써요: Siento mucho que estés mal."
+    },
+    {
+      "title": "② tú와 usted — 글자 하나 차이",
+      "lead": "명령형·대명사가 tú(친구)인지 usted(존댓말)인지에 따라 끝 글자가 바뀌어요.",
+      "table": {
+        "head": ["tú (친구·동료)", "usted (상사·고객)", "뜻"],
+        "rows": [
+          ["Perdona", "Perdone", "미안해요 / 실례해요"],
+          ["Disculpa", "Disculpe", "실례해요 / 죄송해요"],
+          ["No te preocupes", "No se preocupe", "걱정 마세요"],
+          ["Te pido disculpas", "Le pido disculpas", "사과드려요"]
+        ]
+      },
+      "tip": "Disculpe la tardanza. = 늦어서 죄송합니다. (회의에 늦었을 때 그대로 외워 두세요)"
+    },
+    {
+      "title": "③ 사과를 받을 때 — 'gracias'는 이상해요",
+      "lead": "사과를 받으면 상대의 마음을 가볍게 해 주는 말로 답해요. 따뜻함의 정도가 조금씩 달라요.",
+      "examples": [
+        ["No pasa nada.", "괜찮아요, 별일 아니에요. (스페인에서 가장 많이 들리는 말)"],
+        ["No te preocupes, la película todavía no empieza.", "걱정 마, 영화 아직 시작 안 했어."],
+        ["No hay problema, lo arreglamos ahora mismo.", "문제없어, 지금 바로 고치자."],
+        ["Tranquila, no tiene importancia, es solo café.", "괜찮아, 별거 아니야, 그냥 커피인걸."],
+        ["Está bien, pero por favor dámelo mañana.", "알았어, 그래도 내일은 꼭 줘. (받아들이지만 선을 그음)"]
+      ],
+      "tip": "따뜻함: No pasa nada · No tiene importancia > No te preocupes · No hay problema > Está bien (가장 중립적)"
+    },
+    {
+      "title": "④ 이메일·메시지로 사과하기",
+      "lead": "글로 하는 사과는 \"Ay, perdón\" 대신 명확하고 공손한 표현을 써요.",
+      "examples": [
+        ["Lamento el retraso.", "지연되어 죄송합니다."],
+        ["Lamento la confusión.", "혼란을 드려 죄송합니다."],
+        ["Le pido disculpas por el error en el sistema de ayer.", "어제 시스템 오류에 대해 사과드립니다."],
+        ["Le ofrezco mis más sinceras disculpas por las molestias causadas.", "불편을 끼쳐 드린 점 진심으로 사과드립니다."],
+        ["Le aseguro que no volverá a pasar.", "다시는 이런 일이 없도록 하겠습니다."],
+        ["Uy, lo siento, fue sin querer.", "앗, 미안, 일부러 그런 거 아냐. (친구와 채팅)"]
+      ]
+    },
+    {
+      "title": "⑤ 화해와 그 뒤의 감정",
+      "lead": "사과 다음에는 화해(reconciliación)가 와요.",
+      "examples": [
+        ["¿Hacemos las paces?", "우리 화해할까?"],
+        ["Creo que todavía está resentido por lo que le dije ayer.", "어제 내가 한 말 때문에 아직 마음이 상해 있는 것 같아."],
+        ["Siento mucho no haber ido a tu fiesta, te lo digo de verdad.", "네 파티에 못 가서 정말 미안해, 진심이야."],
+        ["Tranquilo, de verdad, está bien. Sin rencores.", "괜찮아, 진짜로 괜찮아. 마음에 담아 두지 않을게."]
+      ],
+      "tip": "진심으로 사과할 때는 목소리를 조금 낮추고, 천천히, 부드러운 톤으로! 빠르게 소리치는 \"¡Perdón!\"은 화난 것처럼 들려요."
+    },
+    {
+      "title": "⑥ 문법 포인트",
+      "lead": "대화에 나온 유용한 구조예요.",
+      "examples": [
+        ["Sin querer le pisé el pie a una señora.", "실수로 어떤 아주머니 발을 밟았어. (sin querer = 일부러가 아니라)"],
+        ["Como si yo estuviera sufriendo mucho.", "마치 내가 엄청 괴로워하는 것처럼. (como si + 접속법 과거)"],
+        ["No creo que un simple perdón sea suficiente.", "그냥 perdón으로는 충분하지 않을 것 같아. (no creo que + 접속법)"],
+        ["Siento mucho que estés mal.", "몸이 안 좋다니 정말 안타까워. (sentir que + 접속법)"],
+        ["Siento mucho no haber ido a tu fiesta.", "파티에 못 가서 정말 미안해. (sentir + haber + 과거분사 = ~한 것이 미안하다)"],
+        ["Le juro que le compraré uno nuevo mañana mismo.", "내일 당장 새것을 사 드리겠다고 맹세해요. (미래형 compraré)"]
+      ]
+    }
+  ],
+  "phrases": [
+    ["Ay, perdón.", "앗, 미안해요."],
+    ["Disculpa, ¿tienes la hora?", "실례지만, 몇 시인지 아세요?"],
+    ["Disculpa, ¿puedo hacer una pregunta rápida?", "실례지만, 빨리 하나만 물어봐도 될까요?"],
+    ["Disculpe la tardanza, había muchísimo tráfico.", "늦어서 죄송합니다, 차가 엄청 막혔어요."],
+    ["Ay, mil perdones, no fue mi intención.", "아, 정말 죄송해요, 일부러 그런 게 아니에요."],
+    ["Me equivoqué con la hora de la cena. Lo siento mucho.", "저녁 시간을 내가 잘못 알았어. 정말 미안해."],
+    ["No pasa nada.", "괜찮아요."],
+    ["No se preocupe, no hay problema.", "걱정 마세요, 문제없어요."],
+    ["Lamento la confusión. Le aseguro que no volverá a pasar.", "혼란을 드려 죄송합니다. 다시는 이런 일이 없도록 하겠습니다."],
+    ["Uy, lo siento, fue sin querer.", "앗, 미안, 일부러 그런 거 아냐."],
+    ["¿Hacemos las paces?", "우리 화해할까?"],
+    ["Tranquilo, de verdad, está bien. Sin rencores.", "괜찮아, 진짜로. 마음에 담아 두지 않을게."]
+  ],
+  "vocab": [
+    { "es": "pedir perdón / pedir disculpas", "ko": "사과하다", "ex": "Quería pedir disculpas, pero mi mente se quedó en blanco.", "exKo": "사과하고 싶었는데 머리가 하얘졌어." },
+    { "es": "disculparse", "ko": "사과하다 (재귀동사)", "ex": "Pensaba que era la traducción directa para disculparse.", "exKo": "사과할 때 쓰는 직역인 줄 알았어." },
+    { "es": "sin querer", "ko": "실수로, 일부러가 아니라", "ex": "Sin querer le pisé el pie a una señora.", "exKo": "실수로 어떤 아주머니 발을 밟았어." },
+    { "es": "pisar", "ko": "밟다", "ex": "No es lo mismo pisar a alguien en el metro…", "exKo": "지하철에서 누군가를 밟는 것과는 달라…" },
+    { "es": "quedarse en blanco", "ko": "머리가 하얘지다", "ex": "Mi mente se quedó en blanco.", "exKo": "머리가 하얘졌어." },
+    { "es": "mirar raro", "ko": "이상하게 쳐다보다", "ex": "Ella me miró un poco raro.", "exKo": "그분이 나를 좀 이상하게 쳐다봤어." },
+    { "es": "los matices", "ko": "뉘앙스, 미묘한 차이", "ex": "El español es un idioma con muchos matices.", "exKo": "스페인어는 뉘앙스가 많은 언어야." },
+    { "es": "la gravedad", "ko": "심각성", "ex": "Depende de la gravedad del error.", "exKo": "실수의 심각성에 따라 달라." },
+    { "es": "chocar con", "ko": "~와 부딪히다", "ex": "Si chocas con alguien en la calle, dices: «Perdón».", "exKo": "길에서 누군가와 부딪히면 \"Perdón\"이라고 해." },
+    { "es": "el arrepentimiento", "ko": "후회, 뉘우침", "ex": "Queremos mostrar arrepentimiento real.", "exKo": "진심 어린 후회를 보여 주고 싶어." },
+    { "es": "arrepentido/a", "ko": "후회하는, 뉘우치는", "ex": "cuando alguien está arrepentido de verdad", "exKo": "누군가 진심으로 뉘우칠 때" },
+    { "es": "dar el pésame", "ko": "조의를 표하다", "ex": "Lo siento también se usa para dar el pésame.", "exKo": "lo siento는 조의를 표할 때도 써." },
+    { "es": "la tardanza", "ko": "늦음, 지각", "ex": "Disculpe la tardanza.", "exKo": "늦어서 죄송합니다." },
+    { "es": "la suegra", "ko": "시어머니, 장모", "ex": "Estoy en la casa de mi suegra por primera vez.", "exKo": "시어머니 댁에 처음 왔어." },
+    { "es": "el jarrón", "ko": "꽃병", "ex": "Por accidente rompo su jarrón favorito.", "exKo": "실수로 그분이 아끼는 꽃병을 깨." },
+    { "es": "avergonzado/a", "ko": "창피한, 부끄러운", "ex": "Te sientes terrible, triste y avergonzada.", "exKo": "괴롭고 슬프고 부끄러워." },
+    { "es": "mil perdones", "ko": "천 번 사과해요, 정말 죄송해요", "ex": "Ay, mil perdones, no fue mi intención.", "exKo": "아, 정말 죄송해요, 일부러 그런 게 아니에요." },
+    { "es": "jurar", "ko": "맹세하다", "ex": "Le juro que le compraré uno nuevo.", "exKo": "새것을 사 드리겠다고 맹세해요." },
+    { "es": "equivocarse", "ko": "틀리다, 착각하다", "ex": "Me equivoqué con la hora de la cena.", "exKo": "저녁 시간을 잘못 알았어." },
+    { "es": "tener la culpa", "ko": "잘못이 있다, 탓이다", "ex": "Es una forma de decir «yo tengo la culpa».", "exKo": "'내 탓이야'라고 말하는 방식이야." },
+    { "es": "asumir la responsabilidad", "ko": "책임을 지다", "ex": "Así asumes tu responsabilidad de forma clara.", "exKo": "그렇게 분명하게 책임을 지는 거야." },
+    { "es": "la madurez", "ko": "성숙함", "ex": "Decir «me equivoqué» demuestra madurez.", "exKo": "'내가 잘못했어'라고 말하는 건 성숙함을 보여 줘." },
+    { "es": "callado/a", "ko": "말없는", "ex": "No nos podemos quedar callados.", "exKo": "말없이 있을 수는 없어." },
+    { "es": "de los nervios", "ko": "긴장해서", "ex": "Empezaría a sudar y a llorar de los nervios.", "exKo": "긴장해서 땀 흘리고 울기 시작할 거야." },
+    { "es": "quitarle peso a", "ko": "~의 무게를 덜어 주다", "ex": "Queremos quitarle peso al error.", "exKo": "실수의 무게를 덜어 주고 싶어." },
+    { "es": "las dos caras de la moneda", "ko": "동전의 양면", "ex": "Podemos ver las dos caras de la moneda.", "exKo": "동전의 양면을 볼 수 있어." },
+    { "es": "No pasa nada.", "ko": "괜찮아, 별일 아니야", "ex": "Tú le respondes con una sonrisa: «No pasa nada».", "exKo": "웃으면서 \"괜찮아요\"라고 답해." },
+    { "es": "No tiene importancia.", "ko": "별거 아니야", "ex": "Tranquila, no tiene importancia, es solo café.", "exKo": "괜찮아, 별거 아니야, 그냥 커피인걸." },
+    { "es": "derramar", "ko": "쏟다, 엎지르다", "ex": "Si derramo un poco de café en la mesa…", "exKo": "테이블에 커피를 조금 쏟으면…" },
+    { "es": "poner un límite", "ko": "선을 긋다", "ex": "Aceptas el perdón, pero pones un límite claro.", "exKo": "사과는 받아들이지만 분명한 선을 그어." },
+    { "es": "lamentar", "ko": "유감스럽게 여기다 (격식)", "ex": "Lamento el retraso.", "exKo": "지연되어 죄송합니다." },
+    { "es": "el retraso", "ko": "지연, 늦음", "ex": "Si envías un documento tarde, escribes «Lamento el retraso».", "exKo": "서류를 늦게 보내면 \"지연되어 죄송합니다\"라고 써." },
+    { "es": "la factura", "ko": "청구서, 영수증", "ex": "si hay un problema con una factura", "exKo": "청구서에 문제가 있으면" },
+    { "es": "las molestias", "ko": "불편, 폐", "ex": "mis más sinceras disculpas por las molestias causadas", "exKo": "끼쳐 드린 불편에 대해 진심으로 사과드립니다" },
+    { "es": "No volverá a pasar.", "ko": "다시는 이런 일 없을 거예요", "ex": "Le aseguro que no volverá a pasar.", "exKo": "다시는 이런 일이 없도록 하겠습니다." },
+    { "es": "hacer las paces", "ko": "화해하다", "ex": "¿Hacemos las paces?", "exKo": "우리 화해할까?" },
+    { "es": "estar resentido/a", "ko": "앙금이 남아 있다, 서운해하다", "ex": "Todavía está resentido por lo que le dije.", "exKo": "내가 한 말 때문에 아직 서운해하고 있어." },
+    { "es": "sin rencores", "ko": "앙금 없이, 마음에 담아 두지 않고", "ex": "De verdad, está bien. Sin rencores.", "exKo": "진짜 괜찮아. 마음에 담아 두지 않을게." }
+  ],
+  "quiz": [
+    { "q": "지하철에서 실수로 발을 밟았을 때 가장 자연스러운 말은?", "options": ["Lo siento mucho, del fondo de mi corazón.", "Ay, perdón.", "Le ofrezco mis más sinceras disculpas.", "Me equivoqué."], "answer": 1, "explain": "작은 사고에는 간단한 \"ay, perdón\"이면 충분해요. lo siento는 너무 극적으로 들릴 수 있어요." },
+    { "q": "'lo siento'가 원래 가진 느낌은?", "options": ["가볍게 길을 비켜 달라는 말", "진심 어린 유감·안타까움", "책임을 인정하는 말", "화해하자는 말"], "answer": 1, "explain": "sentir(느끼다)에서 온 말로, 진심 어린 후회나 공감, 조의를 표할 때 써요." },
+    { "q": "상사와의 회의에 늦었을 때 알맞은 말은?", "options": ["Perdona, tío.", "Disculpe la tardanza.", "No pasa nada.", "Sin rencores."], "answer": 1, "explain": "격식 있는 상대에게는 usted 형태 disculpe. \"Disculpe la tardanza\" = 늦어서 죄송합니다." },
+    { "q": "친구에게 쓰는 '걱정 마'를 상사에게 쓰려면?", "options": ["No te preocupes", "No se preocupe", "No preocupes", "No preocupe te"], "answer": 1, "explain": "tú → No te preocupes, usted → No se preocupe. 글자 하나만 바꿔요." },
+    { "q": "시어머니의 꽃병을 깼을 때 쓰는 감정적인 표현은?", "options": ["Mil perdones", "No pasa nada", "Está bien", "Perdona"], "answer": 0, "explain": "\"Mil perdones\" = 천 번 사과한다는 뜻. 미안함을 조금 과장해서 강하게 표현해요." },
+    { "q": "저녁 시간을 잘못 알려 줬을 때 책임을 인정하는 말은?", "options": ["Fue sin querer.", "Me equivoqué.", "No tiene importancia.", "Hacemos las paces."], "answer": 1, "explain": "equivocarse(틀리다) → me equivoqué = 내가 잘못했어(내 탓이야)." },
+    { "q": "누군가 발을 밟고 사과했을 때 어색한 대답은?", "options": ["No pasa nada.", "No te preocupes.", "Gracias.", "Tranquilo, no tiene importancia."], "answer": 2, "explain": "사과에 \"gracias\"라고 답하면 꽤 이상하게 들려요. 소피아가 했던 실수예요!" },
+    { "q": "'Está bien'으로 답하면 어떤 느낌일까요?", "options": ["아주 따뜻하고 밝다", "받아들이지만 조금 거슬렸을 수도 있는 중립적 느낌", "화가 많이 났다", "감사하다"], "answer": 1, "explain": "\"No pasa nada\"보다 덜 따뜻하고 중립적이에요. 사과를 받되 선을 그을 때도 써요." },
+    { "q": "회사 이메일에서 '지연되어 죄송합니다'는?", "options": ["Ay, perdón por tarde.", "Lamento el retraso.", "Mil perdones, tío.", "Fue sin querer."], "answer": 1, "explain": "lamentar → Lamento el retraso. lo siento보다 훨씬 격식 있어요." },
+    { "q": "'Fue sin querer'의 뜻은?", "options": ["원하지 않았어", "일부러 그런 게 아니야", "사랑하지 않아", "다시는 안 할게"], "answer": 1, "explain": "sin querer = 의도 없이, 실수로. 채팅에서 \"Uy, lo siento, fue sin querer\"처럼 써요." },
+    { "q": "'hacer las paces'의 뜻은?", "options": ["평화 조약에 서명하다", "화해하다", "조용히 하다", "사과를 거절하다"], "answer": 1, "explain": "갈등이 끝나고 다시 좋은 관계로 돌아가는 것. \"¿Hacemos las paces?\"" },
+    { "q": "'Sin rencores'는 누가, 왜 하는 말일까요?", "options": ["사과하는 사람이 용서를 구하려고", "사과를 받는 사람이 마음에 담아 두지 않겠다고 안심시키려고", "화가 난 사람이 경고하려고", "상사가 해고하면서"], "answer": 1, "explain": "rencor = 오래 품는 앙금. sin rencores = 앙금 없이, 서운한 거 없어." }
+  ]
+}
