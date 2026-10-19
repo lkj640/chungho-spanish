@@ -61,7 +61,6 @@
   $("jump").innerHTML = opts;
   $("jump").onchange = e => { const v = e.target.value; if (v !== "") { $("sec" + v).scrollIntoView({ behavior: "smooth" }); e.target.value = ""; } };
   const lines = [...document.querySelectorAll(".line")];
-  const RAW = (L.sections || []).flatMap(s => s.lines.map(l => l.es));
   const T = lines.map(l => +l.dataset.t);
 
   // 보기 옵션 (기기에 저장)
@@ -140,7 +139,6 @@
     if (i < 0) return;
     const l = lines[i];
     l.classList.add("active");
-    $("now").textContent = RAW[i];
     if ($("optScroll").checked && playing()) l.scrollIntoView({ behavior: "smooth", block: "center" });
   }
   setInterval(() => {

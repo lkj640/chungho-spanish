@@ -101,7 +101,7 @@ footer { margin: 40px 0 30px; color: var(--mut); font-size: 13px; }
 .hero .sub, .hero p { color: var(--mut); font-size: 14px; margin: 6px 0 0; }
 .cast { font-size: 14px; margin: 10px 0 0; }
 .cast b.sp0 { color: var(--hc); } .cast b.sp1 { color: var(--yc); } .cast b.sp2 { color: var(--gc); }
-.pane { display: none; padding-bottom: 150px; }
+.pane { display: none; padding-bottom: 60px; }
 .pane.on { display: block; }
 
 .ytbox { position: relative; aspect-ratio: 16 / 9; background: #000; border-radius: 8px; overflow: hidden; margin: 12px 0 6px; }
@@ -137,13 +137,13 @@ body.hide-es .line:not(.active):not(.peek) .es { filter: blur(6px); }
 body.hide-es .line .es:hover { filter: none; }
 
 /* 하단 재생 바 */
-.bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: var(--bar); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-top: 1px solid var(--line); padding: 10px 0 calc(14px + env(safe-area-inset-bottom)); }
-.bar .now { font-size: 13px; color: var(--mut); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 6px; min-height: 18px; }
-.ctrl { display: flex; align-items: center; gap: 8px; }
-.ib { border: 1px solid var(--line); background: var(--bg); color: var(--fg); border-radius: 999px; width: 40px; height: 40px; font-size: 15px; cursor: pointer; flex: 0 0 auto; }
-.ib.play { background: var(--hc); color: #fff; border-color: var(--hc); width: 46px; height: 46px; font-size: 18px; }
-.time { font-size: 13px; font-variant-numeric: tabular-nums; color: var(--mut); flex: 0 0 auto; }
-.ctrl input[type=range] { flex: 1; min-width: 0; accent-color: var(--hc); height: 24px; }
+.bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: var(--bar); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-top: 1px solid var(--line); padding: 3px 0 calc(3px + env(safe-area-inset-bottom)); }
+.ctrl { display: flex; align-items: center; gap: 6px; }
+.ib { border: 0; background: none; color: var(--fg); border-radius: 999px; width: 28px; height: 28px; padding: 0; font-size: 13px; line-height: 1; cursor: pointer; flex: 0 0 auto; }
+.ib.play { background: var(--hc); color: #fff; width: 30px; height: 30px; font-size: 13px; }
+.time { font-size: 12px; font-variant-numeric: tabular-nums; color: var(--mut); flex: 0 0 auto; }
+.ctrl input[type=range] { flex: 1; min-width: 0; accent-color: var(--hc); height: 16px; margin: 0; }
+.bar select.rate { padding: 1px 4px; font-size: 12px; }
 
 .done-box { text-align: center; margin: 30px 0; }
 
