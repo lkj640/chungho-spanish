@@ -10,6 +10,13 @@
   const link = l => `lesson.html?d=${l.id}`;
   const byLang = code => all.filter(l => l.lang === code);
   const lang = new URLSearchParams(location.search).get("lang");
+  // 언어별로 함께 보는 다른 공부 사이트
+  const SITES = {
+    es: [{ emoji: "🥕", title: "당근 스페인어 스터디", desc: "매주 일요일 오전 10시 · 팟캐스트 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_spanish/" }],
+    zh: [{ emoji: "🥕", title: "당근 중국어 스터디", desc: "매주 목요일 저녁 · 중국어 회화 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_chinese/" }],
+  };
+  const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">
+      <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">↗</span></a>`).join("");
 
   const latestCard = l => `<section class="card latest">
       <div class="chips"><span class="chip red">🆕 최신</span><span class="chip">${fmtDate(l.date)}</span>
@@ -39,7 +46,8 @@
     app.innerHTML = `<p><a class="back" href="./">‹ 홈</a></p>
       <h2 class="langT">${L.flag} ${L.name} <span>${L.native} · 강의 ${list.length}개 · 완료 ${list.filter(l => done[l.id]).length}개</span></h2>
       ${list.length > 4 ? '<input class="search" id="q" type="search" placeholder="제목·표현으로 찾기">' : ""}
-      <div id="lst"></div>`;
+      <div id="lst"></div>
+      ${siteCards(lang)}`;
     const render = (f = "") => {
       f = f.trim().toLowerCase();
       const rows = list.filter(l => !f || [l.title, l.es, l.channel, ...(l.topics || [])].join(" ").toLowerCase().includes(f));
@@ -72,6 +80,7 @@
       <div class="langhead"><h3>${L.flag} ${L.name} <span>${L.native}</span></h3>
         ${list.length ? `<a href="./?lang=${code}">전체 ${list.length}개 보기 ›</a>` : ""}</div>
       ${list.length ? latestCard(list[0]) : `<div class="card empty">아직 강의가 없어요.<br><span class="hint">유튜브 링크와 transcript를 주시면 이곳에 추가돼요.</span></div>`}
+      ${siteCards(code)}
     </section>`;
   }
   app.innerHTML = html;
