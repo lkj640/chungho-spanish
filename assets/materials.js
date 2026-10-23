@@ -16,6 +16,17 @@
   const audios = s => s.files.filter(f => f.kind === "audio").map(f =>
     `<div class="audiobox"><div class="hint">🎧 ${esc(f.label)}</div><audio controls preload="none" src="${BASE}${esc(f.path)}"></audio></div>`).join("");
 
+  // 유튜브: 처음엔 썸네일만 보여 주고, 누르면 그 자리에서 재생해요 (페이지가 가볍게)
+  const videos = s => (s.videos || []).map(v => `<div class="ytlite" data-id="${esc(v.id)}">
+      <button class="ytthumb" aria-label="${esc(v.title)} 재생" style="background-image:url(https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg)"><span class="ytplay">▶</span></button>
+      <div class="ytcap">▶ <a href="https://www.youtube.com/watch?v=${esc(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a> <span class="hint">Chinese Daily Podcast</span></div>
+    </div>`).join("");
+  document.addEventListener("click", e => {
+    const b = e.target.closest(".ytthumb"); if (!b) return;
+    const box = b.closest(".ytlite");
+    b.outerHTML = `<div class="ytbox"><iframe src="https://www.youtube.com/embed/${esc(box.dataset.id)}?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="YouTube"></iframe></div>`;
+  });
+
   // ---------- 병음 리더 ----------
   if (tid) {
     const s = sessions.find(x => x.texts.some(t => t.id === tid));
@@ -32,6 +43,7 @@
         <p>${esc(s.ko)} — ${esc(s.desc)}</p>
         ${order.length ? `<div class="cast">등장: ${order.map((n, i) => `<b class="sp${i % 3}">${esc(n)}</b>`).join(" · ")}</div>` : ""}
       </div>
+      ${videos(s)}
       ${audios(s)}
       <div class="opts">
         <label><input type="checkbox" id="optPy" checked> 병음 보기</label>
@@ -54,14 +66,15 @@
   // ---------- 목록 ----------
   const nText = sessions.reduce((a, s) => a + s.texts.length, 0);
   const nAudio = sessions.filter(s => s.files.some(f => f.kind === "audio")).length;
+  const nVideo = sessions.filter(s => (s.videos || []).length).length;
   let html = `<div class="hero">
       <p><a class="back" href="./?lang=zh">‹ 🇨🇳 중국어</a></p>
       <h1>📂 원어민 중국어 회화 공부 자료실</h1>
-      <p>2025년 10월부터 모아 온 중국어 대화문·팟캐스트 대본·녹음이에요. 날짜별로 원본 PDF·Word를 열어 보고, 📖 표시가 있는 자료는 한자 위에 병음을 달아 바로 읽을 수 있어요.</p>
+      <p>2025년 10월부터 모아 온 중국어 대화문·팟캐스트 대본·녹음이에요. 대부분 <a href="https://www.youtube.com/@ChineseDailyPodcast/videos" target="_blank" rel="noopener">Chinese Daily Podcast</a> 영상에서 가져온 거라 원본 영상을 함께 걸어 두었어요. 📖 표시가 있는 자료는 한자 위에 병음을 달아 바로 읽을 수 있어요.</p>
       <div class="stats" style="margin-bottom:0">
         <div class="stat"><b>${sessions.length}</b><span>공부한 날</span></div>
         <div class="stat"><b>${nText}</b><span>병음으로 읽기</span></div>
-        <div class="stat"><b>${nAudio}</b><span>녹음</span></div>
+        <div class="stat"><b>${nVideo}</b><span>유튜브 영상</span></div>
       </div>
     </div>
     <input class="search" id="q" type="search" placeholder="제목·주제로 찾기 (예: 성어, 孤独, 여행)">
@@ -80,6 +93,7 @@
         <h3 lang="zh">${esc(s.zh)}</h3>
         <div class="ko">${esc(s.ko)}</div>
         <p class="hint">${esc(s.desc)}</p>
+        ${videos(s)}
         ${audios(s)}
         <div class="btns">
           ${s.lesson ? `<a class="btn primary" href="lesson.html?d=${esc(s.lesson)}">🎬 강의로 공부하기</a>` : ""}

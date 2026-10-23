@@ -257,3 +257,10 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
 .line.nar { background: var(--zebra); }
 .line.nar .txt { padding-left: 2px; }
 .sitecard.mat { background: var(--h); border-color: transparent; }
+.ytlite { margin: 8px 0; }
+.ytthumb { display: block; width: 100%; max-width: 480px; aspect-ratio: 16 / 9; border: 0; border-radius: 8px; background: #000 center / cover no-repeat; cursor: pointer; position: relative; padding: 0; }
+.ytthumb .ytplay { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 56px; height: 40px; border-radius: 10px; background: #e00; color: #fff; font-size: 18px; display: flex; align-items: center; justify-content: center; }
+.ytthumb:hover .ytplay { background: #f00; }
+.ytlite .ytbox { max-width: 480px; margin: 0; }
+.ytcap { font-size: 13.5px; margin-top: 4px; }
+.ytcap a { text-decoration: none; }

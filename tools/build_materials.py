@@ -149,11 +149,12 @@ def main():
             (OUT / f"{tid}.json").write_text(json.dumps({"title": t["title"], "lines": out_lines}, ensure_ascii=False), encoding="utf-8")
             texts.append({"id": tid, "title": t["title"], "lines": len(out_lines)})
             print(f"  ✓ {tid} {t['title']}: {len(out_lines)}줄 · 화자 {sorted({l['s'] for l in out_lines if l['s']})}")
-        index.append({k: s[k] for k in ("date", "zh", "ko", "desc", "tags") if k in s} | {"files": files, "texts": texts, "lesson": s.get("lesson")})
+        index.append({k: s[k] for k in ("date", "zh", "ko", "desc", "tags") if k in s} | {"files": files, "texts": texts, "lesson": s.get("lesson"),
+                                                                                       "videos": [{"id": v, "title": t} for v, t in s.get("videos", [])]})
     index.sort(key=lambda x: x["date"], reverse=True)
     (OUT / "index.json").write_text(json.dumps({"sessions": index}, ensure_ascii=False, indent=1), encoding="utf-8")
     size = sum(f.stat().st_size for f in OUT.rglob("*") if f.is_file())
-    print(f"✓ materials/zh: {len(index)}회 · {size / 1e6:.1f}MB")
+    print(f"✓ materials/zh: {len(index)}회 · 유튜브 연결 {sum(1 for x in index if x['videos'])}회 · {size / 1e6:.1f}MB")
 
 
 if __name__ == "__main__":
