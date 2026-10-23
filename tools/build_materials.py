@@ -8,7 +8,7 @@
 사용법:  python3 tools/build_materials.py zh     (중국어: 원어민중국어회화공부, 날짜별)
          python3 tools/build_materials.py es     (스페인어: 유튜브 팟캐스트, 레벨별)
 """
-import json, re, shutil, sys, unicodedata, zipfile
+import datetime, json, re, shutil, sys, unicodedata, zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -137,9 +137,10 @@ def main():
         d = SRC if "id" in s else SRC / s["date"]
         dst = OUT / key
         dst.mkdir()
-        files, n = [], {}
+        files, n, born = [], {}, []
         for name, label in s["files"]:
             p = find(d, name)
+            born.append(p.stat().st_birthtime)
             k = KIND[p.suffix.lower()]
             n[k] = n.get(k, 0) + 1
             short = f"{k}{n[k] if n[k] > 1 else ''}{p.suffix.lower()}"
@@ -147,7 +148,9 @@ def main():
             files.append({"kind": k, "label": label, "path": f"{key}/{short}", "size": p.stat().st_size})
         texts = []
         for i, t in enumerate(s.get("texts", []), 1):
-            lines = parse(read_text(find(d, t["src"])), t)
+            src = find(d, t["src"])
+            born.append(src.stat().st_birthtime)
+            lines = parse(read_text(src), t)
             sec = [{"title": t["title"], "lines": [{"s": spk, "es": es, "ko": ""} for spk, es in lines]}]
             if LANG == "zh":
                 build.add_pinyin(sec)
@@ -156,12 +159,21 @@ def main():
             (OUT / f"{tid}.json").write_text(json.dumps({"title": t["title"], "lines": out_lines}, ensure_ascii=False), encoding="utf-8")
             texts.append({"id": tid, "title": t["title"], "lines": len(out_lines)})
             print(f"  ✓ {tid} {t['title']}: {len(out_lines)}줄 · 화자 {sorted({l['s'] for l in out_lines if l['s']})}")
-        index.append({"key": key} | {k: s[k] for k in ("date", "group", "zh", "orig", "ko", "desc", "tags") if k in s}
+        # 자료를 만든 날짜: 원본 파일 중 가장 먼저 만든 파일의 생성일 (파일이 없으면 연결된 강의 날짜)
+        made = s.get("made")
+        if not made and born:
+            made = datetime.date.fromtimestamp(min(born)).isoformat()
+        if not made and s.get("lesson"):
+            made = json.loads((ROOT / "lessons" / s["lesson"] / "meta.json").read_text(encoding="utf-8"))["date"]
+        if made and "date" not in s:
+            s = s | {"made": made}
+        index.append({"key": key} | {k: s[k] for k in ("date", "made", "group", "zh", "orig", "ko", "desc", "tags") if k in s}
                      | {"files": files, "texts": texts, "lesson": s.get("lesson"),
                         "videos": [{"id": v, "title": t} for v, t in s.get("videos", [])]})
     if "groups" in CONF:
         order = CONF["groups"]
-        index.sort(key=lambda x: order.index(x["group"]))  # 레벨 순서, 같은 레벨은 목록 순서 그대로
+        index.sort(key=lambda x: x.get("made", ""), reverse=True)    # 같은 레벨 안에서는 최근에 만든 자료부터
+        index.sort(key=lambda x: order.index(x["group"]))             # 레벨 순서 (정렬이 안정적이라 날짜 순서 유지)
     else:
         index.sort(key=lambda x: x["date"], reverse=True)
     meta = {k: CONF[k] for k in ("lang", "title", "groups") if k in CONF}

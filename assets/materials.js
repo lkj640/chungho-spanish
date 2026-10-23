@@ -30,7 +30,8 @@
 
   const key = s => s.key || s.date;
   const heading = s => s.zh || s.orig || "";
-  const firstChip = s => s.date ? `<span class="chip">${fmtDate(s.date)}</span>` : `<span class="chip red">${esc(s.group || "")}</span>`;
+  const firstChip = s => s.date ? `<span class="chip">${fmtDate(s.date)}</span>`
+    : `<span class="chip red">${esc(s.group || "")}</span>${s.made ? `<span class="chip" title="자료를 만든 날짜">📅 ${fmtDate(s.made)}</span>` : ""}`;
   const kb = n => n > 1e6 ? (n / 1e6).toFixed(1) + "MB" : Math.round(n / 1e3) + "KB";
   const ICON = { pdf: "📄", word: "📝", audio: "🎧" };
   const fileBtns = s => s.files.filter(f => f.kind !== "audio").map(f =>

@@ -8,115 +8,36 @@
  ],
  "sessions": [
   {
-   "key": "a1-04",
+   "key": "a1-tener",
+   "made": "2026-10-17",
    "group": "A1",
-   "orig": "How to Talk About Your Family",
-   "ko": "가족에 대해 말하기",
-   "desc": "Easy Spanish Podcast Ep.04 — 마테오와 소피아의 가족 소개 대화",
+   "orig": "15 Essential Phrases with the Verb TENER",
+   "ko": "동사 TENER 필수 표현 15가지",
+   "desc": "tener hambre, tener sueño, tener razón… 강의 페이지에서 문장별 듣기·단어장·퀴즈로 공부할 수 있어요",
    "tags": [
-    "Easy Spanish",
-    "Ep.04"
+    "Español Auténtico",
+    "강의"
    ],
    "files": [
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "a1-04/pdf.pdf",
-     "size": 150468
+     "path": "a1-tener/pdf.pdf",
+     "size": 478590
     }
    ],
    "texts": [],
-   "lesson": null,
+   "lesson": "es-2026-10-18-2",
    "videos": [
     {
-     "id": "CBW-UM7swwk",
-     "title": "How to Talk About Your Family (A1)"
-    }
-   ]
-  },
-  {
-   "key": "a1-07",
-   "group": "A1",
-   "orig": "How to Talk About Your Best Friend",
-   "ko": "가장 친한 친구에 대해 말하기",
-   "desc": "Easy Spanish Podcast Ep.07 — 친구의 성격과 함께하는 일 말하기",
-   "tags": [
-    "Easy Spanish",
-    "Ep.07"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a1-07/pdf.pdf",
-     "size": 219903
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "cq43MjI7AZE",
-     "title": "How to Talk About Your Best Friend (A1)"
-    }
-   ]
-  },
-  {
-   "key": "a1-09",
-   "group": "A1",
-   "orig": "How to Talk About Your School",
-   "ko": "학교에 대해 말하기",
-   "desc": "Easy Spanish Podcast Ep.09 — 무거운 가방, 과목, 선생님과 친구들",
-   "tags": [
-    "Easy Spanish",
-    "Ep.09"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a1-09/pdf.pdf",
-     "size": 199863
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "OFBu3FQlcew",
-     "title": "How to Talk About Your School (A1)"
-    }
-   ]
-  },
-  {
-   "key": "a1-14",
-   "group": "A1",
-   "orig": "How to Talk About Your Room",
-   "ko": "내 방 소개하기",
-   "desc": "Easy Spanish Podcast Ep.14 — 방에 있는 물건과 위치 말하기",
-   "tags": [
-    "Easy Spanish",
-    "Ep.14"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a1-14/pdf.pdf",
-     "size": 199434
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "X_HuTQ5p9Yo",
-     "title": "How to Talk About Your Room (A1)"
+     "id": "_km0prjkHH8",
+     "title": "15 Essential Phrases with the Verb TENER"
     }
    ]
   },
   {
    "key": "a1-21",
+   "made": "2026-10-15",
    "group": "A1",
    "orig": "How to Talk About Your Dreams",
    "ko": "꿈에 대해 말하기",
@@ -144,6 +65,7 @@
   },
   {
    "key": "a1-22",
+   "made": "2026-10-15",
    "group": "A1",
    "orig": "How to Talk About Your Home",
    "ko": "우리 집에 대해 말하기",
@@ -171,6 +93,7 @@
   },
   {
    "key": "a1-23",
+   "made": "2026-10-15",
    "group": "A1",
    "orig": "The Days of the Week in Spanish",
    "ko": "요일 말하기",
@@ -198,6 +121,7 @@
   },
   {
    "key": "a1-24",
+   "made": "2026-10-15",
    "group": "A1",
    "orig": "How to Visit the Doctor in Spanish",
    "ko": "병원에 가기",
@@ -224,34 +148,120 @@
    ]
   },
   {
-   "key": "a1-tener",
+   "key": "a1-04",
+   "made": "2026-10-06",
    "group": "A1",
-   "orig": "15 Essential Phrases with the Verb TENER",
-   "ko": "동사 TENER 필수 표현 15가지",
-   "desc": "tener hambre, tener sueño, tener razón… 강의 페이지에서 문장별 듣기·단어장·퀴즈로 공부할 수 있어요",
+   "orig": "How to Talk About Your Family",
+   "ko": "가족에 대해 말하기",
+   "desc": "Easy Spanish Podcast Ep.04 — 마테오와 소피아의 가족 소개 대화",
    "tags": [
-    "Español Auténtico",
-    "강의"
+    "Easy Spanish",
+    "Ep.04"
    ],
    "files": [
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "a1-tener/pdf.pdf",
-     "size": 478590
+     "path": "a1-04/pdf.pdf",
+     "size": 150468
     }
    ],
    "texts": [],
-   "lesson": "es-2026-10-18-2",
+   "lesson": null,
    "videos": [
     {
-     "id": "_km0prjkHH8",
-     "title": "15 Essential Phrases with the Verb TENER"
+     "id": "CBW-UM7swwk",
+     "title": "How to Talk About Your Family (A1)"
+    }
+   ]
+  },
+  {
+   "key": "a1-07",
+   "made": "2026-10-06",
+   "group": "A1",
+   "orig": "How to Talk About Your Best Friend",
+   "ko": "가장 친한 친구에 대해 말하기",
+   "desc": "Easy Spanish Podcast Ep.07 — 친구의 성격과 함께하는 일 말하기",
+   "tags": [
+    "Easy Spanish",
+    "Ep.07"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a1-07/pdf.pdf",
+     "size": 219903
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "cq43MjI7AZE",
+     "title": "How to Talk About Your Best Friend (A1)"
+    }
+   ]
+  },
+  {
+   "key": "a1-09",
+   "made": "2026-10-06",
+   "group": "A1",
+   "orig": "How to Talk About Your School",
+   "ko": "학교에 대해 말하기",
+   "desc": "Easy Spanish Podcast Ep.09 — 무거운 가방, 과목, 선생님과 친구들",
+   "tags": [
+    "Easy Spanish",
+    "Ep.09"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a1-09/pdf.pdf",
+     "size": 199863
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "OFBu3FQlcew",
+     "title": "How to Talk About Your School (A1)"
+    }
+   ]
+  },
+  {
+   "key": "a1-14",
+   "made": "2026-10-06",
+   "group": "A1",
+   "orig": "How to Talk About Your Room",
+   "ko": "내 방 소개하기",
+   "desc": "Easy Spanish Podcast Ep.14 — 방에 있는 물건과 위치 말하기",
+   "tags": [
+    "Easy Spanish",
+    "Ep.14"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a1-14/pdf.pdf",
+     "size": 199434
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "X_HuTQ5p9Yo",
+     "title": "How to Talk About Your Room (A1)"
     }
    ]
   },
   {
    "key": "a2-18",
+   "made": "2026-10-14",
    "group": "A2",
    "orig": "Talking About Money and Expenses",
    "ko": "돈과 지출 이야기",
@@ -279,6 +289,7 @@
   },
   {
    "key": "a2-20",
+   "made": "2026-10-14",
    "group": "A2",
    "orig": "Talking about Visiting the Dentist",
    "ko": "치과에 가기",
@@ -306,6 +317,7 @@
   },
   {
    "key": "a2-24",
+   "made": "2026-10-14",
    "group": "A2",
    "orig": "How to Give Simple Opinions (I like, I dislike)",
    "ko": "간단히 의견 말하기 — 좋아·싫어",
@@ -332,34 +344,8 @@
    ]
   },
   {
-   "key": "a2-31",
-   "group": "A2",
-   "orig": "How to Talk About Yourself",
-   "ko": "자신에 대해 이야기하기",
-   "desc": "Easy Spanish 에피소드 31 — 파티에서 처음 만난 사람에게 나를 소개하기",
-   "tags": [
-    "Easy Spanish",
-    "에피소드 31"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a2-31/pdf.pdf",
-     "size": 116510
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "pYMxPuJ1_f0",
-     "title": "스페인어로 자신에 대해 이야기하는 방법 (A2) · 에피소드 31"
-    }
-   ]
-  },
-  {
    "key": "a2-34",
+   "made": "2026-10-14",
    "group": "A2",
    "orig": "Morning Routine Conversation",
    "ko": "아침 루틴 대화법",
@@ -386,34 +372,8 @@
    ]
   },
   {
-   "key": "a2-35",
-   "group": "A2",
-   "orig": "Rutinas diarias — Daily Habits",
-   "ko": "스페인어로 배우는 일상 습관",
-   "desc": "Easy Spanish 에피소드 35 — 하루 일과와 습관 말하기",
-   "tags": [
-    "Easy Spanish",
-    "에피소드 35"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a2-35/pdf.pdf",
-     "size": 289024
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "wn_hSc_akSY",
-     "title": "스페인어로 배우는 일상 습관 (A2) · 에피소드 35"
-    }
-   ]
-  },
-  {
    "key": "a2-bundle",
+   "made": "2026-10-14",
    "group": "A2",
    "orig": "Easy Spanish Podcast — Script Collection",
    "ko": "Easy Spanish 대본 모음 (5편)",
@@ -462,34 +422,91 @@
    ]
   },
   {
-   "key": "a2-200",
+   "key": "a2-31",
+   "made": "2026-10-08",
    "group": "A2",
-   "orig": "200 Must Know Daily Routine Spanish Sentences",
-   "ko": "꼭 알아야 할 일상 루틴 문장 200",
-   "desc": "하루 일과를 말하는 필수 문장 200개",
+   "orig": "How to Talk About Yourself",
+   "ko": "자신에 대해 이야기하기",
+   "desc": "Easy Spanish 에피소드 31 — 파티에서 처음 만난 사람에게 나를 소개하기",
    "tags": [
-    "Learn Spanish with Podcast",
-    "문장 200"
+    "Easy Spanish",
+    "에피소드 31"
    ],
    "files": [
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "a2-200/pdf.pdf",
-     "size": 878969
+     "path": "a2-31/pdf.pdf",
+     "size": 116510
     }
    ],
    "texts": [],
    "lesson": null,
    "videos": [
     {
-     "id": "tDoEwL1SPLo",
-     "title": "200 Must Know Daily Routine Spanish Sentences"
+     "id": "pYMxPuJ1_f0",
+     "title": "스페인어로 자신에 대해 이야기하는 방법 (A2) · 에피소드 31"
+    }
+   ]
+  },
+  {
+   "key": "a2-35",
+   "made": "2026-10-07",
+   "group": "A2",
+   "orig": "Rutinas diarias — Daily Habits",
+   "ko": "스페인어로 배우는 일상 습관",
+   "desc": "Easy Spanish 에피소드 35 — 하루 일과와 습관 말하기",
+   "tags": [
+    "Easy Spanish",
+    "에피소드 35"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a2-35/pdf.pdf",
+     "size": 289024
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "wn_hSc_akSY",
+     "title": "스페인어로 배우는 일상 습관 (A2) · 에피소드 35"
+    }
+   ]
+  },
+  {
+   "key": "a2-routine",
+   "made": "2026-10-04",
+   "group": "A2",
+   "orig": "Daily Routine in Spanish Made EASY",
+   "ko": "쉽게 배우는 일상 루틴 스페인어",
+   "desc": "하루 일과를 자연스럽게 말하는 법",
+   "tags": [
+    "Learn Spanish with Podcast"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a2-routine/pdf.pdf",
+     "size": 798183
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "Lg3KJ8dcEwE",
+     "title": "Daily Routine in Spanish Made EASY"
     }
    ]
   },
   {
    "key": "a2-shadow1",
+   "made": "2026-09-24",
    "group": "A2",
    "orig": "A2 Spanish Shadowing Practice — Essential Real-Life Situations",
    "ko": "A2 섀도잉 — 실생활 필수 상황",
@@ -515,7 +532,35 @@
    ]
   },
   {
+   "key": "a2-confident",
+   "made": "2026-09-24",
+   "group": "A2",
+   "orig": "Speak Spanish with Confidence — From Confused to Confident",
+   "ko": "혼란에서 자신감으로 — 자신 있게 말하기",
+   "desc": "헷갈리는 단계를 지나 자신 있게 말하는 법",
+   "tags": [
+    "자신감"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a2-confident/pdf.pdf",
+     "size": 167170
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "nlLjlLg-bMI",
+     "title": "Speak Spanish with Confidence"
+    }
+   ]
+  },
+  {
    "key": "a2-shadow2",
+   "made": "2026-09-07",
    "group": "A2",
    "orig": "Spanish Shadowing Practice — Real Conversations for Daily Use",
    "ko": "섀도잉 — 일상 실전 대화 (A2–B1)",
@@ -542,11 +587,12 @@
    ]
   },
   {
-   "key": "a2-routine",
+   "key": "a2-think",
+   "made": "2026-09-04",
    "group": "A2",
-   "orig": "Daily Routine in Spanish Made EASY",
-   "ko": "쉽게 배우는 일상 루틴 스페인어",
-   "desc": "하루 일과를 자연스럽게 말하는 법",
+   "orig": "Think in Spanish From Day One",
+   "ko": "첫날부터 스페인어로 생각하기",
+   "desc": "머릿속 번역 없이 자연스럽게 말하는 습관 (긴 대본)",
    "tags": [
     "Learn Spanish with Podcast"
    ],
@@ -554,21 +600,50 @@
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "a2-routine/pdf.pdf",
-     "size": 798183
+     "path": "a2-think/pdf.pdf",
+     "size": 1090625
     }
    ],
    "texts": [],
    "lesson": null,
    "videos": [
     {
-     "id": "Lg3KJ8dcEwE",
-     "title": "Daily Routine in Spanish Made EASY"
+     "id": "pWQ6n7kLisE",
+     "title": "Think in Spanish From Day One"
+    }
+   ]
+  },
+  {
+   "key": "a2-200",
+   "made": "2026-08-11",
+   "group": "A2",
+   "orig": "200 Must Know Daily Routine Spanish Sentences",
+   "ko": "꼭 알아야 할 일상 루틴 문장 200",
+   "desc": "하루 일과를 말하는 필수 문장 200개",
+   "tags": [
+    "Learn Spanish with Podcast",
+    "문장 200"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "a2-200/pdf.pdf",
+     "size": 878969
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "tDoEwL1SPLo",
+     "title": "200 Must Know Daily Routine Spanish Sentences"
     }
    ]
   },
   {
    "key": "a2-vocab",
+   "made": "2026-08-10",
    "group": "A2",
    "orig": "Master Essential Spanish Vocabulary for Daily Life",
    "ko": "일상생활 필수 어휘",
@@ -601,33 +676,8 @@
    ]
   },
   {
-   "key": "a2-confident",
-   "group": "A2",
-   "orig": "Speak Spanish with Confidence — From Confused to Confident",
-   "ko": "혼란에서 자신감으로 — 자신 있게 말하기",
-   "desc": "헷갈리는 단계를 지나 자신 있게 말하는 법",
-   "tags": [
-    "자신감"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a2-confident/pdf.pdf",
-     "size": 167170
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "nlLjlLg-bMI",
-     "title": "Speak Spanish with Confidence"
-    }
-   ]
-  },
-  {
    "key": "a2-fear",
+   "made": "2026-07-26",
    "group": "A2",
    "orig": "The Secret to Speaking Spanish Without Fear",
    "ko": "두려움 없이 스페인어로 말하는 비밀",
@@ -661,33 +711,8 @@
    ]
   },
   {
-   "key": "a2-think",
-   "group": "A2",
-   "orig": "Think in Spanish From Day One",
-   "ko": "첫날부터 스페인어로 생각하기",
-   "desc": "머릿속 번역 없이 자연스럽게 말하는 습관 (긴 대본)",
-   "tags": [
-    "Learn Spanish with Podcast"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "a2-think/pdf.pdf",
-     "size": 1090625
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "pWQ6n7kLisE",
-     "title": "Think in Spanish From Day One"
-    }
-   ]
-  },
-  {
    "key": "b1-cond",
+   "made": "2026-10-18",
    "group": "B1",
    "orig": "Conditional Tense & Polite Requests",
    "ko": "조건법으로 상상하고 공손하게 부탁하기",
@@ -708,6 +733,7 @@
   },
   {
    "key": "b1-jobs",
+   "made": "2026-10-16",
    "group": "B1",
    "orig": "Talk About Jobs — Real Spanish Conversation",
    "ko": "직업에 대해 이야기하기",
@@ -733,62 +759,36 @@
    ]
   },
   {
-   "key": "b1-emotions-native",
+   "key": "b1-natural",
+   "made": "2026-10-13",
    "group": "B1",
-   "orig": "How to Express Emotions Like a Native",
-   "ko": "원어민처럼 감정 표현하기",
-   "desc": "감정을 자연스럽게 말하는 원어민 표현",
+   "orig": "Speak Spanish More Naturally — Expressions Native Speakers Use Every Day",
+   "ko": "원어민이 매일 쓰는 표현 (1시간 마스터클래스)",
+   "desc": "더 자연스럽게 들리게 해 주는 일상 표현 모음",
    "tags": [
-    "Learn Spanish with Podcast",
-    "감정"
+    "표현",
+    "1시간"
    ],
    "files": [
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "b1-emotions-native/pdf.pdf",
-     "size": 677490
+     "path": "b1-natural/pdf.pdf",
+     "size": 1139806
     }
    ],
    "texts": [],
    "lesson": null,
    "videos": [
     {
-     "id": "JEwmpRPU_js",
-     "title": "How to Express Emotions Like a Native Spanish"
-    }
-   ]
-  },
-  {
-   "key": "b1-62",
-   "group": "B1",
-   "orig": "Expressing Your Feelings (Ep.62)",
-   "ko": "자신의 감정을 표현하는 방법",
-   "desc": "Easy Spanish 에피소드 62 — 기분과 감정을 말하는 다양한 표현",
-   "tags": [
-    "Easy Spanish",
-    "에피소드 62",
-    "감정"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "b1-62/pdf.pdf",
-     "size": 41294
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "KhlykLLDg9g",
-     "title": "스페인어로 자신의 감정을 표현하는 방법 (B1) · 에피소드 62"
+     "id": "CfWU1HF4CQ8",
+     "title": "Speak Spanish More Naturally"
     }
    ]
   },
   {
    "key": "b1-69",
+   "made": "2026-10-12",
    "group": "B1",
    "orig": "How to Improve Your Memory (Ep.69)",
    "ko": "기억력을 향상시키는 방법",
@@ -816,6 +816,7 @@
   },
   {
    "key": "b1-70",
+   "made": "2026-10-11",
    "group": "B1",
    "orig": "Talking About Communication Skills (Ep.70)",
    "ko": "의사소통 기술에 대해 이야기하기",
@@ -843,6 +844,7 @@
   },
   {
    "key": "b1-72",
+   "made": "2026-10-10",
    "group": "B1",
    "orig": "The Psychology of Habits (Ep.72)",
    "ko": "습관의 심리학",
@@ -870,7 +872,37 @@
    ]
   },
   {
+   "key": "b1-62",
+   "made": "2026-09-28",
+   "group": "B1",
+   "orig": "Expressing Your Feelings (Ep.62)",
+   "ko": "자신의 감정을 표현하는 방법",
+   "desc": "Easy Spanish 에피소드 62 — 기분과 감정을 말하는 다양한 표현",
+   "tags": [
+    "Easy Spanish",
+    "에피소드 62",
+    "감정"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "b1-62/pdf.pdf",
+     "size": 41294
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "KhlykLLDg9g",
+     "title": "스페인어로 자신의 감정을 표현하는 방법 (B1) · 에피소드 62"
+    }
+   ]
+  },
+  {
    "key": "b1-73",
+   "made": "2026-09-26",
    "group": "B1",
    "orig": "The Psychology of Happiness (Ep.73)",
    "ko": "행복의 심리학",
@@ -898,59 +930,8 @@
    ]
   },
   {
-   "key": "b1-fluent",
-   "group": "B1",
-   "orig": "Go from Just Understanding to Speaking Fluently",
-   "ko": "알아듣기에서 유창하게 말하기로",
-   "desc": "듣기는 되는데 말이 안 나올 때 — 말하기로 넘어가는 법",
-   "tags": [
-    "말하기"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "b1-fluent/pdf.pdf",
-     "size": 421244
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "GOszhuN_lgs",
-     "title": "Go from Just Understanding Conversations to Speaking Spanish Fluently"
-    }
-   ]
-  },
-  {
-   "key": "b1-thinkfast",
-   "group": "B1",
-   "orig": "How to Think in Spanish Fast — Stop Translating in Your Head",
-   "ko": "머릿속 번역을 멈추고 빠르게 생각하기",
-   "desc": "번역하지 않고 바로 스페인어로 생각하는 훈련 (긴 대본)",
-   "tags": [
-    "Learn Spanish with Podcast"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "b1-thinkfast/pdf.pdf",
-     "size": 842046
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "JlWjyYY1CVI",
-     "title": "How to Think in Spanish Fast"
-    }
-   ]
-  },
-  {
    "key": "b1-100days",
+   "made": "2026-09-26",
    "group": "B1",
    "orig": "Master Spanish Naturally in 100 Days",
    "ko": "100일 동안 자연스럽게 스페인어 익히기",
@@ -978,6 +959,7 @@
   },
   {
    "key": "b1-phrases",
+   "made": "2026-09-25",
    "group": "B1",
    "orig": "Spanish Conversation Phrases That Instantly Boost Confidence",
    "ko": "자신감을 바로 높여 주는 회화 표현",
@@ -1004,60 +986,35 @@
    ]
   },
   {
-   "key": "b1-natural",
+   "key": "b1-fluent",
+   "made": "2026-09-24",
    "group": "B1",
-   "orig": "Speak Spanish More Naturally — Expressions Native Speakers Use Every Day",
-   "ko": "원어민이 매일 쓰는 표현 (1시간 마스터클래스)",
-   "desc": "더 자연스럽게 들리게 해 주는 일상 표현 모음",
+   "orig": "Go from Just Understanding to Speaking Fluently",
+   "ko": "알아듣기에서 유창하게 말하기로",
+   "desc": "듣기는 되는데 말이 안 나올 때 — 말하기로 넘어가는 법",
    "tags": [
-    "표현",
-    "1시간"
+    "말하기"
    ],
    "files": [
     {
      "kind": "pdf",
      "label": "대본 PDF",
-     "path": "b1-natural/pdf.pdf",
-     "size": 1139806
+     "path": "b1-fluent/pdf.pdf",
+     "size": 421244
     }
    ],
    "texts": [],
    "lesson": null,
    "videos": [
     {
-     "id": "CfWU1HF4CQ8",
-     "title": "Speak Spanish More Naturally"
-    }
-   ]
-  },
-  {
-   "key": "b1-robot",
-   "group": "B1",
-   "orig": "Stop Sounding Like a Robot! How to Talk About Yourself",
-   "ko": "로봇처럼 말하지 않기 — 자연스러운 자기소개",
-   "desc": "교과서 같은 자기소개 대신 자연스럽게 나를 말하는 법",
-   "tags": [
-    "자기소개"
-   ],
-   "files": [
-    {
-     "kind": "pdf",
-     "label": "대본 PDF",
-     "path": "b1-robot/pdf.pdf",
-     "size": 255811
-    }
-   ],
-   "texts": [],
-   "lesson": null,
-   "videos": [
-    {
-     "id": "TSYee45Ifm8",
-     "title": "Stop Sounding Like a Robot!"
+     "id": "GOszhuN_lgs",
+     "title": "Go from Just Understanding Conversations to Speaking Spanish Fluently"
     }
    ]
   },
   {
    "key": "b1-vocab",
+   "made": "2026-09-24",
    "group": "B1",
    "orig": "The Fastest Way to Remember Spanish Vocabulary",
    "ko": "스페인어 어휘를 가장 빨리 외우는 법",
@@ -1084,7 +1041,90 @@
    ]
   },
   {
+   "key": "b1-emotions-native",
+   "made": "2026-09-23",
+   "group": "B1",
+   "orig": "How to Express Emotions Like a Native",
+   "ko": "원어민처럼 감정 표현하기",
+   "desc": "감정을 자연스럽게 말하는 원어민 표현",
+   "tags": [
+    "Learn Spanish with Podcast",
+    "감정"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "b1-emotions-native/pdf.pdf",
+     "size": 677490
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "JEwmpRPU_js",
+     "title": "How to Express Emotions Like a Native Spanish"
+    }
+   ]
+  },
+  {
+   "key": "b1-thinkfast",
+   "made": "2026-08-30",
+   "group": "B1",
+   "orig": "How to Think in Spanish Fast — Stop Translating in Your Head",
+   "ko": "머릿속 번역을 멈추고 빠르게 생각하기",
+   "desc": "번역하지 않고 바로 스페인어로 생각하는 훈련 (긴 대본)",
+   "tags": [
+    "Learn Spanish with Podcast"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "b1-thinkfast/pdf.pdf",
+     "size": 842046
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "JlWjyYY1CVI",
+     "title": "How to Think in Spanish Fast"
+    }
+   ]
+  },
+  {
+   "key": "b1-robot",
+   "made": "2026-08-07",
+   "group": "B1",
+   "orig": "Stop Sounding Like a Robot! How to Talk About Yourself",
+   "ko": "로봇처럼 말하지 않기 — 자연스러운 자기소개",
+   "desc": "교과서 같은 자기소개 대신 자연스럽게 나를 말하는 법",
+   "tags": [
+    "자기소개"
+   ],
+   "files": [
+    {
+     "kind": "pdf",
+     "label": "대본 PDF",
+     "path": "b1-robot/pdf.pdf",
+     "size": 255811
+    }
+   ],
+   "texts": [],
+   "lesson": null,
+   "videos": [
+    {
+     "id": "TSYee45Ifm8",
+     "title": "Stop Sounding Like a Robot!"
+    }
+   ]
+  },
+  {
    "key": "b1-que",
+   "made": "2026-08-07",
    "group": "B1",
    "orig": "Stop Saying \"¿Qué?\" — How to Understand Fast Spanish Speakers",
    "ko": "\"¿Qué?\" 그만! 빠른 스페인어 알아듣기",
