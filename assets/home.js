@@ -16,7 +16,10 @@
     zh: [{ emoji: "🥕", title: "당근 중국어 스터디", desc: "매주 목요일 저녁 · 중국어 회화 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_chinese/" }],
   };
   // 언어별 자료실 (같은 사이트 안의 페이지)
-  const MATS = { zh: { emoji: "📂", title: "원어민 중국어 회화 공부 자료실", desc: "2025년 10월부터 모은 대화문·대본·녹음 38회 · 병음으로 읽기", url: "materials.html" } };
+  const MATS = {
+    zh: { emoji: "📂", title: "원어민 중국어 회화 공부 자료실", desc: "2025년 10월부터 모은 대화문·대본·녹음 38회 · 병음으로 읽기 · 유튜브 영상", url: "materials.html" },
+    es: { emoji: "📂", title: "스페인어 공부 자료실", desc: "유튜브 팟캐스트 대본 40편 · A1 · A2 · B1 레벨별 · 원본 영상", url: "materials.html?lang=es" },
+  };
   const matCard = code => { const x = MATS[code]; return x ? `<a class="sitecard mat" href="${esc(x.url)}">
       <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>` : ""; };
   const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">
