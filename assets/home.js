@@ -15,6 +15,10 @@
     es: [{ emoji: "🥕", title: "당근 스페인어 스터디", desc: "매주 일요일 오전 10시 · 팟캐스트 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_spanish/" }],
     zh: [{ emoji: "🥕", title: "당근 중국어 스터디", desc: "매주 목요일 저녁 · 중국어 회화 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_chinese/" }],
   };
+  // 언어별 자료실 (같은 사이트 안의 페이지)
+  const MATS = { zh: { emoji: "📂", title: "원어민 중국어 회화 공부 자료실", desc: "2025년 10월부터 모은 대화문·대본·녹음 38회 · 병음으로 읽기", url: "materials.html" } };
+  const matCard = code => { const x = MATS[code]; return x ? `<a class="sitecard mat" href="${esc(x.url)}">
+      <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>` : ""; };
   const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">
       <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">↗</span></a>`).join("");
 
@@ -46,6 +50,7 @@
     app.innerHTML = `<p><a class="back" href="./">‹ 홈</a></p>
       <h2 class="langT">${L.flag} ${L.name} <span>${L.native} · 강의 ${list.length}개 · 완료 ${list.filter(l => done[l.id]).length}개</span></h2>
       ${list.length > 4 ? '<input class="search" id="q" type="search" placeholder="제목·표현으로 찾기">' : ""}
+      ${matCard(lang)}
       <div id="lst"></div>
       ${siteCards(lang)}`;
     const render = (f = "") => {
@@ -80,6 +85,7 @@
       <div class="langhead"><h3>${L.flag} ${L.name} <span>${L.native}</span></h3>
         ${list.length ? `<a href="./?lang=${code}">전체 ${list.length}개 보기 ›</a>` : ""}</div>
       ${list.length ? latestCard(list[0]) : `<div class="card empty">아직 강의가 없어요.<br><span class="hint">유튜브 링크와 transcript를 주시면 이곳에 추가돼요.</span></div>`}
+      ${matCard(code)}
       ${siteCards(code)}
     </section>`;
   }
