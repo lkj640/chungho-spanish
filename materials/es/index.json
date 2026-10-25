@@ -681,19 +681,12 @@
    "group": "A2",
    "orig": "The Secret to Speaking Spanish Without Fear",
    "ko": "두려움 없이 스페인어로 말하는 비밀",
-   "desc": "초보자를 위한 자신감 이야기 — 진행자 Pedro (녹음 포함)",
+   "desc": "초보자를 위한 자신감 이야기 — 진행자 Pedro",
    "tags": [
     "Easy Español",
-    "녹음",
     "자신감"
    ],
    "files": [
-    {
-     "kind": "audio",
-     "label": "녹음",
-     "path": "a2-fear/audio.mp3",
-     "size": 17464917
-    },
     {
      "kind": "pdf",
      "label": "대본 PDF",
