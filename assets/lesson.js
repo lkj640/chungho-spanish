@@ -31,7 +31,10 @@
 
   // ---------- 탭 ----------
   const tabs = [...document.querySelectorAll(".tabs button")];
-  const TABS = ["listen", "grammar", "vocab", "quiz"];
+  // 퀴즈가 없는 강의는 퀴즈 탭을 숨기고, 토론 주제(discussion)가 있으면 討論 탭을 보여 줘요
+  const hasQuiz = (L.quiz || []).length > 0, hasTalk = !!L.discussion;
+  tabs.forEach(b => { if (b.dataset.tab === "quiz") b.hidden = !hasQuiz; if (b.dataset.tab === "talk") b.hidden = !hasTalk; });
+  const TABS = ["listen", "grammar", "vocab", ...(hasQuiz ? ["quiz"] : []), ...(hasTalk ? ["talk"] : [])];
   function showTab(name) {
     if (!TABS.includes(name)) name = "listen";
     tabs.forEach(b => b.setAttribute("aria-selected", b.dataset.tab === name));
@@ -234,6 +237,14 @@
     return `<div class="ex">${py ? `<div class="py">${esc(py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${esc(src)} ${sayBtn(src)}</div><div class="ko">${esc(ko)}</div></div>`;
   };
   let g = "";
+  if (L.pdf) {
+    const href = `lessons/${esc(L.id)}/${esc(L.pdf.file)}`;
+    g += `<section class="card gcard pdfcard"><h3>📄 공부 자료</h3>
+      <p class="lead">${esc(L.pdf.title)}</p>
+      ${L.pdf.contents ? `<ol class="pdflist">${L.pdf.contents.map(c => `<li>${esc(c)}</li>`).join("")}</ol>` : ""}
+      <div class="btns"><a class="btn primary" href="${href}" download>⬇️ PDF 다운로드</a><a class="btn" href="${href}" target="_blank" rel="noopener">👀 바로 보기</a></div>
+    </section>`;
+  }
   for (const c of L.grammar || []) {
     g += `<section class="card gcard"><h3>${esc(c.title)}</h3>${c.lead ? `<p class="lead">${c.lead}</p>` : ""}`;
     if (c.table) g += `<div class="tblwrap"><table class="tbl"><thead><tr>${c.table.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
@@ -287,6 +298,28 @@
   });
   bindOpt("optCover", "opt_cover", false, v => document.body.classList.toggle("cover", v));
   renderVocab();
+
+  // ---------- 討論 (일본어만) ----------
+  if (hasTalk) {
+    const D = L.discussion;
+    const R = (rb, txt) => rb ? rb.map(([o, r]) => r ? `<ruby>${esc(o)}<rt>${esc(r)}</rt></ruby>` : esc(o)).join("") : esc(txt || "");
+    $("pane-talk").innerHTML = `<section class="card gcard talk">
+        <h3>💬 ${esc(D.title || "討論テーマ")}</h3>
+        <p class="lead jp">${R(D.introRb, D.intro)}</p>
+        <label class="opts" style="margin:0 0 8px"><input type="checkbox" id="optTalkPy" checked> ふりがな</label>
+        ${(D.questions || []).map((q, i) => `<div class="tq">
+          <div class="tq-n">質問 ${i + 1}</div>
+          <div class="tq-q jp">${R(q.rb, q.q)}</div>
+          ${(q.hints || []).length ? `<ul class="tq-h">${q.hints.map((h, j) => `<li class="jp">${R((q.hintsRb || [])[j], h)}</li>`).join("")}</ul>` : ""}
+        </div>`).join("")}
+      </section>
+      ${(D.expressions || []).length ? `<section class="card gcard talk"><h3>🗣 討論で使える表現</h3>
+        <div class="tblwrap"><table class="tbl"><thead><tr><th>場面</th><th>表現</th></tr></thead><tbody>
+        ${D.expressions.map(e => `<tr><td>${esc(e[0])}</td><td class="jp">${R(e[2], e[1])}</td></tr>`).join("")}
+        </tbody></table></div></section>` : ""}
+      ${D.bonus ? `<section class="card gcard talk"><div class="tip jp">📝 ${R(D.bonusRb, D.bonus)}${D.bonusEx ? `<br><span class="hint">${R(D.bonusExRb, D.bonusEx)}</span>` : ""}</div></section>` : ""}`;
+    bindOpt("optTalkPy", "opt_talk_py", true, v => $("pane-talk").classList.toggle("no-rt", !v));
+  }
 
   // ---------- 퀴즈 ----------
   const quiz = L.quiz || [];

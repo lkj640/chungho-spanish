@@ -264,3 +264,16 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
 .ytlite .ytbox { max-width: 480px; margin: 0; }
 .ytcap { font-size: 13.5px; margin-top: 4px; }
 .ytcap a { text-decoration: none; }
+
+/* 공부 자료 PDF · 討論 탭 */
+.pdfcard { border: 2px solid var(--hc); }
+.pdflist { margin: 0 0 12px; padding-left: 20px; font-size: 14px; }
+.talk .jp { line-height: 2.1; }
+.talk rt { font-size: 10px; }
+#pane-talk.no-rt rt { display: none; }
+#pane-talk.no-rt .jp { line-height: 1.6; }
+.tq { border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; margin: 10px 0; }
+.tq-n { font-size: 12.5px; font-weight: 700; color: var(--yc); }
+.tq-q { font-size: 17px; font-weight: 600; }
+.tq-h { margin: 4px 0 0; padding-left: 18px; color: var(--mut); font-size: 14.5px; }
+.talk td.jp { font-size: 15px; }

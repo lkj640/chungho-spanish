@@ -207,6 +207,25 @@ def add_ruby(sections):
             l["rb"] = merged
 
 
+def ja_ruby(text):
+    """일본어 문장 하나 → [[원문 조각, 읽기], …]"""
+    sec = [{"title": "", "lines": [{"es": text}]}]
+    add_ruby(sec)
+    return sec[0]["lines"][0].get("rb") or [[text, ""]]
+
+
+def add_discussion_ruby(d):
+    """토론 주제(일본어만)의 모든 문장에 후리가나를 달아요."""
+    for k in ("intro", "bonus", "bonusEx"):
+        if d.get(k):
+            d[k + "Rb"] = ja_ruby(d[k])
+    for q in d.get("questions", []):
+        q["rb"] = ja_ruby(q["q"])
+        q["hintsRb"] = [ja_ruby(h) for h in q.get("hints", [])]
+    for e in d.get("expressions", []):
+        e.append(ja_ruby(e[1]))
+
+
 def main():
     index = []
     for d in sorted(p for p in LESSONS.iterdir() if p.is_dir()):
@@ -221,6 +240,8 @@ def main():
                 add_pinyin(data["sections"])
             elif meta.get("lang") == "ja":
                 add_ruby(data["sections"])
+        if meta.get("lang") == "ja" and data.get("discussion"):
+            add_discussion_ruby(data["discussion"])
         (d / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
         nlines = sum(len(s["lines"]) for s in data.get("sections", []))
         index.append({"id": d.name} | {k: meta.get(k) for k in
