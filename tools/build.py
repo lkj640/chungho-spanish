@@ -77,6 +77,13 @@ PHRASES = {
     "哈喽": [["hā"], ["lou"]], "就得": [["jiù"], ["děi"]], "你得": [["nǐ"], ["děi"]], "大汗": [["dà"], ["hàn"]],
 }
 
+# 위 PHRASES는 pypinyin이 단어를 다르게 자르면 안 먹혀요. 그럴 땐 여기에 넣으면 자동 보정 뒤에 무조건 덮어써요 (한자만, 글자 수 = 병음 수)
+FORCE = {
+    "长时间": "cháng shí jiān", "太长": "tài cháng", "更长": "gèng cháng", "时间长": "shí jiān cháng",
+    "得不到": "dé bu dào", "不动地": "bú dòng de", "很好地": "hěn hǎo de",
+    "背了": "bēi le", "睛干": "jing gān", "舒服的觉": "shū fu de jiào",
+}
+
 
 DE_BEFORE_DI = "气由在目心静淡稳停慢真细快轻默悄"
 
@@ -133,6 +140,11 @@ def add_pinyin(sections):
                         syls[i] = "de"
                     elif c == "得" and y == "dé" and prev and _han(prev) and prev not in "获取赢难记" and i + 1 < len(toks) and toks[i + 1] != "到":
                         syls[i] = "de"
+                for key, val in FORCE.items():
+                    v = val.split()
+                    for i in range(len(toks) - len(key) + 1):
+                        if "".join(toks[i:i + len(key)]) == key and all(len(t) == 1 for t in toks[i:i + len(key)]):
+                            syls[i:i + len(key)] = v
             # 한자 한 글자마다 병음을 위에 달 수 있게 [[글자, 병음], …] (문장부호 등은 병음 없이)
             if len(syls) == len(toks):
                 l["rb"] = [[c, y if _han(c) else ""] for c, y in zip(toks, syls)]
