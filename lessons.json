@@ -1,6 +1,52 @@
 {
  "lessons": [
   {
+   "id": "en-2026-10-28-2",
+   "lang": "en",
+   "date": "2026-10-28",
+   "title": "주말 내내 쉬었는데 왜 더 피곤할까? — 진짜 휴식의 비밀",
+   "es": "Stop treating yourself like a smartphone. You are a plant.",
+   "emoji": "🌿",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "20:07",
+   "summary": "두 진행자가 중국어 강의(10/27)의 내용을 딥다이브로 파고들어요. 48시간 누워 있었는데 월요일에 트럭에 치인 듯 피곤한 역설을 《황제내경》의 'Sitting for a long time harms the muscles. Lying down for a long time harms the qi.'로 풀고, 림프계와 고인 늪 비유, 休(사람+나무)·仙(사람+산), 자동차 vs 스마트폰 비유, 그리고 '우리는 식물이다'까지 이야기해요.",
+   "topics": [
+    "the ultimate modern paradox · hit by a truck · brain fog",
+    "Sitting for a long time harms the muscles. Lying down for a long time harms the qi.",
+    "Flowing water doesn't rot — stagnant swamp · lymphatic system",
+    "rest = person + tree · immortal = person + mountain",
+    "a car battery vs. a smartphone on a charging pad",
+    "구문: should be + -ing · not from A but from B · Even if… · What if…?"
+   ],
+   "vocabCount": 40,
+   "lineCount": 226
+  },
+  {
+   "id": "ja-2026-10-28",
+   "lang": "ja",
+   "date": "2026-10-28",
+   "title": "쉬면 쉴수록 피곤한 이유 — 일본어 딥다이브",
+   "es": "人間はスマホではなく植物である",
+   "emoji": "🌿",
+   "level": "JLPT N2–N1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "18:37",
+   "summary": "두 진행자가 중국어 강의(10/27)의 내용을 일본어로 깊이 파고들어요. 주말 내내 뒹굴었는데 월요일에 더 피곤한 이유를 『黄帝内経』의 「久坐傷肉、久臥傷気」, 근육 펌프와 림프, 「流水腐らず」로 풀고, 漢字 休(사람+나무)·仙(사람+산), 도시에서의 실천법, '인간은 스마트폰이 아니라 식물이다'까지 이야기해요.",
+   "topics": [
+    "久坐傷肉、久臥傷気 — 『黄帝内経』の警告",
+    "筋肉ポンプ · リンパ · 流水腐らず",
+    "「休」＝人偏＋木 · 「仙」＝人偏＋山",
+    "森林浴 · フィトンチッド · 副交感神経",
+    "人間はスマホではなく植物である",
+    "문법: 〜ほど · 〜っぱなし · 〜どころか · 〜こそ · 〜がち · 〜ようにできている"
+   ],
+   "vocabCount": 43,
+   "lineCount": 224
+  },
+  {
    "id": "en-2026-10-28",
    "lang": "en",
    "date": "2026-10-28",

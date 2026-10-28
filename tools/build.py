@@ -167,7 +167,11 @@ JA_FIX = {"八尺": "はっしゃく", "卵麺": "たまごめん", "璞": "ぼ�
           "深掘": "ふかぼ", "通して": "とおして", "間": "かん",
           "今日": "きょう", "日本": "にほん", "笑": "わら", "地道": "じみち", "後": "あと", "通り": "とおり",
           "習": "なら", "養": "やしな", "一人前": "いちにんまえ", "今頃": "いまごろ", "下積み": "したづみ", "根付く": "ねづく", "根っこ": "ねっこ",
-          "人": "ひと", "小": "ちい", "頃": "ころ"}
+          "人": "ひと", "小": "ちい", "頃": "ころ", "幹": "みき", "紐解": "ひもと"}
+# 여러 토큰에 걸친 말은 여기서 통째로 덮어써요: 구절 → [[원문 조각, 읽기], …] (조각을 이으면 구절과 같아야 해요)
+JA_FORCE = {"久坐傷肉": [["久坐傷肉", "きゅうざしょうにく"]], "久臥傷気": [["久臥傷気", "きゅうがしょうき"]],
+            "黄帝内経": [["黄帝内経", "こうていだいけい"]], "1日中": [["1日中", "いちにちじゅう"]],
+            "歩かずに": [["歩", "ある"], ["かずに", ""]], "1歩も": [["1歩", "いっぽ"], ["も", ""]]}
 
 
 def add_ruby(sections):
@@ -216,6 +220,31 @@ def add_ruby(sections):
                     merged[j][1] = "はい"
                 elif o == "深" and nxt.startswith("掘"):
                     merged[j][1] = "ふか"
+            def cut(k):  # 위치 k가 읽기 없는 조각 한가운데면 둘로 나눠요
+                i = 0
+                for n, (o, r) in enumerate(merged):
+                    if i < k < i + len(o) and not r:
+                        merged[n:n + 1] = [[o[:k - i], ""], [o[k - i:], ""]]
+                        return
+                    i += len(o)
+            for phrase, rep_rb in JA_FORCE.items():
+                text = "".join(o for o, _ in merged)
+                at = text.find(phrase)
+                while at != -1:
+                    cut(at); cut(at + len(phrase))
+                    pos, i = [], 0
+                    for o, _ in merged:
+                        pos.append(i); i += len(o)
+                    pos.append(i)
+                    if at in pos and at + len(phrase) in pos:
+                        a, b = pos.index(at), pos.index(at + len(phrase))
+                        merged[a:b] = [list(x) for x in rep_rb]
+                        pos, i = [], 0
+                        for o, _ in merged:
+                            pos.append(i); i += len(o)
+                        pos.append(i)
+                        text = "".join(o for o, _ in merged)
+                    at = text.find(phrase, at + 1)
             l["rb"] = merged
 
 
