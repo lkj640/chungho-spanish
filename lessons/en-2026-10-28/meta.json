@@ -1,0 +1,596 @@
+{
+ "lang": "en",
+ "date": "2026-10-28",
+ "title": "왜 잘수록 더 피곤할까? 진정한 휴식 (영어판)",
+ "es": "We're not phones, we're plants.",
+ "emoji": "🌳",
+ "level": "B1–B2",
+ "channel": "영어판 · 두 미국인 진행자",
+ "videoTitle": "Why Are You Still Tired After a Weekend in Bed? True Rest",
+ "audio": "audio.m4a",
+ "duration": "11:47",
+ "speakers": {
+  "E": "Emma",
+  "J": "Jake"
+ },
+ "castNote": false,
+ "summary": "중국어 강의 「왜 잘수록 더 피곤할까? 진정한 휴식」(10/27)을 두 미국인 진행자 에마와 제이크의 영어 대화로 새로 만들었어요. 《황제내경》의 '오래 앉으면 근육이, 오래 누우면 기가 상한다', 한자 休(사람+나무)·仙(사람+산), 도시에서 쉬는 법까지 — 같은 내용을 영어로 들으며 일상 표현을 익혀요. (음성은 음성 합성으로 만들었어요.)",
+ "topics": [
+  "wiped out · foggy · sluggish · drained",
+  "Sitting too long harms the muscles; lying down too long harms your qi.",
+  "Flowing water never goes stale.",
+  "rest = a person + a tree · an immortal = a person + a mountain",
+  "구문: You'd think… · No wonder… · It doesn't have to be… · make yourself + 동사",
+  "We're not phones, we're plants."
+ ],
+ "grammar": [
+  {
+   "title": "① 피곤함을 말하는 표현",
+   "lead": "tired 말고도 지친 정도와 느낌에 따라 다양하게 말해요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "wiped out",
+      "녹초가 된",
+      "You seem kind of wiped out."
+     ],
+     [
+      "drained",
+      "기운이 다 빠진",
+      "They feel drained."
+     ],
+     [
+      "foggy",
+      "머리가 멍한",
+      "My head felt foggy."
+     ],
+     [
+      "sluggish",
+      "몸이 처지는",
+      "I feel heavy and sluggish."
+     ],
+     [
+      "at one percent battery",
+      "배터리 1% (비유)",
+      "I felt like a phone at one percent battery."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "② You'd think… — (보통은) ~일 거라고 생각하겠지만",
+   "lead": "기대와 현실이 다를 때 써요. 뒤에 but이나 반대 상황이 이어져요.",
+   "examples": [
+    [
+     "You'd think after two days off, I'd feel like a fully charged phone, right?",
+     "이틀이나 쉬었으니 완전히 충전된 폰 같은 기분일 거라고 생각하겠죠?"
+    ],
+    [
+     "You'd think lying in bed would be relaxing, but it isn't.",
+     "침대에 누워 있으면 편할 것 같지만 그렇지 않아요."
+    ]
+   ]
+  },
+  {
+   "title": "③ No wonder… — 어쩐지 / ~할 만하다",
+   "lead": "이유를 알고 나서 '그래서 그랬구나' 하고 납득할 때 써요.",
+   "examples": [
+    [
+     "No wonder I feel heavy and sluggish after a day in bed.",
+     "어쩐지 침대에서 하루 보내면 몸이 무겁고 처지더라."
+    ],
+    [
+     "No wonder we're tired all the time!",
+     "우리가 늘 피곤한 게 당연하네!"
+    ]
+   ],
+   "tip": "중국어 难怪(nánguài)와 딱 같은 느낌이에요."
+  },
+  {
+   "title": "④ Too + 형용사/부사 — 지나치면 해롭다",
+   "lead": "오늘의 핵심 문장. 'too long'은 '너무 오래 (그래서 해롭다)'는 부정적 뉘앙스예요.",
+   "examples": [
+    [
+     "Sitting too long harms the muscles, and lying down too long harms your qi.",
+     "너무 오래 앉아 있으면 근육이 상하고, 너무 오래 누워 있으면 기가 상한다."
+    ],
+    [
+     "A short rest is great, but too much of it turns into a drain.",
+     "짧은 휴식은 좋지만, 너무 많으면 오히려 소모가 된다."
+    ]
+   ],
+   "tip": "동명사 주어: Sitting… / Lying down… / Going outside… is like watering yourself."
+  },
+  {
+   "title": "⑤ It doesn't have to be… / make yourself + 동사원형",
+   "lead": "<b>doesn't have to</b> = ~일 필요는 없다. <b>make yourself do</b> = 억지로라도 ~하다.",
+   "examples": [
+    [
+     "It doesn't have to be a workout.",
+     "운동일 필요는 없어요."
+    ],
+    [
+     "Once you're awake, make yourself get out of bed.",
+     "일단 깨면 억지로라도 침대에서 나오세요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 한자 두 글자를 영어로 설명하기",
+   "lead": "위치와 구성 요소를 말하는 표현을 익혀요.",
+   "examples": [
+    [
+     "On the left side, there's a person. On the right side, there's a tree.",
+     "왼쪽에는 사람이 있고, 오른쪽에는 나무가 있어요. (休)"
+    ],
+    [
+     "A person next to a mountain becomes an immortal.",
+     "사람이 산 옆에 있으면 신선이 된다. (仙)"
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 구동사(phrasal verbs) 모음",
+   "lead": "대화에 자연스럽게 나온 구동사예요.",
+   "table": {
+    "head": [
+     "구동사",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "wear down",
+      "지치게 하다",
+      "It can wear your body down."
+     ],
+     [
+      "break down",
+      "하나씩 설명하다",
+      "Break that down for me."
+     ],
+     [
+      "store up",
+      "비축하다",
+      "store up my energy"
+     ],
+     [
+      "break up",
+      "중간중간 끊다",
+      "break up long stretches of sitting"
+     ],
+     [
+      "go off",
+      "(알람이) 울리다",
+      "when it goes off"
+     ],
+     [
+      "sleep in",
+      "늦잠 자다",
+      "sleep in a little"
+     ],
+     [
+      "wrap up",
+      "마무리하다",
+      "before we wrap up"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "You don't miss a thing, do you?",
+   "하나도 안 놓치시네요?"
+  ],
+  [
+   "I felt like a phone at one percent battery.",
+   "배터리 1% 남은 폰 같았어요."
+  ],
+  [
+   "How can resting make you more tired?",
+   "어떻게 쉬는 게 사람을 더 피곤하게 만들 수 있죠?"
+  ],
+  [
+   "Flowing water never goes stale.",
+   "흐르는 물은 썩지 않는다."
+  ],
+  [
+   "No wonder we're tired all the time!",
+   "우리가 늘 피곤한 게 당연하네!"
+  ],
+  [
+   "Nature is the best doctor.",
+   "자연이 최고의 의사다."
+  ],
+  [
+   "Leave your phone in your pocket and take a walk.",
+   "폰은 주머니에 넣어 두고 산책하세요."
+  ],
+  [
+   "We're not phones, we're plants.",
+   "우리는 폰이 아니라 식물이다."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "wiped out",
+   "ko": "녹초가 된, 완전히 지친",
+   "ex": "You seem kind of wiped out.",
+   "exKo": "너 좀 녹초가 된 것 같아."
+  },
+  {
+   "es": "You don't miss a thing.",
+   "ko": "하나도 안 놓치시네요 (눈치가 빠르다)",
+   "ex": "Wow. You don't miss a thing, do you?",
+   "exKo": "와, 하나도 안 놓치시네요?"
+  },
+  {
+   "es": "fully charged",
+   "ko": "완전히 충전된",
+   "ex": "I'd feel like a fully charged phone.",
+   "exKo": "완전히 충전된 폰 같은 기분일 거야."
+  },
+  {
+   "es": "overdo it",
+   "ko": "무리하다",
+   "ex": "Did you go hiking and overdo it?",
+   "exKo": "등산 가서 무리했어?"
+  },
+  {
+   "es": "the exact opposite",
+   "ko": "정반대",
+   "ex": "Nope. The exact opposite.",
+   "exKo": "아니. 정반대야."
+  },
+  {
+   "es": "sleep until noon",
+   "ko": "정오까지 자다",
+   "ex": "On Saturday I slept until noon.",
+   "exKo": "토요일엔 정오까지 잤어."
+  },
+  {
+   "es": "scroll on one's phone",
+   "ko": "폰을 스크롤하다, 폰만 보다",
+   "ex": "I got back into bed to scroll on my phone.",
+   "exKo": "다시 침대에 들어가 폰만 봤어."
+  },
+  {
+   "es": "ache",
+   "ko": "쑤시다, 아프다",
+   "ex": "My whole body ached.",
+   "exKo": "온몸이 쑤셨어."
+  },
+  {
+   "es": "foggy",
+   "ko": "(머리가) 멍한",
+   "ex": "My head felt foggy.",
+   "exKo": "머리가 멍했어."
+  },
+  {
+   "es": "wear ~ down",
+   "ko": "~을 지치게 하다, 닳게 하다",
+   "ex": "It can actually wear your body down.",
+   "exKo": "그건 오히려 몸을 지치게 할 수 있어."
+  },
+  {
+   "es": "medical classic",
+   "ko": "의학 고전",
+   "ex": "the Yellow Emperor's Inner Classic",
+   "exKo": "《황제내경》"
+  },
+  {
+   "es": "break ~ down",
+   "ko": "~을 하나씩 풀어 설명하다",
+   "ex": "I need you to break that down for me.",
+   "exKo": "그거 좀 하나씩 풀어서 설명해 줘."
+  },
+  {
+   "es": "stiff",
+   "ko": "뻣뻣한, 굳은",
+   "ex": "My shoulders are stiff.",
+   "exKo": "어깨가 뻣뻣해."
+  },
+  {
+   "es": "lower back",
+   "ko": "허리",
+   "ex": "My lower back aches.",
+   "exKo": "허리가 쑤셔."
+  },
+  {
+   "es": "circulate",
+   "ko": "(피가) 돌다, 순환하다",
+   "ex": "Your blood doesn't circulate well.",
+   "exKo": "피가 잘 돌지 않아."
+  },
+  {
+   "es": "nutrients",
+   "ko": "영양분",
+   "ex": "Your muscles don't get enough nutrients.",
+   "exKo": "근육이 영양분을 충분히 못 받아."
+  },
+  {
+   "es": "elasticity",
+   "ko": "탄력",
+   "ex": "Over time they lose their elasticity.",
+   "exKo": "시간이 지나면 탄력을 잃어."
+  },
+  {
+   "es": "vitality",
+   "ko": "활력, 생명력",
+   "ex": "You can think of it as your vitality.",
+   "exKo": "그걸 활력이라고 생각하면 돼."
+  },
+  {
+   "es": "drained",
+   "ko": "기운이 다 빠진",
+   "ex": "When it's weak, they feel drained.",
+   "exKo": "그게 약하면 기운이 다 빠져."
+  },
+  {
+   "es": "store up",
+   "ko": "모아 두다, 비축하다",
+   "ex": "I'll lie in bed and store up my energy.",
+   "exKo": "침대에 누워서 에너지를 모아 둘 거야."
+  },
+  {
+   "es": "savings account",
+   "ko": "저축 계좌",
+   "ex": "Energy doesn't work like a savings account.",
+   "exKo": "에너지는 저축 계좌처럼 작동하지 않아."
+  },
+  {
+   "es": "go stale",
+   "ko": "(물이) 썩다, 신선함을 잃다",
+   "ex": "Flowing water never goes stale.",
+   "exKo": "흐르는 물은 썩지 않는다."
+  },
+  {
+   "es": "shallow",
+   "ko": "얕은",
+   "ex": "Your breathing gets shallow.",
+   "exKo": "호흡이 얕아져."
+  },
+  {
+   "es": "metabolism",
+   "ko": "신진대사",
+   "ex": "Your metabolism hits rock bottom.",
+   "exKo": "신진대사가 바닥을 쳐."
+  },
+  {
+   "es": "hit rock bottom",
+   "ko": "바닥을 치다",
+   "ex": "My energy hit rock bottom.",
+   "exKo": "에너지가 바닥을 쳤어."
+  },
+  {
+   "es": "sluggish",
+   "ko": "처지는, 굼뜬",
+   "ex": "I feel heavy and sluggish.",
+   "exKo": "몸이 무겁고 처져."
+  },
+  {
+   "es": "No wonder ~",
+   "ko": "어쩐지 ~하더라, ~할 만하다",
+   "ex": "No wonder we're tired all the time!",
+   "exKo": "우리가 늘 피곤한 게 당연하네!"
+  },
+  {
+   "es": "lean against",
+   "ko": "~에 기대다",
+   "ex": "They lean against the trunk of a tree.",
+   "exKo": "나무줄기에 기대."
+  },
+  {
+   "es": "trunk",
+   "ko": "나무줄기",
+   "ex": "lean against its trunk",
+   "exKo": "나무줄기에 기대다"
+  },
+  {
+   "es": "immortal",
+   "ko": "신선, 불멸의 존재",
+   "ex": "the character for an immortal",
+   "exKo": "신선을 뜻하는 글자"
+  },
+  {
+   "es": "clock in",
+   "ko": "출근 기록을 하다",
+   "ex": "I take the subway and clock in at nine.",
+   "exKo": "지하철 타고 9시에 출근 찍어."
+  },
+  {
+   "es": "break up",
+   "ko": "(긴 시간을) 중간중간 끊다",
+   "ex": "Break up long stretches of sitting.",
+   "exKo": "오래 앉아 있는 시간을 중간중간 끊어."
+  },
+  {
+   "es": "stretch",
+   "ko": "(시간의) 연속된 기간 / 스트레칭하다",
+   "ex": "long stretches of sitting",
+   "exKo": "오래 계속 앉아 있는 시간"
+  },
+  {
+   "es": "go off",
+   "ko": "(알람이) 울리다",
+   "ex": "When it goes off, I'm out of that chair.",
+   "exKo": "알람이 울리면 바로 의자에서 일어날 거야."
+  },
+  {
+   "es": "sleep in",
+   "ko": "늦잠 자다",
+   "ex": "It's fine to sleep in a little.",
+   "exKo": "조금 늦잠 자는 건 괜찮아."
+  },
+  {
+   "es": "comfy",
+   "ko": "편안한 (comfortable의 구어)",
+   "ex": "Put on some comfy shoes.",
+   "exKo": "편한 신발 신어."
+  },
+  {
+   "es": "wilt",
+   "ko": "시들다",
+   "ex": "If a plant is wilting…",
+   "exKo": "식물이 시들고 있으면…"
+  },
+  {
+   "es": "recharged",
+   "ko": "재충전된",
+   "ex": "You'll feel recharged and refreshed.",
+   "exKo": "재충전되고 상쾌해질 거야."
+  },
+  {
+   "es": "eye-opener",
+   "ko": "눈이 번쩍 뜨이는 일, 깨달음을 주는 것",
+   "ex": "This was a real eye-opener.",
+   "exKo": "정말 눈이 번쩍 뜨이는 얘기였어."
+  },
+  {
+   "es": "wrap up",
+   "ko": "마무리하다",
+   "ex": "Before we wrap up, let's go over today's key ideas.",
+   "exKo": "마치기 전에 오늘의 핵심을 정리하자."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why was Emma so tired on Monday?",
+   "options": [
+    "She went hiking all weekend.",
+    "She stayed in bed for two whole days.",
+    "She worked overtime.",
+    "She didn't sleep at all."
+   ],
+   "answer": 1,
+   "explain": "I basically lay in bed for two whole days."
+  },
+  {
+   "q": "What does 'You don't miss a thing' mean?",
+   "options": [
+    "넌 아무것도 그리워하지 않아",
+    "넌 하나도 안 놓쳐(눈치가 빨라)",
+    "넌 아무것도 몰라",
+    "넌 늘 늦어"
+   ],
+   "answer": 1,
+   "explain": "상대가 작은 것까지 알아챘을 때 하는 말이에요."
+  },
+  {
+   "q": "According to the old saying, what does lying down too long harm?",
+   "options": [
+    "your muscles",
+    "your eyes",
+    "your qi (life energy)",
+    "your teeth"
+   ],
+   "answer": 2,
+   "explain": "Sitting too long harms the muscles; lying down too long harms your qi."
+  },
+  {
+   "q": "Qi in this episode means…",
+   "options": [
+    "the air we breathe",
+    "getting angry",
+    "a kind of life energy",
+    "a type of tea"
+   ],
+   "answer": 2,
+   "explain": "Here it means a kind of life energy inside your body."
+  },
+  {
+   "q": "Jake says energy works more like…",
+   "options": [
+    "a savings account",
+    "flowing water",
+    "a phone battery",
+    "a machine"
+   ],
+   "answer": 1,
+   "explain": "Energy doesn't work like a savings account. It works more like water."
+  },
+  {
+   "q": "The character for 'rest' (休) is made of…",
+   "options": [
+    "a person + a mountain",
+    "a person + a tree",
+    "a tree + a tree",
+    "a person + water"
+   ],
+   "answer": 1,
+   "explain": "On the left, a person. On the right, a tree."
+  },
+  {
+   "q": "The character for 'immortal' (仙) is made of…",
+   "options": [
+    "a person + a mountain",
+    "a person + a tree",
+    "a mountain + water",
+    "a person + the sun"
+   ],
+   "answer": 0,
+   "explain": "A person next to a mountain becomes an immortal."
+  },
+  {
+   "q": "What is Jake's tip for people who sit all day?",
+   "options": [
+    "Sit on a softer chair.",
+    "Stand up and move for five minutes every 45–60 minutes.",
+    "Sleep longer on weekends.",
+    "Drink more coffee."
+   ],
+   "answer": 1,
+   "explain": "Every forty-five minutes or every hour, stand up and move for five minutes."
+  },
+  {
+   "q": "Fill in the blank: '___ wonder we're tired all the time!'",
+   "options": [
+    "Any",
+    "No",
+    "So",
+    "Not"
+   ],
+   "answer": 1,
+   "explain": "No wonder… = 어쩐지 / ~할 만하다."
+  },
+  {
+   "q": "'It's fine to sleep in a little.' What does 'sleep in' mean?",
+   "options": [
+    "집에서 자다",
+    "늦잠 자다",
+    "잠들다",
+    "낮잠 자다"
+   ],
+   "answer": 1,
+   "explain": "sleep in = 평소보다 늦게까지 자다."
+  },
+  {
+   "q": "Why does Jake say we are like plants?",
+   "options": [
+    "We need sunlight, fresh air and water to recover.",
+    "We grow taller every year.",
+    "We don't need to move.",
+    "We like the dark."
+   ],
+   "answer": 0,
+   "explain": "Plants need sunlight, fresh air, and water — and so do we."
+  },
+  {
+   "q": "'This was a real eye-opener.' means…",
+   "options": [
+    "눈이 아팠다",
+    "눈이 번쩍 뜨이는(깨달음을 준) 이야기였다",
+    "잠이 깼다",
+    "눈을 떠야 했다"
+   ],
+   "answer": 1,
+   "explain": "eye-opener = 새로운 사실을 깨닫게 해 주는 것."
+  }
+ ]
+}

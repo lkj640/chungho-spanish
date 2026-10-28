@@ -1,0 +1,265 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: E = Emma, J = Jake.  END = 오디오 끝 시각
+# 중국어 강의 zh-2026-10-27(为什么越睡越累？真正的休息)을 바탕으로 새로 쓴 영어 대화. 음성은 macOS 음성 합성(Zoe Premium · Alex)이고, 시각은 합성할 때 잰 실제 시작 시각이에요.
+END 11:47
+
+
+[00:00.60]
+## 인사 — 주말 내내 누워 있었는데 왜 더 피곤할까?
+J | Hey everyone, and welcome back to the show! I'm Jake. | 여러분 안녕하세요, 다시 오신 걸 환영해요! 저는 제이크예요.
+[00:05.84]
+E | And I'm Emma! Happy Monday, everybody. I hope you all had a relaxing weekend. | 저는 에마예요! 다들 즐거운 월요일 보내세요. 주말 푹 쉬셨길 바라요.
+[00:11.06]
+J | Speaking of the weekend, Emma, can I be honest with you? | 주말 얘기가 나와서 말인데, 에마, 솔직하게 말해도 돼요?
+[00:16.04]
+E | Uh-oh. That never sounds good. | 어머. 그 말 나오면 꼭 안 좋은 얘기던데.
+[00:18.45]
+J | You're smiling, but your eyes look a little red, and you seem kind of… wiped out. | 웃고는 있는데 눈이 좀 빨갛고, 뭔가… 녹초가 된 것 같아요.
+[00:25.16]
+E | Wow. You don't miss a thing, do you? | 와. 하나도 안 놓치시네요?
+[00:27.51]
+E | Honestly, that's exactly what I wanted to talk about today. | 솔직히 오늘 딱 그 얘기를 하고 싶었어요.
+[00:31.22]
+E | You'd think after two days off, I'd feel like a fully charged phone, right? | 이틀이나 쉬었으니 완전히 충전된 폰 같은 기분이어야 하잖아요, 그렇죠?
+[00:35.77]
+J | Totally. That's what weekends are for. Did you go hiking or something and overdo it? | 그럼요. 주말이 그러라고 있는 거죠. 등산이라도 가서 무리했어요?
+[00:42.99]
+E | Nope. The exact opposite. I didn't go anywhere. | 아뇨. 정반대예요. 아무 데도 안 갔어요.
+[00:46.51]
+E | I basically lay in bed for two whole days. | 그냥 이틀 내내 침대에 누워 있었어요.
+[00:49.14]
+E | On Saturday I slept until noon, grabbed a snack, and then got right back into bed to scroll on my phone and watch movies. | 토요일엔 정오까지 자고, 간식 좀 먹고, 바로 다시 침대로 들어가서 폰 보고 영화 봤어요.
+[00:56.25]
+E | Sunday was the same. Other than the bathroom and picking up a food delivery, I barely left my bed. | 일요일도 똑같았어요. 화장실이랑 배달 음식 받을 때 빼고는 거의 침대를 안 떠났어요.
+[01:01.70]
+J | Ha! So you rested all weekend. But you look more tired now than you did on Friday afternoon. | 하! 주말 내내 쉬었네요. 그런데 금요일 오후보다 지금이 더 피곤해 보여요.
+[01:09.46]
+E | Right? That's what I don't get! | 그쵸? 바로 그게 이해가 안 돼요!
+[01:11.48]
+E | I woke up this morning and my whole body ached. I had zero energy, and my head felt foggy. | 오늘 아침에 일어났는데 온몸이 쑤시고, 기운이 하나도 없고, 머리도 멍했어요.
+[01:16.94]
+E | I felt like a phone at one percent battery. How can resting make you more tired? | 배터리 1% 남은 폰 같았어요. 어떻게 쉬는 게 사람을 더 피곤하게 만들 수 있죠?
+
+[01:22.15]
+## 2,000년 전 의학서의 답 — 오래 앉고 오래 눕는 것
+J | You know, a lot of people feel exactly the same way. | 있잖아요, 많은 사람들이 딱 그렇게 느껴요.
+[01:26.82]
+J | We tend to think that doing nothing, just lying in bed, is the best kind of rest. | 우리는 아무것도 안 하고 그냥 침대에 누워 있는 게 최고의 휴식이라고 생각하는 경향이 있죠.
+[01:33.46]
+J | But according to traditional Chinese medicine, that's not real rest at all. It can actually wear your body down. | 그런데 중국 전통 의학에 따르면 그건 전혀 진짜 휴식이 아니에요. 오히려 몸을 지치게 할 수 있어요.
+[01:42.02]
+E | Wait, what? Lying in bed is bad for you? But it feels so good! | 잠깐, 뭐라고요? 침대에 누워 있는 게 몸에 나쁘다고요? 그렇게 좋은데!
+[01:46.58]
+J | There's a famous Chinese medical classic called the Huangdi Neijing, or The Yellow Emperor's Inner Classic. | 《황제내경》, 영어로 'The Yellow Emperor's Inner Classic'이라는 유명한 중국 의학 고전이 있어요.
+[01:54.57]
+E | I've heard of it! It's over two thousand years old, isn't it? | 들어 봤어요! 2천 년도 넘은 책이죠?
+[01:58.07]
+E | But how could a book that old know anything about me lying in bed with my phone? | 그런데 그렇게 오래된 책이 제가 폰 들고 침대에 누워 있는 걸 어떻게 알겠어요?
+[02:02.21]
+J | You'd be surprised. There's one line in it that answers your question perfectly. | 놀라실걸요. 그 책에 당신 질문에 딱 맞는 답이 되는 구절이 하나 있어요.
+[02:08.25]
+J | In Chinese it's only eight characters: jiu zuo shang rou, jiu wo shang qi. | 중국어로 딱 여덟 글자예요. 久坐伤肉，久卧伤气.
+[02:16.53]
+J | It means: sitting too long harms the muscles, and lying down too long harms your qi. | 뜻은 '너무 오래 앉아 있으면 근육이 상하고, 너무 오래 누워 있으면 기(气)가 상한다'예요.
+[02:23.46]
+E | Okay, I need you to break that down for me. | 좋아요, 그거 좀 하나씩 풀어서 설명해 줘요.
+
+[02:26.45]
+## Sitting too long harms the muscles
+J | Sure. Let's start with the first half: sitting too long harms the muscles. | 물론이죠. 앞부분부터 볼게요. '너무 오래 앉아 있으면 근육이 상한다.'
+[02:32.88]
+J | Think about office workers, or students. How many hours a day do they spend sitting in front of a screen? | 직장인이나 학생들을 생각해 보세요. 하루에 몇 시간이나 화면 앞에 앉아 있나요?
+[02:40.94]
+E | Eight? Ten? Maybe more. Honestly, apart from lunch, I hardly move at work. | 8시간? 10시간? 더 될 수도 있어요. 솔직히 점심 빼면 회사에서 거의 안 움직여요.
+[02:46.28]
+E | By the afternoon, my shoulders are stiff, my lower back aches, and my legs feel like they've forgotten how to move. | 오후쯤 되면 어깨는 뻣뻣하고, 허리는 쑤시고, 다리는 움직이는 법을 잊어버린 것 같아요.
+[02:52.98]
+J | That's exactly what this line is talking about. | 바로 그게 이 구절이 말하는 거예요.
+[02:56.82]
+J | Our muscles need regular movement. When you sit still for hours, your blood doesn't circulate well, | 근육은 꾸준히 움직여 줘야 해요. 몇 시간씩 가만히 앉아 있으면 피가 잘 돌지 않고,
+[03:04.28]
+J | so your muscles don't get enough nutrients. They get weak, stiff, and sore, and over time they lose their elasticity. | 그래서 근육이 영양을 충분히 못 받아요. 약해지고, 굳고, 아프고, 시간이 지나면 탄력도 잃어요.
+[03:13.55]
+E | That makes so much sense. | 완전 이해돼요.
+
+[03:15.90]
+## Lying down too long harms your qi
+E | So what about the second half? Lying down too long harms your qi. What exactly is qi? | 그럼 뒷부분은요? '너무 오래 누워 있으면 기가 상한다.' 기가 정확히 뭐예요?
+[03:21.35]
+J | Qi is a really important idea in Chinese culture and medicine. | 기(气)는 중국 문화와 의학에서 아주 중요한 개념이에요.
+[03:26.21]
+J | It's not the air we breathe, and it's not the qi in the Chinese word for getting angry. | 우리가 숨 쉬는 공기도 아니고, 중국어에서 '화내다(生气)'라고 할 때의 기도 아니에요.
+[03:32.58]
+J | Here it means a kind of life energy inside your body. You can think of it as your vitality, or your drive. | 여기서는 몸속의 일종의 생명 에너지를 뜻해요. 활력이나 원동력이라고 생각하면 돼요.
+[03:41.12]
+J | When someone's qi is strong, they're full of energy. They speak clearly and get things done. | 기가 강한 사람은 에너지가 넘쳐요. 말도 또렷하게 하고 일도 척척 해내죠.
+[03:48.26]
+J | When it's weak, they feel drained, they don't feel like talking, and they get sick more easily. | 기가 약하면 기운이 빠지고, 말하기도 싫고, 더 쉽게 병에 걸려요.
+[03:55.33]
+E | Interesting! So lying down too long actually drains that energy instead of saving it? | 흥미롭네요! 그러니까 오래 누워 있으면 그 에너지를 아끼기는커녕 오히려 빼앗긴다는 거예요?
+[04:00.57]
+J | You got it. A lot of people think, I worked so hard this week, so I'll lie in bed all weekend and store up my energy. | 맞아요. 많은 사람들이 '이번 주에 너무 열심히 일했으니 주말 내내 누워서 에너지를 모아 둬야지'라고 생각하죠.
+[04:10.07]
+J | But energy doesn't work like a savings account. It works more like water. | 그런데 에너지는 저금통장처럼 작동하지 않아요. 오히려 물처럼 작동해요.
+[04:15.72]
+J | There's a Chinese saying: flowing water never goes stale. Water stays fresh only when it keeps moving. | 중국 속담에 '흐르는 물은 썩지 않는다(流水不腐)'는 말이 있어요. 물은 계속 흘러야만 신선하게 유지돼요.
+[04:24.01]
+J | If you stay still all day, your breathing gets shallow, your circulation slows down, and your metabolism hits rock bottom. | 하루 종일 가만히 있으면 호흡은 얕아지고, 혈액순환은 느려지고, 신진대사는 바닥을 쳐요.
+[04:33.41]
+E | Oh my gosh. No wonder I feel heavy and sluggish after a day in bed. Even taking a deep breath feels hard. | 세상에. 어쩐지 침대에서 하루를 보내고 나면 몸이 무겁고 처지더라. 심호흡조차 힘들게 느껴져요.
+[04:40.22]
+E | So I basically lay around until my energy was gone! | 그러니까 저는 누워 있다가 에너지를 다 없애 버린 거네요!
+[04:43.48]
+J | Pretty much. A short rest is great for recovery, but too much of it turns into a drain. | 거의 그렇죠. 짧은 휴식은 회복에 아주 좋지만, 너무 길어지면 오히려 에너지를 빼먹어요.
+[04:50.62]
+J | That's why you wake up feeling like you're carrying a huge rock on your back. | 그래서 일어날 때 등에 큰 바위를 짊어진 것 같은 기분이 드는 거예요.
+[04:55.94]
+E | Wow. Sit all week at the office, lie in bed all weekend. No wonder we're tired all the time! | 와. 주중엔 내내 회사에 앉아 있고, 주말엔 내내 침대에 누워 있고. 우리가 항상 피곤한 게 당연하네요!
+[05:01.79]
+J | Exactly. The problem is that we treat not moving as resting, and we think scrolling on our phones is relaxing. | 바로 그거예요. 문제는 우리가 안 움직이는 걸 쉬는 거라고 여기고, 폰 스크롤하는 걸 휴식이라고 생각한다는 거예요.
+
+[05:11.00]
+## Rest = a person + a tree (休)
+E | Okay, but then what is real rest? I can't exactly stand up all day, can I? | 좋아요, 그럼 진짜 휴식은 뭐예요? 하루 종일 서 있을 수는 없잖아요?
+[05:15.49]
+J | Of course not. To understand real rest, let's look at how Chinese characters are written. | 당연히 아니죠. 진짜 휴식을 이해하려면 한자가 어떻게 쓰이는지 한번 봐요.
+[05:22.44]
+J | A lot of characters have ancient wisdom hidden right inside them. | 많은 한자들 속에는 옛 지혜가 그대로 숨어 있거든요.
+[05:27.16]
+J | Take the character for rest: xiu. On the left side, there's a person. On the right side, there's a tree. | '쉬다'라는 뜻의 休(xiū)를 볼게요. 왼쪽에는 사람이 있고, 오른쪽에는 나무가 있어요.
+[05:36.41]
+E | A person and a tree. I love that. | 사람과 나무. 너무 좋다.
+[05:39.10]
+J | Close your eyes and picture it. Someone's been working in the fields all day, or walking a long road. | 눈을 감고 상상해 보세요. 누군가 하루 종일 밭에서 일했거나, 먼 길을 걸어왔어요.
+[05:46.71]
+J | They find a big tree, lean against its trunk, feel the breeze, and listen to the birds. | 커다란 나무를 찾아 줄기에 기대고, 바람을 느끼고, 새소리를 들어요.
+[05:53.90]
+J | That's rest. | 그게 바로 휴식이에요.
+[05:55.76]
+E | That's such a beautiful image. So real rest isn't shutting the curtains and staring at a screen in a dark room. | 정말 아름다운 그림이네요. 그러니까 진짜 휴식은 커튼 치고 어두운 방에서 화면만 쳐다보는 게 아니네요.
+[06:02.12]
+J | Right. It's getting outside, to a place with plants, trees, and fresh air. | 맞아요. 밖으로 나가서 식물과 나무와 신선한 공기가 있는 곳으로 가는 거예요.
+
+[06:09.79]
+## An immortal = a person + a mountain (仙)
+E | Isn't there another character like that, one with a mountain in it? | 그런 한자가 하나 더 있지 않아요? 산이 들어간 거요.
+[06:13.17]
+J | You mean xian, the character for an immortal, a kind of mountain sage in Chinese legends. | 仙(xiān) 말하는 거죠. 중국 전설 속 산에 사는 신선을 뜻하는 글자예요.
+[06:20.20]
+J | On the left, again, a person. On the right, a mountain. | 왼쪽엔 역시 사람이 있고, 오른쪽엔 산이 있어요.
+[06:25.99]
+E | A person next to a mountain becomes an immortal! That's amazing. | 사람이 산 옆에 있으면 신선이 된다! 놀라워요.
+[06:29.79]
+J | In ancient China, mountains were seen as places full of natural energy, with clear streams, tall trees, and clean air, far from the noise of the city. | 옛 중국에서 산은 자연의 기운이 가득한 곳으로 여겨졌어요. 맑은 시냇물, 키 큰 나무, 깨끗한 공기가 있고 도시의 소음과도 멀리 떨어져 있었죠.
+[06:41.61]
+J | When people went into the mountains and lived close to nature, their bodies felt lighter and their minds felt calm and happy. | 사람들이 산에 들어가 자연 가까이 살면 몸은 가벼워지고 마음은 평온하고 행복해졌어요.
+[06:50.08]
+E | So a person with a tree is rest, and a person with a mountain is an immortal. People back then were so wise. | 그러니까 사람과 나무는 휴식, 사람과 산은 신선. 옛날 사람들 정말 지혜로웠네요.
+[06:56.41]
+E | They were basically telling us that nature is the best doctor. | 결국 자연이 최고의 의사라고 말해 주고 있었던 거네요.
+[06:59.90]
+J | And modern science agrees. Studies show that a twenty-minute walk in a park or a forest can noticeably lower your stress levels. | 현대 과학도 동의해요. 연구에 따르면 공원이나 숲에서 20분만 걸어도 스트레스 수치가 눈에 띄게 떨어진대요.
+[07:08.90]
+J | Your blood pressure settles down and your mood improves. It's the same idea from thousands of years ago. | 혈압도 안정되고 기분도 좋아지고요. 수천 년 전과 똑같은 생각이에요.
+
+[07:16.94]
+## 도시에서 쉬는 법 ① 오래 앉아 있지 않기
+E | But here's my problem, and I bet a lot of our listeners feel the same. | 그런데 제 고민이 있어요. 아마 청취자분들도 많이 공감하실 거예요.
+[07:20.69]
+E | I live in a big city. I take the subway and clock in at nine. It's all concrete and tall buildings around me. | 저는 대도시에 살아요. 지하철 타고 9시에 출근 찍고요. 주변은 온통 콘크리트랑 높은 빌딩뿐이에요.
+[07:26.92]
+E | I'd love to lean against a tree, but there's no forest anywhere near my apartment! | 나무에 기대고 싶어도 우리 집 근처엔 숲이 하나도 없어요!
+[07:31.18]
+J | That's a very real problem. We can't all move to the mountains. | 아주 현실적인 문제예요. 다 같이 산으로 이사 갈 수는 없죠.
+[07:36.51]
+J | But real rest is really about small changes in your mindset and daily habits. Instead of traveling far, we can bring nature into our everyday lives. | 그런데 진짜 휴식은 사실 마음가짐과 일상 습관의 작은 변화예요. 멀리 가는 대신 자연을 일상으로 들여오면 돼요.
+[07:47.23]
+E | How do we do that? Give me some practical tips. | 어떻게 하는데요? 실용적인 팁 좀 주세요.
+[07:50.34]
+J | First, for the sitting problem, break up long stretches of sitting. | 첫째, 앉아 있는 문제는 오래 앉아 있는 시간을 중간중간 끊어 주는 거예요.
+[07:56.08]
+J | Set an alarm. Every forty-five minutes or every hour, stand up and move for five minutes. | 알람을 맞추세요. 45분이나 1시간마다 일어나서 5분 동안 움직이는 거예요.
+[08:03.59]
+J | It doesn't have to be a workout. Even getting a glass of water, stretching, or rolling your shoulders gets your blood flowing again. | 운동일 필요는 없어요. 물 한 잔 가지러 가거나, 스트레칭하거나, 어깨만 돌려 줘도 피가 다시 돌아요.
+[08:13.20]
+E | That's easy! Tomorrow I'm setting a forty-five-minute alarm on my phone, and when it goes off, I'm out of that chair. | 그건 쉽네요! 내일 폰에 45분 알람 맞추고, 울리면 바로 의자에서 일어날 거예요.
+[08:20.14]
+J | Perfect. That's a great start. | 완벽해요. 아주 좋은 시작이에요.
+
+[08:24.24]
+## 도시에서 쉬는 법 ② 주말엔 밖으로 — 내 곁의 나무와 산 찾기
+J | Second, for the lying-down problem, change how you spend your weekends. | 둘째, 누워 있는 문제는 주말을 보내는 방식을 바꾸는 거예요.
+[08:30.33]
+J | It's fine to sleep in a little, until eight or nine. But once you're awake, make yourself get out of bed. | 8시나 9시까지 좀 늦잠 자는 건 괜찮아요. 그런데 일단 깨면 억지로라도 침대에서 나오세요.
+[08:38.53]
+E | And then where do I go? | 그다음엔 어디로 가요?
+[08:40.11]
+J | Go outside and look for your own tree and mountain. Is there a little park near you, or even a few trees on your block? | 밖으로 나가서 나만의 나무와 산을 찾아보세요. 근처에 작은 공원이나, 동네에 나무 몇 그루라도 있나요?
+[08:48.85]
+E | Actually, yes! There's a small park about ten minutes from my place. It has some willow trees and a little pond. | 사실 있어요! 집에서 10분쯤 거리에 작은 공원이 있는데, 버드나무 몇 그루랑 작은 연못이 있어요.
+[08:55.99]
+J | That's perfect. Put on some comfy shoes, leave your phone in your pocket, and take a walk there. | 완벽해요. 편한 신발 신고, 폰은 주머니에 넣어 두고 거기서 산책해 보세요.
+[09:03.86]
+J | Stand under a tree for a minute. Look up at the leaves, take a few deep breaths, and feel the sun on your face. | 잠깐 나무 아래 서 보세요. 나뭇잎을 올려다보고, 심호흡을 몇 번 하고, 얼굴에 닿는 햇살을 느껴 보세요.
+[09:12.51]
+J | That's a person and a tree. That's real rest. | 그게 바로 사람과 나무예요. 그게 진짜 휴식이에요.
+[09:16.72]
+E | Just hearing you say that, I already feel more relaxed. | 그 말 듣기만 해도 벌써 마음이 편해져요.
+[09:19.88]
+E | We spend hours staring at tiny screens until our eyes are dry and our minds are exhausted. | 우린 몇 시간씩 작은 화면만 쳐다보다가 눈은 뻑뻑해지고 머리는 녹초가 되잖아요.
+[09:25.10]
+E | Looking at trees in the distance and smelling the grass would feel completely different. | 멀리 나무를 바라보고 풀 냄새를 맡으면 완전히 다른 기분일 거예요.
+
+[09:30.18]
+## 우리는 휴대폰이 아니라 식물이다
+J | Here's a simple way to think about it. | 이렇게 생각해 보면 쉬워요.
+[09:33.22]
+J | Many people think humans are like phones. When the battery's low, you plug in and lie still until you're charged. | 많은 사람들이 사람을 폰 같다고 생각해요. 배터리가 떨어지면 충전기에 꽂고 다 찰 때까지 가만히 누워 있는 거죠.
+[09:41.53]
+J | But we're not machines. We're more like plants. | 그런데 우리는 기계가 아니에요. 오히려 식물에 더 가까워요.
+[09:45.87]
+J | If a plant is wilting, would you put it in a dark box to help it recover? | 식물이 시들고 있으면, 회복하라고 어두운 상자에 넣어 두겠어요?
+[09:51.44]
+E | No way! Plants need sunlight, fresh air, and water. | 절대 아니죠! 식물은 햇빛, 신선한 공기, 물이 필요해요.
+[09:55.28]
+J | Exactly, and so do we. Going outside, breathing deeply, and getting some sunlight is like watering yourself. | 바로 그거예요. 우리도 마찬가지예요. 밖에 나가서 깊게 숨 쉬고 햇볕을 쬐는 건 스스로에게 물을 주는 것과 같아요.
+[10:04.60]
+J | After half an hour outside, you'll find your energy hasn't dropped at all. You'll actually feel recharged and refreshed. | 밖에서 30분만 보내면 에너지가 전혀 줄지 않았다는 걸 알게 될 거예요. 오히려 재충전되고 상쾌해질 거예요.
+[10:13.79]
+E | I love that. We're not phones, we're plants! | 너무 좋아요. 우리는 폰이 아니라 식물이다!
+[10:17.20]
+E | We can't recharge just by lying down. We need sunlight and nature to come back to life. | 누워만 있어서는 충전이 안 돼요. 다시 살아나려면 햇빛과 자연이 필요해요.
+[10:22.64]
+E | This was a real eye-opener. Now I finally understand why I was so tired after two days in bed. | 정말 눈이 번쩍 뜨이는 얘기였어요. 이틀 누워 있고 왜 그렇게 피곤했는지 이제야 알겠어요.
+[10:28.65]
+J | Glad it helped. Just promise me you won't spend another whole weekend in bed. | 도움이 됐다니 다행이에요. 다시는 주말 내내 침대에서 보내지 않겠다고 약속해요.
+[10:34.85]
+E | I promise! Starting today, I'm changing the way I rest. | 약속해요! 오늘부터 쉬는 방식을 바꿀 거예요.
+
+[10:38.96]
+## 오늘의 정리와 마무리
+E | Before we wrap up, let's go over today's key ideas for our listeners. | 마치기 전에 청취자분들을 위해 오늘의 핵심을 정리해 볼까요.
+[10:43.47]
+J | Sure! Number one: the eight-character warning from the Yellow Emperor's Inner Classic. | 좋아요! 첫째, 《황제내경》의 여덟 글자 경고.
+[10:50.28]
+J | Sitting too long harms the muscles, and lying down too long drains your energy. | 너무 오래 앉아 있으면 근육이 상하고, 너무 오래 누워 있으면 에너지가 빠져나간다.
+[10:56.43]
+E | Number two: two beautiful Chinese characters. | 둘째, 아름다운 한자 두 개.
+[10:59.44]
+E | Rest is a person next to a tree, and an immortal is a person next to a mountain. Nature is where we recharge. | 휴식(休)은 나무 옆의 사람, 신선(仙)은 산 옆의 사람. 자연이 우리가 충전하는 곳이에요.
+[11:05.92]
+J | And number three: we're not phones, we're plants. | 그리고 셋째, 우리는 폰이 아니라 식물이다.
+[11:10.60]
+J | When you're tired, get up, move around, go to a park, get some sun, and look at something green. | 피곤할 땐 일어나서 움직이고, 공원에 가서 햇볕을 쬐고, 초록빛을 바라보세요.
+[11:18.94]
+E | Perfectly summed up! Learning a language isn't just vocabulary and grammar. It's also a chance to pick up a little wisdom for life. | 완벽한 정리네요! 언어를 배우는 건 단어와 문법만이 아니라, 삶의 지혜를 조금씩 얻는 기회이기도 해요.
+[11:26.51]
+E | So here's our question for you: how do you usually rest when you're tired? | 그래서 여러분께 질문이에요. 피곤할 때 보통 어떻게 쉬세요?
+[11:30.38]
+E | Have you ever spent a whole day in bed like me? And where will you find your tree or your mountain this weekend? | 저처럼 하루 종일 침대에서 보낸 적 있나요? 그리고 이번 주말엔 어디서 나만의 나무나 산을 찾으실 건가요?
+[11:35.39]
+J | Let us know in the comments, in English if you can! Thanks so much for listening, and get some real rest this week. | 댓글로 알려 주세요, 가능하면 영어로요! 들어 주셔서 정말 고맙고, 이번 주엔 진짜 휴식을 누리세요.
+[11:44.25]
+E | See you next time! | 다음에 만나요!
+[11:45.73]
+J | Bye, everyone! | 안녕히 계세요, 여러분!

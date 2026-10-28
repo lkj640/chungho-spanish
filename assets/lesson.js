@@ -26,7 +26,7 @@
   $("hero").innerHTML = `<div class="chips"><span class="chip yel">${esc(L.channel || "")}</span><span class="chip">${esc(L.level || "")}</span>${L.duration ? `<span class="chip">⏱ ${esc(L.duration)}</span>` : ""}</div>
     <h1>${esc(L.emoji || "")} ${esc(L.title)}</h1><div class="es" lang="${esc(lang)}">${esc(L.es || "")}</div>
     ${L.summary ? `<p>${esc(L.summary)}</p>` : ""}
-    ${Object.keys(who).length && !L.hideCast ? `<div class="cast">출연: ${Object.entries(who).map(([k, v], i) => `<b class="sp${i % 4}">${esc(v)}</b>`).join(" · ")} <span class="ts">※ 화자 구분은 대화 맥락 기준</span></div>` : ""}
+    ${Object.keys(who).length && !L.hideCast ? `<div class="cast">출연: ${Object.entries(who).map(([k, v], i) => `<b class="sp${i % 4}">${esc(v)}</b>`).join(" · ")}${L.castNote === false ? "" : ' <span class="ts">※ 화자 구분은 대화 맥락 기준</span>'}</div>` : ""}
     ${L.youtube ? `<p><a href="https://www.youtube.com/watch?v=${esc(L.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 원본 보기</a></p>` : ""}`;
 
   // ---------- 탭 ----------
