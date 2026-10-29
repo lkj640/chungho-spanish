@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "es-2026-10-29",
+   "lang": "es",
+   "date": "2026-10-29",
+   "title": "누워서 쉬면 왜 더 지칠까? — 스페인어 딥다이브",
+   "es": "El agua que fluye no se pudre",
+   "emoji": "🌿",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "15:33",
+   "summary": "같은 주제(10/27 중국어, 10/28 영어·일본어)를 스페인어 딥다이브로 들어요. 48시간 누워 있었는데 월요일에 화물 열차에 치인 듯한 역설을 《황제내경》의 'Estar sentado mucho tiempo daña los músculos; estar acostado mucho tiempo daña el qi'로 풀고, 근육 펌프와 림프계, 'el agua que fluye no se pudre', 休·仙, 자동차와 식물 비유, 실천법까지 이야기해요.",
+   "topics": [
+    "la gran paradoja del fin de semana · la niebla mental",
+    "Estar sentado mucho tiempo daña los músculos · estar acostado mucho tiempo daña el qi",
+    "el agua que fluye no se pudre · el pantano linfático",
+    "休 = persona + árbol · 仙 = persona + montaña",
+    "somos como plantas, no teléfonos",
+    "문법: como si + 접속법 과거 · si + 현재, 미래 · no… sino… · Se trata de…"
+   ],
+   "vocabCount": 44,
+   "lineCount": 249
+  },
+  {
    "id": "en-2026-10-28-2",
    "lang": "en",
    "date": "2026-10-28",

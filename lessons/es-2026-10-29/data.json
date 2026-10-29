@@ -1,0 +1,2170 @@
+{
+ "id": "es-2026-10-29",
+ "lang": "es",
+ "date": "2026-10-29",
+ "title": "누워서 쉬면 왜 더 지칠까? — 스페인어 딥다이브",
+ "es": "El agua que fluye no se pudre",
+ "emoji": "🌿",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "¿Por qué descansar acostado te agota?",
+ "audio": "audio.m4a",
+ "duration": "15:33",
+ "speakers": {
+  "H": "Anfitrión",
+  "M": "Anfitriona"
+ },
+ "hideCast": true,
+ "summary": "같은 주제(10/27 중국어, 10/28 영어·일본어)를 스페인어 딥다이브로 들어요. 48시간 누워 있었는데 월요일에 화물 열차에 치인 듯한 역설을 《황제내경》의 'Estar sentado mucho tiempo daña los músculos; estar acostado mucho tiempo daña el qi'로 풀고, 근육 펌프와 림프계, 'el agua que fluye no se pudre', 休·仙, 자동차와 식물 비유, 실천법까지 이야기해요.",
+ "topics": [
+  "la gran paradoja del fin de semana · la niebla mental",
+  "Estar sentado mucho tiempo daña los músculos · estar acostado mucho tiempo daña el qi",
+  "el agua que fluye no se pudre · el pantano linfático",
+  "休 = persona + árbol · 仙 = persona + montaña",
+  "somos como plantas, no teléfonos",
+  "문법: como si + 접속법 과거 · si + 현재, 미래 · no… sino… · Se trata de…"
+ ],
+ "grammar": [
+  {
+   "title": "① como si + 접속법 과거 — 마치 ~인 것처럼",
+   "lead": "현실이 아닌 비유를 말할 때 써요. 동사는 접속법 과거(hubiera, fuera…).",
+   "examples": [
+    [
+     "Se siente como si hubiera sido atropellado por un tren de carga.",
+     "마치 화물 열차에 치인 것 같은 느낌이에요."
+    ],
+    [
+     "Actuando como si la cama fuera una base de carga inalámbrica.",
+     "침대가 무선 충전 패드인 것처럼 행동하면서요."
+    ]
+   ]
+  },
+  {
+   "title": "② 오늘의 핵심 문장 — estar + 과거분사 + mucho tiempo",
+   "lead": "동사 원형(Estar sentado / Estar acostado)이 주어가 돼요.",
+   "table": {
+    "head": [
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Estar sentado mucho tiempo daña los músculos.",
+      "오래 앉아 있으면 근육이 상한다. (久坐傷肉)"
+     ],
+     [
+      "Estar acostado mucho tiempo daña el qi.",
+      "오래 누워 있으면 기가 상한다. (久臥傷氣)"
+     ],
+     [
+      "El agua que fluye no se pudre.",
+      "흐르는 물은 썩지 않는다. (流水不腐)"
+     ]
+    ]
+   },
+   "tip": "sentado(앉은) · acostado / recostado(누운) · de pie(서 있는)."
+  },
+  {
+   "title": "③ si + 현재형, 미래/현재 — 실제 조건",
+   "lead": "일어날 수 있는 일을 가정해요.",
+   "examples": [
+    [
+     "Si dejas un coche aparcado en un garaje durante seis semanas, la batería se muere.",
+     "차를 차고에 6주 세워 두면 배터리가 죽어요."
+    ],
+    [
+     "Si encierras una planta marchita en una caja oscura, no va a descansar.",
+     "시든 식물을 어두운 상자에 가두면 쉬지 못해요."
+    ]
+   ]
+  },
+  {
+   "title": "④ no… sino… / no solo… sino que… — A가 아니라 B",
+   "lead": "앞을 부정하고 뒤를 강조해요.",
+   "examples": [
+    [
+     "No se trata de hacer flexiones extremas, sino de reiniciar manualmente la bomba muscular.",
+     "극한 팔굽혀펴기가 아니라 근육 펌프를 다시 켜 주는 거예요."
+    ],
+    [
+     "Su contracción no solo genera movimiento, sino que impulsa fluidos vitales.",
+     "수축은 움직임만 만드는 게 아니라 생명에 필요한 체액도 밀어 보내요."
+    ]
+   ],
+   "tip": "se trata de + 동사원형 = ~하는 것이다, ~에 관한 일이다."
+  },
+  {
+   "title": "⑤ 재귀동사로 말하는 몸의 변화",
+   "lead": "se + 동사로 '저절로 ~해지다'를 표현해요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "volverse",
+      "~이 되다",
+      "La respiración se vuelve superficial."
+     ],
+     [
+      "convertirse en",
+      "~으로 변하다",
+      "El agua se convierte en un pantano."
+     ],
+     [
+      "desplomarse",
+      "급락하다",
+      "La circulación se desploma."
+     ],
+     [
+      "estancarse",
+      "고이다",
+      "El fluido se estanca."
+     ],
+     [
+      "marchitarse",
+      "시들다",
+      "Se va a marchitar y morir."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 딥다이브 맞장구 표현",
+   "lead": "대화를 자연스럽게 잇는 짧은 반응이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Exacto. / Exactamente.",
+      "맞아요."
+     ],
+     [
+      "Totalmente.",
+      "완전히요."
+     ],
+     [
+      "Ajá.",
+      "아하."
+     ],
+     [
+      "Claro.",
+      "그렇죠."
+     ],
+     [
+      "Fíjate…",
+      "봐 봐, 있잖아"
+     ],
+     [
+      "O sea…",
+      "그러니까"
+     ],
+     [
+      "Qué locura.",
+      "말도 안 돼요."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ 비교와 강조 — más… que / -ísimo",
+   "lead": "정도를 강하게 말하는 방법이에요.",
+   "examples": [
+    [
+     "un nivel de agotamiento incluso más severo que el del viernes por la tarde",
+     "금요일 오후보다 오히려 더 심한 피로"
+    ],
+    [
+     "Es un material riquísimo.",
+     "아주 풍부한 자료예요. (rico → riquísimo)"
+    ]
+   ],
+   "tip": "potente → potentísimo, caro → carísimo처럼 -ísimo로 '아주'를 붙여요."
+  }
+ ],
+ "phrases": [
+  [
+   "Es la gran paradoja del fin de semana moderno.",
+   "주말의 거대한 역설이에요."
+  ],
+  [
+   "Las piernas pesan toneladas.",
+   "다리가 몇 톤처럼 무거워요."
+  ],
+  [
+   "Estar sentado mucho tiempo daña los músculos.",
+   "오래 앉아 있으면 근육이 상한다."
+  ],
+  [
+   "Estar acostado mucho tiempo daña el qi.",
+   "오래 누워 있으면 기가 상한다."
+  ],
+  [
+   "El agua que fluye no se pudre.",
+   "흐르는 물은 썩지 않는다."
+  ],
+  [
+   "El movimiento crea la energía.",
+   "움직임이 에너지를 만든다."
+  ],
+  [
+   "Debemos darnos cuenta de que biológicamente somos como plantas.",
+   "우리는 생물학적으로 식물 같다는 걸 깨달아야 해요."
+  ],
+  [
+   "Mantengan su arroyo fluyendo.",
+   "여러분의 시냇물이 계속 흐르게 하세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la paradoja",
+   "ko": "역설",
+   "ex": "Es la gran paradoja del fin de semana moderno.",
+   "exKo": "주말의 거대한 역설이에요."
+  },
+  {
+   "es": "atropellado por un tren de carga",
+   "ko": "화물 열차에 치인 듯한",
+   "ex": "Se siente como si hubiera sido atropellado por un tren de carga.",
+   "exKo": "화물 열차에 치인 것 같은 느낌이에요."
+  },
+  {
+   "es": "la niebla mental",
+   "ko": "머릿속 안개, 멍함",
+   "ex": "Hay una niebla mental densa.",
+   "exKo": "머릿속에 짙은 안개가 껴요."
+  },
+  {
+   "es": "pesar toneladas",
+   "ko": "몇 톤처럼 무겁다",
+   "ex": "Las piernas pesan toneladas.",
+   "exKo": "다리가 몇 톤처럼 무거워요."
+  },
+  {
+   "es": "el agotamiento",
+   "ko": "극도의 피로",
+   "ex": "un nivel de agotamiento al amanecer el lunes",
+   "exKo": "월요일 새벽의 극심한 피로"
+  },
+  {
+   "es": "conformarse con",
+   "ko": "~로 만족하다, 넘기다",
+   "ex": "Nos conformamos con esa excusa.",
+   "exKo": "그런 핑계로 넘겨 버려요."
+  },
+  {
+   "es": "sumamente",
+   "ko": "극도로, 매우",
+   "ex": "una experiencia sumamente frustrante",
+   "exKo": "몹시 답답한 경험"
+  },
+  {
+   "es": "desmitificar",
+   "ko": "신화를 깨다, 오해를 바로잡다",
+   "ex": "desmitificar esa idea tan arraigada",
+   "exKo": "그 뿌리 깊은 생각을 깨다"
+  },
+  {
+   "es": "arraigado",
+   "ko": "뿌리 깊은",
+   "ex": "esa idea tan arraigada",
+   "exKo": "그렇게 뿌리 깊은 생각"
+  },
+  {
+   "es": "desempacar",
+   "ko": "(짐을) 풀다 → 하나씩 풀어 보다",
+   "ex": "Bueno, vamos a desempacar esto de una vez.",
+   "exKo": "좋아요, 바로 하나씩 풀어 봐요."
+  },
+  {
+   "es": "por inercia",
+   "ko": "관성적으로, 습관적으로",
+   "ex": "asumimos, casi por inercia, que…",
+   "exKo": "거의 관성적으로 ~라고 여겨요"
+  },
+  {
+   "es": "la base de carga inalámbrica",
+   "ko": "무선 충전 패드",
+   "ex": "como si la cama fuera una base de carga inalámbrica",
+   "exKo": "침대가 무선 충전 패드인 것처럼"
+  },
+  {
+   "es": "deslizar el dedo",
+   "ko": "손가락으로 (화면을) 넘기다",
+   "ex": "deslizar el dedo por una pantalla",
+   "exKo": "화면을 손가락으로 넘기다"
+  },
+  {
+   "es": "venerado",
+   "ko": "존경받는",
+   "ex": "un tratado médico chino profundamente venerado",
+   "exKo": "깊이 존경받는 중국 의학서"
+  },
+  {
+   "es": "agrario",
+   "ko": "농경의",
+   "ex": "una sociedad predominantemente agraria",
+   "exKo": "주로 농경 사회"
+  },
+  {
+   "es": "abrasador",
+   "ko": "타는 듯이 뜨거운",
+   "ex": "bajo un sol abrasador",
+   "exKo": "뜨거운 햇볕 아래서"
+  },
+  {
+   "es": "el letargo",
+   "ko": "무기력, 나른함",
+   "ex": "el letargo causado por no hacer nada",
+   "exKo": "아무것도 안 해서 생기는 무기력"
+  },
+  {
+   "es": "dañar",
+   "ko": "해치다, 손상시키다",
+   "ex": "Estar sentado mucho tiempo daña los músculos.",
+   "exKo": "오래 앉아 있으면 근육이 상한다."
+  },
+  {
+   "es": "ineludible",
+   "ko": "피할 수 없는",
+   "ex": "la realidad ineludible",
+   "exKo": "피할 수 없는 현실"
+  },
+  {
+   "es": "los músculos esqueléticos",
+   "ko": "골격근",
+   "ex": "Los músculos esqueléticos funcionan como bombas.",
+   "exKo": "골격근은 펌프처럼 작동해요."
+  },
+  {
+   "es": "desplomarse",
+   "ko": "무너지다, 급락하다",
+   "ex": "la circulación periférica se desploma",
+   "exKo": "말초 순환이 뚝 떨어져요"
+  },
+  {
+   "es": "un goteo perezoso",
+   "ko": "느릿느릿한 물방울",
+   "ex": "El flujo de sangre se reduce casi a un goteo perezoso.",
+   "exKo": "피의 흐름이 거의 느릿느릿한 물방울 수준이 돼요."
+  },
+  {
+   "es": "asfixiarse",
+   "ko": "질식하다",
+   "ex": "estamos asfixiándonos",
+   "exKo": "우리는 숨이 막히고 있어요"
+  },
+  {
+   "es": "matar de hambre",
+   "ko": "굶겨 죽이다",
+   "ex": "estamos matando a nuestros propios tejidos de hambre",
+   "exKo": "우리 조직을 굶겨 죽이고 있어요"
+  },
+  {
+   "es": "la negligencia",
+   "ko": "방치, 소홀",
+   "ex": "Está sufriendo un deterioro agudo por negligencia.",
+   "exKo": "방치 때문에 급격히 나빠지고 있어요."
+  },
+  {
+   "es": "un maratón de series",
+   "ko": "드라마 정주행",
+   "ex": "Cuando alguien se entrega a un maratón de series…",
+   "exKo": "누군가 드라마 정주행에 빠지면…"
+  },
+  {
+   "es": "recostado",
+   "ko": "기대어 누운",
+   "ex": "estar recostado todo el fin de semana",
+   "exKo": "주말 내내 누워 있기"
+  },
+  {
+   "es": "el agua que fluye no se pudre",
+   "ko": "흐르는 물은 썩지 않는다",
+   "ex": "Dijeron, el agua que fluye no se pudre.",
+   "exKo": "흐르는 물은 썩지 않는다고 했어요."
+  },
+  {
+   "es": "estancado",
+   "ko": "고여 있는, 정체된",
+   "ex": "un charco de agua estancada",
+   "exKo": "고인 웅덩이"
+  },
+  {
+   "es": "turbio",
+   "ko": "탁한",
+   "ex": "El agua se vuelve turbia.",
+   "exKo": "물이 탁해져요."
+  },
+  {
+   "es": "un caldo de cultivo",
+   "ko": "온상, 배양지",
+   "ex": "Un caldo de cultivo para mosquitos.",
+   "exKo": "모기의 온상이에요."
+  },
+  {
+   "es": "superficial",
+   "ko": "얕은",
+   "ex": "La respiración se vuelve increíblemente superficial.",
+   "exKo": "호흡이 엄청나게 얕아져요."
+  },
+  {
+   "es": "el sistema linfático",
+   "ko": "림프계",
+   "ex": "el sistema linfático no tiene bomba central",
+   "exKo": "림프계에는 중앙 펌프가 없어요"
+  },
+  {
+   "es": "la red de alcantarillado",
+   "ko": "하수도망",
+   "ex": "la red de alcantarillado del cuerpo humano",
+   "exKo": "인체의 하수도망"
+  },
+  {
+   "es": "la pesadez",
+   "ko": "무거움, 묵직함",
+   "ex": "Hay pesadez en el pecho.",
+   "exKo": "가슴이 무거워요."
+  },
+  {
+   "es": "disipar",
+   "ko": "흩어지게 하다, 걷어 내다",
+   "ex": "esa niebla cerebral que el café no logra disipar",
+   "exKo": "커피로도 안 걷히는 머릿속 안개"
+  },
+  {
+   "es": "demoledor",
+   "ko": "냉혹한, 결정적인",
+   "ex": "El veredicto es demoledor.",
+   "exKo": "판결은 냉혹해요."
+  },
+  {
+   "es": "la falacia",
+   "ko": "오류, 궤변",
+   "ex": "es una completa falacia",
+   "exKo": "완전한 오류예요"
+  },
+  {
+   "es": "la corteza",
+   "ko": "나무껍질",
+   "ex": "sintiendo la corteza, el viento",
+   "exKo": "나무껍질과 바람을 느끼며"
+  },
+  {
+   "es": "abarrotado",
+   "ko": "꽉 찬, 붐비는",
+   "ex": "metros abarrotados",
+   "exKo": "꽉 찬 지하철"
+  },
+  {
+   "es": "marchito / marchitarse",
+   "ko": "시든 / 시들다",
+   "ex": "una planta marchita",
+   "exKo": "시든 식물"
+  },
+  {
+   "es": "desglosar",
+   "ko": "하나하나 나누어 제시하다",
+   "ex": "las fuentes desglosan soluciones muy prácticas",
+   "exKo": "자료들이 실용적인 해결책을 하나하나 제시해요"
+  },
+  {
+   "es": "dormir hasta tarde",
+   "ko": "늦잠 자다",
+   "ex": "Está bien dormir hasta tarde.",
+   "exKo": "늦잠은 괜찮아요."
+  },
+  {
+   "es": "a toda costa",
+   "ko": "무슨 일이 있어도",
+   "ex": "eviten a toda costa convertirse en un pantano",
+   "exKo": "무슨 일이 있어도 늪이 되지 마세요"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuál es «la gran paradoja del fin de semana moderno»?",
+   "options": [
+    "Trabajar más da más energía.",
+    "Descansar 48 horas acostado y sentirse más agotado el lunes.",
+    "Dormir poco el sábado.",
+    "Comer mucho el domingo."
+   ],
+   "answer": 1,
+   "explain": "El lunes por la mañana, la batería debería estar al 100%… y sin embargo se siente atropellado por un tren de carga."
+  },
+  {
+   "q": "Según el Huangdi Neijing, ¿qué daña estar sentado mucho tiempo?",
+   "options": [
+    "el qi",
+    "los músculos",
+    "los ojos",
+    "el corazón"
+   ],
+   "answer": 1,
+   "explain": "Estar sentado mucho tiempo daña los músculos."
+  },
+  {
+   "q": "¿Cómo funcionan los músculos esqueléticos, según la fuente?",
+   "options": [
+    "Solo como soporte",
+    "Como bombas periféricas",
+    "Como baterías",
+    "Como filtros"
+   ],
+   "answer": 1,
+   "explain": "Funcionan como verdaderas bombas periféricas en el cuerpo."
+  },
+  {
+   "q": "En la medicina tradicional seria, el qi es…",
+   "options": [
+    "magia",
+    "un aura intangible",
+    "el motor metabólico del cuerpo",
+    "el aire que respiramos"
+   ],
+   "answer": 2,
+   "explain": "El qi no es magia. Es el motor metabólico del cuerpo."
+  },
+  {
+   "q": "«El agua que fluye no se pudre» compara el cuerpo inmóvil con…",
+   "options": [
+    "un arroyo de montaña",
+    "un pantano estancado",
+    "el mar",
+    "la lluvia"
+   ],
+   "answer": 1,
+   "explain": "El cuerpo entero imita las condiciones de esa zanja estancada."
+  },
+  {
+   "q": "¿Por qué se estanca la linfa si no nos movemos?",
+   "options": [
+    "Porque el corazón la bombea demasiado",
+    "Porque el sistema linfático no tiene bomba central y depende de los músculos",
+    "Porque bebemos poca agua",
+    "Porque dormimos mucho"
+   ],
+   "answer": 1,
+   "explain": "Depende enteramente de la contracción física de los músculos esqueléticos circundantes."
+  },
+  {
+   "q": "El carácter 休 (descanso) se compone de…",
+   "options": [
+    "persona + montaña",
+    "persona + árbol",
+    "árbol + árbol",
+    "persona + agua"
+   ],
+   "answer": 1,
+   "explain": "A la izquierda una persona y a la derecha un árbol."
+  },
+  {
+   "q": "¿Qué pasa con un coche aparcado seis semanas?",
+   "options": [
+    "Se oxida el motor.",
+    "La batería se muere.",
+    "Gasta más gasolina.",
+    "Nada."
+   ],
+   "answer": 1,
+   "explain": "El alternador necesita que el motor funcione… El movimiento crea la energía."
+  },
+  {
+   "q": "¿Qué recomiendan para la jornada laboral?",
+   "options": [
+    "Una alarma cada 45 o 60 minutos para levantarse cinco minutos",
+    "Hacer flexiones extremas",
+    "Trabajar de pie todo el día",
+    "Dormir la siesta"
+   ],
+   "answer": 0,
+   "explain": "Levantarse por cinco minutos. Ir por agua, estirarse."
+  },
+  {
+   "q": "Completa: «Se siente como si ___ sido atropellado por un tren».",
+   "options": [
+    "ha",
+    "hubiera",
+    "había",
+    "habrá"
+   ],
+   "answer": 1,
+   "explain": "como si + 접속법 과거(과거완료): hubiera sido."
+  },
+  {
+   "q": "«No se trata de hacer flexiones, ___ de reiniciar la bomba muscular.»",
+   "options": [
+    "pero",
+    "sino",
+    "si no",
+    "también"
+   ],
+   "answer": 1,
+   "explain": "no… sino… = A가 아니라 B."
+  },
+  {
+   "q": "¿Qué pregunta inquietante plantean al final?",
+   "options": [
+    "Si los algoritmos y las apps de entrega drenan nuestra fuerza vital",
+    "Si debemos mudarnos al campo",
+    "Si el café ayuda",
+    "Si dormir es malo"
+   ],
+   "answer": 0,
+   "explain": "¿Podría ser que estas tecnologías sean sistemas gigantescos que drenan silenciosamente nuestra fuerza vital?"
+  }
+ ],
+ "sections": [
+  {
+   "title": "도입 — 48시간 누워 있었는데 왜 월요일이 더 힘들까?",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "M",
+     "es": "Es la gran paradoja del fin de semana moderno.",
+     "ko": "주말의 거대한 역설이에요."
+    },
+    {
+     "t": 2.8,
+     "s": "M",
+     "es": "Digo, un cuerpo humano pasa 48 horas en posición completamente horizontal.",
+     "ko": "그러니까, 사람 몸이 48시간을 완전히 누운 자세로 보내요."
+    },
+    {
+     "t": 8.0,
+     "s": "M",
+     "es": "Cero gasto calórico, cero esfuerzo físico.",
+     "ko": "칼로리 소모 제로, 신체 노력 제로."
+    },
+    {
+     "t": 11.1,
+     "s": "H",
+     "es": "Claro, y si abordamos esto con una expectativa, digamos, matemática, la ecuación parece obvia.",
+     "ko": "그렇죠. 이걸 수학적인 기대로 접근하면 방정식은 뻔해 보여요."
+    },
+    {
+     "t": 16.7,
+     "s": "H",
+     "es": "El lunes por la mañana, la batería debería estar al 100%.",
+     "ko": "월요일 아침엔 배터리가 100%여야 하죠."
+    },
+    {
+     "t": 19.5,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 20.4,
+     "s": "H",
+     "es": "Y sin embargo, al sonar la alarma, ese mismo cuerpo se siente como si hubiera sido atropellado por un tren de carga.",
+     "ko": "그런데 알람이 울리면 그 몸이 마치 화물 열차에 치인 것 같은 느낌이에요."
+    },
+    {
+     "t": 26.3,
+     "s": "H",
+     "es": "Hay una niebla mental densa, las lumbares arden.",
+     "ko": "머리엔 짙은 안개가 끼고, 허리는 화끈거리고요."
+    },
+    {
+     "t": 29.4,
+     "s": "M",
+     "es": "Las piernas pesan toneladas.",
+     "ko": "다리는 몇 톤처럼 무거워요."
+    },
+    {
+     "t": 31.6,
+     "s": "H",
+     "es": "Es algo inexplicable bajo nuestra visión contemporánea, ¿no?",
+     "ko": "요즘 우리의 시각으로는 설명이 안 되는 일이죠?"
+    },
+    {
+     "t": 34.9,
+     "s": "H",
+     "es": "Existe un nivel de agotamiento al amanecer el lunes que llega a ser incluso más severo que el del viernes por la tarde.",
+     "ko": "월요일 새벽의 피로가 금요일 오후보다 오히려 더 심할 때가 있어요."
+    },
+    {
+     "t": 40.8,
+     "s": "M",
+     "es": "Sí, justo al apagar la computadora del trabajo.",
+     "ko": "네, 딱 회사 컴퓨터를 끌 때보다요."
+    },
+    {
+     "t": 43.7,
+     "s": "M",
+     "es": "Es un misterio fisiológico y solemos ignorarlo asumiendo que, bueno, simplemente la persona durmió mal.",
+     "ko": "생리학적인 수수께끼인데, 우리는 보통 '그냥 잠을 못 잤나 보다' 하고 넘겨 버려요."
+    },
+    {
+     "t": 50.0,
+     "s": "H",
+     "es": "Totalmente.",
+     "ko": "완전히요."
+    },
+    {
+     "t": 51.6,
+     "s": "H",
+     "es": "Nos conformamos con esa excusa.",
+     "ko": "그런 핑계로 만족하죠."
+    },
+    {
+     "t": 53.5,
+     "s": "M",
+     "es": "Pero para quienes nos escuchan, esta es probablemente una experiencia universal y sumamente frustrante.",
+     "ko": "그런데 듣고 계신 분들에게 이건 아마 누구나 겪는, 몹시 답답한 경험일 거예요."
+    },
+    {
+     "t": 60.0,
+     "s": "M",
+     "es": "Por eso, las fuentes que tenemos para esta exploración profunda son fascinantes.",
+     "ko": "그래서 이번 딥다이브의 자료들이 정말 흥미로워요."
+    },
+    {
+     "t": 63.9,
+     "s": "H",
+     "es": "De verdad que lo son.",
+     "ko": "정말 그래요."
+    },
+    {
+     "t": 64.9,
+     "s": "H",
+     "es": "Es un material riquísimo.",
+     "ko": "아주 풍부한 자료예요."
+    },
+    {
+     "t": 66.4,
+     "s": "M",
+     "es": "Fíjate, contamos con un conjunto de transcripciones de programas diarios sobre cultura, lenguaje y bienestar y recogen perspectivas en inglés, chino y japonés.",
+     "ko": "보세요, 문화·언어·웰빙을 다루는 데일리 방송 대본들이 있는데, 영어·중국어·일본어의 시각을 담고 있어요."
+    },
+    {
+     "t": 77.9,
+     "s": "M",
+     "es": "Estos textos hacen algo realmente ambicioso.",
+     "ko": "이 글들은 정말 야심 찬 일을 해요."
+    },
+    {
+     "t": 80.8,
+     "s": "M",
+     "es": "Cruzan la sabiduría médica oriental milenaria con la biología moderna y diagnostican nuestro cansancio crónico actual con una precisión, te digo, quirúrgica.",
+     "ko": "수천 년 된 동양 의학의 지혜를 현대 생물학과 엮어서, 요즘 우리의 만성 피로를 정말 외과 수술처럼 정밀하게 진단해요."
+    },
+    {
+     "t": 90.3,
+     "s": "H",
+     "es": "O sea, el valor de este material radica en cómo disecciona el problema desde ángulos que nuestra cultura de la conveniencia simplemente ignora.",
+     "ko": "그러니까 이 자료의 가치는 우리의 '편리함의 문화'가 그냥 무시하는 각도에서 문제를 해부한다는 데 있어요."
+    },
+    {
+     "t": 97.7,
+     "s": "H",
+     "es": "Nos obliga a mirar de frente el daño silencioso que provoca la inmovilidad.",
+     "ko": "가만히 있는 것이 일으키는 조용한 해로움을 정면으로 보게 하죠."
+    },
+    {
+     "t": 101.9,
+     "s": "M",
+     "es": "Bajo la excusa del confort, claro.",
+     "ko": "편안함이라는 핑계 아래서요."
+    },
+    {
+     "t": 104.0,
+     "s": "M",
+     "es": "Exactamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 105.1,
+     "s": "M",
+     "es": "Así que la misión de este análisis es desmitificar esa idea tan arraigada de que no hacer nada es exactamente igual a descansar.",
+     "ko": "그래서 이번 분석의 목표는 '아무것도 안 하는 것 = 쉬는 것'이라는 뿌리 깊은 생각을 깨는 거예요."
+    },
+    {
+     "t": 112.4,
+     "s": "H",
+     "es": "Sí, esa falsa equivalencia.",
+     "ko": "네, 그 잘못된 등식이요."
+    },
+    {
+     "t": 114.1,
+     "s": "M",
+     "es": "Vamos a descubrir el verdadero secreto fisiológico del descanso.",
+     "ko": "휴식의 진짜 생리학적 비밀을 밝혀 볼 거예요."
+    },
+    {
+     "t": 117.1,
+     "s": "M",
+     "es": "Para que quienes sintonizan puedan recargar su energía de una manera real y sostenible.",
+     "ko": "듣고 계신 분들이 진짜로, 지속 가능하게 에너지를 충전할 수 있도록요."
+    }
+   ]
+  },
+  {
+   "title": "우리는 스마트폰처럼 충전되지 않는다",
+   "lines": [
+    {
+     "t": 122.4,
+     "s": "H",
+     "es": "Y para lograr eso, el primer paso inevitable es examinar el modelo mental bajo el cual operamos hoy en día.",
+     "ko": "그러려면 첫 단계로 우리가 요즘 어떤 사고방식으로 움직이는지 살펴봐야 해요."
+    },
+    {
+     "t": 127.3,
+     "s": "H",
+     "es": "Tenemos que entender qué le estamos haciendo físicamente al cuerpo.",
+     "ko": "우리가 몸에 물리적으로 무슨 짓을 하고 있는지 이해해야 해요."
+    },
+    {
+     "t": 130.9,
+     "s": "M",
+     "es": "Bueno, vamos a desempacar esto de una vez.",
+     "ko": "좋아요, 그럼 바로 풀어 봐요."
+    },
+    {
+     "t": 133.6,
+     "s": "M",
+     "es": "En la era actual, asumimos, casi por inercia, que la anatomía humana funciona como un dispositivo electrónico.",
+     "ko": "요즘 우리는 거의 관성적으로 인간의 몸이 전자 기기처럼 작동한다고 여겨요."
+    },
+    {
+     "t": 140.1,
+     "s": "H",
+     "es": "Como un gadget más.",
+     "ko": "또 하나의 가젯처럼요."
+    },
+    {
+     "t": 142.0,
+     "s": "M",
+     "es": "Específicamente, nos tratamos como si fuéramos teléfonos inteligentes.",
+     "ko": "구체적으로는 우리 자신을 스마트폰처럼 다뤄요."
+    },
+    {
+     "t": 145.0,
+     "s": "M",
+     "es": "Existe esta creencia de que al dejar el cuerpo inmóvil sobre un colchón, actuando como si la cama fuera una base de carga inalámbrica, la energía volverá mágicamente.",
+     "ko": "몸을 매트리스 위에 가만히 두면, 침대가 무선 충전 패드인 것처럼 에너지가 마법같이 돌아올 거라는 믿음이 있어요."
+    },
+    {
+     "t": 155.5,
+     "s": "H",
+     "es": "Claro, la lógica nos dice que seguimos consumiendo alimentos, depositando calorías, y al limitar el movimiento a solo, no sé, deslizar el dedo por una pantalla, pues no quemamos combustible.",
+     "ko": "그렇죠. 논리상으론 음식을 계속 먹어서 칼로리를 저축하고, 움직임을 화면을 손가락으로 넘기는 정도로만 줄이면 연료를 안 태우는 거잖아요."
+    },
+    {
+     "t": 165.8,
+     "s": "M",
+     "es": "El tanque debería estar bien.",
+     "ko": "탱크는 꽉 차 있어야 하죠."
+    },
+    {
+     "t": 167.5,
+     "s": "H",
+     "es": "Pero el problema, y esto es clave, es que esa lógica matemática es fundamentalmente incompatible con la biología humana.",
+     "ko": "그런데 문제는, 이게 핵심인데요, 그 수학적 논리가 인간의 생물학과 근본적으로 맞지 않는다는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "《황제내경》의 여덟 글자 경고",
+   "lines": [
+    {
+     "t": 175.4,
+     "s": "H",
+     "es": "Y para entender dónde se rompe nuestra ecuación, las fuentes nos remiten a uno de los textos fundacionales más importantes de la historia de la medicina,",
+     "ko": "그리고 우리의 방정식이 어디서 깨지는지 이해하려고 자료들은 의학 역사상 가장 중요한 근본 문헌 중 하나를 가리켜요."
+    },
+    {
+     "t": 183.3,
+     "s": "H",
+     "es": "el Huangdi Neijing.",
+     "ko": "바로 《황제내경》이에요."
+    },
+    {
+     "t": 185.0,
+     "s": "M",
+     "es": "O el Canon interno del Emperador Amarillo.",
+     "ko": "또는 '황제의 내경(內經)'이라고도 하죠."
+    },
+    {
+     "t": 188.0,
+     "s": "H",
+     "es": "Ese mismo.",
+     "ko": "바로 그거요."
+    },
+    {
+     "t": 189.1,
+     "s": "H",
+     "es": "Estamos hablando de un tratado médico chino profundamente venerado, compilado hace más de dos mil años.",
+     "ko": "2천여 년 전에 편찬된, 깊이 존경받는 중국 의학서예요."
+    },
+    {
+     "t": 194.2,
+     "s": "H",
+     "es": "Un texto que sentó las bases de la acupuntura y la patología oriental.",
+     "ko": "침술과 동양 병리학의 기초를 세운 책이죠."
+    },
+    {
+     "t": 197.7,
+     "s": "M",
+     "es": "Y aquí es donde, bueno, tengo que mostrar un poco de escepticismo histórico.",
+     "ko": "그런데 여기서, 음, 역사적으로 좀 의심을 해 봐야겠어요."
+    },
+    {
+     "t": 201.7,
+     "s": "M",
+     "es": "A ver, estamos situándonos en el contexto de una sociedad antigua.",
+     "ko": "자, 우리는 고대 사회의 맥락에 서 있는 거잖아요."
+    },
+    {
+     "t": 205.4,
+     "s": "H",
+     "es": "Sí, predominantemente agraria.",
+     "ko": "네, 주로 농경 사회죠."
+    },
+    {
+     "t": 207.7,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 208.4,
+     "s": "M",
+     "es": "En ese entonces, la fatiga extrema provenía de trabajar la tierra bajo un sol abrasador, labrando el campo 14 horas diarias.",
+     "ko": "그때 극심한 피로는 뜨거운 햇볕 아래서 하루 14시간씩 밭을 갈며 땅을 일구는 데서 왔어요."
+    },
+    {
+     "t": 215.4,
+     "s": "H",
+     "es": "Claro, el desgaste físico puro.",
+     "ko": "그렇죠, 순수한 육체적 소모요."
+    },
+    {
+     "t": 217.4,
+     "s": "M",
+     "es": "Entonces, ¿cómo es posible que eruditos de esa época supieran algo sobre el letargo causado por no hacer absolutamente nada durante días?",
+     "ko": "그런데 그 시대 학자들이 며칠 동안 아무것도 안 해서 생기는 무기력에 대해 어떻게 알 수 있었을까요?"
+    },
+    {
+     "t": 225.0,
+     "s": "M",
+     "es": "Parece un problema muy nuestro, muy del siglo XXI.",
+     "ko": "완전히 우리 문제, 21세기 문제 같은데요."
+    },
+    {
+     "t": 228.3,
+     "s": "H",
+     "es": "Digo, esa aparente contradicción es justo lo que hace que el texto sea tan valioso hoy.",
+     "ko": "그 겉보기 모순이야말로 이 책이 오늘날 이렇게 가치 있는 이유예요."
+    },
+    {
+     "t": 232.6,
+     "s": "H",
+     "es": "Los médicos que compilaron el Huangdi Neijing eran observadores obsesivos del mundo natural.",
+     "ko": "《황제내경》을 엮은 의사들은 자연 세계를 집요하게 관찰한 사람들이었어요."
+    },
+    {
+     "t": 237.8,
+     "s": "M",
+     "es": "Observaban los flujos de energía.",
+     "ko": "에너지의 흐름을 관찰했죠."
+    },
+    {
+     "t": 239.5,
+     "s": "H",
+     "es": "Sí, en el universo y en el cuerpo.",
+     "ko": "네, 우주와 몸 안에서요."
+    },
+    {
+     "t": 241.8,
+     "s": "H",
+     "es": "Comprendían la fisiología mediante la observación de los opuestos.",
+     "ko": "반대되는 것들을 관찰하면서 생리를 이해했어요."
+    },
+    {
+     "t": 245.0,
+     "s": "H",
+     "es": "Sabían que el exceso de trabajo destruía el cuerpo, pero vieron que la ausencia total de movimiento era igual de destructiva.",
+     "ko": "과로가 몸을 망가뜨린다는 걸 알았지만, 움직임이 전혀 없는 것도 똑같이 해롭다는 걸 봤어요."
+    },
+    {
+     "t": 251.2,
+     "s": "M",
+     "es": "Solo que de manera distinta.",
+     "ko": "방식만 다를 뿐이죠."
+    },
+    {
+     "t": 252.9,
+     "s": "H",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 253.6,
+     "s": "H",
+     "es": "Y destilaron toda esa observación en una advertencia médica muy precisa.",
+     "ko": "그리고 그 모든 관찰을 아주 정확한 의학적 경고 하나로 압축했어요."
+    },
+    {
+     "t": 258.0,
+     "s": "H",
+     "es": "Son solo ocho caracteres.",
+     "ko": "딱 여덟 글자예요."
+    },
+    {
+     "t": 259.5,
+     "s": "H",
+     "es": "Traducido, el principio dice, estar sentado mucho tiempo daña los músculos.",
+     "ko": "번역하면 이런 원리예요. 오래 앉아 있으면 근육이 상한다."
+    },
+    {
+     "t": 264.2,
+     "s": "H",
+     "es": "Estar acostado mucho tiempo daña el qi.",
+     "ko": "오래 누워 있으면 기(qi)가 상한다."
+    }
+   ]
+  },
+  {
+   "title": "Estar sentado mucho tiempo daña los músculos",
+   "lines": [
+    {
+     "t": 267.0,
+     "s": "M",
+     "es": "Estar sentado mucho tiempo daña los músculos.",
+     "ko": "오래 앉아 있으면 근육이 상한다."
+    },
+    {
+     "t": 270.3,
+     "s": "M",
+     "es": "A ver, analicemos esa primera mitad.",
+     "ko": "자, 그 앞부분을 분석해 봐요."
+    },
+    {
+     "t": 272.4,
+     "s": "M",
+     "es": "Porque para la inmensa mayoría de las personas que trabajan en oficinas hoy en día, esta es la realidad ineludible mucho antes de que llegue el sábado.",
+     "ko": "요즘 사무실에서 일하는 대다수 사람들에게는 이게 토요일이 오기 훨씬 전부터 피할 수 없는 현실이니까요."
+    },
+    {
+     "t": 280.4,
+     "s": "H",
+     "es": "Fíjate, pasar 8, 10 o incluso 12 horas al día frente a un monitor no es un estado neutral para la anatomía.",
+     "ko": "보세요, 하루 8시간, 10시간, 심지어 12시간을 모니터 앞에서 보내는 건 몸에 중립적인 상태가 아니에요."
+    },
+    {
+     "t": 286.8,
+     "s": "H",
+     "es": "La biología detrás de estar sentado es reveladora cuando entendemos algo básico de los músculos.",
+     "ko": "근육에 대한 기본적인 걸 이해하면 앉아 있는 것의 생물학이 확 드러나요."
+    },
+    {
+     "t": 291.1,
+     "s": "M",
+     "es": "Que no son solo soporte.",
+     "ko": "근육이 그냥 지지대가 아니라는 거죠."
+    },
+    {
+     "t": 292.4,
+     "s": "H",
+     "es": "Ajá.",
+     "ko": "아하."
+    },
+    {
+     "t": 293.0,
+     "s": "H",
+     "es": "Los músculos esqueléticos no son simplemente tejido estructural o poleas para levantar peso.",
+     "ko": "골격근은 단순한 구조 조직이나 무게를 드는 도르래가 아니에요."
+    },
+    {
+     "t": 297.8,
+     "s": "H",
+     "es": "Funcionan como verdaderas bombas periféricas en el cuerpo.",
+     "ko": "몸속에서 진짜 말초 펌프 역할을 해요."
+    },
+    {
+     "t": 300.6,
+     "s": "M",
+     "es": "O sea que su contracción no solo genera movimiento, sino que impulsa fluidos vitales.",
+     "ko": "그러니까 근육이 수축하면 움직임만 생기는 게 아니라 생명에 필요한 체액도 밀어 보낸다는 거네요."
+    },
+    {
+     "t": 305.4,
+     "s": "H",
+     "es": "Esa es la clave.",
+     "ko": "그게 핵심이에요."
+    },
+    {
+     "t": 306.5,
+     "s": "H",
+     "es": "El movimiento constante y sutil, levantarse, caminar, ajustar la postura, es lo que exprime los vasos sanguíneos que atraviesan las fibras musculares.",
+     "ko": "일어나고, 걷고, 자세를 바꾸는 꾸준하고 미세한 움직임이 근섬유를 지나는 혈관을 짜 주는 거예요."
+    },
+    {
+     "t": 314.0,
+     "s": "M",
+     "es": "Ah, entiendo.",
+     "ko": "아, 알겠어요."
+    },
+    {
+     "t": 315.3,
+     "s": "H",
+     "es": "Esa acción de bombeo es indispensable para llevar sangre rica en oxígeno y nutrientes hacia los propios tejidos.",
+     "ko": "그 펌프질이 산소와 영양이 풍부한 피를 조직으로 보내는 데 꼭 필요해요."
+    },
+    {
+     "t": 321.2,
+     "s": "H",
+     "es": "Al mantener una postura estática durante horas, la circulación periférica se desploma.",
+     "ko": "몇 시간씩 같은 자세로 있으면 말초 순환이 뚝 떨어져요."
+    },
+    {
+     "t": 325.3,
+     "s": "M",
+     "es": "Pierde esa asistencia de la bomba muscular.",
+     "ko": "근육 펌프의 도움을 잃는 거죠."
+    },
+    {
+     "t": 327.8,
+     "s": "H",
+     "es": "Totalmente.",
+     "ko": "완전히요."
+    },
+    {
+     "t": 328.8,
+     "s": "H",
+     "es": "Y el flujo de sangre se reduce casi a un goteo perezoso.",
+     "ko": "그리고 피의 흐름은 거의 게으른 물방울 수준으로 줄어들어요."
+    },
+    {
+     "t": 331.9,
+     "s": "M",
+     "es": "Al escuchar esto, la imagen que viene a la mente es francamente aterradora.",
+     "ko": "이걸 듣고 떠오르는 그림은 솔직히 무섭네요."
+    },
+    {
+     "t": 336.0,
+     "s": "M",
+     "es": "Básicamente, al sentarnos perfectamente quietos, con la postura ideal en nuestra silla ergonómica carísima, estamos asfixiándonos.",
+     "ko": "결국 비싼 인체공학 의자에 완벽한 자세로 가만히 앉아 있으면 우리는 숨이 막히고 있는 거예요."
+    },
+    {
+     "t": 343.7,
+     "s": "H",
+     "es": "Sí, literalmente.",
+     "ko": "네, 말 그대로요."
+    },
+    {
+     "t": 344.8,
+     "s": "M",
+     "es": "Estamos cortando la cadena de suministro de oxígeno y nutrientes hacia nuestras propias piernas y la espalda.",
+     "ko": "우리 다리와 등으로 가는 산소와 영양의 공급망을 끊고 있는 거죠."
+    },
+    {
+     "t": 350.5,
+     "s": "H",
+     "es": "Es un autoengaño.",
+     "ko": "자기기만이에요."
+    },
+    {
+     "t": 351.9,
+     "s": "H",
+     "es": "Nos decimos, bueno, no estoy descargando camiones, así que estoy protegiendo a mi cuerpo.",
+     "ko": "'트럭에서 짐을 내리는 것도 아니니 몸을 아끼고 있는 거야'라고 스스로 말하죠."
+    },
+    {
+     "t": 355.7,
+     "s": "M",
+     "es": "Cuando, en la realidad fisiológica, estamos matando a nuestros propios tejidos de hambre.",
+     "ko": "생리학적 현실에서는 우리 조직을 굶겨 죽이고 있는데 말이에요."
+    },
+    {
+     "t": 361.1,
+     "s": "M",
+     "es": "Esa asfixia silenciosa es lo que provoca la degradación.",
+     "ko": "그 조용한 질식이 퇴화를 일으키는 거예요."
+    },
+    {
+     "t": 363.9,
+     "s": "H",
+     "es": "Qué locura.",
+     "ko": "말도 안 돼요."
+    },
+    {
+     "t": 364.8,
+     "s": "H",
+     "es": "Una inanición prolongada a nivel celular significa que los músculos pierden temporalmente su elasticidad.",
+     "ko": "세포 수준에서 오래 굶주리면 근육이 일시적으로 탄력을 잃어요."
+    },
+    {
+     "t": 371.3,
+     "s": "H",
+     "es": "Pierden su integridad estructural.",
+     "ko": "구조적 완전성을 잃는 거죠."
+    },
+    {
+     "t": 373.0,
+     "s": "M",
+     "es": "O sea, ya no pueden soportar el cuerpo eficientemente.",
+     "ko": "그러니까 더는 몸을 효율적으로 받치지 못한다는 거네요."
+    },
+    {
+     "t": 375.7,
+     "s": "H",
+     "es": "Y además, los productos metabólicos se acumulan porque no hay suficiente presión sanguínea para barrerlos.",
+     "ko": "게다가 대사 산물이 쌓여요. 그걸 쓸어 낼 혈압이 충분하지 않으니까요."
+    },
+    {
+     "t": 380.9,
+     "s": "H",
+     "es": "Esa es la razón mecánica exacta por la cual, a las 5 de la tarde, las piernas se sienten densas.",
+     "ko": "그게 바로 오후 5시에 다리가 묵직하게 느껴지는 정확한 기계적 이유예요."
+    },
+    {
+     "t": 385.9,
+     "s": "M",
+     "es": "Como bloques de concreto.",
+     "ko": "콘크리트 덩어리처럼요."
+    },
+    {
+     "t": 387.3,
+     "s": "H",
+     "es": "Y los hombros parecen arder.",
+     "ko": "그리고 어깨가 화끈거리는 것 같고요."
+    },
+    {
+     "t": 389.3,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 389.9,
+     "s": "H",
+     "es": "El cuerpo no está experimentando un agotamiento por exceso de trabajo físico.",
+     "ko": "몸은 육체적 과로로 지친 게 아니에요."
+    },
+    {
+     "t": 393.6,
+     "s": "H",
+     "es": "Está sufriendo un deterioro agudo por negligencia.",
+     "ko": "방치 때문에 급격히 나빠지고 있는 거예요."
+    },
+    {
+     "t": 396.6,
+     "s": "M",
+     "es": "Lo cual explica magistralmente el colapso diario de lunes a viernes.",
+     "ko": "월요일부터 금요일까지 매일 무너지는 이유를 기가 막히게 설명하네요."
+    }
+   ]
+  },
+  {
+   "title": "Estar acostado mucho tiempo daña el qi — 기(qi)란?",
+   "lines": [
+    {
+     "t": 400.5,
+     "s": "M",
+     "es": "Pero eso nos obliga a mirar la segunda parte de la advertencia antigua.",
+     "ko": "그런데 그러면 옛 경고의 뒷부분도 봐야겠어요."
+    },
+    {
+     "t": 404.6,
+     "s": "M",
+     "es": "Porque el escenario del fin de semana es completamente diferente.",
+     "ko": "주말 상황은 완전히 다르니까요."
+    },
+    {
+     "t": 407.4,
+     "s": "H",
+     "es": "Sí, cambia por completo.",
+     "ko": "네, 완전히 달라요."
+    },
+    {
+     "t": 408.7,
+     "s": "M",
+     "es": "Cuando alguien se entrega a un maratón de series durante 48 horas, no está comprimiendo la columna en una silla.",
+     "ko": "48시간 드라마 정주행에 빠진 사람은 의자에 앉아 척추를 누르고 있는 게 아니에요."
+    },
+    {
+     "t": 414.7,
+     "s": "M",
+     "es": "Está en un estado de reposo horizontal total, amortiguado por un colchón.",
+     "ko": "매트리스가 받쳐 주는, 완전히 수평으로 쉬는 상태죠."
+    },
+    {
+     "t": 418.7,
+     "s": "H",
+     "es": "Un escenario de comodidad extrema.",
+     "ko": "극도로 편안한 상황이요."
+    },
+    {
+     "t": 420.9,
+     "s": "M",
+     "es": "Así que si estar sentado asfixia a la musculatura, ¿por qué estar recostado y completamente apoyado todo el fin de semana genera esa niebla mental profunda?",
+     "ko": "그러니까 앉아 있는 게 근육을 질식시킨다면, 왜 주말 내내 편히 누워 완전히 받쳐진 채로 있는 게 그 깊은 머릿속 안개를 만들까요?"
+    },
+    {
+     "t": 429.8,
+     "s": "H",
+     "es": "Lo fascinante aquí es cómo las fuentes analizan esa segunda mitad.",
+     "ko": "여기서 흥미로운 건 자료들이 그 뒷부분을 분석하는 방식이에요."
+    },
+    {
+     "t": 433.8,
+     "s": "H",
+     "es": "Estar acostado mucho tiempo daña el qi.",
+     "ko": "오래 누워 있으면 기가 상한다."
+    },
+    {
+     "t": 436.2,
+     "s": "H",
+     "es": "Y es imperativo detenernos en este concepto, porque en Occidente el qi suele verse como algo místico.",
+     "ko": "그리고 이 개념에서 꼭 멈춰 봐야 해요. 서양에서는 기를 신비한 것으로 보는 경우가 많거든요."
+    },
+    {
+     "t": 442.1,
+     "s": "M",
+     "es": "Como un aura intangible.",
+     "ko": "눈에 보이지 않는 오라처럼요."
+    },
+    {
+     "t": 443.9,
+     "s": "H",
+     "es": "Ajá, pero en la medicina tradicional seria, el qi no es magia.",
+     "ko": "그렇죠, 그런데 제대로 된 전통 의학에서 기는 마법이 아니에요."
+    },
+    {
+     "t": 447.0,
+     "s": "H",
+     "es": "Es el motor metabólico del cuerpo.",
+     "ko": "몸의 신진대사 엔진이에요."
+    },
+    {
+     "t": 449.3,
+     "s": "H",
+     "es": "Representa la vitalidad, la tasa de respiración celular y esa fuerza motriz interna.",
+     "ko": "활력, 세포 호흡의 속도, 그리고 몸 안의 원동력을 나타내요."
+    },
+    {
+     "t": 454.5,
+     "s": "M",
+     "es": "Es el equivalente a lo que hoy llamaríamos la síntesis de ATP en nuestras células.",
+     "ko": "오늘날로 치면 세포 속 ATP 합성에 해당하는 거죠."
+    },
+    {
+     "t": 459.4,
+     "s": "M",
+     "es": "La energía biológica que nos mantiene alerta.",
+     "ko": "우리를 깨어 있게 해 주는 생물학적 에너지요."
+    },
+    {
+     "t": 462.3,
+     "s": "H",
+     "es": "100%.",
+     "ko": "100% 맞아요."
+    }
+   ]
+  },
+  {
+   "title": "El agua que fluye no se pudre — 고인 물과 림프계",
+   "lines": [
+    {
+     "t": 462.9,
+     "s": "H",
+     "es": "Y para explicar por qué recostarse deprime este motor, los antiguos eruditos utilizaron una analogía preciosa de la naturaleza.",
+     "ko": "그리고 왜 누워 있으면 이 엔진이 가라앉는지 설명하려고 옛 학자들은 자연에서 아름다운 비유를 가져왔어요."
+    },
+    {
+     "t": 469.9,
+     "s": "H",
+     "es": "Dijeron, el agua que fluye no se pudre.",
+     "ko": "이렇게 말했죠. 흐르는 물은 썩지 않는다."
+    },
+    {
+     "t": 473.0,
+     "s": "M",
+     "es": "Claro.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 473.8,
+     "s": "M",
+     "es": "Imagina un arroyo de montaña.",
+     "ko": "산골짜기 시냇물을 상상해 보세요."
+    },
+    {
+     "t": 475.3,
+     "s": "H",
+     "es": "El agua es pura, cristalina y está llena de vida.",
+     "ko": "물은 맑고 투명하고 생명으로 가득해요."
+    },
+    {
+     "t": 478.1,
+     "s": "H",
+     "es": "Y eso es gracias a su constante colisión contra las rocas.",
+     "ko": "그건 바위에 끊임없이 부딪히기 때문이에요."
+    },
+    {
+     "t": 481.2,
+     "s": "H",
+     "es": "El movimiento perpetuo evita bacterias dañinas.",
+     "ko": "끝없는 움직임이 해로운 세균을 막아요."
+    },
+    {
+     "t": 483.4,
+     "s": "M",
+     "es": "La turbulencia es su sistema de purificación.",
+     "ko": "그 소용돌이가 정화 시스템인 거죠."
+    },
+    {
+     "t": 487.0,
+     "s": "H",
+     "es": "Pero si observas un charco de agua estancada en una zanja sin salida, sin movimiento, el ecosistema cambia drásticamente.",
+     "ko": "그런데 출구 없는 도랑에 고인 웅덩이를 보면, 움직임이 없으니 생태계가 확 달라져요."
+    },
+    {
+     "t": 494.5,
+     "s": "H",
+     "es": "El agua pierde oxígeno, se vuelve turbia y se convierte en un pantano sin vida.",
+     "ko": "물은 산소를 잃고, 탁해지고, 생명 없는 늪이 돼요."
+    },
+    {
+     "t": 499.6,
+     "s": "H",
+     "es": "Un caldo de cultivo para mosquitos.",
+     "ko": "모기의 온상이죠."
+    },
+    {
+     "t": 501.5,
+     "s": "M",
+     "es": "Y al aplicar este concepto a nuestra propia anatomía, resulta impactante.",
+     "ko": "그리고 이 개념을 우리 몸에 적용하면 충격적이에요."
+    },
+    {
+     "t": 506.4,
+     "s": "M",
+     "es": "Al estar acostados de manera pasiva 48 horas, la respiración se vuelve increíblemente superficial.",
+     "ko": "48시간 수동적으로 누워 있으면 호흡이 엄청나게 얕아져요."
+    },
+    {
+     "t": 512.6,
+     "s": "H",
+     "es": "El esfuerzo de los pulmones es mínimo.",
+     "ko": "폐가 하는 일이 거의 없어요."
+    },
+    {
+     "t": 515.4,
+     "s": "H",
+     "es": "El metabolismo general cae a su nivel más bajo.",
+     "ko": "전반적인 신진대사가 가장 낮은 수준으로 떨어져요."
+    },
+    {
+     "t": 517.9,
+     "s": "H",
+     "es": "El cuerpo entero imita las condiciones de esa zanja estancada.",
+     "ko": "몸 전체가 그 고인 도랑의 조건을 흉내 내는 거예요."
+    },
+    {
+     "t": 521.1,
+     "s": "M",
+     "es": "¿Sabes?",
+     "ko": "있잖아요."
+    },
+    {
+     "t": 521.7,
+     "s": "M",
+     "es": "Esta analogía del pantano encaja de una forma casi escandalosa con nuestro entendimiento moderno del sistema linfático humano.",
+     "ko": "이 늪 비유는 인간의 림프계에 대한 현대적 이해와 놀라울 만큼 딱 들어맞아요."
+    },
+    {
+     "t": 528.7,
+     "s": "M",
+     "es": "Es algo que me entusiasma mucho de estas fuentes.",
+     "ko": "제가 이 자료에서 정말 흥분되는 부분이에요."
+    },
+    {
+     "t": 530.8,
+     "s": "H",
+     "es": "Sí, la conexión es brillante.",
+     "ko": "네, 그 연결이 정말 훌륭해요."
+    },
+    {
+     "t": 532.7,
+     "s": "M",
+     "es": "A menudo olvidamos que, a diferencia del sistema circulatorio, que tiene el corazón funcionando como una bomba potentísima e incansable, el sistema linfático no tiene bomba central.",
+     "ko": "우리는 자주 잊는데, 강력하고 지치지 않는 펌프인 심장이 있는 순환계와 달리 림프계에는 중앙 펌프가 없어요."
+    },
+    {
+     "t": 542.4,
+     "s": "H",
+     "es": "Carece de motor.",
+     "ko": "엔진이 없는 거죠."
+    },
+    {
+     "t": 543.4,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 544.1,
+     "s": "M",
+     "es": "El sistema linfático es esencialmente la red de alcantarillado del cuerpo humano.",
+     "ko": "림프계는 본질적으로 인체의 하수도망이에요."
+    },
+    {
+     "t": 548.4,
+     "s": "M",
+     "es": "Es el encargado exclusivo de limpiar toxinas, bacterias y desechos celulares de los tejidos.",
+     "ko": "조직에서 독소, 세균, 세포 노폐물을 치우는 일을 전담하죠."
+    },
+    {
+     "t": 553.6,
+     "s": "H",
+     "es": "Un sistema de filtración crucial.",
+     "ko": "아주 중요한 여과 시스템이에요."
+    },
+    {
+     "t": 555.3,
+     "s": "M",
+     "es": "Pero el mecanismo por el cual este líquido, la linfa, logra moverse por el cuerpo, depende enteramente de la contracción física de los músculos esqueléticos circundantes.",
+     "ko": "그런데 이 액체, 즉 림프가 몸을 도는 방식은 전적으로 주변 골격근의 물리적 수축에 달려 있어요."
+    },
+    {
+     "t": 564.8,
+     "s": "M",
+     "es": "Si no hay movimiento voluntario en todo el fin de semana,",
+     "ko": "주말 내내 스스로 움직이지 않으면,"
+    },
+    {
+     "t": 567.3,
+     "s": "H",
+     "es": "El fluido simplemente detiene su marcha.",
+     "ko": "체액은 그냥 멈춰 버려요."
+    },
+    {
+     "t": 569.8,
+     "s": "M",
+     "es": "Se estanca.",
+     "ko": "고이는 거죠."
+    },
+    {
+     "t": 570.7,
+     "s": "M",
+     "es": "Se permite que los desechos celulares permanezcan en los tejidos.",
+     "ko": "세포 노폐물이 조직에 그대로 남게 돼요."
+    },
+    {
+     "t": 574.0,
+     "s": "M",
+     "es": "Al no movernos, el cuerpo humano se convierte a un nivel microbiológico literal en un pantano biológico.",
+     "ko": "움직이지 않으면 인간의 몸은 말 그대로 미생물 수준에서 생물학적 늪이 돼요."
+    },
+    {
+     "t": 580.4,
+     "s": "H",
+     "es": "Esa es la manifestación física y moderna del qi estancado.",
+     "ko": "그게 바로 고인 기의 현대적이고 물리적인 모습이에요."
+    },
+    {
+     "t": 583.8,
+     "s": "H",
+     "es": "Es el motivo preciso por el que despertar un lunes tras inmovilidad total se siente como despertar enfermo.",
+     "ko": "완전히 꼼짝 안 한 뒤 맞는 월요일 아침이 아픈 채로 깨는 것 같은 정확한 이유죠."
+    },
+    {
+     "t": 589.0,
+     "s": "M",
+     "es": "Hay pesadez en el pecho, rigidez.",
+     "ko": "가슴이 무겁고, 몸이 뻣뻣해요."
+    },
+    {
+     "t": 591.0,
+     "s": "H",
+     "es": "Y esa niebla cerebral que el café no logra disipar.",
+     "ko": "그리고 커피로도 안 걷히는 머릿속 안개요."
+    },
+    {
+     "t": 593.9,
+     "s": "H",
+     "es": "Porque el cerebro literalmente está nadando en fluidos que no han sido drenados adecuadamente.",
+     "ko": "뇌가 말 그대로 제대로 배출되지 않은 체액 속에서 헤엄치고 있으니까요."
+    },
+    {
+     "t": 597.9,
+     "s": "M",
+     "es": "El veredicto es demoledor.",
+     "ko": "판결은 냉혹하네요."
+    },
+    {
+     "t": 600.0,
+     "s": "M",
+     "es": "O sea, si estar sentado asfixia los músculos y quedarse recostado todo el fin de semana estanca el sistema linfático y pudre nuestro motor metabólico,",
+     "ko": "그러니까 앉아 있으면 근육이 질식하고, 주말 내내 누워 있으면 림프계가 고이고 신진대사 엔진이 썩는다면,"
+    },
+    {
+     "t": 608.5,
+     "s": "H",
+     "es": "La creencia de que la quietud extrema equivale a un descanso óptimo es una completa falacia.",
+     "ko": "극단적으로 가만히 있는 게 최선의 휴식이라는 믿음은 완전한 오류예요."
+    }
+   ]
+  },
+  {
+   "title": "休 = persona + árbol · 仙 = persona + montaña",
+   "lines": [
+    {
+     "t": 615.1,
+     "s": "H",
+     "es": "Tenemos que redefinir cómo se ve realmente el descanso.",
+     "ko": "휴식이 실제로 어떤 모습인지 다시 정의해야 해요."
+    },
+    {
+     "t": 618.2,
+     "s": "M",
+     "es": "Y aquí es donde se pone realmente interesante.",
+     "ko": "그리고 여기서부터 정말 흥미로워져요."
+    },
+    {
+     "t": 621.3,
+     "s": "M",
+     "es": "Porque las fuentes que estamos analizando nos dan unos planos visuales increíbles preservados en la estructura de los antiguos caracteres chinos.",
+     "ko": "우리가 분석하는 자료들이 옛 한자의 구조 속에 보존된 놀라운 시각적 설계도를 보여 주거든요."
+    },
+    {
+     "t": 629.5,
+     "s": "H",
+     "es": "Sí, la sabiduría lingüística es asombrosa.",
+     "ko": "네, 언어 속 지혜가 놀라워요."
+    },
+    {
+     "t": 632.1,
+     "s": "M",
+     "es": "Si analizamos el carácter para la palabra descanso, que se pronuncia xiu, vemos que está compuesto por dos elementos visuales.",
+     "ko": "'휴식'이라는 뜻의 글자를 보면, 발음은 '시우(xiū)'인데, 두 가지 시각 요소로 이루어져 있어요."
+    },
+    {
+     "t": 641.0,
+     "s": "M",
+     "es": "A la izquierda una persona y a la derecha un árbol.",
+     "ko": "왼쪽엔 사람, 오른쪽엔 나무."
+    },
+    {
+     "t": 644.5,
+     "s": "H",
+     "es": "La persona más el árbol.",
+     "ko": "사람 더하기 나무."
+    },
+    {
+     "t": 646.2,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 647.0,
+     "s": "H",
+     "es": "Hace miles de años el símbolo máximo de recuperación no era alguien encerrado en un cuarto oscuro.",
+     "ko": "수천 년 전, 회복의 최고 상징은 어두운 방에 틀어박힌 사람이 아니었어요."
+    },
+    {
+     "t": 651.9,
+     "s": "H",
+     "es": "Era una persona apoyada contra un árbol vivo.",
+     "ko": "살아 있는 나무에 기댄 사람이었죠."
+    },
+    {
+     "t": 655.2,
+     "s": "M",
+     "es": "Sintiendo la corteza, el viento, escuchando la naturaleza.",
+     "ko": "나무껍질과 바람을 느끼고, 자연의 소리를 들으면서요."
+    },
+    {
+     "t": 659.8,
+     "s": "M",
+     "es": "El descanso verdadero es una conexión activa, no un aislamiento pasivo en una habitación silenciosa.",
+     "ko": "진짜 휴식은 능동적인 연결이지, 조용한 방에서의 수동적인 고립이 아니에요."
+    },
+    {
+     "t": 666.7,
+     "s": "H",
+     "es": "Y el espectro se amplía con otro carácter, el de inmortal o ser de vitalidad suprema.",
+     "ko": "그리고 또 다른 글자로 범위가 넓어져요. 신선, 즉 최고의 활력을 지닌 존재를 뜻하는 글자예요."
+    },
+    {
+     "t": 671.6,
+     "s": "H",
+     "es": "Se pronuncia xian.",
+     "ko": "발음은 '시엔(xiān)'이에요."
+    },
+    {
+     "t": 673.6,
+     "s": "H",
+     "es": "Mantiene la persona a la izquierda, pero a la derecha pone una montaña.",
+     "ko": "왼쪽엔 여전히 사람이 있는데, 오른쪽엔 산을 놓아요."
+    },
+    {
+     "t": 677.2,
+     "s": "M",
+     "es": "Persona más montaña.",
+     "ko": "사람 더하기 산."
+    },
+    {
+     "t": 678.5,
+     "s": "M",
+     "es": "Ir a la naturaleza para forzar la salida del qi estancado y alcanzar una vitalidad suprema.",
+     "ko": "자연으로 들어가 고인 기를 몰아내고 최고의 활력에 이르는 거죠."
+    },
+    {
+     "t": 684.8,
+     "s": "H",
+     "es": "Si conectamos esto con el panorama general de la ciencia, vemos que estudios demuestran que pasar solo 20 minutos caminando en un bosque o un parque reduce drásticamente el cortisol.",
+     "ko": "이걸 과학의 큰 그림과 연결하면, 숲이나 공원에서 20분만 걸어도 코르티솔이 크게 줄어든다는 연구들이 있어요."
+    },
+    {
+     "t": 695.0,
+     "s": "M",
+     "es": "La hormona del estrés.",
+     "ko": "스트레스 호르몬이요."
+    },
+    {
+     "t": 696.1,
+     "s": "H",
+     "es": "Sí.",
+     "ko": "네."
+    },
+    {
+     "t": 696.6,
+     "s": "H",
+     "es": "Estabiliza la presión arterial y activa el sistema nervioso parasimpático.",
+     "ko": "혈압을 안정시키고 부교감 신경계를 활성화해요."
+    },
+    {
+     "t": 701.0,
+     "s": "H",
+     "es": "El esfuerzo cardiovascular de subir la montaña, por ejemplo, empuja todo ese pantano linfático hacia fuera.",
+     "ko": "예를 들어 산을 오르는 심혈관의 노력이 그 림프의 늪을 몸 밖으로 밀어내요."
+    }
+   ]
+  },
+  {
+   "title": "도시에서는? — 자동차 비유와 '우리는 식물이다'",
+   "lines": [
+    {
+     "t": 706.4,
+     "s": "M",
+     "es": "Todo esto suena hermoso, pacífico y médicamente fascinante, pero plantea un desafío realista.",
+     "ko": "다 아름답고 평화롭고 의학적으로도 흥미롭지만, 현실적인 과제가 생기네요."
+    },
+    {
+     "t": 714.1,
+     "s": "H",
+     "es": "Claro, la aplicación en el mundo de hoy.",
+     "ko": "그렇죠, 오늘날 세상에 적용하는 거요."
+    },
+    {
+     "t": 715.7,
+     "s": "M",
+     "es": "O sea, ¿qué pasa con quienes viven en una jungla de asfalto?",
+     "ko": "그러니까 아스팔트 정글에 사는 사람들은요?"
+    },
+    {
+     "t": 718.9,
+     "s": "M",
+     "es": "Gente que viaja en metros abarrotados y no puede abandonar sus responsabilidades para escalar montañas mágicas cada sábado.",
+     "ko": "꽉 찬 지하철로 다니고, 책임을 내려놓고 매주 토요일 신비한 산을 오를 수 없는 사람들이요."
+    },
+    {
+     "t": 725.9,
+     "s": "M",
+     "es": "¿Cómo se aplica esto en la ciudad moderna?",
+     "ko": "현대 도시에서는 이걸 어떻게 적용하죠?"
+    },
+    {
+     "t": 728.1,
+     "s": "H",
+     "es": "Y esa es la gran pregunta.",
+     "ko": "그게 바로 핵심 질문이에요."
+    },
+    {
+     "t": 729.7,
+     "s": "H",
+     "es": "La respuesta a la vida en la ciudad no es necesariamente el escape geográfico constante, sino un cambio radical en cómo conceptualizamos nuestra biología.",
+     "ko": "도시 생활에 대한 답은 꼭 계속 지리적으로 도망치는 게 아니라, 우리 생물학을 바라보는 방식을 근본적으로 바꾸는 거예요."
+    },
+    {
+     "t": 739.1,
+     "s": "M",
+     "es": "Tenemos que dejar atrás la idea del teléfono inteligente.",
+     "ko": "스마트폰이라는 생각을 버려야 해요."
+    },
+    {
+     "t": 742.4,
+     "s": "H",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 743.1,
+     "s": "H",
+     "es": "Para ilustrar esto, la fuente usa la analogía del automóvil.",
+     "ko": "이걸 설명하려고 자료에서는 자동차 비유를 써요."
+    },
+    {
+     "t": 746.8,
+     "s": "H",
+     "es": "Si dejas un coche aparcado en un garaje durante seis semanas para, entre comillas, protegerlo, la batería se muere.",
+     "ko": "차를 '보호한다'며 차고에 6주 동안 세워 두면 배터리가 죽어요."
+    },
+    {
+     "t": 753.6,
+     "s": "M",
+     "es": "Se descarga por completo.",
+     "ko": "완전히 방전되죠."
+    },
+    {
+     "t": 755.4,
+     "s": "H",
+     "es": "Porque el alternador necesita que el motor funcione y el vehículo se mueva para generar carga eléctrica.",
+     "ko": "발전기가 전기를 만들려면 엔진이 돌고 차가 움직여야 하니까요."
+    },
+    {
+     "t": 760.9,
+     "s": "H",
+     "es": "El movimiento crea la energía.",
+     "ko": "움직임이 에너지를 만드는 거예요."
+    },
+    {
+     "t": 763.1,
+     "s": "M",
+     "es": "Entonces, ¿qué significa todo esto?",
+     "ko": "그럼 이 모든 게 무슨 뜻일까요?"
+    },
+    {
+     "t": 765.4,
+     "s": "M",
+     "es": "El concepto más importante de las fuentes es este.",
+     "ko": "자료에서 가장 중요한 개념은 이거예요."
+    },
+    {
+     "t": 768.2,
+     "s": "M",
+     "es": "Debemos darnos cuenta de que biológicamente somos como plantas.",
+     "ko": "우리는 생물학적으로 식물과 같다는 걸 깨달아야 해요."
+    },
+    {
+     "t": 771.9,
+     "s": "H",
+     "es": "Somos sistemas vivos y activos.",
+     "ko": "살아 있고 능동적인 시스템이죠."
+    },
+    {
+     "t": 774.2,
+     "s": "M",
+     "es": "Si encierras una planta marchita en una caja oscura y silenciosa con clima controlado, no va a descansar, se va a marchitar y morir.",
+     "ko": "시든 식물을 온도가 조절되는 어둡고 조용한 상자에 가두면 쉬는 게 아니라 시들어 죽어요."
+    },
+    {
+     "t": 782.2,
+     "s": "M",
+     "es": "No necesita ser apagada.",
+     "ko": "꺼질 필요가 없는 거예요."
+    },
+    {
+     "t": 784.2,
+     "s": "H",
+     "es": "Porque la fotosíntesis es un proceso activo.",
+     "ko": "광합성은 능동적인 과정이니까요."
+    },
+    {
+     "t": 787.4,
+     "s": "M",
+     "es": "Necesita luz solar, aire fresco y elementos brutos para fabricar internamente su propia energía.",
+     "ko": "자기 에너지를 몸 안에서 만들려면 햇빛, 신선한 공기, 날것의 자연 요소가 필요해요."
+    }
+   ]
+  },
+  {
+   "title": "실천법 — 45~60분마다 일어나기, 주말엔 나무 찾기",
+   "lines": [
+    {
+     "t": 793.5,
+     "s": "H",
+     "es": "Y en base a eso, las fuentes desglosan soluciones muy prácticas.",
+     "ko": "그리고 이를 바탕으로 자료들은 아주 실용적인 해결책을 하나하나 제시해요."
+    },
+    {
+     "t": 797.3,
+     "s": "H",
+     "es": "Para la jornada laboral, que es el problema muscular, recomiendan poner una alarma cada 45 o 60 minutos.",
+     "ko": "근무 시간, 즉 근육 문제에는 45~60분마다 알람을 맞추라고 권해요."
+    },
+    {
+     "t": 803.5,
+     "s": "M",
+     "es": "Es una interrupción mecánica.",
+     "ko": "기계적인 중단이죠."
+    },
+    {
+     "t": 805.1,
+     "s": "M",
+     "es": "Ajá.",
+     "ko": "아하."
+    },
+    {
+     "t": 805.5,
+     "s": "H",
+     "es": "Levantarse por cinco minutos.",
+     "ko": "5분 동안 일어나는 거예요."
+    },
+    {
+     "t": 806.8,
+     "s": "H",
+     "es": "Ir por agua, estirarse.",
+     "ko": "물 가지러 가고, 스트레칭하고요."
+    },
+    {
+     "t": 808.7,
+     "s": "H",
+     "es": "No se trata de hacer flexiones extremas sudando en la oficina, sino de reiniciar manualmente la bomba muscular.",
+     "ko": "사무실에서 땀 흘리며 팔굽혀펴기를 하라는 게 아니라, 근육 펌프를 손으로 다시 켜 주는 거예요."
+    },
+    {
+     "t": 814.9,
+     "s": "M",
+     "es": "Hacer que el arroyo siga fluyendo para evitar la asfixia de los tejidos.",
+     "ko": "시냇물이 계속 흐르게 해서 조직이 숨 막히지 않게 하는 거죠."
+    },
+    {
+     "t": 818.1,
+     "s": "H",
+     "es": "Y para el fin de semana, que es el problema del qi y el pantano linfático,",
+     "ko": "그리고 주말, 즉 기와 림프의 늪 문제에는,"
+    },
+    {
+     "t": 822.4,
+     "s": "H",
+     "es": "está bien dormir hasta tarde.",
+     "ko": "늦잠은 괜찮아요."
+    },
+    {
+     "t": 823.9,
+     "s": "H",
+     "es": "Recuperar horas de sueño es válido.",
+     "ko": "잠을 보충하는 건 정당해요."
+    },
+    {
+     "t": 825.6,
+     "s": "M",
+     "es": "Pero al despertar, hay que abandonar la mentalidad de la base de carga.",
+     "ko": "그런데 깨어나면 '충전 패드' 사고방식을 버려야 해요."
+    },
+    {
+     "t": 829.5,
+     "s": "H",
+     "es": "Exactamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 830.4,
+     "s": "H",
+     "es": "Dejar el teléfono en la cocina.",
+     "ko": "폰은 부엌에 두고요."
+    },
+    {
+     "t": 832.1,
+     "s": "H",
+     "es": "Salir de casa y buscar un árbol.",
+     "ko": "집을 나서서 나무를 찾는 거예요."
+    },
+    {
+     "t": 834.2,
+     "s": "H",
+     "es": "Incluso si es un pequeño parche de pasto imperfecto en un parque urbano a 10 minutos de distancia.",
+     "ko": "걸어서 10분 거리 도시 공원의 작고 허술한 잔디밭이라도요."
+    },
+    {
+     "t": 839.5,
+     "s": "M",
+     "es": "Pararse bajo el sol y respirar.",
+     "ko": "햇볕 아래 서서 숨을 쉬세요."
+    },
+    {
+     "t": 841.5,
+     "s": "M",
+     "es": "Eso empuja líquido linfático y enciende nuestra fotosíntesis interna.",
+     "ko": "그게 림프액을 밀어 보내고 몸 안의 광합성을 켜 줘요."
+    },
+    {
+     "t": 845.4,
+     "s": "M",
+     "es": "Es un cambio de paradigma espectacular.",
+     "ko": "정말 대단한 패러다임 전환이에요."
+    },
+    {
+     "t": 848.3,
+     "s": "H",
+     "es": "Es regresar a la biología básica para sobrevivir a la vida moderna.",
+     "ko": "현대 생활에서 살아남기 위해 기본 생물학으로 돌아가는 거죠."
+    }
+   ]
+  },
+  {
+   "title": "정리와 마지막 질문",
+   "lines": [
+    {
+     "t": 851.9,
+     "s": "M",
+     "es": "A modo de resumen rápido y elegante, estar sentado mucho tiempo asfixia la oxigenación muscular.",
+     "ko": "빠르고 깔끔하게 정리하면, 오래 앉아 있으면 근육의 산소 공급이 막혀요."
+    },
+    {
+     "t": 857.8,
+     "s": "M",
+     "es": "Y quedarse recostado todo el fin de semana estanca el sistema linfático y pudre nuestro qi.",
+     "ko": "그리고 주말 내내 누워 있으면 림프계가 고이고 기가 썩어요."
+    },
+    {
+     "t": 862.4,
+     "s": "H",
+     "es": "El verdadero descanso requiere movimiento suave y conexión activa con el entorno natural.",
+     "ko": "진짜 휴식에는 부드러운 움직임과 자연환경과의 능동적인 연결이 필요해요."
+    },
+    {
+     "t": 867.6,
+     "s": "H",
+     "es": "Tal como muestran los caracteres antiguos.",
+     "ko": "옛 한자들이 보여 주듯이요."
+    },
+    {
+     "t": 869.7,
+     "s": "H",
+     "es": "Y la valida la ciencia.",
+     "ko": "그리고 과학이 그걸 뒷받침하죠."
+    },
+    {
+     "t": 871.0,
+     "s": "M",
+     "es": "Pero claro, esto plantea una pregunta importante.",
+     "ko": "그런데 물론, 이건 중요한 질문을 던져요."
+    },
+    {
+     "t": 873.5,
+     "s": "H",
+     "es": "Una muy inquietante, diría yo.",
+     "ko": "꽤 불편한 질문이라고 할까요."
+    },
+    {
+     "t": 874.9,
+     "s": "M",
+     "es": "Sí.",
+     "ko": "네."
+    },
+    {
+     "t": 875.6,
+     "s": "M",
+     "es": "Si el verdadero descanso biológico requiere comprometerse con el mundo natural y el movimiento,",
+     "ko": "진짜 생물학적 휴식이 자연과 움직임에 몸을 맡기는 걸 필요로 한다면,"
+    },
+    {
+     "t": 881.1,
+     "s": "M",
+     "es": "¿qué papel juegan realmente nuestras comodidades modernas?",
+     "ko": "우리의 현대적 편리함은 실제로 어떤 역할을 하고 있을까요?"
+    },
+    {
+     "t": 884.2,
+     "s": "H",
+     "es": "Pensemos en los algoritmos.",
+     "ko": "알고리즘을 생각해 봐요."
+    },
+    {
+     "t": 885.7,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 886.3,
+     "s": "M",
+     "es": "Algoritmos diseñados para reproducir videos infinitamente para que no salgamos de la cama.",
+     "ko": "우리가 침대에서 나오지 않도록 영상을 끝없이 틀어 주게 설계된 알고리즘이요."
+    },
+    {
+     "t": 891.5,
+     "s": "M",
+     "es": "O en las aplicaciones de entrega a domicilio que evitan que demos un solo paso al exterior.",
+     "ko": "아니면 밖으로 한 발짝도 안 나가게 해 주는 배달 앱이요."
+    },
+    {
+     "t": 896.3,
+     "s": "H",
+     "es": "Los vemos como comodidades insuperables.",
+     "ko": "우리는 그걸 넘을 수 없는 편리함으로 봐요."
+    },
+    {
+     "t": 899.1,
+     "s": "M",
+     "es": "Las clasificamos como un lujo para no cansarnos.",
+     "ko": "안 지치기 위한 사치라고 분류하죠."
+    },
+    {
+     "t": 901.4,
+     "s": "M",
+     "es": "Pero, ¿podría ser que estas tecnologías sean en realidad sistemas gigantescos que drenan silenciosamente nuestra fuerza vital biológica?",
+     "ko": "그런데 이런 기술들이 사실은 우리의 생물학적 생명력을 조용히 빨아들이는 거대한 시스템일 수도 있지 않을까요?"
+    },
+    {
+     "t": 909.8,
+     "s": "H",
+     "es": "Al obligarnos a esa quietud extrema que nos convierte en un pantano.",
+     "ko": "우리를 늪으로 만드는 극단적인 정지 상태로 몰아넣으면서요."
+    },
+    {
+     "t": 914.8,
+     "s": "M",
+     "es": "Es un concepto fuerte para que quienes nos escuchan reflexionen mientras salen a buscar su árbol este fin de semana.",
+     "ko": "이번 주말 나만의 나무를 찾으러 나가면서 듣고 계신 분들이 곱씹어 볼 만한 강렬한 생각이에요."
+    },
+    {
+     "t": 921.4,
+     "s": "M",
+     "es": "Mantengan su arroyo fluyendo.",
+     "ko": "여러분의 시냇물이 계속 흐르게 하세요."
+    },
+    {
+     "t": 922.9,
+     "s": "H",
+     "es": "Y eviten a toda costa convertirse en un pantano estancado.",
+     "ko": "그리고 무슨 일이 있어도 고인 늪이 되지 마세요."
+    },
+    {
+     "t": 926.4,
+     "s": "M",
+     "es": "Excelente consejo para cerrar este análisis profundo.",
+     "ko": "이번 딥다이브를 마무리하기에 딱 좋은 조언이네요."
+    },
+    {
+     "t": 929.2,
+     "s": "M",
+     "es": "Gracias a la audiencia por acompañarnos.",
+     "ko": "함께해 주신 청취자 여러분 고마워요."
+    },
+    {
+     "t": 930.7,
+     "s": "M",
+     "es": "Nos escuchamos en la próxima exploración.",
+     "ko": "다음 탐구에서 또 만나요."
+    }
+   ]
+  }
+ ]
+}

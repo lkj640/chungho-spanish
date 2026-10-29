@@ -1,0 +1,623 @@
+{
+ "lang": "es",
+ "date": "2026-10-29",
+ "title": "누워서 쉬면 왜 더 지칠까? — 스페인어 딥다이브",
+ "es": "El agua que fluye no se pudre",
+ "emoji": "🌿",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "¿Por qué descansar acostado te agota?",
+ "audio": "audio.m4a",
+ "duration": "15:33",
+ "speakers": {
+  "H": "Anfitrión",
+  "M": "Anfitriona"
+ },
+ "hideCast": true,
+ "summary": "같은 주제(10/27 중국어, 10/28 영어·일본어)를 스페인어 딥다이브로 들어요. 48시간 누워 있었는데 월요일에 화물 열차에 치인 듯한 역설을 《황제내경》의 'Estar sentado mucho tiempo daña los músculos; estar acostado mucho tiempo daña el qi'로 풀고, 근육 펌프와 림프계, 'el agua que fluye no se pudre', 休·仙, 자동차와 식물 비유, 실천법까지 이야기해요.",
+ "topics": [
+  "la gran paradoja del fin de semana · la niebla mental",
+  "Estar sentado mucho tiempo daña los músculos · estar acostado mucho tiempo daña el qi",
+  "el agua que fluye no se pudre · el pantano linfático",
+  "休 = persona + árbol · 仙 = persona + montaña",
+  "somos como plantas, no teléfonos",
+  "문법: como si + 접속법 과거 · si + 현재, 미래 · no… sino… · Se trata de…"
+ ],
+ "grammar": [
+  {
+   "title": "① como si + 접속법 과거 — 마치 ~인 것처럼",
+   "lead": "현실이 아닌 비유를 말할 때 써요. 동사는 접속법 과거(hubiera, fuera…).",
+   "examples": [
+    [
+     "Se siente como si hubiera sido atropellado por un tren de carga.",
+     "마치 화물 열차에 치인 것 같은 느낌이에요."
+    ],
+    [
+     "Actuando como si la cama fuera una base de carga inalámbrica.",
+     "침대가 무선 충전 패드인 것처럼 행동하면서요."
+    ]
+   ]
+  },
+  {
+   "title": "② 오늘의 핵심 문장 — estar + 과거분사 + mucho tiempo",
+   "lead": "동사 원형(Estar sentado / Estar acostado)이 주어가 돼요.",
+   "table": {
+    "head": [
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Estar sentado mucho tiempo daña los músculos.",
+      "오래 앉아 있으면 근육이 상한다. (久坐傷肉)"
+     ],
+     [
+      "Estar acostado mucho tiempo daña el qi.",
+      "오래 누워 있으면 기가 상한다. (久臥傷氣)"
+     ],
+     [
+      "El agua que fluye no se pudre.",
+      "흐르는 물은 썩지 않는다. (流水不腐)"
+     ]
+    ]
+   },
+   "tip": "sentado(앉은) · acostado / recostado(누운) · de pie(서 있는)."
+  },
+  {
+   "title": "③ si + 현재형, 미래/현재 — 실제 조건",
+   "lead": "일어날 수 있는 일을 가정해요.",
+   "examples": [
+    [
+     "Si dejas un coche aparcado en un garaje durante seis semanas, la batería se muere.",
+     "차를 차고에 6주 세워 두면 배터리가 죽어요."
+    ],
+    [
+     "Si encierras una planta marchita en una caja oscura, no va a descansar.",
+     "시든 식물을 어두운 상자에 가두면 쉬지 못해요."
+    ]
+   ]
+  },
+  {
+   "title": "④ no… sino… / no solo… sino que… — A가 아니라 B",
+   "lead": "앞을 부정하고 뒤를 강조해요.",
+   "examples": [
+    [
+     "No se trata de hacer flexiones extremas, sino de reiniciar manualmente la bomba muscular.",
+     "극한 팔굽혀펴기가 아니라 근육 펌프를 다시 켜 주는 거예요."
+    ],
+    [
+     "Su contracción no solo genera movimiento, sino que impulsa fluidos vitales.",
+     "수축은 움직임만 만드는 게 아니라 생명에 필요한 체액도 밀어 보내요."
+    ]
+   ],
+   "tip": "se trata de + 동사원형 = ~하는 것이다, ~에 관한 일이다."
+  },
+  {
+   "title": "⑤ 재귀동사로 말하는 몸의 변화",
+   "lead": "se + 동사로 '저절로 ~해지다'를 표현해요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "volverse",
+      "~이 되다",
+      "La respiración se vuelve superficial."
+     ],
+     [
+      "convertirse en",
+      "~으로 변하다",
+      "El agua se convierte en un pantano."
+     ],
+     [
+      "desplomarse",
+      "급락하다",
+      "La circulación se desploma."
+     ],
+     [
+      "estancarse",
+      "고이다",
+      "El fluido se estanca."
+     ],
+     [
+      "marchitarse",
+      "시들다",
+      "Se va a marchitar y morir."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 딥다이브 맞장구 표현",
+   "lead": "대화를 자연스럽게 잇는 짧은 반응이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Exacto. / Exactamente.",
+      "맞아요."
+     ],
+     [
+      "Totalmente.",
+      "완전히요."
+     ],
+     [
+      "Ajá.",
+      "아하."
+     ],
+     [
+      "Claro.",
+      "그렇죠."
+     ],
+     [
+      "Fíjate…",
+      "봐 봐, 있잖아"
+     ],
+     [
+      "O sea…",
+      "그러니까"
+     ],
+     [
+      "Qué locura.",
+      "말도 안 돼요."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ 비교와 강조 — más… que / -ísimo",
+   "lead": "정도를 강하게 말하는 방법이에요.",
+   "examples": [
+    [
+     "un nivel de agotamiento incluso más severo que el del viernes por la tarde",
+     "금요일 오후보다 오히려 더 심한 피로"
+    ],
+    [
+     "Es un material riquísimo.",
+     "아주 풍부한 자료예요. (rico → riquísimo)"
+    ]
+   ],
+   "tip": "potente → potentísimo, caro → carísimo처럼 -ísimo로 '아주'를 붙여요."
+  }
+ ],
+ "phrases": [
+  [
+   "Es la gran paradoja del fin de semana moderno.",
+   "주말의 거대한 역설이에요."
+  ],
+  [
+   "Las piernas pesan toneladas.",
+   "다리가 몇 톤처럼 무거워요."
+  ],
+  [
+   "Estar sentado mucho tiempo daña los músculos.",
+   "오래 앉아 있으면 근육이 상한다."
+  ],
+  [
+   "Estar acostado mucho tiempo daña el qi.",
+   "오래 누워 있으면 기가 상한다."
+  ],
+  [
+   "El agua que fluye no se pudre.",
+   "흐르는 물은 썩지 않는다."
+  ],
+  [
+   "El movimiento crea la energía.",
+   "움직임이 에너지를 만든다."
+  ],
+  [
+   "Debemos darnos cuenta de que biológicamente somos como plantas.",
+   "우리는 생물학적으로 식물 같다는 걸 깨달아야 해요."
+  ],
+  [
+   "Mantengan su arroyo fluyendo.",
+   "여러분의 시냇물이 계속 흐르게 하세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la paradoja",
+   "ko": "역설",
+   "ex": "Es la gran paradoja del fin de semana moderno.",
+   "exKo": "주말의 거대한 역설이에요."
+  },
+  {
+   "es": "atropellado por un tren de carga",
+   "ko": "화물 열차에 치인 듯한",
+   "ex": "Se siente como si hubiera sido atropellado por un tren de carga.",
+   "exKo": "화물 열차에 치인 것 같은 느낌이에요."
+  },
+  {
+   "es": "la niebla mental",
+   "ko": "머릿속 안개, 멍함",
+   "ex": "Hay una niebla mental densa.",
+   "exKo": "머릿속에 짙은 안개가 껴요."
+  },
+  {
+   "es": "pesar toneladas",
+   "ko": "몇 톤처럼 무겁다",
+   "ex": "Las piernas pesan toneladas.",
+   "exKo": "다리가 몇 톤처럼 무거워요."
+  },
+  {
+   "es": "el agotamiento",
+   "ko": "극도의 피로",
+   "ex": "un nivel de agotamiento al amanecer el lunes",
+   "exKo": "월요일 새벽의 극심한 피로"
+  },
+  {
+   "es": "conformarse con",
+   "ko": "~로 만족하다, 넘기다",
+   "ex": "Nos conformamos con esa excusa.",
+   "exKo": "그런 핑계로 넘겨 버려요."
+  },
+  {
+   "es": "sumamente",
+   "ko": "극도로, 매우",
+   "ex": "una experiencia sumamente frustrante",
+   "exKo": "몹시 답답한 경험"
+  },
+  {
+   "es": "desmitificar",
+   "ko": "신화를 깨다, 오해를 바로잡다",
+   "ex": "desmitificar esa idea tan arraigada",
+   "exKo": "그 뿌리 깊은 생각을 깨다"
+  },
+  {
+   "es": "arraigado",
+   "ko": "뿌리 깊은",
+   "ex": "esa idea tan arraigada",
+   "exKo": "그렇게 뿌리 깊은 생각"
+  },
+  {
+   "es": "desempacar",
+   "ko": "(짐을) 풀다 → 하나씩 풀어 보다",
+   "ex": "Bueno, vamos a desempacar esto de una vez.",
+   "exKo": "좋아요, 바로 하나씩 풀어 봐요."
+  },
+  {
+   "es": "por inercia",
+   "ko": "관성적으로, 습관적으로",
+   "ex": "asumimos, casi por inercia, que…",
+   "exKo": "거의 관성적으로 ~라고 여겨요"
+  },
+  {
+   "es": "la base de carga inalámbrica",
+   "ko": "무선 충전 패드",
+   "ex": "como si la cama fuera una base de carga inalámbrica",
+   "exKo": "침대가 무선 충전 패드인 것처럼"
+  },
+  {
+   "es": "deslizar el dedo",
+   "ko": "손가락으로 (화면을) 넘기다",
+   "ex": "deslizar el dedo por una pantalla",
+   "exKo": "화면을 손가락으로 넘기다"
+  },
+  {
+   "es": "venerado",
+   "ko": "존경받는",
+   "ex": "un tratado médico chino profundamente venerado",
+   "exKo": "깊이 존경받는 중국 의학서"
+  },
+  {
+   "es": "agrario",
+   "ko": "농경의",
+   "ex": "una sociedad predominantemente agraria",
+   "exKo": "주로 농경 사회"
+  },
+  {
+   "es": "abrasador",
+   "ko": "타는 듯이 뜨거운",
+   "ex": "bajo un sol abrasador",
+   "exKo": "뜨거운 햇볕 아래서"
+  },
+  {
+   "es": "el letargo",
+   "ko": "무기력, 나른함",
+   "ex": "el letargo causado por no hacer nada",
+   "exKo": "아무것도 안 해서 생기는 무기력"
+  },
+  {
+   "es": "dañar",
+   "ko": "해치다, 손상시키다",
+   "ex": "Estar sentado mucho tiempo daña los músculos.",
+   "exKo": "오래 앉아 있으면 근육이 상한다."
+  },
+  {
+   "es": "ineludible",
+   "ko": "피할 수 없는",
+   "ex": "la realidad ineludible",
+   "exKo": "피할 수 없는 현실"
+  },
+  {
+   "es": "los músculos esqueléticos",
+   "ko": "골격근",
+   "ex": "Los músculos esqueléticos funcionan como bombas.",
+   "exKo": "골격근은 펌프처럼 작동해요."
+  },
+  {
+   "es": "desplomarse",
+   "ko": "무너지다, 급락하다",
+   "ex": "la circulación periférica se desploma",
+   "exKo": "말초 순환이 뚝 떨어져요"
+  },
+  {
+   "es": "un goteo perezoso",
+   "ko": "느릿느릿한 물방울",
+   "ex": "El flujo de sangre se reduce casi a un goteo perezoso.",
+   "exKo": "피의 흐름이 거의 느릿느릿한 물방울 수준이 돼요."
+  },
+  {
+   "es": "asfixiarse",
+   "ko": "질식하다",
+   "ex": "estamos asfixiándonos",
+   "exKo": "우리는 숨이 막히고 있어요"
+  },
+  {
+   "es": "matar de hambre",
+   "ko": "굶겨 죽이다",
+   "ex": "estamos matando a nuestros propios tejidos de hambre",
+   "exKo": "우리 조직을 굶겨 죽이고 있어요"
+  },
+  {
+   "es": "la negligencia",
+   "ko": "방치, 소홀",
+   "ex": "Está sufriendo un deterioro agudo por negligencia.",
+   "exKo": "방치 때문에 급격히 나빠지고 있어요."
+  },
+  {
+   "es": "un maratón de series",
+   "ko": "드라마 정주행",
+   "ex": "Cuando alguien se entrega a un maratón de series…",
+   "exKo": "누군가 드라마 정주행에 빠지면…"
+  },
+  {
+   "es": "recostado",
+   "ko": "기대어 누운",
+   "ex": "estar recostado todo el fin de semana",
+   "exKo": "주말 내내 누워 있기"
+  },
+  {
+   "es": "el agua que fluye no se pudre",
+   "ko": "흐르는 물은 썩지 않는다",
+   "ex": "Dijeron, el agua que fluye no se pudre.",
+   "exKo": "흐르는 물은 썩지 않는다고 했어요."
+  },
+  {
+   "es": "estancado",
+   "ko": "고여 있는, 정체된",
+   "ex": "un charco de agua estancada",
+   "exKo": "고인 웅덩이"
+  },
+  {
+   "es": "turbio",
+   "ko": "탁한",
+   "ex": "El agua se vuelve turbia.",
+   "exKo": "물이 탁해져요."
+  },
+  {
+   "es": "un caldo de cultivo",
+   "ko": "온상, 배양지",
+   "ex": "Un caldo de cultivo para mosquitos.",
+   "exKo": "모기의 온상이에요."
+  },
+  {
+   "es": "superficial",
+   "ko": "얕은",
+   "ex": "La respiración se vuelve increíblemente superficial.",
+   "exKo": "호흡이 엄청나게 얕아져요."
+  },
+  {
+   "es": "el sistema linfático",
+   "ko": "림프계",
+   "ex": "el sistema linfático no tiene bomba central",
+   "exKo": "림프계에는 중앙 펌프가 없어요"
+  },
+  {
+   "es": "la red de alcantarillado",
+   "ko": "하수도망",
+   "ex": "la red de alcantarillado del cuerpo humano",
+   "exKo": "인체의 하수도망"
+  },
+  {
+   "es": "la pesadez",
+   "ko": "무거움, 묵직함",
+   "ex": "Hay pesadez en el pecho.",
+   "exKo": "가슴이 무거워요."
+  },
+  {
+   "es": "disipar",
+   "ko": "흩어지게 하다, 걷어 내다",
+   "ex": "esa niebla cerebral que el café no logra disipar",
+   "exKo": "커피로도 안 걷히는 머릿속 안개"
+  },
+  {
+   "es": "demoledor",
+   "ko": "냉혹한, 결정적인",
+   "ex": "El veredicto es demoledor.",
+   "exKo": "판결은 냉혹해요."
+  },
+  {
+   "es": "la falacia",
+   "ko": "오류, 궤변",
+   "ex": "es una completa falacia",
+   "exKo": "완전한 오류예요"
+  },
+  {
+   "es": "la corteza",
+   "ko": "나무껍질",
+   "ex": "sintiendo la corteza, el viento",
+   "exKo": "나무껍질과 바람을 느끼며"
+  },
+  {
+   "es": "abarrotado",
+   "ko": "꽉 찬, 붐비는",
+   "ex": "metros abarrotados",
+   "exKo": "꽉 찬 지하철"
+  },
+  {
+   "es": "marchito / marchitarse",
+   "ko": "시든 / 시들다",
+   "ex": "una planta marchita",
+   "exKo": "시든 식물"
+  },
+  {
+   "es": "desglosar",
+   "ko": "하나하나 나누어 제시하다",
+   "ex": "las fuentes desglosan soluciones muy prácticas",
+   "exKo": "자료들이 실용적인 해결책을 하나하나 제시해요"
+  },
+  {
+   "es": "dormir hasta tarde",
+   "ko": "늦잠 자다",
+   "ex": "Está bien dormir hasta tarde.",
+   "exKo": "늦잠은 괜찮아요."
+  },
+  {
+   "es": "a toda costa",
+   "ko": "무슨 일이 있어도",
+   "ex": "eviten a toda costa convertirse en un pantano",
+   "exKo": "무슨 일이 있어도 늪이 되지 마세요"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuál es «la gran paradoja del fin de semana moderno»?",
+   "options": [
+    "Trabajar más da más energía.",
+    "Descansar 48 horas acostado y sentirse más agotado el lunes.",
+    "Dormir poco el sábado.",
+    "Comer mucho el domingo."
+   ],
+   "answer": 1,
+   "explain": "El lunes por la mañana, la batería debería estar al 100%… y sin embargo se siente atropellado por un tren de carga."
+  },
+  {
+   "q": "Según el Huangdi Neijing, ¿qué daña estar sentado mucho tiempo?",
+   "options": [
+    "el qi",
+    "los músculos",
+    "los ojos",
+    "el corazón"
+   ],
+   "answer": 1,
+   "explain": "Estar sentado mucho tiempo daña los músculos."
+  },
+  {
+   "q": "¿Cómo funcionan los músculos esqueléticos, según la fuente?",
+   "options": [
+    "Solo como soporte",
+    "Como bombas periféricas",
+    "Como baterías",
+    "Como filtros"
+   ],
+   "answer": 1,
+   "explain": "Funcionan como verdaderas bombas periféricas en el cuerpo."
+  },
+  {
+   "q": "En la medicina tradicional seria, el qi es…",
+   "options": [
+    "magia",
+    "un aura intangible",
+    "el motor metabólico del cuerpo",
+    "el aire que respiramos"
+   ],
+   "answer": 2,
+   "explain": "El qi no es magia. Es el motor metabólico del cuerpo."
+  },
+  {
+   "q": "«El agua que fluye no se pudre» compara el cuerpo inmóvil con…",
+   "options": [
+    "un arroyo de montaña",
+    "un pantano estancado",
+    "el mar",
+    "la lluvia"
+   ],
+   "answer": 1,
+   "explain": "El cuerpo entero imita las condiciones de esa zanja estancada."
+  },
+  {
+   "q": "¿Por qué se estanca la linfa si no nos movemos?",
+   "options": [
+    "Porque el corazón la bombea demasiado",
+    "Porque el sistema linfático no tiene bomba central y depende de los músculos",
+    "Porque bebemos poca agua",
+    "Porque dormimos mucho"
+   ],
+   "answer": 1,
+   "explain": "Depende enteramente de la contracción física de los músculos esqueléticos circundantes."
+  },
+  {
+   "q": "El carácter 休 (descanso) se compone de…",
+   "options": [
+    "persona + montaña",
+    "persona + árbol",
+    "árbol + árbol",
+    "persona + agua"
+   ],
+   "answer": 1,
+   "explain": "A la izquierda una persona y a la derecha un árbol."
+  },
+  {
+   "q": "¿Qué pasa con un coche aparcado seis semanas?",
+   "options": [
+    "Se oxida el motor.",
+    "La batería se muere.",
+    "Gasta más gasolina.",
+    "Nada."
+   ],
+   "answer": 1,
+   "explain": "El alternador necesita que el motor funcione… El movimiento crea la energía."
+  },
+  {
+   "q": "¿Qué recomiendan para la jornada laboral?",
+   "options": [
+    "Una alarma cada 45 o 60 minutos para levantarse cinco minutos",
+    "Hacer flexiones extremas",
+    "Trabajar de pie todo el día",
+    "Dormir la siesta"
+   ],
+   "answer": 0,
+   "explain": "Levantarse por cinco minutos. Ir por agua, estirarse."
+  },
+  {
+   "q": "Completa: «Se siente como si ___ sido atropellado por un tren».",
+   "options": [
+    "ha",
+    "hubiera",
+    "había",
+    "habrá"
+   ],
+   "answer": 1,
+   "explain": "como si + 접속법 과거(과거완료): hubiera sido."
+  },
+  {
+   "q": "«No se trata de hacer flexiones, ___ de reiniciar la bomba muscular.»",
+   "options": [
+    "pero",
+    "sino",
+    "si no",
+    "también"
+   ],
+   "answer": 1,
+   "explain": "no… sino… = A가 아니라 B."
+  },
+  {
+   "q": "¿Qué pregunta inquietante plantean al final?",
+   "options": [
+    "Si los algoritmos y las apps de entrega drenan nuestra fuerza vital",
+    "Si debemos mudarnos al campo",
+    "Si el café ayuda",
+    "Si dormir es malo"
+   ],
+   "answer": 0,
+   "explain": "¿Podría ser que estas tecnologías sean sistemas gigantescos que drenan silenciosamente nuestra fuerza vital?"
+  }
+ ]
+}
