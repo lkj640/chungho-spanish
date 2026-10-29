@@ -1,0 +1,2154 @@
+{
+ "id": "es-2026-10-29-2",
+ "lang": "es",
+ "date": "2026-10-29",
+ "title": "이별과 감정을 스페인어로 — 성숙하게 헤어지는 법",
+ "es": "Pasar página · Echar de menos · De mutuo acuerdo",
+ "emoji": "💔",
+ "level": "A2–B1",
+ "channel": "Español Auténtico",
+ "videoTitle": "Learn Spanish How to Talk About Breakups & Emotions 💔 Spanish Listening Practice",
+ "youtube": "s9NPStk3HwY",
+ "duration": "25:36",
+ "speakers": {
+  "S": "Sofía",
+  "C": "Carlos"
+ },
+ "hideCast": true,
+ "summary": "소피아의 친구 아나가 3년 사귄 남자 친구와 '서로 합의하여(de mutuo acuerdo)' 헤어졌어요. 곁에 있어 주기(apoyar), 그리워하기(echar de menos), 공통 친구와 SNS 정리(silenciar, tomar partido), 관성(inercia)과 설렘(chispa), 그리고 다시 마음을 여는 법(dar el paso, corazón abierto)까지 — 감정을 표현하는 어휘 25개를 다섯 번의 '어휘 정리'로 배워요.",
+ "topics": [
+  "이별: ruptura · terminar con · de mutuo acuerdo",
+  "곁에 있기: apoyar · escuchar sin juzgar",
+  "감정: echar de menos · sanar · autoestima · incertidumbre",
+  "관계망: círculo social · tomar partido · bando · silenciar",
+  "관계의 끝: estancamiento · chispa · inercia · apego",
+  "새 출발: pasar página · dar el paso · ilusión · plenitud",
+  "문법: acabar de + 동사원형 · 재귀/상호 동사(se quieren) · 접속법(para que, cuando)"
+ ],
+ "grammar": [
+  {
+   "title": "① 오늘의 어휘 25개 — 다섯 번의 '어휘 정리' 한눈에",
+   "lead": "영상 속 '잠깐 멈춤(pausa)'에서 설명한 단어를 순서대로 모았어요. 이야기 흐름(이별 → 회복 → 새 출발)과 함께 외우면 잘 남아요.",
+   "table": {
+    "head": [
+     "정리",
+     "단어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "①",
+      "ruptura · apoyar · de mutuo acuerdo",
+      "이별 · 곁에서 힘이 되어 주다 · 서로 합의하여"
+     ],
+     [
+      "①",
+      "pasar página · etapa",
+      "(지난 일을) 털고 넘어가다 · 인생의 한 시기"
+     ],
+     [
+      "②",
+      "incertidumbre · sanar · autoestima",
+      "불확실성 · (마음이) 낫다 · 자존감"
+     ],
+     [
+      "②",
+      "echar de menos · independencia",
+      "그리워하다 · 독립"
+     ],
+     [
+      "③",
+      "círculo social · tomar partido · bando",
+      "인간관계 · 편을 들다 · 편, 진영"
+     ],
+     [
+      "③",
+      "silenciar · distancia sana",
+      "(SNS) 숨기기/뮤트 · 건강한 거리"
+     ],
+     [
+      "④",
+      "estancamiento · chispa · inercia",
+      "정체 · (사랑의) 불꽃 · 관성"
+     ],
+     [
+      "④",
+      "compañero de piso · apego",
+      "룸메이트 · 정, 애착"
+     ],
+     [
+      "⑤",
+      "plenitud · dar el paso · evolucionar",
+      "충만함 · 한 걸음 내딛다 · 성장하다"
+     ],
+     [
+      "⑤",
+      "ilusión · corazón abierto",
+      "설렘, 기대 · 열린 마음"
+     ]
+    ]
+   },
+   "tip": "ilusión은 영어 illusion(환상)과 달리 '설렘, 기대'라는 긍정적인 뜻이 기본이에요. 반면 vivir de ilusiones는 '헛된 기대 속에 살다'라는 뜻이에요."
+  },
+  {
+   "title": "② acabar de + 동사원형 — 막 ~했다",
+   "lead": "방금 일어난 일을 말할 때 <b>acabar de + 동사원형</b>을 써요. 현재형 acaba de가 '막 ~했다'예요.",
+   "examples": [
+    [
+     "Ella acaba de terminar con su novio después de tres años juntos.",
+     "아나가 남자 친구랑 3년 사귀다가 막 헤어졌어."
+    ],
+    [
+     "El vocabulario que acabamos de utilizar.",
+     "우리가 방금 쓴 어휘."
+    ],
+    [
+     "Acabo de llegar a casa.",
+     "방금 집에 왔어."
+    ],
+    [
+     "terminar con alguien",
+     "~와 헤어지다 (= romper con alguien)"
+    ]
+   ],
+   "tip": "acabar(끝내다) 자체가 아니라 'acabar de + 동사원형' 덩어리로 기억하세요."
+  },
+  {
+   "title": "③ 재귀·상호 동사 — se quieren, se desearon",
+   "lead": "복수 주어 + se + 동사는 '서로 ~하다'라는 뜻이 될 수 있어요. 이별 이야기에 아주 많이 나와요.",
+   "examples": [
+    [
+     "Se querían muchísimo.",
+     "서로 엄청 아꼈어요. (querer → quererse)"
+    ],
+    [
+     "Se desearon lo mejor con mucha sinceridad.",
+     "서로 진심으로 잘되길 빌어 줬어요."
+    ],
+    [
+     "Se dieron cuenta de que sus vidas iban en direcciones diferentes.",
+     "darse cuenta de que… = ~를 깨닫다"
+    ],
+    [
+     "Se sentaron a hablar.",
+     "앉아서 이야기를 나눴어요. (sentarse)"
+    ],
+    [
+     "Ella tiene que reconectar consigo misma.",
+     "consigo mismo/a = 자기 자신과"
+    ]
+   ]
+  },
+  {
+   "title": "④ 접속법이 나오는 자리",
+   "lead": "바람·목적·부탁 뒤에는 동사가 접속법으로 바뀌어요. 영상 속 문장으로 익혀 봐요.",
+   "examples": [
+    [
+     "¿Qué pasó para que fuera tan tranquilo?",
+     "para que + 접속법 과거: 그렇게 조용하려면 무슨 일이 있었던 거야?"
+    ],
+    [
+     "Solo necesita que alguien se siente a su lado.",
+     "necesitar que + 접속법: 누가 옆에 앉아 주기를 필요로 해요."
+    ],
+    [
+     "Pidió que la dinámica del grupo siguiera lo más normal posible.",
+     "pedir que + 접속법 과거: 최대한 평소처럼 이어지길 부탁했어요."
+    ],
+    [
+     "Deseas que esté contigo en ese momento.",
+     "desear que + 접속법: 그 순간 곁에 있기를 바라요."
+    ],
+    [
+     "…donde su propia compañía sea suficiente para ser feliz.",
+     "아직 오지 않은 목표를 말할 때도 접속법 (sea)"
+    ]
+   ],
+   "tip": "que 앞의 동사가 '바라다·필요하다·부탁하다'이면 접속법 신호예요."
+  },
+  {
+   "title": "⑤ 공감·맞장구 표현",
+   "lead": "친구의 힘든 이야기를 들을 때 바로 쓸 수 있는 표현이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "상황"
+    ],
+    "rows": [
+     [
+      "Vaya, lo siento mucho por ella.",
+      "저런, 정말 안됐다.",
+      "안 좋은 소식을 들었을 때"
+     ],
+     [
+      "Me imagino que debe estar muy triste.",
+      "많이 슬프겠다.",
+      "상대 기분을 짐작할 때"
+     ],
+     [
+      "Es muy normal.",
+      "아주 자연스러운 거야.",
+      "감정을 받아 줄 때"
+     ],
+     [
+      "¡Qué alivio!",
+      "다행이다!",
+      "걱정이 풀렸을 때"
+     ],
+     [
+      "Tienes toda la razón.",
+      "네 말이 완전히 맞아.",
+      "강하게 동의할 때"
+     ],
+     [
+      "Es un ejemplo a seguir.",
+      "본받을 만해.",
+      "칭찬할 때"
+     ],
+     [
+      "¡Qué forma tan preciosa de verlo!",
+      "정말 아름다운 시각이다!",
+      "감동했을 때"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Acaba de terminar con su novio.",
+   "막 남자 친구와 헤어졌어."
+  ],
+  [
+   "Fue una decisión de mutuo acuerdo.",
+   "서로 합의한 결정이었어."
+  ],
+  [
+   "Nadie engañó a nadie.",
+   "아무도 바람피우지 않았어."
+  ],
+  [
+   "Solo necesita que alguien la escuche sin juzgar.",
+   "판단 없이 들어 줄 사람이 필요할 뿐이야."
+  ],
+  [
+   "No se arrepiente de nada.",
+   "아무것도 후회하지 않아."
+  ],
+  [
+   "Va a echar de menos a su exnovio, y se lo permite.",
+   "전 남자 친구를 그리워할 거고, 그걸 허락해."
+  ],
+  [
+   "Llorar limpia el alma.",
+   "울면 영혼이 깨끗해져."
+  ],
+  [
+   "Nadie tiene que elegir un bando.",
+   "아무도 편을 고를 필요 없어."
+  ],
+  [
+   "Decidió silenciar sus publicaciones.",
+   "그의 게시물을 숨기기로 했어."
+  ],
+  [
+   "A veces amar a alguien también significa saber cuándo decir adiós.",
+   "때로는 사랑한다는 게 언제 작별할지 아는 거야."
+  ],
+  [
+   "Simplemente el ciclo terminó.",
+   "그저 한 주기가 끝난 거야."
+  ],
+  [
+   "Mira hacia delante con mucha ilusión.",
+   "큰 설렘을 안고 앞을 봐."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la ruptura",
+   "ko": "이별, 결별",
+   "ex": "Tuvieron una ruptura muy madura.",
+   "exKo": "아주 성숙한 이별이었어."
+  },
+  {
+   "es": "terminar con alguien",
+   "ko": "~와 헤어지다",
+   "ex": "Ella acaba de terminar con su novio.",
+   "exKo": "막 남자 친구와 헤어졌어."
+  },
+  {
+   "es": "de mutuo acuerdo",
+   "ko": "서로 합의하여",
+   "ex": "Fue una decisión de mutuo acuerdo.",
+   "exKo": "서로 합의한 결정이었어."
+  },
+  {
+   "es": "engañar",
+   "ko": "속이다; 바람피우다",
+   "ex": "Nadie engañó a nadie.",
+   "exKo": "아무도 바람피우지 않았어."
+  },
+  {
+   "es": "apoyar",
+   "ko": "지지하다, 곁에서 힘이 되다",
+   "ex": "Fui a su casa para apoyarla.",
+   "exKo": "곁에 있어 주려고 그녀 집에 갔어."
+  },
+  {
+   "es": "pasar página",
+   "ko": "털고 넘어가다 (페이지를 넘기다)",
+   "ex": "¿Cómo logran pasar página?",
+   "exKo": "어떻게 털고 넘어가나요?"
+  },
+  {
+   "es": "la etapa",
+   "ko": "(인생의) 시기, 단계",
+   "ex": "Se cierra una etapa y comienza otra.",
+   "exKo": "한 시기가 닫히고 다른 시기가 시작돼."
+  },
+  {
+   "es": "juzgar",
+   "ko": "판단하다, 평가하다",
+   "ex": "escuchar sin juzgar",
+   "exKo": "판단하지 않고 듣다"
+  },
+  {
+   "es": "sanar",
+   "ko": "(상처가) 낫다, 치유하다",
+   "ex": "Es un proceso mental muy importante para sanar.",
+   "exKo": "낫기 위한 아주 중요한 마음의 과정이야."
+  },
+  {
+   "es": "en voz alta",
+   "ko": "소리 내어",
+   "ex": "Necesitaba expresarlo en voz alta.",
+   "exKo": "소리 내어 말할 필요가 있었어."
+  },
+  {
+   "es": "arrepentirse de",
+   "ko": "~를 후회하다",
+   "ex": "No se arrepiente de nada.",
+   "exKo": "아무것도 후회하지 않아."
+  },
+  {
+   "es": "soltero / soltera",
+   "ko": "싱글, 미혼",
+   "ex": "volver a estar soltera",
+   "exKo": "다시 싱글이 되다"
+  },
+  {
+   "es": "el vértigo",
+   "ko": "현기증; 아찔함",
+   "ex": "Siente un poco de vértigo.",
+   "exKo": "좀 아찔해해."
+  },
+  {
+   "es": "el vacío",
+   "ko": "공허함, 빈자리",
+   "ex": "Debe ser un vacío enorme al principio.",
+   "exKo": "처음엔 엄청난 공허함이겠다."
+  },
+  {
+   "es": "retomar",
+   "ko": "다시 시작하다",
+   "ex": "Va a retomar sus clases de pintura.",
+   "exKo": "그림 수업을 다시 시작할 거야."
+  },
+  {
+   "es": "el pasatiempo",
+   "ko": "취미",
+   "ex": "volver a sus antiguos pasatiempos",
+   "exKo": "예전 취미로 돌아가다"
+  },
+  {
+   "es": "la incertidumbre",
+   "ko": "불확실성",
+   "ex": "Es la sensación de no saber qué va a pasar.",
+   "exKo": "무슨 일이 일어날지 모르는 느낌이에요."
+  },
+  {
+   "es": "la autoestima",
+   "ko": "자존감",
+   "ex": "cuidar la autoestima",
+   "exKo": "자존감을 돌보다"
+  },
+  {
+   "es": "echar de menos",
+   "ko": "그리워하다 (= extrañar)",
+   "ex": "Va a echar de menos a su exnovio.",
+   "exKo": "전 남자 친구를 그리워할 거야."
+  },
+  {
+   "es": "reprimir",
+   "ko": "억누르다",
+   "ex": "No intenta reprimir sus emociones.",
+   "exKo": "감정을 억누르려 하지 않아."
+  },
+  {
+   "es": "el exnovio / la expareja",
+   "ko": "전 남자 친구 / 전 애인",
+   "ex": "un espacio vacío que dejó tu expareja",
+   "exKo": "전 애인이 남긴 빈자리"
+  },
+  {
+   "es": "recoger",
+   "ko": "(물건을) 가지러 가다, 챙기다",
+   "ex": "Vino a recoger algunas de sus cosas.",
+   "exKo": "자기 물건 몇 개를 가지러 왔어."
+  },
+  {
+   "es": "las lágrimas",
+   "ko": "눈물",
+   "ex": "un momento de muchas lágrimas",
+   "exKo": "눈물이 많이 나는 순간"
+  },
+  {
+   "es": "los amigos en común",
+   "ko": "공통 친구",
+   "ex": "¿Qué pasa con los amigos en común?",
+   "exKo": "공통 친구들은 어떻게 돼?"
+  },
+  {
+   "es": "el círculo social",
+   "ko": "인간관계, 친구 무리",
+   "ex": "El círculo social es un tema complicado.",
+   "exKo": "인간관계는 복잡한 문제야."
+  },
+  {
+   "es": "tomar partido",
+   "ko": "편을 들다",
+   "ex": "Nadie tiene que tomar partido.",
+   "exKo": "아무도 편들 필요 없어."
+  },
+  {
+   "es": "el bando",
+   "ko": "편, 진영",
+   "ex": "Nadie tiene que elegir un bando.",
+   "exKo": "아무도 편을 고를 필요 없어."
+  },
+  {
+   "es": "la lealtad",
+   "ko": "의리, 충성",
+   "ex": "solo por lealtad a tu otro amigo",
+   "exKo": "다른 친구에 대한 의리 때문에"
+  },
+  {
+   "es": "bloquear",
+   "ko": "차단하다",
+   "ex": "Decidió no bloquear a su ex.",
+   "exKo": "전 남자 친구를 차단하지 않기로 했어."
+  },
+  {
+   "es": "silenciar",
+   "ko": "(SNS) 숨기기, 뮤트하다",
+   "ex": "Decidió silenciar sus publicaciones.",
+   "exKo": "그의 게시물을 숨기기로 했어."
+  },
+  {
+   "es": "la distancia sana",
+   "ko": "건강한 거리",
+   "ex": "Necesita mantener una distancia sana.",
+   "exKo": "건강한 거리를 유지해야 해."
+  },
+  {
+   "es": "el resentimiento",
+   "ko": "원망, 앙금",
+   "ex": "No hay odio ni resentimiento.",
+   "exKo": "미움도 원망도 없어."
+  },
+  {
+   "es": "el fracaso",
+   "ko": "실패",
+   "ex": "No ve esta ruptura como un fracaso.",
+   "exKo": "이 이별을 실패로 보지 않아."
+  },
+  {
+   "es": "el estancamiento",
+   "ko": "정체, 고여 있음",
+   "ex": "La pareja ya no crece junta: es un estancamiento.",
+   "exKo": "커플이 함께 성장하지 않는 정체 상태예요."
+  },
+  {
+   "es": "la chispa",
+   "ko": "불꽃; (사랑의) 설렘",
+   "ex": "Se apagó la chispa.",
+   "exKo": "불꽃이 꺼졌어."
+  },
+  {
+   "es": "el compañero de piso",
+   "ko": "룸메이트",
+   "ex": "Era más de compañeros de piso que de pareja.",
+   "exKo": "커플보다는 룸메이트 같았어."
+  },
+  {
+   "es": "la inercia",
+   "ko": "관성, 타성",
+   "ex": "estar juntos por inercia",
+   "exKo": "관성으로 함께 있다"
+  },
+  {
+   "es": "el apego",
+   "ko": "정, 애착",
+   "ex": "Sentir solo apego no era suficiente.",
+   "exKo": "정만으로는 충분하지 않았어."
+  },
+  {
+   "es": "conformarse con",
+   "ko": "~에 만족하다, 안주하다",
+   "ex": "no conformarse con esa situación",
+   "exKo": "그 상황에 안주하지 않다"
+  },
+  {
+   "es": "dejar ir a alguien",
+   "ko": "~를 놓아주다",
+   "ex": "tener el valor de dejar ir a alguien",
+   "exKo": "누군가를 놓아줄 용기를 갖다"
+  },
+  {
+   "es": "la ilusión",
+   "ko": "설렘, 기대 (긍정적)",
+   "ex": "Mira hacia delante con mucha ilusión.",
+   "exKo": "큰 설렘을 안고 앞을 봐."
+  },
+  {
+   "es": "la plenitud",
+   "ko": "충만함",
+   "ex": "un estado de plenitud",
+   "exKo": "충만한 상태"
+  },
+  {
+   "es": "dar el paso",
+   "ko": "(용기 내어) 한 걸음 내딛다",
+   "ex": "¿Cómo se da ese primer paso?",
+   "exKo": "그 첫걸음은 어떻게 내딛지?"
+  },
+  {
+   "es": "evolucionar",
+   "ko": "발전하다, 성장하다",
+   "ex": "evolucionar como ser humano",
+   "exKo": "사람으로서 성장하다"
+  },
+  {
+   "es": "el corazón abierto",
+   "ko": "열린 마음",
+   "ex": "estar listo para abrir el corazón de nuevo",
+   "exKo": "다시 마음을 열 준비가 되다"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "아나와 남자 친구는 어떻게 헤어졌나요?",
+   "options": [
+    "크게 싸우고",
+    "한쪽이 바람을 피워서",
+    "서로 합의해서(de mutuo acuerdo)",
+    "가족의 반대로"
+   ],
+   "answer": 2,
+   "explain": "Fue una decisión de mutuo acuerdo. Nadie engañó a nadie."
+  },
+  {
+   "q": "'Ella acaba de terminar con su novio.'의 뜻은?",
+   "options": [
+    "남자 친구와 막 헤어졌다",
+    "남자 친구와 곧 헤어질 것이다",
+    "남자 친구와 일을 끝냈다",
+    "남자 친구를 막 만났다"
+   ],
+   "answer": 0,
+   "explain": "acabar de + 동사원형 = 막 ~했다. terminar con alguien = ~와 헤어지다."
+  },
+  {
+   "q": "'pasar página'의 뜻으로 알맞은 것은?",
+   "options": [
+    "책을 다 읽다",
+    "아픈 과거를 털고 앞으로 나아가다",
+    "시험에 합격하다",
+    "페이지를 찢다"
+   ],
+   "answer": 1,
+   "explain": "Aceptar que una situación dolorosa ya terminó y mirar al futuro."
+  },
+  {
+   "q": "이별 직후 친구에게 가장 필요한 것은 무엇이라고 했나요?",
+   "options": [
+    "거창한 철학적 조언",
+    "새로운 연애 상대",
+    "판단 없이 곁에서 들어 주는 사람",
+    "파티"
+   ],
+   "answer": 2,
+   "explain": "Necesita que alguien lo escuche sin juzgar y sin decir qué hacer."
+  },
+  {
+   "q": "'echar de menos'와 뜻이 같은 동사는?",
+   "options": [
+    "olvidar",
+    "extrañar",
+    "engañar",
+    "reprimir"
+   ],
+   "answer": 1,
+   "explain": "echar de menos = extrañar = 그리워하다."
+  },
+  {
+   "q": "아나가 SNS에서 전 남자 친구에게 한 것은?",
+   "options": [
+    "차단했다(bloquear)",
+    "친구 삭제했다",
+    "게시물을 숨겼다(silenciar)",
+    "매일 사진을 봤다"
+   ],
+   "answer": 2,
+   "explain": "Decidió no bloquear a su ex, pero sí silenciar sus publicaciones."
+  },
+  {
+   "q": "공통 친구들에게 아나 커플이 한 말은?",
+   "options": [
+    "한 명을 골라 달라",
+    "아무도 편을 고를 필요 없다",
+    "당분간 만나지 말자",
+    "단톡방을 나가겠다"
+   ],
+   "answer": 1,
+   "explain": "Nadie tiene que elegir un bando (= tomar partido)."
+  },
+  {
+   "q": "집에서의 두 사람 관계를 무엇에 비유했나요?",
+   "options": [
+    "compañeros de piso (룸메이트)",
+    "hermanos (형제)",
+    "jefe y empleado (상사와 직원)",
+    "vecinos (이웃)"
+   ],
+   "answer": 0,
+   "explain": "La dinámica en casa era más de compañeros de piso que de pareja enamorada."
+  },
+  {
+   "q": "'estar juntos por inercia'의 뜻은?",
+   "options": [
+    "열정적으로 함께하다",
+    "그게 제일 편한 일상이라 헤어지지 않다",
+    "억지로 떨어져 있다",
+    "같이 운동하다"
+   ],
+   "answer": 1,
+   "explain": "No separarse simplemente porque es la rutina más fácil."
+  },
+  {
+   "q": "스페인어 'ilusión'의 기본적인 뜻은?",
+   "options": [
+    "착각, 환상",
+    "설렘, 기대",
+    "실망",
+    "마술"
+   ],
+   "answer": 1,
+   "explain": "La alegría, la esperanza y el entusiasmo por las cosas buenas del futuro."
+  },
+  {
+   "q": "다시 사랑할 준비가 됐다는 신호는?",
+   "options": [
+    "외로움이 두려울 때",
+    "빈자리를 채워야 할 때",
+    "필요나 두려움이 아니라 그냥 삶을 나누고 싶을 때",
+    "1년이 지났을 때"
+   ],
+   "answer": 2,
+   "explain": "Cuando ya no busca a alguien por necesidad, por tristeza o por miedo a la soledad."
+  },
+  {
+   "q": "'Pidió que la dinámica del grupo ___ lo más normal posible.' 빈칸에 알맞은 형태는?",
+   "options": [
+    "sigue",
+    "seguía",
+    "siguiera",
+    "seguirá"
+   ],
+   "answer": 2,
+   "explain": "pedir que + 접속법. 과거 문장이라 접속법 과거 siguiera."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 오늘의 주제: 이별과 감정",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "S",
+     "es": "Hola a todos y bienvenidos a un nuevo episodio de Español Auténtico.",
+     "ko": "여러분 안녕하세요, Español Auténtico 새 에피소드에 오신 걸 환영해요."
+    },
+    {
+     "t": 6.0,
+     "s": "S",
+     "es": "Hoy vamos a tener una conversación en español muy especial, perfecta para tu Spanish listening practice.",
+     "ko": "오늘은 듣기 연습에 딱 좋은 아주 특별한 스페인어 대화를 나눠 볼 거예요."
+    },
+    {
+     "t": 14.0,
+     "s": "C",
+     "es": "Hola, Sofía, y hola a todos en casa. Me encanta estar aquí.",
+     "ko": "안녕, 소피아. 그리고 집에 계신 모든 분 안녕하세요. 여기 오니 정말 좋네요."
+    },
+    {
+     "t": 18.0,
+     "s": "C",
+     "es": "Si quieres aprender español de verdad, escuchar conversaciones reales y cotidianas es el mejor método.",
+     "ko": "스페인어를 제대로 배우고 싶다면, 실제 일상 대화를 듣는 게 최고의 방법이에요."
+    },
+    {
+     "t": 26.0,
+     "s": "S",
+     "es": "Así es, Carlos. Hoy vamos a aprender vocabulario español para hablar del final de una relación amorosa.",
+     "ko": "맞아요, 카를로스. 오늘은 연인 관계의 끝에 대해 말하는 스페인어 어휘를 배울 거예요."
+    },
+    {
+     "t": 34.0,
+     "s": "S",
+     "es": "Lo haremos de una forma muy madura, constructiva y natural, usando palabras que usamos todos los días.",
+     "ko": "아주 성숙하고, 건설적이고, 자연스럽게, 매일 쓰는 단어로 이야기할 거예요."
+    },
+    {
+     "t": 42.0,
+     "s": "C",
+     "es": "Es un tema delicado, Sofía, pero muy útil para nuestro español para extranjeros.",
+     "ko": "민감한 주제지만, 소피아, 외국인을 위한 스페인어로는 아주 유용해요."
+    },
+    {
+     "t": 47.0,
+     "s": "C",
+     "es": "Todos hemos pasado por una situación así o conocemos a alguien que la está viviendo.",
+     "ko": "우리 모두 그런 상황을 겪어 봤거나, 지금 겪고 있는 사람을 알고 있으니까요."
+    },
+    {
+     "t": 53.0,
+     "s": "S",
+     "es": "Exacto. Aprender a expresar nuestros sentimientos es vital para tener fluidez.",
+     "ko": "맞아요. 감정을 표현하는 법을 배우는 건 유창해지는 데 꼭 필요해요."
+    },
+    {
+     "t": 58.0,
+     "s": "S",
+     "es": "Pero antes de empezar con nuestra historia de hoy, quiero pedirles un pequeño favor a todos los que nos escuchan.",
+     "ko": "그런데 오늘 이야기를 시작하기 전에, 듣고 계신 모든 분께 작은 부탁을 하나 드리고 싶어요."
+    },
+    {
+     "t": 67.0,
+     "s": "C",
+     "es": "Claro que sí, amigos. Si les gusta nuestro contenido y quieren mejorar su español, por favor, suscríbanse al canal.",
+     "ko": "물론이죠, 여러분. 저희 콘텐츠가 마음에 들고 스페인어를 늘리고 싶다면, 채널을 구독해 주세요."
+    },
+    {
+     "t": 74.0,
+     "s": "S",
+     "es": "Es verdad. Suscribirse, dejar un me gusta y comentar en los videos nos ayuda muchísimo.",
+     "ko": "맞아요. 구독하고, 좋아요를 누르고, 영상에 댓글을 달아 주시면 정말 큰 도움이 돼요."
+    },
+    {
+     "t": 81.0,
+     "s": "S",
+     "es": "Es vital para que el canal crezca en YouTube y para que nosotros podamos seguir creando más clases de español gratis para ustedes.",
+     "ko": "채널이 유튜브에서 성장하고, 저희가 여러분을 위해 무료 스페인어 수업을 계속 만들 수 있으려면 꼭 필요해요."
+    },
+    {
+     "t": 90.0,
+     "s": "C",
+     "es": "Y recuerden que, para los que quieran dar un paso más, pueden unirse y abonarse como miembros.",
+     "ko": "그리고 한 걸음 더 나아가고 싶은 분들은 멤버로 가입하실 수도 있다는 것, 기억해 주세요."
+    },
+    {
+     "t": 96.0,
+     "s": "C",
+     "es": "Es una forma maravillosa y directa de apoyar a Español Auténtico para que sigamos adelante.",
+     "ko": "Español Auténtico가 계속 나아갈 수 있도록 직접 응원하는 멋진 방법이에요."
+    },
+    {
+     "t": 102.0,
+     "s": "C",
+     "es": "Muchas gracias a todos por su apoyo constante, de verdad.",
+     "ko": "늘 응원해 주셔서 모두 정말 고맙습니다."
+    }
+   ]
+  },
+  {
+   "title": "친구 아나의 이별 — 성숙하고 평화로운 결별",
+   "lines": [
+    {
+     "t": 106.0,
+     "s": "S",
+     "es": "Bueno, Carlos, te cuento la historia de ayer. Pasé casi toda la tarde en casa de mi amiga Ana.",
+     "ko": "자, 카를로스, 어제 있었던 일을 얘기해 줄게. 오후 내내 거의 친구 아나네 집에 있었어."
+    },
+    {
+     "t": 113.0,
+     "s": "S",
+     "es": "Ella acaba de terminar con su novio después de tres años juntos.",
+     "ko": "아나가 남자 친구랑 3년 사귀다가 막 헤어졌거든."
+    },
+    {
+     "t": 118.0,
+     "s": "C",
+     "es": "Vaya, lo siento mucho por ella. Tres años es mucho tiempo compartiendo la vida.",
+     "ko": "저런, 정말 안됐다. 3년이면 삶을 함께한 긴 시간이잖아."
+    },
+    {
+     "t": 124.0,
+     "s": "C",
+     "es": "¿Cómo se siente? Me imagino que debe estar muy triste y confundida.",
+     "ko": "아나는 기분이 어때? 많이 슬프고 혼란스럽겠지."
+    },
+    {
+     "t": 129.0,
+     "s": "S",
+     "es": "Obviamente hay un poco de tristeza. Sí, es normal.",
+     "ko": "당연히 조금은 슬퍼하지. 그래, 그건 당연해."
+    },
+    {
+     "t": 132.0,
+     "s": "S",
+     "es": "Pero la verdad, me sorprendió mucho su actitud. Tuvieron una ruptura muy madura, muy pacífica y llena de respeto.",
+     "ko": "그런데 솔직히 아나의 태도에 정말 놀랐어. 아주 성숙하고 평화롭고 존중이 가득한 이별이었거든."
+    },
+    {
+     "t": 142.0,
+     "s": "C",
+     "es": "¿Pacífica? Eso es un poco raro hoy en día.",
+     "ko": "평화로운 이별? 요즘엔 좀 드문 일인데."
+    },
+    {
+     "t": 145.0,
+     "s": "C",
+     "es": "Normalmente, cuando una relación termina, hay discusiones largas o mucho drama.",
+     "ko": "보통 관계가 끝날 때는 긴 말다툼이나 드라마 같은 일이 많잖아."
+    },
+    {
+     "t": 150.0,
+     "s": "C",
+     "es": "¿Qué pasó exactamente para que fuera tan tranquilo?",
+     "ko": "정확히 어땠길래 그렇게 조용히 끝났어?"
+    },
+    {
+     "t": 154.0,
+     "s": "S",
+     "es": "Pues simplemente se sentaron a hablar y se dieron cuenta de que sus vidas iban en direcciones diferentes.",
+     "ko": "그냥 앉아서 이야기를 나눴고, 서로의 삶이 다른 방향으로 가고 있다는 걸 깨달았대."
+    },
+    {
+     "t": 161.0,
+     "s": "S",
+     "es": "Tenían objetivos distintos a largo plazo. Fue una decisión de mutuo acuerdo.",
+     "ko": "장기적인 목표가 달랐던 거지. 서로 합의한 결정이었어."
+    },
+    {
+     "t": 168.0,
+     "s": "S",
+     "es": "Nadie engañó a nadie. Nadie hizo nada malo.",
+     "ko": "아무도 바람피우지 않았고, 아무도 잘못한 게 없어."
+    },
+    {
+     "t": 171.0,
+     "s": "C",
+     "es": "\"De mutuo acuerdo.\" Esa es una expresión excelente para nuestros estudiantes.",
+     "ko": "'서로 합의하여(de mutuo acuerdo)'. 우리 학생들에게 아주 좋은 표현이네."
+    },
+    {
+     "t": 176.0,
+     "s": "C",
+     "es": "Significa que los dos decidieron exactamente lo mismo juntos, sin presiones.",
+     "ko": "두 사람이 압박 없이 함께 똑같은 결정을 내렸다는 뜻이에요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 정리 ① ruptura · apoyar · de mutuo acuerdo · pasar página · etapa",
+   "lines": [
+    {
+     "t": 182.0,
+     "s": "S",
+     "es": "Exactamente. Y como sé que a nuestro público le encanta aprender frases nuevas, vamos a hacer nuestra famosa pausa para analizar el léxico que estamos usando en esta historia.",
+     "ko": "맞아요. 우리 시청자분들이 새 표현 배우는 걸 정말 좋아하시니까, 이 이야기에 나온 어휘를 분석하는 그 유명한 '잠깐 멈춤'을 해 볼게요."
+    },
+    {
+     "t": 194.0,
+     "s": "S",
+     "es": "\"Ruptura\" es el sustantivo que usamos para describir el final definitivo de una relación amorosa o sentimental.",
+     "ko": "'ruptura(이별, 결별)'는 연인 관계나 애정 관계가 완전히 끝나는 것을 말하는 명사예요."
+    },
+    {
+     "t": 202.0,
+     "s": "S",
+     "es": "Es el momento exacto en que dos personas dejan de ser pareja.",
+     "ko": "두 사람이 더 이상 커플이 아니게 되는 바로 그 순간이에요."
+    },
+    {
+     "t": 207.0,
+     "s": "S",
+     "es": "\"Apoyar\" significa ayudar a una persona, estar a su lado emocionalmente cuando tiene un problema o está triste.",
+     "ko": "'apoyar(지지하다, 곁에 있어 주다)'는 누군가 문제가 있거나 슬플 때 도와주고 마음으로 곁에 있어 주는 거예요."
+    },
+    {
+     "t": 214.0,
+     "s": "S",
+     "es": "Es exactamente lo que hace un buen amigo en los momentos difíciles.",
+     "ko": "힘든 순간에 좋은 친구가 해 주는 바로 그 일이죠."
+    },
+    {
+     "t": 219.0,
+     "s": "S",
+     "es": "\"De mutuo acuerdo\" es una expresión muy útil que usamos cuando dos personas tienen la misma opinión o toman la misma decisión juntas, en paz y sin pelear.",
+     "ko": "'de mutuo acuerdo(서로 합의하여)'는 두 사람이 같은 의견을 갖거나, 싸우지 않고 평화롭게 함께 같은 결정을 내릴 때 쓰는 아주 유용한 표현이에요."
+    },
+    {
+     "t": 231.0,
+     "s": "S",
+     "es": "\"Pasar página\" es una metáfora muy bonita y visual.",
+     "ko": "'pasar página(페이지를 넘기다)'는 아주 예쁘고 눈에 그려지는 비유예요."
+    },
+    {
+     "t": 235.0,
+     "s": "S",
+     "es": "Significa aceptar que una situación dolorosa del pasado ya terminó y empezar a mirar al futuro con positividad.",
+     "ko": "과거의 아픈 상황이 이미 끝났음을 받아들이고, 긍정적으로 미래를 보기 시작한다는 뜻이에요."
+    },
+    {
+     "t": 243.0,
+     "s": "S",
+     "es": "\"Etapa\" es un periodo de tiempo específico en la vida de una persona.",
+     "ko": "'etapa(단계, 시기)'는 한 사람의 삶에서 특정한 기간이에요."
+    },
+    {
+     "t": 248.0,
+     "s": "S",
+     "es": "Cuando una relación termina, decimos que se cierra una etapa y comienza otra completamente nueva.",
+     "ko": "관계가 끝나면 '한 시기가 닫히고 완전히 새로운 시기가 시작된다'고 말해요."
+    },
+    {
+     "t": 255.0,
+     "s": "C",
+     "es": "¡Qué palabras tan útiles para la vida real!",
+     "ko": "실생활에 정말 유용한 단어들이네요!"
+    },
+    {
+     "t": 258.0,
+     "s": "C",
+     "es": "Chicos, aquí va nuestra invitación para ustedes: escriban en los comentarios una frase usando una de estas palabras.",
+     "ko": "여러분, 초대장 하나 드릴게요. 이 단어 중 하나를 써서 댓글로 문장을 하나 써 주세요."
+    },
+    {
+     "t": 266.0,
+     "s": "C",
+     "es": "Por ejemplo, cuéntennos cómo logran ustedes pasar página cuando algo termina.",
+     "ko": "예를 들어, 무언가 끝났을 때 여러분은 어떻게 페이지를 넘기는지 들려주세요."
+    },
+    {
+     "t": 271.0,
+     "s": "C",
+     "es": "Queremos leer todos sus comentarios y darles un corazón.",
+     "ko": "댓글을 전부 읽고 하트를 눌러 드리고 싶어요."
+    }
+   ]
+  },
+  {
+   "title": "곁에 있어 주기 — 판단 없이 들어 주는 것",
+   "lines": [
+    {
+     "t": 275.0,
+     "s": "S",
+     "es": "Sí, por favor. Nos encanta leerlos y ayudarlos con sus frases.",
+     "ko": "네, 꼭이요. 댓글 읽고 문장 고쳐 드리는 거 정말 좋아해요."
+    },
+    {
+     "t": 280.0,
+     "s": "S",
+     "es": "Volviendo a la historia de Ana, yo fui a su casa ayer principalmente para apoyarla.",
+     "ko": "아나 이야기로 돌아가면, 어제 내가 아나네 집에 간 건 주로 곁에 있어 주려고였어."
+    },
+    {
+     "t": 286.0,
+     "s": "S",
+     "es": "En estos primeros momentos de una separación, la gente no necesita grandes consejos filosóficos.",
+     "ko": "이별 직후에는 사람들이 거창한 철학적 조언이 필요한 게 아니거든."
+    },
+    {
+     "t": 293.0,
+     "s": "C",
+     "es": "Es muy cierto, Sofía. Cuando uno está triste por una ruptura, a veces solo necesita que alguien se siente a su lado en silencio.",
+     "ko": "정말 맞아, 소피아. 이별로 슬플 땐 그냥 누가 말없이 옆에 앉아 있어 주는 게 필요할 때가 있지."
+    },
+    {
+     "t": 302.0,
+     "s": "C",
+     "es": "Necesita que alguien lo escuche sin juzgar y sin decir qué hacer.",
+     "ko": "판단하지 않고, 이래라저래라 하지 않고 들어 주는 사람이 필요해."
+    },
+    {
+     "t": 307.0,
+     "s": "S",
+     "es": "Precisamente eso hicimos. Preparé un par de tazas de café, nos sentamos en su sofá y simplemente la dejé hablar durante horas.",
+     "ko": "바로 그렇게 했어. 커피 두 잔을 내리고, 소파에 앉아서 그냥 몇 시간 동안 아나가 말하게 뒀어."
+    },
+    {
+     "t": 316.0,
+     "s": "S",
+     "es": "Ella necesitaba expresar en voz alta que esta etapa había terminado para poder creerlo.",
+     "ko": "아나는 이 시기가 끝났다는 걸 믿으려면 소리 내어 말할 필요가 있었어."
+    },
+    {
+     "t": 323.0,
+     "s": "S",
+     "es": "Es un proceso mental muy importante para sanar.",
+     "ko": "상처가 낫는 데 아주 중요한 마음의 과정이야."
+    },
+    {
+     "t": 326.0,
+     "s": "C",
+     "es": "Claro, porque cuando lo dices en voz alta, el final se hace mucho más real.",
+     "ko": "그렇지, 소리 내어 말하면 끝이 훨씬 더 현실이 되니까."
+    },
+    {
+     "t": 331.0,
+     "s": "C",
+     "es": "A veces nuestra mente necesita escuchar las palabras físicas para empezar a aceptar la nueva realidad y no vivir de ilusiones.",
+     "ko": "가끔 우리 마음은 새 현실을 받아들이고 헛된 기대 속에 살지 않으려면, 실제 말소리를 들어야 하거든."
+    }
+   ]
+  },
+  {
+   "title": "후회는 없다 — 혼자가 된 일상과 다시 나와 연결되기",
+   "lines": [
+    {
+     "t": 340.0,
+     "s": "S",
+     "es": "Totalmente cierto, Carlos. Y además, Ana me dijo algo muy maduro y sabio ayer.",
+     "ko": "완전히 맞아, 카를로스. 게다가 어제 아나가 아주 성숙하고 현명한 말을 했어."
+    },
+    {
+     "t": 346.0,
+     "s": "S",
+     "es": "Me confesó que no se arrepiente de nada de lo que vivió en estos tres años.",
+     "ko": "이 3년 동안 겪은 일 중 후회하는 건 하나도 없다고 털어놨어."
+    },
+    {
+     "t": 351.0,
+     "s": "S",
+     "es": "Ella guarda los buenos recuerdos, aprecia lo que aprendió, pero entiende que la relación simplemente ya no funcionaba en el presente.",
+     "ko": "좋은 기억은 간직하고, 배운 것에 감사하지만, 지금은 관계가 그냥 더 이상 맞지 않는다는 걸 이해하고 있어."
+    },
+    {
+     "t": 361.0,
+     "s": "C",
+     "es": "¡Qué actitud tan sana e inteligente!",
+     "ko": "정말 건강하고 현명한 태도다!"
+    },
+    {
+     "t": 364.0,
+     "s": "C",
+     "es": "Pero dime algo: ¿ella siente miedo por el futuro inmediato?",
+     "ko": "그런데 하나만 물어볼게. 아나는 당장의 앞날이 두렵지 않대?"
+    },
+    {
+     "t": 368.0,
+     "s": "C",
+     "es": "Quiero decir, volver a estar soltera después de tres años, tener que cambiar sus rutinas de fin de semana… debe ser un cambio gigante en su vida diaria, ¿verdad?",
+     "ko": "그러니까, 3년 만에 다시 싱글이 되고, 주말 일과를 바꿔야 하고… 일상에 엄청난 변화일 거잖아, 그렇지?"
+    },
+    {
+     "t": 378.0,
+     "s": "S",
+     "es": "Sí, claro que siente un poco de vértigo. Es muy normal.",
+     "ko": "응, 당연히 좀 아찔하대. 아주 자연스러운 거지."
+    },
+    {
+     "t": 382.0,
+     "s": "S",
+     "es": "Cuando compartes tres años con alguien, esa persona es parte de tu rutina diaria.",
+     "ko": "누군가와 3년을 함께하면, 그 사람은 내 일상의 일부가 되니까."
+    },
+    {
+     "t": 388.0,
+     "s": "S",
+     "es": "Ahora Ana tiene que aprender a vivir su día a día de una manera diferente.",
+     "ko": "이제 아나는 하루하루를 다른 방식으로 사는 법을 배워야 해."
+    },
+    {
+     "t": 394.0,
+     "s": "C",
+     "es": "Me imagino despertar por la mañana y no enviar ese mensaje de buenos días, o llegar el viernes y no tener planes juntos.",
+     "ko": "아침에 일어나서 그 '굿모닝' 문자를 안 보내고, 금요일이 와도 함께할 계획이 없는 걸 상상해 봐."
+    },
+    {
+     "t": 403.0,
+     "s": "C",
+     "es": "Debe ser un vacío enorme al principio.",
+     "ko": "처음엔 엄청난 공허함이겠다."
+    },
+    {
+     "t": 406.0,
+     "s": "S",
+     "es": "Exacto, Carlos. Pero lo interesante es cómo ella está manejando ese vacío.",
+     "ko": "맞아, 카를로스. 그런데 흥미로운 건 아나가 그 공허함을 다루는 방식이야."
+    },
+    {
+     "t": 411.0,
+     "s": "S",
+     "es": "No está buscando distracciones tóxicas ni saliendo de fiesta todos los días para olvidar.",
+     "ko": "해로운 딴짓거리를 찾거나, 잊으려고 매일 파티하러 나가지 않아."
+    },
+    {
+     "t": 418.0,
+     "s": "S",
+     "es": "Está usando este tiempo para reconectar consigo misma.",
+     "ko": "이 시간을 자기 자신과 다시 연결되는 데 쓰고 있어."
+    },
+    {
+     "t": 421.0,
+     "s": "C",
+     "es": "Eso es muy maduro. Muchas personas no saben estar solas e inmediatamente buscan otra relación.",
+     "ko": "그거 정말 성숙하다. 많은 사람이 혼자 있는 법을 몰라서 바로 다른 연애를 찾잖아."
+    },
+    {
+     "t": 429.0,
+     "s": "C",
+     "es": "Creo que aprender a estar con uno mismo es vital.",
+     "ko": "나 자신과 함께 있는 법을 배우는 게 정말 중요한 것 같아."
+    },
+    {
+     "t": 432.0,
+     "s": "S",
+     "es": "Totalmente. Ana me dijo que quiere volver a sus antiguos pasatiempos.",
+     "ko": "완전히. 아나는 예전 취미로 돌아가고 싶대."
+    },
+    {
+     "t": 437.0,
+     "s": "S",
+     "es": "Por ejemplo, va a retomar sus clases de pintura y quiere dedicar más tiempo a aprender español.",
+     "ko": "예를 들면 그림 수업을 다시 시작하고, 스페인어 공부에 시간을 더 쓰고 싶대."
+    },
+    {
+     "t": 443.0,
+     "s": "S",
+     "es": "De hecho, me dijo que escucha nuestro podcast para su Spanish listening practice.",
+     "ko": "사실 듣기 연습으로 우리 팟캐스트를 듣는대."
+    },
+    {
+     "t": 449.0,
+     "s": "C",
+     "es": "¡Qué maravilla! Le mandamos un saludo muy grande a Ana, si nos está escuchando.",
+     "ko": "멋지다! 아나, 듣고 있다면 크게 인사 보낼게."
+    },
+    {
+     "t": 454.0,
+     "s": "C",
+     "es": "Escuchar español en un podcast relajado es una forma excelente de enfocar la mente en algo positivo y productivo.",
+     "ko": "편안한 팟캐스트로 스페인어를 듣는 건 마음을 긍정적이고 생산적인 데 집중하는 아주 좋은 방법이에요."
+    },
+    {
+     "t": 462.0,
+     "s": "S",
+     "es": "Así es. Concentrarse en aprender cosas nuevas ayuda a sanar el corazón.",
+     "ko": "맞아요. 새로운 걸 배우는 데 집중하면 마음의 상처가 낫는 데 도움이 돼요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 정리 ② incertidumbre · sanar · autoestima · echar de menos · independencia",
+   "lines": [
+    {
+     "t": 467.0,
+     "s": "C",
+     "es": "Y hablando de aprender, creo que es el momento perfecto para explicar un poco más del vocabulario que estamos usando en esta charla.",
+     "ko": "배움 얘기가 나왔으니, 이 대화에서 쓰고 있는 어휘를 조금 더 설명하기 딱 좋은 때인 것 같아요."
+    },
+    {
+     "t": 476.0,
+     "s": "S",
+     "es": "Me parece una idea fantástica. Este vocabulario español es muy necesario porque las emociones son parte de la vida cotidiana.",
+     "ko": "아주 좋은 생각이에요. 감정은 일상의 일부라서 이 어휘는 꼭 필요해요."
+    },
+    {
+     "t": 484.0,
+     "s": "C",
+     "es": "¿Qué palabras vamos a analizar ahora, Sofía?",
+     "ko": "이번엔 어떤 단어들을 분석할까요, 소피아?"
+    },
+    {
+     "t": 487.0,
+     "s": "S",
+     "es": "\"Incertidumbre\". Es la sensación de no saber qué va a pasar en el futuro.",
+     "ko": "'incertidumbre(불확실성)'. 앞으로 무슨 일이 일어날지 모르는 느낌이에요."
+    },
+    {
+     "t": 492.0,
+     "s": "S",
+     "es": "Es esa duda o miedo natural que sentimos cuando nuestra vida cambia de repente.",
+     "ko": "삶이 갑자기 바뀔 때 느끼는 자연스러운 의심이나 두려움이죠."
+    },
+    {
+     "t": 498.0,
+     "s": "S",
+     "es": "\"Sanar\" significa curar una herida.",
+     "ko": "'sanar(낫다, 치유하다)'는 상처를 치료한다는 뜻이에요."
+    },
+    {
+     "t": 501.0,
+     "s": "S",
+     "es": "En este contexto no hablamos de una herida física, sino de curar las emociones y superar el dolor después de la ruptura.",
+     "ko": "여기서는 몸의 상처가 아니라, 이별 뒤에 감정을 치유하고 아픔을 이겨 내는 걸 말해요."
+    },
+    {
+     "t": 510.0,
+     "s": "S",
+     "es": "\"Autoestima\" es el amor, la valoración y el respeto que tenemos por nosotros mismos.",
+     "ko": "'autoestima(자존감)'는 우리 자신에 대한 사랑, 가치 인정, 존중이에요."
+    },
+    {
+     "t": 515.0,
+     "s": "S",
+     "es": "Es muy importante cuidar la autoestima cuando una relación termina.",
+     "ko": "관계가 끝났을 때 자존감을 돌보는 게 아주 중요해요."
+    },
+    {
+     "t": 520.0,
+     "s": "S",
+     "es": "\"Echar de menos\" es sentir tristeza por la ausencia de una persona.",
+     "ko": "'echar de menos(그리워하다)'는 누군가가 없어서 슬픔을 느끼는 거예요."
+    },
+    {
+     "t": 525.0,
+     "s": "S",
+     "es": "Es cuando recuerdas a alguien y deseas que esté contigo en ese momento.",
+     "ko": "누군가를 떠올리며 그 순간 그 사람이 곁에 있기를 바라는 거죠."
+    },
+    {
+     "t": 530.0,
+     "s": "S",
+     "es": "\"Independencia\" es la capacidad de actuar y tomar decisiones por uno mismo, sin depender de otra persona.",
+     "ko": "'independencia(독립)'는 다른 사람에게 기대지 않고 스스로 행동하고 결정하는 능력이에요."
+    },
+    {
+     "t": 537.0,
+     "s": "S",
+     "es": "Es lo que recuperamos al volver a estar solteros.",
+     "ko": "다시 싱글이 되면 되찾는 것이죠."
+    },
+    {
+     "t": 541.0,
+     "s": "C",
+     "es": "Excelente análisis. Amigos que nos escuchan, recuerden que pueden dejar un comentario aquí abajo usando la expresión \"echar de menos\".",
+     "ko": "훌륭한 분석이에요. 듣고 계신 여러분, 'echar de menos'를 써서 아래에 댓글을 남길 수 있다는 것 기억하세요."
+    },
+    {
+     "t": 550.0,
+     "s": "C",
+     "es": "¿A quién o qué echan de menos ustedes hoy?",
+     "ko": "여러분은 오늘 누가, 또는 무엇이 그리운가요?"
+    },
+    {
+     "t": 553.0,
+     "s": "C",
+     "es": "Y no olviden suscribirse al canal si quieren seguir mejorando su conversación en español con nosotros.",
+     "ko": "그리고 저희와 함께 스페인어 회화를 계속 늘리고 싶다면 채널 구독도 잊지 마세요."
+    }
+   ]
+  },
+  {
+   "title": "울어도 괜찮아 — 짐을 돌려주는 날",
+   "lines": [
+    {
+     "t": 559.0,
+     "s": "S",
+     "es": "Muchas gracias por recordarlo, Carlos. Es fundamental practicar estas palabras en voz alta.",
+     "ko": "상기시켜 줘서 고마워요, 카를로스. 이 단어들은 소리 내어 연습하는 게 기본이에요."
+    },
+    {
+     "t": 565.0,
+     "s": "S",
+     "es": "Volviendo a la historia, Ana sabe que va a echar de menos a su exnovio, y se lo permite. No intenta reprimir sus emociones.",
+     "ko": "이야기로 돌아가면, 아나는 전 남자 친구를 그리워하게 될 걸 알고, 그걸 허락해. 감정을 억누르려 하지 않아."
+    },
+    {
+     "t": 575.0,
+     "s": "C",
+     "es": "Eso es muy sano. A veces la sociedad nos dice que tenemos que estar felices y fuertes todo el tiempo.",
+     "ko": "그거 정말 건강하다. 가끔 사회는 우리가 늘 행복하고 강해야 한다고 말하잖아."
+    },
+    {
+     "t": 581.0,
+     "s": "C",
+     "es": "Llorar un poco y aceptar la tristeza también es parte del proceso, ¿verdad?",
+     "ko": "조금 울고 슬픔을 받아들이는 것도 과정의 일부지, 그렇지?"
+    },
+    {
+     "t": 587.0,
+     "s": "S",
+     "es": "Exactamente. Llorar limpia el alma.",
+     "ko": "맞아. 울면 영혼이 깨끗해져."
+    },
+    {
+     "t": 589.0,
+     "s": "S",
+     "es": "Ana y su exnovio también fueron muy prácticos. Ayer, mientras yo estaba allí, él vino un momento a la casa a recoger algunas de sus cosas.",
+     "ko": "아나랑 전 남자 친구는 아주 현실적이기도 했어. 어제 내가 거기 있는 동안 그가 자기 물건 몇 개를 가지러 잠깐 집에 왔거든."
+    },
+    {
+     "t": 599.0,
+     "s": "C",
+     "es": "Oh, ¿y cómo fue ese momento?",
+     "ko": "오, 그 순간은 어땠어?"
+    },
+    {
+     "t": 601.0,
+     "s": "C",
+     "es": "Normalmente, devolver las cosas como libros, ropa o las llaves de la casa es un momento de mucha tensión y de muchas lágrimas.",
+     "ko": "보통 책이나 옷, 집 열쇠 같은 걸 돌려주는 건 긴장되고 눈물이 많이 나는 순간이잖아."
+    },
+    {
+     "t": 610.0,
+     "s": "S",
+     "es": "Te prometo que fue muy tranquilo.",
+     "ko": "정말이지 아주 차분했어."
+    },
+    {
+     "t": 613.0,
+     "s": "S",
+     "es": "Él llamó antes de venir, preguntó si era un buen momento, llegó, guardó sus cosas en una caja y charlaron unos diez minutos.",
+     "ko": "오기 전에 전화해서 지금 괜찮은지 묻고, 와서 물건을 상자에 담고, 둘이 10분쯤 이야기를 나눴어."
+    },
+    {
+     "t": 621.0,
+     "s": "S",
+     "es": "Se desearon lo mejor con mucha sinceridad.",
+     "ko": "서로 진심으로 잘되길 빌어 줬어."
+    },
+    {
+     "t": 624.0,
+     "s": "C",
+     "es": "De verdad que es un ejemplo a seguir.",
+     "ko": "정말 본받을 만한 예다."
+    },
+    {
+     "t": 626.0,
+     "s": "C",
+     "es": "Hablar español y poder expresar ese respeto hacia el otro demuestra muchísima inteligencia emocional.",
+     "ko": "스페인어로 말하면서 상대에 대한 그런 존중을 표현할 수 있다는 건 정서 지능이 아주 높다는 걸 보여 줘요."
+    }
+   ]
+  },
+  {
+   "title": "공통 친구와 SNS — 편 가르지 않기, 차단 대신 '숨기기'",
+   "lines": [
+    {
+     "t": 634.0,
+     "s": "C",
+     "es": "Pero tengo una duda, Sofía. Cuando una pareja lleva tanto tiempo junta, sus vidas sociales se mezclan mucho.",
+     "ko": "그런데 궁금한 게 있어, 소피아. 커플이 그렇게 오래 함께하면 사회생활이 많이 섞이잖아."
+    },
+    {
+     "t": 641.0,
+     "s": "C",
+     "es": "¿Qué pasa con los amigos en común? Porque dividir a los amigos suele ser la parte más difícil e incómoda de una separación.",
+     "ko": "공통 친구들은 어떻게 돼? 친구를 나누는 게 보통 이별에서 가장 어렵고 불편한 부분이잖아."
+    },
+    {
+     "t": 648.0,
+     "s": "S",
+     "es": "Esa es una pregunta excelente, Carlos. El círculo social es siempre un tema muy complicado cuando hay una ruptura.",
+     "ko": "아주 좋은 질문이야, 카를로스. 이별할 때 인간관계는 늘 아주 복잡한 문제지."
+    },
+    {
+     "t": 657.0,
+     "s": "S",
+     "es": "Pero Ana y su exnovio también hablaron de esto con mucha madurez antes de separarse definitivamente.",
+     "ko": "그런데 아나와 전 남자 친구는 완전히 헤어지기 전에 이것도 아주 성숙하게 이야기했어."
+    },
+    {
+     "t": 664.0,
+     "s": "C",
+     "es": "¿De verdad? ¿Y qué decidieron hacer?",
+     "ko": "정말? 그래서 어떻게 하기로 했어?"
+    },
+    {
+     "t": 666.0,
+     "s": "C",
+     "es": "Porque conozco casos donde los amigos se dividen en dos grupos diferentes, como si fuera una guerra. Es una situación muy incómoda para todos.",
+     "ko": "친구들이 전쟁이라도 난 것처럼 두 무리로 갈라지는 경우를 알거든. 모두에게 아주 불편한 상황이지."
+    },
+    {
+     "t": 674.0,
+     "s": "S",
+     "es": "Exactamente eso es lo que ellos querían evitar. Decidieron ser muy honestos con sus amigos en común.",
+     "ko": "바로 그걸 피하고 싶었던 거야. 공통 친구들에게 아주 솔직하기로 했어."
+    },
+    {
+     "t": 681.0,
+     "s": "S",
+     "es": "Les explicaron que la relación terminó bien, con respeto, y que nadie tiene que elegir un bando.",
+     "ko": "관계가 존중 속에서 잘 끝났고, 아무도 편을 고를 필요가 없다고 설명했어."
+    },
+    {
+     "t": 688.0,
+     "s": "C",
+     "es": "¡Qué alivio para esos amigos!",
+     "ko": "그 친구들한텐 정말 다행이다!"
+    },
+    {
+     "t": 689.0,
+     "s": "C",
+     "es": "Es horrible cuando sientes que tienes que dejar de hablar con una buena persona solo por lealtad a tu otro amigo. Es una dinámica muy infantil.",
+     "ko": "다른 친구에 대한 의리 때문에 좋은 사람과 말도 끊어야 할 것 같은 기분은 끔찍하잖아. 아주 유치한 관계 방식이야."
+    },
+    {
+     "t": 698.0,
+     "s": "S",
+     "es": "Así es. Ana incluso escribió un mensaje en el grupo de WhatsApp que tienen con sus amigos más cercanos.",
+     "ko": "그렇지. 아나는 친한 친구들과 있는 왓츠앱 단톡방에 메시지까지 남겼어."
+    },
+    {
+     "t": 705.0,
+     "s": "S",
+     "es": "Fue un mensaje breve, explicando la nueva situación con mucho cariño.",
+     "ko": "새로운 상황을 다정하게 설명하는 짧은 메시지였어."
+    },
+    {
+     "t": 710.0,
+     "s": "S",
+     "es": "Pidió que, por favor, la dinámica del grupo siguiera lo más normal posible.",
+     "ko": "모임 분위기가 최대한 평소처럼 이어졌으면 좋겠다고 부탁했고."
+    },
+    {
+     "t": 715.0,
+     "s": "C",
+     "es": "Muy inteligente y directo.",
+     "ko": "아주 현명하고 솔직하다."
+    },
+    {
+     "t": 717.0,
+     "s": "C",
+     "es": "Pero hablando de cosas modernas y comunicación, ¿qué pasa con las redes sociales?",
+     "ko": "그런데 요즘 것들과 소통 얘기가 나온 김에, SNS는 어떻게 해?"
+    },
+    {
+     "t": 721.0,
+     "s": "C",
+     "es": "Hoy en día, ver las fotos de tu ex constantemente puede ser una tortura mientras intentas superar la ruptura.",
+     "ko": "요즘엔 이별을 극복하려는 중에 전 애인 사진을 계속 보는 게 고문일 수 있잖아."
+    },
+    {
+     "t": 727.0,
+     "s": "S",
+     "es": "Tienes toda la razón, Carlos. Ese es un aspecto fundamental de una separación moderna.",
+     "ko": "완전히 맞아, 카를로스. 그게 요즘 이별의 아주 중요한 부분이지."
+    },
+    {
+     "t": 734.0,
+     "s": "S",
+     "es": "Ana me contó que decidió no bloquear a su ex porque no hay odio ni resentimiento entre ellos, pero sí decidió silenciar sus publicaciones.",
+     "ko": "아나는 둘 사이에 미움도 원망도 없으니까 전 남자 친구를 차단하지 않기로 했대. 대신 게시물은 숨기기(뮤트)로 했대."
+    },
+    {
+     "t": 744.0,
+     "s": "C",
+     "es": "\"Silenciar\". Para los que están empezando a aprender español, eso significa que siguen siendo amigos en la aplicación, pero ella no ve sus fotos nuevas en su teléfono.",
+     "ko": "'silenciar(숨기기, 뮤트)'. 스페인어를 막 배우기 시작한 분들을 위해 말하면, 앱에서는 계속 친구지만 아나 휴대폰에는 그의 새 사진이 안 뜬다는 뜻이에요."
+    },
+    {
+     "t": 753.0,
+     "s": "S",
+     "es": "Exacto. Es una manera excelente de proteger su paz mental. Ella necesita espacio visual y emocional.",
+     "ko": "맞아요. 마음의 평화를 지키는 아주 좋은 방법이에요. 아나에겐 눈으로도 마음으로도 공간이 필요해요."
+    },
+    {
+     "t": 760.0,
+     "s": "S",
+     "es": "Ver lo que él hace todos los días, dónde come o con quién sale, no la ayudaría a cerrar esta etapa.",
+     "ko": "그가 매일 뭘 하는지, 어디서 먹는지, 누구랑 노는지 보는 건 이 시기를 닫는 데 도움이 안 될 거예요."
+    },
+    {
+     "t": 768.0,
+     "s": "S",
+     "es": "Necesita mantener una distancia sana.",
+     "ko": "건강한 거리를 유지해야 해요."
+    },
+    {
+     "t": 770.0,
+     "s": "C",
+     "es": "Es un enfoque genial, y creo que aquí tenemos expresiones maravillosas para nuestra Spanish conversation.",
+     "ko": "아주 멋진 접근이고, 여기에 스페인어 회화에 쓸 멋진 표현들이 있는 것 같아요."
+    },
+    {
+     "t": 777.0,
+     "s": "C",
+     "es": "Sofía, ¿qué te parece si hacemos nuestra pausa para explicar algunas de estas palabras importantes para nuestros estudiantes?",
+     "ko": "소피아, 학생들을 위해 이 중요한 단어 몇 개를 설명하는 '잠깐 멈춤'을 하면 어때요?"
+    }
+   ]
+  },
+  {
+   "title": "어휘 정리 ③ círculo social · tomar partido · silenciar · distancia sana · bando",
+   "lines": [
+    {
+     "t": 783.0,
+     "s": "S",
+     "es": "Me parece una idea fantástica, Carlos. Vamos a analizar este vocabulario español tan útil para hablar de relaciones personales en la vida diaria.",
+     "ko": "아주 좋은 생각이에요, 카를로스. 일상에서 인간관계를 말할 때 정말 유용한 이 어휘들을 분석해 볼게요."
+    },
+    {
+     "t": 793.0,
+     "s": "S",
+     "es": "\"Círculo social\" es el grupo de amigos, conocidos y compañeros con los que una persona interactúa regularmente en su vida cotidiana.",
+     "ko": "'círculo social(인간관계, 사회적 관계망)'는 일상에서 꾸준히 어울리는 친구, 지인, 동료의 무리예요."
+    },
+    {
+     "t": 803.0,
+     "s": "S",
+     "es": "\"Tomar partido\" significa elegir un lado en un conflicto o discusión.",
+     "ko": "'tomar partido(편을 들다)'는 갈등이나 말다툼에서 한쪽을 고르는 거예요."
+    },
+    {
+     "t": 808.0,
+     "s": "S",
+     "es": "Es lo que hacemos cuando decidimos apoyar a una persona y ponernos en contra de la otra.",
+     "ko": "한 사람을 지지하고 다른 사람에게 등을 돌리기로 할 때 하는 일이죠."
+    },
+    {
+     "t": 814.0,
+     "s": "S",
+     "es": "\"Silenciar\", en el contexto de internet y las redes sociales, es usar una opción para dejar de ver las fotos o mensajes de alguien sin necesidad de eliminar a esa persona de tus contactos.",
+     "ko": "인터넷과 SNS에서 'silenciar(숨기기, 뮤트하다)'는 연락처에서 삭제하지 않고도 누군가의 사진이나 메시지를 보지 않게 하는 기능을 쓰는 거예요."
+    },
+    {
+     "t": 827.0,
+     "s": "S",
+     "es": "\"Distancia sana\" es el espacio físico o emocional que necesitamos poner entre nosotros y otra persona.",
+     "ko": "'distancia sana(건강한 거리)'는 나와 다른 사람 사이에 두어야 하는 물리적·감정적 공간이에요."
+    },
+    {
+     "t": 833.0,
+     "s": "S",
+     "es": "Lo hacemos para proteger nuestra salud mental y encontrar la tranquilidad.",
+     "ko": "정신 건강을 지키고 평온을 찾기 위해서죠."
+    },
+    {
+     "t": 838.0,
+     "s": "S",
+     "es": "\"Bando\" es un grupo de personas que se unen para defender una misma idea, posición o persona, generalmente en oposición o competencia directa con otro grupo.",
+     "ko": "'bando(편, 진영)'는 같은 생각이나 입장, 사람을 지키려고 뭉친 무리로, 보통 다른 무리와 맞서거나 직접 경쟁해요."
+    },
+    {
+     "t": 849.0,
+     "s": "C",
+     "es": "Aprender español con estas palabras prácticas es lo que hace que nuestro canal sea tan especial.",
+     "ko": "이런 실용적인 단어로 스페인어를 배우는 게 우리 채널을 특별하게 만들어요."
+    },
+    {
+     "t": 855.0,
+     "s": "C",
+     "es": "Entender los sentimientos en otro idioma nos conecta muchísimo más.",
+     "ko": "다른 언어로 감정을 이해하면 훨씬 더 깊이 연결되거든요."
+    }
+   ]
+  },
+  {
+   "title": "사랑하기에 작별할 줄 아는 용기",
+   "lines": [
+    {
+     "t": 859.0,
+     "s": "S",
+     "es": "Así es, Carlos. Conectar con nuestras emociones es universal.",
+     "ko": "맞아요, 카를로스. 감정과 연결되는 건 누구에게나 마찬가지예요."
+    },
+    {
+     "t": 864.0,
+     "s": "S",
+     "es": "Y volviendo a Ana, ella tiene muy claro que necesita esa distancia sana ahora mismo.",
+     "ko": "아나 얘기로 돌아가면, 아나는 지금 그 건강한 거리가 필요하다는 걸 아주 분명히 알고 있어."
+    },
+    {
+     "t": 870.0,
+     "s": "S",
+     "es": "La verdad, escucharla hablar ayer con tanta paz me inspiró mucho. Es un ejemplo brillante de inteligencia emocional.",
+     "ko": "솔직히 어제 아나가 그렇게 평온하게 말하는 걸 들으니 많은 영감을 받았어. 정서 지능의 빛나는 본보기야."
+    },
+    {
+     "t": 879.0,
+     "s": "C",
+     "es": "Totalmente. Creo que todos los que escuchamos este Spanish podcast podemos aprender grandes lecciones de vida con la historia de tu amiga.",
+     "ko": "완전히. 이 팟캐스트를 듣는 우리 모두가 네 친구 이야기에서 큰 삶의 교훈을 얻을 수 있을 것 같아."
+    },
+    {
+     "t": 886.0,
+     "s": "C",
+     "es": "Cuando una relación amorosa no funciona, no siempre tiene que terminar con gritos, dramas familiares o peleas terribles.",
+     "ko": "연애가 잘 안 될 때, 꼭 고함이나 집안 드라마나 끔찍한 싸움으로 끝나야 하는 건 아니야."
+    },
+    {
+     "t": 894.0,
+     "s": "S",
+     "es": "Así es. Ese es el mensaje más importante que quiero compartir hoy.",
+     "ko": "그렇지. 그게 오늘 내가 나누고 싶은 가장 중요한 메시지야."
+    },
+    {
+     "t": 898.0,
+     "s": "S",
+     "es": "A veces amar a alguien también significa tener la valentía y saber cuándo decir adiós.",
+     "ko": "때로는 누군가를 사랑한다는 건, 용기를 내서 언제 작별할지 아는 것이기도 해."
+    },
+    {
+     "t": 904.0,
+     "s": "S",
+     "es": "Ellos entendieron que, aunque se quieren mucho y se respetan como personas individuales, ya no funcionan bien como compañeros de vida.",
+     "ko": "두 사람은 서로 아끼고 한 사람으로서 존중하지만, 삶의 동반자로서는 더 이상 잘 맞지 않는다는 걸 이해했어."
+    },
+    {
+     "t": 913.0,
+     "s": "C",
+     "es": "Mm, es una reflexión muy profunda, Sofía.",
+     "ko": "음, 아주 깊은 생각이다, 소피아."
+    },
+    {
+     "t": 916.0,
+     "s": "C",
+     "es": "Quererse como personas, pero aceptar que no funcionan como pareja, requiere mucho valor.",
+     "ko": "사람으로서는 서로 아끼지만 커플로서는 안 맞는다는 걸 받아들이려면 큰 용기가 필요하지."
+    },
+    {
+     "t": 921.0,
+     "s": "C",
+     "es": "Mucha honestidad y madurez, aceptar esa realidad en lugar de intentar forzar las cosas durante años.",
+     "ko": "몇 년 동안 억지로 끌고 가려 하는 대신 그 현실을 받아들이는 건, 많은 정직함과 성숙함이 필요해."
+    }
+   ]
+  },
+  {
+   "title": "실패가 아니라 성장 — 언제 끝내야 하는지 어떻게 알까?",
+   "lines": [
+    {
+     "t": 927.0,
+     "s": "S",
+     "es": "Así es. Y eso me lleva a un punto muy bonito de nuestra conversación.",
+     "ko": "맞아. 그리고 그게 우리 대화의 아주 아름다운 지점으로 이어져."
+    },
+    {
+     "t": 932.0,
+     "s": "S",
+     "es": "Ana no ve esta ruptura como un fracaso en su vida. Para ella, los tres años que vivieron juntos fueron un éxito.",
+     "ko": "아나는 이 이별을 인생의 실패로 보지 않아. 아나에게 함께 산 3년은 성공이었어."
+    },
+    {
+     "t": 940.0,
+     "s": "S",
+     "es": "Fueron años felices, de muchas experiencias compartidas, y ambos crecieron muchísimo gracias al otro.",
+     "ko": "행복한 시간이었고, 함께한 경험이 많았고, 둘 다 서로 덕분에 아주 많이 성장했어."
+    },
+    {
+     "t": 947.0,
+     "s": "S",
+     "es": "Simplemente el ciclo terminó.",
+     "ko": "그저 한 주기가 끝난 거야."
+    },
+    {
+     "t": 949.0,
+     "s": "C",
+     "es": "Esa es una perspectiva muy hermosa y esperanzadora. Cambiar la palabra \"fracaso\" por \"experiencia\" y \"crecimiento\", me encanta.",
+     "ko": "정말 아름답고 희망적인 관점이다. '실패'라는 말을 '경험'과 '성장'으로 바꾸는 거, 정말 좋아."
+    },
+    {
+     "t": 957.0,
+     "s": "C",
+     "es": "Pero, Sofía, me surge una gran duda ahora. ¿Cómo supieron exactamente que era el momento correcto para terminar?",
+     "ko": "그런데 소피아, 지금 큰 궁금증이 생겼어. 끝낼 때가 됐다는 걸 정확히 어떻게 알았을까?"
+    },
+    {
+     "t": 963.0,
+     "s": "C",
+     "es": "A veces, cuando no hay grandes problemas, es muy difícil identificar ese límite final.",
+     "ko": "큰 문제가 없을 때는 그 마지막 선을 알아차리기가 아주 어렵잖아."
+    },
+    {
+     "t": 968.0,
+     "s": "S",
+     "es": "Es una pregunta muy profunda, Carlos. Ana me explicó que no hubo un día exacto ni una gran discusión. Fue un proceso gradual.",
+     "ko": "아주 깊은 질문이야, 카를로스. 아나 말로는 딱 정해진 날도, 큰 싸움도 없었대. 서서히 진행된 과정이었대."
+    },
+    {
+     "t": 979.0,
+     "s": "S",
+     "es": "Se dieron cuenta de que pasaban los días juntos, pero sus mentes y sus sueños estaban en lugares distintos.",
+     "ko": "하루하루를 함께 보내지만, 마음과 꿈은 서로 다른 곳에 있다는 걸 깨달은 거야."
+    },
+    {
+     "t": 987.0,
+     "s": "C",
+     "es": "Entiendo perfectamente. Es como cuando la relación romántica se transforma lentamente en una amistad, ¿verdad?",
+     "ko": "완전히 이해해. 연인 관계가 천천히 우정으로 바뀌는 것 같은 거지, 그렇지?"
+    },
+    {
+     "t": 995.0,
+     "s": "C",
+     "es": "Y de repente, un día te das cuenta de que falta algo esencial para ser pareja.",
+     "ko": "그러다 어느 날 갑자기 커플이 되기 위한 본질적인 무언가가 빠져 있다는 걸 깨닫는 거고."
+    },
+    {
+     "t": 1000.0,
+     "s": "S",
+     "es": "Exactamente eso. Se querían muchísimo, sí, pero la dinámica en casa era más de compañeros de piso que de pareja enamorada.",
+     "ko": "바로 그거야. 서로 엄청 아꼈지, 응. 그런데 집에서의 관계는 사랑하는 커플이라기보다 룸메이트에 가까웠대."
+    },
+    {
+     "t": 1011.0,
+     "s": "S",
+     "es": "Esa conexión especial que te hace desear construir un futuro juntos simplemente se había apagado con el tiempo.",
+     "ko": "함께 미래를 만들고 싶게 하는 그 특별한 연결이 시간이 지나며 그냥 꺼져 버린 거야."
+    },
+    {
+     "t": 1021.0,
+     "s": "C",
+     "es": "Debe ser muy difícil aceptar eso y decirlo en voz alta.",
+     "ko": "그걸 받아들이고 소리 내어 말하는 건 정말 어려웠겠다."
+    },
+    {
+     "t": 1026.0,
+     "s": "C",
+     "es": "Requiere mucha valentía no conformarse con esa situación.",
+     "ko": "그 상황에 안주하지 않으려면 큰 용기가 필요해."
+    },
+    {
+     "t": 1029.0,
+     "s": "C",
+     "es": "Muchas personas siguen juntas por costumbre o por el simple miedo a estar solas.",
+     "ko": "많은 사람이 습관 때문에, 아니면 그저 혼자가 되는 게 무서워서 계속 함께 지내잖아."
+    }
+   ]
+  },
+  {
+   "title": "어휘 정리 ④ estancamiento · chispa · compañero de piso · inercia · apego",
+   "lines": [
+    {
+     "t": 1035.0,
+     "s": "S",
+     "es": "Tienes toda la razón. Y para ayudar a nuestros estudiantes a hablar español con fluidez y poder expresar estas situaciones emocionales, vamos a hacer nuestra pausa para analizar el vocabulario español que acabamos de utilizar.",
+     "ko": "정말 맞아요. 학생들이 스페인어를 유창하게 말하고 이런 감정 상황을 표현할 수 있도록, 방금 쓴 어휘를 분석하는 '잠깐 멈춤'을 해 볼게요."
+    },
+    {
+     "t": 1052.0,
+     "s": "S",
+     "es": "\"Estancamiento\" es la situación en la que algo se detiene y no avanza ni evoluciona.",
+     "ko": "'estancamiento(정체)'는 무언가가 멈춰서 나아가지도 발전하지도 않는 상태예요."
+    },
+    {
+     "t": 1059.0,
+     "s": "S",
+     "es": "En una relación, significa que la pareja ya no crece junta y la rutina se vuelve aburrida.",
+     "ko": "관계에서는 커플이 더 이상 함께 성장하지 않고 일상이 지루해진다는 뜻이에요."
+    },
+    {
+     "t": 1067.0,
+     "s": "S",
+     "es": "\"Chispa\", literalmente, es el pequeño fuego que salta de una hoguera.",
+     "ko": "'chispa'는 글자 그대로는 모닥불에서 튀는 작은 불꽃이에요."
+    },
+    {
+     "t": 1072.0,
+     "s": "S",
+     "es": "Pero en el amor es la atracción mágica, la emoción y la pasión que existe entre dos personas.",
+     "ko": "하지만 사랑에서는 두 사람 사이의 마법 같은 끌림, 설렘, 열정이에요."
+    },
+    {
+     "t": 1080.0,
+     "s": "S",
+     "es": "\"Compañero de piso\" es la persona con la que compartes una casa o un apartamento para dividir los gastos, pero con la que no tienes ninguna relación sentimental.",
+     "ko": "'compañero de piso(룸메이트)'는 비용을 나누려고 집이나 아파트를 함께 쓰지만, 연애 감정은 전혀 없는 사람이에요."
+    },
+    {
+     "t": 1092.0,
+     "s": "S",
+     "es": "\"Inercia\" es la fuerza que hace que sigas haciendo lo mismo sin pensar.",
+     "ko": "'inercia(관성, 타성)'는 생각 없이 같은 일을 계속하게 만드는 힘이에요."
+    },
+    {
+     "t": 1098.0,
+     "s": "S",
+     "es": "En el amor, estar juntos por inercia significa no separarse simplemente porque es la rutina más fácil.",
+     "ko": "사랑에서 '관성으로 함께 있다'는 건 그게 가장 편한 일상이라서 헤어지지 않는다는 뜻이에요."
+    },
+    {
+     "t": 1107.0,
+     "s": "S",
+     "es": "\"Apego\" es el cariño especial o la necesidad emocional que sentimos hacia una persona por haber pasado mucho tiempo con ella, aunque ya no estemos enamorados.",
+     "ko": "'apego(애착, 정)'는 더는 사랑에 빠져 있지 않아도, 오랜 시간을 함께해서 그 사람에게 느끼는 특별한 정이나 감정적 필요예요."
+    },
+    {
+     "t": 1118.0,
+     "s": "C",
+     "es": "¡Qué palabras tan maravillosas para mejorar nuestro nivel!",
+     "ko": "실력을 늘리는 데 정말 멋진 단어들이네요!"
+    },
+    {
+     "t": 1122.0,
+     "s": "C",
+     "es": "Amigos, los invito a participar. Escriban en los comentarios una frase usando la palabra \"inercia\" o \"chispa\".",
+     "ko": "여러분, 참여해 주세요. 'inercia'나 'chispa'를 써서 댓글로 문장을 하나 써 주세요."
+    },
+    {
+     "t": 1129.0,
+     "s": "C",
+     "es": "Y si están disfrutando de este Spanish podcast, por favor, suscríbanse al canal.",
+     "ko": "그리고 이 팟캐스트가 즐겁다면 채널을 구독해 주세요."
+    },
+    {
+     "t": 1135.0,
+     "s": "C",
+     "es": "Su suscripción y sus me gusta nos ayudan muchísimo a llegar a más estudiantes.",
+     "ko": "구독과 좋아요는 더 많은 학생에게 닿는 데 정말 큰 도움이 돼요."
+    }
+   ]
+  },
+  {
+   "title": "놓아주는 용기 — 서로의 행복을 빌며",
+   "lines": [
+    {
+     "t": 1140.0,
+     "s": "S",
+     "es": "Sí, por favor. Cada comentario nos anima a seguir ofreciendo estas clases de español gratuitas.",
+     "ko": "네, 꼭이요. 댓글 하나하나가 무료 스페인어 수업을 계속하는 힘이 돼요."
+    },
+    {
+     "t": 1148.0,
+     "s": "S",
+     "es": "Retomando la historia de Ana, ella fue muy honesta consigo misma.",
+     "ko": "아나 이야기로 다시 돌아가면, 아나는 자기 자신에게 아주 솔직했어."
+    },
+    {
+     "t": 1153.0,
+     "s": "S",
+     "es": "Me dijo que sentir solo apego y vivir en la inercia no era suficiente para mantener la relación diez años más.",
+     "ko": "정과 관성만으로 사는 건 관계를 10년 더 이어 가기에 충분하지 않다고 하더라."
+    },
+    {
+     "t": 1163.0,
+     "s": "C",
+     "es": "Wow, esa es una demostración de amor propio increíble.",
+     "ko": "와, 엄청난 자기애를 보여 주는 거다."
+    },
+    {
+     "t": 1166.0,
+     "s": "C",
+     "es": "Es tener el valor de dejar ir a alguien que aprecias profundamente para que ambos puedan encontrar la felicidad completa en el futuro.",
+     "ko": "깊이 아끼는 사람을 놓아줄 용기를 내는 거지. 둘 다 앞으로 온전한 행복을 찾을 수 있도록."
+    },
+    {
+     "t": 1174.0,
+     "s": "S",
+     "es": "Exacto, Carlos. Y ese es el mensaje central de la historia de hoy.",
+     "ko": "맞아, 카를로스. 그게 오늘 이야기의 핵심 메시지야."
+    },
+    {
+     "t": 1179.0,
+     "s": "S",
+     "es": "El final de una relación, cuando se hace de forma madura, no es una tragedia terrible. Es un acto de respeto y de esperanza.",
+     "ko": "관계의 끝은, 성숙하게 마무리하면 끔찍한 비극이 아니야. 존중과 희망의 행동이야."
+    },
+    {
+     "t": 1189.0,
+     "s": "S",
+     "es": "Es creer que hay un futuro brillante esperando a los dos, aunque sea por caminos separados.",
+     "ko": "비록 다른 길이더라도, 두 사람 모두를 기다리는 밝은 미래가 있다고 믿는 거야."
+    },
+    {
+     "t": 1196.0,
+     "s": "C",
+     "es": "¡Qué forma preciosa de verlo!",
+     "ko": "정말 아름다운 시각이다!"
+    },
+    {
+     "t": 1198.0,
+     "s": "C",
+     "es": "Entender que el amor también significa desearle lo mejor a la otra persona, incluso cuando ya no está a tu lado.",
+     "ko": "사랑이란 그 사람이 더 이상 곁에 없어도 그 사람이 잘되길 비는 것이기도 하다는 걸 이해하는 거지."
+    },
+    {
+     "t": 1205.0,
+     "s": "C",
+     "es": "Creo que escuchar español con historias tan reales nos ayuda a reflexionar sobre nuestra propia vida.",
+     "ko": "이렇게 현실적인 이야기로 스페인어를 들으면 우리 자신의 삶도 돌아보게 되는 것 같아."
+    }
+   ]
+  },
+  {
+   "title": "다시 마음을 열 준비가 됐다는 신호",
+   "lines": [
+    {
+     "t": 1212.0,
+     "s": "S",
+     "es": "Sin duda. Ana me transmitió mucha paz.",
+     "ko": "물론이야. 아나에게서 큰 평온을 느꼈어."
+    },
+    {
+     "t": 1215.0,
+     "s": "S",
+     "es": "Ella sabe que ahora vienen meses de adaptación, de redescubrir su identidad individual, pero mira hacia delante con mucha ilusión.",
+     "ko": "이제부터 적응하고 한 사람으로서의 자신을 다시 발견하는 몇 달이 올 걸 알지만, 큰 설렘을 안고 앞을 보고 있어."
+    },
+    {
+     "t": 1224.0,
+     "s": "S",
+     "es": "Sabe que la vida continúa y que su corazón tiene la capacidad de volver a ser plenamente feliz.",
+     "ko": "삶은 계속되고, 자기 마음이 다시 온전히 행복해질 힘이 있다는 걸 알고 있어."
+    },
+    {
+     "t": 1230.0,
+     "s": "C",
+     "es": "¡Qué mensaje tan inspirador y lleno de luz!",
+     "ko": "정말 영감을 주고 빛으로 가득한 메시지다!"
+    },
+    {
+     "t": 1234.0,
+     "s": "C",
+     "es": "Pero me pregunto, Sofía: después de sanar y encontrar esa esperanza individual, ¿cómo sabes que realmente estás listo para abrir el corazón de nuevo?",
+     "ko": "그런데 궁금해, 소피아. 상처가 낫고 그런 개인적인 희망을 찾은 뒤에, 다시 마음을 열 준비가 정말 됐다는 건 어떻게 알아?"
+    },
+    {
+     "t": 1242.0,
+     "s": "C",
+     "es": "Quiero decir, ¿cómo se da ese primer paso para volver a confiar en el amor sin tener miedo a equivocarte otra vez?",
+     "ko": "그러니까, 또 실수할까 두려워하지 않고 다시 사랑을 믿는 그 첫걸음은 어떻게 내딛는 걸까?"
+    },
+    {
+     "t": 1250.0,
+     "s": "S",
+     "es": "Esa es la pregunta más profunda de todas, Carlos. Y la respuesta es que no hay un reloj ni una fecha exacta.",
+     "ko": "그게 가장 깊은 질문이야, 카를로스. 답은, 정해진 시계도 날짜도 없다는 거야."
+    },
+    {
+     "t": 1258.0,
+     "s": "S",
+     "es": "Uno sabe que está verdaderamente listo cuando ya no busca a alguien por necesidad, por tristeza o por miedo a la soledad.",
+     "ko": "필요해서, 슬퍼서, 외로움이 두려워서 누군가를 찾지 않게 될 때, 정말 준비가 됐다는 걸 알게 돼."
+    },
+    {
+     "t": 1269.0,
+     "s": "C",
+     "es": "Claro, entiendo. Es cuando quieres compartir tu vida simplemente porque te apetece,",
+     "ko": "그렇구나, 이해했어. 그냥 그러고 싶어서 삶을 나누고 싶을 때구나."
+    },
+    {
+     "t": 1274.0,
+     "s": "C",
+     "es": "porque quieres sumar algo positivo, y no porque necesitas llenar un espacio vacío que dejó tu expareja.",
+     "ko": "전 애인이 남긴 빈자리를 채워야 해서가 아니라, 좋은 걸 더하고 싶어서."
+    },
+    {
+     "t": 1281.0,
+     "s": "S",
+     "es": "Exactamente. Ana me dijo ayer que su gran objetivo ahora mismo es llegar a un punto donde su propia compañía sea suficiente para ser feliz todos los días.",
+     "ko": "바로 그거야. 아나가 어제 그러는데, 지금 가장 큰 목표는 혼자 있는 것만으로도 매일 행복할 수 있는 지점에 이르는 거래."
+    },
+    {
+     "t": 1295.0,
+     "s": "S",
+     "es": "Solo desde esa paz y esa estabilidad interior se puede volver a amar de una forma sana.",
+     "ko": "그런 평화와 내면의 안정에서 출발해야만 다시 건강하게 사랑할 수 있으니까."
+    }
+   ]
+  },
+  {
+   "title": "어휘 정리 ⑤ plenitud · dar el paso · evolucionar · ilusión · corazón abierto",
+   "lines": [
+    {
+     "t": 1302.0,
+     "s": "C",
+     "es": "Es una filosofía preciosa.",
+     "ko": "정말 아름다운 철학이다."
+    },
+    {
+     "t": 1303.0,
+     "s": "C",
+     "es": "Creo que aprender español escuchando temas tan humanos y reales nos ayuda muchísimo más que simplemente memorizar listas de reglas gramaticales aburridas.",
+     "ko": "이렇게 인간적이고 현실적인 주제를 들으며 스페인어를 배우는 게, 지루한 문법 규칙 목록을 외우는 것보다 훨씬 도움이 되는 것 같아요."
+    },
+    {
+     "t": 1314.0,
+     "s": "C",
+     "es": "Esta conversación en español de hoy ha sido muy enriquecedora para nuestra vida.",
+     "ko": "오늘 스페인어 대화는 우리 삶을 정말 풍요롭게 해 줬어요."
+    },
+    {
+     "t": 1319.0,
+     "s": "S",
+     "es": "Me alegra muchísimo que lo veas así, Carlos.",
+     "ko": "그렇게 봐 줘서 정말 기뻐요, 카를로스."
+    },
+    {
+     "t": 1322.0,
+     "s": "S",
+     "es": "Aprender a hablar español con fluidez también significa saber comunicar lo que sentimos en el fondo de nuestra alma.",
+     "ko": "스페인어를 유창하게 말하게 된다는 건, 영혼 깊은 곳에서 느끼는 걸 전할 줄 안다는 뜻이기도 해요."
+    },
+    {
+     "t": 1330.0,
+     "s": "S",
+     "es": "Y para asegurarnos de que todos nuestros estudiantes dominan estas palabras tan bonitas, vamos con el último análisis de vocabulario de nuestra charla de hoy.",
+     "ko": "그리고 모든 학생이 이 예쁜 단어들을 확실히 익히도록, 오늘 대화의 마지막 어휘 분석으로 가 볼게요."
+    },
+    {
+     "t": 1342.0,
+     "s": "S",
+     "es": "\"Plenitud\". Es el estado maravilloso de sentirse totalmente completo, satisfecho y feliz con la vida que uno tiene, sin sentir que falta nada importante en el interior.",
+     "ko": "'plenitud(충만함)'. 내면에 중요한 무언가가 빠졌다고 느끼지 않고, 지금 가진 삶에 완전히 채워지고 만족하고 행복한 멋진 상태예요."
+    },
+    {
+     "t": 1355.0,
+     "s": "S",
+     "es": "\"Dar el paso\" es una expresión muy común que significa tomar una decisión valiente o atreverse a hacer algo nuevo e importante, superando todo el miedo inicial.",
+     "ko": "'dar el paso(한 걸음 내딛다)'는 처음의 두려움을 이겨 내고 용감한 결정을 하거나, 새롭고 중요한 일에 도전한다는 아주 흔한 표현이에요."
+    },
+    {
+     "t": 1367.0,
+     "s": "S",
+     "es": "\"Evolucionar\" significa cambiar de forma positiva, madurar, crecer y desarrollarse como ser humano, utilizando todo lo que hemos aprendido de nuestras experiencias pasadas.",
+     "ko": "'evolucionar(발전하다, 성장하다)'는 지난 경험에서 배운 모든 것을 활용해 긍정적으로 변하고, 성숙하고, 사람으로서 자라는 거예요."
+    },
+    {
+     "t": 1381.0,
+     "s": "S",
+     "es": "\"Ilusión\". En español, esta palabra tiene un sentido muy bonito y positivo.",
+     "ko": "'ilusión'. 스페인어에서 이 단어는 아주 예쁘고 긍정적인 뜻이에요."
+    },
+    {
+     "t": 1387.0,
+     "s": "S",
+     "es": "Es la alegría inmensa, la gran esperanza y el entusiasmo genuino por las cosas buenas que van a pasar en el futuro.",
+     "ko": "앞으로 일어날 좋은 일에 대한 큰 기쁨, 큰 희망, 진심 어린 설렘이에요."
+    },
+    {
+     "t": 1394.0,
+     "s": "S",
+     "es": "\"Corazón abierto\" es una metáfora visual para describir la actitud de una persona que está completamente dispuesta a recibir amor, a confiar de nuevo en los demás y a ser vulnerable sin miedo.",
+     "ko": "'corazón abierto(열린 마음)'는 사랑을 받아들이고, 다시 남을 믿고, 두려움 없이 약한 모습도 보일 준비가 완전히 된 사람의 태도를 그린 비유예요."
+    },
+    {
+     "t": 1409.0,
+     "s": "C",
+     "es": "¡Qué palabras tan maravillosas para cerrar nuestro episodio!",
+     "ko": "에피소드를 마무리하기에 정말 멋진 단어들이네요!"
+    },
+    {
+     "t": 1413.0,
+     "s": "C",
+     "es": "Chicos que nos escuchan, aquí tienen su última oportunidad para practicar.",
+     "ko": "듣고 계신 여러분, 연습할 마지막 기회예요."
+    },
+    {
+     "t": 1417.0,
+     "s": "C",
+     "es": "Escriban un comentario diciéndonos qué proyecto o qué cosa les hace sentir mucha ilusión en este momento de sus vidas. Nos encanta leerlos.",
+     "ko": "지금 여러분의 삶에서 어떤 계획이나 무엇이 큰 설렘(ilusión)을 주는지 댓글로 알려 주세요. 읽는 게 정말 즐거워요."
+    }
+   ]
+  },
+  {
+   "title": "마무리 — 관계는 우리를 가르치는 스승",
+   "lines": [
+    {
+     "t": 1427.0,
+     "s": "S",
+     "es": "Sí, por favor, participen en los comentarios. Nos gusta mucho corregir sus frases y ayudarlos.",
+     "ko": "네, 댓글로 꼭 참여해 주세요. 여러분 문장을 고쳐 드리고 돕는 걸 정말 좋아해요."
+    },
+    {
+     "t": 1434.0,
+     "s": "C",
+     "es": "Y amigos, si esta clase de español para extranjeros les ha resultado útil para su vida y para su aprendizaje, por favor, suscríbanse al canal y dejen un gran me gusta.",
+     "ko": "그리고 여러분, 외국인을 위한 이 스페인어 수업이 삶과 공부에 도움이 됐다면, 채널을 구독하고 좋아요를 꾹 눌러 주세요."
+    },
+    {
+     "t": 1447.0,
+     "s": "C",
+     "es": "Es un gesto muy pequeño para ustedes, pero para Español Auténtico es fundamental para seguir creciendo.",
+     "ko": "여러분에겐 아주 작은 행동이지만, Español Auténtico가 계속 성장하는 데는 꼭 필요해요."
+    },
+    {
+     "t": 1454.0,
+     "s": "S",
+     "es": "Y recuerden, si quieren apoyarnos un poco más, pueden abonarse y hacerse miembros del canal.",
+     "ko": "그리고 조금 더 응원하고 싶다면, 채널 멤버로 가입하실 수 있다는 것 기억해 주세요."
+    },
+    {
+     "t": 1461.0,
+     "s": "S",
+     "es": "Nos ayuda enormemente a seguir creando contenido gratis.",
+     "ko": "무료 콘텐츠를 계속 만드는 데 엄청난 도움이 돼요."
+    },
+    {
+     "t": 1466.0,
+     "s": "C",
+     "es": "Así es. Su apoyo es nuestra mayor motivación de cada día.",
+     "ko": "맞아요. 여러분의 응원이 저희의 매일의 가장 큰 원동력이에요."
+    },
+    {
+     "t": 1470.0,
+     "s": "C",
+     "es": "Y volviendo a la reflexión final, Sofía, creo que me quedo con un mensaje muy claro hoy.",
+     "ko": "그리고 마지막 생각으로 돌아가면, 소피아, 오늘 아주 분명한 메시지 하나를 가져가는 것 같아."
+    },
+    {
+     "t": 1476.0,
+     "s": "C",
+     "es": "Terminar una relación, si se hace con madurez y respeto, nunca es el fin del mundo. Es solo una transición natural hacia algo diferente.",
+     "ko": "관계를 끝내는 건, 성숙과 존중으로 한다면 결코 세상의 끝이 아니야. 다른 무언가로 가는 자연스러운 전환일 뿐이지."
+    },
+    {
+     "t": 1486.0,
+     "s": "S",
+     "es": "Exacto, Carlos. Las relaciones, incluso las que terminan, no son un error.",
+     "ko": "맞아, 카를로스. 관계는, 끝난 관계라도, 실수가 아니야."
+    },
+    {
+     "t": 1492.0,
+     "s": "S",
+     "es": "Son maestros que nos enseñan quiénes somos y qué necesitamos realmente para ser felices.",
+     "ko": "우리가 누구인지, 행복하려면 정말 무엇이 필요한지 가르쳐 주는 스승이야."
+    },
+    {
+     "t": 1499.0,
+     "s": "S",
+     "es": "Ana está cerrando esta puerta con mucho amor y mucha gratitud, pero sabe perfectamente que el futuro tiene cosas maravillosas preparadas para ella.",
+     "ko": "아나는 큰 사랑과 감사로 이 문을 닫고 있지만, 미래가 자기를 위해 멋진 일들을 준비해 두었다는 것도 잘 알고 있어."
+    },
+    {
+     "t": 1510.0,
+     "s": "S",
+     "es": "Solo necesita darse tiempo, tener paciencia y respirar.",
+     "ko": "그저 자신에게 시간을 주고, 인내하고, 숨을 쉬면 돼."
+    },
+    {
+     "t": 1515.0,
+     "s": "C",
+     "es": "¡Qué final tan bonito y lleno de luz!",
+     "ko": "정말 아름답고 빛으로 가득한 마무리다!"
+    },
+    {
+     "t": 1518.0,
+     "s": "C",
+     "es": "Muchas gracias por compartir la historia de Ana de una forma tan madura y respetuosa hoy, Sofía.",
+     "ko": "오늘 아나 이야기를 이렇게 성숙하고 정중하게 나눠 줘서 정말 고마워, 소피아."
+    },
+    {
+     "t": 1524.0,
+     "s": "C",
+     "es": "Nos ayuda a todos a mejorar nuestra pronunciación española y, al mismo tiempo, a reflexionar sobre el amor.",
+     "ko": "우리 모두 스페인어 발음도 늘리고, 동시에 사랑에 대해 생각해 보는 데 도움이 됐어."
+    },
+    {
+     "t": 1530.0,
+     "s": "C",
+     "es": "Hasta el próximo episodio, amigos. Cuídense mucho, estudien y sigan practicando.",
+     "ko": "다음 에피소드까지 안녕, 여러분. 건강 잘 챙기고, 공부하고, 계속 연습하세요."
+    }
+   ]
+  }
+ ]
+}

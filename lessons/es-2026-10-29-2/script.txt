@@ -1,0 +1,503 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, C = Carlos.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막 (철자 오류 abocarse→abonarse, alca→alta, alba→alma, vaya una ruptura→hay una ruptura 등은 바로잡았어요)
+END 25:36
+
+[00:00]
+## 인사 — 오늘의 주제: 이별과 감정
+S | Hola a todos y bienvenidos a un nuevo episodio de Español Auténtico. | 여러분 안녕하세요, Español Auténtico 새 에피소드에 오신 걸 환영해요.
+[00:06]
+S | Hoy vamos a tener una conversación en español muy especial, perfecta para tu Spanish listening practice. | 오늘은 듣기 연습에 딱 좋은 아주 특별한 스페인어 대화를 나눠 볼 거예요.
+[00:14]
+C | Hola, Sofía, y hola a todos en casa. Me encanta estar aquí. | 안녕, 소피아. 그리고 집에 계신 모든 분 안녕하세요. 여기 오니 정말 좋네요.
+[00:18]
+C | Si quieres aprender español de verdad, escuchar conversaciones reales y cotidianas es el mejor método. | 스페인어를 제대로 배우고 싶다면, 실제 일상 대화를 듣는 게 최고의 방법이에요.
+[00:26]
+S | Así es, Carlos. Hoy vamos a aprender vocabulario español para hablar del final de una relación amorosa. | 맞아요, 카를로스. 오늘은 연인 관계의 끝에 대해 말하는 스페인어 어휘를 배울 거예요.
+[00:34]
+S | Lo haremos de una forma muy madura, constructiva y natural, usando palabras que usamos todos los días. | 아주 성숙하고, 건설적이고, 자연스럽게, 매일 쓰는 단어로 이야기할 거예요.
+[00:42]
+C | Es un tema delicado, Sofía, pero muy útil para nuestro español para extranjeros. | 민감한 주제지만, 소피아, 외국인을 위한 스페인어로는 아주 유용해요.
+[00:47]
+C | Todos hemos pasado por una situación así o conocemos a alguien que la está viviendo. | 우리 모두 그런 상황을 겪어 봤거나, 지금 겪고 있는 사람을 알고 있으니까요.
+[00:53]
+S | Exacto. Aprender a expresar nuestros sentimientos es vital para tener fluidez. | 맞아요. 감정을 표현하는 법을 배우는 건 유창해지는 데 꼭 필요해요.
+[00:58]
+S | Pero antes de empezar con nuestra historia de hoy, quiero pedirles un pequeño favor a todos los que nos escuchan. | 그런데 오늘 이야기를 시작하기 전에, 듣고 계신 모든 분께 작은 부탁을 하나 드리고 싶어요.
+[01:07]
+C | Claro que sí, amigos. Si les gusta nuestro contenido y quieren mejorar su español, por favor, suscríbanse al canal. | 물론이죠, 여러분. 저희 콘텐츠가 마음에 들고 스페인어를 늘리고 싶다면, 채널을 구독해 주세요.
+[01:14]
+S | Es verdad. Suscribirse, dejar un me gusta y comentar en los videos nos ayuda muchísimo. | 맞아요. 구독하고, 좋아요를 누르고, 영상에 댓글을 달아 주시면 정말 큰 도움이 돼요.
+[01:21]
+S | Es vital para que el canal crezca en YouTube y para que nosotros podamos seguir creando más clases de español gratis para ustedes. | 채널이 유튜브에서 성장하고, 저희가 여러분을 위해 무료 스페인어 수업을 계속 만들 수 있으려면 꼭 필요해요.
+[01:30]
+C | Y recuerden que, para los que quieran dar un paso más, pueden unirse y abonarse como miembros. | 그리고 한 걸음 더 나아가고 싶은 분들은 멤버로 가입하실 수도 있다는 것, 기억해 주세요.
+[01:36]
+C | Es una forma maravillosa y directa de apoyar a Español Auténtico para que sigamos adelante. | Español Auténtico가 계속 나아갈 수 있도록 직접 응원하는 멋진 방법이에요.
+[01:42]
+C | Muchas gracias a todos por su apoyo constante, de verdad. | 늘 응원해 주셔서 모두 정말 고맙습니다.
+
+[01:46]
+## 친구 아나의 이별 — 성숙하고 평화로운 결별
+S | Bueno, Carlos, te cuento la historia de ayer. Pasé casi toda la tarde en casa de mi amiga Ana. | 자, 카를로스, 어제 있었던 일을 얘기해 줄게. 오후 내내 거의 친구 아나네 집에 있었어.
+[01:53]
+S | Ella acaba de terminar con su novio después de tres años juntos. | 아나가 남자 친구랑 3년 사귀다가 막 헤어졌거든.
+[01:58]
+C | Vaya, lo siento mucho por ella. Tres años es mucho tiempo compartiendo la vida. | 저런, 정말 안됐다. 3년이면 삶을 함께한 긴 시간이잖아.
+[02:04]
+C | ¿Cómo se siente? Me imagino que debe estar muy triste y confundida. | 아나는 기분이 어때? 많이 슬프고 혼란스럽겠지.
+[02:09]
+S | Obviamente hay un poco de tristeza. Sí, es normal. | 당연히 조금은 슬퍼하지. 그래, 그건 당연해.
+[02:12]
+S | Pero la verdad, me sorprendió mucho su actitud. Tuvieron una ruptura muy madura, muy pacífica y llena de respeto. | 그런데 솔직히 아나의 태도에 정말 놀랐어. 아주 성숙하고 평화롭고 존중이 가득한 이별이었거든.
+[02:22]
+C | ¿Pacífica? Eso es un poco raro hoy en día. | 평화로운 이별? 요즘엔 좀 드문 일인데.
+[02:25]
+C | Normalmente, cuando una relación termina, hay discusiones largas o mucho drama. | 보통 관계가 끝날 때는 긴 말다툼이나 드라마 같은 일이 많잖아.
+[02:30]
+C | ¿Qué pasó exactamente para que fuera tan tranquilo? | 정확히 어땠길래 그렇게 조용히 끝났어?
+[02:34]
+S | Pues simplemente se sentaron a hablar y se dieron cuenta de que sus vidas iban en direcciones diferentes. | 그냥 앉아서 이야기를 나눴고, 서로의 삶이 다른 방향으로 가고 있다는 걸 깨달았대.
+[02:41]
+S | Tenían objetivos distintos a largo plazo. Fue una decisión de mutuo acuerdo. | 장기적인 목표가 달랐던 거지. 서로 합의한 결정이었어.
+[02:48]
+S | Nadie engañó a nadie. Nadie hizo nada malo. | 아무도 바람피우지 않았고, 아무도 잘못한 게 없어.
+[02:51]
+C | "De mutuo acuerdo." Esa es una expresión excelente para nuestros estudiantes. | '서로 합의하여(de mutuo acuerdo)'. 우리 학생들에게 아주 좋은 표현이네.
+[02:56]
+C | Significa que los dos decidieron exactamente lo mismo juntos, sin presiones. | 두 사람이 압박 없이 함께 똑같은 결정을 내렸다는 뜻이에요.
+
+[03:02]
+## 어휘 정리 ① ruptura · apoyar · de mutuo acuerdo · pasar página · etapa
+S | Exactamente. Y como sé que a nuestro público le encanta aprender frases nuevas, vamos a hacer nuestra famosa pausa para analizar el léxico que estamos usando en esta historia. | 맞아요. 우리 시청자분들이 새 표현 배우는 걸 정말 좋아하시니까, 이 이야기에 나온 어휘를 분석하는 그 유명한 '잠깐 멈춤'을 해 볼게요.
+[03:14]
+S | "Ruptura" es el sustantivo que usamos para describir el final definitivo de una relación amorosa o sentimental. | 'ruptura(이별, 결별)'는 연인 관계나 애정 관계가 완전히 끝나는 것을 말하는 명사예요.
+[03:22]
+S | Es el momento exacto en que dos personas dejan de ser pareja. | 두 사람이 더 이상 커플이 아니게 되는 바로 그 순간이에요.
+[03:27]
+S | "Apoyar" significa ayudar a una persona, estar a su lado emocionalmente cuando tiene un problema o está triste. | 'apoyar(지지하다, 곁에 있어 주다)'는 누군가 문제가 있거나 슬플 때 도와주고 마음으로 곁에 있어 주는 거예요.
+[03:34]
+S | Es exactamente lo que hace un buen amigo en los momentos difíciles. | 힘든 순간에 좋은 친구가 해 주는 바로 그 일이죠.
+[03:39]
+S | "De mutuo acuerdo" es una expresión muy útil que usamos cuando dos personas tienen la misma opinión o toman la misma decisión juntas, en paz y sin pelear. | 'de mutuo acuerdo(서로 합의하여)'는 두 사람이 같은 의견을 갖거나, 싸우지 않고 평화롭게 함께 같은 결정을 내릴 때 쓰는 아주 유용한 표현이에요.
+[03:51]
+S | "Pasar página" es una metáfora muy bonita y visual. | 'pasar página(페이지를 넘기다)'는 아주 예쁘고 눈에 그려지는 비유예요.
+[03:55]
+S | Significa aceptar que una situación dolorosa del pasado ya terminó y empezar a mirar al futuro con positividad. | 과거의 아픈 상황이 이미 끝났음을 받아들이고, 긍정적으로 미래를 보기 시작한다는 뜻이에요.
+[04:03]
+S | "Etapa" es un periodo de tiempo específico en la vida de una persona. | 'etapa(단계, 시기)'는 한 사람의 삶에서 특정한 기간이에요.
+[04:08]
+S | Cuando una relación termina, decimos que se cierra una etapa y comienza otra completamente nueva. | 관계가 끝나면 '한 시기가 닫히고 완전히 새로운 시기가 시작된다'고 말해요.
+[04:15]
+C | ¡Qué palabras tan útiles para la vida real! | 실생활에 정말 유용한 단어들이네요!
+[04:18]
+C | Chicos, aquí va nuestra invitación para ustedes: escriban en los comentarios una frase usando una de estas palabras. | 여러분, 초대장 하나 드릴게요. 이 단어 중 하나를 써서 댓글로 문장을 하나 써 주세요.
+[04:26]
+C | Por ejemplo, cuéntennos cómo logran ustedes pasar página cuando algo termina. | 예를 들어, 무언가 끝났을 때 여러분은 어떻게 페이지를 넘기는지 들려주세요.
+[04:31]
+C | Queremos leer todos sus comentarios y darles un corazón. | 댓글을 전부 읽고 하트를 눌러 드리고 싶어요.
+
+[04:35]
+## 곁에 있어 주기 — 판단 없이 들어 주는 것
+S | Sí, por favor. Nos encanta leerlos y ayudarlos con sus frases. | 네, 꼭이요. 댓글 읽고 문장 고쳐 드리는 거 정말 좋아해요.
+[04:40]
+S | Volviendo a la historia de Ana, yo fui a su casa ayer principalmente para apoyarla. | 아나 이야기로 돌아가면, 어제 내가 아나네 집에 간 건 주로 곁에 있어 주려고였어.
+[04:46]
+S | En estos primeros momentos de una separación, la gente no necesita grandes consejos filosóficos. | 이별 직후에는 사람들이 거창한 철학적 조언이 필요한 게 아니거든.
+[04:53]
+C | Es muy cierto, Sofía. Cuando uno está triste por una ruptura, a veces solo necesita que alguien se siente a su lado en silencio. | 정말 맞아, 소피아. 이별로 슬플 땐 그냥 누가 말없이 옆에 앉아 있어 주는 게 필요할 때가 있지.
+[05:02]
+C | Necesita que alguien lo escuche sin juzgar y sin decir qué hacer. | 판단하지 않고, 이래라저래라 하지 않고 들어 주는 사람이 필요해.
+[05:07]
+S | Precisamente eso hicimos. Preparé un par de tazas de café, nos sentamos en su sofá y simplemente la dejé hablar durante horas. | 바로 그렇게 했어. 커피 두 잔을 내리고, 소파에 앉아서 그냥 몇 시간 동안 아나가 말하게 뒀어.
+[05:16]
+S | Ella necesitaba expresar en voz alta que esta etapa había terminado para poder creerlo. | 아나는 이 시기가 끝났다는 걸 믿으려면 소리 내어 말할 필요가 있었어.
+[05:23]
+S | Es un proceso mental muy importante para sanar. | 상처가 낫는 데 아주 중요한 마음의 과정이야.
+[05:26]
+C | Claro, porque cuando lo dices en voz alta, el final se hace mucho más real. | 그렇지, 소리 내어 말하면 끝이 훨씬 더 현실이 되니까.
+[05:31]
+C | A veces nuestra mente necesita escuchar las palabras físicas para empezar a aceptar la nueva realidad y no vivir de ilusiones. | 가끔 우리 마음은 새 현실을 받아들이고 헛된 기대 속에 살지 않으려면, 실제 말소리를 들어야 하거든.
+
+[05:40]
+## 후회는 없다 — 혼자가 된 일상과 다시 나와 연결되기
+S | Totalmente cierto, Carlos. Y además, Ana me dijo algo muy maduro y sabio ayer. | 완전히 맞아, 카를로스. 게다가 어제 아나가 아주 성숙하고 현명한 말을 했어.
+[05:46]
+S | Me confesó que no se arrepiente de nada de lo que vivió en estos tres años. | 이 3년 동안 겪은 일 중 후회하는 건 하나도 없다고 털어놨어.
+[05:51]
+S | Ella guarda los buenos recuerdos, aprecia lo que aprendió, pero entiende que la relación simplemente ya no funcionaba en el presente. | 좋은 기억은 간직하고, 배운 것에 감사하지만, 지금은 관계가 그냥 더 이상 맞지 않는다는 걸 이해하고 있어.
+[06:01]
+C | ¡Qué actitud tan sana e inteligente! | 정말 건강하고 현명한 태도다!
+[06:04]
+C | Pero dime algo: ¿ella siente miedo por el futuro inmediato? | 그런데 하나만 물어볼게. 아나는 당장의 앞날이 두렵지 않대?
+[06:08]
+C | Quiero decir, volver a estar soltera después de tres años, tener que cambiar sus rutinas de fin de semana… debe ser un cambio gigante en su vida diaria, ¿verdad? | 그러니까, 3년 만에 다시 싱글이 되고, 주말 일과를 바꿔야 하고… 일상에 엄청난 변화일 거잖아, 그렇지?
+[06:18]
+S | Sí, claro que siente un poco de vértigo. Es muy normal. | 응, 당연히 좀 아찔하대. 아주 자연스러운 거지.
+[06:22]
+S | Cuando compartes tres años con alguien, esa persona es parte de tu rutina diaria. | 누군가와 3년을 함께하면, 그 사람은 내 일상의 일부가 되니까.
+[06:28]
+S | Ahora Ana tiene que aprender a vivir su día a día de una manera diferente. | 이제 아나는 하루하루를 다른 방식으로 사는 법을 배워야 해.
+[06:34]
+C | Me imagino despertar por la mañana y no enviar ese mensaje de buenos días, o llegar el viernes y no tener planes juntos. | 아침에 일어나서 그 '굿모닝' 문자를 안 보내고, 금요일이 와도 함께할 계획이 없는 걸 상상해 봐.
+[06:43]
+C | Debe ser un vacío enorme al principio. | 처음엔 엄청난 공허함이겠다.
+[06:46]
+S | Exacto, Carlos. Pero lo interesante es cómo ella está manejando ese vacío. | 맞아, 카를로스. 그런데 흥미로운 건 아나가 그 공허함을 다루는 방식이야.
+[06:51]
+S | No está buscando distracciones tóxicas ni saliendo de fiesta todos los días para olvidar. | 해로운 딴짓거리를 찾거나, 잊으려고 매일 파티하러 나가지 않아.
+[06:58]
+S | Está usando este tiempo para reconectar consigo misma. | 이 시간을 자기 자신과 다시 연결되는 데 쓰고 있어.
+[07:01]
+C | Eso es muy maduro. Muchas personas no saben estar solas e inmediatamente buscan otra relación. | 그거 정말 성숙하다. 많은 사람이 혼자 있는 법을 몰라서 바로 다른 연애를 찾잖아.
+[07:09]
+C | Creo que aprender a estar con uno mismo es vital. | 나 자신과 함께 있는 법을 배우는 게 정말 중요한 것 같아.
+[07:12]
+S | Totalmente. Ana me dijo que quiere volver a sus antiguos pasatiempos. | 완전히. 아나는 예전 취미로 돌아가고 싶대.
+[07:17]
+S | Por ejemplo, va a retomar sus clases de pintura y quiere dedicar más tiempo a aprender español. | 예를 들면 그림 수업을 다시 시작하고, 스페인어 공부에 시간을 더 쓰고 싶대.
+[07:23]
+S | De hecho, me dijo que escucha nuestro podcast para su Spanish listening practice. | 사실 듣기 연습으로 우리 팟캐스트를 듣는대.
+[07:29]
+C | ¡Qué maravilla! Le mandamos un saludo muy grande a Ana, si nos está escuchando. | 멋지다! 아나, 듣고 있다면 크게 인사 보낼게.
+[07:34]
+C | Escuchar español en un podcast relajado es una forma excelente de enfocar la mente en algo positivo y productivo. | 편안한 팟캐스트로 스페인어를 듣는 건 마음을 긍정적이고 생산적인 데 집중하는 아주 좋은 방법이에요.
+[07:42]
+S | Así es. Concentrarse en aprender cosas nuevas ayuda a sanar el corazón. | 맞아요. 새로운 걸 배우는 데 집중하면 마음의 상처가 낫는 데 도움이 돼요.
+
+[07:47]
+## 어휘 정리 ② incertidumbre · sanar · autoestima · echar de menos · independencia
+C | Y hablando de aprender, creo que es el momento perfecto para explicar un poco más del vocabulario que estamos usando en esta charla. | 배움 얘기가 나왔으니, 이 대화에서 쓰고 있는 어휘를 조금 더 설명하기 딱 좋은 때인 것 같아요.
+[07:56]
+S | Me parece una idea fantástica. Este vocabulario español es muy necesario porque las emociones son parte de la vida cotidiana. | 아주 좋은 생각이에요. 감정은 일상의 일부라서 이 어휘는 꼭 필요해요.
+[08:04]
+C | ¿Qué palabras vamos a analizar ahora, Sofía? | 이번엔 어떤 단어들을 분석할까요, 소피아?
+[08:07]
+S | "Incertidumbre". Es la sensación de no saber qué va a pasar en el futuro. | 'incertidumbre(불확실성)'. 앞으로 무슨 일이 일어날지 모르는 느낌이에요.
+[08:12]
+S | Es esa duda o miedo natural que sentimos cuando nuestra vida cambia de repente. | 삶이 갑자기 바뀔 때 느끼는 자연스러운 의심이나 두려움이죠.
+[08:18]
+S | "Sanar" significa curar una herida. | 'sanar(낫다, 치유하다)'는 상처를 치료한다는 뜻이에요.
+[08:21]
+S | En este contexto no hablamos de una herida física, sino de curar las emociones y superar el dolor después de la ruptura. | 여기서는 몸의 상처가 아니라, 이별 뒤에 감정을 치유하고 아픔을 이겨 내는 걸 말해요.
+[08:30]
+S | "Autoestima" es el amor, la valoración y el respeto que tenemos por nosotros mismos. | 'autoestima(자존감)'는 우리 자신에 대한 사랑, 가치 인정, 존중이에요.
+[08:35]
+S | Es muy importante cuidar la autoestima cuando una relación termina. | 관계가 끝났을 때 자존감을 돌보는 게 아주 중요해요.
+[08:40]
+S | "Echar de menos" es sentir tristeza por la ausencia de una persona. | 'echar de menos(그리워하다)'는 누군가가 없어서 슬픔을 느끼는 거예요.
+[08:45]
+S | Es cuando recuerdas a alguien y deseas que esté contigo en ese momento. | 누군가를 떠올리며 그 순간 그 사람이 곁에 있기를 바라는 거죠.
+[08:50]
+S | "Independencia" es la capacidad de actuar y tomar decisiones por uno mismo, sin depender de otra persona. | 'independencia(독립)'는 다른 사람에게 기대지 않고 스스로 행동하고 결정하는 능력이에요.
+[08:57]
+S | Es lo que recuperamos al volver a estar solteros. | 다시 싱글이 되면 되찾는 것이죠.
+[09:01]
+C | Excelente análisis. Amigos que nos escuchan, recuerden que pueden dejar un comentario aquí abajo usando la expresión "echar de menos". | 훌륭한 분석이에요. 듣고 계신 여러분, 'echar de menos'를 써서 아래에 댓글을 남길 수 있다는 것 기억하세요.
+[09:10]
+C | ¿A quién o qué echan de menos ustedes hoy? | 여러분은 오늘 누가, 또는 무엇이 그리운가요?
+[09:13]
+C | Y no olviden suscribirse al canal si quieren seguir mejorando su conversación en español con nosotros. | 그리고 저희와 함께 스페인어 회화를 계속 늘리고 싶다면 채널 구독도 잊지 마세요.
+
+[09:19]
+## 울어도 괜찮아 — 짐을 돌려주는 날
+S | Muchas gracias por recordarlo, Carlos. Es fundamental practicar estas palabras en voz alta. | 상기시켜 줘서 고마워요, 카를로스. 이 단어들은 소리 내어 연습하는 게 기본이에요.
+[09:25]
+S | Volviendo a la historia, Ana sabe que va a echar de menos a su exnovio, y se lo permite. No intenta reprimir sus emociones. | 이야기로 돌아가면, 아나는 전 남자 친구를 그리워하게 될 걸 알고, 그걸 허락해. 감정을 억누르려 하지 않아.
+[09:35]
+C | Eso es muy sano. A veces la sociedad nos dice que tenemos que estar felices y fuertes todo el tiempo. | 그거 정말 건강하다. 가끔 사회는 우리가 늘 행복하고 강해야 한다고 말하잖아.
+[09:41]
+C | Llorar un poco y aceptar la tristeza también es parte del proceso, ¿verdad? | 조금 울고 슬픔을 받아들이는 것도 과정의 일부지, 그렇지?
+[09:47]
+S | Exactamente. Llorar limpia el alma. | 맞아. 울면 영혼이 깨끗해져.
+[09:49]
+S | Ana y su exnovio también fueron muy prácticos. Ayer, mientras yo estaba allí, él vino un momento a la casa a recoger algunas de sus cosas. | 아나랑 전 남자 친구는 아주 현실적이기도 했어. 어제 내가 거기 있는 동안 그가 자기 물건 몇 개를 가지러 잠깐 집에 왔거든.
+[09:59]
+C | Oh, ¿y cómo fue ese momento? | 오, 그 순간은 어땠어?
+[10:01]
+C | Normalmente, devolver las cosas como libros, ropa o las llaves de la casa es un momento de mucha tensión y de muchas lágrimas. | 보통 책이나 옷, 집 열쇠 같은 걸 돌려주는 건 긴장되고 눈물이 많이 나는 순간이잖아.
+[10:10]
+S | Te prometo que fue muy tranquilo. | 정말이지 아주 차분했어.
+[10:13]
+S | Él llamó antes de venir, preguntó si era un buen momento, llegó, guardó sus cosas en una caja y charlaron unos diez minutos. | 오기 전에 전화해서 지금 괜찮은지 묻고, 와서 물건을 상자에 담고, 둘이 10분쯤 이야기를 나눴어.
+[10:21]
+S | Se desearon lo mejor con mucha sinceridad. | 서로 진심으로 잘되길 빌어 줬어.
+[10:24]
+C | De verdad que es un ejemplo a seguir. | 정말 본받을 만한 예다.
+[10:26]
+C | Hablar español y poder expresar ese respeto hacia el otro demuestra muchísima inteligencia emocional. | 스페인어로 말하면서 상대에 대한 그런 존중을 표현할 수 있다는 건 정서 지능이 아주 높다는 걸 보여 줘요.
+
+[10:34]
+## 공통 친구와 SNS — 편 가르지 않기, 차단 대신 '숨기기'
+C | Pero tengo una duda, Sofía. Cuando una pareja lleva tanto tiempo junta, sus vidas sociales se mezclan mucho. | 그런데 궁금한 게 있어, 소피아. 커플이 그렇게 오래 함께하면 사회생활이 많이 섞이잖아.
+[10:41]
+C | ¿Qué pasa con los amigos en común? Porque dividir a los amigos suele ser la parte más difícil e incómoda de una separación. | 공통 친구들은 어떻게 돼? 친구를 나누는 게 보통 이별에서 가장 어렵고 불편한 부분이잖아.
+[10:48]
+S | Esa es una pregunta excelente, Carlos. El círculo social es siempre un tema muy complicado cuando hay una ruptura. | 아주 좋은 질문이야, 카를로스. 이별할 때 인간관계는 늘 아주 복잡한 문제지.
+[10:57]
+S | Pero Ana y su exnovio también hablaron de esto con mucha madurez antes de separarse definitivamente. | 그런데 아나와 전 남자 친구는 완전히 헤어지기 전에 이것도 아주 성숙하게 이야기했어.
+[11:04]
+C | ¿De verdad? ¿Y qué decidieron hacer? | 정말? 그래서 어떻게 하기로 했어?
+[11:06]
+C | Porque conozco casos donde los amigos se dividen en dos grupos diferentes, como si fuera una guerra. Es una situación muy incómoda para todos. | 친구들이 전쟁이라도 난 것처럼 두 무리로 갈라지는 경우를 알거든. 모두에게 아주 불편한 상황이지.
+[11:14]
+S | Exactamente eso es lo que ellos querían evitar. Decidieron ser muy honestos con sus amigos en común. | 바로 그걸 피하고 싶었던 거야. 공통 친구들에게 아주 솔직하기로 했어.
+[11:21]
+S | Les explicaron que la relación terminó bien, con respeto, y que nadie tiene que elegir un bando. | 관계가 존중 속에서 잘 끝났고, 아무도 편을 고를 필요가 없다고 설명했어.
+[11:28]
+C | ¡Qué alivio para esos amigos! | 그 친구들한텐 정말 다행이다!
+[11:29]
+C | Es horrible cuando sientes que tienes que dejar de hablar con una buena persona solo por lealtad a tu otro amigo. Es una dinámica muy infantil. | 다른 친구에 대한 의리 때문에 좋은 사람과 말도 끊어야 할 것 같은 기분은 끔찍하잖아. 아주 유치한 관계 방식이야.
+[11:38]
+S | Así es. Ana incluso escribió un mensaje en el grupo de WhatsApp que tienen con sus amigos más cercanos. | 그렇지. 아나는 친한 친구들과 있는 왓츠앱 단톡방에 메시지까지 남겼어.
+[11:45]
+S | Fue un mensaje breve, explicando la nueva situación con mucho cariño. | 새로운 상황을 다정하게 설명하는 짧은 메시지였어.
+[11:50]
+S | Pidió que, por favor, la dinámica del grupo siguiera lo más normal posible. | 모임 분위기가 최대한 평소처럼 이어졌으면 좋겠다고 부탁했고.
+[11:55]
+C | Muy inteligente y directo. | 아주 현명하고 솔직하다.
+[11:57]
+C | Pero hablando de cosas modernas y comunicación, ¿qué pasa con las redes sociales? | 그런데 요즘 것들과 소통 얘기가 나온 김에, SNS는 어떻게 해?
+[12:01]
+C | Hoy en día, ver las fotos de tu ex constantemente puede ser una tortura mientras intentas superar la ruptura. | 요즘엔 이별을 극복하려는 중에 전 애인 사진을 계속 보는 게 고문일 수 있잖아.
+[12:07]
+S | Tienes toda la razón, Carlos. Ese es un aspecto fundamental de una separación moderna. | 완전히 맞아, 카를로스. 그게 요즘 이별의 아주 중요한 부분이지.
+[12:14]
+S | Ana me contó que decidió no bloquear a su ex porque no hay odio ni resentimiento entre ellos, pero sí decidió silenciar sus publicaciones. | 아나는 둘 사이에 미움도 원망도 없으니까 전 남자 친구를 차단하지 않기로 했대. 대신 게시물은 숨기기(뮤트)로 했대.
+[12:24]
+C | "Silenciar". Para los que están empezando a aprender español, eso significa que siguen siendo amigos en la aplicación, pero ella no ve sus fotos nuevas en su teléfono. | 'silenciar(숨기기, 뮤트)'. 스페인어를 막 배우기 시작한 분들을 위해 말하면, 앱에서는 계속 친구지만 아나 휴대폰에는 그의 새 사진이 안 뜬다는 뜻이에요.
+[12:33]
+S | Exacto. Es una manera excelente de proteger su paz mental. Ella necesita espacio visual y emocional. | 맞아요. 마음의 평화를 지키는 아주 좋은 방법이에요. 아나에겐 눈으로도 마음으로도 공간이 필요해요.
+[12:40]
+S | Ver lo que él hace todos los días, dónde come o con quién sale, no la ayudaría a cerrar esta etapa. | 그가 매일 뭘 하는지, 어디서 먹는지, 누구랑 노는지 보는 건 이 시기를 닫는 데 도움이 안 될 거예요.
+[12:48]
+S | Necesita mantener una distancia sana. | 건강한 거리를 유지해야 해요.
+[12:50]
+C | Es un enfoque genial, y creo que aquí tenemos expresiones maravillosas para nuestra Spanish conversation. | 아주 멋진 접근이고, 여기에 스페인어 회화에 쓸 멋진 표현들이 있는 것 같아요.
+[12:57]
+C | Sofía, ¿qué te parece si hacemos nuestra pausa para explicar algunas de estas palabras importantes para nuestros estudiantes? | 소피아, 학생들을 위해 이 중요한 단어 몇 개를 설명하는 '잠깐 멈춤'을 하면 어때요?
+
+[13:03]
+## 어휘 정리 ③ círculo social · tomar partido · silenciar · distancia sana · bando
+S | Me parece una idea fantástica, Carlos. Vamos a analizar este vocabulario español tan útil para hablar de relaciones personales en la vida diaria. | 아주 좋은 생각이에요, 카를로스. 일상에서 인간관계를 말할 때 정말 유용한 이 어휘들을 분석해 볼게요.
+[13:13]
+S | "Círculo social" es el grupo de amigos, conocidos y compañeros con los que una persona interactúa regularmente en su vida cotidiana. | 'círculo social(인간관계, 사회적 관계망)'는 일상에서 꾸준히 어울리는 친구, 지인, 동료의 무리예요.
+[13:23]
+S | "Tomar partido" significa elegir un lado en un conflicto o discusión. | 'tomar partido(편을 들다)'는 갈등이나 말다툼에서 한쪽을 고르는 거예요.
+[13:28]
+S | Es lo que hacemos cuando decidimos apoyar a una persona y ponernos en contra de la otra. | 한 사람을 지지하고 다른 사람에게 등을 돌리기로 할 때 하는 일이죠.
+[13:34]
+S | "Silenciar", en el contexto de internet y las redes sociales, es usar una opción para dejar de ver las fotos o mensajes de alguien sin necesidad de eliminar a esa persona de tus contactos. | 인터넷과 SNS에서 'silenciar(숨기기, 뮤트하다)'는 연락처에서 삭제하지 않고도 누군가의 사진이나 메시지를 보지 않게 하는 기능을 쓰는 거예요.
+[13:47]
+S | "Distancia sana" es el espacio físico o emocional que necesitamos poner entre nosotros y otra persona. | 'distancia sana(건강한 거리)'는 나와 다른 사람 사이에 두어야 하는 물리적·감정적 공간이에요.
+[13:53]
+S | Lo hacemos para proteger nuestra salud mental y encontrar la tranquilidad. | 정신 건강을 지키고 평온을 찾기 위해서죠.
+[13:58]
+S | "Bando" es un grupo de personas que se unen para defender una misma idea, posición o persona, generalmente en oposición o competencia directa con otro grupo. | 'bando(편, 진영)'는 같은 생각이나 입장, 사람을 지키려고 뭉친 무리로, 보통 다른 무리와 맞서거나 직접 경쟁해요.
+[14:09]
+C | Aprender español con estas palabras prácticas es lo que hace que nuestro canal sea tan especial. | 이런 실용적인 단어로 스페인어를 배우는 게 우리 채널을 특별하게 만들어요.
+[14:15]
+C | Entender los sentimientos en otro idioma nos conecta muchísimo más. | 다른 언어로 감정을 이해하면 훨씬 더 깊이 연결되거든요.
+
+[14:19]
+## 사랑하기에 작별할 줄 아는 용기
+S | Así es, Carlos. Conectar con nuestras emociones es universal. | 맞아요, 카를로스. 감정과 연결되는 건 누구에게나 마찬가지예요.
+[14:24]
+S | Y volviendo a Ana, ella tiene muy claro que necesita esa distancia sana ahora mismo. | 아나 얘기로 돌아가면, 아나는 지금 그 건강한 거리가 필요하다는 걸 아주 분명히 알고 있어.
+[14:30]
+S | La verdad, escucharla hablar ayer con tanta paz me inspiró mucho. Es un ejemplo brillante de inteligencia emocional. | 솔직히 어제 아나가 그렇게 평온하게 말하는 걸 들으니 많은 영감을 받았어. 정서 지능의 빛나는 본보기야.
+[14:39]
+C | Totalmente. Creo que todos los que escuchamos este Spanish podcast podemos aprender grandes lecciones de vida con la historia de tu amiga. | 완전히. 이 팟캐스트를 듣는 우리 모두가 네 친구 이야기에서 큰 삶의 교훈을 얻을 수 있을 것 같아.
+[14:46]
+C | Cuando una relación amorosa no funciona, no siempre tiene que terminar con gritos, dramas familiares o peleas terribles. | 연애가 잘 안 될 때, 꼭 고함이나 집안 드라마나 끔찍한 싸움으로 끝나야 하는 건 아니야.
+[14:54]
+S | Así es. Ese es el mensaje más importante que quiero compartir hoy. | 그렇지. 그게 오늘 내가 나누고 싶은 가장 중요한 메시지야.
+[14:58]
+S | A veces amar a alguien también significa tener la valentía y saber cuándo decir adiós. | 때로는 누군가를 사랑한다는 건, 용기를 내서 언제 작별할지 아는 것이기도 해.
+[15:04]
+S | Ellos entendieron que, aunque se quieren mucho y se respetan como personas individuales, ya no funcionan bien como compañeros de vida. | 두 사람은 서로 아끼고 한 사람으로서 존중하지만, 삶의 동반자로서는 더 이상 잘 맞지 않는다는 걸 이해했어.
+[15:13]
+C | Mm, es una reflexión muy profunda, Sofía. | 음, 아주 깊은 생각이다, 소피아.
+[15:16]
+C | Quererse como personas, pero aceptar que no funcionan como pareja, requiere mucho valor. | 사람으로서는 서로 아끼지만 커플로서는 안 맞는다는 걸 받아들이려면 큰 용기가 필요하지.
+[15:21]
+C | Mucha honestidad y madurez, aceptar esa realidad en lugar de intentar forzar las cosas durante años. | 몇 년 동안 억지로 끌고 가려 하는 대신 그 현실을 받아들이는 건, 많은 정직함과 성숙함이 필요해.
+
+[15:27]
+## 실패가 아니라 성장 — 언제 끝내야 하는지 어떻게 알까?
+S | Así es. Y eso me lleva a un punto muy bonito de nuestra conversación. | 맞아. 그리고 그게 우리 대화의 아주 아름다운 지점으로 이어져.
+[15:32]
+S | Ana no ve esta ruptura como un fracaso en su vida. Para ella, los tres años que vivieron juntos fueron un éxito. | 아나는 이 이별을 인생의 실패로 보지 않아. 아나에게 함께 산 3년은 성공이었어.
+[15:40]
+S | Fueron años felices, de muchas experiencias compartidas, y ambos crecieron muchísimo gracias al otro. | 행복한 시간이었고, 함께한 경험이 많았고, 둘 다 서로 덕분에 아주 많이 성장했어.
+[15:47]
+S | Simplemente el ciclo terminó. | 그저 한 주기가 끝난 거야.
+[15:49]
+C | Esa es una perspectiva muy hermosa y esperanzadora. Cambiar la palabra "fracaso" por "experiencia" y "crecimiento", me encanta. | 정말 아름답고 희망적인 관점이다. '실패'라는 말을 '경험'과 '성장'으로 바꾸는 거, 정말 좋아.
+[15:57]
+C | Pero, Sofía, me surge una gran duda ahora. ¿Cómo supieron exactamente que era el momento correcto para terminar? | 그런데 소피아, 지금 큰 궁금증이 생겼어. 끝낼 때가 됐다는 걸 정확히 어떻게 알았을까?
+[16:03]
+C | A veces, cuando no hay grandes problemas, es muy difícil identificar ese límite final. | 큰 문제가 없을 때는 그 마지막 선을 알아차리기가 아주 어렵잖아.
+[16:08]
+S | Es una pregunta muy profunda, Carlos. Ana me explicó que no hubo un día exacto ni una gran discusión. Fue un proceso gradual. | 아주 깊은 질문이야, 카를로스. 아나 말로는 딱 정해진 날도, 큰 싸움도 없었대. 서서히 진행된 과정이었대.
+[16:19]
+S | Se dieron cuenta de que pasaban los días juntos, pero sus mentes y sus sueños estaban en lugares distintos. | 하루하루를 함께 보내지만, 마음과 꿈은 서로 다른 곳에 있다는 걸 깨달은 거야.
+[16:27]
+C | Entiendo perfectamente. Es como cuando la relación romántica se transforma lentamente en una amistad, ¿verdad? | 완전히 이해해. 연인 관계가 천천히 우정으로 바뀌는 것 같은 거지, 그렇지?
+[16:35]
+C | Y de repente, un día te das cuenta de que falta algo esencial para ser pareja. | 그러다 어느 날 갑자기 커플이 되기 위한 본질적인 무언가가 빠져 있다는 걸 깨닫는 거고.
+[16:40]
+S | Exactamente eso. Se querían muchísimo, sí, pero la dinámica en casa era más de compañeros de piso que de pareja enamorada. | 바로 그거야. 서로 엄청 아꼈지, 응. 그런데 집에서의 관계는 사랑하는 커플이라기보다 룸메이트에 가까웠대.
+[16:51]
+S | Esa conexión especial que te hace desear construir un futuro juntos simplemente se había apagado con el tiempo. | 함께 미래를 만들고 싶게 하는 그 특별한 연결이 시간이 지나며 그냥 꺼져 버린 거야.
+[17:01]
+C | Debe ser muy difícil aceptar eso y decirlo en voz alta. | 그걸 받아들이고 소리 내어 말하는 건 정말 어려웠겠다.
+[17:06]
+C | Requiere mucha valentía no conformarse con esa situación. | 그 상황에 안주하지 않으려면 큰 용기가 필요해.
+[17:09]
+C | Muchas personas siguen juntas por costumbre o por el simple miedo a estar solas. | 많은 사람이 습관 때문에, 아니면 그저 혼자가 되는 게 무서워서 계속 함께 지내잖아.
+
+[17:15]
+## 어휘 정리 ④ estancamiento · chispa · compañero de piso · inercia · apego
+S | Tienes toda la razón. Y para ayudar a nuestros estudiantes a hablar español con fluidez y poder expresar estas situaciones emocionales, vamos a hacer nuestra pausa para analizar el vocabulario español que acabamos de utilizar. | 정말 맞아요. 학생들이 스페인어를 유창하게 말하고 이런 감정 상황을 표현할 수 있도록, 방금 쓴 어휘를 분석하는 '잠깐 멈춤'을 해 볼게요.
+[17:32]
+S | "Estancamiento" es la situación en la que algo se detiene y no avanza ni evoluciona. | 'estancamiento(정체)'는 무언가가 멈춰서 나아가지도 발전하지도 않는 상태예요.
+[17:39]
+S | En una relación, significa que la pareja ya no crece junta y la rutina se vuelve aburrida. | 관계에서는 커플이 더 이상 함께 성장하지 않고 일상이 지루해진다는 뜻이에요.
+[17:47]
+S | "Chispa", literalmente, es el pequeño fuego que salta de una hoguera. | 'chispa'는 글자 그대로는 모닥불에서 튀는 작은 불꽃이에요.
+[17:52]
+S | Pero en el amor es la atracción mágica, la emoción y la pasión que existe entre dos personas. | 하지만 사랑에서는 두 사람 사이의 마법 같은 끌림, 설렘, 열정이에요.
+[18:00]
+S | "Compañero de piso" es la persona con la que compartes una casa o un apartamento para dividir los gastos, pero con la que no tienes ninguna relación sentimental. | 'compañero de piso(룸메이트)'는 비용을 나누려고 집이나 아파트를 함께 쓰지만, 연애 감정은 전혀 없는 사람이에요.
+[18:12]
+S | "Inercia" es la fuerza que hace que sigas haciendo lo mismo sin pensar. | 'inercia(관성, 타성)'는 생각 없이 같은 일을 계속하게 만드는 힘이에요.
+[18:18]
+S | En el amor, estar juntos por inercia significa no separarse simplemente porque es la rutina más fácil. | 사랑에서 '관성으로 함께 있다'는 건 그게 가장 편한 일상이라서 헤어지지 않는다는 뜻이에요.
+[18:27]
+S | "Apego" es el cariño especial o la necesidad emocional que sentimos hacia una persona por haber pasado mucho tiempo con ella, aunque ya no estemos enamorados. | 'apego(애착, 정)'는 더는 사랑에 빠져 있지 않아도, 오랜 시간을 함께해서 그 사람에게 느끼는 특별한 정이나 감정적 필요예요.
+[18:38]
+C | ¡Qué palabras tan maravillosas para mejorar nuestro nivel! | 실력을 늘리는 데 정말 멋진 단어들이네요!
+[18:42]
+C | Amigos, los invito a participar. Escriban en los comentarios una frase usando la palabra "inercia" o "chispa". | 여러분, 참여해 주세요. 'inercia'나 'chispa'를 써서 댓글로 문장을 하나 써 주세요.
+[18:49]
+C | Y si están disfrutando de este Spanish podcast, por favor, suscríbanse al canal. | 그리고 이 팟캐스트가 즐겁다면 채널을 구독해 주세요.
+[18:55]
+C | Su suscripción y sus me gusta nos ayudan muchísimo a llegar a más estudiantes. | 구독과 좋아요는 더 많은 학생에게 닿는 데 정말 큰 도움이 돼요.
+
+[19:00]
+## 놓아주는 용기 — 서로의 행복을 빌며
+S | Sí, por favor. Cada comentario nos anima a seguir ofreciendo estas clases de español gratuitas. | 네, 꼭이요. 댓글 하나하나가 무료 스페인어 수업을 계속하는 힘이 돼요.
+[19:08]
+S | Retomando la historia de Ana, ella fue muy honesta consigo misma. | 아나 이야기로 다시 돌아가면, 아나는 자기 자신에게 아주 솔직했어.
+[19:13]
+S | Me dijo que sentir solo apego y vivir en la inercia no era suficiente para mantener la relación diez años más. | 정과 관성만으로 사는 건 관계를 10년 더 이어 가기에 충분하지 않다고 하더라.
+[19:23]
+C | Wow, esa es una demostración de amor propio increíble. | 와, 엄청난 자기애를 보여 주는 거다.
+[19:26]
+C | Es tener el valor de dejar ir a alguien que aprecias profundamente para que ambos puedan encontrar la felicidad completa en el futuro. | 깊이 아끼는 사람을 놓아줄 용기를 내는 거지. 둘 다 앞으로 온전한 행복을 찾을 수 있도록.
+[19:34]
+S | Exacto, Carlos. Y ese es el mensaje central de la historia de hoy. | 맞아, 카를로스. 그게 오늘 이야기의 핵심 메시지야.
+[19:39]
+S | El final de una relación, cuando se hace de forma madura, no es una tragedia terrible. Es un acto de respeto y de esperanza. | 관계의 끝은, 성숙하게 마무리하면 끔찍한 비극이 아니야. 존중과 희망의 행동이야.
+[19:49]
+S | Es creer que hay un futuro brillante esperando a los dos, aunque sea por caminos separados. | 비록 다른 길이더라도, 두 사람 모두를 기다리는 밝은 미래가 있다고 믿는 거야.
+[19:56]
+C | ¡Qué forma preciosa de verlo! | 정말 아름다운 시각이다!
+[19:58]
+C | Entender que el amor también significa desearle lo mejor a la otra persona, incluso cuando ya no está a tu lado. | 사랑이란 그 사람이 더 이상 곁에 없어도 그 사람이 잘되길 비는 것이기도 하다는 걸 이해하는 거지.
+[20:05]
+C | Creo que escuchar español con historias tan reales nos ayuda a reflexionar sobre nuestra propia vida. | 이렇게 현실적인 이야기로 스페인어를 들으면 우리 자신의 삶도 돌아보게 되는 것 같아.
+
+[20:12]
+## 다시 마음을 열 준비가 됐다는 신호
+S | Sin duda. Ana me transmitió mucha paz. | 물론이야. 아나에게서 큰 평온을 느꼈어.
+[20:15]
+S | Ella sabe que ahora vienen meses de adaptación, de redescubrir su identidad individual, pero mira hacia delante con mucha ilusión. | 이제부터 적응하고 한 사람으로서의 자신을 다시 발견하는 몇 달이 올 걸 알지만, 큰 설렘을 안고 앞을 보고 있어.
+[20:24]
+S | Sabe que la vida continúa y que su corazón tiene la capacidad de volver a ser plenamente feliz. | 삶은 계속되고, 자기 마음이 다시 온전히 행복해질 힘이 있다는 걸 알고 있어.
+[20:30]
+C | ¡Qué mensaje tan inspirador y lleno de luz! | 정말 영감을 주고 빛으로 가득한 메시지다!
+[20:34]
+C | Pero me pregunto, Sofía: después de sanar y encontrar esa esperanza individual, ¿cómo sabes que realmente estás listo para abrir el corazón de nuevo? | 그런데 궁금해, 소피아. 상처가 낫고 그런 개인적인 희망을 찾은 뒤에, 다시 마음을 열 준비가 정말 됐다는 건 어떻게 알아?
+[20:42]
+C | Quiero decir, ¿cómo se da ese primer paso para volver a confiar en el amor sin tener miedo a equivocarte otra vez? | 그러니까, 또 실수할까 두려워하지 않고 다시 사랑을 믿는 그 첫걸음은 어떻게 내딛는 걸까?
+[20:50]
+S | Esa es la pregunta más profunda de todas, Carlos. Y la respuesta es que no hay un reloj ni una fecha exacta. | 그게 가장 깊은 질문이야, 카를로스. 답은, 정해진 시계도 날짜도 없다는 거야.
+[20:58]
+S | Uno sabe que está verdaderamente listo cuando ya no busca a alguien por necesidad, por tristeza o por miedo a la soledad. | 필요해서, 슬퍼서, 외로움이 두려워서 누군가를 찾지 않게 될 때, 정말 준비가 됐다는 걸 알게 돼.
+[21:09]
+C | Claro, entiendo. Es cuando quieres compartir tu vida simplemente porque te apetece, | 그렇구나, 이해했어. 그냥 그러고 싶어서 삶을 나누고 싶을 때구나.
+[21:14]
+C | porque quieres sumar algo positivo, y no porque necesitas llenar un espacio vacío que dejó tu expareja. | 전 애인이 남긴 빈자리를 채워야 해서가 아니라, 좋은 걸 더하고 싶어서.
+[21:21]
+S | Exactamente. Ana me dijo ayer que su gran objetivo ahora mismo es llegar a un punto donde su propia compañía sea suficiente para ser feliz todos los días. | 바로 그거야. 아나가 어제 그러는데, 지금 가장 큰 목표는 혼자 있는 것만으로도 매일 행복할 수 있는 지점에 이르는 거래.
+[21:35]
+S | Solo desde esa paz y esa estabilidad interior se puede volver a amar de una forma sana. | 그런 평화와 내면의 안정에서 출발해야만 다시 건강하게 사랑할 수 있으니까.
+
+[21:42]
+## 어휘 정리 ⑤ plenitud · dar el paso · evolucionar · ilusión · corazón abierto
+C | Es una filosofía preciosa. | 정말 아름다운 철학이다.
+[21:43]
+C | Creo que aprender español escuchando temas tan humanos y reales nos ayuda muchísimo más que simplemente memorizar listas de reglas gramaticales aburridas. | 이렇게 인간적이고 현실적인 주제를 들으며 스페인어를 배우는 게, 지루한 문법 규칙 목록을 외우는 것보다 훨씬 도움이 되는 것 같아요.
+[21:54]
+C | Esta conversación en español de hoy ha sido muy enriquecedora para nuestra vida. | 오늘 스페인어 대화는 우리 삶을 정말 풍요롭게 해 줬어요.
+[21:59]
+S | Me alegra muchísimo que lo veas así, Carlos. | 그렇게 봐 줘서 정말 기뻐요, 카를로스.
+[22:02]
+S | Aprender a hablar español con fluidez también significa saber comunicar lo que sentimos en el fondo de nuestra alma. | 스페인어를 유창하게 말하게 된다는 건, 영혼 깊은 곳에서 느끼는 걸 전할 줄 안다는 뜻이기도 해요.
+[22:10]
+S | Y para asegurarnos de que todos nuestros estudiantes dominan estas palabras tan bonitas, vamos con el último análisis de vocabulario de nuestra charla de hoy. | 그리고 모든 학생이 이 예쁜 단어들을 확실히 익히도록, 오늘 대화의 마지막 어휘 분석으로 가 볼게요.
+[22:22]
+S | "Plenitud". Es el estado maravilloso de sentirse totalmente completo, satisfecho y feliz con la vida que uno tiene, sin sentir que falta nada importante en el interior. | 'plenitud(충만함)'. 내면에 중요한 무언가가 빠졌다고 느끼지 않고, 지금 가진 삶에 완전히 채워지고 만족하고 행복한 멋진 상태예요.
+[22:35]
+S | "Dar el paso" es una expresión muy común que significa tomar una decisión valiente o atreverse a hacer algo nuevo e importante, superando todo el miedo inicial. | 'dar el paso(한 걸음 내딛다)'는 처음의 두려움을 이겨 내고 용감한 결정을 하거나, 새롭고 중요한 일에 도전한다는 아주 흔한 표현이에요.
+[22:47]
+S | "Evolucionar" significa cambiar de forma positiva, madurar, crecer y desarrollarse como ser humano, utilizando todo lo que hemos aprendido de nuestras experiencias pasadas. | 'evolucionar(발전하다, 성장하다)'는 지난 경험에서 배운 모든 것을 활용해 긍정적으로 변하고, 성숙하고, 사람으로서 자라는 거예요.
+[23:01]
+S | "Ilusión". En español, esta palabra tiene un sentido muy bonito y positivo. | 'ilusión'. 스페인어에서 이 단어는 아주 예쁘고 긍정적인 뜻이에요.
+[23:07]
+S | Es la alegría inmensa, la gran esperanza y el entusiasmo genuino por las cosas buenas que van a pasar en el futuro. | 앞으로 일어날 좋은 일에 대한 큰 기쁨, 큰 희망, 진심 어린 설렘이에요.
+[23:14]
+S | "Corazón abierto" es una metáfora visual para describir la actitud de una persona que está completamente dispuesta a recibir amor, a confiar de nuevo en los demás y a ser vulnerable sin miedo. | 'corazón abierto(열린 마음)'는 사랑을 받아들이고, 다시 남을 믿고, 두려움 없이 약한 모습도 보일 준비가 완전히 된 사람의 태도를 그린 비유예요.
+[23:29]
+C | ¡Qué palabras tan maravillosas para cerrar nuestro episodio! | 에피소드를 마무리하기에 정말 멋진 단어들이네요!
+[23:33]
+C | Chicos que nos escuchan, aquí tienen su última oportunidad para practicar. | 듣고 계신 여러분, 연습할 마지막 기회예요.
+[23:37]
+C | Escriban un comentario diciéndonos qué proyecto o qué cosa les hace sentir mucha ilusión en este momento de sus vidas. Nos encanta leerlos. | 지금 여러분의 삶에서 어떤 계획이나 무엇이 큰 설렘(ilusión)을 주는지 댓글로 알려 주세요. 읽는 게 정말 즐거워요.
+
+[23:47]
+## 마무리 — 관계는 우리를 가르치는 스승
+S | Sí, por favor, participen en los comentarios. Nos gusta mucho corregir sus frases y ayudarlos. | 네, 댓글로 꼭 참여해 주세요. 여러분 문장을 고쳐 드리고 돕는 걸 정말 좋아해요.
+[23:54]
+C | Y amigos, si esta clase de español para extranjeros les ha resultado útil para su vida y para su aprendizaje, por favor, suscríbanse al canal y dejen un gran me gusta. | 그리고 여러분, 외국인을 위한 이 스페인어 수업이 삶과 공부에 도움이 됐다면, 채널을 구독하고 좋아요를 꾹 눌러 주세요.
+[24:07]
+C | Es un gesto muy pequeño para ustedes, pero para Español Auténtico es fundamental para seguir creciendo. | 여러분에겐 아주 작은 행동이지만, Español Auténtico가 계속 성장하는 데는 꼭 필요해요.
+[24:14]
+S | Y recuerden, si quieren apoyarnos un poco más, pueden abonarse y hacerse miembros del canal. | 그리고 조금 더 응원하고 싶다면, 채널 멤버로 가입하실 수 있다는 것 기억해 주세요.
+[24:21]
+S | Nos ayuda enormemente a seguir creando contenido gratis. | 무료 콘텐츠를 계속 만드는 데 엄청난 도움이 돼요.
+[24:26]
+C | Así es. Su apoyo es nuestra mayor motivación de cada día. | 맞아요. 여러분의 응원이 저희의 매일의 가장 큰 원동력이에요.
+[24:30]
+C | Y volviendo a la reflexión final, Sofía, creo que me quedo con un mensaje muy claro hoy. | 그리고 마지막 생각으로 돌아가면, 소피아, 오늘 아주 분명한 메시지 하나를 가져가는 것 같아.
+[24:36]
+C | Terminar una relación, si se hace con madurez y respeto, nunca es el fin del mundo. Es solo una transición natural hacia algo diferente. | 관계를 끝내는 건, 성숙과 존중으로 한다면 결코 세상의 끝이 아니야. 다른 무언가로 가는 자연스러운 전환일 뿐이지.
+[24:46]
+S | Exacto, Carlos. Las relaciones, incluso las que terminan, no son un error. | 맞아, 카를로스. 관계는, 끝난 관계라도, 실수가 아니야.
+[24:52]
+S | Son maestros que nos enseñan quiénes somos y qué necesitamos realmente para ser felices. | 우리가 누구인지, 행복하려면 정말 무엇이 필요한지 가르쳐 주는 스승이야.
+[24:59]
+S | Ana está cerrando esta puerta con mucho amor y mucha gratitud, pero sabe perfectamente que el futuro tiene cosas maravillosas preparadas para ella. | 아나는 큰 사랑과 감사로 이 문을 닫고 있지만, 미래가 자기를 위해 멋진 일들을 준비해 두었다는 것도 잘 알고 있어.
+[25:10]
+S | Solo necesita darse tiempo, tener paciencia y respirar. | 그저 자신에게 시간을 주고, 인내하고, 숨을 쉬면 돼.
+[25:15]
+C | ¡Qué final tan bonito y lleno de luz! | 정말 아름답고 빛으로 가득한 마무리다!
+[25:18]
+C | Muchas gracias por compartir la historia de Ana de una forma tan madura y respetuosa hoy, Sofía. | 오늘 아나 이야기를 이렇게 성숙하고 정중하게 나눠 줘서 정말 고마워, 소피아.
+[25:24]
+C | Nos ayuda a todos a mejorar nuestra pronunciación española y, al mismo tiempo, a reflexionar sobre el amor. | 우리 모두 스페인어 발음도 늘리고, 동시에 사랑에 대해 생각해 보는 데 도움이 됐어.
+[25:30]
+C | Hasta el próximo episodio, amigos. Cuídense mucho, estudien y sigan practicando. | 다음 에피소드까지 안녕, 여러분. 건강 잘 챙기고, 공부하고, 계속 연습하세요.
+
