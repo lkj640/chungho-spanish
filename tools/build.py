@@ -82,6 +82,8 @@ FORCE = {
     "长时间": "cháng shí jiān", "太长": "tài cháng", "更长": "gèng cháng", "时间长": "shí jiān cháng",
     "得不到": "dé bu dào", "不动地": "bú dòng de", "很好地": "hěn hǎo de",
     "背了": "bēi le", "睛干": "jing gān", "舒服的觉": "shū fu de jiào",
+    "在地里": "zài dì li", "精准地": "jīng zhǔn de", "彻底地": "chè dǐ de", "不觉地": "bù jué de", "机械性地": "jī xiè xìng de",
+    "行不通": "xíng bu tōng", "违背": "wéi bèi", "榨干": "zhà gān", "补觉": "bǔ jiào", "运转": "yùn zhuǎn", "床当": "chuáng dàng",
 }
 
 
