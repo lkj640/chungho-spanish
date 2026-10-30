@@ -45,7 +45,7 @@
   tabs.forEach(b => b.onclick = () => { history.replaceState(null, "", "#" + b.dataset.tab); showTab(b.dataset.tab); });
   window.addEventListener("hashchange", () => showTab(location.hash.slice(1)));
   showTab(location.hash.slice(1));
-  // 게임 링크(game)가 있는 강의는 탭 줄 끝에 🎮 게임 바로가기를 보여 줘요 (새 창으로 열려요)
+  // 게임 링크(game)가 있는 강의는 탭 줄 끝에 🎮 게임 바로가기를 보여 줘요
   if (L.game) { $("gameTab").href = L.game; $("gameTab").hidden = false; }
 
   // ---------- 대본 ----------

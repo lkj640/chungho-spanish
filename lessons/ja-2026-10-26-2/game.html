@@ -1,0 +1,759 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style></head><body>
+<title>黄金の箱か泥の中か</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Antique&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap">
+<style>
+/* Layout: pond-side scoreboard — one big stage card (question) beside a reed-thin ledger of players; stacks on phones. */
+:root {
+  --bg: #e7ede6;          /* pale reed water */
+  --surface: #f6f8f3;
+  --surface-2: #dbe3d9;
+  --fg: #1b2620;
+  --muted: #56645b;
+  --line: #c3cfc2;
+  --mud: #6e5a3a;          /* 泥 */
+  --mud-soft: #e3d8c2;
+  --gold: #a87a0c;         /* 黄金 */
+  --gold-soft: #f3e4b4;
+  --good: #2f7a4b;
+  --bad: #b23a2e;
+  --c0: #2c6e8f; --c1: #8a4f9e; --c2: #3d8a5a; --c3: #b0632a;  /* ア イ ウ エ */
+  --display: "Zen Antique", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  --body: "IBM Plex Sans KR", "Zen Kaku Gothic New", "Apple SD Gothic Neo", system-ui, sans-serif;
+  --jp: "Zen Kaku Gothic New", "Hiragino Sans", "IBM Plex Sans KR", sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111915; --surface: #18231d; --surface-2: #213028; --fg: #e4ebe4; --muted: #97a79c; --line: #2f4136;
+  --mud: #c2a578; --mud-soft: #3a3223; --gold: #e2b43f; --gold-soft: #3d3218; --good: #5cbf80; --bad: #ec7366;
+  --c0: #5aa8cf; --c1: #bb84cc; --c2: #6cc08a; --c3: #e0925a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #111915; --surface: #18231d; --surface-2: #213028; --fg: #e4ebe4; --muted: #97a79c; --line: #2f4136;
+  --mud: #c2a578; --mud-soft: #3a3223; --gold: #e2b43f; --gold-soft: #3d3218; --good: #5cbf80; --bad: #ec7366;
+  --c0: #5aa8cf; --c1: #bb84cc; --c2: #6cc08a; --c3: #e0925a; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--body); font-size: 16px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 40px; }
+#app { max-width: 1180px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+.jp { font-family: var(--jp); }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+p { margin: 0; }
+button { font: inherit; color: inherit; cursor: pointer; }
+button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+input, textarea, select { font: inherit; color: var(--fg); background: var(--surface); border: 1.5px solid var(--line); border-radius: 10px; padding: 10px 12px; width: 100%; }
+label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; color: var(--muted); }
+.tnum { font-variant-numeric: tabular-nums; }
+
+/* header */
+.top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.brand { font-family: var(--display); font-size: 22px; letter-spacing: .02em; }
+.brand b { color: var(--gold); font-weight: 400; }
+.brand i { color: var(--mud); font-style: normal; }
+.crumb { font-size: 13px; color: var(--muted); }
+.link { background: none; border: 0; padding: 0; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; font-size: 14px; }
+
+/* hero on home */
+.hero { display: grid; grid-template-columns: 1fr 1fr; border-radius: 18px; overflow: hidden; border: 1.5px solid var(--line); }
+.hero > div { padding: 28px 24px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.hero .gold { background: var(--gold-soft); }
+.hero .mud { background: var(--mud-soft); }
+.hero h2 { font-family: var(--display); font-weight: 400; font-size: clamp(30px, 6vw, 54px); line-height: 1.1; }
+.hero .gold h2 { color: var(--gold); }
+.hero .mud h2 { color: var(--mud); }
+.hero p { font-size: 15px; max-width: 34ch; }
+.lead { font-size: 15px; color: var(--muted); max-width: 70ch; }
+
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.card { background: var(--surface); border: 1.5px solid var(--line); border-radius: 16px; padding: 20px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.card h3 { font-size: 18px; }
+.card .sub { font-size: 14px; color: var(--muted); }
+.card .grow { flex: 1; }
+.notice { font-size: 13px; color: var(--muted); background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.notice.warn { color: var(--bad); }
+
+.btn { border: 0; border-radius: 12px; padding: 12px 18px; font-weight: 700; background: var(--fg); color: var(--bg); }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.btn.ghost { background: transparent; color: var(--fg); border: 1.5px solid var(--line); }
+.btn.gold { background: var(--gold); color: #1b1508; }
+.btn.mud { background: var(--mud); color: var(--bg); }
+.btn.big { font-size: 18px; padding: 16px 22px; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+.rules { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; border-top: 1.5px solid var(--line); }
+.rules > div { padding: 14px 14px 0 0; display: flex; flex-direction: column; gap: 4px; font-size: 14px; min-width: 0; }
+.rules .k { font-family: var(--display); font-size: 20px; color: var(--mud); }
+
+/* stage */
+.stage { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: start; }
+.panel { background: var(--surface); border: 1.5px solid var(--line); border-radius: 18px; padding: 22px; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.qhead { display: flex; justify-content: space-between; gap: 10px; align-items: center; flex-wrap: wrap; font-size: 14px; color: var(--muted); }
+.tag { display: inline-block; font-size: 12px; letter-spacing: .06em; padding: 3px 9px; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
+.qtext { font-size: clamp(20px, 2.6vw, 30px); font-weight: 700; line-height: 1.4; }
+.qjp { font-family: var(--jp); font-size: clamp(19px, 2.4vw, 28px); line-height: 1.6; padding: 14px 16px; background: var(--surface-2); border-radius: 12px; }
+.choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.choice { display: flex; gap: 12px; align-items: center; text-align: left; border-radius: 14px; padding: 14px 16px; border: 2px solid var(--line); background: var(--surface); font-size: clamp(16px, 1.9vw, 22px); min-width: 0; }
+.choice .kana { flex: none; width: 40px; height: 40px; border-radius: 10px; display: grid; place-items: center; font-family: var(--jp); font-weight: 700; color: #fff; font-size: 20px; }
+.choice .txt { min-width: 0; overflow-wrap: anywhere; }
+.choice.k0 .kana { background: var(--c0); } .choice.k1 .kana { background: var(--c1); }
+.choice.k2 .kana { background: var(--c2); } .choice.k3 .kana { background: var(--c3); }
+.choice.right { border-color: var(--good); box-shadow: inset 0 0 0 2px var(--good); }
+.choice.wrong { opacity: .5; }
+.choice.mine { border-color: var(--fg); }
+.choice .cnt { margin-left: auto; font-weight: 700; font-size: 16px; color: var(--muted); }
+.timer { height: 8px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
+.timer > i { display: block; height: 100%; background: var(--gold); transition: width .25s linear; }
+.explain { border-left: 4px solid var(--good); padding: 4px 0 4px 14px; font-size: 16px; }
+.explain .ts { color: var(--muted); font-size: 13px; }
+
+/* ledger */
+.ledger { display: flex; flex-direction: column; gap: 0; }
+.ledger h3 { font-size: 14px; letter-spacing: .08em; color: var(--muted); font-weight: 500; padding-bottom: 8px; border-bottom: 1.5px solid var(--line); display: flex; justify-content: space-between; }
+.lrow { display: grid; grid-template-columns: 26px minmax(0, 1fr) auto; gap: 8px; align-items: center; padding: 9px 0; border-bottom: 1px solid var(--line); }
+.lrow .rk { color: var(--muted); font-size: 13px; }
+.lrow .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lrow .sc { display: flex; gap: 6px; align-items: center; font-size: 15px; }
+.pill { font-size: 12px; padding: 2px 8px; border-radius: 99px; font-weight: 700; white-space: nowrap; }
+.pill.pot { background: var(--gold-soft); color: var(--gold); }
+.pill.bank { background: var(--mud-soft); color: var(--mud); }
+.pill.ok { background: transparent; color: var(--good); }
+.pill.lost { background: transparent; color: var(--bad); }
+.pill.wait { background: transparent; color: var(--muted); }
+
+/* local team input */
+.teams { display: flex; flex-direction: column; gap: 8px; }
+.trow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.trow .nm { font-weight: 700; overflow-wrap: anywhere; }
+.seg { display: flex; gap: 6px; flex-wrap: wrap; }
+.seg button { min-width: 44px; height: 40px; border-radius: 10px; border: 1.5px solid var(--line); background: var(--surface); font-family: var(--jp); font-weight: 700; padding: 0 10px; }
+.seg button.on { color: #fff; border-color: transparent; }
+.seg button.on.k0 { background: var(--c0); } .seg button.on.k1 { background: var(--c1); }
+.seg button.on.k2 { background: var(--c2); } .seg button.on.k3 { background: var(--c3); }
+.seg button.on.gold { background: var(--gold); color: #1b1508; }
+.seg button.on.mud { background: var(--mud); color: var(--bg); }
+
+/* lobby */
+.code { font-family: var(--display); font-size: clamp(56px, 12vw, 120px); letter-spacing: .12em; line-height: 1; color: var(--gold); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { padding: 6px 12px; border-radius: 99px; background: var(--surface-2); font-size: 15px; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* phone */
+.phone { max-width: 520px; width: 100%; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+.phone .choices { grid-template-columns: 1fr; }
+.phone .choice { font-size: 18px; padding: 16px; }
+.wallet { display: grid; grid-template-columns: 1fr 1fr; border-radius: 14px; overflow: hidden; border: 1.5px solid var(--line); }
+.wallet > div { padding: 12px 14px; display: flex; flex-direction: column; }
+.wallet .l { font-size: 12px; letter-spacing: .06em; }
+.wallet .v { font-size: 26px; font-weight: 700; }
+.wallet .g { background: var(--gold-soft); color: var(--gold); }
+.wallet .m { background: var(--mud-soft); color: var(--mud); }
+.verdict { font-family: var(--display); font-size: 40px; line-height: 1.1; }
+.verdict.ok { color: var(--good); } .verdict.ng { color: var(--bad); }
+.decide { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.decide button { border-radius: 14px; padding: 16px 12px; border: 2px solid transparent; display: flex; flex-direction: column; gap: 4px; align-items: center; text-align: center; }
+.decide .dg { background: var(--gold-soft); color: var(--gold); }
+.decide .dm { background: var(--mud-soft); color: var(--mud); }
+.decide .sel { border-color: var(--fg); }
+.decide b { font-family: var(--display); font-weight: 400; font-size: 24px; }
+.decide span { font-size: 13px; color: var(--fg); }
+
+/* end */
+.podium { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.award { border-radius: 16px; padding: 18px; display: flex; flex-direction: column; gap: 6px; background: var(--surface-2); min-width: 0; }
+.award .ttl { font-family: var(--display); font-size: 24px; }
+.award .who { font-size: 20px; font-weight: 700; overflow-wrap: anywhere; }
+.award .why { font-size: 14px; color: var(--muted); }
+.award.a1 .ttl { color: var(--mud); } .award.a2 .ttl { color: var(--good); } .award.a3 .ttl { color: var(--gold); }
+
+@media (max-width: 860px) {
+  .stage { grid-template-columns: minmax(0, 1fr); }
+  .cards, .podium { grid-template-columns: 1fr; }
+  .rules { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 560px) {
+  .hero { grid-template-columns: 1fr; }
+  .choices { grid-template-columns: 1fr; }
+  .trow { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { .timer > i { transition: none; } }
+</style>
+
+<div id="app"></div>
+
+<script>
+/* ---------- 문제: 2026-10-26 일본어 Deep Dive 「黄金の箱の中で死ぬより、泥の中で生きたい」 본문에서 ---------- */
+const QUESTIONS = [
+  { id: "hasshaku", cat: "본문", q: "빈칸에 들어갈 말은?", jp: "「万間の家があっても、夜眠るのに必要な空間はわずか＿＿」",
+    c: ["八尺", "八畳", "一間", "千尺"], a: 0, ts: "2:53",
+    ex: "屋寛万間、夜宿八尺. 여덟 자(약 2미터), 침대 하나 크기예요." },
+  { id: "sannshoku", cat: "본문", q: "만 경의 비옥한 농지가 있어도 하루에 먹는 것은?", jp: "「万頃の肥沃な農地があっても、1日に食べるのは＿＿のみ」",
+    c: ["3食", "1杯の麺", "1万粒の米", "八尺の米"], a: 0, ts: "3:08",
+    ex: "몸이 필요로 하는 것에는 분명하고 아주 낮은 한계치가 있다는 이야기예요." },
+  { id: "eda", cat: "장자의 우화", q: "숲에 사는 작은 새가 둥지를 짓고 자는 데 필요한 것은?",
+    c: ["森全体", "たった1本の小さな枝", "何万本もの巨大な木", "黄金の箱"], a: 1, ts: "3:54",
+    ex: "숲 전체가 아니라 작은 나뭇가지 하나면 새의 생활은 완벽하게 성립해요." },
+  { id: "nezumi", cat: "장자의 우화", q: "목마른 작은 쥐가 거대한 강 앞에서 마시는 것은?",
+    c: ["川の水を全部", "ほんの数口の冷たい水", "温かいお茶", "雨水だけ"], a: 1, ts: "4:19",
+    ex: "자기 작은 배를 채울 만큼의 차가운 물 몇 모금뿐이에요." },
+  { id: "hanron", cat: "누가 말했나", q: "이 반론을 꺼낸 사람은?", jp: "「私たち人間が森全体を欲しがるのって、単なる人間の進歩なんじゃないですか」",
+    c: ["ホストA", "ホストB", "荘子", "楚の高官"], a: 1, ts: "4:50",
+    ex: "ホストB가 '좀 짓궂은 질문'이라며 꺼낸 반론이에요." },
+  { id: "anzen", cat: "본문", q: "ホストA에 따르면 인간이 망가뜨린 것은?", jp: "「生物学的なニーズと心理的な欲求を混同して、その＿＿を完全に壊してしまった」",
+    c: ["安全装置", "自律神経", "黄金の箱", "体面"], a: 0, ts: "5:18",
+    ex: "동물은 필요한 절대량 이상을 원하지 않는 '안전장치'가 작동하는데, 인간은 그걸 망가뜨렸다는 거예요." },
+  { id: "mentsu", cat: "어휘", q: "「体面」에 가장 가까운 일본어 표현은?",
+    c: ["本音", "メンツ・見栄", "遠慮", "根性"], a: 1, ts: "6:08",
+    ex: "남에게 '성공했다'고 보이려는 겉모습과 사회적 평가에 대한 집착이에요." },
+  { id: "cortisol", cat: "본문", q: "남과 비교해 뒤처졌다고 느낄 때 뇌가 분비하는 스트레스 호르몬은?",
+    c: ["ドーパミン", "セロトニン", "コルチゾール", "オキシトシン"], a: 2, ts: "7:06",
+    ex: "뇌는 사회적 지위 하락을 생명의 위기와 같은 수준으로 받아들여요. 수렵 채집 시대에는 따돌림이 곧 죽음이었으니까요." },
+  { id: "so", cat: "장자의 낚시", q: "낚시하던 장자를 찾아온 고관들은 어느 나라 왕이 보냈나요?",
+    c: ["秦", "斉", "楚", "魏"], a: 2, ts: "8:38",
+    ex: "당시 초강대국이던 楚(초)나라 왕이 엘리트 고관 두 명을 보냈어요." },
+  { id: "boroboro", cat: "장자의 낚시", q: "고관들이 찾아왔을 때 장자의 모습은?",
+    c: ["絹の服で宮殿にいた", "ボロボロの服で釣りをしていた", "泥沼で亀を探していた", "山にこもって修行していた"], a: 1, ts: "8:33",
+    ex: "강가에서 너덜너덜한 옷을 입고 한가로이 낚시를 하고 있었어요." },
+  { id: "3000", cat: "장자의 낚시", q: "초나라 왕궁의 신성한 거북이는 죽은 지 몇 년이 되었나요?",
+    c: ["300年", "1000年", "2000年", "3000年"], a: 3, ts: "9:39",
+    ex: "3000년 전에 죽은 거북이 등딱지를 비단에 싸서 황금 상자에 넣고 종묘 가장 높은 곳에 모셨대요." },
+  { id: "ceo", cat: "본문", q: "ホストA는 초나라 왕의 제안을 현대로 치면 무엇과 같다고 했나요?",
+    c: ["宝くじの1等に当たること", "巨大グローバル企業のCEOに指名されること", "国会議員に立候補すること", "SNSでフォロワー100万人になること"], a: 1, ts: "9:06",
+    ex: "시가총액 1위 기업 CEO 지명에 전용기, 수십억 엔 스톡옵션까지 받는 셈이에요." },
+  { id: "isshu", cat: "어휘", q: "장자가 제안을 「一蹴した」. 「一蹴する」의 뜻은?",
+    c: ["단칼에 거절하다", "기꺼이 받아들이다", "한참 고민하다", "다음으로 미루다"], a: 0, ts: "10:25",
+    ex: "一蹴(いっしゅう)する: 한 번에 차 버리다, 일축하다." },
+  { id: "kotae", cat: "장자의 낚시", q: "'거북이는 무엇을 바랐겠소?'라는 질문에 고관들의 대답은?",
+    c: ["黄金の箱で崇められる方", "生きて泥の中で尾を振る方", "どちらでもない", "王に聞かないと分からない"], a: 1, ts: "10:16",
+    ex: "저도 모르게 진리를 찔려 '당연히 살아서 진흙 속에서 꼬리를 흔드는 쪽'이라고 답해 버려요." },
+  { id: "hako", cat: "비유", q: "ホストA의 해석에서 「黄金の箱」가 가리키는 것은?",
+    c: ["ブランド品の服や高級車", "見栄えのいい肩書きや「いいね」をもらえる完璧なライフスタイル", "35年の住宅ローン", "2メートルのベッド"], a: 1, ts: "10:50",
+    ex: "황금 상자는 그럴듯한 직함과 완벽한 라이프스타일, 고급 비단은 명품 옷과 고급 차예요." },
+  { id: "doronuma", cat: "읽기", q: "「泥沼」의 읽는 법은?",
+    c: ["でいしょう", "どろぬま", "どろしょう", "でいぬま"], a: 1, ts: "10:03",
+    ex: "泥沼(どろぬま): 진흙탕, 수렁." },
+  { id: "maboroshi", cat: "본문", q: "빈칸에 들어갈 말은?", jp: "「現代人が抱える苦痛の99パーセントは、肉体の飢えではなく、＿＿なんです」",
+    c: ["心の渇き", "幻の飢え", "体面の病", "夜の不眠"], a: 1, ts: "13:17",
+    ex: "SNS를 스크롤할 때마다 뇌가 '나는 뒤처지고 있다'고 착각해 끝없는 결핍감을 만들어 내요." },
+  { id: "ana", cat: "본문", q: "아무리 사도 채워지지 않는 이유로 든 '밑 빠진 구멍'은?",
+    c: ["胃袋", "虚栄心", "住宅ローン", "財布"], a: 1, ts: "13:38",
+    ex: "물리적인 위가 아니라 허영심(虚栄心)이라는 밑 빠진 구멍이기 때문이에요." },
+  { id: "chisoku", cat: "사자성어", q: "「知足常楽」의 뜻으로 알맞은 것은?",
+    c: ["足るを知れば常に楽し", "足で歩けば常に健康", "知識が足りれば常に楽", "常に楽しむ者が足るを知る"], a: 0, ts: "14:17",
+    ex: "지금 가진 것으로 충분하다는 걸 알면 늘 즐겁다는 뜻이에요." },
+  { id: "hanboku", cat: "사자성어", q: "「返璞帰真」에서 「璞」가 가리키는 것은?",
+    c: ["황금 상자", "다듬지 않은 원석", "진흙 거북이", "작은 나뭇가지"], a: 1, ts: "14:30",
+    ex: "璞은 꾸미지 않은 원석, 真은 순수한 본질. 꾸미지 않은 본래 모습으로 돌아간다는 뜻이에요." },
+  { id: "shohousen", cat: "본문", q: "ホストB가 말한 '돈 들지 않는 처방'이 아닌 것은?",
+    c: ["公園を散歩して木々の緑を見つめる", "秋風の音に耳を澄ませる", "高級レストランで食事をする", "素朴な卵麺を作って味わう"], a: 2, ts: "15:06",
+    ex: "산책, 가을바람 소리, 계란 국수, 창가의 노을. 모두 돈 한 푼 안 드는 실천이에요." },
+  { id: "kiki", cat: "본문", q: "빈칸에 들어갈 말은?", jp: "「1杯の温かい麺、1着の厚い服、2メートルほどのベッドがあれば、＿＿は去るんです」",
+    c: ["幻の飢え", "肉体の危機", "体面", "住宅ローン"], a: 1, ts: "12:54",
+    ex: "몸의 진짜 고통은 현대 사회에서 놀랄 만큼 쉽게 해결된다는 이야기예요." },
+  { id: "shousha", cat: "본문", q: "70~80세가 되었을 때 '진짜로 물어지는 것'이 아닌 것은?",
+    c: ["毎日のご飯をおいしく食べられるか", "自分の足でしっかり歩けるか", "若いころどれだけ大きな家に住んでいたか", "夜ぐっすり眠れるか"], a: 2, ts: "16:22",
+    ex: "심신의 건강과 평온한 일상을 지킨 사람이야말로 인생의 최종 승자라는 결론이에요." },
+  { id: "sumaho", cat: "본문", q: "ホストA가 '오늘 밤부터' 하겠다고 한 실천은?",
+    c: ["会社を辞めて釣りをする", "寝る前にスマホを寝室に持ち込まない", "毎朝公園を走る", "SNSのアカウントを消す"], a: 1, ts: "17:11",
+    ex: "남의 황금 상자를 들여다보는 대신 내 2미터 침대의 따뜻함을 느껴 보겠다고 해요." },
+  { id: "moetsuki", cat: "어휘", q: "「燃え尽き症候群」은 우리말로?",
+    c: ["번아웃", "불면증", "공황 장애", "향수병"], a: 0, ts: "1:34",
+    ex: "燃え尽き(もえつき)症候群 = 번아웃(バーンアウト)." },
+  { id: "zeitaku", cat: "읽기", q: "「贅沢」의 읽는 법은?",
+    c: ["ぜいたく", "せいたく", "ぜいだく", "ざいたく"], a: 0, ts: "0:12",
+    ex: "贅沢(ぜいたく): 사치. 첫 장면의 호텔 통째 빌리기 이야기에서 나와요." },
+];
+const QMAP = Object.fromEntries(QUESTIONS.map(q => [q.id, q]));
+const KANA = ["ア", "イ", "ウ", "エ"];
+const BASE = 100;
+const QTIME = 25; // 초
+// claude.ai 밖(충호의 어학 열공 사이트 등)에서 열면 휴대폰 참가 모드 없이 한 화면 모드만 보여 줘요
+const STANDALONE = !window.claude;
+const CLAUDE_URL = "https://claude.ai/artifact/TrQVzGEUt7Pkm1iXjRpbS2";
+const LESSON_URL = "../../lesson.html?d=ja-2026-10-26-2#talk";
+
+/* ---------- 점수 규칙 ----------
+   정답: 걸린 상자가 비어 있으면 +100, 이미 있으면 ×2.
+   오답: 상자(아직 확정 안 한 점수)를 전부 잃음.
+   정답 공개 뒤 「泥の中」를 고르면 상자 점수를 확정(bank), 「黄金の箱」면 계속 건다(기본값).
+   게임이 끝나면 남은 상자 점수는 살아남은 것으로 보고 확정한다. */
+function tally(p, order, n, applyLast, final) {
+  let bank = 0, pot = 0, lost = 0, maxLost = 0, banks = 0, correct = 0;
+  const ans = p.answers || {}, dec = p.banks || {};
+  for (let i = 0; i < n; i++) {
+    const q = QMAP[order[i]];
+    if (!q) continue;
+    if (ans[i] === q.a) { correct++; pot = pot > 0 ? pot * 2 : BASE; }
+    else { if (pot > 0) { lost += pot; maxLost = Math.max(maxLost, pot); } pot = 0; }
+    if ((i < n - 1 || applyLast) && dec[i] === true && pot > 0) { bank += pot; pot = 0; banks++; }
+  }
+  if (final) { bank += pot; pot = 0; }
+  return { bank, pot, lost, maxLost, banks, correct, total: bank + pot };
+}
+
+/* ---------- 상태 ---------- */
+const S = {
+  view: "home",       // home | host | player | local-setup | local
+  db: null, user: null, uid: null, canWrite: null, ready: false,
+  code: "", game: null, players: [], me: null,
+  local: null,        // { game, players }
+  joinErr: "", busy: false, pendingAns: null,
+};
+const unsubs = [];
+function clearSubs() { while (unsubs.length) { try { unsubs.pop()(); } catch (e) {} } }
+const ls = {
+  get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+  set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch (e) {} },
+};
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmt = n => n.toLocaleString("ko-KR");
+function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function newCode() { const L = "ABCDEFGHJKLMNPQRSTUVWXYZ"; let s = ""; for (let i = 0; i < 4; i++) s += L[Math.floor(Math.random() * L.length)]; return s; }
+
+/* 현재 게임/플레이어 (온라인이든 한 화면이든 같은 모양) */
+function G() { return S.view === "local" ? S.local.game : S.game; }
+function P() { return S.view === "local" ? S.local.players : S.players; }
+
+function standings(g, players) {
+  const n = g.phase === "end" ? g.order.length : g.phase === "reveal" ? g.qi + 1 : g.phase === "question" ? g.qi : 0;
+  const applyLast = g.phase === "question" || g.phase === "end";
+  return players.map(p => ({ p, t: tally(p, g.order, n, applyLast, g.phase === "end") }))
+    .sort((a, b) => b.t.total - a.t.total || b.t.correct - a.t.correct || String(a.p.name).localeCompare(String(b.p.name)));
+}
+
+/* ---------- 렌더 ---------- */
+const app = document.getElementById("app");
+function render() {
+  const v = S.view;
+  let html = header();
+  if (v === "home") html += homeView();
+  else if (v === "local-setup") html += localSetupView();
+  else if (v === "host" || v === "local") html += hostView();
+  else if (v === "player") html += playerView();
+  const keep = document.activeElement && document.activeElement.id;
+  app.innerHTML = html;
+  if (keep) { const el = document.getElementById(keep); if (el) { el.focus(); if (el.setSelectionRange && el.value) el.setSelectionRange(el.value.length, el.value.length); } }
+  tick();
+}
+
+function header() {
+  const where = { home: "", "local-setup": "한 화면 모드 · 준비", local: "한 화면 모드", host: "진행자 화면" + (S.code ? " · 방 " + S.code : ""), player: S.code ? "방 " + S.code : "" }[S.view] || "";
+  return `<div class="top"><div class="brand"><b>黄金の箱</b>か<i>泥の中</i>か</div>
+    <div class="row"><span class="crumb">${esc(where)}</span>${S.view !== "home" ? `<button class="link" data-act="home">처음으로</button>` : STANDALONE ? `<a class="link" href="${LESSON_URL}">‹ 강의로 돌아가기</a>` : ""}</div></div>`;
+}
+
+function homeView() {
+  const online = S.db && S.uid;
+  const blocked = online && S.canWrite === false;
+  let status = "";
+  if (!S.ready) status = `<p class="notice">온라인 기능을 확인하는 중…</p>`;
+  else if (!online) status = `<p class="notice">이 화면에서는 휴대폰 참가 모드를 쓸 수 없어요 (claude.ai 로그인 필요). 아래 '한 화면 모드'로 바로 할 수 있어요.</p>`;
+  else if (blocked) status = `<p class="notice warn">지금 권한으로는 방을 만들거나 참가할 수 없어요. 공유 설정에서 참가자에게 '참여자(Contributor)' 이상 권한을 주거나, 한 화면 모드를 쓰세요.</p>`;
+  const dis = (!online || blocked) ? "disabled" : "";
+  const resume = S.ready && online && ls.get("kq-host") ? `<button class="btn ghost" data-act="resume-host" ${dis}>방 ${esc(ls.get("kq-host"))} 이어서 진행</button>` : "";
+  const lastName = esc(S.nameDraft ?? ls.get("kq-name") ?? "");
+  return `
+  <section class="hero">
+    <div class="gold"><span class="jp">黄金の箱で崇められる死んだ亀</span><h2 class="jp">黄金の箱</h2><p>맞힐 때마다 상자 속 점수가 두 배. 그러나 한 번 틀리면 상자째 사라져요.</p></div>
+    <div class="mud"><span class="jp">泥の中で尾を振る生きた亀</span><h2 class="jp">泥の中</h2><p>지금까지 모은 만큼만 챙기고 진흙으로 돌아가요. 확정한 점수는 절대 잃지 않아요.</p></div>
+  </section>
+  <p class="lead">「황금 상자를 거절한 장자의 진흙 거북이」(2026년 10월 26일 일본어 Deep Dive)를 듣고 온 사람들을 위한 퀴즈예요. 문제는 모두 그 에피소드 본문에서 나와요. 얼마나 욕심을 낼지가 승부를 가릅니다. 知足常楽.</p>
+  <div class="rules">
+    <div><span class="k jp">一</span><b>정답이면</b>상자에 100점. 상자가 차 있으면 두 배로 불어나요.</div>
+    <div><span class="k jp">二</span><b>오답이면</b>상자에 든 점수를 전부 잃어요.</div>
+    <div><span class="k jp">三</span><b>정답 공개 뒤</b>泥の中(확정)이냐 黄金の箱(계속)냐를 골라요. 안 고르면 계속 걸어요.</div>
+    <div><span class="k jp">四</span><b>마지막엔</b>확정 점수와 살아남은 상자를 합쳐 순위를 내요.</div>
+  </div>
+  ${STANDALONE ? `
+  <div class="cards" style="grid-template-columns:minmax(0,1fr)">
+    <div class="card"><h3>한 화면 모드로 시작</h3><p class="sub">TV나 빔프로젝터에 이 화면을 띄우고 팀을 나눠요. 문제가 나오면 팀별로 ア·イ·ウ·エ를 외치고, 진행자가 팀 줄에서 대신 눌러 줍니다. 로그인은 필요 없어요.</p>
+      <div class="row"><button class="btn mud big" data-act="local-setup">팀 정하기</button></div></div>
+  </div>
+  <p class="notice">각자 휴대폰으로 답하는 모드는 <a href="${CLAUDE_URL}" target="_blank" rel="noopener">Claude 버전</a>에서만 돼요. 참가자 모두 claude.ai 로그인과 공유 권한이 필요해요.</p>` : `
+  ${status}
+  <div class="cards">
+    <div class="card"><h3>방 만들기</h3><p class="sub grow">TV나 빔프로젝터에 띄울 진행자 화면이에요. 방 코드를 알려 주면 각자 휴대폰으로 들어와요.</p>
+      <label>문제 수<select id="cnt-host">${[8, 12, 16, 20].map(n => `<option ${n === 12 ? "selected" : ""}>${n}</option>`).join("")}</select></label>
+      <div class="row"><button class="btn gold" data-act="create" ${dis}>방 만들기</button>${resume}</div></div>
+    <div class="card"><h3>휴대폰으로 참가</h3><p class="sub grow">진행자 화면에 나온 4글자 코드와 이름을 입력하세요.</p>
+      <label>방 코드<input id="join-code" maxlength="4" autocomplete="off" autocapitalize="characters" placeholder="예: KAME" value="${esc(S.joinCodeDraft || "")}"></label>
+      <label>이름<input id="join-name" maxlength="16" autocomplete="nickname" placeholder="표시될 이름" value="${lastName}"></label>
+      ${S.joinErr ? `<p class="notice warn">${esc(S.joinErr)}</p>` : ""}
+      <button class="btn" data-act="join" ${dis}>참가하기</button></div>
+    <div class="card"><h3>한 화면 모드</h3><p class="sub grow">계정 없이 화면 하나로 해요. 팀별로 답을 외치면 진행자가 대신 눌러 줍니다.</p>
+      <button class="btn mud" data-act="local-setup">팀 정하기</button></div>
+  </div>`}`;
+}
+
+function localSetupView() {
+  return `<div class="panel" style="max-width:640px">
+    <h2>팀 정하기</h2>
+    <label>팀 이름 (한 줄에 하나)<textarea id="teams" rows="5">${esc(S.teamsDraft || "1팀\n2팀\n3팀\n4팀")}</textarea></label>
+    <label>문제 수<select id="cnt-local">${[8, 12, 16, 20].map(n => `<option ${n === 12 ? "selected" : ""}>${n}</option>`).join("")}</select></label>
+    <p class="notice">문제가 나오면 각 팀이 ア·イ·ウ·エ 중 하나를 고르고, 진행자가 팀 줄에서 눌러요. 정답 공개 뒤에는 상자를 가진 팀마다 泥/金을 골라요.</p>
+    <div class="row"><button class="btn gold big" data-act="local-start">시작</button></div></div>`;
+}
+
+function ledger(g, players, local) {
+  const st = standings(g, players);
+  const qi = g.qi;
+  const rows = st.map((s, i) => {
+    const p = s.p, t = s.t;
+    let flag = "";
+    if (g.phase === "question") flag = (p.answers || {})[qi] != null ? `<span class="pill ok">답함</span>` : `<span class="pill wait">…</span>`;
+    else if (g.phase === "reveal") {
+      const q = QMAP[g.order[qi]];
+      const right = (p.answers || {})[qi] === q.a;
+      flag = right ? `<span class="pill ok">○</span>` : `<span class="pill lost">×</span>`;
+      if (t.pot > 0 && (p.banks || {})[qi] === true) flag += `<span class="pill bank">泥</span>`;
+    }
+    const pot = t.pot > 0 ? `<span class="pill pot tnum" title="아직 확정 안 한 상자 점수">箱 ${fmt(t.pot)}</span>` : "";
+    return `<div class="lrow"><span class="rk tnum">${i + 1}</span><span class="nm">${esc(p.name)}</span>
+      <span class="sc tnum">${flag}${pot}<b>${fmt(t.bank)}</b></span></div>`;
+  }).join("");
+  return `<div class="ledger"><h3><span>${local ? "팀" : "참가자"} ${players.length}</span><span>확정 점수</span></h3>${rows || `<p class="notice" style="margin-top:10px">아직 아무도 없어요.</p>`}</div>`;
+}
+
+function hostView() {
+  const g = G(), players = P(), local = S.view === "local";
+  if (!g) return `<div class="panel"><p>방 정보를 불러오는 중…</p></div>`;
+  if (g.phase === "lobby") {
+    return `<div class="stage"><div class="panel">
+      <p class="crumb">휴대폰에서 이 페이지를 열고 '휴대폰으로 참가'에 코드를 입력하세요</p>
+      <div class="code">${esc(S.code)}</div>
+      <div class="chips">${players.map(p => `<span class="chip">${esc(p.name)}</span>`).join("") || `<span class="sub">기다리는 중…</span>`}</div>
+      <div class="row"><button class="btn gold big" data-act="start" ${players.length ? "" : "disabled"}>${players.length}명으로 시작 · ${g.order.length}문제</button></div>
+      <p class="notice">참가자에게는 이 페이지 링크를 같이 보내 주세요. 링크를 열 수 있고 '참여자(Contributor)' 이상 권한이 있어야 답을 낼 수 있어요.</p>
+    </div>${ledger(g, players, local)}</div>`;
+  }
+  if (g.phase === "end") return endView(g, players);
+
+  const q = QMAP[g.order[g.qi]];
+  const last = g.qi === g.order.length - 1;
+  const counts = [0, 0, 0, 0];
+  players.forEach(p => { const a = (p.answers || {})[g.qi]; if (a != null && counts[a] != null) counts[a]++; });
+  const reveal = g.phase === "reveal";
+  const answered = players.filter(p => (p.answers || {})[g.qi] != null).length;
+  const choices = q.c.map((c, i) => `<div class="choice k${i} ${reveal ? (i === q.a ? "right" : "wrong") : ""}">
+      <span class="kana">${KANA[i]}</span><span class="txt jp">${esc(c)}</span>${reveal ? `<span class="cnt tnum">${counts[i]}</span>` : ""}</div>`).join("");
+
+  let controls = "";
+  if (local) controls = localControls(g, players, q, reveal, last);
+  const action = reveal
+    ? `<button class="btn big ${last ? "gold" : ""}" data-act="next">${last ? "결과 보기" : "다음 문제"}</button>`
+    : `<button class="btn big" data-act="reveal">정답 공개</button>`;
+
+  return `<div class="stage"><div class="panel">
+    <div class="qhead"><span><span class="tag">${esc(q.cat)}</span> &nbsp;문제 <b class="tnum">${g.qi + 1}</b> / ${g.order.length}${last ? " · <b style='color:var(--gold)'>마지막 문제</b>" : ""}</span>
+      <span class="tnum">${reveal ? `본문 ${q.ts}` : `<span id="tleft"></span> · 답한 ${local ? "팀" : "사람"} ${answered}/${players.length}`}</span></div>
+    ${!reveal ? `<div class="timer"><i id="tbar" style="width:100%"></i></div>` : ""}
+    <p class="qtext">${esc(q.q)}</p>
+    ${q.jp ? `<p class="qjp">${esc(q.jp)}</p>` : ""}
+    <div class="choices">${choices}</div>
+    ${reveal ? `<div class="explain">${esc(q.ex)} <span class="ts">— 본문 ${q.ts}</span></div>` : ""}
+    ${controls}
+    <div class="row">${action}</div>
+    ${reveal && !last && !local ? `<p class="notice">휴대폰에서 泥の中(확정) 또는 黄金の箱(계속)를 고를 시간을 주세요. 안 고르면 계속 거는 걸로 처리돼요.</p>` : ""}
+  </div>${ledger(g, players, local)}</div>`;
+}
+
+function localControls(g, players, q, reveal, last) {
+  const rows = players.map((p, pi) => {
+    if (!reveal) {
+      const cur = (p.answers || {})[g.qi];
+      return `<div class="trow"><span class="nm">${esc(p.name)}</span><div class="seg">${KANA.map((k, i) =>
+        `<button class="k${i} ${cur === i ? "on" : ""}" data-act="l-ans" data-p="${pi}" data-c="${i}" aria-label="${esc(p.name)} ${k}">${k}</button>`).join("")}</div></div>`;
+    }
+    if (last) return "";
+    const t = tally(p, g.order, g.qi + 1, false, false);
+    if (t.pot <= 0) return "";
+    const banked = (p.banks || {})[g.qi] === true;
+    return `<div class="trow"><span class="nm">${esc(p.name)} <span class="pill pot tnum">箱 ${fmt(t.pot)}</span></span><div class="seg">
+      <button class="mud ${banked ? "on" : ""}" data-act="l-bank" data-p="${pi}" data-v="1">泥の中 확정</button>
+      <button class="gold ${!banked ? "on" : ""}" data-act="l-bank" data-p="${pi}" data-v="0">黄金の箱 계속</button></div></div>`;
+  }).join("");
+  if (!rows) return reveal && !last ? `<p class="notice">상자를 가진 팀이 없어요.</p>` : "";
+  return `<div class="teams">${reveal ? `<p class="crumb">상자를 가진 팀: 확정할까요, 계속 걸까요?</p>` : `<p class="crumb">팀별 답 입력</p>`}${rows}</div>`;
+}
+
+function endView(g, players) {
+  const st = standings(g, players);
+  const win = st[0];
+  const bySat = st.slice().sort((a, b) => b.t.banks - a.t.banks || b.t.total - a.t.total)[0];
+  const byLost = st.slice().sort((a, b) => b.t.maxLost - a.t.maxLost)[0];
+  const aw = [];
+  if (win) aw.push(`<div class="award a1"><span class="ttl jp">泥の中で生きた亀</span><span class="who">${esc(win.p.name)}</span><span class="why">최종 1위 · ${fmt(win.t.total)}점 · ${win.t.correct}문제 정답</span></div>`);
+  if (bySat && bySat.t.banks > 0) aw.push(`<div class="award a2"><span class="ttl jp">知足常楽賞</span><span class="who">${esc(bySat.p.name)}</span><span class="why">泥の中를 ${bySat.t.banks}번 골랐어요. 족함을 아는 사람.</span></div>`);
+  if (byLost && byLost.t.maxLost > 0) aw.push(`<div class="award a3"><span class="ttl jp">黄金の箱の亀賞</span><span class="who">${esc(byLost.p.name)}</span><span class="why">한 번에 ${fmt(byLost.t.maxLost)}점을 상자째 잃었어요.</span></div>`);
+  const table = st.map((s, i) => `<div class="lrow"><span class="rk tnum">${i + 1}</span><span class="nm">${esc(s.p.name)}</span>
+    <span class="sc tnum"><span class="pill wait">정답 ${s.t.correct} · 확정 ${s.t.banks}회 · 잃음 ${fmt(s.t.lost)}</span><b>${fmt(s.t.total)}</b></span></div>`).join("");
+  return `<div class="panel">
+    <h2 class="jp" style="font-family:var(--display);font-weight:400;font-size:34px">終わり</h2>
+    <div class="podium">${aw.join("")}</div>
+    <div class="ledger"><h3><span>최종 순위</span><span>점수</span></h3>${table}</div>
+    <p class="lead">마지막 질문 하나 가져가세요: もし明日、世界中の人々が足るを知ってしまったら、この社会はどうなるでしょうか。</p>
+    <div class="row">${S.view === "local" ? `<button class="btn gold" data-act="local-again">같은 팀으로 한 판 더</button>` : `<button class="btn gold" data-act="again">같은 방에서 한 판 더</button>`}</div>
+  </div>`;
+}
+
+function playerView() {
+  const g = S.game, me = S.me;
+  if (!g || !me) return `<div class="phone"><div class="panel"><p>방에 들어가는 중…</p></div></div>`;
+  const n = g.phase === "end" ? g.order.length : g.phase === "reveal" ? g.qi + 1 : g.phase === "question" ? g.qi : 0;
+  const t = tally(me, g.order, n, g.phase !== "reveal", g.phase === "end");
+  const wallet = `<div class="wallet"><div class="g"><span class="l jp">黄金の箱 (걸린 점수)</span><span class="v tnum">${fmt(t.pot)}</span></div>
+    <div class="m"><span class="l jp">泥の中 (확정 점수)</span><span class="v tnum">${fmt(t.bank)}</span></div></div>`;
+  const hello = `<p class="crumb">${esc(me.name)} · 방 ${esc(S.code)}</p>`;
+
+  if (g.phase === "lobby") return `<div class="phone">${hello}<div class="panel"><p class="verdict jp" style="color:var(--mud)">待機中</p><p>참가 완료! 진행자가 시작하면 문제가 나와요.</p><p class="notice">정답이면 상자에 100점, 이어서 맞히면 두 배. 틀리면 상자가 사라져요. 정답 공개 뒤 확정할지 골라요.</p></div></div>`;
+
+  if (g.phase === "end") {
+    const st = standings(g, S.players);
+    const rank = st.findIndex(s => s.p.uid === S.uid) + 1;
+    return `<div class="phone">${hello}<div class="panel"><p class="verdict jp" style="color:var(--mud)">終わり</p>
+      <p style="font-size:20px"><b>${rank || "-"}위</b> / ${st.length}명 · <b class="tnum">${fmt(t.total)}</b>점</p>
+      <p class="sub">정답 ${t.correct}개 · 泥の中 ${t.banks}번 · 상자째 잃은 점수 ${fmt(t.lost)}</p>
+      <p class="notice">결과와 상은 진행자 화면에서 확인하세요.</p></div></div>`;
+  }
+
+  const q = QMAP[g.order[g.qi]];
+  const myAns = S.pendingAns && S.pendingAns.qi === g.qi ? S.pendingAns.c : (me.answers || {})[g.qi];
+  const last = g.qi === g.order.length - 1;
+  if (g.phase === "question") {
+    return `<div class="phone">${hello}${wallet}<div class="panel">
+      <div class="qhead"><span><span class="tag">${esc(q.cat)}</span> 문제 ${g.qi + 1}/${g.order.length}${last ? " · 마지막" : ""}</span></div>
+      <p style="font-size:19px;font-weight:700">${esc(q.q)}</p>${q.jp ? `<p class="qjp" style="font-size:18px">${esc(q.jp)}</p>` : ""}
+      <div class="choices">${q.c.map((c, i) => `<button class="choice k${i} ${myAns === i ? "mine" : ""}" data-act="answer" data-c="${i}">
+        <span class="kana">${KANA[i]}</span><span class="txt jp">${esc(c)}</span>${myAns === i ? `<span class="cnt">✓</span>` : ""}</button>`).join("")}</div>
+      <p class="sub">${myAns != null ? "답을 냈어요. 공개 전까지는 바꿀 수 있어요." : "하나를 고르세요."}</p></div></div>`;
+  }
+  // reveal
+  const right = (me.answers || {})[g.qi] === q.a;
+  const before = tally(me, g.order, g.qi, true, false);
+  const banked = (me.banks || {})[g.qi] === true;
+  let decide = "";
+  if (!last && t.pot > 0) {
+    decide = `<p class="crumb">다음 문제 전에 고르세요 (안 고르면 黄金の箱)</p><div class="decide">
+      <button class="dm ${banked ? "sel" : ""}" data-act="bank" data-v="1"><b class="jp">泥の中</b><span>${fmt(t.pot)}점 확정하기</span></button>
+      <button class="dg ${!banked ? "sel" : ""}" data-act="bank" data-v="0"><b class="jp">黄金の箱</b><span>계속 걸기 · 맞히면 ${fmt(t.pot * 2)}</span></button></div>`;
+  } else if (last) decide = `<p class="notice">마지막 문제였어요. 결과를 기다려요.</p>`;
+  return `<div class="phone">${hello}${wallet}<div class="panel">
+    <p class="verdict jp ${right ? "ok" : "ng"}">${right ? "正解" : "不正解"}</p>
+    <p>${right ? (before.pot > 0 ? `상자가 ${fmt(before.pot)} → ${fmt(t.pot)}점으로 불어났어요.` : `상자에 ${fmt(t.pot)}점이 들어왔어요.`) : (before.pot > 0 ? `상자에 있던 ${fmt(before.pot)}점이 사라졌어요.` : "이번엔 놓쳤어요.")}</p>
+    <p class="sub">정답: <b class="jp">${KANA[q.a]} ${esc(q.c[q.a])}</b></p>
+    ${decide}</div></div>`;
+}
+
+/* ---------- 타이머 (진행자 화면) ---------- */
+let timerId = null, autoRevealing = false;
+function tick() {
+  clearInterval(timerId); timerId = null;
+  const g = G();
+  if (!(S.view === "host" || S.view === "local") || !g || g.phase !== "question") return;
+  const started = S.qStartLocal || Date.now();
+  const step = () => {
+    const left = Math.max(0, QTIME - (Date.now() - started) / 1000);
+    const bar = document.getElementById("tbar"), tl = document.getElementById("tleft");
+    if (bar) bar.style.width = (left / QTIME * 100) + "%";
+    if (tl) tl.textContent = left > 0 ? Math.ceil(left) + "초" : "시간 끝";
+    if (S.view === "host" && !autoRevealing) {
+      const players = P();
+      const all = players.length && players.every(p => (p.answers || {})[g.qi] != null);
+      if (left <= 0 || all) { autoRevealing = true; setPhase({ phase: "reveal" }).finally(() => { autoRevealing = false; }); }
+    }
+    if (left <= 0 && S.view === "local") { clearInterval(timerId); timerId = null; }
+  };
+  step();
+  timerId = setInterval(step, 250);
+}
+
+/* ---------- 온라인: db ---------- */
+async function boot() {
+  try {
+    const [db, user] = await Promise.all([window.claude?.use?.("db") ?? null, window.claude?.use?.("user") ?? null]);
+    S.db = db; S.user = user;
+    if (user) {
+      S.uid = await user.id();
+      S.canWrite = await user.can("data.write");
+    }
+  } catch (e) { S.db = null; }
+  S.ready = true;
+  if (S.view === "home") render();
+}
+
+function gameRef(code) { return S.db.doc("games/" + code); }
+function playersCol(code) { return S.db.collection("games/" + code + "/players"); }
+
+function subscribeRoom(code, asPlayer) {
+  clearSubs();
+  S.code = code; S.game = null; S.players = []; S.me = null;
+  let lastQKey = null;
+  unsubs.push(gameRef(code).onSnapshot(snap => {
+    S.game = snap.exists ? snap.data() : null;
+    const g = S.game;
+    const key = g ? g.phase + ":" + g.qi : null;
+    if (g && g.phase === "question" && key !== lastQKey) S.qStartLocal = g.qAt && Math.abs(Date.now() - g.qAt) < QTIME * 1000 ? g.qAt : Date.now();
+    if (key !== lastQKey) S.pendingAns = null;
+    lastQKey = key;
+    render();
+  }, e => { S.joinErr = "방 연결이 끊겼어요. 다시 참가해 주세요."; S.view = "home"; render(); }));
+  unsubs.push(playersCol(code).onSnapshot(snap => {
+    S.players = snap.docs.map(d => ({ uid: d.id, ...d.data() }));
+    if (asPlayer) S.me = S.players.find(p => p.uid === S.uid) || S.me;
+    render();
+  }, () => {}));
+}
+
+async function createRoom(count) {
+  if (S.busy) return; S.busy = true;
+  try {
+    let code = newCode();
+    for (let i = 0; i < 5; i++) {
+      const s = await gameRef(code).get();
+      if (!s.exists || Date.now() - (s.data().createdAt || 0) > 12 * 3600e3) break;
+      code = newCode();
+    }
+    const order = shuffle(QUESTIONS.map(q => q.id)).slice(0, count);
+    await gameRef(code).set({ hostId: S.uid, phase: "lobby", qi: 0, order, createdAt: Date.now(), qAt: 0 });
+    ls.set("kq-host", code);
+    S.view = "host"; subscribeRoom(code, false);
+  } catch (e) {
+    S.joinErr = e && e.code === "invalid_argument" ? "방을 만들 권한이 없어요. 한 화면 모드를 써 주세요." : "방을 만들지 못했어요. 잠시 뒤 다시 해 주세요.";
+    render();
+  } finally { S.busy = false; }
+}
+
+async function resumeHost() {
+  const code = ls.get("kq-host");
+  if (!code) return;
+  const s = await gameRef(code).get().catch(() => null);
+  if (!s || !s.exists) { ls.set("kq-host", null); S.joinErr = "이전 방을 찾지 못했어요."; render(); return; }
+  S.view = "host"; subscribeRoom(code, false);
+}
+
+async function setPhase(patch) {
+  const g = S.game; if (!g) return;
+  try { await gameRef(S.code).update(patch); } catch (e) { /* 다음 스냅숏이 실제 상태를 보여 줌 */ }
+}
+
+async function joinRoom(code, name) {
+  code = code.trim().toUpperCase(); name = name.trim();
+  S.joinErr = "";
+  if (!/^[A-Z]{4}$/.test(code)) { S.joinErr = "방 코드는 영문 4글자예요."; render(); return; }
+  if (!name) { S.joinErr = "이름을 입력하세요."; render(); return; }
+  if (S.busy) return; S.busy = true;
+  try {
+    const gs = await gameRef(code).get();
+    if (!gs.exists) { S.joinErr = "그 코드의 방이 없어요. 진행자 화면의 코드를 다시 확인하세요."; return; }
+    const ref = playersCol(code).doc(S.uid);
+    const mine = await ref.get();
+    if (mine.exists) await ref.update({ name });
+    else await ref.set({ name, joinedAt: Date.now(), answers: {}, banks: {} });
+    ls.set("kq-name", name);
+    S.view = "player"; subscribeRoom(code, true);
+  } catch (e) {
+    S.joinErr = e && e.code === "invalid_argument" ? "이 링크 권한으로는 답을 낼 수 없어요. 진행자에게 '참여자' 권한을 요청하거나 한 화면 모드를 쓰세요." : "참가하지 못했어요. 잠시 뒤 다시 해 주세요.";
+  } finally { S.busy = false; render(); }
+}
+
+let writeChain = Promise.resolve();
+function writeMe(patch) {
+  // 같은 문서에는 한 번에 하나씩
+  writeChain = writeChain.then(() => playersCol(S.code).doc(S.uid).update(patch)).catch(() => {});
+  return writeChain;
+}
+
+/* ---------- 한 화면 모드 ---------- */
+function localStart(names, count) {
+  const players = names.map((n, i) => ({ uid: "t" + i, name: n, answers: {}, banks: {} }));
+  const order = shuffle(QUESTIONS.map(q => q.id)).slice(0, count);
+  S.local = { game: { phase: "question", qi: 0, order }, players };
+  S.qStartLocal = Date.now();
+  S.view = "local"; render();
+}
+function localPhase(patch) {
+  Object.assign(S.local.game, patch);
+  if (patch.phase === "question") S.qStartLocal = Date.now();
+  render();
+}
+
+/* ---------- 이벤트 ---------- */
+app.addEventListener("click", e => {
+  const b = e.target.closest("[data-act]");
+  if (!b || b.disabled) return;
+  const act = b.dataset.act;
+  const g = G();
+  switch (act) {
+    case "home": clearSubs(); S.view = "home"; S.joinErr = ""; render(); break;
+    case "create": createRoom(+document.getElementById("cnt-host").value); break;
+    case "resume-host": resumeHost(); break;
+    case "join": joinRoom(document.getElementById("join-code").value, document.getElementById("join-name").value); break;
+    case "local-setup": S.view = "local-setup"; render(); break;
+    case "local-start": {
+      const ta = document.getElementById("teams").value;
+      S.teamsDraft = ta;
+      const names = ta.split("\n").map(s => s.trim()).filter(Boolean).slice(0, 12);
+      if (names.length) localStart(names, +document.getElementById("cnt-local").value);
+      break;
+    }
+    case "start":
+      if (S.view === "host") setPhase({ phase: "question", qi: 0, qAt: Date.now() });
+      break;
+    case "reveal":
+      if (S.view === "local") localPhase({ phase: "reveal" }); else setPhase({ phase: "reveal" });
+      break;
+    case "next": {
+      const last = g.qi >= g.order.length - 1;
+      const patch = last ? { phase: "end" } : { phase: "question", qi: g.qi + 1, qAt: Date.now() };
+      if (S.view === "local") localPhase(patch); else setPhase(patch);
+      break;
+    }
+    case "again": {
+      const order = shuffle(QUESTIONS.map(q => q.id)).slice(0, g.order.length);
+      (async () => {
+        // 이전 판 답을 지우고 새 판 시작
+        for (const p of S.players) { try { await playersCol(S.code).doc(p.uid).update({ answers: null, banks: null }); } catch (e) {} }
+        setPhase({ phase: "lobby", qi: 0, order });
+      })();
+      break;
+    }
+    case "local-again": localStart(S.local.players.map(p => p.name), S.local.game.order.length); break;
+    case "l-ans": {
+      const p = S.local.players[+b.dataset.p];
+      p.answers[g.qi] = +b.dataset.c; render(); break;
+    }
+    case "l-bank": {
+      const p = S.local.players[+b.dataset.p];
+      p.banks[g.qi] = b.dataset.v === "1"; render(); break;
+    }
+    case "answer": {
+      if (!S.game || S.game.phase !== "question") break;
+      const c = +b.dataset.c, qi = S.game.qi;
+      S.pendingAns = { qi, c }; render();
+      writeMe({ answers: { [qi]: c } });
+      break;
+    }
+    case "bank": {
+      if (!S.game || S.game.phase !== "reveal") break;
+      const qi = S.game.qi, v = b.dataset.v === "1";
+      if (S.me) S.me = { ...S.me, banks: { ...(S.me.banks || {}), [qi]: v } };
+      render();
+      writeMe({ banks: { [qi]: v } });
+      break;
+    }
+  }
+});
+app.addEventListener("input", e => {
+  if (e.target.id === "join-code") { e.target.value = e.target.value.toUpperCase().replace(/[^A-Z]/g, ""); S.joinCodeDraft = e.target.value; }
+  if (e.target.id === "join-name") S.nameDraft = e.target.value;
+  if (e.target.id === "teams") S.teamsDraft = e.target.value;
+});
+app.addEventListener("keydown", e => {
+  if (e.key === "Enter" && (e.target.id === "join-code" || e.target.id === "join-name")) document.querySelector('[data-act="join"]')?.click();
+});
+
+render();
+boot();
+</script>
+
+</body></html>
