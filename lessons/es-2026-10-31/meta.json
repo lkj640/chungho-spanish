@@ -1,0 +1,172 @@
+{
+  "lang": "es",
+  "date": "2026-10-31",
+  "title": "'time'을 스페인어로 — hora, tiempo, vez 구분하기",
+  "es": "¿Qué hora es? · No tengo tiempo · Una vez",
+  "emoji": "⏰",
+  "level": "A1–A2",
+  "channel": "Español Auténtico",
+  "videoTitle": "How to Say TIME in Spanish: Hora, Tiempo or Vez | Spanish for Beginners",
+  "youtube": "0OfvBOAOtkg",
+  "duration": "32:07",
+  "speakers": {"S": "Sofía", "C": "Carlos"},
+  "hideCast": true,
+  "summary": "영어는 time 하나지만 스페인어는 셋이에요. 기간과 날씨는 tiempo, 시계의 시각과 '~할 시간'은 hora, 횟수는 vez(veces). 소피아와 카를로스가 아침 일과, 출근길(hora punta, llegar a tiempo), 주말 약속(quedar, pasar tiempo)을 이야기하며 세 단어를 구분하고, 'tener un buen tiempo' 대신 'pasarlo bien'이라고 말하는 법까지 배워요.",
+  "topics": [
+    "tiempo ① 기간: No tengo tiempo · El tiempo vuela",
+    "tiempo ② 날씨: Hace buen / mal tiempo · ¿Qué tiempo hace?",
+    "hora: ¿Qué hora es? · ¿A qué hora…? · Es hora de comer",
+    "vez / veces: una vez · dos veces a la semana · a veces · la primera vez",
+    "표현: llegar a tiempo · perder el tiempo · pasar tiempo · hora punta",
+    "quedar · pasarlo bien · divertirse"
+  ],
+  "grammar": [
+    {
+      "title": "① 영어 time → 스페인어 세 단어",
+      "lead": "무엇을 말하려는지에 따라 단어가 달라져요. <b>얼마 동안·날씨 → tiempo</b>, <b>몇 시·때 → hora</b>, <b>몇 번 → vez</b>.",
+      "table": {
+        "head": ["단어", "쓰임", "예문"],
+        "rows": [
+          ["tiempo ①", "기간, 일반적인 시간", "No tengo tiempo. / El tiempo vuela."],
+          ["tiempo ②", "날씨", "Hoy hace muy buen tiempo. / ¿Qué tiempo hace?"],
+          ["hora ①", "시계의 시각", "¿Qué hora es? / ¿A qué hora empieza?"],
+          ["hora ②", "~할 때(시간)", "Es hora de comer. / Llegó la hora de estudiar."],
+          ["vez / veces", "횟수, 빈도", "una vez · dos veces a la semana · muchas veces"],
+          ["a veces", "가끔", "A veces el autobús tiene retraso."]
+        ]
+      },
+      "tip": "✗ ¿Qué tiempo es? → ✓ ¿Qué hora es? — 몇 시냐고 물을 때 tiempo를 쓰는 게 가장 흔한 실수예요."
+    },
+    {
+      "title": "② 시각 말하기 — ser + la(s) + 숫자, a + la(s) + 숫자",
+      "lead": "지금 몇 시인지는 <b>Es la una / Son las…</b>, 몇 시에 하는지는 <b>a las…</b>로 말해요.",
+      "examples": [
+        ["¿Qué hora es? — Son las seis.", "몇 시예요? — 6시예요. (1시만 Es la una)"],
+        ["Mi alarma suena a las seis de la mañana.", "알람이 아침 6시에 울려요. (a las + 시각 = ~시에)"],
+        ["Mi hora de despertar es a las ocho, a veces a las ocho y media.", "기상 시각은 8시, 가끔 8시 반이에요. (y media = 30분)"],
+        ["¿A qué hora quedamos?", "몇 시에 만날까? (a qué hora = 몇 시에)"],
+        ["Siempre me levanto a la misma hora.", "늘 같은 시각에 일어나요."]
+      ]
+    },
+    {
+      "title": "③ 날씨 — hacer buen/mal tiempo",
+      "lead": "날씨는 동사 <b>hacer</b>(3인칭 단수)로 말해요. 시제만 바꾸면 돼요.",
+      "examples": [
+        ["¿Qué tiempo hace en tu ciudad hoy?", "오늘 당신 도시는 날씨가 어때요?"],
+        ["Hace sol y no hace frío.", "해가 나고 춥지 않아요."],
+        ["Ayer llovió un poco, hizo mal tiempo.", "어제는 비가 좀 와서 날씨가 나빴어요. (hizo = hacer 과거)"],
+        ["Va a hacer buen tiempo.", "날씨가 좋을 거예요. (ir a + 동사원형 = 미래)"],
+        ["mirar el tiempo", "날씨를 확인하다"]
+      ],
+      "tip": "Hace calor / frío / sol / viento — 모두 hacer를 써요. 비는 llover(Llueve), 눈은 nevar(Nieva)."
+    },
+    {
+      "title": "④ 빈도 표현 — vez를 활용한 덩어리",
+      "lead": "숫자 + vez/veces + al día / a la semana / al mes 로 얼마나 자주 하는지 말해요.",
+      "table": {
+        "head": ["표현", "뜻", "예문"],
+        "rows": [
+          ["una vez", "한 번", "Solo tomo café una vez por la mañana."],
+          ["dos / tres veces", "두 번 / 세 번", "Voy al gimnasio dos veces a la semana."],
+          ["muchas veces", "여러 번, 자주", "Escucho este podcast muchas veces."],
+          ["a veces", "가끔", "A veces voy caminando."],
+          ["otra vez / una vez más", "한 번 더", "otra vez cuando llego a la oficina"],
+          ["la primera / segunda vez", "처음 / 두 번째", "Es la primera vez que como aquí."],
+          ["cada vez más", "점점 더", "Cada vez me siento más seguro."]
+        ]
+      },
+      "tip": "vez의 복수형은 z → c로 바뀌어 veces예요. (lápiz → lápices 와 같은 규칙)"
+    },
+    {
+      "title": "⑤ 꼭 외울 덩어리 표현",
+      "lead": "직역하면 틀리는 표현들이에요. 통째로 외우세요.",
+      "table": {
+        "head": ["영어", "✓ 스페인어", "✗ 직역"],
+        "rows": [
+          ["to be on time", "llegar a tiempo", "llegar a la hora (덜 자연스러움)"],
+          ["to waste time", "perder el tiempo", "—"],
+          ["to spend time with", "pasar tiempo con", "gastar tiempo"],
+          ["rush hour", "la hora punta", "—"],
+          ["to meet up (at…)", "quedar (a las…)", "—"],
+          ["to have a good time", "pasarlo bien / divertirse", "tener un buen tiempo"]
+        ]
+      },
+      "tip": "Me lo estoy pasando muy bien. / Lo pasamos muy bien. — 여기서 lo는 특정한 걸 가리키지 않는 관용적인 lo예요."
+    }
+  ],
+  "phrases": [
+    ["¿Has tenido mucho tiempo libre?", "자유 시간 많았어요?"],
+    ["No tengo tiempo para descansar.", "쉴 시간이 없어요."],
+    ["El tiempo vuela.", "시간이 날아가듯 빨리 가요."],
+    ["¿Qué tiempo hace hoy?", "오늘 날씨 어때요?"],
+    ["¿Qué hora es?", "몇 시예요?"],
+    ["Es hora de comer.", "밥 먹을 시간이에요."],
+    ["Voy al gimnasio dos veces a la semana.", "일주일에 두 번 헬스장에 가요."],
+    ["Voy a llegar a tiempo a mi reunión.", "회의에 제때 도착할 거예요."],
+    ["Esta es la segunda vez en la semana que llego tarde.", "이번 주에 두 번째로 늦었어요."],
+    ["¿A qué hora quedamos?", "몇 시에 만날까?"],
+    ["Me encanta pasar tiempo con mi familia.", "가족과 시간을 보내는 게 정말 좋아요."],
+    ["Me lo estoy pasando muy bien.", "정말 즐겁게 보내고 있어요."]
+  ],
+  "vocab": [
+    {"es": "el tiempo", "ko": "시간(기간); 날씨", "ex": "No tengo tiempo. / Hace buen tiempo.", "exKo": "시간이 없어. / 날씨가 좋아."},
+    {"es": "la hora", "ko": "시각; ~할 때", "ex": "¿Qué hora es?", "exKo": "몇 시예요?"},
+    {"es": "la vez (pl. veces)", "ko": "번, 회", "ex": "dos veces a la semana", "exKo": "일주일에 두 번"},
+    {"es": "a veces", "ko": "가끔", "ex": "A veces el autobús tiene retraso.", "exKo": "가끔 버스가 늦어."},
+    {"es": "el tiempo libre", "ko": "자유 시간, 여가", "ex": "¿Has tenido mucho tiempo libre?", "exKo": "자유 시간 많았어?"},
+    {"es": "ocupado / ocupada", "ko": "바쁜", "ex": "Esta semana he estado muy ocupado.", "exKo": "이번 주는 아주 바빴어."},
+    {"es": "volar", "ko": "날다; (시간이) 빨리 가다", "ex": "El tiempo vuela.", "exKo": "시간이 쏜살같아."},
+    {"es": "el clima", "ko": "날씨, 기후", "ex": "Hoy el clima está perfecto.", "exKo": "오늘 날씨가 완벽해."},
+    {"es": "hacer buen / mal tiempo", "ko": "날씨가 좋다 / 나쁘다", "ex": "Ayer hizo mal tiempo.", "exKo": "어제는 날씨가 나빴어."},
+    {"es": "llover", "ko": "비가 오다", "ex": "Ayer llovió un poco.", "exKo": "어제 비가 좀 왔어."},
+    {"es": "el reloj", "ko": "시계", "ex": "el momento exacto en el reloj", "exKo": "시계의 정확한 시각"},
+    {"es": "la reunión", "ko": "회의", "ex": "La reunión es a la hora de siempre.", "exKo": "회의는 늘 하던 시간이야."},
+    {"es": "el jefe / la jefa", "ko": "상사", "ex": "Tengo una reunión con mi jefe.", "exKo": "상사와 회의가 있어."},
+    {"es": "la frecuencia", "ko": "빈도", "ex": "Usamos vez para hablar de la frecuencia.", "exKo": "vez는 빈도를 말할 때 써."},
+    {"es": "confundir(se)", "ko": "헷갈리다, 혼동하다", "ex": "Yo siempre me confundo.", "exKo": "나는 늘 헷갈려."},
+    {"es": "levantarse", "ko": "일어나다", "ex": "¿A qué hora te levantas?", "exKo": "몇 시에 일어나?"},
+    {"es": "despertar(se)", "ko": "잠에서 깨다", "ex": "Odio despertar temprano.", "exKo": "일찍 깨는 거 싫어."},
+    {"es": "la alarma", "ko": "알람", "ex": "Mi alarma suena a las seis.", "exKo": "알람이 6시에 울려."},
+    {"es": "temprano", "ko": "일찍", "ex": "Me levanto muy temprano.", "exKo": "아주 일찍 일어나."},
+    {"es": "la rutina", "ko": "일과, 루틴", "ex": "Mi rutina empieza a las seis.", "exKo": "내 일과는 6시에 시작해."},
+    {"es": "con calma / sin prisa", "ko": "천천히 / 서두르지 않고", "ex": "Me gusta desayunar con calma, sin prisa.", "exKo": "서두르지 않고 천천히 아침 먹는 게 좋아."},
+    {"es": "el estrés", "ko": "스트레스", "ex": "El día empieza con mucho estrés.", "exKo": "하루가 스트레스로 시작해."},
+    {"es": "el hábito", "ko": "습관", "ex": "Es un hábito un poco malo.", "exKo": "좀 나쁜 습관이야."},
+    {"es": "el paraguas", "ko": "우산", "ex": "Salgo a la calle sin paraguas.", "exKo": "우산 없이 나가."},
+    {"es": "el abrigo", "ko": "외투; ropa de abrigo 따뜻한 옷", "ex": "Preparo un paraguas y ropa de abrigo.", "exKo": "우산과 따뜻한 옷을 챙겨."},
+    {"es": "ligero / ligera", "ko": "가벼운", "ex": "Me pongo ropa más ligera.", "exKo": "더 가벼운 옷을 입어."},
+    {"es": "la hora punta", "ko": "출퇴근 시간대, 러시아워", "ex": "Trato de evitar la hora punta.", "exKo": "러시아워를 피하려고 해."},
+    {"es": "el tráfico", "ko": "교통(량), 차 막힘", "ex": "Hay mucho tráfico.", "exKo": "차가 많이 막혀."},
+    {"es": "perder el tiempo", "ko": "시간을 낭비하다", "ex": "Estar parado en el coche es perder el tiempo.", "exKo": "차에 멈춰 있는 건 시간 낭비야."},
+    {"es": "llegar a tiempo", "ko": "제때 도착하다", "ex": "Voy a llegar a tiempo.", "exKo": "제때 도착할 거야."},
+    {"es": "llegar tarde", "ko": "늦다, 지각하다", "ex": "Llego tarde por culpa del tráfico.", "exKo": "차가 막혀서 늦어."},
+    {"es": "el retraso", "ko": "지연", "ex": "El autobús tiene retraso.", "exKo": "버스가 늦어."},
+    {"es": "averiarse", "ko": "고장 나다", "ex": "El tren se avería.", "exKo": "기차가 고장 나."},
+    {"es": "por culpa de", "ko": "~ 때문에 (부정적)", "ex": "por culpa del tráfico", "exKo": "교통 체증 때문에"},
+    {"es": "el rompecabezas", "ko": "퍼즐", "ex": "Aprender español puede parecer un rompecabezas.", "exKo": "스페인어 배우기는 퍼즐 같을 수 있어."},
+    {"es": "pasar tiempo", "ko": "시간을 보내다", "ex": "Me encanta pasar tiempo con mi familia.", "exKo": "가족과 시간 보내는 게 좋아."},
+    {"es": "la afición / el pasatiempo", "ko": "취미", "ex": "Hablemos de nuestras aficiones.", "exKo": "취미 얘기를 해 보자."},
+    {"es": "quedar", "ko": "(약속하고) 만나다", "ex": "He quedado con Marta a las cinco.", "exKo": "마르타랑 5시에 만나기로 했어."},
+    {"es": "el partido", "ko": "경기", "ex": "¿A qué hora es el partido?", "exKo": "경기 몇 시야?"},
+    {"es": "el desastre", "ko": "엉망, 재앙", "ex": "Fue un desastre total.", "exKo": "완전 엉망이었어."},
+    {"es": "relajado / relajada", "ko": "느긋한, 편안한", "ex": "El fin de semana es más relajado.", "exKo": "주말은 더 느긋해."},
+    {"es": "pasarlo bien", "ko": "즐겁게 보내다", "ex": "Lo pasamos muy bien.", "exKo": "정말 즐거웠어."},
+    {"es": "divertirse", "ko": "즐기다, 재미있게 놀다", "ex": "Me estoy divirtiendo mucho.", "exKo": "정말 재밌어."},
+    {"es": "la trampa", "ko": "함정", "ex": "La traducción literal es una trampa.", "exKo": "직역은 함정이야."},
+    {"es": "la fluidez", "ko": "유창함", "ex": "hablar español con fluidez", "exKo": "스페인어를 유창하게 말하다"}
+  ],
+  "quiz": [
+    {"q": "몇 시인지 물을 때 알맞은 문장은?", "options": ["¿Qué tiempo es?", "¿Qué hora es?", "¿Qué vez es?", "¿Cuánto tiempo es?"], "answer": 1, "explain": "시계의 시각은 hora. ¿Qué tiempo es?는 흔한 실수예요."},
+    {"q": "'Hoy hace muy buen ___.' 빈칸은?", "options": ["hora", "vez", "tiempo", "clima bueno"], "answer": 2, "explain": "날씨는 tiempo: hace buen/mal tiempo."},
+    {"q": "'일주일에 두 번 헬스장에 가요'를 스페인어로?", "options": ["Voy al gimnasio dos horas a la semana.", "Voy al gimnasio dos tiempos a la semana.", "Voy al gimnasio dos veces a la semana.", "Voy al gimnasio dos vez a la semana."], "answer": 2, "explain": "횟수는 vez, 복수형은 veces."},
+    {"q": "'No tengo tiempo para descansar.'에서 tiempo의 뜻은?", "options": ["날씨", "시각", "횟수", "(일반적인) 시간"], "answer": 3, "explain": "기간·일반적인 시간의 tiempo."},
+    {"q": "'Es hora de comer.'의 뜻은?", "options": ["한 시간 동안 먹는다", "밥 먹을 시간이다", "몇 시에 먹니?", "한 번 먹었다"], "answer": 1, "explain": "hora는 '~할 때'라는 뜻도 있어요."},
+    {"q": "'to be on time(제때 도착하다)'를 가장 자연스럽게 말하면?", "options": ["llegar a tiempo", "llegar a la vez", "estar en hora", "tener tiempo"], "answer": 0, "explain": "llegar a la hora acordada도 되지만 llegar a tiempo가 훨씬 흔해요."},
+    {"q": "'hora punta'는 언제인가요?", "options": ["점심시간", "새벽", "출퇴근으로 길이 가장 막히는 때", "정각"], "answer": 2, "explain": "todo el mundo va al trabajo o regresa a casa"},
+    {"q": "차 안에서 꼼짝 못 하는 상황에 어울리는 표현은?", "options": ["pasar tiempo", "perder el tiempo", "llegar a tiempo", "pasarlo bien"], "answer": 1, "explain": "perder el tiempo = 시간을 낭비하다."},
+    {"q": "'Esta es la segunda ___ que llego tarde.' 빈칸은?", "options": ["hora", "tiempo", "vez", "veces"], "answer": 2, "explain": "몇 번째인지 셀 때 vez. 단수 la segunda vez."},
+    {"q": "'¿A qué hora ___ para ir al cine?' (몇 시에 만날까?)", "options": ["quedamos", "pasamos", "perdemos", "llegamos a tiempo"], "answer": 0, "explain": "quedar = 약속을 정해 만나다."},
+    {"q": "'I'm having a good time.'을 자연스럽게 말하면?", "options": ["Tengo un buen tiempo.", "Me lo estoy pasando muy bien.", "Estoy en buena hora.", "Tengo buena vez."], "answer": 1, "explain": "tener un buen tiempo는 직역 함정이에요. pasarlo bien 또는 divertirse."},
+    {"q": "카를로스가 처음 파델을 쳤을 때는?", "options": ["한 번에 이겼다", "한 시간에 세 번 넘어졌다", "비가 와서 못 쳤다", "늦게 도착했다"], "answer": 1, "explain": "Me caí al suelo tres veces en una sola hora. Fue un desastre total."}
+  ]
+}

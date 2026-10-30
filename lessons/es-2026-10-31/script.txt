@@ -1,0 +1,569 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, C = Carlos.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막 (ves→vez, abocarte→abonarte, paddle→pádel, supercún→supercomún 등 철자 오류는 바로잡았어요)
+END 32:07
+
+[00:00]
+## 인사 — 영어 time 하나, 스페인어는 세 개
+S | Hola, hola, bienvenidos a Español Auténtico. | 안녕, 안녕하세요, Español Auténtico에 오신 걸 환영해요.
+[00:03]
+S | Si tu objetivo es aprender español de una manera natural y divertida, estás en el lugar correcto. | 자연스럽고 재미있게 스페인어를 배우는 게 목표라면, 제대로 찾아오셨어요.
+[00:10]
+S | Este episodio es ideal como Spanish listening practice y está pensado especialmente como español para principiantes, aunque todos pueden aprender algo nuevo hoy. | 이 에피소드는 듣기 연습용으로 딱이고, 특히 초급자를 위해 만들었지만 누구나 오늘 새로운 걸 배울 수 있어요.
+[00:22]
+S | Hoy tenemos un tema muy especial y muy útil para las clases de español de todos los días. | 오늘은 매일의 스페인어 수업에 아주 특별하고 유용한 주제가 있어요.
+[00:30]
+S | Vamos a hablar de una confusión muy común. | 아주 흔한 혼동에 대해 이야기할 거예요.
+[00:33]
+S | En inglés usamos una sola palabra, "time", para muchas cosas, pero en nuestro vocabulario español tenemos tres palabras diferentes: hora, tiempo y vez. | 영어에서는 'time'이라는 한 단어를 여러 데 쓰지만, 스페인어에는 hora, tiempo, vez라는 서로 다른 세 단어가 있어요.
+[00:45]
+S | Antes de empezar con nuestra conversación, quiero pedirles un pequeño favor para que este canal Español Auténtico pueda seguir creciendo y ayudando a más personas a aprender español. | 대화를 시작하기 전에, Español Auténtico 채널이 계속 성장하고 더 많은 분이 스페인어를 배우도록 도울 수 있게 작은 부탁을 드릴게요.
+[00:59]
+S | Es muy importante que te suscribas. Por favor, dale me gusta a este video y deja un comentario abajo. | 구독해 주시는 게 정말 중요해요. 이 영상에 좋아요를 누르고 아래에 댓글을 남겨 주세요.
+[01:06]
+S | Además, si quieres apoyar nuestro trabajo de una forma más directa, puedes hacerte miembro y abonarte al canal. | 그리고 더 직접적으로 응원하고 싶다면 채널 멤버로 가입하실 수 있어요.
+[01:14]
+S | Tu apoyo es fundamental para nosotros. Muchas gracias por estar aquí y por querer escuchar español con nosotros. | 여러분의 응원은 저희에게 정말 중요해요. 함께해 주시고 저희와 스페인어를 들어 주셔서 고마워요.
+[01:22]
+C | Hola, Sofía. Y hola a todas las personas que nos escuchan en casa, en el coche o mientras cocinan. | 안녕, 소피아. 그리고 집에서, 차 안에서, 요리하면서 듣고 계신 모든 분 안녕하세요.
+[01:28]
+C | Suscribirse es muy fácil, solo tienen que hacer clic en el botón. | 구독은 아주 쉬워요. 버튼만 누르면 돼요.
+[01:33]
+C | Sofía, el tema de hoy es perfecto. Yo, como estudiante que quiere hablar español fluidamente, tengo muchos problemas con la palabra "time". | 소피아, 오늘 주제 완벽해요. 스페인어를 유창하게 하고 싶은 학생으로서, 저는 'time'이라는 단어 때문에 고생이 많아요.
+[01:43]
+C | A veces quiero decir la hora, a veces quiero hablar del clima y a veces hablo de la cantidad de veces que hago algo. Es un poco difícil. | 어떤 때는 시각을 말하고 싶고, 어떤 때는 날씨를 말하고 싶고, 어떤 때는 뭔가를 몇 번 하는지 말해요. 좀 어려워요.
+[01:52]
+S | Es completamente normal, Carlos. Muchos estudiantes de español para extranjeros tienen la misma duda. | 완전히 정상이에요, 카를로스. 스페인어를 배우는 외국인 학생 대부분이 같은 걸 헷갈려해요.
+[01:59]
+S | Por eso hoy vamos a practicar la conversación en español usando estas tres palabras: tiempo, hora y vez. | 그래서 오늘은 tiempo, hora, vez 이 세 단어를 써서 스페인어 회화를 연습할 거예요.
+[02:07]
+S | Vamos a hacerlo muy despacio, con frases cortas y claras, para mejorar tu nivel y que todos puedan practicar. | 실력을 올리고 모두 연습할 수 있도록, 짧고 분명한 문장으로 아주 천천히 해 볼게요.
+
+[02:17]
+## tiempo ① — 시간(기간)
+S | Empecemos con la palabra tiempo. Carlos, ¿cómo ha sido tu semana? ¿Has tenido mucho tiempo libre? | tiempo부터 시작해요. 카를로스, 이번 주 어땠어요? 자유 시간 많았어요?
+[02:25]
+C | Ay, Sofía, la verdad es que no. Esta semana he estado muy ocupado. He tenido mucho trabajo en la oficina. | 아, 소피아, 솔직히 아니에요. 이번 주는 아주 바빴어요. 회사에 일이 많았거든요.
+[02:33]
+C | No tengo tiempo para descansar. El tiempo pasa muy rápido cuando tienes muchas cosas que hacer. | 쉴 시간이 없어요. 할 일이 많으면 시간이 정말 빨리 가요.
+[02:40]
+C | Por ejemplo, ayer quería estudiar un poco de gramática, pero no tuve tiempo. | 예를 들어 어제는 문법을 좀 공부하고 싶었는데 시간이 없었어요.
+[02:45]
+S | Te entiendo perfectamente. La vida moderna es muy rápida y a veces sentimos que no tenemos tiempo. | 완전히 이해해요. 현대 생활은 너무 빨라서 가끔 시간이 없다고 느끼죠.
+[02:53]
+S | Aquí usamos la palabra tiempo para hablar de la duración de los eventos. Es el concepto general de los minutos, los días o los meses. | 여기서는 tiempo를 일이 얼마나 걸리는지(기간)를 말할 때 써요. 분, 일, 달 같은 시간의 일반적인 개념이에요.
+[03:03]
+S | Decimos: "No tengo tiempo", "Necesito más tiempo", o "El tiempo vuela". Es una palabra muy importante en nuestro vocabulario español. | "시간이 없어", "시간이 더 필요해", "시간이 날아가듯 빨리 가"라고 해요. 스페인어 어휘에서 아주 중요한 단어예요.
+
+[03:14]
+## tiempo ② — 날씨
+C | Claro, el tiempo en general. Pero, Sofía, la palabra tiempo también se usa para otra cosa, ¿verdad? | 그렇죠, 일반적인 시간. 그런데 소피아, tiempo는 다른 데도 쓰죠?
+[03:21]
+C | Cuando miro por la ventana y veo el sol o la lluvia, también uso la misma palabra. | 창밖을 보고 해나 비를 볼 때도 같은 단어를 쓰잖아요.
+[03:27]
+S | Exactamente, Carlos. Muy buena observación. En español usamos la palabra tiempo para hablar del clima o la meteorología. | 맞아요, 카를로스. 아주 좋은 관찰이에요. 스페인어에서는 tiempo를 날씨나 기상을 말할 때도 써요.
+[03:37]
+S | Por ejemplo, hoy en mi ciudad hace muy buen tiempo. Hace sol, el cielo está azul y no hace frío. | 예를 들어 오늘 우리 도시는 날씨가 아주 좋아요. 해가 나고, 하늘이 파랗고, 춥지 않아요.
+[03:44]
+S | ¿Qué tiempo hace en tu ciudad hoy, Carlos? | 카를로스, 오늘 당신 도시는 날씨가 어때요?
+[03:47]
+C | Pues aquí también hace muy buen tiempo. Ayer llovió un poco, hizo mal tiempo, pero hoy el clima está perfecto. | 여기도 날씨가 아주 좋아요. 어제는 비가 좀 와서 날씨가 나빴는데, 오늘은 완벽해요.
+[03:55]
+C | Entonces, usamos tiempo para la duración general y para el clima. Eso está muy claro. | 그러니까 tiempo는 일반적인 기간과 날씨에 쓰는 거네요. 아주 분명해요.
+[04:01]
+C | Pero, ¿qué pasa cuando quiero saber en qué momento exacto del día estamos? Uso la palabra tiempo, ¿no? | 그런데 지금 하루 중 정확히 몇 시인지 알고 싶을 땐요? tiempo를 쓰는 거죠, 아니에요?
+
+[04:08]
+## hora — 시각, ~할 시간
+S | Ahí es donde entra nuestra segunda palabra importante. | 바로 거기서 두 번째 중요한 단어가 나와요.
+[04:12]
+S | Ahora, cuando queremos saber el momento exacto en el reloj, preguntamos: "¿Qué hora es?" No decimos "¿Qué tiempo es?". Eso es un error muy común. | 시계의 정확한 시각을 알고 싶을 때는 "¿Qué hora es?(몇 시예요?)"라고 물어요. "¿Qué tiempo es?"라고 하지 않아요. 아주 흔한 실수예요.
+[04:24]
+C | Ah, claro. Por ejemplo, si quiero saber cuándo empieza mi programa favorito de televisión, pregunto: "¿A qué hora empieza?" | 아, 그렇군요. 예를 들어 좋아하는 TV 프로그램이 언제 시작하는지 알고 싶으면 "몇 시에 시작해?"라고 묻는 거죠.
+[04:33]
+C | O si tengo una reunión con mi jefe, digo: "La reunión es a la hora de siempre." | 아니면 상사와 회의가 있으면 "회의는 늘 하던 시간이에요"라고 하고요.
+[04:38]
+S | Muy bien. La palabra hora se refiere al momento específico del día marcado por el reloj. | 아주 좋아요. hora는 시계가 가리키는 하루 중 특정한 시각을 말해요.
+[04:45]
+S | También usamos hora para indicar que es el momento correcto para hacer algo. | 또 뭔가를 할 알맞은 때라는 걸 나타낼 때도 hora를 써요.
+[04:50]
+S | Por ejemplo, decimos: "Es hora de comer", "Es hora de ir a dormir" o "Llegó la hora de estudiar español". | 예를 들어 "밥 먹을 시간이야", "잘 시간이야", "스페인어 공부할 시간이 왔어"라고 해요.
+
+[04:59]
+## vez / veces — 횟수
+C | Entiendo. Entonces, el tiempo es general y la hora es específica en el reloj. | 이해했어요. 그러니까 tiempo는 일반적인 것이고, hora는 시계의 구체적인 시각이네요.
+[05:05]
+C | Pero hay otra palabra que me confunde mucho: es la palabra vez. ¿Cuándo la uso? Porque en inglés también uso "time" para decir "one time, two times". | 그런데 저를 아주 헷갈리게 하는 단어가 또 있어요. vez예요. 언제 써요? 영어에서는 'one time, two times'에도 time을 쓰거든요.
+[05:16]
+S | Sí, esa es la tercera clave. Usamos la palabra vez, o en plural veces, para hablar de la frecuencia, es decir, para contar cuántas repeticiones hay de un evento. | 네, 그게 세 번째 열쇠예요. vez, 복수형 veces는 빈도를 말할 때, 즉 어떤 일이 몇 번 반복되는지 셀 때 써요.
+[05:30]
+S | Si tú vas al gimnasio el lunes y también el miércoles, tú vas al gimnasio dos veces a la semana. | 월요일과 수요일에 헬스장에 가면, 일주일에 두 번 헬스장에 가는 거예요.
+[05:37]
+C | Dos veces, ya lo entiendo. Y si solo voy el viernes, voy una vez a la semana. | 두 번, 이제 알겠어요. 금요일에만 가면 일주일에 한 번 가는 거고요.
+[05:42]
+C | Como este podcast, que lo escucho muchas veces porque quiero mejorar mi pronunciación española. | 이 팟캐스트처럼요. 스페인어 발음을 늘리고 싶어서 여러 번 들어요. (웃음)
+[05:50]
+S | Qué buen ejemplo, Carlos. Así es. Decimos una vez, dos veces, muchas veces o a veces. | 좋은 예예요, 카를로스. 맞아요. una vez(한 번), dos veces(두 번), muchas veces(여러 번), a veces(가끔)라고 해요.
+[05:59]
+S | "A veces" significa que no lo haces siempre, solo en algunas ocasiones. | 'a veces'는 늘 하는 게 아니라 가끔만 한다는 뜻이에요.
+
+[06:04]
+## 어휘 정리 ① tiempo · hora · vez · ocupado · confundir
+S | Vamos a hacer una pequeña pausa para explicar bien las palabras que hemos usado. Esto es muy útil para aprender español. | 잠깐 멈춰서 지금까지 쓴 단어들을 제대로 설명해 볼게요. 스페인어를 배우는 데 아주 유용해요.
+[06:13]
+S | Tiempo. Esta palabra tiene dos significados principales. | tiempo. 이 단어에는 주요한 뜻이 두 가지 있어요.
+[06:18]
+S | Uno es el paso de los días, horas o minutos de forma general, como cuando dices: "No tengo tiempo." | 하나는 날, 시간, 분이 흘러가는 일반적인 시간이에요. "시간이 없어"라고 할 때처럼요.
+[06:25]
+S | El segundo significado es el clima, como cuando dices: "Hoy hace buen tiempo porque hace sol." | 두 번째 뜻은 날씨예요. "해가 나서 오늘 날씨가 좋아"라고 할 때처럼요.
+[06:32]
+S | Hora. Usamos esta palabra para preguntar o decir el momento exacto en el reloj. | hora. 이 단어는 시계의 정확한 시각을 묻거나 말할 때 써요.
+[06:39]
+S | Por ejemplo: "¿Qué hora es?" o "Mi tren sale a las tres." Es la hora exacta. | 예를 들어 "몇 시예요?", "내 기차는 3시에 출발해." 정확한 시각이에요.
+[06:43]
+S | También significa que es el momento de hacer una acción, como "Es hora de cenar." | 또 어떤 행동을 할 때라는 뜻도 있어요. "저녁 먹을 시간이야"처럼요.
+[06:49]
+S | Vez. Se usa para contar repeticiones, es decir, la frecuencia con la que ocurre un evento. | vez. 반복 횟수, 즉 어떤 일이 일어나는 빈도를 셀 때 써요.
+[06:57]
+S | Puedes decir: "Fui a España una vez" o "Leo un libro muchas veces". El plural de vez es veces. | "스페인에 한 번 갔어", "책 한 권을 여러 번 읽어"라고 할 수 있어요. vez의 복수형은 veces예요.
+[07:06]
+S | Ocupado significa tener mucho trabajo o muchas cosas que hacer. Si estás ocupado, generalmente no tienes tiempo libre. | ocupado(바쁜)는 일이 많거나 할 일이 많다는 뜻이에요. 바쁘면 보통 자유 시간이 없죠.
+[07:15]
+S | Por ejemplo: "Hoy estoy muy ocupado en la oficina y no puedo salir a tomar un café." | 예: "오늘 회사에서 너무 바빠서 커피 마시러 나갈 수가 없어."
+[07:20]
+S | Confundir es un verbo que significa mezclar ideas o no entender la diferencia entre dos cosas. | confundir(헷갈리다, 혼동하다)는 생각을 뒤섞거나 두 가지의 차이를 모르는 걸 뜻하는 동사예요.
+[07:28]
+S | En este caso, muchos estudiantes de español para extranjeros se confunden con las palabras tiempo, hora y vez, porque en inglés son una sola palabra. | 이 경우, 영어에서는 한 단어라서 많은 외국인 학생이 tiempo, hora, vez를 헷갈려해요.
+
+[07:39]
+## 아침 일과 속 tiempo · hora · vez
+C | Me gusta mucho esta explicación. Las tres palabras son fundamentales para la conversación en español. | 이 설명 정말 좋아요. 세 단어 모두 스페인어 회화에 꼭 필요하네요.
+[07:47]
+C | Ahora que entiendo la diferencia teórica, me gustaría ver cómo funcionan en la vida real, en un día normal. | 이론적인 차이는 이해했으니, 실생활에서, 평범한 하루에서 어떻게 쓰이는지 보고 싶어요.
+[07:54]
+C | Por ejemplo, Sofía, si pensamos en tu rutina diaria desde que te levantas en la mañana, ¿cómo usas estas palabras para organizar tu día? | 예를 들어 소피아, 아침에 일어나서부터의 일과를 생각하면, 하루를 계획할 때 이 단어들을 어떻게 써요?
+[08:02]
+C | ¿A qué hora te levantas normalmente? | 보통 몇 시에 일어나요?
+[08:04]
+S | Es una pregunta muy buena, Carlos. Para mejorar tu nivel de Spanish conversation, hablar de la rutina es un ejercicio perfecto. | 아주 좋은 질문이에요, 카를로스. 회화 실력을 늘리는 데 일과 이야기는 완벽한 연습이에요.
+[08:14]
+S | Normalmente me levanto muy temprano. Mi alarma suena a las seis de la mañana. Esa es mi hora de despertar. | 저는 보통 아주 일찍 일어나요. 알람이 아침 6시에 울려요. 그게 제 기상 시각이에요.
+[08:22]
+S | Siempre me levanto a la misma hora, de lunes a viernes. | 월요일부터 금요일까지 늘 같은 시각에 일어나요.
+[08:26]
+S | Para mí, empezar el día a esa hora es muy importante porque me da tranquilidad. | 저한테는 그 시각에 하루를 시작하는 게 아주 중요해요. 마음이 편해지거든요.
+[08:32]
+C | ¿A las seis de la mañana? Eso es muy temprano. Yo no puedo levantarme a esa hora. | 아침 6시요? 너무 이르다. 저는 그 시각에 못 일어나요.
+[08:39]
+C | Mi hora de despertar es a las ocho, a veces a las ocho y media si estoy muy cansado. | 제 기상 시각은 8시, 많이 피곤하면 가끔 8시 반이에요.
+[08:44]
+C | ¿Y por qué te levantas a una hora tan temprana, Sofía? ¿Tienes que ir a trabajar muy lejos? | 그런데 왜 그렇게 이른 시각에 일어나요, 소피아? 회사가 아주 멀어요?
+[08:51]
+S | No, mi trabajo está cerca, pero me gusta tener mucho tiempo por la mañana. | 아니요, 회사는 가까워요. 그런데 아침에 시간이 넉넉한 게 좋아요.
+[08:56]
+S | Aquí volvemos a usar la palabra tiempo como duración. Me gusta tomar mi desayuno con calma, sin prisa. | 여기서 다시 tiempo를 '기간'의 뜻으로 써요. 아침을 서두르지 않고 천천히 먹는 게 좋아요.
+[09:04]
+S | Necesito mi tiempo para beber mi café, leer las noticias y pensar en mi día. | 커피를 마시고, 뉴스를 읽고, 하루를 생각할 내 시간이 필요해요.
+[09:09]
+S | Si me levanto a las ocho, siento que no tengo tiempo para nada. Todo es muy rápido. | 8시에 일어나면 아무것도 할 시간이 없는 것 같아요. 모든 게 너무 빨라요.
+[09:15]
+C | Tienes razón. Cuando no tienes tiempo en la mañana, el día empieza con mucho estrés. Yo siempre salgo corriendo de mi casa. | 맞아요. 아침에 시간이 없으면 하루가 스트레스로 시작해요. 저는 늘 집에서 뛰어나가요.
+[09:24]
+C | Pero dime, ¿cuántas veces tomas café por la mañana? | 그런데 아침에 커피를 몇 번 마셔요?
+[09:28]
+C | Yo, por ejemplo, necesito beber café muchas veces al día para tener energía. Ahí está nuestra tercera palabra. | 저는 예를 들어 기운을 내려면 하루에 커피를 여러 번 마셔야 해요. 여기 세 번째 단어가 나왔네요.
+[09:37]
+S | Excelente uso de vez. Yo solo tomo café una vez por la mañana. Una taza de café es suficiente para mí. | vez를 아주 잘 썼어요. 저는 아침에 커피를 한 번만 마셔요. 커피 한 잔이면 충분해요.
+[09:44]
+S | Pero durante el resto del día bebo té verde unas dos o tres veces. | 그런데 나머지 시간에는 녹차를 두세 번 정도 마셔요.
+[09:49]
+S | Aprender español y enseñar español online requiere mucha energía, pero prefiero el té. ¿Y tú, Carlos, cuántas veces tomas café? | 스페인어를 배우고 온라인으로 가르치는 데는 기운이 많이 필요하지만, 저는 차가 좋아요. 카를로스는 커피를 몇 번 마셔요?
+[09:59]
+C | Ay, yo creo que tomo café cuatro o cinco veces al día. | 아, 저는 하루에 네다섯 번 마시는 것 같아요.
+[10:04]
+C | Una vez cuando me levanto, otra vez cuando llego a la oficina, una vez más después de comer… Es un hábito un poco malo. | 일어날 때 한 번, 회사에 도착해서 또 한 번, 점심 먹고 한 번 더… 좀 나쁜 습관이죠.
+[10:13]
+C | Pero bueno, hablemos de la ropa. Cuando te levantas temprano y tienes mucho tiempo, ¿cómo decides qué ropa ponerte? ¿Miras tu teléfono? | 아무튼, 옷 얘기를 해 봐요. 일찍 일어나서 시간이 많을 때, 뭘 입을지 어떻게 정해요? 휴대폰을 봐요?
+[10:23]
+S | Sí, claro. Y aquí entra el otro significado de tiempo. | 네, 물론이죠. 여기서 tiempo의 다른 뜻이 나와요.
+[10:27]
+S | Lo primero que hago es mirar la aplicación del clima en mi teléfono para saber qué tiempo va a hacer. | 제일 먼저 휴대폰 날씨 앱을 보고 날씨가 어떨지 확인해요.
+[10:34]
+S | Si la aplicación dice que va a hacer mal tiempo, por ejemplo, si va a llover, entonces preparo un paraguas y ropa de abrigo. | 앱에서 날씨가 나쁠 거라고 하면, 예를 들어 비가 올 거라면 우산과 따뜻한 옷을 챙겨요.
+[10:42]
+S | Si dice que va a hacer buen tiempo, me pongo ropa más ligera. | 날씨가 좋을 거라고 하면 더 가벼운 옷을 입어요.
+[10:46]
+C | Eso es muy inteligente. Yo muchas veces no miro el tiempo, salgo a la calle y de repente llueve, y yo sin paraguas. Es un gran error. | 아주 똑똑하네요. 저는 날씨를 안 볼 때가 많아서, 밖에 나가면 갑자기 비가 오는데 우산이 없어요. 큰 실수죠.
+[10:56]
+C | Entonces, vamos a repasar esta parte de la rutina para las personas que nos escuchan y quieren aprender español con nosotros. | 그럼 듣고 계신, 저희와 스페인어를 배우고 싶은 분들을 위해 이 일과 부분을 복습해 봐요.
+[11:05]
+C | Hablamos de la hora de levantarse, del tiempo que pasamos desayunando, del tiempo que hace afuera y de las veces que tomamos café. Todo en la misma mañana. | 일어나는 시각(hora), 아침 먹는 데 쓰는 시간(tiempo), 바깥 날씨(tiempo), 커피 마시는 횟수(veces)를 이야기했어요. 전부 같은 아침에요.
+[11:16]
+S | Exacto, Carlos, lo has resumido perfectamente. Es un ejercicio maravilloso de Spanish vocabulary para nuestros estudiantes. | 맞아요, 카를로스, 완벽하게 정리했어요. 학생들에게 아주 좋은 어휘 연습이에요.
+[11:25]
+S | Entender esto ayuda mucho a hablar español de forma más natural, como un nativo. | 이걸 이해하면 원어민처럼 더 자연스럽게 스페인어를 말하는 데 큰 도움이 돼요.
+
+[11:31]
+## 어휘 정리 ② rutina · despertar · estrés · hábito · abrigo
+S | Ahora vamos a hacer una pequeña pausa para explicar algunas palabras nuevas que hemos usado en esta conversación. Esto es clave en nuestras clases de español. | 이제 잠깐 멈춰서 이 대화에서 쓴 새 단어들을 설명할게요. 스페인어 수업의 핵심이에요.
+[11:41]
+S | Rutina son las cosas que hacemos todos los días en el mismo orden. | rutina(일과, 루틴)는 매일 같은 순서로 하는 일들이에요.
+[11:46]
+S | Por ejemplo: "Mi rutina empieza a las seis de la mañana con un buen desayuno." | 예: "내 일과는 아침 6시에 든든한 아침 식사로 시작해."
+[11:52]
+S | Despertar es la acción de abrir los ojos por la mañana y terminar de dormir. "Yo odio despertar temprano, prefiero dormir más." | despertar(잠에서 깨다)는 아침에 눈을 뜨고 잠을 끝내는 행동이에요. "일찍 깨는 거 너무 싫어, 더 자고 싶어."
+[12:02]
+S | Estrés es esa sensación de nervios y tensión cuando tienes prisa o muchas cosas que hacer. | estrés(스트레스)는 급하거나 할 일이 많을 때 느끼는 초조함과 긴장감이에요.
+[12:09]
+S | Por ejemplo, cuando no tienes tiempo por la mañana, sientes mucho estrés. | 예를 들어 아침에 시간이 없으면 스트레스를 많이 받아요.
+[12:15]
+S | Hábito es una costumbre, algo que haces muchas veces casi sin pensar. | hábito(습관)는 버릇, 거의 생각 없이 여러 번 하는 일이에요.
+[12:20]
+S | "Mi hábito es tomar café cuatro veces al día, aunque sé que es mucho." | "많다는 건 알지만, 하루에 커피 네 번 마시는 게 내 습관이야."
+[12:25]
+S | Abrigo es la ropa gruesa que usamos cuando hace frío. | abrigo(외투, 코트)는 추울 때 입는 두꺼운 옷이에요.
+[12:29]
+S | Si hace mal tiempo en invierno, es necesario llevar un abrigo para salir a la calle. | 겨울에 날씨가 나쁘면 밖에 나갈 때 외투를 꼭 입어야 해요.
+[12:35]
+S | Son palabras muy útiles para la vida diaria. | 일상생활에 아주 유용한 단어들이에요.
+
+[12:37]
+## 출근길 — hora punta, perder el tiempo, llegar a tiempo
+C | Ya entiendo mejor cómo explicar mi mañana en español. | 이제 제 아침을 스페인어로 어떻게 설명하는지 더 잘 알겠어요.
+[12:42]
+C | Pero, Sofía, después del desayuno y de prepararte, sales de casa. En el transporte público o en el tráfico, el reloj sigue avanzando. | 그런데 소피아, 아침을 먹고 준비하고 나면 집을 나서잖아요. 대중교통이나 차 막히는 길에서도 시계는 계속 가요.
+[12:52]
+C | ¿Cómo usas estas tres palabras cuando viajas al trabajo o cuando tienes una cita importante y vas tarde? | 출근할 때나, 중요한 약속이 있는데 늦을 때 이 세 단어를 어떻게 써요?
+[12:59]
+S | Esa es una situación que todos vivimos, Carlos, y es una pregunta perfecta para continuar. | 그건 누구나 겪는 상황이에요, 카를로스. 이어 가기 딱 좋은 질문이네요.
+[13:06]
+S | Cuando salimos de casa para ir al trabajo, la ciudad es toda una aventura. | 출근하려고 집을 나서면 도시는 그야말로 모험이에요.
+[13:12]
+S | Aquí las palabras tiempo, hora y vez son fundamentales para comunicarte como un español nativo. | 여기서 tiempo, hora, vez는 원어민처럼 소통하는 데 꼭 필요해요.
+[13:21]
+S | Por ejemplo, en mi viaje diario siempre trato de evitar la famosa hora punta. | 예를 들어 저는 매일 출근길에 그 유명한 hora punta(출퇴근 시간대)를 늘 피하려고 해요.
+[13:28]
+C | ¿La hora punta? Entiendo que hora es el momento del reloj, pero ¿qué significa exactamente hora punta? ¿Es cuando hay muchos coches en la calle? | hora punta요? hora가 시계의 시각인 건 알겠는데, hora punta는 정확히 뭐예요? 길에 차가 많을 때예요?
+[13:38]
+S | Exactamente. La hora punta es ese momento específico de la mañana o de la tarde cuando todo el mundo va al trabajo o regresa a casa. | 맞아요. hora punta는 모두가 출근하거나 집에 돌아가는 아침이나 저녁의 특정한 때예요.
+[13:49]
+S | A esa hora, las calles están llenas, hay mucho tráfico. | 그 시각에는 길이 꽉 차고 차가 많이 막혀요.
+[13:53]
+S | Si viajas a esa hora, necesitas más tiempo para llegar a tu destino. El viaje no dura diez minutos, dura mucho más tiempo. | 그 시각에 이동하면 목적지까지 시간이 더 걸려요. 10분이 아니라 훨씬 오래 걸리죠.
+[14:02]
+C | ¡Uf! Sí. El tráfico en mi ciudad es terrible. Muchas veces, cuando hay tráfico, siento que pierdo mi tiempo. | 휴! 맞아요. 우리 도시 교통은 끔찍해요. 차가 막히면 시간을 버리는 기분이 들 때가 많아요.
+[14:10]
+C | Estar en el coche sin moverme me produce mucho estrés. ¿Cuántas veces a la semana te encuentras con mucho tráfico, Sofía? | 차 안에서 꼼짝 못 하면 스트레스가 엄청나요. 소피아는 일주일에 몇 번이나 심하게 막혀요?
+[14:18]
+S | Afortunadamente, no muchas veces. Intento salir de casa un poco antes de la hora punta para evitar los coches. | 다행히 많지 않아요. 차를 피하려고 출퇴근 시간대보다 조금 일찍 집을 나서려고 해요.
+[14:26]
+S | Pero tienes razón. Usar la expresión perder el tiempo es perfecto en esa situación. | 그래도 당신 말이 맞아요. 그 상황엔 'perder el tiempo(시간을 낭비하다)'라는 표현이 딱이에요.
+[14:32]
+S | Perder el tiempo significa usar tu tiempo de una forma que no es útil o productiva. Estar parado en el coche es perder el tiempo. | perder el tiempo는 쓸모없거나 생산적이지 않게 시간을 쓰는 거예요. 차 안에 멈춰 있는 건 시간 낭비죠.
+[14:41]
+S | Para no perder el tiempo, muchas veces escucho música en español o repaso nuestro vocabulario español mientras voy en el autobús. | 시간을 낭비하지 않으려고, 버스 타고 가면서 스페인어 음악을 듣거나 어휘를 복습할 때가 많아요.
+[14:50]
+S | Es una forma excelente de mejorar el español y practicar la comprensión auditiva mientras viajo. | 이동하면서 스페인어를 늘리고 듣기 연습을 하는 아주 좋은 방법이에요.
+[14:56]
+C | Es una gran idea. Escuchar a personas hablar español mientras viajas es muy productivo y es perfecto para no perder el tiempo. | 좋은 생각이에요. 이동하면서 스페인어 대화를 듣는 건 아주 생산적이고, 시간 낭비하지 않기에 딱이에요.
+[15:05]
+C | Yo hago lo mismo, escucho tus episodios muchas veces en el coche. | 저도 똑같이 해요. 차에서 당신 에피소드를 여러 번 들어요.
+[15:09]
+C | Pero volviendo al tema de los horarios y de llegar tarde: en inglés decimos "to be on time". ¿Cómo se dice eso en español? | 그런데 시간표와 지각 얘기로 돌아가면, 영어로는 'to be on time'이라고 하잖아요. 스페인어로는 뭐라고 해요?
+[15:17]
+C | ¿Usamos la palabra hora o la palabra tiempo? Porque yo siempre me confundo. | hora를 써요, tiempo를 써요? 저는 늘 헷갈려요.
+[15:23]
+S | Esa es una pregunta fantástica y muy importante en nuestras clases de español. Presta mucha atención. | 아주 멋지고 중요한 질문이에요. 잘 들으세요.
+[15:30]
+S | Aunque miramos el reloj para saber el momento exacto, para decir "to be on time" usamos la palabra tiempo. Decimos "llegar a tiempo". | 정확한 시각은 시계를 보고 알지만, 'to be on time'을 말할 때는 tiempo를 써요. 'llegar a tiempo(제때 도착하다)'라고 해요.
+[15:41]
+S | Por ejemplo: "Hoy no hay tráfico. Voy a llegar a tiempo a mi reunión del trabajo." | 예: "오늘은 안 막혀. 회사 회의에 제때 도착할 거야."
+[15:46]
+S | Es una de esas frases en español muy comunes que debes memorizar. | 꼭 외워야 할 아주 흔한 스페인어 표현 중 하나예요.
+[15:51]
+C | Ah, entonces no decimos "llegar a la hora", decimos "llegar a tiempo". | 아, 그럼 'llegar a la hora'가 아니라 'llegar a tiempo'라고 하는군요.
+[15:56]
+C | Es un poco raro para mí, porque la reunión del trabajo es a una hora específica, en un momento exacto. | 저한텐 좀 이상해요. 회사 회의는 특정한 시각, 정확한 때에 있잖아요.
+[16:03]
+S | Lo sé, Carlos. Entiendo perfectamente tu confusión. Al principio, aprender español puede parecer un pequeño rompecabezas. | 알아요, 카를로스. 헷갈리는 거 충분히 이해해요. 처음엔 스페인어 배우기가 작은 퍼즐 같을 수 있어요.
+[16:12]
+S | Pero piensa que llegar a tiempo significa que tienes la cantidad de tiempo suficiente para llegar antes de que el evento empiece. | 그런데 llegar a tiempo는 일이 시작되기 전에 도착할 만큼 시간이 충분하다는 뜻이라고 생각해 보세요.
+[16:21]
+S | Es verdad que también puedes decir "llegar a la hora acordada", pero la expresión "llegar a tiempo" es muchísimo más común y natural para conversar. | 'llegar a la hora acordada(약속한 시각에 도착하다)'라고 해도 되지만, 대화에서는 'llegar a tiempo'가 훨씬 흔하고 자연스러워요.
+[16:31]
+S | Si quieres hablar español de forma fluida, usa "llegar a tiempo". ¿Entendido? | 스페인어를 유창하게 하고 싶다면 'llegar a tiempo'를 쓰세요. 알겠죠?
+[16:36]
+C | Llegar a tiempo. Lo voy a escribir ahora mismo en mi cuaderno de apuntes. | llegar a tiempo. 지금 바로 노트에 적어 둘게요.
+[16:41]
+C | ¿Y si el tren o el autobús tienen un problema y llego tarde? ¿Cómo explico eso usando nuestras tres famosas palabras? | 그럼 기차나 버스에 문제가 생겨서 늦으면요? 우리의 유명한 세 단어로 어떻게 설명해요?
+[16:50]
+C | Por ejemplo, si el tren se avería y no funciona una vez a la semana. | 예를 들어 기차가 일주일에 한 번 고장 나서 안 다니면요.
+[16:54]
+S | Si el medio de transporte tiene problemas, puedes usar la palabra vez. Puedes decir: "A veces el autobús tiene retraso." | 교통수단에 문제가 있으면 vez를 쓸 수 있어요. "가끔 버스가 늦어"라고 할 수 있죠.
+[17:03]
+S | Recuerda que "a veces" significa que ocurre en algunas ocasiones, pero no todos los días. | 'a veces'는 가끔 일어나지만 매일은 아니라는 뜻이라는 것 기억하세요.
+[17:09]
+S | O también puedes decir a tu jefe: "Lo siento mucho, esta es la segunda vez en la semana que llego tarde por culpa del tráfico." | 아니면 상사에게 "정말 죄송합니다. 차가 막혀서 이번 주에 두 번째로 늦었어요"라고 할 수도 있어요.
+[17:18]
+S | Así usas la palabra vez para contar las ocasiones exactas en las que llegas tarde. | 이렇게 vez로 늦은 횟수를 정확히 세는 거예요.
+[17:25]
+C | Claro, contar las ocasiones. Esta es la primera vez, esta es la segunda vez. Es muy lógico. | 그렇죠, 횟수를 세는 거네요. 이번이 첫 번째, 이번이 두 번째. 아주 논리적이에요.
+[17:31]
+C | Lo peor es cuando llego tarde a la oficina y mi jefe siempre mira su reloj de pulsera y me pregunta con voz muy seria: "¿Qué hora es, Carlos?" | 최악은 회사에 늦게 도착했는데 상사가 늘 손목시계를 보면서 아주 진지한 목소리로 "카를로스, 지금 몇 시죠?"라고 물을 때예요.
+[17:41]
+C | Y yo me pongo muy nervioso. No me gusta nada esa pregunta en ese contexto. | 그러면 저는 엄청 긴장해요. 그 상황에서 그 질문은 정말 싫어요. (웃음)
+[17:47]
+S | Pobre Carlos. Sí, te entiendo muy bien. | 불쌍한 카를로스. 네, 정말 이해해요.
+[17:50]
+S | Cuando alguien te pregunta qué hora es con tono serio, justo cuando entras por la puerta llegando tarde, definitivamente no es una buena señal. | 늦게 문을 들어서는 바로 그때 누가 진지한 말투로 몇 시냐고 물으면, 분명 좋은 신호가 아니죠.
+[18:00]
+S | Es mejor siempre mirar la hora en tu propio teléfono antes de salir de casa y calcular muy bien el tiempo del viaje. | 집을 나서기 전에 늘 내 휴대폰으로 시각을 확인하고, 이동 시간을 잘 계산하는 게 좋아요.
+[18:08]
+S | Y, por supuesto, mirar también el tiempo meteorológico, porque si llueve hay más tráfico y necesitas más tiempo. | 그리고 물론 날씨도 확인하세요. 비가 오면 더 막히고 시간이 더 필요하니까요.
+
+[18:16]
+## 어휘 정리 ③ hora punta · llegar a tiempo · perder el tiempo · retraso · a veces
+S | Vamos a aprovechar este momento de calma para hacer nuestra pausa habitual y analizar algunas palabras clave que hemos utilizado en este bloque. | 이 차분한 순간을 활용해서 늘 하는 '잠깐 멈춤'을 하고, 이 부분에서 쓴 핵심 단어들을 분석해 볼게요.
+[18:25]
+S | Este ejercicio es vital para escuchar español y comprenderlo al cien por cien. | 이 연습은 스페인어를 듣고 100% 이해하는 데 꼭 필요해요.
+[18:30]
+S | Hora punta. Es el momento del día en el que hay más tráfico en las calles y más personas usando el transporte público. | hora punta(출퇴근 시간대, 러시아워). 하루 중 길에 차가 가장 많고 대중교통 이용자가 가장 많은 때예요.
+[18:39]
+S | Normalmente esto ocurre por la mañana, cuando la gente va al trabajo, o cuando regresa a casa. | 보통 사람들이 출근하는 아침이나 퇴근하는 때에 생겨요.
+[18:45]
+S | Llegar a tiempo es una expresión muy útil. Significa llegar a un lugar en el momento correcto o antes de la hora en la que empieza una actividad, sin llegar tarde. | llegar a tiempo(제때 도착하다)는 아주 유용한 표현이에요. 늦지 않게, 알맞은 때나 활동이 시작하는 시각 전에 도착한다는 뜻이에요.
+[18:56]
+S | Por ejemplo, llegar a tiempo a una clase. | 예: 수업에 제때 도착하다.
+[18:59]
+S | Perder el tiempo es no aprovechar los minutos o las horas. | perder el tiempo(시간을 낭비하다)는 분이나 시간을 제대로 쓰지 못하는 거예요.
+[19:03]
+S | Si estás tres horas mirando cosas sin importancia en internet en lugar de estudiar, estás perdiendo el tiempo. Significa no ser productivo. | 공부 대신 인터넷에서 별것 아닌 걸 세 시간 보고 있으면 시간을 낭비하는 거예요. 생산적이지 않다는 뜻이죠.
+[19:14]
+S | Retraso significa que algo ocurre o llega más tarde de la hora oficial. | retraso(지연)는 무언가가 공식 시각보다 늦게 일어나거나 도착하는 거예요.
+[19:19]
+S | Los trenes o los autobuses muchas veces tienen retraso cuando hace mal tiempo o hay accidentes. | 날씨가 나쁘거나 사고가 나면 기차나 버스가 늦을 때가 많아요.
+[19:25]
+S | A veces es una expresión de frecuencia que usamos muchísimo. Significa algunas veces sí y otras veces no. Ocurre de manera ocasional. | a veces(가끔)는 아주 많이 쓰는 빈도 표현이에요. 어떤 때는 그렇고 어떤 때는 아니라는 뜻이에요. 이따금 일어나죠.
+[19:36]
+S | Por ejemplo: "A veces voy caminando, pero normalmente voy en coche." | 예: "가끔은 걸어가지만, 보통은 차로 가."
+
+[19:41]
+## 주말 — pasar tiempo, quedar, la primera vez
+C | Me encantan estas explicaciones, Sofía. Son muy claras. | 이 설명들 정말 좋아요, 소피아. 아주 명확해요.
+[19:44]
+C | Ahora me siento mucho más seguro cuando viajo al trabajo y tengo que explicar mi ruta en español. | 이제 출근하면서 제 경로를 스페인어로 설명해야 할 때 훨씬 자신 있어요.
+[19:50]
+C | Ya sé diferenciar el tiempo del viaje, la hora de llegada y las veces que llego tarde a un sitio. | 이동 시간(tiempo), 도착 시각(hora), 어딘가에 늦는 횟수(veces)를 구분할 줄 알게 됐어요.
+[19:56]
+C | Pero la rutina de trabajo de lunes a viernes es una cosa, y el fin de semana es otra muy distinta. | 그런데 월요일부터 금요일까지의 업무 일과와 주말은 완전히 다르잖아요.
+[20:03]
+C | Cuando llega el sábado y el domingo, el ritmo de vida cambia totalmente. Ya no miramos tanto el reloj ni hay tanta prisa. | 토요일과 일요일이 되면 생활 리듬이 완전히 바뀌어요. 시계를 그렇게 많이 보지도 않고, 그렇게 서두르지도 않죠.
+[20:11]
+C | ¿Cómo usamos tiempo, hora y vez cuando hablamos de nuestras aficiones, los deportes, las salidas con amigos o las cosas que hacemos para divertirnos? | 취미, 운동, 친구와의 외출, 즐기려고 하는 일들을 말할 때는 tiempo, hora, vez를 어떻게 써요?
+[20:21]
+S | El fin de semana. Esa es, sin duda, la mejor parte de la semana, Carlos. | 주말. 그건 확실히 일주일 중 최고의 부분이죠, 카를로스.
+[20:27]
+S | El ritmo cambia totalmente, y la forma de usar nuestras tres palabras también se vuelve más relajada. | 리듬이 완전히 바뀌고, 세 단어를 쓰는 방식도 더 느긋해져요.
+[20:35]
+S | Cuando hablamos de nuestras aficiones y de relajarnos, la expresión más común es "pasar tiempo". | 취미와 휴식을 이야기할 때 가장 흔한 표현은 'pasar tiempo(시간을 보내다)'예요.
+[20:43]
+S | Por ejemplo, el sábado me encanta pasar tiempo con mi familia o pasar tiempo al aire libre. | 예를 들어 토요일에는 가족과 시간을 보내거나 야외에서 시간을 보내는 게 정말 좋아요.
+[20:52]
+S | Aquí tiempo significa esos momentos preciosos que usamos para nosotros mismos. | 여기서 tiempo는 우리 자신을 위해 쓰는 소중한 순간들을 뜻해요.
+[20:59]
+C | Me encanta esa expresión. Pasar tiempo con amigos es lo mejor que hay. | 그 표현 정말 좋아요. 친구들과 시간을 보내는 게 최고죠.
+[21:04]
+C | Yo, por ejemplo, los fines de semana siempre intento tener mucho tiempo libre. Me gusta leer, caminar por el parque o simplemente descansar. | 저는 예를 들어 주말엔 늘 자유 시간을 많이 가지려고 해요. 책 읽고, 공원을 걷거나, 그냥 쉬는 게 좋아요.
+[21:14]
+C | Pero cuando quiero ver a mis amigos, siempre usamos el teléfono para organizar el plan. Yo siempre les pregunto: "¿A qué hora nos vemos?" | 그런데 친구들을 만나고 싶을 땐 늘 휴대폰으로 약속을 잡아요. 늘 "몇 시에 볼까?"라고 물어요.
+[21:23]
+S | Muy bien, ese es un uso perfecto para hablar como un español nativo. | 아주 좋아요. 원어민처럼 말하는 완벽한 용법이에요.
+[21:28]
+S | Para encontrarnos con personas siempre fijamos una hora, y tenemos un verbo especial en español para esto: el verbo quedar. | 사람을 만나려면 늘 시각을 정하는데, 스페인어에는 이걸 위한 특별한 동사가 있어요. quedar예요.
+[21:38]
+S | Quedar significa acordar una cita para ver a alguien. | quedar는 누군가를 만나려고 약속을 정한다는 뜻이에요.
+[21:43]
+S | Así que puedes decir: "¿A qué hora quedamos para ir al cine?" O: "Hemos quedado a la hora de cenar." | 그래서 "영화 보러 몇 시에 만날까?", "저녁 먹을 시간에 만나기로 했어"라고 할 수 있어요.
+[21:50]
+S | Es una de las frases en español más usadas los fines de semana. | 주말에 가장 많이 쓰는 스페인어 표현 중 하나예요.
+[21:56]
+C | Ah, el verbo quedar es muy útil. Entonces, si quiero ver un partido de fútbol con mis amigos, pregunto: "¿A qué hora es el partido?" | 아, quedar 정말 유용하네요. 그럼 친구들이랑 축구 경기를 보고 싶으면 "경기 몇 시야?"라고 묻고,
+[22:05]
+C | Y luego pregunto: "¿A qué hora quedamos en el bar?" | 그다음 "바에서 몇 시에 만날까?"라고 묻는 거죠.
+[22:09]
+C | Y, Sofía, ¿cómo usamos la palabra vez cuando hablamos de nuestros pasatiempos o deportes? | 그리고 소피아, 취미나 운동을 이야기할 때 vez는 어떻게 써요?
+[22:15]
+S | Pues la usamos exactamente igual que en la rutina, para indicar la frecuencia. | 일과에서와 똑같이 빈도를 나타낼 때 써요.
+[22:21]
+S | Si te gusta mucho jugar al tenis, puedes decir: "Juego al tenis tres veces el fin de semana." | 테니스를 아주 좋아하면 "주말에 테니스를 세 번 쳐"라고 할 수 있어요.
+[22:28]
+S | Pero también la usamos para hablar de experiencias nuevas. | 그런데 새로운 경험을 말할 때도 써요.
+[22:32]
+S | Por ejemplo, si vas a probar un restaurante nuevo el sábado por la noche, puedes decir: "Es la primera vez que como en este lugar." | 예를 들어 토요일 밤에 새 식당에 가 보면 "여기서 먹는 건 처음이야"라고 할 수 있어요.
+[22:42]
+S | Aprender español y hablar de tus experiencias pasadas es un gran ejercicio de Spanish comprehension practice. | 스페인어를 배우면서 지난 경험을 이야기하는 건 아주 좋은 이해력 연습이에요.
+[22:50]
+C | Claro, experiencias nuevas. Recuerdo que la primera vez que jugué al pádel fue un desastre total. | 그렇죠, 새로운 경험. 처음 파델을 쳤을 때 완전 엉망이었던 게 기억나요.
+[22:57]
+C | Me caí al suelo tres veces en una sola hora. Mis amigos se rieron mucho. | 딱 한 시간 동안 세 번이나 넘어졌어요. 친구들이 엄청 웃었죠.
+[23:02]
+C | Pero bueno, ahora juego mejor. Juego al menos una vez por semana. | 그래도 지금은 더 잘 쳐요. 적어도 일주일에 한 번은 쳐요.
+[23:07]
+S | Oh, pobre Carlos. Todos tenemos pequeños accidentes cuando aprendemos algo nuevo, igual que cuando empezamos a hablar un nuevo idioma. | 오, 불쌍한 카를로스. 새 언어를 말하기 시작할 때처럼, 뭔가 새로 배울 땐 누구나 작은 사고가 있죠.
+[23:17]
+S | Lo importante es intentar las cosas muchas veces hasta mejorar. | 중요한 건 나아질 때까지 여러 번 시도하는 거예요.
+[23:22]
+S | Y hablando de mejorar, este es un momento perfecto para recordar a las personas que nos escuchan que, si quieren apoyar a Español Auténtico, pueden suscribirse al canal, dejar un me gusta, y si quieren ayudarnos aún más, pueden abonarse y hacerse miembros. | 나아지는 얘기가 나온 김에, 듣고 계신 분들께 다시 알려 드릴게요. Español Auténtico를 응원하고 싶다면 구독과 좋아요를, 더 돕고 싶다면 멤버 가입을 해 주세요.
+[23:39]
+S | Es una gran forma de apoyo para que podamos seguir creando estas clases de español para todos. | 저희가 모두를 위한 스페인어 수업을 계속 만들 수 있게 하는 큰 응원이에요.
+[23:46]
+C | Sí, por favor, el apoyo de ustedes es lo que hace posible este podcast. | 네, 꼭이요. 여러분의 응원이 이 팟캐스트를 가능하게 해요.
+[23:52]
+C | Además, nos encanta leerlos. ¿Por qué no nos dejan un comentario abajo? | 그리고 저희는 댓글 읽는 걸 정말 좋아해요. 아래에 댓글을 남겨 주시면 어떨까요?
+[23:56]
+C | Nos gustaría que escriban una frase usando la expresión pasar tiempo, llegar a tiempo, o diciendo cuántas veces a la semana practican su vocabulario español. | pasar tiempo, llegar a tiempo를 써서, 아니면 일주일에 몇 번 스페인어 어휘를 연습하는지 말하는 문장을 써 주세요.
+[24:07]
+C | Queremos leer sus rutinas y aficiones. | 여러분의 일과와 취미를 읽고 싶어요.
+
+[24:10]
+## 어휘 정리 ④ pasar tiempo · afición · quedar · desastre · relajado
+S | Es una idea fantástica, Carlos. Leer y escribir comentarios es genial para practicar. | 아주 좋은 생각이에요, 카를로스. 댓글을 읽고 쓰는 건 연습하기에 최고예요.
+[24:16]
+S | Ahora, para ayudarles a escribir esos comentarios perfectos, vamos a hacer nuestra famosa pausa para explicar algunas palabras nuevas que han aparecido en esta conversación. | 이제 그 완벽한 댓글 쓰기를 도와드리려고, 이 대화에 나온 새 단어들을 설명하는 그 유명한 '잠깐 멈춤'을 할게요.
+[24:27]
+S | Pasar tiempo significa usar tus horas libres para estar con alguien o hacer una actividad. | pasar tiempo(시간을 보내다)는 자유 시간을 누군가와 함께하거나 어떤 활동을 하는 데 쓰는 거예요.
+[24:34]
+S | Por ejemplo: "Me gusta pasar tiempo con mi perro en el parque." Es una expresión muy positiva y común. | 예: "공원에서 강아지랑 시간 보내는 게 좋아." 아주 긍정적이고 흔한 표현이에요.
+[24:41]
+S | Afición es una actividad que haces en tu tiempo libre porque te gusta mucho y te divierte. | afición(취미)은 아주 좋아하고 즐거워서 자유 시간에 하는 활동이에요.
+[24:48]
+S | Por ejemplo: tocar la guitarra, pintar, jugar al fútbol o aprender idiomas. Es lo mismo que un pasatiempo. | 예: 기타 치기, 그림 그리기, 축구하기, 외국어 배우기. pasatiempo와 같은 뜻이에요.
+[24:56]
+S | Quedar es un verbo fundamental en España y Latinoamérica. | quedar는 스페인과 중남미에서 아주 기본적인 동사예요.
+[25:01]
+S | Significa ponerse de acuerdo con otra persona para verse en un lugar y a una hora. | 다른 사람과 어떤 장소, 어떤 시각에 만나기로 정한다는 뜻이에요.
+[25:07]
+S | Por ejemplo: "He quedado con Marta a las cinco en la cafetería." | 예: "마르타랑 5시에 카페에서 만나기로 했어."
+[25:11]
+S | Desastre es una palabra que usamos cuando algo sale muy mal o hay mucho caos. | desastre(엉망, 재앙)는 일이 아주 잘못되거나 난장판일 때 쓰는 단어예요.
+[25:17]
+C | Yo dije que mi primer partido de pádel fue un desastre porque no jugué nada bien y me caí muchas veces. | 제가 첫 파델 경기가 엉망이었다고 했죠. 전혀 못 치고 여러 번 넘어졌으니까요.
+[25:24]
+S | Relajado es un estado de tranquilidad cuando no tienes estrés ni prisa. | relajado(느긋한, 편안한)는 스트레스도 급함도 없는 평온한 상태예요.
+[25:30]
+S | El fin de semana suele ser un momento más relajado que el resto de los días de trabajo. | 주말은 보통 나머지 일하는 날보다 더 느긋한 때예요.
+
+[25:36]
+## 함정 — tener un buen tiempo? → pasarlo bien
+C | Hm, qué buen repaso de vocabulario. Cada vez me siento más seguro hablando sobre mi tiempo libre. | 음, 정말 좋은 어휘 복습이네요. 자유 시간에 대해 말하는 게 점점 더 자신 있어요.
+[25:43]
+C | Pero, Sofía, ahora me surge una duda muy interesante. | 그런데 소피아, 지금 아주 흥미로운 궁금증이 생겼어요.
+[25:47]
+C | En inglés decimos "to have a good time" cuando nos divertimos en una fiesta o en un viaje. | 영어로는 파티나 여행에서 즐거울 때 'to have a good time'이라고 하잖아요.
+[25:53]
+C | Si traduzco eso palabra por palabra al español, sería "tener un buen tiempo". ¿Es eso correcto? | 그걸 스페인어로 한 단어씩 번역하면 'tener un buen tiempo'가 될 텐데, 맞아요?
+[25:59]
+C | ¿O los españoles dicen otra cosa cuando quieren expresar que se están divirtiendo mucho con sus amigos? | 아니면 친구들과 아주 즐겁다고 말할 때 스페인 사람들은 다르게 말해요?
+[26:07]
+S | Qué buena pregunta, Carlos. Y es un error supercomún en nuestras clases de español. | 아주 좋은 질문이에요, 카를로스. 스페인어 수업에서 정말 흔한 실수예요.
+[26:13]
+S | Muchos estudiantes intentan traducir palabra por palabra desde el inglés, pero no. | 많은 학생이 영어에서 한 단어씩 번역하려 하지만, 아니에요.
+[26:19]
+S | En España y en Latinoamérica no decimos "tener un buen tiempo". | 스페인과 중남미에서는 'tener un buen tiempo'라고 하지 않아요.
+[26:24]
+S | Si dices eso, un español nativo te va a entender, pero suena muy raro, muy poco natural. | 그렇게 말하면 원어민이 알아듣기는 하지만, 아주 이상하고 부자연스럽게 들려요.
+[26:31]
+S | Nosotros usamos un verbo diferente para expresar esa idea. | 그 생각을 표현할 때는 다른 동사를 써요.
+[26:36]
+C | Lo sabía, sabía que la traducción literal era una trampa. El español siempre tiene una forma más bonita de decir las cosas. | 그럴 줄 알았어요. 직역은 함정일 줄 알았어요. 스페인어엔 늘 더 예쁘게 말하는 방법이 있죠.
+[26:45]
+C | Entonces, si estoy en una fiesta y quiero decir "I'm having a good time", ¿qué palabras debo usar para que mi conversación en español suene perfecta? | 그럼 파티에서 'I'm having a good time'이라고 하고 싶으면, 스페인어가 완벽하게 들리려면 어떤 말을 써야 해요?
+[26:54]
+S | Es muy fácil. Nosotros usamos la expresión "pasarlo bien". Literalmente significa "to pass it well". | 아주 쉬워요. 'pasarlo bien(즐겁게 보내다)'이라는 표현을 써요. 글자 그대로는 'to pass it well'이에요.
+[27:03]
+S | Entonces, si estás en una fiesta, dices: "Lo estoy pasando bien", o "Me lo estoy pasando muy bien." | 그래서 파티에 있으면 "Lo estoy pasando bien(즐겁게 보내고 있어)", "Me lo estoy pasando muy bien(정말 즐거워)"이라고 해요.
+[27:10]
+S | También puedes usar el verbo divertirse, que significa exactamente lo mismo. Puedes decir: "Me estoy divirtiendo mucho." | divertirse(즐기다)라는 동사도 쓸 수 있어요. 뜻이 똑같아요. "Me estoy divirtiendo mucho(정말 재밌어)"라고 하면 돼요.
+[27:19]
+S | Ambas opciones son perfectas para hablar español con fluidez. | 둘 다 유창하게 말하기에 완벽해요.
+[27:24]
+C | Pasarlo bien. Me gusta mucho esa expresión. Ayer fui al cine con mis amigos y lo pasamos muy bien. ¿Es correcto así, Sofía? | pasarlo bien. 그 표현 정말 좋아요. "어제 친구들이랑 영화 보러 갔는데 정말 즐거웠어(lo pasamos muy bien)." 이렇게 하면 맞아요, 소피아?
+[27:33]
+C | Creo que aprender español es mucho más fácil cuando aprendes estas frases completas en lugar de traducir palabra por palabra. | 한 단어씩 번역하는 대신 이렇게 문장 통째로 배우면 스페인어가 훨씬 쉬운 것 같아요.
+[27:43]
+S | Es cien por cien correcto, Carlos. Has construido la frase perfectamente y tienes mucha razón. | 100% 맞아요, 카를로스. 문장을 완벽하게 만들었고, 말도 정말 맞아요.
+[27:49]
+S | La mejor estrategia para tu Spanish listening practice es escuchar y memorizar bloques enteros de palabras. | 듣기 연습의 가장 좋은 전략은 단어 덩어리 전체를 듣고 외우는 거예요.
+
+[27:57]
+## 총정리 — 세 가지 마법의 단어
+S | Ahora vamos a hacer un pequeño resumen de las tres palabras mágicas de hoy para que todas las personas que nos escuchan puedan organizar sus apuntes. | 이제 듣고 계신 모든 분이 노트를 정리할 수 있도록 오늘의 마법 같은 세 단어를 짧게 요약해 볼게요.
+[28:07]
+S | Primero, usamos tiempo para la duración general y para el clima. | 먼저, tiempo는 일반적인 기간과 날씨에 써요.
+[28:12]
+C | Exacto. "No tengo tiempo para estudiar" o "Hace muy mal tiempo hoy." | 맞아요. "공부할 시간이 없어", "오늘 날씨가 정말 나빠."
+[28:17]
+S | Luego, la segunda palabra es hora. Usamos hora para el reloj, para momentos exactos, como cuando decimos "¿A qué hora es el examen?" o "Es hora de comer." | 다음으로 두 번째 단어는 hora예요. 시계, 정확한 시각에 써요. "시험이 몇 시야?", "밥 먹을 시간이야"처럼요.
+[28:29]
+C | Perfecto. Y finalmente, la tercera palabra es vez, y su plural, veces. | 완벽해요. 그리고 마지막 세 번째 단어는 vez, 복수형 veces예요.
+[28:35]
+S | La usamos para contar la frecuencia o las repeticiones de una acción. | 어떤 행동의 빈도나 반복 횟수를 셀 때 써요.
+[28:40]
+S | Por ejemplo: "Fui a México una vez en mi vida" o "Estudio el vocabulario español tres veces por semana." | 예: "살면서 멕시코에 한 번 가 봤어", "일주일에 세 번 스페인어 어휘를 공부해."
+[28:48]
+S | Si dominas estas tres diferencias, vas a dar un gran paso para comunicarte como un experto. | 이 세 가지 차이를 익히면 전문가처럼 소통하는 데 큰 걸음을 내딛게 될 거예요.
+[28:55]
+C | Realmente me siento mucho más seguro ahora. | 지금은 정말 훨씬 자신 있어요.
+[28:58]
+C | Antes me daba miedo hablar sobre mis horarios o mis experiencias pasadas porque no quería usar la palabra equivocada. | 전에는 틀린 단어를 쓸까 봐 제 일정이나 지난 경험을 말하는 게 두려웠어요.
+[29:06]
+C | Pero, Sofía, ¿qué pasa si mañana hablo con un nativo, me pongo nervioso y confundo tiempo con hora? ¿Es muy grave hacer ese error? | 그런데 소피아, 내일 원어민이랑 말하다가 긴장해서 tiempo와 hora를 헷갈리면요? 그 실수가 아주 심각해요?
+[29:16]
+S | Para nada, Carlos. Aprender un idioma es un proceso hermoso, y cometer errores es la mejor forma de avanzar. | 전혀요, 카를로스. 언어를 배우는 건 아름다운 과정이고, 실수하는 게 앞으로 나아가는 가장 좋은 방법이에요.
+[29:25]
+S | Si te equivocas, la persona te va a entender por el contexto. Lo importante es intentar hablar. | 틀려도 상대는 맥락으로 알아들을 거예요. 중요한 건 말해 보려고 하는 거예요.
+[29:31]
+S | Nuestro objetivo en Español Auténtico es darte confianza, no buscar la perfección absoluta. Relájate y disfruta del viaje. | Español Auténtico의 목표는 완벽함을 좇는 게 아니라 여러분에게 자신감을 주는 거예요. 긴장 풀고 여정을 즐기세요.
+
+[29:40]
+## 어휘 정리 ⑤ pasarlo bien · divertirse · literalmente · trampa · fluidez
+S | Ahora, antes de despedirnos, vamos a repasar cinco expresiones clave de esta última parte en nuestro análisis del léxico. | 이제 작별하기 전에, 마지막 부분의 핵심 표현 다섯 개를 어휘 분석으로 복습해 볼게요.
+[29:50]
+S | Pasarlo bien es la expresión que usamos en español para decir "to have a good time". | pasarlo bien(즐겁게 보내다)은 스페인어로 'to have a good time'을 말할 때 쓰는 표현이에요.
+[29:56]
+S | Significa disfrutar de una experiencia, de una fiesta o de un momento con amigos. | 어떤 경험, 파티, 친구들과의 순간을 즐긴다는 뜻이에요.
+[30:02]
+S | Divertirse es un verbo sinónimo de pasarlo bien. Significa entretenerse o sentir alegría haciendo algo. | divertirse(즐기다)는 pasarlo bien과 같은 뜻의 동사예요. 뭔가를 하며 즐거워하거나 기쁨을 느낀다는 뜻이에요.
+[30:10]
+S | Por ejemplo: "Los niños se divierten mucho en el parque." | 예: "아이들은 공원에서 아주 즐겁게 놀아."
+[30:13]
+S | Literalmente es un adverbio. Lo usamos cuando queremos decir que algo significa exactamente lo que dicen las palabras, sin dobles sentidos ni interpretaciones libres. | literalmente(글자 그대로)는 부사예요. 다른 뜻이나 자유로운 해석 없이 말 그대로의 뜻이라는 걸 말할 때 써요.
+[30:26]
+S | Trampa es algo que parece fácil o correcto, pero en realidad es un engaño o produce un error. | trampa(함정)는 쉬워 보이거나 맞아 보이지만, 사실은 속임수이거나 실수를 낳는 거예요.
+[30:33]
+S | Traducir palabra por palabra del inglés al español muchas veces es una trampa. | 영어에서 스페인어로 한 단어씩 번역하는 건 함정일 때가 많아요.
+[30:38]
+S | Fluidez es la capacidad de hablar un idioma de forma continua, rápida y natural, sin pararse a pensar demasiado en cada palabra. | fluidez(유창함)는 단어마다 너무 오래 멈춰 생각하지 않고, 끊김 없이 빠르고 자연스럽게 언어를 말하는 능력이에요.
+[30:48]
+S | Es el objetivo final de todos nuestros estudiantes. | 모든 학생의 최종 목표죠.
+
+[30:52]
+## 마무리
+C | ¡Qué maravilla de episodio! Creo que hoy he aprendido muchísimo, y estoy seguro de que todos los que nos escuchan desde sus casas también. | 정말 멋진 에피소드예요! 오늘 정말 많이 배운 것 같고, 집에서 듣고 계신 모든 분도 그럴 거라고 확신해요.
+[31:01]
+C | Realmente este podcast es una herramienta increíble para nuestro Spanish comprehension practice. | 이 팟캐스트는 정말 이해력 연습에 놀라운 도구예요.
+[31:08]
+C | Sofía, antes de terminar, me gustaría recordar a nuestros oyentes cómo pueden ayudarnos. ¿Te parece? | 소피아, 끝내기 전에 청취자분들께 저희를 돕는 방법을 다시 알려 드리고 싶은데, 괜찮아요?
+[31:14]
+S | Claro que sí. Si este episodio les ha ayudado a entender mejor nuestro idioma, por favor, suscríbanse al canal. Es gratis y nos ayuda muchísimo a seguir creando contenido de calidad. | 물론이죠. 이 에피소드가 스페인어를 더 잘 이해하는 데 도움이 됐다면 채널을 구독해 주세요. 무료이고, 좋은 콘텐츠를 계속 만드는 데 큰 도움이 돼요.
+[31:26]
+S | También dejen un me gusta en este video, y si quieren apoyarnos de verdad para que este proyecto continúe creciendo, háganse miembros y abónense al canal. | 이 영상에 좋아요도 눌러 주시고, 이 프로젝트가 계속 성장하도록 정말 응원하고 싶다면 채널 멤버로 가입해 주세요.
+[31:37]
+S | Su ayuda económica, por pequeña que sea, nos permite dedicar más tiempo a preparar las mejores clases de español para ustedes. | 아무리 작은 금전적 도움이라도, 여러분을 위한 최고의 스페인어 수업을 준비하는 데 시간을 더 쓸 수 있게 해 줘요.
+[31:46]
+S | Y, por supuesto, no se olviden de los comentarios. Queremos leerlos. | 그리고 물론 댓글도 잊지 마세요. 읽고 싶어요.
+[31:50]
+S | Escriban una frase en los comentarios usando la expresión "pasarlo bien", o contándonos a qué hora escuchan nuestro podcast. | 'pasarlo bien'을 써서, 아니면 몇 시에 저희 팟캐스트를 듣는지 알려 주는 문장을 댓글로 써 주세요.
+[31:58]
+S | Muchas gracias por acompañarnos, por pasar su tiempo con nosotros. Nos vemos la próxima vez, amigos. Adiós. | 함께해 주시고, 저희와 시간을 보내 주셔서 정말 고마워요. 다음에 또 만나요, 여러분. 안녕.
+

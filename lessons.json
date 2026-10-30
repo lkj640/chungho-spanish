@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "es-2026-10-31",
+   "lang": "es",
+   "date": "2026-10-31",
+   "title": "'time'을 스페인어로 — hora, tiempo, vez 구분하기",
+   "es": "¿Qué hora es? · No tengo tiempo · Una vez",
+   "emoji": "⏰",
+   "level": "A1–A2",
+   "channel": "Español Auténtico",
+   "youtube": "0OfvBOAOtkg",
+   "duration": "32:07",
+   "summary": "영어는 time 하나지만 스페인어는 셋이에요. 기간과 날씨는 tiempo, 시계의 시각과 '~할 시간'은 hora, 횟수는 vez(veces). 소피아와 카를로스가 아침 일과, 출근길(hora punta, llegar a tiempo), 주말 약속(quedar, pasar tiempo)을 이야기하며 세 단어를 구분하고, 'tener un buen tiempo' 대신 'pasarlo bien'이라고 말하는 법까지 배워요.",
+   "topics": [
+    "tiempo ① 기간: No tengo tiempo · El tiempo vuela",
+    "tiempo ② 날씨: Hace buen / mal tiempo · ¿Qué tiempo hace?",
+    "hora: ¿Qué hora es? · ¿A qué hora…? · Es hora de comer",
+    "vez / veces: una vez · dos veces a la semana · a veces · la primera vez",
+    "표현: llegar a tiempo · perder el tiempo · pasar tiempo · hora punta",
+    "quedar · pasarlo bien · divertirse"
+   ],
+   "vocabCount": 45,
+   "lineCount": 266
+  },
+  {
    "id": "es-2026-10-29-2",
    "lang": "es",
    "date": "2026-10-29",
