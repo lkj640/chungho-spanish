@@ -24,6 +24,7 @@
    틀린 읽기는 `tools/build.py`의 `PHRASES`(중국어) / `JA_FIX`(일본어)에 추가해요.
    유튜브 영상이 없으면 오디오 파일을 폴더에 넣고 `"audio": "audio.m4a"`라고 적어요.
    유튜브와 오디오를 둘 다 적으면 강의 화면에 🎧 MP3(광고 없음) / 🎬 유튜브 전환 버튼이 생겨요.
+   `"game": "<게임 주소>"`를 적으면 탭 줄 끝에 🎮 게임 바로가기가 생겨요 (새 창으로 열려요).
 4. `python3 tools/build.py` 실행 → `data.json`과 `lessons.json`이 만들어져요.
 5. commit하고 push하면 GitHub Pages에 반영돼요.
 
