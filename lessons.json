@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "ja-2026-10-31",
+   "lang": "ja",
+   "date": "2026-10-31",
+   "title": "외로움이 몸에 주는 담배 한 갑만큼의 피해 — 일본어 딥다이브",
+   "es": "孤独は、お腹がすいたのと同じ体のアラート",
+   "emoji": "🧠",
+   "level": "JLPT N2–N1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "21:01",
+   "summary": "두 진행자가 쿠르츠게작트(Kurzgesagt)의 외로움 해설 영상을 일본어로 파고들어요. 외로움은 배고픔처럼 '연결하라'는 몸의 알림이고, 50만 년 전 부족 생활에 맞춰진 뇌가 현대에서 오작동해 담배 한 갑만큼의 피해를 준다는 것, 무표정을 적의로 읽는 악순환, 읽씹(既読スルー) 상황에서 쓰는 초점·세계관·행동 3단계 점검, 그리고 AI 동반자가 치료제일지 마약일지까지 이야기해요. (같은 주제의 영어 강의와 함께 들어 보세요.)",
+   "topics": [
+    "孤独 ≠ 一人でいること · 主観的な体験",
+    "孤独＝お腹がすいたのと同じ体のアラート",
+    "50万年前の脳 · 部族からの追放＝死",
+    "コルチゾール · 慢性炎症 · タバコ1日1箱分",
+    "既読スルー → 焦点・ワールドビュー・行動の3ステップ",
+    "문법: 〜としたら · 〜あまり · 〜に至っては · 〜わけじゃない · 〜とは限らない · 〜ようになる"
+   ],
+   "vocabCount": 48,
+   "lineCount": 208
+  },
+  {
    "id": "es-2026-10-31",
    "lang": "es",
    "date": "2026-10-31",
@@ -22,6 +45,30 @@
    ],
    "vocabCount": 45,
    "lineCount": 266
+  },
+  {
+   "id": "en-2026-10-31",
+   "lang": "en",
+   "date": "2026-10-31",
+   "title": "외로움은 배고픔처럼 작동한다 — 고독의 생물학",
+   "es": "If you feel lonely, you are lonely.",
+   "emoji": "🫂",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "19:55",
+   "summary": "두 진행자가 외로움에 관한 연구를 딥다이브로 파고들어요. 고독(solitude)과 외로움(loneliness)의 차이, 외로움은 배고픔처럼 '연결하라'는 생물학적 신호라는 것, 50만 년 된 뇌가 개인주의 세상에서 오작동해 하루 담배 한 갑만큼 몸을 망가뜨리는 이유, 무표정을 적의로 읽는 '고장 난 화재경보기', 그리고 수치심 내려놓기 → 현실 점검 → 마음 열기 3단계까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+   "topics": [
+    "solitude vs. loneliness · If you feel lonely, you are lonely.",
+    "loneliness works like hunger — a biological prompt",
+    "tribes of 50–150 · social pain as an early warning system",
+    "a pack of cigarettes a day · cortisol · chronic inflammation",
+    "the faulty smoke detector · the self-reinforcing loop",
+    "3 steps: radical acceptance · reality check · opening up",
+    "구문: twice as … as · instead of -ing · rather than · the very …"
+   ],
+   "vocabCount": 46,
+   "lineCount": 208
   },
   {
    "id": "es-2026-10-29-2",

@@ -1,0 +1,178 @@
+{
+  "lang": "en",
+  "date": "2026-10-31",
+  "title": "외로움은 배고픔처럼 작동한다 — 고독의 생물학",
+  "es": "If you feel lonely, you are lonely.",
+  "emoji": "🫂",
+  "level": "B2–C1",
+  "channel": "Deep Dive 오디오",
+  "videoTitle": "Why Loneliness Works Like Hunger",
+  "audio": "audio.m4a",
+  "duration": "19:55",
+  "speakers": {"A": "Host A", "B": "Host B"},
+  "hideCast": true,
+  "summary": "두 진행자가 외로움에 관한 연구를 딥다이브로 파고들어요. 고독(solitude)과 외로움(loneliness)의 차이, 외로움은 배고픔처럼 '연결하라'는 생물학적 신호라는 것, 50만 년 된 뇌가 개인주의 세상에서 오작동해 하루 담배 한 갑만큼 몸을 망가뜨리는 이유, 무표정을 적의로 읽는 '고장 난 화재경보기', 그리고 수치심 내려놓기 → 현실 점검 → 마음 열기 3단계까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+  "topics": [
+    "solitude vs. loneliness · If you feel lonely, you are lonely.",
+    "loneliness works like hunger — a biological prompt",
+    "tribes of 50–150 · social pain as an early warning system",
+    "a pack of cigarettes a day · cortisol · chronic inflammation",
+    "the faulty smoke detector · the self-reinforcing loop",
+    "3 steps: radical acceptance · reality check · opening up",
+    "구문: twice as … as · instead of -ing · rather than · the very …"
+  ],
+  "grammar": [
+    {
+      "title": "① 핵심 대비 — solitude vs loneliness",
+      "lead": "진행자들이 가장 먼저 깨는 오해예요.",
+      "table": {
+        "head": ["solitude (고독)", "loneliness (외로움)"],
+        "rows": [
+          ["물리적으로 혼자 있는 상태", "주관적으로 연결이 부족하다고 느끼는 상태"],
+          ["alone in a cabin… perfectly, blissfully happy", "married, vibrant social circle… still completely miserable"],
+          ["선택할 수 있는 휴식", "If you feel lonely, you are lonely."],
+          ["external (환경)", "internal (내면의 현실)"]
+        ]
+      },
+      "tip": "Loneliness is not a psychological defect. It is a fundamental biological bodily function. — 오늘 에피소드의 핵심 문장이에요."
+    },
+    {
+      "title": "② 비교 배수 — twice as … as / the same … as",
+      "lead": "<b>배수 + as + 형용사 + as</b>로 '~보다 몇 배 …하다'를 말해요.",
+      "examples": [
+        ["Chronic loneliness is twice as harmful to your physical health as obesity.", "만성 외로움은 비만보다 신체 건강에 2배 해로워요."],
+        ["It has the exact same mortality impact as smoking a pack of cigarettes a day.", "the same + 명사 + as = ~와 같은 …"],
+        ["It's killing us at the same rate as a pack of cigarettes.", "담배 한 갑과 같은 비율로 우리를 죽이고 있어요."],
+        ["It's more common than people think.", "비교급 + than people think = 사람들이 생각하는 것보다 더 ~"]
+      ]
+    },
+    {
+      "title": "③ 대안·선택 — instead of -ing / rather than",
+      "lead": "A 대신 B를 했다는 구조예요. 뒤에 동사가 오면 -ing 형태예요.",
+      "examples": [
+        ["Instead of building an entirely new neurological system, your brain just repurposed the physical pain center.", "완전히 새로운 신경계를 만드는 대신, 뇌는 통증 중추를 재활용했어요."],
+        ["Instead of physical needs, it forces us to focus on our social needs.", "신체적 필요 대신 사회적 필요에 집중하게 해요."],
+        ["I actively chose to be lonely rather than risk the vulnerability.", "약한 모습을 보일 위험을 감수하느니 외로움을 택했어요."],
+        ["Intellectuals started prioritizing the individual over the collective.", "prioritize A over B = B보다 A를 우선하다"]
+      ]
+    },
+    {
+      "title": "④ 강조 — the very / literally / absolutely",
+      "lead": "딥다이브 진행자들이 말에 힘을 줄 때 쓰는 표현이에요.",
+      "examples": [
+        ["That is the very first major myth we really need to bust.", "the very first = 바로 그 첫 번째"],
+        ["The very defense mechanism your brain is using is the exact thing causing the outside world to reject you.", "the very … is the exact thing … = 바로 그 …가 정확히 …의 원인이다"],
+        ["Our bodies literally think we are going to die if we don't have friends.", "literally = 말 그대로"],
+        ["Absolutely none of these offer any protection against loneliness.", "absolutely none = 단 하나도 ~않다"]
+      ]
+    },
+    {
+      "title": "⑤ 비유 표현 — 외로움을 설명하는 이미지",
+      "lead": "추상적인 개념을 생생하게 만드는 비유들이에요. 말하기에 그대로 써 보세요.",
+      "table": {
+        "head": ["비유", "뜻"],
+        "rows": [
+          ["an evolutionary car alarm", "진화가 달아 둔 자동차 경보기"],
+          ["a red dashboard light blinking", "계기판의 빨간 경고등 — 지금 고치라는 신호"],
+          ["a faulty smoke detector", "고장 난 화재경보기 — 토스트 연기에도 울림"],
+          ["put your armor on / take off the armor", "갑옷을 입다 / 벗다 — 방어하다 / 마음을 열다"],
+          ["throw someone a lifeline", "구명줄을 던지다 — 도움의 손길을 내밀다"],
+          ["feeding our brains junk food", "뇌에 정크푸드를 먹이다 — 얕은 온라인 연결"],
+          ["drinking salt water when you're dying of thirst", "목마를 때 바닷물 마시기 — 마실수록 더 목마름"]
+        ]
+      }
+    },
+    {
+      "title": "⑥ 대화를 이끄는 표현",
+      "lead": "토론에서 바로 쓸 수 있는 구동사와 관용 표현이에요.",
+      "table": {
+        "head": ["표현", "뜻", "예문"],
+        "rows": [
+          ["bust a myth", "통념을 깨다", "the first major myth we need to bust"],
+          ["blow … out of the water", "완전히 뒤집다, 압도하다", "The research blows that out of the water."],
+          ["stop someone in their tracks", "그 자리에 얼어붙게 하다", "It completely stopped me in my tracks."],
+          ["push back", "반론하다", "I have to push back here."],
+          ["correct course", "방향을 바로잡다", "It forces you to correct course."],
+          ["be strapped for time", "시간에 쫓기다", "when we are strapped for time"],
+          ["the path of least resistance", "가장 쉬운 길", "It is the path of least resistance to just stay home."],
+          ["go haywire", "엉망이 되다, 고장 나다", "a system that has gone completely haywire"]
+        ]
+      }
+    }
+  ],
+  "phrases": [
+    ["Have you ever been surrounded by dozens of people and still felt completely on your own?", "수십 명에게 둘러싸여 있는데도 완전히 혼자인 기분을 느낀 적 있나요?"],
+    ["If you feel lonely, you are lonely.", "외롭다고 느끼면, 외로운 거예요."],
+    ["Loneliness is not a psychological defect.", "외로움은 심리적 결함이 아니에요."],
+    ["To be alone was a literal death sentence.", "혼자라는 건 말 그대로 사형 선고였어요."],
+    ["Fix it right now or you won't survive the winter.", "당장 고쳐, 안 그러면 겨울을 못 넘겨."],
+    ["It is the absolute easiest thing to cut from the schedule.", "일정에서 빼기 가장 쉬운 거예요."],
+    ["I made up an excuse about being tired.", "피곤하다고 핑계를 댔어요."],
+    ["Someone throws you a lifeline, and you just slap it away.", "누가 구명줄을 던져 주면 그냥 쳐 내 버려요."],
+    ["You wouldn't feel ashamed of being thirsty.", "목마른 걸 부끄러워하지는 않잖아요."],
+    ["Seeking therapy is not a sign of weakness; it is an act of immense courage.", "상담을 받는 건 약함이 아니라 큰 용기예요."],
+    ["We are the habitat for each other.", "우리는 서로에게 서식지예요."]
+  ],
+  "vocab": [
+    {"es": "hollow", "ko": "텅 빈, 공허한", "ex": "this sudden hollow ache in your chest", "exKo": "가슴속 갑작스러운 텅 빈 아픔"},
+    {"es": "dismantle", "ko": "해체하다, 무너뜨리다", "ex": "We are going to completely dismantle everything you thought you knew.", "exKo": "알고 있다고 생각한 모든 걸 완전히 해체할 거예요."},
+    {"es": "paradox", "ko": "역설", "ex": "this massive modern paradox", "exKo": "이 거대한 현대의 역설"},
+    {"es": "hyperconnected", "ko": "초연결된", "ex": "the most hyperconnected era in history", "exKo": "역사상 가장 초연결된 시대"},
+    {"es": "unprecedented", "ko": "전례 없는", "ex": "an unprecedented epidemic of isolation", "exKo": "전례 없는 고립의 유행병"},
+    {"es": "staggering", "ko": "충격적인, 어마어마한", "ex": "The sheer scale of this is just staggering.", "exKo": "그 규모가 그야말로 충격적이에요."},
+    {"es": "periodically", "ko": "주기적으로, 때때로", "ex": "60% report feeling lonely periodically.", "exKo": "60%가 때때로 외롭다고 답해요."},
+    {"es": "solitude", "ko": "고독, 홀로 있음 (긍정적)", "ex": "That's solitude.", "exKo": "그게 고독이에요."},
+    {"es": "blissfully", "ko": "더없이 행복하게", "ex": "perfectly, blissfully happy", "exKo": "완벽하게, 더없이 행복한"},
+    {"es": "subjective", "ko": "주관적인", "ex": "a highly subjective, deeply personal experience", "exKo": "아주 주관적이고 깊이 개인적인 경험"},
+    {"es": "dictate", "ko": "결정하다, 좌우하다", "ex": "Your internal reality dictates the condition.", "exKo": "내면의 현실이 상태를 좌우해요."},
+    {"es": "pervasive", "ko": "널리 퍼진", "ex": "a very pervasive, almost toxic stereotype", "exKo": "아주 널리 퍼진, 거의 해로운 고정관념"},
+    {"es": "socially awkward", "ko": "사회성이 서툰, 어색한", "ex": "someone who is just socially awkward", "exKo": "그냥 사회성이 서툰 사람"},
+    {"es": "charismatic", "ko": "카리스마 있는", "ex": "the most charismatic, outgoing person in the room", "exKo": "방 안에서 가장 카리스마 있고 외향적인 사람"},
+    {"es": "defect", "ko": "결함", "ex": "Loneliness is not a psychological defect.", "exKo": "외로움은 심리적 결함이 아니에요."},
+    {"es": "starve", "ko": "굶주리다", "ex": "It tells you to eat so you don't starve.", "exKo": "굶지 않도록 먹으라고 말해요."},
+    {"es": "spot on", "ko": "정확한, 딱 맞는", "ex": "That's spot on.", "exKo": "정확해요."},
+    {"es": "death sentence", "ko": "사형 선고", "ex": "To be alone was a literal death sentence.", "exKo": "혼자라는 건 말 그대로 사형 선고였어요."},
+    {"es": "natural selection", "ko": "자연 선택", "ex": "Natural selection strongly favored humans who stayed connected.", "exKo": "자연 선택은 연결된 인간을 선호했어요."},
+    {"es": "hardwired", "ko": "타고난, 뇌에 새겨진", "ex": "The drive became hardwired into our biology.", "exKo": "그 욕구는 생물학에 새겨졌어요."},
+    {"es": "social cues", "ko": "사회적 신호, 눈치", "ex": "the threat of missing social cues", "exKo": "사회적 신호를 놓칠 위험"},
+    {"es": "induce", "ko": "유발하다", "ex": "The brain would induce a deep psychological ache.", "exKo": "뇌는 깊은 심리적 아픔을 유발했어요."},
+    {"es": "good graces", "ko": "호감, 총애", "ex": "get back in the tribe's good graces", "exKo": "부족의 호감을 되찾다"},
+    {"es": "repurpose", "ko": "다른 용도로 쓰다, 재활용하다", "ex": "Your brain repurposed the physical pain center.", "exKo": "뇌는 몸의 통증 중추를 재활용했어요."},
+    {"es": "misfire", "ko": "오작동하다, 불발되다", "ex": "Why is it constantly misfiring?", "exKo": "왜 계속 오작동할까요?"},
+    {"es": "stifling", "ko": "숨 막히는", "ex": "It might have been stifling at times.", "exKo": "가끔은 숨 막혔을 거예요."},
+    {"es": "untether", "ko": "(묶인 것을) 풀다", "ex": "untethering the ship from the dock", "exKo": "배를 부두에서 풀어내기"},
+    {"es": "tight-knit", "ko": "끈끈한, 긴밀한", "ex": "tight-knit rural communities", "exKo": "끈끈한 농촌 공동체"},
+    {"es": "sever", "ko": "끊다, 단절하다", "ex": "severing that whole network", "exKo": "그 관계망 전체를 끊어 내며"},
+    {"es": "swamped", "ko": "(일에) 파묻힌", "ex": "On top of that, we get swamped.", "exKo": "게다가 일에 파묻혀요."},
+    {"es": "strapped for time", "ko": "시간에 쫓기는", "ex": "when we are strapped for time", "exKo": "시간이 빠듯할 때"},
+    {"es": "confide in", "ko": "~에게 털어놓다", "ex": "people they could confide in", "exKo": "속을 털어놓을 수 있는 사람들"},
+    {"es": "vulnerability", "ko": "취약함, 약한 모습을 보임", "ex": "rather than risk the vulnerability", "exKo": "약한 모습을 보일 위험을 감수하느니"},
+    {"es": "toll", "ko": "대가, 피해", "ex": "The physical toll is just devastating.", "exKo": "몸이 치르는 대가는 처참해요."},
+    {"es": "exacerbate", "ko": "악화시키다", "ex": "It exacerbates the growth of certain cancers.", "exKo": "일부 암의 성장을 악화시켜요."},
+    {"es": "mortality", "ko": "사망(률)", "ex": "the exact same mortality impact as smoking", "exKo": "흡연과 똑같은 사망 위험"},
+    {"es": "lethal", "ko": "치명적인", "ex": "It is a lethal condition.", "exKo": "치명적인 상태예요."},
+    {"es": "self-preservation", "ko": "자기 보존", "ex": "full-blown self-preservation mode", "exKo": "본격적인 자기 보존 모드"},
+    {"es": "hypervigilant", "ko": "과잉 경계하는", "ex": "You become hypervigilant to social signals.", "exKo": "사회적 신호에 과하게 경계해요."},
+    {"es": "amygdala", "ko": "편도체", "ex": "Your amygdala goes into overdrive.", "exKo": "편도체가 과열돼요."},
+    {"es": "self-reinforcing", "ko": "스스로 강화되는", "ex": "a terrifying self-reinforcing loop", "exKo": "무서운 자기 강화 루프"},
+    {"es": "bleak", "ko": "암울한", "ex": "This sounds incredibly bleak.", "exKo": "너무 암울하게 들려요."},
+    {"es": "override", "ko": "(수동으로) 무효화하다, 덮어쓰다", "ex": "manually override their own brain", "exKo": "자기 뇌를 수동으로 덮어쓰다"},
+    {"es": "slighted", "ko": "무시당한", "ex": "the next time you feel slighted", "exKo": "다음에 무시당했다고 느낄 때"},
+    {"es": "imperative", "ko": "꼭 필요한, 필수적인", "ex": "Reaching out to a professional is imperative.", "exKo": "전문가에게 손을 내미는 게 꼭 필요해요."},
+    {"es": "mull over", "ko": "곰곰이 생각하다", "ex": "a final lingering thought to mull over", "exKo": "곱씹을 마지막 생각"}
+  ],
+  "quiz": [
+    {"q": "solitude와 loneliness의 차이로 알맞은 것은?", "options": ["둘은 같은 말이다", "solitude는 혼자 있는 상태, loneliness는 주관적으로 느끼는 고립감", "loneliness는 숲속 오두막에서만 생긴다", "solitude는 항상 불행하다"], "answer": 1, "explain": "You can be alone in a cabin and be blissfully happy. That's solitude. / If you feel lonely, you are lonely."},
+    {"q": "연구에 따르면 외로움을 막아 주는 것은?", "options": ["좋은 사회성 기술", "부와 명성", "아름다운 외모", "위의 어느 것도 아니다"], "answer": 3, "explain": "Absolutely none of these offer any protection against loneliness."},
+    {"q": "진행자들은 외로움을 무엇에 비유했나요?", "options": ["배고픔(hunger)", "감기", "졸음", "두통"], "answer": 0, "explain": "Loneliness is a fundamental biological bodily function… exactly like hunger."},
+    {"q": "고대 인류가 살던 집단의 규모는?", "options": ["5~15명", "50~150명", "500~1,500명", "수천 명"], "answer": 1, "explain": "tribes or groups of about 50 to 150 people"},
+    {"q": "조상들에게 가장 큰 위협은 무엇이었다고 하나요?", "options": ["사자나 곰", "추위", "부족에서 쫓겨나는 것", "질병"], "answer": 2, "explain": "missing social cues, acting out of line, and getting kicked out of the tribe"},
+    {"q": "미국인의 평균 친한 친구 수 변화는?", "options": ["1985년 3명 → 2011년 2명", "1985년 5명 → 2011년 3명", "1985년 2명 → 2011년 3명", "변화 없음"], "answer": 0, "explain": "By 2011, that number had dropped to just two."},
+    {"q": "'Chronic loneliness is ___ as harmful to your physical health as obesity.' 빈칸은?", "options": ["twice", "two", "double times", "second"], "answer": 0, "explain": "twice as + 형용사 + as = ~보다 2배 …한"},
+    {"q": "Host A가 금요일 저녁 초대를 거절한 진짜 이유는?", "options": ["정말 피곤해서", "다른 약속이 있어서", "어울리지 못할까 봐 두려워서", "음식이 싫어서"], "answer": 2, "explain": "I wasn't tired at all. I was just terrified of sitting there and feeling like I didn't fit in."},
+    {"q": "'a faulty smoke detector' 비유가 뜻하는 것은?", "options": ["외로운 뇌는 중립적인 신호도 위협으로 오인한다", "화재 예방이 중요하다", "룸메이트와 사이가 나쁘다", "토스트는 건강에 나쁘다"], "answer": 0, "explain": "Your brain can't tell if the house is actually on fire or if your roommate just burnt some toast."},
+    {"q": "외로운 뇌는 무표정(blank expression)을 어떻게 받아들이나요?", "options": ["친근함", "분노나 비난", "슬픔", "무관심"], "answer": 1, "explain": "A lonely brain processes that as anger or judgment."},
+    {"q": "탈출 3단계의 순서로 알맞은 것은?", "options": ["마음 열기 → 현실 점검 → 수용", "수용(수치심 내려놓기) → 현실 점검(자기 심문) → 마음 열기", "전문가 → 수용 → 운동", "현실 점검 → 마음 열기 → 수용"], "answer": 1, "explain": "radical acceptance → self-interrogation (reality check) → opening up"},
+    {"q": "마지막 질문에서 인터넷의 수많은 얕은 연결을 무엇에 비유했나요?", "options": ["영양제", "정크푸드 / 목마를 때 마시는 바닷물", "구명줄", "갑옷"], "answer": 1, "explain": "like feeding our brains junk food… like drinking salt water when you're dying of thirst"}
+  ]
+}

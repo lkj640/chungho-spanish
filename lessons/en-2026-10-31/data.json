@@ -1,0 +1,2001 @@
+{
+ "id": "en-2026-10-31",
+ "lang": "en",
+ "date": "2026-10-31",
+ "title": "외로움은 배고픔처럼 작동한다 — 고독의 생물학",
+ "es": "If you feel lonely, you are lonely.",
+ "emoji": "🫂",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "Why Loneliness Works Like Hunger",
+ "audio": "audio.m4a",
+ "duration": "19:55",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "두 진행자가 외로움에 관한 연구를 딥다이브로 파고들어요. 고독(solitude)과 외로움(loneliness)의 차이, 외로움은 배고픔처럼 '연결하라'는 생물학적 신호라는 것, 50만 년 된 뇌가 개인주의 세상에서 오작동해 하루 담배 한 갑만큼 몸을 망가뜨리는 이유, 무표정을 적의로 읽는 '고장 난 화재경보기', 그리고 수치심 내려놓기 → 현실 점검 → 마음 열기 3단계까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+ "topics": [
+  "solitude vs. loneliness · If you feel lonely, you are lonely.",
+  "loneliness works like hunger — a biological prompt",
+  "tribes of 50–150 · social pain as an early warning system",
+  "a pack of cigarettes a day · cortisol · chronic inflammation",
+  "the faulty smoke detector · the self-reinforcing loop",
+  "3 steps: radical acceptance · reality check · opening up",
+  "구문: twice as … as · instead of -ing · rather than · the very …"
+ ],
+ "grammar": [
+  {
+   "title": "① 핵심 대비 — solitude vs loneliness",
+   "lead": "진행자들이 가장 먼저 깨는 오해예요.",
+   "table": {
+    "head": [
+     "solitude (고독)",
+     "loneliness (외로움)"
+    ],
+    "rows": [
+     [
+      "물리적으로 혼자 있는 상태",
+      "주관적으로 연결이 부족하다고 느끼는 상태"
+     ],
+     [
+      "alone in a cabin… perfectly, blissfully happy",
+      "married, vibrant social circle… still completely miserable"
+     ],
+     [
+      "선택할 수 있는 휴식",
+      "If you feel lonely, you are lonely."
+     ],
+     [
+      "external (환경)",
+      "internal (내면의 현실)"
+     ]
+    ]
+   },
+   "tip": "Loneliness is not a psychological defect. It is a fundamental biological bodily function. — 오늘 에피소드의 핵심 문장이에요."
+  },
+  {
+   "title": "② 비교 배수 — twice as … as / the same … as",
+   "lead": "<b>배수 + as + 형용사 + as</b>로 '~보다 몇 배 …하다'를 말해요.",
+   "examples": [
+    [
+     "Chronic loneliness is twice as harmful to your physical health as obesity.",
+     "만성 외로움은 비만보다 신체 건강에 2배 해로워요."
+    ],
+    [
+     "It has the exact same mortality impact as smoking a pack of cigarettes a day.",
+     "the same + 명사 + as = ~와 같은 …"
+    ],
+    [
+     "It's killing us at the same rate as a pack of cigarettes.",
+     "담배 한 갑과 같은 비율로 우리를 죽이고 있어요."
+    ],
+    [
+     "It's more common than people think.",
+     "비교급 + than people think = 사람들이 생각하는 것보다 더 ~"
+    ]
+   ]
+  },
+  {
+   "title": "③ 대안·선택 — instead of -ing / rather than",
+   "lead": "A 대신 B를 했다는 구조예요. 뒤에 동사가 오면 -ing 형태예요.",
+   "examples": [
+    [
+     "Instead of building an entirely new neurological system, your brain just repurposed the physical pain center.",
+     "완전히 새로운 신경계를 만드는 대신, 뇌는 통증 중추를 재활용했어요."
+    ],
+    [
+     "Instead of physical needs, it forces us to focus on our social needs.",
+     "신체적 필요 대신 사회적 필요에 집중하게 해요."
+    ],
+    [
+     "I actively chose to be lonely rather than risk the vulnerability.",
+     "약한 모습을 보일 위험을 감수하느니 외로움을 택했어요."
+    ],
+    [
+     "Intellectuals started prioritizing the individual over the collective.",
+     "prioritize A over B = B보다 A를 우선하다"
+    ]
+   ]
+  },
+  {
+   "title": "④ 강조 — the very / literally / absolutely",
+   "lead": "딥다이브 진행자들이 말에 힘을 줄 때 쓰는 표현이에요.",
+   "examples": [
+    [
+     "That is the very first major myth we really need to bust.",
+     "the very first = 바로 그 첫 번째"
+    ],
+    [
+     "The very defense mechanism your brain is using is the exact thing causing the outside world to reject you.",
+     "the very … is the exact thing … = 바로 그 …가 정확히 …의 원인이다"
+    ],
+    [
+     "Our bodies literally think we are going to die if we don't have friends.",
+     "literally = 말 그대로"
+    ],
+    [
+     "Absolutely none of these offer any protection against loneliness.",
+     "absolutely none = 단 하나도 ~않다"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 비유 표현 — 외로움을 설명하는 이미지",
+   "lead": "추상적인 개념을 생생하게 만드는 비유들이에요. 말하기에 그대로 써 보세요.",
+   "table": {
+    "head": [
+     "비유",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "an evolutionary car alarm",
+      "진화가 달아 둔 자동차 경보기"
+     ],
+     [
+      "a red dashboard light blinking",
+      "계기판의 빨간 경고등 — 지금 고치라는 신호"
+     ],
+     [
+      "a faulty smoke detector",
+      "고장 난 화재경보기 — 토스트 연기에도 울림"
+     ],
+     [
+      "put your armor on / take off the armor",
+      "갑옷을 입다 / 벗다 — 방어하다 / 마음을 열다"
+     ],
+     [
+      "throw someone a lifeline",
+      "구명줄을 던지다 — 도움의 손길을 내밀다"
+     ],
+     [
+      "feeding our brains junk food",
+      "뇌에 정크푸드를 먹이다 — 얕은 온라인 연결"
+     ],
+     [
+      "drinking salt water when you're dying of thirst",
+      "목마를 때 바닷물 마시기 — 마실수록 더 목마름"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 대화를 이끄는 표현",
+   "lead": "토론에서 바로 쓸 수 있는 구동사와 관용 표현이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "bust a myth",
+      "통념을 깨다",
+      "the first major myth we need to bust"
+     ],
+     [
+      "blow … out of the water",
+      "완전히 뒤집다, 압도하다",
+      "The research blows that out of the water."
+     ],
+     [
+      "stop someone in their tracks",
+      "그 자리에 얼어붙게 하다",
+      "It completely stopped me in my tracks."
+     ],
+     [
+      "push back",
+      "반론하다",
+      "I have to push back here."
+     ],
+     [
+      "correct course",
+      "방향을 바로잡다",
+      "It forces you to correct course."
+     ],
+     [
+      "be strapped for time",
+      "시간에 쫓기다",
+      "when we are strapped for time"
+     ],
+     [
+      "the path of least resistance",
+      "가장 쉬운 길",
+      "It is the path of least resistance to just stay home."
+     ],
+     [
+      "go haywire",
+      "엉망이 되다, 고장 나다",
+      "a system that has gone completely haywire"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Have you ever been surrounded by dozens of people and still felt completely on your own?",
+   "수십 명에게 둘러싸여 있는데도 완전히 혼자인 기분을 느낀 적 있나요?"
+  ],
+  [
+   "If you feel lonely, you are lonely.",
+   "외롭다고 느끼면, 외로운 거예요."
+  ],
+  [
+   "Loneliness is not a psychological defect.",
+   "외로움은 심리적 결함이 아니에요."
+  ],
+  [
+   "To be alone was a literal death sentence.",
+   "혼자라는 건 말 그대로 사형 선고였어요."
+  ],
+  [
+   "Fix it right now or you won't survive the winter.",
+   "당장 고쳐, 안 그러면 겨울을 못 넘겨."
+  ],
+  [
+   "It is the absolute easiest thing to cut from the schedule.",
+   "일정에서 빼기 가장 쉬운 거예요."
+  ],
+  [
+   "I made up an excuse about being tired.",
+   "피곤하다고 핑계를 댔어요."
+  ],
+  [
+   "Someone throws you a lifeline, and you just slap it away.",
+   "누가 구명줄을 던져 주면 그냥 쳐 내 버려요."
+  ],
+  [
+   "You wouldn't feel ashamed of being thirsty.",
+   "목마른 걸 부끄러워하지는 않잖아요."
+  ],
+  [
+   "Seeking therapy is not a sign of weakness; it is an act of immense courage.",
+   "상담을 받는 건 약함이 아니라 큰 용기예요."
+  ],
+  [
+   "We are the habitat for each other.",
+   "우리는 서로에게 서식지예요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "hollow",
+   "ko": "텅 빈, 공허한",
+   "ex": "this sudden hollow ache in your chest",
+   "exKo": "가슴속 갑작스러운 텅 빈 아픔"
+  },
+  {
+   "es": "dismantle",
+   "ko": "해체하다, 무너뜨리다",
+   "ex": "We are going to completely dismantle everything you thought you knew.",
+   "exKo": "알고 있다고 생각한 모든 걸 완전히 해체할 거예요."
+  },
+  {
+   "es": "paradox",
+   "ko": "역설",
+   "ex": "this massive modern paradox",
+   "exKo": "이 거대한 현대의 역설"
+  },
+  {
+   "es": "hyperconnected",
+   "ko": "초연결된",
+   "ex": "the most hyperconnected era in history",
+   "exKo": "역사상 가장 초연결된 시대"
+  },
+  {
+   "es": "unprecedented",
+   "ko": "전례 없는",
+   "ex": "an unprecedented epidemic of isolation",
+   "exKo": "전례 없는 고립의 유행병"
+  },
+  {
+   "es": "staggering",
+   "ko": "충격적인, 어마어마한",
+   "ex": "The sheer scale of this is just staggering.",
+   "exKo": "그 규모가 그야말로 충격적이에요."
+  },
+  {
+   "es": "periodically",
+   "ko": "주기적으로, 때때로",
+   "ex": "60% report feeling lonely periodically.",
+   "exKo": "60%가 때때로 외롭다고 답해요."
+  },
+  {
+   "es": "solitude",
+   "ko": "고독, 홀로 있음 (긍정적)",
+   "ex": "That's solitude.",
+   "exKo": "그게 고독이에요."
+  },
+  {
+   "es": "blissfully",
+   "ko": "더없이 행복하게",
+   "ex": "perfectly, blissfully happy",
+   "exKo": "완벽하게, 더없이 행복한"
+  },
+  {
+   "es": "subjective",
+   "ko": "주관적인",
+   "ex": "a highly subjective, deeply personal experience",
+   "exKo": "아주 주관적이고 깊이 개인적인 경험"
+  },
+  {
+   "es": "dictate",
+   "ko": "결정하다, 좌우하다",
+   "ex": "Your internal reality dictates the condition.",
+   "exKo": "내면의 현실이 상태를 좌우해요."
+  },
+  {
+   "es": "pervasive",
+   "ko": "널리 퍼진",
+   "ex": "a very pervasive, almost toxic stereotype",
+   "exKo": "아주 널리 퍼진, 거의 해로운 고정관념"
+  },
+  {
+   "es": "socially awkward",
+   "ko": "사회성이 서툰, 어색한",
+   "ex": "someone who is just socially awkward",
+   "exKo": "그냥 사회성이 서툰 사람"
+  },
+  {
+   "es": "charismatic",
+   "ko": "카리스마 있는",
+   "ex": "the most charismatic, outgoing person in the room",
+   "exKo": "방 안에서 가장 카리스마 있고 외향적인 사람"
+  },
+  {
+   "es": "defect",
+   "ko": "결함",
+   "ex": "Loneliness is not a psychological defect.",
+   "exKo": "외로움은 심리적 결함이 아니에요."
+  },
+  {
+   "es": "starve",
+   "ko": "굶주리다",
+   "ex": "It tells you to eat so you don't starve.",
+   "exKo": "굶지 않도록 먹으라고 말해요."
+  },
+  {
+   "es": "spot on",
+   "ko": "정확한, 딱 맞는",
+   "ex": "That's spot on.",
+   "exKo": "정확해요."
+  },
+  {
+   "es": "death sentence",
+   "ko": "사형 선고",
+   "ex": "To be alone was a literal death sentence.",
+   "exKo": "혼자라는 건 말 그대로 사형 선고였어요."
+  },
+  {
+   "es": "natural selection",
+   "ko": "자연 선택",
+   "ex": "Natural selection strongly favored humans who stayed connected.",
+   "exKo": "자연 선택은 연결된 인간을 선호했어요."
+  },
+  {
+   "es": "hardwired",
+   "ko": "타고난, 뇌에 새겨진",
+   "ex": "The drive became hardwired into our biology.",
+   "exKo": "그 욕구는 생물학에 새겨졌어요."
+  },
+  {
+   "es": "social cues",
+   "ko": "사회적 신호, 눈치",
+   "ex": "the threat of missing social cues",
+   "exKo": "사회적 신호를 놓칠 위험"
+  },
+  {
+   "es": "induce",
+   "ko": "유발하다",
+   "ex": "The brain would induce a deep psychological ache.",
+   "exKo": "뇌는 깊은 심리적 아픔을 유발했어요."
+  },
+  {
+   "es": "good graces",
+   "ko": "호감, 총애",
+   "ex": "get back in the tribe's good graces",
+   "exKo": "부족의 호감을 되찾다"
+  },
+  {
+   "es": "repurpose",
+   "ko": "다른 용도로 쓰다, 재활용하다",
+   "ex": "Your brain repurposed the physical pain center.",
+   "exKo": "뇌는 몸의 통증 중추를 재활용했어요."
+  },
+  {
+   "es": "misfire",
+   "ko": "오작동하다, 불발되다",
+   "ex": "Why is it constantly misfiring?",
+   "exKo": "왜 계속 오작동할까요?"
+  },
+  {
+   "es": "stifling",
+   "ko": "숨 막히는",
+   "ex": "It might have been stifling at times.",
+   "exKo": "가끔은 숨 막혔을 거예요."
+  },
+  {
+   "es": "untether",
+   "ko": "(묶인 것을) 풀다",
+   "ex": "untethering the ship from the dock",
+   "exKo": "배를 부두에서 풀어내기"
+  },
+  {
+   "es": "tight-knit",
+   "ko": "끈끈한, 긴밀한",
+   "ex": "tight-knit rural communities",
+   "exKo": "끈끈한 농촌 공동체"
+  },
+  {
+   "es": "sever",
+   "ko": "끊다, 단절하다",
+   "ex": "severing that whole network",
+   "exKo": "그 관계망 전체를 끊어 내며"
+  },
+  {
+   "es": "swamped",
+   "ko": "(일에) 파묻힌",
+   "ex": "On top of that, we get swamped.",
+   "exKo": "게다가 일에 파묻혀요."
+  },
+  {
+   "es": "strapped for time",
+   "ko": "시간에 쫓기는",
+   "ex": "when we are strapped for time",
+   "exKo": "시간이 빠듯할 때"
+  },
+  {
+   "es": "confide in",
+   "ko": "~에게 털어놓다",
+   "ex": "people they could confide in",
+   "exKo": "속을 털어놓을 수 있는 사람들"
+  },
+  {
+   "es": "vulnerability",
+   "ko": "취약함, 약한 모습을 보임",
+   "ex": "rather than risk the vulnerability",
+   "exKo": "약한 모습을 보일 위험을 감수하느니"
+  },
+  {
+   "es": "toll",
+   "ko": "대가, 피해",
+   "ex": "The physical toll is just devastating.",
+   "exKo": "몸이 치르는 대가는 처참해요."
+  },
+  {
+   "es": "exacerbate",
+   "ko": "악화시키다",
+   "ex": "It exacerbates the growth of certain cancers.",
+   "exKo": "일부 암의 성장을 악화시켜요."
+  },
+  {
+   "es": "mortality",
+   "ko": "사망(률)",
+   "ex": "the exact same mortality impact as smoking",
+   "exKo": "흡연과 똑같은 사망 위험"
+  },
+  {
+   "es": "lethal",
+   "ko": "치명적인",
+   "ex": "It is a lethal condition.",
+   "exKo": "치명적인 상태예요."
+  },
+  {
+   "es": "self-preservation",
+   "ko": "자기 보존",
+   "ex": "full-blown self-preservation mode",
+   "exKo": "본격적인 자기 보존 모드"
+  },
+  {
+   "es": "hypervigilant",
+   "ko": "과잉 경계하는",
+   "ex": "You become hypervigilant to social signals.",
+   "exKo": "사회적 신호에 과하게 경계해요."
+  },
+  {
+   "es": "amygdala",
+   "ko": "편도체",
+   "ex": "Your amygdala goes into overdrive.",
+   "exKo": "편도체가 과열돼요."
+  },
+  {
+   "es": "self-reinforcing",
+   "ko": "스스로 강화되는",
+   "ex": "a terrifying self-reinforcing loop",
+   "exKo": "무서운 자기 강화 루프"
+  },
+  {
+   "es": "bleak",
+   "ko": "암울한",
+   "ex": "This sounds incredibly bleak.",
+   "exKo": "너무 암울하게 들려요."
+  },
+  {
+   "es": "override",
+   "ko": "(수동으로) 무효화하다, 덮어쓰다",
+   "ex": "manually override their own brain",
+   "exKo": "자기 뇌를 수동으로 덮어쓰다"
+  },
+  {
+   "es": "slighted",
+   "ko": "무시당한",
+   "ex": "the next time you feel slighted",
+   "exKo": "다음에 무시당했다고 느낄 때"
+  },
+  {
+   "es": "imperative",
+   "ko": "꼭 필요한, 필수적인",
+   "ex": "Reaching out to a professional is imperative.",
+   "exKo": "전문가에게 손을 내미는 게 꼭 필요해요."
+  },
+  {
+   "es": "mull over",
+   "ko": "곰곰이 생각하다",
+   "ex": "a final lingering thought to mull over",
+   "exKo": "곱씹을 마지막 생각"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "solitude와 loneliness의 차이로 알맞은 것은?",
+   "options": [
+    "둘은 같은 말이다",
+    "solitude는 혼자 있는 상태, loneliness는 주관적으로 느끼는 고립감",
+    "loneliness는 숲속 오두막에서만 생긴다",
+    "solitude는 항상 불행하다"
+   ],
+   "answer": 1,
+   "explain": "You can be alone in a cabin and be blissfully happy. That's solitude. / If you feel lonely, you are lonely."
+  },
+  {
+   "q": "연구에 따르면 외로움을 막아 주는 것은?",
+   "options": [
+    "좋은 사회성 기술",
+    "부와 명성",
+    "아름다운 외모",
+    "위의 어느 것도 아니다"
+   ],
+   "answer": 3,
+   "explain": "Absolutely none of these offer any protection against loneliness."
+  },
+  {
+   "q": "진행자들은 외로움을 무엇에 비유했나요?",
+   "options": [
+    "배고픔(hunger)",
+    "감기",
+    "졸음",
+    "두통"
+   ],
+   "answer": 0,
+   "explain": "Loneliness is a fundamental biological bodily function… exactly like hunger."
+  },
+  {
+   "q": "고대 인류가 살던 집단의 규모는?",
+   "options": [
+    "5~15명",
+    "50~150명",
+    "500~1,500명",
+    "수천 명"
+   ],
+   "answer": 1,
+   "explain": "tribes or groups of about 50 to 150 people"
+  },
+  {
+   "q": "조상들에게 가장 큰 위협은 무엇이었다고 하나요?",
+   "options": [
+    "사자나 곰",
+    "추위",
+    "부족에서 쫓겨나는 것",
+    "질병"
+   ],
+   "answer": 2,
+   "explain": "missing social cues, acting out of line, and getting kicked out of the tribe"
+  },
+  {
+   "q": "미국인의 평균 친한 친구 수 변화는?",
+   "options": [
+    "1985년 3명 → 2011년 2명",
+    "1985년 5명 → 2011년 3명",
+    "1985년 2명 → 2011년 3명",
+    "변화 없음"
+   ],
+   "answer": 0,
+   "explain": "By 2011, that number had dropped to just two."
+  },
+  {
+   "q": "'Chronic loneliness is ___ as harmful to your physical health as obesity.' 빈칸은?",
+   "options": [
+    "twice",
+    "two",
+    "double times",
+    "second"
+   ],
+   "answer": 0,
+   "explain": "twice as + 형용사 + as = ~보다 2배 …한"
+  },
+  {
+   "q": "Host A가 금요일 저녁 초대를 거절한 진짜 이유는?",
+   "options": [
+    "정말 피곤해서",
+    "다른 약속이 있어서",
+    "어울리지 못할까 봐 두려워서",
+    "음식이 싫어서"
+   ],
+   "answer": 2,
+   "explain": "I wasn't tired at all. I was just terrified of sitting there and feeling like I didn't fit in."
+  },
+  {
+   "q": "'a faulty smoke detector' 비유가 뜻하는 것은?",
+   "options": [
+    "외로운 뇌는 중립적인 신호도 위협으로 오인한다",
+    "화재 예방이 중요하다",
+    "룸메이트와 사이가 나쁘다",
+    "토스트는 건강에 나쁘다"
+   ],
+   "answer": 0,
+   "explain": "Your brain can't tell if the house is actually on fire or if your roommate just burnt some toast."
+  },
+  {
+   "q": "외로운 뇌는 무표정(blank expression)을 어떻게 받아들이나요?",
+   "options": [
+    "친근함",
+    "분노나 비난",
+    "슬픔",
+    "무관심"
+   ],
+   "answer": 1,
+   "explain": "A lonely brain processes that as anger or judgment."
+  },
+  {
+   "q": "탈출 3단계의 순서로 알맞은 것은?",
+   "options": [
+    "마음 열기 → 현실 점검 → 수용",
+    "수용(수치심 내려놓기) → 현실 점검(자기 심문) → 마음 열기",
+    "전문가 → 수용 → 운동",
+    "현실 점검 → 마음 열기 → 수용"
+   ],
+   "answer": 1,
+   "explain": "radical acceptance → self-interrogation (reality check) → opening up"
+  },
+  {
+   "q": "마지막 질문에서 인터넷의 수많은 얕은 연결을 무엇에 비유했나요?",
+   "options": [
+    "영양제",
+    "정크푸드 / 목마를 때 마시는 바닷물",
+    "구명줄",
+    "갑옷"
+   ],
+   "answer": 1,
+   "explain": "like feeding our brains junk food… like drinking salt water when you're dying of thirst"
+  }
+ ],
+ "sections": [
+  {
+   "title": "도입 — 군중 속에서 느끼는 텅 빈 아픔",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "A",
+     "es": "Have you ever been sitting on a crowded subway, or maybe standing in the middle of a packed party, just surrounded by dozens of people…",
+     "ko": "붐비는 지하철에 앉아 있거나, 꽉 찬 파티 한가운데 서서 수십 명에게 둘러싸여 있는데…"
+    },
+    {
+     "t": 9.8,
+     "s": "A",
+     "es": "and you still feel this sudden hollow ache in your chest, like you are just completely, fundamentally on your own?",
+     "ko": "그런데도 가슴에 갑자기 텅 빈 아픔이 느껴진 적 있나요? 완전히, 근본적으로 혼자인 것처럼요."
+    },
+    {
+     "t": 18.0,
+     "s": "B",
+     "es": "Yeah, that's a really powerful image, and it's more common than people think.",
+     "ko": "네, 정말 강렬한 장면이에요. 그리고 사람들이 생각하는 것보다 흔하죠."
+    },
+    {
+     "t": 23.0,
+     "s": "A",
+     "es": "All right, well, welcome to the Deep Dive, because today we have a mission.",
+     "ko": "좋아요, 딥다이브에 오신 걸 환영해요. 오늘 우리에겐 임무가 있거든요."
+    },
+    {
+     "t": 28.1,
+     "s": "A",
+     "es": "We are taking this massive stack of research and data on an experience that absolutely every single human goes through.",
+     "ko": "모든 인간이 예외 없이 겪는 경험에 관한 방대한 연구와 데이터를 다룰 거예요."
+    },
+    {
+     "t": 36.2,
+     "s": "A",
+     "es": "And yet, I mean, almost no one truly understands it. We are talking about loneliness.",
+     "ko": "그런데도 그걸 제대로 이해하는 사람은 거의 없죠. 바로 외로움 이야기예요."
+    },
+    {
+     "t": 42.0,
+     "s": "B",
+     "es": "And for you tuning in today, we are going to completely dismantle everything you thought you knew about what it means to feel alone.",
+     "ko": "오늘 들어 주시는 여러분을 위해, 외롭다는 게 무슨 뜻인지에 대해 알고 있다고 생각했던 모든 걸 완전히 해체해 볼게요."
+    }
+   ]
+  },
+  {
+   "title": "초연결 시대의 고립이라는 역설",
+   "lines": [
+    {
+     "t": 49.0,
+     "s": "A",
+     "es": "Exactly, because right now we're living through this massive modern paradox.",
+     "ko": "맞아요. 지금 우리는 거대한 현대의 역설 속에 살고 있거든요."
+    },
+    {
+     "t": 54.7,
+     "s": "A",
+     "es": "I mean, we have the internet, smartphones, social media, constant video calls.",
+     "ko": "인터넷, 스마트폰, 소셜 미디어, 끊임없는 영상 통화가 있잖아요."
+    },
+    {
+     "t": 60.5,
+     "s": "A",
+     "es": "We are existing in the most hyperconnected era in the entire history of human civilization, and yet we are facing an unprecedented epidemic of isolation.",
+     "ko": "인류 문명 역사상 가장 초연결된 시대에 살고 있는데도, 전례 없는 고립의 유행병을 마주하고 있어요."
+    },
+    {
+     "t": 72.0,
+     "s": "B",
+     "es": "It's a fascinating and, honestly, a genuinely alarming contradiction.",
+     "ko": "흥미로우면서도 솔직히 정말 걱정스러운 모순이에요."
+    },
+    {
+     "t": 76.3,
+     "s": "B",
+     "es": "When you look at the raw data, the sheer scale of this is just staggering.",
+     "ko": "날것의 데이터를 보면 그 규모가 그야말로 충격적이에요."
+    },
+    {
+     "t": 81.0,
+     "s": "A",
+     "es": "Yeah, the numbers are kind of terrifying.",
+     "ko": "네, 숫자가 좀 무섭죠."
+    },
+    {
+     "t": 83.0,
+     "s": "B",
+     "es": "I mean, in the UK right now, 60% of 18- to 34-year-olds report feeling lonely periodically.",
+     "ko": "지금 영국에서는 18~34세의 60%가 주기적으로 외로움을 느낀다고 답해요."
+    },
+    {
+     "t": 90.0,
+     "s": "A",
+     "es": "60%?",
+     "ko": "60%요?"
+    },
+    {
+     "t": 92.0,
+     "s": "B",
+     "es": "Yeah. And in the United States, it's 46% of the entire population.",
+     "ko": "네. 그리고 미국에서는 전체 인구의 46%예요."
+    },
+    {
+     "t": 95.7,
+     "s": "A",
+     "es": "That is wild.",
+     "ko": "말도 안 되네요."
+    },
+    {
+     "t": 96.5,
+     "s": "B",
+     "es": "We're talking about nearly half of society quietly experiencing this profound sense of isolation on a regular basis.",
+     "ko": "사회의 거의 절반이 이 깊은 고립감을 조용히, 꾸준히 겪고 있다는 거예요."
+    },
+    {
+     "t": 103.1,
+     "s": "B",
+     "es": "Just picture that: the next time you're stuck in traffic or walking down a busy street, half the people around you are carrying that weight.",
+     "ko": "한번 떠올려 보세요. 다음에 차가 막히거나 붐비는 거리를 걸을 때, 주변 사람의 절반이 그 무게를 지고 있다는 걸요."
+    }
+   ]
+  },
+  {
+   "title": "고독(solitude) vs 외로움(loneliness)",
+   "lines": [
+    {
+     "t": 111.0,
+     "s": "A",
+     "es": "We need to unpack this right away, because when I hear those numbers, my immediate thought is like, wait, how can half the country be lonely?",
+     "ko": "이건 바로 풀어 봐야겠어요. 그 숫자를 들으면 제 첫 생각은 '잠깐, 어떻게 나라의 절반이 외로울 수 있지?'거든요."
+    },
+    {
+     "t": 118.9,
+     "s": "A",
+     "es": "But we really need to draw a crucial distinction here, right? Loneliness is not the same thing as just being physically alone.",
+     "ko": "그런데 여기서 중요한 구분을 해야 해요. 외로움은 그냥 물리적으로 혼자 있는 것과 같은 게 아니잖아요."
+    },
+    {
+     "t": 126.0,
+     "s": "B",
+     "es": "No, not at all, and that is the very first major myth we really need to bust.",
+     "ko": "네, 전혀요. 그게 우리가 깨야 할 첫 번째 큰 오해예요."
+    },
+    {
+     "t": 130.0,
+     "s": "B",
+     "es": "Solitude and loneliness are two entirely different things, right?",
+     "ko": "고독(solitude)과 외로움(loneliness)은 완전히 다른 거예요."
+    },
+    {
+     "t": 133.4,
+     "s": "B",
+     "es": "You can be alone in a cabin in the woods for a week and be, you know, perfectly, blissfully happy. That's solitude.",
+     "ko": "숲속 오두막에 일주일 혼자 있어도 더없이 행복할 수 있어요. 그게 고독이에요."
+    },
+    {
+     "t": 139.5,
+     "s": "B",
+     "es": "But conversely, you can be married, you can have this vibrant social circle, go to a crowded office every single day, and still be completely miserable and lonely…",
+     "ko": "그런데 반대로, 결혼을 했고, 활기찬 인간관계가 있고, 매일 붐비는 사무실에 가도 완전히 비참하고 외로울 수 있어요…"
+    },
+    {
+     "t": 148.0,
+     "s": "A",
+     "es": "Because it's internal.",
+     "ko": "내면의 문제니까요."
+    },
+    {
+     "t": 149.3,
+     "s": "B",
+     "es": "Exactly. Loneliness is a highly subjective, deeply personal experience.",
+     "ko": "맞아요. 외로움은 아주 주관적이고 깊이 개인적인 경험이에요."
+    },
+    {
+     "t": 153.5,
+     "s": "B",
+     "es": "The baseline rule psychologists use is basically this: if you feel lonely, you are lonely.",
+     "ko": "심리학자들이 쓰는 기본 규칙은 이거예요. 외롭다고 느끼면, 외로운 거다."
+    },
+    {
+     "t": 158.8,
+     "s": "B",
+     "es": "Your internal reality is what dictates the condition, regardless of how many people are in your immediate physical space.",
+     "ko": "내 곁에 물리적으로 몇 명이 있든, 상태를 결정하는 건 내면의 현실이에요."
+    },
+    {
+     "t": 166.0,
+     "s": "A",
+     "es": "And I think there is this very pervasive, almost toxic stereotype out there.",
+     "ko": "그리고 아주 널리 퍼진, 거의 해로운 고정관념이 있는 것 같아요."
+    },
+    {
+     "t": 171.4,
+     "s": "A",
+     "es": "We tend to picture the quote-unquote \"lonely person\" as someone who is just socially awkward.",
+     "ko": "이른바 '외로운 사람'이라고 하면 그냥 사회성이 서툰 사람을 떠올리잖아요."
+    },
+    {
+     "t": 178.0,
+     "s": "B",
+     "es": "Right? The person hiding in the corner.",
+     "ko": "그렇죠? 구석에 숨어 있는 사람."
+    },
+    {
+     "t": 180.0,
+     "s": "A",
+     "es": "Exactly, someone who doesn't know how to talk to people or lacks basic conversational skills.",
+     "ko": "맞아요. 사람들과 어떻게 말해야 할지 모르거나 기본적인 대화 능력이 없는 사람이요."
+    },
+    {
+     "t": 185.3,
+     "s": "A",
+     "es": "But the psychological profiling completely blows that out of the water, doesn't it?",
+     "ko": "그런데 심리학 연구는 그걸 완전히 뒤집어 버리죠?"
+    },
+    {
+     "t": 190.0,
+     "s": "B",
+     "es": "It really does. The research on adults shows social skills actually have almost no impact on social connection.",
+     "ko": "정말 그래요. 성인 연구를 보면 사회성 기술은 사실 사회적 연결에 거의 영향을 주지 않아요."
+    },
+    {
+     "t": 197.1,
+     "s": "A",
+     "es": "Really?",
+     "ko": "정말요?"
+    },
+    {
+     "t": 197.5,
+     "s": "B",
+     "es": "Almost none. You can be the most charismatic, outgoing person in the room and still suffer deeply from loneliness.",
+     "ko": "거의 없어요. 방 안에서 가장 카리스마 있고 외향적인 사람이어도 외로움에 깊이 시달릴 수 있어요."
+    },
+    {
+     "t": 204.8,
+     "s": "B",
+     "es": "The data shows that wealth, beauty, fame, power, incredible personality traits — absolutely none of these offer any protection against loneliness.",
+     "ko": "데이터를 보면 부, 외모, 명성, 권력, 뛰어난 성격 — 이 중 어느 것도 외로움을 막아 주지 못해요."
+    },
+    {
+     "t": 214.1,
+     "s": "B",
+     "es": "You can have millions of adoring fans — I mean, literally millions — and still feel entirely isolated at the end of the day.",
+     "ko": "열광하는 팬이 수백만 명, 말 그대로 수백만 명 있어도 하루가 끝나면 완전히 고립된 기분일 수 있어요."
+    }
+   ]
+  },
+  {
+   "title": "외로움은 배고픔과 같은 몸의 기능",
+   "lines": [
+    {
+     "t": 222.0,
+     "s": "A",
+     "es": "So if having great social skills or being rich doesn't protect you, what is actually going on? Like, if it's not a personality flaw, what is it?",
+     "ko": "그럼 사회성이 좋거나 부자여도 보호받지 못한다면, 실제로 무슨 일이 일어나는 거죠? 성격 결함이 아니라면 뭔가요?"
+    },
+    {
+     "t": 232.0,
+     "s": "B",
+     "es": "This requires a massive shift in how we view the problem.",
+     "ko": "이 문제를 보는 방식을 크게 바꿔야 해요."
+    },
+    {
+     "t": 236.3,
+     "s": "B",
+     "es": "Loneliness is not a psychological defect. It is a fundamental biological bodily function.",
+     "ko": "외로움은 심리적 결함이 아니에요. 근본적인 생물학적 신체 기능이에요."
+    },
+    {
+     "t": 243.0,
+     "s": "A",
+     "es": "Okay, a bodily function. Like hunger?",
+     "ko": "좋아요, 신체 기능이라. 배고픔 같은 거요?"
+    },
+    {
+     "t": 244.9,
+     "s": "B",
+     "es": "Exactly like hunger.",
+     "ko": "정확히 배고픔과 같아요."
+    },
+    {
+     "t": 246.0,
+     "s": "A",
+     "es": "Because if I think about what hunger is, it's just a biological mechanism, right?",
+     "ko": "배고픔이 뭔지 생각해 보면, 그냥 생물학적 메커니즘이잖아요?"
+    },
+    {
+     "t": 250.2,
+     "s": "A",
+     "es": "When your blood sugar drops, your stomach releases hormones that send a signal to your brain.",
+     "ko": "혈당이 떨어지면 위가 호르몬을 내보내 뇌에 신호를 보내요."
+    },
+    {
+     "t": 255.0,
+     "s": "A",
+     "es": "It creates this uncomfortable physical sensation designed to basically force you to focus on your physical needs. It tells you to eat so you don't starve.",
+     "ko": "그러면 몸에 필요한 것에 집중하도록 억지로 만드는 불편한 신체 감각이 생기죠. 굶지 않도록 먹으라고 말하는 거예요."
+    },
+    {
+     "t": 263.0,
+     "s": "B",
+     "es": "That's spot on.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 264.0,
+     "s": "A",
+     "es": "So you're saying loneliness works on the exact same biological architecture, but instead of physical needs, it forces us to focus on our social needs.",
+     "ko": "그러니까 외로움도 똑같은 생물학적 구조로 작동하는데, 신체적 필요 대신 사회적 필요에 집중하게 만든다는 거군요."
+    },
+    {
+     "t": 274.0,
+     "s": "B",
+     "es": "That is the core mechanism. Yeah.",
+     "ko": "그게 핵심 메커니즘이에요. 네."
+    }
+   ]
+  },
+  {
+   "title": "50~150명의 부족 — 혼자는 곧 사형 선고",
+   "lines": [
+    {
+     "t": 276.0,
+     "s": "A",
+     "es": "So it is an evolutionary prompt. To understand why that prompt exists, we have to look back millions of years.",
+     "ko": "그러니까 진화가 주는 신호군요. 그 신호가 왜 있는지 이해하려면 수백만 년을 거슬러 봐야 해요."
+    },
+    {
+     "t": 282.9,
+     "s": "A",
+     "es": "Human beings evolved to live in specific social structures, tribes or groups of about 50 to 150 people, right?",
+     "ko": "인간은 특정한 사회 구조, 약 50~150명의 부족이나 집단으로 살도록 진화했죠?"
+    },
+    {
+     "t": 289.8,
+     "s": "A",
+     "es": "And in that ancient environment, surviving alone was just biologically impossible.",
+     "ko": "그리고 그 고대 환경에서 혼자 살아남는 건 생물학적으로 불가능했어요."
+    },
+    {
+     "t": 295.0,
+     "s": "B",
+     "es": "Yeah, because you can't exactly hunt a mammoth, gather enough calories, keep the fire going, and, you know, protect your kids from predators all by yourself.",
+     "ko": "네. 매머드를 사냥하고, 칼로리를 충분히 모으고, 불을 지키고, 포식자로부터 아이들을 보호하는 걸 혼자 다 할 수는 없으니까요."
+    },
+    {
+     "t": 303.4,
+     "s": "B",
+     "es": "You can't. To be alone was a literal death sentence.",
+     "ko": "못 하죠. 혼자라는 건 말 그대로 사형 선고였어요."
+    },
+    {
+     "t": 306.2,
+     "s": "B",
+     "es": "Therefore, natural selection strongly favored humans who stayed connected.",
+     "ko": "그래서 자연 선택은 연결을 유지한 인간을 강하게 선호했어요."
+    },
+    {
+     "t": 310.2,
+     "s": "B",
+     "es": "Our brains grew larger and more sophisticated specifically to read other people's thoughts and feelings, to form complex social bonds, and to maintain them.",
+     "ko": "우리 뇌는 바로 남의 생각과 감정을 읽고, 복잡한 사회적 유대를 맺고 유지하기 위해 더 크고 정교해졌어요."
+    },
+    {
+     "t": 318.5,
+     "s": "B",
+     "es": "The drive to stay in the group became hardwired into our biology.",
+     "ko": "무리에 남으려는 욕구가 우리 생물학에 새겨진 거죠."
+    },
+    {
+     "t": 322.0,
+     "s": "A",
+     "es": "Here's where it gets really interesting to me, though. We always think of the ultimate caveman fear as being eaten by a lion or a bear or whatever.",
+     "ko": "그런데 제가 정말 흥미로운 건 여기예요. 우리는 원시인의 가장 큰 두려움이 사자나 곰 같은 데 잡아먹히는 거라고 생각하잖아요."
+    },
+    {
+     "t": 330.2,
+     "s": "A",
+     "es": "But from an evolutionary standpoint, the absolute greatest threat to our ancestors wasn't a predator.",
+     "ko": "하지만 진화적 관점에서 조상들에게 가장 큰 위협은 포식자가 아니었어요."
+    },
+    {
+     "t": 335.9,
+     "s": "A",
+     "es": "It was the threat of missing social cues, acting out of line, and getting kicked out of the tribe.",
+     "ko": "사회적 신호를 놓치고, 선을 넘는 행동을 하고, 부족에서 쫓겨나는 위협이었죠."
+    },
+    {
+     "t": 341.3,
+     "s": "B",
+     "es": "Exactly, which brings us to why the pain of loneliness evolved in the first place.",
+     "ko": "맞아요. 그게 애초에 외로움의 고통이 왜 진화했는지로 이어져요."
+    },
+    {
+     "t": 345.9,
+     "s": "B",
+     "es": "This quote-unquote \"social pain\" was designed as an early warning system.",
+     "ko": "이른바 '사회적 고통'은 조기 경보 시스템으로 설계된 거예요."
+    },
+    {
+     "t": 350.0,
+     "s": "A",
+     "es": "Oh, interesting.",
+     "ko": "오, 흥미롭네요."
+    },
+    {
+     "t": 351.0,
+     "s": "B",
+     "es": "Let's say an ancestor started acting incredibly selfishly, taking more than their share of food, or just isolating themselves from the group's daily chores.",
+     "ko": "어떤 조상이 아주 이기적으로 굴기 시작했다고 해 봐요. 자기 몫보다 많은 음식을 가져가거나, 무리의 일상 일에서 빠지거나요."
+    },
+    {
+     "t": 360.3,
+     "s": "B",
+     "es": "The brain would induce this deep psychological ache to stop those behaviors. It was a highly adaptive mechanism.",
+     "ko": "뇌는 그런 행동을 멈추게 하려고 깊은 심리적 아픔을 일으켰어요. 아주 적응적인 메커니즘이었죠."
+    },
+    {
+     "t": 367.0,
+     "s": "A",
+     "es": "So it forces you to correct course.",
+     "ko": "그러니까 방향을 바로잡게 만드는 거군요."
+    },
+    {
+     "t": 368.9,
+     "s": "B",
+     "es": "Yes. The ancestors who felt the most pain when they were excluded were the ones most likely to correct their behavior, get back in the tribe's good graces, and survive.",
+     "ko": "네. 배제됐을 때 가장 크게 아파한 조상들이 행동을 고치고, 부족의 호감을 되찾고, 살아남을 가능성이 가장 높았어요."
+    },
+    {
+     "t": 378.0,
+     "s": "A",
+     "es": "So evolution is incredibly efficient.",
+     "ko": "진화는 정말 효율적이네요."
+    },
+    {
+     "t": 380.2,
+     "s": "A",
+     "es": "Instead of building an entirely new neurological system to warn you about social danger, your brain just repurposed the physical pain center, because it knew physical pain is impossible to ignore.",
+     "ko": "사회적 위험을 경고하려고 완전히 새로운 신경계를 만드는 대신, 뇌는 몸의 통증 중추를 재활용한 거예요. 몸의 통증은 무시할 수 없다는 걸 알았으니까요."
+    },
+    {
+     "t": 392.0,
+     "s": "B",
+     "es": "That's exactly what happened.",
+     "ko": "바로 그렇게 된 거예요."
+    },
+    {
+     "t": 394.0,
+     "s": "A",
+     "es": "The reason loneliness hurts so much today is because, genetically speaking, our bodies literally think we are going to die if we don't have friends.",
+     "ko": "오늘날 외로움이 그렇게 아픈 건, 유전적으로 보면 우리 몸이 친구가 없으면 정말 죽는다고 생각하기 때문이에요."
+    },
+    {
+     "t": 402.9,
+     "s": "A",
+     "es": "It's like an evolutionary car alarm.",
+     "ko": "진화가 달아 둔 자동차 경보기 같은 거죠."
+    },
+    {
+     "t": 405.1,
+     "s": "A",
+     "es": "It's your brain flashing a red dashboard light, saying, \"Hey, you are drifting away from the pack. Fix it right now or you won't survive the winter.\"",
+     "ko": "뇌가 계기판에 빨간 불을 깜빡이며 '야, 무리에서 멀어지고 있어. 당장 고쳐, 안 그러면 겨울을 못 넘겨'라고 말하는 거예요."
+    },
+    {
+     "t": 414.0,
+     "s": "B",
+     "es": "I love that analogy. And for the vast majority of human history, this biological car alarm worked beautifully.",
+     "ko": "그 비유 정말 좋네요. 그리고 인류 역사의 대부분 동안 이 생물학적 경보기는 아주 잘 작동했어요."
+    },
+    {
+     "t": 420.4,
+     "s": "B",
+     "es": "It kept us together, it helped us build societies, it ensured our survival — until very recently.",
+     "ko": "우리를 함께 묶어 주고, 사회를 세우게 돕고, 생존을 보장했죠. 아주 최근까지는요."
+    }
+   ]
+  },
+  {
+   "title": "50만 년 된 뇌, 개인주의 세상에 떨어지다",
+   "lines": [
+    {
+     "t": 426.0,
+     "s": "A",
+     "es": "Which brings us to the ultimate clash.",
+     "ko": "그게 궁극의 충돌로 이어지네요."
+    },
+    {
+     "t": 428.3,
+     "s": "A",
+     "es": "If this biological alarm system worked perfectly for hundreds of thousands of years, why is it constantly misfiring for you and me right now?",
+     "ko": "이 생물학적 경보 시스템이 수십만 년 동안 완벽하게 작동했다면, 왜 지금 우리에겐 계속 오작동하는 걸까요?"
+    },
+    {
+     "t": 437.0,
+     "s": "B",
+     "es": "Well, it misfires because we have essentially taken a 500,000-year-old brain and dropped it into a modern, highly individualized world.",
+     "ko": "오작동하는 건, 우리가 사실상 50만 년 된 뇌를 현대의 고도로 개인화된 세상에 떨어뜨려 놓았기 때문이에요."
+    },
+    {
+     "t": 444.7,
+     "s": "B",
+     "es": "The environment changed radically, but our biology just didn't evolve fast enough to keep up.",
+     "ko": "환경은 급격히 바뀌었는데, 우리 생물학은 따라갈 만큼 빨리 진화하지 못했어요."
+    },
+    {
+     "t": 450.0,
+     "s": "A",
+     "es": "Let's trace that timeline a bit, because it didn't just happen overnight with the invention of the iPhone, right?",
+     "ko": "그 흐름을 조금 따라가 봐요. 아이폰이 나오면서 하룻밤 새 생긴 건 아니잖아요?"
+    },
+    {
+     "t": 456.2,
+     "s": "A",
+     "es": "This societal shift actually started way back in the Late Renaissance.",
+     "ko": "이 사회적 변화는 사실 르네상스 후기까지 거슬러 올라가요."
+    },
+    {
+     "t": 460.0,
+     "s": "B",
+     "es": "It did. For centuries, primarily during the Middle Ages, the collective community was everything. People lived in small agrarian villages.",
+     "ko": "그래요. 수백 년 동안, 주로 중세에는 공동체가 전부였어요. 사람들은 작은 농촌 마을에 살았죠."
+    },
+    {
+     "t": 468.7,
+     "s": "B",
+     "es": "You knew everyone, and everyone knew your business.",
+     "ko": "모두를 알았고, 모두가 내 사정을 알았어요."
+    },
+    {
+     "t": 471.9,
+     "s": "B",
+     "es": "It might have been stifling at times, but you were never biologically lonely, right?",
+     "ko": "가끔은 숨 막혔겠지만, 생물학적으로 외로울 일은 없었죠."
+    },
+    {
+     "t": 477.2,
+     "s": "B",
+     "es": "But during the Late Renaissance, Western culture began a massive philosophical shift. Intellectuals started prioritizing the individual over the collective.",
+     "ko": "그런데 르네상스 후기에 서양 문화는 거대한 철학적 전환을 시작했어요. 지식인들이 집단보다 개인을 우선하기 시작했죠."
+    },
+    {
+     "t": 487.0,
+     "s": "B",
+     "es": "Protestant theology began emphasizing personal responsibility and individual salvation over communal ritual.",
+     "ko": "개신교 신학은 공동체 의식보다 개인의 책임과 개인의 구원을 강조하기 시작했어요."
+    },
+    {
+     "t": 493.9,
+     "s": "B",
+     "es": "The concept of the self basically began to outrank the village.",
+     "ko": "'자아'라는 개념이 사실상 마을보다 위에 서기 시작한 거예요."
+    },
+    {
+     "t": 498.0,
+     "s": "A",
+     "es": "It's like we started slowly untethering the ship from the dock, and then the Industrial Revolution just strapped a rocket to that idea.",
+     "ko": "배를 부두에서 천천히 풀어내기 시작했는데, 산업 혁명이 거기에 로켓을 달아 버린 셈이네요."
+    },
+    {
+     "t": 506.0,
+     "s": "B",
+     "es": "Oh, absolutely.",
+     "ko": "오, 정말 그래요."
+    },
+    {
+     "t": 508.0,
+     "s": "A",
+     "es": "People abandoned these tight-knit rural communities that had existed for centuries.",
+     "ko": "사람들은 수백 년 이어진 끈끈한 농촌 공동체를 떠났어요."
+    },
+    {
+     "t": 512.7,
+     "s": "A",
+     "es": "They packed up and moved into these localized, anonymous factory cities.",
+     "ko": "짐을 싸서 익명의 공장 도시로 옮겨 갔죠."
+    },
+    {
+     "t": 516.7,
+     "s": "A",
+     "es": "Suddenly you could be surrounded by thousands of people but know absolutely none of them.",
+     "ko": "갑자기 수천 명에게 둘러싸여 있으면서도 그중 아무도 모를 수 있게 됐어요."
+    },
+    {
+     "t": 521.7,
+     "s": "A",
+     "es": "And honestly, we are just living in the extreme endpoint of that trajectory today. Modern adulthood practically breeds chronic isolation by design.",
+     "ko": "솔직히 오늘날 우리는 그 궤적의 극단적인 끝에 살고 있어요. 현대의 성인 생활은 구조적으로 만성 고립을 낳다시피 해요."
+    },
+    {
+     "t": 530.0,
+     "s": "B",
+     "es": "When you look at how we structure our lives today, it is almost entirely anti-community.",
+     "ko": "오늘날 우리 삶이 짜인 방식을 보면 거의 완전히 반(反)공동체적이에요."
+    }
+   ]
+  },
+  {
+   "title": "친한 친구 3명 → 2명 → 0명",
+   "lines": [
+    {
+     "t": 535.0,
+     "s": "A",
+     "es": "Well, think about the average lifestyle right now.",
+     "ko": "요즘의 평균적인 생활 방식을 생각해 보세요."
+    },
+    {
+     "t": 537.6,
+     "s": "A",
+     "es": "I mean, we move across the country for college, right? Then we get a new job in a different city, so we pack up and move again, severing that whole network.",
+     "ko": "대학 때문에 먼 지역으로 이사하고, 다른 도시에서 새 직장을 얻어 또 이사하면서, 그 관계망 전체를 끊어 내죠."
+    },
+    {
+     "t": 545.8,
+     "s": "A",
+     "es": "Maybe we move again for love. We are constantly pulling up our geographic roots.",
+     "ko": "사랑 때문에 또 이사할 수도 있고요. 우리는 끊임없이 지리적 뿌리를 뽑아내고 있어요."
+    },
+    {
+     "t": 550.0,
+     "s": "B",
+     "es": "Constantly.",
+     "ko": "끊임없이요."
+    },
+    {
+     "t": 551.0,
+     "s": "A",
+     "es": "And then on top of that, we get swamped.",
+     "ko": "게다가 우리는 일에 파묻혀요."
+    },
+    {
+     "t": 553.4,
+     "s": "A",
+     "es": "You hit your late 20s or 30s, you're juggling a demanding career, maybe you have kids, and you are just completely exhausted.",
+     "ko": "20대 후반이나 30대가 되면 힘든 직장 일을 이리저리 해내고, 아이가 있을 수도 있고, 완전히 지쳐 버리죠."
+    },
+    {
+     "t": 561.0,
+     "s": "A",
+     "es": "When we are strapped for time, the very first thing we sacrifice is time with our friends. It is the absolute easiest thing to cut from the schedule.",
+     "ko": "시간이 빠듯할 때 가장 먼저 희생하는 게 친구와의 시간이에요. 일정에서 빼기 가장 쉬운 거죠."
+    },
+    {
+     "t": 570.0,
+     "s": "B",
+     "es": "It is the path of least resistance to just stay home. And the statistics show the devastating result of this transience.",
+     "ko": "그냥 집에 있는 게 가장 편한 길이니까요. 그리고 통계는 이런 떠돌이 생활의 처참한 결과를 보여 줘요."
+    },
+    {
+     "t": 577.0,
+     "s": "B",
+     "es": "Sociological studies highlight that back in 1985, the average American reported having three close friends, like people they could confide in about deeply personal matters.",
+     "ko": "사회학 연구에 따르면 1985년에 평균적인 미국인은 아주 사적인 일을 털어놓을 수 있는 친한 친구가 3명 있다고 답했어요."
+    },
+    {
+     "t": 587.0,
+     "s": "A",
+     "es": "Okay, three close friends.",
+     "ko": "좋아요, 친한 친구 3명."
+    },
+    {
+     "t": 589.0,
+     "s": "B",
+     "es": "By 2011, that number had dropped to just two. And for a rapidly growing portion of the population, it's zero.",
+     "ko": "2011년에는 그 숫자가 겨우 2명으로 떨어졌어요. 그리고 빠르게 늘어나는 일부 인구에게는 0명이에요."
+    },
+    {
+     "t": 596.3,
+     "s": "B",
+     "es": "We are increasingly mobile, increasingly busy, and increasingly alone.",
+     "ko": "우리는 점점 더 많이 옮겨 다니고, 점점 더 바쁘고, 점점 더 혼자예요."
+    }
+   ]
+  },
+  {
+   "title": "금요일 저녁 초대를 거절한 이유",
+   "lines": [
+    {
+     "t": 601.0,
+     "s": "A",
+     "es": "I can actually validate this from my own life. I remember moving to a new city in my 20s for a job. I didn't know a soul.",
+     "ko": "제 경험으로도 확인할 수 있어요. 20대에 일 때문에 새 도시로 이사했는데, 아는 사람이 한 명도 없었어요."
+    },
+    {
+     "t": 608.5,
+     "s": "A",
+     "es": "A coworker invited me to a group dinner on a Friday, and even though I hadn't spoken to a human being outside of work in three days, I made up an excuse about being tired and just stayed in my apartment.",
+     "ko": "동료가 금요일 단체 저녁 식사에 초대했는데, 사흘 동안 회사 밖에서 사람과 말 한마디 안 했으면서도 피곤하다고 핑계를 대고 그냥 집에 있었어요."
+    },
+    {
+     "t": 621.2,
+     "s": "B",
+     "es": "Oh wow.",
+     "ko": "오, 저런."
+    },
+    {
+     "t": 621.6,
+     "s": "A",
+     "es": "Yeah, and looking back, I wasn't tired at all. I was just terrified of sitting there and feeling like I didn't fit in.",
+     "ko": "네, 돌이켜 보면 전혀 피곤하지 않았어요. 거기 앉아서 어울리지 못하는 기분이 들까 봐 무서웠던 거예요."
+    },
+    {
+     "t": 629.0,
+     "s": "A",
+     "es": "So I actively chose to be lonely rather than risk the vulnerability.",
+     "ko": "그래서 마음을 여는 위험을 감수하느니 스스로 외로움을 택한 거죠."
+    }
+   ]
+  },
+  {
+   "title": "하루 담배 한 갑 — 몸을 망가뜨리는 만성 외로움",
+   "lines": [
+    {
+     "t": 633.0,
+     "s": "B",
+     "es": "That reaction you had is incredibly common, and it highlights something crucial.",
+     "ko": "그 반응은 정말 흔하고, 아주 중요한 걸 보여 줘요."
+    },
+    {
+     "t": 637.3,
+     "s": "B",
+     "es": "This mismatch between our ancient biology and our modern lifestyle isn't just making us feel a little sad on a Friday night. It is literally physically destroying our bodies.",
+     "ko": "고대의 생물학과 현대 생활 방식의 이 불일치는 그저 금요일 밤에 좀 슬프게 하는 정도가 아니에요. 말 그대로 우리 몸을 물리적으로 파괴하고 있어요."
+    },
+    {
+     "t": 646.7,
+     "s": "A",
+     "es": "Physically destroying them?",
+     "ko": "물리적으로 파괴한다고요?"
+    },
+    {
+     "t": 648.2,
+     "s": "B",
+     "es": "Yes, because the brain interprets social isolation as a life-threatening danger. Remember, no tribe means death.",
+     "ko": "네. 뇌는 사회적 고립을 생명을 위협하는 위험으로 해석하니까요. 기억하세요, 부족이 없으면 죽음이에요."
+    },
+    {
+     "t": 654.3,
+     "s": "B",
+     "es": "Chronic loneliness keeps your body in a constant state of high alert…",
+     "ko": "만성적인 외로움은 몸을 늘 비상경계 상태로 둬요…"
+    },
+    {
+     "t": 658.0,
+     "s": "A",
+     "es": "Because it thinks there's a predator outside the cave and nobody is on watch with you. So it just starts pumping cortisol, a stress hormone…",
+     "ko": "동굴 밖에 포식자가 있는데 같이 망봐 줄 사람이 없다고 생각하니까요. 그래서 스트레스 호르몬인 코르티솔을 마구 뿜어내기 시작하죠…"
+    },
+    {
+     "t": 665.0,
+     "s": "B",
+     "es": "Consistently.",
+     "ko": "꾸준히요."
+    },
+    {
+     "t": 666.0,
+     "s": "A",
+     "es": "Day after day.",
+     "ko": "날마다요."
+    },
+    {
+     "t": 667.0,
+     "s": "B",
+     "es": "The physical toll of that chronic inflammation and stress is just devastating.",
+     "ko": "그 만성 염증과 스트레스가 몸에 주는 대가는 정말 처참해요."
+    },
+    {
+     "t": 671.2,
+     "s": "B",
+     "es": "It accelerates the cellular aging process. It exacerbates the growth of certain cancers.",
+     "ko": "세포 노화를 앞당기고, 일부 암의 성장을 악화시켜요."
+    },
+    {
+     "t": 675.8,
+     "s": "B",
+     "es": "It deepens the onset of dementia, and it completely shreds your immune system.",
+     "ko": "치매 발병을 깊게 하고, 면역 체계를 완전히 갈기갈기 찢어 놓아요."
+    },
+    {
+     "t": 680.0,
+     "s": "A",
+     "es": "And I want to make sure you, the listener, really hear this next statistic, because it completely stopped me in my tracks.",
+     "ko": "그리고 청취자 여러분이 다음 통계를 꼭 들으셨으면 해요. 저는 이걸 보고 그 자리에 얼어붙었거든요."
+    },
+    {
+     "t": 687.0,
+     "s": "A",
+     "es": "Chronic loneliness is twice as harmful to your physical health as obesity, and it has the exact same mortality impact as smoking a pack of cigarettes a day.",
+     "ko": "만성적인 외로움은 비만보다 신체 건강에 2배 해롭고, 하루에 담배 한 갑을 피우는 것과 똑같은 사망 위험을 줘요."
+    },
+    {
+     "t": 696.0,
+     "s": "B",
+     "es": "Yeah, it's shocking.",
+     "ko": "네, 충격적이죠."
+    },
+    {
+     "t": 697.0,
+     "s": "A",
+     "es": "A pack a day, just from feeling chronically disconnected.",
+     "ko": "그저 만성적으로 단절감을 느끼는 것만으로 하루 한 갑이라니."
+    },
+    {
+     "t": 700.0,
+     "s": "B",
+     "es": "It is a lethal condition. And what makes it so lethal is the neurological mechanism we touched on earlier.",
+     "ko": "치명적인 상태예요. 그리고 그렇게 치명적인 이유는 아까 잠깐 말한 신경 메커니즘 때문이에요."
+    },
+    {
+     "t": 705.8,
+     "s": "B",
+     "es": "We established that physical pain and social pain are linked. They actually share neural pathways in your brain, right?",
+     "ko": "몸의 통증과 사회적 통증이 연결돼 있다고 했죠. 실제로 뇌에서 같은 신경 경로를 공유해요."
+    },
+    {
+     "t": 712.4,
+     "s": "B",
+     "es": "So to your central nervous system, being socially rejected and being physically struck are practically the same event.",
+     "ko": "그러니까 중추 신경계에게는 사회적으로 거절당하는 것과 몸을 맞는 게 사실상 같은 사건이에요."
+    },
+    {
+     "t": 718.9,
+     "s": "B",
+     "es": "So when loneliness goes from being a temporary feeling to a chronic state, your brain goes into full-blown self-preservation mode.",
+     "ko": "그래서 외로움이 일시적인 감정에서 만성 상태로 바뀌면, 뇌는 본격적인 자기 보존 모드에 들어가요."
+    }
+   ]
+  },
+  {
+   "title": "왜 외로운 사람이 사람을 밀어낼까? — 고장 난 화재경보기",
+   "lines": [
+    {
+     "t": 726.0,
+     "s": "A",
+     "es": "Yeah, I have to push back here, or at least ask for a deeper explanation.",
+     "ko": "네, 여기서 반론을 하거나 적어도 더 깊은 설명을 들어야겠어요."
+    },
+    {
+     "t": 730.7,
+     "s": "A",
+     "es": "If we crave connection so badly when we're lonely, if our biology is screaming at us to find our tribe, why do lonely people so often act awkward or, worse, actively push people away?",
+     "ko": "외로울 때 그렇게 연결을 갈망하고, 몸이 부족을 찾으라고 소리친다면, 왜 외로운 사람은 그렇게 자주 어색하게 굴거나, 더 나쁘게는 적극적으로 사람을 밀어낼까요?"
+    },
+    {
+     "t": 742.5,
+     "s": "A",
+     "es": "Like my story about turning down the dinner invite: you feel lonely, someone throws you a lifeline, and you just slap it away. Why?",
+     "ko": "제가 저녁 초대를 거절한 이야기처럼요. 외로운데 누가 구명줄을 던져 주면 그걸 쳐 내 버려요. 왜죠?"
+    },
+    {
+     "t": 751.0,
+     "s": "B",
+     "es": "Because of that self-preservation mode. This is the vicious cycle of chronic loneliness.",
+     "ko": "그 자기 보존 모드 때문이에요. 이게 만성 외로움의 악순환이에요."
+    },
+    {
+     "t": 755.9,
+     "s": "B",
+     "es": "When you are chronically lonely, your brain is basically treating the social environment like a hostile wilderness.",
+     "ko": "만성적으로 외로우면 뇌는 사회적 환경을 사실상 적대적인 황야처럼 대해요."
+    },
+    {
+     "t": 762.2,
+     "s": "B",
+     "es": "Every interaction is viewed as a potential threat of rejection, which to your brain equals physical pain.",
+     "ko": "모든 상호작용이 거절의 잠재적 위협으로 보이고, 그건 뇌에게 곧 몸의 통증이에요."
+    },
+    {
+     "t": 768.0,
+     "s": "A",
+     "es": "It's like a faulty smoke detector.",
+     "ko": "고장 난 화재경보기 같네요."
+    },
+    {
+     "t": 769.0,
+     "s": "B",
+     "es": "Yes, exactly.",
+     "ko": "네, 바로 그거예요."
+    },
+    {
+     "t": 771.0,
+     "s": "A",
+     "es": "You become hypersensitive to the smell of smoke, but your brain can't tell if the house is actually on fire or if your roommate just burnt some toast.",
+     "ko": "연기 냄새에 지나치게 예민해지는데, 뇌는 집에 진짜 불이 났는지 룸메이트가 토스트를 좀 태웠는지 구분하지 못해요."
+    },
+    {
+     "t": 778.6,
+     "s": "A",
+     "es": "You're just hearing deafening alarms everywhere.",
+     "ko": "사방에서 귀청 떨어지는 경보만 들리는 거죠."
+    },
+    {
+     "t": 781.0,
+     "s": "B",
+     "es": "That is a perfect way to put it. You become hypervigilant to social signals, but — and here is the tragic irony — your brain loses the ability to interpret them accurately.",
+     "ko": "완벽한 표현이에요. 사회적 신호에 과하게 경계하게 되는데, 여기 비극적인 아이러니가 있어요. 뇌가 그 신호를 정확히 해석하는 능력을 잃어요."
+    },
+    {
+     "t": 792.6,
+     "s": "B",
+     "es": "The data shows that when we are in this state of chronic loneliness, the facial recognition processing in the brain literally malfunctions.",
+     "ko": "데이터를 보면 만성 외로움 상태에서는 뇌의 얼굴 인식 처리가 말 그대로 오작동해요."
+    },
+    {
+     "t": 802.0,
+     "s": "A",
+     "es": "But \"malfunction\" is a strong word. Are we talking about a cognitive bias where we just assume people are mad, or is the brain's actual visual processing changing?",
+     "ko": "그런데 '오작동'은 센 표현인데요. 사람들이 화났다고 그냥 짐작하는 인지 편향 얘기예요, 아니면 뇌의 실제 시각 처리가 바뀌는 거예요?"
+    },
+    {
+     "t": 812.0,
+     "s": "B",
+     "es": "It is a biological alteration in how your brain processes stimuli.",
+     "ko": "뇌가 자극을 처리하는 방식이 생물학적으로 바뀌는 거예요."
+    },
+    {
+     "t": 816.2,
+     "s": "B",
+     "es": "Your amygdala goes into overdrive, constantly scanning for threats. You start interpreting neutral facial expressions as hostile.",
+     "ko": "편도체가 과열돼서 끊임없이 위협을 찾아요. 중립적인 표정을 적대적으로 해석하기 시작하죠."
+    },
+    {
+     "t": 824.5,
+     "s": "A",
+     "es": "Oh, wow.",
+     "ko": "오, 저런."
+    },
+    {
+     "t": 825.0,
+     "s": "B",
+     "es": "Yeah. If someone looks at you with a completely blank expression, a lonely brain processes that as anger or judgment.",
+     "ko": "네. 누가 완전히 무표정하게 쳐다보면, 외로운 뇌는 그걸 분노나 비난으로 처리해요."
+    },
+    {
+     "t": 832.5,
+     "s": "B",
+     "es": "You start assuming the absolute worst intentions in others. You believe people are intentionally excluding you even when they aren't.",
+     "ko": "남의 의도를 최악으로 짐작하기 시작해요. 그렇지 않은데도 사람들이 일부러 나를 따돌린다고 믿고요."
+    },
+    {
+     "t": 841.0,
+     "s": "A",
+     "es": "So because you're perceiving all this fake hostility, you put your armor on…",
+     "ko": "그러니까 그 가짜 적대감을 느끼니까 갑옷을 입는 거군요…"
+    },
+    {
+     "t": 847.0,
+     "s": "B",
+     "es": "And that armor is where the real trouble starts. To protect yourself from what you perceive as inevitable rejection, you become overwhelmingly self-centered.",
+     "ko": "그리고 그 갑옷에서 진짜 문제가 시작돼요. 피할 수 없다고 느끼는 거절로부터 자신을 지키려고, 지나치게 자기중심적이 돼요."
+    },
+    {
+     "t": 856.5,
+     "s": "B",
+     "es": "Your focus turns entirely inward, on your own emotional survival.",
+     "ko": "관심이 완전히 안쪽, 자기 감정의 생존으로만 향해요."
+    },
+    {
+     "t": 860.4,
+     "s": "B",
+     "es": "And because you are closed off, defensive, and projecting a fear of rejection to the outside world, you actually appear cold, unfriendly, and socially awkward.",
+     "ko": "그리고 마음을 닫고, 방어적이고, 거절에 대한 두려움을 밖으로 내비치니까 실제로 차갑고 쌀쌀맞고 어색한 사람처럼 보이게 돼요."
+    }
+   ]
+  },
+  {
+   "title": "스스로를 강화하는 악순환",
+   "lines": [
+    {
+     "t": 870.0,
+     "s": "A",
+     "es": "So the very defense mechanism your brain is using to protect you from social pain is the exact thing causing the outside world to reject you.",
+     "ko": "그러니까 뇌가 사회적 고통으로부터 나를 지키려고 쓰는 방어 기제가 바로 바깥세상이 나를 거절하게 만드는 원인이군요."
+    },
+    {
+     "t": 877.5,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 877.9,
+     "s": "A",
+     "es": "Which then creates more social pain, which makes you isolate more. It's a terrifying self-reinforcing loop.",
+     "ko": "그게 사회적 고통을 더 만들고, 그래서 더 고립되고요. 무서운 자기 강화 루프네요."
+    },
+    {
+     "t": 883.6,
+     "s": "A",
+     "es": "I mean, you sit further away from coworkers. You stop answering texts. You decline dinner invitations.",
+     "ko": "동료들에게서 더 멀리 앉고, 문자에 답을 안 하고, 저녁 초대를 거절하고요."
+    },
+    {
+     "t": 889.0,
+     "s": "A",
+     "es": "You tell yourself, \"They don't really want me there anyway, they're just being polite,\" and then eventually people just stop asking.",
+     "ko": "'어차피 날 원하는 게 아니야, 그냥 예의상 그러는 거지'라고 스스로 말하고, 결국 사람들은 더 이상 묻지 않게 돼요."
+    },
+    {
+     "t": 896.0,
+     "s": "B",
+     "es": "And the outside world truly does begin to exclude you, which validates your brain's flawed premise.",
+     "ko": "그러면 바깥세상이 정말로 나를 배제하기 시작하고, 그게 뇌의 잘못된 전제를 확인해 주는 거예요."
+    },
+    {
+     "t": 902.3,
+     "s": "B",
+     "es": "This cycle can play out slowly over years, ultimately leading to severe depression.",
+     "ko": "이 순환은 몇 년에 걸쳐 천천히 진행되다가 결국 심한 우울증으로 이어질 수 있어요."
+    },
+    {
+     "t": 907.6,
+     "s": "B",
+     "es": "You desperately want social bonds, but you feel completely incapable of forming them.",
+     "ko": "사회적 유대를 간절히 원하지만, 그걸 맺을 능력이 전혀 없다고 느끼죠."
+    }
+   ]
+  },
+  {
+   "title": "탈출 1단계 — 수치심 내려놓기",
+   "lines": [
+    {
+     "t": 913.0,
+     "s": "A",
+     "es": "So what does this all mean for you listening right now? Because this sounds incredibly bleak.",
+     "ko": "그럼 지금 듣고 계신 여러분에게 이건 무슨 뜻일까요? 너무 암울하게 들리거든요."
+    },
+    {
+     "t": 918.6,
+     "s": "A",
+     "es": "If this cycle is biologically self-reinforcing, how does someone manually override their own brain before they spiral into that dark place?",
+     "ko": "이 순환이 생물학적으로 스스로를 강화한다면, 그 어두운 곳으로 빠져들기 전에 어떻게 자기 뇌를 수동으로 덮어쓸 수 있을까요?"
+    },
+    {
+     "t": 927.0,
+     "s": "B",
+     "es": "Escaping the bunker is entirely possible, but it requires conscious, deliberate effort to break that cognitive distortion.",
+     "ko": "벙커에서 탈출하는 건 충분히 가능해요. 하지만 그 인지 왜곡을 깨려면 의식적이고 의도적인 노력이 필요해요."
+    },
+    {
+     "t": 934.2,
+     "s": "B",
+     "es": "If you look at the psychological data, the very first step to overriding this is radical acceptance.",
+     "ko": "심리학 데이터를 보면, 이걸 덮어쓰는 첫 단계는 철저한 수용이에요."
+    },
+    {
+     "t": 940.1,
+     "s": "B",
+     "es": "You must accept that loneliness is a universal, completely normal human experience.",
+     "ko": "외로움은 보편적이고 완전히 정상적인 인간의 경험이라는 걸 받아들여야 해요."
+    },
+    {
+     "t": 945.0,
+     "s": "A",
+     "es": "Right, stripping away the shame. It's not a personal failure; it's just your biological dashboard light blinking.",
+     "ko": "그렇죠, 수치심을 벗겨 내는 거예요. 개인의 실패가 아니라 그냥 몸의 계기판 불이 깜빡이는 거예요."
+    },
+    {
+     "t": 950.5,
+     "s": "A",
+     "es": "You wouldn't feel ashamed of being thirsty, so you shouldn't feel ashamed of being lonely. It's just your body asking for a nutrient.",
+     "ko": "목마른 걸 부끄러워하지 않잖아요. 그러니 외로운 것도 부끄러워할 필요 없어요. 그냥 몸이 영양분을 달라고 하는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "탈출 2단계 — 현실 점검 / 3단계 — 마음 열기",
+   "lines": [
+    {
+     "t": 957.0,
+     "s": "B",
+     "es": "That's a beautiful way to phrase it. And once you remove the shame and stop viewing it as a personal defect, you can move to step two, which is self-interrogation.",
+     "ko": "정말 아름다운 표현이에요. 수치심을 걷어 내고 개인의 결함으로 보지 않게 되면, 2단계인 자기 심문으로 넘어갈 수 있어요."
+    },
+    {
+     "t": 965.7,
+     "s": "B",
+     "es": "You have to recognize that your brain might be actively lying to you about your social surroundings.",
+     "ko": "뇌가 내 사회적 환경에 대해 적극적으로 거짓말을 하고 있을 수도 있다는 걸 알아차려야 해요."
+    },
+    {
+     "t": 971.0,
+     "s": "A",
+     "es": "We call this the reality check, and this is something you can do the very next time you feel slighted.",
+     "ko": "이걸 현실 점검이라고 부르는데, 다음에 무시당했다고 느낄 때 바로 해 볼 수 있어요."
+    },
+    {
+     "t": 976.9,
+     "s": "A",
+     "es": "You have to actively play defense attorney against your own paranoid thoughts.",
+     "ko": "자기 안의 피해망상적인 생각에 맞서 적극적으로 변호인 역할을 해야 해요."
+    },
+    {
+     "t": 981.4,
+     "s": "A",
+     "es": "Ask yourself: was that interaction actually negative, or did I just misinterpret a neutral expression?",
+     "ko": "스스로 물어보세요. 그 대화가 정말 부정적이었나, 아니면 내가 중립적인 표정을 잘못 읽은 건가?"
+    },
+    {
+     "t": 987.2,
+     "s": "A",
+     "es": "What was the actual factual content of the conversation?",
+     "ko": "대화의 실제 사실 내용은 뭐였나?"
+    },
+    {
+     "t": 990.5,
+     "s": "A",
+     "es": "Did my friend actually say something mean, or was she just distracted, rushing to catch a train?",
+     "ko": "친구가 정말 못된 말을 했나, 아니면 기차 타러 서두르느라 정신이 없었던 건가?"
+    },
+    {
+     "t": 996.0,
+     "s": "B",
+     "es": "It is entirely about questioning your assumptions. Are you assuming the worst intentions?",
+     "ko": "전적으로 자기 가정을 의심하는 거예요. 최악의 의도를 짐작하고 있나요?"
+    },
+    {
+     "t": 1000.5,
+     "s": "B",
+     "es": "Are you rejecting invitations just to protect yourself from a hypothetical rejection that hasn't even happened yet?",
+     "ko": "아직 일어나지도 않은 가상의 거절로부터 자신을 지키려고 초대를 거절하고 있나요?"
+    },
+    {
+     "t": 1006.2,
+     "s": "B",
+     "es": "You have to shine a light on those internal narratives and realize how heavily they are distorted by the loneliness.",
+     "ko": "그 내면의 이야기에 빛을 비추고, 그게 외로움 때문에 얼마나 심하게 왜곡돼 있는지 깨달아야 해요."
+    },
+    {
+     "t": 1012.0,
+     "s": "A",
+     "es": "And that leads to step three: opening up.",
+     "ko": "그리고 그게 3단계, 마음 열기로 이어져요."
+    },
+    {
+     "t": 1014.1,
+     "s": "A",
+     "es": "Once you realize your brain has been setting off false alarms, you have to do the hardest thing imaginable.",
+     "ko": "뇌가 거짓 경보를 울려 왔다는 걸 깨달으면, 상상할 수 있는 가장 어려운 일을 해야 해요."
+    },
+    {
+     "t": 1019.6,
+     "s": "A",
+     "es": "You have to drop the suspicion, take off the armor, and risk opening the door to connection again.",
+     "ko": "의심을 내려놓고, 갑옷을 벗고, 위험을 무릅쓰고 다시 연결의 문을 열어야 해요."
+    },
+    {
+     "t": 1024.7,
+     "s": "A",
+     "es": "You have to force yourself to assume people actually do like you.",
+     "ko": "사람들이 정말로 나를 좋아한다고 억지로라도 가정해야 해요."
+    },
+    {
+     "t": 1028.0,
+     "s": "B",
+     "es": "It requires immense vulnerability. You have to put yourself in situations where you might be uncomfortable, knowing that it is the only path back to the tribe.",
+     "ko": "엄청난 용기를 내어 약한 모습을 보여야 해요. 그게 부족으로 돌아가는 유일한 길이라는 걸 알고, 불편할 수도 있는 상황에 자신을 둬야 해요."
+    },
+    {
+     "t": 1036.2,
+     "s": "B",
+     "es": "You have to accept the dinner invitation even when your brain is screaming at you to stay in your apartment.",
+     "ko": "뇌가 집에 있으라고 소리쳐도 저녁 초대를 받아들여야 해요."
+    },
+    {
+     "t": 1041.8,
+     "s": "B",
+     "es": "And crucially, if this self-reflection and behavior modification isn't enough, if the cycle has gone on too long and feels too heavy to lift on your own, reaching out to a professional is imperative.",
+     "ko": "그리고 중요한 건, 이런 자기 성찰과 행동 변화로 충분하지 않다면, 순환이 너무 오래돼서 혼자 들기에 너무 무겁다면, 전문가에게 손을 내미는 게 꼭 필요해요."
+    },
+    {
+     "t": 1052.0,
+     "s": "A",
+     "es": "I think the way psychologists frame this is brilliant. Seeking therapy for loneliness is not a sign of weakness; it is an act of immense courage.",
+     "ko": "심리학자들이 이걸 바라보는 방식이 정말 훌륭한 것 같아요. 외로움 때문에 상담을 받는 건 약함의 표시가 아니라 엄청난 용기의 행동이에요."
+    },
+    {
+     "t": 1060.1,
+     "s": "A",
+     "es": "It's literally you taking charge of a biological system that has gone completely haywire.",
+     "ko": "완전히 엉망이 된 생물학적 시스템을 말 그대로 내가 다시 책임지는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "외로움은 공중 보건의 위기 — 우리는 서로의 서식지",
+   "lines": [
+    {
+     "t": 1065.0,
+     "s": "B",
+     "es": "Absolutely. And if we zoom out for a macro conclusion of all this material, we often view loneliness as an individual failing, right?",
+     "ko": "그렇죠. 그리고 이 자료 전체를 크게 보고 결론을 내리면, 우리는 흔히 외로움을 개인의 실패로 보잖아요?"
+    },
+    {
+     "t": 1073.3,
+     "s": "B",
+     "es": "Like it's a personal problem that each person has to solve in private for their own happiness.",
+     "ko": "각자 자기 행복을 위해 혼자 해결해야 하는 개인 문제처럼요."
+    },
+    {
+     "t": 1079.2,
+     "s": "B",
+     "es": "But that is the wrong framework entirely. Loneliness is fundamentally a public health crisis.",
+     "ko": "하지만 그건 완전히 잘못된 틀이에요. 외로움은 근본적으로 공중 보건의 위기예요."
+    },
+    {
+     "t": 1085.0,
+     "s": "A",
+     "es": "Well, yeah, because it's killing us at the same rate as a pack of cigarettes. It's a physiological toxin.",
+     "ko": "그렇죠, 담배 한 갑과 같은 비율로 우리를 죽이고 있으니까요. 생리적인 독소예요."
+    },
+    {
+     "t": 1091.0,
+     "s": "B",
+     "es": "And look at the animal kingdom. Most animals look to their physical environment to find what they need to survive.",
+     "ko": "그리고 동물의 세계를 보세요. 대부분의 동물은 살아남는 데 필요한 걸 물리적 환경에서 찾아요."
+    },
+    {
+     "t": 1097.8,
+     "s": "B",
+     "es": "They look for water, for shelter, for vegetation.",
+     "ko": "물, 은신처, 식물을 찾죠."
+    },
+    {
+     "t": 1100.7,
+     "s": "B",
+     "es": "But humans — humans look to each other. Our survival, our psychological health, our very biology is dependent on human connection.",
+     "ko": "하지만 인간은, 인간은 서로를 바라봐요. 우리의 생존, 정신 건강, 생물학 자체가 사람과의 연결에 달려 있어요."
+    },
+    {
+     "t": 1108.5,
+     "s": "B",
+     "es": "We are the environment for one another.",
+     "ko": "우리는 서로에게 환경이에요."
+    },
+    {
+     "t": 1110.8,
+     "s": "B",
+     "es": "And if we want to thrive, our society, our cities, our workplaces, our daily routines — they must be built with this fundamental biological truth in mind.",
+     "ko": "그리고 잘 살고 싶다면, 우리 사회, 도시, 직장, 일상은 이 근본적인 생물학적 진실을 염두에 두고 지어져야 해요."
+    },
+    {
+     "t": 1120.0,
+     "s": "A",
+     "es": "We aren't just individuals bouncing around. We are the habitat for each other.",
+     "ko": "우리는 그냥 이리저리 떠도는 개인이 아니에요. 서로에게 서식지예요."
+    },
+    {
+     "t": 1124.7,
+     "s": "A",
+     "es": "Listener, thank you so much for joining us on this deep dive.",
+     "ko": "청취자 여러분, 이번 딥다이브에 함께해 주셔서 정말 고마워요."
+    },
+    {
+     "t": 1128.3,
+     "s": "A",
+     "es": "I hope you can take these practical steps — dropping the shame, interrogating those negative assumptions — and use them to reframe your social interactions today.",
+     "ko": "이 실천 단계들, 수치심을 내려놓고 부정적인 가정을 따져 묻는 걸 가져가서 오늘 여러분의 인간관계를 새롭게 바라보는 데 쓰셨으면 해요."
+    },
+    {
+     "t": 1138.0,
+     "s": "A",
+     "es": "Challenge that faulty smoke detector in your mind.",
+     "ko": "마음속 고장 난 화재경보기에 맞서 보세요."
+    },
+    {
+     "t": 1141.0,
+     "s": "B",
+     "es": "It's hard work, but it's worth it.",
+     "ko": "힘든 일이지만 그럴 가치가 있어요."
+    }
+   ]
+  },
+  {
+   "title": "마지막 생각 — 인터넷 속 수천 명의 연결은 정크푸드일까?",
+   "lines": [
+    {
+     "t": 1143.0,
+     "s": "A",
+     "es": "It really is. But before we go, I want to leave you with a final lingering thought to mull over long after this audio stops.",
+     "ko": "정말 그래요. 그런데 마치기 전에, 이 오디오가 끝난 뒤에도 오래 곱씹을 마지막 생각 하나를 남기고 싶어요."
+    },
+    {
+     "t": 1151.3,
+     "s": "A",
+     "es": "We talked about how our ancient, 500,000-year-old brains are biologically starving for deep, vulnerable connection with a core tribe of just 50 to 150 people.",
+     "ko": "50만 년 된 우리의 오래된 뇌가 50~150명의 핵심 부족과 깊고 진솔한 연결을 생물학적으로 굶주리고 있다고 이야기했죠."
+    },
+    {
+     "t": 1161.8,
+     "s": "A",
+     "es": "So is it possible that having thousands of faceless connections on the internet, just scrolling through curated feeds of people you hardly know, is like feeding our brains junk food?",
+     "ko": "그렇다면 인터넷에서 얼굴 없는 수천 명과 연결돼, 거의 모르는 사람들의 잘 꾸며진 피드를 스크롤하는 건, 뇌에 정크푸드를 먹이는 것과 같지 않을까요?"
+    },
+    {
+     "t": 1174.0,
+     "s": "B",
+     "es": "Oh, that's an interesting point.",
+     "ko": "오, 흥미로운 지적이네요."
+    },
+    {
+     "t": 1175.0,
+     "s": "A",
+     "es": "Right. It's like drinking salt water when you're dying of thirst. You're putting something in your mouth, but biologically you're actually dehydrating yourself faster.",
+     "ko": "그렇죠. 목말라 죽어 갈 때 바닷물을 마시는 것 같아요. 입에 뭔가 넣고는 있지만, 생물학적으로는 오히려 더 빨리 탈수되는 거죠."
+    },
+    {
+     "t": 1184.3,
+     "s": "A",
+     "es": "Are we just tricking ourselves into thinking we're eating, while leaving ourselves perpetually, biologically starving for the real thing?",
+     "ko": "우리는 먹고 있다고 스스로를 속이면서, 진짜 연결에는 생물학적으로 영원히 굶주린 채 지내고 있는 건 아닐까요?"
+    },
+    {
+     "t": 1191.8,
+     "s": "A",
+     "es": "Think about it. We'll see you next time on the Deep Dive.",
+     "ko": "생각해 보세요. 다음 딥다이브에서 만나요."
+    }
+   ]
+  }
+ ]
+}
