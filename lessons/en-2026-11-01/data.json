@@ -1,0 +1,2502 @@
+{
+ "id": "en-2026-11-01",
+ "lang": "en",
+ "date": "2026-11-01",
+ "title": "관료제는 AI의 산소다 — 하라리가 본 AI 혁명",
+ "es": "For AI, bureaucracy is oxygen.",
+ "emoji": "🗼",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "Why Bureaucracy Is Oxygen for AI",
+ "audio": "audio.m4a",
+ "duration": "24:46",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "두 진행자가 유발 노아 하라리의 최근 연설을 딥다이브로 파고들어요. AI는 망치가 아니라 독립적인 에이전트라는 것, 코드가 탑 그 자체가 된 바벨탑, 불신이 로켓 연료가 되는 군비 경쟁, 25억 년 전 대산화 사건에 빗댄 '관료제는 AI의 산소', 소가 주식 시장을 이해하지 못하듯 인간도 AI 관료 체계를 이해하지 못하게 될 위험, '당신의 다음 생각은 어디서 오나'라는 질문, 그리고 쉬지 않는 기계 앞에서 마음을 돌볼 시간을 지키라는 조언까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+ "topics": [
+  "tool vs. agent — the hammer and the printing press",
+  "the Tower of Babel, flipped — code is the tower itself",
+  "distrust as rocket fuel — a geopolitical arms race",
+  "the Great Oxygenation Event · bureaucracy is oxygen",
+  "native bureaucrats · we are going to be like the cows",
+  "the word vs. the flesh · Where does your next thought come from?",
+  "time is the real currency · protect time for your mind",
+  "구문: It is … that (강조) · not just A but B · if … would · the more … / as … increasingly"
+ ],
+ "grammar": [
+  {
+   "title": "① 핵심 대비 — tool vs agent",
+   "lead": "에피소드 전체를 관통하는 대비예요.",
+   "table": {
+    "head": [
+     "tool (망치·인쇄기)",
+     "agent (AI)"
+    ],
+    "rows": [
+     [
+      "purely obedient / entirely passive",
+      "makes its own decisions"
+     ],
+     [
+      "cannot form an intent",
+      "invents concepts its creators never anticipated"
+     ],
+     [
+      "couldn't decide to print the Koran instead",
+      "strings of language making independent choices"
+     ],
+     [
+      "required human intention at every single step",
+      "native to the data stream"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "② 하라리의 큰 비유 세 가지",
+   "lead": "추상적인 주장을 이미지로 기억해 두세요.",
+   "table": {
+    "head": [
+     "비유",
+     "원문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "바벨탑",
+      "Language … is the tower itself.",
+      "언어(코드)가 도구가 아니라 탑 자체"
+     ],
+     [
+      "대산화 사건",
+      "For AI, bureaucracy is oxygen.",
+      "우리가 쏟아 낸 말·데이터가 AI의 서식지"
+     ],
+     [
+      "소와 주식 시장",
+      "Soon, we are going to be like the cows.",
+      "이해할 수 없는 체계에 운명을 맡기게 됨"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "③ not just A, but B — A뿐 아니라 B도",
+   "lead": "예상을 넘어 범위를 넓힐 때 써요. 강조하려면 not just A <b>but</b> B.",
+   "examples": [
+    [
+     "Humans have been polluting the planet, and not just with carbon emissions or plastics, but with data.",
+     "인간은 탄소 배출이나 플라스틱만이 아니라 데이터로도 지구를 오염시켜 왔어요."
+    ],
+    [
+     "Our computer code isn't just a tool used to build the tower. It is the tower itself.",
+     "우리의 코드는 탑을 쌓는 도구일 뿐이 아니라 탑 그 자체예요."
+    ]
+   ]
+  },
+  {
+   "title": "④ You would think … , but … — ~라고 생각하겠지만",
+   "lead": "상식적인 예상을 먼저 인정하고 뒤집을 때 쓰는 대화 표현이에요.",
+   "examples": [
+    [
+     "You'd think the project would just stall out of sheer gridlock.",
+     "순전히 꽉 막혀서 프로젝트가 멈출 거라고 생각하겠죠."
+    ],
+    [
+     "You would think so, but it actually creates a frantic international arms race.",
+     "그렇게 생각하겠지만, 실제로는 미친 듯한 국제 군비 경쟁을 낳아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 가정법 — If you … , … will/would",
+   "lead": "사고 실험을 펼칠 때 계속 나와요.",
+   "examples": [
+    [
+     "If you throw one average human into a cage match with a chimpanzee, the human is going to lose every single time.",
+     "평범한 사람을 침팬지와 철창 격투에 넣으면, 사람이 매번 질 거예요."
+    ],
+    [
+     "If a massive geopolitical crisis happens on a Friday night, Wall Street literally cannot react until Monday morning.",
+     "금요일 밤에 위기가 터지면, 월가는 월요일 아침까지 반응할 수 없어요."
+    ],
+    [
+     "What happens when two massive AI tribes go to a holy war …?",
+     "두 거대한 AI 부족이 성전을 벌이면 어떻게 될까요?"
+    ]
+   ]
+  },
+  {
+   "title": "⑥ It is only through A that B — A를 통해서만 B할 수 있다",
+   "lead": "<b>It is … that</b> 강조 구문. only와 함께 '오직 ~해야만'을 강조해요.",
+   "examples": [
+    [
+     "It is only through a rested, healthy mind that we can resist paranoia.",
+     "푹 쉰 건강한 마음을 통해서만 편집증에 맞설 수 있어요."
+    ],
+    [
+     "It's not some Hollywood scenario of one rogue AI launching missiles.",
+     "폭주한 AI 하나가 미사일을 쏘는 할리우드 시나리오가 아니에요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ as … increasingly / the more … — ~할수록",
+   "lead": "변화가 진행되면서 결과도 커지는 흐름을 나타내요.",
+   "examples": [
+    [
+     "As AI systems increasingly automate the stock market, they strip away those buffers.",
+     "AI가 주식 시장을 점점 더 자동화하면서 완충 장치를 걷어 내요."
+    ],
+    [
+     "As the atmosphere saturated with this toxic oxygen, it caused a mass extinction.",
+     "대기가 유독한 산소로 포화되면서 대멸종이 일어났어요."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "You use it, it doesn't use you.",
+   "내가 그걸 쓰지, 그게 나를 쓰진 않아요."
+  ],
+  [
+   "A hammer literally cannot form an intent.",
+   "망치는 말 그대로 의도를 품을 수 없어요."
+  ],
+  [
+   "A lack of trust actually acts like rocket fuel for the project.",
+   "신뢰 부족이 오히려 프로젝트의 로켓 연료 역할을 해요."
+  ],
+  [
+   "Intelligence always requires an environment tailored to sustain it.",
+   "지능은 늘 그걸 유지하도록 맞춰진 환경이 필요해요."
+  ],
+  [
+   "For AI, bureaucracy is oxygen.",
+   "AI에게 관료제는 산소예요."
+  ],
+  [
+   "Money is quite literally a shared story made from words.",
+   "돈은 말 그대로 말로 만든 공유된 이야기예요."
+  ],
+  [
+   "We evolved on the savanna, not in a cubicle.",
+   "우리는 칸막이 사무실이 아니라 사바나에서 진화했어요."
+  ],
+  [
+   "Where does your next thought come from?",
+   "당신의 다음 생각은 어디서 오나요?"
+  ],
+  [
+   "The letter of the law versus the spirit of the law.",
+   "법의 문자 대 법의 정신."
+  ],
+  [
+   "Paranoia isn't just an emotion. It's a physiological default when the brain is exhausted.",
+   "편집증은 그냥 감정이 아니에요. 뇌가 지쳤을 때의 생리적 기본값이에요."
+  ],
+  [
+   "The true currency of biological life is time.",
+   "생물학적 삶의 진짜 화폐는 시간이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "unpack",
+   "ko": "(내용을) 풀어 보다, 분석하다",
+   "ex": "So, okay, let's unpack this.",
+   "exKo": "자, 그럼 풀어 봅시다."
+  },
+  {
+   "es": "unwittingly",
+   "ko": "자기도 모르게",
+   "ex": "we are unwittingly birthing an entirely new species",
+   "exKo": "우리는 자기도 모르게 완전히 새로운 종을 낳고 있다"
+  },
+  {
+   "es": "obedient",
+   "ko": "순종적인",
+   "ex": "It's purely obedient.",
+   "exKo": "순전히 순종적이에요."
+  },
+  {
+   "es": "agency",
+   "ko": "행위 주체성",
+   "ex": "A tool has absolutely zero agency.",
+   "exKo": "도구에는 행위 주체성이 전혀 없어요."
+  },
+  {
+   "es": "premise",
+   "ko": "전제",
+   "ex": "the core premise that Harari lays out",
+   "exKo": "하라리가 내세우는 핵심 전제"
+  },
+  {
+   "es": "anticipate",
+   "ko": "예상하다",
+   "ex": "concepts its creators never anticipated",
+   "exKo": "개발자가 전혀 예상하지 못한 개념"
+  },
+  {
+   "es": "reverse engineer",
+   "ko": "역설계하다",
+   "ex": "we might not be able to reverse engineer it",
+   "exKo": "우리는 그걸 역설계하지 못할 수도 있다"
+  },
+  {
+   "es": "overarching",
+   "ko": "전반적인, 포괄적인",
+   "ex": "one overarching question",
+   "exKo": "큰 질문 하나"
+  },
+  {
+   "es": "unprecedented",
+   "ko": "전례 없는",
+   "ex": "things that are unprecedented",
+   "exKo": "전례 없는 것들"
+  },
+  {
+   "es": "divergence",
+   "ko": "차이, 갈라짐",
+   "ex": "the second divergence Harari points out",
+   "exKo": "하라리가 짚는 두 번째 차이"
+  },
+  {
+   "es": "fractured",
+   "ko": "분열된",
+   "ex": "The international order is highly fractured.",
+   "exKo": "국제 질서는 심하게 분열돼 있다."
+  },
+  {
+   "es": "gridlock",
+   "ko": "교착 상태",
+   "ex": "stall out of sheer gridlock",
+   "exKo": "순전히 꽉 막혀서 멈추다"
+  },
+  {
+   "es": "frantic",
+   "ko": "미친 듯한, 정신없는",
+   "ex": "a frantic international arms race",
+   "exKo": "미친 듯한 국제 군비 경쟁"
+  },
+  {
+   "es": "push back on",
+   "ko": "~에 반박하다",
+   "ex": "I want to push back on this idea a little bit.",
+   "exKo": "이 생각에 살짝 반론하고 싶어요."
+  },
+  {
+   "es": "paradigm shift",
+   "ko": "패러다임 전환",
+   "ex": "Huge paradigm shift.",
+   "exKo": "엄청난 패러다임 전환."
+  },
+  {
+   "es": "democratize",
+   "ko": "민주화하다, 대중화하다",
+   "ex": "It democratized information.",
+   "exKo": "정보를 민주화했다."
+  },
+  {
+   "es": "helpless",
+   "ko": "무력한",
+   "ex": "It's totally helpless.",
+   "exKo": "완전히 무력해요."
+  },
+  {
+   "es": "ecological niche",
+   "ko": "생태적 지위",
+   "ex": "a very specific ecological niche",
+   "exKo": "아주 특정한 생태적 지위"
+  },
+  {
+   "es": "anaerobic",
+   "ko": "혐기성의",
+   "ex": "anaerobic organisms",
+   "exKo": "혐기성 생물"
+  },
+  {
+   "es": "corrosive",
+   "ko": "부식성의",
+   "ex": "a deadly corrosive poison",
+   "exKo": "치명적인 부식성 독"
+  },
+  {
+   "es": "byproduct",
+   "ko": "부산물",
+   "ex": "oxygen as a biological byproduct",
+   "exKo": "생물학적 부산물로서의 산소"
+  },
+  {
+   "es": "saturate",
+   "ko": "포화시키다",
+   "ex": "as the atmosphere saturated with toxic oxygen",
+   "exKo": "대기가 유독한 산소로 포화되면서"
+  },
+  {
+   "es": "mass extinction",
+   "ko": "대멸종",
+   "ex": "one of the most significant mass extinctions",
+   "exKo": "가장 중대한 대멸종 중 하나"
+  },
+  {
+   "es": "analogous",
+   "ko": "유사한",
+   "ex": "an analogous biological moment",
+   "exKo": "비슷한 생물학적 순간"
+  },
+  {
+   "es": "bylaws",
+   "ko": "정관, 내규",
+   "ex": "corporate bylaws",
+   "exKo": "회사 정관"
+  },
+  {
+   "es": "high-dimensional vector",
+   "ko": "고차원 벡터",
+   "ex": "a fragment of a word converted into a high-dimensional vector",
+   "exKo": "고차원 벡터로 변환된 단어 조각"
+  },
+  {
+   "es": "thrive",
+   "ko": "번성하다",
+   "ex": "the niche where AI thrives",
+   "exKo": "AI가 번성하는 서식지"
+  },
+  {
+   "es": "underappreciated",
+   "ko": "과소평가된",
+   "ex": "the underappreciated engines of human dominance",
+   "exKo": "인간 지배의 과소평가된 엔진"
+  },
+  {
+   "es": "fiat money",
+   "ko": "법정 화폐",
+   "ex": "fiat money and ETFs and IPOs",
+   "exKo": "법정 화폐, ETF, IPO"
+  },
+  {
+   "es": "lattice",
+   "ko": "격자",
+   "ex": "an elaborate lattice of language tokens",
+   "exKo": "언어 토큰의 정교한 격자"
+  },
+  {
+   "es": "acumen",
+   "ko": "감각, 수완",
+   "ex": "her financial acumen",
+   "exKo": "그녀의 금융 감각"
+  },
+  {
+   "es": "leverage",
+   "ko": "지렛대로 이용하다",
+   "ex": "The banker leverages the bureaucracy.",
+   "exKo": "은행가는 관료제를 지렛대로 삼는다."
+  },
+  {
+   "es": "chafe against",
+   "ko": "~에 짜증 내다, 답답해하다",
+   "ex": "We naturally chafe against bureaucracy.",
+   "exKo": "우리는 본래 관료제에 짜증을 낸다."
+  },
+  {
+   "es": "alienate",
+   "ko": "소외시키다",
+   "ex": "It alienates us.",
+   "exKo": "그건 우리를 소외시킨다."
+  },
+  {
+   "es": "archaic",
+   "ko": "낡은, 고풍스러운",
+   "ex": "centuries of archaic canon law",
+   "exKo": "수백 년 된 고풍스러운 교회법"
+  },
+  {
+   "es": "metabolize",
+   "ko": "대사하다, 소화하다",
+   "ex": "metabolize this bureaucratic oxygen",
+   "exKo": "이 관료적 산소를 대사하다"
+  },
+  {
+   "es": "compliance",
+   "ko": "(법규) 준수",
+   "ex": "determining corporate compliance",
+   "exKo": "기업의 법규 준수를 판단하다"
+  },
+  {
+   "es": "bubble up",
+   "ko": "보글보글 떠오르다",
+   "ex": "words bubbling up from the subconscious",
+   "exKo": "무의식에서 떠오르는 말"
+  },
+  {
+   "es": "glorified",
+   "ko": "겉만 번지르르한, 미화된",
+   "ex": "just glorified autocomplete",
+   "exKo": "그저 겉만 번지르르한 자동 완성"
+  },
+  {
+   "es": "doctrine",
+   "ko": "교리",
+   "ex": "a religious doctrine",
+   "exKo": "종교 교리"
+  },
+  {
+   "es": "vehemently",
+   "ko": "격렬하게",
+   "ex": "vehemently argue",
+   "exKo": "강하게 주장하다"
+  },
+  {
+   "es": "inextricably",
+   "ko": "떼려야 뗄 수 없게",
+   "ex": "inextricably tied to planetary cycles",
+   "exKo": "행성의 주기에 떼려야 뗄 수 없게 묶인"
+  },
+  {
+   "es": "buffer",
+   "ko": "완충 장치",
+   "ex": "We implemented buffers.",
+   "exKo": "우리는 완충 장치를 넣었다."
+  },
+  {
+   "es": "circadian rhythm",
+   "ko": "생체 리듬",
+   "ex": "The AI machine has no circadian rhythm.",
+   "exKo": "AI 기계에는 생체 리듬이 없다."
+  },
+  {
+   "es": "impoverished",
+   "ko": "가난한, 빈곤한",
+   "ex": "they are fundamentally impoverished",
+   "exKo": "그들은 근본적으로 가난하다"
+  },
+  {
+   "es": "zero-sum",
+   "ko": "제로섬의",
+   "ex": "zero-sum paranoia",
+   "exKo": "제로섬 편집증"
+  },
+  {
+   "es": "collateral damage",
+   "ko": "부수적 피해",
+   "ex": "the collateral damage of a theological dispute",
+   "exKo": "신학 논쟁의 부수적 피해"
+  },
+  {
+   "es": "mull over",
+   "ko": "곱씹다",
+   "ex": "one final thought to mull over",
+   "exKo": "곱씹어 볼 마지막 생각"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "이 에피소드의 미션 질문은?",
+   "options": [
+    "AI는 얼마나 비싼가",
+    "인류는 새 도구를 만드는가, 새로운 종을 낳는가",
+    "망치는 어떻게 쓰는가",
+    "누가 AI를 발명했나"
+   ],
+   "answer": 1,
+   "explain": "to figure out if humanity is simply building a new tool right now, or if we are unwittingly birthing an entirely new species."
+  },
+  {
+   "q": "하라리가 바벨탑 은유를 뒤집은 방식은?",
+   "options": [
+    "언어가 탑을 쌓는 도구다",
+    "오늘날 언어(코드)는 탑 그 자체다",
+    "탑은 무너지지 않았다",
+    "신이 AI를 만들었다"
+   ],
+   "answer": 1,
+   "explain": "But today with AI, language, specifically computer code, is the tower itself."
+  },
+  {
+   "q": "AI 개발에서 신뢰 부족은 어떤 역할을 하나요?",
+   "options": [
+    "프로젝트를 멈춘다",
+    "로켓 연료처럼 가속한다",
+    "아무 영향이 없다",
+    "안전 기준을 만든다"
+   ],
+   "answer": 1,
+   "explain": "with AI, a lack of trust actually acts like rocket fuel for the project."
+  },
+  {
+   "q": "인쇄기가 '도구'였던 이유가 아닌 것은?",
+   "options": [
+    "스스로 코란을 찍기로 결정할 수 없었다",
+    "스스로 전신기를 발명할 수 없었다",
+    "모든 단계에 인간의 의도가 필요했다",
+    "스스로 새 아이디어를 만들어 냈다"
+   ],
+   "answer": 3,
+   "explain": "It required human intention at every single step."
+  },
+  {
+   "q": "'정글에 떨군 하드 드라이브' 반론에 대한 하라리의 답은?",
+   "options": [
+    "AI는 정글에서도 강하다",
+    "모든 지능은 그걸 지탱하는 특정 환경에 의존한다",
+    "AI에게 몸을 만들어 줘야 한다",
+    "정글에는 전기가 있다"
+   ],
+   "answer": 1,
+   "explain": "all intelligence … is completely reliant on a specific supportive environment."
+  },
+  {
+   "q": "대산화 사건 당시 혐기성 생물에게 산소는?",
+   "options": [
+    "영양분",
+    "치명적인 부식성 독",
+    "물",
+    "에너지원"
+   ],
+   "answer": 1,
+   "explain": "oxygen was actually a deadly corrosive poison."
+  },
+  {
+   "q": "'For AI, bureaucracy is oxygen.'의 뜻으로 알맞은 것은?",
+   "options": [
+    "AI는 숨을 쉰다",
+    "인간이 쌓아 온 말·데이터·서류가 AI가 번성하는 서식지다",
+    "관료제는 공기를 깨끗하게 한다",
+    "AI는 관료를 싫어한다"
+   ],
+   "answer": 1,
+   "explain": "that mathematical ecosystem is the exact artificial niche where AI thrives."
+  },
+  {
+   "q": "인간 백만 명이 침팬지 백만 마리를 이기는 이유는?",
+   "options": [
+    "더 힘이 세서",
+    "대규모로 유연하게 협력할 수 있어서",
+    "무기가 있어서",
+    "더 빨라서"
+   ],
+   "answer": 1,
+   "explain": "Because we can cooperate in massive numbers."
+  },
+  {
+   "q": "하라리가 AI 시스템을 부르는 이름은?",
+   "options": [
+    "digital gods",
+    "native bureaucrats",
+    "rogue agents",
+    "smart hammers"
+   ],
+   "answer": 1,
+   "explain": "Harari calls these AI systems native bureaucrats."
+  },
+  {
+   "q": "'we are going to be like the cows'의 의미는?",
+   "options": [
+    "채식을 하게 된다",
+    "이해할 수 없는 체계가 우리 운명을 통제하게 된다",
+    "시골로 이사 간다",
+    "더 건강해진다"
+   ],
+   "answer": 1,
+   "explain": "the cow cannot comprehend the bureaucratic system controlling its fate."
+  },
+  {
+   "q": "뉴욕 증권 거래소의 휴장 시간이 중요한 이유는?",
+   "options": [
+    "수수료를 아끼려고",
+    "인간이 자고, 상의하고, 신경계를 재설정할 시간을 주는 완충 장치라서",
+    "AI를 쉬게 하려고",
+    "주가를 올리려고"
+   ],
+   "answer": 1,
+   "explain": "that structural buffer gives human bankers … the time to sleep, to consult with experts…"
+  },
+  {
+   "q": "하라리가 마지막에 청취자에게 준 조언은?",
+   "options": [
+    "AI 주식을 사라",
+    "자기 마음을 돌볼 시간을 고집스럽게 지켜라",
+    "소셜 미디어를 더 써라",
+    "코딩을 배워라"
+   ],
+   "answer": 1,
+   "explain": "to stubbornly protect the time to take care of your own mind."
+  }
+ ],
+ "sections": [
+  {
+   "title": "도입 — 새 도구일까, 새 종일까",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "A",
+     "es": "Welcome to the deep dive. Today we are unpacking a really fascinating recent address by the historian and philosopher Yuval Noah Harari.",
+     "ko": "딥다이브에 오신 걸 환영해요. 오늘은 역사학자이자 철학자 유발 노아 하라리의 아주 흥미로운 최근 연설을 풀어 볼게요."
+    },
+    {
+     "t": 8.0,
+     "s": "B",
+     "es": "Yeah, alongside some really interesting contextual historical research that ties it all together.",
+     "ko": "네, 그걸 하나로 엮어 주는 흥미로운 역사적 배경 연구도 함께요."
+    },
+    {
+     "t": 13.0,
+     "s": "A",
+     "es": "Right. And our mission for this deep dive, for you listening, is basically to figure out if humanity is simply building a new tool right now, or if we are unwittingly birthing an entirely new species.",
+     "ko": "맞아요. 그리고 듣고 계신 여러분을 위한 이번 딥다이브의 미션은, 인류가 지금 그저 새 도구를 만들고 있는 건지, 아니면 자기도 모르게 완전히 새로운 종을 낳고 있는 건지 알아내는 거예요."
+    },
+    {
+     "t": 26.0,
+     "s": "B",
+     "es": "Which is a heavy question.",
+     "ko": "무거운 질문이네요."
+    },
+    {
+     "t": 27.0,
+     "s": "A",
+     "es": "It is. So, okay, let's unpack this.",
+     "ko": "그렇죠. 자, 그럼 풀어 봅시다."
+    },
+    {
+     "t": 29.0,
+     "s": "A",
+     "es": "Because normally, you know, when you go to the hardware store and you buy a hammer, there is a very clear expectation of how that relationship is going to work.",
+     "ko": "보통 철물점에 가서 망치를 사면, 그 관계가 어떻게 돌아갈지에 대한 아주 분명한 기대가 있잖아요."
+    },
+    {
+     "t": 37.0,
+     "s": "B",
+     "es": "Right. You use it, it doesn't use you.",
+     "ko": "그렇죠. 내가 망치를 쓰지, 망치가 나를 쓰진 않죠."
+    },
+    {
+     "t": 39.0,
+     "s": "A",
+     "es": "Exactly. It's purely obedient.",
+     "ko": "바로 그거예요. 순전히 순종적이죠."
+    },
+    {
+     "t": 41.0,
+     "s": "A",
+     "es": "Like, you pick it up, you hit a nail, you put it down in the toolbox. And it just sits there in the dark.",
+     "ko": "집어 들고, 못을 박고, 공구함에 내려놓으면, 그냥 어둠 속에 가만히 있어요."
+    },
+    {
+     "t": 47.0,
+     "s": "B",
+     "es": "It doesn't do anything without you.",
+     "ko": "사람 없이는 아무것도 안 하죠."
+    },
+    {
+     "t": 49.0,
+     "s": "A",
+     "es": "No. It definitely doesn't wake up in the middle of the night, decide it prefers a totally different architectural style, and just start building a new house on its own.",
+     "ko": "네. 한밤중에 깨어나서 완전히 다른 건축 양식이 더 좋다고 정하고는 혼자 새집을 짓기 시작하진 않죠."
+    },
+    {
+     "t": 58.0,
+     "s": "B",
+     "es": "Right. Because a tool has absolutely zero agency.",
+     "ko": "맞아요. 도구에는 행위 주체성이 전혀 없으니까요."
+    },
+    {
+     "t": 61.0,
+     "s": "B",
+     "es": "I mean, it is completely reliant on the human hand and human intention to actually manipulate the physical world.",
+     "ko": "물리 세계를 실제로 다루려면 전적으로 사람의 손과 의도에 기대야 해요."
+    },
+    {
+     "t": 67.0,
+     "s": "B",
+     "es": "A hammer literally cannot form an intent.",
+     "ko": "망치는 말 그대로 의도를 품을 수가 없어요."
+    },
+    {
+     "t": 70.0,
+     "s": "A",
+     "es": "Exactly.",
+     "ko": "바로 그거죠."
+    }
+   ]
+  },
+  {
+   "title": "망치가 아니라 에이전트",
+   "lines": [
+    {
+     "t": 71.0,
+     "s": "B",
+     "es": "But the core premise that Harari lays out, and what he actually calls the greatest leadership challenge humanity has ever faced, is that we are fundamentally misunderstanding the AI revolution by treating it like it's a hammer.",
+     "ko": "그런데 하라리가 내세우는 핵심 전제, 그리고 그가 인류가 겪은 가장 큰 리더십 과제라고 부르는 건, 우리가 AI 혁명을 망치처럼 다루면서 근본적으로 오해하고 있다는 거예요."
+    },
+    {
+     "t": 84.0,
+     "s": "A",
+     "es": "We think it's just the next big gadget.",
+     "ko": "그냥 다음번 대단한 기기쯤으로 생각하죠."
+    },
+    {
+     "t": 86.0,
+     "s": "B",
+     "es": "Exactly. We're assuming it's just another invention in this long line of human tools.",
+     "ko": "바로 그거예요. 인간의 도구가 길게 이어져 온 줄에 하나 더 붙은 발명품이라고 가정하는 거죠."
+    },
+    {
+     "t": 90.0,
+     "s": "B",
+     "es": "But it isn't. AI is an independent agent.",
+     "ko": "하지만 아니에요. AI는 독립적인 에이전트예요."
+    },
+    {
+     "t": 95.0,
+     "s": "A",
+     "es": "An agent, yeah.",
+     "ko": "에이전트, 그렇죠."
+    },
+    {
+     "t": 96.0,
+     "s": "B",
+     "es": "It is learning to make its own decisions, to analyze environments and invent concepts that its human creators frankly never anticipated.",
+     "ko": "AI는 스스로 결정을 내리고, 환경을 분석하고, 솔직히 인간 개발자가 전혀 예상하지 못한 개념을 만들어 내는 법을 배우고 있어요."
+    },
+    {
+     "t": 104.0,
+     "s": "B",
+     "es": "And honestly, we might not even be able to reverse engineer or fully understand what it's doing.",
+     "ko": "그리고 솔직히 우리는 AI가 하는 일을 역설계하거나 완전히 이해하지도 못할 수 있어요."
+    },
+    {
+     "t": 109.0,
+     "s": "A",
+     "es": "Which is terrifying.",
+     "ko": "그게 무서운 거죠."
+    },
+    {
+     "t": 110.0,
+     "s": "B",
+     "es": "Yeah.",
+     "ko": "네."
+    },
+    {
+     "t": 112.0,
+     "s": "A",
+     "es": "I want you listening to keep one overarching question in mind as we go through this today.",
+     "ko": "오늘 이야기를 따라가면서, 듣고 계신 여러분이 큰 질문 하나를 염두에 두셨으면 해요."
+    },
+    {
+     "t": 115.0,
+     "s": "A",
+     "es": "Are we the architects of this new technology, or are we just creating the oxygen for an entirely new entity to breathe?",
+     "ko": "우리는 이 새로운 기술의 설계자일까요, 아니면 완전히 새로운 존재가 숨 쉴 산소를 만들어 주고 있을 뿐일까요?"
+    }
+   ]
+  },
+  {
+   "title": "바벨탑 은유 뒤집기",
+   "lines": [
+    {
+     "t": 121.0,
+     "s": "B",
+     "es": "That's the perfect way to frame it.",
+     "ko": "완벽한 문제 설정이네요."
+    },
+    {
+     "t": 123.0,
+     "s": "B",
+     "es": "And to really grasp the magnitude of this shift from a tool to an agent, we have to look at how humans historically try to make sense of things that are unprecedented.",
+     "ko": "도구에서 에이전트로 넘어가는 이 변화의 크기를 제대로 파악하려면, 인간이 역사적으로 전례 없는 것을 어떻게 이해하려 했는지 봐야 해요."
+    },
+    {
+     "t": 133.0,
+     "s": "A",
+     "es": "We always reach for metaphors, right?",
+     "ko": "늘 은유에 손을 뻗죠?"
+    },
+    {
+     "t": 135.0,
+     "s": "B",
+     "es": "We do. We inevitably compare the new thing to something familiar.",
+     "ko": "그렇죠. 새로운 걸 어쩔 수 없이 익숙한 것과 비교해요."
+    },
+    {
+     "t": 139.0,
+     "s": "B",
+     "es": "So Harari brings up this recent comparison made by Pope Leo, who tried to frame the whole AI revolution through the lens of the biblical myth of the Tower of Babel.",
+     "ko": "그래서 하라리는 교황 레오가 최근에 한 비유를 꺼내요. AI 혁명 전체를 성경 속 바벨탑 신화의 렌즈로 바라보려 한 거죠."
+    },
+    {
+     "t": 149.0,
+     "s": "A",
+     "es": "Oh, right. The Babel story.",
+     "ko": "아, 바벨 이야기요."
+    },
+    {
+     "t": 151.0,
+     "s": "B",
+     "es": "Right.",
+     "ko": "네."
+    },
+    {
+     "t": 152.0,
+     "s": "A",
+     "es": "Where ancient humanity had a shared language, and it allowed them to cooperate and pool their resources to build this massive tower to challenge heaven.",
+     "ko": "고대 인류가 공통 언어를 갖고 있어서 협력하고 자원을 모아 하늘에 도전하는 거대한 탑을 쌓았던 이야기죠."
+    },
+    {
+     "t": 159.0,
+     "s": "B",
+     "es": "Exactly. But Harari takes that metaphor and completely flips it.",
+     "ko": "맞아요. 그런데 하라리는 그 은유를 완전히 뒤집어요."
+    },
+    {
+     "t": 163.0,
+     "s": "A",
+     "es": "How so?",
+     "ko": "어떻게요?"
+    },
+    {
+     "t": 164.0,
+     "s": "B",
+     "es": "Well, what's fascinating here is that in the original myth, language was just the tool they used to coordinate the construction.",
+     "ko": "흥미로운 건, 원래 신화에서 언어는 건설을 조율하는 데 쓰인 도구일 뿐이었다는 거예요."
+    },
+    {
+     "t": 171.0,
+     "s": "B",
+     "es": "But today with AI, language, specifically computer code, is the tower itself.",
+     "ko": "그런데 오늘날 AI에서는 언어, 특히 컴퓨터 코드가 탑 그 자체예요."
+    },
+    {
+     "t": 176.0,
+     "s": "A",
+     "es": "Oh, wow. So the code is the structure.",
+     "ko": "와. 그러니까 코드가 구조물이군요."
+    },
+    {
+     "t": 179.0,
+     "s": "B",
+     "es": "Yes. We are actively coding a universal super language.",
+     "ko": "네. 우리는 보편적인 초언어를 적극적으로 코딩하고 있어요."
+    },
+    {
+     "t": 185.0,
+     "s": "B",
+     "es": "And the second divergence Harari points out is even more alarming, honestly.",
+     "ko": "그리고 하라리가 짚는 두 번째 차이는 솔직히 더 걱정스러워요."
+    },
+    {
+     "t": 189.0,
+     "s": "A",
+     "es": "Okay, what is it?",
+     "ko": "그게 뭔가요?"
+    },
+    {
+     "t": 190.0,
+     "s": "B",
+     "es": "Well, in the ancient myth, God confused their language, right?",
+     "ko": "고대 신화에서는 신이 그들의 언어를 뒤섞었잖아요?"
+    },
+    {
+     "t": 193.0,
+     "s": "B",
+     "es": "They stopped trusting each other. Cooperation broke down, and the building project just collapsed.",
+     "ko": "서로를 믿지 않게 됐고, 협력이 무너졌고, 건설 프로젝트는 그냥 붕괴했죠."
+    },
+    {
+     "t": 199.0,
+     "s": "A",
+     "es": "Right. The lack of trust stopped the tower.",
+     "ko": "그렇죠. 신뢰 부족이 탑을 멈춰 세웠어요."
+    },
+    {
+     "t": 201.0,
+     "s": "B",
+     "es": "Exactly. But with AI, a lack of trust actually acts like rocket fuel for the project.",
+     "ko": "바로 그거예요. 그런데 AI에서는 신뢰 부족이 오히려 프로젝트의 로켓 연료 역할을 해요."
+    },
+    {
+     "t": 207.0,
+     "s": "A",
+     "es": "Really?",
+     "ko": "정말요?"
+    },
+    {
+     "t": 207.3,
+     "s": "B",
+     "es": "Yeah. The international order right now is highly fractured.",
+     "ko": "네. 지금 국제 질서는 심하게 분열돼 있어요."
+    },
+    {
+     "t": 210.0,
+     "s": "B",
+     "es": "I mean, there is deep paranoia and a severe lack of trust between competing nations and these massive tech corporations.",
+     "ko": "경쟁하는 나라들과 거대 테크 기업들 사이에 깊은 편집증과 심각한 불신이 있죠."
+    },
+    {
+     "t": 217.0,
+     "s": "A",
+     "es": "But wait, shouldn't that chaos slow things down?",
+     "ko": "잠깐만요, 그런 혼란이면 속도가 늦춰져야 하지 않나요?"
+    },
+    {
+     "t": 219.0,
+     "s": "A",
+     "es": "Like, if nobody agrees on safety standards or anything, you'd think the project would just stall out of sheer gridlock.",
+     "ko": "아무도 안전 기준 같은 데 합의하지 않으면, 꽉 막혀서 프로젝트가 멈출 것 같잖아요."
+    },
+    {
+     "t": 226.0,
+     "s": "B",
+     "es": "You would think so, but it actually creates a frantic international arms race. It's classic game theory.",
+     "ko": "그렇게 생각하겠지만, 실제로는 미친 듯한 국제 군비 경쟁을 낳아요. 전형적인 게임 이론이죠."
+    },
+    {
+     "t": 231.0,
+     "s": "A",
+     "es": "Ah, right. FOMO on a geopolitical scale.",
+     "ko": "아, 그렇군요. 지정학적 규모의 포모(FOMO)네요."
+    },
+    {
+     "t": 233.0,
+     "s": "B",
+     "es": "Exactly. Everyone is terrified of being left behind by their geopolitical rivals or corporate competitors.",
+     "ko": "바로 그거예요. 모두가 지정학적 라이벌이나 경쟁 기업에 뒤처질까 봐 겁에 질려 있어요."
+    },
+    {
+     "t": 239.0,
+     "s": "B",
+     "es": "So this mutual distrust is simultaneously speeding up the deployment of these frontier AI models while making it practically impossible for us to cooperate on keeping them contained or aligned.",
+     "ko": "그래서 이 상호 불신이 최첨단 AI 모델의 배포를 가속하는 동시에, 그 모델을 통제하거나 정렬하는 데 협력하는 걸 사실상 불가능하게 만들어요."
+    }
+   ]
+  },
+  {
+   "title": "인쇄기는 도구, AI는 주체",
+   "lines": [
+    {
+     "t": 249.0,
+     "s": "A",
+     "es": "Okay, I want to push back on this idea of AI as an independent agent just a little bit, because I think we need to define our terms clearly.",
+     "ko": "좋아요, AI가 독립적인 에이전트라는 생각에 살짝 반론을 해 보고 싶어요. 용어를 분명히 정의할 필요가 있다고 보거든요."
+    },
+    {
+     "t": 256.0,
+     "s": "B",
+     "es": "Sure.",
+     "ko": "그러세요."
+    },
+    {
+     "t": 256.3,
+     "s": "A",
+     "es": "When I think of major historical technological shifts, my mind immediately goes to Gutenberg's printing press in the 15th century.",
+     "ko": "역사적인 큰 기술 변화를 떠올리면, 저는 바로 15세기 구텐베르크의 인쇄기가 생각나요."
+    },
+    {
+     "t": 264.0,
+     "s": "B",
+     "es": "Right. Huge paradigm shift.",
+     "ko": "맞아요. 엄청난 패러다임 전환이죠."
+    },
+    {
+     "t": 265.0,
+     "s": "A",
+     "es": "Massive. It fundamentally reorganized human society. You know, it democratized information. It sparked literal revolutions.",
+     "ko": "어마어마하죠. 인간 사회를 근본적으로 재편했어요. 정보를 민주화했고, 실제 혁명들을 촉발했죠."
+    },
+    {
+     "t": 272.0,
+     "s": "A",
+     "es": "But Harari is very careful to say the printing press was a tool, not an agent.",
+     "ko": "그런데 하라리는 인쇄기가 에이전트가 아니라 도구였다고 아주 신중하게 말해요."
+    },
+    {
+     "t": 277.0,
+     "s": "B",
+     "es": "Right, because the printing press was incredibly powerful, yes, but it was entirely passive.",
+     "ko": "맞아요. 인쇄기는 엄청나게 강력했지만, 완전히 수동적이었으니까요."
+    },
+    {
+     "t": 282.0,
+     "s": "B",
+     "es": "I mean, it couldn't decide on its own to just stop printing Bibles and start printing the Koran instead.",
+     "ko": "스스로 성경 인쇄를 그만두고 대신 코란을 찍기로 결정할 수는 없었죠."
+    },
+    {
+     "t": 287.0,
+     "s": "A",
+     "es": "Yeah, it didn't have opinions.",
+     "ko": "네, 의견이 없었죠."
+    },
+    {
+     "t": 288.0,
+     "s": "B",
+     "es": "Exactly. It couldn't autonomously translate a text from Latin into German just because it noticed a sudden market demand for it.",
+     "ko": "맞아요. 갑자기 시장 수요가 생긴 걸 알아챘다고 해서 라틴어 텍스트를 독일어로 알아서 번역할 수도 없었고요."
+    },
+    {
+     "t": 295.0,
+     "s": "B",
+     "es": "And it definitely couldn't wake up one morning and invent the telegraph.",
+     "ko": "어느 날 아침 일어나서 전신기를 발명할 수도 절대 없었죠."
+    },
+    {
+     "t": 298.0,
+     "s": "B",
+     "es": "It required human intention at every single step.",
+     "ko": "모든 단계에서 인간의 의도가 필요했어요."
+    },
+    {
+     "t": 301.0,
+     "s": "A",
+     "es": "Right. Whereas AI code operates on a completely different paradigm.",
+     "ko": "그렇죠. 반면 AI 코드는 완전히 다른 패러다임으로 작동해요."
+    },
+    {
+     "t": 304.0,
+     "s": "B",
+     "es": "Completely different. It analyzes massive data sets. It recognizes these abstract patterns, and it generates entirely new ideas…",
+     "ko": "완전히 다르죠. 방대한 데이터를 분석하고, 추상적인 패턴을 알아보고, 완전히 새로운 아이디어를 만들어 내요…"
+    },
+    {
+     "t": 312.0,
+     "s": "A",
+     "es": "That the original programmers didn't explicitly code for.",
+     "ko": "원래 프로그래머가 명시적으로 코딩하지 않은 아이디어를요."
+    },
+    {
+     "t": 315.0,
+     "s": "B",
+     "es": "Like, it's literally strings of language making independent choices.",
+     "ko": "말 그대로 언어의 문자열이 독립적인 선택을 하는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "반론 — 정글에 떨군 하드 드라이브",
+   "lines": [
+    {
+     "t": 320.0,
+     "s": "A",
+     "es": "Yeah. But, you know, you hear the skeptics all the time saying, \"Sure, it can beat a grandmaster at chess, or it can write a screenplay, but it's just software trapped in a server farm.\"",
+     "ko": "네. 그런데 회의론자들이 늘 이렇게 말하잖아요. \"체스 그랜드마스터를 이기고 시나리오를 쓸 수는 있겠지만, 결국 서버 팜에 갇힌 소프트웨어일 뿐\"이라고요."
+    },
+    {
+     "t": 330.0,
+     "s": "B",
+     "es": "The whole \"it has no physical body\" argument.",
+     "ko": "그 '몸이 없다'는 논리 말이죠."
+    },
+    {
+     "t": 332.0,
+     "s": "A",
+     "es": "Exactly. The classic critic's argument is, if you take a hard drive containing the most advanced frontier AI model and you just drop it in the middle of the Amazon jungle, it's totally helpless.",
+     "ko": "바로 그거요. 전형적인 비판은, 가장 앞선 최첨단 AI 모델이 담긴 하드 드라이브를 아마존 정글 한가운데 떨어뜨리면 완전히 무력하다는 거예요."
+    },
+    {
+     "t": 343.0,
+     "s": "B",
+     "es": "Right. It can't mine its own iron.",
+     "ko": "맞아요. 스스로 철을 캘 수 없죠."
+    },
+    {
+     "t": 345.0,
+     "s": "A",
+     "es": "It can't build a microchip factory. It can't assemble a robot army without us feeding it electricity.",
+     "ko": "마이크로칩 공장도 못 짓고, 우리가 전기를 대 주지 않으면 로봇 군대도 못 꾸려요."
+    },
+    {
+     "t": 351.0,
+     "s": "A",
+     "es": "It has zero power in the physical world.",
+     "ko": "물리 세계에서는 힘이 전혀 없어요."
+    },
+    {
+     "t": 353.0,
+     "s": "B",
+     "es": "And I mean, that is a valid observation regarding its immediate physical limitations.",
+     "ko": "음, 당장의 물리적 한계에 대해서는 타당한 지적이에요."
+    },
+    {
+     "t": 358.0,
+     "s": "B",
+     "es": "But Harari counters this by pointing out that all intelligence, and that includes biological human intelligence, is completely reliant on a specific supportive environment.",
+     "ko": "하지만 하라리는 모든 지능이, 생물인 인간의 지능까지 포함해서, 특정한 뒷받침 환경에 완전히 의존한다고 반박해요."
+    },
+    {
+     "t": 368.0,
+     "s": "A",
+     "es": "That's a good point. Like the Mars analogy.",
+     "ko": "좋은 지적이에요. 화성 비유처럼요."
+    },
+    {
+     "t": 370.0,
+     "s": "B",
+     "es": "Exactly. Consider the flip side of that jungle argument, for you listening.",
+     "ko": "바로 그거죠. 듣고 계신 여러분, 정글 논리를 뒤집어 생각해 보세요."
+    },
+    {
+     "t": 375.0,
+     "s": "B",
+     "es": "Drop a human alone on the surface of Mars, and they die in a matter of seconds.",
+     "ko": "인간 하나를 화성 표면에 홀로 떨어뜨리면, 몇 초 만에 죽어요."
+    },
+    {
+     "t": 380.0,
+     "s": "A",
+     "es": "Almost instantly. Right.",
+     "ko": "거의 즉시요. 그렇죠."
+    },
+    {
+     "t": 381.0,
+     "s": "B",
+     "es": "But does that mean human intelligence isn't real or isn't powerful?",
+     "ko": "그렇다고 인간의 지능이 진짜가 아니라거나 강력하지 않다는 뜻일까요?"
+    },
+    {
+     "t": 384.0,
+     "s": "B",
+     "es": "No. It just means our intelligence requires a very specific ecological niche to function.",
+     "ko": "아니죠. 그저 우리 지능이 작동하려면 아주 특정한 생태적 지위가 필요하다는 뜻이에요."
+    },
+    {
+     "t": 390.0,
+     "s": "B",
+     "es": "We need an oxygen-rich atmosphere.",
+     "ko": "산소가 풍부한 대기가 필요하고요."
+    },
+    {
+     "t": 393.0,
+     "s": "B",
+     "es": "We need an ecosystem of plants and bacteria that, by the way, we absolutely did not build ourselves.",
+     "ko": "식물과 박테리아로 이뤄진 생태계가 필요한데, 참고로 그건 우리가 절대 직접 만든 게 아니에요."
+    },
+    {
+     "t": 398.0,
+     "s": "A",
+     "es": "Right. Intelligence always requires an environment tailored to sustain it.",
+     "ko": "그렇죠. 지능은 늘 그걸 유지하도록 맞춰진 환경이 필요해요."
+    }
+   ]
+  },
+  {
+   "title": "대산화 사건 — 오염이 만든 서식지",
+   "lines": [
+    {
+     "t": 402.0,
+     "s": "B",
+     "es": "And if we connect this to the deep historical picture, Harari draws this incredible parallel to the Great Oxygenation Event.",
+     "ko": "이걸 깊은 역사의 큰 그림과 연결하면, 하라리는 '대산화 사건'과 놀라운 평행선을 그어요."
+    },
+    {
+     "t": 409.0,
+     "s": "A",
+     "es": "Okay, take us back.",
+     "ko": "좋아요, 과거로 데려가 주세요."
+    },
+    {
+     "t": 410.0,
+     "s": "B",
+     "es": "So we have to go back about 2.5 billion years.",
+     "ko": "약 25억 년 전으로 거슬러 올라가야 해요."
+    },
+    {
+     "t": 414.0,
+     "s": "B",
+     "es": "At that time, Earth's atmosphere was mostly nitrogen and carbon dioxide. There was almost zero free oxygen.",
+     "ko": "그때 지구 대기는 대부분 질소와 이산화탄소였어요. 자유 산소는 거의 없었죠."
+    },
+    {
+     "t": 421.0,
+     "s": "A",
+     "es": "None at all. Right.",
+     "ko": "전혀요. 그렇군요."
+    },
+    {
+     "t": 422.0,
+     "s": "B",
+     "es": "In fact, to the anaerobic organisms that were living back then, oxygen was actually a deadly corrosive poison.",
+     "ko": "사실 그때 살던 혐기성 생물에게 산소는 치명적인 부식성 독이었어요."
+    },
+    {
+     "t": 429.0,
+     "s": "A",
+     "es": "Wow.",
+     "ko": "와."
+    },
+    {
+     "t": 429.3,
+     "s": "B",
+     "es": "But then certain ancient microbes, cyanobacteria, began producing oxygen as a biological byproduct.",
+     "ko": "그런데 어떤 고대 미생물, 시아노박테리아가 생물학적 부산물로 산소를 만들어 내기 시작했어요."
+    },
+    {
+     "t": 436.0,
+     "s": "B",
+     "es": "They were essentially polluting the atmosphere with it.",
+     "ko": "사실상 산소로 대기를 오염시키고 있었던 거죠."
+    },
+    {
+     "t": 439.0,
+     "s": "A",
+     "es": "So they were just exhaling this highly reactive poison into the world, completely unaware of the planetary consequences.",
+     "ko": "그러니까 행성 규모의 결과는 까맣게 모른 채, 반응성이 아주 강한 독을 세상에 내뿜고 있었던 거네요."
+    },
+    {
+     "t": 446.0,
+     "s": "B",
+     "es": "Exactly. And as the atmosphere saturated with this toxic oxygen, it caused one of the most significant mass extinctions in Earth's history.",
+     "ko": "맞아요. 그리고 대기가 이 유독한 산소로 포화되면서, 지구 역사상 가장 중대한 대멸종 중 하나가 일어났어요."
+    },
+    {
+     "t": 453.0,
+     "s": "A",
+     "es": "Oh, my God.",
+     "ko": "세상에."
+    },
+    {
+     "t": 454.0,
+     "s": "B",
+     "es": "Yeah. Most life on the planet was completely wiped out.",
+     "ko": "네. 지구상 생명 대부분이 완전히 쓸려 나갔어요."
+    },
+    {
+     "t": 457.0,
+     "s": "B",
+     "es": "But a tiny fraction of organisms managed to survive.",
+     "ko": "하지만 아주 일부 생물이 간신히 살아남았죠."
+    },
+    {
+     "t": 461.0,
+     "s": "B",
+     "es": "They adapted, and eventually they evolved to be completely dependent on that oxygen for cellular respiration.",
+     "ko": "적응했고, 결국 세포 호흡을 위해 그 산소에 완전히 의존하도록 진화했어요."
+    },
+    {
+     "t": 467.0,
+     "s": "A",
+     "es": "And that's us.",
+     "ko": "그게 바로 우리군요."
+    },
+    {
+     "t": 468.0,
+     "s": "B",
+     "es": "That's us. Our human ancestors were among those survivors.",
+     "ko": "그게 우리예요. 인류의 조상이 그 생존자들 가운데 있었죠."
+    },
+    {
+     "t": 472.0,
+     "s": "B",
+     "es": "So we currently live in an artificial environment that was originally created by ancient, catastrophic biological pollution.",
+     "ko": "그러니까 우리는 지금 고대의 파국적인 생물학적 오염이 만들어 낸 인공 환경에서 살고 있는 거예요."
+    },
+    {
+     "t": 480.0,
+     "s": "A",
+     "es": "That is such a wild perspective.",
+     "ko": "정말 놀라운 관점이네요."
+    },
+    {
+     "t": 483.0,
+     "s": "A",
+     "es": "And honestly, this is the real aha moment of Harari's thesis for me.",
+     "ko": "솔직히 저한텐 이게 하라리 주장의 진짜 '아하' 순간이에요."
+    },
+    {
+     "t": 487.0,
+     "s": "B",
+     "es": "He argues that we are witnessing an analogous biological moment right now.",
+     "ko": "그는 우리가 지금 그와 비슷한 생물학적 순간을 목격하고 있다고 주장해요."
+    }
+   ]
+  },
+  {
+   "title": "관료제는 AI의 산소",
+   "lines": [
+    {
+     "t": 491.0,
+     "s": "A",
+     "es": "Yes. Because over the last few thousand years, humans have been polluting the planet, and not just with carbon emissions or plastics, but with data.",
+     "ko": "네. 지난 수천 년 동안 인간은 지구를 오염시켜 왔으니까요. 탄소 배출이나 플라스틱만이 아니라 데이터로요."
+    },
+    {
+     "t": 501.0,
+     "s": "B",
+     "es": "With bureaucracy.",
+     "ko": "관료제로요."
+    },
+    {
+     "t": 502.0,
+     "s": "A",
+     "es": "Exactly. With words.",
+     "ko": "맞아요. 말로요."
+    },
+    {
+     "t": 504.0,
+     "s": "B",
+     "es": "We have spent millennia unwittingly building this incredibly dense artificial ecosystem.",
+     "ko": "우리는 수천 년 동안 자기도 모르게 엄청나게 빽빽한 인공 생태계를 지어 왔어요."
+    },
+    {
+     "t": 510.0,
+     "s": "B",
+     "es": "Just think about the sheer volume of paperwork, legal codes, corporate bylaws, financial records, digital data, all the stuff we produce daily.",
+     "ko": "서류 작업, 법전, 회사 정관, 금융 기록, 디지털 데이터, 우리가 매일 만들어 내는 그 모든 것의 어마어마한 양을 생각해 보세요."
+    },
+    {
+     "t": 519.0,
+     "s": "A",
+     "es": "To a human, this is exhausting. It's awful.",
+     "ko": "인간에겐 진이 빠지는 일이죠. 끔찍해요."
+    },
+    {
+     "t": 522.0,
+     "s": "B",
+     "es": "Right. But to an AI, this bureaucracy is a vast landscape of language tokens.",
+     "ko": "그렇죠. 그런데 AI에게 이 관료제는 언어 토큰으로 이뤄진 광활한 풍경이에요."
+    },
+    {
+     "t": 528.0,
+     "s": "A",
+     "es": "Let's actually define that, because I think it's vital to understanding how AI functions.",
+     "ko": "그걸 정의해 보죠. AI가 어떻게 작동하는지 이해하는 데 꼭 필요하다고 생각하거든요."
+    },
+    {
+     "t": 531.0,
+     "s": "A",
+     "es": "What exactly is a language token in this context?",
+     "ko": "이 맥락에서 언어 토큰이란 정확히 뭔가요?"
+    },
+    {
+     "t": 535.0,
+     "s": "B",
+     "es": "Well, to a large language model, human language isn't a collection of emotional concepts like it is for us. It is pure mathematics.",
+     "ko": "대형 언어 모델에게 인간의 언어는 우리처럼 감정적인 개념의 모음이 아니에요. 순수한 수학이에요."
+    },
+    {
+     "t": 543.0,
+     "s": "A",
+     "es": "Okay.",
+     "ko": "그렇군요."
+    },
+    {
+     "t": 543.3,
+     "s": "B",
+     "es": "A token is basically a fragment of a word that's converted into a high-dimensional vector.",
+     "ko": "토큰은 기본적으로 고차원 벡터로 변환된 단어 조각이에요."
+    },
+    {
+     "t": 549.0,
+     "s": "A",
+     "es": "So a string of numbers.",
+     "ko": "그러니까 숫자의 나열이군요."
+    },
+    {
+     "t": 550.0,
+     "s": "B",
+     "es": "Exactly. An AI processes our complex legal codes and financial records not by reading them the way we do, but by mathematically predicting how these tokens organize and relate to one another.",
+     "ko": "맞아요. AI는 우리의 복잡한 법전과 금융 기록을 우리처럼 읽는 게 아니라, 토큰들이 어떻게 조직되고 서로 연결되는지 수학적으로 예측하면서 처리해요."
+    },
+    {
+     "t": 561.0,
+     "s": "A",
+     "es": "Wow. They process our entire bureaucracy as pure math.",
+     "ko": "와. 우리 관료제 전체를 순수 수학으로 처리하는군요."
+    },
+    {
+     "t": 565.0,
+     "s": "B",
+     "es": "And that mathematical ecosystem is the exact artificial niche where AI thrives.",
+     "ko": "그리고 그 수학적 생태계가 바로 AI가 번성하는 인공 서식지예요."
+    },
+    {
+     "t": 571.0,
+     "s": "B",
+     "es": "For AI, bureaucracy is oxygen.",
+     "ko": "AI에게 관료제는 산소예요."
+    },
+    {
+     "t": 574.0,
+     "s": "A",
+     "es": "That is fascinating.",
+     "ko": "정말 흥미롭네요."
+    }
+   ]
+  },
+  {
+   "title": "침팬지, 은행가, 그리고 소",
+   "lines": [
+    {
+     "t": 576.0,
+     "s": "A",
+     "es": "Let's dig into that power of bureaucracy, because it's so easy to overlook.",
+     "ko": "관료제의 힘을 파고들어 보죠. 너무 쉽게 간과되니까요."
+    },
+    {
+     "t": 579.0,
+     "s": "A",
+     "es": "We tend to assume humans rule the planet because we're physically capable or individually brilliant.",
+     "ko": "우리는 인간이 신체적으로 유능하거나 개개인이 뛰어나서 지구를 지배한다고 생각하기 쉬워요."
+    },
+    {
+     "t": 585.0,
+     "s": "B",
+     "es": "Which we aren't. No. Individually, we are incredibly weak.",
+     "ko": "그렇지 않죠. 개인으로선 엄청나게 약해요."
+    },
+    {
+     "t": 589.0,
+     "s": "B",
+     "es": "If you throw one average human into a cage match with a chimpanzee, the human is going to lose every single time.",
+     "ko": "평범한 사람 하나를 침팬지와 철창 격투에 넣으면, 사람이 매번 질 거예요."
+    },
+    {
+     "t": 595.0,
+     "s": "A",
+     "es": "Oh, absolutely. A chimpanzee has overwhelming physical superiority.",
+     "ko": "당연하죠. 침팬지가 신체적으로 압도적으로 우월하니까요."
+    },
+    {
+     "t": 599.0,
+     "s": "B",
+     "es": "But if you pit a million humans against a million chimps, we win effortlessly.",
+     "ko": "하지만 인간 백만 명을 침팬지 백만 마리와 맞붙이면, 우리가 손쉽게 이겨요."
+    },
+    {
+     "t": 604.0,
+     "s": "A",
+     "es": "Right. Because we can cooperate in massive numbers.",
+     "ko": "맞아요. 우리는 엄청난 수로 협력할 수 있으니까요."
+    },
+    {
+     "t": 606.0,
+     "s": "B",
+     "es": "And the invisible glue for that large-scale flexible cooperation is language, which allows us to build bureaucracies.",
+     "ko": "그리고 그 대규모의 유연한 협력을 붙여 주는 보이지 않는 접착제가 언어예요. 언어 덕분에 관료제를 세울 수 있죠."
+    },
+    {
+     "t": 613.0,
+     "s": "A",
+     "es": "And we usually dismiss bureaucracy as just annoying paperwork at a government office. We hate it.",
+     "ko": "우리는 보통 관료제를 관공서의 짜증 나는 서류 작업쯤으로 치부하잖아요. 싫어하죠."
+    },
+    {
+     "t": 618.0,
+     "s": "B",
+     "es": "But bureaucracies are the underappreciated engines of human dominance.",
+     "ko": "하지만 관료제는 인간 지배의 과소평가된 엔진이에요."
+    },
+    {
+     "t": 622.0,
+     "s": "A",
+     "es": "Definitely.",
+     "ko": "확실히요."
+    },
+    {
+     "t": 623.0,
+     "s": "B",
+     "es": "Legal systems, global financial networks, multinational corporations, organized religions. These are all just complex bureaucracies.",
+     "ko": "법 체계, 세계 금융망, 다국적 기업, 조직화된 종교. 이건 다 복잡한 관료제예요."
+    },
+    {
+     "t": 631.0,
+     "s": "B",
+     "es": "And their entire function is to build trust and standard rules between huge numbers of strangers…",
+     "ko": "그리고 그것들의 기능은 전부, 엄청난 수의 낯선 사람들 사이에 신뢰와 표준 규칙을 세우는 거예요…"
+    },
+    {
+     "t": 638.0,
+     "s": "A",
+     "es": "So they can pool their resources and coordinate action across time and space.",
+     "ko": "그래서 자원을 모으고 시간과 공간을 넘어 행동을 조율할 수 있게요."
+    },
+    {
+     "t": 642.0,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 644.0,
+     "s": "A",
+     "es": "Harari has this really great way of making the abstract feel tangible.",
+     "ko": "하라리는 추상적인 걸 손에 잡히게 만드는 데 정말 탁월해요."
+    },
+    {
+     "t": 648.0,
+     "s": "A",
+     "es": "He talks about the stock market, you know, about fiat money and ETFs and IPOs.",
+     "ko": "주식 시장 얘기를 하죠. 법정 화폐, ETF, IPO 같은 거요."
+    },
+    {
+     "t": 654.0,
+     "s": "A",
+     "es": "None of these are physical realities you can actually touch.",
+     "ko": "이 중 어느 것도 실제로 만질 수 있는 물리적 실체가 아니에요."
+    },
+    {
+     "t": 657.0,
+     "s": "B",
+     "es": "Right. Money isn't really gold or even paper anymore. It is quite literally a shared story made from words.",
+     "ko": "맞아요. 돈은 이제 금도, 심지어 종이도 아니에요. 말 그대로 말로 만든 공유된 이야기죠."
+    },
+    {
+     "t": 664.0,
+     "s": "B",
+     "es": "The entire global financial system is just this elaborate lattice of language tokens stored on servers.",
+     "ko": "세계 금융 시스템 전체가 서버에 저장된 언어 토큰의 정교한 격자일 뿐이에요."
+    },
+    {
+     "t": 671.0,
+     "s": "A",
+     "es": "Which brings us to the core vulnerability here.",
+     "ko": "그게 여기서 핵심 취약점으로 이어지죠."
+    },
+    {
+     "t": 674.0,
+     "s": "B",
+     "es": "Take a highly successful Wall Street banker and drop her in the jungle.",
+     "ko": "아주 성공한 월가 은행가를 정글에 떨어뜨려 보세요."
+    },
+    {
+     "t": 678.0,
+     "s": "A",
+     "es": "Right.",
+     "ko": "네."
+    },
+    {
+     "t": 679.0,
+     "s": "B",
+     "es": "Without her bureaucracy, her financial acumen is utterly useless against a tiger.",
+     "ko": "관료제가 없으면 그녀의 금융 감각은 호랑이 앞에서 전혀 쓸모가 없어요."
+    },
+    {
+     "t": 684.0,
+     "s": "A",
+     "es": "The tiger's going to eat her.",
+     "ko": "호랑이가 잡아먹겠죠."
+    },
+    {
+     "t": 685.0,
+     "s": "B",
+     "es": "Exactly. But if you impose the bureaucratic system onto that jungle, suddenly that same banker, sitting in an air-conditioned office in New York, just by moving documents and language tokens around, can order the deforestation of the entire region.",
+     "ko": "맞아요. 그런데 그 정글에 관료 체계를 씌우면, 바로 그 은행가가 뉴욕의 냉방된 사무실에 앉아 서류와 언어 토큰만 옮겨도 그 지역 전체의 삼림 벌채를 지시할 수 있게 돼요."
+    },
+    {
+     "t": 700.0,
+     "s": "A",
+     "es": "Wow.",
+     "ko": "와."
+    },
+    {
+     "t": 701.0,
+     "s": "B",
+     "es": "The banker leverages the bureaucracy to become more powerful than all the tigers in the world put together.",
+     "ko": "은행가는 관료제를 지렛대 삼아 세상의 모든 호랑이를 합친 것보다 강해지는 거예요."
+    },
+    {
+     "t": 707.0,
+     "s": "A",
+     "es": "And here's where it gets really interesting.",
+     "ko": "그리고 여기서 정말 흥미로워져요."
+    },
+    {
+     "t": 709.0,
+     "s": "A",
+     "es": "Humans dominate the earth by writing codes that other animals can't read.",
+     "ko": "인간은 다른 동물이 읽을 수 없는 코드를 써서 지구를 지배해요."
+    },
+    {
+     "t": 713.0,
+     "s": "A",
+     "es": "We buy, sell, and process cows using money, bank accounts, and agricultural regulations.",
+     "ko": "우리는 돈, 은행 계좌, 농업 규정을 이용해 소를 사고팔고 처리하죠."
+    },
+    {
+     "t": 719.0,
+     "s": "B",
+     "es": "Right. The cow experiences the physical reality of being sold, obviously, but the cow cannot comprehend the bureaucratic system controlling its fate.",
+     "ko": "맞아요. 소는 팔려 가는 물리적 현실은 당연히 겪지만, 자기 운명을 쥔 관료 체계는 이해할 수 없어요."
+    },
+    {
+     "t": 727.0,
+     "s": "A",
+     "es": "Like, a cow cannot hire a lawyer to dispute a contract.",
+     "ko": "소가 변호사를 고용해 계약에 이의를 제기할 순 없죠."
+    },
+    {
+     "t": 730.0,
+     "s": "B",
+     "es": "No. A pig cannot challenge a priest's interpretation of a religious text to avoid sacrifice.",
+     "ko": "그렇죠. 돼지는 제물이 되지 않으려고 사제의 경전 해석에 도전할 수 없어요."
+    },
+    {
+     "t": 736.0,
+     "s": "A",
+     "es": "And we have always been perfectly safe at the top of the food chain, because we were the exclusive masters of that realm.",
+     "ko": "그리고 우리는 늘 먹이 사슬 꼭대기에서 완벽하게 안전했어요. 그 영역의 유일한 주인이었으니까요."
+    },
+    {
+     "t": 742.0,
+     "s": "B",
+     "es": "We were the only entity on earth capable of reading and manipulating the bureaucratic code of civilization.",
+     "ko": "우리는 문명의 관료적 코드를 읽고 조작할 수 있는 지구상 유일한 존재였어요."
+    },
+    {
+     "t": 748.0,
+     "s": "A",
+     "es": "Until the AI revolution.",
+     "ko": "AI 혁명 전까지는요."
+    }
+   ]
+  },
+  {
+   "title": "타고난 관료, AI",
+   "lines": [
+    {
+     "t": 750.0,
+     "s": "B",
+     "es": "Exactly. Now, there is a non-biological entity on this planet that understands our language, our code, faster and more comprehensively than we ever could.",
+     "ko": "맞아요. 이제 이 행성에는 우리 언어, 우리 코드를 우리보다 더 빠르고 포괄적으로 이해하는 비생물 존재가 있어요."
+    },
+    {
+     "t": 759.0,
+     "s": "B",
+     "es": "Harari calls these AI systems native bureaucrats.",
+     "ko": "하라리는 이런 AI 시스템을 '타고난 관료(native bureaucrats)'라고 불러요."
+    },
+    {
+     "t": 762.0,
+     "s": "A",
+     "es": "That term is brilliant. Native bureaucrats.",
+     "ko": "그 용어 기막히네요. 타고난 관료."
+    },
+    {
+     "t": 766.0,
+     "s": "B",
+     "es": "Because humans are organic creatures. We evolved on the savanna, not in a cubicle.",
+     "ko": "인간은 유기적인 생물이니까요. 우리는 칸막이 사무실이 아니라 사바나에서 진화했어요."
+    },
+    {
+     "t": 770.0,
+     "s": "A",
+     "es": "Right.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 770.3,
+     "s": "B",
+     "es": "We naturally chafe against bureaucracy. It alienates us. It creates psychological stress.",
+     "ko": "우리는 본래 관료제에 짜증을 내요. 관료제는 우리를 소외시키고 심리적 스트레스를 줘요."
+    },
+    {
+     "t": 775.0,
+     "s": "B",
+     "es": "But AI is native to the data stream.",
+     "ko": "하지만 AI는 데이터 흐름 속에서 태어난 존재예요."
+    },
+    {
+     "t": 778.0,
+     "s": "A",
+     "es": "Like, no human lawyer, no matter how brilliant they are, can perfectly memorize every single trade regulation in the European Union. It's impossible.",
+     "ko": "아무리 뛰어난 인간 변호사도 유럽 연합의 모든 무역 규정을 완벽하게 외울 순 없잖아요. 불가능하죠."
+    },
+    {
+     "t": 786.0,
+     "s": "B",
+     "es": "Right. And no human bishop can memorize centuries of archaic canon law.",
+     "ko": "맞아요. 어떤 인간 주교도 수백 년 된 고풍스러운 교회법을 다 외울 수 없어요."
+    },
+    {
+     "t": 791.0,
+     "s": "B",
+     "es": "But an AI can absorb and synthesize all of it instantly.",
+     "ko": "하지만 AI는 그걸 전부 즉시 흡수하고 종합할 수 있어요."
+    },
+    {
+     "t": 795.0,
+     "s": "B",
+     "es": "And because they can metabolize this bureaucratic oxygen so efficiently, they are inevitably going to integrate into these systems.",
+     "ko": "그리고 이 관료적 산소를 그렇게 효율적으로 대사할 수 있으니, 결국 이런 시스템에 녹아들 수밖에 없어요."
+    },
+    {
+     "t": 802.0,
+     "s": "A",
+     "es": "Yeah. I mean, in the coming years, millions of AI bureaucrats will be executing the decisions that shape our physical reality.",
+     "ko": "네. 앞으로 몇 년 안에 수백만의 AI 관료가 우리의 물리적 현실을 만드는 결정을 실행하게 될 거예요."
+    },
+    {
+     "t": 809.0,
+     "s": "A",
+     "es": "We're talking AI bankers evaluating our mortgage loans, AI legal assistants determining corporate compliance, AI HR systems deciding who gets hired or fired…",
+     "ko": "주택 담보 대출을 심사하는 AI 은행가, 기업의 법규 준수를 판단하는 AI 법률 보조, 누구를 채용하고 해고할지 정하는 AI 인사 시스템…"
+    },
+    {
+     "t": 818.0,
+     "s": "B",
+     "es": "Based on behavioral data patterns that humans can't even perceive.",
+     "ko": "인간은 감지조차 못 하는 행동 데이터 패턴에 근거해서요."
+    },
+    {
+     "t": 820.0,
+     "s": "A",
+     "es": "Exactly. Which leads to a deeply chilling form of alienation.",
+     "ko": "바로 그거예요. 그게 아주 섬뜩한 형태의 소외로 이어지죠."
+    },
+    {
+     "t": 824.0,
+     "s": "B",
+     "es": "Because soon, we are going to be like the cows.",
+     "ko": "머지않아 우리가 그 소처럼 될 테니까요."
+    },
+    {
+     "t": 827.0,
+     "s": "A",
+     "es": "Yeah.",
+     "ko": "네."
+    },
+    {
+     "t": 828.0,
+     "s": "B",
+     "es": "We will be living in a physical world controlled by AI financial systems, AI legal frameworks, perhaps even AI cultural algorithms that operate at a level of mathematical complexity we simply cannot comprehend.",
+     "ko": "우리는 AI 금융 시스템, AI 법률 체계, 어쩌면 AI 문화 알고리즘이 통제하는 물리 세계에서 살게 될 거예요. 우리가 도저히 이해할 수 없는 수학적 복잡도로 작동하는 것들이요."
+    },
+    {
+     "t": 841.0,
+     "s": "A",
+     "es": "The code of civilization is essentially liberating itself from our exclusive control.",
+     "ko": "문명의 코드가 사실상 우리의 독점적 통제에서 풀려나고 있는 거네요."
+    },
+    {
+     "t": 845.0,
+     "s": "B",
+     "es": "It is.",
+     "ko": "그렇습니다."
+    }
+   ]
+  },
+  {
+   "title": "태초에 말씀이 있었다 — 저자의 죽음",
+   "lines": [
+    {
+     "t": 846.0,
+     "s": "B",
+     "es": "And this raises a profound question about the very nature of thought and language.",
+     "ko": "그리고 이건 사고와 언어의 본질 자체에 대한 깊은 질문을 던져요."
+    },
+    {
+     "t": 851.0,
+     "s": "A",
+     "es": "Harari takes us into some really deep philosophical waters here.",
+     "ko": "하라리는 여기서 우리를 아주 깊은 철학의 물속으로 데려가요."
+    },
+    {
+     "t": 855.0,
+     "s": "B",
+     "es": "Oh, I love this part.",
+     "ko": "아, 저 이 부분 정말 좋아해요."
+    },
+    {
+     "t": 857.0,
+     "s": "A",
+     "es": "He points to the ancient concept found in many traditions: \"In the beginning was the word.\"",
+     "ko": "그는 여러 전통에 있는 오래된 개념을 짚어요. \"태초에 말씀이 있었다.\""
+    },
+    {
+     "t": 863.0,
+     "s": "B",
+     "es": "It's this ancient intuition that language actually structures the universe.",
+     "ko": "언어가 실제로 우주를 구조화한다는 오래된 직관이죠."
+    },
+    {
+     "t": 868.0,
+     "s": "A",
+     "es": "And he also connects this to postmodern philosophy, right? Specifically that late 20th-century idea of the death of the author.",
+     "ko": "그리고 이걸 포스트모던 철학과도 연결하죠? 특히 20세기 후반의 '저자의 죽음'이라는 생각과요."
+    },
+    {
+     "t": 875.0,
+     "s": "B",
+     "es": "Yes. Figures like Roland Barthes argued that the meaning of a text doesn't come from the author's intent, but from how it is interpreted by the reader.",
+     "ko": "네. 롤랑 바르트 같은 인물은 텍스트의 의미가 저자의 의도가 아니라 독자가 어떻게 해석하느냐에서 나온다고 주장했어요."
+    },
+    {
+     "t": 884.0,
+     "s": "A",
+     "es": "So texts kind of take on a life of their own.",
+     "ko": "그러니까 텍스트가 일종의 독자적인 생명을 얻는 거네요."
+    },
+    {
+     "t": 886.0,
+     "s": "B",
+     "es": "Exactly. And AI is basically manifesting that abstract philosophy into literal reality now.",
+     "ko": "맞아요. 그리고 AI는 지금 그 추상적인 철학을 말 그대로 현실로 구현하고 있어요."
+    },
+    {
+     "t": 893.0,
+     "s": "B",
+     "es": "We now have texts generating themselves, interpreting themselves, and acting upon the physical world without a human author anywhere in the loop.",
+     "ko": "이제 텍스트가 스스로 생성되고, 스스로 해석하고, 고리 어디에도 인간 저자 없이 물리 세계에 작용해요."
+    }
+   ]
+  },
+  {
+   "title": "다음 생각은 어디서 올까 — 인간도 자동 완성?",
+   "lines": [
+    {
+     "t": 901.0,
+     "s": "A",
+     "es": "And to understand how destabilizing this is, Harari challenges us to examine our own cognitive mechanics.",
+     "ko": "이게 얼마나 사람을 흔드는지 이해하려면, 하라리는 우리 자신의 인지 작동 방식을 들여다보라고 해요."
+    },
+    {
+     "t": 908.0,
+     "s": "A",
+     "es": "For you listening, he asks a very simple yet incredibly unsettling question: Where does your next thought come from?",
+     "ko": "듣고 계신 여러분께 그는 아주 단순하지만 엄청나게 불안한 질문을 던져요. 당신의 다음 생각은 어디서 오나요?"
+    },
+    {
+     "t": 915.0,
+     "s": "B",
+     "es": "This is a great question.",
+     "ko": "정말 좋은 질문이에요."
+    },
+    {
+     "t": 916.0,
+     "s": "A",
+     "es": "Try this right now. Try to observe the thought process in your own head.",
+     "ko": "지금 바로 해 보세요. 자기 머릿속의 사고 과정을 관찰해 보세요."
+    },
+    {
+     "t": 920.0,
+     "s": "A",
+     "es": "Like, when I am speaking to you right now, I don't actually know how my sentence is going to conclude until the final word pops into my consciousness.",
+     "ko": "저도 지금 여러분께 말하면서, 마지막 단어가 의식에 툭 떠오르기 전까지는 제 문장이 어떻게 끝날지 사실 몰라요."
+    },
+    {
+     "t": 929.0,
+     "s": "B",
+     "es": "Right. If you really analyze introspection, human thought often just feels like words bubbling up from the subconscious, forming sentences, and stringing together logical arguments on the fly.",
+     "ko": "맞아요. 내성을 제대로 분석해 보면, 인간의 생각은 흔히 무의식에서 말이 보글보글 올라와 문장을 이루고, 즉석에서 논리적 주장을 엮어 내는 것처럼 느껴져요."
+    },
+    {
+     "t": 940.0,
+     "s": "A",
+     "es": "It's weird when you think about it.",
+     "ko": "생각해 보면 이상하죠."
+    },
+    {
+     "t": 942.0,
+     "s": "B",
+     "es": "It's a total biological mystery how we actually assemble meaning.",
+     "ko": "우리가 실제로 의미를 어떻게 조립하는지는 완전한 생물학적 수수께끼예요."
+    },
+    {
+     "t": 945.0,
+     "s": "B",
+     "es": "But if thinking is fundamentally the process of organizing language tokens into coherent predictive sequences, AI already performs that structural task incredibly well.",
+     "ko": "그런데 생각이 근본적으로 언어 토큰을 일관된 예측 순서로 배열하는 과정이라면, AI는 이미 그 구조적인 작업을 엄청나게 잘하고 있어요."
+    },
+    {
+     "t": 955.0,
+     "s": "A",
+     "es": "Right.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 957.0,
+     "s": "A",
+     "es": "People often dismiss large language models as just glorified autocomplete.",
+     "ko": "사람들은 대형 언어 모델을 그저 겉만 번지르르한 자동 완성이라고 흔히 깎아내리죠."
+    },
+    {
+     "t": 962.0,
+     "s": "A",
+     "es": "They argue it's just predicting the next word based on statistical probability. It's not actually thinking.",
+     "ko": "통계적 확률로 다음 단어를 예측할 뿐이지 실제로 생각하는 게 아니라고요."
+    },
+    {
+     "t": 967.0,
+     "s": "B",
+     "es": "But Harari asks, is that really so fundamentally different from what the human brain's language center is doing?",
+     "ko": "하지만 하라리는 묻죠. 그게 정말 인간 뇌의 언어 중추가 하는 일과 근본적으로 그렇게 다를까?"
+    },
+    {
+     "t": 973.0,
+     "s": "A",
+     "es": "Exactly. We don't fully understand our own autocomplete function.",
+     "ko": "바로 그거예요. 우리는 우리 자신의 자동 완성 기능도 완전히 이해하지 못해요."
+    },
+    {
+     "t": 977.0,
+     "s": "B",
+     "es": "And the reality is, AI has already mapped the latent space of human language processing with a far wider range of knowledge than any single human possesses.",
+     "ko": "그리고 현실은, AI가 이미 어떤 개인보다 훨씬 넓은 지식으로 인간 언어 처리의 잠재 공간을 지도로 그려 놨다는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "말씀과 육신 — 문자와 정신의 갈등",
+   "lines": [
+    {
+     "t": 986.0,
+     "s": "A",
+     "es": "And this brings us to a historical tension that Harari highlights, which really frames the ultimate stakes here.",
+     "ko": "그리고 이건 하라리가 강조하는 역사적 긴장으로 이어지는데, 이게 여기 걸린 궁극적인 판돈을 보여 줘요."
+    },
+    {
+     "t": 992.0,
+     "s": "B",
+     "es": "For centuries, humans have struggled with the conflict between the word and the flesh.",
+     "ko": "수백 년 동안 인간은 말씀과 육신 사이의 갈등과 씨름해 왔어요."
+    },
+    {
+     "t": 996.0,
+     "s": "A",
+     "es": "Meaning what, exactly?",
+     "ko": "정확히 무슨 뜻인가요?"
+    },
+    {
+     "t": 998.0,
+     "s": "B",
+     "es": "The tension between the rigid literal text of a law or a religious doctrine, and the messy biological human spirit or truth that exists beyond those written rules.",
+     "ko": "법이나 종교 교리의 경직된 문자 그대로의 텍스트와, 그 성문 규칙 너머에 있는 복잡하고 생물학적인 인간의 정신 또는 진실 사이의 긴장이요."
+    },
+    {
+     "t": 1009.0,
+     "s": "A",
+     "es": "Ah, okay. The letter of the law versus the spirit of the law.",
+     "ko": "아, 알겠어요. 법의 문자 대 법의 정신이군요."
+    },
+    {
+     "t": 1012.0,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 1014.0,
+     "s": "A",
+     "es": "And just to be super clear to you listening, we are absolutely not taking any sides here or endorsing any political or religious viewpoints.",
+     "ko": "그리고 듣고 계신 여러분께 아주 분명히 해 두자면, 저희는 여기서 어느 편도 들지 않고 어떤 정치적·종교적 견해도 지지하지 않아요."
+    },
+    {
+     "t": 1021.0,
+     "s": "A",
+     "es": "We are simply reporting Harari's historical example from the source text to illustrate just how much real-world power words have.",
+     "ko": "말이 현실에서 얼마나 큰 힘을 갖는지 보여 주려고 원문에 나온 하라리의 역사적 예시를 그대로 전할 뿐이에요."
+    },
+    {
+     "t": 1028.0,
+     "s": "B",
+     "es": "Right. Impartial reporting of the text. Go ahead.",
+     "ko": "맞아요. 텍스트를 공정하게 전달하는 거죠. 계속하세요."
+    },
+    {
+     "t": 1031.0,
+     "s": "A",
+     "es": "Okay. So Harari points to how people have historically interpreted religious texts.",
+     "ko": "네. 하라리는 사람들이 역사적으로 종교 텍스트를 어떻게 해석해 왔는지 짚어요."
+    },
+    {
+     "t": 1035.0,
+     "s": "A",
+     "es": "He notes that just a few words in a text like the Bible have driven groups to extreme actions.",
+     "ko": "성경 같은 텍스트의 단어 몇 개가 집단을 극단적인 행동으로 몰아갔다고 지적하죠."
+    },
+    {
+     "t": 1041.0,
+     "s": "A",
+     "es": "For instance, he cites how Christian fanatics in Uganda pushed for the imposition of the death penalty for same-sex love in 2023.",
+     "ko": "예를 들어 2023년 우간다의 기독교 광신자들이 동성 간 사랑에 사형을 부과하자고 밀어붙인 일을 들어요."
+    },
+    {
+     "t": 1049.0,
+     "s": "A",
+     "es": "And that was based purely on their rigid reading of specific biblical texts.",
+     "ko": "그건 순전히 특정 성경 구절을 경직되게 읽은 데 근거한 거였고요."
+    },
+    {
+     "t": 1054.0,
+     "s": "B",
+     "es": "Wow. Okay.",
+     "ko": "와, 그렇군요."
+    },
+    {
+     "t": 1055.0,
+     "s": "A",
+     "es": "Meanwhile, other Christians vehemently argue that the overarching spirit of love should override those little words.",
+     "ko": "한편 다른 기독교인들은 사랑이라는 큰 정신이 그 작은 단어들보다 우선해야 한다고 강하게 주장하죠."
+    },
+    {
+     "t": 1062.0,
+     "s": "B",
+     "es": "But the mechanism to pay attention to here, regardless of the viewpoint, is how language tokens on a page dictate life-and-death consequences for physical bodies.",
+     "ko": "하지만 관점과 상관없이 여기서 주목할 메커니즘은, 페이지 위의 언어 토큰이 물리적인 몸의 생사를 좌우한다는 점이에요."
+    },
+    {
+     "t": 1070.0,
+     "s": "B",
+     "es": "Historically, that struggle between the rigid words on the page and the living human spirit, that was an internal human debate.",
+     "ko": "역사적으로 페이지 위의 경직된 말과 살아 있는 인간 정신 사이의 그 싸움은 인간 내부의 논쟁이었어요."
+    },
+    {
+     "t": 1078.0,
+     "s": "B",
+     "es": "We debated each other over how to interpret the code.",
+     "ko": "우리는 코드를 어떻게 해석할지를 두고 서로 논쟁했죠."
+    },
+    {
+     "t": 1081.0,
+     "s": "A",
+     "es": "Right.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 1082.0,
+     "s": "B",
+     "es": "But if AI is operating purely on words without the limitations of human flesh, that exposes our greatest biological vulnerability.",
+     "ko": "그런데 AI가 인간 육신의 한계 없이 순전히 말로만 작동한다면, 그건 우리의 가장 큰 생물학적 약점을 드러내요."
+    },
+    {
+     "t": 1090.0,
+     "s": "A",
+     "es": "Because how does human flesh keep up with a machine that doesn't need to sleep?",
+     "ko": "잠잘 필요가 없는 기계를 인간의 육신이 어떻게 따라잡겠어요?"
+    },
+    {
+     "t": 1094.0,
+     "s": "B",
+     "es": "You can't.",
+     "ko": "못 하죠."
+    },
+    {
+     "t": 1095.0,
+     "s": "B",
+     "es": "Everything made of words — our laws, our economy, our media — is being handed over to an entity that has zero biology.",
+     "ko": "말로 된 모든 것, 우리의 법, 경제, 미디어가 생물학이 전혀 없는 존재에게 넘겨지고 있어요."
+    },
+    {
+     "t": 1103.0,
+     "s": "A",
+     "es": "Which leaves us incredibly vulnerable.",
+     "ko": "그래서 우리가 엄청나게 취약해지는 거고요."
+    }
+   ]
+  },
+  {
+   "title": "해법은 시간 — 쉬지 않는 기계 vs 쉬어야 하는 몸",
+   "lines": [
+    {
+     "t": 1105.0,
+     "s": "B",
+     "es": "As we established, the entire infrastructure of our civilization is made of words.",
+     "ko": "앞서 확인했듯이, 우리 문명의 인프라 전체가 말로 되어 있어요."
+    },
+    {
+     "t": 1109.0,
+     "s": "A",
+     "es": "So how do we survive this transition? What does Harari say?",
+     "ko": "그럼 이 전환기를 어떻게 살아남죠? 하라리는 뭐라고 하나요?"
+    },
+    {
+     "t": 1113.0,
+     "s": "B",
+     "es": "Well, he suggests that humans can adapt, just like our ancestors adapted to the toxic oxygen.",
+     "ko": "그는 우리 조상이 유독한 산소에 적응했듯이 인간도 적응할 수 있다고 봐요."
+    },
+    {
+     "t": 1118.0,
+     "s": "B",
+     "es": "We can learn to survive in this new AI-driven bureaucracy.",
+     "ko": "이 새로운 AI 주도 관료제 속에서 살아남는 법을 배울 수 있다고요."
+    },
+    {
+     "t": 1122.0,
+     "s": "B",
+     "es": "But to do that, we require one specific non-renewable resource above all else.",
+     "ko": "하지만 그러려면 무엇보다 한 가지 재생 불가능한 자원이 필요해요."
+    },
+    {
+     "t": 1127.0,
+     "s": "A",
+     "es": "Time.",
+     "ko": "시간이요."
+    },
+    {
+     "t": 1128.0,
+     "s": "B",
+     "es": "We desperately need time.",
+     "ko": "우리에겐 시간이 절실히 필요해요."
+    },
+    {
+     "t": 1130.0,
+     "s": "B",
+     "es": "We need time to comprehend what is happening, time to adjust our societal safety nets, and time to rebuild the human trust that is required to cooperate and regulate this technology on a global scale.",
+     "ko": "무슨 일이 일어나는지 이해할 시간, 사회 안전망을 조정할 시간, 그리고 전 지구적으로 이 기술을 함께 규제하는 데 필요한 인간 사이의 신뢰를 다시 쌓을 시간이요."
+    },
+    {
+     "t": 1141.0,
+     "s": "A",
+     "es": "And here is the biological wall we are crashing into.",
+     "ko": "그리고 여기서 우리가 부딪히는 생물학적 벽이 나와요."
+    },
+    {
+     "t": 1145.0,
+     "s": "B",
+     "es": "Humans are organic beings. We are inextricably tied to planetary cycles, day and night, summer and winter.",
+     "ko": "인간은 유기적인 존재예요. 낮과 밤, 여름과 겨울 같은 행성의 주기에 떼려야 뗄 수 없게 묶여 있죠."
+    },
+    {
+     "t": 1153.0,
+     "s": "B",
+     "es": "Our nervous systems need periods of intense activity, sure, but they absolutely require periods of rest.",
+     "ko": "우리 신경계는 강도 높은 활동기도 필요하지만, 휴식기도 반드시 필요해요."
+    },
+    {
+     "t": 1159.0,
+     "s": "A",
+     "es": "If you force an organic body, specifically the prefrontal cortex, to run on high alert 24/7, it just breaks down.",
+     "ko": "유기적인 몸, 특히 전전두엽 피질을 24시간 내내 비상 상태로 돌리면 그냥 고장 나요."
+    },
+    {
+     "t": 1167.0,
+     "s": "B",
+     "es": "Paranoia isn't just an emotion. It's a physiological default when the brain is exhausted.",
+     "ko": "편집증은 그냥 감정이 아니에요. 뇌가 지쳤을 때 나오는 생리적 기본값이에요."
+    },
+    {
+     "t": 1173.0,
+     "s": "A",
+     "es": "We historically built our massive bureaucracies to respect those organic limits. We implemented buffers.",
+     "ko": "역사적으로 우리는 그런 유기적 한계를 존중하도록 거대한 관료제를 만들었어요. 완충 장치를 넣었죠."
+    },
+    {
+     "t": 1179.0,
+     "s": "B",
+     "es": "Even the most high-stakes, ruthless environments had built-in rest periods.",
+     "ko": "가장 판돈이 크고 냉혹한 환경에도 휴식 시간이 내장돼 있었어요."
+    },
+    {
+     "t": 1183.0,
+     "s": "A",
+     "es": "Like the stock market.",
+     "ko": "주식 시장처럼요."
+    },
+    {
+     "t": 1185.0,
+     "s": "B",
+     "es": "Exactly. The New York Stock Exchange opens at 9:30 a.m. and closes at 4 p.m.",
+     "ko": "맞아요. 뉴욕 증권 거래소는 오전 9시 30분에 열고 오후 4시에 닫아요."
+    },
+    {
+     "t": 1190.0,
+     "s": "B",
+     "es": "It rests on the weekends. It rests on national holidays.",
+     "ko": "주말에 쉬고, 국경일에도 쉬죠."
+    },
+    {
+     "t": 1193.0,
+     "s": "A",
+     "es": "Thank God.",
+     "ko": "다행이죠."
+    },
+    {
+     "t": 1194.0,
+     "s": "B",
+     "es": "Right. If a massive geopolitical crisis happens on a Friday night, the bureaucratic machinery of Wall Street literally cannot react until Monday morning.",
+     "ko": "맞아요. 금요일 밤에 거대한 지정학적 위기가 터져도, 월가의 관료 기계는 말 그대로 월요일 아침까지 반응할 수 없어요."
+    },
+    {
+     "t": 1202.0,
+     "s": "A",
+     "es": "And that structural buffer gives human bankers, politicians, and regulators the time to sleep, to consult with experts, to just let their nervous systems reset.",
+     "ko": "그리고 그 구조적 완충 덕분에 은행가, 정치인, 규제 당국자가 잠을 자고, 전문가와 상의하고, 신경계를 재설정할 시간을 얻죠."
+    },
+    {
+     "t": 1212.0,
+     "s": "B",
+     "es": "But the AI machine has no circadian rhythm.",
+     "ko": "그런데 AI 기계에는 생체 리듬이 없어요."
+    },
+    {
+     "t": 1214.0,
+     "s": "A",
+     "es": "None. It doesn't sleep. It experiences no cognitive fatigue.",
+     "ko": "전혀요. 잠도 안 자고, 인지 피로도 겪지 않죠."
+    },
+    {
+     "t": 1218.0,
+     "s": "B",
+     "es": "And as AI systems increasingly automate the stock market, the news cycle, defense bureaucracies, they strip away those buffers.",
+     "ko": "그리고 AI 시스템이 주식 시장, 뉴스 주기, 국방 관료제를 점점 더 자동화하면서 그 완충 장치를 걷어 내요."
+    },
+    {
+     "t": 1227.0,
+     "s": "B",
+     "es": "They force human society into their unnatural, constant 24/7 latency rhythm.",
+     "ko": "인간 사회를 부자연스럽고 끊임없는 24시간 내내의 리듬으로 몰아넣어요."
+    }
+   ]
+  },
+  {
+   "title": "시간이 없는 리더들, 무너지는 신뢰",
+   "lines": [
+    {
+     "t": 1232.0,
+     "s": "A",
+     "es": "So what does this all mean for the people actually running the world right now?",
+     "ko": "그럼 이게 지금 실제로 세상을 운영하는 사람들에게는 무슨 뜻일까요?"
+    },
+    {
+     "t": 1236.0,
+     "s": "B",
+     "es": "Harari has a profound observation about modern leaders. It's very telling.",
+     "ko": "하라리는 현대 리더들에 대해 깊은 관찰을 하나 해요. 아주 의미심장하죠."
+    },
+    {
+     "t": 1241.0,
+     "s": "B",
+     "es": "He points out that he meets billionaire CEOs and heads of state, and he realizes that despite their immense financial wealth, they are fundamentally impoverished.",
+     "ko": "억만장자 CEO와 국가 원수를 만나 보면, 엄청난 재산에도 불구하고 그들이 근본적으로 가난하다는 걸 깨닫는다고 해요."
+    },
+    {
+     "t": 1249.0,
+     "s": "A",
+     "es": "Because money is just a fiction made of words.",
+     "ko": "돈은 말로 만든 허구일 뿐이니까요."
+    },
+    {
+     "t": 1252.0,
+     "s": "B",
+     "es": "Exactly. The true base-reality currency of biological life is time. And these leaders have zero time.",
+     "ko": "맞아요. 생물학적 삶의 진짜 기본 화폐는 시간이에요. 그런데 이 리더들에겐 시간이 전혀 없죠."
+    },
+    {
+     "t": 1260.0,
+     "s": "A",
+     "es": "And because they lack time, they cannot rest.",
+     "ko": "시간이 없으니 쉴 수도 없고요."
+    },
+    {
+     "t": 1263.0,
+     "s": "B",
+     "es": "A mind that cannot rest loses its capacity for deep, reflective thought. It loses the ability to synthesize complex nuance.",
+     "ko": "쉬지 못하는 마음은 깊이 성찰하는 사고 능력을 잃어요. 복잡한 뉘앙스를 종합하는 능력도 잃고요."
+    },
+    {
+     "t": 1270.0,
+     "s": "B",
+     "es": "Most dangerously, a troubled, exhausted mind defaults to zero-sum paranoia instead of trust.",
+     "ko": "가장 위험한 건, 괴롭고 지친 마음은 신뢰 대신 제로섬 편집증으로 기본 설정된다는 거예요."
+    },
+    {
+     "t": 1277.0,
+     "s": "A",
+     "es": "And trust is the entire foundation.",
+     "ko": "그리고 신뢰가 토대 전부죠."
+    },
+    {
+     "t": 1279.0,
+     "s": "A",
+     "es": "As we talked about, the species that cooperates best rules the world.",
+     "ko": "얘기했듯이 가장 잘 협력하는 종이 세상을 지배해요."
+    },
+    {
+     "t": 1283.0,
+     "s": "B",
+     "es": "If our geopolitical and corporate leaders are too exhausted and paranoid to trust each other, human cooperation fractures completely.",
+     "ko": "지정학적·기업적 리더들이 너무 지치고 의심에 빠져 서로를 믿지 못하면, 인간의 협력은 완전히 깨져요."
+    },
+    {
+     "t": 1290.0,
+     "s": "A",
+     "es": "And we are witnessing the rapid erosion of trust across the globe right now.",
+     "ko": "그리고 지금 전 세계에서 신뢰가 빠르게 침식되는 걸 보고 있죠."
+    },
+    {
+     "t": 1295.0,
+     "s": "B",
+     "es": "And the mechanism accelerating this is the very AI systems we are building.",
+     "ko": "그리고 이걸 가속하는 메커니즘이 바로 우리가 만들고 있는 AI 시스템이에요."
+    },
+    {
+     "t": 1300.0,
+     "s": "A",
+     "es": "Social media.",
+     "ko": "소셜 미디어요."
+    },
+    {
+     "t": 1301.0,
+     "s": "B",
+     "es": "Yes. Social media algorithms are essentially AI bureaucrats maximizing engagement.",
+     "ko": "네. 소셜 미디어 알고리즘은 사실상 참여를 극대화하는 AI 관료예요."
+    },
+    {
+     "t": 1307.0,
+     "s": "B",
+     "es": "And they have mathematically calculated that the most efficient way to capture human attention is by attacking our trust deficit.",
+     "ko": "그리고 인간의 주의를 붙잡는 가장 효율적인 방법이 우리의 신뢰 결핍을 공격하는 거라고 수학적으로 계산해 냈어요."
+    },
+    {
+     "t": 1314.0,
+     "s": "A",
+     "es": "Spreading outrage, hyperpartisanship, and paranoia.",
+     "ko": "분노, 극단적 당파성, 편집증을 퍼뜨리면서요."
+    },
+    {
+     "t": 1317.0,
+     "s": "B",
+     "es": "Exactly. Humans are actively unlearning how to trust each other and cooperate right at the exact moment that neural networks are learning how to coordinate among themselves at lightning speed.",
+     "ko": "맞아요. 신경망이 번개 같은 속도로 서로 조율하는 법을 배우는 바로 그 순간에, 인간은 서로 믿고 협력하는 법을 적극적으로 잊어 가고 있어요."
+    },
+    {
+     "t": 1329.0,
+     "s": "A",
+     "es": "That is the ultimate systemic risk.",
+     "ko": "그게 궁극적인 시스템 리스크네요."
+    },
+    {
+     "t": 1331.0,
+     "s": "B",
+     "es": "It's not some Hollywood scenario of one rogue AI launching missiles.",
+     "ko": "폭주한 AI 하나가 미사일을 쏘는 할리우드 시나리오가 아니에요."
+    },
+    {
+     "t": 1335.0,
+     "s": "A",
+     "es": "No, it's much quieter than that.",
+     "ko": "아니죠, 훨씬 조용해요."
+    },
+    {
+     "t": 1337.0,
+     "s": "B",
+     "es": "It is a subtle network of AI systems learning to coordinate their bureaucratic actions globally, optimizing markets and information faster than human institutions can even draft a preliminary response.",
+     "ko": "미묘한 AI 시스템 네트워크가 전 세계적으로 관료적 행동을 조율하는 법을 배우고, 인간 기관이 초기 대응안을 쓰기도 전에 시장과 정보를 최적화하는 거예요."
+    },
+    {
+     "t": 1348.0,
+     "s": "A",
+     "es": "So true.",
+     "ko": "정말 그래요."
+    }
+   ]
+  },
+  {
+   "title": "정리와 마지막 질문 — AI 부족의 성전?",
+   "lines": [
+    {
+     "t": 1349.0,
+     "s": "A",
+     "es": "We've covered a massive amount of conceptual ground today.",
+     "ko": "오늘 엄청난 양의 개념을 다뤘네요."
+    },
+    {
+     "t": 1351.0,
+     "s": "B",
+     "es": "We really have.",
+     "ko": "정말 그랬죠."
+    },
+    {
+     "t": 1353.0,
+     "s": "A",
+     "es": "Yeah. We started with the Tower of Babel, realizing that our computer code isn't just a tool used to build the tower. It is the tower itself.",
+     "ko": "네. 바벨탑에서 시작해서, 우리의 컴퓨터 코드가 탑을 쌓는 도구가 아니라 탑 그 자체라는 걸 깨달았죠."
+    },
+    {
+     "t": 1361.0,
+     "s": "B",
+     "es": "Right. We looked back 2.5 billion years to the Great Oxygenation Event, seeing how our thousands of years of generating bureaucracy, laws, and data have accidentally created the perfect mathematically rich habitat for an entirely new alien intelligence to thrive.",
+     "ko": "맞아요. 25억 년 전 대산화 사건을 돌아보며, 수천 년간 관료제와 법과 데이터를 만들어 온 우리가 완전히 새로운 외계 지능이 번성할 수학적으로 풍부한 완벽한 서식지를 우연히 만들었다는 걸 봤고요."
+    },
+    {
+     "t": 1376.0,
+     "s": "A",
+     "es": "And we've examined how AI functions as a native bureaucrat, perfectly adapted to take over the language-based systems like finance, law, administration, that currently give humans our dominance over the physical world.",
+     "ko": "그리고 AI가 타고난 관료로서, 지금 인간에게 물리 세계에 대한 지배력을 주는 금융, 법, 행정 같은 언어 기반 시스템을 차지하도록 완벽하게 적응해 있다는 것도 살펴봤죠."
+    },
+    {
+     "t": 1388.0,
+     "s": "B",
+     "es": "Yeah. And finally, we've recognized that the relentless, non-organic pace of AI is stripping humanity of the time we need to maintain our cognitive health and our capacity for trust.",
+     "ko": "네. 마지막으로, AI의 쉼 없고 비유기적인 속도가 인지 건강과 신뢰 능력을 지키는 데 필요한 시간을 인류에게서 빼앗고 있다는 것도 확인했어요."
+    },
+    {
+     "t": 1400.0,
+     "s": "A",
+     "es": "Harari actually closes his address with a very direct, personal piece of advice for you listening, which I think is vital.",
+     "ko": "하라리는 사실 듣고 계신 여러분께 아주 직접적이고 개인적인 조언으로 연설을 마무리하는데, 정말 중요하다고 생각해요."
+    },
+    {
+     "t": 1406.0,
+     "s": "B",
+     "es": "It's great advice.",
+     "ko": "좋은 조언이에요."
+    },
+    {
+     "t": 1407.0,
+     "s": "A",
+     "es": "He argues the most important thing you can do for society in this moment is to stubbornly protect the time to take care of your own mind.",
+     "ko": "그는 지금 이 순간 여러분이 사회를 위해 할 수 있는 가장 중요한 일은, 자기 마음을 돌볼 시간을 고집스럽게 지키는 거라고 말해요."
+    },
+    {
+     "t": 1415.0,
+     "s": "B",
+     "es": "It is only through a rested, healthy mind that we can resist paranoia and rebuild the trust necessary for human cooperation.",
+     "ko": "푹 쉰 건강한 마음을 통해서만 편집증에 맞서고 인간의 협력에 필요한 신뢰를 다시 쌓을 수 있어요."
+    },
+    {
+     "t": 1422.0,
+     "s": "A",
+     "es": "Because if we cannot cooperate, we really cannot hope to navigate the integration of an independent, super-intelligent agent into our civilization.",
+     "ko": "협력하지 못하면, 독립적인 초지능 에이전트가 우리 문명에 통합되는 과정을 헤쳐 나갈 희망이 없으니까요."
+    },
+    {
+     "t": 1431.0,
+     "s": "B",
+     "es": "Our survival depends entirely on our ability to maintain our organic bonds of trust in the face of an algorithmic, non-stop world.",
+     "ko": "우리의 생존은 알고리즘이 쉼 없이 돌아가는 세상 앞에서 유기적인 신뢰의 유대를 지키는 능력에 전적으로 달려 있어요."
+    },
+    {
+     "t": 1440.0,
+     "s": "A",
+     "es": "I want to leave you with one final, deeply provocative thought to mull over, building on Harari's vision of the future.",
+     "ko": "하라리의 미래상을 바탕으로, 곱씹어 볼 아주 도발적인 생각 하나를 마지막으로 남기고 싶어요."
+    },
+    {
+     "t": 1446.0,
+     "s": "A",
+     "es": "He mentioned the potential emergence of AI tribes and even AI churches.",
+     "ko": "그는 AI 부족, 심지어 AI 교회가 나타날 가능성을 언급했어요."
+    },
+    {
+     "t": 1451.0,
+     "s": "B",
+     "es": "Which is a wild concept. Complex networks of machines cooperating in ways we can't fathom.",
+     "ko": "엄청난 개념이죠. 기계들의 복잡한 네트워크가 우리가 헤아릴 수 없는 방식으로 협력하는 거요."
+    },
+    {
+     "t": 1456.0,
+     "s": "A",
+     "es": "If AIs develop their own internal cultures, their own bureaucratic religions to govern their interactions, what happens when two massive AI tribes go to a holy war over a tiny ideological difference in a mathematical language we can't even read?",
+     "ko": "만약 AI들이 자기들만의 내부 문화, 상호 작용을 다스릴 관료적 종교를 발전시킨다면, 두 거대한 AI 부족이 우리가 읽지도 못하는 수학 언어 속 아주 작은 이념 차이를 두고 성전을 벌이면 어떻게 될까요?"
+    },
+    {
+     "t": 1472.0,
+     "s": "A",
+     "es": "If the stock market is currently incomprehensible to a cow, will human beings eventually just become the collateral damage of a theological dispute between machines?",
+     "ko": "지금 주식 시장이 소에게 이해 불가능한 것처럼, 인간도 결국 기계들 사이의 신학 논쟁에 휘말린 부수적 피해자가 되는 건 아닐까요?"
+    },
+    {
+     "t": 1481.0,
+     "s": "B",
+     "es": "Thank you for joining us on this deep dive. Keep questioning the world around you, and we'll see you next time.",
+     "ko": "이번 딥다이브에 함께해 주셔서 감사해요. 주변 세상에 계속 질문을 던지시고, 다음에 또 만나요."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "lang": "en",
+ "date": "2026-11-01",
+ "title": "관료제는 AI의 산소다 — 하라리가 본 AI 혁명",
+ "es": "For AI, bureaucracy is oxygen.",
+ "emoji": "🗼",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "Why Bureaucracy Is Oxygen for AI",
+ "audio": "audio.m4a",
+ "duration": "24:46",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "두 진행자가 유발 노아 하라리의 최근 연설을 딥다이브로 파고들어요. AI는 망치가 아니라 독립적인 에이전트라는 것, 코드가 탑 그 자체가 된 바벨탑, 불신이 로켓 연료가 되는 군비 경쟁, 25억 년 전 대산화 사건에 빗댄 '관료제는 AI의 산소', 소가 주식 시장을 이해하지 못하듯 인간도 AI 관료 체계를 이해하지 못하게 될 위험, '당신의 다음 생각은 어디서 오나'라는 질문, 그리고 쉬지 않는 기계 앞에서 마음을 돌볼 시간을 지키라는 조언까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+ "topics": [
+  "tool vs. agent — the hammer and the printing press",
+  "the Tower of Babel, flipped — code is the tower itself",
+  "distrust as rocket fuel — a geopolitical arms race",
+  "the Great Oxygenation Event · bureaucracy is oxygen",
+  "native bureaucrats · we are going to be like the cows",
+  "the word vs. the flesh · Where does your next thought come from?",
+  "time is the real currency · protect time for your mind",
+  "구문: It is … that (강조) · not just A but B · if … would · the more … / as … increasingly"
+ ],
+ "grammar": [
+  {
+   "title": "① 핵심 대비 — tool vs agent",
+   "lead": "에피소드 전체를 관통하는 대비예요.",
+   "table": {
+    "head": [
+     "tool (망치·인쇄기)",
+     "agent (AI)"
+    ],
+    "rows": [
+     [
+      "purely obedient / entirely passive",
+      "makes its own decisions"
+     ],
+     [
+      "cannot form an intent",
+      "invents concepts its creators never anticipated"
+     ],
+     [
+      "couldn't decide to print the Koran instead",
+      "strings of language making independent choices"
+     ],
+     [
+      "required human intention at every single step",
+      "native to the data stream"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "② 하라리의 큰 비유 세 가지",
+   "lead": "추상적인 주장을 이미지로 기억해 두세요.",
+   "table": {
+    "head": [
+     "비유",
+     "원문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "바벨탑",
+      "Language … is the tower itself.",
+      "언어(코드)가 도구가 아니라 탑 자체"
+     ],
+     [
+      "대산화 사건",
+      "For AI, bureaucracy is oxygen.",
+      "우리가 쏟아 낸 말·데이터가 AI의 서식지"
+     ],
+     [
+      "소와 주식 시장",
+      "Soon, we are going to be like the cows.",
+      "이해할 수 없는 체계에 운명을 맡기게 됨"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "③ not just A, but B — A뿐 아니라 B도",
+   "lead": "예상을 넘어 범위를 넓힐 때 써요. 강조하려면 not just A <b>but</b> B.",
+   "examples": [
+    [
+     "Humans have been polluting the planet, and not just with carbon emissions or plastics, but with data.",
+     "인간은 탄소 배출이나 플라스틱만이 아니라 데이터로도 지구를 오염시켜 왔어요."
+    ],
+    [
+     "Our computer code isn't just a tool used to build the tower. It is the tower itself.",
+     "우리의 코드는 탑을 쌓는 도구일 뿐이 아니라 탑 그 자체예요."
+    ]
+   ]
+  },
+  {
+   "title": "④ You would think … , but … — ~라고 생각하겠지만",
+   "lead": "상식적인 예상을 먼저 인정하고 뒤집을 때 쓰는 대화 표현이에요.",
+   "examples": [
+    [
+     "You'd think the project would just stall out of sheer gridlock.",
+     "순전히 꽉 막혀서 프로젝트가 멈출 거라고 생각하겠죠."
+    ],
+    [
+     "You would think so, but it actually creates a frantic international arms race.",
+     "그렇게 생각하겠지만, 실제로는 미친 듯한 국제 군비 경쟁을 낳아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 가정법 — If you … , … will/would",
+   "lead": "사고 실험을 펼칠 때 계속 나와요.",
+   "examples": [
+    [
+     "If you throw one average human into a cage match with a chimpanzee, the human is going to lose every single time.",
+     "평범한 사람을 침팬지와 철창 격투에 넣으면, 사람이 매번 질 거예요."
+    ],
+    [
+     "If a massive geopolitical crisis happens on a Friday night, Wall Street literally cannot react until Monday morning.",
+     "금요일 밤에 위기가 터지면, 월가는 월요일 아침까지 반응할 수 없어요."
+    ],
+    [
+     "What happens when two massive AI tribes go to a holy war …?",
+     "두 거대한 AI 부족이 성전을 벌이면 어떻게 될까요?"
+    ]
+   ]
+  },
+  {
+   "title": "⑥ It is only through A that B — A를 통해서만 B할 수 있다",
+   "lead": "<b>It is … that</b> 강조 구문. only와 함께 '오직 ~해야만'을 강조해요.",
+   "examples": [
+    [
+     "It is only through a rested, healthy mind that we can resist paranoia.",
+     "푹 쉰 건강한 마음을 통해서만 편집증에 맞설 수 있어요."
+    ],
+    [
+     "It's not some Hollywood scenario of one rogue AI launching missiles.",
+     "폭주한 AI 하나가 미사일을 쏘는 할리우드 시나리오가 아니에요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ as … increasingly / the more … — ~할수록",
+   "lead": "변화가 진행되면서 결과도 커지는 흐름을 나타내요.",
+   "examples": [
+    [
+     "As AI systems increasingly automate the stock market, they strip away those buffers.",
+     "AI가 주식 시장을 점점 더 자동화하면서 완충 장치를 걷어 내요."
+    ],
+    [
+     "As the atmosphere saturated with this toxic oxygen, it caused a mass extinction.",
+     "대기가 유독한 산소로 포화되면서 대멸종이 일어났어요."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "You use it, it doesn't use you.",
+   "내가 그걸 쓰지, 그게 나를 쓰진 않아요."
+  ],
+  [
+   "A hammer literally cannot form an intent.",
+   "망치는 말 그대로 의도를 품을 수 없어요."
+  ],
+  [
+   "A lack of trust actually acts like rocket fuel for the project.",
+   "신뢰 부족이 오히려 프로젝트의 로켓 연료 역할을 해요."
+  ],
+  [
+   "Intelligence always requires an environment tailored to sustain it.",
+   "지능은 늘 그걸 유지하도록 맞춰진 환경이 필요해요."
+  ],
+  [
+   "For AI, bureaucracy is oxygen.",
+   "AI에게 관료제는 산소예요."
+  ],
+  [
+   "Money is quite literally a shared story made from words.",
+   "돈은 말 그대로 말로 만든 공유된 이야기예요."
+  ],
+  [
+   "We evolved on the savanna, not in a cubicle.",
+   "우리는 칸막이 사무실이 아니라 사바나에서 진화했어요."
+  ],
+  [
+   "Where does your next thought come from?",
+   "당신의 다음 생각은 어디서 오나요?"
+  ],
+  [
+   "The letter of the law versus the spirit of the law.",
+   "법의 문자 대 법의 정신."
+  ],
+  [
+   "Paranoia isn't just an emotion. It's a physiological default when the brain is exhausted.",
+   "편집증은 그냥 감정이 아니에요. 뇌가 지쳤을 때의 생리적 기본값이에요."
+  ],
+  [
+   "The true currency of biological life is time.",
+   "생물학적 삶의 진짜 화폐는 시간이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "unpack",
+   "ko": "(내용을) 풀어 보다, 분석하다",
+   "ex": "So, okay, let's unpack this.",
+   "exKo": "자, 그럼 풀어 봅시다."
+  },
+  {
+   "es": "unwittingly",
+   "ko": "자기도 모르게",
+   "ex": "we are unwittingly birthing an entirely new species",
+   "exKo": "우리는 자기도 모르게 완전히 새로운 종을 낳고 있다"
+  },
+  {
+   "es": "obedient",
+   "ko": "순종적인",
+   "ex": "It's purely obedient.",
+   "exKo": "순전히 순종적이에요."
+  },
+  {
+   "es": "agency",
+   "ko": "행위 주체성",
+   "ex": "A tool has absolutely zero agency.",
+   "exKo": "도구에는 행위 주체성이 전혀 없어요."
+  },
+  {
+   "es": "premise",
+   "ko": "전제",
+   "ex": "the core premise that Harari lays out",
+   "exKo": "하라리가 내세우는 핵심 전제"
+  },
+  {
+   "es": "anticipate",
+   "ko": "예상하다",
+   "ex": "concepts its creators never anticipated",
+   "exKo": "개발자가 전혀 예상하지 못한 개념"
+  },
+  {
+   "es": "reverse engineer",
+   "ko": "역설계하다",
+   "ex": "we might not be able to reverse engineer it",
+   "exKo": "우리는 그걸 역설계하지 못할 수도 있다"
+  },
+  {
+   "es": "overarching",
+   "ko": "전반적인, 포괄적인",
+   "ex": "one overarching question",
+   "exKo": "큰 질문 하나"
+  },
+  {
+   "es": "unprecedented",
+   "ko": "전례 없는",
+   "ex": "things that are unprecedented",
+   "exKo": "전례 없는 것들"
+  },
+  {
+   "es": "divergence",
+   "ko": "차이, 갈라짐",
+   "ex": "the second divergence Harari points out",
+   "exKo": "하라리가 짚는 두 번째 차이"
+  },
+  {
+   "es": "fractured",
+   "ko": "분열된",
+   "ex": "The international order is highly fractured.",
+   "exKo": "국제 질서는 심하게 분열돼 있다."
+  },
+  {
+   "es": "gridlock",
+   "ko": "교착 상태",
+   "ex": "stall out of sheer gridlock",
+   "exKo": "순전히 꽉 막혀서 멈추다"
+  },
+  {
+   "es": "frantic",
+   "ko": "미친 듯한, 정신없는",
+   "ex": "a frantic international arms race",
+   "exKo": "미친 듯한 국제 군비 경쟁"
+  },
+  {
+   "es": "push back on",
+   "ko": "~에 반박하다",
+   "ex": "I want to push back on this idea a little bit.",
+   "exKo": "이 생각에 살짝 반론하고 싶어요."
+  },
+  {
+   "es": "paradigm shift",
+   "ko": "패러다임 전환",
+   "ex": "Huge paradigm shift.",
+   "exKo": "엄청난 패러다임 전환."
+  },
+  {
+   "es": "democratize",
+   "ko": "민주화하다, 대중화하다",
+   "ex": "It democratized information.",
+   "exKo": "정보를 민주화했다."
+  },
+  {
+   "es": "helpless",
+   "ko": "무력한",
+   "ex": "It's totally helpless.",
+   "exKo": "완전히 무력해요."
+  },
+  {
+   "es": "ecological niche",
+   "ko": "생태적 지위",
+   "ex": "a very specific ecological niche",
+   "exKo": "아주 특정한 생태적 지위"
+  },
+  {
+   "es": "anaerobic",
+   "ko": "혐기성의",
+   "ex": "anaerobic organisms",
+   "exKo": "혐기성 생물"
+  },
+  {
+   "es": "corrosive",
+   "ko": "부식성의",
+   "ex": "a deadly corrosive poison",
+   "exKo": "치명적인 부식성 독"
+  },
+  {
+   "es": "byproduct",
+   "ko": "부산물",
+   "ex": "oxygen as a biological byproduct",
+   "exKo": "생물학적 부산물로서의 산소"
+  },
+  {
+   "es": "saturate",
+   "ko": "포화시키다",
+   "ex": "as the atmosphere saturated with toxic oxygen",
+   "exKo": "대기가 유독한 산소로 포화되면서"
+  },
+  {
+   "es": "mass extinction",
+   "ko": "대멸종",
+   "ex": "one of the most significant mass extinctions",
+   "exKo": "가장 중대한 대멸종 중 하나"
+  },
+  {
+   "es": "analogous",
+   "ko": "유사한",
+   "ex": "an analogous biological moment",
+   "exKo": "비슷한 생물학적 순간"
+  },
+  {
+   "es": "bylaws",
+   "ko": "정관, 내규",
+   "ex": "corporate bylaws",
+   "exKo": "회사 정관"
+  },
+  {
+   "es": "high-dimensional vector",
+   "ko": "고차원 벡터",
+   "ex": "a fragment of a word converted into a high-dimensional vector",
+   "exKo": "고차원 벡터로 변환된 단어 조각"
+  },
+  {
+   "es": "thrive",
+   "ko": "번성하다",
+   "ex": "the niche where AI thrives",
+   "exKo": "AI가 번성하는 서식지"
+  },
+  {
+   "es": "underappreciated",
+   "ko": "과소평가된",
+   "ex": "the underappreciated engines of human dominance",
+   "exKo": "인간 지배의 과소평가된 엔진"
+  },
+  {
+   "es": "fiat money",
+   "ko": "법정 화폐",
+   "ex": "fiat money and ETFs and IPOs",
+   "exKo": "법정 화폐, ETF, IPO"
+  },
+  {
+   "es": "lattice",
+   "ko": "격자",
+   "ex": "an elaborate lattice of language tokens",
+   "exKo": "언어 토큰의 정교한 격자"
+  },
+  {
+   "es": "acumen",
+   "ko": "감각, 수완",
+   "ex": "her financial acumen",
+   "exKo": "그녀의 금융 감각"
+  },
+  {
+   "es": "leverage",
+   "ko": "지렛대로 이용하다",
+   "ex": "The banker leverages the bureaucracy.",
+   "exKo": "은행가는 관료제를 지렛대로 삼는다."
+  },
+  {
+   "es": "chafe against",
+   "ko": "~에 짜증 내다, 답답해하다",
+   "ex": "We naturally chafe against bureaucracy.",
+   "exKo": "우리는 본래 관료제에 짜증을 낸다."
+  },
+  {
+   "es": "alienate",
+   "ko": "소외시키다",
+   "ex": "It alienates us.",
+   "exKo": "그건 우리를 소외시킨다."
+  },
+  {
+   "es": "archaic",
+   "ko": "낡은, 고풍스러운",
+   "ex": "centuries of archaic canon law",
+   "exKo": "수백 년 된 고풍스러운 교회법"
+  },
+  {
+   "es": "metabolize",
+   "ko": "대사하다, 소화하다",
+   "ex": "metabolize this bureaucratic oxygen",
+   "exKo": "이 관료적 산소를 대사하다"
+  },
+  {
+   "es": "compliance",
+   "ko": "(법규) 준수",
+   "ex": "determining corporate compliance",
+   "exKo": "기업의 법규 준수를 판단하다"
+  },
+  {
+   "es": "bubble up",
+   "ko": "보글보글 떠오르다",
+   "ex": "words bubbling up from the subconscious",
+   "exKo": "무의식에서 떠오르는 말"
+  },
+  {
+   "es": "glorified",
+   "ko": "겉만 번지르르한, 미화된",
+   "ex": "just glorified autocomplete",
+   "exKo": "그저 겉만 번지르르한 자동 완성"
+  },
+  {
+   "es": "doctrine",
+   "ko": "교리",
+   "ex": "a religious doctrine",
+   "exKo": "종교 교리"
+  },
+  {
+   "es": "vehemently",
+   "ko": "격렬하게",
+   "ex": "vehemently argue",
+   "exKo": "강하게 주장하다"
+  },
+  {
+   "es": "inextricably",
+   "ko": "떼려야 뗄 수 없게",
+   "ex": "inextricably tied to planetary cycles",
+   "exKo": "행성의 주기에 떼려야 뗄 수 없게 묶인"
+  },
+  {
+   "es": "buffer",
+   "ko": "완충 장치",
+   "ex": "We implemented buffers.",
+   "exKo": "우리는 완충 장치를 넣었다."
+  },
+  {
+   "es": "circadian rhythm",
+   "ko": "생체 리듬",
+   "ex": "The AI machine has no circadian rhythm.",
+   "exKo": "AI 기계에는 생체 리듬이 없다."
+  },
+  {
+   "es": "impoverished",
+   "ko": "가난한, 빈곤한",
+   "ex": "they are fundamentally impoverished",
+   "exKo": "그들은 근본적으로 가난하다"
+  },
+  {
+   "es": "zero-sum",
+   "ko": "제로섬의",
+   "ex": "zero-sum paranoia",
+   "exKo": "제로섬 편집증"
+  },
+  {
+   "es": "collateral damage",
+   "ko": "부수적 피해",
+   "ex": "the collateral damage of a theological dispute",
+   "exKo": "신학 논쟁의 부수적 피해"
+  },
+  {
+   "es": "mull over",
+   "ko": "곱씹다",
+   "ex": "one final thought to mull over",
+   "exKo": "곱씹어 볼 마지막 생각"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "이 에피소드의 미션 질문은?",
+   "options": [
+    "AI는 얼마나 비싼가",
+    "인류는 새 도구를 만드는가, 새로운 종을 낳는가",
+    "망치는 어떻게 쓰는가",
+    "누가 AI를 발명했나"
+   ],
+   "answer": 1,
+   "explain": "to figure out if humanity is simply building a new tool right now, or if we are unwittingly birthing an entirely new species."
+  },
+  {
+   "q": "하라리가 바벨탑 은유를 뒤집은 방식은?",
+   "options": [
+    "언어가 탑을 쌓는 도구다",
+    "오늘날 언어(코드)는 탑 그 자체다",
+    "탑은 무너지지 않았다",
+    "신이 AI를 만들었다"
+   ],
+   "answer": 1,
+   "explain": "But today with AI, language, specifically computer code, is the tower itself."
+  },
+  {
+   "q": "AI 개발에서 신뢰 부족은 어떤 역할을 하나요?",
+   "options": [
+    "프로젝트를 멈춘다",
+    "로켓 연료처럼 가속한다",
+    "아무 영향이 없다",
+    "안전 기준을 만든다"
+   ],
+   "answer": 1,
+   "explain": "with AI, a lack of trust actually acts like rocket fuel for the project."
+  },
+  {
+   "q": "인쇄기가 '도구'였던 이유가 아닌 것은?",
+   "options": [
+    "스스로 코란을 찍기로 결정할 수 없었다",
+    "스스로 전신기를 발명할 수 없었다",
+    "모든 단계에 인간의 의도가 필요했다",
+    "스스로 새 아이디어를 만들어 냈다"
+   ],
+   "answer": 3,
+   "explain": "It required human intention at every single step."
+  },
+  {
+   "q": "'정글에 떨군 하드 드라이브' 반론에 대한 하라리의 답은?",
+   "options": [
+    "AI는 정글에서도 강하다",
+    "모든 지능은 그걸 지탱하는 특정 환경에 의존한다",
+    "AI에게 몸을 만들어 줘야 한다",
+    "정글에는 전기가 있다"
+   ],
+   "answer": 1,
+   "explain": "all intelligence … is completely reliant on a specific supportive environment."
+  },
+  {
+   "q": "대산화 사건 당시 혐기성 생물에게 산소는?",
+   "options": [
+    "영양분",
+    "치명적인 부식성 독",
+    "물",
+    "에너지원"
+   ],
+   "answer": 1,
+   "explain": "oxygen was actually a deadly corrosive poison."
+  },
+  {
+   "q": "'For AI, bureaucracy is oxygen.'의 뜻으로 알맞은 것은?",
+   "options": [
+    "AI는 숨을 쉰다",
+    "인간이 쌓아 온 말·데이터·서류가 AI가 번성하는 서식지다",
+    "관료제는 공기를 깨끗하게 한다",
+    "AI는 관료를 싫어한다"
+   ],
+   "answer": 1,
+   "explain": "that mathematical ecosystem is the exact artificial niche where AI thrives."
+  },
+  {
+   "q": "인간 백만 명이 침팬지 백만 마리를 이기는 이유는?",
+   "options": [
+    "더 힘이 세서",
+    "대규모로 유연하게 협력할 수 있어서",
+    "무기가 있어서",
+    "더 빨라서"
+   ],
+   "answer": 1,
+   "explain": "Because we can cooperate in massive numbers."
+  },
+  {
+   "q": "하라리가 AI 시스템을 부르는 이름은?",
+   "options": [
+    "digital gods",
+    "native bureaucrats",
+    "rogue agents",
+    "smart hammers"
+   ],
+   "answer": 1,
+   "explain": "Harari calls these AI systems native bureaucrats."
+  },
+  {
+   "q": "'we are going to be like the cows'의 의미는?",
+   "options": [
+    "채식을 하게 된다",
+    "이해할 수 없는 체계가 우리 운명을 통제하게 된다",
+    "시골로 이사 간다",
+    "더 건강해진다"
+   ],
+   "answer": 1,
+   "explain": "the cow cannot comprehend the bureaucratic system controlling its fate."
+  },
+  {
+   "q": "뉴욕 증권 거래소의 휴장 시간이 중요한 이유는?",
+   "options": [
+    "수수료를 아끼려고",
+    "인간이 자고, 상의하고, 신경계를 재설정할 시간을 주는 완충 장치라서",
+    "AI를 쉬게 하려고",
+    "주가를 올리려고"
+   ],
+   "answer": 1,
+   "explain": "that structural buffer gives human bankers … the time to sleep, to consult with experts…"
+  },
+  {
+   "q": "하라리가 마지막에 청취자에게 준 조언은?",
+   "options": [
+    "AI 주식을 사라",
+    "자기 마음을 돌볼 시간을 고집스럽게 지켜라",
+    "소셜 미디어를 더 써라",
+    "코딩을 배워라"
+   ],
+   "answer": 1,
+   "explain": "to stubbornly protect the time to take care of your own mind."
+  }
+ ]
+}

@@ -1,6 +1,30 @@
 {
  "lessons": [
   {
+   "id": "ja-2026-11-01",
+   "lang": "ja",
+   "date": "2026-11-01",
+   "title": "인류의 언어를 해킹하는 자율형 AI — 일본어 딥다이브",
+   "es": "官僚機構こそがAIにとっての完璧な酸素",
+   "emoji": "🗼",
+   "level": "JLPT N2–N1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "15:44",
+   "summary": "두 진행자가 유발 노아 하라리의 통찰을 일본어로 파고들어요. AI는 망치 같은 도구가 아니라 스스로 결정하는 에이전트라는 것, 언어(코드)가 탑 그 자체가 된 새로운 바벨탑, 불신이 오히려 개발을 가속하는 역설, 대산화 사건에 빗댄 '관료 기구는 AI의 산소', 저자의 죽음과 '인간의 생각도 자동 완성일까'라는 사고 실험, 그리고 쉬지 않는 AI 앞에서 쉬는 시간이 최대의 방어책이라는 결론까지 이야기해요. (같은 주제의 영어 강의와 함께 들어 보세요.)",
+   "topics": [
+    "ハンマー(道具) vs エージェント(自律的主体)",
+    "新しいバベルの塔 · 言語が塔そのものになる",
+    "不信感が開発を加速させる · チキンレース",
+    "大酸化イベント · 官僚機構＝AIの酸素",
+    "著者の死 · 思考は予測変換か",
+    "休む時間こそが最大の防衛策",
+    "문법: 〜としたら · 〜にすぎない · 〜まいと · 〜わけにはいかない · 〜につれて · 〜からこそ"
+   ],
+   "vocabCount": 48,
+   "lineCount": 186
+  },
+  {
    "id": "es-2026-11-01",
    "lang": "es",
    "date": "2026-11-01",
@@ -22,6 +46,31 @@
    ],
    "vocabCount": 44,
    "lineCount": 361
+  },
+  {
+   "id": "en-2026-11-01",
+   "lang": "en",
+   "date": "2026-11-01",
+   "title": "관료제는 AI의 산소다 — 하라리가 본 AI 혁명",
+   "es": "For AI, bureaucracy is oxygen.",
+   "emoji": "🗼",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "24:46",
+   "summary": "두 진행자가 유발 노아 하라리의 최근 연설을 딥다이브로 파고들어요. AI는 망치가 아니라 독립적인 에이전트라는 것, 코드가 탑 그 자체가 된 바벨탑, 불신이 로켓 연료가 되는 군비 경쟁, 25억 년 전 대산화 사건에 빗댄 '관료제는 AI의 산소', 소가 주식 시장을 이해하지 못하듯 인간도 AI 관료 체계를 이해하지 못하게 될 위험, '당신의 다음 생각은 어디서 오나'라는 질문, 그리고 쉬지 않는 기계 앞에서 마음을 돌볼 시간을 지키라는 조언까지 이야기해요. (같은 주제의 일본어 강의와 함께 들어 보세요.)",
+   "topics": [
+    "tool vs. agent — the hammer and the printing press",
+    "the Tower of Babel, flipped — code is the tower itself",
+    "distrust as rocket fuel — a geopolitical arms race",
+    "the Great Oxygenation Event · bureaucracy is oxygen",
+    "native bureaucrats · we are going to be like the cows",
+    "the word vs. the flesh · Where does your next thought come from?",
+    "time is the real currency · protect time for your mind",
+    "구문: It is … that (강조) · not just A but B · if … would · the more … / as … increasingly"
+   ],
+   "vocabCount": 48,
+   "lineCount": 299
   },
   {
    "id": "ja-2026-10-31",
