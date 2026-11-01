@@ -1,0 +1,178 @@
+{
+  "lang": "es",
+  "date": "2026-11-01",
+  "title": "muy와 mucho — 초급자 실수 1위 완전 정복",
+  "es": "Muy bien, no mucho bien · Mucho mejor, no muy mejor",
+  "emoji": "🎯",
+  "level": "A1–A2",
+  "channel": "Español Auténtico",
+  "videoTitle": "How to use MUY and MUCHO: Spanish Listening Practice",
+  "youtube": "Mw22H_oXIJs",
+  "duration": "50:49",
+  "speakers": {"S": "Sofía", "C": "Carlos"},
+  "hideCast": true,
+  "summary": "'mucho bien', 'muy gracias' — 초급자가 가장 많이 하는 실수예요. 묘사(형용사·부사)엔 변하지 않는 muy, 것(명사)엔 성·수에 맞춰 변하는 mucho/mucha/muchos/muchas, 동사 뒤엔 mucho. 그리고 mejor·peor·mayor·menor 네 개의 예외까지. 소피아가 내는 '틀린 곳 찾기(encuentra el error)' 게임 20문제와 주말 이야기 기말고사로 확실히 익혀요.",
+  "topics": [
+    "muy + 형용사·부사: muy caliente · muy bien · muy cerca",
+    "mucho/mucha/muchos/muchas + 명사: mucho dinero · mucha paciencia",
+    "동사 + mucho: trabajo mucho · me gusta mucho",
+    "tener/hacer + 명사: mucha hambre · mucho frío · mucho sol",
+    "예외: mucho mejor · mucho peor · mucho mayor · mucho menor",
+    "bueno/malo · bien/mal — 넷 다 muy"
+  ],
+  "grammar": [
+    {
+      "title": "① 핵심 규칙 — 뒤에 오는 단어의 품사를 보세요",
+      "lead": "비밀은 <b>뒤에 오는 단어의 종류</b>예요. 묘사(어떤지)면 muy, 것(얼마나 많은지)이면 mucho.",
+      "table": {
+        "head": ["뒤에 오는 말", "쓰는 말", "변하나?", "예문"],
+        "rows": [
+          ["형용사 (묘사)", "muy", "❌ 절대 안 변함", "El café está muy caliente."],
+          ["부사 (bien, mal, tarde, cerca, rápido…)", "muy", "❌", "Estoy muy bien. / Habla muy rápido."],
+          ["명사 (것, 양)", "mucho / mucha / muchos / muchas", "⭕ 성·수 일치", "mucho dinero · mucha gente · muchos amigos · muchas casas"],
+          ["동사 (행동의 양·강도)", "동사 + mucho", "❌ 늘 mucho", "Trabajo mucho. / Me gustan mucho los zapatos."]
+        ]
+      },
+      "tip": "✗ mucho bien · ✗ muy gracias · ✗ trabajo muy · ✗ muyos — 오늘 영상에 나온 대표적인 실수들이에요."
+    },
+    {
+      "title": "② mucho의 네 가지 형태 — 명사의 성과 수에 맞추기",
+      "lead": "mucho가 명사 앞에 오면 그 명사가 남성/여성, 단수/복수인지에 따라 바뀌어요.",
+      "table": {
+        "head": ["", "단수", "복수"],
+        "rows": [
+          ["남성", "mucho dinero · mucho tiempo · mucho estrés", "muchos amigos · muchos trabajos"],
+          ["여성", "mucha paciencia · mucha gente · mucha hambre", "muchas casas · muchas frases"]
+        ]
+      },
+      "tip": "gente(사람들)는 뜻은 여럿이어도 문법적으로는 여성 단수라서 mucha gente예요."
+    },
+    {
+      "title": "③ 감각·날씨는 명사 — tener/hacer + mucho",
+      "lead": "다른 언어에선 형용사로 말하는 감각을 스페인어에선 <b>명사로 '가지고(tener)'</b> 있어요. 날씨도 hacer + 명사예요.",
+      "examples": [
+        ["Tengo mucha hambre.", "배가 아주 고파요. (✗ Estoy muy hambre / ✗ Tengo muy hambre)"],
+        ["Tengo mucha sed / mucho miedo / mucha fiebre.", "목이 많이 말라요 / 아주 무서워요 / 열이 많이 나요."],
+        ["Hoy hace mucho frío en Madrid.", "오늘 마드리드는 아주 추워요. (frío = 명사)"],
+        ["Hacía mucho calor en la calle.", "거리가 아주 더웠어요."],
+        ["Hoy hace mucho sol, vamos a la playa.", "오늘 해가 쨍쨍해요, 해변 가요. (✗ muy sol)"]
+      ],
+      "tip": "반대로 enfermo(아픈), cansado(피곤한)는 형용사라서 Estoy muy enfermo, Estoy muy cansada."
+    },
+    {
+      "title": "④ 네 개의 반항아 — mejor · peor · mayor · menor",
+      "lead": "비교를 나타내는 이 네 단어는 형용사·부사지만 <b>muy가 아니라 mucho</b>와 함께 써요.",
+      "examples": [
+        ["Mi nivel de español es mucho mejor.", "내 스페인어 실력이 훨씬 나아졌어요. (✗ muy mejor)"],
+        ["Esta comida es mucho peor que la de ayer.", "이 음식은 어제 것보다 훨씬 나빠요."],
+        ["Yo soy mucho mayor que él.", "나는 그보다 나이가 훨씬 많아요."],
+        ["Él es mucho menor que yo.", "그는 나보다 훨씬 어려요."],
+        ["Hoy me siento mucho mejor.", "오늘 훨씬 나아졌어요."]
+      ],
+      "tip": "외우는 법: las cuatro fantásticas que van con mucho — mucho와 다니는 판타스틱 4!"
+    },
+    {
+      "title": "⑤ bueno·malo vs bien·mal — 넷 다 muy",
+      "lead": "bueno/malo는 <b>형용사</b>(사람·사물 묘사), bien/mal은 <b>부사</b>(행동 묘사). 둘 다 묘사라서 muy를 써요.",
+      "examples": [
+        ["Juan es muy bueno jugando al fútbol.", "후안은 축구를 아주 잘해요. (형용사 bueno)"],
+        ["Juan juega muy bien al fútbol.", "후안은 축구를 아주 잘 해요. (부사 bien)"],
+        ["Mi abuela cocina muy bien, pero hoy la sopa está muy mala.", "할머니는 요리를 아주 잘하시지만, 오늘 수프는 아주 맛없어요."],
+        ["Ayer vi una película y es muy buena.", "어제 영화를 봤는데 아주 좋아요. (✗ mucho buena)"]
+      ]
+    },
+    {
+      "title": "⑥ 게임에서 고친 문장 모음",
+      "lead": "'틀린 곳 찾기'에서 나온 문장을 ✗ → ✓로 정리했어요. 소리 내어 맞는 문장을 읽어 보세요.",
+      "table": {
+        "head": ["✗ 틀린 문장", "✓ 맞는 문장"],
+        "rows": [
+          ["Mi profesor habla mucho rápido.", "Mi profesor habla muy rápido."],
+          ["Ayer caminé muy por el parque.", "Ayer caminé mucho por el parque."],
+          ["María está mucho cansada…", "María está muy cansada porque tiene muchos trabajos y duerme muy poco."],
+          ["Me gusta muy esta ciudad.", "Me gusta mucho esta ciudad. Hay mucha gente simpática."],
+          ["Estoy mucho bien, gracias.", "Estoy muy bien, gracias."],
+          ["…pero cuesta muy dinero vivir allí.", "…pero cuesta mucho dinero vivir allí."],
+          ["Este libro es mucho interesante. Lo leo muy.", "Este libro es muy interesante. Lo leo mucho."],
+          ["Estoy mucho enfermo, tengo muy fiebre.", "Estoy muy enfermo, tengo mucha fiebre."],
+          ["Mi amigo trabaja mucho rápido, pero gana muy dinero.", "Mi amigo trabaja muy rápido, pero gana mucho dinero."],
+          ["Fue un día mucho especial… disfruté muy.", "Fue un día muy especial… disfruté mucho."]
+        ]
+      }
+    }
+  ],
+  "phrases": [
+    ["Estoy muy bien, gracias.", "아주 잘 지내요, 고마워요."],
+    ["Muchas gracias. / Muchísimas gracias.", "정말 고마워요. (✗ muy gracias)"],
+    ["Tengo mucho tiempo libre.", "자유 시간이 많아요."],
+    ["Necesito mucha paciencia.", "인내심이 많이 필요해요."],
+    ["Ojalá tuviera mucho dinero.", "돈이 많으면 좋겠어요."],
+    ["Tengo mucha hambre.", "배가 아주 고파요."],
+    ["Me gusta mucho esta ciudad.", "이 도시가 정말 좋아요."],
+    ["Te quiero mucho.", "많이 사랑해요."],
+    ["Hoy me siento mucho mejor.", "오늘 훨씬 나아졌어요."],
+    ["Tengo muchísimas ganas de empezar.", "빨리 시작하고 싶어 죽겠어요."],
+    ["Eso suena fatal.", "그거 끔찍하게 들려요."],
+    ["Lo has pedido tú.", "당신이 원한 거예요."]
+  ],
+  "vocab": [
+    {"es": "muy", "ko": "아주, 매우 (형용사·부사 앞, 불변)", "ex": "El café está muy caliente.", "exKo": "커피가 아주 뜨거워."},
+    {"es": "mucho / mucha / muchos / muchas", "ko": "많은 (명사 앞, 성·수 일치)", "ex": "Tengo muchos amigos.", "exKo": "친구가 많아."},
+    {"es": "mucho (동사 뒤)", "ko": "많이", "ex": "Yo trabajo mucho.", "exKo": "나는 일을 많이 해."},
+    {"es": "el error", "ko": "실수, 오류", "ex": "Cometer un error es normal.", "exKo": "실수하는 건 정상이야."},
+    {"es": "cometer un error", "ko": "실수하다", "ex": "Todos los estudiantes cometen este error.", "exKo": "모든 학생이 이 실수를 해."},
+    {"es": "el sustantivo", "ko": "명사", "ex": "Dinero es un sustantivo.", "exKo": "dinero는 명사야."},
+    {"es": "el adjetivo", "ko": "형용사", "ex": "Cansada es un adjetivo.", "exKo": "cansada는 형용사야."},
+    {"es": "el adverbio", "ko": "부사", "ex": "Bien es un adverbio.", "exKo": "bien은 부사야."},
+    {"es": "la cantidad", "ko": "양", "ex": "una cantidad grande de cosas", "exKo": "많은 양의 것들"},
+    {"es": "invariable", "ko": "변하지 않는", "ex": "La palabra muy es invariable.", "exKo": "muy는 변하지 않아."},
+    {"es": "el género / el número", "ko": "(문법) 성 / 수", "ex": "Tiene que estar de acuerdo con el género y el número.", "exKo": "성과 수에 맞춰야 해."},
+    {"es": "la concordancia", "ko": "(성·수) 일치", "ex": "Tengo que hacer la concordancia.", "exKo": "일치를 시켜야 해."},
+    {"es": "apoyar", "ko": "지지하다, 응원하다", "ex": "Hacerse miembro es una forma de apoyarnos.", "exKo": "멤버가 되는 건 우리를 응원하는 방법이야."},
+    {"es": "confundir(se)", "ko": "헷갈리다, 혼동하다", "ex": "Al principio siempre me confundía.", "exKo": "처음엔 늘 헷갈렸어."},
+    {"es": "mezclar", "ko": "섞다", "ex": "Mezclaba todo.", "exKo": "다 섞어 썼어."},
+    {"es": "adivinar", "ko": "알아맞히다", "ex": "Intentad adivinar la respuesta.", "exKo": "답을 맞혀 보세요."},
+    {"es": "la trampa", "ko": "함정", "ex": "Esta frase tiene trampa.", "exKo": "이 문장엔 함정이 있어."},
+    {"es": "seguro / segura", "ko": "확신하는", "ex": "Estoy seguro de que esta respuesta es correcta.", "exKo": "이 답이 맞다고 확신해."},
+    {"es": "la regla", "ko": "규칙", "ex": "Las reglas son muy sencillas.", "exKo": "규칙은 아주 간단해."},
+    {"es": "sonar fatal", "ko": "끔찍하게 들리다", "ex": "Eso suena fatal a los oídos.", "exKo": "그건 귀에 끔찍하게 들려."},
+    {"es": "doler (los oídos)", "ko": "(귀가) 아프다", "ex": "Esa me duele en los oídos.", "exKo": "그 문장은 귀가 아파."},
+    {"es": "el reto / el desafío", "ko": "도전", "ex": "¿Quieres un reto más difícil?", "exKo": "더 어려운 도전을 원해?"},
+    {"es": "el hambre (f.)", "ko": "배고픔", "ex": "Tengo mucha hambre.", "exKo": "배가 아주 고파."},
+    {"es": "la fiebre", "ko": "열", "ex": "Tengo mucha fiebre.", "exKo": "열이 많이 나."},
+    {"es": "enfermo / enferma", "ko": "아픈", "ex": "Estoy muy enfermo.", "exKo": "나 많이 아파."},
+    {"es": "cansado / cansada", "ko": "피곤한", "ex": "María está muy cansada.", "exKo": "마리아는 아주 피곤해."},
+    {"es": "la excepción", "ko": "예외", "ex": "Casi siempre hay una excepción a la regla.", "exKo": "규칙엔 거의 늘 예외가 있어."},
+    {"es": "mejor / peor", "ko": "더 좋은 / 더 나쁜", "ex": "Este coche es mucho mejor que el otro.", "exKo": "이 차가 저것보다 훨씬 좋아."},
+    {"es": "mayor / menor", "ko": "나이가 더 많은 / 더 어린", "ex": "Él es mucho menor que yo.", "exKo": "그는 나보다 훨씬 어려."},
+    {"es": "dominar", "ko": "정복하다, 통달하다", "ex": "Mi gran objetivo es dominar este idioma.", "exKo": "내 큰 목표는 이 언어를 정복하는 거야."},
+    {"es": "cotidiano", "ko": "일상적인", "ex": "el español cotidiano de la calle", "exKo": "거리의 일상 스페인어"},
+    {"es": "útil", "ko": "유용한", "ex": "Aprender las reglas correctas es muy útil.", "exKo": "올바른 규칙을 배우는 건 아주 유용해."},
+    {"es": "la actitud", "ko": "태도", "ex": "Tener una actitud positiva es clave.", "exKo": "긍정적인 태도가 열쇠야."},
+    {"es": "la práctica", "ko": "연습", "ex": "La práctica constante nos hace hablar con fluidez.", "exKo": "꾸준한 연습이 우리를 유창하게 해."},
+    {"es": "desmontar", "ko": "분해하다", "ex": "Vamos a desmontar esta frase poco a poco.", "exKo": "이 문장을 조금씩 분해해 보자."},
+    {"es": "sutil", "ko": "미묘한", "ex": "La diferencia es muy sutil.", "exKo": "차이가 아주 미묘해."},
+    {"es": "traducir literalmente", "ko": "직역하다", "ex": "Traducir literalmente a veces causa problemas.", "exKo": "직역은 가끔 문제를 일으켜."},
+    {"es": "la meta", "ko": "목표", "ex": "¿Cuál es vuestra meta principal?", "exKo": "여러분의 가장 큰 목표는 뭔가요?"},
+    {"es": "la prueba", "ko": "시험, 테스트", "ex": "Prueba superada al cien por cien.", "exKo": "시험 100% 통과."},
+    {"es": "superar", "ko": "넘어서다, 통과하다", "ex": "Superar el nivel básico es un gran logro.", "exKo": "기초 단계를 넘는 건 큰 성과야."},
+    {"es": "disfrutar", "ko": "즐기다", "ex": "Disfruté mucho.", "exKo": "정말 즐거웠어."},
+    {"es": "especial", "ko": "특별한", "ex": "Fue un día muy especial.", "exKo": "아주 특별한 날이었어."},
+    {"es": "¡Alto!", "ko": "멈춰!", "ex": "Grita «¡Alto!» cuando escuches un error.", "exKo": "실수가 들리면 '멈춰!'라고 외쳐."},
+    {"es": "ojalá + 접속법", "ko": "~라면 좋을 텐데", "ex": "Ojalá tuviera mucho dinero.", "exKo": "돈이 많으면 좋을 텐데."}
+  ],
+  "quiz": [
+    {"q": "'Estoy ___ bien, gracias.' 빈칸은?", "options": ["mucho", "muy", "mucha", "muchos"], "answer": 1, "explain": "bien은 부사 → 묘사엔 muy. 'mucho bien'은 오늘의 대표 실수예요."},
+    {"q": "'Tengo ___ paciencia.' 빈칸은?", "options": ["muy", "mucho", "mucha", "muchas"], "answer": 2, "explain": "paciencia는 여성 단수 명사 → mucha."},
+    {"q": "'Ayer caminé ___ por el parque.' 빈칸은?", "options": ["muy", "mucho", "mucha", "muchos"], "answer": 1, "explain": "동사(caminar) 뒤엔 늘 mucho. 'caminé muy'는 틀려요."},
+    {"q": "'배가 아주 고파'를 바르게 말한 것은?", "options": ["Estoy muy hambre.", "Tengo muy hambre.", "Tengo mucha hambre.", "Tengo mucho hambre."], "answer": 2, "explain": "hambre는 여성 명사 → tener + mucha hambre."},
+    {"q": "muy에 대한 설명으로 맞는 것은?", "options": ["성·수에 따라 muya, muyos로 변한다", "절대 변하지 않는다(invariable)", "동사 뒤에 온다", "명사 앞에 온다"], "answer": 1, "explain": "Él es muy alto, ella es muy alta, ellos son muy altos."},
+    {"q": "'Hoy hace ___ sol.' 빈칸은?", "options": ["muy", "mucho", "mucha", "muchos"], "answer": 1, "explain": "sol은 남성 단수 명사 → mucho sol. (hace mucho frío / mucho calor도 같아요)"},
+    {"q": "다음 중 muy가 아니라 mucho와 함께 쓰는 예외 단어가 아닌 것은?", "options": ["mejor", "peor", "mayor", "bueno"], "answer": 3, "explain": "예외는 mejor, peor, mayor, menor. bueno는 그냥 muy bueno."},
+    {"q": "'Mi nivel de español es ___ mejor.' 빈칸은?", "options": ["muy", "mucho", "mucha", "más muy"], "answer": 1, "explain": "mejor는 네 개의 반항아 → mucho mejor."},
+    {"q": "'Me gustan ___ los zapatos.' 빈칸은?", "options": ["muy", "muchos", "mucho", "muchas"], "answer": 2, "explain": "mucho가 복수 명사(zapatos)가 아니라 동사 gustar를 꾸미므로 변하지 않아요."},
+    {"q": "'María está muy cansada porque tiene ___ trabajos.' 빈칸은?", "options": ["muy", "mucho", "mucha", "muchos"], "answer": 3, "explain": "trabajos는 남성 복수 명사 → muchos."},
+    {"q": "'Juan juega ___ bien al fútbol.' 빈칸은?", "options": ["muy", "mucho", "mucha", "muchísimo"], "answer": 0, "explain": "bien(부사)은 묘사 → muy bien."},
+    {"q": "소피아의 주말 이야기에서 틀린 문장은?", "options": ["Hacía mucho calor en la calle.", "Fue un día mucho especial.", "Vi unos pantalones muy bonitos.", "Disfruté mucho."], "answer": 1, "explain": "especial은 형용사 → un día muy especial."}
+  ]
+}

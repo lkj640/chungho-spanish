@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-01",
+   "lang": "es",
+   "date": "2026-11-01",
+   "title": "muy와 mucho — 초급자 실수 1위 완전 정복",
+   "es": "Muy bien, no mucho bien · Mucho mejor, no muy mejor",
+   "emoji": "🎯",
+   "level": "A1–A2",
+   "channel": "Español Auténtico",
+   "youtube": "Mw22H_oXIJs",
+   "duration": "50:49",
+   "summary": "'mucho bien', 'muy gracias' — 초급자가 가장 많이 하는 실수예요. 묘사(형용사·부사)엔 변하지 않는 muy, 것(명사)엔 성·수에 맞춰 변하는 mucho/mucha/muchos/muchas, 동사 뒤엔 mucho. 그리고 mejor·peor·mayor·menor 네 개의 예외까지. 소피아가 내는 '틀린 곳 찾기(encuentra el error)' 게임 20문제와 주말 이야기 기말고사로 확실히 익혀요.",
+   "topics": [
+    "muy + 형용사·부사: muy caliente · muy bien · muy cerca",
+    "mucho/mucha/muchos/muchas + 명사: mucho dinero · mucha paciencia",
+    "동사 + mucho: trabajo mucho · me gusta mucho",
+    "tener/hacer + 명사: mucha hambre · mucho frío · mucho sol",
+    "예외: mucho mejor · mucho peor · mucho mayor · mucho menor",
+    "bueno/malo · bien/mal — 넷 다 muy"
+   ],
+   "vocabCount": 44,
+   "lineCount": 361
+  },
+  {
    "id": "ja-2026-10-31",
    "lang": "ja",
    "date": "2026-10-31",

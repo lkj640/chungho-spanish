@@ -1,0 +1,767 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, C = Carlos.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막 (abonar B→abonaros, Elo→Lo, un un cotidiano→un día cotidiano, 교정 문장의 mucho buena→muy buena 등은 바로잡았어요)
+END 50:49
+
+[00:00]
+## 인사 — 초급자 실수 1위: muy와 mucho
+S | Hola a todos, bienvenidos a un nuevo episodio de Español Auténtico. | 여러분 안녕하세요, Español Auténtico 새 에피소드에 오신 걸 환영해요.
+[00:05]
+S | Si estás buscando mejorar tu comprensión o buscas Spanish listening practice de forma natural, estás en el lugar perfecto. | 이해력을 키우고 싶거나 자연스러운 듣기 연습을 찾고 있다면, 딱 맞는 곳에 오셨어요.
+[00:15]
+S | Hoy vamos a hablar del error número uno, el error más común en el español para principiantes. | 오늘은 초급 스페인어에서 가장 흔한 실수 1위에 대해 이야기할 거예요.
+[00:22]
+S | Vamos a aprender la diferencia exacta entre muy y mucho. | muy와 mucho의 정확한 차이를 배울 거예요.
+[00:26]
+S | Es una lección fundamental para aprender español correctamente y sonar natural. | 스페인어를 정확하게 배우고 자연스럽게 들리는 데 꼭 필요한 수업이에요.
+[00:33]
+C | Hola, Sofía, y hola a todos los que nos escuchan. Estoy muy emocionado por el tema de hoy, porque sinceramente es un problema real. | 안녕, 소피아. 그리고 듣고 계신 모든 분 안녕하세요. 오늘 주제 정말 기대돼요. 솔직히 진짜 문제거든요.
+[00:42]
+C | Todos los estudiantes de nuestras clases de español cometen este error. Yo también al principio siempre me confundía. | 우리 스페인어 수업 학생 모두가 이 실수를 해요. 저도 처음엔 늘 헷갈렸어요.
+[00:51]
+C | Quería aprender español rápido y mezclaba todo. Decía cosas raras como "mucho bien" o "muy gracias". | 스페인어를 빨리 배우고 싶어서 다 섞어 썼죠. 'mucho bien'이나 'muy gracias' 같은 이상한 말을 했어요.
+[00:59]
+S | Es completamente normal, Carlos. En muchos otros idiomas solo existe una palabra para expresar esa idea. | 완전히 정상이에요, 카를로스. 다른 많은 언어에는 그 생각을 표현하는 단어가 하나뿐이에요.
+[01:06]
+S | Pero en nuestro vocabulario español tenemos dos palabras diferentes, muy y mucho. Son palabras distintas y tienen reglas distintas. | 하지만 스페인어에는 muy와 mucho라는 서로 다른 두 단어가 있어요. 다른 단어이고 규칙도 달라요.
+[01:16]
+S | Hoy vamos a explicar la regla de una manera muy clara y sencilla, y después vamos a jugar a un juego. | 오늘은 규칙을 아주 분명하고 쉽게 설명하고, 그다음에 게임을 할 거예요.
+[01:23]
+C | ¿Un juego? Me encantan los juegos. Es la mejor manera de mantener la atención y practicar la conversación en español. | 게임이요? 게임 정말 좋아해요. 집중력을 유지하면서 스페인어 회화를 연습하는 최고의 방법이죠.
+[01:31]
+C | ¿Qué vamos a hacer exactamente? | 정확히 뭘 할 거예요?
+[01:34]
+S | Vamos a jugar a "encuentra el error". Yo voy a decir frases y tú vas a decirme si son correctas o incorrectas. | '틀린 곳 찾기'를 할 거예요. 제가 문장을 말하면, 당신은 그게 맞는지 틀린지 말해 주는 거예요.
+[01:42]
+S | Pero antes de jugar tenemos que explicar la teoría. Tenemos que dar las herramientas a nuestra audiencia. | 하지만 게임 전에 이론을 설명해야 해요. 시청자분들께 도구를 드려야죠.
+[01:49]
+C | Tienes toda la razón, Sofía, pero antes de empezar con la regla quiero decir algo rápido a nuestros oyentes. | 맞아요, 소피아. 그런데 규칙을 시작하기 전에 청취자분들께 짧게 할 말이 있어요.
+[01:56]
+C | Chicos, si os gusta nuestro Spanish podcast, por favor, suscribíos al canal en este momento. Dadle al botón de me gusta abajo del vídeo. | 여러분, 저희 팟캐스트가 마음에 드시면 지금 바로 채널을 구독해 주세요. 영상 아래 좋아요 버튼도 눌러 주세요.
+[02:06]
+C | Es una acción pequeña para vosotros, pero es vital para nosotros. Así YouTube recomienda nuestros vídeos y podemos ayudar a más personas. | 여러분에겐 작은 행동이지만 저희에겐 정말 중요해요. 그래야 유튜브가 영상을 추천해 주고 더 많은 분을 도울 수 있어요.
+[02:16]
+S | Exactamente, Carlos. Muchas gracias por recordarlo. | 맞아요, 카를로스. 상기시켜 줘서 고마워요.
+[02:19]
+S | Y para las personas que realmente quieren apoyar este proyecto, recordad que podéis haceros miembros del canal. Podéis abonaros para sostener a Español Auténtico. | 그리고 이 프로젝트를 정말 응원하고 싶은 분들은 채널 멤버가 될 수 있다는 것 기억해 주세요. 가입해서 Español Auténtico를 후원할 수 있어요.
+[02:30]
+S | Ese apoyo directo nos permite crear contenido de español nativo para vosotros cada semana. Gracias de corazón a todos nuestros miembros actuales. | 그 직접적인 응원 덕분에 매주 원어민 스페인어 콘텐츠를 만들 수 있어요. 지금의 모든 멤버분께 진심으로 감사드려요.
+[02:41]
+C | Sí, muchísimas gracias a todos. | 네, 모두 정말 고맙습니다.
+
+[02:43]
+## 규칙 ① muy + 형용사·부사 / mucho + 명사·동사
+C | Y ahora, Sofía, cuéntame, ¿cuál es el secreto? ¿Por qué decimos "muy bien" y no "mucho bien"? Quiero mejorar mi español avanzado hoy mismo. | 자, 소피아, 말해 줘요. 비밀이 뭐예요? 왜 'mucho bien'이 아니라 'muy bien'이라고 해요? 오늘 당장 실력을 늘리고 싶어요.
+[02:54]
+S | El secreto es la categoría de la palabra que viene después. Presta mucha atención, Carlos. | 비밀은 뒤에 오는 단어의 품사예요. 잘 들어요, 카를로스.
+[03:00]
+S | Usamos la palabra muy exclusivamente con adjetivos y con adverbios. | muy는 오직 형용사와 부사에만 써요.
+[03:06]
+S | Los adjetivos son palabras que describen cosas. Por ejemplo, guapo, alto, inteligente, cansado, caliente. | 형용사는 무언가를 묘사하는 단어예요. 예: guapo(잘생긴), alto(키 큰), inteligente(똑똑한), cansado(피곤한), caliente(뜨거운).
+[03:16]
+C | Entiendo. Entonces, si yo quiero describir mi café, digo: "El café está muy caliente", porque caliente es una descripción. Es un adjetivo, ¿correcto? | 알겠어요. 그럼 커피를 묘사하고 싶으면 "커피가 아주 뜨거워"라고 하는 거죠. caliente는 묘사니까요. 형용사, 맞죠?
+[03:27]
+S | Perfecto. El café está muy caliente. Mi casa es muy grande. El coche es muy rápido. | 완벽해요. 커피가 아주 뜨거워. 우리 집은 아주 커. 그 차는 아주 빨라.
+[03:34]
+S | También usamos muy con adverbios como bien, mal, tarde o temprano. Por eso decimos muy bien o muy tarde. | bien, mal, tarde, temprano 같은 부사에도 muy를 써요. 그래서 muy bien, muy tarde라고 하죠.
+[03:44]
+C | Vale, la parte de muy está clara: describir cosas. Pero, ¿qué pasa con mucho? ¿Cuándo uso la palabra mucho en mi día a día? | 좋아요, muy 부분은 분명해요. 묘사하기. 그런데 mucho는요? 일상에서 mucho는 언제 써요?
+[03:54]
+S | Usamos mucho con sustantivos. Los sustantivos son las cosas, los objetos, las personas, los conceptos. | mucho는 명사와 함께 써요. 명사는 것, 물건, 사람, 개념이에요.
+[04:02]
+S | Por ejemplo, dinero, tiempo, amigos, paciencia, calor. Cuando hablamos de la cantidad de una cosa, usamos mucho. | 예를 들어 dinero(돈), tiempo(시간), amigos(친구), paciencia(인내), calor(더위). 어떤 것의 양을 말할 때 mucho를 써요.
+[04:12]
+S | Por ejemplo: "Tengo mucho tiempo libre." | 예: "자유 시간이 많아."
+[04:16]
+C | Ah, claro. Tiempo es una cosa, no es una descripción. Entonces digo mucho tiempo. O, por ejemplo: "Tengo mucho dinero." | 아, 그렇구나. tiempo는 '것'이지 묘사가 아니니까 mucho tiempo라고 하는 거네요. 아니면 "돈이 많아."
+[04:25]
+C | Bueno, ojalá tuviera mucho dinero. | 음, 돈이 많으면 좋겠네요. (웃음)
+[04:29]
+S | Ojalá. Exacto. Y hay una segunda regla para mucho. También lo usamos con los verbos, es decir, con las acciones. | 그러게요. 맞아요. 그리고 mucho에는 두 번째 규칙이 있어요. 동사, 즉 행동에도 써요.
+[04:38]
+S | Si tú haces una acción con gran intensidad o frecuencia, usas mucho después del verbo. Por ejemplo: "Yo trabajo mucho. Nosotros estudiamos mucho." | 어떤 행동을 아주 강하게 또는 자주 하면 동사 뒤에 mucho를 써요. 예: "나는 일을 많이 해. 우리는 공부를 많이 해."
+[04:51]
+C | Vale, eso es fácil de recordar. Trabajo mucho. El verbo es trabajar. No puedo decir "trabajo muy". | 좋아요, 기억하기 쉽네요. Trabajo mucho. 동사는 trabajar. 'trabajo muy'라고는 못 해요.
+[04:59]
+C | Eso suena fatal a los oídos de un hispanohablante, ¿verdad? | 스페인어 원어민 귀엔 끔찍하게 들리죠?
+[05:04]
+S | Suena muy extraño, sí. | 네, 아주 이상하게 들려요.
+[05:05]
+S | Pero hay otra cosa importante, Carlos. Una diferencia enorme entre muy y mucho. Es algo que confunde a mucha gente en su español para extranjeros. | 그런데 중요한 게 또 있어요, 카를로스. muy와 mucho의 아주 큰 차이예요. 외국인 학습자 많은 분이 헷갈리는 부분이에요.
+
+[05:16]
+## 어휘 정리 ① error · sustantivo · adjetivo · cantidad · apoyar
+S | Antes de explicar esta diferencia, vamos a hacer una pausa para analizar algunas palabras importantes que hemos usado. | 이 차이를 설명하기 전에, 잠깐 멈춰서 지금까지 쓴 중요한 단어들을 분석해 볼게요.
+[05:24]
+S | Error: es una equivocación, algo que haces mal. En los idiomas, cometer un error es normal y te ayuda a aprender. | error(실수): 잘못, 틀리게 한 것. 언어에서 실수하는 건 정상이고 배우는 데 도움이 돼요.
+[05:32]
+S | Sustantivo: es una palabra que nombra a una persona, un animal, un lugar o una cosa. Por ejemplo, casa, perro, ciudad, tiempo. | sustantivo(명사): 사람, 동물, 장소, 사물의 이름을 나타내는 단어. 예: casa, perro, ciudad, tiempo.
+[05:43]
+S | Adjetivo: es una palabra que describe a un sustantivo, nos dice cómo es algo o alguien. Por ejemplo, grande, bonito, inteligente, frío. | adjetivo(형용사): 명사를 묘사하는 단어로, 무언가나 누군가가 어떤지 알려 줘요. 예: grande, bonito, inteligente, frío.
+[05:55]
+S | Cantidad: es el número, el volumen o la porción de algo. Usamos mucho para expresar una cantidad grande de cosas. | cantidad(양): 어떤 것의 수, 부피, 몫. 많은 양을 표현할 때 mucho를 써요.
+[06:04]
+S | Apoyar: prestar ayuda, protección o respaldo a una persona o a un proyecto. Hacerse miembro del canal es una forma de apoyarnos. | apoyar(지지하다, 응원하다): 사람이나 프로젝트에 도움, 보호, 뒷받침을 주는 것. 채널 멤버가 되는 것도 저희를 응원하는 방법이에요.
+[06:14]
+C | Qué palabras tan útiles. Chicos, ahora es vuestro turno. Dejad un comentario aquí abajo usando una de estas cinco palabras. | 정말 유용한 단어들이네요. 여러분, 이제 여러분 차례예요. 이 다섯 단어 중 하나로 아래에 댓글을 남겨 주세요.
+[06:23]
+C | Podéis escribir una frase con la palabra error o con la palabra apoyar. Queremos leerlos a todos. | error나 apoyar로 문장을 써 보세요. 전부 읽고 싶어요.
+[06:31]
+S | Me encanta esa idea. Leemos todos los comentarios. | 좋은 생각이에요. 댓글은 다 읽어요.
+
+[06:34]
+## 규칙 ② muy는 변하지 않고, mucho는 성·수에 맞춰 변한다
+S | Bien, Carlos. Volviendo a nuestra regla, te decía que hay una gran diferencia entre muy y mucho. La palabra muy es invariable. | 자, 카를로스. 규칙으로 돌아가면, muy와 mucho에 큰 차이가 있다고 했죠. muy는 변하지 않는 말(invariable)이에요.
+[06:43]
+C | ¿Qué significa invariable exactamente? ¿Que no cambia nunca? | invariable이 정확히 무슨 뜻이에요? 절대 안 바뀐다는 거예요?
+[06:48]
+S | Exacto. Nunca cambia. No importa si hablas de un hombre, de una mujer, de una cosa o de un millón de cosas. Siempre es muy. | 맞아요. 절대 안 바뀌어요. 남자든, 여자든, 한 가지든 백만 가지든 상관없이 늘 muy예요.
+[06:58]
+S | Dices: "Él es muy alto, ella es muy alta, ellos son muy altos." La palabra muy se queda igual. | "그는 아주 키가 커, 그녀는 아주 키가 커, 그들은 아주 키가 커." muy는 그대로예요.
+[07:07]
+C | Ah, claro. Yo nunca digo "muya" o "muyos". Eso no existe en español. | 아, 그렇죠. 'muya'나 'muyos'라고는 절대 안 해요. 그런 말은 스페인어에 없어요. (웃음)
+[07:14]
+S | No, por favor. No digas "muyos". Eso sí que sería un desastre total. | 제발요. 'muyos'라고 하지 마세요. 그건 진짜 대참사일 거예요.
+[07:19]
+S | Sin embargo, la palabra mucho sí cambia. Cuando mucho acompaña un sustantivo, tiene que estar de acuerdo con el género y el número de esa cosa. | 하지만 mucho는 바뀌어요. mucho가 명사와 함께 오면, 그 명사의 성과 수에 맞춰야 해요.
+[07:30]
+C | A ver si lo entiendo. Género significa masculino o femenino. Y número significa singular o plural, es decir, uno o varios. | 제가 이해했는지 볼게요. 성은 남성 또는 여성, 수는 단수 또는 복수, 즉 하나 또는 여러 개죠.
+[07:40]
+C | Entonces, mucho tiene cuatro formas diferentes. | 그럼 mucho는 형태가 네 가지군요.
+[07:44]
+S | Muy bien deducido, Carlos. Tiene cuatro formas: mucho, mucha, muchos y muchas. | 잘 추론했어요, 카를로스. 네 가지 형태가 있어요. mucho, mucha, muchos, muchas.
+[07:51]
+S | Por ejemplo, dinero es una palabra masculina y singular. Entonces decimos mucho dinero. | 예를 들어 dinero는 남성 단수라서 mucho dinero라고 해요.
+[07:59]
+S | Pero la palabra paciencia es femenina y singular. Entonces decimos mucha paciencia. | 하지만 paciencia는 여성 단수라서 mucha paciencia라고 해요.
+[08:06]
+S | "Necesito mucha paciencia para aprender todas las reglas de la gramática." | "문법 규칙을 다 배우려면 인내심이 많이 필요해."
+[08:11]
+C | Y si son cosas en plural, por ejemplo, la palabra amigos, amigos es masculino y plural. Así que digo: "Tengo muchos amigos." | 그리고 복수라면, 예를 들어 amigos는 남성 복수라서 "Tengo muchos amigos(친구가 많아)"라고 하고요.
+[08:21]
+C | Y si son casas: "Hay muchas casas en mi barrio." | 집이라면 "우리 동네엔 집이 많아(muchas casas)."
+[08:25]
+S | Excelente. Has comprendido la teoría a la perfección. | 훌륭해요. 이론을 완벽하게 이해했어요.
+[08:30]
+S | Resumen rápido: muy con descripciones, y nunca cambia. Mucho con cosas, y cambia en género y número: mucho, mucha, muchos y muchas. | 빠른 요약: muy는 묘사와 함께, 절대 안 바뀜. mucho는 '것'과 함께, 성과 수에 따라 바뀜. mucho, mucha, muchos, muchas.
+[08:41]
+S | Y finalmente, mucho detrás de los verbos, donde tampoco cambia: "Yo duermo mucho." | 마지막으로 동사 뒤의 mucho, 여기서도 안 바뀌어요. "나는 잠을 많이 자."
+[08:48]
+C | La teoría está superclara, Sofía. Creo que estoy listo. Mi cerebro está preparado. Quiero demostrar que puedo hablar como un español nativo. | 이론은 아주 분명해요, 소피아. 준비된 것 같아요. 뇌가 준비됐어요. 원어민처럼 말할 수 있다는 걸 보여 주고 싶어요.
+[08:58]
+C | ¿Cuándo empezamos el juego de encuentra el error? Tengo muchísimas ganas de empezar a jugar. | '틀린 곳 찾기' 게임은 언제 시작해요? 빨리 하고 싶어 죽겠어요.
+
+[09:03]
+## 게임 시작 — 문장 1~3
+S | Perfecto, Carlos. Empezamos el juego entonces. Las reglas son muy sencillas. Yo voy a decir una frase corta. | 좋아요, 카를로스. 그럼 게임 시작해요. 규칙은 아주 간단해요. 제가 짧은 문장을 말할게요.
+[09:12]
+S | Tú tienes que escuchar con atención y decirme si la frase es correcta o si tiene un error. ¿Preparado? | 잘 듣고 그 문장이 맞는지, 틀린 곳이 있는지 말해 주세요. 준비됐어요?
+[09:19]
+C | Entusiasmado. | 신나요.
+[09:20]
+S | Y vosotros en casa, intentad adivinar la respuesta antes que yo. Es una gran oportunidad para practicar vuestro Spanish listening y mejorar el oído. Vamos allá. | 집에 계신 여러분도 카를로스보다 먼저 답을 맞혀 보세요. 듣기 연습을 하고 귀를 틔울 좋은 기회예요. 시작할게요.
+[09:31]
+S | Primera frase. Escucha bien: "Hoy hace mucho frío en Madrid. Necesito un abrigo muy grande." | 첫 번째 문장. 잘 들어요. "오늘 마드리드는 아주 추워. 아주 큰 외투가 필요해."
+[09:39]
+C | Mmm, vamos a analizar. Has dicho "mucho frío". Frío aquí es un sustantivo, es una sensación térmica, una cosa que sentimos. Entonces, usar mucho es correcto. | 음, 분석해 볼게요. 'mucho frío'라고 했죠. 여기서 frío는 명사예요. 체감 온도, 우리가 느끼는 '것'이죠. 그러니까 mucho가 맞아요.
+[09:53]
+C | Y luego has dicho "muy grande". Grande es un adjetivo, es una palabra que describe el abrigo. Así que se usa muy. | 그리고 'muy grande'라고 했죠. grande는 형용사, 외투를 묘사하는 단어예요. 그러니 muy를 써요.
+[10:01]
+C | La frase es totalmente correcta, no hay ningún error. | 완전히 맞는 문장이에요. 틀린 곳이 없어요.
+[10:06]
+S | Exacto, muy bien. Un punto para ti. | 맞아요, 아주 잘했어요. 1점이에요.
+[10:08]
+S | Es un error común pensar que la palabra frío siempre es un adjetivo, pero en español decimos "hace frío". El frío funciona como un sustantivo. | frío가 늘 형용사라고 생각하는 건 흔한 실수예요. 스페인어로는 'hace frío'라고 하는데, 여기서 frío는 명사처럼 쓰여요.
+[10:20]
+S | Siguiente frase: "Mi profesor de español habla mucho rápido." | 다음 문장. "우리 스페인어 선생님은 말이 아주 빨라(mucho rápido)."
+[10:25]
+C | ¡Ay! Esa me duele en los oídos. Eso es un error enorme, es un error típico del nivel de español A1. | 아! 귀가 아프네요. 큰 실수예요. A1 수준의 전형적인 실수죠.
+[10:34]
+S | ¿Y por qué es un error? Explica a nuestra audiencia la razón gramatical. | 왜 틀렸는지 시청자분들께 문법적 이유를 설명해 줘요.
+[10:38]
+C | Porque la palabra rápido en esta frase funciona para describir cómo habla el profesor. Es un adverbio o un adjetivo. | 이 문장에서 rápido는 선생님이 어떻게 말하는지 묘사하거든요. 부사나 형용사예요.
+[10:47]
+C | Y con las descripciones siempre usamos la palabra muy. La frase correcta para hablar español de forma natural es: "Mi profesor de español habla muy rápido." | 그리고 묘사에는 늘 muy를 써요. 자연스러운 문장은 "Mi profesor de español habla muy rápido."예요.
+[10:57]
+S | Excelente explicación. Veo que las clases de español están dando buenos resultados y estás prestando mucha atención. | 훌륭한 설명이에요. 스페인어 수업이 효과가 있고, 집중을 잘하고 있네요.
+[11:06]
+S | Vamos con la tercera frase. Atención, porque esta frase tiene trampa: "Ayer caminé muy por el parque." | 세 번째 문장이에요. 조심해요, 함정이 있어요. "어제 공원을 muy 걸었어."
+[11:14]
+C | "Ayer caminé muy…" No, no, eso no tiene ningún sentido lógico. | "Ayer caminé muy…" 아니, 아니에요. 논리적으로 말이 안 돼요.
+[11:20]
+C | Caminar es un verbo, es una acción física, y como explicaste en la regla anterior, cuando hablamos de la intensidad o cantidad de una acción, usamos mucho. | caminar는 동사, 몸으로 하는 행동이에요. 앞의 규칙에서 설명했듯이 행동의 강도나 양을 말할 땐 mucho를 써요.
+[11:30]
+C | La forma correcta es: "Ayer caminé mucho por el parque." | 맞는 형태는 "Ayer caminé mucho por el parque(어제 공원을 많이 걸었어)."예요.
+[11:35]
+S | Correcto otra vez. Caminar mucho, comer mucho, estudiar mucho, dormir mucho. Nunca decimos "caminar muy". | 또 정답이에요. 많이 걷다, 많이 먹다, 많이 공부하다, 많이 자다. 'caminar muy'라고는 절대 안 해요.
+[11:45]
+S | Veo que vas entendiendo a la perfección cómo funciona esto. | 어떻게 돌아가는지 완벽하게 이해해 가고 있네요.
+
+[11:49]
+## 어휘 정리 ② adivinar · trampa · seguro · confundir · regla
+S | Vamos a analizar unas palabras interesantes que acabamos de usar antes de seguir con el juego. Prestad atención al vocabulario. | 게임을 계속하기 전에 방금 쓴 흥미로운 단어들을 분석해 볼게요. 어휘에 집중하세요.
+[11:57]
+S | Adivinar: es intentar descubrir algo que no sabes usando la intuición o pensando un poco. Por ejemplo, adivinar la respuesta correcta de un juego. | adivinar(알아맞히다): 모르는 걸 직감이나 약간의 생각으로 알아내려는 것. 예: 게임의 정답을 맞히다.
+[12:08]
+S | Trampa: es un plan o una situación diseñada para engañar o confundir a alguien. En los exámenes a veces hay preguntas con trampa. | trampa(함정): 누군가를 속이거나 헷갈리게 하려고 만든 계획이나 상황. 시험엔 가끔 함정 문제가 있죠.
+[12:17]
+S | Seguro: significa tener total confianza en algo, no tener absolutamente ninguna duda. Por ejemplo: "Estoy seguro de que esta respuesta es correcta." | seguro(확신하는): 무언가를 완전히 믿고, 의심이 전혀 없는 것. 예: "이 답이 맞다고 확신해."
+[12:29]
+S | Confundir: es mezclar dos cosas diferentes en la mente y pensar que son iguales, o equivocarse al usarlas. | confundir(헷갈리다, 혼동하다): 서로 다른 두 가지를 머릿속에서 섞어 같다고 생각하거나, 쓸 때 틀리는 것.
+[12:37]
+S | Regla: es una norma o una instrucción clara que nos dice cómo debemos hacer algo. En la gramática hay muchas reglas importantes. | regla(규칙): 무언가를 어떻게 해야 하는지 알려 주는 규범이나 분명한 지침. 문법엔 중요한 규칙이 많아요.
+[12:46]
+C | Qué palabras tan útiles. Ahora que tenemos este nuevo vocabulario, vamos a seguir con el juego. | 정말 유용한 단어들이네요. 새 어휘도 생겼으니 게임을 계속해요.
+[12:52]
+C | Dame otra frase, Sofía. Quiero poner a prueba mi español avanzado hoy. | 다른 문장 줘요, 소피아. 오늘 제 실력을 시험해 보고 싶어요.
+
+[12:57]
+## 문장 4~7 — tener hambre, 긴 문장, gustar, mucho bien
+S | Muy bien, Carlos. Aquí tienes la cuarta frase. Escucha atentamente y tómate tu tiempo: "Tengo muy hambre porque no he comido nada en todo el día." | 좋아요, 카를로스. 네 번째 문장이에요. 잘 듣고 천천히 생각해요. "하루 종일 아무것도 안 먹어서 muy 배고파."
+[13:09]
+C | Mmm, vamos a pensar. "Tengo muy hambre." Hambre no es una descripción física ni de carácter. Hambre es una sensación, es decir, es un sustantivo. | 음, 생각해 볼게요. "Tengo muy hambre." hambre는 외모나 성격의 묘사가 아니에요. 감각, 즉 명사예요.
+[13:19]
+C | Es una cosa abstracta que yo tengo dentro de mi cuerpo. Y con los sustantivos usamos mucho. | 내 몸 안에 '가지고 있는' 추상적인 것이죠. 그리고 명사에는 mucho를 써요.
+[13:25]
+C | Además, como hambre es una palabra femenina, tengo que hacer la concordancia. Digo "mucha hambre". | 게다가 hambre는 여성 명사라서 일치를 시켜야 해요. 'mucha hambre'라고 해요.
+[13:32]
+C | La frase es incorrecta. La opción correcta es: "Tengo mucha hambre." | 틀린 문장이에요. 맞는 건 "Tengo mucha hambre."예요.
+[13:38]
+S | ¡Wow, Carlos! Qué análisis tan perfecto y detallado. | 와, 카를로스! 정말 완벽하고 꼼꼼한 분석이네요.
+[13:42]
+S | Efectivamente, en español decimos mucha hambre, mucha sed, mucho miedo, mucho frío, mucho calor. | 맞아요. 스페인어로는 mucha hambre, mucha sed, mucho miedo, mucho frío, mucho calor라고 해요.
+[13:51]
+S | Siempre usamos mucho o mucha con el verbo tener para expresar todas estas sensaciones, porque gramaticalmente son sustantivos. | 이런 감각을 표현할 땐 늘 tener와 함께 mucho나 mucha를 써요. 문법적으로 명사거든요.
+[14:01]
+S | Mucha gente que quiere aprender español dice "Estoy muy hambre", traduciendo de forma literal de su idioma materno. Pero en español nosotros tenemos hambre. | 스페인어를 배우는 많은 사람이 모국어를 직역해서 "Estoy muy hambre"라고 해요. 하지만 스페인어에선 배고픔을 '가지고' 있어요(tenemos hambre).
+[14:13]
+C | Es verdad. Es una diferencia cultural muy interesante. En otros idiomas se usan adjetivos para expresar eso, pero en español tenemos que pensar de otra manera para mejorar el español de verdad. | 맞아요. 아주 흥미로운 문화적 차이예요. 다른 언어에선 형용사로 표현하지만, 스페인어를 제대로 늘리려면 다르게 생각해야 해요.
+[14:26]
+C | A ver, ¿tienes una frase un poco más difícil? Hasta ahora el juego está siendo bastante fácil para mí. | 자, 좀 더 어려운 문장 있어요? 지금까지는 꽤 쉬웠거든요.
+[14:34]
+S | ¿Quieres un reto más difícil? De acuerdo, lo has pedido tú. Vamos con una frase larga que mezcla varias reglas. | 더 어려운 도전을 원해요? 좋아요, 당신이 원한 거예요. 여러 규칙이 섞인 긴 문장으로 가 볼게요.
+[14:42]
+S | Escucha bien: "María está mucho cansada porque tiene muchos trabajos y duerme muy poco." | 잘 들어요. "마리아는 mucho 피곤해. 일이 많고(muchos trabajos) 잠을 아주 조금(muy poco) 자거든."
+[14:49]
+C | Uf, esa sí es larga. A ver, voy por partes. "María está mucho cansada." | 휴, 진짜 기네요. 부분별로 볼게요. "María está mucho cansada."
+[14:57]
+C | Cansada es claramente un adjetivo. Describe cómo se siente María físicamente. Así que ahí hay un error gigante. Debería ser "muy cansada". | cansada는 분명히 형용사예요. 마리아가 몸으로 어떻게 느끼는지 묘사하죠. 그러니 큰 실수예요. 'muy cansada'여야 해요.
+[15:07]
+C | Luego dices: "porque tiene muchos trabajos". Trabajos es un sustantivo plural y masculino. Son cosas. Así que muchos está perfecto. | 그다음 "porque tiene muchos trabajos". trabajos는 남성 복수 명사, '것'이에요. 그러니 muchos는 완벽해요.
+[15:18]
+C | Y por último dices: "y duerme muy poco". Poco funciona como un adverbio de cantidad en esta parte. Describe cuánto duerme. Y con los adverbios se usa muy. | 마지막으로 "y duerme muy poco". 여기서 poco는 양의 부사로 쓰여요. 얼마나 자는지 묘사하죠. 부사에는 muy를 써요.
+[15:30]
+C | Así que la frase final cien por cien correcta es: "María está muy cansada porque tiene muchos trabajos y duerme muy poco." | 그러니 100% 맞는 최종 문장은 "María está muy cansada porque tiene muchos trabajos y duerme muy poco."예요.
+[15:39]
+S | Impresionante, de verdad. Has corregido el error y validado las dos partes correctas a la primera oportunidad. | 정말 대단해요. 한 번에 틀린 곳을 고치고 맞는 두 부분도 확인했어요.
+[15:48]
+S | Cansada es adjetivo, usamos muy. Trabajos es sustantivo plural, usamos muchos. Y poco funciona como adverbio modificado, así que decimos muy poco. | cansada는 형용사라 muy. trabajos는 복수 명사라 muchos. poco는 꾸밈을 받는 부사라 muy poco.
+[16:00]
+S | Tienes un nivel de conversación en español fantástico hoy. Estoy muy orgullosa. | 오늘 회화 실력이 환상적이에요. 정말 자랑스러워요.
+[16:06]
+C | Muchísimas gracias. La verdad es que entender mentalmente la regla básica de cosas frente a descripciones lo cambia todo por completo. | 정말 고마워요. 사실 '것 vs 묘사'라는 기본 규칙을 머리로 이해하니까 모든 게 완전히 달라져요.
+[16:15]
+C | Cuando escucho la frase en mi cabeza, ahora mi cerebro detecta el error inmediatamente. Dime otra frase, por favor. | 머릿속으로 문장을 들으면 이제 뇌가 바로 실수를 잡아내요. 다른 문장 말해 줘요.
+[16:23]
+S | Vamos con una frase sobre expresar nuestros gustos. A ver qué te parece esta: "Me gusta muy esta ciudad. Hay mucha gente simpática." | 좋아하는 걸 표현하는 문장으로 가 볼게요. 이건 어때요? "이 도시가 muy 좋아. 친절한 사람이 많아(mucha gente)."
+[16:33]
+C | Mmm, "Me gusta muy esta ciudad." El verbo principal es gustar. A mí me gusta hacer una acción o me gusta una cosa. | 음, "Me gusta muy esta ciudad." 주동사는 gustar예요. 어떤 행동을 하는 게 좋거나, 어떤 것이 좋은 거죠.
+[16:41]
+C | Cuando me gusta algo en una gran cantidad o intensidad, tengo que usar mucho después del verbo. Por lógica, no puedo decir "me gusta muy". | 무언가가 아주 많이 좋을 땐 동사 뒤에 mucho를 써야 해요. 논리적으로 'me gusta muy'라고는 못 해요.
+[16:51]
+C | Así que el principio es incorrecto. La forma correcta sería: "Me gusta mucho esta ciudad." | 그러니 앞부분이 틀렸어요. 맞는 형태는 "Me gusta mucho esta ciudad."예요.
+[16:58]
+C | Y vamos con la segunda parte: "Hay mucha gente simpática." Gente es un sustantivo. Es colectivo, femenino y singular. Por lo tanto, mucha gente. Esa parte final está perfecta. | 두 번째 부분은 "Hay mucha gente simpática." gente는 명사예요. 집합 명사이고 여성 단수라서 mucha gente. 뒷부분은 완벽해요.
+[17:12]
+S | Exactamente. Decimos "me gusta mucho", "te quiero mucho", "me divierte mucho". Siempre con los verbos usamos la palabra mucho. | 정확해요. "me gusta mucho", "te quiero mucho(많이 사랑해)", "me divierte mucho(정말 재밌어)". 동사와는 늘 mucho예요.
+[17:22]
+S | Y la expresión "mucha gente" es supercorrecta y muy usada por los nativos todos los días. | 그리고 'mucha gente'는 아주 정확하고, 원어민이 매일 쓰는 표현이에요.
+[17:29]
+S | Te voy a dar una frase más antes de terminar esta ronda. La frase más clásica de todas, la que escucho todos los días enseñando a los alumnos: | 이번 라운드를 마치기 전에 한 문장 더 줄게요. 학생들을 가르치며 매일 듣는, 가장 고전적인 문장이에요.
+[17:39]
+S | "Hola, ¿cómo estás? Estoy mucho bien, gracias." | "안녕, 어떻게 지내? 나 mucho 잘 지내, 고마워."
+[17:43]
+C | Oh, no, el famosísimo "mucho bien". Confieso que yo lo decía todo el tiempo cuando empecé a estudiar. | 오, 안 돼, 그 유명한 'mucho bien'. 고백하자면 공부를 시작했을 때 저는 늘 그렇게 말했어요.
+[17:50]
+C | Bien es un adverbio que describe cómo me siento o cómo está hecha una situación. Las descripciones siempre, siempre, siempre llevan muy. | bien은 내 기분이나 상황이 어떻게 됐는지 묘사하는 부사예요. 묘사엔 언제나, 언제나, 언제나 muy가 붙어요.
+[17:59]
+C | La respuesta correcta, obligatoria y fundamental en cualquier Spanish comprehension practice es "Estoy muy bien". | 어떤 연습에서든 정답이자 필수이자 기본은 "Estoy muy bien"이에요.
+[18:08]
+C | Nunca, bajo ningún concepto, se dice "mucho bien". Queda prohibidísimo desde hoy. | 'mucho bien'은 어떤 경우에도 절대 안 돼요. 오늘부터 완전히 금지예요.
+[18:14]
+C | Me gusta mucho este juego. Chicos, los que nos estáis escuchando en el coche o en casa y mejorando su pronunciación española, ¿estáis acertando todas las respuestas antes que yo? | 이 게임 정말 좋네요. 차나 집에서 듣고 발음을 늘리고 계신 여러분, 저보다 먼저 다 맞히고 계세요?
+[18:25]
+C | Dejad un comentario si habéis descubierto todos los errores antes que yo. Sigamos, Sofía, que este juego es adictivo. | 저보다 먼저 실수를 다 찾았다면 댓글을 남겨 주세요. 계속해요, 소피아. 이 게임 중독성 있어요.
+[18:33]
+S | Me encanta tu energía, Carlos, y me encanta que nuestros oyentes estén participando desde casa. | 당신의 에너지가 정말 좋아요, 카를로스. 청취자분들이 집에서 참여해 주시는 것도 정말 좋고요.
+[18:40]
+S | Es exactamente así como se logra aprender español de verdad: practicando, cometiendo errores y riendo en el proceso. | 바로 이렇게 스페인어를 진짜로 배우는 거예요. 연습하고, 실수하고, 그 과정에서 웃으면서요.
+
+[18:49]
+## 문장 8~9 — muy cerca / mucho dinero, mucho caliente
+S | Vamos a continuar con nuestro juego, porque todavía tenemos muchas frases en español para analizar. ¿Estás listo para un nivel un poquito más rápido? | 게임을 계속해요. 아직 분석할 문장이 많거든요. 조금 더 빠른 단계, 준비됐어요?
+[19:00]
+C | Sí, claro que sí. Mi cerebro ya está en modo español nativo. Ya tengo clarísima la regla principal. | 네, 물론이죠. 뇌가 벌써 원어민 모드예요. 핵심 규칙이 아주 분명해요.
+[19:07]
+C | Muy para descripciones, es decir, adjetivos y adverbios. Mucho o mucha para cosas, es decir, sustantivos, y mucho también para los verbos. Dispara la siguiente frase, Sofía. | 묘사, 즉 형용사와 부사엔 muy. '것', 즉 명사엔 mucho나 mucha. 동사에도 mucho. 다음 문장 쏴 줘요, 소피아.
+[19:21]
+S | De acuerdo. Escucha esta frase de la vida cotidiana: "La casa de mis padres está muy cerca de la estación de tren, pero cuesta muy dinero vivir allí." Tómate tu tiempo para pensar. | 좋아요. 일상 문장을 들어 봐요. "부모님 집은 기차역에서 아주 가까워(muy cerca). 그런데 거기 사는 데 muy 돈이 들어." 천천히 생각해요.
+[19:36]
+C | A ver. Es una frase con dos partes. "La casa de mis padres está muy cerca." Cerca indica la posición. Es un adverbio de lugar. | 자, 두 부분으로 된 문장이네요. "La casa de mis padres está muy cerca." cerca는 위치를 나타내요. 장소의 부사예요.
+[19:46]
+C | Las descripciones de lugar funcionan con muy. Así que "muy cerca" es totalmente correcto. | 장소의 묘사는 muy와 함께 써요. 그러니 'muy cerca'는 완전히 맞아요.
+[19:53]
+C | Pero la segunda parte dice "cuesta muy dinero". Uy, dinero es un sustantivo. Es una cosa física, así que no podemos usar muy. | 그런데 두 번째 부분은 'cuesta muy dinero'. 어, dinero는 명사예요. 물리적인 '것'이니 muy를 못 써요.
+[20:03]
+S | Excelente análisis. Entonces, ¿cómo sería la frase completa y correcta? | 훌륭한 분석이에요. 그럼 맞는 전체 문장은 어떻게 될까요?
+[20:09]
+C | La forma correcta para tener una buena conversación en español sería: "La casa de mis padres está muy cerca de la estación de tren, pero cuesta mucho dinero vivir allí." | 맞는 문장은 "La casa de mis padres está muy cerca de la estación de tren, pero cuesta mucho dinero vivir allí."예요.
+[20:21]
+C | Mucho dinero, porque dinero es masculino y singular. | dinero가 남성 단수라서 mucho dinero예요.
+[20:25]
+S | Perfecto, lo estás haciendo genial. Esta práctica constante es el mejor ejercicio de Spanish listening que podemos hacer. | 완벽해요, 아주 잘하고 있어요. 이런 꾸준한 연습이 우리가 할 수 있는 최고의 듣기 훈련이에요.
+[20:34]
+S | Vamos con otra frase. Imagina que estamos en un restaurante y yo digo: "Esta sopa está mucho caliente. No puedo comerla ahora." | 다른 문장으로 가요. 식당에 있는데 제가 이렇게 말한다고 상상해 봐요. "이 수프 mucho 뜨거워. 지금은 못 먹겠어."
+[20:44]
+C | Ay, esa frase me duele, Sofía. Caliente es un adjetivo. Es una palabra que describe la temperatura de la sopa. | 아, 그 문장 아파요, 소피아. caliente는 형용사예요. 수프의 온도를 묘사하는 단어죠.
+[20:52]
+C | Y con las descripciones como alto, bajo, frío o caliente, siempre usamos muy. La forma correcta es: "Esta sopa está muy caliente." | alto, bajo, frío, caliente 같은 묘사엔 늘 muy를 써요. 맞는 건 "Esta sopa está muy caliente."예요.
+[21:02]
+C | Decir "mucho caliente" es un error típico de español A1, de cuando recién empiezas a estudiar. | 'mucho caliente'는 막 공부를 시작했을 때 하는 전형적인 A1 실수예요.
+[21:10]
+S | Tienes toda la razón, y es normal cometer ese error, pero con estas clases de español lo estamos eliminando para siempre. | 맞아요. 그런 실수는 정상이지만, 이 수업으로 영원히 없애는 중이에요.
+
+[21:19]
+## 예외 — 네 개의 반항아: mejor · peor · mayor · menor
+S | Ahora, Carlos, prepárate, porque en el idioma español casi siempre hay una excepción a la regla. | 자, 카를로스, 각오해요. 스페인어엔 거의 늘 규칙의 예외가 있거든요.
+[21:26]
+S | Y aquí tenemos cuatro palabras mágicas, cuatro palabras rebeldes que no siguen nuestra hermosa regla de muy para los adjetivos y adverbios. | 여기 네 개의 마법 같은 단어, 형용사·부사엔 muy라는 우리의 아름다운 규칙을 따르지 않는 네 개의 반항아가 있어요.
+[21:37]
+C | ¿Excepciones? ¡Oh, no! Justo cuando pensaba que dominaba el tema al cien por cien. | 예외요? 오, 안 돼! 이 주제를 100% 정복했다고 생각한 바로 그때요.
+[21:43]
+C | A ver, dime, ¿cuáles son esas cuatro palabras rebeldes que tengo que memorizar para mi vocabulario español? | 자, 말해 줘요. 외워야 할 그 네 개의 반항아 단어가 뭐예요?
+[21:50]
+S | No te preocupes, son solo cuatro y las usamos todos los días. Son muy fáciles de recordar. Las palabras son: mejor, peor, mayor y menor. | 걱정 마요, 네 개뿐이고 매일 쓰는 말이에요. 아주 기억하기 쉬워요. mejor, peor, mayor, menor예요.
+[22:01]
+S | Todas ellas son adjetivos o adverbios que indican comparación. Pero atención aquí: con estas cuatro palabras nunca usamos muy, siempre usamos mucho. | 모두 비교를 나타내는 형용사나 부사예요. 그런데 주의하세요. 이 네 단어에는 절대 muy를 쓰지 않고, 늘 mucho를 써요.
+
+[22:15]
+## 어휘 정리 ③ excepción · mejor · peor · mayor · menor
+S | Antes de darte ejemplos, vamos a hacer nuestra pequeña pausa para analizar el vocabulario. | 예를 들기 전에, 잠깐 멈춰서 어휘를 분석해 볼게요.
+[22:21]
+S | Excepción: es algo que no sigue la regla general, una situación diferente a lo normal. En la gramática de los idiomas hay muchas excepciones. | excepción(예외): 일반 규칙을 따르지 않는 것, 보통과 다른 상황. 언어 문법엔 예외가 많아요.
+[22:32]
+S | Mejor: es el adjetivo que usamos para decir que una cosa es superior a otra. Es lo contrario de malo. | mejor(더 좋은): 어떤 것이 다른 것보다 낫다고 말할 때 쓰는 형용사. malo의 반대예요.
+[22:40]
+S | Peor: es el adjetivo que usamos para decir que una cosa es inferior o más mala que otra. Es lo contrario de bueno. | peor(더 나쁜): 어떤 것이 다른 것보다 못하거나 더 나쁘다고 말할 때 쓰는 형용사. bueno의 반대예요.
+[22:49]
+S | Mayor: significa que algo es más grande en tamaño, o, cuando hablamos de personas, que tiene más años, que es más viejo. | mayor(더 큰, 나이가 더 많은): 크기가 더 크거나, 사람이라면 나이가 더 많다는 뜻이에요.
+[22:58]
+S | Menor: significa que algo es más pequeño en tamaño o que una persona tiene menos años, que es más joven. | menor(더 작은, 나이가 더 어린): 크기가 더 작거나, 나이가 더 어리다는 뜻이에요.
+[23:06]
+C | Qué palabras tan importantes. Chicos, usad estas palabras en los comentarios. | 정말 중요한 단어들이네요. 여러분, 댓글에서 이 단어들을 써 보세요.
+[23:11]
+C | Podéis escribir, por ejemplo: "El español es mi idioma favorito, es el mejor." Dejad vuestros ejemplos y nosotros los corregiremos. | 예를 들어 "스페인어는 내가 제일 좋아하는 언어야, 최고야(el mejor)."라고 써 보세요. 예문을 남기시면 고쳐 드릴게요.
+[23:20]
+C | Aprender vocabulario español es clave para mejorar rápido. | 어휘를 배우는 게 빨리 느는 열쇠예요.
+
+[23:25]
+## 예외 문장 — mucho mejor, mucho mayor
+S | Exactamente. Invitamos a todos a participar en los comentarios. | 맞아요. 모두 댓글에 참여해 주세요.
+[23:30]
+S | Volvamos a nuestras cuatro excepciones, Carlos. Recuerda: con mejor, peor, mayor y menor, siempre usamos la palabra mucho, nunca usamos muy. | 네 가지 예외로 돌아가요, 카를로스. 기억해요. mejor, peor, mayor, menor에는 늘 mucho, 절대 muy가 아니에요.
+[23:41]
+S | Vamos a comprobar si lo has entendido con el juego. ¿Preparado? | 게임으로 이해했는지 확인해 볼게요. 준비됐어요?
+[23:46]
+C | Preparado. Dispara la frase con las excepciones. | 준비됐어요. 예외가 들어간 문장 쏴 줘요.
+[23:50]
+S | Calma. "Desde que escucho el podcast Español Auténtico, mi nivel de español es muy mejor." | 침착하게요. "Español Auténtico 팟캐스트를 듣고부터 내 스페인어 실력이 muy 나아졌어."
+[23:57]
+C | Bueno, primero que todo, me encanta el mensaje de la frase. Nuestro podcast ayuda mucho. | 음, 우선 문장의 메시지가 정말 좋네요. 우리 팟캐스트는 큰 도움이 되죠.
+[24:04]
+C | Pero gramaticalmente acabas de usar la trampa. Has dicho "muy mejor". Y acabamos de aprender que mejor es una de las cuatro palabras rebeldes. | 하지만 문법적으로 방금 함정을 썼어요. 'muy mejor'라고 했죠. 그리고 mejor는 네 개의 반항아 중 하나라고 방금 배웠어요.
+[24:14]
+C | Aunque es un adjetivo comparativo, requiere la palabra mucho. Así que lo correcto es: "Mi nivel de español es mucho mejor." | 비교 형용사지만 mucho가 필요해요. 그러니 맞는 건 "Mi nivel de español es mucho mejor."예요.
+[24:24]
+S | ¡Bravo! Así es. Decimos mucho mejor. Por ejemplo: "Hoy me siento mucho mejor." "Este coche es mucho mejor que el otro." | 브라보! 맞아요. mucho mejor라고 해요. 예: "오늘 훨씬 나아." "이 차가 저 차보다 훨씬 좋아."
+[24:34]
+S | Siguiente frase: "Mi hermano Carlos tiene 15 años y yo tengo 20. Yo soy muy mayor que él." | 다음 문장. "내 동생 카를로스는 15살이고 나는 20살이야. 나는 그보다 muy 나이가 많아."
+[24:42]
+C | Mmm, mayor se usa para hablar de la edad, para decir que tienes más años. Es la segunda palabra de nuestra lista de excepciones. | 음, mayor는 나이를 말할 때, 나이가 더 많다고 할 때 써요. 예외 목록의 두 번째 단어죠.
+[24:51]
+C | Como es una excepción, la regla de muy se rompe. No podemos decir "muy mayor" para comparar las edades. | 예외니까 muy 규칙이 깨져요. 나이를 비교할 때 'muy mayor'라고 못 해요.
+[24:58]
+C | La frase correcta tiene que ser: "Yo soy mucho mayor que él." | 맞는 문장은 "Yo soy mucho mayor que él."이어야 해요.
+[25:02]
+S | Es correctísimo, y pasa exactamente lo mismo con sus contrarios. | 아주 정확해요. 그 반대말들도 똑같아요.
+[25:07]
+S | Por ejemplo, si un restaurante tiene comida de mala calidad, decimos: "Esta comida es mucho peor que la de ayer." Nunca decimos "muy peor". | 예를 들어 식당 음식 질이 나쁘면 "이 음식은 어제 것보다 훨씬 나빠(mucho peor)."라고 해요. 'muy peor'라고는 절대 안 해요.
+[25:18]
+S | Y si hablamos del hermano pequeño, decimos: "Él es mucho menor que yo." Nunca decimos "muy menor". | 그리고 남동생 얘기라면 "그는 나보다 훨씬 어려(mucho menor)."라고 해요. 'muy menor'라고는 절대 안 해요.
+[25:26]
+C | Me encanta. Mejor, peor, mayor y menor: las cuatro fantásticas que van con mucho. | 좋네요. mejor, peor, mayor, menor. mucho와 다니는 판타스틱 4.
+[25:34]
+C | Esto es oro puro para escuchar español en la calle y entender por qué la gente habla así. | 이건 거리에서 스페인어를 듣고 사람들이 왜 그렇게 말하는지 이해하는 데 순금 같은 정보예요.
+[25:40]
+C | De verdad, esto ayuda un montón a mejorar el español y evitar los errores típicos de los extranjeros. Dame otra frase para jugar, por favor. Quiero más práctica. | 정말 스페인어를 늘리고 외국인의 전형적인 실수를 피하는 데 엄청 도움이 돼요. 게임할 문장 하나 더 줘요. 더 연습하고 싶어요.
+
+[25:50]
+## bueno·malo / bien·mal — 넷 다 muy
+S | Me encanta esa motivación, Carlos. Tu actitud es fundamental para aprender español de forma efectiva y natural. | 그 의욕 정말 좋아요, 카를로스. 효과적이고 자연스럽게 배우려면 태도가 정말 중요해요.
+[25:58]
+S | Y ya que quieres más práctica, vamos a subir un poco el nivel. Escucha esta frase que me dijo un alumno el otro día: "Ayer vi una película en el cine y es mucho buena." | 더 연습하고 싶다니 수준을 조금 올려 볼게요. 며칠 전 한 학생이 한 말이에요. "어제 영화관에서 영화를 봤는데 mucho 좋아."
+[26:10]
+C | Uy, esa también me duele un poco en los oídos. Vamos a pensar de forma lógica. Buena es un adjetivo. Es una palabra que describe cómo es la película. | 어, 그것도 귀가 좀 아프네요. 논리적으로 생각해 봐요. buena는 형용사예요. 영화가 어떤지 묘사하는 단어죠.
+[26:21]
+C | Y nuestra regla de oro principal dice que con las descripciones usamos siempre la palabra muy. | 그리고 황금 규칙은 묘사엔 늘 muy를 쓴다고 하죠.
+[26:28]
+C | Así que la frase correcta y perfecta es: "Ayer vi una película en el cine y es muy buena." | 그러니 완벽한 문장은 "Ayer vi una película en el cine y es muy buena."예요.
+[26:36]
+S | Exacto. Lo has corregido de maravilla. Pero aquí hay una confusión muy interesante. | 맞아요. 아주 잘 고쳤어요. 그런데 여기 아주 흥미로운 혼동이 있어요.
+[26:43]
+S | Muchos estudiantes confunden bueno y bien, o malo y mal. Y muchas veces no saben si usar muy o mucho con ellos cuando intentan hablar español rápido. | 많은 학생이 bueno와 bien, malo와 mal을 헷갈려요. 그리고 빨리 말하려다 보면 거기에 muy를 쓸지 mucho를 쓸지 모를 때가 많아요.
+[26:54]
+C | Es verdad, tienes muchísima razón. Yo mismo me confundo a veces con eso. ¿Cuál es el truco definitivo para recordar esto y mejorar mi vocabulario español hoy mismo? | 맞아요, 정말 그래요. 저도 가끔 헷갈려요. 이걸 기억하는 최종 비법이 뭐예요?
+[27:05]
+S | El truco es recordar a qué categoría pertenece cada palabra. | 비법은 각 단어가 어떤 품사인지 기억하는 거예요.
+[27:10]
+S | Bueno y malo son adjetivos, describen a las cosas o a las personas: un perro bueno, un libro malo. | bueno와 malo는 형용사, 사물이나 사람을 묘사해요. 착한 개, 나쁜 책.
+[27:18]
+S | Bien y mal son adverbios, describen cómo hacemos una acción: cocinar bien, cantar mal. | bien과 mal은 부사, 행동을 어떻게 하는지 묘사해요. 요리를 잘하다, 노래를 못하다.
+[27:25]
+S | Pero la gran noticia es que los cuatro funcionan siempre con muy. Decimos muy bueno, muy malo, muy bien y muy mal. Nunca decimos "mucho bien" ni "mucho bueno". | 그런데 좋은 소식은 넷 다 늘 muy와 함께 쓴다는 거예요. muy bueno, muy malo, muy bien, muy mal. 'mucho bien'이나 'mucho bueno'는 절대 아니에요.
+[27:39]
+C | Ah, claro, todo tiene sentido ahora. Como las dos categorías son descripciones, es decir, adjetivos y adverbios, la regla de muy se aplica a todas ellas. | 아, 이제 다 이해돼요. 두 품사 모두 묘사, 즉 형용사와 부사니까 muy 규칙이 다 적용되는 거네요.
+[27:51]
+C | Entonces, si yo hablo de mi amigo Juan, digo: "Juan es muy bueno jugando al fútbol." | 그럼 친구 후안 얘기를 하면 "후안은 축구를 아주 잘해(muy bueno jugando)."라고 하고,
+[27:56]
+C | Y si hablo directamente de la acción de jugar, digo: "Juan juega muy bien al fútbol." En los dos casos uso muy. | 경기하는 행동 자체를 말하면 "후안은 축구를 아주 잘 해(juega muy bien)."라고 하죠. 두 경우 다 muy예요.
+[28:05]
+S | Lo has explicado como un verdadero profesor. Esa es la clave para la conversación en español fluida. | 진짜 선생님처럼 설명했네요. 그게 유창한 회화의 열쇠예요.
+
+[28:13]
+## 어휘 정리 ④ dominar · cotidiano · útil · actitud · práctica
+S | Antes de seguir con el juego y ponerte más a prueba, vamos a hacer nuestra sección favorita. | 게임을 계속하며 더 시험해 보기 전에, 우리가 좋아하는 코너를 해 볼게요.
+[28:19]
+S | Vamos a analizar algunas palabras importantes que hemos usado en estos últimos minutos. Prestad mucha atención en casa. | 최근 몇 분 동안 쓴 중요한 단어들을 분석할게요. 집에서 잘 들어 주세요.
+[28:27]
+S | Dominar: es conocer y usar a la perfección una cosa. Por ejemplo, dominar un idioma extranjero o dominar un tema complejo de gramática. | dominar(정복하다, 통달하다): 무언가를 완벽하게 알고 쓰는 것. 예: 외국어를 정복하다, 복잡한 문법 주제를 통달하다.
+[28:38]
+S | Cotidiano: significa algo que pasa todos los días, algo muy normal y diario. Por ejemplo, un día cotidiano o el español cotidiano de la calle. | cotidiano(일상적인): 매일 일어나는, 아주 평범한 일. 예: 일상적인 하루, 거리의 일상 스페인어.
+[28:48]
+S | Útil: es algo que sirve para hacer una cosa, algo que tiene un beneficio muy práctico. Aprender las reglas correctas es muy útil. | útil(유용한): 무언가에 쓸모 있는 것, 실용적인 이득이 있는 것. 올바른 규칙을 배우는 건 아주 유용해요.
+[28:58]
+S | Actitud: es la forma en que una persona se enfrenta a una situación mentalmente. Tener una actitud positiva es clave para estudiar. | actitud(태도): 사람이 어떤 상황에 마음으로 맞서는 방식. 긍정적인 태도가 공부의 열쇠예요.
+[29:07]
+S | Práctica: es la acción de hacer una cosa muchas veces seguidas para poder mejorar. La práctica constante es lo que nos hace hablar con fluidez. | práctica(연습): 나아지려고 무언가를 여러 번 반복하는 것. 꾸준한 연습이 우리를 유창하게 만들어요.
+[29:18]
+C | Qué bonitas palabras son todas estas. Chicos, elijan una de estas palabras ahora mismo y escriban una frase abajo en los comentarios. | 다 정말 좋은 단어들이네요. 여러분, 지금 이 중 하나를 골라 아래 댓글에 문장을 써 주세요.
+[29:27]
+C | Por ejemplo: "Mi gran objetivo es dominar este idioma." Queremos ver su vocabulario en acción real. | 예: "내 큰 목표는 이 언어를 정복하는 거야." 여러분의 어휘가 실제로 쓰이는 걸 보고 싶어요.
+[29:34]
+C | Y recordad, si os está gustando este episodio y queréis aprender más, dejad un gran me gusta y suscribíos al canal. | 그리고 이 에피소드가 마음에 들고 더 배우고 싶다면, 좋아요를 꾹 누르고 채널을 구독해 주세요.
+[29:42]
+S | Gracias por el recordatorio, Carlos. El apoyo activo de nuestra comunidad es lo que hace posible este Spanish podcast cada semana. | 상기시켜 줘서 고마워요, 카를로스. 커뮤니티의 적극적인 응원이 매주 이 팟캐스트를 가능하게 해요.
+
+[29:52]
+## 문장 10~13 — cocina muy bien, trabajé mucho, me gustan mucho
+S | Bien, volvemos a nuestro juego de encuentra el error. Prepárate, porque esta nueva frase tiene algo que ver con lo que acabamos de explicar. | 자, '틀린 곳 찾기'로 돌아가요. 각오해요, 이번 문장은 방금 설명한 것과 관련이 있어요.
+[30:02]
+S | Escucha: "Mi abuela cocina mucho bien, pero hoy la sopa está muy mala." | 들어 봐요. "우리 할머니는 요리를 mucho 잘하셔. 그런데 오늘 수프는 아주 맛없어(muy mala)."
+[30:08]
+C | A ver, a ver: "Mi abuela cocina mucho bien." Alerta roja, emergencia. | 어디 보자. "Mi abuela cocina mucho bien." 빨간불, 비상이에요.
+[30:13]
+C | Bien es un adverbio que describe exactamente cómo cocina la abuela. Y acabamos de repasar que las descripciones llevan siempre muy. | bien은 할머니가 어떻게 요리하는지 묘사하는 부사예요. 그리고 묘사엔 늘 muy가 붙는다고 방금 복습했죠.
+[30:23]
+C | Así que la primera parte está completamente mal. Debe ser: "Mi abuela cocina muy bien." | 그러니 앞부분은 완전히 틀렸어요. "Mi abuela cocina muy bien."이어야 해요.
+[30:29]
+C | Y la segunda parte dice: "la sopa está muy mala". Mala es un adjetivo, describe cómo está la sopa hoy. Con adjetivos usamos muy. Así que la segunda parte es totalmente correcta. | 두 번째 부분은 "la sopa está muy mala". mala는 형용사, 오늘 수프가 어떤지 묘사해요. 형용사엔 muy. 그러니 뒷부분은 완전히 맞아요.
+[30:42]
+C | La frase final perfecta es: "Mi abuela cocina muy bien, pero hoy la sopa está muy mala." | 완벽한 최종 문장은 "Mi abuela cocina muy bien, pero hoy la sopa está muy mala."예요.
+[30:50]
+S | ¡Increíble! Eres un experto ya. Y tienes razón, esa frase perfecta suena supernatural para el oído de un español nativo. | 대단해요! 이제 전문가네요. 맞아요, 그 문장은 원어민 귀에 아주 자연스럽게 들려요.
+[30:59]
+S | Siguiente frase. Escucha bien, porque vamos a mezclar verbos y sustantivos en la misma oración: "Ayer trabajé muy en la oficina y ahora tengo mucho estrés." | 다음 문장. 잘 들어요, 한 문장에 동사와 명사를 섞을 거예요. "어제 회사에서 muy 일해서 지금 스트레스가 많아(mucho estrés)."
+[31:12]
+C | Vale, vamos a separar las dos ideas para no confundirnos. "Ayer trabajé muy." Trabajar es claramente una acción, es un verbo. | 좋아요, 헷갈리지 않게 두 생각을 나눠 볼게요. "Ayer trabajé muy." trabajar는 분명히 행동, 동사예요.
+[31:22]
+C | Cuando hablamos de la intensidad o la duración de una acción, usamos siempre mucho. Por lógica pura, no se puede decir "trabajar muy". | 행동의 강도나 지속 시간을 말할 땐 늘 mucho를 써요. 순수하게 논리적으로 'trabajar muy'라고는 못 해요.
+[31:31]
+C | Entonces, la forma correcta es: "Ayer trabajé mucho en la oficina." | 그러니 맞는 형태는 "Ayer trabajé mucho en la oficina."예요.
+[31:37]
+C | Y vamos con la segunda parte: "Ahora tengo mucho estrés." Estrés es un sustantivo masculino y singular. Es una cosa invisible que yo siento. | 두 번째 부분은 "Ahora tengo mucho estrés." estrés는 남성 단수 명사예요. 내가 느끼는 보이지 않는 '것'이죠.
+[31:47]
+C | Con los sustantivos usamos mucho. Así que esa parte final está perfecta. | 명사엔 mucho. 그러니 뒷부분은 완벽해요.
+[31:53]
+C | Frase completa: "Ayer trabajé mucho en la oficina y ahora tengo mucho estrés." | 전체 문장: "Ayer trabajé mucho en la oficina y ahora tengo mucho estrés."
+[31:59]
+S | Correctísimo. Trabajar mucho, estudiar mucho, leer mucho, caminar mucho. Usamos siempre mucho detrás del verbo principal. | 아주 정확해요. 많이 일하다, 많이 공부하다, 많이 읽다, 많이 걷다. 주동사 뒤엔 늘 mucho예요.
+[32:09]
+S | Estás haciendo un trabajo de Spanish comprehension practice excelente hoy. | 오늘 이해력 연습을 정말 훌륭하게 하고 있어요.
+[32:14]
+S | Vamos con otra frase de la vida diaria, de esas que escucho constantemente en mis clases de español presenciales: "Me gustan muy los zapatos que llevas puestos." | 일상 문장으로 하나 더 가요. 대면 수업에서 끊임없이 듣는 문장이에요. "네가 신은 신발이 muy 마음에 들어."
+[32:26]
+C | "Me gustan muy…" Mmm, vamos a analizar. El verbo principal aquí es gustar. Otra vez estamos hablando de la cantidad o intensidad de un verbo, cuánto me gusta una cosa. | "Me gustan muy…" 음, 분석해 볼게요. 여기 주동사는 gustar예요. 또 동사의 양이나 강도, 즉 무언가가 얼마나 좋은지 말하는 거예요.
+[32:38]
+C | Como es un verbo, no puedo usar muy de ninguna manera. Tengo que usar mucho. | 동사니까 muy는 어떤 식으로도 못 써요. mucho를 써야 해요.
+[32:44]
+C | La frase correcta para comunicarme bien es: "Me gustan mucho los zapatos que llevas puestos." | 제대로 소통하려면 맞는 문장은 "Me gustan mucho los zapatos que llevas puestos."예요.
+[32:51]
+C | Y aquí hay algo curioso: no importa que los zapatos sean plurales, el mucho va conectado con el verbo gustar y no cambia. Se queda exactamente como mucho, ¿verdad? | 그런데 여기 흥미로운 게 있어요. 신발이 복수여도 상관없이, mucho는 동사 gustar에 붙어 있어서 안 바뀌어요. 그대로 mucho죠, 그렇죠?
+[33:02]
+S | ¡Wow, Carlos! Ese es un detalle superinteresante que a veces se nos escapa a los profesores. Tienes toda la razón del mundo. | 와, 카를로스! 선생님들도 가끔 놓치는 아주 흥미로운 디테일이에요. 백 퍼센트 맞아요.
+[33:11]
+S | Cuando la palabra mucho acompaña al verbo directamente, es invariable. Es decir, no cambia nunca. | mucho가 동사와 직접 함께 오면 변하지 않아요. 즉 절대 안 바뀌어요.
+[33:18]
+S | No decimos "Me gustan muchos los zapatos". Decimos "Me gustan mucho", porque la palabra mucho modifica el verbo gustar y no a los zapatos plurales. | "Me gustan muchos los zapatos"라고 하지 않고 "Me gustan mucho"라고 해요. mucho가 복수인 신발이 아니라 동사 gustar를 꾸미니까요.
+[33:29]
+S | ¡Qué gran observación lógica has hecho! Eso es tener realmente un nivel de español avanzado. | 정말 대단한 논리적 관찰이에요! 그게 진짜 고급 실력이죠.
+[33:36]
+C | Me siento muy orgulloso de mí mismo en este momento. Analizar cada palabra me ayuda a entender la estructura lógica de las oraciones. | 지금 제 자신이 정말 자랑스러워요. 단어 하나하나를 분석하니까 문장의 논리 구조가 이해돼요.
+[33:44]
+C | Y cuando entiendo la lógica, ya no tengo que memorizar tantas cosas de memoria. Simplemente aplico la regla de forma automática. | 논리를 이해하면 그렇게 많은 걸 외울 필요가 없어요. 그냥 규칙을 자동으로 적용하면 돼요.
+[33:52]
+C | Dame una más, Sofía. Quiero enfrentarme a las frases más difíciles que tengas hoy. ¿Tienes algún otro error clásico guardado por ahí para mí? | 하나 더 줘요, 소피아. 오늘 가진 가장 어려운 문장에 도전하고 싶어요. 저를 위해 아껴 둔 고전적인 실수 또 있어요?
+
+[34:01]
+## 문장 14~17 — 실수 폭탄 문장들
+S | Claro que sí, Carlos. Me encanta esa actitud tan valiente. Si quieres un desafío real, te voy a dar las frases que más problemas causan a mis alumnos en las clases de español. | 물론이죠, 카를로스. 그 용감한 태도 정말 좋아요. 진짜 도전을 원한다면, 수업에서 학생들이 가장 많이 틀리는 문장들을 줄게요.
+[34:13]
+S | Son los errores clásicos que escucho todos los días cuando la gente intenta hablar español rápido y sin pensar. | 사람들이 생각 없이 빨리 말하려 할 때 매일 듣는 고전적인 실수들이에요.
+[34:21]
+S | Vamos a poner a prueba tu cerebro con una frase doble. Escucha con mucha atención: "Este libro es mucho interesante. Lo leo muy." | 두 부분짜리 문장으로 뇌를 시험해 볼게요. 아주 잘 들어요. "이 책은 mucho 재밌어. 나는 그걸 muy 읽어."
+[34:32]
+C | ¡Madre mía! Esa frase es una bomba de errores. A ver, vamos a desmontar esta frase poco a poco para que todos en casa puedan seguir la lógica. | 맙소사! 실수 폭탄이네요. 집에 계신 모두가 논리를 따라올 수 있게 조금씩 분해해 볼게요.
+[34:44]
+C | La primera parte dice: "Este libro es mucho interesante." La palabra interesante es un adjetivo. Es una palabra que describe cómo es el libro. | 첫 부분은 "Este libro es mucho interesante." interesante는 형용사예요. 책이 어떤지 묘사하는 단어죠.
+[34:56]
+C | Y nuestra regla número uno de español para principiantes nos dice que con las descripciones usamos muy. | 그리고 초급 규칙 1번은 묘사엔 muy를 쓴다고 하죠.
+[35:04]
+C | Así que la primera parte debe ser: "Este libro es muy interesante." | 그러니 첫 부분은 "Este libro es muy interesante."여야 해요.
+[35:10]
+S | Excelente comienzo, has limpiado la mitad de la frase. ¿Qué pasa con la segunda parte de la frase? Yo he dicho: "Lo leo muy." | 훌륭한 출발이에요. 문장의 반을 깨끗이 했네요. 두 번째 부분은요? 저는 "Lo leo muy."라고 했죠.
+[35:20]
+C | Esa parte es un poco más sutil, pero la regla sigue siendo la misma. Leer es un verbo, es la acción que yo hago con el libro. | 그 부분은 좀 더 미묘하지만 규칙은 똑같아요. leer는 동사, 내가 책으로 하는 행동이에요.
+[35:29]
+C | Cuando quiero expresar que hago una acción con mucha frecuencia o en gran cantidad, tengo que usar la palabra mucho. | 어떤 행동을 아주 자주, 많이 한다고 표현하려면 mucho를 써야 해요.
+[35:38]
+C | Por lo tanto, no puedo decir "leo muy", porque el muy no puede ir con verbos. La forma correcta es: "Lo leo mucho." | 그러니 'leo muy'라고 못 해요. muy는 동사와 못 다니거든요. 맞는 형태는 "Lo leo mucho."예요.
+[35:48]
+S | Perfecto. Entonces, ¿cuál es la frase final completamente corregida? | 완벽해요. 그럼 완전히 고친 최종 문장은요?
+[35:54]
+C | La frase perfecta, digna de un español nativo, es: "Este libro es muy interesante, lo leo mucho." | 원어민다운 완벽한 문장은 "Este libro es muy interesante, lo leo mucho."예요.
+[36:01]
+C | Suena infinitamente mejor, la verdad. Siento que mi español avanzado se está despertando hoy. Dame otra, Sofía. | 훨씬, 훨씬 낫게 들리네요. 오늘 제 실력이 깨어나는 것 같아요. 하나 더 줘요, 소피아.
+[36:10]
+S | Muy bien, vamos con otra. Esta tiene que ver con el clima y el tiempo. Es un tema del que hablamos todos los días en cualquier conversación en español. | 좋아요, 하나 더 가요. 이건 날씨에 관한 거예요. 스페인어 대화에서 매일 이야기하는 주제죠.
+[36:20]
+S | Imagina que estamos en agosto en el sur de España y te digo esta frase: "Hoy hace muy sol, vamos a la playa." | 8월에 스페인 남부에 있는데 제가 이렇게 말한다고 상상해 봐요. "오늘 해가 muy 쨍해, 해변 가자."
+[36:29]
+C | "Hoy hace muy sol." Mmm, esto me recuerda a la regla del frío y el calor. | "Hoy hace muy sol." 음, 추위와 더위 규칙이 떠오르네요.
+[36:35]
+C | La palabra sol, en este contexto, no es una descripción. El sol es una cosa, es una estrella, es un sustantivo. | 이 맥락에서 sol은 묘사가 아니에요. 해는 '것', 별, 명사예요.
+[36:45]
+C | Nosotros en español decimos "hacer sol", como si el clima produjera esa cosa. Y con los sustantivos, siempre, sin excepción, usamos la palabra mucho. | 스페인어로는 날씨가 그걸 만들어 내는 것처럼 'hacer sol'이라고 해요. 그리고 명사엔 예외 없이 늘 mucho를 써요.
+[36:58]
+S | Exactamente, es un sustantivo. Entonces, ¿cómo lo dirías para sonar natural? | 맞아요, 명사예요. 그럼 자연스럽게 들리려면 어떻게 말할까요?
+[37:05]
+C | Diría: "Hoy hace mucho sol, vamos a la playa." Porque sol es masculino y singular. | "Hoy hace mucho sol, vamos a la playa."라고 할 거예요. sol은 남성 단수니까요.
+[37:12]
+C | Usar "muy sol" es un error típico del nivel A1 de español, de cuando intentamos traducir literalmente desde el inglés u otros idiomas. | 'muy sol'은 영어나 다른 언어에서 직역하려 할 때 나오는 전형적인 A1 실수예요.
+[37:21]
+C | Nosotros tenemos que pensar en español para aprender español de verdad. | 스페인어를 제대로 배우려면 스페인어로 생각해야 해요.
+[37:27]
+S | Tienes toda la razón, Carlos. Pensar directamente en español es la meta final de este Spanish podcast. | 맞아요, 카를로스. 스페인어로 바로 생각하는 게 이 팟캐스트의 최종 목표예요.
+
+[37:34]
+## 어휘 정리 ⑤ desafío · desmontar · sutil · traducir · meta
+S | Y hablando de pensar en español, vamos a hacer nuestra tradicional pausa de vocabulario. Vamos a explicar algunas palabras clave que hemos usado ahora mismo. Es vital comprenderlas bien. | 스페인어로 생각하는 얘기가 나왔으니, 전통의 어휘 멈춤을 해 볼게요. 방금 쓴 핵심 단어들을 설명할게요. 잘 이해하는 게 중요해요.
+[37:48]
+S | Desafío: es una situación difícil que te obliga a esforzarte al máximo, un reto. Aprender un nuevo idioma es un gran desafío, pero es muy bonito. | desafío(도전): 최선을 다하게 만드는 어려운 상황, 즉 reto. 새 언어를 배우는 건 큰 도전이지만 아주 아름다워요.
+[38:00]
+S | Desmontar: significa separar las diferentes partes de una cosa. Por ejemplo, desmontar una frase es analizarla palabra por palabra para entenderla mejor. | desmontar(분해하다): 어떤 것의 여러 부분을 떼어 내는 것. 예: 문장을 분해한다는 건 더 잘 이해하려고 단어별로 분석하는 거예요.
+[38:12]
+S | Sutil: es algo muy delicado, pequeño o difícil de notar a simple vista. A veces, la diferencia entre dos palabras en español es muy sutil. | sutil(미묘한): 아주 섬세하거나 작아서 한눈에 알아채기 어려운 것. 가끔 두 스페인어 단어의 차이는 아주 미묘해요.
+[38:24]
+S | Traducir: es cambiar las palabras de un idioma a otro idioma diferente. Traducir literalmente a veces causa problemas. | traducir(번역하다): 한 언어의 말을 다른 언어로 바꾸는 것. 직역은 가끔 문제를 일으켜요.
+[38:34]
+S | Meta: es el objetivo final, el punto al que quieres llegar después de mucho trabajo. Nuestra meta es que todos habléis con fluidez. | meta(목표): 많은 노력 끝에 도달하고 싶은 최종 목표. 우리의 목표는 여러분 모두가 유창하게 말하는 거예요.
+[38:44]
+C | Chicos, os animo a escribir vuestra propia meta en los comentarios. ¿Cuál es vuestra meta principal al estudiar este idioma? | 여러분, 댓글에 자기만의 목표를 써 보세요. 이 언어를 공부하는 가장 큰 목표가 뭔가요?
+[38:53]
+C | Y ya que estáis ahí, no olviden darle al botón de me gusta si estas explicaciones os están ayudando. Eso nos indica que vamos por el buen camino con este tipo de clases de español. | 그리고 그 김에, 설명이 도움이 됐다면 좋아요 버튼도 잊지 마세요. 그래야 이런 수업이 맞는 방향이라는 걸 알 수 있어요.
+[39:04]
+S | Sí, por favor, compartid vuestras metas con nosotros. | 네, 꼭 여러분의 목표를 나눠 주세요.
+
+[39:09]
+## 문장 18~19 — muy enfermo / mucha fiebre, muy rápido / mucho dinero
+S | Bien, Carlos, volvemos a la carga. Te voy a proponer otra frase trampa. Esta frase mezcla las sensaciones físicas y los adjetivos, un terreno muy peligroso para el español de los extranjeros. | 자, 카를로스, 다시 공격해요. 함정 문장을 하나 더 낼게요. 몸의 감각과 형용사가 섞인 문장인데, 외국인에게 아주 위험한 영역이에요.
+[39:23]
+S | Escucha con atención: "Estoy mucho enfermo, tengo muy fiebre." | 잘 들어요. "나 mucho 아파, 열이 muy 나."
+[39:29]
+C | A ver: "Estoy mucho enfermo." Vamos a analizar la palabra enfermo. Enfermo no es una cosa, es un estado. | 자, "Estoy mucho enfermo." enfermo를 분석해 볼게요. enfermo는 '것'이 아니라 상태예요.
+[39:38]
+C | Es una descripción de cómo está mi cuerpo en este momento, es un adjetivo. Y la regla de oro nos dice que las descripciones van con muy. | 지금 내 몸이 어떤지 묘사하는 말, 형용사예요. 그리고 황금 규칙은 묘사엔 muy라고 하죠.
+[39:48]
+C | Así que la primera parte tiene que ser: "Estoy muy enfermo." Eso está claro. | 그러니 앞부분은 "Estoy muy enfermo."여야 해요. 분명하죠.
+[39:55]
+S | Correcto. La primera parte está solucionada. Ahora, ¿qué me dices de la segunda parte? "Tengo muy fiebre." | 맞아요. 앞부분은 해결됐어요. 그럼 뒷부분은요? "Tengo muy fiebre."
+[40:03]
+C | "Tengo muy fiebre." Fiebre es la temperatura alta del cuerpo. Funciona igual que el hambre, la sed, el frío o el miedo. | "Tengo muy fiebre." fiebre는 몸의 높은 온도예요. hambre, sed, frío, miedo와 똑같이 작동해요.
+[40:12]
+C | Con el verbo tener, nosotros poseemos esa cosa. La fiebre es un sustantivo femenino y singular. | tener와 함께 쓰면 우리가 그걸 '가지고' 있는 거예요. fiebre는 여성 단수 명사예요.
+[40:20]
+C | No es una descripción, es una condición que yo tengo, y con las cosas que yo tengo uso la familia de la palabra mucho. Como es femenino, digo "mucha fiebre". | 묘사가 아니라 내가 가진 상태이고, 내가 가진 '것'에는 mucho 가족을 써요. 여성이니까 'mucha fiebre'라고 해요.
+[40:33]
+S | Espléndido, has aplicado la regla de concordancia a la perfección. Fiebre es femenino, así que usamos mucha. ¿Cuál es el resultado final? | 훌륭해요. 일치 규칙을 완벽하게 적용했어요. fiebre가 여성이라 mucha예요. 최종 결과는요?
+[40:43]
+C | La respuesta correcta para una buena pronunciación española y una gramática impecable es: "Estoy muy enfermo, tengo mucha fiebre." | 좋은 발음과 흠잡을 데 없는 문법의 정답은 "Estoy muy enfermo, tengo mucha fiebre."예요.
+[40:53]
+C | Es increíble cómo, al parar un segundo y pensar si la palabra es una cosa o una descripción, todo se vuelve clarísimo. Dejo de dudar al hablar. | 잠깐 멈춰서 그 단어가 '것'인지 '묘사'인지 생각하기만 하면 모든 게 아주 분명해지는 게 놀라워요. 말할 때 망설이지 않게 돼요.
+[41:04]
+S | Ese es el verdadero secreto para mejorar el español sin sufrir. La gramática no debe ser tu enemiga, debe ser una herramienta lógica. | 그게 고생하지 않고 스페인어를 늘리는 진짜 비밀이에요. 문법은 적이 아니라 논리적인 도구여야 해요.
+[41:13]
+S | Te doy una frase más de esta ronda intensiva. Imagina que te hablo de un amigo que tiene muchísimo éxito en su trabajo y te digo: | 이 집중 라운드의 문장을 하나 더 줄게요. 일에서 아주 크게 성공한 친구 얘기를 하면서 이렇게 말한다고 상상해 봐요.
+[41:23]
+S | "Mi amigo trabaja mucho rápido, pero gana muy dinero." | "내 친구는 mucho 빨리 일하는데, 돈을 muy 벌어."
+[41:27]
+C | Vaya mezcla. Vamos a separarlo. "Mi amigo trabaja mucho rápido." | 대단한 뒤섞임이네요. 나눠 볼게요. "Mi amigo trabaja mucho rápido."
+[41:32]
+C | La palabra rápido aquí funciona como un adverbio que describe de qué manera trabaja mi amigo, describe la acción. | 여기서 rápido는 친구가 어떤 식으로 일하는지 묘사하는 부사예요. 행동을 묘사하죠.
+[41:41]
+C | Como es una descripción, tengo que usar muy, así que digo: "Mi amigo trabaja muy rápido." Esa es la primera mitad. | 묘사니까 muy를 써야 해요. 그래서 "Mi amigo trabaja muy rápido." 이게 앞 절반이에요.
+[41:50]
+S | Muy buen análisis. Las descripciones de cómo hacemos las cosas, los adverbios, llevan muy. ¿Y el final de la frase? | 아주 좋은 분석이에요. 어떻게 하는지에 대한 묘사, 즉 부사엔 muy가 붙어요. 문장 끝은요?
+[41:59]
+C | "Pero gana muy dinero." Esa ya me la sé de memoria. Dinero es un sustantivo, es una cosa física masculina y singular. | "Pero gana muy dinero." 이건 이제 외웠어요. dinero는 명사, 남성 단수의 물리적인 '것'이에요.
+[42:08]
+C | Los sustantivos van con mucho, así que la corrección es obligatoria. No es "muy dinero", es "mucho dinero". | 명사는 mucho와 다녀요. 그러니 꼭 고쳐야 해요. 'muy dinero'가 아니라 'mucho dinero'예요.
+[42:16]
+C | La frase entera y correcta, ideal para escuchar español natural, es: "Mi amigo trabaja muy rápido, pero gana mucho dinero." | 자연스러운 전체 문장은 "Mi amigo trabaja muy rápido, pero gana mucho dinero."예요.
+[42:26]
+C | Ojalá yo fuera ese amigo, la verdad. | 솔직히 제가 그 친구였으면 좋겠네요.
+[42:29]
+S | Yo creo que todos queremos ser ese amigo, Carlos. Lo estás haciendo de maravilla. | 우리 모두 그 친구가 되고 싶을 거예요, 카를로스. 정말 잘하고 있어요.
+[42:35]
+S | Me doy cuenta de que has interiorizado la diferencia completamente. Has superado las mezclas más difíciles de nuestro idioma. | 차이를 완전히 체화했다는 게 느껴져요. 우리 언어의 가장 어려운 뒤섞임을 이겨 냈어요.
+[42:43]
+C | La verdad es que me siento increíblemente bien. Siento que por fin puedo usar muy y mucho sin pensar, de forma casi automática. | 정말 기분이 엄청 좋아요. 드디어 muy와 mucho를 생각 없이, 거의 자동으로 쓸 수 있을 것 같아요.
+[42:54]
+C | Pero, Sofía, te conozco. Sé que siempre guardas un ejercicio final para asegurar que hemos aprendido todo a la perfección. | 그런데 소피아, 당신을 알아요. 우리가 다 완벽하게 배웠는지 확인하려고 늘 마지막 연습을 아껴 두잖아요.
+[43:02]
+C | ¿Tienes alguna prueba definitiva antes de terminar el tema de hoy? Quiero demostrar que soy un experto absoluto en esto. | 오늘 주제를 마치기 전에 최종 시험 있어요? 제가 이 분야의 완벽한 전문가라는 걸 보여 주고 싶어요.
+
+[43:10]
+## 기말고사 — 소피아의 주말 이야기에서 실수 찾기
+S | Me encanta tu seguridad, Carlos. Claro que tengo una prueba definitiva para ti y para todos los que nos escuchan. | 그 자신감 정말 좋아요, 카를로스. 물론 당신과 듣고 계신 모든 분을 위한 최종 시험이 있어요.
+[43:18]
+S | Si quieres demostrar que ya no tienes un nivel de español A1 en este tema, vamos a hacer el examen final. No te voy a dar frases sueltas. | 이 주제에서 더 이상 A1이 아니라는 걸 보여 주고 싶다면 기말고사를 봐요. 따로 떨어진 문장은 안 줄 거예요.
+[43:28]
+S | Te voy a contar una pequeña historia de mi fin de semana. Voy a hablar de forma continua. Y tú tienes que gritar "¡Alto!" cuando escuches un error. | 제 주말 이야기를 짧게 해 줄게요. 계속 이어서 말할 거예요. 실수가 들리면 "멈춰!(¡Alto!)"라고 외쳐야 해요.
+[43:38]
+C | ¿Un examen interactivo? Esto es genial. Me pongo en modo detector de errores. Es la mejor Spanish listening practice que puedo imaginar. | 대화형 시험이요? 멋지네요. 실수 탐지기 모드로 전환할게요. 상상할 수 있는 최고의 듣기 연습이에요.
+[43:48]
+C | Estoy listo, Sofía. Cuenta tu historia a tu ritmo natural de español nativo. Yo te interrumpiré si escucho algo raro. Empieza cuando quieras. | 준비됐어요, 소피아. 원어민의 자연스러운 속도로 이야기해 줘요. 이상한 게 들리면 끼어들게요. 원할 때 시작하세요.
+[43:59]
+S | De acuerdo. Relájate y escucha mi historia. | 좋아요. 편하게 제 이야기를 들어 봐요.
+[44:03]
+S | "El sábado pasado me desperté temprano. Fue un día mucho especial porque era mi cumpleaños." | "지난 토요일에 일찍 일어났어. 내 생일이라 mucho 특별한 날이었어."
+[44:16]
+C | ¡Alto, alto, alto! "Día mucho especial." Ahí hay un error gigante. La palabra especial es un adjetivo. Describe cómo fue el día. | 멈춰, 멈춰, 멈춰! 'día mucho especial.' 큰 실수가 있어요. especial은 형용사예요. 그날이 어땠는지 묘사하죠.
+[44:26]
+C | Y nosotros ya somos expertos en esta regla. Con las descripciones siempre usamos muy. La forma correcta es: "Fue un día muy especial." | 우리는 이제 이 규칙의 전문가예요. 묘사엔 늘 muy. 맞는 건 "Fue un día muy especial."이에요.
+[44:37]
+S | Muy bien. Primer punto para ti. Sigo con mi historia. | 아주 좋아요. 첫 점수예요. 이야기 계속할게요.
+[44:41]
+S | "Salí de mi casa para dar un paseo. La verdad es que hacía mucho calor en la calle, pero no me importó." | "산책하러 집을 나섰어. 사실 거리는 아주 더웠어(mucho calor). 그래도 상관없었어."
+[44:48]
+C | ¡Alto ahí otra vez! Has dicho "hacía mucho calor". Calor, igual que el frío, el hambre o la sed, es un sustantivo. Es una cosa que hace el clima, una sensación. | 거기서 또 멈춰요! 'hacía mucho calor'라고 했죠. calor는 frío, hambre, sed처럼 명사예요. 날씨가 만드는 '것', 감각이에요.
+[45:01]
+C | Con los sustantivos siempre usamos mucho. Como calor es masculino y singular, tienes que decir "hacía mucho calor en la calle". | 명사엔 늘 mucho. calor가 남성 단수니까 "hacía mucho calor en la calle"라고 해야 해요.
+[45:09]
+S | Impecable, Carlos. Veo que las clases de español están funcionando de maravilla. | 흠잡을 데 없어요, 카를로스. (※ 이 문장은 원래 맞는 문장이었고, 카를로스가 그 이유를 정확히 설명했어요.) 스페인어 수업이 아주 효과가 있네요.
+[45:16]
+S | Continúo. "Hacía mucho calor en la calle, así que decidí ir a una cafetería. En la cafetería leí mi libro favorito, y la verdad es que disfruté muy." | 계속할게요. "거리가 아주 더워서 카페에 가기로 했어. 카페에서 제일 좋아하는 책을 읽었는데 정말 muy 즐거웠어."
+[45:28]
+C | ¡Alto! Ese es fácil. Has dicho "disfruté muy". Disfrutar es un verbo, es una acción. | 멈춰! 그건 쉬워요. 'disfruté muy'라고 했죠. disfrutar는 동사, 행동이에요.
+[45:33]
+C | Cuando queremos decir que hacemos una acción con mucha intensidad, la palabra correcta es mucho. El muy nunca, jamás, se pone detrás de un verbo. | 어떤 행동을 아주 강하게 한다고 말할 땐 mucho가 맞아요. muy는 절대, 결코 동사 뒤에 오지 않아요.
+[45:45]
+C | Tienes que decir: "En la cafetería leí mi libro favorito y disfruté mucho." | "En la cafetería leí mi libro favorito y disfruté mucho."라고 해야 해요.
+[45:51]
+S | Excelente. Ya llevas tres errores corregidos a la perfección. Eres un as de la conversación en español. | 훌륭해요. 벌써 세 번째 완벽한 교정이에요. 스페인어 회화의 에이스네요.
+[46:00]
+S | Sigo. "Después de la cafetería fui de compras. Vi unos pantalones mucho bonitos en una tienda y los compré." | 계속할게요. "카페에서 나와서 쇼핑을 갔어. 가게에서 mucho 예쁜 바지를 보고 샀어."
+[46:09]
+C | ¡Alto! "Unos pantalones mucho bonitos." Vamos a pensar. Bonitos es un adjetivo en plural. Describe a los pantalones. | 멈춰! 'unos pantalones mucho bonitos.' 생각해 봐요. bonitos는 복수 형용사예요. 바지를 묘사하죠.
+[46:19]
+C | Y las descripciones siempre van con muy. Además, la palabra muy es invariable. No tiene masculino, femenino, singular ni plural. | 묘사엔 늘 muy. 게다가 muy는 변하지 않아요. 남성, 여성, 단수, 복수가 없어요.
+[46:29]
+C | La palabra muy es siempre igual y muy fácil. Lo correcto es decir: "Vi unos pantalones muy bonitos." | muy는 늘 똑같고 아주 쉬워요. 맞는 말은 "Vi unos pantalones muy bonitos."예요.
+[46:38]
+S | Perfecto. Eres una máquina de corregir. Voy con la última parte de mi historia de fin de semana. Presta atención. | 완벽해요. 교정 기계네요. 주말 이야기의 마지막 부분이에요. 잘 들어요.
+[46:46]
+S | "Compré los pantalones y volví a casa. En resumen, este sábado fue un día muy mejor que el domingo." | "바지를 사서 집에 돌아왔어. 요약하면 이번 토요일은 일요일보다 muy 나은 날이었어."
+[46:54]
+C | ¡Alto final! Has usado la trampa de las cuatro palabras rebeldes. Has dicho "muy mejor". | 마지막 멈춤! 네 개의 반항아 함정을 썼네요. 'muy mejor'라고 했어요.
+[47:00]
+C | Aunque mejor es un adjetivo para comparar, pertenece a nuestra lista especial de excepciones: mejor, peor, mayor y menor. | mejor는 비교 형용사지만 특별 예외 목록에 들어가요. mejor, peor, mayor, menor.
+[47:09]
+C | Con estas cuatro palabras, la regla cambia y tenemos que usar siempre mucho. | 이 네 단어에선 규칙이 바뀌어서 늘 mucho를 써야 해요.
+[47:16]
+C | La conclusión de tu historia debería ser: "Este sábado fue un día mucho mejor que el domingo." | 이야기의 결론은 "Este sábado fue un día mucho mejor que el domingo."여야 해요.
+[47:22]
+S | Prueba superada al cien por cien. ¡Bravo, Carlos! Prueba superada con matrícula de honor. | 시험 100% 통과. 브라보, 카를로스! 최우수 성적으로 통과예요.
+[47:30]
+S | Has demostrado que dominas completamente la diferencia entre muy y mucho. | muy와 mucho의 차이를 완전히 정복했다는 걸 보여 줬어요.
+[47:35]
+S | Y estoy segura de que todos nuestros oyentes en casa también han identificado los errores. | 그리고 집에 계신 청취자분들도 모두 실수를 찾아냈을 거라고 확신해요.
+[47:41]
+S | Es normal equivocarse al aprender español, pero entender la lógica nos da mucha seguridad. | 스페인어를 배우며 틀리는 건 정상이지만, 논리를 이해하면 자신감이 많이 생겨요.
+
+[47:47]
+## 어휘 정리 ⑥ prueba · especial · disfrutar · invariable · superar
+S | Antes de terminar nuestro episodio de hoy, vamos a hacer nuestra última parada en el vocabulario. | 오늘 에피소드를 마치기 전에, 어휘에서 마지막으로 멈춰 볼게요.
+[47:54]
+S | Prueba: es un examen o una demostración para comprobar el conocimiento o la habilidad de una persona. Hoy hemos hecho una prueba muy divertida. | prueba(시험): 사람의 지식이나 능력을 확인하기 위한 시험이나 시연. 오늘 아주 재밌는 시험을 봤죠.
+[48:04]
+S | Especial: es algo que no es común, algo diferente y que normalmente tiene mucho valor sentimental. Un cumpleaños es un día especial. | especial(특별한): 흔하지 않고 다른, 보통 정서적 가치가 큰 것. 생일은 특별한 날이에요.
+[48:14]
+S | Disfrutar: es sentir placer, alegría o felicidad al hacer una acción. Por ejemplo, disfrutar de una buena comida o de un paseo por el parque. | disfrutar(즐기다): 어떤 행동을 하며 즐거움, 기쁨, 행복을 느끼는 것. 예: 맛있는 음식이나 공원 산책을 즐기다.
+[48:24]
+S | Invariable: es una palabra que nunca cambia. No tiene masculino, femenino, singular ni plural. La palabra muy es invariable. | invariable(불변의): 절대 바뀌지 않는 단어. 남성, 여성, 단수, 복수가 없어요. muy는 불변이에요.
+[48:34]
+S | Superar: es pasar un límite, vencer un obstáculo o terminar una prueba con éxito. Superar el nivel básico de un idioma es un gran logro. | superar(넘어서다, 통과하다): 한계를 넘거나, 장애물을 이기거나, 시험을 성공적으로 마치는 것. 언어의 기초 단계를 넘어서는 건 큰 성과예요.
+[48:44]
+C | Qué buenas palabras para cerrar el episodio. Chicos, os lanzo un último reto. | 에피소드를 마무리하기 좋은 단어들이네요. 여러분, 마지막 도전을 던질게요.
+[48:50]
+C | Escriban en los comentarios una frase usando la palabra superar o la palabra disfrutar. Queremos ver cómo usan este vocabulario español en su vida diaria. | superar나 disfrutar를 써서 댓글로 문장을 남겨 주세요. 일상에서 이 어휘를 어떻게 쓰는지 보고 싶어요.
+[49:01]
+C | Yo personalmente disfruto mucho grabando este podcast contigo, Sofía. | 저는 개인적으로 당신과 이 팟캐스트를 녹음하는 게 정말 즐거워요, 소피아.
+
+[49:06]
+## 마무리 — 오늘의 규칙 총정리
+S | Yo también disfruto mucho, Carlos. Y quiero dar las gracias a todas las personas que nos acompañan en cada episodio de Español Auténtico. | 저도 정말 즐거워요, 카를로스. 그리고 Español Auténtico의 매 에피소드를 함께해 주시는 모든 분께 감사드리고 싶어요.
+[49:15]
+S | Si queréis ayudarnos a seguir creando contenido y enseñar español online a todo el mundo, por favor, suscríbanse al canal ahora mismo. | 저희가 계속 콘텐츠를 만들고 온 세상에 온라인으로 스페인어를 가르치도록 돕고 싶다면, 지금 바로 채널을 구독해 주세요.
+[49:23]
+S | Dadle un gran me gusta a este vídeo y dejad vuestro comentario. Es un gesto gratuito que nos ayuda muchísimo a crecer. | 이 영상에 좋아요를 꾹 누르고 댓글을 남겨 주세요. 무료지만 저희가 성장하는 데 엄청난 도움이 돼요.
+[49:32]
+C | Exacto. Y recuerden que, si este Spanish podcast os parece útil y quieren apoyar directamente nuestro trabajo, pueden hacerse miembros del canal haciendo clic en el botón de unirse o abonarse. | 맞아요. 그리고 이 팟캐스트가 유용하고 저희 일을 직접 응원하고 싶다면, 가입 버튼을 눌러 채널 멤버가 될 수 있다는 것 기억해 주세요.
+[49:44]
+C | Así forman parte de la familia de Español Auténtico y nos ayudan a seguir produciendo más episodios para mejorar su nivel. | 그러면 Español Auténtico 가족이 되고, 여러분의 실력을 늘릴 에피소드를 계속 만드는 데 힘이 돼요.
+[49:52]
+S | Así es. Resumiendo la lección de hoy para que no se os olvide nunca: | 맞아요. 절대 잊지 않도록 오늘 수업을 요약할게요.
+[49:57]
+S | Usad muy para describir con adjetivos y adverbios. Usad mucho, mucha, muchos y muchas para hablar de cantidades de cosas, es decir, sustantivos. Y usad mucho detrás de los verbos. | 형용사와 부사로 묘사할 땐 muy. 것의 양, 즉 명사엔 mucho, mucha, muchos, muchas. 그리고 동사 뒤엔 mucho.
+[50:12]
+C | Ah, y no olviden nuestras cuatro excepciones: mucho mejor, mucho peor, mucho mayor y mucho menor. | 아, 그리고 네 가지 예외도 잊지 마세요. mucho mejor, mucho peor, mucho mayor, mucho menor.
+[50:20]
+S | Con esta simple regla, vuestro español para extranjeros sonará supernatural en cualquier país hispanohablante. | 이 간단한 규칙만 있으면 어느 스페인어권 나라에서든 여러분의 스페인어가 아주 자연스럽게 들릴 거예요.
+[50:26]
+C | Ha sido una lección magistral, Sofía. Me siento mucho más confiado para salir a la calle y hablar con la gente sin miedo a decir "mucho bien" o "muy gracias". | 명강의였어요, 소피아. 이제 'mucho bien'이나 'muy gracias'라고 할까 봐 두려워하지 않고 밖에 나가 사람들과 말할 자신이 훨씬 생겼어요.
+[50:36]
+S | Muchísimas gracias a todos por escuchar, por participar en los comentarios y por seguir estudiando con nosotros. | 들어 주시고, 댓글에 참여해 주시고, 저희와 계속 공부해 주셔서 모두 정말 고마워요.
+[50:43]
+S | Nos vemos en el próximo episodio, familia. Hasta pronto, y a seguir practicando. | 다음 에피소드에서 만나요, 여러분. 곧 봐요, 계속 연습하세요!
+
