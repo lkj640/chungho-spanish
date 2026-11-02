@@ -1,0 +1,2572 @@
+{
+ "id": "es-2026-11-02",
+ "lang": "es",
+ "date": "2026-11-02",
+ "title": "por와 para — 화살 하나로 끝내기",
+ "es": "Viajo para Madrid, paso por Barcelona",
+ "emoji": "🏹",
+ "level": "A2–B1",
+ "channel": "Español Auténtico",
+ "videoTitle": "How to Use POR vs PARA in Spanish: Stop Making This Mistake! | Learn Spanish Podcast",
+ "youtube": "5rqED7p7hko",
+ "duration": "24:21",
+ "speakers": {
+  "S": "Sofía",
+  "C": "Carlos"
+ },
+ "hideCast": true,
+ "summary": "학생에게 악몽 같은 por와 para를 소피아의 마드리드 여행 메모로 정리해요. para는 과녁을 향하는 화살(목적지·마감·받는 사람·목표·의견·~치고는), por는 지나가는 길과 뒤에 있는 원인(경유·기간·하루의 때·원인·수단·교환). 'por mira hacia atrás, para mira hacia delante.'",
+ "topics": [
+  "장소: viajo para Madrid (목적지) · paso por Barcelona (경유)",
+  "시간: para el viernes (마감) · por tres semanas (기간) · por la mañana",
+  "사람·이유: un regalo para mi madre · gracias por el regalo · para relajarme",
+  "수단·교환: por avión · por correo · por 20 € · cambiar A por B",
+  "의견·대비: para mí… · para ser principiante…",
+  "어휘 분석: destino final · fecha límite · destinatario · tránsito · efectivo · fluidez"
+ ],
+ "grammar": [
+  {
+   "title": "① 한눈에 보는 por vs. para",
+   "lead": "<b>para</b>는 앞(목표)을 겨누는 화살, <b>por</b>는 지나가는 길이나 뒤에 있는 원인이에요.",
+   "table": {
+    "head": [
+     "쓰임",
+     "para",
+     "por"
+    ],
+    "rows": [
+     [
+      "장소",
+      "목적지: Viajo para Madrid.",
+      "경유·통과: Paso por Barcelona. / Camino por el parque."
+     ],
+     [
+      "시간",
+      "마감: para el viernes",
+      "기간: por tres semanas / 하루의 때: por la mañana"
+     ],
+     [
+      "사람·이유",
+      "받는 사람: para mi madre / 목적: para relajarme",
+      "원인: Gracias por el regalo. / por el estrés"
+     ],
+     [
+      "수단·교환",
+      "—",
+      "수단: por avión, por teléfono / 교환: por 20 €"
+     ],
+     [
+      "의견·대비",
+      "para mí… / para ser agosto…",
+      "—"
+     ]
+    ]
+   },
+   "tip": "Por mira hacia atrás, a la causa; para mira hacia delante, a la meta."
+  },
+  {
+   "title": "② 장소 — 목적지 para, 지나가는 길 por",
+   "lead": "같은 공원이라도 의도에 따라 달라요.",
+   "examples": [
+    [
+     "Voy para el parque.",
+     "공원으로 가요. (집에서, 공원이 목적지)"
+    ],
+    [
+     "Camino por el parque.",
+     "공원을 걸어요. (이미 공원 안에서 돌아다님)"
+    ],
+    [
+     "Viajo para Madrid, pero paso por Barcelona.",
+     "마드리드로 가지만 바르셀로나를 거쳐요."
+    ]
+   ]
+  },
+  {
+   "title": "③ 시간 — 마감 para, 기간 por",
+   "lead": "마감일은 달력 위의 목적지예요.",
+   "examples": [
+    [
+     "Tengo que confirmar mi hotel para el viernes.",
+     "금요일까지 호텔을 확정해야 해요."
+    ],
+    [
+     "La tarea de español es para mañana.",
+     "스페인어 숙제는 내일까지예요."
+    ],
+    [
+     "Voy a viajar por España por tres semanas.",
+     "3주 동안 스페인 곳곳을 여행할 거예요."
+    ],
+    [
+     "Mi vuelo sale por la mañana.",
+     "비행기는 아침에 출발해요. (✗ para la mañana)"
+    ]
+   ]
+  },
+  {
+   "title": "④ 받는 사람·목적 para / 원인 por",
+   "lead": "앞으로 향하면 para, 이미 있던 이유면 por.",
+   "examples": [
+    [
+     "Compré este regalo para mi madre.",
+     "엄마를 위해 이 선물을 샀어요."
+    ],
+    [
+     "Gracias por el regalo.",
+     "선물 고마워요. (원인)"
+    ],
+    [
+     "Viajo a España para relajarme.",
+     "쉬려고 스페인에 가요. (목적)"
+    ],
+    [
+     "Viajo por el estrés del trabajo.",
+     "일 스트레스 때문에 여행 가요. (원인)"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 수단·교환 por",
+   "lead": "무엇을 통해 / 무엇과 바꿔서.",
+   "examples": [
+    [
+     "Viajo por avión. / Mando un mensaje por teléfono.",
+     "비행기로 가요. / 전화로 메시지를 보내요."
+    ],
+    [
+     "Compré esta camiseta por 20 €.",
+     "이 티셔츠를 20유로에 샀어요."
+    ],
+    [
+     "Te cambio mi manzana por tu bocadillo.",
+     "내 사과를 네 샌드위치와 바꿔 줄게."
+    ]
+   ],
+   "tip": "교통수단은 en metro, en autobús처럼 en도 아주 많이 써요."
+  },
+  {
+   "title": "⑥ 의견 para mí / 대비 para ser…",
+   "lead": "para + 사람 = 그 사람이 보기엔, para ser + 명사 = ~치고는.",
+   "examples": [
+    [
+     "Para mí, esta ciudad es hermosa.",
+     "내가 보기엔 이 도시는 아름다워요."
+    ],
+    [
+     "Para ser principiante, hablas español muy bien.",
+     "초보치고는 스페인어를 아주 잘하네요."
+    ],
+    [
+     "Hace mucho frío para ser agosto.",
+     "8월치고는 정말 추워요."
+    ],
+    [
+     "Para ser un hotel barato, la habitación es muy bonita.",
+     "싼 호텔치고는 방이 아주 예뻐요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 대화에 나온 유용한 표현",
+   "lead": "수업 대화에서 자주 쓰는 말이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "A ver si entiendo bien.",
+      "제가 잘 이해했는지 볼게요."
+     ],
+     [
+      "Eso es. / Exacto.",
+      "바로 그거예요."
+     ],
+     [
+      "Tienes toda la razón.",
+      "완전히 맞아요."
+     ],
+     [
+      "Qué alivio.",
+      "다행이다."
+     ],
+     [
+      "Claro que sí.",
+      "물론이죠."
+     ],
+     [
+      "Depende de…",
+      "~에 달렸어요."
+     ],
+     [
+      "Por lo tanto…",
+      "그러므로"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Viajo para Madrid, paso por Barcelona, mi vuelo es por la mañana y me quedo por tres semanas.",
+   "마드리드로 가고, 바르셀로나를 거치고, 비행기는 아침이고, 3주 동안 머물러요."
+  ],
+  [
+   "Tengo que confirmar mi hotel para el viernes.",
+   "금요일까지 호텔을 확정해야 해요."
+  ],
+  [
+   "Compré este regalo para mi madre.",
+   "엄마를 위해 이 선물을 샀어요."
+  ],
+  [
+   "Gracias por el regalo.",
+   "선물 고마워요."
+  ],
+  [
+   "Viajo a España para relajarme.",
+   "쉬려고 스페인에 가요."
+  ],
+  [
+   "Voy a viajar a Madrid por avión.",
+   "비행기로 마드리드에 갈 거예요."
+  ],
+  [
+   "Compré esta camiseta por 20 €.",
+   "이 티셔츠를 20유로에 샀어요."
+  ],
+  [
+   "Te cambio mi manzana por tu bocadillo.",
+   "내 사과를 네 샌드위치와 바꿔 줄게."
+  ],
+  [
+   "Para mí, esta ciudad es hermosa.",
+   "내가 보기엔 이 도시는 아름다워요."
+  ],
+  [
+   "Para ser principiante, hablas español muy bien.",
+   "초보치고는 스페인어를 아주 잘하네요."
+  ],
+  [
+   "Por mira hacia atrás, a la causa; para mira hacia delante, a la meta.",
+   "por는 뒤의 원인을, para는 앞의 목표를 봐요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "por vs. para",
+   "ko": "~을 지나/때문에/~로 vs. ~을 향해/~을 위해",
+   "ex": "Viajo para Madrid y paso por Barcelona.",
+   "exKo": "마드리드로 가고 바르셀로나를 거쳐요."
+  },
+  {
+   "es": "una pesadilla",
+   "ko": "악몽",
+   "ex": "Es una verdadera pesadilla para los estudiantes.",
+   "exKo": "학생들에게 진짜 악몽이에요."
+  },
+  {
+   "es": "confundirse",
+   "ko": "헷갈리다",
+   "ex": "Yo siempre me confundo.",
+   "exKo": "저는 늘 헷갈려요."
+  },
+  {
+   "es": "el destino final",
+   "ko": "최종 목적지",
+   "ex": "Para indica el destino final.",
+   "exKo": "para는 최종 목적지를 나타내요."
+  },
+  {
+   "es": "la flecha",
+   "ko": "화살",
+   "ex": "La flecha apunta al destino final.",
+   "exKo": "화살은 최종 목적지를 가리켜요."
+  },
+  {
+   "es": "apuntar a",
+   "ko": "~을 가리키다, 겨누다",
+   "ex": "La flecha apunta al viernes.",
+   "exKo": "화살이 금요일을 가리켜요."
+  },
+  {
+   "es": "el arco",
+   "ko": "활",
+   "ex": "la flecha de un arco",
+   "exKo": "활의 화살"
+  },
+  {
+   "es": "el tránsito",
+   "ko": "통과, 경유",
+   "ex": "Barcelona es el lugar de tránsito.",
+   "exKo": "바르셀로나는 경유지예요."
+  },
+  {
+   "es": "pasar por",
+   "ko": "~을 거치다, 지나가다",
+   "ex": "Paso por Barcelona.",
+   "exKo": "바르셀로나를 거쳐 가요."
+  },
+  {
+   "es": "a través de",
+   "ko": "~을 통해, 가로질러",
+   "ex": "Te mueves a través del parque.",
+   "exKo": "공원을 가로질러 움직여요."
+  },
+  {
+   "es": "hacer una parada",
+   "ko": "잠시 들르다, 정차하다",
+   "ex": "Mi avión hace una pequeña parada en Barcelona.",
+   "exKo": "비행기가 바르셀로나에 잠깐 들러요."
+  },
+  {
+   "es": "pasear al perro",
+   "ko": "개를 산책시키다",
+   "ex": "Camino por el parque paseando al perro.",
+   "exKo": "개를 산책시키며 공원을 걸어요."
+  },
+  {
+   "es": "la fecha límite",
+   "ko": "마감일",
+   "ex": "El viernes es tu fecha límite.",
+   "exKo": "금요일이 네 마감일이에요."
+  },
+  {
+   "es": "confirmar",
+   "ko": "확정하다, 확인하다",
+   "ex": "Tengo que confirmar mi hotel para el viernes.",
+   "exKo": "금요일까지 호텔을 확정해야 해요."
+  },
+  {
+   "es": "la tarea",
+   "ko": "숙제",
+   "ex": "La tarea de español es para mañana.",
+   "exKo": "스페인어 숙제는 내일까지예요."
+  },
+  {
+   "es": "la duración",
+   "ko": "지속 시간, 기간",
+   "ex": "Por es la duración del tiempo.",
+   "exKo": "por는 시간의 길이예요."
+  },
+  {
+   "es": "por tres semanas",
+   "ko": "3주 동안",
+   "ex": "Me quedo por tres semanas.",
+   "exKo": "3주 동안 머물러요."
+  },
+  {
+   "es": "qué alivio",
+   "ko": "다행이다",
+   "ex": "Qué alivio, ya lo entiendo.",
+   "exKo": "다행이다, 이제 알겠어."
+  },
+  {
+   "es": "paso a paso",
+   "ko": "한 걸음씩",
+   "ex": "El secreto es ir paso a paso, sin estrés.",
+   "exKo": "비결은 스트레스 없이 한 걸음씩 가는 거예요."
+  },
+  {
+   "es": "palabra por palabra",
+   "ko": "한 단어씩, 직역으로",
+   "ex": "No traduzcas palabra por palabra.",
+   "exKo": "한 단어씩 번역하지 마."
+  },
+  {
+   "es": "por la mañana",
+   "ko": "아침에",
+   "ex": "Mi vuelo sale por la mañana.",
+   "exKo": "내 비행기는 아침에 출발해요."
+  },
+  {
+   "es": "impecable",
+   "ko": "흠잡을 데 없는",
+   "ex": "La gramática es impecable.",
+   "exKo": "문법이 흠잡을 데 없어요."
+  },
+  {
+   "es": "el destinatario",
+   "ko": "받는 사람, 수신인",
+   "ex": "El destinatario siempre va acompañado de para.",
+   "exKo": "받는 사람에는 늘 para가 붙어요."
+  },
+  {
+   "es": "la meta",
+   "ko": "목표, 골",
+   "ex": "Tu madre es la meta del regalo.",
+   "exKo": "엄마가 선물의 목표 지점이에요."
+  },
+  {
+   "es": "el agradecimiento",
+   "ko": "감사",
+   "ex": "La causa de ese agradecimiento es tu regalo.",
+   "exKo": "그 감사의 원인은 네 선물이에요."
+  },
+  {
+   "es": "la causa / el motivo",
+   "ko": "원인 / 이유",
+   "ex": "Usamos por para expresar la causa.",
+   "exKo": "원인을 말할 때 por를 써요."
+  },
+  {
+   "es": "a causa de",
+   "ko": "~ 때문에",
+   "ex": "Viajo a causa del estrés.",
+   "exKo": "스트레스 때문에 여행 가요."
+  },
+  {
+   "es": "relajarse",
+   "ko": "쉬다, 긴장을 풀다",
+   "ex": "Viajo a España para relajarme.",
+   "exKo": "쉬려고 스페인에 가요."
+  },
+  {
+   "es": "obligar a",
+   "ko": "~하게 만들다, 강요하다",
+   "ex": "el estrés que te obliga a viajar",
+   "exKo": "여행 가게 만드는 스트레스"
+  },
+  {
+   "es": "consolidar",
+   "ko": "다지다, 굳히다",
+   "ex": "para consolidar lo que aprendemos",
+   "exKo": "배운 걸 다지기 위해"
+  },
+  {
+   "es": "el medio de transporte",
+   "ko": "교통수단",
+   "ex": "Viajo por avión.",
+   "exKo": "비행기로 여행해요."
+  },
+  {
+   "es": "por correo",
+   "ko": "우편으로",
+   "ex": "Envío una carta por correo.",
+   "exKo": "우편으로 편지를 보내요."
+  },
+  {
+   "es": "el intercambio",
+   "ko": "교환",
+   "ex": "El dinero es el intercambio.",
+   "exKo": "돈이 교환물이에요."
+  },
+  {
+   "es": "cambiar A por B",
+   "ko": "A를 B와 바꾸다",
+   "ex": "Te cambio mi manzana por tu bocadillo.",
+   "exKo": "내 사과를 네 샌드위치와 바꿔 줄게."
+  },
+  {
+   "es": "el bocadillo",
+   "ko": "(스페인식) 샌드위치",
+   "ex": "Tú me das tu bocadillo.",
+   "exKo": "넌 나한테 샌드위치를 줘."
+  },
+  {
+   "es": "el recuerdo",
+   "ko": "기념품; 추억",
+   "ex": "una camiseta bonita de recuerdo",
+   "exKo": "예쁜 기념 티셔츠"
+  },
+  {
+   "es": "el efectivo",
+   "ko": "현금",
+   "ex": "Pago en efectivo.",
+   "exKo": "현금으로 내요."
+  },
+  {
+   "es": "la tarjeta",
+   "ko": "카드",
+   "ex": "Es el método de pago más común.",
+   "exKo": "가장 흔한 결제 수단이에요."
+  },
+  {
+   "es": "para mí",
+   "ko": "내가 보기엔, 나에게는",
+   "ex": "Para mí, esta ciudad es hermosa.",
+   "exKo": "내가 보기엔 이 도시는 아름다워."
+  },
+  {
+   "es": "el punto de vista",
+   "ko": "관점",
+   "ex": "Usas para para expresar tu punto de vista.",
+   "exKo": "관점을 말할 때 para를 써요."
+  },
+  {
+   "es": "para ser…",
+   "ko": "~치고는",
+   "ex": "Para ser principiante, hablas muy bien.",
+   "exKo": "초보치고는 아주 잘하네."
+  },
+  {
+   "es": "la fluidez",
+   "ko": "유창함",
+   "ex": "Habla con muchísima fluidez.",
+   "exKo": "아주 유창하게 말해요."
+  },
+  {
+   "es": "el contraste",
+   "ko": "대비",
+   "ex": "Usamos para en este tipo de contraste.",
+   "exKo": "이런 대비에 para를 써요."
+  },
+  {
+   "es": "la lengua materna",
+   "ko": "모국어",
+   "ex": "Es su lengua materna.",
+   "exKo": "그건 그 사람의 모국어예요."
+  },
+  {
+   "es": "desde cero",
+   "ko": "처음부터, 맨바닥부터",
+   "ex": "Empieza a estudiar desde cero.",
+   "exKo": "처음부터 공부를 시작해요."
+  },
+  {
+   "es": "la campanita",
+   "ko": "(유튜브) 알림 종",
+   "ex": "Denle a la campanita.",
+   "exKo": "알림 종을 눌러 주세요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'El próximo mes viajo ___ Madrid.' (마드리드가 최종 목적지)",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 1,
+   "explain": "para는 최종 목적지 — 과녁을 향한 화살."
+  },
+  {
+   "q": "마드리드 가는 길에 바르셀로나를 경유해요. 'Paso ___ Barcelona.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 0,
+   "explain": "통과·경유는 por."
+  },
+  {
+   "q": "이미 공원 안에서 개를 산책시키고 있어요. 'Camino ___ el parque.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 0,
+   "explain": "공원을 가로질러 움직이니까 por."
+  },
+  {
+   "q": "'Tengo que confirmar mi hotel ___ el viernes.' (금요일이 마감)",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 1,
+   "explain": "마감일(fecha límite)은 시간의 목적지 → para."
+  },
+  {
+   "q": "'Voy a viajar por España ___ tres semanas.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 0,
+   "explain": "기간(duración)은 por."
+  },
+  {
+   "q": "스페인에서 '아침에'는?",
+   "options": [
+    "para la mañana",
+    "por la mañana"
+   ],
+   "answer": 1,
+   "explain": "하루의 때는 por la mañana / por la tarde / por la noche."
+  },
+  {
+   "q": "'Compré este regalo ___ mi madre.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 1,
+   "explain": "받는 사람(destinatario)은 para."
+  },
+  {
+   "q": "엄마가 선물을 받고 하는 말은?",
+   "options": [
+    "Gracias para el regalo.",
+    "Gracias por el regalo."
+   ],
+   "answer": 1,
+   "explain": "고마움의 원인(causa) → por."
+  },
+  {
+   "q": "'Viajo a España ___ relajarme.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 1,
+   "explain": "쉬는 게 목표(meta) → para + 동사원형."
+  },
+  {
+   "q": "'Compré esta camiseta ___ 20 €.'",
+   "options": [
+    "por",
+    "para"
+   ],
+   "answer": 0,
+   "explain": "돈과 물건의 교환(intercambio) → por."
+  },
+  {
+   "q": "'___ mí, este podcast es el mejor.'",
+   "options": [
+    "Por",
+    "Para"
+   ],
+   "answer": 1,
+   "explain": "개인 의견은 para mí."
+  },
+  {
+   "q": "'Hace mucho frío ___ ser agosto.' 의 뜻은?",
+   "options": [
+    "8월이라서 춥다",
+    "8월치고는 정말 춥다",
+    "8월을 위해 춥다",
+    "8월 동안 춥다"
+   ],
+   "answer": 1,
+   "explain": "para ser… = ~치고는 (기대와의 대비)."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — por와 para는 학생들의 악몽",
+   "lines": [
+    {
+     "t": 0.3,
+     "s": "S",
+     "es": "Hola a todos, bienvenidos a un nuevo episodio de nuestro Spanish Podcast.",
+     "ko": "여러분 안녕하세요, 우리 스페인어 팟캐스트 새 에피소드에 오신 걸 환영해요."
+    },
+    {
+     "t": 6.3,
+     "s": "S",
+     "es": "Hoy vamos a hablar de un tema que es una verdadera pesadilla para nosotros, los estudiantes.",
+     "ko": "오늘은 우리 학생들에게 진짜 악몽 같은 주제를 이야기할 거예요."
+    },
+    {
+     "t": 14.7,
+     "s": "C",
+     "es": "Hola, Sofía.",
+     "ko": "안녕, 소피아."
+    },
+    {
+     "t": 15.9,
+     "s": "C",
+     "es": "Hola a todos y bienvenidos a Español Auténtico. ¿Una pesadilla?",
+     "ko": "여러분 안녕하세요, Español Auténtico에 오신 걸 환영해요. 악몽이라고요?"
+    },
+    {
+     "t": 21.1,
+     "s": "C",
+     "es": "No te preocupes, con clases de español como esta vamos a hacer que sea muy fácil aprender español.",
+     "ko": "걱정 마요. 이런 스페인어 수업으로 스페인어 배우기를 아주 쉽게 만들어 줄게요."
+    },
+    {
+     "t": 28.3,
+     "s": "S",
+     "es": "Eso espero, Carlos.",
+     "ko": "그러길 바라요, 카를로스."
+    },
+    {
+     "t": 29.7,
+     "s": "S",
+     "es": "Porque para todos los que buscan Spanish for beginners o Spanish Listening Practice, la diferencia entre la palabra por y la palabra para es siempre muy difícil.",
+     "ko": "초급 스페인어나 듣기 연습을 찾는 모든 사람에게 por와 para의 차이는 늘 너무 어렵거든요."
+    },
+    {
+     "t": 42.0,
+     "s": "S",
+     "es": "Yo siempre me confundo y nunca sé cuál usar.",
+     "ko": "저는 늘 헷갈리고 어느 걸 써야 할지 몰라요."
+    },
+    {
+     "t": 46.0,
+     "s": "C",
+     "es": "Es muy normal, Sofía.",
+     "ko": "아주 정상이에요, 소피아."
+    },
+    {
+     "t": 47.7,
+     "s": "C",
+     "es": "Muchos estudiantes de español para principiantes se confunden.",
+     "ko": "초급 스페인어 학생들이 많이들 헷갈려요."
+    },
+    {
+     "t": 52.1,
+     "s": "C",
+     "es": "Pero antes de empezar con esta conversación en español y revelar los secretos de por y para, tenemos que pedir un pequeño favor a nuestra comunidad, ¿verdad?",
+     "ko": "그런데 이 스페인어 대화를 시작해서 por와 para의 비밀을 밝히기 전에, 우리 커뮤니티에 작은 부탁을 해야죠?"
+    },
+    {
+     "t": 63.4,
+     "s": "S",
+     "es": "Sí, claro.",
+     "ko": "네, 물론이죠."
+    },
+    {
+     "t": 64.2,
+     "s": "S",
+     "es": "Si quieres Improve Spanish y te gusta nuestro contenido, por favor, suscríbete al canal de Español Auténtico y dale un me gusta a este video ahora mismo.",
+     "ko": "스페인어 실력을 키우고 싶고 우리 콘텐츠가 마음에 든다면, Español Auténtico 채널을 구독하고 지금 바로 이 영상에 좋아요를 눌러 주세요."
+    },
+    {
+     "t": 75.9,
+     "s": "C",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 76.6,
+     "s": "S",
+     "es": "Suscribirse, dejar un comentario abajo y dar like es superimportante para nosotros, nos ayuda muchísimo a crecer.",
+     "ko": "구독하고, 아래에 댓글 달고, 좋아요 누르는 게 우리한테 정말 중요해요. 성장하는 데 큰 도움이 돼요."
+    },
+    {
+     "t": 85.6,
+     "s": "S",
+     "es": "Así YouTube sabe que este material de Spanish Language es útil y podemos seguir creando videos gratis para ustedes todas las semanas, y yo puedo seguir aprendiendo vocabulario español gratis también.",
+     "ko": "그래야 유튜브가 이 스페인어 자료가 유용하다는 걸 알고, 우리는 매주 여러분을 위해 무료 영상을 계속 만들 수 있고, 저도 스페인어 단어를 공짜로 계속 배울 수 있어요."
+    },
+    {
+     "t": 100.0,
+     "s": "S",
+     "es": "Bueno, Carlos, te explico por qué pensé en este tema.",
+     "ko": "자, 카를로스, 왜 이 주제를 생각했는지 설명할게요."
+    },
+    {
+     "t": 103.8,
+     "s": "S",
+     "es": "Hoy estoy organizando un viaje y escribí algunas notas en mi cuaderno, pero creo que tengo muchos errores con por y para.",
+     "ko": "오늘 여행을 계획하면서 공책에 메모를 좀 했는데, por와 para를 많이 틀린 것 같아요."
+    },
+    {
+     "t": 113.9,
+     "s": "C",
+     "es": "A ver, cuéntame sobre ese viaje, ¿a dónde vas?",
+     "ko": "어디 봐요, 그 여행 얘기 좀 해 줘요. 어디 가요?"
+    }
+   ]
+  },
+  {
+   "title": "장소 — 목적지 para, 지나가는 길 por",
+   "lines": [
+    {
+     "t": 117.9,
+     "s": "C",
+     "es": "Vamos a usar tus notas como Spanish Listening Practice para la clase de hoy.",
+     "ko": "네 메모를 오늘 수업의 듣기 연습으로 써 보자."
+    },
+    {
+     "t": 122.9,
+     "s": "C",
+     "es": "Es la mejor forma de hablar español de forma natural.",
+     "ko": "자연스럽게 스페인어를 말하는 최고의 방법이에요."
+    },
+    {
+     "t": 127.1,
+     "s": "S",
+     "es": "Vale.",
+     "ko": "좋아요."
+    },
+    {
+     "t": 127.7,
+     "s": "S",
+     "es": "Empiezo con la primera frase.",
+     "ko": "첫 번째 문장부터 할게요."
+    },
+    {
+     "t": 130.3,
+     "s": "S",
+     "es": "Escribí: «El próximo mes viajo por Madrid».",
+     "ko": "'다음 달에 나는 por Madrid 여행한다'라고 썼어요."
+    },
+    {
+     "t": 133.7,
+     "s": "S",
+     "es": "¿Es correcto?",
+     "ko": "맞아요?"
+    },
+    {
+     "t": 134.8,
+     "s": "S",
+     "es": "Suena bien en mi cabeza.",
+     "ko": "제 머릿속에선 괜찮게 들리는데요."
+    },
+    {
+     "t": 137.1,
+     "s": "C",
+     "es": "Ah, aquí tenemos el primer error clásico en español A1.",
+     "ko": "아, 여기 A1 스페인어의 첫 번째 대표 실수가 있네요."
+    },
+    {
+     "t": 142.2,
+     "s": "C",
+     "es": "La frase correcta es: «El próximo mes viajo para Madrid».",
+     "ko": "맞는 문장은 '다음 달에 마드리드로(para) 여행 가요'예요."
+    },
+    {
+     "t": 148.0,
+     "s": "S",
+     "es": "¿Para Madrid?",
+     "ko": "para Madrid요?"
+    },
+    {
+     "t": 149.3,
+     "s": "S",
+     "es": "Pero, ¿por qué no por?",
+     "ko": "그런데 왜 por는 안 돼요?"
+    },
+    {
+     "t": 151.2,
+     "s": "S",
+     "es": "No entiendo la diferencia.",
+     "ko": "차이를 모르겠어요."
+    },
+    {
+     "t": 153.4,
+     "s": "C",
+     "es": "Porque para indica el destino final, el lugar exacto a donde vas.",
+     "ko": "para는 최종 목적지, 네가 가는 정확한 장소를 나타내니까요."
+    },
+    {
+     "t": 158.8,
+     "s": "C",
+     "es": "Imagina una flecha, como la flecha de un arco que apunta directamente a tu objetivo.",
+     "ko": "화살을 떠올려 봐요. 과녁을 곧장 겨누는 활의 화살처럼요."
+    },
+    {
+     "t": 165.6,
+     "s": "C",
+     "es": "Tu objetivo final es la ciudad de Madrid.",
+     "ko": "네 최종 목표는 마드리드라는 도시예요."
+    },
+    {
+     "t": 169.1,
+     "s": "C",
+     "es": "Entonces, vas para Madrid.",
+     "ko": "그러니까 para Madrid로 가는 거죠."
+    },
+    {
+     "t": 171.5,
+     "s": "S",
+     "es": "Entiendo.",
+     "ko": "알겠어요."
+    },
+    {
+     "t": 172.4,
+     "s": "S",
+     "es": "La flecha apunta al destino final.",
+     "ko": "화살은 최종 목적지를 가리킨다."
+    },
+    {
+     "t": 175.3,
+     "s": "S",
+     "es": "Para... Entonces, si mi destino final es la playa para relajarme, digo: «Voy para la playa».",
+     "ko": "para… 그럼 쉬려고 가는 최종 목적지가 해변이면 '해변으로(para) 가요'라고 하는 거네요."
+    },
+    {
+     "t": 183.3,
+     "s": "C",
+     "es": "Perfecto, «voy para la playa» es totalmente correcto.",
+     "ko": "완벽해요. 'voy para la playa'는 완전히 맞아요."
+    },
+    {
+     "t": 188.4,
+     "s": "C",
+     "es": "Indica dirección y destino.",
+     "ko": "방향과 목적지를 나타내요."
+    },
+    {
+     "t": 191.0,
+     "s": "C",
+     "es": "Ahora, ¿cuándo usamos por con los lugares?",
+     "ko": "이제, 장소에 por는 언제 쓸까요?"
+    },
+    {
+     "t": 194.9,
+     "s": "C",
+     "es": "¿Tienes alguna idea?",
+     "ko": "짐작 가는 거 있어요?"
+    },
+    {
+     "t": 197.0,
+     "s": "S",
+     "es": "Mmm, no sé... Si para es el destino final,",
+     "ko": "음, 잘 모르겠지만… para가 최종 목적지라면,"
+    },
+    {
+     "t": 200.5,
+     "s": "S",
+     "es": "¿por es el camino, el lugar donde camino?",
+     "ko": "por는 길, 내가 걸어가는 곳인가요?"
+    },
+    {
+     "t": 204.5,
+     "s": "C",
+     "es": "Exactamente, Sofía, eres una estudiante excelente.",
+     "ko": "정확해요, 소피아. 훌륭한 학생이네요."
+    },
+    {
+     "t": 209.3,
+     "s": "C",
+     "es": "Usamos por para hablar del tránsito, el movimiento a través de un lugar, el camino que tomas para llegar a tu destino.",
+     "ko": "por는 통과, 즉 어떤 장소를 가로지르는 움직임, 목적지에 가려고 지나는 길을 말할 때 써요."
+    },
+    {
+     "t": 217.8,
+     "s": "S",
+     "es": "A ver si entiendo bien.",
+     "ko": "제가 잘 이해했는지 볼게요."
+    },
+    {
+     "t": 219.7,
+     "s": "S",
+     "es": "Si voy para Madrid, pero mi avión hace una pequeña parada en Barcelona, digo que paso por Barcelona.",
+     "ko": "마드리드로 가는데 비행기가 바르셀로나에 잠깐 들르면, '바르셀로나를 거쳐 간다(paso por Barcelona)'고 해요."
+    },
+    {
+     "t": 228.2,
+     "s": "C",
+     "es": "Eso es.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 228.9,
+     "s": "C",
+     "es": "Vas para Madrid, ese es tu destino final, pero pasas por Barcelona, es el lugar de tránsito.",
+     "ko": "마드리드로 가요, 그게 최종 목적지죠. 하지만 바르셀로나를 거쳐요, 거기는 경유지예요."
+    },
+    {
+     "t": 236.4,
+     "s": "C",
+     "es": "No te quedas a dormir en Barcelona, solo pasas a través de la ciudad o del aeropuerto.",
+     "ko": "바르셀로나에서 자고 가는 게 아니라 도시나 공항을 그냥 지나가는 거예요."
+    },
+    {
+     "t": 243.1,
+     "s": "S",
+     "es": "Wow, esto es muy útil.",
+     "ko": "와, 이거 정말 유용하네요."
+    },
+    {
+     "t": 245.0,
+     "s": "S",
+     "es": "Entonces, otro ejemplo de la vida diaria.",
+     "ko": "그럼 일상의 다른 예요."
+    },
+    {
+     "t": 248.2,
+     "s": "S",
+     "es": "Salgo de mi casa y camino en el parque grande de mi ciudad.",
+     "ko": "집을 나와서 우리 도시의 큰 공원을 걸어요."
+    },
+    {
+     "t": 252.8,
+     "s": "S",
+     "es": "¿Camino para el parque o por el parque?",
+     "ko": "para el parque예요, por el parque예요?"
+    },
+    {
+     "t": 255.6,
+     "s": "C",
+     "es": "Depende de tu intención, Sofía.",
+     "ko": "네 의도에 달렸어요, 소피아."
+    },
+    {
+     "t": 258.1,
+     "s": "C",
+     "es": "Si estás en tu casa y quieres ir al parque como tu destino final, dices: «Voy para el parque».",
+     "ko": "집에 있는데 공원을 최종 목적지로 가고 싶으면 'Voy para el parque(공원으로 가요)'라고 해요."
+    },
+    {
+     "t": 265.2,
+     "s": "S",
+     "es": "Claro, porque el parque es mi objetivo final, mi flecha de destino.",
+     "ko": "그렇죠, 공원이 내 최종 목표, 내 목적지 화살이니까요."
+    },
+    {
+     "t": 270.5,
+     "s": "C",
+     "es": "Correcto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 271.2,
+     "s": "C",
+     "es": "Pero si ya estás dentro del parque y estás caminando tranquilamente entre los árboles, paseando al perro o disfrutando del sol, dices: «Camino por el parque», porque te mueves a través del parque.",
+     "ko": "하지만 이미 공원 안에서 나무 사이를 느긋하게 걷거나, 개를 산책시키거나, 햇볕을 즐기고 있다면 'Camino por el parque(공원을 걸어요)'라고 해요. 공원을 가로질러 움직이니까요."
+    },
+    {
+     "t": 286.3,
+     "s": "C",
+     "es": "El parque es el espacio físico por donde pasas.",
+     "ko": "공원은 네가 지나다니는 물리적인 공간이에요."
+    },
+    {
+     "t": 290.6,
+     "s": "S",
+     "es": "Entiendo perfectamente.",
+     "ko": "완벽하게 이해했어요."
+    },
+    {
+     "t": 292.7,
+     "s": "S",
+     "es": "Entonces, con los lugares de mi viaje, para es el destino final de la flecha y por es el tránsito o el movimiento.",
+     "ko": "그럼 여행 장소에서 para는 화살의 최종 목적지, por는 경유나 움직임이네요."
+    },
+    {
+     "t": 302.9,
+     "s": "S",
+     "es": "Es muy lógico y fácil de recordar.",
+     "ko": "아주 논리적이고 기억하기 쉬워요."
+    },
+    {
+     "t": 306.0,
+     "s": "C",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 306.7,
+     "s": "C",
+     "es": "Aprender español es fácil cuando entiendes la lógica básica de las palabras.",
+     "ko": "단어의 기본 논리를 이해하면 스페인어 배우기는 쉬워요."
+    },
+    {
+     "t": 312.6,
+     "s": "C",
+     "es": "Y para todos los que escuchan este Spanish podcast todos los días, es muy importante practicar esta visualización en casa.",
+     "ko": "그리고 이 팟캐스트를 매일 듣는 모든 분, 집에서 이 이미지를 떠올리는 연습을 하는 게 아주 중요해요."
+    }
+   ]
+  },
+  {
+   "title": "시간 — 마감 para, 기간 por, por la mañana",
+   "lines": [
+    {
+     "t": 321.0,
+     "s": "S",
+     "es": "Hablando de practicar, tengo otra nota en mi cuaderno de viaje.",
+     "ko": "연습 얘기가 나와서 말인데, 여행 공책에 다른 메모가 있어요."
+    },
+    {
+     "t": 325.7,
+     "s": "S",
+     "es": "Esta vez es sobre el tiempo y los horarios.",
+     "ko": "이번엔 시간과 일정에 관한 거예요."
+    },
+    {
+     "t": 329.5,
+     "s": "S",
+     "es": "Escribí: «Tengo que confirmar mi hotel por el viernes».",
+     "ko": "'금요일 por 호텔을 확정해야 한다'라고 썼어요."
+    },
+    {
+     "t": 334.1,
+     "s": "S",
+     "es": "¿Está bien escrito?",
+     "ko": "제대로 썼어요?"
+    },
+    {
+     "t": 335.8,
+     "s": "S",
+     "es": "Suena un poco raro.",
+     "ko": "좀 이상하게 들려요."
+    },
+    {
+     "t": 337.5,
+     "s": "C",
+     "es": "Es un buen intento, Sofía, pero aquí tenemos otro pequeño error muy común en nuestras clases de español.",
+     "ko": "좋은 시도예요, 소피아. 그런데 여기 우리 스페인어 수업에서 아주 흔한 작은 실수가 또 있네요."
+    },
+    {
+     "t": 344.6,
+     "s": "C",
+     "es": "Con el tiempo y los días usamos para cuando hablamos de una fecha límite, un deadline.",
+     "ko": "시간과 날짜에서는 마감일, 데드라인을 말할 때 para를 써요."
+    },
+    {
+     "t": 351.7,
+     "s": "S",
+     "es": "Una fecha límite.",
+     "ko": "마감일이요."
+    },
+    {
+     "t": 353.2,
+     "s": "S",
+     "es": "¿Puedes explicar un poco más qué significa exactamente en este contexto?",
+     "ko": "이 맥락에서 정확히 무슨 뜻인지 조금 더 설명해 줄 수 있어요?"
+    },
+    {
+     "t": 359.7,
+     "s": "C",
+     "es": "Claro que sí.",
+     "ko": "물론이죠."
+    },
+    {
+     "t": 360.9,
+     "s": "C",
+     "es": "Si el viernes es el último día posible para confirmar tu hotel, el viernes es tu fecha límite, es tu objetivo final en el calendario.",
+     "ko": "금요일이 호텔을 확정할 수 있는 마지막 날이라면, 금요일이 네 마감일, 달력 위의 최종 목표예요."
+    },
+    {
+     "t": 370.3,
+     "s": "C",
+     "es": "Entonces debes decir: «Tengo que confirmar mi hotel para el viernes».",
+     "ko": "그러니까 '금요일까지(para) 호텔을 확정해야 해요'라고 해야 해요."
+    },
+    {
+     "t": 376.3,
+     "s": "S",
+     "es": "Claro, como la flecha del destino que me explicaste antes.",
+     "ko": "그렇죠, 아까 설명해 준 목적지 화살처럼요."
+    },
+    {
+     "t": 380.9,
+     "s": "S",
+     "es": "El viernes es mi destino en el tiempo.",
+     "ko": "금요일은 시간 속의 내 목적지예요."
+    },
+    {
+     "t": 383.9,
+     "s": "S",
+     "es": "La flecha apunta al viernes.",
+     "ko": "화살이 금요일을 가리켜요."
+    },
+    {
+     "t": 386.4,
+     "s": "S",
+     "es": "Para el viernes.",
+     "ko": "금요일까지(para el viernes)."
+    },
+    {
+     "t": 387.8,
+     "s": "C",
+     "es": "Eso es.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 388.6,
+     "s": "C",
+     "es": "Qué buena comparación.",
+     "ko": "정말 좋은 비유예요."
+    },
+    {
+     "t": 390.5,
+     "s": "C",
+     "es": "Para funciona igual con el espacio físico y con el tiempo.",
+     "ko": "para는 물리적인 공간에서도 시간에서도 똑같이 작동해요."
+    },
+    {
+     "t": 394.9,
+     "s": "C",
+     "es": "Siempre es el destino final o el límite.",
+     "ko": "늘 최종 목적지나 한계예요."
+    },
+    {
+     "t": 397.7,
+     "s": "C",
+     "es": "Otro ejemplo para el trabajo o la escuela:",
+     "ko": "일이나 학교에서의 다른 예요."
+    },
+    {
+     "t": 401.1,
+     "s": "C",
+     "es": "La tarea de español es para mañana.",
+     "ko": "스페인어 숙제는 내일까지예요."
+    },
+    {
+     "t": 404.4,
+     "s": "S",
+     "es": "Vale, eso está muy claro.",
+     "ko": "좋아요, 그건 아주 분명하네요."
+    },
+    {
+     "t": 406.7,
+     "s": "S",
+     "es": "Y entonces, ¿cuándo uso la otra palabra?",
+     "ko": "그럼 다른 단어는 언제 써요?"
+    },
+    {
+     "t": 410.2,
+     "s": "S",
+     "es": "Si para es el límite temporal, entonces ¿por es la duración del tiempo?",
+     "ko": "para가 시간의 한계라면, por는 시간의 길이인가요?"
+    },
+    {
+     "t": 416.4,
+     "s": "C",
+     "es": "Sofía, tú no necesitas un profesor, tienes toda la razón.",
+     "ko": "소피아, 넌 선생님이 필요 없겠다. 완전히 맞아요."
+    },
+    {
+     "t": 421.5,
+     "s": "C",
+     "es": "En español para principiantes siempre explicamos que usamos por para hablar de la duración de una acción, el tiempo total que pasas haciendo algo.",
+     "ko": "초급 스페인어에서는 늘 por를 행동의 지속 시간, 즉 무언가를 하며 보내는 전체 시간을 말할 때 쓴다고 설명해요."
+    },
+    {
+     "t": 431.7,
+     "s": "S",
+     "es": "A ver si lo digo bien.",
+     "ko": "제가 맞게 말하는지 볼게요."
+    },
+    {
+     "t": 433.5,
+     "s": "S",
+     "es": "Entonces, en mi viaje de vacaciones voy a estar en España tres semanas.",
+     "ko": "그러니까 휴가 여행에서 스페인에 3주 동안 있을 거예요."
+    },
+    {
+     "t": 439.1,
+     "s": "S",
+     "es": "Entonces, la frase correcta es: «Voy a viajar por España por tres semanas».",
+     "ko": "그럼 맞는 문장은 '3주 동안(por) 스페인 곳곳을(por) 여행할 거예요'네요."
+    },
+    {
+     "t": 446.5,
+     "s": "C",
+     "es": "Perfecto.",
+     "ko": "완벽해요."
+    },
+    {
+     "t": 447.3,
+     "s": "C",
+     "es": "Usas «viajar por España» porque es el lugar de tránsito y «por tres semanas» porque es la duración de tu viaje.",
+     "ko": "'viajar por España'는 돌아다니는 장소라서, 'por tres semanas'는 여행 기간이라서 써요."
+    },
+    {
+     "t": 455.6,
+     "s": "C",
+     "es": "Eres una experta en la Spanish conversation.",
+     "ko": "스페인어 회화 전문가네요."
+    },
+    {
+     "t": 459.1,
+     "s": "S",
+     "es": "Qué alivio.",
+     "ko": "다행이다."
+    },
+    {
+     "t": 459.9,
+     "s": "S",
+     "es": "Siempre pensaba que la gramática de por y para era imposible de aprender, pero escuchando ejemplos de la vida real, todo tiene mucho más sentido para mí.",
+     "ko": "por와 para 문법은 배우는 게 불가능하다고 늘 생각했는데, 실생활 예를 들으니까 훨씬 이해가 돼요."
+    },
+    {
+     "t": 470.7,
+     "s": "C",
+     "es": "Me alegra mucho escuchar eso.",
+     "ko": "그 말 들으니 정말 기뻐요."
+    },
+    {
+     "t": 472.9,
+     "s": "C",
+     "es": "El secreto para Improve Spanish es ir paso a paso, sin estrés, no traducir palabra por palabra en la cabeza, como vimos en otros episodios, sino entender el sentido general.",
+     "ko": "스페인어 실력을 키우는 비결은 스트레스 없이 한 걸음씩 가는 거예요. 다른 에피소드에서 봤듯이 머릿속에서 한 단어씩 번역하지 말고 전체 뜻을 이해하는 거죠."
+    },
+    {
+     "t": 485.4,
+     "s": "S",
+     "es": "Carlos, ahora tengo otra pequeña duda sobre el tiempo.",
+     "ko": "카를로스, 시간에 대해 작은 궁금증이 또 있어요."
+    },
+    {
+     "t": 489.5,
+     "s": "S",
+     "es": "¿Qué pasa cuando digo «en la mañana» o «en la tarde»?",
+     "ko": "'en la mañana(아침에)'나 'en la tarde(오후에)'라고 하면 어때요?"
+    },
+    {
+     "t": 493.6,
+     "s": "S",
+     "es": "A veces escucho a los nativos de España usar por en estas situaciones.",
+     "ko": "가끔 스페인 원어민들이 이런 상황에서 por를 쓰는 걸 들어요."
+    },
+    {
+     "t": 499.4,
+     "s": "C",
+     "es": "Ah, esa es una excelente pregunta de vocabulario español.",
+     "ko": "아, 아주 좋은 스페인어 어휘 질문이에요."
+    },
+    {
+     "t": 504.2,
+     "s": "C",
+     "es": "En España es muy común usar por para las partes generales del día.",
+     "ko": "스페인에서는 하루의 대략적인 때에 por를 쓰는 게 아주 흔해요."
+    },
+    {
+     "t": 509.1,
+     "s": "C",
+     "es": "Nosotros decimos por la mañana, por la tarde o por la noche.",
+     "ko": "우리는 por la mañana(아침에), por la tarde(오후에), por la noche(밤에)라고 해요."
+    },
+    {
+     "t": 513.9,
+     "s": "S",
+     "es": "Entonces, si mi vuelo a Madrid sale muy temprano, digo: «Mi vuelo sale por la mañana».",
+     "ko": "그럼 마드리드행 비행기가 아주 일찍 출발하면 '내 비행기는 아침에 출발해요'라고 하겠네요."
+    },
+    {
+     "t": 521.1,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 522.2,
+     "s": "C",
+     "es": "Mi vuelo sale por la mañana.",
+     "ko": "내 비행기는 아침에 출발해요."
+    },
+    {
+     "t": 524.6,
+     "s": "C",
+     "es": "Nunca decimos «para la mañana», siempre es por para las partes generales del día.",
+     "ko": "'para la mañana'라고는 절대 안 해요. 하루의 때에는 늘 por예요."
+    },
+    {
+     "t": 530.8,
+     "s": "S",
+     "es": "Genial.",
+     "ko": "좋아요."
+    },
+    {
+     "t": 531.4,
+     "s": "S",
+     "es": "Entonces, voy a hacer un resumen para mi viaje de vacaciones:",
+     "ko": "그럼 제 휴가 여행을 정리해 볼게요."
+    },
+    {
+     "t": 536.2,
+     "s": "S",
+     "es": "Viajo para Madrid, paso por Barcelona, mi vuelo es por la mañana y me quedo por tres semanas.",
+     "ko": "마드리드로 가고, 바르셀로나를 거치고, 비행기는 아침이고, 3주 동안 머물러요."
+    },
+    {
+     "t": 544.4,
+     "s": "S",
+     "es": "Cuatro reglas en una sola frase.",
+     "ko": "한 문장에 규칙 네 개요."
+    },
+    {
+     "t": 547.2,
+     "s": "C",
+     "es": "Es una frase perfecta, Sofía.",
+     "ko": "완벽한 문장이에요, 소피아."
+    },
+    {
+     "t": 549.7,
+     "s": "C",
+     "es": "Tiene todo el vocabulario necesario y la gramática impecable.",
+     "ko": "필요한 어휘가 다 있고 문법도 흠잡을 데 없어요."
+    },
+    {
+     "t": 553.7,
+     "s": "C",
+     "es": "Los que escuchan esta Spanish listening practice mientras conducen o caminan deben tomar nota de tu frase en su cabeza.",
+     "ko": "운전하거나 걸으면서 이 듣기 연습을 듣는 분들은 네 문장을 머릿속에 메모해 두세요."
+    }
+   ]
+  },
+  {
+   "title": "사람 — 받는 사람 para, 원인 por",
+   "lines": [
+    {
+     "t": 561.9,
+     "s": "S",
+     "es": "Me siento muy segura ahora, pero estoy segura de que hay más reglas, ¿verdad?",
+     "ko": "이제 자신감이 생겼어요. 그런데 분명 규칙이 더 있죠?"
+    },
+    {
+     "t": 567.8,
+     "s": "S",
+     "es": "Porque por y para se usan para muchas cosas más en el día a día.",
+     "ko": "por와 para는 일상에서 훨씬 많은 데 쓰이니까요."
+    },
+    {
+     "t": 572.6,
+     "s": "C",
+     "es": "Sí, tienes razón.",
+     "ko": "네, 맞아요."
+    },
+    {
+     "t": 574.0,
+     "s": "C",
+     "es": "Hay algunos usos más, pero son muy fáciles si usamos tu lógica de la flecha del destino.",
+     "ko": "용법이 몇 개 더 있지만, 네 '목적지 화살' 논리를 쓰면 아주 쉬워요."
+    },
+    {
+     "t": 580.4,
+     "s": "C",
+     "es": "Vamos a hacer un pequeño juego mental, un test rápido para ti y para los oyentes.",
+     "ko": "작은 머리 게임을 해 볼까요? 너와 청취자를 위한 짧은 테스트예요."
+    },
+    {
+     "t": 585.9,
+     "s": "S",
+     "es": "Me encantan los juegos.",
+     "ko": "게임 정말 좋아해요."
+    },
+    {
+     "t": 587.8,
+     "s": "S",
+     "es": "Estoy lista para el test.",
+     "ko": "테스트 준비됐어요."
+    },
+    {
+     "t": 590.0,
+     "s": "S",
+     "es": "¿Qué tengo que hacer?",
+     "ko": "뭘 하면 돼요?"
+    },
+    {
+     "t": 591.8,
+     "s": "C",
+     "es": "Voy a decir una frase y tú tienes que elegir por o para.",
+     "ko": "내가 문장을 말하면 por나 para 중에 골라요."
+    },
+    {
+     "t": 596.8,
+     "s": "C",
+     "es": "La primera frase es: «Compré este regalo... mi madre».",
+     "ko": "첫 문장은 '이 선물을 샀다… 엄마'예요."
+    },
+    {
+     "t": 600.5,
+     "s": "C",
+     "es": "Piénsalo bien.",
+     "ko": "잘 생각해 봐요."
+    },
+    {
+     "t": 602.7,
+     "s": "S",
+     "es": "Oh, espera, esto es nuevo.",
+     "ko": "어, 잠깐만요, 이건 새롭네요."
+    },
+    {
+     "t": 605.1,
+     "s": "S",
+     "es": "Aquí no hablamos de lugares ni de tiempo.",
+     "ko": "여기선 장소도 시간도 아니에요."
+    },
+    {
+     "t": 609.0,
+     "s": "S",
+     "es": "Hablamos de personas, de mi madre.",
+     "ko": "사람, 우리 엄마 얘기예요."
+    },
+    {
+     "t": 611.9,
+     "s": "C",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 612.6,
+     "s": "C",
+     "es": "Es el tercer uso más importante en español.",
+     "ko": "스페인어에서 세 번째로 중요한 용법이에요."
+    },
+    {
+     "t": 616.3,
+     "s": "C",
+     "es": "Pero piensa en tu regla del destino final.",
+     "ko": "그래도 네 최종 목적지 규칙을 생각해 봐요."
+    },
+    {
+     "t": 619.4,
+     "s": "C",
+     "es": "¿Quién es el destino del regalo?",
+     "ko": "선물의 목적지는 누구죠?"
+    },
+    {
+     "t": 621.7,
+     "s": "C",
+     "es": "¿Hacia dónde va la flecha del regalo?",
+     "ko": "선물의 화살은 어디로 가요?"
+    },
+    {
+     "t": 624.2,
+     "s": "S",
+     "es": "La flecha va hacia mi madre.",
+     "ko": "화살은 엄마에게 가요."
+    },
+    {
+     "t": 626.6,
+     "s": "S",
+     "es": "Entonces, si mi madre es el destino final del regalo, la frase correcta tiene que ser: «Compré este regalo para mi madre».",
+     "ko": "그럼 엄마가 선물의 최종 목적지니까 맞는 문장은 '엄마를 위해(para) 이 선물을 샀어요'여야 해요."
+    },
+    {
+     "t": 636.7,
+     "s": "C",
+     "es": "Excelente, Sofía.",
+     "ko": "훌륭해요, 소피아."
+    },
+    {
+     "t": 638.1,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 639.2,
+     "s": "C",
+     "es": "En las clases de español siempre decimos que usamos para cuando hablamos del destinatario, es decir, la persona que recibe físicamente la acción o la cosa.",
+     "ko": "스페인어 수업에서는 늘 받는 사람, 즉 행동이나 물건을 실제로 받는 사람을 말할 때 para를 쓴다고 해요."
+    },
+    {
+     "t": 650.3,
+     "s": "C",
+     "es": "Tu madre es la meta del regalo.",
+     "ko": "엄마가 선물의 목표 지점이에요."
+    },
+    {
+     "t": 653.0,
+     "s": "S",
+     "es": "Vale, esto tiene mucha lógica, pero ¿qué pasa después?",
+     "ko": "좋아요, 아주 논리적이네요. 그런데 그다음엔요?"
+    },
+    {
+     "t": 657.1,
+     "s": "S",
+     "es": "Si mi madre recibe el regalo y está muy feliz, ella me dice gracias.",
+     "ko": "엄마가 선물을 받고 아주 기뻐하면 나한테 고맙다고 하잖아요."
+    },
+    {
+     "t": 662.2,
+     "s": "S",
+     "es": "¿Me dice «gracias por el regalo» o «gracias para el regalo»?",
+     "ko": "'gracias por el regalo'라고 해요, 'gracias para el regalo'라고 해요?"
+    },
+    {
+     "t": 666.1,
+     "s": "C",
+     "es": "Esa es una pregunta brillante para nuestro Spanish Listening Practice de hoy.",
+     "ko": "오늘 듣기 연습에 딱 맞는 훌륭한 질문이에요."
+    },
+    {
+     "t": 671.9,
+     "s": "C",
+     "es": "Ella te dice: «Gracias por el regalo».",
+     "ko": "엄마는 'Gracias por el regalo(선물 고마워)'라고 해요."
+    },
+    {
+     "t": 675.0,
+     "s": "C",
+     "es": "Usamos por para expresar la causa, el motivo de algo.",
+     "ko": "por는 원인, 어떤 일의 이유를 나타낼 때 써요."
+    },
+    {
+     "t": 678.7,
+     "s": "C",
+     "es": "Ella te da las gracias, y la causa de ese agradecimiento es tu regalo.",
+     "ko": "엄마가 고맙다고 하는데, 그 고마움의 원인이 네 선물이에요."
+    },
+    {
+     "t": 683.6,
+     "s": "S",
+     "es": "Ah, entiendo.",
+     "ko": "아, 알겠어요."
+    },
+    {
+     "t": 684.9,
+     "s": "S",
+     "es": "Qué interesante.",
+     "ko": "정말 흥미롭네요."
+    },
+    {
+     "t": 686.4,
+     "s": "S",
+     "es": "Entonces, por es la causa en el pasado, el motivo que genera la acción, y para es el objetivo, el destino en el futuro.",
+     "ko": "그럼 por는 과거에 있는 원인, 행동을 일으킨 이유이고, para는 목표, 미래의 목적지네요."
+    },
+    {
+     "t": 696.5,
+     "s": "S",
+     "es": "¿Es así?",
+     "ko": "그런 거죠?"
+    },
+    {
+     "t": 697.3,
+     "s": "C",
+     "es": "Esa es la mejor forma de explicarlo.",
+     "ko": "그게 가장 좋은 설명이에요."
+    },
+    {
+     "t": 699.9,
+     "s": "C",
+     "es": "Muchos estudiantes de español para principiantes logran hablar español de forma más natural cuando comprenden esa diferencia visual: por mira hacia atrás, a la causa; para mira hacia delante, a la meta.",
+     "ko": "많은 초급 학생이 이 시각적 차이를 이해하면 더 자연스럽게 말하게 돼요. por는 뒤의 원인을 보고, para는 앞의 목표를 봐요."
+    },
+    {
+     "t": 713.7,
+     "s": "S",
+     "es": "A ver si puedo usar esto en el contexto de mi viaje.",
+     "ko": "이걸 제 여행 맥락에 써 볼게요."
+    },
+    {
+     "t": 717.4,
+     "s": "S",
+     "es": "Si viajo a España porque necesito relajarme, relajarme es mi objetivo.",
+     "ko": "쉬어야 해서 스페인에 간다면, 쉬는 게 내 목표예요."
+    },
+    {
+     "t": 722.7,
+     "s": "S",
+     "es": "¿Digo que viajo a España por relajarme o para relajarme?",
+     "ko": "'viajo a España por relajarme'라고 해요, 'para relajarme'라고 해요?"
+    },
+    {
+     "t": 727.1,
+     "s": "C",
+     "es": "Piensa en la flecha, Sofía.",
+     "ko": "화살을 생각해 봐요, 소피아."
+    },
+    {
+     "t": 729.0,
+     "s": "C",
+     "es": "Relajarte es tu meta final, es la razón hacia la que caminas.",
+     "ko": "쉬는 게 네 최종 목표, 네가 향해 가는 이유예요."
+    },
+    {
+     "t": 733.4,
+     "s": "C",
+     "es": "Por lo tanto, debes decir: «Viajo a España para relajarme».",
+     "ko": "그러니까 '쉬려고(para) 스페인에 가요'라고 해야 해요."
+    },
+    {
+     "t": 739.3,
+     "s": "S",
+     "es": "Ah, es verdad.",
+     "ko": "아, 그렇네요."
+    },
+    {
+     "t": 740.7,
+     "s": "S",
+     "es": "La meta es relajarme.",
+     "ko": "목표는 쉬는 거니까요."
+    },
+    {
+     "t": 742.7,
+     "s": "S",
+     "es": "La flecha del arco apunta al descanso.",
+     "ko": "활의 화살이 휴식을 가리켜요."
+    },
+    {
+     "t": 745.6,
+     "s": "S",
+     "es": "Pero si digo la causa de mi cansancio, por ejemplo, viajo a causa del estrés en mi trabajo, ¿hay que usar por?",
+     "ko": "그런데 피곤한 원인, 예를 들어 회사 스트레스 때문에 여행 간다고 말하면 por를 써야 해요?"
+    },
+    {
+     "t": 754.5,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 755.5,
+     "s": "C",
+     "es": "Dices: «Viajo por el estrés del trabajo», porque el estrés es el motivo previo, la causa que te obliga a viajar.",
+     "ko": "'일 스트레스 때문에(por) 여행 가요'라고 해요. 스트레스가 먼저 있던 이유, 여행 가게 만든 원인이니까요."
+    },
+    {
+     "t": 764.2,
+     "s": "C",
+     "es": "Como puedes ver, aprender español es cuestión de encontrar estos pequeños patrones en la Spanish conversation.",
+     "ko": "보다시피 스페인어 배우기는 회화 속에서 이런 작은 패턴을 찾는 문제예요."
+    },
+    {
+     "t": 770.8,
+     "s": "S",
+     "es": "Me encanta.",
+     "ko": "너무 좋아요."
+    },
+    {
+     "t": 771.6,
+     "s": "S",
+     "es": "Siento que mi nivel para entender la Spanish language está mejorando muchísimo hoy.",
+     "ko": "오늘 스페인어 이해 수준이 엄청 좋아지는 것 같아요."
+    },
+    {
+     "t": 777.2,
+     "s": "S",
+     "es": "Ya no voy a cometer estos errores cuando hable con nativos en Madrid.",
+     "ko": "이제 마드리드에서 원어민과 이야기할 때 이런 실수는 안 할 거예요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 분석 ① — destino final · fecha límite · destinatario · tránsito · motivo",
+   "lines": [
+    {
+     "t": 781.1,
+     "s": "C",
+     "es": "Estoy seguro de que lo vas a hacer genial.",
+     "ko": "분명 아주 잘할 거예요."
+    },
+    {
+     "t": 783.5,
+     "s": "C",
+     "es": "Y para consolidar todo esto que estamos aprendiendo, creo que es el momento ideal para hacer nuestro segmento especial:",
+     "ko": "그리고 지금 배우는 걸 다지기 위해, 우리 특별 코너를 할 딱 좋은 때인 것 같아요."
+    },
+    {
+     "t": 790.9,
+     "s": "S",
+     "es": "El análisis de vocabulario.",
+     "ko": "어휘 분석이요."
+    },
+    {
+     "t": 792.7,
+     "s": "S",
+     "es": "Es muy útil para las personas que escuchan este Spanish podcast.",
+     "ko": "이 팟캐스트를 듣는 분들에게 아주 유용해요."
+    },
+    {
+     "t": 796.9,
+     "s": "S",
+     "es": "Destino final es el lugar a donde queremos llegar o el objetivo de nuestra acción.",
+     "ko": "destino final(최종 목적지)은 우리가 도착하고 싶은 곳, 또는 행동의 목표예요."
+    },
+    {
+     "t": 802.2,
+     "s": "S",
+     "es": "En gramática española, visualizar este concepto nos ayuda a recordar que debemos usar la palabra para.",
+     "ko": "스페인어 문법에서 이 개념을 떠올리면 para를 써야 한다는 걸 기억하는 데 도움이 돼요."
+    },
+    {
+     "t": 809.5,
+     "s": "S",
+     "es": "Fecha límite significa el último día u hora en el que puedes hacer algo.",
+     "ko": "fecha límite(마감일)는 무언가를 할 수 있는 마지막 날이나 시각이에요."
+    },
+    {
+     "t": 814.9,
+     "s": "S",
+     "es": "Por ejemplo, en el trabajo usamos mucho esta expresión para los proyectos.",
+     "ko": "예를 들어 직장에서 프로젝트에 이 표현을 많이 써요."
+    },
+    {
+     "t": 820.0,
+     "s": "S",
+     "es": "Con los tiempos límite usamos para.",
+     "ko": "기한에는 para를 써요."
+    },
+    {
+     "t": 822.7,
+     "s": "S",
+     "es": "Destinatario es la persona exacta que recibe una carta, un paquete o un regalo físico.",
+     "ko": "destinatario(받는 사람)는 편지, 소포, 실물 선물을 받는 바로 그 사람이에요."
+    },
+    {
+     "t": 829.3,
+     "s": "S",
+     "es": "Si escribo un mensaje, el que lo lee es el destinatario, y el destinatario siempre va acompañado de para.",
+     "ko": "내가 메시지를 쓰면 그걸 읽는 사람이 받는 사람이고, 받는 사람에는 늘 para가 붙어요."
+    },
+    {
+     "t": 836.6,
+     "s": "S",
+     "es": "Tránsito es la acción de moverse a través de un lugar sin la intención de quedarse a vivir allí.",
+     "ko": "tránsito(통과·경유)는 머물러 살 생각 없이 어떤 장소를 지나가는 행동이에요."
+    },
+    {
+     "t": 843.3,
+     "s": "S",
+     "es": "Cuando caminas en un parque o esperas en un aeropuerto, estás en tránsito.",
+     "ko": "공원을 걷거나 공항에서 기다릴 때 '경유 중'이에요."
+    },
+    {
+     "t": 848.1,
+     "s": "S",
+     "es": "Aquí siempre usamos por.",
+     "ko": "여기엔 늘 por를 써요."
+    },
+    {
+     "t": 850.1,
+     "s": "S",
+     "es": "Motivo:",
+     "ko": "motivo(동기·이유):"
+    },
+    {
+     "t": 850.7,
+     "s": "S",
+     "es": "es la razón profunda o la causa por la que hacemos alguna cosa.",
+     "ko": "어떤 일을 하는 깊은 이유나 원인이에요."
+    },
+    {
+     "t": 855.5,
+     "s": "S",
+     "es": "Es la explicación de por qué ocurre una acción.",
+     "ko": "어떤 행동이 왜 일어나는지에 대한 설명이에요."
+    },
+    {
+     "t": 859.0,
+     "s": "S",
+     "es": "Cuando queremos expresar la causa previa de algo, usamos siempre por.",
+     "ko": "무언가의 앞선 원인을 말하고 싶을 때는 늘 por를 써요."
+    }
+   ]
+  },
+  {
+   "title": "수단 por, 교환 por",
+   "lines": [
+    {
+     "t": 864.0,
+     "s": "C",
+     "es": "Qué gran análisis, Sofía.",
+     "ko": "대단한 분석이에요, 소피아."
+    },
+    {
+     "t": 865.9,
+     "s": "C",
+     "es": "Esto ayuda mucho a mejorar el vocabulario español de nuestra comunidad.",
+     "ko": "우리 커뮤니티의 스페인어 어휘를 늘리는 데 큰 도움이 돼요."
+    },
+    {
+     "t": 870.9,
+     "s": "C",
+     "es": "Y aunque ya dominas el destino, el tiempo y las causas, en tu viaje vas a usar medios de transporte y vas a comprar cosas.",
+     "ko": "이제 목적지, 시간, 원인은 마스터했지만, 여행에서는 교통수단도 타고 물건도 살 거잖아요."
+    },
+    {
+     "t": 879.1,
+     "s": "C",
+     "es": "Y ahí tenemos otra regla superinteresante.",
+     "ko": "거기에 또 아주 흥미로운 규칙이 있어요."
+    },
+    {
+     "t": 881.8,
+     "s": "S",
+     "es": "¿Otra regla más?",
+     "ko": "규칙이 또 있어요?"
+    },
+    {
+     "t": 883.1,
+     "s": "S",
+     "es": "Qué interesante.",
+     "ko": "흥미롭네요."
+    },
+    {
+     "t": 884.6,
+     "s": "S",
+     "es": "El transporte y las compras son fundamentales en cualquier viaje.",
+     "ko": "교통과 쇼핑은 어떤 여행에서든 기본이죠."
+    },
+    {
+     "t": 889.7,
+     "s": "S",
+     "es": "Pero, Carlos, antes de que me expliques esta nueva regla de español para extranjeros, quiero hacer una pequeña pausa.",
+     "ko": "그런데 카를로스, 외국인을 위한 이 새 규칙을 설명하기 전에 잠깐 쉬어 가고 싶어요."
+    },
+    {
+     "t": 897.5,
+     "s": "C",
+     "es": "Claro que sí, Sofía.",
+     "ko": "물론이죠, 소피아."
+    },
+    {
+     "t": 899.0,
+     "s": "C",
+     "es": "¿Qué pasa?",
+     "ko": "무슨 일이에요?"
+    },
+    {
+     "t": 899.8,
+     "s": "C",
+     "es": "¿Tienes alguna duda con el vocabulario español que vimos antes?",
+     "ko": "앞에서 본 어휘 중에 궁금한 게 있어요?"
+    },
+    {
+     "t": 904.5,
+     "s": "S",
+     "es": "No, no es una duda.",
+     "ko": "아니요, 궁금한 건 아니에요."
+    },
+    {
+     "t": 906.0,
+     "s": "S",
+     "es": "Es que estoy aprendiendo tanto hoy que quiero recordarles a todas las personas que nos escuchan que, si quieren learn Spanish con nosotros y apoyar el canal, tienen que suscribirse, denle al botón de me gusta y dejen un comentario con sus dudas sobre por y para.",
+     "ko": "오늘 너무 많이 배워서, 듣는 모든 분께 다시 알려 드리고 싶어요. 우리와 스페인어를 배우고 채널을 응원하고 싶으면 구독하고, 좋아요 버튼 누르고, por와 para에 대한 궁금한 점을 댓글로 남겨 주세요."
+    },
+    {
+     "t": 923.8,
+     "s": "C",
+     "es": "Tienes toda la razón.",
+     "ko": "완전히 맞아요."
+    },
+    {
+     "t": 925.5,
+     "s": "C",
+     "es": "Gracias por recordarlo.",
+     "ko": "알려 줘서 고마워요."
+    },
+    {
+     "t": 927.4,
+     "s": "C",
+     "es": "Aprender español es un viaje largo y el apoyo de nuestra comunidad con un me gusta o una suscripción nos ayuda muchísimo a seguir creando estas clases de español gratis.",
+     "ko": "스페인어 배우기는 긴 여행이고, 좋아요나 구독 같은 커뮤니티의 응원이 이런 무료 스페인어 수업을 계속 만드는 데 큰 힘이 돼요."
+    },
+    {
+     "t": 938.5,
+     "s": "C",
+     "es": "Ahora, volviendo a tu viaje a Madrid, ¿cómo vas a viajar desde tu ciudad hasta España?",
+     "ko": "자, 마드리드 여행으로 돌아가서, 네 도시에서 스페인까지 어떻게 갈 거예요?"
+    },
+    {
+     "t": 944.6,
+     "s": "S",
+     "es": "Bueno, cruzar el océano es muy largo.",
+     "ko": "음, 바다를 건너는 건 아주 멀어요."
+    },
+    {
+     "t": 947.7,
+     "s": "S",
+     "es": "Voy a viajar en un avión grande.",
+     "ko": "큰 비행기를 타고 갈 거예요."
+    },
+    {
+     "t": 950.1,
+     "s": "C",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 950.7,
+     "s": "C",
+     "es": "Y en español, cuando hablamos del medio de comunicación o el medio de transporte físico que usamos para movernos o enviar algo, usamos la palabra por.",
+     "ko": "그리고 스페인어에서 이동하거나 무언가를 보낼 때 쓰는 통신 수단이나 교통수단을 말할 때 por를 써요."
+    },
+    {
+     "t": 962.2,
+     "s": "S",
+     "es": "Ah, entonces puedo decir: «Voy a viajar a Madrid por avión».",
+     "ko": "아, 그럼 '비행기로(por) 마드리드에 갈 거예요'라고 할 수 있네요."
+    },
+    {
+     "t": 966.9,
+     "s": "C",
+     "es": "Perfectamente.",
+     "ko": "완벽해요."
+    },
+    {
+     "t": 968.1,
+     "s": "C",
+     "es": "Dices: viajo por avión, mando un mensaje por teléfono o envío una carta por correo.",
+     "ko": "비행기로 여행한다, 전화로 메시지를 보낸다, 우편으로 편지를 보낸다라고 해요."
+    },
+    {
+     "t": 974.5,
+     "s": "C",
+     "es": "Usamos por para indicar el medio que usamos para hacer algo.",
+     "ko": "무언가를 할 때 쓰는 수단을 나타낼 때 por를 써요."
+    },
+    {
+     "t": 979.2,
+     "s": "S",
+     "es": "Qué buena Spanish listening practice.",
+     "ko": "정말 좋은 듣기 연습이에요."
+    },
+    {
+     "t": 981.8,
+     "s": "S",
+     "es": "Entonces, cuando esté en Madrid y quiera ir al museo, puedo decir: «Voy por metro» o «voy por autobús».",
+     "ko": "그럼 마드리드에서 박물관에 가고 싶을 때 '지하철로 가요', '버스로 가요'라고 할 수 있겠네요."
+    },
+    {
+     "t": 989.5,
+     "s": "C",
+     "es": "Sí, es correcto, y los nativos te van a entender perfectamente, aunque también es muy común decir «en metro» o «en autobús».",
+     "ko": "네, 맞아요. 원어민들도 완벽하게 알아들을 거예요. 다만 'en metro', 'en autobús'라고도 아주 많이 해요."
+    },
+    {
+     "t": 999.6,
+     "s": "C",
+     "es": "Ambas formas son correctas para hablar español en el día a día, pero recuerda que por indica siempre el medio a través del cual te mueves.",
+     "ko": "일상 스페인어에서 둘 다 맞아요. 하지만 por는 늘 네가 이동하는 수단을 나타낸다는 걸 기억해요."
+    },
+    {
+     "t": 1009.0,
+     "s": "S",
+     "es": "Genial.",
+     "ko": "좋아요."
+    },
+    {
+     "t": 1009.6,
+     "s": "S",
+     "es": "Ahora vamos a la parte más divertida de mis vacaciones: las compras.",
+     "ko": "이제 휴가에서 제일 재미있는 부분, 쇼핑으로 가요."
+    },
+    {
+     "t": 1014.7,
+     "s": "S",
+     "es": "Quiero comprar muchos regalos.",
+     "ko": "선물을 많이 사고 싶어요."
+    },
+    {
+     "t": 1017.0,
+     "s": "S",
+     "es": "¿Cuál es la regla aquí?",
+     "ko": "여기 규칙은 뭐예요?"
+    },
+    {
+     "t": 1018.8,
+     "s": "C",
+     "es": "Para las compras o cualquier tipo de intercambio económico, siempre usamos por.",
+     "ko": "쇼핑이나 어떤 종류의 금전 교환에도 늘 por를 써요."
+    },
+    {
+     "t": 1024.6,
+     "s": "C",
+     "es": "Piensa que cambias una cosa por otra, cambias tu dinero por un objeto físico.",
+     "ko": "한 물건을 다른 것과 바꾼다고 생각해요. 돈을 실물과 바꾸는 거죠."
+    },
+    {
+     "t": 1030.2,
+     "s": "S",
+     "es": "A ver si entiendo.",
+     "ko": "제가 이해했는지 볼게요."
+    },
+    {
+     "t": 1031.6,
+     "s": "S",
+     "es": "Si voy a una tienda en el centro de Madrid y veo una camiseta bonita de recuerdo, digo: «Compré esta camiseta por 20 €».",
+     "ko": "마드리드 시내 가게에서 예쁜 기념 티셔츠를 보면 '이 티셔츠를 20유로에(por) 샀어요'라고 해요."
+    },
+    {
+     "t": 1041.1,
+     "s": "C",
+     "es": "Eso es. Muy buena pronunciación española.",
+     "ko": "바로 그거예요. 스페인어 발음도 아주 좋네요."
+    },
+    {
+     "t": 1044.5,
+     "s": "C",
+     "es": "«Compré esta camiseta por 20 €»: el dinero es el intercambio.",
+     "ko": "'이 티셔츠를 20유로에 샀다' — 돈이 교환물이에요."
+    },
+    {
+     "t": 1050.5,
+     "s": "C",
+     "es": "Y si tu amigo te dice: «Te doy mi manzana y tú me das tu bocadillo», ¿cómo lo expresas en español?",
+     "ko": "그럼 친구가 '내 사과 줄 테니 네 샌드위치 줘'라고 하면 스페인어로 어떻게 말해요?"
+    },
+    {
+     "t": 1058.1,
+     "s": "S",
+     "es": "Diría: «Te cambio mi manzana por tu bocadillo», porque es un intercambio directo.",
+     "ko": "'내 사과를 네 샌드위치와(por) 바꿔 줄게'라고 하겠죠. 직접 맞바꾸는 거니까요."
+    },
+    {
+     "t": 1064.4,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 1065.4,
+     "s": "C",
+     "es": "Es muy lógico.",
+     "ko": "아주 논리적이에요."
+    },
+    {
+     "t": 1066.6,
+     "s": "C",
+     "es": "La Spanish conversation es fácil cuando entiendes que por significa cambio.",
+     "ko": "por가 '교환'을 뜻한다는 걸 이해하면 스페인어 회화는 쉬워요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 분석 ② — medio de transporte · intercambio · efectivo · recuerdo · tarjeta",
+   "lines": [
+    {
+     "t": 1072.8,
+     "s": "C",
+     "es": "Y ya que estamos hablando de viajes e intercambios de dinero, vamos a hacer nuestro análisis del vocabulario español de esta sección, porque usaste palabras muy útiles para la vida diaria.",
+     "ko": "여행과 돈 교환 이야기를 하는 김에 이 부분의 어휘 분석을 해 봐요. 일상에 아주 유용한 단어들을 썼거든요."
+    },
+    {
+     "t": 1084.5,
+     "s": "S",
+     "es": "Medio de transporte es el vehículo que usamos para viajar de un lugar a otro, como el avión, el tren o el coche.",
+     "ko": "medio de transporte(교통수단)는 비행기, 기차, 자동차처럼 한 곳에서 다른 곳으로 이동할 때 쓰는 탈것이에요."
+    },
+    {
+     "t": 1092.1,
+     "s": "S",
+     "es": "Cuando hablamos del medio por el que viajamos, la regla dice que usamos por.",
+     "ko": "무엇을 타고 이동하는지 말할 때 규칙상 por를 써요."
+    },
+    {
+     "t": 1097.8,
+     "s": "S",
+     "es": "Intercambio es la acción de dar una cosa y recibir otra cosa diferente.",
+     "ko": "intercambio(교환)는 하나를 주고 다른 것을 받는 행동이에요."
+    },
+    {
+     "t": 1103.2,
+     "s": "S",
+     "es": "Puede ser cambiar comida con un amigo en la escuela o cambiar tu dinero para comprar un producto en la tienda.",
+     "ko": "학교에서 친구와 음식을 바꾸거나 가게에서 물건을 사려고 돈을 내는 것일 수 있어요."
+    },
+    {
+     "t": 1109.8,
+     "s": "S",
+     "es": "Efectivo son las monedas y los billetes físicos de dinero.",
+     "ko": "efectivo(현금)는 실제 동전과 지폐예요."
+    },
+    {
+     "t": 1114.6,
+     "s": "S",
+     "es": "Si no usas tu teléfono en la tienda, entonces pagas en efectivo.",
+     "ko": "가게에서 휴대폰을 안 쓰면 현금으로 내는 거죠."
+    },
+    {
+     "t": 1119.4,
+     "s": "S",
+     "es": "Recuerdo es un objeto pequeño que compras en un viaje para ti o para tu familia como memoria de tus vacaciones.",
+     "ko": "recuerdo(기념품)는 휴가의 추억으로 여행지에서 나나 가족을 위해 사는 작은 물건이에요."
+    },
+    {
+     "t": 1127.6,
+     "s": "S",
+     "es": "En muchos países también lo llamamos souvenir.",
+     "ko": "많은 나라에서 souvenir라고도 해요."
+    },
+    {
+     "t": 1131.2,
+     "s": "S",
+     "es": "Tarjeta es el plástico del banco que usamos para pagar de forma electrónica.",
+     "ko": "tarjeta(카드)는 전자 결제에 쓰는 은행 플라스틱 카드예요."
+    },
+    {
+     "t": 1136.5,
+     "s": "S",
+     "es": "Hoy en día es el método de pago más común cuando hacemos turismo por una ciudad nueva.",
+     "ko": "요즘 새로운 도시를 여행할 때 가장 흔한 결제 수단이에요."
+    }
+   ]
+  },
+  {
+   "title": "의견 para mí, 대비 para ser",
+   "lines": [
+    {
+     "t": 1142.4,
+     "s": "C",
+     "es": "Excelente resumen, Sofía.",
+     "ko": "훌륭한 정리예요, 소피아."
+    },
+    {
+     "t": 1144.2,
+     "s": "C",
+     "es": "Todo este vocabulario es vital para cualquier estudiante de español A1 o intermedio.",
+     "ko": "이 어휘는 A1이든 중급이든 모든 스페인어 학생에게 꼭 필요해요."
+    },
+    {
+     "t": 1150.4,
+     "s": "C",
+     "es": "Ahora ya sabes cómo viajar y cómo comprar cosas, pero todavía nos falta hablar de un uso muy común de para: cuando queremos dar nuestra opinión personal sobre algo.",
+     "ko": "이제 여행하고 물건 사는 법은 알지만, 아직 para의 아주 흔한 용법이 남았어요. 무언가에 대해 개인 의견을 말할 때요."
+    },
+    {
+     "t": 1160.9,
+     "s": "S",
+     "es": "Carlos, al final de la parte anterior mencionaste que para se usa para dar opiniones.",
+     "ko": "카를로스, 앞부분 끝에서 para가 의견을 말할 때 쓰인다고 했잖아요."
+    },
+    {
+     "t": 1167.1,
+     "s": "S",
+     "es": "¿Cómo funciona exactamente esta regla de español para extranjeros?",
+     "ko": "외국인을 위한 이 규칙은 정확히 어떻게 돼요?"
+    },
+    {
+     "t": 1172.1,
+     "s": "S",
+     "es": "Yo normalmente digo: «Yo pienso que...».",
+     "ko": "저는 보통 'Yo pienso que…(나는 ~라고 생각해)'라고 해요."
+    },
+    {
+     "t": 1175.3,
+     "s": "C",
+     "es": "Decir «yo pienso que» está muy bien y es correcto, pero si quieres sonar verdaderamente como un español nativo, usamos mucho la preposición para más el pronombre personal.",
+     "ko": "'yo pienso que'도 아주 좋고 맞아요. 하지만 정말 스페인 원어민처럼 들리고 싶으면 전치사 para + 인칭대명사를 많이 써요."
+    },
+    {
+     "t": 1189.1,
+     "s": "C",
+     "es": "Por ejemplo, decimos: «Para mí, esta ciudad es hermosa».",
+     "ko": "예를 들어 '내가 보기엔(para mí) 이 도시는 아름다워'라고 해요."
+    },
+    {
+     "t": 1194.5,
+     "s": "S",
+     "es": "Ah, es muy similar a otros idiomas.",
+     "ko": "아, 다른 언어랑 아주 비슷하네요."
+    },
+    {
+     "t": 1197.0,
+     "s": "S",
+     "es": "Entonces, si quiero dar mi opinión sobre nuestras clases, puedo decir: «Para mí, este Spanish podcast es el mejor».",
+     "ko": "그럼 우리 수업에 대한 의견을 말하고 싶으면 '내가 보기엔 이 스페인어 팟캐스트가 최고야'라고 할 수 있겠네요."
+    },
+    {
+     "t": 1205.5,
+     "s": "S",
+     "es": "¿Es correcto?",
+     "ko": "맞아요?"
+    },
+    {
+     "t": 1206.6,
+     "s": "C",
+     "es": "Es un ejemplo perfecto, Sofía, y un comentario muy amable.",
+     "ko": "완벽한 예예요, 소피아. 그리고 아주 친절한 말이네요."
+    },
+    {
+     "t": 1211.5,
+     "s": "C",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 1212.8,
+     "s": "C",
+     "es": "Usas para para expresar tu punto de vista personal.",
+     "ko": "para는 개인적인 관점을 말할 때 써요."
+    },
+    {
+     "t": 1216.9,
+     "s": "C",
+     "es": "Puedes decir para ti, para nosotros o para mi madre.",
+     "ko": "para ti(네가 보기엔), para nosotros(우리가 보기엔), para mi madre(엄마가 보기엔)라고 할 수 있어요."
+    },
+    {
+     "t": 1220.9,
+     "s": "C",
+     "es": "La palabra siempre señala a la persona que tiene esa opinión en su cabeza.",
+     "ko": "이 단어는 늘 그 의견을 머릿속에 가진 사람을 가리켜요."
+    },
+    {
+     "t": 1226.1,
+     "s": "C",
+     "es": "Y para complementar esta regla de las opiniones, hay un uso más de para que es genial.",
+     "ko": "의견 규칙에 덧붙여 para의 아주 멋진 용법이 하나 더 있어요."
+    },
+    {
+     "t": 1231.9,
+     "s": "C",
+     "es": "Lo usamos para hacer una comparación o para expresar que algo es una sorpresa según el estándar normal.",
+     "ko": "비교를 하거나, 보통 기준에 비해 무언가가 의외라고 말할 때 써요."
+    },
+    {
+     "t": 1239.2,
+     "s": "S",
+     "es": "¿Una sorpresa?",
+     "ko": "의외요?"
+    },
+    {
+     "t": 1240.2,
+     "s": "S",
+     "es": "No entiendo muy bien.",
+     "ko": "잘 모르겠어요."
+    },
+    {
+     "t": 1241.8,
+     "s": "S",
+     "es": "¿Puedes darme un ejemplo para entender mejor esta parte de la gramática?",
+     "ko": "이 문법을 더 잘 이해하게 예를 하나 들어 줄래요?"
+    },
+    {
+     "t": 1246.6,
+     "s": "C",
+     "es": "Claro que sí.",
+     "ko": "물론이죠."
+    },
+    {
+     "t": 1247.5,
+     "s": "C",
+     "es": "Imagina que un estudiante de nivel español A1 habla con muchísima fluidez y tiene una excelente pronunciación española.",
+     "ko": "A1 수준의 학생이 아주 유창하게 말하고 스페인어 발음도 훌륭하다고 상상해 봐요."
+    },
+    {
+     "t": 1256.2,
+     "s": "C",
+     "es": "Yo puedo decirle: «Para ser principiante, hablas español muy bien».",
+     "ko": "나는 그 학생에게 '초보치고는(para ser) 스페인어를 아주 잘하네'라고 할 수 있어요."
+    },
+    {
+     "t": 1261.9,
+     "s": "S",
+     "es": "Oh, ya entiendo.",
+     "ko": "아, 이제 알겠어요."
+    },
+    {
+     "t": 1263.3,
+     "s": "S",
+     "es": "Significa que, comparado con lo normal en un estudiante principiante, su nivel es mucho más alto de lo esperado.",
+     "ko": "보통 초보 학생과 비교하면 수준이 예상보다 훨씬 높다는 뜻이네요."
+    },
+    {
+     "t": 1271.0,
+     "s": "C",
+     "es": "Eso es.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 1271.6,
+     "s": "C",
+     "es": "Otro ejemplo de la vida diaria es: «Hace mucho frío para ser agosto».",
+     "ko": "일상의 다른 예는 '8월치고는 정말 춥다'예요."
+    },
+    {
+     "t": 1277.5,
+     "s": "C",
+     "es": "En el mes de agosto normalmente hace calor.",
+     "ko": "8월엔 보통 덥잖아요."
+    },
+    {
+     "t": 1280.8,
+     "s": "C",
+     "es": "Entonces, la situación es una sorpresa. Usamos para en este tipo de contraste.",
+     "ko": "그러니까 의외의 상황이에요. 이런 대비에 para를 써요."
+    },
+    {
+     "t": 1286.6,
+     "s": "S",
+     "es": "A ver si puedo hacer una frase con la situación de mi viaje a España.",
+     "ko": "제 스페인 여행 상황으로 문장을 만들 수 있는지 볼게요."
+    },
+    {
+     "t": 1291.4,
+     "s": "S",
+     "es": "«Para ser un hotel barato, la habitación es muy bonita y grande».",
+     "ko": "'싼 호텔치고는 방이 아주 예쁘고 커요.'"
+    },
+    {
+     "t": 1296.5,
+     "s": "S",
+     "es": "¿Funciona?",
+     "ko": "돼요?"
+    },
+    {
+     "t": 1297.4,
+     "s": "C",
+     "es": "Funciona perfecto.",
+     "ko": "완벽하게 돼요."
+    },
+    {
+     "t": 1299.0,
+     "s": "C",
+     "es": "Ese es el nivel de español avanzado que queremos lograr poco a poco.",
+     "ko": "그게 우리가 조금씩 이루고 싶은 고급 스페인어 수준이에요."
+    },
+    {
+     "t": 1303.8,
+     "s": "C",
+     "es": "Has dominado el destino, los límites de tiempo, las causas, los intercambios de dinero y ahora las opiniones y contrastes.",
+     "ko": "목적지, 시간 기한, 원인, 돈 교환, 그리고 이제 의견과 대비까지 마스터했어요."
+    },
+    {
+     "t": 1312.9,
+     "s": "C",
+     "es": "Creo que estás completamente lista para tu viaje.",
+     "ko": "이제 여행 갈 준비가 완벽하게 된 것 같아요."
+    }
+   ]
+  },
+  {
+   "title": "어휘 분석 ③ & 마무리 — opinión · nativo · principiante · fluidez · contraste",
+   "lines": [
+    {
+     "t": 1316.2,
+     "s": "S",
+     "es": "Qué gran alivio.",
+     "ko": "정말 다행이에요."
+    },
+    {
+     "t": 1317.4,
+     "s": "S",
+     "es": "Con esta Spanish listening practice siento que mi cerebro finalmente comprende la diferencia entre estas dos palabras tan difíciles.",
+     "ko": "이 듣기 연습으로 드디어 제 머리가 이 어려운 두 단어의 차이를 이해한 것 같아요."
+    },
+    {
+     "t": 1326.2,
+     "s": "S",
+     "es": "Ahora, Carlos, antes de terminar tenemos que mantener la tradición del canal.",
+     "ko": "자, 카를로스, 끝내기 전에 채널 전통을 지켜야죠."
+    },
+    {
+     "t": 1331.0,
+     "s": "S",
+     "es": "Hacemos nuestro análisis de vocabulario y la pregunta final.",
+     "ko": "어휘 분석과 마지막 질문이요."
+    },
+    {
+     "t": 1335.0,
+     "s": "C",
+     "es": "Por supuesto, es nuestra sección favorita.",
+     "ko": "물론이죠, 우리가 제일 좋아하는 코너예요."
+    },
+    {
+     "t": 1338.2,
+     "s": "C",
+     "es": "Vamos a repasar cinco palabras muy importantes que usamos hoy para que nuestra comunidad pueda learn Spanish vocabulary en contexto.",
+     "ko": "오늘 쓴 아주 중요한 단어 다섯 개를 복습해서 우리 커뮤니티가 맥락 속에서 어휘를 배울 수 있게 해요."
+    },
+    {
+     "t": 1347.1,
+     "s": "C",
+     "es": "Empieza tú, Sofía.",
+     "ko": "소피아가 먼저 해요."
+    },
+    {
+     "t": 1348.6,
+     "s": "S",
+     "es": "Opinión es lo que una persona piensa, cree o siente sobre un tema específico.",
+     "ko": "opinión(의견)은 어떤 주제에 대해 사람이 생각하고 믿고 느끼는 거예요."
+    },
+    {
+     "t": 1354.5,
+     "s": "S",
+     "es": "Para expresar nuestra opinión personal en español de forma natural, usamos para mí.",
+     "ko": "스페인어로 개인 의견을 자연스럽게 말하려면 para mí를 써요."
+    },
+    {
+     "t": 1360.2,
+     "s": "S",
+     "es": "Nativo es la persona que habla un idioma desde que nació, porque es su lengua materna.",
+     "ko": "nativo(원어민)는 태어날 때부터 그 언어를 말하는 사람이에요. 모국어니까요."
+    },
+    {
+     "t": 1366.5,
+     "s": "S",
+     "es": "El gran objetivo de Español Auténtico es ayudarte a hablar con la confianza de un nativo.",
+     "ko": "Español Auténtico의 큰 목표는 원어민처럼 자신 있게 말하도록 돕는 거예요."
+    },
+    {
+     "t": 1372.4,
+     "s": "S",
+     "es": "Principiante es una persona que empieza a estudiar o hacer algo nuevo desde cero.",
+     "ko": "principiante(초보자)는 새로운 걸 처음부터 배우거나 시작하는 사람이에요."
+    },
+    {
+     "t": 1377.5,
+     "s": "S",
+     "es": "Todo el mundo es un principiante al inicio.",
+     "ko": "누구나 처음엔 초보예요."
+    },
+    {
+     "t": 1380.5,
+     "s": "S",
+     "es": "Por eso tenemos muchas Spanish lessons fáciles y lentas.",
+     "ko": "그래서 쉽고 느린 스페인어 수업이 많아요."
+    },
+    {
+     "t": 1385.0,
+     "s": "S",
+     "es": "Fluidez es la maravillosa capacidad de hablar un idioma sin hacer pausas largas y de forma continua.",
+     "ko": "fluidez(유창함)는 길게 멈추지 않고 끊김 없이 언어를 말하는 멋진 능력이에요."
+    },
+    {
+     "t": 1391.8,
+     "s": "S",
+     "es": "La fluidez llega poco a poco cuando hacemos mucha Spanish comprehension practice cada día.",
+     "ko": "매일 듣기 이해 연습을 많이 하면 유창함은 조금씩 찾아와요."
+    },
+    {
+     "t": 1397.5,
+     "s": "S",
+     "es": "Contraste es una diferencia muy grande y evidente entre dos cosas.",
+     "ko": "contraste(대비)는 두 가지 사이의 아주 크고 뚜렷한 차이예요."
+    },
+    {
+     "t": 1402.7,
+     "s": "S",
+     "es": "Hoy aprendimos a usar para cuando mostramos un contraste entre una situación real y lo que normalmente esperamos.",
+     "ko": "오늘 실제 상황과 보통 기대하는 것 사이의 대비를 보여 줄 때 para를 쓰는 법을 배웠어요."
+    },
+    {
+     "t": 1410.9,
+     "s": "C",
+     "es": "Un excelente análisis de vocabulario español, Sofía.",
+     "ko": "훌륭한 스페인어 어휘 분석이에요, 소피아."
+    },
+    {
+     "t": 1414.1,
+     "s": "C",
+     "es": "Ahora queremos pedirles a todos nuestros oyentes que participen de forma activa.",
+     "ko": "이제 모든 청취자 여러분께 적극적으로 참여해 달라고 부탁드리고 싶어요."
+    },
+    {
+     "t": 1419.4,
+     "s": "C",
+     "es": "La práctica es el gran secreto para aprender español.",
+     "ko": "연습이 스페인어를 배우는 큰 비결이에요."
+    },
+    {
+     "t": 1423.4,
+     "s": "S",
+     "es": "Sí, es su turno.",
+     "ko": "네, 여러분 차례예요."
+    },
+    {
+     "t": 1424.5,
+     "s": "S",
+     "es": "Por favor, vayan a los comentarios abajo y escriban una frase usando la expresión para mí.",
+     "ko": "아래 댓글로 가서 para mí를 써서 문장을 하나 써 주세요."
+    },
+    {
+     "t": 1430.7,
+     "s": "S",
+     "es": "Cuéntennos qué piensan sobre el idioma español o sobre este video.",
+     "ko": "스페인어나 이 영상에 대해 어떻게 생각하는지 알려 주세요."
+    },
+    {
+     "t": 1435.5,
+     "s": "S",
+     "es": "Y si les gustó, suscríbanse al canal ahora mismo y dejen su like.",
+     "ko": "그리고 마음에 들었다면 지금 바로 채널을 구독하고 좋아요를 남겨 주세요."
+    },
+    {
+     "t": 1440.4,
+     "s": "C",
+     "es": "Así es: suscribirse, darle a la campanita y dejar un comentario es el mejor intercambio que podemos pedir.",
+     "ko": "맞아요. 구독하고, 알림 종을 누르고, 댓글을 남기는 게 우리가 바랄 수 있는 최고의 '교환'이에요."
+    },
+    {
+     "t": 1447.8,
+     "s": "C",
+     "es": "Su apoyo es fundamental y nos permite seguir enseñando español online de forma gratuita todas las semanas.",
+     "ko": "여러분의 응원이 정말 중요하고, 덕분에 매주 온라인으로 무료 스페인어 수업을 계속할 수 있어요."
+    },
+    {
+     "t": 1454.7,
+     "s": "C",
+     "es": "Muchas gracias por escuchar.",
+     "ko": "들어 주셔서 정말 고마워요."
+    }
+   ]
+  }
+ ]
+}
