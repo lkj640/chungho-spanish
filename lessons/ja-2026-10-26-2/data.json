@@ -1684,7 +1684,6 @@
   ]
  },
  "hideCast": true,
- "game": "lessons/ja-2026-10-26-2/game.html",
  "sections": [
   {
    "title": "도입 — 1000개의 방, 1개의 침대",
@@ -13701,5 +13700,6 @@
     }
    ]
   }
- ]
+ ],
+ "game": "lessons/ja-2026-10-26-2/game.html"
 }
