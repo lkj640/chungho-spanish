@@ -1,6 +1,50 @@
 {
  "lessons": [
   {
+   "id": "ja-2026-11-05",
+   "lang": "ja",
+   "date": "2026-11-05",
+   "title": "인생을 편하게 하는 4가지 생각",
+   "es": "何でも80%でOK",
+   "emoji": "🌿",
+   "level": "JLPT N3–N2",
+   "channel": "Bite Size Japanese",
+   "youtube": "Tpf4CoIrudY",
+   "duration": "22:32",
+   "summary": "레이라가 평소에 신경 쓰는 '인생을 편하게 하는 습관' 4가지를 이야기해요. ① 남에게 기대하지 않기 — 해 줬으면 하는 건 말로 부탁하고, 답례를 바라지 않기. ② 고민될 때일수록 '나답게 살아도 된다'를 떠올리기 — 저금도 없지만 행복한 노부부의 책. ③ 너무 애쓰지 않기 — 뭐든 80%면 OK, 요령 있게 '手をぬく'. ④ 목적 없이 스마트폰 보는 시간 줄이기 — 쇼츠 대신 책, SNS 계정 삭제. (같은 에피소드를 쉬운 영어로 요약한 영어 강의도 함께 들어 보세요.)",
+   "topics": [
+    "① 人に期待しない · 言葉でお願いする · お返しを求めない",
+    "② 悩んでる時こそ、自分らしく生きていてもいい",
+    "③ 頑張りすぎない · 何でも80%でOK · 上手に手をぬく",
+    "④ スマホを減らす · ショート動画にコントロールされる",
+    "문법: ～てほしい · ～こそ · ～すぎる · ～ことにしている · ～っぱなし · ～まくる · たとえ～ても"
+   ],
+   "vocabCount": 49,
+   "lineCount": 291
+  },
+  {
+   "id": "en-2026-11-05",
+   "lang": "en",
+   "date": "2026-11-05",
+   "title": "80%면 충분하다 — 인생을 편하게 하는 네 가지 생각",
+   "es": "Doing things 80% is enough.",
+   "emoji": "🌿",
+   "level": "A2–B1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "3:04",
+   "summary": "두 진행자가 일본인 크리에이터 레이라의 '인생을 편하게 하는 4가지 생각'을 쉬운 영어로 3분 만에 정리해요. 남에게 기대하지 말고 분명한 말로 부탁하기, 사회와 비교하지 말고 나답게 살기, 뭐든 80%면 충분하다, 그리고 짧은 영상과 SNS 줄이기. 짧고 쉬운 문장이라 섀도잉하기 좋아요. (같은 에피소드의 일본어 원본 강의와 함께 들어 보세요.)",
+   "topics": [
+    "Do not expect things from others — use clear words",
+    "It is okay to just be yourself",
+    "Do not try too hard — 80% is enough",
+    "Use your phone less — short videos control you",
+    "구문: What if …? · make + 목적어 + 형용사 · It is better to … · If you stop -ing, …"
+   ],
+   "vocabCount": 37,
+   "lineCount": 67
+  },
+  {
    "id": "ja-2026-11-04",
    "lang": "ja",
    "date": "2026-11-04",

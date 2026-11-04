@@ -1,0 +1,145 @@
+# 형식: [mm:ss] 구간 시작 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: A = Host A, B = Host B. 화자 구분은 대화 맥락에 맞춰 나눴어요. END = 오디오 끝 시각
+# 원본: Whisper 받아쓰기. 같은 주제의 일본어 강의(Bite Size Japanese 레이라 Ep.738)를 쉬운 영어로 요약한 딥다이브예요.
+END 3:04
+
+[00:00]
+## 도입 — 완벽하려다 지치는 건 아닐까
+A | What if trying to be perfect just makes you tired? | 완벽하려고 애쓰는 게 그냥 사람을 지치게만 한다면요?
+[00:03]
+A | Welcome to the deep dive. | 딥다이브에 오신 걸 환영해요.
+[00:04]
+B | Yeah, today we're looking at some notes from a Japanese creator. Her name is Layla. | 네, 오늘은 한 일본인 크리에이터의 메모를 살펴봐요. 이름은 레이라예요.
+[00:08]
+A | Right. | 그렇죠.
+[00:09]
+B | And she says that trying less makes your life happy and easy. | 그리고 그녀는 덜 애쓰면 삶이 행복하고 편해진다고 말해요.
+[00:12]
+A | Okay, let's unpack this. | 좋아요, 풀어 봅시다.
+[00:13]
+## 아이디어 1 — 남에게 기대하지 않기
+B | So idea one is about other people. Basically, do not expect things from them. | 첫 번째 아이디어는 다른 사람에 관한 거예요. 한마디로, 남에게 뭔가를 기대하지 말라는 거죠.
+[00:18]
+A | Wait, like, do not wait for them to help? | 잠깐, 그러니까 도와주길 기다리지 말라는 거예요?
+[00:20]
+B | Exactly. | 바로 그거예요.
+[00:21]
+B | I mean, if you want your husband to wash dishes, you have to ask him. You must use clear words. | 남편이 설거지를 해 줬으면 하면, 부탁을 해야 한다는 거죠. 분명한 말로요.
+[00:25]
+A | Right, do not just wait and get mad. | 맞아요, 그냥 기다리다가 화내지 말고요.
+[00:27]
+B | Yeah, because they do not know what you want. | 네, 상대는 내가 뭘 원하는지 모르니까요.
+[00:29]
+B | Also, she says you should only go to a friend's wedding if you truly want to. | 또 친구 결혼식도 정말 가고 싶을 때만 가야 한다고 해요.
+[00:34]
+A | Oh, I see. | 아, 그렇군요.
+[00:34]
+B | Not just because you want them to say thank you. | 그냥 고맙다는 말을 듣고 싶어서 가는 게 아니라요.
+[00:37]
+A | Right. It is, well, it is like giving a birthday gift just to get a gift back. | 맞아요. 그건 음, 선물을 돌려받으려고 생일 선물을 주는 것과 같죠.
+[00:41]
+B | Exactly. It only brings anger if they forget. | 바로 그거예요. 상대가 잊어버리면 화만 나요.
+[00:43]
+A | Yeah. | 네.
+[00:44]
+B | Expecting things from others brings a lot of stress. | 남에게 기대하면 스트레스가 많이 생겨요.
+[00:47]
+A | And we also expect too much from ourselves. | 그리고 우리는 자기 자신에게도 너무 많이 기대하죠.
+[00:49]
+B | We do. We really do. | 맞아요. 정말 그래요.
+[00:51]
+## 아이디어 2 — 고민될 때일수록 나답게
+B | If we connect this to the bigger picture, we worry because of society. | 이걸 더 큰 그림과 연결하면, 우리는 사회 때문에 고민해요.
+[00:56]
+A | What do you mean by that? | 그게 무슨 뜻이에요?
+[00:57]
+B | Well, Layla used to worry a lot. She worried her English was bad. | 레이라는 예전에 고민이 많았어요. 영어 실력이 부족하다고 걱정했죠.
+[01:01]
+A | Oh, wow. | 아, 그렇군요.
+[01:02]
+B | And she worried she needed a perfect full-time job. | 그리고 완벽한 정규직 일자리가 있어야 한다고 걱정했어요.
+[01:05]
+A | Because everyone else has one. | 다른 사람들은 다 있으니까요.
+[01:06]
+B | Right. But then she read a book. It was about an old Japanese couple. | 맞아요. 그런데 그러다 책을 한 권 읽었어요. 일본의 노부부에 관한 책이었죠.
+[01:11]
+B | They have no money saved. | 모아 둔 돈이 하나도 없어요.
+[01:12]
+A | Wait, really? | 잠깐, 정말요?
+[01:13]
+B | No money. But they are very happy. They just live their own way. | 돈이 없어요. 그런데 아주 행복해요. 그냥 자기들 방식대로 살아요.
+[01:17]
+A | Oh, I love that. | 아, 좋네요.
+[01:19]
+B | Yeah. We only worry because we compare ourselves to society. It is okay to just be yourself. | 네. 우리는 자신을 사회와 비교하니까 고민하는 거예요. 그냥 나답게 살아도 괜찮아요.
+[01:24]
+A | But how do we use this thinking every day? | 그런데 이 생각을 매일 어떻게 써먹죠?
+[01:28]
+## 아이디어 3 — 너무 애쓰지 않기, 80%면 충분
+B | Well, idea three is very simple. Do not try too hard. Doing things 80% is enough. | 세 번째 아이디어는 아주 간단해요. 너무 애쓰지 마세요. 뭐든 80%만 하면 충분해요.
+[01:35]
+A | 80%? But is that not bad? | 80%요? 그건 안 좋은 거 아니에요?
+[01:37]
+B | No, not at all. Think about cleaning. | 전혀요. 청소를 생각해 보세요.
+[01:40]
+B | Cleaning perfectly takes too much time. | 완벽하게 청소하려면 시간이 너무 많이 걸려요.
+[01:42]
+A | Yeah, it really does. | 네, 정말 그래요.
+[01:43]
+B | So just cleaning 80% is fine. | 그러니까 80%만 청소해도 괜찮아요.
+[01:46]
+B | Layla makes her videos very easily, too. | 레이라는 영상도 아주 손쉽게 만들어요.
+[01:48]
+A | Oh, how does she do that? | 아, 어떻게요?
+[01:49]
+B | She just leaves her mic on her desk. She does very simple makeup. | 마이크는 그냥 책상에 늘 놓아두고, 화장도 아주 간단하게 해요.
+[01:52]
+B | Because it is easy, she does not quit. | 쉬우니까 그만두지 않는 거예요.
+[01:54]
+A | Exactly. | 바로 그거죠.
+[01:55]
+B | Doing chores at 80% gives you free time. | 집안일을 80%로 하면 자유 시간이 생겨요.
+[01:58]
+A | That sounds great. | 좋네요.
+[01:59]
+B | It is. But you must be careful how you use that extra time. | 그렇죠. 하지만 그 남는 시간을 어떻게 쓸지는 조심해야 해요.
+[02:04]
+## 아이디어 4 — 스마트폰 덜 쓰기
+A | Right, which brings us to idea four. Use your phone less, right? | 맞아요, 그래서 네 번째 아이디어로 넘어가죠. 스마트폰을 덜 쓰라는 거죠?
+[02:08]
+B | Yes. Short videos make your brain very tired. | 네. 짧은 영상은 뇌를 아주 피곤하게 해요.
+[02:12]
+A | But short videos are a fun way to relax. I mean, I like them. They feel fun. | 그런데 짧은 영상은 쉬기에 재미있는 방법이잖아요. 전 좋아하거든요. 재미있어요.
+[02:17]
+B | But think about reading a book. When you read, you choose to turn the page. | 하지만 책 읽기를 생각해 보세요. 책을 읽을 땐 내가 페이지를 넘기기로 선택해요.
+[02:21]
+A | Yeah, you control it. | 네, 내가 조절하죠.
+[02:23]
+B | Right. But short videos control you. You just watch without thinking. | 맞아요. 그런데 짧은 영상은 나를 조종해요. 그냥 생각 없이 보게 되죠.
+[02:27]
+A | The video just plays and plays. | 영상이 계속계속 재생되고요.
+[02:29]
+B | Exactly. | 바로 그거예요.
+[02:30]
+B | And also, looking at friends on social media makes you compare your life to theirs. | 그리고 SNS에서 친구들을 보면 내 삶을 그들의 삶과 비교하게 돼요.
+[02:35]
+A | Oh, and that makes you feel bad. | 아, 그러면 기분이 나빠지죠.
+[02:37]
+B | Yes. Layla even deleted her accounts to stop the stress. | 네. 레이라는 스트레스를 끊으려고 계정까지 지웠어요.
+[02:41]
+A | Wow. | 와.
+[02:41]
+## 마무리 — 남는 에너지로 무엇을 할까
+A | So what does this all mean? | 그럼 이게 다 무슨 뜻일까요?
+[02:44]
+B | I think it means life is short. | 인생은 짧다는 뜻인 것 같아요.
+[02:45]
+A | Yeah. | 네.
+[02:46]
+B | It is better to spend time being happy now, not stressing about perfect chores or other people's lives. | 완벽한 집안일이나 남의 삶 때문에 스트레스받지 말고, 지금 행복하게 시간을 보내는 게 더 나아요.
+[02:52]
+A | Right. Just let go of all those rules. | 맞아요. 그런 규칙들은 다 내려놓고요.
+[02:54]
+B | Exactly. | 바로 그거예요.
+[02:56]
+A | If you stop trying to be 100% perfect for everyone else, what amazing things could you do with the extra energy you save? | 다른 모든 사람을 위해 100% 완벽하려는 걸 멈춘다면, 아낀 에너지로 어떤 멋진 일을 할 수 있을까요?
