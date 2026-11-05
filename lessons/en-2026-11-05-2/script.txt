@@ -1,0 +1,1426 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: A = Host A, B = Host B (사용자 제공 대본의 줄마다 번갈아 배정해서 일부 틀릴 수 있어요). END = 오디오 끝 시각
+# 원본: 사용자 제공 오디오와 대본. 시각은 Whisper 단어 시각에 맞춰 정렬했고, 대본의 받아쓰기 오류(Chung Huli → Choongho Lee, Dongok → Dongguk, dossas → dossiers, Red gins singh → Red ginseng 등)를 바로잡았어요.
+END 55:06
+
+
+[00:00.00]
+## 도입 — 정부 인증 도장, 믿어도 될까?
+A | I want you to put yourself in um a very specific but I think a very familiar situation for a minute. | 잠깐, 아주 구체적이지만 꽤 익숙할 법한 상황에 한번 들어가 보셨으면 해요.
+[00:06.66]
+B | Okay, let's hear it. | 좋아요, 들어 볼게요.
+[00:08.12]
+A | So, you're standing in the middle of this massive supplement aisle at your local pharmacy or I mean maybe you're sitting on your couch late at night endlessly scrolling through an online health store, | 자, 동네 약국의 거대한 영양제 코너 한가운데 서 있다고 해 봐요. 아니면 밤늦게 소파에 앉아 온라인 건강 쇼핑몰을 끝없이 스크롤하고 있거나요.
+[00:18.62]
+B | right? Trying to find a solution to some nagging problem. | 그렇죠? 뭔가 계속 신경 쓰이는 문제의 해결책을 찾으면서요.
+[00:21.90]
+A | Exactly. | 맞아요.
+[00:22.88]
+A | You're looking for something to, you know, boost your morning energy or maybe your knees have been clicking and you want better joint health | 아침 에너지를 끌어올릴 뭔가를 찾거나, 무릎에서 딱딱 소리가 나서 관절 건강을 챙기고 싶거나,
+[00:28.62]
+B | or just chasing that general sense of daily vitality. | 아니면 그냥 하루하루의 전반적인 활력을 좇거나요.
+[00:32.24]
+A | Yeah, exactly. | 네, 바로 그거예요.
+[00:33.42]
+A | So, you pick up a bottle or you click it on a product page and right there on the front label is this very official sounding health claim. | 그래서 병을 하나 집어 들거나 상품 페이지를 클릭하면, 바로 앞면 라벨에 아주 공식적으로 들리는 건강 기능 표시가 있어요.
+[00:41.32]
+B | Oh, yeah. The big bold letters, | 아, 네. 크고 굵은 글씨로요.
+[00:43.28]
+A | right? And it doesn't just use vague language like might help. | 그렇죠? 그리고 '도움이 될 수도 있다' 같은 모호한 표현만 쓰는 게 아니에요.
+[00:47.10]
+A | It has a stamp, a literal seal of approval from a recognized official government regulator. | 도장이 찍혀 있어요. 공인된 정부 규제 기관의 말 그대로 인증 마크요.
+[00:53.54]
+B | And that stamp carries a lot of psychological weight. | 그리고 그 도장은 심리적으로 큰 무게를 가져요.
+[00:55.84]
+A | It really does. When you see it, there's this instant reaction. You feel um a wave of relief really. You feel trust | 정말 그래요. 그걸 보면 즉각적인 반응이 있어요. 안도감이 확 밀려오죠. 신뢰가 생겨요.
+[01:04.58]
+B | because your internal monologue is saying, "Well, a team of government scientists in white coats must have looked into this, | 왜냐하면 속으로 이렇게 말하고 있거든요. "음, 흰 가운 입은 정부 과학자들이 이걸 검토했겠지,
+[01:10.22]
+A | right? Like they did the work, so I don't have to. | 그렇지? 그 사람들이 일을 했으니 나는 안 해도 돼.
+[01:12.24]
+A | You just drop it in your cart." But imagine if you were the kind of person who decided to stop and actually verify the science behind that specific claim yourself, | 그냥 장바구니에 넣자." 그런데 만약 여러분이 멈춰 서서 그 특정 표시 뒤에 있는 과학을 직접 확인해 보기로 한 사람이라면 어떨까요?
+[01:20.62]
+B | which almost nobody does. But yeah, imagine you try, | 거의 아무도 그렇게 안 하죠. 그래도, 네, 해 본다고 상상해 봐요.
+[01:22.82]
+A | right? | 그렇죠?
+[01:23.98]
+A | Like what if you wanted to read the exact clinical trial, see the exact data points, and review the exact proof that convinced that government regulator to give out that stamp of approval in the first place. | 그 정부 규제 기관이 애초에 인증 도장을 주도록 설득한 바로 그 임상시험을 읽고, 그 데이터 포인트를 보고, 그 증거를 검토하고 싶다면요.
+[01:34.80]
+B | Well, that impulse to check the math yourself is exactly where the illusion of complete transparency starts to fracture. | 음, 직접 계산을 확인해 보려는 그 충동이 바로 '완전한 투명성'이라는 환상에 금이 가기 시작하는 지점이에요.
+[01:41.28]
+A | Yeah. | 네.
+[01:42.48]
+B | Because as consumers in a modern society, we operate on this deep-seated, mostly unconscious assumption that if a government agency approves a substance, the evidence proving it works must be sitting right there in the public domain. | 왜냐하면 현대 사회의 소비자로서 우리는 깊이 박힌, 대부분 무의식적인 가정 위에서 움직이거든요. 정부 기관이 어떤 물질을 승인했다면 그게 효과가 있다는 증거는 당연히 공개 영역에 그대로 있을 거라고요.
+[01:55.88]
+A | Like it's just a Google search away. | 구글 검색 한 번이면 찾을 수 있을 것처럼요.
+[01:57.60]
+B | Exactly. | 맞아요.
+[01:58.36]
+B | We assume it's easily accessible to any doctor, any independent researcher, or you know, any curious consumer. | 어떤 의사든, 어떤 독립 연구자든, 궁금한 소비자든 쉽게 접근할 수 있다고 가정해요.
+[02:04.54]
+B | We treat science as an inherently open book. | 우리는 과학을 본래 펼쳐진 책처럼 여겨요.
+[02:07.42]
+A | But it's not. | 하지만 그렇지 않아요.
+[02:08.16]
+B | No, the reality of how these regulatory systems actually function mechanically and legally is vastly more complex and it's heavily shielded from public view. | 네, 이런 규제 시스템이 실제로 기계적·법적으로 작동하는 현실은 훨씬 더 복잡하고, 대중의 눈으로부터 철저히 가려져 있어요.
+[02:17.64]
+A | And that hidden machinery is exactly what we're unpacking in today's deep dive. | 그리고 그 숨겨진 장치가 바로 오늘 딥다이브에서 풀어 볼 내용이에요.
+[02:21.22]
+B | It's a fascinating topic. | 정말 흥미로운 주제예요.
+[02:23.34]
+A | It really is. | 정말 그래요.
+[02:24.66]
+A | The source material we have today is this incredible cross-sectional meta-research study conducted by Choongho Lee from Dongguk University. | 오늘의 자료는 동국대학교 이충호 연구자가 수행한 놀라운 단면 메타연구예요.
+[02:33.02]
+A | It was recently submitted to the journal Accountability in Research. | 최근 학술지 Accountability in Research에 투고됐어요.
+[02:36.52]
+B | And the scope of what this researcher actually pulled off is just incredibly ambitious, | 그리고 이 연구자가 실제로 해낸 일의 범위는 정말 엄청나게 야심 차요.
+[02:39.17]
+A | right? | 그렇죠?
+[02:41.82]
+A | They audited all 606 functional ingredients recognized by the Korean Ministry of Food and Drug Safety, the MFDS. | 한국 식품의약품안전처(식약처, MFDS)가 인정한 기능성 원료 606개 전부를 감사했어요.
+[02:49.58]
+B | A complete census of an entire national register. | 국가 등록 목록 전체에 대한 완전한 전수 조사죠.
+[02:52.78]
+A | Yeah. | 네.
+[02:53.28]
+A | They designed this massive project to ask one critical question, which is how much of the evidence behind these regulatory approvals can actually be verified by the public. | 이 거대한 프로젝트는 하나의 핵심 질문을 던지려고 설계됐어요. 이런 규제 승인 뒤에 있는 증거 중 얼마만큼을 대중이 실제로 확인할 수 있는가.
+[03:03.48]
+B | And that question completely reframes our relationship with health products. | 그리고 그 질문은 건강 제품과 우리의 관계를 완전히 새롭게 보게 해요.
+[03:06.90]
+A | Oh, totally. | 아, 완전히요.
+[03:07.68]
+## 효능 vs 공개 검증 가능성
+B | But to really understand the gravity of this study, we have to establish a fundamental distinction right up front because this isn't just a niche conversation about South Korean regulatory bureaucracy, | 하지만 이 연구의 무게를 제대로 이해하려면 처음부터 근본적인 구분을 하나 세워야 해요. 이건 한국 규제 관료제에 관한 틈새 이야기만이 아니니까요.
+[03:18.28]
+A | right? This applies everywhere. | 그렇죠? 어디에나 해당돼요.
+[03:19.62]
+B | Yes, the mechanics apply to the global ecosystem of health products. | 네, 그 구조는 전 세계 건강 제품 생태계에 적용돼요.
+[03:24.04]
+B | So, we have to separate the concept of um efficacy from the concept of public verifiability. Okay, let's break those down. | 그래서 '효능'이라는 개념과 '공개 검증 가능성'이라는 개념을 분리해야 해요. 좋아요, 하나씩 나눠 보죠.
+[03:31.40]
+A | So, efficacy is biological. | 자, 효능은 생물학적인 거예요.
+[03:33.58]
+A | Does the ingredient actually do what it claims to do in the human body? Does it lower your cholesterol? | 그 원료가 사람 몸에서 주장하는 일을 실제로 하나요? 콜레스테롤을 낮추나요?
+[03:39.74]
+A | Does it improve your sleep? | 수면을 개선하나요?
+[03:40.66]
+B | Does the pill actually work? Basically, | 기본적으로, 그 알약이 실제로 듣느냐는 거죠.
+[03:42.84]
+A | exactly. But public verifiability is structural. | 맞아요. 하지만 공개 검증 가능성은 구조적인 거예요.
+[03:46.60]
+A | It asks, can independent scientists, medical professionals, and everyday people actually access and review the data proving that biological effect? | 독립 과학자, 의료 전문가, 일반인이 그 생물학적 효과를 증명하는 데이터에 실제로 접근해서 검토할 수 있느냐를 묻는 거죠.
+[03:55.46]
+B | Because it turns out those two things are not the same thing at all. | 왜냐하면 알고 보니 그 두 가지는 전혀 같은 게 아니거든요.
+[03:58.56]
+A | Not even close. | 전혀요.
+[03:59.68]
+B | There is this massive gap between the evidence that regulators get to scrutinize in their secure confidential meetings and the evidence that you or I are legally allowed to see. | 규제 기관이 보안이 철저한 비공개 회의에서 검토하는 증거와, 여러분이나 제가 법적으로 볼 수 있는 증거 사이에는 거대한 간극이 있어요.
+[04:08.58]
+A | We're basically trusting our biology to these products based on a proxy of scrutiny. | 우리는 기본적으로 '대리 검토'를 근거로 이 제품들에 우리 몸을 맡기고 있는 거예요.
+[04:14.32]
+B | Yeah. | 네.
+[04:14.98]
+B | We trust the label purely because we trust the regulator's judgment. | 규제 기관의 판단을 믿기 때문에 라벨을 믿는 거죠.
+[04:18.48]
+A | And when you rely entirely on a proxy, I mean, you're placing immense faith in a system that operates by design as a black box, | 그리고 전적으로 대리인에게 의존하면, 그러니까, 처음부터 블랙박스로 작동하도록 설계된 시스템에 엄청난 믿음을 거는 거예요.
+[04:26.32]
+B | right? | 그렇죠?
+[04:26.80]
+B | And bridging that gap or at least understanding the structural reasons why that gap is there in the first place is really the only way to become a genuinely informed consumer | 그리고 그 간극을 메우는 것, 아니면 적어도 애초에 왜 그 간극이 있는지 구조적 이유를 이해하는 것이 진짜로 정보를 갖춘 소비자가 되는 유일한 길이에요.
+[04:34.82]
+A | which is our mission today. | 그게 오늘 우리의 임무예요.
+[04:36.46]
+B | Exactly. | 맞아요.
+[04:37.74]
+## 두 가지 승인 경로 — 고시형 85개 vs 개별인정형 521개
+B | So let's figure out how that black box is actually constructed. | 그럼 그 블랙박스가 실제로 어떻게 만들어졌는지 알아보죠.
+[04:41.02]
+B | To understand why we can't always see the evidence, we first need to look at the rule book governing how these ingredients get approved. | 왜 우리가 항상 증거를 볼 수는 없는지 이해하려면, 먼저 이 원료들이 승인되는 방식을 정한 규칙집을 봐야 해요.
+[04:46.66]
+A | Right. The legal framework. | 그렇죠. 법적 틀이요.
+[04:47.92]
+B | Yeah. The Korean Health Functional Foods Act. | 네. 한국의 건강기능식품에 관한 법률이에요.
+[04:50.84]
+B | It serves as the framework for this study and it essentially splits the world of functional ingredients into two very distinct regulatory pathways. | 이 법이 이 연구의 틀이 되는데, 기본적으로 기능성 원료의 세계를 아주 다른 두 가지 규제 경로로 나눠요.
+[04:58.10]
+A | And understanding those two pathways is essentially the skeleton key to the entire study. | 그리고 그 두 경로를 이해하는 게 사실상 이 연구 전체를 여는 만능 열쇠예요.
+[05:02.80]
+B | Okay. So, pathway number one, | 좋아요. 자, 경로 1번은,
+[05:04.00]
+A | the first category is referred to as notified ingredients. There are exactly 85 of these currently on the register. | 첫 번째 범주는 '고시형 원료'라고 불러요. 현재 목록에 정확히 85개가 있어요.
+[05:07.92]
+B | 85, | 85개요,
+[05:11.84]
+A | right? | 그렇죠?
+[05:12.40]
+A | And these are the compounds that are universally recognized by the scientific community. | 그리고 이건 과학계에서 보편적으로 인정받는 화합물들이에요.
+[05:17.22]
+A | We're talking about essential vitamins, trace minerals, common dietary fibers, | 필수 비타민, 미량 무기질, 흔한 식이섬유 같은 것들이요.
+[05:22.16]
+B | like the household names, vitamin C, calcium, magnesium, things that have been, you know, in biology textbooks for decades. | 누구나 아는 이름들이죠. 비타민 C, 칼슘, 마그네슘처럼 수십 년 동안 생물학 교과서에 있던 것들이요.
+[05:28.58]
+A | Exactly. | 맞아요.
+[05:29.04]
+A | For those notified ingredients, the government has already done the heavy lifting, | 그런 고시형 원료는 정부가 이미 힘든 일을 다 해 놓았어요.
+[05:31.50]
+B | right? | 그렇죠?
+[05:33.96]
+A | They've established the standards, the required dosages, the safety specifications, and they publish all of this openly in the health functional food code. | 기준, 필요한 섭취량, 안전 규격을 정해 놓고, 이 모든 걸 건강기능식품 공전에 공개적으로 실어요.
+[05:42.28]
+B | So, it's basically public knowledge | 그러니까 기본적으로 공공 지식이네요.
+[05:44.02]
+A | completely because the rules and the underlying science are open source. | 완전히요. 규칙과 그 밑의 과학이 오픈 소스니까요.
+[05:48.00]
+A | Any business that complies with those manufacturing standards can produce and sell a supplement using those ingredients. | 그 제조 기준을 지키는 업체라면 누구나 그 원료로 영양제를 만들어 팔 수 있어요.
+[05:53.82]
+A | It operates almost like public property. | 거의 공공재처럼 작동하는 거죠.
+[05:56.04]
+B | Okay, that makes sense. | 좋아요, 이해돼요.
+[05:57.30]
+A | But the second pathway is where all this structural opacity gets introduced. Right. | 그런데 두 번째 경로에서 이 모든 구조적 불투명성이 생겨나요. 그렇죠.
+[06:01.98]
+B | That's right. | 맞아요.
+[06:02.44]
+A | These are the individually recognized ingredients | 이건 '개별인정형 원료'예요.
+[06:06.46]
+B | and there are a lot more of them. | 그리고 그게 훨씬 더 많아요.
+[06:07.68]
+A | Way more. 521 compared to just the 85 notified ones. And this pathway operates on a completely different philosophy. | 훨씬 많죠. 고시형 85개에 비해 521개예요. 그리고 이 경로는 완전히 다른 철학으로 움직여요.
+[06:15.48]
+B | Yeah. A philosophy built entirely around proprietary ownership. | 네. 전적으로 독점적 소유를 중심으로 세워진 철학이죠.
+[06:17.66]
+A | Exactly. | 맞아요.
+[06:19.84]
+A | An individually recognized ingredient gets its approval based on a highly detailed, comprehensive dossier of evidence that is submitted by one specific business. | 개별인정형 원료는 한 특정 업체가 제출한 아주 상세하고 포괄적인 증거 서류(도시에)를 바탕으로 승인을 받아요.
+[06:28.82]
+B | Okay. So, give me an example of how that works. | 좋아요. 그럼 그게 어떻게 돌아가는지 예를 들어 주세요.
+[06:30.32]
+A | Sure. | 그럼요.
+[06:31.86]
+A | Imagine a company spends 5 years developing a novel proprietary extract from some rare plant and they claim it improves cognitive focus. | 어떤 회사가 희귀 식물에서 새로운 독점 추출물을 5년 동안 개발하고, 그게 인지 집중력을 높인다고 주장한다고 해 봐요.
+[06:40.08]
+B | Okay. | 네.
+[06:40.88]
+A | So they fund human clinical trials. They gather the raw data. | 그래서 인체 임상시험에 돈을 대요. 원자료를 모아요.
+[06:44.30]
+A | They analyze the results and then they submit this massive binder of evidence to the regulator. | 결과를 분석하고, 이 거대한 증거 바인더를 규제 기관에 제출해요.
+[06:49.98]
+B | And if the government scientists review it and approve it, | 그리고 정부 과학자들이 검토해서 승인하면,
+[06:53.28]
+A | then that regulatory recognition belongs exclusively to that one business. | 그 규제상의 인정은 오직 그 한 업체에만 속해요.
+[06:57.64]
+A | No other company can simply start using that specific extract with that specific health claim without going through their own arduous approval process. | 다른 회사는 자기만의 힘든 승인 절차를 거치지 않고는 그 특정 추출물을 그 특정 기능 표시로 그냥 쓸 수 없어요.
+[07:06.38]
+B | Okay. | 그렇군요.
+[07:06.72]
+B | And here is the detail that sets up the premise of this entire deep dive. How those dossiers are actually classified. | 그리고 여기 이번 딥다이브 전체의 전제를 세우는 세부 사항이 있어요. 그 서류들이 실제로 어떻게 분류되느냐예요.
+[07:13.54]
+A | This is the kicker. | 이게 핵심 반전이죠.
+[07:14.94]
+B | Yeah. | 네.
+[07:15.68]
+B | The binders full of human trial results, like the actual proof that the plant extract improves cognitive focus. | 인체 시험 결과로 가득한 바인더, 그러니까 그 식물 추출물이 인지 집중력을 높인다는 실제 증거요.
+[07:22.30]
+B | They are treated as confidential trade secrets. | 그건 기밀 영업 비밀로 취급돼요.
+[07:24.76]
+A | Yep. | 네.
+[07:24.94]
+B | The public is legally barred from seeing them. | 대중은 법적으로 그걸 볼 수 없어요.
+[07:28.44]
+B | It honestly feels like going to a restaurant that has a grade-A health inspection rating proudly displayed in the front window, | 솔직히 앞 창문에 위생 점검 A등급을 자랑스럽게 붙여 놓은 식당에 가는 것 같아요.
+[07:34.90]
+A | right? | 그렇죠?
+[07:35.46]
+B | But the kitchen doors are permanently deadbolted. | 그런데 주방 문은 영구적으로 이중 잠금이 걸려 있어요.
+[07:37.64]
+B | The windows are completely blacked out and you aren't allowed to see how the food is being handled or prepared. | 창문은 완전히 가려져 있어서 음식이 어떻게 다뤄지고 조리되는지 볼 수 없어요.
+[07:42.76]
+B | You're just told to trust the inspector. | 그냥 점검관을 믿으라는 말만 듣는 거죠.
+[07:45.14]
+## 왜 주방 문을 잠글까 — 영업 비밀의 경제학
+A | The restaurant analogy really highlights the consumer frustration there. | 식당 비유가 거기서 소비자의 답답함을 정말 잘 보여 주네요.
+[07:48.48]
+A | But, you know, we also have to examine the structural and economic rationale for why those kitchen doors are locked in the first place, | 그런데, 있잖아요, 애초에 왜 그 주방 문이 잠겨 있는지 구조적·경제적 이유도 살펴봐야 해요.
+[07:54.94]
+B | right? Because they don't just do it to be evil. | 그렇죠? 악의로 그러는 건 아니니까요.
+[07:56.86]
+A | No, of course not. | 네, 물론 아니죠.
+[07:57.94]
+B | Developing a novel health ingredient is not cheap. | 새로운 건강 원료를 개발하는 건 싸지 않아요.
+[08:01.18]
+B | Running phase 1, two, and three clinical trials, ensuring all the safety protocols, conducting long-term efficacy studies. | 1상, 2상, 3상 임상시험을 돌리고, 모든 안전 절차를 지키고, 장기 효능 연구를 하고요.
+[08:09.14]
+B | I mean, that requires a massive capital investment. We're often talking millions of dollars. | 그러니까 막대한 자본 투자가 필요해요. 흔히 수백만 달러 얘기예요.
+[08:14.36]
+A | Oh, wow. | 와, 그렇군요.
+[08:15.20]
+B | So, if a company spends $10 million proving their proprietary plant extract works, and the government immediately publishes their entire methodology, their chemical extraction process, and their trial data for the world to see, | 그래서 어떤 회사가 자기 독점 식물 추출물이 효과 있다는 걸 증명하는 데 1,000만 달러를 썼는데, 정부가 곧바로 그 회사의 방법론 전체, 화학 추출 공정, 시험 데이터를 온 세상에 공개해 버리면,
+[08:27.76]
+A | the economic incentive to innovate just totally evaporates. | 혁신할 경제적 동기가 완전히 사라져 버리죠.
+[08:29.65]
+B | Exactly. | 맞아요.
+[08:31.54]
+B | A rival company could simply download the data, reverse engineer the product, and sell it at half the price because they didn't have to recoup $10 million in research and development costs. | 경쟁사가 그냥 데이터를 내려받아 제품을 역설계하고 반값에 팔 수 있어요. 연구개발비 1,000만 달러를 회수할 필요가 없으니까요.
+[08:39.94]
+A | Right. The secrecy is literally the only thing protecting the investment. | 그렇죠. 비밀 유지가 말 그대로 투자를 지켜 주는 유일한 장치예요.
+[08:44.40]
+A | Without it, companies would just wait for someone else to do the research and then copy it. | 그게 없으면 회사들은 그냥 누군가 연구하기를 기다렸다가 베끼겠죠.
+[08:48.20]
+B | Precisely. | 바로 그거예요.
+[08:49.14]
+## 선택적 보고와 산업계 편향
+A | So, I understand the business logic completely. | 그러니까 비즈니스 논리는 완전히 이해해요.
+[08:51.72]
+A | But from a purely scientific perspective, if a team of government experts, you know, people with PhDs in biochemistry and pharmacology, if they've reviewed the dossier and signed off on it. | 그런데 순수하게 과학적 관점에서 보면, 정부 전문가 팀이, 그러니까 생화학과 약리학 박사들이 그 서류를 검토하고 승인했다면요.
+[09:01.52]
+A | Why does it matter? | 그게 왜 중요하죠?
+[09:03.28]
+B | That's the big question. | 그게 큰 질문이에요.
+[09:04.90]
+A | Why do independent university researchers or just curious consumers need to see the raw data? The inspector said the kitchen is clean. | 왜 독립 대학 연구자나 그냥 궁금한 소비자가 원자료를 봐야 하죠? 점검관이 주방이 깨끗하다고 했잖아요.
+[09:11.84]
+B | Well, we demand open science because the history of biomedical research is just littered with examples of what happens when evidence is kept secret. | 음, 우리가 열린 과학을 요구하는 건, 증거를 비밀로 할 때 무슨 일이 생기는지 보여 주는 사례가 생의학 연구 역사에 널려 있기 때문이에요.
+[09:20.02]
+A | Fair point. | 일리 있네요.
+[09:20.26]
+B | The most pressing issue here is the statistical phenomenon known as selective reporting. | 여기서 가장 시급한 문제는 '선택적 보고'라고 하는 통계적 현상이에요.
+[09:25.38]
+A | Okay. What does that look like in practice? | 좋아요. 실제로는 어떤 모습인가요?
+[09:27.06]
+B | Let's say our hypothetical company runs five separate clinical trials on their new cognitive focus extract. | 가상의 회사가 새 인지 집중력 추출물로 임상시험을 따로따로 다섯 번 한다고 해 봐요.
+[09:33.38]
+B | Three of those trials show that the extract does absolutely nothing compared to a placebo. | 그중 세 번은 추출물이 위약에 비해 전혀 아무 효과도 없다고 나와요.
+[09:37.82]
+A | Okay, so a failure, | 좋아요, 그럼 실패네요,
+[09:39.18]
+B | right? | 그렇죠?
+[09:39.82]
+B | But two of the trials, maybe just by a statistical chance or a slightly different testing demographic, they show a marginal benefit. | 그런데 두 번은, 아마 그냥 통계적 우연이나 약간 다른 시험 대상 집단 때문에, 미미한 효과를 보여요.
+[09:47.12]
+A | I see where this is going. | 어디로 가는 얘기인지 알겠네요.
+[09:48.26]
+B | Yeah. | 네.
+[09:49.00]
+B | If the data is locked in a confidential dossier, the company faces a massive temptation to only ever publish or publicize the two positive trials while quietly filing away the three negative ones into a desk drawer. | 데이터가 기밀 서류 안에 잠겨 있으면, 회사는 긍정적인 시험 두 건만 발표하거나 홍보하고, 부정적인 세 건은 조용히 책상 서랍에 넣어 두고 싶은 엄청난 유혹을 받아요.
+[10:02.92]
+A | Wow. | 와.
+[10:03.62]
+A | Which means the regulator reviewing the dossier might see all five trials. | 그러니까 서류를 검토하는 규제 기관은 다섯 건을 다 볼 수도 있다는 거네요.
+[10:07.72]
+B | Maybe if they're required to submit all of them, | 전부 제출하도록 요구된다면 아마도요.
+[10:10.52]
+A | but the independent scientific community and the public only ever hear about the two successes. | 하지만 독립 과학계와 대중은 성공한 두 건만 듣게 되죠.
+[10:15.62]
+B | Exactly. | 맞아요.
+[10:16.64]
+B | It creates a completely skewed perception of the ingredient's actual success rate. It artificially inflates the perceived efficacy. | 그러면 그 원료의 실제 성공률에 대해 완전히 왜곡된 인식이 생겨요. 체감 효능이 인위적으로 부풀려지는 거죠.
+[10:23.84]
+A | That is so sketchy. | 정말 수상하네요.
+[10:25.58]
+B | It is. | 그렇죠.
+[10:26.26]
+B | And beyond selective reporting, there's the inherent issue of industry bias. | 그리고 선택적 보고 말고도, 산업계 편향이라는 근본적인 문제가 있어요.
+[10:30.96]
+B | Meta-research, which is basically the study of research itself, has consistently shown that trials sponsored by the company that stands to profit are statistically far more likely to reach favorable conclusions than independently funded research. | 메타연구, 그러니까 연구 자체를 연구하는 분야는 이익을 볼 회사가 후원한 시험이 독립적으로 자금을 받은 연구보다 유리한 결론에 이를 가능성이 통계적으로 훨씬 높다는 걸 일관되게 보여 줬어요.
+[10:42.98]
+A | But does that mean the companies are committing outright fraud or faking data? | 그런데 그게 회사들이 노골적인 사기를 치거나 데이터를 조작한다는 뜻인가요?
+[10:47.90]
+B | Not usually. No. | 보통은 아니에요. 아니죠.
+[10:49.38]
+B | It often manifests in the subtle architecture of the trial design. | 흔히 시험 설계의 미묘한 구조에서 드러나요.
+[10:52.88]
+A | What do you mean? | 무슨 뜻이에요?
+[10:53.76]
+B | Like how long did the trial last? What specific demographic was chosen? What was the baseline health of the participants? | 시험을 얼마나 오래 했나? 어떤 특정 집단을 골랐나? 참가자들의 기저 건강 상태는 어땠나?
+[11:01.12]
+B | If the evidence isn't public, independent scientists cannot scrutinize the methodology to see if the trial was designed in a way that essentially guaranteed a positive result. | 증거가 공개되지 않으면, 독립 과학자들은 그 시험이 사실상 긍정적 결과가 보장되도록 설계됐는지 방법론을 꼼꼼히 따져 볼 수 없어요.
+[11:10.18]
+A | Oh wow. They can't check the math, | 와. 계산을 확인할 수가 없네요,
+[11:12.98]
+B | right? They cannot check the statistical models for manipulation. | 그렇죠? 통계 모델에 조작이 있는지 확인할 수 없어요.
+[11:17.10]
+B | And most importantly, they cannot attempt to replicate the findings in their own labs. | 그리고 가장 중요한 건, 자기 실험실에서 그 결과를 재현해 볼 수도 없다는 거예요.
+[11:20.70]
+A | Yeah. | 네.
+[11:21.38]
+B | In the realm of science, truth is never established by authority. Not even government authority. | 과학의 영역에서 진리는 결코 권위로 세워지지 않아요. 정부의 권위로도요.
+[11:26.14]
+B | Truth is established solely by transparency and reproducibility. When you lock the data away as a trade secret. | 진리는 오직 투명성과 재현성으로 세워져요. 데이터를 영업 비밀로 잠가 두면,
+[11:32.26]
+B | You replace the scientific method with institutional trust. | 과학적 방법을 제도에 대한 신뢰로 바꿔치기하는 거예요.
+[11:35.52]
+## 연구 방법 — 606개 전수 조사와 100점 기준표
+A | Which brings us to the core challenge Choongho Lee faced when designing this audit. | 그게 이충호 연구자가 이 감사를 설계할 때 마주한 핵심 과제로 이어지네요.
+[11:38.82]
+A | If the kitchen doors are legally locked, how do you actually figure out what kind of science is supporting these products? | 주방 문이 법적으로 잠겨 있다면, 이 제품들을 어떤 과학이 뒷받침하는지 도대체 어떻게 알아내죠?
+[11:45.96]
+B | It's a huge methodological hurdle. | 방법론적으로 큰 장애물이에요.
+[11:48.36]
+A | And the methodology here is just staggering in its scale. | 그리고 여기 방법론은 규모가 정말 어마어마해요.
+[11:51.68]
+A | Lee didn't just pick a random sample of 20 popular supplements. | 이 연구자는 인기 영양제 20개를 무작위로 뽑는 데 그치지 않았어요.
+[11:54.90]
+A | They conducted a full census of all 606 ingredients on the register, a monumental task. | 목록에 있는 606개 원료 전부를 전수 조사했어요. 엄청난 작업이죠.
+[12:01.52]
+B | Yeah. | 네.
+[12:02.00]
+B | They effectively launched this massive dragnet across the public domain to see what evidence had actually leaked out or had been voluntarily published by the companies | 사실상 공개 영역 전체에 거대한 그물을 던져서, 어떤 증거가 실제로 새어 나왔거나 회사가 자발적으로 발표했는지 본 거예요.
+[12:10.66]
+A | and the search protocol they used was exhaustive. | 그리고 사용한 검색 프로토콜은 빈틈이 없었어요.
+[12:13.44]
+A | For every single ingredient, the researchers scoured PubMed, which is, you know, the preeminent global database for biomedical literature, right? | 원료 하나하나마다 연구자는 PubMed를 샅샅이 뒤졌어요. 아시다시피 생의학 문헌의 대표적인 세계 데이터베이스죠.
+[12:20.64]
+B | They searched official academic journal websites and Google Scholar. And they didn't just search the common names. No, | 공식 학술지 웹사이트와 구글 스칼라도 검색했어요. 그리고 흔한 이름만 검색한 게 아니에요. 네,
+[12:27.16]
+A | they used the Korean terminology, the English nomenclature, the proprietary alphanumeric product codes and even the highly specific bacterial strain designations for probiotics. | 한국어 용어, 영어 명칭, 독점 영숫자 제품 코드, 심지어 프로바이오틱스의 아주 구체적인 균주 이름까지 썼어요.
+[12:36.68]
+B | Well, they left no stone unturned. | 정말 샅샅이 뒤졌네요.
+[12:38.42]
+A | The objective was to locate any publicly available human clinical trials or systematic reviews of those trials that could scientifically substantiate the specific health claims the government had approved. | 목표는 정부가 승인한 특정 기능 표시를 과학적으로 뒷받침할 수 있는, 공개된 인체 임상시험이나 그 시험들의 체계적 문헌고찰을 찾는 거였어요.
+[12:49.54]
+B | But finding the papers was only step one, right? | 그런데 논문을 찾는 건 1단계일 뿐이었죠?
+[12:52.26]
+B | Once the literature was found, it actually had to be evaluated. | 문헌을 찾고 나면 실제로 평가를 해야 했어요.
+[12:55.68]
+A | Yes. And this is where it gets really rigorous. | 네. 그리고 여기서부터 정말 엄격해져요.
+[12:57.84]
+B | The researcher created a 100-point grading rubric divided into seven distinct domains to score the quality of the evidence. | 연구자는 증거의 질을 채점하려고 7개 영역으로 나눈 100점 만점 평가 기준표를 만들었어요.
+[13:06.22]
+B | Now, breaking down this rubric is crucial because it acts as a masterclass in what the scientific community actually values when they look at a study. | 이 기준표를 뜯어보는 게 중요한데, 과학계가 연구를 볼 때 실제로 무엇을 중시하는지 보여 주는 명강의 같거든요.
+[13:14.52]
+A | Right? It's not just about getting a paper published. It's about the structural integrity of the experiment itself. | 그렇죠? 논문을 출판하는 것만의 문제가 아니에요. 실험 자체의 구조적 완결성 문제죠.
+[13:20.02]
+B | Okay. | 좋아요.
+[13:20.26]
+B | So, let's look at the weights assigned uh to each domain. | 그럼 각 영역에 배정된 가중치를 볼까요.
+[13:22.98]
+A | The largest single category which is worth 20 points is effect size and statistical rigor. | 가장 큰 단일 범주는 20점짜리인데, 효과 크기와 통계적 엄밀성이에요.
+[13:29.14]
+B | Okay. Effect size. | 좋아요. 효과 크기요.
+[13:30.72]
+A | This domain looks past the simple question of whether an ingredient worked and asks how well it worked. | 이 영역은 원료가 효과가 있었느냐는 단순한 질문을 넘어, 얼마나 잘 효과가 있었느냐를 물어요.
+[13:35.72]
+B | Okay? Because there's a difference, | 그렇죠? 차이가 있으니까요,
+[13:36.84]
+A | a huge difference. | 엄청난 차이죠.
+[13:37.66]
+A | In statistics, you can have a result that is statistically significant, but clinically meaningless. | 통계에서는 통계적으로 유의하지만 임상적으로는 의미 없는 결과가 나올 수 있어요.
+[13:42.50]
+B | And give me an example of that. | 그 예를 하나 들어 주세요.
+[13:43.62]
+A | Sure. Say a supplement lowers your blood pressure by 0.01%. | 그럼요. 어떤 영양제가 혈압을 0.01% 낮춘다고 해 봐요.
+[13:47.82]
+A | A massive trial might prove that the effect is real and not just due to chance. | 대규모 시험이라면 그 효과가 진짜이고 그냥 우연이 아니라는 걸 증명할 수도 있어요.
+[13:51.60]
+A | But does a 0.01% drop actually matter to your cardiovascular health? | 그런데 0.01% 떨어진 게 심혈관 건강에 실제로 의미가 있을까요?
+[13:55.98]
+B | Uh, no. | 어, 아니요.
+[13:56.92]
+A | Exactly. | 맞아요.
+[13:57.72]
+B | I'm guessing not at all. | 전혀 없을 것 같은데요.
+[13:58.58]
+A | No doctor cares about that. | 어떤 의사도 그건 신경 안 써요.
+[14:00.10]
+A | So the rubric rewards trials that demonstrate consistently large biologically meaningful effects using robust statistical models. | 그래서 기준표는 탄탄한 통계 모델로 일관되게 크고 생물학적으로 의미 있는 효과를 보여 주는 시험에 점수를 줘요.
+[14:08.20]
+B | Okay, that makes total sense. | 좋아요, 완전히 이해돼요.
+[14:09.98]
+B | Following that, you have three major categories, each worth 15-points. So that's study design, participants and attrition, and replication. | 그다음에는 각각 15점짜리 주요 범주가 세 개 있어요. 연구 설계, 참가자와 탈락, 그리고 재현이요.
+[14:19.00]
+A | Let's walk through the mechanics of those, starting with study design. | 연구 설계부터 시작해서 그 구조를 하나씩 살펴보죠.
+[14:22.34]
+B | Yeah, let's do it. | 네, 해 봐요.
+[14:23.18]
+A | The rubric heavily favors the double-blind randomized controlled trial, | 기준표는 이중맹검 무작위 대조시험을 크게 우대해요.
+[14:27.52]
+B | which I hear all the time, but for anyone who hasn't taken a stats class recently, why is that the gold standard? | 그 말은 늘 듣는데, 최근에 통계 수업을 안 들은 분들을 위해서요. 그게 왜 최고 기준인가요?
+[14:34.16]
+B | Why are observational studies considered weaker? | 왜 관찰 연구는 더 약하다고 보나요?
+[14:36.86]
+A | Good question. | 좋은 질문이에요.
+[14:37.74]
+A | An observational study simply looks at a population in the real world. | 관찰 연구는 그냥 현실 세계의 집단을 들여다보는 거예요.
+[14:41.62]
+A | You might observe that people who drink green tea have lower rates of heart disease, | 녹차를 마시는 사람들이 심장병 발생률이 더 낮다는 걸 관찰할 수도 있어요.
+[14:45.96]
+B | right? You see that in the news all the time. | 그렇죠? 뉴스에서 늘 보잖아요.
+[14:47.32]
+A | But observational studies are plagued by confounding variables. | 하지만 관찰 연구는 교란 변수에 시달려요.
+[14:51.44]
+A | Perhaps people who drink green tea also happen to exercise more or they eat less processed meat. | 어쩌면 녹차 마시는 사람들이 운동도 더 하거나 가공육을 덜 먹을 수도 있어요.
+[14:56.44]
+A | You cannot isolate the green tea as the causal factor. You don't know what's actually doing the work. | 녹차만 원인으로 따로 떼어 낼 수가 없죠. 실제로 무엇이 효과를 내는지 모르는 거예요.
+[15:01.68]
+B | Exactly. | 맞아요.
+[15:02.58]
+B | A randomized controlled trial, an RCT, eliminates those variables by taking a group of people and randomly assigning half to take the supplement and half to take a placebo. | 무작위 대조시험, 즉 RCT는 한 무리의 사람을 모아 절반은 영양제, 절반은 위약을 먹도록 무작위로 배정해서 그런 변수를 없애요.
+[15:11.70]
+A | And what about the double-blind aspect? Why is that so important? | 그럼 이중맹검이라는 부분은요? 그게 왜 그렇게 중요하죠?
+[15:15.62]
+B | The double-blind mechanism is vital for removing observer bias. | 이중맹검 장치는 관찰자 편향을 없애는 데 필수예요.
+[15:19.30]
+B | It means neither the participants nor the researchers handing out the pills know who is getting the real supplement and who is getting the placebo. | 참가자도, 알약을 나눠 주는 연구자도 누가 진짜 영양제를 받고 누가 위약을 받는지 모른다는 뜻이에요.
+[15:26.60]
+A | Oh, so even the doctor doesn't know, | 아, 그러니까 의사도 모르는군요,
+[15:28.08]
+B | right? | 그렇죠?
+[15:28.88]
+B | Because if a researcher knows they are giving a patient the active ingredient, their body language, the way they ask questions about symptoms, their general demeanor, it can unconsciously influence the patients' reported outcomes. | 연구자가 환자에게 활성 성분을 주고 있다는 걸 알면, 그 사람의 몸짓, 증상을 묻는 방식, 전반적인 태도가 환자가 보고하는 결과에 무의식적으로 영향을 줄 수 있거든요.
+[15:40.36]
+A | That is so wild to think about. | 생각해 보면 정말 놀랍네요.
+[15:42.98]
+B | And if the patient knows they're getting the real drug, the placebo effect kicks in. | 그리고 환자가 진짜 약을 받는다는 걸 알면 위약 효과가 작동해요.
+[15:47.80]
+B | Blinding both sides ensures that any measured difference in outcome is due entirely to the biological action of the compound, not the psychological expectations of the humans involved. | 양쪽을 다 가리면, 측정된 결과 차이가 관련된 사람들의 심리적 기대가 아니라 전적으로 화합물의 생물학적 작용 때문이라는 게 보장돼요.
+[15:58.14]
+A | Okay, which flows perfectly into the 15-point category which is participants and attrition. | 좋아요, 그게 15점짜리 범주인 참가자와 탈락으로 자연스럽게 이어지네요.
+[16:03.50]
+B | Yes. | 네.
+[16:04.66]
+A | The rubric asks how many people were actually in this trial because testing an ingredient on 10 people versus a thousand people completely changes the reliability of the data. | 기준표는 실제로 이 시험에 몇 명이 참여했는지 물어요. 원료를 10명에게 시험하느냐 1,000명에게 시험하느냐에 따라 데이터의 신뢰도가 완전히 달라지니까요.
+[16:14.60]
+A | Right? | 그렇죠?
+[16:15.20]
+B | It's like flipping a coin, | 동전 던지기 같은 거예요,
+[16:16.28]
+A | right? | 그렇죠?
+[16:16.88]
+B | If you flip a coin four times, you might get four heads in a row just by random chance. | 동전을 네 번 던지면 그냥 우연으로 앞면이 네 번 연속 나올 수도 있어요.
+[16:21.60]
+B | But if you flip it 400 times, the laws of probability will force it closer to a 50/50 split. | 하지만 400번 던지면 확률의 법칙이 50 대 50에 더 가깝게 만들어요.
+[16:27.86]
+A | Exactly. | 맞아요.
+[16:29.20]
+B | A tiny sample size in a clinical trial leaves far too much room for random biological noise to look like a miraculous cure. | 임상시험의 표본 크기가 작으면 무작위적인 생물학적 잡음이 기적의 치료처럼 보일 여지가 너무 많아요.
+[16:36.38]
+A | And attrition, the number of people who drop out before the study ends. That's just as important. | 그리고 탈락, 연구가 끝나기 전에 그만두는 사람 수도 똑같이 중요하죠.
+[16:41.54]
+B | Attrition is often a hidden indicator of safety or tolerability issues. | 탈락은 흔히 안전성이나 내약성 문제를 숨겨 보여 주는 지표예요.
+[16:46.32]
+A | Oh, like if it makes them sick. | 아, 그게 사람들을 아프게 하는 경우처럼요.
+[16:47.76]
+B | Yeah. | 네.
+[16:48.48]
+B | If a trial starts with 100 people, but 40 of them drop out by week three because the supplement causes severe nausea, you can't just publish the glowing results of the 60 people who stayed and claim the product a resounding success. | 시험을 100명으로 시작했는데, 영양제가 심한 메스꺼움을 일으켜서 3주 차까지 40명이 그만뒀다면, 남은 60명의 화려한 결과만 발표하고 제품이 대성공이라고 주장할 수는 없어요.
+[17:01.18]
+A | Yeah, that would be incredibly misleading. | 네, 그건 엄청나게 오해를 부르겠네요.
+[17:03.40]
+B | High attrition rates severely compromise the integrity of the final data set. | 탈락률이 높으면 최종 데이터의 완결성이 심각하게 훼손돼요.
+[17:06.78]
+A | All right, so the final 15-point major category is replication. | 좋아요, 그럼 마지막 15점짜리 주요 범주는 재현이에요.
+[17:11.70]
+A | Has another independent group of researchers run the exact same trial and gotten the exact same results. | 다른 독립 연구진이 똑같은 시험을 해서 똑같은 결과를 얻었는가.
+[17:18.08]
+B | And we will dive much deeper into why replication is the bedrock of science in a moment. | 그리고 왜 재현이 과학의 기반인지는 잠시 후에 훨씬 깊이 다룰 거예요.
+[17:23.36]
+A | We definitely will. | 꼭 다뤄야죠.
+[17:24.60]
+A | And the remaining 20 points are split between funding independence, journal standing, and safety and adverse events. | 그리고 나머지 20점은 자금 독립성, 학술지 위상, 안전성과 이상 반응으로 나뉘어요.
+[17:32.08]
+B | Right? | 그렇죠?
+[17:32.92]
+A | But you know, before we look at the results of this audit, I kind of want to pose a challenge to the entire methodology. | 그런데 있잖아요, 이 감사 결과를 보기 전에 방법론 전체에 대해 이의를 하나 제기하고 싶어요.
+[17:38.20]
+B | Go for it. | 해 보세요.
+[17:39.04]
+A | A 100-point rubric that demands double-blind multi-center trials and massive sample sizes. | 이중맹검 다기관 시험과 대규모 표본을 요구하는 100점 만점 기준표라니요.
+[17:44.76]
+A | It feels incredibly clinical like that is the standard you use to evaluate a new chemotherapy drug or a revolutionary cardiovascular medication. | 너무나 임상적으로 느껴져요. 새 항암제나 혁신적인 심혈관 약을 평가할 때 쓰는 기준 같아요.
+[17:54.06]
+B | It is a very high bar. | 아주 높은 기준이죠.
+[17:55.98]
+A | So is it intellectually fair to apply that same punishing standard to a simple plant extract or a digestive enzyme. | 그럼 그렇게 가혹한 기준을 간단한 식물 추출물이나 소화 효소에 똑같이 적용하는 게 지적으로 공정할까요?
+[18:03.74]
+B | Well, the author of the study anticipates that exact critique and they make a very careful distinction in the text. | 음, 연구의 저자도 바로 그 비판을 예상하고 본문에서 아주 신중하게 구분해요.
+[18:09.82]
+B | This rubric is not designed to measure the inherent biological worth of the ingredient. | 이 기준표는 원료의 본래 생물학적 가치를 측정하려고 만든 게 아니에요.
+[18:14.28]
+A | Okay. | 그렇군요.
+[18:14.92]
+B | It is strictly measuring the quality of the publicly verifiable evidence. | 엄격하게 공개적으로 검증 가능한 증거의 질만 측정하는 거예요.
+[18:18.90]
+A | Oh, I see. | 아, 알겠어요.
+[18:19.76]
+B | If a specific plant extract scores a 20 out of 100 or if the researcher couldn't find any public evidence at all and had to classify it as non-evaluable, the study is not declaring that the plant extract is fraudulent or ineffective | 어떤 식물 추출물이 100점 중 20점을 받거나, 연구자가 공개 증거를 전혀 못 찾아서 '평가 불가'로 분류했다고 해서, 연구가 그 식물 추출물이 가짜이거나 효과가 없다고 선언하는 게 아니에요.
+[18:32.30]
+A | because the government regulator almost certainly reviewed high-quality double-blind trials inside that confidential dossier. | 정부 규제 기관은 그 기밀 서류 안에서 질 높은 이중맹검 시험을 거의 확실히 검토했을 테니까요.
+[18:39.52]
+B | Precisely. | 바로 그거예요.
+[18:40.36]
+B | The rubric is simply pointing out that you, the consumer, cannot see them. | 기준표는 단지 소비자인 여러분이 그걸 볼 수 없다는 걸 지적하는 거예요.
+[18:44.68]
+B | It is a measurement of transparency and public scientific consensus, not a verdict on efficacy. | 효능에 대한 판정이 아니라 투명성과 공개적인 과학적 합의를 재는 척도예요.
+[18:50.52]
+A | Okay, that makes sense. | 좋아요, 이해돼요.
+[18:52.10]
+## 결과 ① — 목록의 3분의 1은 어둠 속
+A | So, with the rules of the game and the grading scale established, let's look at what this massive search of the public domain actually uncovered. | 자, 게임의 규칙과 채점 기준이 정해졌으니, 이 거대한 공개 영역 검색이 실제로 무엇을 밝혀냈는지 보죠.
+[18:59.84]
+A | This is where it gets really interesting. | 여기서부터 정말 흥미로워져요.
+[19:01.82]
+B | Out of the 606 functional ingredients legally approved by the government, how many had human trial evidence that a consumer or an independent doctor could actually locate and read? | 정부가 법적으로 승인한 606개 기능성 원료 중, 소비자나 독립 의사가 실제로 찾아 읽을 수 있는 인체 시험 증거가 있는 건 몇 개였을까요?
+[19:12.80]
+A | The baseline finding is quite stark. | 기본 결과는 꽤 냉혹해요.
+[19:15.18]
+B | Out of all 606 ingredients, human trial literature was publicly identifiable for 404 of them. | 606개 원료 전체 중 인체 시험 문헌을 공개적으로 확인할 수 있었던 건 404개였어요.
+[19:22.64]
+A | Okay, 404. | 좋아요, 404개요.
+[19:23.82]
+B | Okay, | 네,
+[19:25.00]
+A | that translates to exactly 66.7%. Exactly 2/3 of the register. | 정확히 66.7%예요. 목록의 딱 3분의 2죠.
+[19:31.34]
+B | Which leaves 1/3 of the register completely in the dark. | 그러면 목록의 3분의 1은 완전히 어둠 속에 남는 거네요.
+[19:34.99]
+A | Yes. | 네.
+[19:38.64]
+B | 33.3% which is 202 specific ingredients had zero identifiable public human trials. | 33.3%, 즉 202개 원료는 확인 가능한 공개 인체 시험이 하나도 없었어요.
+[19:44.90]
+B | Not a single paper proving they work in humans could be found by the researcher. | 사람에게 효과가 있다는 걸 증명하는 논문을 연구자가 단 한 편도 찾을 수 없었어요.
+[19:48.90]
+A | And when you break down that absence of data by the two regulatory pathways we discussed earlier, the structural opacity becomes immediately visible. | 그리고 그 데이터 부재를 앞에서 말한 두 규제 경로별로 나눠 보면, 구조적 불투명성이 바로 드러나요.
+[19:57.24]
+B | How so? | 어떻게요?
+[19:57.60]
+A | For the notified ingredients, you know, the public non-proprietary vitamins and minerals, an overwhelming 94.1% had public literature available. | 고시형 원료, 그러니까 공공의 비독점 비타민과 무기질은 무려 94.1%가 공개 문헌이 있었어요.
+[20:07.36]
+B | Wow. Okay. | 와. 그렇군요.
+[20:08.48]
+A | But for the individually recognized ingredients, the proprietary compounds protected by trade secret dossiers, only 62.2% had any publicly verifiable human evidence. | 하지만 개별인정형 원료, 영업 비밀 서류로 보호받는 독점 화합물은 공개적으로 검증 가능한 인체 증거가 있는 게 62.2%뿐이었어요.
+[20:19.60]
+B | So, the proprietary pathway systematically shields data. | 그러니까 독점 경로가 체계적으로 데이터를 가리는 거네요.
+[20:22.86]
+A | The numbers don't lie. | 숫자는 거짓말을 안 하죠.
+[20:24.48]
+B | Let's examine those 202 missing ingredients. If they don't have human trials in the public domain. | 그 빠진 202개 원료를 살펴보죠. 공개 영역에 인체 시험이 없다면,
+[20:31.36]
+B | What kind of science is out there? | 어떤 과학이 나와 있는 거죠?
+[20:33.30]
+A | The study categorizes the available literature for these missing compounds. | 연구는 이 빠진 화합물들에 대해 구할 수 있는 문헌을 분류해요.
+[20:37.34]
+B | And what did they find? | 그래서 뭘 찾았나요?
+[20:38.70]
+A | It found that 117 of them only had animal or cell studies available to the public. | 그중 117개는 대중이 볼 수 있는 게 동물 실험이나 세포 실험뿐이었어요.
+[20:44.42]
+B | Just animals and cells, | 동물과 세포만요,
+[20:45.78]
+A | right? | 그렇죠?
+[20:46.58]
+A | 40 of them had literature, but it was for a completely different biological strain than the proprietary one being sold. | 40개는 문헌이 있긴 했는데, 판매되는 독점 균주와 완전히 다른 균주에 대한 것이었어요.
+[20:52.36]
+B | That's not helpful. | 그건 도움이 안 되네요.
+[20:52.98]
+A | And 43 of them had an absolute vacuum of relevant scientific literature. Nothing at all. | 그리고 43개는 관련 과학 문헌이 완전한 진공 상태였어요. 아무것도 없었어요.
+[20:59.58]
+B | Well, let's focus on those 117 ingredients that only offer animal and cell studies. Why isn't that enough to satisfy the rubric? | 음, 동물과 세포 연구만 있는 그 117개 원료에 집중해 보죠. 왜 그걸로는 기준표를 만족시키지 못하나요?
+[21:06.54]
+A | It comes down to the staggering complexity of human metabolism and systemic biology. | 인간 대사와 전신 생물학의 엄청난 복잡성 때문이에요.
+[21:12.62]
+B | Okay, expand on that. | 좋아요, 좀 더 설명해 주세요.
+[21:14.10]
+A | Well, in the early stages of drug or supplement development, in vitro studies, which means testing a compound on isolated cells in a petri dish, those are essential. | 음, 약이나 영양제 개발 초기 단계에서는 시험관 연구, 즉 배양 접시의 분리된 세포에 화합물을 시험하는 게 필수예요.
+[21:22.36]
+B | Sure, you have to start somewhere, | 그럼요, 어디선가는 시작해야 하니까요,
+[21:23.32]
+A | right? | 그렇죠?
+[21:24.28]
+A | Discovering that a specific antioxidant destroys cancer cells in a dish is a fantastic starting point. | 어떤 항산화제가 접시 안의 암세포를 파괴한다는 걸 발견하는 건 훌륭한 출발점이에요.
+[21:30.10]
+A | Moving to in vivo studies, testing on living animals like mice or rats is the next logical step. | 생체 내 연구, 즉 생쥐나 쥐 같은 살아 있는 동물에게 시험하는 게 다음 논리적 단계고요.
+[21:35.48]
+B | But | 하지만
+[21:36.18]
+A | but a mouse is not simply a miniature human, | 하지만 생쥐는 그냥 작은 인간이 아니에요,
+[21:39.42]
+B | right? | 그렇죠?
+[21:40.04]
+A | Their metabolic rates, their liver enzymes, the way their immune systems respond to foreign compounds, they are vastly different. | 대사율, 간 효소, 면역계가 외부 화합물에 반응하는 방식이 엄청나게 달라요.
+[21:47.60]
+A | The history of pharmacology is filled with thousands of miracle compounds that performed brilliantly in mice only to fail spectacularly or prove highly toxic the moment they were introduced to a human system. | 약리학의 역사는 생쥐에서는 훌륭한 성과를 냈다가 사람 몸에 들어가자마자 처참하게 실패하거나 독성이 강한 것으로 드러난 수천 개의 기적의 화합물로 가득해요.
+[21:58.74]
+B | Wow. | 와.
+[21:59.56]
+B | So, if a consumer is purchasing a joint health supplement based on an official government approval | 그러니까 소비자가 공식 정부 승인을 믿고 관절 건강 영양제를 사는데,
+[22:05.40]
+A | and the only science they can physically verify is a paper showing it reduced inflammation in a rat's knee, | 실제로 확인할 수 있는 과학이 쥐 무릎의 염증을 줄였다는 논문 하나뿐이라면,
+[22:11.50]
+B | that consumer is operating with a severe deficit of information. | 그 소비자는 심각한 정보 부족 상태에서 움직이는 거네요.
+[22:15.46]
+A | Exactly. | 맞아요.
+[22:16.34]
+A | The transition from animal models to human trials is where the vast majority of compounds fail. | 동물 모델에서 인체 시험으로 넘어가는 단계에서 대부분의 화합물이 실패해요.
+[22:22.44]
+A | Hiding that specific tier of evidence from the public creates a profound asymmetry. | 그 특정 단계의 증거를 대중에게 숨기면 심각한 정보 비대칭이 생겨요.
+[22:26.70]
+B | And the audit also revealed that this lack of evidence isn't distributed evenly across different types of supplements either, right? | 그리고 감사 결과, 이런 증거 부족이 영양제 종류마다 고르게 분포하지도 않았죠?
+[22:33.02]
+A | Not at all. It varies wildly depending on the specific health claim. | 전혀요. 구체적인 기능 표시에 따라 크게 달라요.
+[22:37.50]
+B | Give me an example. | 예를 들어 주세요.
+[22:38.82]
+A | For instance, ingredients that claimed to support prostate health had a 100% public identification rate. | 예를 들어 전립선 건강을 돕는다고 표시한 원료는 공개 확인율이 100%였어요.
+[22:45.74]
+A | If you looked up a prostate supplement, you could find the human trials every single time. | 전립선 영양제를 찾아보면 매번 인체 시험을 찾을 수 있었다는 거죠.
+[22:50.40]
+B | Okay, 100% is great. | 좋아요, 100%면 훌륭하네요.
+[22:52.66]
+A | But ingredients claiming to support liver health, only 25% of them had publicly verifiable human trials. | 하지만 간 건강을 돕는다고 표시한 원료는 공개적으로 검증 가능한 인체 시험이 있는 게 25%뿐이었어요.
+[23:00.44]
+B | Wait, really? | 잠깐, 정말요?
+[23:00.94]
+A | Yes. | 네.
+[23:01.57]
+B | 25%. | 25%요.
+[23:02.20]
+A | Yes. | 네.
+[23:03.00]
+A | That means if you walk into a pharmacy today and buy a liver health supplement that uses an individually recognized ingredient, there is a 75% probability that no independent scientist can go online and read the trial proving it actually works in humans. | 그러니까 오늘 약국에 가서 개별인정형 원료를 쓴 간 건강 영양제를 사면, 그게 사람에게 실제로 효과가 있다는 시험을 어떤 독립 과학자도 온라인에서 읽을 수 없을 확률이 75%라는 뜻이에요.
+[23:17.92]
+B | That is just wild to think about. | 생각해 보면 정말 놀랍네요.
+[23:19.28]
+B | Why does liver health suffer from such low transparency compared to prostate health? | 왜 간 건강은 전립선 건강에 비해 투명성이 그렇게 낮을까요?
+[23:24.50]
+A | It likely involves the historical development of the specific compounds used in those categories. | 아마 그 분야에서 쓰이는 특정 화합물이 개발된 역사적 과정과 관련이 있을 거예요.
+[23:29.14]
+B | Okay. So, | 그렇군요. 그러니까,
+[23:30.36]
+A | well, the companies developing liver health products in this specific market might rely much more heavily on novel, highly proprietary plant extracts that require deep trade secret protection. | 음, 이 시장에서 간 건강 제품을 개발하는 회사들은 깊은 영업 비밀 보호가 필요한 새롭고 독점성이 강한 식물 추출물에 훨씬 더 많이 의존할 수 있어요.
+[23:41.32]
+B | Whereas prostate health products, | 반면 전립선 건강 제품은,
+[23:42.98]
+A | they might lean on older, more established botanical formulations where the core science has been public for decades. | 핵심 과학이 수십 년 동안 공개돼 온, 더 오래되고 확립된 식물 제제에 기댈 수 있죠.
+[23:47.92]
+A | But regardless of the historical reasons, the end result for the person buying the liver supplement is a severe lack of independently verifiable data. | 하지만 역사적 이유가 무엇이든, 간 영양제를 사는 사람에게 최종 결과는 독립적으로 검증 가능한 데이터의 심각한 부족이에요.
+[23:57.44]
+## 결과 ② — 평균 67.8점, 약한 고리는 재현과 자금
+B | So, that covers the one-third of the register that fell into the dark. | 자, 이게 어둠 속에 빠진 목록의 3분의 1 이야기예요.
+[24:01.08]
+B | Let's pivot to the 2/3 that actually survived the search, | 이제 실제로 검색에서 살아남은 3분의 2로 넘어가죠.
+[24:04.94]
+A | the 404 ingredients that had public human trials, | 공개 인체 시험이 있었던 404개 원료요,
+[24:08.04]
+B | right? | 그렇죠?
+[24:08.60]
+B | And were scored on that rigorous 100-point rubric when the evidence actually existed in the public domain. | 그리고 증거가 실제로 공개 영역에 있을 때 그 엄격한 100점 기준표로 채점됐죠.
+[24:14.60]
+B | What was the quality of that evidence? | 그 증거의 질은 어땠나요?
+[24:16.73]
+A | The average score across all 404 ingredients was 67.8 out of 100. | 404개 원료 전체의 평균 점수는 100점 만점에 67.8점이었어요.
+[24:23.20]
+B | Okay, so in an academic setting, that's hovering around a D+ or a C minus. | 좋아요, 학교로 치면 D+나 C- 정도네요.
+[24:27.22]
+A | True, but looking at the average hides the really fascinating nuances of where these studies succeeded and where they completely collapsed. | 맞아요. 하지만 평균만 보면 이 연구들이 어디서 성공하고 어디서 완전히 무너졌는지라는 정말 흥미로운 미묘한 차이가 가려져요.
+[24:34.78]
+B | Okay, let's start with the good news. | 좋아요, 좋은 소식부터 시작하죠.
+[24:36.80]
+A | The highest scoring domains were actually incredibly encouraging. | 점수가 가장 높은 영역은 사실 아주 고무적이었어요.
+[24:41.16]
+A | Study design achieved an 84.5% attainment rate and journal standing reached 81.3%. | 연구 설계는 달성률 84.5%, 학술지 위상은 81.3%였어요.
+[24:48.36]
+B | So this means that when a company decides to pull back the curtain and actually publish their data, they aren't generally publishing low-quality observational studies in obscure pay-to-play journals. | 그러니까 회사가 커튼을 걷고 실제로 데이터를 발표하기로 하면, 대체로 돈만 내면 실어 주는 무명 학술지에 질 낮은 관찰 연구를 싣는 게 아니라는 뜻이네요.
+[24:58.50]
+A | Exactly. | 맞아요.
+[24:59.44]
+A | They are running rigorous double-blind randomized controlled trials and they are submitting them to legitimate peer-reviewed publications. | 엄격한 이중맹검 무작위 대조시험을 하고, 그걸 제대로 된 동료 심사 학술지에 투고해요.
+[25:07.04]
+B | The study notes that the journal Nutrients alone published nearly 15% of the articles found in the search. | 연구에 따르면 Nutrients라는 학술지 하나가 검색으로 찾은 논문의 거의 15%를 실었어요.
+[25:12.84]
+B | So the foundational architecture of the science is surprisingly solid. | 그러니까 과학의 기초 구조는 의외로 탄탄해요.
+[25:16.52]
+A | The initial trials are structurally sound, but the scores plummeted in two critical domains. | 초기 시험들은 구조적으로 건전한데, 두 개의 핵심 영역에서 점수가 곤두박질쳤어요.
+[25:22.32]
+B | Here we go. What were they? | 나왔네요. 그게 뭐였죠?
+[25:24.28]
+A | Replication only achieved a 51.9% attainment rate and funding independence sat at 57.8%. | 재현은 달성률 51.9%에 그쳤고, 자금 독립성은 57.8%였어요.
+[25:31.80]
+B | Wow, those are huge drops. | 와, 엄청 떨어졌네요.
+[25:33.10]
+A | And these two low scores are deeply intertwined. | 그리고 이 두 낮은 점수는 깊이 얽혀 있어요.
+[25:37.24]
+A | They point to the most systemic vulnerability in the entire public evidence ecosystem. | 공개 증거 생태계 전체에서 가장 구조적인 취약점을 가리키거든요.
+[25:42.56]
+## 재현성 위기와 P 해킹
+B | Okay, let's tackle replication first because the study highlights a statistic that should give anyone pause. | 좋아요, 재현부터 다루죠. 연구가 누구라도 멈칫하게 할 통계를 강조하니까요.
+[25:50.58]
+B | 44.1% of the scored ingredients relied on a single completely unreplicated study. | 채점된 원료의 44.1%가 재현되지 않은 단 하나의 연구에 의존했어요.
+[25:55.24]
+A | Yeah. | 네.
+[25:56.06]
+B | To understand why relying on one single study is so dangerous, we have to talk about the replication crisis that has been tearing through the scientific community over the last decade. | 단 하나의 연구에 의존하는 게 왜 그렇게 위험한지 이해하려면, 지난 10년간 과학계를 뒤흔든 '재현성 위기'를 이야기해야 해요.
+[26:04.34]
+A | The replication crisis is arguably the most important epistemological reckoning in modern science. | 재현성 위기는 아마 현대 과학에서 가장 중요한 인식론적 반성일 거예요.
+[26:09.80]
+B | Tell me about it. | 말해 주세요.
+[26:10.72]
+A | Across psychology, medicine, pharmacology, biology, researchers have been going back and trying to repeat famous foundational experiments. | 심리학, 의학, 약리학, 생물학 전반에서 연구자들이 되돌아가 유명한 기초 실험들을 반복해 보고 있어요.
+[26:20.98]
+A | And in a terrifying number of cases, when a new team of scientists runs the exact same experiment using the exact same protocols, they cannot reproduce the original results. | 그런데 무서울 만큼 많은 경우에, 새 과학자 팀이 똑같은 프로토콜로 똑같은 실험을 해도 원래 결과를 재현하지 못해요.
+[26:30.84]
+B | Why does this happen? I mean, how can science just fail to repeat itself? | 왜 이런 일이 생기죠? 그러니까, 과학이 어떻게 스스로를 반복하지 못할 수가 있죠?
+[26:35.26]
+A | A single positive clinical trial is highly vulnerable to being a statistical mirage. Okay, | 긍정적인 임상시험 한 건은 통계적 신기루일 가능성에 아주 취약해요. 그렇군요,
+[26:40.46]
+B | it could be a false positive caused by an anomaly in the participant pool. | 참가자 집단의 이상치 때문에 생긴 위양성일 수 있어요.
+[26:44.60]
+B | Perhaps the specific group of 50 people they tested just happened to have unusually robust immune systems by pure chance, | 어쩌면 그들이 시험한 50명이 순전히 우연히 유난히 튼튼한 면역계를 가졌을 수도 있고요,
+[26:50.74]
+A | right? | 그렇죠?
+[26:51.46]
+B | Or more concerningly, it can be the result of a practice known as P hacking. | 아니면 더 걱정스럽게도, 'P 해킹'이라는 관행의 결과일 수 있어요.
+[26:55.90]
+A | I want to break down P hacking because it sounds like a cyber security term, but it's really a statistical sleight of hand. | P 해킹을 좀 풀어 보고 싶어요. 사이버 보안 용어처럼 들리지만 사실은 통계적 속임수거든요.
+[27:02.14]
+B | It really is. | 정말 그래요.
+[27:03.14]
+A | It's essentially the Texas sharpshooter fallacy applied to data. | 본질적으로 데이터에 적용된 '텍사스 명사수의 오류'예요.
+[27:06.98]
+A | Imagine someone firing a gun into the side of a barn and then walking up and painting a bullseye around a cluster of bullet holes claiming they are an expert marksman. | 누가 헛간 벽에 총을 쏜 다음, 걸어가서 총알구멍이 몰린 곳 주위에 과녁을 그리고는 자기가 명사수라고 주장한다고 상상해 봐요.
+[27:15.60]
+B | That is a perfect analogy. | 완벽한 비유네요.
+[27:18.12]
+A | They didn't predict the target. | 과녁을 미리 정한 게 아니에요.
+[27:20.22]
+A | They defined the target after the data was already on the wall. | 데이터가 이미 벽에 박힌 뒤에 과녁을 정한 거죠.
+[27:23.06]
+B | Exactly. | 맞아요.
+[27:24.38]
+B | In clinical research, P hacking happens when a trial concludes and the primary thing the researchers were testing for let's say a significant reduction in overall body weight shows no improvement. | 임상 연구에서 P 해킹은, 시험이 끝났는데 연구자들이 주로 검증하려던 것, 예를 들어 전체 체중의 유의한 감소가 개선을 보이지 않을 때 일어나요.
+[27:34.34]
+A | So the trial is technically a failure, | 그러니까 시험은 엄밀히 말해 실패네요,
+[27:36.18]
+B | right? But the researchers have a massive spreadsheet of data. | 그렇죠? 그런데 연구자들에게는 거대한 데이터 스프레드시트가 있어요.
+[27:39.52]
+B | So they start slicing the data in a hundred different ways. They look at weight loss in men versus women. | 그래서 데이터를 백 가지 방법으로 쪼개기 시작해요. 남성과 여성의 체중 감소를 비교해요.
+[27:44.76]
+B | They look at weight loss in participants over 50. | 50세 이상 참가자의 체중 감소를 봐요.
+[27:47.36]
+B | They look at changes in specific blood lipid markers instead of total weight. | 전체 체중 대신 특정 혈중 지질 지표의 변화를 봐요.
+[27:50.80]
+A | Just searching for a win. | 그냥 이길 거리를 찾는 거네요.
+[27:52.14]
+B | Exactly. | 맞아요.
+[27:53.32]
+B | And if you run enough mathematical comparisons on a large enough data set, the laws of probability dictate that you will find a correlation that crosses the threshold of statistical significance purely by accident. | 그리고 충분히 큰 데이터로 충분히 많은 수학적 비교를 하면, 확률의 법칙상 순전히 우연으로 통계적 유의성 기준을 넘는 상관관계를 찾게 돼요.
+[28:04.86]
+A | Oh wow. | 와.
+[28:05.70]
+B | So they take that accidental correlation, highlight it, and publish the paper claiming the supplement is highly effective for that specific newly discovered metric. | 그래서 그 우연한 상관관계를 골라 강조하고, 그 영양제가 새로 발견한 바로 그 지표에 아주 효과적이라고 주장하는 논문을 내요.
+[28:14.46]
+A | That's wild. So how do you stop that? | 놀랍네요. 그럼 그걸 어떻게 막죠?
+[28:17.30]
+B | The only way to catch P hacking or to filter out a random false positive is for a completely independent laboratory to run the trial a second time, starting with that specific metric as the target from day one. | P 해킹을 잡아내거나 무작위 위양성을 걸러 내는 유일한 방법은, 완전히 독립된 실험실이 첫날부터 그 특정 지표를 목표로 정하고 시험을 다시 해 보는 거예요.
+[28:29.44]
+B | But when nearly half of the government-approved ingredients rely on a single isolated study that has never been subjected to independent replication, | 그런데 정부가 승인한 원료의 거의 절반이 독립적인 재현을 한 번도 거치지 않은 단 하나의 고립된 연구에 의존한다면,
+[28:37.46]
+A | the risk that the published effect is exaggerated or entirely illusory is profoundly high. | 발표된 효과가 과장됐거나 완전히 허상일 위험이 아주 높아요.
+[28:42.80]
+## 자금 불투명성 — 산업계 자금은 나쁜가?
+B | And that risk is compounded exponentially by the second low-scoring domain which is funding opacity. | 그리고 그 위험은 두 번째 저득점 영역인 자금 불투명성 때문에 기하급수적으로 커져요.
+[28:49.74]
+A | Yes, | 네,
+[28:50.64]
+B | the study found that for 63.4% of the ingredients, the funding source could not even be identified in the published text, nearly 2/3 of the time. | 연구에 따르면 원료의 63.4%는 발표된 본문에서 자금 출처조차 확인할 수 없었어요. 거의 3분의 2예요.
+[29:01.16]
+A | The paper provided no disclosure regarding who paid for the trial and only 12.4% of the ingredients had clear documentation proving the research was funded by a purely independent entity like a government science foundation or a university grant, | 논문에 누가 시험 비용을 댔는지 밝힌 내용이 없었고, 정부 과학 재단이나 대학 연구비 같은 순수 독립 기관이 연구비를 댔다는 걸 분명히 보여 준 원료는 12.4%뿐이었어요.
+[29:15.66]
+B | which is very concerning. | 아주 걱정스럽네요.
+[29:16.86]
+A | But I want to play devil's advocate here and challenge the premise that industry funding is inherently bad. | 그런데 여기서 일부러 반대 입장에 서서, 산업계 자금이 본래 나쁘다는 전제에 이의를 제기하고 싶어요.
+[29:23.12]
+B | Okay, let's hear it. | 좋아요, 들어 보죠.
+[29:25.18]
+A | Let's return to the economics of the system. | 이 시스템의 경제학으로 돌아가 봐요.
+[29:27.36]
+A | If a private company spends 5 years and millions of dollars developing a proprietary digestive enzyme. | 민간 회사가 독점 소화 효소를 개발하는 데 5년과 수백만 달러를 쓴다면요.
+[29:33.86]
+A | Of course, they are going to fund the initial clinical trial, | 당연히 첫 임상시험 비용은 그 회사가 대겠죠,
+[29:36.58]
+B | right? They have to. | 그렇죠? 그래야만 해요.
+[29:37.32]
+A | No public university is going to allocate their limited grant money to test a private corporation's patented powder. | 어떤 공립 대학도 한정된 연구비를 민간 기업의 특허 분말을 시험하는 데 쓰지 않을 거예요.
+[29:43.82]
+A | And if the ingredient was just invented two years ago, it's physically impossible for there to be multiple independent replication studies yet. | 그리고 그 원료가 2년 전에 막 개발된 거라면, 아직 여러 건의 독립 재현 연구가 있는 건 물리적으로 불가능해요.
+[29:51.34]
+A | Science takes time. | 과학엔 시간이 걸리니까요.
+[29:52.42]
+B | Absolutely. | 물론이죠.
+[29:52.74]
+A | So, is the presence of industry funding actually a flaw in the science or is it just the unavoidable practicality of how the health and supplement business has to operate. | 그럼 산업계 자금이 있다는 게 정말 과학의 결함일까요, 아니면 건강·영양제 사업이 돌아갈 수밖에 없는 피할 수 없는 현실일 뿐일까요?
+[30:02.98]
+B | You are identifying a crucial reality of the free market ecosystem here. | 지금 자유 시장 생태계의 중요한 현실을 짚고 계신 거예요.
+[30:07.76]
+B | Industry funding is absolutely the primary engine of pharmaceutical and nutritional innovation. | 산업계 자금은 분명히 제약과 영양 혁신의 주된 엔진이에요.
+[30:10.68]
+A | Right? | 그렇죠?
+[30:13.60]
+B | Without the financial incentive and the private capital, the vast majority of these therapeutic compounds would never be discovered or tested in the first place. | 경제적 동기와 민간 자본이 없다면, 이런 치료 화합물 대부분은 애초에 발견되거나 시험되지도 않았을 거예요.
+[30:20.24]
+B | The scientific community does not view industry funding as an automatic disqualifier. | 과학계는 산업계 자금을 자동 실격 사유로 보지 않아요.
+[30:26.16]
+A | Okay. So then what is the issue? | 좋아요. 그럼 문제는 뭐죠?
+[30:28.34]
+B | The structural flaw identified by the rubric is not the funding itself. The flaw is the opacity. | 기준표가 찾아낸 구조적 결함은 자금 그 자체가 아니에요. 결함은 불투명성이에요.
+[30:35.20]
+A | Ah, the hidden nature of it. | 아, 숨겨져 있다는 점이요.
+[30:37.44]
+B | Exactly. | 맞아요.
+[30:38.04]
+B | When a funding source is hidden, the scientific community is deprived of the context required to evaluate the data. | 자금 출처가 숨겨지면 과학계는 데이터를 평가하는 데 필요한 맥락을 빼앗겨요.
+[30:44.30]
+B | We know from decades of auditing that industry-sponsored trials possess a systemic bias toward positive outcomes. | 수십 년간의 감사로, 산업계가 후원한 시험은 긍정적 결과 쪽으로 구조적인 편향이 있다는 걸 알고 있어요.
+[30:51.32]
+A | So if an independent researcher reads a paper and knows it was funded by the manufacturer, they can adjust their critical lens, | 그러니까 독립 연구자가 논문을 읽고 제조사가 돈을 댔다는 걸 알면, 비판적인 시선을 조정할 수 있죠,
+[30:57.80]
+B | right? They will look much closer at the methodology. Did the trial use a sufficient dose of the placebo? | 그렇죠? 방법론을 훨씬 더 꼼꼼히 볼 거예요. 위약의 용량은 적절했나?
+[31:04.70]
+B | Did they artificially shorten the length of the study to avoid tracking long-term side effects? | 장기 부작용을 추적하지 않으려고 연구 기간을 인위적으로 줄였나?
+[31:09.38]
+A | So, when the funding is transparent, the scientific method can compensate for the potential bias through rigorous peer review. | 그러니까 자금이 투명하면, 과학적 방법이 엄격한 동료 심사로 잠재적 편향을 보정할 수 있어요.
+[31:15.52]
+B | Exactly. | 맞아요.
+[31:16.02]
+B | But when the funding is deliberately obscured or when a single heavily conflicted industry-funded trial is accepted as the final unassailable proof of efficacy without any demand for independent verification | 그런데 자금이 의도적으로 가려지거나, 이해충돌이 심한 산업계 자금 시험 한 건이 독립 검증 요구도 없이 반박할 수 없는 최종 효능 증거로 받아들여지면,
+[31:27.60]
+A | the safety mechanisms of open science just fail entirely. | 열린 과학의 안전장치가 완전히 작동하지 않아요.
+[31:30.78]
+B | It is a matter of contextual transparency, not moral judgment. | 도덕적 판단이 아니라 맥락의 투명성 문제예요.
+[31:34.32]
+A | Got it. | 알겠어요.
+[31:35.16]
+## 탈락 곡선 — 521개 중 단 10개(1.9%)
+A | To truly visualize how rare it is to find high-quality, transparent, and independent evidence, the author of the study constructed a brilliant analytical tool, | 질 높고 투명하고 독립적인 증거를 찾는 게 얼마나 드문지 실감 나게 보여 주려고, 연구 저자는 훌륭한 분석 도구를 만들었어요.
+[31:44.48]
+B | the attrition curve. | 바로 '탈락 곡선'이에요.
+[31:45.16]
+A | Yes. | 네.
+[31:46.60]
+A | They ran the pool of 521 individually recognized ingredients through a sequential filter that starts with the massive pool of approved ingredients and slowly drains it by layering stricter and stricter standards of scientific rigor. | 개별인정형 원료 521개를 순차 필터에 통과시켰는데, 승인된 원료라는 거대한 웅덩이에서 시작해 점점 더 엄격한 과학적 기준을 겹겹이 적용하며 천천히 물을 빼는 방식이에요.
+[31:59.76]
+A | Walking through these filters step by step reveals the exact architecture of the evidence gap. | 이 필터들을 한 단계씩 따라가면 증거 간극의 정확한 구조가 드러나요.
+[32:04.76]
+A | It is the most sobering visualization in the entire research paper. | 연구 논문 전체에서 가장 정신이 번쩍 드는 시각 자료예요.
+[32:08.62]
+B | Let's walk the listener through it. | 청취자분들과 함께 따라가 보죠.
+[32:09.66]
+A | We start at the top with the full cohort of 521 proprietary government-approved ingredients. | 맨 위에서 정부가 승인한 독점 원료 521개 전체로 시작해요.
+[32:13.34]
+B | Right. | 그렇죠.
+[32:17.02]
+A | And the first filter we apply asks a basic question of scientific quality. | 그리고 처음 적용하는 필터는 과학적 질에 대한 기본 질문이에요.
+[32:21.28]
+A | Does the public evidence include at least one double-blind randomized controlled trial or something stronger like a systematic review? | 공개 증거에 이중맹검 무작위 대조시험이나 체계적 문헌고찰 같은 더 강한 근거가 적어도 하나 포함돼 있나?
+[32:28.48]
+B | And the result? | 그 결과는요?
+[32:29.90]
+B | The moment we require that baseline standard of rigorous design, the number drops to 55.7%. | 엄격한 설계라는 그 기본 기준을 요구하는 순간, 숫자가 55.7%로 떨어져요.
+[32:35.52]
+B | We lose nearly half the register on the very first filter. | 첫 번째 필터에서 목록의 거의 절반을 잃는 거예요.
+[32:38.58]
+A | Wow. Okay. Filter number two. We take that 55%. And we demand a reasonable sample size. | 와. 좋아요. 필터 2번. 그 55%를 가져와서 적절한 표본 크기를 요구해요.
+[32:47.94]
+A | The trial must have involved at least 50 human participants because testing a compound on 12 people leaves far too much room for random statistical noise. | 시험에 최소 50명의 사람이 참여했어야 해요. 12명에게 화합물을 시험하면 무작위 통계 잡음이 끼어들 여지가 너무 많으니까요.
+[32:57.44]
+B | And when we apply that sample size requirement, the pool shrinks further to 46.3%. | 그 표본 크기 요건을 적용하면 남는 비율이 46.3%로 더 줄어요.
+[33:02.22]
+A | Next, we apply filter number three. | 다음으로 필터 3번을 적용해요.
+[33:05.06]
+A | We require that this decent-sized double-blind trial was actually vetted by the scientific community. | 이 적당한 규모의 이중맹검 시험이 실제로 과학계의 검증을 받았는지 요구해요.
+[33:11.08]
+A | It must be published in a peer-reviewed journal, meaning other scientists reviewed the methodology before it was allowed to be printed. | 동료 심사 학술지에 실렸어야 해요. 즉 다른 과학자들이 방법론을 검토한 뒤에야 출판이 허락된 거죠.
+[33:18.62]
+B | The pool drops slightly here, resting at 46.1%. | 여기서는 조금만 떨어져서 46.1%에 머물러요.
+[33:22.18]
+A | And then we hit the cliff. | 그리고 절벽을 만나요.
+[33:24.18]
+B | Yeah, this is the big one. | 네, 이게 큰 거예요.
+[33:25.84]
+A | Filter number four introduces the demand for independent replication. | 필터 4번은 독립적인 재현을 요구해요.
+[33:30.20]
+A | To pass this filter, the ingredient must be supported by a meta-analysis or at least two separate clinical trials proving the effect is real and repeatable. | 이 필터를 통과하려면 그 원료가 메타분석이나, 효과가 진짜이고 반복 가능하다는 걸 증명하는 별개의 임상시험 최소 두 건의 뒷받침을 받아야 해요.
+[33:39.46]
+B | When we ask for the science to be repeated, the number plummets from 46% all the way down to 17.7%. | 과학이 반복되기를 요구하면, 숫자가 46%에서 17.7%까지 곤두박질쳐요.
+[33:47.16]
+A | Massive drop. Which brings us to the final most devastating filter. Filter number five. | 엄청난 하락이네요. 그리고 마지막이자 가장 충격적인 필터로 가죠. 필터 5번.
+[33:53.56]
+A | We take that 17.7% of replicated peer-reviewed double-blind science and we ask for documented funding independence. | 재현되고 동료 심사를 거친 이중맹검 과학 17.7%를 가져와서, 문서로 확인된 자금 독립성을 요구해요.
+[34:00.85]
+B | We asked for proof that the science was not entirely bankrolled by the corporation selling the final product. | 그 과학이 최종 제품을 파는 회사가 전적으로 돈을 댄 게 아니라는 증거를 요구한 거예요.
+[34:07.18]
+A | And when that final filter is applied, | 그리고 그 마지막 필터를 적용하면,
+[34:09.56]
+B | the pool is reduced to exactly 1.9%. | 정확히 1.9%로 줄어들어요.
+[34:12.35]
+A | 1.9%. | 1.9%요.
+[34:15.14]
+B | Out of 521 government-approved ingredients, exactly 10 ingredients survive the complete gauntlet of verifiable independent scientific scrutiny. | 정부가 승인한 원료 521개 중, 검증 가능한 독립적 과학 심사라는 모든 관문을 통과한 건 정확히 10개예요.
+[34:25.62]
+A | It is an incredible distillation of the data. It's like panning for gold in a massive rushing river. | 데이터를 놀랍게 압축해 보여 주네요. 거세게 흐르는 큰 강에서 사금을 채취하는 것 같아요.
+[34:30.90]
+A | You start with this huge volume of 521 government-approved ingredients, | 정부가 승인한 원료 521개라는 엄청난 양으로 시작해서,
+[34:33.23]
+B | right? | 그렇죠?
+[34:35.56]
+A | And by the time you filter out the tiny sample sizes and you wash away the unrepeated one-off claims and you finally sift out the opaque corporate money, you're left with exactly 10 tiny flakes of bulletproof, independently verified public science. | 작은 표본을 걸러 내고, 반복되지 않은 일회성 주장을 씻어 내고, 마지막으로 불투명한 기업 자금을 체로 쳐 내면, 남는 건 독립적으로 검증된, 빈틈없는 공개 과학의 작은 금 조각 딱 10개예요.
+[34:50.12]
+B | The visual is really powerful, but you know, we must exercise caution in how we interpret the implications of that 1.9%. | 시각적으로 정말 강렬하지만, 있잖아요, 그 1.9%의 의미를 해석할 때는 조심해야 해요.
+[34:57.02]
+A | What do you mean? | 무슨 뜻이에요?
+[34:58.32]
+B | The psychological impact of seeing an attrition curve like that can lead a consumer to assume that 98% of the supplements on the market are fraudulent snake oil, | 그런 탈락 곡선을 보면 심리적 충격 때문에, 소비자는 시장에 있는 영양제의 98%가 사기 엉터리 약이라고 생각할 수 있어요.
+[35:06.56]
+A | right? Which isn't fair. | 그렇죠? 그건 공정하지 않아요.
+[35:07.66]
+B | That is not what the data is saying. | 데이터가 말하는 건 그게 아니에요.
+[35:09.90]
+B | We have to return to the core premise of the study. | 연구의 핵심 전제로 돌아가야 해요.
+[35:12.54]
+B | A lack of public verifiability is not proof of biological inefficacy. | 공개 검증 가능성이 없다는 건 생물학적으로 효과가 없다는 증거가 아니에요.
+[35:17.28]
+A | The regulatory scientists inside the MFDS reviewed highly detailed confidential dossiers. | 식약처 안의 규제 과학자들은 아주 상세한 기밀 서류를 검토했어요.
+[35:23.42]
+A | Many of those products likely work exactly as they are advertised on the label. | 그 제품 중 상당수는 아마 라벨에 광고된 그대로 효과가 있을 거예요.
+[35:26.05]
+B | Exactly. | 맞아요.
+[35:28.68]
+B | What the attrition curve conclusively proves is that the broader ecosystem of public evidence is incredibly fragile. | 탈락 곡선이 결정적으로 증명하는 건, 더 넓은 공개 증거 생태계가 엄청나게 취약하다는 거예요.
+[35:34.90]
+B | It demonstrates that the burden of trust placed on the government regulator is absolute and structurally unsupported by outside science. | 정부 규제 기관에 지워진 신뢰의 부담이 절대적이고, 구조적으로 외부 과학의 뒷받침을 받지 못한다는 걸 보여 줘요.
+[35:42.92]
+A | So if the regulatory agency makes a mistake or if they lower their evidentiary standards due to bureaucratic pressure behind closed doors, | 그러니까 규제 기관이 실수하거나, 닫힌 문 뒤에서 관료적 압박 때문에 증거 기준을 낮추면,
+[35:49.94]
+B | the independent scientific community literally does not possess the data required to catch the error. | 독립 과학계는 말 그대로 그 오류를 잡아낼 데이터를 갖고 있지 않아요.
+[35:55.84]
+B | The safety net of public science simply does not exist for the vast majority of these proprietary products. | 이런 독점 제품 대부분에는 공개 과학이라는 안전망이 아예 없는 거예요.
+[36:01.62]
+## 고시형 원료의 역설 — 칼륨이 45점?
+A | That is a vital distinction to maintain. | 꼭 지켜야 할 중요한 구분이네요.
+[36:04.76]
+A | Now, we have spent a lot of time dissecting the flaws in the proprietary individually recognized pathway. | 자, 독점적인 개별인정형 경로의 결함을 해부하는 데 시간을 많이 썼어요.
+[36:11.18]
+A | But I want to look at the other side of the regulatory aisle, the open-source notified ingredients, | 그런데 규제의 반대편, 오픈 소스인 고시형 원료도 보고 싶어요.
+[36:18.18]
+B | the household vitamins and minerals, | 누구나 아는 비타민과 무기질이요,
+[36:20.44]
+A | right? | 그렇죠?
+[36:21.28]
+A | As a group, they performed much better, boasting a 94% identification rate for public literature. | 집단으로 보면 훨씬 나았어요. 공개 문헌 확인율이 94%였죠.
+[36:26.84]
+A | But when you look at these specific scores on the rubric. | 그런데 기준표의 구체적인 점수를 보면,
+[36:29.90]
+A | There are some massive anomalies that seem completely counterintuitive and require some deep context. | 완전히 직관에 반하는 것 같고 깊은 맥락이 필요한 엄청난 이상치들이 있어요.
+[36:36.36]
+B | The scoring behavior of the notified ingredients provides a fascinating lesson in how scientific evidence actually evolves over time. | 고시형 원료의 점수 양상은 과학적 증거가 시간에 따라 실제로 어떻게 진화하는지에 대한 흥미로운 교훈을 줘요.
+[36:44.98]
+A | Okay, let's look at the top scorers first. | 좋아요, 최고 득점부터 보죠.
+[36:48.18]
+B | If we look at the top scorers in this category, the results align perfectly with expectations. | 이 범주의 최고 득점을 보면, 결과가 예상과 완벽히 맞아떨어져요.
+[36:53.78]
+B | Folic acid achieved a score of 95 out of 100. Red ginseng scored 91. Fenugreek seed dietary fiber scored 89. | 엽산은 100점 중 95점을 받았어요. 홍삼은 91점. 호로파종자 식이섬유는 89점이었어요.
+[37:02.04]
+A | High scores, | 높은 점수네요,
+[37:03.08]
+B | very high. | 아주 높죠.
+[37:04.32]
+B | These are biological compounds that have been the subject of intense global scientific scrutiny for decades. | 이것들은 수십 년 동안 전 세계적으로 집중적인 과학적 검토를 받아 온 생물학적 화합물이에요.
+[37:10.18]
+B | There are massive internationally funded multi-center trials and comprehensive meta-analyses verifying their physiological effects. They represent the absolute pinnacle of public verifiability. | 국제적인 자금을 받은 대규모 다기관 시험과 생리적 효과를 검증한 포괄적 메타분석들이 있어요. 공개 검증 가능성의 절대적인 정점이죠.
+[37:22.04]
+A | But then you look at the absolute bottom of the list for these everyday nutrients. Copper scored a 34. | 그런데 이 일상 영양소 목록의 맨 밑바닥을 보면요. 구리는 34점.
+[37:28.02]
+A | Manganese scored a 43. Potassium scored a 45. | 망간은 43점. 칼륨은 45점이었어요.
+[37:30.26]
+B | Right? | 그렇죠?
+[37:32.50]
+A | These are essential minerals. Human biology literally ceases to function without potassium. It is fundamental to keeping your heart beating. | 이건 필수 무기질이에요. 인체는 칼륨 없이는 말 그대로 기능을 멈춰요. 심장을 뛰게 하는 데 근본적인 거죠.
+[37:40.88]
+A | So, how is it possible that an essential mineral scores a failing grade on a test designed to measure scientific evidence? | 그런데 필수 무기질이 과학적 증거를 재는 시험에서 어떻게 낙제점을 받을 수 있죠?
+[37:46.98]
+B | This anomaly perfectly illustrates why raw data must always be interpreted through a specific methodological lens. | 이 이상치는 왜 원자료를 항상 특정한 방법론적 렌즈로 해석해야 하는지 완벽하게 보여 줘요.
+[37:54.46]
+B | You cannot just read a score of 45 and conclude that the science on potassium is weak. | 45점이라는 점수만 보고 칼륨에 대한 과학이 약하다고 결론 내릴 수는 없어요.
+[37:59.94]
+A | You have to understand what the rubric was specifically asking for. | 기준표가 구체적으로 무엇을 요구했는지 이해해야 해요.
+[38:02.98]
+B | Exactly. | 맞아요.
+[38:03.84]
+B | The researcher's methodology required finding a public clinical trial that directly tested whether supplementing an ingredient improved a specific modern regulatory claim. | 연구자의 방법론은 어떤 원료를 보충했을 때 특정한 현대 규제 기능 표시가 개선되는지를 직접 시험한 공개 임상시험을 찾도록 요구했어요.
+[38:14.06]
+A | Okay. Trace the logic on that using potassium as the example. | 좋아요. 칼륨을 예로 그 논리를 따라가 보죠.
+[38:16.16]
+B | Sure. | 그럼요.
+[38:18.26]
+B | A common regulatory health claim for potassium might be helps maintain normal blood pressure. | 칼륨의 흔한 규제 기능 표시는 '정상 혈압 유지에 도움'일 수 있어요.
+[38:24.88]
+B | Now the fact that potassium is essential for cardiovascular function has been established in biology textbooks for over a century, | 그런데 칼륨이 심혈관 기능에 필수라는 사실은 백 년 넘게 생물학 교과서에 확립돼 있어요.
+[38:31.82]
+A | right? Everybody knows that | 그렇죠? 다들 알죠.
+[38:33.36]
+B | the exact cellular mechanisms, how the sodium potassium pump regulates electrical signals in the heart muscle, that is universally understood foundational science. | 정확한 세포 기전, 즉 나트륨-칼륨 펌프가 심장 근육의 전기 신호를 어떻게 조절하는지는 보편적으로 이해된 기초 과학이에요.
+[38:43.50]
+A | Okay. So, why the low score? | 좋아요. 그럼 왜 점수가 낮죠?
+[38:45.18]
+B | Because this knowledge is absolute, no pharmaceutical company and no university research department is going to secure millions of dollars in grant funding to run a massive five-year double-blind randomized controlled trial simply to prove all over again that that a potassium supplement meets a specific labeling requirement for the government. | 이 지식은 절대적이라서, 어떤 제약 회사도 어떤 대학 연구실도 칼륨 보충제가 정부의 특정 표시 요건을 충족한다는 걸 처음부터 다시 증명하려고 수백만 달러 연구비를 따서 5년짜리 대규모 이중맹검 무작위 대조시험을 하지 않을 거예요.
+[39:03.38]
+A | It's almost like the ingredient is being penalized by the rubric for being too obvious. | 너무 뻔하다는 이유로 원료가 기준표에서 벌점을 받는 셈이네요.
+[39:06.80]
+B | Yes, | 네,
+[39:07.32]
+A | it's the equivalent of demanding a researcher conduct a million-dollar peer-reviewed double-blind study to prove that drinking a glass of water cures biological thirst. | 물 한 잔 마시면 생물학적 갈증이 해소된다는 걸 증명하려고 연구자에게 백만 달러짜리 동료 심사 이중맹검 연구를 하라고 요구하는 것과 같아요.
+[39:15.74]
+A | No one conducts the study because the scientific community already considers the question definitively answered. | 과학계가 이미 그 질문에 확실히 답이 나왔다고 보니까 아무도 그 연구를 안 하죠.
+[39:21.00]
+B | Exactly. | 맞아요.
+[39:22.04]
+B | The low scores for these essential minerals do not indicate an absence of scientific evidence. | 이런 필수 무기질의 낮은 점수가 과학적 증거가 없다는 뜻은 아니에요.
+[39:26.72]
+B | They highlight a fundamental difference in the type and era of the evidence. | 증거의 종류와 시대가 근본적으로 다르다는 걸 보여 주는 거예요.
+[39:30.62]
+A | The evidence supporting potassium is foundational decades old physiological knowledge, not necessarily a recent clinical trial custom-designed to satisfy a modern bureaucratic rubric. | 칼륨을 뒷받침하는 증거는 수십 년 된 기초 생리학 지식이지, 꼭 현대 관료적 기준표를 만족시키려고 맞춤 설계한 최근 임상시험이 아니에요.
+[39:39.64]
+B | And the author of the study understood this nuance perfectly and noted it in the limitations. | 그리고 연구 저자도 이 미묘한 차이를 완벽히 이해하고 한계점에 적어 두었어요.
+[39:44.76]
+B | The scores reflect whether a specific architecture of modern clinical data was publicly available to match a specific phrasing of a regulatory claim. | 점수는 특정 형태의 현대 임상 데이터가 규제 기능 표시의 특정 문구에 맞게 공개돼 있는지를 반영해요.
+[39:54.04]
+B | For basic vitamins and minerals, that specific modern architecture is often absent simply because the global scientific community deems it completely redundant to test it again. | 기본 비타민과 무기질에는 그런 현대적 형태가 없는 경우가 많은데, 단지 세계 과학계가 다시 시험하는 걸 완전히 불필요하다고 보기 때문이에요.
+[40:04.04]
+A | That makes total sense. | 완전히 이해돼요.
+[40:05.60]
+## 세계 비교 — EU · 일본 · 미국 · 한국
+A | So, stepping back from the specific anomalies of vitamins, I want to look at the global landscape. | 자, 비타민의 이상치에서 한발 물러나서, 세계 전체 상황을 보고 싶어요.
+[40:11.20]
+A | This entire study and the systemic black box it exposes is focused on the Korean Ministry of Food and Drug Safety. | 이 연구 전체와 그것이 드러낸 구조적 블랙박스는 한국 식약처에 초점을 맞추고 있어요.
+[40:18.40]
+B | Yes. | 네.
+[40:19.08]
+A | Is this reliance on confidential dossiers and hidden evidence a uniquely Korean bureaucratic quirk or is this a structural issue with how the entire global market regulates the supplements we consume. | 기밀 서류와 숨겨진 증거에 기대는 이 방식은 한국 관료제만의 특이점일까요, 아니면 전 세계 시장이 우리가 먹는 영양제를 규제하는 방식의 구조적 문제일까요?
+[40:32.04]
+B | Oh, it is absolutely a global issue. | 아, 분명히 세계적인 문제예요.
+[40:34.62]
+B | But exploring how different regions handle it reveals entirely different philosophies regarding the tension between public safety, corporate economic innovation, and scientific transparency. | 하지만 지역마다 어떻게 다루는지 보면, 공공 안전, 기업의 경제적 혁신, 과학적 투명성 사이의 긴장에 대해 완전히 다른 철학이 드러나요.
+[40:45.92]
+A | The study takes time to contrast the Korean system with several other global frameworks. Right. | 연구는 시간을 들여 한국 제도를 다른 여러 나라의 제도와 비교해요. 그렇죠.
+[40:51.48]
+B | Yes. Let's examine the European Union first. | 네. 유럽연합부터 보죠.
+[40:54.82]
+B | The EU operates on a philosophy of strict pre-market safety and radical transparency. Okay, how does that work? | EU는 엄격한 시판 전 안전성과 철저한 투명성이라는 철학으로 움직여요. 좋아요, 그게 어떻게 작동하죠?
+[41:01.06]
+A | In the European market, a corporation cannot simply invent a health claim and put it on a supplement bottle. | 유럽 시장에서는 기업이 기능 표시를 그냥 만들어서 영양제 병에 붙일 수 없어요.
+[41:06.40]
+A | They must submit their evidence to the European Food Safety Authority for a rigorous independent scientific assessment. | 엄격한 독립 과학 평가를 받으려고 유럽식품안전청(EFSA)에 증거를 제출해야 해요.
+[41:12.96]
+B | And the crucial difference is what happens after the assessment. | 그리고 결정적인 차이는 평가 후에 일어나는 일이죠.
+[41:16.18]
+A | Exactly. | 맞아요.
+[41:17.10]
+A | Once the EFSA makes a decision, their detailed scientific opinions, including the justifications for why a specific claim was approved or rejected based on the data, they are published in the public domain. | EFSA가 결정을 내리면, 특정 표시가 데이터에 근거해 왜 승인되거나 거부됐는지에 대한 근거를 포함한 상세한 과학적 의견이 공개 영역에 발표돼요.
+[41:29.74]
+A | It is a system heavily weighted toward public scientific consensus. | 공개적인 과학적 합의에 크게 무게를 둔 시스템이죠.
+[41:33.36]
+B | Got it. | 알겠어요.
+[41:35.74]
+B | Then the study mentions Japan which uses a framework called the foods with function claims system. | 그다음 연구는 '기능성 표시 식품' 제도라는 틀을 쓰는 일본을 언급해요.
+[41:41.76]
+A | Japan operates on a slightly different model. | 일본은 약간 다른 모델로 움직여요.
+[41:44.08]
+A | It is a notification system but it incorporates a mandatory transparency mechanism. | 신고제이지만, 의무적인 투명성 장치가 들어 있어요.
+[41:48.72]
+B | So they have to show their work too. | 그러니까 그들도 근거를 보여 줘야 하는군요.
+[41:50.68]
+A | Right. | 그렇죠.
+[41:51.80]
+A | Before a company can market a product with a function claim, they are legally required to submit their evidence to the consumer affairs agency. | 회사가 기능성 표시를 단 제품을 팔기 전에, 법적으로 소비자청에 증거를 제출해야 해요.
+[41:58.60]
+A | The agency mandates that comprehensive structured summaries of that scientific evidence must be made publicly available. | 소비자청은 그 과학적 증거의 포괄적이고 구조화된 요약을 반드시 공개하도록 의무화해요.
+[42:05.38]
+B | So while they might not publish every single raw data point or proprietary extraction method, the core methodology, the participant demographics and the final results of the trials are accessible to independent scrutiny. | 그러니까 원자료 하나하나나 독점 추출 방법까지 다 공개하지는 않더라도, 핵심 방법론, 참가자 특성, 시험의 최종 결과는 독립적인 검토가 가능하군요.
+[42:18.26]
+A | Yes, it's a very balanced approach. | 네, 아주 균형 잡힌 방식이에요.
+[42:20.54]
+B | And then we look at the United States which seems to have built a regulatory framework completely alien to both Europe and Asia. | 그리고 미국을 보면, 유럽과 아시아 모두와 완전히 다른 규제 틀을 만든 것 같아요.
+[42:27.32]
+A | The United States operates under a specific piece of legislation passed in 1994 called the Dietary Supplement Health and Education Act, universally known in the industry as DSHEA. | 미국은 1994년에 통과된 특정 법률, 즉 '건강보조식품 건강 및 교육법'에 따라 움직여요. 업계에서는 흔히 DSHEA라고 불러요.
+[42:33.31]
+B | DSHEA. | DSHEA요.
+[42:39.30]
+A | Mhm. Okay. | 음. 그렇군요.
+[42:40.46]
+B | Under this law, the US system is structurally the opposite of the European or Korean pre-market approval systems. | 이 법에 따르면 미국 제도는 구조적으로 유럽이나 한국의 시판 전 승인 제도와 정반대예요.
+[42:46.98]
+B | In the United States, dietary supplements are not classified as drugs and therefore they do not require FDA approval before they are manufactured and sold. | 미국에서 건강보조식품은 의약품으로 분류되지 않아서, 제조하고 팔기 전에 FDA 승인이 필요 없어요.
+[42:55.72]
+A | Wait, really? | 잠깐, 정말요?
+[42:56.92]
+B | Let me make sure I understand the mechanics of that. | 그 구조를 제대로 이해했는지 확인해 볼게요.
+[43:02.94]
+A | It's wild, but yes, | 놀랍지만, 네,
+[43:04.74]
+B | in the US market, a person could theoretically mix up a novel combination of herbal powders in a warehouse, slap a label on the bottle that says supports brain health, ship it to a thousand retail stores, and the government only gets involved if consumers start complaining or experiencing severe adverse health events. | 미국 시장에서는 이론상 누군가 창고에서 새로운 허브 분말 조합을 섞어서 병에 '뇌 건강 지원'이라는 라벨을 붙이고 소매점 천 곳에 보낼 수 있고, 정부는 소비자들이 불만을 제기하거나 심각한 건강 이상을 겪기 시작해야 개입한다는 거네요.
+[43:21.68]
+A | Broadly speaking, regarding efficacy, yes, the US model relies almost entirely on postmarket oversight. | 효능에 관해서는 대체로 그렇죠, 네. 미국 모델은 거의 전적으로 시판 후 감독에 의존해요.
+[43:28.36]
+B | That is terrifying. | 정말 무섭네요.
+[43:29.08]
+A | The FDA's primary role in the supplement space is policing the market after the products are already in the hands of consumers. | 영양제 분야에서 FDA의 주된 역할은 제품이 이미 소비자 손에 들어간 뒤에 시장을 단속하는 거예요.
+[43:37.06]
+A | They look for facilities violating manufacturing standards. They look for products containing illegal pharmaceutical adulterants. | 제조 기준을 어기는 시설을 찾고, 불법 의약 성분이 섞인 제품을 찾아요.
+[43:43.60]
+A | And they look for companies making explicit disease claims like claiming a supplement cures cancer or treats Alzheimer's which is strictly illegal. | 그리고 영양제가 암을 치료한다거나 알츠하이머를 고친다고 주장하는 것처럼 명시적인 질병 표시를 하는 회사를 찾아요. 그건 엄격히 불법이에요.
+[43:51.54]
+B | But regarding the basic structure function claims, it is an aggressively buyer beware ecosystem. | 하지만 기본적인 구조·기능 표시에 관해서는 철저히 '구매자가 알아서 조심하라'는 생태계예요.
+[43:57.40]
+A | Absolutely. So if we synthesize these different global philosophies. | 물론이죠. 그럼 이 서로 다른 세계의 철학을 종합해 보면,
+[44:02.04]
+A | The US is the wild west, prioritizing rapid market innovation and consumer access, relying on postmarket enforcement to clean up the bad actors. | 미국은 빠른 시장 혁신과 소비자 접근을 우선하고, 나쁜 업자는 시판 후 단속으로 정리하는 '서부 개척 시대'예요.
+[44:06.85]
+B | Right. | 그렇죠.
+[44:11.66]
+A | The EU is the heavily guarded fortress, demanding that you prove efficacy in the public square before you are allowed to sell a single bottle. | EU는 병 하나라도 팔기 전에 공개 광장에서 효능을 증명하라고 요구하는, 철통같이 지켜지는 요새예요.
+[44:19.24]
+B | And Korea, | 그리고 한국은,
+[44:20.28]
+A | Korea represents a fascinating, inherently conflicted hybrid. | 한국은 흥미롭고 본질적으로 모순된 혼합형이에요.
+[44:24.28]
+A | They demand the strict pre-market proof of the EU, but they protect that proof as a corporate trade secret. | EU처럼 엄격한 시판 전 증명을 요구하지만, 그 증명을 기업의 영업 비밀로 보호해요.
+[44:31.00]
+A | They attempt to provide the safety of rigorous regulation while maximizing the economic protection of the businesses. | 엄격한 규제의 안전을 제공하면서 동시에 기업의 경제적 보호를 최대화하려는 거죠.
+[44:37.44]
+B | It is incredibly revealing to see how different societies architect their laws around the exact same balance of biological risk, capitalism, and transparency. | 서로 다른 사회가 생물학적 위험, 자본주의, 투명성이라는 똑같은 균형을 두고 법을 어떻게 설계하는지 보면 정말 많은 걸 알 수 있어요.
+[44:46.14]
+A | It really is. | 정말 그래요.
+[44:47.04]
+## 네 가지 정책 제언
+B | But focusing back on the Korean hybrid system or really any global system that utilizes confidential dossiers, how do we actually fix the structural gap? | 그런데 다시 한국의 혼합형 제도, 아니 기밀 서류를 쓰는 어떤 나라의 제도든, 그 구조적 간극을 실제로 어떻게 고칠 수 있을까요?
+[44:56.12]
+B | We've spent this deep dive identifying a massive lack of public verifiability. | 이번 딥다이브에서 공개 검증 가능성이 크게 부족하다는 걸 확인했잖아요.
+[45:00.92]
+B | How do we close that gap without obliterating a company's legal right to protect the millions of dollars they invest in research? | 회사가 연구에 투자한 수백만 달러를 보호할 법적 권리를 없애지 않으면서 그 간극을 어떻게 좁히죠?
+[45:07.02]
+A | Well, the author of the study didn't just diagnose the disease. | 음, 연구 저자는 병을 진단만 한 게 아니에요.
+[45:10.36]
+A | They laid out four highly specific pragmatic policy recommendations to treat it. | 그걸 치료할 아주 구체적이고 실용적인 정책 제언 네 가지를 내놓았어요.
+[45:15.16]
+B | And the brilliance of these recommendations lies entirely in their pragmatism. | 그리고 이 제언들의 탁월함은 전적으로 그 실용성에 있어요.
+[45:19.02]
+A | Yes, the author recognizes the economic reality. | 네, 저자는 경제적 현실을 인정해요.
+[45:21.60]
+A | They do not demand that corporations dump their proprietary chemical formulas or their raw unredacted patient data onto the internet. | 기업에게 독점 화학 제조법이나 가리지 않은 환자 원자료를 인터넷에 쏟아 내라고 요구하지 않아요.
+[45:29.26]
+A | They propose a functional middle ground. | 실제로 작동하는 중간 지점을 제안해요.
+[45:32.18]
+B | Okay, let's go through them. Recommendation number one. | 좋아요, 하나씩 보죠. 제언 1번.
+[45:34.52]
+A | Number one suggests that the regulatory agency could publish structured summaries of the human trials used to make the approval decisions | 1번은 규제 기관이 승인 결정에 쓴 인체 시험의 구조화된 요약을 공개할 수 있다는 거예요.
+[45:41.42]
+B | like what Japan does. | 일본처럼요.
+[45:42.40]
+A | Exactly. These summaries would detail the study design. Was it double-blind? | 맞아요. 이 요약에는 연구 설계가 자세히 들어가요. 이중맹검이었나?
+[45:46.66]
+A | The number of participants, the primary biological endpoints they were measuring, the statistical effect sizes, and the funding source. | 참가자 수, 측정한 주요 생물학적 평가 변수, 통계적 효과 크기, 그리고 자금 출처요.
+[45:53.58]
+B | This is not a radical idea at all. | 전혀 급진적인 생각이 아니네요.
+[45:55.36]
+A | No, it is exactly what regulatory agencies already do for prescription pharmaceutical medicines. They publish public assessment reports. | 네, 규제 기관이 전문의약품에 대해 이미 하고 있는 일 그대로예요. 공개 평가 보고서를 내죠.
+[46:04.48]
+A | It provides independent scientists with enough data to judge the structural integrity of the trial without compromising the molecular trade secrets of the ingredient. | 원료의 분자 수준 영업 비밀을 해치지 않으면서, 독립 과학자들이 시험의 구조적 완결성을 판단하기에 충분한 데이터를 줘요.
+[46:13.94]
+B | Awesome. | 훌륭해요.
+[46:15.14]
+B | Recommendation number two introduces the concept of mandatory pre-registration for any human trial intended for regulatory approval. | 제언 2번은 규제 승인을 위한 모든 인체 시험에 대해 '의무 사전 등록'이라는 개념을 도입해요.
+[46:24.22]
+B | How does pre-registration actually change the behavior of the researchers? | 사전 등록이 연구자들의 행동을 실제로 어떻게 바꾸나요?
+[46:28.74]
+A | Pre-registration directly neutralizes the file drawer problem and the selective reporting we discussed earlier | 사전 등록은 앞에서 말한 '서랍 문제'와 선택적 보고를 직접 무력화해요.
+[46:35.24]
+B | the hiding of negative trials. | 부정적인 시험을 숨기는 거요.
+[46:36.88]
+A | Yes. | 네.
+[46:37.88]
+A | Under a pre-registration mandate, a company must register their trial in a public timestamped database like ClinicalTrials.gov in the US before they administer a single dose to a human patient. | 사전 등록이 의무화되면, 회사는 환자에게 단 한 번이라도 투여하기 전에 미국의 ClinicalTrials.gov 같은 공개된, 시각이 기록되는 데이터베이스에 시험을 등록해야 해요.
+[46:48.82]
+A | They must publicly declare their hypothesis, their exact methodology, and the specific metrics they intend to measure. | 가설, 정확한 방법론, 측정하려는 구체적 지표를 공개적으로 밝혀야 하죠.
+[46:56.10]
+B | Oh, that's smart. | 아, 똑똑하네요.
+[46:57.38]
+B | So, if they run the trial, and the results are entirely negative. | 그러니까 시험을 했는데 결과가 완전히 부정적이라면,
+[47:01.84]
+A | They can no longer sweep the data under the rug and pretend the trial never happened because the existence of the trial is already permanently etched into the public record. | 더 이상 데이터를 덮어 두고 시험이 없었던 척할 수 없어요. 시험의 존재가 이미 공공 기록에 영구히 새겨져 있으니까요.
+[47:10.26]
+A | Pre-registration forces a structural honesty upon the research ecosystem. | 사전 등록은 연구 생태계에 구조적인 정직함을 강제해요.
+[47:14.14]
+A | It ensures that the scientific community can see the failures just as clearly as the successes. | 과학계가 실패를 성공만큼이나 분명하게 볼 수 있게 해 주죠.
+[47:19.32]
+B | I love that. | 정말 좋네요.
+[47:20.70]
+B | Recommendation number three calls for standardized reporting of funding and conflicts of interest. | 제언 3번은 자금과 이해충돌을 표준화해 보고하라고 요구해요.
+[47:26.22]
+B | Given the scores we reviewed where nearly two-thirds of the study failed to clearly identify who paid for the research. | 우리가 본 점수에서 연구의 거의 3분의 2가 누가 연구비를 냈는지 분명히 밝히지 못했잖아요.
+[47:32.00]
+B | It seems like the most basic foundational standard of scientific transparency. | 과학적 투명성의 가장 기본적인 기초 기준 같아요.
+[47:36.52]
+A | It should be mandatory everywhere, honestly. | 솔직히 어디서나 의무여야 해요.
+[47:39.20]
+B | And finally, recommendation number four suggests periodic public reassessments for any ingredient that was approved based on the single isolated trial, | 그리고 마지막으로 제언 4번은, 단 하나의 고립된 시험을 근거로 승인된 원료는 주기적으로 공개 재평가를 하자는 거예요.
+[47:47.48]
+A | which is a direct structural response to the replication crisis. | 재현성 위기에 대한 직접적이고 구조적인 대응이죠.
+[47:51.20]
+A | If an ingredient was granted a regulatory monopoly 10 years ago based on one solitary trial involving 60 people, the regulator should be required to periodically open that file back up | 어떤 원료가 10년 전에 60명이 참여한 시험 단 한 건을 근거로 규제상 독점권을 받았다면, 규제 기관은 주기적으로 그 파일을 다시 열어야 해요.
+[48:01.88]
+B | and ask what? | 그리고 뭘 묻죠?
+[48:02.90]
+A | Ask the broader scientific community, has anyone else successfully replicated this effect in the last decade? | 더 넓은 과학계에 물어요. 지난 10년 동안 누군가 이 효과를 성공적으로 재현했나요?
+[48:08.44]
+B | And if the answer is no, or if subsequent independent trials have shown zero efficacy, then that original approval needs to be reconsidered or the labeling requirements must be altered to reflect the lack of scientific consensus. | 그리고 답이 '아니요'이거나, 이후 독립 시험에서 효능이 전혀 없었다면, 원래 승인을 재검토하거나 과학적 합의가 없다는 걸 반영해 표시 요건을 바꿔야 해요.
+[48:20.42]
+B | Implementing these four steps would fundamentally revolutionize the trustworthiness of the entire regulatory system without violating the core principles of corporate trade secret. | 이 네 단계를 실행하면 기업 영업 비밀의 핵심 원칙을 어기지 않고도 규제 시스템 전체의 신뢰도를 근본적으로 혁신할 수 있어요.
+[48:29.68]
+## 연구의 한계와 AI(Claude)
+B | As we look at the solutions, we also have to turn a critical eye on the study itself. | 해결책을 보면서 연구 자체에도 비판적인 눈을 돌려야 해요.
+[48:34.08]
+B | A core tenet of good science is acknowledging your own blind spots. | 좋은 과학의 핵심 원칙은 자신의 사각지대를 인정하는 거예요.
+[48:38.12]
+B | And Choongho Lee was highly transparent about the limitations of this massive audit. | 그리고 이충호 연구자는 이 거대한 감사의 한계에 대해 아주 투명했어요.
+[48:42.38]
+A | Very transparent. | 아주 투명했죠.
+[48:44.30]
+B | The author noted that they were a single assessor. | 저자는 자신이 단독 평가자였다고 밝혔어요.
+[48:46.76]
+B | They personally scored all 606 ingredients, which inherently introduces the possibility of subjective bias into the rubric. | 606개 원료를 전부 직접 채점했는데, 그러면 기준표에 주관적 편향이 들어갈 가능성이 본래 생겨요.
+[48:54.30]
+B | Another scientist might have weighed a specific study design slightly differently. | 다른 과학자라면 특정 연구 설계에 조금 다른 가중치를 줬을 수도 있어요.
+[48:58.42]
+A | Right. That's standard human error. | 그렇죠. 흔한 인간적 오차예요.
+[49:00.82]
+B | They also acknowledged that the search was limited to public databases. | 검색이 공개 데이터베이스로 한정됐다는 것도 인정했어요.
+[49:04.40]
+B | It's entirely possible they missed relevant human trials that were published in non-English journals or data that was locked away behind exorbitant academic paywalls. | 영어가 아닌 학술지에 실린 관련 인체 시험이나, 비싼 학술지 유료 장벽 뒤에 갇힌 데이터를 놓쳤을 가능성도 충분해요.
+[49:12.38]
+A | Also a very fair limitation. | 그것도 아주 타당한 한계네요.
+[49:14.86]
+B | But the limitation that I find truly fascinating from a methodological standpoint involves how the data was extracted. | 그런데 방법론 관점에서 제가 정말 흥미롭게 본 한계는 데이터를 어떻게 추출했느냐예요.
+[49:21.76]
+A | The AI aspect. | AI 부분이요.
+[49:23.12]
+B | Yes. | 네.
+[49:24.12]
+B | To handle the sheer volume of literature, the author utilized an artificial intelligence, specifically a large language model named Claude to perform the first pass data extraction on 854 dense scientific articles. | 엄청난 양의 문헌을 다루려고, 저자는 인공지능, 구체적으로 Claude라는 대형 언어 모델을 사용해 빽빽한 과학 논문 854편에서 1차 데이터 추출을 했어요.
+[49:37.58]
+B | As a researcher, how do you view that? | 연구자로서 그걸 어떻게 보세요?
+[49:40.48]
+B | Does trusting an AI to read and parse complex biomedical literature make you nervous? | 복잡한 생의학 문헌을 읽고 분석하는 걸 AI에게 맡기는 게 불안한가요?
+[49:45.22]
+B | Or is that simply the unavoidable necessary future of how we have to process the exponential growth of data? | 아니면 그건 폭발적으로 늘어나는 데이터를 처리해야 하는 우리에게 피할 수 없는 필연적 미래일 뿐인가요?
+[49:51.26]
+A | It is a phenomenal question that sits at the absolute bleeding edge of modern meta-research. Does it introduce anxiety? Certainly. | 현대 메타연구의 최첨단에 있는 훌륭한 질문이에요. 불안을 불러올까요? 물론이죠.
+[49:59.30]
+A | Because anyone who works with large language models knows they are prone to hallucination, | 대형 언어 모델을 다뤄 본 사람이라면 환각을 일으키기 쉽다는 걸 아니까요.
+[50:03.24]
+B | right? They can just make things up. | 그렇죠? 그냥 지어낼 수도 있어요.
+[50:04.50]
+A | They can misinterpret complex statistical nuance or falsely connect two unrelated data points within a dense PDF. | 복잡한 통계의 미묘한 차이를 잘못 해석하거나, 빽빽한 PDF 안의 관련 없는 두 데이터를 잘못 연결할 수도 있어요.
+[50:11.14]
+A | However, the author instituted a critical safeguard, | 하지만 저자는 중요한 안전장치를 두었어요.
+[50:14.24]
+B | which was | 그게 뭐였냐면,
+[50:15.20]
+A | they explicitly stated that they personally manually verified every single data point the AI extracted against the original text of the paper. | AI가 추출한 모든 데이터를 논문 원문과 대조해 직접 손으로 검증했다고 분명히 밝혔어요.
+[50:24.82]
+A | The AI did not make the final judgment. It acted as a high-speed research assistant. | AI가 최종 판단을 내린 게 아니에요. 고속 연구 보조원 역할을 한 거죠.
+[50:29.86]
+B | Okay, that makes me feel a lot better. | 좋아요, 그러니 훨씬 마음이 놓이네요.
+[50:31.86]
+A | Looking forward, this hybrid approach is undeniably the future of the discipline. | 앞을 내다보면, 이런 혼합 방식은 분명히 이 분야의 미래예요.
+[50:35.70]
+A | The volume of scientific literature published globally every single month has far surpassed the capacity of human cognition to process manually. | 매달 전 세계에서 출판되는 과학 문헌의 양이 사람이 손으로 처리할 수 있는 인지 능력을 훨씬 넘어섰어요.
+[50:44.16]
+B | There's just too much to read. | 읽을 게 너무 많죠.
+[50:45.52]
+A | If we want to conduct massive systemic societal level audits like analyzing the entire evidentiary foundation of a national regulatory agency, we are mathematically forced to leverage AI as a tool for initial parsing. | 한 나라 규제 기관의 증거 기반 전체를 분석하는 것처럼 사회 수준의 거대한 구조적 감사를 하려면, 수학적으로 AI를 1차 분석 도구로 활용할 수밖에 없어요.
+[51:00.16]
+A | The methodological lesson here is that AI must remain a mechanism for extraction while the human researcher strictly retains the burden of verification and epistemological judgment. | 여기서 얻는 방법론적 교훈은, AI는 추출 장치로 남고, 검증과 인식론적 판단의 책임은 엄격히 사람 연구자가 져야 한다는 거예요.
+[51:11.50]
+A | The inclusion of this limitation actually grounds the study perfectly in the reality of our current technological era. | 이 한계를 밝혀 둔 덕분에 연구가 오히려 지금 우리 기술 시대의 현실에 딱 발을 딛게 돼요.
+[51:17.32]
+## 소비자에게 — 그리고 위약 효과의 역설
+B | We have covered a massive amount of structural, scientific, and regulatory ground today. We | 오늘 구조, 과학, 규제에 걸쳐 정말 많은 영역을 다뤘어요.
+[51:22.38]
+A | really have. | 정말 그래요.
+[51:23.36]
+B | Let's bring all of these complex concepts back to the perspective of you, the consumer standing in the aisle. | 이 복잡한 개념들을 모두 영양제 코너에 서 있는 소비자인 여러분의 관점으로 다시 가져와 보죠.
+[51:29.20]
+B | If you were listening to this, the ultimate takeaway is absolutely not that you should go home and throw all your supplements in the trash. | 이걸 들으셨다면, 최종적인 교훈은 절대로 집에 가서 영양제를 전부 쓰레기통에 버려야 한다는 게 아니에요.
+[51:35.80]
+A | Please don't do that. | 제발 그러지 마세요.
+[51:36.96]
+B | The purpose of this deep dive was not to declare that your vitamins or your expensive proprietary joint health extracts are biologically useless. | 이번 딥다이브의 목적은 여러분의 비타민이나 비싼 독점 관절 건강 추출물이 생물학적으로 쓸모없다고 선언하는 게 아니었어요.
+[51:45.08]
+B | The goal was to equip you with a new highly calibrated critical lens. | 목표는 여러분에게 정밀하게 조정된 새로운 비판적 렌즈를 쥐여 드리는 거였어요.
+[51:49.30]
+A | Exactly. | 맞아요.
+[51:50.16]
+B | The next time you were looking at a product and you see a bold label boasting that it is approved or recognized by a government authority, you now understand the invisible machinery operating behind that stamp. | 다음에 제품을 보다가 정부 당국의 승인이나 인정을 받았다고 자랑하는 굵은 라벨을 보면, 이제 그 도장 뒤에서 돌아가는 보이지 않는 장치를 이해하실 거예요.
+[52:01.32]
+A | You recognize that this absolute declaration of efficacy might be built on a robust publicly verifiable mountain of replicated science. | 이 절대적인 효능 선언이 재현된 과학, 공개적으로 검증 가능한 탄탄한 산 위에 세워졌을 수도 있다는 걸 알아보실 거예요.
+[52:10.22]
+B | Or it might be built on a single industry-funded trial conducted on 50 people permanently locked in a confidential government filing cabinet that you will never be legally permitted to see. | 아니면 50명을 대상으로 한, 산업계 자금이 들어간 시험 단 한 건 위에 세워졌을 수도 있어요. 그 시험은 여러분이 법적으로 결코 볼 수 없는 정부의 기밀 서류함에 영원히 잠겨 있고요.
+[52:21.28]
+B | The stamp is real, but you now know that the shadow cast behind it is incredibly long. | 도장은 진짜예요. 하지만 이제 그 뒤로 드리운 그림자가 엄청나게 길다는 걸 아시죠.
+[52:27.10]
+A | It is about fundamentally altering your relationship with institutional authority and scientific evidence. | 제도적 권위와 과학적 증거와의 관계를 근본적으로 바꾸는 일이에요.
+[52:32.48]
+A | You are no longer required to be a passive consumer, blindly trusting a shiny label. | 이제 더 이상 반짝이는 라벨을 맹목적으로 믿는 수동적인 소비자일 필요가 없어요.
+[52:37.40]
+A | You are now an informed participant who understands the systemic structural gaps in how therapeutic evidence is managed, monetized, and shielded from the public. | 이제 여러분은 치료 근거가 어떻게 관리되고, 돈이 되고, 대중에게서 가려지는지 그 구조적 간극을 이해하는, 정보를 갖춘 참여자예요.
+[52:47.08]
+B | Before we wrap up, I want to leave you with one final slightly provocative thought to chew on. | 마무리하기 전에, 곱씹어 볼 만한 약간 도발적인 생각 하나를 남기고 싶어요.
+[52:53.12]
+B | It is a concept we didn't explicitly cover in the breakdown of the study, but it builds directly on this entire architecture of hidden evidence. | 연구를 분석하면서 명시적으로 다루지는 않았지만, 이 숨겨진 증거의 구조 전체 위에 바로 세워지는 개념이에요.
+[53:00.66]
+A | Okay, I'm intrigued. | 좋아요, 궁금하네요.
+[53:03.04]
+B | This study focused entirely on academic transparency. | 이 연구는 전적으로 학술적 투명성에 초점을 맞췄어요.
+[53:06.38]
+B | It asked whether the researchers and the regulators can see the data, but think about the psychology of the consumer actually swallowing the pill. | 연구자와 규제 기관이 데이터를 볼 수 있느냐를 물었죠. 그런데 실제로 알약을 삼키는 소비자의 심리를 생각해 보세요.
+[53:14.82]
+B | Think about the placebo effect. | 위약 효과를 생각해 보세요.
+[53:16.46]
+A | Oh wow. Okay. | 와. 그렇군요.
+[53:19.40]
+B | The placebo effect is not a myth. | 위약 효과는 미신이 아니에요.
+[53:21.56]
+B | It is a very real, highly documented and incredibly powerful biological phenomenon where the human body initiates physical healing purely based on the expectation of receiving a treatment. | 치료를 받는다는 기대만으로 인체가 실제 치유를 시작하는, 아주 실제적이고 잘 기록된, 엄청나게 강력한 생물학적 현상이에요.
+[53:32.74]
+B | The placebo effect relies entirely on belief and perceived authority. | 위약 효과는 전적으로 믿음과 느껴지는 권위에 의존해요.
+[53:37.20]
+A | That's absolutely true. | 정말 맞는 말이에요.
+[53:39.32]
+B | Now, imagine a theoretical world where the policy recommendations we just discussed were enacted to their most absolute radical extreme. | 자, 우리가 방금 이야기한 정책 제언들이 가장 극단적인 수준까지 시행된 가상의 세상을 상상해 봐요.
+[53:47.18]
+B | Imagine a world of total frictionless transparency where every consumer can simply scan a QR code on a supplement bottle in the store and instantly see the unvarnished truth. | 모든 소비자가 매장에서 영양제 병의 QR 코드를 찍기만 하면 꾸밈없는 진실을 즉시 볼 수 있는, 마찰 없는 완전한 투명성의 세상이요.
+[53:56.08]
+A | Okay? | 네?
+[53:57.54]
+B | Imagine they scan their favorite highly marketed expensive supplement and they see that it's supported by only one tiny weakly designed industry-funded study that has never been replicated, | 그들이 가장 좋아하는, 광고도 많이 하는 비싼 영양제를 찍었는데, 재현된 적 없는, 허술하게 설계된 산업계 자금의 작은 연구 하나만 뒷받침하고 있다는 걸 본다고 해 봐요.
+[54:07.02]
+A | they'd probably be pretty disappointed, | 아마 꽤 실망하겠죠,
+[54:08.94]
+B | right? | 그렇죠?
+[54:09.86]
+B | But if their deep belief in the absolute unquestionable authority of that product was completely shattered by that radical transparency, would the supplement actually stop working for them? | 그런데 그 제품의 절대적이고 의심할 여지 없는 권위에 대한 깊은 믿음이 그 철저한 투명성 때문에 완전히 산산조각 난다면, 그 영양제가 그들에게 정말 효과를 멈출까요?
+[54:20.48]
+A | Oh, that is a wild thought. | 와, 정말 기막힌 생각이네요.
+[54:22.56]
+B | Where the very real physical benefits they've been experiencing suddenly evaporate purely because the psychological illusion of certainty was broken by the data. | 확실성이라는 심리적 환상이 데이터 때문에 깨졌다는 이유만으로, 그동안 느끼던 아주 실제적인 신체적 효과가 갑자기 사라지는 거죠.
+[54:31.00]
+B | It makes you wonder in some strange paradoxical way, does the secrecy, the confident, unquestionable black box of government approval actually help some of these products work better in our minds? | 묘하게 역설적인 방식으로 궁금해지게 만들어요. 비밀, 그러니까 정부 승인이라는 자신만만하고 의심할 수 없는 블랙박스가 오히려 일부 제품이 우리 마음속에서 더 잘 듣게 돕는 건 아닐까요?
+[54:44.22]
+B | Is radical transparency always the ultimate cure for the system? | 철저한 투명성이 언제나 이 시스템의 궁극적인 치료제일까요?
+[54:47.60]
+B | Or is a little bit of opaque authoritative mystery sometimes an active ingredient in the medicine itself? | 아니면 약간의 불투명하고 권위 있는 신비로움이 때로는 약 자체의 유효 성분일까요?
+[54:52.98]
+A | That is quite the paradox to end on. | 마무리하기에 꽤 대단한 역설이네요.
+[54:56.80]
+B | Something to ponder the next time you take a daily vitamin. | 다음에 매일 비타민을 먹을 때 곰곰이 생각해 볼 거리예요.
+[55:00.52]
+B | Thank you so much for joining us on this deep dive. Stay insanely curious and we will catch you next time. | 이번 딥다이브에 함께해 주셔서 정말 감사해요. 계속 미친 듯이 궁금해하시고, 다음에 또 만나요.

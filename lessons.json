@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "en-2026-11-05-2",
+   "lang": "en",
+   "date": "2026-11-05",
+   "title": "정부 인증 도장 뒤에 숨은 과학 — 건강기능식품 증거는 얼마나 공개돼 있을까",
+   "es": "The stamp is real, but the shadow behind it is long.",
+   "emoji": "💊",
+   "level": "B2–C1",
+   "channel": "Deep Dive 오디오",
+   "youtube": null,
+   "duration": "55:06",
+   "summary": "동국대 이충호 연구자의 메타연구(Accountability in Research 투고)를 두 진행자가 55분 동안 깊이 파헤쳐요. 식약처가 인정한 기능성 원료 606개를 전수 조사해 '정부 승인 뒤의 인체 시험 증거를 대중이 실제로 확인할 수 있는가'를 물었어요. 고시형 85개 vs 개별인정형 521개, 공개 확인율 66.7%, 100점 기준표 평균 67.8점, 약한 고리인 재현(51.9%)과 자금 독립성(57.8%), 그리고 521개 중 단 10개(1.9%)만 남는 탈락 곡선. 칼륨이 45점인 역설, EU·일본·미국과의 비교, 네 가지 정책 제언, Claude를 쓴 데이터 추출과 한계, 마지막으로 '투명성이 위약 효과를 깨뜨릴까?'라는 질문까지 이어져요.",
+   "topics": [
+    "efficacy vs public verifiability · black box · proxy of scrutiny",
+    "notified (85) vs individually recognized (521) · trade secret dossiers",
+    "selective reporting · industry bias · replication crisis · P-hacking",
+    "the attrition curve: 521 → 1.9% (10 ingredients)",
+    "EU · Japan · US (DSHEA) · Korea's hybrid · four policy recommendations",
+    "구문: not A but B · 가정법 과거 · must have p.p. · 연구 결과 수동태 · the moment / by the time"
+   ],
+   "vocabCount": 62,
+   "lineCount": 702
+  },
+  {
    "id": "zh-2026-11-05",
    "lang": "zh",
    "date": "2026-11-05",
