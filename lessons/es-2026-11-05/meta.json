@@ -1,0 +1,611 @@
+{
+ "lang": "es",
+ "date": "2026-11-05",
+ "title": "인생을 편하게 하는 네 가지 규칙 — 스페인어 딥다이브",
+ "es": "La vida simple es una buena vida",
+ "emoji": "🌿",
+ "level": "A2–B1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "Cuatro reglas para una vida más fácil",
+ "audio": "audio.m4a",
+ "duration": "13:20",
+ "speakers": {
+  "H": "Anfitrión",
+  "M": "Anfitriona"
+ },
+ "hideCast": true,
+ "summary": "같은 날 일본어·영어 강의와 같은 주제(레이라의 '인생을 편하게 하는 4가지 생각')를 스페인어 딥다이브로 들어요. ① 조용히 기대하지 말고 분명한 말로 부탁하기, 답례 바라지 않기 ② 사회의 기준 대신 나답게 — 저금 없이도 행복한 노부부 ③ 뭐든 80%면 충분 — 청소, 마라톤, 1분 만에 시작하는 영상 촬영 ④ 짧은 영상과 SNS 줄이고 책 읽기. 쉬운 문장이 많아 섀도잉하기 좋아요.",
+ "topics": [
+  "① pedir con palabras claras · no esperar en silencio · nada a cambio",
+  "② vivir a tu manera · los abuelos sin ahorros · vivir para el hoy",
+  "③ la regla del 80% · la clave de la constancia",
+  "④ usar menos el teléfono · los videos cortos · borrar las cuentas",
+  "문법: querer que + 접속법 · como si · si + 접속법 과거, 조건법 · hacer que · hay que · dejar de"
+ ],
+ "grammar": [
+  {
+   "title": "① querer que + 접속법 — (남이) ~해 줬으면 하다",
+   "lead": "주어가 바뀌면 que 뒤에 접속법. 바라는 걸 말로 꺼내는 게 이번 에피소드의 첫 규칙이에요.",
+   "examples": [
+    [
+     "Ella quiere que su esposo lave esos platos.",
+     "그녀는 남편이 그 접시를 씻어 줬으면 해요."
+    ],
+    [
+     "La sociedad quiere que hagamos las cosas de la manera difícil.",
+     "사회는 우리가 어려운 방식으로 하기를 원해요."
+    ]
+   ]
+  },
+  {
+   "title": "② como si + 접속법 과거 — 마치 ~인 것처럼",
+   "lead": "현실이 아닌 상상을 비유할 때. supiera, tuviera처럼 접속법 과거를 써요.",
+   "examples": [
+    [
+     "Como si supiera todo sin que tú hables.",
+     "말하지 않아도 모든 걸 아는 것처럼요."
+    ],
+    [
+     "Como si la gente tuviera magia.",
+     "사람들이 마법이라도 가진 것처럼요."
+    ]
+   ]
+  },
+  {
+   "title": "③ si + 현재, (명령·현재·미래) — 현실적인 조건",
+   "lead": "일어날 수 있는 일을 말할 때는 si 뒤에 그냥 현재형.",
+   "examples": [
+    [
+     "Si queremos algo, debemos pedirlo con palabras claras.",
+     "원하는 게 있으면 분명한 말로 부탁해야 해요."
+    ],
+    [
+     "Si haces las cosas al 80%, tu casa se ve limpia.",
+     "일을 80%로 하면 집은 깨끗해 보여요."
+    ]
+   ]
+  },
+  {
+   "title": "④ si + 접속법 과거, 조건법 — 사실과 반대되는 가정",
+   "lead": "'만약 ~했다면 ~했을 텐데'. si절은 접속법 과거, 결과는 조건법(-ría).",
+   "examples": [
+    [
+     "Si ella intentara hacer todo 100% perfecto, se cansaría muy rápido.",
+     "만약 모든 걸 100% 완벽하게 하려고 했다면 금방 지쳤을 거예요."
+    ],
+    [
+     "¿Qué pasaría si usamos la regla del 80% en todo?",
+     "80% 규칙을 모든 것에 쓰면 어떻게 될까요? (구어에서는 si 뒤에 현재형도 써요)"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ hacer que + 접속법 — ~하게 만들다",
+   "lead": "원인이 사람의 행동을 일으킬 때. hacer + 동사원형으로도 말해요.",
+   "examples": [
+    [
+     "Las redes sociales hacen que comparemos nuestra vida con la de otras personas.",
+     "SNS는 우리 삶을 다른 사람의 삶과 비교하게 만들어요."
+    ],
+    [
+     "Nos hace pensar que nuestra vida es aburrida.",
+     "우리 삶이 지루하다고 생각하게 만들어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ hay que / no hay que / no es necesario + 동사원형",
+   "lead": "일반적인 의무 '~해야 한다', '~할 필요 없다'.",
+   "examples": [
+    [
+     "Hay que cambiar la forma en que pensamos.",
+     "생각하는 방식을 바꿔야 해요."
+    ],
+    [
+     "No hay que ser perfectos en todo lo que hacemos.",
+     "하는 모든 일에서 완벽할 필요는 없어요."
+    ],
+    [
+     "No es necesario limpiar cada ventana.",
+     "창문 하나하나를 다 닦을 필요는 없어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ dejar de + 동사원형 — ~하는 걸 그만두다",
+   "lead": "습관을 끊을 때. dejar + 명사는 '두다, 내려놓다'.",
+   "examples": [
+    [
+     "Dejar de buscar ser perfectos.",
+     "완벽해지려고 하는 걸 그만두기."
+    ],
+    [
+     "Dejar el teléfono y leer un buen libro.",
+     "휴대폰을 내려놓고 좋은 책 읽기."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "Nadie puede leer la mente.",
+   "누구도 마음을 읽을 수는 없어요."
+  ],
+  [
+   "¿Puedes lavar los platos, por favor?",
+   "접시 좀 씻어 줄래?"
+  ],
+  [
+   "Ya lo pidió y ya está.",
+   "이미 부탁했으니 그걸로 끝이에요."
+  ],
+  [
+   "Es mejor decir que no.",
+   "거절하는 게 나아요."
+  ],
+  [
+   "Puede vivir a su manera.",
+   "자기 방식대로 살아도 돼요."
+  ],
+  [
+   "Hacer las cosas al 80% es suficiente.",
+   "일을 80%로 하면 충분해요."
+  ],
+  [
+   "Esta es la clave de la constancia.",
+   "이게 꾸준함의 비결이에요."
+  ],
+  [
+   "El teléfono controla a la persona.",
+   "휴대폰이 사람을 조종해요."
+  ],
+  [
+   "Nadie es 100% feliz siempre.",
+   "누구도 늘 100% 행복하지 않아요."
+  ],
+  [
+   "Hay que ser buenos con nosotros mismos.",
+   "우리 자신에게 너그러워야 해요."
+  ],
+  [
+   "La vida simple es una buena vida.",
+   "단순한 삶이 좋은 삶이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el análisis detallado",
+   "ko": "자세한 분석",
+   "ex": "Hola y bienvenidos a este análisis detallado.",
+   "exKo": "안녕하세요, 이번 자세한 분석에 오신 걸 환영해요."
+  },
+  {
+   "es": "la creadora",
+   "ko": "(여성) 제작자",
+   "ex": "La creadora de este video comparte cuatro ideas muy simples.",
+   "exKo": "이 영상을 만든 사람은 아주 간단한 생각 네 가지를 나눠 줘요."
+  },
+  {
+   "es": "emocionado/a",
+   "ko": "설레는, 신이 난",
+   "ex": "Estoy muy emocionado de hablar de esto hoy.",
+   "exKo": "오늘 이 이야기를 하게 돼서 정말 설레요."
+  },
+  {
+   "es": "tranquilo/a",
+   "ko": "편안한, 차분한",
+   "ex": "¿Cómo podemos vivir más felices y tranquilos?",
+   "exKo": "어떻게 하면 더 행복하고 편안하게 살 수 있을까요?"
+  },
+  {
+   "es": "ser clave",
+   "ko": "핵심이다",
+   "ex": "Sí, eso es clave.",
+   "exKo": "네, 그게 핵심이에요."
+  },
+  {
+   "es": "las relaciones con los demás",
+   "ko": "다른 사람과의 관계",
+   "ex": "Las relaciones con los demás.",
+   "exKo": "다른 사람과의 관계요."
+  },
+  {
+   "es": "los platos sucios",
+   "ko": "더러운 접시, 설거짓거리",
+   "ex": "Ve los platos sucios.",
+   "exKo": "더러운 접시들을 봐요."
+  },
+  {
+   "es": "lavar los platos",
+   "ko": "설거지하다",
+   "ex": "Quiere que su esposo lave esos platos sucios.",
+   "exKo": "남편이 그 더러운 접시를 씻어 줬으면 해요."
+  },
+  {
+   "es": "en lugar de + 동사원형",
+   "ko": "~하는 대신",
+   "ex": "En lugar de decir algo, no dice nada.",
+   "exKo": "뭔가 말하는 대신 아무 말도 안 해요."
+  },
+  {
+   "es": "quedarse callado/a",
+   "ko": "조용히 있다, 입을 다물다",
+   "ex": "Solo se queda callada y espera.",
+   "exKo": "그냥 조용히 있으면서 기다려요."
+  },
+  {
+   "es": "enojarse",
+   "ko": "화가 나다",
+   "ex": "Si ella no dice nada, se enoja mucho.",
+   "exKo": "아무 말도 안 하니까 엄청 화가 나요."
+  },
+  {
+   "es": "por dentro",
+   "ko": "속으로",
+   "ex": "Ella se siente muy, muy mal por dentro.",
+   "exKo": "그녀는 속으로 아주아주 기분이 나빠져요."
+  },
+  {
+   "es": "leer la mente",
+   "ko": "마음을 읽다",
+   "ex": "Nadie puede leer la mente.",
+   "exKo": "누구도 마음을 읽을 수 없어요."
+  },
+  {
+   "es": "pedir con palabras claras",
+   "ko": "분명한 말로 부탁하다",
+   "ex": "Si queremos algo, debemos pedirlo con palabras claras.",
+   "exKo": "원하는 게 있으면 분명한 말로 부탁해야 해요."
+  },
+  {
+   "es": "el enojo",
+   "ko": "화, 분노",
+   "ex": "Sentimos mucho estrés y mucho enojo.",
+   "exKo": "스트레스와 화를 많이 느껴요."
+  },
+  {
+   "es": "desaparecer",
+   "ko": "사라지다",
+   "ex": "Si usamos palabras claras, este problema desaparece rápido.",
+   "exKo": "분명한 말을 쓰면 이 문제는 금방 사라져요."
+  },
+  {
+   "es": "y ya está / y ya",
+   "ko": "그걸로 끝, 그만이야",
+   "ex": "Ya lo pidió y ya está.",
+   "exKo": "이미 부탁했으니 그걸로 끝이에요."
+  },
+  {
+   "es": "el favor",
+   "ko": "호의, 부탁",
+   "ex": "Si haces un favor, no debes esperar las gracias.",
+   "exKo": "호의를 베풀면 고맙다는 말을 기대하면 안 돼요."
+  },
+  {
+   "es": "a cambio",
+   "ko": "그 대가로, 답례로",
+   "ex": "No debes esperar un regalo a cambio.",
+   "exKo": "답례 선물을 기대하면 안 돼요."
+  },
+  {
+   "es": "la boda",
+   "ko": "결혼식",
+   "ex": "Es sobre ir a una boda.",
+   "exKo": "결혼식에 가는 거에 관한 거예요."
+  },
+  {
+   "es": "sentirse obligado/a",
+   "ko": "의무감을 느끼다",
+   "ex": "Voy solo porque me siento obligada.",
+   "exKo": "의무감 때문에 가는 거예요."
+  },
+  {
+   "es": "tener razón",
+   "ko": "옳다, 맞는 말이다",
+   "ex": "Y tiene mucha razón.",
+   "exKo": "그리고 그 말이 정말 맞아요."
+  },
+  {
+   "es": "de corazón",
+   "ko": "진심으로",
+   "ex": "Es mejor decir no si no quieres hacerlo de corazón.",
+   "exKo": "진심으로 하고 싶지 않으면 거절하는 게 나아요."
+  },
+  {
+   "es": "la presión",
+   "ko": "압박, 부담",
+   "ex": "Sí, es una presión muy grande.",
+   "exKo": "네, 아주 큰 압박이에요."
+  },
+  {
+   "es": "a tiempo completo",
+   "ko": "정규직의, 풀타임",
+   "ex": "Necesito encontrar un buen trabajo a tiempo completo.",
+   "exKo": "좋은 정규직 일자리를 찾아야 해."
+  },
+  {
+   "es": "los ahorros",
+   "ko": "저금, 저축",
+   "ex": "No tienen ahorros en el banco.",
+   "exKo": "은행에 저금이 없어요."
+  },
+  {
+   "es": "no importar",
+   "ko": "상관없다, 중요하지 않다",
+   "ex": "No les importa lo que piensan otras personas.",
+   "exKo": "다른 사람들이 어떻게 생각하든 신경 쓰지 않아요."
+  },
+  {
+   "es": "recordar",
+   "ko": "일깨우다, 기억하다",
+   "ex": "Le recuerda algo muy simple pero importante.",
+   "exKo": "아주 간단하지만 중요한 걸 일깨워 줘요."
+  },
+  {
+   "es": "quitarse un peso de encima",
+   "ko": "어깨의 짐을 내려놓다",
+   "ex": "¡Qué peso tan grande se quita de encima!",
+   "exKo": "어깨에서 큰 짐을 내려놓은 거네요!"
+  },
+  {
+   "es": "darse cuenta de",
+   "ko": "깨닫다, 알아차리다",
+   "ex": "Se da cuenta de que puede vivir a su manera.",
+   "exKo": "자기 방식대로 살아도 된다는 걸 깨달아요."
+  },
+  {
+   "es": "a su manera",
+   "ko": "자기 방식대로",
+   "ex": "Puede vivir a su manera.",
+   "exKo": "자기 방식대로 살 수 있어요."
+  },
+  {
+   "es": "el polvo",
+   "ko": "먼지",
+   "ex": "Ni buscar cada pequeña parte de polvo en el piso.",
+   "exKo": "바닥의 작은 먼지 하나하나를 찾을 필요도 없어요."
+  },
+  {
+   "es": "sobrar",
+   "ko": "남다",
+   "ex": "A ti te sobra mucho tiempo libre.",
+   "exKo": "자유 시간이 많이 남아요."
+  },
+  {
+   "es": "tener sentido",
+   "ko": "말이 되다, 일리가 있다",
+   "ex": "Sí, eso tiene mucho sentido.",
+   "exKo": "네, 그거 정말 말이 되네요."
+  },
+  {
+   "es": "la carrera",
+   "ko": "경주, 달리기",
+   "ex": "Es como correr una carrera muy larga.",
+   "exKo": "아주 긴 경주를 달리는 것 같아요."
+  },
+  {
+   "es": "tardar (días) en + 동사원형",
+   "ko": "~하는 데 (며칠) 걸리다",
+   "ex": "Muchas personas tardan días en hacer un video.",
+   "exKo": "많은 사람이 영상 하나 만드는 데 며칠이 걸려요."
+  },
+  {
+   "es": "el maquillaje",
+   "ko": "화장",
+   "ex": "Usa maquillaje muy fácil y rápido.",
+   "exKo": "아주 쉽고 빠른 화장을 해요."
+  },
+  {
+   "es": "editar / la edición",
+   "ko": "편집하다 / 편집",
+   "ex": "Casi no edita el video.",
+   "exKo": "영상을 거의 편집하지 않아요."
+  },
+  {
+   "es": "grabar",
+   "ko": "녹화하다",
+   "ex": "Empezar a grabar le toma solo un minuto.",
+   "exKo": "녹화를 시작하기까지 1분밖에 안 걸려요."
+  },
+  {
+   "es": "la constancia",
+   "ko": "꾸준함",
+   "ex": "Esta es la clave de la constancia.",
+   "exKo": "이게 꾸준함의 비결이에요."
+  },
+  {
+   "es": "abandonar",
+   "ko": "포기하다, 그만두다",
+   "ex": "Ayuda a no abandonar el trabajo.",
+   "exKo": "일을 포기하지 않는 데 도움이 돼요."
+  },
+  {
+   "es": "el teléfono inteligente",
+   "ko": "스마트폰",
+   "ex": "La cuarta regla es usar menos el teléfono inteligente.",
+   "exKo": "네 번째 규칙은 스마트폰을 덜 쓰는 거예요."
+  },
+  {
+   "es": "a continuación",
+   "ko": "다음에, 이어서",
+   "ex": "La aplicación decide qué vas a ver a continuación.",
+   "exKo": "다음에 뭘 볼지 앱이 정해요."
+  },
+  {
+   "es": "el pasajero",
+   "ko": "승객",
+   "ex": "Eres como un pasajero.",
+   "exKo": "승객 같은 거예요."
+  },
+  {
+   "es": "borrar las cuentas",
+   "ko": "계정을 지우다",
+   "ex": "Ella literal borró todas sus cuentas.",
+   "exKo": "그녀는 말 그대로 계정을 전부 지웠어요."
+  },
+  {
+   "es": "las redes sociales",
+   "ko": "SNS",
+   "ex": "Las redes sociales hacen que comparemos nuestra vida con la de otras personas.",
+   "exKo": "SNS는 우리 삶을 다른 사람의 삶과 비교하게 만들어요."
+  },
+  {
+   "es": "aburrido/a",
+   "ko": "지루한",
+   "ex": "Nos hace pensar que nuestra vida es aburrida.",
+   "exKo": "우리 삶이 지루하다고 생각하게 만들어요."
+  },
+  {
+   "es": "el tiempo vuela",
+   "ko": "시간이 금방 간다",
+   "ex": "Bueno, el tiempo vuela.",
+   "exKo": "자, 시간이 금방 가네요."
+  },
+  {
+   "es": "las malas costumbres",
+   "ko": "나쁜 습관",
+   "ex": "Para no caer en las malas costumbres de antes.",
+   "exKo": "예전의 나쁜 습관으로 돌아가지 않기 위해서요."
+  },
+  {
+   "es": "fallar",
+   "ko": "실패하다",
+   "ex": "Si fallas un día, no importa.",
+   "exKo": "하루 실패해도 괜찮아요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué hace Layla en la cocina cuando ve los platos sucios?",
+   "options": [
+    "Los lava ella misma.",
+    "No dice nada y espera en silencio.",
+    "Llama a su madre.",
+    "Compra platos nuevos."
+   ],
+   "answer": 1,
+   "explain": "«En lugar de decir algo, no dice nada. Solo se queda callada y espera.»"
+  },
+  {
+   "q": "Según el programa, ¿qué debemos hacer si queremos algo?",
+   "options": [
+    "Esperar que la otra persona lea nuestra mente.",
+    "Pedirlo con palabras claras.",
+    "Enojarnos.",
+    "Dar un regalo primero."
+   ],
+   "answer": 1,
+   "explain": "«Si queremos algo, debemos pedirlo con palabras claras.»"
+  },
+  {
+   "q": "Si haces un favor o das un regalo, ¿qué no debes esperar?",
+   "options": [
+    "Nada especial.",
+    "Las gracias ni un regalo a cambio.",
+    "Tiempo libre.",
+    "Una boda."
+   ],
+   "answer": 1,
+   "explain": "«No debes esperar las gracias ni un regalo a cambio.»"
+  },
+  {
+   "q": "¿Qué decide Layla sobre la boda del amigo lejano?",
+   "options": [
+    "Ir aunque no quiere.",
+    "Decir que no.",
+    "Mandar un regalo caro.",
+    "Ir solo una hora."
+   ],
+   "answer": 1,
+   "explain": "«Ella decide simplemente decir que no.»"
+  },
+  {
+   "q": "¿Qué pensaba Layla de sí misma cuando tenía mucho estrés?",
+   "options": [
+    "Que su inglés era muy malo y necesitaba un trabajo a tiempo completo.",
+    "Que tenía demasiado dinero.",
+    "Que debía viajar más.",
+    "Que su casa estaba sucia."
+   ],
+   "answer": 0,
+   "explain": "«Mi inglés es muy malo… Necesito encontrar un buen trabajo a tiempo completo.»"
+  },
+  {
+   "q": "¿Cómo son los abuelos del libro?",
+   "options": [
+    "Ricos y preocupados.",
+    "No tienen ahorros pero son muy felices.",
+    "Viven solos y tristes.",
+    "Trabajan hasta morir."
+   ],
+   "answer": 1,
+   "explain": "«No tienen ahorros en el banco… Pero son muy felices.»"
+  },
+  {
+   "q": "¿Qué le enseña el libro a Layla?",
+   "options": [
+    "A ganar más dinero.",
+    "A vivir para el hoy.",
+    "A hablar inglés perfecto.",
+    "A limpiar mejor."
+   ],
+   "answer": 1,
+   "explain": "«El libro le enseña que debe vivir para el hoy.»"
+  },
+  {
+   "q": "¿Qué dice la regla del 80%?",
+   "options": [
+    "Hay que trabajar el 80% del día.",
+    "Hacer las cosas al 80% es suficiente.",
+    "El 80% de la gente es feliz.",
+    "Hay que dormir 80% más."
+   ],
+   "answer": 1,
+   "explain": "«La idea es no hacer todo perfecto. Hacer las cosas al 80% es suficiente.»"
+  },
+  {
+   "q": "En la comparación con la carrera, ¿qué gasta casi toda tu energía?",
+   "options": [
+    "El primer kilómetro.",
+    "El último 20%.",
+    "La mitad.",
+    "Descansar."
+   ],
+   "answer": 1,
+   "explain": "«El último 20% gasta casi toda tu energía.»"
+  },
+  {
+   "q": "¿Por qué Layla puede hacer muchos videos?",
+   "options": [
+    "Tiene un equipo grande.",
+    "Usa luces muy caras.",
+    "Lo hace simple: maquillaje rápido, casi sin edición, un minuto para empezar.",
+    "Graba una vez al mes."
+   ],
+   "answer": 2,
+   "explain": "«Todo el trabajo para sentarse y empezar a grabar le toma solo un minuto.»"
+  },
+  {
+   "q": "¿Por qué los videos cortos cansan la mente?",
+   "options": [
+    "Porque son muy largos.",
+    "Porque el cerebro cambia de emoción cada pocos segundos y la app decide por ti.",
+    "Porque son en otro idioma.",
+    "Porque cuestan dinero."
+   ],
+   "answer": 1,
+   "explain": "«Tu cerebro ve cosas muy diferentes cada diez segundos… La aplicación decide qué vas a ver a continuación.»"
+  },
+  {
+   "q": "Si fallas un día y miras el teléfono una hora, ¿qué dicen?",
+   "options": [
+    "Hay que empezar de cero para siempre.",
+    "No importa; al día siguiente lo intentas de nuevo.",
+    "Hay que borrar el teléfono.",
+    "Debes sentirte mal."
+   ],
+   "answer": 1,
+   "explain": "«Al día siguiente lo intentas de nuevo y ya. No hay que sentirse mal.»"
+  }
+ ]
+}

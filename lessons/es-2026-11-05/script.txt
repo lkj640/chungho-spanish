@@ -1,0 +1,519 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: H = 남성 진행자, M = 여성 진행자 (목소리 높이로 자동 구분해서 일부 틀릴 수 있어요). END = 오디오 끝 시각
+# 원본: 사용자 제공 오디오. 대본은 음성 인식(faster-whisper medium)으로 받아 적고 오류(Laila → Layla, lleguen → siguen, Use gris → ¿Ves?, muy malo → muy mal 등)를 바로잡았어요.
+END 13:20
+
+
+[00:00.00]
+## 도입 — 우리는 왜 삶을 어렵게 만들까?
+H | Hola y bienvenidos a este análisis detallado. | 안녕하세요, 이번 자세한 분석에 오신 걸 환영해요.
+[00:02.78]
+H | Hoy tenemos una misión muy interesante y muy bonita. | 오늘은 아주 흥미롭고 아주 멋진 임무가 있어요.
+[00:05.44]
+H | Vamos a hablar de un video de YouTube muy famoso. | 아주 유명한 유튜브 영상에 대해 이야기할 거예요.
+[00:07.96]
+H | El canal se llama Bite Size Japanese. | 채널 이름은 Bite Size Japanese예요.
+[00:10.74]
+H | Y la creadora de este video, una mujer que se llama Layla, comparte cuatro ideas muy, pero muy simples para hacer la vida más fácil. | 그리고 이 영상을 만든 레이라라는 여성이 삶을 더 편하게 만드는 아주아주 간단한 생각 네 가지를 나눠 줘요.
+[00:18.72]
+H | Y la verdad estoy muy emocionado de hablar de esto hoy. | 솔직히 오늘 이 이야기를 하게 돼서 정말 설레요.
+[00:20.88]
+M | Sí, es un tema súper interesante. | 네, 정말 흥미로운 주제예요.
+[00:23.32]
+M | Layla explica cosas muy fáciles de entender, pero que cambian todo. | 레이라는 이해하기 아주 쉬운데도 모든 걸 바꾸는 것들을 설명해요.
+[00:26.92]
+M | Nos enseña por qué nuestra mente se siente tan cansada todos los días. | 왜 우리 마음이 매일 그렇게 지치는지 알려 줘요.
+[00:32.12]
+M | Y lo más importante, cómo podemos vivir más felices y tranquilos. | 그리고 가장 중요한 건, 어떻게 하면 더 행복하고 편안하게 살 수 있는지예요.
+[00:35.62]
+H | Exacto. Y para las personas que nos escuchan, creo que esto es genial. | 맞아요. 그리고 듣고 계신 분들께 이건 정말 좋은 내용이라고 생각해요.
+[00:38.92]
+H | Porque a veces hacemos la vida muy difícil, ¿verdad? | 왜냐하면 우리는 가끔 삶을 아주 어렵게 만들잖아요, 그렇죠?
+[00:42.26]
+M | Claro. Nosotros mismos hacemos los problemas más grandes de lo que son. | 그럼요. 우리 스스로 문제를 실제보다 더 크게 만들어요.
+[00:46.22]
+H | Pues sí. Entonces, la gran pregunta para empezar es, ¿por qué hacemos la vida tan difícil? | 그렇죠. 그럼 시작하면서 던질 큰 질문은, 우리는 왜 삶을 그렇게 어렵게 만들까요?
+[00:51.50]
+H | Y quiero saber, de verdad, ¿son estas cuatro reglas fáciles de usar en la vida normal? | 그리고 정말 궁금해요, 이 네 가지 규칙을 평범한 일상에서 쓰기 쉬울까요?
+[00:57.36]
+M | Bueno, yo digo que sí son fáciles. | 음, 저는 쉽다고 생각해요.
+[00:59.72]
+M | Pero hay que cambiar la forma en que pensamos. | 하지만 생각하는 방식을 바꿔야 해요.
+[01:02.50]
+## ① 남에게 기대하지 않기 — 분명한 말로 부탁하기
+H | Entiendo. Bueno, la primera regla me encanta. | 알겠어요. 자, 첫 번째 규칙이 정말 마음에 들어요.
+[01:05.06]
+H | Dice que para hacer la vida más fácil, primero tenemos que mirar cómo hablamos con otras personas. | 삶을 더 편하게 하려면 먼저 다른 사람과 어떻게 이야기하는지를 봐야 한대요.
+[01:10.14]
+M | Sí, eso es clave. | 네, 그게 핵심이에요.
+[01:11.84]
+M | Es el primer gran problema en nuestras vidas. | 우리 삶의 첫 번째 큰 문제예요.
+[01:14.20]
+M | Las relaciones con los demás. | 다른 사람과의 관계요.
+[01:15.76]
+H | Sí. Y Layla en su video da un ejemplo muy bueno y muy normal que pasa en muchas casas. | 네. 그리고 레이라는 영상에서 많은 집에서 일어나는 아주 좋고 평범한 예를 들어요.
+[01:20.88]
+H | Ella está en su cocina. | 그녀가 부엌에 있어요.
+[01:22.38]
+H | Ve los platos sucios. | 더러운 접시들을 봐요.
+[01:24.28]
+H | Y ella, pues, quiere que su esposo lave esos platos sucios. | 그리고 음, 남편이 그 더러운 접시를 씻어 줬으면 해요.
+[01:27.10]
+M | Un clásico, la verdad. | 솔직히 전형적인 장면이죠.
+[01:28.52]
+H | Pero en lugar de decir algo, no dice nada. | 그런데 뭔가 말하는 대신, 아무 말도 안 해요.
+[01:30.98]
+H | Solo se queda callada y espera. | 그냥 조용히 있으면서 기다려요.
+[01:33.24]
+M | ¡Uy sí! Ese es un gran error. | 아이고, 맞아요! 그건 큰 실수예요.
+[01:35.50]
+M | Es muy común. | 아주 흔해요.
+[01:36.46]
+M | O sea, todos hacemos eso a veces. | 그러니까, 우리 모두 가끔 그렇게 하잖아요.
+[01:37.96]
+H | Y claro, si ella no dice nada, se enoja mucho. | 그리고 당연히, 아무 말도 안 하니까 엄청 화가 나요.
+[01:40.88]
+H | Pasan los minutos, ella mira los platos, los platos siguen ahí, sucios, y ella se siente muy, muy mal por dentro. | 몇 분이 지나고, 그녀는 접시를 보고, 접시는 여전히 거기 더러운 채로 있고, 그녀는 속으로 아주아주 기분이 나빠져요.
+[01:47.46]
+M | Es que el problema aquí es esperar cosas en silencio. | 여기서 문제는 조용히 뭔가를 기대하는 거예요.
+[01:50.80]
+M | Muchas personas piensan que si alguien te quiere de verdad, esa persona debe leer tu mente. | 많은 사람이 누군가 나를 정말 사랑한다면 그 사람이 내 마음을 읽어야 한다고 생각해요.
+[01:55.78]
+M | Como si supiera todo sin que tú hables. | 내가 말하지 않아도 모든 걸 아는 것처럼요.
+[01:57.94]
+H | Sí, como si la gente tuviera magia o algo así. | 네, 사람들이 마법이라도 가진 것처럼요.
+[02:00.60]
+M | Exacto. Pero bueno, nadie puede leer la mente. | 맞아요. 하지만 누구도 마음을 읽을 수는 없어요.
+[02:03.34]
+M | Si queremos algo, debemos pedirlo con palabras claras. | 뭔가를 원하면 분명한 말로 부탁해야 해요.
+[02:07.16]
+M | Es decir, decir algo simple como «Por favor, ¿puedes lavar los platos?» | 그러니까 "부탁인데, 접시 좀 씻어 줄래?" 같은 간단한 말을 하는 거죠.
+[02:11.80]
+H | Suena muy fácil, la verdad. | 솔직히 아주 쉽게 들리네요.
+[02:13.16]
+M | Lo es. Pero en la mente, cuando esperamos algo en silencio y no pasa, sentimos mucho estrés y mucho enojo. | 쉬워요. 그런데 마음속에서는, 조용히 뭔가를 기대했는데 그게 안 일어나면 스트레스와 화를 많이 느껴요.
+[02:19.52]
+M | Si usamos palabras claras, este problema desaparece rápido. | 분명한 말을 쓰면 이 문제는 금방 사라져요.
+[02:23.22]
+H | ¿Ves? Así es como se piden las cosas sin enojarse. | 봐요, 이게 화내지 않고 부탁하는 방법이에요.
+[02:26.58]
+H | Si ella le dice al esposo que lave los platos y él dice que no puede ahora, ella no se enoja. | 그녀가 남편에게 접시를 씻어 달라고 했는데 남편이 지금은 못 한다고 하면, 그녀는 화내지 않아요.
+[02:31.44]
+M | Ya lo pidió y ya está. | 이미 부탁했으니 그걸로 끝이에요.
+[02:33.08]
+M | Exactamente. Ella no gasta su energía pensando. | 바로 그거예요. 생각하느라 에너지를 쓰지 않아요.
+[02:36.12]
+## ①-2 답례를 바라지 않기 · 가기 싫은 결혼식은 거절
+M | Además, esto también pasa con los favores o con los regalos. | 게다가 이건 부탁(호의)이나 선물에서도 일어나요.
+[02:39.76]
+M | Es otra cosa muy interesante que Layla explica. | 레이라가 설명하는 또 하나의 아주 흥미로운 부분이에요.
+[02:42.24]
+M | No, sí, sí, recuerdo mucho esa parte del video. | 아, 네네, 영상의 그 부분 잘 기억나요.
+[02:44.16]
+H | Es como, por ejemplo, dar un regalo de cumpleaños a un amigo, pero solo para recibir un regalo después. | 예를 들면 친구에게 생일 선물을 주는데, 나중에 선물을 받으려고만 주는 거예요.
+[02:48.98]
+M | Totalmente. Y si haces eso, no es un regalo de verdad. | 완전히요. 그렇게 하면 그건 진짜 선물이 아니에요.
+[02:52.28]
+M | Es como comprar algo y esperar que la persona te pague. | 뭔가를 사 주고 그 사람이 돈을 갚기를 기다리는 것과 같아요.
+[02:54.96]
+H | Y eso da mucho estrés. | 그리고 그건 스트레스를 많이 줘요.
+[02:56.36]
+M | Da demasiado estrés, sí. | 너무 많은 스트레스를 주죠, 네.
+[02:58.34]
+M | Si haces un favor o das un regalo, no debes esperar las gracias ni un regalo a cambio. | 호의를 베풀거나 선물을 주면 고맙다는 말도, 답례 선물도 기대하면 안 돼요.
+[03:04.20]
+M | Lo haces porque quieres ser bueno y ya. | 좋은 사람이고 싶어서 하는 거고, 그걸로 끝이에요.
+[03:05.80]
+H | Hay otro ejemplo en el video sobre esto que me pareció muy bueno. | 영상에 이것에 관한 다른 예가 있는데 아주 좋았어요.
+[03:08.54]
+H | Es sobre ir a una boda. | 결혼식에 가는 거에 관한 거예요.
+[03:09.86]
+M | Ah, sí, la boda de un amigo lejano. | 아, 맞아요, 별로 안 친한 친구의 결혼식이요.
+[03:11.80]
+M | Eso pasa mucho. | 그런 일 많죠.
+[03:12.78]
+H | Sí, un amigo la invita a su boda, pero ella piensa: «Bueno, si no quiero ir de verdad y voy solo porque me siento obligada, voy a estar triste y enojada después». | 네, 친구가 결혼식에 초대하는데 그녀는 생각해요. "음, 정말로 가고 싶지 않은데 의무감 때문에 가면, 나중에 슬프고 화가 날 거야."
+[03:21.54]
+H | Ella sentirá que perdió su tiempo. | 시간을 낭비했다고 느낄 거예요.
+[03:23.20]
+M | Y tiene mucha razón. | 그리고 그 말이 정말 맞아요.
+[03:24.48]
+M | Cuando vas a un lugar sin querer ir, de verdad te sientes muy mal. | 가고 싶지 않은데 어떤 곳에 가면 정말 기분이 안 좋아요.
+[03:28.76]
+M | Haces algo que tu cuerpo y tu mente no quieren hacer. | 몸도 마음도 원하지 않는 걸 하는 거니까요.
+[03:31.42]
+M | Por eso, en el video, ella decide simplemente decir que no. | 그래서 영상에서 그녀는 그냥 거절하기로 해요.
+[03:34.58]
+M | Sí, es mejor decir que no. | 네, 거절하는 게 나아요.
+[03:36.48]
+M | Exacto. Es mucho mejor decir no si no quieres hacerlo de corazón. | 맞아요. 진심으로 하고 싶지 않으면 '아니'라고 말하는 게 훨씬 나아요.
+[03:40.02]
+M | Así cuidas tu energía y estás más feliz con tu vida. | 그렇게 하면 에너지를 지키고 삶에 더 만족하게 돼요.
+[03:43.20]
+## ② 사회의 기준 대신 나답게 — 저금 없는 행복한 노부부
+H | Bueno, eso de no esperar cosas de la familia y amigos es el primer paso. | 자, 가족과 친구에게 뭔가를 기대하지 않는 것, 이게 첫걸음이에요.
+[03:48.24]
+H | Pero luego empezamos a mirar nuestra propia vida y a veces las ideas de la sociedad nos dan mucho estrés. | 그런데 그다음 우리 자신의 삶을 보기 시작하면, 가끔 사회의 생각들이 우리에게 큰 스트레스를 줘요.
+[03:54.42]
+M | Uf, muchísimo estrés. | 휴, 엄청난 스트레스죠.
+[03:56.32]
+M | La sociedad siempre nos dice todos los días qué debemos hacer para ser buenos. | 사회는 늘, 매일, 좋은 사람이 되려면 뭘 해야 하는지 말하잖아요.
+[04:02.02]
+H | Sí, claro. En el video, Layla cuenta que estaba muy, muy preocupada por esto. | 네, 그럼요. 영상에서 레이라는 이것 때문에 아주아주 걱정했다고 말해요.
+[04:06.78]
+H | Ella tenía mucho miedo y pensaba cosas muy malas sobre ella misma. | 겁이 많이 났고 자기 자신에 대해 아주 나쁜 생각을 했어요.
+[04:10.60]
+M | Ajá, tenía una crisis muy fuerte de estrés. | 아하, 아주 심한 스트레스 위기였군요.
+[04:12.98]
+H | Sí. Ella pensaba: «Mi inglés es muy malo, no puedo hablar bien». | 네. 그녀는 생각했어요. "내 영어는 너무 못해. 말을 잘 못 해."
+[04:17.38]
+H | Y también pensaba: «Necesito encontrar un buen trabajo a tiempo completo para ganar más dinero». | 그리고 또 생각했어요. "돈을 더 벌려면 좋은 정규직 일자리를 찾아야 해."
+[04:22.94]
+H | Ella sentía que no era buena persona si no hacía eso. | 그걸 하지 않으면 좋은 사람이 아니라고 느꼈어요.
+[04:25.78]
+M | Y eso es porque la sociedad nos dice que ser importante es tener mucho dinero, un gran trabajo y hablar idiomas de manera perfecta. | 그건 사회가 우리에게, 중요한 사람이 된다는 건 돈이 많고, 좋은 직장이 있고, 외국어를 완벽하게 하는 거라고 말하기 때문이에요.
+[04:33.88]
+H | Sí, es una presión muy grande. | 네, 아주 큰 압박이에요.
+[04:35.62]
+H | Es como llevar una piedra pesada. | 무거운 돌을 지고 다니는 것 같아요.
+[04:37.68]
+M | Es una presión enorme. | 엄청난 압박이죠.
+[04:39.76]
+H | Cuando sentimos que no hacemos lo que la sociedad pide, nuestro cerebro piensa que estamos en peligro. | 사회가 요구하는 걸 하지 못하고 있다고 느끼면, 뇌는 우리가 위험에 처했다고 생각해요.
+[04:45.04]
+H | Nos sentimos mal. | 기분이 나빠지죠.
+[04:46.68]
+H | Pero ella encuentra una solución muy bonita en un libro. | 하지만 그녀는 한 책에서 아주 멋진 해결책을 찾아요.
+[04:49.94]
+M | Ah, sí. El libro sobre los abuelos en Japón. | 아, 네. 일본의 할아버지 할머니에 관한 책이요.
+[04:52.34]
+M | Me encantó esa historia. | 그 이야기 정말 좋았어요.
+[04:53.76]
+M | Ese mismo. Ella lee un libro sobre un abuelo y una abuela que viven juntos en Japón. | 바로 그거요. 그녀는 일본에서 함께 사는 할아버지와 할머니에 관한 책을 읽어요.
+[04:59.30]
+M | Y bueno, ellos no tienen mucho dinero. | 그런데, 그분들은 돈이 많지 않아요.
+[05:01.50]
+M | No tienen ahorros en el banco. | 은행에 저금이 없어요.
+[05:03.44]
+H | ¿De verdad no tienen dinero en el banco? | 정말 은행에 돈이 없어요?
+[05:05.14]
+M | No, casi nada. | 네, 거의 없어요.
+[05:06.70]
+M | Y lo más interesante es que no les importa lo que piensan otras personas. | 그리고 가장 흥미로운 건 다른 사람들이 어떻게 생각하든 신경 쓰지 않는다는 거예요.
+[05:10.96]
+M | No buscan tener un auto nuevo o ropa cara. | 새 차나 비싼 옷을 찾지 않아요.
+[05:13.98]
+M | Pero son muy felices. | 그런데 아주 행복해요.
+[05:16.14]
+H | Viven tranquilos. Eso es increíble. | 편안하게 살아요. 정말 놀라워요.
+[05:19.12]
+H | Entonces, yo me pregunto, y creo que muchas personas que nos escuchan también se preguntan, ¿por qué este libro ayuda tanto a la creadora del video? | 그래서 궁금한데, 듣고 계신 많은 분들도 궁금해하실 것 같아요. 왜 이 책이 영상 제작자에게 그렇게 큰 도움이 됐을까요?
+[05:26.68]
+M | Porque le recuerda algo muy simple pero importante. | 아주 간단하지만 중요한 걸 일깨워 주니까요.
+[05:30.22]
+M | El tiempo es corto. | 시간은 짧다는 거요.
+[05:32.08]
+M | Y el libro le enseña que debe vivir para el hoy. | 그리고 그 책은 그녀에게 '오늘'을 위해 살아야 한다고 가르쳐 줘요.
+[05:35.26]
+M | Para este día. | 바로 이날을 위해서요.
+[05:36.48]
+M | Y no solo para ganar dinero para el futuro. | 미래를 위해 돈을 버는 것만을 위해서가 아니라요.
+[05:39.10]
+H | O sea, disfrutar el día de hoy con lo que tienes. | 그러니까, 가진 것으로 오늘을 즐기는 거죠.
+[05:41.52]
+M | Exacto. Ella entiende que si su familia tiene lo necesario para comer, para dormir y estar bien hoy, eso es suficiente. | 맞아요. 그녀는 가족이 오늘 먹고, 자고, 잘 지내는 데 필요한 것을 가지고 있다면 그걸로 충분하다는 걸 깨달아요.
+[05:49.54]
+M | No importa si su inglés no es 100% perfecto. | 영어가 100% 완벽하지 않아도 괜찮아요.
+[05:52.92]
+H | ¡Qué peso tan grande se quita de encima! | 어깨에서 큰 짐을 내려놓은 거네요.
+[05:54.90]
+H | La verdad, se siente mucha paz. | 정말, 큰 평화가 느껴져요.
+[05:57.06]
+M | Sí. Se da cuenta de que puede vivir a su manera. | 네. 자기 방식대로 살아도 된다는 걸 깨달아요.
+[06:00.82]
+M | No tiene que hacer lo que la gente rica o la sociedad dice. | 부자들이나 사회가 말하는 대로 하지 않아도 돼요.
+[06:04.54]
+## ③ 80% 규칙 — 완벽하지 않아도 충분해
+H | Y esto me lleva a algo muy conectado con esa idea. | 그리고 이건 그 생각과 아주 이어진 이야기로 저를 이끌어요.
+[06:07.44]
+H | Si aprendemos a vivir para el hoy, entendemos que no debemos trabajar hasta morir. | 오늘을 위해 사는 법을 배우면, 죽도록 일하면 안 된다는 걸 알게 돼요.
+[06:11.32]
+H | No hay que ser perfectos en todo lo que hacemos. | 하는 모든 일에서 완벽할 필요가 없어요.
+[06:14.62]
+H | Y esta es la tercera regla del video. | 그리고 이게 영상의 세 번째 규칙이에요.
+[06:17.68]
+M | Ajá. La famosa regla del 80%. | 아하. 그 유명한 80% 규칙이요.
+[06:20.14]
+M | Es mi regla favorita, la verdad. | 솔직히 제가 제일 좋아하는 규칙이에요.
+[06:21.92]
+H | Sí, es muy buena. | 네, 아주 좋아요.
+[06:23.42]
+H | La idea es no hacer todo perfecto. | 모든 걸 완벽하게 하지 않는다는 생각이에요.
+[06:25.56]
+H | Hacer las cosas al 80% es suficiente. | 일을 80%로 하면 충분해요.
+[06:27.84]
+H | Por ejemplo, al limpiar la casa o al cocinar la comida. | 예를 들어 집을 청소하거나 음식을 만들 때요.
+[06:30.60]
+M | Claro, limpiar la casa es el mejor ejemplo para entender esto. | 그럼요, 집 청소가 이걸 이해하기 가장 좋은 예예요.
+[06:34.12]
+H | En el video dice que no es necesario limpiar cada ventana. | 영상에서는 창문 하나하나를 다 닦을 필요는 없다고 해요.
+[06:36.82]
+H | Ni buscar cada pequeña parte de polvo en el piso. | 바닥의 작은 먼지 하나하나를 찾을 필요도 없고요.
+[06:40.24]
+H | Porque eso toma mucho tiempo y cansa mucho. | 그건 시간이 많이 걸리고 아주 피곤하니까요.
+[06:43.66]
+M | Muchísimo. Querer hacer todo perfecto gasta mucha, mucha energía. | 엄청나죠. 모든 걸 완벽하게 하려고 하면 에너지를 정말 많이 써요.
+[06:48.32]
+M | Si haces las cosas al 80%, tu casa se ve limpia, huele bien, se ve bonita y a ti te sobra mucho tiempo libre. | 일을 80%로 하면 집은 깨끗해 보이고, 좋은 냄새가 나고, 예뻐 보이고, 자유 시간도 많이 남아요.
+[06:55.80]
+M | Sí, eso tiene mucho sentido. | 네, 그거 정말 말이 되네요.
+[06:57.62]
+H | ¿Sabes? Es como correr una carrera muy larga. | 있잖아요? 아주 긴 경주를 달리는 것 같아요.
+[07:00.42]
+M | A ver, cuéntanos. | 어디 한번 말해 봐요.
+[07:01.48]
+H | Sí, es que correr la mayor parte de la carrera es difícil. | 네, 경주의 대부분을 달리는 것도 힘들어요.
+[07:04.62]
+H | Pero el último 20% gasta casi toda tu energía. | 그런데 마지막 20%가 에너지를 거의 다 써 버려요.
+[07:07.66]
+H | Te deja muy, muy cansado. | 아주아주 지치게 만들어요.
+[07:09.42]
+H | Sin fuerza para hacer nada más en todo el día. | 하루 종일 다른 걸 할 힘이 없어요.
+[07:12.16]
+M | Exactamente. Limpiar al 100% es como limpiar por tres horas más solo para que nadie note la diferencia. | 바로 그거예요. 100%로 청소하는 건 아무도 차이를 못 알아채는데 세 시간을 더 청소하는 것과 같아요.
+[07:18.30]
+M | Si haces el 80%, tienes más energía para cosas más importantes como hablar con tu familia o descansar. | 80%만 하면 가족과 이야기하거나 쉬는 것처럼 더 중요한 일에 쓸 에너지가 생겨요.
+[07:25.58]
+H | Me gusta mucho esto. | 이거 정말 좋아요.
+[07:27.02]
+H | Y Layla también usa esta idea para hacer sus videos. | 그리고 레이라는 이 생각을 영상을 만들 때도 써요.
+[07:29.70]
+H | Eso me sorprendió mucho. | 그건 정말 놀라웠어요.
+[07:31.42]
+M | Sí, ella es muy inteligente al hacer esto en su trabajo. | 네, 일에서 이렇게 하는 건 아주 영리해요.
+[07:34.66]
+H | Es que, mira, ella hace videos para YouTube. | 보세요, 그녀는 유튜브 영상을 만들어요.
+[07:37.00]
+H | Muchas personas tardan días en hacer un video. | 많은 사람이 영상 하나 만드는 데 며칠이 걸려요.
+[07:39.94]
+H | Pero ella dice que usa maquillaje muy fácil y rápido. | 하지만 그녀는 아주 쉽고 빠른 화장을 한대요.
+[07:42.76]
+H | Y deja el micrófono así, nada más en la mesa. | 그리고 마이크는 그냥 그렇게 책상 위에 둬요.
+[07:45.26]
+M | No usa cosas caras ni difíciles. | 비싸거나 어려운 걸 쓰지 않아요.
+[07:47.72]
+H | Exacto. Y casi no edita el video. | 맞아요. 그리고 영상을 거의 편집하지 않아요.
+[07:49.52]
+H | No pone muchas cosas en la computadora. | 컴퓨터로 이것저것 많이 넣지 않아요.
+[07:51.66]
+H | Todo el trabajo para sentarse y empezar a grabar le toma solo un minuto. | 앉아서 녹화를 시작하기까지 모든 준비가 1분밖에 안 걸려요.
+[07:55.68]
+M | Y por eso ella puede hacer muchos videos. | 그래서 영상을 많이 만들 수 있어요.
+[07:57.90]
+M | Esta es la clave de la constancia. | 이게 꾸준함의 비결이에요.
+[07:59.76]
+M | Hacer las cosas siempre, sin cansarse. | 지치지 않고 늘 하는 거요.
+[08:02.84]
+H | O sea, no cansarse y dejar de trabajar al tercer día. | 그러니까, 지쳐서 사흘째에 일을 그만두지 않는 거죠.
+[08:06.54]
+M | Exacto. Si ella intentara hacer todo 100% perfecto, con luces muy caras y edición de cine, se cansaría muy rápido. | 맞아요. 아주 비싼 조명에 영화 같은 편집까지 모든 걸 100% 완벽하게 하려고 했다면 금방 지쳤을 거예요.
+[08:14.58]
+M | Sentiría mucho estrés. | 스트레스도 많이 받았겠죠.
+[08:16.46]
+M | Hacer las cosas simples y al 80% ayuda a no abandonar el trabajo. | 일을 단순하게, 80%로 하면 일을 포기하지 않는 데 도움이 돼요.
+[08:22.10]
+M | Y su mensaje llega muy bien a la gente. | 그리고 그녀의 메시지는 사람들에게 아주 잘 전달돼요.
+[08:23.80]
+H | No necesita ser perfecto. | 완벽할 필요가 없어요.
+[08:25.04]
+H | Solo necesita ser real y honesto. | 진짜이고 솔직하기만 하면 돼요.
+[08:27.50]
+M | Así es. Y eso aplica para cualquier trabajo. | 그렇죠. 그리고 그건 어떤 일에도 적용돼요.
+[08:30.64]
+M | Ser bueno es mejor que intentar ser perfecto y terminar muy cansado o triste y enojado. | 잘하는 게 완벽하려고 애쓰다가 지치거나 슬프고 화나는 것보다 나아요.
+[08:36.42]
+H | Totalmente de acuerdo. | 완전히 동의해요.
+[08:37.64]
+## ④ 스마트폰 줄이기 — 짧은 영상은 머리를 지치게 해
+H | Bueno, si ahorramos mucha energía y mucho tiempo haciendo las cosas al 80%, entonces tenemos un problema bueno. | 자, 일을 80%로 해서 에너지와 시간을 많이 아끼면, 좋은 문제가 하나 생겨요.
+[08:44.38]
+M | ¿Un problema bueno? | 좋은 문제요?
+[08:45.56]
+H | Sí. ¿Qué hacemos con todo ese tiempo libre? | 네. 그 많은 자유 시간에 뭘 하죠?
+[08:48.30]
+M | Uy, esa es la parte más difícil hoy en día. | 아이고, 요즘 그게 제일 어려운 부분이죠.
+[08:51.32]
+H | Sí. Porque la última regla nos da la respuesta. | 네. 마지막 규칙이 그 답을 주거든요.
+[08:53.72]
+H | Y tiene que ver con el teléfono. | 그리고 휴대폰과 관련이 있어요.
+[08:56.26]
+H | La cuarta regla es usar menos el teléfono inteligente. | 네 번째 규칙은 스마트폰을 덜 쓰는 거예요.
+[08:59.20]
+H | Especialmente no ver videos cortos sin un objetivo. | 특히 목적 없이 짧은 영상을 보지 않는 거요.
+[09:02.26]
+M | Los videos cortos en el teléfono son un peligro muy, muy grande para nuestra mente. | 휴대폰의 짧은 영상은 우리 마음에 아주아주 큰 위험이에요.
+[09:08.12]
+H | ¿Por qué? Yo creo que mucha gente los ve solo para descansar después de trabajar. | 왜요? 많은 사람이 일 끝나고 쉬려고 보는 것 같은데요.
+[09:11.66]
+M | Sí. Se siente como descansar. | 네. 쉬는 것처럼 느껴지죠.
+[09:14.10]
+M | Tu cuerpo está en la silla. | 몸은 의자에 있어요.
+[09:15.38]
+M | No te mueves. | 움직이지 않아요.
+[09:16.80]
+M | Pero ver videos cortos quita mucha energía de la cabeza. | 하지만 짧은 영상을 보면 머리의 에너지를 많이 빼앗겨요.
+[09:20.48]
+M | Tu cerebro ve cosas muy diferentes cada diez segundos. | 뇌는 10초마다 아주 다른 것을 봐요.
+[09:23.76]
+M | Primero ves un perro gracioso. | 처음엔 웃긴 강아지를 봐요.
+[09:25.48]
+M | Luego ves una noticia muy triste. | 그다음엔 아주 슬픈 뉴스를 봐요.
+[09:27.26]
+M | Y luego comida rica. | 그리고 그다음엔 맛있는 음식이요.
+[09:28.84]
+H | Oh, claro. El cerebro trabaja mucho ahí cambiando de emoción. | 아, 그렇네요. 뇌가 감정을 바꾸느라 거기서 일을 많이 해요.
+[09:31.98]
+M | Trabaja demasiado rápido. | 너무 빠르게 일해요.
+[09:34.18]
+M | Y lo peor de todo es que no es una decisión tuya. | 그리고 무엇보다 최악은, 그게 당신의 결정이 아니라는 거예요.
+[09:37.42]
+M | El teléfono controla a la persona. | 휴대폰이 사람을 조종해요.
+[09:39.70]
+M | La aplicación decide qué vas a ver a continuación. | 다음에 뭘 볼지 앱이 정해요.
+[09:42.42]
+H | O sea, no estás eligiendo tú de verdad. | 그러니까, 정말로 내가 고르고 있는 게 아니네요.
+[09:44.44]
+H | Eres como un pasajero. | 승객 같은 거예요.
+[09:46.46]
+M | Exacto. Por eso, Layla nota que si ve el teléfono por mucho tiempo en la mañana, su mente se siente cansada y lenta todo el día. | 맞아요. 그래서 레이라는 아침에 휴대폰을 오래 보면 하루 종일 머리가 피곤하고 느리다는 걸 알아차려요.
+[09:54.10]
+M | Por eso dice que leer un buen libro o ver una película completa es mucho mejor. | 그래서 좋은 책을 읽거나 영화 한 편을 끝까지 보는 게 훨씬 낫다고 해요.
+[09:58.82]
+H | ¿Porque la persona elige qué ver o qué leer? | 사람이 뭘 보고 뭘 읽을지 직접 고르니까요?
+[10:01.26]
+M | Sí. Cuando lees un libro, | 네. 책을 읽을 때는,
+[10:03.76]
+M | tú tienes el control de todo. | 모든 걸 내가 통제해요.
+[10:05.54]
+M | Tú decides pasar la página. | 페이지를 넘기는 것도 내가 정해요.
+[10:07.66]
+M | Tu mente se concentra en una sola cosa, tranquila. | 마음이 한 가지에만 차분하게 집중해요.
+[10:11.14]
+M | Y cuando terminas, de verdad te sientes descansado. | 그리고 다 읽으면 정말로 쉬었다고 느껴요.
+[10:14.56]
+M | No te sientes mal. | 기분이 나쁘지 않아요.
+[10:15.72]
+H | Pero, a ver, tengo una pregunta aquí porque a veces es bueno usar las redes sociales para ver a los amigos y a la familia. | 그런데, 저기, 여기서 질문이 하나 있어요. 가끔은 친구나 가족을 보려고 SNS를 쓰는 게 좋기도 하잖아요.
+[10:22.38]
+H | El video dice que ella literal borró todas sus cuentas. | 영상에서 그녀는 말 그대로 계정을 전부 지웠대요.
+[10:25.52]
+M | Borró todo de su teléfono, sí. | 휴대폰에서 전부 지웠어요, 네.
+[10:27.76]
+H | Es una medida muy fuerte. | 아주 강력한 조치네요.
+[10:29.38]
+M | Sí, muy fuerte. | 네, 아주 강력하죠.
+[10:30.34]
+H | Especialmente ahora que todos viven en Internet y se hablan por ahí. | 특히 지금은 모두 인터넷에서 살고 거기서 이야기하잖아요.
+[10:33.86]
+M | Es cierto. Pero las redes sociales hacen que comparemos nuestra vida con la de otras personas. | 맞아요. 하지만 SNS는 우리 삶을 다른 사람의 삶과 비교하게 만들어요.
+[10:39.70]
+M | Y casi siempre las otras personas solo muestran cosas perfectas en Internet. | 그리고 거의 항상 다른 사람들은 인터넷에 완벽한 것만 보여 줘요.
+[10:44.44]
+M | Viajes a lugares bonitos, ropa nueva, fiestas increíbles. | 멋진 곳으로 간 여행, 새 옷, 굉장한 파티.
+[10:48.76]
+H | Y nosotros en casa en pijama tomando un café normal. | 그리고 우리는 집에서 잠옷 차림으로 평범한 커피를 마시고 있죠.
+[10:51.64]
+M | Exacto. Y eso trae mucha tristeza y mucho estrés. | 맞아요. 그리고 그건 큰 슬픔과 스트레스를 가져와요.
+[10:55.72]
+M | Nos hace pensar que nuestra vida es aburrida o mala. | 우리 삶이 지루하거나 나쁘다고 생각하게 만들어요.
+[10:58.68]
+M | Y que nosotros somos malos porque no estamos en una fiesta. | 그리고 파티에 있지 않으니까 우리가 못난 사람이라고요.
+[11:02.30]
+H | O que no somos felices de verdad. | 아니면 우리가 정말 행복하지 않다고요.
+[11:04.16]
+M | Ajá. Y eso no es verdad. | 아하. 그리고 그건 사실이 아니에요.
+[11:06.48]
+M | Nadie es 100% feliz siempre. | 누구도 늘 100% 행복하지 않아요.
+[11:09.36]
+M | Por eso, borrar las aplicaciones que no nos gustan o que nos hacen sentir mal, trae mucha paz mental. | 그래서 마음에 들지 않거나 기분을 나쁘게 만드는 앱을 지우면 마음이 아주 평화로워져요.
+[11:15.42]
+M | Y si quieres hablar con un amigo de verdad, lo llamas por teléfono y hablan. | 그리고 친구와 정말 이야기하고 싶으면 전화를 걸어서 이야기하면 돼요.
+[11:19.22]
+H | Claro. No necesitas ver sus fotos de vacaciones todos los días para ser su amigo. | 그럼요. 친구가 되려고 매일 친구의 휴가 사진을 볼 필요는 없어요.
+[11:23.62]
+H | ¡Qué buena idea, la verdad! | 정말 좋은 생각이네요.
+[11:25.18]
+M | Ayuda a vivir la vida de uno mismo, no la de otros. | 다른 사람의 삶이 아니라 자기 삶을 사는 데 도움이 돼요.
+[11:27.94]
+M | Así es. Borrar eso te ayuda a ver las cosas bonitas de tu propia vida. | 그렇죠. 그걸 지우면 내 삶의 아름다운 것들을 보는 데 도움이 돼요.
+[11:33.76]
+## 정리 — 네 가지 규칙과 마지막 질문
+H | Bueno, el tiempo vuela. | 자, 시간이 금방 가네요.
+[11:35.30]
+H | Vamos a hacer un pequeño resumen de estas cuatro ideas. | 이 네 가지 생각을 짧게 정리해 볼게요.
+[11:38.20]
+H | De manera rápida y fácil. | 빠르고 쉽게요.
+[11:39.68]
+H | Número uno. Pedir con palabras claras y no esperar en silencio. | 첫째. 분명한 말로 부탁하고, 조용히 기대하지 않기.
+[11:43.60]
+M | Muy importante para no enojarse. | 화내지 않으려면 아주 중요해요.
+[11:45.60]
+H | Número dos. Vivir a tu manera, sin importar lo que dice la sociedad. | 둘째. 사회가 뭐라고 하든 내 방식대로 살기.
+[11:49.56]
+H | Ser como esos abuelos felices y tranquilos en Japón. | 일본의 그 행복하고 편안한 할아버지 할머니처럼요.
+[11:52.20]
+M | Vivir para el hoy, sí. | 오늘을 위해 살기, 네.
+[11:53.98]
+H | Así es. Número tres. | 그렇죠. 셋째.
+[11:55.84]
+H | Hacer las cosas al 80%. | 일을 80%로 하기.
+[11:57.70]
+M | No trabajar demasiado en cosas que no importan tanto. | 별로 중요하지 않은 일에 너무 애쓰지 않기.
+[12:00.64]
+H | Como limpiar cada esquina de la casa. | 집의 구석구석을 다 청소하는 것처럼요.
+[12:02.36]
+M | Dejar de buscar ser perfectos. | 완벽해지려고 하는 걸 그만두기.
+[12:04.44]
+H | Y finalmente, número cuatro. | 그리고 마지막으로, 넷째.
+[12:06.36]
+H | Dejar el teléfono, apagar los videos cortos y leer un buen libro para descansar de verdad la mente. | 휴대폰을 내려놓고, 짧은 영상을 끄고, 좋은 책을 읽으며 정말로 머리를 쉬게 하기.
+[12:12.10]
+M | Suenan muy fáciles, pero la verdad son cosas fáciles de decir y muy difíciles de hacer todos los días. | 아주 쉽게 들리지만, 솔직히 말하기는 쉽고 매일 실천하기는 아주 어려운 것들이에요.
+[12:19.52]
+M | Necesitamos recordar nuestras metas todo el tiempo. | 우리의 목표를 늘 기억해야 해요.
+[12:22.28]
+M | La sociedad y el mundo siempre quieren que hagamos las cosas de la manera difícil. | 사회와 세상은 늘 우리가 어려운 방식으로 하기를 원하니까요.
+[12:25.88]
+H | Sí, es como un trabajo de todos los días para no caer en las malas costumbres de antes. | 네, 예전의 나쁜 습관으로 돌아가지 않기 위한 매일의 일 같은 거예요.
+[12:31.64]
+M | Exacto. Pero si fallas un día y miras el teléfono por una hora, no importa. | 맞아요. 하지만 하루 실패해서 한 시간 동안 휴대폰을 봐도 괜찮아요.
+[12:36.72]
+M | Al día siguiente lo intentas de nuevo y ya. | 다음 날 다시 해 보면 그걸로 돼요.
+[12:38.70]
+M | No hay que sentirse mal. | 기분 나빠할 필요 없어요.
+[12:39.78]
+H | Eso es muy cierto. | 정말 맞는 말이에요.
+[12:40.78]
+H | Hay que ser buenos con nosotros mismos. | 우리 자신에게 너그러워야 해요.
+[12:42.84]
+H | Y bueno, para terminar, quiero dejar una pregunta provocativa para pensar después de escuchar este programa. | 자, 마지막으로, 이 방송을 듣고 나서 생각해 볼 도발적인 질문 하나를 남기고 싶어요.
+[12:47.70]
+H | A ver, cuéntanos. | 어디 들어 봐요.
+[12:48.92]
+H | ¿Qué pasaría si usamos la regla del 80% en todo? | 80% 규칙을 모든 것에 쓰면 어떻게 될까요?
+[12:52.76]
+H | Incluso en nuestras relaciones o en las cosas que nos gusta hacer. | 인간관계나 우리가 좋아하는 일에까지요.
+[12:55.26]
+H | Quizá la vida no necesita ser 100% perfecta para ser 100% hermosa. | 어쩌면 삶은 100% 아름답기 위해 100% 완벽할 필요가 없을지도 몰라요.
+[13:01.08]
+H | Piénselo. Ser felices con lo que tenemos hoy es lo mejor que podemos hacer. | 생각해 보세요. 오늘 가진 것으로 행복한 것, 그게 우리가 할 수 있는 최선이에요.
+[13:05.20]
+M | Es un pensamiento muy hermoso y muy real. | 아주 아름답고 아주 현실적인 생각이네요.
+[13:08.08]
+H | Pues sí. Muchas gracias a todos los que nos escuchan por acompañarnos en este análisis detallado sobre cómo vivir mejor. | 그렇죠. 더 잘 사는 법에 대한 이 자세한 분석에 함께해 주신 모든 청취자분들께 정말 감사드려요.
+[13:13.86]
+H | Ha sido un placer estar aquí. | 여기 함께해서 즐거웠어요.
+[13:15.50]
+M | Muchas gracias. Y recuerden, la vida simple es una buena vida. | 정말 고마워요. 그리고 기억하세요, 단순한 삶이 좋은 삶이에요.
+[13:18.92]
+M | Hasta pronto. | 또 만나요.
