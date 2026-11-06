@@ -1,0 +1,670 @@
+{
+ "lang": "es",
+ "date": "2026-11-06",
+ "title": "배울수록 뒤로 가는 것 같은 이유 — 스페인어 딥다이브",
+ "es": "Avanzar parece retroceder",
+ "emoji": "🎋",
+ "level": "A2–B1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "¿Por qué sientes que retrocedes al aprender?",
+ "audio": "audio.m4a",
+ "duration": "15:30",
+ "speakers": {
+  "A": "Anfitriona",
+  "B": "Anfitrión"
+ },
+ "hideCast": true,
+ "summary": "새로운 걸 배운 지 6개월쯤 되면 왜 첫날보다 더 바보가 된 것 같을까요? 두 진행자가 멕시코식 스페인어로 풀어요. ① 도파민은 '행복 물질'이 아니라 '새로운 걸 기대하는 물질' — 달걀 프라이의 신혼기가 끝나면 연료가 떨어진다 ② 전문가는 작은 놀라움(microsorpresas)을 찾는다 ③ 머릿속 옷장에 옷 300벌을 쑤셔 넣으면 단어끼리 싸운다 ④ 정리하려면 옷을 침대에 쏟아야 한다 — 도덕경의 '进道若退(나아감은 물러남처럼 보인다)', 휴대폰 업데이트, 대나무 뿌리 ⑤ 웃음 날 만큼 작은 목표 + 즉각 보상, 그리고 '느려도 괜찮아'. (같은 주제의 중국어·일본어·영어 강의와 함께 들어 보세요.)",
+ "topics": [
+  "la dopamina = el químico de esperar algo nuevo",
+  "la luna de miel de aprender · el huevo frito",
+  "microsorpresas · gotitas de dopamina",
+  "el armario de la mente · la ropa en la cama",
+  "Avanzar parece retroceder · el bambú · la actualización del sistema",
+  "metas pequeñas · premiar el proceso · aceptar ser lento",
+  "문법: estar a punto de · hacer que + 접속법 · para que + 접속법 · tan … que · hay que · pretérito vs imperfecto"
+ ],
+ "grammar": [
+  {
+   "title": "① 에피소드 흐름 — 6개월의 벽",
+   "lead": "진행자들이 쓴 비유를 스페인어 그대로 정리해요.",
+   "table": {
+    "head": [
+     "단계",
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "처음",
+      "la luna de miel de aprender",
+      "배움의 신혼기 — 놀라움 → 도파민 폭발"
+     ],
+     [
+      "6개월",
+      "Cero sorpresa. La dopamina cae hasta el piso.",
+      "놀라움 제로, 도파민 바닥"
+     ],
+     [
+      "머릿속",
+      "El armario está hecho un desastre.",
+      "옷장이 엉망 — 단어끼리 부딪침"
+     ],
+     [
+      "정리 중",
+      "la ropa en la cama / la pantalla negra / el bambú",
+      "침대 위 옷 · 까만 화면 · 대나무 뿌리"
+     ],
+     [
+      "해결",
+      "metas pequeñas + premio · aceptar ser lento",
+      "작은 목표와 보상 · 느림 받아들이기"
+     ]
+    ]
+   },
+   "tip": "핵심 문장: Avanzar parece retroceder. (나아감은 물러남처럼 보인다)"
+  },
+  {
+   "title": "② estar a punto de + 동사원형 — 막 ~하려는 참이다",
+   "lead": "무언가가 곧 일어나기 직전일 때 써요.",
+   "examples": [
+    [
+     "Miles de personas están a punto de tirar a la basura su guitarra.",
+     "수천 명이 기타를 쓰레기통에 버리기 직전이에요."
+    ],
+    [
+     "Están a punto de rendirse justo en el momento en que su cerebro se hace más inteligente.",
+     "뇌가 더 똑똑해지는 바로 그 순간에 포기하려는 참이에요."
+    ]
+   ]
+  },
+  {
+   "title": "③ hacer que + 접속법 / requerir que + 접속법",
+   "lead": "남에게 ~하게 만들다, ~하기를 요구하다. que 뒤 주어가 바뀌면 <b>접속법</b>이에요.",
+   "examples": [
+    [
+     "También hace que la gente se sienta muy mal.",
+     "사람들을 아주 괴롭게 만들기도 해요. (sentirse → se sienta)"
+    ],
+    [
+     "Aprender algo nuevo requiere que el cerebro haga un gran desastre adentro.",
+     "새로운 걸 배우려면 뇌가 안에서 큰 난장판을 벌여야 해요. (hacer → haga)"
+    ]
+   ]
+  },
+  {
+   "title": "④ para que + 접속법 — ~하도록",
+   "lead": "목적을 나타내요. 주어가 바뀌면 접속법.",
+   "examples": [
+    [
+     "Para que sea muy fácil, imagina un armario.",
+     "아주 쉽게 하려고, 옷장을 상상해 봐요. (ser → sea)"
+    ],
+    [
+     "Le das pequeñas gotas de dopamina al cerebro para que no te odie mañana.",
+     "뇌가 내일 너를 미워하지 않도록 도파민을 조금씩 줘요. (odiar → odie)"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ tan + 형용사 + que … — 너무 ~해서 …하다",
+   "lead": "정도와 결과를 함께 말해요. 결과절에 접속법이 오기도 해요.",
+   "examples": [
+    [
+     "La meta debe ser tan pequeña que te dé risa.",
+     "목표는 웃음이 날 만큼 작아야 해요."
+    ],
+    [
+     "Tenemos tantas cosas buenas y nuevas que el cerebro no las encuentra.",
+     "좋고 새로운 게 너무 많아서 뇌가 못 찾아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ hay que / tener que + 동사원형 — ~해야 한다",
+   "lead": "<b>hay que</b>는 일반적인 의무, <b>tener que</b>는 특정 주어의 의무예요.",
+   "examples": [
+    [
+     "Hay que entender por qué nos sentimos tan felices al inicio.",
+     "처음엔 왜 그렇게 행복한지 이해해야 해요."
+    ],
+    [
+     "Para limpiar todo, primero hay que hacer un desastre mucho peor.",
+     "다 정리하려면 먼저 훨씬 큰 난장판을 만들어야 해요."
+    ],
+    [
+     "Tienes que premiar el proceso, no el final.",
+     "결과가 아니라 과정에 상을 줘야 해요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 과거 시제 — 점과정(pretérito) vs 선과거(imperfecto)",
+   "lead": "한 번 끝난 일은 pretérito, 과거의 배경·습관은 imperfecto.",
+   "examples": [
+    [
+     "Yo comí pollo.",
+     "나는 닭고기를 먹었어. (한 번 → pretérito)"
+    ],
+    [
+     "Antes hablaba más rápido.",
+     "전엔 더 빨리 말하곤 했어. (습관 → imperfecto)"
+    ],
+    [
+     "Su cerebro seguro esperaba un desastre.",
+     "뇌는 분명 대참사를 예상하고 있었어요. (배경 → imperfecto)"
+    ]
+   ]
+  },
+  {
+   "title": "⑧ 멕시코식 구어 표현",
+   "lead": "대화에 자주 나오는 말버릇이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "o sea",
+      "그러니까, 즉"
+     ],
+     [
+      "haz de cuenta que …",
+      "~라고 생각해 봐"
+     ],
+     [
+      "de plano",
+      "아예, 완전히"
+     ],
+     [
+      "¡Órale!",
+      "와! / 좋아! (놀람·감탄)"
+     ],
+     [
+      "este…",
+      "음… (말 고르는 소리)"
+     ],
+     [
+      "nada de nada",
+      "전혀, 하나도"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "La dopamina es el químico de esperar algo nuevo.",
+   "도파민은 새로운 걸 기대하는 물질이에요."
+  ],
+  [
+   "Cero sorpresa.",
+   "놀라움 제로."
+  ],
+  [
+   "La fuerza de voluntad es una batería muy pequeña.",
+   "의지력은 아주 작은 배터리예요."
+  ],
+  [
+   "No perdiste tu inteligencia.",
+   "지능을 잃은 게 아니에요."
+  ],
+  [
+   "Avanzar parece retroceder.",
+   "나아감은 물러남처럼 보인다."
+  ],
+  [
+   "El caos significa que el cerebro está construyendo la autopista.",
+   "혼돈은 뇌가 고속도로를 짓고 있다는 뜻이에요."
+  ],
+  [
+   "Tienes que premiar el proceso, no el final.",
+   "결과가 아니라 과정에 상을 줘야 해요."
+  ],
+  [
+   "Está bien ser lento hoy. Mi cerebro está limpiando el armario.",
+   "오늘은 느려도 괜찮아. 내 뇌가 옷장을 정리하는 중이야."
+  ],
+  [
+   "Aceptar ser lento hoy te hace ser muy rápido el día de mañana.",
+   "오늘 느린 걸 받아들이면 내일은 아주 빨라져요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el estudio profundo",
+   "ko": "딥다이브, 심층 탐구",
+   "ex": "Nos vemos en el próximo estudio profundo.",
+   "exKo": "다음 딥다이브에서 만나요."
+  },
+  {
+   "es": "tirar a la basura",
+   "ko": "쓰레기통에 버리다",
+   "ex": "tirar a la basura su guitarra",
+   "exKo": "기타를 쓰레기통에 버리다"
+  },
+  {
+   "es": "rendirse",
+   "ko": "포기하다, 항복하다",
+   "ex": "Están a punto de rendirse.",
+   "exKo": "포기하기 직전이에요."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "헬스장",
+   "ex": "Ya no van al gimnasio.",
+   "exKo": "더는 헬스장에 안 가요."
+  },
+  {
+   "es": "hacia atrás",
+   "ko": "뒤로",
+   "ex": "Sientes que vas hacia atrás.",
+   "exKo": "뒤로 가는 느낌이 들어요."
+  },
+  {
+   "es": "culparse",
+   "ko": "자신을 탓하다",
+   "ex": "Se culpan a ellos mismos.",
+   "exKo": "자기 자신을 탓해요."
+  },
+  {
+   "es": "servir para",
+   "ko": "~에 소질이 있다, 쓸모 있다",
+   "ex": "Piensan que no sirven para eso.",
+   "exKo": "그거에 소질이 없다고 생각해요."
+  },
+  {
+   "es": "la línea recta",
+   "ko": "직선",
+   "ex": "ir en una línea recta hacia arriba",
+   "exKo": "위로 곧게 올라가다"
+  },
+  {
+   "es": "el muro",
+   "ko": "벽",
+   "ex": "este muro gigante de los seis meses",
+   "exKo": "이 거대한 6개월의 벽"
+  },
+  {
+   "es": "el químico",
+   "ko": "화학 물질",
+   "ex": "un químico en el cerebro",
+   "exKo": "뇌 속의 화학 물질"
+  },
+  {
+   "es": "adivinar",
+   "ko": "알아맞히다",
+   "ex": "El cerebro intenta adivinar qué va a pasar.",
+   "exKo": "뇌는 무슨 일이 일어날지 맞히려 해요."
+  },
+  {
+   "es": "el principiante",
+   "ko": "초보자",
+   "ex": "Un principiante total.",
+   "exKo": "완전 초보."
+  },
+  {
+   "es": "el huevo frito",
+   "ko": "달걀 프라이",
+   "ex": "Voy a hacer un huevo frito.",
+   "exKo": "달걀 프라이를 할 거야."
+  },
+  {
+   "es": "quemarse",
+   "ko": "타다",
+   "ex": "El huevo no se quema.",
+   "exKo": "달걀이 타지 않아요."
+  },
+  {
+   "es": "la expectativa",
+   "ko": "기대(치)",
+   "ex": "La expectativa era casi cero.",
+   "exKo": "기대치는 거의 0이었어요."
+  },
+  {
+   "es": "la luna de miel",
+   "ko": "신혼여행, 신혼기",
+   "ex": "la luna de miel de aprender",
+   "exKo": "배움의 신혼기"
+  },
+  {
+   "es": "la fuerza de voluntad",
+   "ko": "의지력",
+   "ex": "usar su fuerza de voluntad",
+   "exKo": "의지력을 쓰다"
+  },
+  {
+   "es": "acabarse",
+   "ko": "다 떨어지다, 끝나다",
+   "ex": "La batería se acaba muy rápido.",
+   "exKo": "배터리가 금방 닳아요."
+  },
+  {
+   "es": "la rutina",
+   "ko": "일상, 반복",
+   "ex": "La dopamina odia la rutina.",
+   "exKo": "도파민은 반복을 싫어해요."
+  },
+  {
+   "es": "volverse loco",
+   "ko": "미치다",
+   "ex": "¿Cómo no se vuelven locos?",
+   "exKo": "어떻게 안 미치죠?"
+  },
+  {
+   "es": "el reto",
+   "ko": "도전, 과제",
+   "ex": "un pequeño reto nuevo",
+   "exKo": "작은 새 도전"
+  },
+  {
+   "es": "la gota / la gotita",
+   "ko": "방울 / 작은 방울",
+   "ex": "gotitas de dopamina",
+   "exKo": "도파민 방울"
+  },
+  {
+   "es": "la queja",
+   "ko": "불평",
+   "ex": "Esa queja la escucho todo el tiempo.",
+   "exKo": "그 불평은 늘 들어요."
+  },
+  {
+   "es": "guardar",
+   "ko": "보관하다, 저장하다",
+   "ex": "cómo el cerebro guarda la información",
+   "exKo": "뇌가 정보를 저장하는 방법"
+  },
+  {
+   "es": "el armario",
+   "ko": "옷장",
+   "ex": "Imagina un armario.",
+   "exKo": "옷장을 상상해 봐요."
+  },
+  {
+   "es": "la camisa",
+   "ko": "셔츠",
+   "ex": "tres camisas",
+   "exKo": "셔츠 세 벌"
+  },
+  {
+   "es": "agarrar",
+   "ko": "잡다, 집다",
+   "ex": "Agarra tres palabras rápido.",
+   "exKo": "단어 세 개를 휙 집어요."
+  },
+  {
+   "es": "doblar",
+   "ko": "(옷을) 개다",
+   "ex": "en lugar de doblarlas bonito",
+   "exKo": "예쁘게 개는 대신"
+  },
+  {
+   "es": "la prenda",
+   "ko": "옷 한 벌",
+   "ex": "las trescientas prendas",
+   "exKo": "옷 300벌"
+  },
+  {
+   "es": "mezclado",
+   "ko": "뒤섞인",
+   "ex": "Todo mezclado.",
+   "exKo": "전부 뒤죽박죽."
+  },
+  {
+   "es": "tardarse",
+   "ko": "시간이 걸리다",
+   "ex": "Me voy a tardar media hora.",
+   "exKo": "30분은 걸릴 거예요."
+  },
+  {
+   "es": "chocar",
+   "ko": "부딪치다",
+   "ex": "Todas las palabras chocan por dentro.",
+   "exKo": "모든 단어가 안에서 부딪쳐요."
+  },
+  {
+   "es": "sudar",
+   "ko": "땀 흘리다",
+   "ex": "Te quedas callado y sudando.",
+   "exKo": "말없이 땀만 흘려요."
+  },
+  {
+   "es": "ordenar",
+   "ko": "정리하다",
+   "ex": "Lo lógico es ordenarlo.",
+   "exKo": "정리하는 게 당연해요."
+  },
+  {
+   "es": "avanzar / retroceder",
+   "ko": "나아가다 / 물러나다",
+   "ex": "Avanzar parece retroceder.",
+   "exKo": "나아감은 물러남처럼 보여요."
+  },
+  {
+   "es": "el polvo",
+   "ko": "먼지",
+   "ex": "Durante esa construcción hay polvo.",
+   "exKo": "공사 중엔 먼지가 나요."
+  },
+  {
+   "es": "la actualización",
+   "ko": "업데이트",
+   "ex": "una actualización gigante del sistema",
+   "exKo": "대규모 시스템 업데이트"
+  },
+  {
+   "es": "la pantalla",
+   "ko": "화면",
+   "ex": "La pantalla se pone negra.",
+   "exKo": "화면이 까매져요."
+  },
+  {
+   "es": "la semilla",
+   "ko": "씨앗",
+   "ex": "una semilla de bambú",
+   "exKo": "대나무 씨앗"
+  },
+  {
+   "es": "la raíz (las raíces)",
+   "ko": "뿌리",
+   "ex": "El bambú está haciendo raíces gigantes.",
+   "exKo": "대나무는 거대한 뿌리를 내리고 있어요."
+  },
+  {
+   "es": "la autopista",
+   "ko": "고속도로",
+   "ex": "El cerebro está construyendo la autopista.",
+   "exKo": "뇌가 고속도로를 짓고 있어요."
+  },
+  {
+   "es": "el desorden",
+   "ko": "무질서, 어지러움",
+   "ex": "una etapa de caos y desorden",
+   "exKo": "혼돈과 무질서의 단계"
+  },
+  {
+   "es": "engañar",
+   "ko": "속이다",
+   "ex": "engañar al cerebro",
+   "exKo": "뇌를 속이다"
+  },
+  {
+   "es": "la meta",
+   "ko": "목표",
+   "ex": "metas extremadamente pequeñas",
+   "exKo": "아주 작은 목표"
+  },
+  {
+   "es": "el veneno",
+   "ko": "독",
+   "ex": "Es veneno puro.",
+   "exKo": "순전히 독이에요."
+  },
+  {
+   "es": "el cajón",
+   "ko": "서랍",
+   "ex": "limpiar un cajón pequeño",
+   "exKo": "작은 서랍 하나를 정리하다"
+  },
+  {
+   "es": "el premio / premiar",
+   "ko": "상 / 상을 주다",
+   "ex": "premiar el proceso",
+   "exKo": "과정에 상을 주다"
+  },
+  {
+   "es": "equivocarse",
+   "ko": "틀리다, 실수하다",
+   "ex": "Te equivocas tres veces.",
+   "exKo": "세 번 틀려요."
+  },
+  {
+   "es": "tener prisa",
+   "ko": "서두르다",
+   "ex": "Los verdaderos expertos no tienen prisa.",
+   "exKo": "진짜 전문가는 서두르지 않아요."
+  },
+  {
+   "es": "la pesadez",
+   "ko": "무거움, 버거움",
+   "ex": "esa pesadez no es mala",
+   "exKo": "그 무거움은 나쁜 게 아니에요"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Según la ciencia, ¿qué es la dopamina?",
+   "options": [
+    "El químico de estar feliz",
+    "El químico de esperar algo nuevo",
+    "El químico del sueño",
+    "El químico del miedo"
+   ],
+   "answer": 1,
+   "explain": "La dopamina es el químico de esperar algo nuevo."
+  },
+  {
+   "q": "¿Por qué explota la dopamina con el primer huevo frito?",
+   "options": [
+    "Porque el huevo es caro",
+    "Porque la expectativa del cerebro era casi cero y fue una gran sorpresa",
+    "Porque comió mucho",
+    "Porque alguien lo felicitó"
+   ],
+   "answer": 1,
+   "explain": "La expectativa de su cerebro era casi cero… es una sorpresa gigante."
+  },
+  {
+   "q": "¿Cómo llaman a la etapa feliz del principio?",
+   "options": [
+    "La luna de miel de aprender",
+    "El muro de los seis meses",
+    "La pantalla negra",
+    "El armario lleno"
+   ],
+   "answer": 0,
+   "explain": "A esto le podemos llamar la luna de miel de aprender."
+  },
+  {
+   "q": "A los seis meses, ¿qué pasa con la dopamina?",
+   "options": [
+    "Sube mucho",
+    "Cae hasta el piso porque ya no hay sorpresa",
+    "No cambia",
+    "Se duplica"
+   ],
+   "answer": 1,
+   "explain": "Como no hay sorpresa, la dopamina cae hasta el piso."
+  },
+  {
+   "q": "La fuerza de voluntad es como…",
+   "options": [
+    "un río infinito",
+    "una batería muy pequeña",
+    "un motor gigante",
+    "un huevo frito"
+   ],
+   "answer": 1,
+   "explain": "La fuerza de voluntad es una batería muy pequeña, se acaba muy rápido."
+  },
+  {
+   "q": "¿Qué buscan los expertos, como el pianista?",
+   "options": [
+    "Grandes sorpresas",
+    "Microsorpresas (sorpresas chiquitas)",
+    "Más horas de descanso",
+    "Dinero"
+   ],
+   "answer": 1,
+   "explain": "Ellos buscan microsorpresas, o sea, sorpresas chiquitas."
+  },
+  {
+   "q": "En el ejemplo del armario, ¿por qué el principiante habla rápido?",
+   "options": [
+    "Porque tiene pocas cosas (pocas palabras) en el armario",
+    "Porque estudia diez horas al día",
+    "Porque es un genio",
+    "Porque no tiene miedo"
+   ],
+   "answer": 0,
+   "explain": "Tienes un armario con solo tres cosas… el cerebro entra a este armario casi vacío."
+  },
+  {
+   "q": "Para ordenar el armario, primero hay que…",
+   "options": [
+    "comprar más ropa",
+    "sacar toda la ropa y tirarla en la cama",
+    "cerrar la puerta",
+    "llamar a un amigo"
+   ],
+   "answer": 1,
+   "explain": "Saco toda la ropa… y la tiro en la cama."
+  },
+  {
+   "q": "¿Qué dice la frase del Tao Te King?",
+   "options": [
+    "Avanzar parece retroceder",
+    "El que espera, gana",
+    "Poco a poco se va lejos",
+    "Más vale tarde que nunca"
+   ],
+   "answer": 0,
+   "explain": "Avanzar parece retroceder."
+  },
+  {
+   "q": "¿Qué hace el bambú durante los primeros cuatro años?",
+   "options": [
+    "Nada, está muerto",
+    "Hace raíces gigantes debajo de la tierra",
+    "Crece un metro cada año",
+    "Da frutas"
+   ],
+   "answer": 1,
+   "explain": "Debajo de la tierra el bambú está haciendo raíces gigantes."
+  },
+  {
+   "q": "Según el paso uno, ¿cómo debe ser la meta?",
+   "options": [
+    "Gigante y perfecta",
+    "Tan pequeña que te dé risa",
+    "Igual a la de un experto",
+    "Secreta"
+   ],
+   "answer": 1,
+   "explain": "La meta debe ser tan pequeña que te dé risa."
+  },
+  {
+   "q": "¿Qué frase recomiendan decir cuando te equivocas?",
+   "options": [
+    "Soy un idiota.",
+    "Está bien ser lento hoy. Mi cerebro está limpiando el armario.",
+    "Mañana lo dejo.",
+    "Necesito más dopamina."
+   ],
+   "answer": 1,
+   "explain": "Está bien ser lento hoy. Mi cerebro está limpiando el armario."
+  }
+ ]
+}

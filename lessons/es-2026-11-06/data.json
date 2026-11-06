@@ -1,0 +1,2084 @@
+{
+ "id": "es-2026-11-06",
+ "lang": "es",
+ "date": "2026-11-06",
+ "title": "배울수록 뒤로 가는 것 같은 이유 — 스페인어 딥다이브",
+ "es": "Avanzar parece retroceder",
+ "emoji": "🎋",
+ "level": "A2–B1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "¿Por qué sientes que retrocedes al aprender?",
+ "audio": "audio.m4a",
+ "duration": "15:30",
+ "speakers": {
+  "A": "Anfitriona",
+  "B": "Anfitrión"
+ },
+ "hideCast": true,
+ "summary": "새로운 걸 배운 지 6개월쯤 되면 왜 첫날보다 더 바보가 된 것 같을까요? 두 진행자가 멕시코식 스페인어로 풀어요. ① 도파민은 '행복 물질'이 아니라 '새로운 걸 기대하는 물질' — 달걀 프라이의 신혼기가 끝나면 연료가 떨어진다 ② 전문가는 작은 놀라움(microsorpresas)을 찾는다 ③ 머릿속 옷장에 옷 300벌을 쑤셔 넣으면 단어끼리 싸운다 ④ 정리하려면 옷을 침대에 쏟아야 한다 — 도덕경의 '进道若退(나아감은 물러남처럼 보인다)', 휴대폰 업데이트, 대나무 뿌리 ⑤ 웃음 날 만큼 작은 목표 + 즉각 보상, 그리고 '느려도 괜찮아'. (같은 주제의 중국어·일본어·영어 강의와 함께 들어 보세요.)",
+ "topics": [
+  "la dopamina = el químico de esperar algo nuevo",
+  "la luna de miel de aprender · el huevo frito",
+  "microsorpresas · gotitas de dopamina",
+  "el armario de la mente · la ropa en la cama",
+  "Avanzar parece retroceder · el bambú · la actualización del sistema",
+  "metas pequeñas · premiar el proceso · aceptar ser lento",
+  "문법: estar a punto de · hacer que + 접속법 · para que + 접속법 · tan … que · hay que · pretérito vs imperfecto"
+ ],
+ "grammar": [
+  {
+   "title": "① 에피소드 흐름 — 6개월의 벽",
+   "lead": "진행자들이 쓴 비유를 스페인어 그대로 정리해요.",
+   "table": {
+    "head": [
+     "단계",
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "처음",
+      "la luna de miel de aprender",
+      "배움의 신혼기 — 놀라움 → 도파민 폭발"
+     ],
+     [
+      "6개월",
+      "Cero sorpresa. La dopamina cae hasta el piso.",
+      "놀라움 제로, 도파민 바닥"
+     ],
+     [
+      "머릿속",
+      "El armario está hecho un desastre.",
+      "옷장이 엉망 — 단어끼리 부딪침"
+     ],
+     [
+      "정리 중",
+      "la ropa en la cama / la pantalla negra / el bambú",
+      "침대 위 옷 · 까만 화면 · 대나무 뿌리"
+     ],
+     [
+      "해결",
+      "metas pequeñas + premio · aceptar ser lento",
+      "작은 목표와 보상 · 느림 받아들이기"
+     ]
+    ]
+   },
+   "tip": "핵심 문장: Avanzar parece retroceder. (나아감은 물러남처럼 보인다)"
+  },
+  {
+   "title": "② estar a punto de + 동사원형 — 막 ~하려는 참이다",
+   "lead": "무언가가 곧 일어나기 직전일 때 써요.",
+   "examples": [
+    [
+     "Miles de personas están a punto de tirar a la basura su guitarra.",
+     "수천 명이 기타를 쓰레기통에 버리기 직전이에요."
+    ],
+    [
+     "Están a punto de rendirse justo en el momento en que su cerebro se hace más inteligente.",
+     "뇌가 더 똑똑해지는 바로 그 순간에 포기하려는 참이에요."
+    ]
+   ]
+  },
+  {
+   "title": "③ hacer que + 접속법 / requerir que + 접속법",
+   "lead": "남에게 ~하게 만들다, ~하기를 요구하다. que 뒤 주어가 바뀌면 <b>접속법</b>이에요.",
+   "examples": [
+    [
+     "También hace que la gente se sienta muy mal.",
+     "사람들을 아주 괴롭게 만들기도 해요. (sentirse → se sienta)"
+    ],
+    [
+     "Aprender algo nuevo requiere que el cerebro haga un gran desastre adentro.",
+     "새로운 걸 배우려면 뇌가 안에서 큰 난장판을 벌여야 해요. (hacer → haga)"
+    ]
+   ]
+  },
+  {
+   "title": "④ para que + 접속법 — ~하도록",
+   "lead": "목적을 나타내요. 주어가 바뀌면 접속법.",
+   "examples": [
+    [
+     "Para que sea muy fácil, imagina un armario.",
+     "아주 쉽게 하려고, 옷장을 상상해 봐요. (ser → sea)"
+    ],
+    [
+     "Le das pequeñas gotas de dopamina al cerebro para que no te odie mañana.",
+     "뇌가 내일 너를 미워하지 않도록 도파민을 조금씩 줘요. (odiar → odie)"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ tan + 형용사 + que … — 너무 ~해서 …하다",
+   "lead": "정도와 결과를 함께 말해요. 결과절에 접속법이 오기도 해요.",
+   "examples": [
+    [
+     "La meta debe ser tan pequeña que te dé risa.",
+     "목표는 웃음이 날 만큼 작아야 해요."
+    ],
+    [
+     "Tenemos tantas cosas buenas y nuevas que el cerebro no las encuentra.",
+     "좋고 새로운 게 너무 많아서 뇌가 못 찾아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ hay que / tener que + 동사원형 — ~해야 한다",
+   "lead": "<b>hay que</b>는 일반적인 의무, <b>tener que</b>는 특정 주어의 의무예요.",
+   "examples": [
+    [
+     "Hay que entender por qué nos sentimos tan felices al inicio.",
+     "처음엔 왜 그렇게 행복한지 이해해야 해요."
+    ],
+    [
+     "Para limpiar todo, primero hay que hacer un desastre mucho peor.",
+     "다 정리하려면 먼저 훨씬 큰 난장판을 만들어야 해요."
+    ],
+    [
+     "Tienes que premiar el proceso, no el final.",
+     "결과가 아니라 과정에 상을 줘야 해요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 과거 시제 — 점과정(pretérito) vs 선과거(imperfecto)",
+   "lead": "한 번 끝난 일은 pretérito, 과거의 배경·습관은 imperfecto.",
+   "examples": [
+    [
+     "Yo comí pollo.",
+     "나는 닭고기를 먹었어. (한 번 → pretérito)"
+    ],
+    [
+     "Antes hablaba más rápido.",
+     "전엔 더 빨리 말하곤 했어. (습관 → imperfecto)"
+    ],
+    [
+     "Su cerebro seguro esperaba un desastre.",
+     "뇌는 분명 대참사를 예상하고 있었어요. (배경 → imperfecto)"
+    ]
+   ]
+  },
+  {
+   "title": "⑧ 멕시코식 구어 표현",
+   "lead": "대화에 자주 나오는 말버릇이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "o sea",
+      "그러니까, 즉"
+     ],
+     [
+      "haz de cuenta que …",
+      "~라고 생각해 봐"
+     ],
+     [
+      "de plano",
+      "아예, 완전히"
+     ],
+     [
+      "¡Órale!",
+      "와! / 좋아! (놀람·감탄)"
+     ],
+     [
+      "este…",
+      "음… (말 고르는 소리)"
+     ],
+     [
+      "nada de nada",
+      "전혀, 하나도"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "La dopamina es el químico de esperar algo nuevo.",
+   "도파민은 새로운 걸 기대하는 물질이에요."
+  ],
+  [
+   "Cero sorpresa.",
+   "놀라움 제로."
+  ],
+  [
+   "La fuerza de voluntad es una batería muy pequeña.",
+   "의지력은 아주 작은 배터리예요."
+  ],
+  [
+   "No perdiste tu inteligencia.",
+   "지능을 잃은 게 아니에요."
+  ],
+  [
+   "Avanzar parece retroceder.",
+   "나아감은 물러남처럼 보인다."
+  ],
+  [
+   "El caos significa que el cerebro está construyendo la autopista.",
+   "혼돈은 뇌가 고속도로를 짓고 있다는 뜻이에요."
+  ],
+  [
+   "Tienes que premiar el proceso, no el final.",
+   "결과가 아니라 과정에 상을 줘야 해요."
+  ],
+  [
+   "Está bien ser lento hoy. Mi cerebro está limpiando el armario.",
+   "오늘은 느려도 괜찮아. 내 뇌가 옷장을 정리하는 중이야."
+  ],
+  [
+   "Aceptar ser lento hoy te hace ser muy rápido el día de mañana.",
+   "오늘 느린 걸 받아들이면 내일은 아주 빨라져요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el estudio profundo",
+   "ko": "딥다이브, 심층 탐구",
+   "ex": "Nos vemos en el próximo estudio profundo.",
+   "exKo": "다음 딥다이브에서 만나요."
+  },
+  {
+   "es": "tirar a la basura",
+   "ko": "쓰레기통에 버리다",
+   "ex": "tirar a la basura su guitarra",
+   "exKo": "기타를 쓰레기통에 버리다"
+  },
+  {
+   "es": "rendirse",
+   "ko": "포기하다, 항복하다",
+   "ex": "Están a punto de rendirse.",
+   "exKo": "포기하기 직전이에요."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "헬스장",
+   "ex": "Ya no van al gimnasio.",
+   "exKo": "더는 헬스장에 안 가요."
+  },
+  {
+   "es": "hacia atrás",
+   "ko": "뒤로",
+   "ex": "Sientes que vas hacia atrás.",
+   "exKo": "뒤로 가는 느낌이 들어요."
+  },
+  {
+   "es": "culparse",
+   "ko": "자신을 탓하다",
+   "ex": "Se culpan a ellos mismos.",
+   "exKo": "자기 자신을 탓해요."
+  },
+  {
+   "es": "servir para",
+   "ko": "~에 소질이 있다, 쓸모 있다",
+   "ex": "Piensan que no sirven para eso.",
+   "exKo": "그거에 소질이 없다고 생각해요."
+  },
+  {
+   "es": "la línea recta",
+   "ko": "직선",
+   "ex": "ir en una línea recta hacia arriba",
+   "exKo": "위로 곧게 올라가다"
+  },
+  {
+   "es": "el muro",
+   "ko": "벽",
+   "ex": "este muro gigante de los seis meses",
+   "exKo": "이 거대한 6개월의 벽"
+  },
+  {
+   "es": "el químico",
+   "ko": "화학 물질",
+   "ex": "un químico en el cerebro",
+   "exKo": "뇌 속의 화학 물질"
+  },
+  {
+   "es": "adivinar",
+   "ko": "알아맞히다",
+   "ex": "El cerebro intenta adivinar qué va a pasar.",
+   "exKo": "뇌는 무슨 일이 일어날지 맞히려 해요."
+  },
+  {
+   "es": "el principiante",
+   "ko": "초보자",
+   "ex": "Un principiante total.",
+   "exKo": "완전 초보."
+  },
+  {
+   "es": "el huevo frito",
+   "ko": "달걀 프라이",
+   "ex": "Voy a hacer un huevo frito.",
+   "exKo": "달걀 프라이를 할 거야."
+  },
+  {
+   "es": "quemarse",
+   "ko": "타다",
+   "ex": "El huevo no se quema.",
+   "exKo": "달걀이 타지 않아요."
+  },
+  {
+   "es": "la expectativa",
+   "ko": "기대(치)",
+   "ex": "La expectativa era casi cero.",
+   "exKo": "기대치는 거의 0이었어요."
+  },
+  {
+   "es": "la luna de miel",
+   "ko": "신혼여행, 신혼기",
+   "ex": "la luna de miel de aprender",
+   "exKo": "배움의 신혼기"
+  },
+  {
+   "es": "la fuerza de voluntad",
+   "ko": "의지력",
+   "ex": "usar su fuerza de voluntad",
+   "exKo": "의지력을 쓰다"
+  },
+  {
+   "es": "acabarse",
+   "ko": "다 떨어지다, 끝나다",
+   "ex": "La batería se acaba muy rápido.",
+   "exKo": "배터리가 금방 닳아요."
+  },
+  {
+   "es": "la rutina",
+   "ko": "일상, 반복",
+   "ex": "La dopamina odia la rutina.",
+   "exKo": "도파민은 반복을 싫어해요."
+  },
+  {
+   "es": "volverse loco",
+   "ko": "미치다",
+   "ex": "¿Cómo no se vuelven locos?",
+   "exKo": "어떻게 안 미치죠?"
+  },
+  {
+   "es": "el reto",
+   "ko": "도전, 과제",
+   "ex": "un pequeño reto nuevo",
+   "exKo": "작은 새 도전"
+  },
+  {
+   "es": "la gota / la gotita",
+   "ko": "방울 / 작은 방울",
+   "ex": "gotitas de dopamina",
+   "exKo": "도파민 방울"
+  },
+  {
+   "es": "la queja",
+   "ko": "불평",
+   "ex": "Esa queja la escucho todo el tiempo.",
+   "exKo": "그 불평은 늘 들어요."
+  },
+  {
+   "es": "guardar",
+   "ko": "보관하다, 저장하다",
+   "ex": "cómo el cerebro guarda la información",
+   "exKo": "뇌가 정보를 저장하는 방법"
+  },
+  {
+   "es": "el armario",
+   "ko": "옷장",
+   "ex": "Imagina un armario.",
+   "exKo": "옷장을 상상해 봐요."
+  },
+  {
+   "es": "la camisa",
+   "ko": "셔츠",
+   "ex": "tres camisas",
+   "exKo": "셔츠 세 벌"
+  },
+  {
+   "es": "agarrar",
+   "ko": "잡다, 집다",
+   "ex": "Agarra tres palabras rápido.",
+   "exKo": "단어 세 개를 휙 집어요."
+  },
+  {
+   "es": "doblar",
+   "ko": "(옷을) 개다",
+   "ex": "en lugar de doblarlas bonito",
+   "exKo": "예쁘게 개는 대신"
+  },
+  {
+   "es": "la prenda",
+   "ko": "옷 한 벌",
+   "ex": "las trescientas prendas",
+   "exKo": "옷 300벌"
+  },
+  {
+   "es": "mezclado",
+   "ko": "뒤섞인",
+   "ex": "Todo mezclado.",
+   "exKo": "전부 뒤죽박죽."
+  },
+  {
+   "es": "tardarse",
+   "ko": "시간이 걸리다",
+   "ex": "Me voy a tardar media hora.",
+   "exKo": "30분은 걸릴 거예요."
+  },
+  {
+   "es": "chocar",
+   "ko": "부딪치다",
+   "ex": "Todas las palabras chocan por dentro.",
+   "exKo": "모든 단어가 안에서 부딪쳐요."
+  },
+  {
+   "es": "sudar",
+   "ko": "땀 흘리다",
+   "ex": "Te quedas callado y sudando.",
+   "exKo": "말없이 땀만 흘려요."
+  },
+  {
+   "es": "ordenar",
+   "ko": "정리하다",
+   "ex": "Lo lógico es ordenarlo.",
+   "exKo": "정리하는 게 당연해요."
+  },
+  {
+   "es": "avanzar / retroceder",
+   "ko": "나아가다 / 물러나다",
+   "ex": "Avanzar parece retroceder.",
+   "exKo": "나아감은 물러남처럼 보여요."
+  },
+  {
+   "es": "el polvo",
+   "ko": "먼지",
+   "ex": "Durante esa construcción hay polvo.",
+   "exKo": "공사 중엔 먼지가 나요."
+  },
+  {
+   "es": "la actualización",
+   "ko": "업데이트",
+   "ex": "una actualización gigante del sistema",
+   "exKo": "대규모 시스템 업데이트"
+  },
+  {
+   "es": "la pantalla",
+   "ko": "화면",
+   "ex": "La pantalla se pone negra.",
+   "exKo": "화면이 까매져요."
+  },
+  {
+   "es": "la semilla",
+   "ko": "씨앗",
+   "ex": "una semilla de bambú",
+   "exKo": "대나무 씨앗"
+  },
+  {
+   "es": "la raíz (las raíces)",
+   "ko": "뿌리",
+   "ex": "El bambú está haciendo raíces gigantes.",
+   "exKo": "대나무는 거대한 뿌리를 내리고 있어요."
+  },
+  {
+   "es": "la autopista",
+   "ko": "고속도로",
+   "ex": "El cerebro está construyendo la autopista.",
+   "exKo": "뇌가 고속도로를 짓고 있어요."
+  },
+  {
+   "es": "el desorden",
+   "ko": "무질서, 어지러움",
+   "ex": "una etapa de caos y desorden",
+   "exKo": "혼돈과 무질서의 단계"
+  },
+  {
+   "es": "engañar",
+   "ko": "속이다",
+   "ex": "engañar al cerebro",
+   "exKo": "뇌를 속이다"
+  },
+  {
+   "es": "la meta",
+   "ko": "목표",
+   "ex": "metas extremadamente pequeñas",
+   "exKo": "아주 작은 목표"
+  },
+  {
+   "es": "el veneno",
+   "ko": "독",
+   "ex": "Es veneno puro.",
+   "exKo": "순전히 독이에요."
+  },
+  {
+   "es": "el cajón",
+   "ko": "서랍",
+   "ex": "limpiar un cajón pequeño",
+   "exKo": "작은 서랍 하나를 정리하다"
+  },
+  {
+   "es": "el premio / premiar",
+   "ko": "상 / 상을 주다",
+   "ex": "premiar el proceso",
+   "exKo": "과정에 상을 주다"
+  },
+  {
+   "es": "equivocarse",
+   "ko": "틀리다, 실수하다",
+   "ex": "Te equivocas tres veces.",
+   "exKo": "세 번 틀려요."
+  },
+  {
+   "es": "tener prisa",
+   "ko": "서두르다",
+   "ex": "Los verdaderos expertos no tienen prisa.",
+   "exKo": "진짜 전문가는 서두르지 않아요."
+  },
+  {
+   "es": "la pesadez",
+   "ko": "무거움, 버거움",
+   "ex": "esa pesadez no es mala",
+   "exKo": "그 무거움은 나쁜 게 아니에요"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Según la ciencia, ¿qué es la dopamina?",
+   "options": [
+    "El químico de estar feliz",
+    "El químico de esperar algo nuevo",
+    "El químico del sueño",
+    "El químico del miedo"
+   ],
+   "answer": 1,
+   "explain": "La dopamina es el químico de esperar algo nuevo."
+  },
+  {
+   "q": "¿Por qué explota la dopamina con el primer huevo frito?",
+   "options": [
+    "Porque el huevo es caro",
+    "Porque la expectativa del cerebro era casi cero y fue una gran sorpresa",
+    "Porque comió mucho",
+    "Porque alguien lo felicitó"
+   ],
+   "answer": 1,
+   "explain": "La expectativa de su cerebro era casi cero… es una sorpresa gigante."
+  },
+  {
+   "q": "¿Cómo llaman a la etapa feliz del principio?",
+   "options": [
+    "La luna de miel de aprender",
+    "El muro de los seis meses",
+    "La pantalla negra",
+    "El armario lleno"
+   ],
+   "answer": 0,
+   "explain": "A esto le podemos llamar la luna de miel de aprender."
+  },
+  {
+   "q": "A los seis meses, ¿qué pasa con la dopamina?",
+   "options": [
+    "Sube mucho",
+    "Cae hasta el piso porque ya no hay sorpresa",
+    "No cambia",
+    "Se duplica"
+   ],
+   "answer": 1,
+   "explain": "Como no hay sorpresa, la dopamina cae hasta el piso."
+  },
+  {
+   "q": "La fuerza de voluntad es como…",
+   "options": [
+    "un río infinito",
+    "una batería muy pequeña",
+    "un motor gigante",
+    "un huevo frito"
+   ],
+   "answer": 1,
+   "explain": "La fuerza de voluntad es una batería muy pequeña, se acaba muy rápido."
+  },
+  {
+   "q": "¿Qué buscan los expertos, como el pianista?",
+   "options": [
+    "Grandes sorpresas",
+    "Microsorpresas (sorpresas chiquitas)",
+    "Más horas de descanso",
+    "Dinero"
+   ],
+   "answer": 1,
+   "explain": "Ellos buscan microsorpresas, o sea, sorpresas chiquitas."
+  },
+  {
+   "q": "En el ejemplo del armario, ¿por qué el principiante habla rápido?",
+   "options": [
+    "Porque tiene pocas cosas (pocas palabras) en el armario",
+    "Porque estudia diez horas al día",
+    "Porque es un genio",
+    "Porque no tiene miedo"
+   ],
+   "answer": 0,
+   "explain": "Tienes un armario con solo tres cosas… el cerebro entra a este armario casi vacío."
+  },
+  {
+   "q": "Para ordenar el armario, primero hay que…",
+   "options": [
+    "comprar más ropa",
+    "sacar toda la ropa y tirarla en la cama",
+    "cerrar la puerta",
+    "llamar a un amigo"
+   ],
+   "answer": 1,
+   "explain": "Saco toda la ropa… y la tiro en la cama."
+  },
+  {
+   "q": "¿Qué dice la frase del Tao Te King?",
+   "options": [
+    "Avanzar parece retroceder",
+    "El que espera, gana",
+    "Poco a poco se va lejos",
+    "Más vale tarde que nunca"
+   ],
+   "answer": 0,
+   "explain": "Avanzar parece retroceder."
+  },
+  {
+   "q": "¿Qué hace el bambú durante los primeros cuatro años?",
+   "options": [
+    "Nada, está muerto",
+    "Hace raíces gigantes debajo de la tierra",
+    "Crece un metro cada año",
+    "Da frutas"
+   ],
+   "answer": 1,
+   "explain": "Debajo de la tierra el bambú está haciendo raíces gigantes."
+  },
+  {
+   "q": "Según el paso uno, ¿cómo debe ser la meta?",
+   "options": [
+    "Gigante y perfecta",
+    "Tan pequeña que te dé risa",
+    "Igual a la de un experto",
+    "Secreta"
+   ],
+   "answer": 1,
+   "explain": "La meta debe ser tan pequeña que te dé risa."
+  },
+  {
+   "q": "¿Qué frase recomiendan decir cuando te equivocas?",
+   "options": [
+    "Soy un idiota.",
+    "Está bien ser lento hoy. Mi cerebro está limpiando el armario.",
+    "Mañana lo dejo.",
+    "Necesito más dopamina."
+   ],
+   "answer": 1,
+   "explain": "Está bien ser lento hoy. Mi cerebro está limpiando el armario."
+  }
+ ],
+ "sections": [
+  {
+   "title": "도입 — 6개월 차에 포기하고 싶어지는 이유",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "A",
+     "es": "Hola a todos y bienvenidos.",
+     "ko": "여러분 안녕하세요, 환영해요."
+    },
+    {
+     "t": 2.0,
+     "s": "A",
+     "es": "Bueno, este, hoy en este estudio profundo vamos a hablar de algo muy interesante y muy normal que nos pasa a todos.",
+     "ko": "음, 오늘 이번 딥다이브에서는 우리 모두에게 일어나는 아주 흥미롭고도 아주 흔한 일에 대해 이야기할 거예요."
+    },
+    {
+     "t": 8.8,
+     "s": "B",
+     "es": "Sí, claro. Es un tema supercomún.",
+     "ko": "네, 그럼요. 정말 흔한 주제죠."
+    },
+    {
+     "t": 11.1,
+     "s": "A",
+     "es": "O sea, haz de cuenta que en este momento miles de personas en el mundo están a punto de tirar a la basura su guitarra o, bueno, su libro para aprender chino.",
+     "ko": "그러니까, 지금 이 순간 세상의 수천 명이 기타를, 아니면 중국어 교재를 쓰레기통에 버리기 직전이라고 생각해 보세요."
+    },
+    {
+     "t": 19.2,
+     "s": "B",
+     "es": "Ajá. O de plano dicen que ya no van al gimnasio.",
+     "ko": "네. 아니면 아예 더는 헬스장에 안 간다고 하거나요."
+    },
+    {
+     "t": 21.8,
+     "s": "A",
+     "es": "Exacto. Y lo más loco de todo esto es que están a punto de rendirse justo en el momento en que su cerebro se hace más inteligente.",
+     "ko": "맞아요. 그런데 가장 놀라운 건, 바로 뇌가 더 똑똑해지는 그 순간에 포기하려 한다는 거예요."
+    },
+    {
+     "t": 28.2,
+     "s": "B",
+     "es": "Sí, ¿no es una locura? Pero así es.",
+     "ko": "네, 말도 안 되죠? 그런데 그래요."
+    },
+    {
+     "t": 31.0,
+     "s": "A",
+     "es": "Por eso nuestra misión hoy es investigar por qué pasa esto.",
+     "ko": "그래서 오늘 우리 미션은 왜 이런 일이 생기는지 알아보는 거예요."
+    },
+    {
+     "t": 34.2,
+     "s": "A",
+     "es": "Porque, o sea, es muy normal empezar algo nuevo, sentirte como un genio la primera semana y luego, no sé, a los tres o seis meses sentir que vas hacia atrás.",
+     "ko": "왜냐하면, 새로운 걸 시작해서 첫 주엔 천재가 된 기분이다가, 한 서너 달이나 여섯 달쯤 지나면 뒤로 가는 느낌이 드는 건 아주 흔하거든요."
+    },
+    {
+     "t": 43.5,
+     "s": "B",
+     "es": "Totalmente. Sienten que son más tontos que el primer día.",
+     "ko": "완전히요. 첫날보다 더 바보가 된 것 같다고 느끼죠."
+    },
+    {
+     "t": 46.0,
+     "s": "B",
+     "es": "Y es fascinante, pero, este, también hace que la gente se sienta muy mal.",
+     "ko": "흥미롭긴 한데, 음, 사람들을 아주 괴롭게 만들기도 해요."
+    },
+    {
+     "t": 49.4,
+     "s": "A",
+     "es": "Sí, porque se culpan a ellos mismos, ¿no? Como que piensan que no sirven para eso.",
+     "ko": "네, 자기 자신을 탓하니까요, 그렇죠? 자기는 그거에 소질이 없다고 생각하는 거예요."
+    },
+    {
+     "t": 53.4,
+     "s": "B",
+     "es": "Claro. Muchas personas piensan que practicar algo nuevo es ir en una línea recta hacia arriba.",
+     "ko": "그렇죠. 많은 사람이 새로운 걸 연습하는 건 위로 곧게 뻗은 직선을 따라가는 거라고 생각해요."
+    },
+    {
+     "t": 58.1,
+     "s": "B",
+     "es": "O sea, piensan que siempre van a ser más rápidos y mejores todos los días.",
+     "ko": "그러니까 매일매일 늘 더 빨라지고 더 나아질 거라고 생각하는 거죠."
+    },
+    {
+     "t": 62.3,
+     "s": "A",
+     "es": "Pero me imagino que el cuerpo no funciona así, ¿verdad? Yo estoy segura de que no es tan fácil.",
+     "ko": "그런데 몸은 그렇게 작동하지 않겠죠? 그렇게 쉽지 않을 거라고 확신해요."
+    },
+    {
+     "t": 66.7,
+     "s": "B",
+     "es": "Para nada. Aprender algo nuevo requiere que el cerebro haga, digamos, un gran desastre adentro.",
+     "ko": "전혀요. 새로운 걸 배우려면 뇌가 안에서, 말하자면, 큰 난장판을 벌여야 해요."
+    },
+    {
+     "t": 72.0,
+     "s": "B",
+     "es": "Y si la gente no entiende este desastre, pues piensan que no tienen talento y dicen adiós.",
+     "ko": "그리고 사람들이 이 난장판을 이해하지 못하면, 재능이 없다고 생각하고 그만둬 버려요."
+    },
+    {
+     "t": 76.3,
+     "s": "A",
+     "es": "Ya. Claro. Entonces, para entender este muro gigante de los seis meses, creo que debemos empezar por el principio de la historia.",
+     "ko": "그렇군요. 그럼 이 거대한 '6개월의 벽'을 이해하려면 이야기의 처음부터 시작해야 할 것 같아요."
+    },
+    {
+     "t": 83.0,
+     "s": "B",
+     "es": "Me parece perfecto.",
+     "ko": "좋아요."
+    }
+   ]
+  },
+  {
+   "title": "도파민 — '행복 물질'이 아니라 '새로운 것을 기대하는 물질'",
+   "lines": [
+    {
+     "t": 84.0,
+     "s": "A",
+     "es": "Antes de saber por qué nos sentimos tan cansados, hay que entender por qué nos sentimos tan pero tan felices al inicio.",
+     "ko": "왜 그렇게 지치는지 알기 전에, 처음엔 왜 그렇게나 행복한지부터 이해해야 해요."
+    },
+    {
+     "t": 89.7,
+     "s": "A",
+     "es": "O sea, ¿qué pasa en el cuerpo esos primeros días?",
+     "ko": "그러니까 그 처음 며칠 동안 몸에서는 무슨 일이 일어날까요?"
+    },
+    {
+     "t": 92.2,
+     "s": "B",
+     "es": "Pues mira, todo empieza con un químico en el cerebro. Eh, mucha gente conoce la palabra dopamina.",
+     "ko": "음, 모든 건 뇌 속의 화학 물질 하나에서 시작해요. 많은 사람이 '도파민'이라는 말을 알죠."
+    },
+    {
+     "t": 97.1,
+     "s": "A",
+     "es": "Ah, sí, la dopamina. O sea, el químico de estar feliz.",
+     "ko": "아, 네, 도파민. 그러니까 행복해지는 물질이요."
+    },
+    {
+     "t": 102.0,
+     "s": "B",
+     "es": "Bueno, la gente dice eso en la calle, pero la ciencia dice que no es exactamente eso.",
+     "ko": "음, 길거리에선 다들 그렇게 말하지만, 과학은 정확히 그건 아니라고 해요."
+    },
+    {
+     "t": 106.1,
+     "s": "B",
+     "es": "La dopamina es el químico de esperar algo nuevo.",
+     "ko": "도파민은 새로운 것을 기대하는 물질이에요."
+    },
+    {
+     "t": 109.4,
+     "s": "A",
+     "es": "Esperar algo nuevo. A ver, a ver, explícame un poco más eso.",
+     "ko": "새로운 걸 기대한다. 어디 보자, 그거 좀 더 설명해 줘요."
+    },
+    {
+     "t": 113.2,
+     "s": "B",
+     "es": "Sí. O sea, es lo que nos hace buscar sorpresas.",
+     "ko": "네. 그러니까 우리가 놀라움을 찾게 만드는 거예요."
+    },
+    {
+     "t": 116.5,
+     "s": "B",
+     "es": "El cerebro siempre intenta adivinar qué va a pasar en el futuro.",
+     "ko": "뇌는 늘 앞으로 무슨 일이 일어날지 맞히려고 해요."
+    },
+    {
+     "t": 120.1,
+     "s": "A",
+     "es": "Ajá.",
+     "ko": "네."
+    },
+    {
+     "t": 120.6,
+     "s": "B",
+     "es": "Entonces, cuando empezamos algo totalmente nuevo, el cerebro no sabe nada, no espera mucho.",
+     "ko": "그래서 완전히 새로운 걸 시작하면 뇌는 아무것도 모르니까 기대를 별로 안 해요."
+    },
+    {
+     "t": 125.6,
+     "s": "B",
+     "es": "Y si hacemos algo bien, el cerebro dice: \"¡Wow, qué gran sorpresa!\"",
+     "ko": "그런데 뭔가를 잘 해내면 뇌가 말하죠. \"와, 이게 웬 놀라움이야!\""
+    },
+    {
+     "t": 130.1,
+     "s": "A",
+     "es": "Ah, ya entiendo. Y ahí saca la dopamina.",
+     "ko": "아, 알겠어요. 그때 도파민을 내보내는 거군요."
+    },
+    {
+     "t": 133.3,
+     "s": "B",
+     "es": "Exacto.",
+     "ko": "바로 그거예요."
+    }
+   ]
+  },
+  {
+   "title": "달걀 프라이와 '배움의 신혼기'",
+   "lines": [
+    {
+     "t": 133.9,
+     "s": "A",
+     "es": "¿Sabes qué? Vamos a usar un ejemplo muy fácil para la gente que nos escucha.",
+     "ko": "있잖아요, 듣고 계신 분들을 위해 아주 쉬운 예를 들어 봐요."
+    },
+    {
+     "t": 137.5,
+     "s": "A",
+     "es": "Imagina una persona que nunca ha cocinado en su vida, nada de nada.",
+     "ko": "평생 요리를 한 번도, 정말 한 번도 안 해 본 사람을 상상해 보세요."
+    },
+    {
+     "t": 141.2,
+     "s": "B",
+     "es": "Okay. Un principiante total.",
+     "ko": "좋아요. 완전 초보군요."
+    },
+    {
+     "t": 142.5,
+     "s": "A",
+     "es": "Y un día dice: \"Voy a hacer un huevo frito.\"",
+     "ko": "그런데 어느 날 \"달걀 프라이를 해 봐야지\" 하는 거예요."
+    },
+    {
+     "t": 145.7,
+     "s": "A",
+     "es": "Pone el huevo en el fuego y, por pura suerte, el huevo sale perfecto y no se quema.",
+     "ko": "달걀을 불에 올렸는데, 순전히 운으로 달걀이 완벽하게 나오고 타지도 않아요."
+    },
+    {
+     "t": 150.8,
+     "s": "B",
+     "es": "Wow.",
+     "ko": "와."
+    },
+    {
+     "t": 150.8,
+     "s": "A",
+     "es": "Su cerebro, este, seguro esperaba un desastre, ¿no? Fuego en la cocina y todo negro.",
+     "ko": "그 사람 뇌는, 음, 분명 대참사를 예상했겠죠? 부엌에 불나고 다 새까매지는 거요."
+    },
+    {
+     "t": 156.5,
+     "s": "B",
+     "es": "Claro. La expectativa de su cerebro era casi cero.",
+     "ko": "그렇죠. 뇌의 기대치는 거의 0이었어요."
+    },
+    {
+     "t": 159.5,
+     "s": "A",
+     "es": "Entonces, cuando ve el huevo bonito en el plato, es una sorpresa gigante y, ¡boom!, explota la dopamina.",
+     "ko": "그러니 접시 위의 예쁜 달걀을 보면 엄청난 놀라움이고, 펑! 도파민이 터지는 거죠."
+    },
+    {
+     "t": 166.4,
+     "s": "B",
+     "es": "Sí. Y esa persona se siente el mejor cocinero del mundo.",
+     "ko": "네. 그리고 그 사람은 세계 최고의 요리사가 된 기분이에요."
+    },
+    {
+     "t": 169.1,
+     "s": "B",
+     "es": "Saca fotos con el teléfono, se ríe, tiene mucha energía.",
+     "ko": "휴대폰으로 사진을 찍고, 웃고, 에너지가 넘치죠."
+    },
+    {
+     "t": 173.2,
+     "s": "B",
+     "es": "A esto le podemos llamar, digamos, la luna de miel de aprender.",
+     "ko": "이걸, 말하자면, '배움의 신혼기'라고 부를 수 있어요."
+    },
+    {
+     "t": 177.6,
+     "s": "A",
+     "es": "Ay, la luna de miel. Me encanta ese nombre. Todo es bonito al principio.",
+     "ko": "아, 신혼기. 그 이름 정말 좋네요. 처음엔 다 예쁘죠."
+    },
+    {
+     "t": 182.4,
+     "s": "B",
+     "es": "Sí, todo es bonito y muy fácil.",
+     "ko": "네, 다 예쁘고 아주 쉬워요."
+    },
+    {
+     "t": 184.1,
+     "s": "B",
+     "es": "Cuando hay mucha dopamina, el cerebro no necesita usar fuerza de voluntad. Es como un juego de niños.",
+     "ko": "도파민이 많을 때는 뇌가 의지력을 쓸 필요가 없어요. 애들 장난 같죠."
+    },
+    {
+     "t": 189.8,
+     "s": "A",
+     "es": "Pero, pues, sabemos que las lunas de miel se terminan.",
+     "ko": "하지만 신혼기는 끝나기 마련이잖아요."
+    },
+    {
+     "t": 192.8,
+     "s": "A",
+     "es": "Siempre pasan los meses y hacer ese huevo frito es algo de todos los días, ya no es nuevo.",
+     "ko": "몇 달이 지나면 그 달걀 프라이는 매일 하는 일이 되고, 더는 새롭지 않아요."
+    },
+    {
+     "t": 198.6,
+     "s": "B",
+     "es": "Exactamente, ahí está el problema.",
+     "ko": "바로 그게 문제예요."
+    },
+    {
+     "t": 200.9,
+     "s": "B",
+     "es": "A los seis meses, el cerebro de esta persona ya sabe hacer el huevo.",
+     "ko": "6개월이 지나면 이 사람의 뇌는 이미 달걀 프라이를 할 줄 알아요."
+    },
+    {
+     "t": 203.9,
+     "s": "B",
+     "es": "Dice: \"Sí, claro, va a salir bien. Ya lo hicimos cien veces.\"",
+     "ko": "뇌가 말하죠. \"그래, 당연히 잘되겠지. 벌써 백 번은 했잖아.\""
+    },
+    {
+     "t": 207.1,
+     "s": "A",
+     "es": "O sea, ya no hay sorpresa.",
+     "ko": "그러니까 이제 놀라움이 없는 거네요."
+    },
+    {
+     "t": 208.5,
+     "s": "B",
+     "es": "Cero sorpresa.",
+     "ko": "놀라움 제로."
+    },
+    {
+     "t": 209.4,
+     "s": "A",
+     "es": "Cero sorpresa.",
+     "ko": "놀라움 제로."
+    },
+    {
+     "t": 210.0,
+     "s": "B",
+     "es": "Y como no hay sorpresa, la dopamina cae hasta el piso.",
+     "ko": "놀라움이 없으니 도파민은 바닥까지 떨어져요."
+    },
+    {
+     "t": 212.8,
+     "s": "A",
+     "es": "Y es ahí cuando la persona se queda sin gasolina para seguir.",
+     "ko": "그리고 바로 그때 계속할 연료가 바닥나는 거군요."
+    },
+    {
+     "t": 215.9,
+     "s": "B",
+     "es": "Totalmente. Y cuando no hay dopamina, la persona tiene que usar su fuerza de voluntad.",
+     "ko": "완전히요. 도파민이 없으면 의지력을 써야 해요."
+    },
+    {
+     "t": 220.1,
+     "s": "B",
+     "es": "Pero la fuerza de voluntad es una batería muy pequeña, se acaba muy rápido.",
+     "ko": "그런데 의지력은 아주 작은 배터리라서 금방 닳아요."
+    },
+    {
+     "t": 223.6,
+     "s": "B",
+     "es": "Y ahí la gente dice: \"Quiero rendirme, esto es muy difícil.\"",
+     "ko": "그러면 사람들이 말하죠. \"포기하고 싶어, 이거 너무 어려워.\""
+    }
+   ]
+  },
+  {
+   "title": "전문가는 '작은 놀라움'을 찾는다",
+   "lines": [
+    {
+     "t": 226.8,
+     "s": "A",
+     "es": "Pero a ver, quiero hacerte una pregunta aquí, porque esto de la rutina me hace pensar en otra cosa.",
+     "ko": "그런데 잠깐, 여기서 질문 하나 할게요. 이 반복되는 일상 얘기를 들으니 다른 게 생각나서요."
+    },
+    {
+     "t": 231.0,
+     "s": "B",
+     "es": "Dime. Claro.",
+     "ko": "말해 봐요. 그럼요."
+    },
+    {
+     "t": 232.0,
+     "s": "A",
+     "es": "Si la dopamina odia la rutina, ¿qué pasa con los expertos?",
+     "ko": "도파민이 반복을 싫어한다면, 전문가들은 어떻게 되는 거죠?"
+    },
+    {
+     "t": 235.7,
+     "s": "A",
+     "es": "O sea, alguien que toca el piano diez horas al día por diez años siempre toca lo mismo. ¿Cómo no se vuelven locos?",
+     "ko": "그러니까 10년 동안 하루 10시간씩 피아노를 치는 사람은 늘 같은 걸 치잖아요. 어떻게 미치지 않죠?"
+    },
+    {
+     "t": 241.6,
+     "s": "B",
+     "es": "Esa es una gran pregunta. Mira, los expertos cambian el juego.",
+     "ko": "좋은 질문이에요. 전문가들은 게임의 규칙을 바꿔요."
+    },
+    {
+     "t": 245.3,
+     "s": "B",
+     "es": "Ellos ya no buscan la gran sorpresa de \"¡Oh, no quemé el huevo!\".",
+     "ko": "더는 \"와, 달걀을 안 태웠어!\" 같은 큰 놀라움을 찾지 않아요."
+    },
+    {
+     "t": 248.8,
+     "s": "B",
+     "es": "Ellos buscan microsorpresas, o sea, sorpresas chiquitas.",
+     "ko": "미세한 놀라움, 그러니까 아주 작은 놀라움을 찾아요."
+    },
+    {
+     "t": 253.0,
+     "s": "A",
+     "es": "Sorpresas chiquitas.",
+     "ko": "작은 놀라움이요."
+    },
+    {
+     "t": 253.9,
+     "s": "B",
+     "es": "Sorpresas chiquitas.",
+     "ko": "작은 놀라움이요."
+    },
+    {
+     "t": 254.7,
+     "s": "A",
+     "es": "¿Como qué?",
+     "ko": "예를 들면요?"
+    },
+    {
+     "t": 255.1,
+     "s": "B",
+     "es": "Como mover un dedo de una forma nueva o tocar un poco más rápido hoy.",
+     "ko": "손가락을 새로운 방식으로 움직이거나, 오늘은 조금 더 빨리 치는 거요."
+    },
+    {
+     "t": 261.4,
+     "s": "B",
+     "es": "Para nosotros, los que vemos de afuera, es la misma canción aburrida de siempre.",
+     "ko": "밖에서 보는 우리에겐 늘 똑같은 지루한 곡이에요."
+    },
+    {
+     "t": 265.2,
+     "s": "A",
+     "es": "Ajá. Suena igual para mí.",
+     "ko": "네. 저한텐 똑같이 들려요."
+    },
+    {
+     "t": 266.2,
+     "s": "B",
+     "es": "Pero en su cabeza ellos encuentran un pequeño reto nuevo, y eso les da, eh, gotas de dopamina, gotitas pequeñas todos los días.",
+     "ko": "하지만 그들은 머릿속에서 작은 새 도전을 찾아내고, 그게 매일 도파민 방울을, 작은 방울들을 줘요."
+    },
+    {
+     "t": 275.6,
+     "s": "A",
+     "es": "Órale, qué interesante. Pasan de buscar cosas gigantes a buscar cosas casi invisibles.",
+     "ko": "와, 흥미롭네요. 거대한 걸 찾다가 거의 보이지 않는 걸 찾게 되는 거군요."
+    },
+    {
+     "t": 282.2,
+     "s": "B",
+     "es": "Exacto.",
+     "ko": "바로 그거예요."
+    }
+   ]
+  },
+  {
+   "title": "머릿속 옷장 — 왜 더 바보가 된 것 같을까",
+   "lines": [
+    {
+     "t": 282.7,
+     "s": "A",
+     "es": "Bueno, entender esto de la falta de gasolina y la dopamina explica muy bien por qué estamos tan cansados a los seis meses.",
+     "ko": "좋아요, 연료 부족과 도파민 얘기는 왜 6개월 차에 그렇게 지치는지 잘 설명해 줘요."
+    },
+    {
+     "t": 289.6,
+     "s": "A",
+     "es": "Pero hay otra cosa.",
+     "ko": "그런데 다른 게 하나 더 있어요."
+    },
+    {
+     "t": 291.4,
+     "s": "B",
+     "es": "¿Qué cosa?",
+     "ko": "뭔데요?"
+    },
+    {
+     "t": 292.1,
+     "s": "A",
+     "es": "¿Por qué sentimos que somos más tontos?",
+     "ko": "왜 우리가 더 바보가 된 것 같을까요?"
+    },
+    {
+     "t": 294.6,
+     "s": "A",
+     "es": "O sea, una cosa es tener sueño o cansancio, y otra cosa es intentar hablar inglés o francés a los seis meses y sentir que hablas peor que el primer día.",
+     "ko": "그러니까 졸리거나 피곤한 것과, 6개월 차에 영어나 프랑스어를 말하려는데 첫날보다 더 못하는 느낌이 드는 건 다른 문제잖아요."
+    },
+    {
+     "t": 304.2,
+     "s": "A",
+     "es": "¿Sientes que vas para atrás?",
+     "ko": "뒤로 가는 것 같죠?"
+    },
+    {
+     "t": 305.3,
+     "s": "B",
+     "es": "Sí, esa queja la escucho todo el tiempo.",
+     "ko": "네, 그 불평은 늘 들어요."
+    },
+    {
+     "t": 307.9,
+     "s": "B",
+     "es": "Y para entender esto tenemos que dejar los químicos y hablar de cómo el cerebro guarda la información.",
+     "ko": "이걸 이해하려면 화학 물질 얘기는 접고, 뇌가 정보를 어떻게 저장하는지 이야기해야 해요."
+    },
+    {
+     "t": 312.7,
+     "s": "A",
+     "es": "Okay, vamos a ver eso.",
+     "ko": "좋아요, 봅시다."
+    },
+    {
+     "t": 314.0,
+     "s": "B",
+     "es": "Para que sea muy fácil, imagina un armario. Ese lugar en tu cuarto donde guardas la ropa.",
+     "ko": "아주 쉽게, 옷장을 상상해 보세요. 방에서 옷을 넣어 두는 그곳이요."
+    },
+    {
+     "t": 318.8,
+     "s": "A",
+     "es": "El armario de la mente. Va, me gusta esa idea.",
+     "ko": "머릿속 옷장. 좋아요, 그 아이디어 마음에 들어요."
+    },
+    {
+     "t": 322.0,
+     "s": "B",
+     "es": "Imagina que eres un principiante. Tienes un armario con solo tres cosas, tres camisas.",
+     "ko": "당신이 초보라고 해 봐요. 옷장에 딱 세 가지, 셔츠 세 벌만 있어요."
+    },
+    {
+     "t": 328.1,
+     "s": "B",
+     "es": "Si abres la puerta por la mañana, ¿cuánto tiempo necesitas para elegir qué ropa usar?",
+     "ko": "아침에 문을 열면, 뭘 입을지 고르는 데 얼마나 걸려요?"
+    },
+    {
+     "t": 332.8,
+     "s": "A",
+     "es": "Pues nada, un segundo. Veo las tres camisas, tomo la roja y ya está. Es superrápido.",
+     "ko": "뭐, 1초요. 셔츠 세 벌을 보고 빨간 걸 집으면 끝이에요. 엄청 빠르죠."
+    },
+    {
+     "t": 338.7,
+     "s": "B",
+     "es": "Exacto. Así es el cerebro de un principiante.",
+     "ko": "맞아요. 초보의 뇌가 그래요."
+    },
+    {
+     "t": 341.4,
+     "s": "B",
+     "es": "Cuando aprendes palabras nuevas, tal vez sabes cincuenta palabras en total.",
+     "ko": "새 단어를 배울 때, 아마 다 합쳐서 50단어쯤 알 거예요."
+    },
+    {
+     "t": 346.0,
+     "s": "A",
+     "es": "Poquitas palabras, muy fácil.",
+     "ko": "몇 단어 안 되니 아주 쉽죠."
+    },
+    {
+     "t": 347.7,
+     "s": "B",
+     "es": "Entonces, si quieres hablar, el cerebro entra a este armario casi vacío, agarra tres palabras rápido y hablas.",
+     "ko": "그래서 말하려고 하면 뇌가 거의 빈 옷장에 들어가 단어 세 개를 휙 집어 오고, 바로 말해요."
+    },
+    {
+     "t": 355.0,
+     "s": "B",
+     "es": "Te sientes muy seguro. Hablas rápido como niño, pero sientes que eres muy inteligente.",
+     "ko": "자신감이 넘치죠. 아이처럼 말하지만 빠르게 말하고, 아주 똑똑하다고 느껴요."
+    },
+    {
+     "t": 360.4,
+     "s": "A",
+     "es": "Claro, no hay ruido en la cabeza porque no hay muchas cosas adentro.",
+     "ko": "그렇죠, 안에 든 게 별로 없으니 머릿속에 잡음이 없어요."
+    },
+    {
+     "t": 364.0,
+     "s": "A",
+     "es": "Pero, o sea, la persona sigue estudiando, pasan los meses y compras cien verbos nuevos, reglas de gramática, cosas difíciles.",
+     "ko": "그런데 계속 공부하면서 몇 달이 지나면, 새 동사 백 개, 문법 규칙, 어려운 것들을 사들이게 되잖아요."
+    },
+    {
+     "t": 370.9,
+     "s": "B",
+     "es": "Sí. Ahora imagina comprar trescientas ropas nuevas.",
+     "ko": "네. 이제 새 옷 300벌을 산다고 상상해 봐요."
+    },
+    {
+     "t": 375.1,
+     "s": "A",
+     "es": "Uh, mucha ropa.",
+     "ko": "우와, 옷 많네요."
+    },
+    {
+     "t": 376.2,
+     "s": "B",
+     "es": "Y en lugar de doblarlas bonito, metes las trescientas prendas al mismo armario pequeño.",
+     "ko": "그런데 예쁘게 개는 대신, 300벌을 그 작은 옷장에 그대로 쑤셔 넣어요."
+    },
+    {
+     "t": 381.2,
+     "s": "B",
+     "es": "Pantalones arriba de los zapatos, camisas por todos lados. Todo mezclado.",
+     "ko": "바지는 신발 위에, 셔츠는 여기저기. 전부 뒤죽박죽이에요."
+    },
+    {
+     "t": 385.9,
+     "s": "A",
+     "es": "Un desastre total en el cuarto.",
+     "ko": "방이 완전 난장판이네요."
+    },
+    {
+     "t": 387.7,
+     "s": "B",
+     "es": "Ahora, si quieres buscar una camisa azul específica para ir a tu trabajo, ¿qué pasa?",
+     "ko": "이제 출근하려고 특정한 파란 셔츠를 찾으려 하면 어떻게 될까요?"
+    },
+    {
+     "t": 392.6,
+     "s": "A",
+     "es": "No, pues me voy a tardar media hora. Saco pantalones, busco abajo, lloro un poco, me pongo de mal humor, obviamente.",
+     "ko": "아휴, 30분은 걸리겠죠. 바지를 꺼내고, 밑을 뒤지고, 좀 울고, 당연히 기분도 나빠지고요."
+    },
+    {
+     "t": 399.5,
+     "s": "B",
+     "es": "Bueno, eso mismo hace tu cerebro a los seis meses de aprender. Tiene demasiada información nueva.",
+     "ko": "바로 그게 배운 지 6개월 된 뇌가 하는 일이에요. 새 정보가 너무 많은 거죠."
+    },
+    {
+     "t": 404.2,
+     "s": "A",
+     "es": "Ya veo.",
+     "ko": "그렇군요."
+    },
+    {
+     "t": 404.9,
+     "s": "B",
+     "es": "Si intentas hablar, el cerebro dice: \"Espera, tengo diez reglas aquí.\" Y todas las palabras chocan por dentro.",
+     "ko": "말하려 하면 뇌가 말해요. \"잠깐, 여기 규칙이 열 개나 있어.\" 그리고 모든 단어가 안에서 부딪쳐요."
+    },
+    {
+     "t": 410.9,
+     "s": "A",
+     "es": "O sea, haz de cuenta que quieres decir algo muy fácil, como \"yo comí pollo\", pero en tu cabeza hay tres palabras peleando.",
+     "ko": "그러니까 \"나는 닭고기를 먹었어\" 같은 아주 쉬운 말을 하려는데, 머릿속에서 단어 세 개가 싸우는 거죠."
+    },
+    {
+     "t": 418.5,
+     "s": "A",
+     "es": "Una dice: \"Yo voy primero.\" La regla del pasado grita: \"Ponme al final.\" Y otra regla dice: \"Cuidado con la letra.\"",
+     "ko": "하나는 \"내가 먼저야!\" 하고, 과거형 규칙은 \"나를 끝에 넣어!\" 하고 소리치고, 또 다른 규칙은 \"철자 조심해!\" 하고요."
+    },
+    {
+     "t": 425.2,
+     "s": "B",
+     "es": "Sí, exacto. Es una pelea gigante en tu cabeza y al final te quedas callado y sudando.",
+     "ko": "네, 맞아요. 머릿속에서 거대한 싸움이 벌어지고, 결국 땀만 흘리며 말을 못 하게 돼요."
+    },
+    {
+     "t": 431.3,
+     "s": "A",
+     "es": "Y claro, uno piensa: \"Soy un tonto, antes hablaba más rápido.\"",
+     "ko": "그러면 당연히 '나 바보인가 봐, 전엔 더 빨리 말했는데' 하고 생각하죠."
+    },
+    {
+     "t": 434.7,
+     "s": "A",
+     "es": "Pero en realidad tenemos tantas cosas buenas y nuevas que el cerebro no las encuentra.",
+     "ko": "하지만 사실은 좋은 것, 새로운 게 너무 많아서 뇌가 못 찾는 거예요."
+    },
+    {
+     "t": 440.4,
+     "s": "B",
+     "es": "Totalmente. No perdiste tu inteligencia. Tienes más conocimiento que nunca, solo que tu armario está hecho un desastre.",
+     "ko": "완전히요. 지능을 잃은 게 아니에요. 그 어느 때보다 지식이 많아요. 다만 옷장이 엉망이 됐을 뿐이에요."
+    }
+   ]
+  },
+  {
+   "title": "옷을 침대에 쏟아라 — 进道若退, 나아감은 물러남처럼 보인다",
+   "lines": [
+    {
+     "t": 447.0,
+     "s": "A",
+     "es": "Okay. Si nuestro armario está lleno y es un desastre, ¿qué hacemos? Lo lógico es ordenarlo.",
+     "ko": "좋아요. 옷장이 꽉 차서 엉망이면 어떻게 하죠? 정리하는 게 당연하겠죠."
+    },
+    {
+     "t": 452.5,
+     "s": "A",
+     "es": "¿Cómo limpia el cerebro este ruido?",
+     "ko": "뇌는 이 잡음을 어떻게 치울까요?"
+    },
+    {
+     "t": 454.7,
+     "s": "B",
+     "es": "Pues mira, la verdad es que para limpiar todo, primero hay que hacer un desastre mucho peor.",
+     "ko": "음, 사실 다 정리하려면 먼저 훨씬 더 큰 난장판을 만들어야 해요."
+    },
+    {
+     "t": 459.5,
+     "s": "A",
+     "es": "¿Peor? ¿Cómo que peor?",
+     "ko": "더 크게요? 더 크다니요?"
+    },
+    {
+     "t": 461.1,
+     "s": "B",
+     "es": "Sí. Piensa en tu armario lleno. Si quieres ordenar, no puedes hacerlo adentro del armario. No hay espacio.",
+     "ko": "네. 꽉 찬 옷장을 생각해 봐요. 정리하려 해도 옷장 안에서는 못 해요. 공간이 없으니까요."
+    },
+    {
+     "t": 466.9,
+     "s": "B",
+     "es": "¿Qué haces en la vida real?",
+     "ko": "실제로는 어떻게 해요?"
+    },
+    {
+     "t": 468.3,
+     "s": "A",
+     "es": "Pues saco toda la ropa, la agarro y la tiro en la cama. Todo al piso o a la cama.",
+     "ko": "음, 옷을 다 꺼내서 집어다 침대에 던져요. 전부 바닥이나 침대로요."
+    },
+    {
+     "t": 473.2,
+     "s": "B",
+     "es": "Exacto. Ahora, imagina que entra un amigo a tu cuarto en ese momento y ve toda tu ropa en la cama.",
+     "ko": "맞아요. 그런데 그때 친구가 방에 들어와서 침대 위의 옷을 다 본다고 해 봐요."
+    },
+    {
+     "t": 478.1,
+     "s": "B",
+     "es": "Va a pensar que un tornado pasó por tu casa, ¿verdad?",
+     "ko": "집에 토네이도가 지나갔다고 생각하겠죠?"
+    },
+    {
+     "t": 480.3,
+     "s": "A",
+     "es": "Va a pensar que estoy loca.",
+     "ko": "제가 미쳤다고 생각하겠죠."
+    },
+    {
+     "t": 481.4,
+     "s": "B",
+     "es": "Sí, se ve mil veces más sucio que antes, pero tú sabes que es necesario.",
+     "ko": "네, 전보다 천 배는 더 지저분해 보이지만, 당신은 그게 필요하다는 걸 알죠."
+    },
+    {
+     "t": 485.9,
+     "s": "B",
+     "es": "Hay un libro de filosofía muy viejo de China, el Tao Te King.",
+     "ko": "중국의 아주 오래된 철학책이 있어요. 『도덕경』이요."
+    },
+    {
+     "t": 489.7,
+     "s": "A",
+     "es": "Ajá. He escuchado de ese libro.",
+     "ko": "네. 그 책 들어 봤어요."
+    },
+    {
+     "t": 491.1,
+     "s": "B",
+     "es": "Ese libro dice una frase hermosa: \"Avanzar parece retroceder.\" Ir hacia delante muchas veces parece ir hacia atrás.",
+     "ko": "그 책에 아름다운 구절이 있어요. \"나아감은 물러남처럼 보인다(进道若退).\" 앞으로 가는 게 종종 뒤로 가는 것처럼 보인다는 거예요."
+    },
+    {
+     "t": 500.0,
+     "s": "A",
+     "es": "Wow. Avanzar parece retroceder. Eso tiene mucho sentido con la ropa en la cama.",
+     "ko": "와. 나아감은 물러남처럼 보인다. 침대 위 옷이랑 딱 맞네요."
+    },
+    {
+     "t": 504.4,
+     "s": "A",
+     "es": "Parece que mi cuarto está peor, pero estoy ordenando.",
+     "ko": "방이 더 나빠진 것 같지만, 사실 정리하는 중인 거죠."
+    },
+    {
+     "t": 507.3,
+     "s": "B",
+     "es": "Sí. Y el cerebro hace esto de verdad. Destruye caminos pequeños para construir caminos grandes y rápidos.",
+     "ko": "네. 그리고 뇌는 실제로 이렇게 해요. 작은 길을 부숴서 크고 빠른 길을 만들어요."
+    },
+    {
+     "t": 512.8,
+     "s": "B",
+     "es": "Durante esa construcción hay polvo, todo está cerrado y te sientes lento.",
+     "ko": "그 공사 동안은 먼지가 날리고, 다 막혀 있고, 느려진 기분이 들어요."
+    }
+   ]
+  },
+  {
+   "title": "시스템 업데이트와 대나무 — 혼돈은 고속도로 공사 중",
+   "lines": [
+    {
+     "t": 517.0,
+     "s": "A",
+     "es": "Haz de cuenta como los teléfonos celulares cuando te piden hacer una actualización gigante del sistema.",
+     "ko": "휴대폰이 대규모 시스템 업데이트를 하라고 할 때를 떠올려 봐요."
+    },
+    {
+     "t": 522.4,
+     "s": "B",
+     "es": "Ah, qué buen ejemplo.",
+     "ko": "아, 좋은 예네요."
+    },
+    {
+     "t": 523.7,
+     "s": "A",
+     "es": "Le das \"aceptar\" al teléfono y la pantalla se pone negra. Parece muerto.",
+     "ko": "'확인'을 누르면 화면이 까매져요. 죽은 것 같죠."
+    },
+    {
+     "t": 528.0,
+     "s": "A",
+     "es": "Si no sabes de tecnología, piensas: \"Uy, rompí mi teléfono caro, ya no sirve.\"",
+     "ko": "기술을 잘 모르면 '아이고, 비싼 폰 망가뜨렸네, 이제 못 쓰겠다' 하고 생각해요."
+    },
+    {
+     "t": 532.6,
+     "s": "B",
+     "es": "Claro. Y por media hora no puedes llamar a nadie.",
+     "ko": "그렇죠. 그리고 30분 동안 아무한테도 전화를 못 하고요."
+    },
+    {
+     "t": 535.7,
+     "s": "A",
+     "es": "Pero no está roto, solo está instalando un cerebro nuevo y más rápido.",
+     "ko": "하지만 고장 난 게 아니라, 더 빠른 새 두뇌를 설치하는 중일 뿐이에요."
+    },
+    {
+     "t": 540.0,
+     "s": "B",
+     "es": "Me encanta eso. La pantalla negra es tu cerebro a los seis meses. Se apaga un ratito para trabajar por dentro.",
+     "ko": "그거 정말 좋네요. 까만 화면이 6개월 차의 뇌예요. 안에서 일하려고 잠깐 꺼지는 거죠."
+    },
+    {
+     "t": 546.1,
+     "s": "B",
+     "es": "Hay otro ejemplo en la naturaleza, el del árbol de bambú.",
+     "ko": "자연에도 다른 예가 있어요. 대나무 이야기요."
+    },
+    {
+     "t": 549.2,
+     "s": "A",
+     "es": "A ver, ¿qué pasa con el bambú?",
+     "ko": "어디 보자, 대나무가 어떤데요?"
+    },
+    {
+     "t": 551.1,
+     "s": "B",
+     "es": "Si plantas una semilla de bambú especial y le pones agua todos los días, pasa un año y no sale nada de la tierra.",
+     "ko": "특별한 대나무 씨앗을 심고 매일 물을 줘도, 1년이 지나도록 땅에서 아무것도 안 나와요."
+    },
+    {
+     "t": 558.4,
+     "s": "A",
+     "es": "Nada de nada.",
+     "ko": "정말 아무것도요."
+    },
+    {
+     "t": 559.6,
+     "s": "B",
+     "es": "Dos años, tres años, cuatro años, nada. Parece que la planta está muerta, no va hacia arriba.",
+     "ko": "2년, 3년, 4년, 아무것도요. 식물이 죽은 것 같고, 위로 자라지 않아요."
+    },
+    {
+     "t": 566.2,
+     "s": "A",
+     "es": "Qué triste. Yo ya lo hubiera tirado.",
+     "ko": "슬프네요. 저라면 벌써 버렸을 거예요."
+    },
+    {
+     "t": 568.8,
+     "s": "B",
+     "es": "La mayoría lo haría.",
+     "ko": "대부분 그럴 거예요."
+    },
+    {
+     "t": 569.7,
+     "s": "B",
+     "es": "Pero debajo de la tierra el bambú está haciendo raíces gigantes y, de pronto, al quinto año, sale de la tierra y crece metros y metros en pocas semanas.",
+     "ko": "하지만 땅 밑에서 대나무는 거대한 뿌리를 내리고 있어요. 그러다 5년째에 갑자기 땅을 뚫고 나와 몇 주 만에 몇 미터씩 자라요."
+    },
+    {
+     "t": 579.6,
+     "s": "A",
+     "es": "O sea, ahí es cuando siento mucha compasión por la gente que nos escucha.",
+     "ko": "그러니까, 여기서 듣고 계신 분들께 정말 마음이 쓰여요."
+    },
+    {
+     "t": 583.3,
+     "s": "A",
+     "es": "Llegamos a los seis meses de estudiar, vemos la pantalla negra, vemos la tierra vacía del bambú, la ropa en la cama y queremos llorar.",
+     "ko": "공부한 지 6개월이 되면 까만 화면을 보고, 대나무의 텅 빈 땅을 보고, 침대 위 옷을 보고 울고 싶어지죠."
+    },
+    {
+     "t": 592.2,
+     "s": "B",
+     "es": "Sí, queremos decir: \"No nací para esto, no tengo talento.\"",
+     "ko": "네, \"난 이걸 하려고 태어난 게 아니야, 재능이 없어\"라고 말하고 싶어지죠."
+    },
+    {
+     "t": 595.2,
+     "s": "A",
+     "es": "Pero esto cambia todo. Sentirse tonto no es que seas malo, es la señal de que tu cerebro está haciendo un trabajo superimportante y nuevo.",
+     "ko": "하지만 이게 모든 걸 바꿔요. 바보 같다고 느끼는 건 당신이 못해서가 아니라, 뇌가 아주 중요하고 새로운 일을 하고 있다는 신호예요."
+    },
+    {
+     "t": 603.9,
+     "s": "B",
+     "es": "Exacto. El caos significa que el cerebro está construyendo la autopista.",
+     "ko": "맞아요. 혼돈은 뇌가 고속도로를 짓고 있다는 뜻이에요."
+    },
+    {
+     "t": 608.4,
+     "s": "B",
+     "es": "Siempre, siempre el paso de principiante a maestro tiene una etapa de caos y desorden.",
+     "ko": "초보에서 고수로 가는 길에는 언제나, 언제나 혼돈과 무질서의 단계가 있어요."
+    },
+    {
+     "t": 613.8,
+     "s": "A",
+     "es": "¡Uf! Da mucha paz escuchar esto. Entender lo de la ropa en la cama nos quita un peso gigante de los hombros.",
+     "ko": "휴! 이걸 들으니 마음이 정말 편해져요. 침대 위 옷 이야기를 이해하니 어깨에서 거대한 짐이 내려가네요."
+    },
+    {
+     "t": 620.4,
+     "s": "B",
+     "es": "Totalmente.",
+     "ko": "완전히요."
+    }
+   ]
+  },
+  {
+   "title": "실전 1단계 — 웃음이 날 만큼 작은 목표와 즉각 보상",
+   "lines": [
+    {
+     "t": 621.2,
+     "s": "A",
+     "es": "Pero a ver, yo soy muy práctica. Imagina que es martes, temprano en la mañana, hace mucho frío.",
+     "ko": "그런데 저는 아주 실용적인 사람이라서요. 화요일 이른 아침, 아주 추운 날이라고 해 봐요."
+    },
+    {
+     "t": 628.5,
+     "s": "A",
+     "es": "Una persona está sentada frente a un libro de matemáticas muy difícil.",
+     "ko": "한 사람이 아주 어려운 수학책 앞에 앉아 있어요."
+    },
+    {
+     "t": 632.5,
+     "s": "B",
+     "es": "Qué difícil momento.",
+     "ko": "힘든 순간이네요."
+    },
+    {
+     "t": 633.8,
+     "s": "A",
+     "es": "Su dopamina es cero. Su armario mental es un huracán. Quiere tirar el libro por la ventana.",
+     "ko": "도파민은 0이고, 머릿속 옷장은 허리케인이에요. 책을 창밖으로 던지고 싶죠."
+    },
+    {
+     "t": 640.8,
+     "s": "A",
+     "es": "¿Qué hace en ese momento exacto? ¿Cómo sobrevivimos esto en la vida real?",
+     "ko": "바로 그 순간 뭘 해야 할까요? 실제 생활에서 이걸 어떻게 버티죠?"
+    },
+    {
+     "t": 645.3,
+     "s": "B",
+     "es": "Hay dos pasos muy fáciles que la gente puede hacer hoy mismo.",
+     "ko": "오늘 당장 할 수 있는 아주 쉬운 두 단계가 있어요."
+    },
+    {
+     "t": 648.7,
+     "s": "B",
+     "es": "El paso uno es engañar al cerebro para tener dopamina otra vez.",
+     "ko": "첫 번째 단계는 뇌를 속여서 다시 도파민을 얻는 거예요."
+    },
+    {
+     "t": 652.8,
+     "s": "A",
+     "es": "¿Y cómo lo engañamos?",
+     "ko": "어떻게 속이죠?"
+    },
+    {
+     "t": 654.3,
+     "s": "B",
+     "es": "Haciendo metas extremadamente pequeñas.",
+     "ko": "목표를 아주 아주 작게 만들어서요."
+    },
+    {
+     "t": 657.0,
+     "s": "A",
+     "es": "¿Pequeñas? Pero si siempre nos dicen en las escuelas que hay que soñar en grande.",
+     "ko": "작게요? 학교에선 늘 크게 꿈꾸라고 하잖아요."
+    },
+    {
+     "t": 662.5,
+     "s": "B",
+     "es": "Sí, soñar en grande está bien para la vida, pero en un martes frío y sin energía es veneno puro.",
+     "ko": "네, 인생에서 크게 꿈꾸는 건 좋아요. 하지만 춥고 기운 없는 화요일엔 그건 순전히 독이에요."
+    },
+    {
+     "t": 668.5,
+     "s": "A",
+     "es": "A ver, explícame eso.",
+     "ko": "어디, 설명해 줘요."
+    },
+    {
+     "t": 670.0,
+     "s": "B",
+     "es": "La dopamina sale cuando sorprendes a tu cerebro.",
+     "ko": "도파민은 뇌를 놀라게 할 때 나와요."
+    },
+    {
+     "t": 672.9,
+     "s": "B",
+     "es": "Si dices: \"Hoy voy a escribir diez páginas perfectas\", tu cerebro ve esa meta gigante, se cansa de solo verla y se apaga.",
+     "ko": "\"오늘 완벽한 글을 열 쪽 쓸 거야\"라고 하면, 뇌는 그 거대한 목표를 보고 보기만 해도 지쳐서 꺼져 버려요."
+    },
+    {
+     "t": 681.4,
+     "s": "A",
+     "es": "Ya.",
+     "ko": "그렇군요."
+    },
+    {
+     "t": 682.0,
+     "s": "B",
+     "es": "Es mucho peso. La meta debe ser tan pequeña que te dé risa.",
+     "ko": "너무 무거운 거예요. 목표는 웃음이 날 만큼 작아야 해요."
+    },
+    {
+     "t": 686.0,
+     "s": "B",
+     "es": "Por ejemplo: \"Solo voy a sentarme en la silla cinco minutos y voy a abrir el libro, nada más.\" O \"voy a escribir solo una frase\".",
+     "ko": "예를 들어 \"의자에 5분만 앉아서 책만 펼칠 거야, 그게 다야.\" 아니면 \"딱 한 문장만 쓸 거야.\""
+    },
+    {
+     "t": 694.0,
+     "s": "A",
+     "es": "O sea, haces la meta muy fácil. Así la expectativa es superbaja.",
+     "ko": "그러니까 목표를 아주 쉽게 만드는 거네요. 그러면 기대치가 엄청 낮아지고요."
+    },
+    {
+     "t": 698.5,
+     "s": "A",
+     "es": "Es como decir: \"Bueno, solo voy a limpiar un cajón pequeño, no todo el cuarto.\"",
+     "ko": "\"좋아, 방 전체 말고 작은 서랍 하나만 정리할 거야\"라고 하는 것과 같네요."
+    },
+    {
+     "t": 703.9,
+     "s": "B",
+     "es": "Exactamente. Y cuando pasen los cinco minutos, tienes que darte un premio inmediatamente.",
+     "ko": "바로 그거예요. 그리고 5분이 지나면 곧바로 자신에게 상을 줘야 해요."
+    },
+    {
+     "t": 709.0,
+     "s": "A",
+     "es": "¿Un premio como qué?",
+     "ko": "어떤 상이요?"
+    },
+    {
+     "t": 710.6,
+     "s": "B",
+     "es": "Un buen café, un dulce pequeño o solo decirte en voz alta: \"Muy bien, lo logramos hoy.\"",
+     "ko": "맛있는 커피 한 잔, 작은 사탕, 아니면 그냥 소리 내어 \"잘했어, 오늘 해냈어\"라고 말하는 거요."
+    },
+    {
+     "t": 717.3,
+     "s": "B",
+     "es": "Tienes que premiar el proceso, no el final.",
+     "ko": "결과가 아니라 과정에 상을 줘야 해요."
+    },
+    {
+     "t": 720.1,
+     "s": "A",
+     "es": "Ah, me gusta. No importa si la frase que escribí es buena o mala, lo importante es que me senté a trabajar.",
+     "ko": "아, 좋네요. 내가 쓴 문장이 좋든 나쁘든 상관없고, 중요한 건 앉아서 일을 했다는 거군요."
+    },
+    {
+     "t": 726.6,
+     "s": "B",
+     "es": "Sí. Así le das pequeñas gotas de dopamina al cerebro para que no te odie mañana.",
+     "ko": "네. 그렇게 뇌에 도파민을 조금씩 떨어뜨려 줘야 내일 뇌가 당신을 미워하지 않아요."
+    }
+   ]
+  },
+  {
+   "title": "실전 2단계 — \"느려도 괜찮아, 뇌가 옷장을 정리하는 중이야\"",
+   "lines": [
+    {
+     "t": 731.6,
+     "s": "A",
+     "es": "Es muy amable hacer eso con nosotros mismos, bajar la presión.",
+     "ko": "자기 자신에게 그렇게 하는 건 참 다정한 일이네요. 압박을 낮추는 거요."
+    },
+    {
+     "t": 735.0,
+     "s": "A",
+     "es": "Okay, ese es el paso uno. ¿Cuál es el paso dos?",
+     "ko": "좋아요, 그게 첫 번째 단계고요. 두 번째 단계는요?"
+    },
+    {
+     "t": 737.3,
+     "s": "B",
+     "es": "El paso dos es hablar contigo mismo. Tienes que aceptar ser lento.",
+     "ko": "두 번째 단계는 자기 자신과 대화하는 거예요. 느린 걸 받아들여야 해요."
+    },
+    {
+     "t": 741.6,
+     "s": "A",
+     "es": "Aceptar ser lento.",
+     "ko": "느린 걸 받아들이기."
+    },
+    {
+     "t": 743.1,
+     "s": "B",
+     "es": "Aceptar ser lento.",
+     "ko": "느린 걸 받아들이기."
+    },
+    {
+     "t": 743.9,
+     "s": "A",
+     "es": "Qué difícil para algunos.",
+     "ko": "어떤 사람들한텐 정말 어렵겠네요."
+    },
+    {
+     "t": 745.4,
+     "s": "B",
+     "es": "Muy difícil.",
+     "ko": "아주 어렵죠."
+    },
+    {
+     "t": 746.4,
+     "s": "B",
+     "es": "Cuando intentas tocar la canción y te equivocas tres veces, te enojas. Piensas: \"Soy un idiota.\"",
+     "ko": "곡을 치려다 세 번 틀리면 화가 나요. '난 바보야' 하고 생각하죠."
+    },
+    {
+     "t": 752.0,
+     "s": "B",
+     "es": "En ese momento, respira. Y di esta frase en tu cabeza: \"Está bien ser lento hoy. Mi cerebro está limpiando el armario.\"",
+     "ko": "그 순간 숨을 쉬세요. 그리고 머릿속으로 이 문장을 말해요. \"오늘은 느려도 괜찮아. 내 뇌가 옷장을 정리하는 중이야.\""
+    },
+    {
+     "t": 760.4,
+     "s": "A",
+     "es": "Mi cerebro está limpiando el armario. Me encanta.",
+     "ko": "내 뇌가 옷장을 정리하는 중이야. 정말 좋네요."
+    },
+    {
+     "t": 763.1,
+     "s": "A",
+     "es": "Es como poner un papel amarillo en tu cabeza que diga: \"Hombres trabajando, cuidado.\"",
+     "ko": "머릿속에 '공사 중, 주의'라고 적힌 노란 종이를 붙이는 것 같아요."
+    },
+    {
+     "t": 767.6,
+     "s": "B",
+     "es": "Sí. Sí, totalmente.",
+     "ko": "네. 네, 완전히요."
+    },
+    {
+     "t": 769.1,
+     "s": "A",
+     "es": "Porque hoy somos muy impacientes. Todos quieren plantar la fruta el lunes y comerla el martes por la tarde.",
+     "ko": "요즘 우리는 너무 조급하니까요. 다들 월요일에 과일을 심어서 화요일 오후에 먹고 싶어 해요."
+    },
+    {
+     "t": 775.1,
+     "s": "A",
+     "es": "Pero los verdaderos expertos no tienen prisa.",
+     "ko": "하지만 진짜 전문가들은 서두르지 않아요."
+    },
+    {
+     "t": 778.0,
+     "s": "B",
+     "es": "Cero prisa. Los maestros saben que el camino no es una línea perfecta y fácil.",
+     "ko": "전혀 서두르지 않죠. 고수들은 길이 완벽하고 쉬운 직선이 아니라는 걸 알아요."
+    },
+    {
+     "t": 782.3,
+     "s": "B",
+     "es": "Saben que ir para atrás un poco, cometer errores, es parte del plan de verdad.",
+     "ko": "조금 뒤로 가는 것, 실수하는 것도 진짜 계획의 일부라는 걸 알죠."
+    },
+    {
+     "t": 786.9,
+     "s": "A",
+     "es": "O sea, no le tienen miedo al desorden. Saben que es la única puerta para subir a otro nivel en la vida.",
+     "ko": "그러니까 무질서를 두려워하지 않는 거네요. 그게 인생에서 다른 단계로 올라가는 유일한 문이라는 걸 아니까요."
+    },
+    {
+     "t": 793.0,
+     "s": "B",
+     "es": "Exactamente.",
+     "ko": "바로 그거예요."
+    }
+   ]
+  },
+  {
+   "title": "정리 — 세 가지 핵심",
+   "lines": [
+    {
+     "t": 794.4,
+     "s": "A",
+     "es": "Pues, ¡qué plática tan buena hemos tenido hoy!",
+     "ko": "오늘 정말 좋은 대화였어요!"
+    },
+    {
+     "t": 797.0,
+     "s": "A",
+     "es": "Pasamos por químicos, huevos fritos, lunas de miel, mucha ropa en la cama.",
+     "ko": "화학 물질, 달걀 프라이, 신혼기, 침대 위 옷더미까지 다 지나왔네요."
+    },
+    {
+     "t": 802.1,
+     "s": "A",
+     "es": "Para terminar, muy bien, ¿nos puedes hacer un resumen rápido de los tres puntos más importantes?",
+     "ko": "마무리로, 가장 중요한 세 가지를 빠르게 정리해 줄래요?"
+    },
+    {
+     "t": 806.8,
+     "s": "B",
+     "es": "Claro, con gusto.",
+     "ko": "그럼요, 기꺼이요."
+    },
+    {
+     "t": 808.4,
+     "s": "B",
+     "es": "Número uno: la energía y la emoción fácil del principio siempre se va a ir, siempre.",
+     "ko": "첫째, 처음의 에너지와 쉬운 설렘은 언제나 사라져요. 언제나요."
+    },
+    {
+     "t": 813.4,
+     "s": "B",
+     "es": "La novedad se acaba y no podemos vivir de esa primera dopamina.",
+     "ko": "새로움은 끝나고, 그 첫 도파민으로 계속 살 수는 없어요."
+    },
+    {
+     "t": 816.5,
+     "s": "A",
+     "es": "Muy cierto.",
+     "ko": "정말 맞아요."
+    },
+    {
+     "t": 817.5,
+     "s": "B",
+     "es": "Número dos: aprender mucho hace un desastre en tu mente. Tanta información choca y el cerebro no sabe qué usar primero.",
+     "ko": "둘째, 많이 배우면 머릿속이 난장판이 돼요. 정보가 너무 많아 부딪치고, 뇌는 뭘 먼저 써야 할지 몰라요."
+    },
+    {
+     "t": 824.1,
+     "s": "A",
+     "es": "Ajá. El armario lleno.",
+     "ko": "네. 꽉 찬 옷장이요."
+    },
+    {
+     "t": 825.9,
+     "s": "B",
+     "es": "Y número tres: ir hacia delante se siente igual que ir hacia atrás.",
+     "ko": "그리고 셋째, 앞으로 가는 건 뒤로 가는 것과 똑같이 느껴져요."
+    },
+    {
+     "t": 830.5,
+     "s": "B",
+     "es": "Sentirte tonto o lento no es algo malo. Es solo el cerebro rompiendo el cuarto viejo para construir uno más bonito. Es la ropa en la cama.",
+     "ko": "바보 같거나 느리다고 느끼는 건 나쁜 게 아니에요. 뇌가 더 예쁜 방을 지으려고 낡은 방을 부수고 있을 뿐이에요. 침대 위의 옷이죠."
+    },
+    {
+     "t": 838.3,
+     "s": "A",
+     "es": "Qué bonito: tirar todo a la cama para poder estar limpios.",
+     "ko": "멋지네요. 깨끗해지려고 전부 침대에 쏟는 거요."
+    },
+    {
+     "t": 843.0,
+     "s": "A",
+     "es": "Y lo mejor de todo es que esto sirve para todo, ¿no?",
+     "ko": "그리고 제일 좋은 건 이게 모든 데 통한다는 거죠?"
+    },
+    {
+     "t": 845.7,
+     "s": "A",
+     "es": "Si quieres aprender a nadar, hablar con tus hijos, hacer un trabajo nuevo, esa pesadez no es algo malo, es estar subiendo la montaña, que siempre cuesta trabajo.",
+     "ko": "수영을 배우든, 아이들과 대화하든, 새 일을 하든, 그 무거움은 나쁜 게 아니라 언제나 힘든 산을 오르고 있는 거예요."
+    },
+    {
+     "t": 855.8,
+     "s": "B",
+     "es": "Totalmente. Aceptar ser lento hoy te hace ser muy rápido el día de mañana.",
+     "ko": "완전히요. 오늘 느린 걸 받아들이면 내일은 아주 빨라질 거예요."
+    }
+   ]
+  },
+  {
+   "title": "마지막 질문 — 삶의 혼돈도 우리를 키운다면",
+   "lines": [
+    {
+     "t": 860.8,
+     "s": "A",
+     "es": "Y esto, bueno, me deja pensando en una gran pregunta final.",
+     "ko": "그리고 이게, 음, 마지막 큰 질문 하나를 떠올리게 해요."
+    },
+    {
+     "t": 864.4,
+     "s": "A",
+     "es": "Algo para que todos los que nos escuchan se lo lleven a casa y lo piensen hoy por la tarde.",
+     "ko": "듣고 계신 모든 분이 집에 가져가서 오늘 오후에 생각해 볼 만한 거요."
+    },
+    {
+     "t": 868.5,
+     "s": "B",
+     "es": "Adelante.",
+     "ko": "말해 봐요."
+    },
+    {
+     "t": 869.2,
+     "s": "A",
+     "es": "Si nuestro cerebro por dentro necesita hacer tanto caos y desorden para hacerse más fuerte y mejor, pues tal vez esto aplica para toda la vida.",
+     "ko": "우리 뇌가 더 강하고 나아지려고 안에서 그렇게 많은 혼돈과 무질서를 만들어야 한다면, 어쩌면 이건 삶 전체에 해당할지도 몰라요."
+    },
+    {
+     "t": 877.6,
+     "s": "A",
+     "es": "O sea, esos días en que nos sentimos tristes, perdidos, con el corazón roto, cuando todo se cae y nada tiene sentido.",
+     "ko": "그러니까 슬프고, 길을 잃은 것 같고, 마음이 무너진 날들, 모든 게 무너지고 아무 의미도 없어 보이는 때요."
+    },
+    {
+     "t": 884.7,
+     "s": "A",
+     "es": "Tal vez esos son los momentos donde la vida nos está haciendo más fuertes.",
+     "ko": "어쩌면 그런 순간이 삶이 우리를 더 강하게 만들고 있는 때일지도 몰라요."
+    },
+    {
+     "t": 889.2,
+     "s": "B",
+     "es": "Wow, qué gran punto.",
+     "ko": "와, 정말 좋은 지적이에요."
+    },
+    {
+     "t": 890.9,
+     "s": "A",
+     "es": "Si el desastre nos hace más inteligentes, ¿en qué otras partes de nuestra vida necesitamos un armario completamente desordenado para poder crecer de verdad?",
+     "ko": "난장판이 우리를 더 똑똑하게 만든다면, 진짜로 성장하기 위해 우리 삶의 또 어떤 부분에 완전히 엉망인 옷장이 필요할까요?"
+    },
+    {
+     "t": 899.7,
+     "s": "B",
+     "es": "¡Uf! Esa es una pregunta muy, muy profunda. Si vemos la vida así, el caos y la tristeza dan mucho menos miedo.",
+     "ko": "휴! 정말, 정말 깊은 질문이네요. 삶을 그렇게 보면 혼돈과 슬픔이 훨씬 덜 무서워져요."
+    },
+    {
+     "t": 906.6,
+     "s": "A",
+     "es": "Pues sí. Así que a cualquier persona que mañana sienta que no sirve, que quiera dejar su proyecto y tirar todo a la basura, piensen en la ropa en la cama.",
+     "ko": "그렇죠. 그러니 내일 자기가 쓸모없다고 느끼거나, 프로젝트를 그만두고 다 쓰레기통에 버리고 싶은 분이 있다면, 침대 위의 옷을 떠올려 보세요."
+    },
+    {
+     "t": 916.0,
+     "s": "A",
+     "es": "Su cerebro solo está limpiando. Denle tiempo, tomen un buen café de premio y sigan un día más.",
+     "ko": "뇌는 그저 정리하는 중이에요. 시간을 주고, 상으로 맛있는 커피 한 잔 마시고, 하루만 더 계속하세요."
+    },
+    {
+     "t": 922.2,
+     "s": "B",
+     "es": "Y no olviden que el gran desorden de hoy es la inteligencia gigante del mañana.",
+     "ko": "그리고 오늘의 커다란 무질서가 내일의 거대한 지성이라는 걸 잊지 마세요."
+    },
+    {
+     "t": 926.8,
+     "s": "A",
+     "es": "Muchas gracias por estar hoy aquí. Nos vemos en el próximo estudio profundo.",
+     "ko": "오늘 함께해 주셔서 정말 감사해요. 다음 딥다이브에서 만나요."
+    }
+   ]
+  }
+ ]
+}
