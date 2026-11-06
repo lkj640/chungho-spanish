@@ -31,10 +31,14 @@
 
   // ---------- 탭 ----------
   const tabs = [...document.querySelectorAll(".tabs button")];
-  // 퀴즈가 없는 강의는 퀴즈 탭을 숨기고, 토론 주제(discussion)가 있으면 討論 탭을 보여 줘요
-  const hasQuiz = (L.quiz || []).length > 0, hasTalk = !!L.discussion;
-  tabs.forEach(b => { if (b.dataset.tab === "quiz") b.hidden = !hasQuiz; if (b.dataset.tab === "talk") b.hidden = !hasTalk; });
-  const TABS = ["listen", "grammar", "vocab", ...(hasQuiz ? ["quiz"] : []), ...(hasTalk ? ["talk"] : [])];
+  // 퀴즈가 없는 강의는 퀴즈 탭을 숨기고, 본문 PDF(textPdf)·토론 주제(discussion)가 있으면 그 탭을 보여 줘요
+  const hasQuiz = (L.quiz || []).length > 0, hasText = !!L.textPdf, hasTalk = !!L.discussion;
+  tabs.forEach(b => {
+    if (b.dataset.tab === "quiz") b.hidden = !hasQuiz;
+    if (b.dataset.tab === "text") b.hidden = !hasText;
+    if (b.dataset.tab === "talk") b.hidden = !hasTalk;
+  });
+  const TABS = ["listen", "grammar", "vocab", ...(hasQuiz ? ["quiz"] : []), ...(hasText ? ["text"] : []), ...(hasTalk ? ["talk"] : [])];
   function showTab(name) {
     if (!TABS.includes(name)) name = "listen";
     tabs.forEach(b => b.setAttribute("aria-selected", b.dataset.tab === name));
@@ -321,6 +325,16 @@
         </tbody></table></div></section>` : ""}
       ${D.bonus ? `<section class="card gcard talk"><div class="tip jp">📝 ${R(D.bonusRb, D.bonus)}${D.bonusEx ? `<br><span class="hint">${R(D.bonusExRb, D.bonusEx)}</span>` : ""}</div></section>` : ""}`;
     bindOpt("optTalkPy", "opt_talk_py", true, v => $("pane-talk").classList.toggle("no-rt", !v));
+  }
+
+  // ---------- 본문 PDF ----------
+  if (hasText) {
+    const href = `lessons/${esc(L.id)}/${esc(L.textPdf.file)}`;
+    $("pane-text").innerHTML = `<section class="card gcard pdfcard"><h3>📄 본문 PDF</h3>
+      <p class="lead">${esc(L.textPdf.title)}</p>
+      <div class="btns"><a class="btn primary" href="${href}" download>⬇️ PDF 다운로드</a><a class="btn" href="${href}" target="_blank" rel="noopener">👀 바로 보기</a></div>
+      <iframe class="pdfview" src="${href}" title="${esc(L.textPdf.title)}"></iframe>
+    </section>`;
   }
 
   // ---------- 퀴즈 ----------

@@ -558,140 +558,10 @@
    "exKo": "다음 방송에서 꼭 만나요."
   }
  ],
- "quiz": [
-  {
-   "q": "王雨最近在坚持做哪两件事？",
-   "options": [
-    "跑步和做饭",
-    "写东西和学外语",
-    "弹琴和画画",
-    "健身和读书"
-   ],
-   "answer": 1,
-   "explain": "两样都有。特别是写东西和学外语。"
-  },
-  {
-   "q": "“进道若退”的意思是？",
-   "options": [
-    "进步的人不会后退",
-    "真正的进步从表面上看往往像是在后退",
-    "后退比前进更好",
-    "不要前进"
-   ],
-   "answer": 1,
-   "explain": "真正取得深刻进步的过程，从表面上看，往往非常像是在后退。"
-  },
-  {
-   "q": "李明说，多巴胺准确地说是什么样的分子？",
-   "options": [
-    "直接给你快乐的分子",
-    "负责制造期待和渴望的分子",
-    "让人睡觉的分子",
-    "消化食物的分子"
-   ],
-   "answer": 1,
-   "explain": "它是负责制造期待和渴望的分子。"
-  },
-  {
-   "q": "为什么“蜜月期”多巴胺会大量爆发？",
-   "options": [
-    "因为起点是零，任何进步都是巨大的相对增量",
-    "因为练习很难",
-    "因为喝了咖啡",
-    "因为有老师表扬"
-   ],
-   "answer": 0,
-   "explain": "你的预期很低，但大脑得到的奖励很高。"
-  },
-  {
-   "q": "多巴胺对什么样的事情非常冷漠？",
-   "options": [
-    "新鲜的事情",
-    "可预测的事情",
-    "危险的事情",
-    "好吃的东西"
-   ],
-   "answer": 1,
-   "explain": "因为多巴胺对可预测的事情是非常冷漠的。"
-  },
-  {
-   "q": "在衣柜的比喻里，三百件衣服代表什么？",
-   "options": [
-    "买了太多东西",
-    "学了大量的新知识，还没有分类",
-    "家里太小",
-    "不会做家务"
-   ],
-   "answer": 1,
-   "explain": "你学了高级词汇……你的大脑衣柜里装了整整三百件衣服。"
-  },
-  {
-   "q": "整理衣柜的第一步，为什么房间会更乱？",
-   "options": [
-    "因为要把衣服全部搬出来",
-    "因为衣服太旧",
-    "因为没有时间",
-    "因为忘了整理"
-   ],
-   "answer": 0,
-   "explain": "必须把它们全部从衣柜里搬出来……整个房间看起来比原来乱十倍。"
-  },
-  {
-   "q": "李明用哪种植物来比喻高原期？",
-   "options": [
-    "玫瑰",
-    "竹子",
-    "松树",
-    "小草"
-   ],
-   "answer": 1,
-   "explain": "就像竹子在破土而出之前的几年里……根系在地下延伸了整整几百米。"
-  },
-  {
-   "q": "第一个实用方法是什么？",
-   "options": [
-    "一次写完一篇大作",
-    "把大目标切碎，寻找微小反馈",
-    "每天学十个小时",
-    "不再学习"
-   ],
-   "answer": 1,
-   "explain": "把大目标切碎，寻找微小反馈。"
-  },
-  {
-   "q": "“过程奖励”的例子是？",
-   "options": [
-    "写出轰动全网的文章",
-    "坐下来安安静静写满二十分钟，然后喝一杯好喝的咖啡",
-    "考试拿满分",
-    "得到很多点赞"
-   ],
-   "answer": 1,
-   "explain": "哪怕……仅仅是坐下来安安静静写满二十分钟……甚至是一杯好喝的咖啡。"
-  },
-  {
-   "q": "王雨以后卡壳的时候会对自己说什么？",
-   "options": [
-    "我太笨了",
-    "别慌，我正在后台升级系统呢",
-    "我要放弃",
-    "明天再说"
-   ],
-   "answer": 1,
-   "explain": "别慌，我正在后台升级系统呢，正在重新整理衣柜呢！"
-  },
-  {
-   "q": "今天总结的第三件事用了什么比喻？",
-   "options": [
-    "拉满的弓弦要先往后退，才能把箭射向远方",
-    "跑马拉松",
-    "煎鸡蛋",
-    "米其林大厨"
-   ],
-   "answer": 0,
-   "explain": "拉满的弓弦都要先往后退，才能把箭射向远方。"
-  }
- ],
+ "textPdf": {
+  "file": "script.pdf",
+  "title": "为什么学中文越坚持越想放弃？ · 본문 대화 (한자 + 병음, 14쪽)"
+ },
  "sections": [
   {
    "title": "도입 — 오래 할수록 왜 더 포기하고 싶을까?",
@@ -728,7 +598,7 @@
       ],
       [
        "为",
-       "wéi"
+       "wèi"
       ],
       [
        "什",
@@ -871,7 +741,7 @@
        ""
       ]
      ],
-     "py": "lǐ míng, nǐ shuō rén wéi shén me zǒng shì zhè yàng? yí jiàn shì qíng gāng kāi shǐ de shí hòu, wǒ jué de zì jǐ xiàng gè tiān cái, hún shēn dōu shì gàn jìn."
+     "py": "lǐ míng, nǐ shuō rén wèi shén me zǒng shì zhè yàng? yí jiàn shì qíng gāng kāi shǐ de shí hòu, wǒ jué de zì jǐ xiàng gè tiān cái, hún shēn dōu shì gàn jìn."
     },
     {
      "t": 16.8,
@@ -2201,7 +2071,7 @@
       ],
       [
        "都",
-       "dū"
+       "dōu"
       ],
       [
        "会",
@@ -2288,7 +2158,7 @@
        ""
       ]
      ],
-     "py": "qí shí bù zhǐ shì nǐ, jī hū měi yí gè zài cháng qī jiān chí zuò mǒu jiàn shì de rén, dū huì zài mǒu yí gè shí jiān diǎn, bèi zhè zhǒng shēn shēn de wú lì gǎn jī zhòng."
+     "py": "qí shí bù zhǐ shì nǐ, jī hū měi yí gè zài cháng qī jiān chí zuò mǒu jiàn shì de rén, dōu huì zài mǒu yí gè shí jiān diǎn, bèi zhè zhǒng shēn shēn de wú lì gǎn jī zhòng."
     },
     {
      "t": 91.6,
@@ -6779,14 +6649,14 @@
       ],
       [
        "差",
-       "chà"
+       "chā"
       ],
       [
        "。",
        ""
       ]
      ],
-     "py": "shì de, zhè jiù chǎn shēng le yí gè jù dà de xīn lǐ luò chà."
+     "py": "shì de, zhè jiù chǎn shēng le yí gè jù dà de xīn lǐ luò chā."
     },
     {
      "t": 314.3,
@@ -7352,7 +7222,7 @@
       ],
       [
        "只",
-       "zhī"
+       "zhǐ"
       ],
       [
        "能",
@@ -7483,7 +7353,7 @@
        ""
       ]
      ],
-     "py": "dàn zhè zhī néng jiě shì wǒ wèi shén me jué de lèi, jué de wú liáo, kě wèi shén me wǒ hái huì jué de zì jǐ zài dào tuì ne?"
+     "py": "dàn zhè zhǐ néng jiě shì wǒ wèi shén me jué de lèi, jué de wú liáo, kě wèi shén me wǒ hái huì jué de zì jǐ zài dào tuì ne?"
     },
     {
      "t": 347.9,
@@ -14639,7 +14509,7 @@
       ],
       [
        "处",
-       "chù"
+       "chǔ"
       ],
       [
        "这",
@@ -14782,7 +14652,7 @@
        ""
       ]
      ],
-     "py": "lǐ míng, nà nǐ jué de, dāng wǒ men shēn chù zhè ge yòu wú liáo, yòu zì wǒ huái yí, yòu xiǎng fàng qì de shēn kēng lǐ shí, dào dǐ gāi zěn me zuò cái néng áo guò qù ne?"
+     "py": "lǐ míng, nà nǐ jué de, dāng wǒ men shēn chǔ zhè ge yòu wú liáo, yòu zì wǒ huái yí, yòu xiǎng fàng qì de shēn kēng lǐ shí, dào dǐ gāi zěn me zuò cái néng áo guò qù ne?"
     },
     {
      "t": 692.1,
@@ -15518,7 +15388,7 @@
       ],
       [
        "都",
-       "dū"
+       "dōu"
       ],
       [
        "会",
@@ -15637,7 +15507,7 @@
        ""
       ]
      ],
-     "py": "bǐ rú nǐ xiě wén zhāng, rú guǒ nǐ bǎ duō bā àn de jiǎng lì diǎn fàng zài xiě chū yì piān hōng dòng quán wǎng de jīng cǎi dà zuò shàng, nà nǐ dà gài lǜ měi tiān dū huì xiàn rù jué wàng, yīn wèi zhè ge fǎn kuì zhōu qī tài cháng le, nǐ de dà nǎo chēng bú dào nà yì tiān."
+     "py": "bǐ rú nǐ xiě wén zhāng, rú guǒ nǐ bǎ duō bā àn de jiǎng lì diǎn fàng zài xiě chū yì piān hōng dòng quán wǎng de jīng cǎi dà zuò shàng, nà nǐ dà gài lǜ měi tiān dōu huì xiàn rù jué wàng, yīn wèi zhè ge fǎn kuì zhōu qī tài cháng le, nǐ de dà nǎo chēng bú dào nà yì tiān."
     },
     {
      "t": 731.0,
@@ -19313,7 +19183,7 @@
       ],
       [
        "都",
-       "dū"
+       "dōu"
       ],
       [
        "会",
@@ -19376,7 +19246,7 @@
        ""
       ]
      ],
-     "py": "wú lùn shì xué xí yì mén xīn de yǔ yán, hái shì zài gōng zuò zhōng zhǎng wò yí xiàng fù zá de zhuān yè jì néng, shèn zhì shì zài jiàn shēn fáng lǐ sù zào shēn tǐ, wǒ men dū huì yù dào zhè ge xiǎng yào fàng qì de zhì àn shí kè."
+     "py": "wú lùn shì xué xí yì mén xīn de yǔ yán, hái shì zài gōng zuò zhōng zhǎng wò yí xiàng fù zá de zhuān yè jì néng, shèn zhì shì zài jiàn shēn fáng lǐ sù zào shēn tǐ, wǒ men dōu huì yù dào zhè ge xiǎng yào fàng qì de zhì àn shí kè."
     },
     {
      "t": 908.9,
@@ -20350,7 +20220,7 @@
       ],
       [
        "处",
-       "chù"
+       "chǔ"
       ],
       [
        "在",
@@ -20409,7 +20279,7 @@
        ""
       ]
      ],
-     "py": "nǐ shì bú shì yě zhèng chù zài nà ge ràng nǐ huái yí rén shēng de píng tái qī?"
+     "py": "nǐ shì bú shì yě zhèng chǔ zài nà ge ràng nǐ huái yí rén shēng de píng tái qī?"
     },
     {
      "t": 960.5,

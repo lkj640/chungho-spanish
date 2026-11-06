@@ -270,6 +270,7 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
 
 /* 공부 자료 PDF · 討論 탭 */
 .pdfcard { border: 2px solid var(--hc); }
+.pdfview { display: block; width: 100%; height: 75vh; margin-top: 12px; border: 1px solid var(--line, #ddd); border-radius: 8px; background: #fff; }
 .pdflist { margin: 0 0 12px; padding-left: 20px; font-size: 14px; }
 .talk .jp { line-height: 2.1; }
 .talk rt { font-size: 10px; }
