@@ -1,6 +1,30 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-08",
+   "lang": "es",
+   "date": "2026-11-08",
+   "title": "단순과거 vs 현재완료 — 끝난 시간에는 viajé",
+   "es": "Ayer fui, hoy he ido",
+   "emoji": "⏳",
+   "level": "A2–B1",
+   "channel": "Español Auténtico",
+   "youtube": "Me-dP9__BRA",
+   "duration": "45:57",
+   "summary": "소피아와 카를로스가 스페인어 과거 시제 두 개, 현재완료(he viajado)와 단순과거(viajé)의 차이를 대화로 풀어요. ① 시간이 열려 있으면(hoy, este año) 현재완료, 닫혀 있으면(ayer, el año pasado) 단순과거 ② -ar 규칙 동사(cené, compramos)와 -er·-ir 규칙 동사(comí, viví) ③ ser와 ir은 과거형이 똑같다(fui) — 맥락으로 구분 ④ 불규칙 hacer(hizo), tener(tuve), estar(estuve) ⑤ pedir → pidió, dormir → durmió처럼 3인칭에서만 모음이 바뀌는 동사 ⑥ 소피아의 발렌시아 여행 이야기와 카페 역할극으로 섞어 쓰기. 중간중간 어휘 코너도 7번 있어요.",
+   "topics": [
+    "열린 시간 → 현재완료: hoy he comido · este año he viajado",
+    "닫힌 시간 → 단순과거: ayer cené · el año pasado viajé · en 2020",
+    "시간 표지어: ayer · anteayer · anoche · la semana pasada · el mes pasado",
+    "규칙 -ar · -er · -ir (comí = viví 어미 동일) · nosotros 형태는 현재와 같음",
+    "불규칙: ser/ir = fui · hacer → hizo · tener → tuve · estar → estuve",
+    "어간 모음 변화: pidió · pidieron · durmió · durmieron",
+    "역할극: 발렌시아 여행 · 카페에서 만난 두 친구"
+   ],
+   "vocabCount": 53,
+   "lineCount": 566
+  },
+  {
    "id": "ja-2026-11-06",
    "lang": "ja",
    "date": "2026-11-06",

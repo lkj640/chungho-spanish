@@ -1,0 +1,797 @@
+{
+ "lang": "es",
+ "date": "2026-11-08",
+ "title": "단순과거 vs 현재완료 — 끝난 시간에는 viajé",
+ "es": "Ayer fui, hoy he ido",
+ "emoji": "⏳",
+ "level": "A2–B1",
+ "channel": "Español Auténtico",
+ "videoTitle": "Master the Spanish Past Tense: Pretérito Indefinido vs Perfecto | Spanish Listening Practice",
+ "youtube": "Me-dP9__BRA",
+ "duration": "45:57",
+ "speakers": {
+  "S": "Sofía",
+  "C": "Carlos"
+ },
+ "hideCast": true,
+ "summary": "소피아와 카를로스가 스페인어 과거 시제 두 개, 현재완료(he viajado)와 단순과거(viajé)의 차이를 대화로 풀어요. ① 시간이 열려 있으면(hoy, este año) 현재완료, 닫혀 있으면(ayer, el año pasado) 단순과거 ② -ar 규칙 동사(cené, compramos)와 -er·-ir 규칙 동사(comí, viví) ③ ser와 ir은 과거형이 똑같다(fui) — 맥락으로 구분 ④ 불규칙 hacer(hizo), tener(tuve), estar(estuve) ⑤ pedir → pidió, dormir → durmió처럼 3인칭에서만 모음이 바뀌는 동사 ⑥ 소피아의 발렌시아 여행 이야기와 카페 역할극으로 섞어 쓰기. 중간중간 어휘 코너도 7번 있어요.",
+ "topics": [
+  "열린 시간 → 현재완료: hoy he comido · este año he viajado",
+  "닫힌 시간 → 단순과거: ayer cené · el año pasado viajé · en 2020",
+  "시간 표지어: ayer · anteayer · anoche · la semana pasada · el mes pasado",
+  "규칙 -ar · -er · -ir (comí = viví 어미 동일) · nosotros 형태는 현재와 같음",
+  "불규칙: ser/ir = fui · hacer → hizo · tener → tuve · estar → estuve",
+  "어간 모음 변화: pidió · pidieron · durmió · durmieron",
+  "역할극: 발렌시아 여행 · 카페에서 만난 두 친구"
+ ],
+ "grammar": [
+  {
+   "title": "① 두 과거 시제 한눈에 — he comido vs comí",
+   "lead": "시간이 아직 '열려' 있으면 현재완료, 이미 '닫혀' 있으면 단순과거예요.",
+   "table": {
+    "head": [
+     "",
+     "pretérito perfecto (현재완료)",
+     "pretérito indefinido (단순과거)"
+    ],
+    "rows": [
+     [
+      "형태",
+      "haber 현재 + 과거분사: he viajado",
+      "동사 하나: viajé"
+     ],
+     [
+      "시간",
+      "열린 시간 — 현재와 연결",
+      "닫힌 시간 — 완전히 끝남"
+     ],
+     [
+      "표지어",
+      "hoy · esta semana · este año",
+      "ayer · anoche · la semana pasada · el año pasado · en 2020"
+     ],
+     [
+      "예문",
+      "Este año he viajado a España.",
+      "El año pasado viajé a España."
+     ]
+    ]
+   },
+   "tip": "Hablamos de acciones terminadas en un tiempo terminado. (끝난 시간 속의 끝난 행동)"
+  },
+  {
+   "title": "② 규칙 동사 어미 — -ar / -er·-ir",
+   "lead": "-er와 -ir는 어미가 완전히 같아요(idénticos). yo·él 형태는 끝에 강세 부호!",
+   "table": {
+    "head": [
+     "인칭",
+     "cenar / comprar",
+     "comer",
+     "vivir"
+    ],
+    "rows": [
+     [
+      "yo",
+      "cené / compré",
+      "comí",
+      "viví"
+     ],
+     [
+      "tú",
+      "cenaste",
+      "comiste",
+      "viviste"
+     ],
+     [
+      "él/ella/usted",
+      "cenó",
+      "comió",
+      "vivió"
+     ],
+     [
+      "nosotros",
+      "cenamos / compramos",
+      "comimos",
+      "vivimos"
+     ],
+     [
+      "vosotros",
+      "cenasteis",
+      "comisteis",
+      "vivisteis"
+     ],
+     [
+      "ellos/ustedes",
+      "cenaron",
+      "comieron",
+      "vivieron"
+     ]
+    ]
+   },
+   "tip": "-ar·-ir 동사의 nosotros 형태는 현재와 과거가 똑같아요: compramos, vivimos → 맥락과 시간 표지어로 구분해요."
+  },
+  {
+   "title": "③ ser와 ir — 과거형이 똑같아요",
+   "lead": "fui, fuiste, fue, fuimos, fuisteis, fueron. 어느 동사인지는 맥락으로 알아요.",
+   "examples": [
+    [
+     "Ayer fui al cine con mi hermana.",
+     "어제 언니와 영화관에 갔어요. — al cine(장소·이동) → ir"
+    ],
+    [
+     "La película de ayer fue muy aburrida.",
+     "어제 영화는 아주 지루했어요. — 묘사 → ser"
+    ],
+    [
+     "¿Fuiste sola o fuiste con amigos?",
+     "혼자 갔어요, 친구들과 갔어요? — ir"
+    ]
+   ],
+   "tip": "El contexto te da la respuesta siempre."
+  },
+  {
+   "title": "④ 불규칙 동사 hacer · tener · estar",
+   "lead": "강세 부호가 없는 특별한 어미(-e, -iste, -o, -imos, -isteis, -ieron)를 써요. tener와 estar는 소리가 닮아서 같이 외우면 좋아요.",
+   "table": {
+    "head": [
+     "인칭",
+     "hacer",
+     "tener",
+     "estar"
+    ],
+    "rows": [
+     [
+      "yo",
+      "hice",
+      "tuve",
+      "estuve"
+     ],
+     [
+      "tú",
+      "hiciste",
+      "tuviste",
+      "estuviste"
+     ],
+     [
+      "él/ella",
+      "hizo (z!)",
+      "tuvo",
+      "estuvo"
+     ],
+     [
+      "nosotros",
+      "hicimos",
+      "tuvimos",
+      "estuvimos"
+     ],
+     [
+      "vosotros",
+      "hicisteis",
+      "tuvisteis",
+      "estuvisteis"
+     ],
+     [
+      "ellos",
+      "hicieron",
+      "tuvieron",
+      "estuvieron"
+     ]
+    ]
+   },
+   "tip": "Tuve, estuve. Tuvo, estuvo. — 비슷한 소리끼리 묶는 truco(요령)!"
+  },
+  {
+   "title": "⑤ 어간 모음 변화 — 3인칭에서만 e→i, o→u",
+   "lead": "yo, tú, nosotros는 규칙 그대로. él/ella/usted와 ellos/ellas/ustedes에서만 모음이 바뀌어요.",
+   "table": {
+    "head": [
+     "인칭",
+     "pedir (e→i)",
+     "dormir (o→u)"
+    ],
+    "rows": [
+     [
+      "yo",
+      "pedí",
+      "dormí"
+     ],
+     [
+      "tú",
+      "pediste",
+      "dormiste"
+     ],
+     [
+      "él/ella",
+      "pidió",
+      "durmió"
+     ],
+     [
+      "nosotros",
+      "pedimos",
+      "dormimos"
+     ],
+     [
+      "ellos",
+      "pidieron",
+      "durmieron"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "El mes pasado María pidió muchos favores.",
+     "지난달 마리아는 부탁을 많이 했어요."
+    ],
+    [
+     "Ayer mi perro durmió todo el día en el sofá.",
+     "어제 우리 개는 소파에서 하루 종일 잤어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 바꾸기 연습 — hoy → ayer",
+   "lead": "같은 행동도 시계(시간 표지어)에 따라 시제가 바뀌어요. Una misma acción, dos tiempos diferentes según el reloj.",
+   "table": {
+    "head": [
+     "hoy / esta semana (현재완료)",
+     "ayer / la semana pasada (단순과거)"
+    ],
+    "rows": [
+     [
+      "Hoy he hecho mucho deporte.",
+      "Ayer hice mucho deporte."
+     ],
+     [
+      "Esta semana hemos ido al supermercado.",
+      "La semana pasada fuimos al supermercado."
+     ],
+     [
+      "Hoy he bebido mucha agua.",
+      "Ayer bebí mucha agua."
+     ],
+     [
+      "Esta semana hemos salido de casa temprano.",
+      "La semana pasada salimos de casa temprano."
+     ],
+     [
+      "Hoy he estado muy ocupada.",
+      "Ayer estuve muy ocupada."
+     ],
+     [
+      "Hoy no he dormido bien.",
+      "Anoche no dormí bien."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ 강세 부호 — comí / comió vs comimos",
+   "lead": "yo·él 형태(comí, comió, viví, vivió, cené, cenó)는 마지막 음절에 강세가 와서 부호를 써요. nosotros 형태 comimos, vivimos는 끝에서 두 번째 음절에 강세가 오는 palabra llana라서 부호가 없어요.",
+   "examples": [
+    [
+     "Yo comí, él comió.",
+     "나는 먹었다, 그는 먹었다. — 강세가 끝에"
+    ],
+    [
+     "Ayer nosotros comimos una pizza enorme.",
+     "어제 우리는 거대한 피자를 먹었어요. — comimos(부호 없음)"
+    ]
+   ],
+   "tip": "El acento fuerte al final nos dice claramente que la acción es en el pasado."
+  },
+  {
+   "title": "⑧ 역할극에서 섞어 쓰기 — 오늘 아침 vs 어제",
+   "lead": "카페 대화에서 오늘 일은 현재완료, 어제 일은 단순과거로 자연스럽게 바꿔 말해요.",
+   "examples": [
+    [
+     "¿Qué has hecho esta mañana? — He ido al supermercado y he limpiado mi casa.",
+     "오늘 아침엔 뭐 했어? — 슈퍼에 가고 집 청소했어."
+    ],
+    [
+     "Hoy he trabajado toda la mañana. Pero ayer no trabajé.",
+     "오늘은 오전 내내 일했어. 그런데 어제는 일 안 했어."
+    ],
+    [
+     "Ayer fui a la montaña. Salimos muy temprano. Estuvimos caminando casi tres horas.",
+     "어제 산에 갔어. 아주 일찍 나섰고, 거의 세 시간을 걸었어."
+    ],
+    [
+     "Pablo pidió carne asada y después durmió en una silla.",
+     "파블로는 숯불 고기를 시키고, 그 뒤 의자에서 잤어."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "El pretérito indefinido: acciones terminadas en un tiempo terminado.",
+   "단순과거: 끝난 시간 속에서 끝난 행동."
+  ],
+  [
+   "El año pasado ya terminó, es historia.",
+   "작년은 이미 끝났어요, 역사죠."
+  ],
+  [
+   "Son como señales de tránsito para el tiempo.",
+   "(시간 표지어는) 시간을 위한 교통 표지판 같은 거예요."
+  ],
+  [
+   "Es un capricho del vocabulario español.",
+   "스페인어 어휘의 변덕이죠."
+  ],
+  [
+   "El contexto te da la respuesta siempre.",
+   "맥락이 언제나 답을 줘요."
+  ],
+  [
+   "La práctica constante hace al maestro.",
+   "꾸준한 연습이 달인을 만든다."
+  ],
+  [
+   "Qué buen oído tienes.",
+   "귀가 정말 좋네요."
+  ],
+  [
+   "No te preocupes. Vamos paso a paso.",
+   "걱정 마요. 한 걸음씩 가요."
+  ],
+  [
+   "Su apoyo hace que todo este trabajo valga la pena.",
+   "여러분의 응원 덕분에 이 모든 작업이 보람 있어요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el pretérito indefinido",
+   "ko": "단순과거",
+   "ex": "Para eso usamos el pretérito indefinido.",
+   "exKo": "그럴 때 단순과거를 써요."
+  },
+  {
+   "es": "el pretérito perfecto",
+   "ko": "현재완료",
+   "ex": "El pretérito perfecto lo usamos para un pasado muy reciente.",
+   "exKo": "현재완료는 아주 가까운 과거에 써요."
+  },
+  {
+   "es": "el marcador temporal",
+   "ko": "시간 표지어",
+   "ex": "Las llamamos marcadores temporales.",
+   "exKo": "그걸 시간 표지어라고 불러요."
+  },
+  {
+   "es": "anteayer",
+   "ko": "그저께",
+   "ex": "ayer, anteayer, la semana pasada",
+   "exKo": "어제, 그저께, 지난주"
+  },
+  {
+   "es": "anoche",
+   "ko": "어젯밤",
+   "ex": "Anoche no dormí bien.",
+   "exKo": "어젯밤 잘 못 잤어요."
+  },
+  {
+   "es": "la señal de tránsito",
+   "ko": "교통 표지판",
+   "ex": "Son como señales de tránsito para el tiempo.",
+   "exKo": "시간의 교통 표지판 같아요."
+  },
+  {
+   "es": "la acción terminada",
+   "ko": "끝난 행동",
+   "ex": "Es una acción que empezó en el pasado y terminó en el pasado.",
+   "exKo": "과거에 시작해 과거에 끝난 행동이에요."
+  },
+  {
+   "es": "útil",
+   "ko": "유용한",
+   "ex": "Aprender estos verbos es muy útil.",
+   "exKo": "이 동사들을 배우는 건 아주 유용해요."
+  },
+  {
+   "es": "fijarse en",
+   "ko": "~에 주목하다",
+   "ex": "Fíjate en un detalle muy interesante.",
+   "exKo": "아주 흥미로운 디테일에 주목해 봐요."
+  },
+  {
+   "es": "darse cuenta de",
+   "ko": "~을 깨닫다, 눈치채다",
+   "ex": "No me había dado cuenta de eso.",
+   "exKo": "그건 눈치채지 못했어요."
+  },
+  {
+   "es": "con fluidez",
+   "ko": "유창하게",
+   "ex": "para hablar español con fluidez",
+   "exKo": "스페인어를 유창하게 말하려면"
+  },
+  {
+   "es": "el verbo irregular",
+   "ko": "불규칙 동사",
+   "ex": "Se llaman verbos irregulares.",
+   "exKo": "불규칙 동사라고 해요."
+  },
+  {
+   "es": "la excepción",
+   "ko": "예외",
+   "ex": "Siempre hay excepciones.",
+   "exKo": "늘 예외가 있어요."
+  },
+  {
+   "es": "paso a paso",
+   "ko": "한 걸음씩",
+   "ex": "Vamos paso a paso.",
+   "exKo": "한 걸음씩 가요."
+  },
+  {
+   "es": "tomar notas / anotar",
+   "ko": "필기하다 / 적어 두다",
+   "ex": "Necesito anotar esto.",
+   "exKo": "이걸 적어 둬야겠어요."
+  },
+  {
+   "es": "el capricho",
+   "ko": "변덕",
+   "ex": "Es un capricho del vocabulario español.",
+   "exKo": "스페인어 어휘의 변덕이에요."
+  },
+  {
+   "es": "el contexto",
+   "ko": "맥락",
+   "ex": "Por el contexto, Carlos.",
+   "exKo": "맥락으로 알아요, 카를로스."
+  },
+  {
+   "es": "aburrido/a",
+   "ko": "지루한",
+   "ex": "La película de ayer fue muy aburrida.",
+   "exKo": "어제 영화는 아주 지루했어요."
+  },
+  {
+   "es": "el movimiento",
+   "ko": "이동, 움직임",
+   "ex": "No hay movimiento hacia ningún lugar.",
+   "exKo": "어디로도 이동하지 않아요."
+  },
+  {
+   "es": "describir",
+   "ko": "묘사하다",
+   "ex": "Ahí estás describiendo la película.",
+   "exKo": "거기선 영화를 묘사하고 있어요."
+  },
+  {
+   "es": "acompañar",
+   "ko": "함께하다, 동반하다",
+   "ex": "las palabras que acompañan al verbo",
+   "exKo": "동사와 함께 오는 단어들"
+  },
+  {
+   "es": "el truco",
+   "ko": "요령, 꿀팁",
+   "ex": "Aprender estos trucos es genial.",
+   "exKo": "이런 요령을 배우는 거 정말 좋아요."
+  },
+  {
+   "es": "la observación",
+   "ko": "관찰",
+   "ex": "Muy buena observación, Carlos.",
+   "exKo": "아주 좋은 관찰이에요, 카를로스."
+  },
+  {
+   "es": "la clave",
+   "ko": "열쇠, 핵심",
+   "ex": "La palabra clave es ayer.",
+   "exKo": "핵심 단어는 ayer예요."
+  },
+  {
+   "es": "prestar atención a",
+   "ko": "~에 주의를 기울이다",
+   "ex": "Tu trabajo es prestar atención a los verbos.",
+   "exKo": "당신이 할 일은 동사에 주의를 기울이는 거예요."
+  },
+  {
+   "es": "durar",
+   "ko": "(시간이) 걸리다, 지속되다",
+   "ex": "El viaje duró 2 horas.",
+   "exKo": "여행은 2시간 걸렸어요."
+  },
+  {
+   "es": "el plato típico",
+   "ko": "전통 음식, 향토 요리",
+   "ex": "Comí un plato típico.",
+   "exKo": "전통 음식을 먹었어요."
+  },
+  {
+   "es": "hacer sol",
+   "ko": "햇볕이 나다",
+   "ex": "Hacía mucho sol ese día.",
+   "exKo": "그날은 햇볕이 아주 좋았어요."
+  },
+  {
+   "es": "el oído",
+   "ko": "청각, 귀",
+   "ex": "Qué buen oído tienes.",
+   "exKo": "귀가 정말 좋네요."
+  },
+  {
+   "es": "rebelde",
+   "ko": "반항적인",
+   "ex": "el verbo tener es otro de esos verbos rebeldes",
+   "exKo": "tener도 반항아 동사 중 하나예요"
+  },
+  {
+   "es": "poseer",
+   "ko": "소유하다",
+   "ex": "La acción de poseer el coche terminó.",
+   "exKo": "차를 소유한 행동은 끝났어요."
+  },
+  {
+   "es": "la intuición",
+   "ko": "직관, 감",
+   "ex": "Tienes una intuición excelente.",
+   "exKo": "감이 정말 뛰어나요."
+  },
+  {
+   "es": "parecido/a",
+   "ko": "닮은, 비슷한",
+   "ex": "Mira qué parecidos son.",
+   "exKo": "얼마나 닮았는지 보세요."
+  },
+  {
+   "es": "agrupar",
+   "ko": "묶다, 분류하다",
+   "ex": "Agrupar los verbos por sonidos similares",
+   "exKo": "비슷한 소리끼리 동사를 묶기"
+  },
+  {
+   "es": "ocupado/a",
+   "ko": "바쁜",
+   "ex": "Ayer estuve muy ocupada.",
+   "exKo": "어제 나는 아주 바빴어요."
+  },
+  {
+   "es": "la terminación",
+   "ko": "어미, 끝부분",
+   "ex": "comparten las mismas terminaciones",
+   "exKo": "어미가 똑같아요"
+  },
+  {
+   "es": "idéntico/a",
+   "ko": "똑같은",
+   "ex": "Son idénticos.",
+   "exKo": "똑같아요."
+  },
+  {
+   "es": "el ahorro",
+   "ko": "절약",
+   "ex": "un gran ahorro de tiempo",
+   "exKo": "큰 시간 절약"
+  },
+  {
+   "es": "la palabra llana",
+   "ko": "끝에서 두 번째 음절에 강세가 오는 단어",
+   "ex": "Comimos es una palabra llana.",
+   "exKo": "comimos는 palabra llana예요."
+  },
+  {
+   "es": "el salvador",
+   "ko": "구원자",
+   "ex": "El contexto vuelve a ser nuestro salvador.",
+   "exKo": "맥락이 또 우리의 구원자가 돼요."
+  },
+  {
+   "es": "la naturalidad",
+   "ko": "자연스러움",
+   "ex": "hablar español con naturalidad",
+   "exKo": "스페인어를 자연스럽게 말하기"
+  },
+  {
+   "es": "ponerte a prueba",
+   "ko": "너를 시험해 보다",
+   "ex": "Quiero ponerte a prueba un poco más.",
+   "exKo": "당신을 조금 더 시험해 보고 싶어요."
+  },
+  {
+   "es": "el reto",
+   "ko": "도전",
+   "ex": "Vamos con el reto.",
+   "exKo": "도전해 봐요."
+  },
+  {
+   "es": "el fallo",
+   "ko": "실수, 오류",
+   "ex": "No tienes fallos, Carlos.",
+   "exKo": "하나도 안 틀리네요, 카를로스."
+  },
+  {
+   "es": "la vocal",
+   "ko": "모음",
+   "ex": "En español hay cinco vocales.",
+   "exKo": "스페인어에는 모음이 다섯 개 있어요."
+  },
+  {
+   "es": "la tercera persona",
+   "ko": "3인칭",
+   "ex": "María es ella, tercera persona.",
+   "exKo": "마리아는 ella, 3인칭이에요."
+  },
+  {
+   "es": "pedir un favor",
+   "ko": "부탁하다",
+   "ex": "pedir un favor a un amigo",
+   "exKo": "친구에게 부탁하기"
+  },
+  {
+   "es": "el juego de roles",
+   "ko": "역할극",
+   "ex": "Vamos a hacer un juego de roles.",
+   "exKo": "역할극을 해 봐요."
+  },
+  {
+   "es": "el bosque",
+   "ko": "숲",
+   "ex": "Caminamos por un bosque muy grande.",
+   "exKo": "아주 큰 숲을 걸었어요."
+  },
+  {
+   "es": "tener hambre",
+   "ko": "배고프다",
+   "ex": "Después tuvimos mucha hambre.",
+   "exKo": "그 뒤엔 엄청 배가 고팠어요."
+  },
+  {
+   "es": "la carne asada",
+   "ko": "숯불(직화) 구이 고기",
+   "ex": "Pablo pidió un plato de carne asada.",
+   "exKo": "파블로는 숯불 고기 요리를 주문했어요."
+  },
+  {
+   "es": "profundamente",
+   "ko": "깊이",
+   "ex": "Él durmió muy profundamente.",
+   "exKo": "그는 아주 깊이 잠들었어요."
+  },
+  {
+   "es": "valer la pena",
+   "ko": "보람 있다, ~할 가치가 있다",
+   "ex": "Su apoyo hace que todo este trabajo valga la pena.",
+   "exKo": "여러분의 응원 덕분에 이 작업이 보람 있어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuándo usamos el pretérito indefinido?",
+   "options": [
+    "Para acciones que todavía continúan",
+    "Para acciones terminadas en un tiempo terminado",
+    "Solo para el futuro",
+    "Para dar órdenes"
+   ],
+   "answer": 1,
+   "explain": "Hablamos de acciones terminadas en un tiempo terminado."
+  },
+  {
+   "q": "¿Qué marcador temporal va con el pretérito perfecto?",
+   "options": [
+    "ayer",
+    "el año pasado",
+    "este año",
+    "en 2015"
+   ],
+   "answer": 2,
+   "explain": "Este año he viajado a España. — 열린 시간은 현재완료."
+  },
+  {
+   "q": "Ayer yo ___ con mis amigos en un restaurante. (cenar)",
+   "options": [
+    "he cenado",
+    "ceno",
+    "cené",
+    "cenó"
+   ],
+   "answer": 2,
+   "explain": "Ayer yo cené con mis amigos."
+  },
+  {
+   "q": "¿Qué dos verbos son iguales en el pretérito indefinido?",
+   "options": [
+    "ser e ir",
+    "tener y estar",
+    "comer y vivir",
+    "pedir y dormir"
+   ],
+   "answer": 0,
+   "explain": "El verbo ir y el verbo ser son exactamente iguales: fui, fuiste, fue…"
+  },
+  {
+   "q": "\"La película de ayer fue muy aburrida.\" ¿Qué verbo es fue?",
+   "options": [
+    "ir",
+    "ser",
+    "hacer",
+    "estar"
+   ],
+   "answer": 1,
+   "explain": "Ahí estás describiendo la película… es el verbo ser."
+  },
+  {
+   "q": "¿Cómo se escribe la forma de él del verbo hacer?",
+   "options": [
+    "hició",
+    "hizo",
+    "hiso",
+    "hace"
+   ],
+   "answer": 1,
+   "explain": "Sí, se escribe con Z. Él hizo."
+  },
+  {
+   "q": "Hoy he hecho mucho deporte → Ayer ___ mucho deporte.",
+   "options": [
+    "hice",
+    "he hecho",
+    "hizo",
+    "hago"
+   ],
+   "answer": 0,
+   "explain": "Hoy he hecho cambia a ayer hice."
+  },
+  {
+   "q": "¿A dónde viajó Sofía el sábado?",
+   "options": [
+    "A Madrid",
+    "A Valencia",
+    "A México",
+    "A la montaña"
+   ],
+   "answer": 1,
+   "explain": "Viajé a la ciudad de Valencia."
+  },
+  {
+   "q": "El fin de semana pasado no ___ mucho tiempo libre. (tener, yo)",
+   "options": [
+    "tuvo",
+    "tengo",
+    "tuve",
+    "he tenido"
+   ],
+   "answer": 2,
+   "explain": "La verdad es que el fin de semana pasado no tuve mucho tiempo libre."
+  },
+  {
+   "q": "¿Qué grupos de verbos regulares comparten las mismas terminaciones en el indefinido?",
+   "options": [
+    "-ar y -er",
+    "-ar y -ir",
+    "-er y -ir",
+    "Ninguno"
+   ],
+   "answer": 2,
+   "explain": "Los verbos que terminan en er y en ir comparten exactamente las mismas terminaciones."
+  },
+  {
+   "q": "El mes pasado María ___ muchos favores. (pedir)",
+   "options": [
+    "pedió",
+    "pidió",
+    "pedí",
+    "pidieron"
+   ],
+   "answer": 1,
+   "explain": "La e cambia a i en tercera persona: María pidió."
+  },
+  {
+   "q": "¿Qué hizo Pablo después de comer?",
+   "options": [
+    "Bebió mucho vino",
+    "Durmió en una silla 20 minutos",
+    "Volvió a la ciudad",
+    "Caminó tres horas"
+   ],
+   "answer": 1,
+   "explain": "Él durmió en una silla por 20 minutos."
+  }
+ ]
+}

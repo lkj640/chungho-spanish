@@ -1,0 +1,1156 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, C = Carlos. 화자 구분은 대화 맥락에 맞춰 나눴어요. END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막 (붙어 버린 문장을 나누고, 시각은 자동 자막의 단어 시각에 맞췄어요. 자막에 잘못 들어간 'durante'는 지웠어요)
+END 45:57
+
+
+[00:00.24]
+## 인사 — Español Auténtico에 오신 걸 환영해요
+S | Hola a todos, bienvenidos a un nuevo episodio de Español Auténtico. | 여러분 안녕하세요, Español Auténtico 새 에피소드에 오신 걸 환영해요.
+[00:07.52]
+S | Si tu meta es aprender español de manera fácil y natural, estás en el lugar correcto. | 스페인어를 쉽고 자연스럽게 배우는 게 목표라면, 제대로 찾아오셨어요.
+[00:15.32]
+C | Hola amigos, qué bueno estar aquí con ustedes. | 친구 여러분 안녕하세요, 여러분과 함께해서 정말 좋아요.
+[00:18.60]
+C | Este es el mejor Spanish podcast para practicar. | 이건 연습하기에 최고의 스페인어 팟캐스트예요.
+[00:22.24]
+C | Yo soy Carlos, un estudiante como tú y estoy listo para nuestro Spanish listening practice de hoy. | 저는 카를로스, 여러분 같은 학생이고, 오늘의 스페인어 듣기 연습을 할 준비가 됐어요.
+[00:28.96]
+S | Así es, Carlos. | 맞아요, 카를로스.
+[00:30.56]
+S | Nuestro objetivo es el español para principiantes y también para nivel intermedio. | 우리 목표는 초급자를 위한 스페인어, 그리고 중급 수준을 위한 스페인어예요.
+[00:37.88]
+S | Usamos conversaciones reales para mejorar tu nivel. | 실력을 높이기 위해 실제 대화를 활용해요.
+[00:42.80]
+S | Pero antes de empezar con la clase de hoy, quiero pedirles un favor muy importante. | 그런데 오늘 수업을 시작하기 전에, 아주 중요한 부탁을 하나 드리고 싶어요.
+[00:50.24]
+S | Para que este canal de Español Auténtico siga creciendo, necesitamos tu ayuda. | 이 Español Auténtico 채널이 계속 성장하려면 여러분의 도움이 필요해요.
+[00:57.60]
+S | Por favor, suscríbete al canal, deja un me gusta y comenta abajo. | 채널을 구독하고, 좋아요를 누르고, 아래에 댓글을 달아 주세요.
+[01:04.80]
+S | Nos ayuda muchísimo. | 저희에게 정말 큰 도움이 돼요.
+[01:07.00]
+S | Y si quieres apoyar más nuestro trabajo, puedes unirte y ser miembro del canal. | 그리고 저희 작업을 더 응원하고 싶다면, 가입해서 채널 멤버가 될 수 있어요.
+[01:13.80]
+S | Es una forma hermosa de apoyar a Español Auténtico. Gracias de corazón. | Español Auténtico를 응원하는 멋진 방법이에요. 진심으로 감사해요.
+[01:20.52]
+C | Sí, muchas gracias a todos por el apoyo. | 네, 응원해 주시는 모든 분께 정말 감사해요.
+[01:23.68]
+C | Suscribirse es gratis y a nosotros nos da mucha motivación. | 구독은 무료고, 저희에게는 큰 동기 부여가 돼요.
+[01:28.16]
+## 오늘의 주제 — 다 끝난 과거를 말하는 pretérito indefinido
+C | Y bueno, Sofía, ¿de qué hablamos hoy? | 자, 소피아, 오늘은 무슨 얘기를 하나요?
+[01:31.20]
+C | En el video anterior estudiamos el pretérito perfecto. | 지난 영상에서는 현재완료(pretérito perfecto)를 공부했잖아요.
+[01:35.08]
+S | Exacto, Carlos. | 맞아요, 카를로스.
+[01:36.52]
+S | Los oyentes pueden ir a ver ese episodio en el canal. | 청취자 여러분은 채널에서 그 에피소드를 보러 가실 수 있어요.
+[01:41.28]
+S | El pretérito perfecto lo usamos para un pasado muy reciente o un pasado que tiene conexión con el presente. | 현재완료는 아주 가까운 과거나, 현재와 연결된 과거에 써요.
+[01:50.76]
+S | Por ejemplo, hoy he comido manzanas. | 예를 들어 '오늘 나는 사과를 먹었다(hoy he comido manzanas)'.
+[01:54.44]
+C | Mmm, claro, hoy he comido porque el día hoy todavía no termina, ¿verdad? | 음, 그렇죠, '오늘'은 아직 끝나지 않았으니까 hoy he comido인 거죠?
+[02:01.00]
+S | Muy bien, Carlos. Eres un gran estudiante. | 아주 좋아요, 카를로스. 훌륭한 학생이네요.
+[02:04.80]
+S | Pero, ¿qué pasa cuando la acción terminó completamente en el pasado? | 그런데 행동이 과거에 완전히 끝났을 때는 어떻게 될까요?
+[02:10.84]
+S | ¿Qué pasa si el tiempo de la acción ya no existe en el presente? | 그 행동의 시간이 이제 현재에는 존재하지 않는다면요?
+[02:16.32]
+S | Para eso usamos el pretérito indefinido. | 그럴 때 단순과거(pretérito indefinido)를 써요.
+[02:20.32]
+C | El pretérito indefinido, suena importante. | 단순과거라… 중요하게 들리네요.
+[02:23.76]
+C | ¿Me puedes dar un ejemplo, por favor? | 예를 하나 들어 줄래요?
+[02:26.08]
+S | Por supuesto. Escucha la diferencia. | 물론이죠. 차이를 들어 보세요.
+[02:29.68]
+S | Con el pretérito perfecto digo, "Este año he viajado a España." | 현재완료로는 "올해 나는 스페인에 여행 갔다(Este año he viajado a España)"라고 해요.
+[02:36.36]
+S | Con el pretérito indefinido digo, "El año pasado viajé a España." | 단순과거로는 "작년에 나는 스페인에 여행 갔다(El año pasado viajé a España)"라고 하고요.
+[02:43.08]
+C | Ah, entiendo. Viajé. | 아, 알겠어요. viajé.
+[02:45.76]
+C | Una sola palabra y usaste el año pasado. | 단어 하나, 그리고 el año pasado(작년)를 썼네요.
+[02:49.60]
+C | El año pasado ya terminó, es historia. | 작년은 이미 끝났어요, 역사죠.
+[02:52.80]
+S | Exactamente. Ese es el secreto del pretérito indefinido. | 바로 그거예요. 그게 단순과거의 비밀이에요.
+[02:58.04]
+S | Hablamos de acciones terminadas en un tiempo terminado. | 끝난 시간 속에서 끝난 행동을 말하는 거예요.
+[03:02.96]
+S | Usamos palabras especiales para esto. Las llamamos marcadores temporales. | 이를 위해 특별한 단어들을 쓰는데, 시간 표지어(marcadores temporales)라고 불러요.
+[03:09.52]
+C | ¿Marcadores temporales? | 시간 표지어요?
+[03:11.48]
+C | ¿Cuáles son los más comunes para este tiempo del pasado? | 이 과거 시제에 가장 흔히 쓰는 건 뭐예요?
+[03:14.92]
+S | Claro. Son palabras muy útiles en las clases de español. | 그럼요. 스페인어 수업에서 아주 유용한 단어들이에요.
+[03:20.64]
+S | Por ejemplo, ayer, anteayer, la semana pasada, el mes pasado, el año pasado o en un año específico, como en 2015. | 예를 들면 ayer(어제), anteayer(그저께), la semana pasada(지난주), el mes pasado(지난달), el año pasado(작년), 또는 en 2015(2015년에)처럼 특정한 해예요.
+[03:34.68]
+C | Perfecto. Ayer, la semana pasada, en 2015. | 완벽해요. 어제, 지난주, 2015년에.
+[03:39.96]
+C | Son muy lógicos. | 아주 논리적이네요.
+[03:41.56]
+C | Ahora, Sofía, antes de practicar con frases, me gustaría entender bien algunas palabras que estamos usando. | 그럼 소피아, 문장으로 연습하기 전에 우리가 쓰고 있는 단어 몇 개를 잘 이해하고 싶어요.
+[03:49.28]
+C | ¿Hacemos nuestra sección de vocabulario? | 어휘 코너 할까요?
+[03:51.84]
+S | Me parece una idea excelente, Carlos. | 아주 좋은 생각이에요, 카를로스.
+[03:55.04]
+## 어휘 ① — marcadores temporales · ayer · acción terminada · diferencia · útil
+S | Vamos a analizar el vocabulario. | 어휘를 분석해 봅시다.
+[03:57.64]
+S | Marcadores temporales. Son palabras o frases que indican el momento exacto en el que ocurre una acción. | marcadores temporales(시간 표지어). 어떤 행동이 일어나는 정확한 때를 나타내는 단어나 표현이에요.
+[04:07.04]
+S | Son como señales de tránsito para el tiempo. | 시간을 위한 교통 표지판 같은 거예요.
+[04:10.44]
+S | Ayer es el día inmediatamente anterior al día de hoy. | ayer(어제)는 오늘 바로 전날이에요.
+[04:15.44]
+S | Si hoy es martes, ayer fue lunes. | 오늘이 화요일이면, 어제는 월요일이었어요.
+[04:18.64]
+S | Acción terminada. Es una acción que empezó en el pasado y terminó en el pasado. | acción terminada(끝난 행동). 과거에 시작해서 과거에 끝난 행동이에요.
+[04:26.24]
+S | Ya no tiene ninguna continuación en el presente. | 현재까지 전혀 이어지지 않아요.
+[04:29.88]
+S | Diferencia. Es la cualidad que hace que dos cosas no sean iguales. | diferencia(차이). 두 가지를 같지 않게 만드는 성질이에요.
+[04:35.48]
+S | Hoy estamos viendo la diferencia entre dos tiempos verbales. | 오늘 우리는 두 동사 시제의 차이를 보고 있어요.
+[04:39.88]
+S | Útil. Significa que algo sirve para un propósito, que tiene un beneficio. | útil(유용한). 무언가가 어떤 목적에 쓸모 있고 이점이 있다는 뜻이에요.
+[04:47.00]
+S | Aprender estos verbos es muy útil para hablar español. | 이 동사들을 배우는 건 스페인어로 말하는 데 아주 유용해요.
+[04:51.36]
+C | Muy claro todo. Me encanta aprender este vocabulario español. | 전부 아주 명확해요. 이런 스페인어 어휘 배우는 거 정말 좋아요.
+[04:56.16]
+## 연습 ① — -ar 동사: cené · compramos
+C | Bien, Sofía. Podemos hacer algunos ejercicios. | 좋아요, 소피아. 연습 문제를 좀 해 봐요.
+[04:59.88]
+C | Quiero ver si comprendo cómo usar este pretérito indefinido. | 이 단순과거를 어떻게 쓰는지 이해했는지 확인하고 싶어요.
+[05:03.92]
+S | Claro que sí. Vamos a hacer un ejercicio de completar la frase. | 물론이죠. 문장 완성하기 연습을 해 봐요.
+[05:09.40]
+S | Yo te digo la frase y tú pones el verbo correcto. | 내가 문장을 말하면, 당신이 알맞은 동사를 넣는 거예요.
+[05:13.52]
+S | ¿Listo? | 준비됐어요?
+[05:14.40]
+C | Listo. | 준비됐어요.
+[05:15.32]
+C | Y ustedes, amigos que nos escuchan, intenten responder antes que yo. | 그리고 듣고 계신 여러분, 저보다 먼저 답해 보세요.
+[05:20.52]
+S | Primera frase. Ayer yo cenar con mis amigos en un restaurante. | 첫 번째 문장. "어제 나는 식당에서 친구들과 저녁을 먹다(cenar)."
+[05:28.60]
+S | ¿Cómo es el verbo cenar aquí? | 여기서 cenar는 어떻게 될까요?
+[05:31.44]
+C | Mmm, la palabra clave es ayer. Entonces, es un pasado terminado. | 음, 핵심 단어는 ayer예요. 그러니까 끝난 과거죠.
+[05:36.96]
+C | Yo diría, "Ayer yo cené con mis amigos en un restaurante." | 저라면 "Ayer yo cené con mis amigos en un restaurante(어제 나는 식당에서 친구들과 저녁을 먹었다)"라고 하겠어요.
+[05:41.84]
+S | Muy bien. Cené. Termina en e con acento. Ayer yo cené. | 아주 좋아요. cené. 강세 부호가 있는 e로 끝나요. Ayer yo cené.
+[05:48.84]
+S | Vamos con otra. El fin de semana pasado nosotros comprar ropa nueva. | 다음 거예요. "지난 주말에 우리는 새 옷을 사다(comprar)."
+[05:56.96]
+C | El fin de semana pasado ya terminó. | 지난 주말은 이미 끝났어요.
+[05:59.88]
+C | El verbo es comprar. Nosotros compramos. | 동사는 comprar. nosotros compramos.
+[06:04.08]
+C | El fin de semana pasado, nosotros compramos ropa nueva. | "지난 주말에 우리는 새 옷을 샀다."
+[06:08.36]
+S | Perfecto, Carlos. Y fíjate en un detalle muy interesante. | 완벽해요, 카를로스. 그리고 아주 흥미로운 디테일 하나에 주목해 보세요.
+[06:13.48]
+S | En la forma de nosotros, el pretérito indefinido es igual que el presente para los verbos que terminan en -ar. | -ar로 끝나는 동사는 nosotros 형태에서 단순과거가 현재형과 똑같아요.
+[06:23.20]
+S | Nosotros compramos hoy y nosotros compramos ayer. | 오늘도 nosotros compramos, 어제도 nosotros compramos.
+[06:28.04]
+C | Oh, es verdad. No me había dado cuenta de eso. | 오, 정말이네요. 그건 눈치채지 못했어요.
+[06:31.72]
+C | El contexto de la frase nos dice si es presente o pasado. | 현재인지 과거인지는 문장의 맥락이 알려 줘요.
+[06:36.04]
+C | Si digo ayer compramos, está claro que es pasado. | ayer compramos라고 하면 과거인 게 분명하죠.
+[06:40.20]
+S | Exactamente. El contexto y los marcadores temporales son tus mejores amigos para hablar español con fluidez. | 바로 그거예요. 맥락과 시간 표지어는 스페인어를 유창하게 말하기 위한 최고의 친구예요.
+[06:49.60]
+## 불규칙 동사 ① — ser와 ir은 과거형이 똑같다 (fui, fue…)
+C | Sofía, esto parece fácil con verbos regulares como cenar y comprar, pero me imagino que en español, como siempre, hay verbos que no siguen las reglas normales, ¿verdad? | 소피아, cenar나 comprar 같은 규칙 동사는 쉬워 보이는데, 스페인어엔 늘 그렇듯 보통 규칙을 따르지 않는 동사들이 있겠죠?
+[07:02.00]
+S | Tienes mucha razón, Carlos. | 정말 맞는 말이에요, 카를로스.
+[07:04.56]
+S | En nuestra bella Spanish language, siempre hay excepciones. | 우리의 아름다운 스페인어에는 늘 예외가 있어요.
+[07:09.48]
+S | Hay verbos que no siguen las reglas normales. Se llaman verbos irregulares. | 보통 규칙을 따르지 않는 동사들이 있는데, 불규칙 동사(verbos irregulares)라고 해요.
+[07:16.04]
+C | Ay, los verbos irregulares siempre son un pequeño problema para mí y para muchos estudiantes en nuestras clases de español. | 아이고, 불규칙 동사는 저한테도, 우리 스페인어 수업의 많은 학생들한테도 늘 작은 골칫거리예요.
+[07:23.44]
+S | No te preocupes. Vamos paso a paso. | 걱정 마요. 한 걸음씩 가요.
+[07:26.76]
+S | Para tener una buena Spanish conversation, no necesitas saber todos los verbos hoy. | 스페인어 대화를 잘하려고 오늘 모든 동사를 알 필요는 없어요.
+[07:33.20]
+S | Solo necesitas practicar los más comunes primero. | 가장 흔한 것들부터 먼저 연습하면 돼요.
+[07:37.56]
+S | Hoy vamos a ver tres verbos muy importantes. Ser, ir y hacer. | 오늘은 아주 중요한 동사 세 개를 볼 거예요. ser(~이다), ir(가다), hacer(하다).
+[07:44.44]
+C | Perfecto. Estoy listo con mi cuaderno para tomar notas. | 좋아요. 필기할 공책 들고 준비됐어요.
+[07:48.28]
+C | Me gusta mucho aprender español de esta manera. | 이런 식으로 스페인어 배우는 게 정말 좋아요.
+[07:51.12]
+C | ¿Empezamos con el verbo ir? | ir 동사부터 시작할까요?
+[07:53.12]
+S | Sí, y te tengo una sorpresa. | 네, 그리고 깜짝 놀랄 게 있어요.
+[07:55.88]
+S | El verbo ir y el verbo ser son exactamente iguales en el pretérito indefinido. | ir 동사와 ser 동사는 단순과거에서 완전히 똑같아요.
+[08:02.76]
+S | Son la misma palabra. | 같은 단어예요.
+[08:04.60]
+C | ¿Iguales? ¿Cómo es posible? | 똑같다고요? 어떻게 그럴 수 있죠?
+[08:07.12]
+C | Si significan cosas totalmente diferentes. Uno es to go y el otro es to be. | 뜻이 완전히 다르잖아요. 하나는 '가다(to go)'고 하나는 '~이다(to be)'인데요.
+[08:13.32]
+S | Así es, es un capricho del vocabulario español. | 맞아요, 스페인어 어휘의 변덕이죠.
+[08:17.16]
+S | La conjugación para los dos verbos es yo fui, tú fuiste, él fue, nosotros fuimos, vosotros fuisteis, ellos fueron. | 두 동사의 활용은 yo fui, tú fuiste, él fue, nosotros fuimos, vosotros fuisteis, ellos fueron이에요.
+[08:31.20]
+C | Entonces, si yo digo fui, ¿cómo sabe la otra persona si hablo del verbo ser o del verbo ir? | 그럼 내가 fui라고 하면, 상대는 내가 ser를 말하는지 ir를 말하는지 어떻게 알아요?
+[08:37.76]
+C | Parece muy confuso. | 아주 헷갈려 보여요.
+[08:39.40]
+S | Por el contexto, Carlos. | 맥락으로 알죠, 카를로스.
+[08:41.40]
+S | El contexto es la situación de la frase. Escucha bien. | 맥락이란 문장의 상황이에요. 잘 들어 보세요.
+[08:46.04]
+S | Si yo digo, "Ayer fui al cine con mi hermana." ¿Qué verbo es? | 내가 "어제 언니와 영화관에 갔다(Ayer fui al cine con mi hermana)"라고 하면, 어떤 동사일까요?
+[08:51.24]
+C | Mmm, al cine indica un lugar, un destino, un movimiento. | 음, al cine(영화관에)는 장소, 목적지, 이동을 나타내요.
+[08:57.32]
+C | Entonces, lógicamente, es el verbo ir. | 그러니까 논리적으로 ir 동사예요.
+[09:00.84]
+S | Exacto, muy bien. | 정확해요, 아주 좋아요.
+[09:03.04]
+S | Y si yo digo, "La película de ayer fue muy aburrida." ¿Qué verbo es en esta frase? | 그럼 "어제 영화는 아주 지루했다(La película de ayer fue muy aburrida)"라고 하면, 이 문장에서는 어떤 동사일까요?
+[09:09.60]
+C | Ah, claro. Ahí estás describiendo la película. | 아, 그렇죠. 거기선 영화를 묘사하고 있어요.
+[09:13.12]
+C | No hay movimiento hacia ningún lugar. Entonces, es el verbo ser. | 어디로도 이동하지 않아요. 그러니까 ser 동사예요.
+[09:17.76]
+S | ¡Excelente! ¿Ves que no es tan difícil? | 훌륭해요! 그렇게 어렵지 않죠?
+[09:20.80]
+S | Para mejorar tu Spanish listening, solo tienes que prestar atención a las palabras que acompañan al verbo. | 스페인어 듣기를 늘리려면, 동사와 함께 오는 단어들에 주의를 기울이기만 하면 돼요.
+[09:28.24]
+S | El contexto te da la respuesta siempre. | 맥락이 언제나 답을 줘요.
+[09:31.44]
+C | Es verdad, el contexto siempre nos ayuda. | 맞아요, 맥락은 늘 우리를 도와주죠.
+[09:34.44]
+C | Aprender estos trucos es genial. | 이런 요령을 배우는 거 정말 좋아요.
+[09:36.92]
+C | Sofía, antes de continuar, ¿hacemos nuestra pausa para analizar más palabras? | 소피아, 계속하기 전에 단어를 더 분석하는 쉬는 시간을 가질까요?
+[09:42.28]
+S | Me parece una idea fantástica. | 정말 좋은 생각이에요.
+[09:44.72]
+## 어휘 ② — irregular · excepción · contexto · movimiento · describir
+S | Vamos con nuestra sección de vocabulario para ayudar a todos en casa. | 집에 계신 모든 분을 위해 어휘 코너로 가 봐요.
+[09:49.64]
+S | Irregular es algo que no sigue la regla general o normal. | irregular(불규칙한)는 일반적이거나 보통의 규칙을 따르지 않는 것이에요.
+[09:54.36]
+S | En los verbos, significa que su forma cambia de una manera diferente a los demás. | 동사에서는 형태가 다른 동사들과 다르게 변한다는 뜻이에요.
+[10:00.44]
+S | Excepción es una cosa que se aparta de la regla común, como los verbos ser e ir, que son una gran excepción porque son idénticos en pasado. | excepción(예외)은 보통 규칙에서 벗어나는 것이에요. ser와 ir처럼요. 과거형이 똑같아서 큰 예외죠.
+[10:10.76]
+S | Contexto son las palabras y la situación que rodean a una palabra. | contexto(맥락)는 한 단어를 둘러싼 단어들과 상황이에요.
+[10:16.12]
+S | El contexto nos ayuda a entender el significado correcto en una conversación en español. | 맥락은 스페인어 대화에서 올바른 뜻을 이해하도록 도와줘요.
+[10:22.16]
+S | Movimiento es la acción de cambiar de lugar. | movimiento(이동)는 장소를 바꾸는 행동이에요.
+[10:25.72]
+S | El verbo ir siempre expresa un movimiento hacia un destino físico. | ir 동사는 언제나 물리적인 목적지를 향한 이동을 나타내요.
+[10:31.04]
+S | Describir es explicar cómo es una cosa, una persona o un lugar. | describir(묘사하다)는 사물, 사람, 장소가 어떤지 설명하는 거예요.
+[10:36.68]
+S | Usamos el verbo ser en pasado para describir algo que ya terminó. | 이미 끝난 무언가를 묘사할 때 ser의 과거형을 써요.
+[10:41.88]
+C | Qué buenas palabras. | 정말 좋은 단어들이네요.
+[10:43.40]
+C | Amigos que nos escuchan, dejen un comentario aquí abajo usando la palabra contexto o la palabra excepción. | 듣고 계신 여러분, contexto나 excepción이라는 단어를 써서 아래에 댓글을 남겨 주세요.
+[10:50.36]
+C | Es un buen ejercicio. | 좋은 연습이 돼요.
+[10:51.88]
+C | Además, comentar nos ayuda muchísimo a seguir haciendo vídeos para ustedes. | 게다가 댓글은 저희가 여러분을 위해 계속 영상을 만드는 데 정말 큰 도움이 돼요.
+[10:56.84]
+S | Así es. Por favor, comenten. Leemos todos sus mensajes. | 맞아요. 꼭 댓글 달아 주세요. 메시지는 전부 읽어요.
+[11:01.76]
+## 불규칙 동사 ② — hacer (hice, hizo…) + 오늘 → 어제 바꾸기
+S | Bien, Carlos. Ahora vamos con el verbo hacer. | 자, 카를로스. 이제 hacer 동사로 가요.
+[11:05.68]
+S | Este verbo también es irregular y se usa mucho. | 이 동사도 불규칙이고 아주 많이 쓰여요.
+[11:09.32]
+S | Escucha. Yo hice. Tú hiciste. Él hizo. | 들어 보세요. yo hice. tú hiciste. él hizo.
+[11:15.04]
+C | Un momento. ¿Él hizo? | 잠깐만요. él hizo요?
+[11:17.56]
+C | Esa palabra suena un poco diferente. | 그 단어는 소리가 좀 다르네요.
+[11:19.92]
+C | Se escribe con la letra Z, ¿verdad? | z로 쓰죠?
+[11:22.32]
+S | Muy buena observación, Carlos. | 아주 좋은 관찰이에요, 카를로스.
+[11:24.44]
+S | Sí, se escribe con Z. Él hizo. | 네, z로 써요. él hizo.
+[11:28.48]
+S | Y continuamos. Nosotros hicimos. Vosotros hicisteis. Ellos hicieron. | 계속할게요. nosotros hicimos. vosotros hicisteis. ellos hicieron.
+[11:36.20]
+C | Sofía, ¿podemos hacer un ejercicio para practicar la diferencia entre el pretérito perfecto y este nuevo pretérito indefinido? | 소피아, 현재완료와 이 새로운 단순과거의 차이를 연습하는 문제를 해 볼 수 있을까요?
+[11:44.00]
+C | Quiero saber bien cuándo usar uno y cuándo usar otro. | 언제 이걸 쓰고 언제 저걸 쓰는지 확실히 알고 싶어요.
+[11:47.96]
+S | Claro que sí. Esta es la clave para hablar español correctamente. | 물론이죠. 이게 스페인어를 정확하게 말하는 열쇠예요.
+[11:53.04]
+S | Vamos a hacer un ejercicio de transformación. | 바꾸기 연습을 해 봐요.
+[11:56.08]
+S | Yo te doy una frase con la palabra hoy usando el pretérito perfecto y tú cambias la frase a ayer usando el pretérito indefinido. | 내가 hoy를 넣어 현재완료로 문장을 주면, 당신은 그 문장을 ayer로 바꿔서 단순과거로 말하는 거예요.
+[12:06.40]
+C | Entendido. Es un gran ejercicio para practicar. | 알겠어요. 연습하기 아주 좋은 문제네요.
+[12:09.64]
+C | Estoy listo y espero que el público también responda en casa. | 저는 준비됐고, 청취자분들도 집에서 같이 답해 주셨으면 해요.
+[12:13.72]
+S | Claro. Primera frase. Hoy he hecho mucho deporte. | 그럼요. 첫 번째 문장. "오늘 나는 운동을 많이 했다(Hoy he hecho mucho deporte)."
+[12:18.96]
+C | Bien. La palabra clave ahora es ayer. | 좋아요. 이번 핵심 단어는 ayer예요.
+[12:22.76]
+C | Entonces, es una acción que no toca el presente. | 그러니까 현재에 닿지 않는 행동이에요.
+[12:26.32]
+C | Ayer yo hice mucho deporte. | Ayer yo hice mucho deporte. (어제 나는 운동을 많이 했다)
+[12:30.00]
+S | Perfecto. Hoy he hecho cambia a ayer hice. | 완벽해요. hoy he hecho가 ayer hice로 바뀌어요.
+[12:35.44]
+S | Segunda frase. Esta semana hemos ido al supermercado. | 두 번째 문장. "이번 주에 우리는 슈퍼마켓에 갔다(Esta semana hemos ido al supermercado)."
+[12:40.28]
+C | A ver. Esta semana es un tiempo que todavía no termina. | 어디 보자. '이번 주'는 아직 끝나지 않은 시간이에요.
+[12:44.44]
+C | Por eso usas el perfecto, hemos ido. | 그래서 현재완료 hemos ido를 쓰는 거죠.
+[12:47.72]
+C | Pero si cambio el marcador a la semana pasada, la acción ya terminó. | 그런데 표지어를 la semana pasada(지난주)로 바꾸면, 행동은 이미 끝났어요.
+[12:52.60]
+C | Entonces sería la semana pasada nosotros fuimos al supermercado. | 그러니까 "La semana pasada nosotros fuimos al supermercado(지난주에 우리는 슈퍼마켓에 갔다)"가 되겠죠.
+[12:58.76]
+S | Estupendo, Carlos. Tienes un nivel excelente. | 훌륭해요, 카를로스. 실력이 대단해요.
+[13:02.32]
+S | La diferencia central es el lugar del tiempo. | 핵심 차이는 시간의 위치예요.
+[13:05.84]
+S | Si el bloque de tiempo está conectado con el presente, como decir este año, usamos el pretérito perfecto. | 시간 덩어리가 현재와 이어져 있으면, 예를 들어 este año(올해)라고 할 때는 현재완료를 써요.
+[13:13.76]
+S | Por ejemplo, este año he viajado a México. | 예를 들어 "올해 나는 멕시코에 여행 갔다(este año he viajado a México)".
+[13:17.92]
+C | Ah, y si el bloque de tiempo no tiene ninguna conexión con el presente, como decir en 2020, usamos el indefinido. | 아, 그리고 시간 덩어리가 현재와 전혀 연결되지 않으면, 예를 들어 en 2020(2020년에)이라고 할 때는 단순과거를 쓰고요.
+[13:26.56]
+C | En 2020 viajé a México. | "En 2020 viajé a México(2020년에 멕시코에 여행 갔다)."
+[13:29.36]
+C | Creo que ahora entiendo perfectamente por qué y cuándo usar cada uno de estos tiempos del pasado. | 이제 이 과거 시제들을 각각 왜, 언제 쓰는지 완벽하게 이해한 것 같아요.
+[13:35.28]
+S | Tienes una mente muy rápida, Carlos. Has entendido muy bien la regla. | 머리가 정말 빠르네요, 카를로스. 규칙을 아주 잘 이해했어요.
+[13:40.84]
+S | Para dominar estas frases en español, la clave es practicar la teoría en situaciones reales. | 이런 스페인어 문장을 완전히 익히려면, 이론을 실제 상황에서 연습하는 게 열쇠예요.
+[13:47.96]
+## 이야기 연습 — 소피아의 발렌시아 주말 여행
+C | Me encanta practicar. | 연습하는 거 정말 좋아요.
+[13:49.68]
+C | ¿Qué vamos a hacer ahora para continuar con nuestras clases de español? | 스페인어 수업을 이어 가려면 이제 뭘 할까요?
+[13:53.84]
+C | Siento que mi cerebro está trabajando mucho hoy. | 오늘 제 뇌가 열심히 일하고 있는 게 느껴져요.
+[13:56.84]
+S | Ahora vamos a usar la imaginación. | 이제 상상력을 써 볼 거예요.
+[14:00.20]
+S | Escuchar español en historias es el mejor método. | 이야기로 스페인어를 듣는 게 최고의 방법이에요.
+[14:04.60]
+S | Te voy a contar una historia muy corta sobre mi fin de semana pasado. | 내 지난 주말에 관한 아주 짧은 이야기를 해 줄게요.
+[14:10.00]
+S | Tu trabajo es prestar atención a los verbos. | 당신이 할 일은 동사에 주의를 기울이는 거예요.
+[14:13.76]
+C | Muy bien. Abro bien mis oídos. | 좋아요. 귀를 활짝 열게요.
+[14:16.76]
+C | Estoy listo para escuchar esta nueva historia y encontrar los verbos en el pasado. | 이 새 이야기를 듣고 과거형 동사를 찾을 준비가 됐어요.
+[14:21.44]
+S | Perfecto. Escucha bien. | 좋아요. 잘 들어 보세요.
+[14:24.04]
+S | El sábado por la mañana, yo viajé a otra ciudad. | 토요일 아침에 나는 다른 도시로 여행을 갔어요.
+[14:28.84]
+S | Fui en tren. El viaje duró 2 horas. | 기차로 갔어요. 여행은 2시간 걸렸어요.
+[14:33.64]
+S | Cuando llegué, caminé por la playa y comí un plato típico. | 도착해서 해변을 걷고 그 지역 전통 음식을 먹었어요.
+[14:39.32]
+C | A ver, a ver. Viajé, fui, duró, llegué, caminé, comí. | 어디 보자, 어디 보자. viajé, fui, duró, llegué, caminé, comí.
+[14:50.04]
+C | Muchos verbos en pretérito indefinido. | 단순과거 동사가 많네요.
+[14:52.60]
+C | Son acciones totalmente terminadas. El sábado ya es historia. | 완전히 끝난 행동들이에요. 토요일은 이미 역사죠.
+[14:57.52]
+S | Exactamente. Ahora quiero practicar la conversación en español contigo. | 바로 그거예요. 이제 당신과 스페인어 대화를 연습하고 싶어요.
+[15:03.76]
+S | Hazme preguntas sobre mi viaje. | 내 여행에 대해 질문해 보세요.
+[15:06.28]
+S | Tienes que usar la forma de tú, la segunda persona. | tú 형태, 즉 2인칭을 써야 해요.
+[15:10.16]
+C | Buena idea. Dijiste que yo viajé. | 좋은 생각이에요. 당신은 yo viajé라고 했죠.
+[15:14.12]
+C | Entonces, te pregunto, ¿a qué ciudad viajaste el sábado? | 그러니까 물어볼게요. 토요일에 어느 도시로 여행 갔어요(viajaste)?
+[15:18.28]
+S | Muy buena pregunta. Viajé a la ciudad de Valencia. | 아주 좋은 질문이에요. 발렌시아로 여행 갔어요.
+[15:22.72]
+S | Hacía mucho sol ese día. | 그날은 햇볕이 아주 좋았어요.
+[15:24.80]
+C | Qué bonito. Valencia es famosa por su comida. | 멋지네요. 발렌시아는 음식으로 유명하죠.
+[15:28.20]
+C | Y tú dijiste, "fui en tren". Esa es la forma de yo del verbo ir. | 그리고 "fui en tren(기차로 갔어요)"이라고 했죠. 그건 ir 동사의 yo 형태예요.
+[15:33.60]
+C | Para ti sería, ¿fuiste sola o fuiste con amigos? | 당신에게 묻는다면 "혼자 갔어요(fuiste sola), 아니면 친구들과 갔어요?"가 되겠네요.
+[15:38.40]
+S | Excelente uso del verbo ir en pasado. | ir 과거형을 아주 잘 썼어요.
+[15:41.92]
+S | Fui con mi hermana. Nosotras pasamos un día muy tranquilo. | 언니랑 갔어요. 우리는 아주 평온한 하루를 보냈어요.
+[15:47.40]
+C | A ver, más preguntas. Dijiste que comí un plato típico. | 자, 질문 더 할게요. comí un plato típico라고 했죠.
+[15:53.00]
+C | Entonces, te pregunto, ¿qué plato típico comiste en Valencia? | 그럼 물어볼게요. 발렌시아에서 어떤 전통 음식을 먹었어요(comiste)?
+[15:57.62]
+S | [risas] Comí paella, por supuesto. Estaba deliciosa. | (웃음) 당연히 파에야를 먹었죠. 정말 맛있었어요.
+[16:02.80]
+S | Comimos en un restaurante muy cerca del mar. | 바다 바로 근처 식당에서 먹었어요.
+[16:06.24]
+C | Qué rico. La paella de Valencia es la mejor. | 맛있겠다. 발렌시아 파에야가 최고죠.
+[16:09.84]
+C | Y dime, Sofía, ¿visitaste algún museo famoso en la ciudad? | 그리고 말해 봐요, 소피아. 그 도시에서 유명한 박물관에 가 봤어요(visitaste)?
+[16:14.60]
+S | No, la verdad es que no visité ningún museo. | 아니요, 사실 박물관은 하나도 안 갔어요.
+[16:18.80]
+S | Solo caminamos por las calles y miramos las tiendas. | 거리를 걷고 가게들을 구경하기만 했어요.
+[16:23.08]
+S | No tuve mucho tiempo para hacer otras cosas. | 다른 걸 할 시간이 별로 없었어요.
+[16:26.16]
+C | Es un ejercicio genial. | 정말 좋은 연습이네요.
+[16:27.96]
+C | Cambiar de yo caminé a tú caminaste me ayuda a pensar más rápido. | yo caminé를 tú caminaste로 바꾸는 게 더 빨리 생각하는 데 도움이 돼요.
+[16:33.64]
+C | Es una gran forma de aprender español. | 스페인어를 배우는 아주 좋은 방법이에요.
+[16:35.96]
+S | Así es. La práctica constante hace al maestro. | 맞아요. 꾸준한 연습이 달인을 만들죠.
+[16:40.20]
+S | Y antes de seguir con más ejemplos, vamos a hacer nuestra famosa pausa para estudiar el vocabulario. | 그리고 예문을 더 보기 전에, 어휘를 공부하는 우리의 유명한 쉬는 시간을 가져요.
+[16:47.80]
+S | Es muy importante entender cada detalle. | 세세한 것 하나하나 이해하는 게 아주 중요해요.
+[16:51.28]
+## 어휘 ③ — prestar atención · viajar · durar · playa · visitar
+S | Prestar atención significa concentrar los sentidos en una cosa específica. | prestar atención(주의를 기울이다)은 감각을 특정한 한 가지에 집중한다는 뜻이에요.
+[16:58.08]
+S | Cuando escuchas este podcast, debes prestar atención a la pronunciación de las palabras. | 이 팟캐스트를 들을 때는 단어의 발음에 주의를 기울여야 해요.
+[17:04.56]
+S | Viajar es ir de un lugar a otro, normalmente a un lugar lejos usando un transporte como el avión, el tren o el coche. | viajar(여행하다)는 한 곳에서 다른 곳으로, 보통 비행기, 기차, 차 같은 교통수단을 타고 먼 곳으로 가는 거예요.
+[17:13.44]
+S | A todos los estudiantes nos encanta viajar. | 우리 학생들은 모두 여행을 정말 좋아하죠.
+[17:16.40]
+S | Durar es el tiempo que existe o continúa una cosa. | durar(지속되다, 걸리다)는 무언가가 존재하거나 계속되는 시간이에요.
+[17:21.36]
+S | Por ejemplo, una película puede durar 2 horas o un viaje puede durar muchos días. | 예를 들어 영화는 2시간 걸릴 수 있고, 여행은 여러 날 이어질 수 있어요.
+[17:28.52]
+S | Playa es el lugar al lado del mar con arena o piedras. | playa(해변)는 바다 옆, 모래나 돌이 있는 곳이에요.
+[17:33.12]
+S | En verano muchas personas van a la playa para nadar, tomar el sol y descansar. | 여름에는 많은 사람들이 수영하고, 햇볕을 쬐고, 쉬려고 해변에 가요.
+[17:38.68]
+S | Visitar es ir a un lugar para conocerlo o ir a ver a una persona por un tiempo corto. | visitar(방문하다)는 어떤 곳을 알아보러 가거나, 짧은 시간 누군가를 보러 가는 거예요.
+[17:45.68]
+S | Por ejemplo, visitar a los abuelos o visitar una ciudad nueva. | 예를 들어 조부모님을 찾아뵙거나 새 도시를 방문하는 거죠.
+[17:50.12]
+C | Aprender este vocabulario es fantástico. | 이 어휘를 배우는 거 정말 멋져요.
+[17:52.92]
+C | Me siento más seguro al hablar. | 말할 때 더 자신감이 생겨요.
+[17:54.88]
+C | Y ahora, amigos que nos escuchan, es su turno de participar. | 그리고 이제 듣고 계신 여러분, 여러분이 참여할 차례예요.
+[17:58.92]
+S | Así es. Queremos leer sus historias. | 맞아요. 여러분의 이야기를 읽고 싶어요.
+[18:02.16]
+S | Escribe un comentario usando la palabra visitar en el pasado. | visitar의 과거형을 써서 댓글을 남겨 주세요.
+[18:07.44]
+S | Cuéntanos, ¿qué lugar interesante visitaste el año pasado? | 말해 주세요. 작년에 어떤 흥미로운 곳을 방문했나요?
+[18:11.96]
+S | Usa el pretérito indefinido. | 단순과거를 쓰세요.
+[18:14.52]
+C | Y recuerda, si te gusta aprender con nosotros, por favor, suscríbete al canal de Español Auténtico. | 그리고 기억하세요. 저희와 배우는 게 좋다면 Español Auténtico 채널을 구독해 주세요.
+[18:20.60]
+C | Dale a Me gusta a este vídeo. | 이 영상에 좋아요를 눌러 주세요.
+[18:22.76]
+C | Es un gesto muy pequeño para ti, pero para nosotros es gigante. | 여러분에게는 아주 작은 행동이지만 저희에게는 엄청나게 커요.
+[18:26.88]
+C | Nos ayuda a llegar a más personas que quieren aprender español en todo el mundo. | 전 세계에서 스페인어를 배우고 싶어 하는 더 많은 사람들에게 닿도록 도와줘요.
+[18:31.48]
+S | Muchas gracias a todos los que ya están suscritos y a los miembros del canal. | 이미 구독해 주신 모든 분과 채널 멤버분들께 정말 감사해요.
+[18:36.80]
+S | Su apoyo nos permite seguir creando estas clases de español gratuitas con mucho cariño para ustedes. | 여러분의 응원 덕분에 이 무료 스페인어 수업을 여러분을 위해 정성껏 계속 만들 수 있어요.
+[18:43.84]
+## 불규칙 동사 ③ — tener와 estar: tuve · estuve
+C | Sofía, me gusta mucho imaginar estas situaciones de viaje. Es muy útil. | 소피아, 이런 여행 상황을 상상하는 거 정말 좋아요. 아주 유용해요.
+[18:48.72]
+C | Pero en tu historia usaste una palabra que me dejó pensando. | 그런데 당신 이야기에서 나를 생각하게 만든 단어가 하나 있었어요.
+[18:52.84]
+C | Dijiste, "No tuve tiempo." | "No tuve tiempo(시간이 없었어요)"라고 했죠.
+[18:55.52]
+C | Esa palabra, "tuve", viene del verbo tener. | 그 단어 tuve는 tener 동사에서 왔잖아요.
+[18:59.16]
+C | Pero suena muy diferente a la regla normal. | 그런데 보통 규칙이랑은 소리가 아주 달라요.
+[19:02.16]
+C | ¿Es otro de esos famosos verbos irregulares? | 그 유명한 불규칙 동사 중 하나인가요?
+[19:06.04]
+S | Qué buen oído tienes, Carlos. | 귀가 정말 좋네요, 카를로스.
+[19:08.40]
+S | Sí, el verbo tener es otro de esos verbos rebeldes. | 네, tener 동사도 그 반항아 동사 중 하나예요.
+[19:12.88]
+S | Es un verbo muy importante en nuestras clases de español. | 우리 스페인어 수업에서 아주 중요한 동사예요.
+[19:17.40]
+C | [suspiro] Lo sabía. Siempre hay más excepciones. | (한숨) 그럴 줄 알았어요. 예외는 늘 더 있죠.
+[19:21.08]
+C | Entonces, ¿cómo es la conjugación completa? | 그럼 전체 활용은 어떻게 돼요?
+[19:23.84]
+C | Necesito anotar esto para mejorar mi vocabulario español. | 스페인어 어휘를 늘리려면 이걸 적어 둬야겠어요.
+[19:27.72]
+S | No es tan difícil, ya verás. Toma nota. | 그렇게 어렵지 않아요, 곧 알게 될 거예요. 적어 두세요.
+[19:31.36]
+S | Yo tuve, tú tuviste, él tuvo, nosotros tuvimos, vosotros tuvisteis, ellos tuvieron. | yo tuve, tú tuviste, él tuvo, nosotros tuvimos, vosotros tuvisteis, ellos tuvieron.
+[19:40.68]
+S | Usamos esto muchísimo para hablar de situaciones, estados o posesiones en el pasado que ya terminaron. | 이미 끝난 과거의 상황, 상태, 소유를 말할 때 이걸 아주 많이 써요.
+[19:48.72]
+C | Entiendo. Por ejemplo, si hablo de un coche viejo, puedo decir, "El año pasado tuve un coche rojo." | 알겠어요. 예를 들어 옛날 차 얘기를 하면 "작년에 나는 빨간 차가 있었다(El año pasado tuve un coche rojo)"라고 할 수 있겠네요.
+[19:56.96]
+C | La acción de poseer el coche empezó y terminó el año pasado. | 차를 소유한 행동이 작년에 시작해서 작년에 끝난 거죠.
+[20:01.40]
+C | Hoy no tengo ese coche. | 지금은 그 차가 없어요.
+[20:03.68]
+S | Exacto. Tienes una intuición excelente para aprender español. | 정확해요. 스페인어 배우는 감이 정말 뛰어나요.
+[20:08.24]
+S | Y te voy a dar una buena noticia. | 그리고 좋은 소식을 하나 줄게요.
+[20:10.44]
+S | Hay otro verbo irregular muy común que es casi igual. Es el verbo estar. | 거의 똑같은, 아주 흔한 불규칙 동사가 또 있어요. estar 동사예요.
+[20:16.48]
+C | ¿El verbo estar? ¿Es similar a tener en el pasado? | estar 동사요? 과거형이 tener랑 비슷해요?
+[20:20.52]
+S | Sí. Mira qué parecidos son en el pretérito indefinido. | 네. 단순과거에서 얼마나 닮았는지 보세요.
+[20:25.04]
+S | Yo estuve, tú estuviste, él estuvo, nosotros estuvimos, vosotros estuvisteis, ellos estuvieron. | yo estuve, tú estuviste, él estuvo, nosotros estuvimos, vosotros estuvisteis, ellos estuvieron.
+[20:35.44]
+C | Ah, claro, tienen el mismo sonido con la letra u y la letra v. | 아, 그렇네요. u와 v가 들어간 같은 소리가 나요.
+[20:40.56]
+C | Tuve, estuve. Tuvo, estuvo. Tuvimos, estuvimos. | tuve, estuve. tuvo, estuvo. tuvimos, estuvimos.
+[20:46.44]
+C | Esto ayuda muchísimo a la memoria. Es un gran truco. | 이건 기억하는 데 정말 큰 도움이 돼요. 대단한 요령이네요.
+[20:50.08]
+S | Es un truco estupendo para el español para extranjeros. | 외국인을 위한 스페인어에서 아주 훌륭한 요령이에요.
+[20:53.76]
+S | Agrupar los verbos por sonidos similares hace que tu cerebro los recuerde más rápido. | 비슷한 소리끼리 동사를 묶으면 뇌가 더 빨리 기억해요.
+[20:59.92]
+S | Ahora vamos a hacer una comparación muy útil. | 이제 아주 유용한 비교를 해 볼게요.
+[21:03.52]
+C | Te escucho. | 듣고 있어요.
+[21:04.64]
+C | Quiero entender bien la diferencia para mejorar mi nivel y poder hablar español sin pensar tanto en las reglas. | 실력을 높이고, 규칙을 너무 생각하지 않고 스페인어를 말할 수 있도록 차이를 잘 이해하고 싶어요.
+[21:11.00]
+S | Escucha estas dos frases. | 이 두 문장을 들어 보세요.
+[21:13.56]
+S | Frase uno, hoy he estado muy ocupada. | 문장 1. "오늘 나는 아주 바빴다(hoy he estado muy ocupada)."
+[21:17.32]
+S | Frase dos, ayer estuve muy ocupada. | 문장 2. "어제 나는 아주 바빴다(ayer estuve muy ocupada)."
+[21:21.28]
+S | ¿Puedes explicar la diferencia para nuestros oyentes? | 청취자분들을 위해 차이를 설명해 줄 수 있어요?
+[21:24.80]
+C | Sí. En la frase uno dices, hoy he estado. | 네. 문장 1에서는 hoy he estado라고 했어요.
+[21:29.20]
+C | Usas el pretérito perfecto porque el día hoy todavía no termina. | '오늘'이 아직 끝나지 않았으니까 현재완료를 쓴 거예요.
+[21:34.28]
+C | El tiempo está abierto. Es tu situación actual. | 시간이 열려 있어요. 지금 당신의 상황이죠.
+[21:37.84]
+S | Correcto. ¿Y la frase dos? | 맞아요. 그럼 문장 2는요?
+[21:40.36]
+C | En la frase dos dices, ayer estuve. | 문장 2에서는 ayer estuve라고 했어요.
+[21:43.68]
+C | Usas el pretérito indefinido porque el día ayer ya está cerrado. | '어제'는 이미 닫혀 있으니까 단순과거를 쓴 거예요.
+[21:48.56]
+C | La acción de estar ocupada terminó ayer en la noche. | 바빴던 상태는 어젯밤에 끝났어요.
+[21:52.44]
+C | No afecta directamente a tu momento presente. | 지금 이 순간에는 직접 영향을 주지 않아요.
+[21:55.76]
+S | Brillante. Es la mejor explicación. | 훌륭해요. 최고의 설명이에요.
+[21:59.20]
+S | Ahora te toca a ti practicar. | 이제 당신이 연습할 차례예요.
+[22:01.32]
+S | Te voy a hacer una pregunta y tú me respondes usando estos verbos. | 내가 질문을 하나 할 테니 이 동사들을 써서 대답해 줘요.
+[22:05.96]
+S | Carlos, ¿tuviste tiempo libre el fin de semana pasado? | 카를로스, 지난 주말에 자유 시간이 있었어요(tuviste)?
+[22:10.04]
+C | A ver, el fin de semana pasado, yo tuve. No. | 어디 보자, 지난 주말에 나는 tuve… 아니요.
+[22:16.88]
+C | La verdad es que el fin de semana pasado no tuve mucho tiempo libre. | 사실 지난 주말에는 자유 시간이 별로 없었어요.
+[22:21.20]
+C | Estuve estudiando para mis exámenes de la universidad. | 대학 시험 공부를 하고 있었거든요.
+[22:24.60]
+S | Qué buena respuesta. | 정말 좋은 대답이에요.
+[22:26.36]
+S | Usaste no tuve y también usaste estuve. | no tuve도 쓰고 estuve도 썼어요.
+[22:30.28]
+S | Las dos formas son perfectas para hablar de un fin de semana que ya pasó. | 두 형태 모두 이미 지나간 주말을 말하는 데 딱 맞아요.
+[22:35.20]
+S | Para tener una buena Spanish comprehension practice, hacer este tipo de contrastes es fundamental. | 스페인어 이해 연습을 잘하려면 이런 식의 대조가 핵심이에요.
+[22:42.12]
+C | Me siento muy bien. Estos ejercicios me dan mucha confianza. | 기분이 아주 좋아요. 이런 연습이 자신감을 많이 줘요.
+[22:46.80]
+C | Creo que vamos por muy buen camino. | 우리가 아주 잘 가고 있는 것 같아요.
+[22:49.44]
+C | Sofía, ¿qué te parece si hacemos nuestra sección para analizar las palabras? | 소피아, 단어 분석 코너를 하는 게 어때요?
+[22:54.56]
+S | Me parece perfecto. | 아주 좋아요.
+[22:56.20]
+## 어휘 ④ — oído · rebelde · anotar · poseer · truco
+S | Vamos a explicar algunas palabras interesantes que usamos en esta parte de la conversación. | 이번 대화에서 쓴 흥미로운 단어 몇 개를 설명해 볼게요.
+[23:02.08]
+S | Oído. Es el sentido que usamos para escuchar. | oído(청각, 귀). 들을 때 쓰는 감각이에요.
+[23:06.00]
+S | Cuando decimos tienes buen oído, significa que puedes notar pequeños detalles en los sonidos o en la pronunciación española. | tienes buen oído(귀가 좋다)라고 하면, 소리나 스페인어 발음의 작은 디테일을 알아챌 수 있다는 뜻이에요.
+[23:14.52]
+S | Rebelde. Es alguien o algo que no quiere seguir las reglas normales. | rebelde(반항적인). 보통 규칙을 따르고 싶어 하지 않는 사람이나 것이에요.
+[23:20.08]
+S | En español decimos de forma divertida que los verbos irregulares son rebeldes. | 스페인어에서는 재미있게 불규칙 동사를 반항아라고 해요.
+[23:25.80]
+S | Anotar. Es escribir una cosa importante en un papel, en un cuaderno o en el teléfono. | anotar(적어 두다). 중요한 걸 종이나 공책, 휴대폰에 적는 거예요.
+[23:32.36]
+S | Es un hábito excelente para no olvidar las frases en español que aprendemos. | 배운 스페인어 문장을 잊지 않기 위한 아주 좋은 습관이에요.
+[23:37.36]
+S | Poseer. Es ser el dueño de algo. Tener una cosa material o inmaterial. | poseer(소유하다). 무언가의 주인이 되는 것, 물질적이거나 비물질적인 것을 가지는 거예요.
+[23:43.32]
+S | Por ejemplo, poseer una casa grande o poseer un talento especial. | 예를 들어 큰 집을 소유하거나 특별한 재능을 지니는 거죠.
+[23:48.48]
+S | Truco. Es un sistema, una idea inteligente o un atajo para hacer algo de una manera más fácil y rápida. | truco(요령, 꿀팁). 무언가를 더 쉽고 빠르게 하기 위한 방법, 똑똑한 아이디어, 지름길이에요.
+[23:56.72]
+S | Aprender verbos con sonidos similares es un buen truco. | 비슷한 소리의 동사를 같이 배우는 건 좋은 요령이에요.
+[24:00.52]
+C | Qué buenas explicaciones. | 정말 좋은 설명이네요.
+[24:02.40]
+C | Los trucos son definitivamente mis favoritos. | 요령은 확실히 제가 제일 좋아하는 거예요.
+[24:06.04]
+C | Y quiero decirles a todos los que nos escuchan, dejen un comentario usando la palabra truco. | 그리고 듣고 계신 모든 분께 말씀드리고 싶어요. truco라는 단어를 써서 댓글을 남겨 주세요.
+[24:12.68]
+C | Cuéntenos, ¿tienen algún truco especial para recordar palabras en español? | 말해 주세요. 스페인어 단어를 기억하는 특별한 요령이 있나요?
+[24:18.24]
+S | Sí, nos encantará leer todos sus trucos. | 네, 여러분의 요령을 전부 읽어 보고 싶어요.
+[24:21.84]
+S | La comunidad de Español Auténtico es maravillosa y si les gusta este contenido, por favor, suscríbanse al canal y denle me gusta al video. | Español Auténtico 커뮤니티는 정말 멋져요. 이 콘텐츠가 마음에 드신다면 채널을 구독하고 영상에 좋아요를 눌러 주세요.
+[24:31.84]
+S | Comentar y suscribirse ayuda muchísimo a que YouTube recomiende nuestras clases a más personas. | 댓글과 구독은 유튜브가 저희 수업을 더 많은 사람에게 추천하도록 정말 큰 도움이 돼요.
+[24:38.52]
+## 규칙 동사 -er · -ir — comí · viví (어미가 똑같아요)
+C | Sofía, hemos practicado verbos irregulares como tener, estar, ser y hacer. | 소피아, 우리는 tener, estar, ser, hacer 같은 불규칙 동사를 연습했어요.
+[24:45.04]
+C | Y en la primera parte vimos verbos regulares que terminan en ar, como comprar y cenar. | 그리고 첫 부분에서는 comprar, cenar처럼 -ar로 끝나는 규칙 동사를 봤죠.
+[24:51.64]
+C | Pero, ¿qué pasa con los verbos regulares que terminan en er y en ir? | 그런데 -er와 -ir로 끝나는 규칙 동사는 어떻게 돼요?
+[24:56.68]
+C | Por ejemplo, verbos tan comunes como comer y vivir, ¿sus reglas son muy diferentes? | 예를 들어 comer(먹다), vivir(살다)처럼 아주 흔한 동사들은 규칙이 많이 달라요?
+[25:03.44]
+S | Esa es una pregunta excelente, Carlos, y tengo muy buenas noticias para ti y para todos nuestros estudiantes de clases de español. | 아주 좋은 질문이에요, 카를로스. 그리고 당신과 우리 스페인어 수업의 모든 학생들에게 아주 좋은 소식이 있어요.
+[25:14.24]
+S | Los verbos regulares que terminan en er y en ir son muy fáciles de recordar en el pretérito indefinido. | -er와 -ir로 끝나는 규칙 동사는 단순과거에서 기억하기가 아주 쉬워요.
+[25:24.56]
+C | Me encantan las buenas noticias. | 좋은 소식은 언제나 환영이에요.
+[25:26.64]
+C | Aprender vocabulario español es mucho más fácil cuando las reglas son simples. | 규칙이 단순하면 스페인어 어휘 배우기가 훨씬 쉬워지죠.
+[25:31.52]
+C | ¿Qué tienen de especial estos verbos? | 이 동사들은 뭐가 특별해요?
+[25:34.12]
+S | Lo especial es que comparten exactamente las mismas terminaciones en este tiempo del pasado. | 특별한 점은 이 과거 시제에서 어미가 완전히 똑같다는 거예요.
+[25:42.36]
+S | Son idénticos. | 똑같아요.
+[25:44.24]
+S | Si aprendes la regla para el grupo er, ya sabes la regla para el grupo ir. | -er 그룹 규칙을 배우면 -ir 그룹 규칙도 이미 아는 거예요.
+[25:51.20]
+C | ¡Wow! Eso es un gran ahorro de tiempo para aprender español. | 와! 스페인어 배우는 데 시간이 엄청 절약되네요.
+[25:55.48]
+C | A ver, Sofía, muéstrame cómo funciona con un verbo muy común como el verbo comer. | 자, 소피아, comer처럼 아주 흔한 동사로 어떻게 되는지 보여 줘요.
+[26:01.56]
+S | Escucha con atención la terminación de cada palabra. | 각 단어의 어미를 주의해서 들어 보세요.
+[26:06.48]
+S | Yo comí, tú comiste, él comió, nosotros comimos, vosotros comisteis, ellos comieron. | yo comí, tú comiste, él comió, nosotros comimos, vosotros comisteis, ellos comieron.
+[26:18.76]
+C | Comí, comiste, comió. Tienen muchas letras i. | comí, comiste, comió. i가 많이 들어가네요.
+[26:23.68]
+C | Y escucho que el acento fuerte de la voz está al final en la forma de yo y en la forma de él. | 그리고 yo 형태와 él 형태에서는 강세가 끝에 오는 게 들려요.
+[26:30.00]
+C | Yo comí, él comió. | yo comí, él comió.
+[26:32.68]
+S | Exactamente. | 정확해요.
+[26:34.16]
+S | La pronunciación española es muy importante aquí para no confundir los tiempos. | 여기서는 시제를 헷갈리지 않으려면 스페인어 발음이 아주 중요해요.
+[26:40.76]
+S | El acento fuerte al final nos dice claramente que la acción es en el pasado. | 끝에 오는 강한 강세가 그 행동이 과거라는 걸 분명히 알려 줘요.
+[26:47.92]
+S | Ahora veamos un verbo con ir. El verbo vivir. | 이제 -ir 동사를 봐요. vivir 동사예요.
+[26:53.28]
+S | Sigue el mismo modelo. | 같은 모델을 따라요.
+[26:55.60]
+S | Yo viví, tú viviste, él vivió. Nosotros vivimos, vosotros vivisteis, ellos vivieron. | yo viví, tú viviste, él vivió. nosotros vivimos, vosotros vivisteis, ellos vivieron.
+[27:05.12]
+C | Es verdad. Son las mismas letras finales que el verbo comer. | 정말이네요. comer 동사와 끝 글자가 똑같아요.
+[27:09.24]
+C | Es una regla muy amistosa para los estudiantes. | 학생들에게 아주 친절한 규칙이네요.
+[27:12.72]
+S | Así es. Ahora vamos a practicar con un ejercicio de completar la frase. | 맞아요. 이제 문장 완성하기 연습을 해 봐요.
+[27:19.04]
+S | Te digo el contexto temporal y el verbo en infinitivo y tú haces la conjugación correcta. | 내가 시간 맥락과 동사원형을 말하면, 당신이 알맞게 활용하는 거예요.
+[27:26.88]
+C | Estoy muy listo y espero que el público también practique en casa para mejorar su Spanish conversation. | 완전히 준비됐고, 청취자분들도 스페인어 대화 실력을 늘리려고 집에서 같이 연습하셨으면 해요.
+[27:33.04]
+C | Hablar en voz alta ayuda mucho. | 소리 내어 말하는 게 큰 도움이 돼요.
+[27:35.68]
+S | Primera frase. El año pasado, mi hermano vivir en Madrid por 6 meses. | 첫 번째 문장. "작년에 내 남동생은 6개월 동안 마드리드에 살다(vivir)."
+[27:44.60]
+C | A ver, el año pasado es un marcador de tiempo terminado. | 어디 보자, el año pasado는 끝난 시간의 표지어예요.
+[27:49.32]
+C | Mi hermano corresponde a él. | mi hermano는 él에 해당하고요.
+[27:52.24]
+C | Entonces, la respuesta es El año pasado, mi hermano vivió en Madrid por 6 meses. | 그러니까 답은 "El año pasado, mi hermano vivió en Madrid por 6 meses(작년에 내 남동생은 6개월 동안 마드리드에 살았다)"예요.
+[27:59.28]
+S | Muy bien. Terminación en -ió con acento. | 아주 좋아요. 강세 부호가 붙은 -ió 어미예요.
+[28:04.44]
+S | Segunda frase. Ayer, nosotros comer una pizza enorme en la cena. | 두 번째 문장. "어제 우리는 저녁에 거대한 피자를 먹다(comer)."
+[28:13.04]
+C | La palabra ayer es un tiempo cerrado. | ayer라는 단어는 닫힌 시간이에요.
+[28:16.00]
+C | La forma de nosotros para el verbo comer es comimos. | comer 동사의 nosotros 형태는 comimos예요.
+[28:21.52]
+C | Ayer nosotros comimos una pizza enorme en la cena. | "Ayer nosotros comimos una pizza enorme en la cena(어제 우리는 저녁에 거대한 피자를 먹었다)."
+[28:25.68]
+C | Un momento, Sofía. La palabra comimos no tiene acento escrito, ¿verdad? | 잠깐만요, 소피아. comimos에는 강세 부호가 없죠?
+[28:31.08]
+S | Es correcto. No tiene acento escrito, es una palabra llana, igual que vivimos. | 맞아요. 강세 부호가 없어요. vivimos처럼 끝에서 두 번째 음절에 강세가 오는 단어(palabra llana)예요.
+[28:38.12]
+S | Y aquí hay un detalle curioso que ya vimos un poco antes. | 그리고 여기엔 아까 조금 봤던 흥미로운 디테일이 있어요.
+[28:42.84]
+S | Para los verbos que terminan en ir, la forma de nosotros es totalmente igual en presente y en pretérito indefinido. | -ir로 끝나는 동사는 nosotros 형태가 현재와 단순과거에서 완전히 같아요.
+[28:53.48]
+S | Podemos decir, hoy vivimos aquí y el año pasado vivimos allá. | "오늘 우리는 여기 산다(hoy vivimos aquí)", "작년에 우리는 저기 살았다(el año pasado vivimos allá)"라고 할 수 있어요.
+[29:00.68]
+C | Ah, claro, es exactamente lo mismo que pasaba con la terminación ar en el verbo compramos. | 아, 그렇네요. -ar 어미의 compramos에서 있던 일이랑 똑같아요.
+[29:08.12]
+C | Una vez más, el contexto de la frase vuelve a ser nuestro salvador. | 이번에도 문장의 맥락이 우리의 구원자가 되네요.
+[29:13.08]
+S | Siempre, el contexto es el rey para hablar español con naturalidad. | 언제나, 스페인어를 자연스럽게 말하는 데는 맥락이 왕이에요.
+[29:18.96]
+S | Si prestas atención a las palabras del tiempo, nunca vas a fallar. | 시간을 나타내는 단어에 주의를 기울이면 절대 틀리지 않을 거예요.
+[29:24.80]
+S | Ahora vamos a hacer nuestro análisis de vocabulario para asegurar que entendemos todo perfectamente. | 이제 모두 완벽하게 이해했는지 확인하려고 어휘 분석을 해 볼게요.
+[29:33.40]
+## 어휘 ⑤ — idéntico · ahorro · modelo · salvador · naturalidad
+S | Idéntico, significa que dos cosas son exactamente iguales, sin ninguna diferencia, como las terminaciones de los verbos er y ir en este tiempo pasado. | idéntico(똑같은)는 두 가지가 아무 차이 없이 완전히 같다는 뜻이에요. 이 과거 시제에서 -er와 -ir 동사의 어미처럼요.
+[29:47.92]
+S | Ahorro, es el resultado de usar menos tiempo, dinero o energía. | ahorro(절약)는 시간, 돈, 에너지를 덜 쓴 결과예요.
+[29:53.36]
+S | Aprender reglas que sirven para dos grupos de verbos es un gran ahorro de esfuerzo al estudiar. | 두 동사 그룹에 다 통하는 규칙을 배우면 공부할 때 노력이 크게 절약돼요.
+[29:59.28]
+S | Modelo, es un ejemplo excelente que sirve como guía para hacer otras cosas iguales. | modelo(모델, 본보기)는 같은 것을 만들 때 길잡이가 되는 훌륭한 예예요.
+[30:07.00]
+S | El verbo comer es un modelo perfecto para todos los verbos regulares en er. | comer 동사는 모든 -er 규칙 동사의 완벽한 본보기예요.
+[30:13.96]
+S | Salvador, es una persona o una cosa que te ayuda a salir de una situación difícil. | salvador(구원자)는 어려운 상황에서 벗어나게 도와주는 사람이나 것이에요.
+[30:20.04]
+S | Para nosotros los estudiantes, el contexto es un salvador cuando dudamos de un verbo. | 우리 학생들에게는 동사가 헷갈릴 때 맥락이 구원자예요.
+[30:25.84]
+S | Naturalidad, es la forma de hablar o actuar de manera relajada, sin forzar nada, fluyendo de forma tranquila, como lo hace un español nativo. | naturalidad(자연스러움)는 원어민 스페인 사람처럼 아무것도 억지로 하지 않고 편안하게, 차분히 흘러가듯 말하거나 행동하는 방식이에요.
+[30:38.28]
+C | Qué vocablos tan útiles. | 정말 유용한 어휘들이네요.
+[30:40.32]
+C | Recuerden, amigos, escriban una frase en los comentarios usando la palabra ahorro o la palabra modelo. | 친구 여러분, 기억하세요. ahorro나 modelo를 써서 댓글에 문장을 하나 써 주세요.
+[30:47.48]
+C | Queremos leer y corregir su Spanish comprehension practice. | 여러분의 스페인어 연습을 읽고 고쳐 드리고 싶어요.
+[30:51.36]
+C | Y si aún no lo han hecho, por favor, suscríbanse al canal, dejen un like y compartan. | 그리고 아직 안 하셨다면 채널을 구독하고, 좋아요를 누르고, 공유해 주세요.
+[30:57.24]
+C | Nos ayudan muchísimo a seguir con Español Auténtico. | Español Auténtico를 계속하는 데 정말 큰 도움이 돼요.
+[31:00.92]
+C | Y si quieren, pueden unirse como miembros para apoyar nuestro trabajo. | 원하시면 멤버로 가입해서 저희 작업을 응원하실 수도 있어요.
+[31:05.64]
+S | Sí, cada pequeño apoyo, cada comentario y cada me gusta significan el mundo para nosotros. | 네, 작은 응원 하나, 댓글 하나, 좋아요 하나가 저희에겐 세상 전부예요.
+[31:13.96]
+S | Gracias a ustedes, el canal sigue vivo. | 여러분 덕분에 채널이 계속 살아 있어요.
+[31:17.56]
+## 혼합 연습 — 같은 문장을 hoy(현재완료) / ayer(단순과거)로
+S | Bueno, Carlos, ahora quiero ponerte a prueba un poco más. | 자, 카를로스, 이제 당신을 조금 더 시험해 보고 싶어요.
+[31:22.56]
+S | Vamos a mezclar el pretérito perfecto y el indefinido usando estos verbos con er y ir. | 이 -er, -ir 동사들로 현재완료와 단순과거를 섞어 볼 거예요.
+[31:30.84]
+C | Me parece perfecto. | 아주 좋아요.
+[31:32.76]
+C | Es la mejor forma de fijar el conocimiento en el cerebro. | 지식을 뇌에 고정하는 최고의 방법이죠.
+[31:36.24]
+C | ¿Cómo hacemos este nuevo ejercicio? | 이 새 연습은 어떻게 해요?
+[31:38.72]
+S | Te voy a dar una frase básica. | 기본 문장을 하나 줄게요.
+[31:41.56]
+S | Tú vas a cambiarla primero al pretérito perfecto usando la palabra hoy y luego vas a cambiar la misma frase al pretérito indefinido usando la palabra ayer. | 먼저 hoy를 써서 현재완료로 바꾸고, 그다음 같은 문장을 ayer를 써서 단순과거로 바꾸는 거예요.
+[31:55.44]
+C | Entendido. Una misma acción, dos tiempos diferentes según el reloj. | 알겠어요. 같은 행동, 시계에 따라 다른 두 시제.
+[32:01.12]
+S | Vamos con el reto. La frase base es yo bebo mucha agua. | 도전해 봐요. 기본 문장은 "나는 물을 많이 마신다(yo bebo mucha agua)"예요.
+[32:07.44]
+S | Primero, cámbiala usando hoy. | 먼저 hoy를 써서 바꿔 보세요.
+[32:10.56]
+C | Con hoy, el bloque de tiempo está conectado al presente, entonces uso el perfecto. | hoy면 시간 덩어리가 현재와 이어져 있으니까 현재완료를 써요.
+[32:16.84]
+C | La frase es hoy he bebido mucha agua. | 문장은 "hoy he bebido mucha agua(오늘 나는 물을 많이 마셨다)"예요.
+[32:20.92]
+S | Excelente. Y ahora, cambia esa frase usando ayer. | 훌륭해요. 이번엔 그 문장을 ayer로 바꿔 보세요.
+[32:26.44]
+C | Con ayer, la acción y el tiempo ya terminaron, son parte de la historia. | ayer면 행동도 시간도 이미 끝났어요. 역사의 일부죠.
+[32:32.04]
+C | Uso el indefinido. La frase es ayer bebí mucha agua. | 단순과거를 써요. 문장은 "ayer bebí mucha agua(어제 나는 물을 많이 마셨다)"예요.
+[32:37.88]
+S | Perfecto. Vamos con otra. | 완벽해요. 다른 걸로 가요.
+[32:40.80]
+S | La frase es, nosotros salimos de casa temprano. | 문장은 "우리는 일찍 집을 나선다(nosotros salimos de casa temprano)"예요.
+[32:45.64]
+S | Hazlo primero con esta semana. | 먼저 esta semana(이번 주)로 해 보세요.
+[32:48.44]
+C | Esta semana todavía está ocurriendo, es el perfecto. | 이번 주는 아직 진행 중이니까 현재완료예요.
+[32:52.96]
+C | La frase es, esta semana hemos salido de casa temprano. | 문장은 "esta semana hemos salido de casa temprano(이번 주에 우리는 일찍 집을 나섰다)"예요.
+[32:58.08]
+S | Muy bien. Y ahora cambia la frase usando la semana pasada. | 아주 좋아요. 이제 la semana pasada(지난주)로 바꿔 보세요.
+[33:04.28]
+C | La semana pasada es un tiempo cerrado. Es el indefinido. | 지난주는 닫힌 시간이에요. 단순과거죠.
+[33:08.84]
+C | Para nosotros el verbo salir es igual. | nosotros에서는 salir 동사가 똑같아요.
+[33:13.16]
+C | La frase es, la semana pasada salimos de casa temprano. | 문장은 "la semana pasada salimos de casa temprano(지난주에 우리는 일찍 집을 나섰다)"예요.
+[33:18.16]
+S | No tienes fallos, Carlos. | 하나도 안 틀리네요, 카를로스.
+[33:20.28]
+S | Tu nivel español A1 está quedando atrás y estás subiendo rapidísimo hacia un español avanzado. | A1 수준은 뒤로 하고 고급 스페인어를 향해 아주 빠르게 올라가고 있어요.
+[33:29.12]
+S | Entender esta pequeña diferencia te ayuda mucho a crear frases en español muy correctas. | 이 작은 차이를 이해하면 아주 정확한 스페인어 문장을 만드는 데 큰 도움이 돼요.
+[33:36.52]
+## 어간 모음 변화 — pedir → pidió · dormir → durmió (3인칭만)
+C | Gracias, Sofía. Tú haces que aprender parezca un juego muy fácil. | 고마워요, 소피아. 당신 덕분에 배우는 게 아주 쉬운 게임처럼 느껴져요.
+[33:41.32]
+C | Pero me doy cuenta de algo mientras hacemos esto. | 그런데 이걸 하면서 뭔가를 깨달았어요.
+[33:44.60]
+C | Hay verbos regulares, hay verbos que comparten reglas y hay verbos totalmente irregulares. | 규칙 동사가 있고, 규칙을 공유하는 동사가 있고, 완전히 불규칙한 동사가 있잖아요.
+[33:51.60]
+C | Pero hay verbos en el indefinido que cambian solo un poquito, como que cambian solo una vocal en medio de la palabra, como ocurre en el tiempo presente con los verbos pedir o dormir. | 그런데 단순과거에서 아주 조금만 바뀌는 동사도 있어요. 현재 시제의 pedir나 dormir처럼, 단어 중간의 모음 하나만 바뀌는 식으로요.
+[34:02.96]
+C | ¿Qué pasa con esos verbos en el pasado? | 그런 동사는 과거형에서 어떻게 돼요?
+[34:05.44]
+S | Carlos, qué pregunta tan inteligente. | 카를로스, 정말 똑똑한 질문이에요.
+[34:08.76]
+S | Tienes mucha intuición para aprender español. | 스페인어 배우는 감이 정말 좋아요.
+[34:12.12]
+S | Sí, existen esos verbos. Son verbos muy especiales en el pretérito indefinido. | 네, 그런 동사가 있어요. 단순과거에서 아주 특별한 동사들이에요.
+[34:18.64]
+S | Tienen un pequeño cambio en una vocal. | 모음 하나에 작은 변화가 있어요.
+[34:21.32]
+C | Lo sabía. | 그럴 줄 알았어요.
+[34:22.48]
+C | Mi cerebro nota esos pequeños detalles cuando hago mi Spanish listening practice con canciones o películas. | 노래나 영화로 스페인어 듣기 연습을 할 때 제 뇌가 그런 작은 디테일을 알아채거든요.
+[34:29.24]
+C | ¿Y cómo funciona este cambio? ¿Es muy difícil? | 그럼 이 변화는 어떻게 돼요? 많이 어려워요?
+[34:33.32]
+S | No, para nada. Es muy fácil si prestas atención a una regla de oro. | 아뇨, 전혀요. 황금률 하나에만 주의하면 아주 쉬워요.
+[34:39.32]
+S | El cambio de la vocal ocurre solamente en la tercera persona, es decir, en la forma de él, ella, usted y en la forma plural, ellos, ellas, ustedes. | 모음 변화는 3인칭에서만 일어나요. 즉 él, ella, usted 형태와 복수형 ellos, ellas, ustedes에서요.
+[34:53.24]
+C | A ver si entiendo. | 제가 이해했는지 볼게요.
+[34:54.92]
+C | La forma de yo, tú y nosotros es completamente regular, normal. | yo, tú, nosotros 형태는 완전히 규칙적이고 평범하고요.
+[35:01.48]
+C | El verbo no cambia su vocal en esas personas. | 그 인칭들에서는 동사의 모음이 안 바뀌는 거죠.
+[35:05.16]
+S | Exactamente, Carlos. Vamos a ver tu primer ejemplo. | 바로 그거예요, 카를로스. 첫 번째 예를 볼게요.
+[35:09.24]
+S | El verbo pedir. La letra E cambia a la letra I. | pedir 동사. e가 i로 바뀌어요.
+[35:14.36]
+S | Escucha cómo es la forma de yo. Yo pedí. Es regular. | yo 형태가 어떤지 들어 보세요. yo pedí. 규칙적이에요.
+[35:19.80]
+C | Claro. Yo pedí. Tú pediste. Nosotros pedimos. | 그렇네요. yo pedí. tú pediste. nosotros pedimos.
+[35:25.08]
+C | Todo es normal con la letra E. | 전부 e 그대로, 평범해요.
+[35:27.56]
+S | Muy bien, pero atención ahora. Para él, la E cambia a I. | 아주 좋아요, 그런데 이제 주의하세요. él에서는 e가 i로 바뀌어요.
+[35:33.56]
+S | Decimos, él pidió. Y para ellos, decimos, ellos pidieron. | él pidió라고 해요. 그리고 ellos에서는 ellos pidieron이라고 해요.
+[35:39.80]
+S | ¿Ves el cambio? Pidió, pidieron. | 변화가 보여요? pidió, pidieron.
+[35:43.80]
+C | Ah, es cierto. Él pidió una pizza. Ellos pidieron agua. | 아, 정말이네요. "그는 피자를 주문했다(Él pidió una pizza)." "그들은 물을 주문했다(Ellos pidieron agua)."
+[35:49.56]
+C | Suena muy natural. Creo que es más fácil de pronunciar así. | 아주 자연스럽게 들려요. 이렇게 하는 게 발음하기 더 쉬운 것 같아요.
+[35:53.88]
+C | Esta pronunciación española tiene mucha musicalidad. | 스페인어 발음은 음악성이 참 풍부해요.
+[35:57.52]
+S | Sí, es por la comodidad de la boca al hablar español. | 네, 스페인어를 말할 때 입이 편하라고 그런 거예요.
+[36:02.20]
+S | Ahora vamos con tu segundo ejemplo. El verbo dormir. | 이제 두 번째 예로 가요. dormir 동사예요.
+[36:06.28]
+S | Aquí, la letra O cambia a la letra U. | 여기서는 o가 u로 바뀌어요.
+[36:09.96]
+C | Bien. Aplico la regla. | 좋아요. 규칙을 적용해 볼게요.
+[36:12.68]
+C | Yo, tú y nosotros son regulares. | yo, tú, nosotros는 규칙적이에요.
+[36:16.12]
+C | Entonces, yo dormí, tú dormiste, nosotros dormimos. | 그러니까 yo dormí, tú dormiste, nosotros dormimos.
+[36:21.40]
+S | Perfecto. Y ahora, ¿cómo es la forma de él y de ellos? | 완벽해요. 그럼 이제 él과 ellos 형태는 어떻게 될까요?
+[36:26.48]
+S | Recuerda, la O cambia a U. | 기억하세요, o가 u로 바뀌어요.
+[36:29.40]
+C | A ver. Él durmió. Y en plural, ellos durmieron. | 어디 보자. él durmió. 그리고 복수로는 ellos durmieron.
+[36:35.20]
+C | Qué interesante. Ayer mi perro durmió todo el día en el sofá. | 재미있네요. "어제 우리 개는 소파에서 하루 종일 잤다(Ayer mi perro durmió todo el día en el sofá)."
+[36:40.32]
+S | Es un ejemplo excelente. | 아주 훌륭한 예예요.
+[36:42.92]
+S | Ahora, para mejorar tu nivel y tener una buena conversación en español, vamos a mezclar todo. | 이제 실력을 높이고 스페인어 대화를 잘하기 위해, 전부 섞어 볼 거예요.
+[36:49.88]
+S | Vamos a hacer un ejercicio de completar la frase usando el pretérito perfecto y el pretérito indefinido. | 현재완료와 단순과거를 써서 문장 완성하기 연습을 해 봐요.
+[36:57.52]
+C | Genial, me encantan estos retos. | 좋아요, 이런 도전 정말 좋아해요.
+[37:00.20]
+C | Es la mejor forma de memorizar frases en español. | 스페인어 문장을 외우는 최고의 방법이에요.
+[37:03.48]
+C | Estoy listo. ¿Y ustedes en casa? Respondan conmigo. | 저는 준비됐어요. 집에 계신 여러분은요? 저와 같이 답해 보세요.
+[37:07.88]
+S | Primera situación. Piensa en el verbo dormir. | 첫 번째 상황. dormir 동사를 생각해 보세요.
+[37:11.68]
+S | Te doy la frase de hoy y tú me das la frase de anoche. | 내가 '오늘' 문장을 주면, 당신은 '어젯밤(anoche)' 문장을 말해 줘요.
+[37:15.92]
+S | Frase uno. Hoy no he dormido bien. | 문장 1. "오늘 나는 잘 못 잤다(Hoy no he dormido bien)."
+[37:19.28]
+C | Hoy no he dormido bien. | Hoy no he dormido bien.
+[37:21.64]
+C | La palabra hoy conecta con el presente. Uso el perfecto. | hoy라는 단어는 현재와 이어져요. 현재완료를 쓰죠.
+[37:26.20]
+C | Pero si digo anoche, es un tiempo cerrado, es indefinido. | 그런데 anoche(어젯밤)라고 하면 닫힌 시간이라 단순과거예요.
+[37:30.88]
+C | Y es la forma de yo. Así que es regular. | 그리고 yo 형태예요. 그러니까 규칙적이죠.
+[37:34.52]
+C | La frase es, anoche no dormí bien. | 문장은 "anoche no dormí bien(어젯밤 나는 잘 못 잤다)"예요.
+[37:37.88]
+S | Correcto. Anoche no dormí bien. | 맞아요. Anoche no dormí bien.
+[37:41.48]
+S | Vamos con la situación dos, con el verbo pedir. | 두 번째 상황, pedir 동사로 가요.
+[37:45.32]
+S | Frase, esta semana María ha pedido muchos favores. | 문장. "이번 주에 마리아는 부탁을 많이 했다(esta semana María ha pedido muchos favores)."
+[37:50.44]
+S | Ahora cambia esta semana por el mes pasado. | 이제 esta semana를 el mes pasado(지난달)로 바꿔 보세요.
+[37:54.32]
+C | El mes pasado ya es historia. | 지난달은 이미 역사예요.
+[37:56.88]
+C | María es ella, tercera persona. | 마리아는 ella, 3인칭이에요.
+[38:00.12]
+C | Atención, aquí hay cambio de vocal. La e cambia a i. | 주의, 여기서는 모음이 바뀌어요. e가 i로요.
+[38:05.32]
+C | La frase es, el mes pasado María pidió muchos favores. | 문장은 "el mes pasado María pidió muchos favores(지난달 마리아는 부탁을 많이 했다)"예요.
+[38:10.52]
+S | Impresionante, Carlos. Estás dominando este tema. | 인상적이에요, 카를로스. 이 주제를 완전히 정복하고 있네요.
+[38:14.72]
+S | La clave está en escuchar español con atención y tú lo haces de maravilla. | 열쇠는 스페인어를 주의 깊게 듣는 건데, 당신은 그걸 정말 잘해요.
+[38:20.84]
+S | Vamos a hacer una pausa muy importante ahora para analizar algunas palabras nuevas que usamos. | 이제 우리가 쓴 새 단어 몇 개를 분석하려고 아주 중요한 쉬는 시간을 가질게요.
+[38:27.72]
+## 어휘 ⑥ — vocal · tercera persona · cambio · pedir · dormir
+S | Vocal. Es un sonido de la lengua que se pronuncia con la boca abierta. | vocal(모음). 입을 벌리고 발음하는 언어의 소리예요.
+[38:33.28]
+S | En español hay cinco vocales. A. E. I. O. U. | 스페인어에는 모음이 다섯 개 있어요. a, e, i, o, u.
+[38:40.88]
+S | Tercera persona. En la gramática son las palabras que usamos para hablar de otras personas. | tercera persona(3인칭). 문법에서 다른 사람에 대해 말할 때 쓰는 말이에요.
+[38:47.60]
+S | Singular es él, ella o usted. Plural es ellos, ellas, ustedes. | 단수는 él, ella, usted. 복수는 ellos, ellas, ustedes예요.
+[38:55.48]
+S | Cambio. Es la acción de transformar una cosa en otra diferente. | cambio(변화). 어떤 것을 다른 것으로 바꾸는 행동이에요.
+[39:00.96]
+S | En estos verbos, una letra vocal tiene un pequeño cambio por otra letra. | 이 동사들에서는 모음 글자 하나가 다른 글자로 살짝 바뀌어요.
+[39:06.80]
+S | Pedir. Es decirle a otra persona que quieres algo. | pedir(요청하다, 주문하다). 다른 사람에게 무언가를 원한다고 말하는 거예요.
+[39:11.04]
+S | Por ejemplo, pedir comida en un restaurante o pedir un favor a un amigo. | 예를 들어 식당에서 음식을 주문하거나 친구에게 부탁을 하는 거죠.
+[39:16.16]
+S | Dormir. Es descansar con los ojos cerrados en la cama. | dormir(자다). 침대에서 눈을 감고 쉬는 거예요.
+[39:20.84]
+S | Todos necesitamos dormir bien para tener energía al día siguiente en nuestras clases de español. | 다음 날 스페인어 수업에서 힘을 내려면 우리 모두 잘 자야 해요.
+[39:27.36]
+C | Muchas gracias, Sofía. | 정말 고마워요, 소피아.
+[39:29.04]
+C | El vocabulario español es muy rico y explicar las palabras así ayuda muchísimo a comprender todo mejor. | 스페인어 어휘는 정말 풍부하고, 이렇게 단어를 설명해 주니 전부 더 잘 이해하는 데 큰 도움이 돼요.
+[39:36.36]
+C | Amigos, en los comentarios escriban una frase diciendo cuántas horas durmieron anoche. | 여러분, 어젯밤에 몇 시간 잤는지 댓글로 문장을 써 주세요.
+[39:42.20]
+C | Usen el verbo dormir en la forma yo. Queremos leerlos. | dormir 동사를 yo 형태로 쓰세요. 읽어 보고 싶어요.
+[39:46.56]
+S | Sí, es una excelente tarea para practicar. | 네, 연습하기에 아주 좋은 숙제예요.
+[39:50.08]
+S | Escribir ayuda a fijar la gramática en la cabeza. | 쓰는 건 문법을 머리에 고정하는 데 도움이 돼요.
+[39:53.76]
+S | Además, interactuar en los comentarios crea una comunidad de estudiantes maravillosa. | 게다가 댓글로 소통하면 멋진 학습자 커뮤니티가 만들어져요.
+[40:00.00]
+## 역할극 — 카페에서 만난 두 친구 (오늘 vs 어제)
+C | Creo que ya tengo toda la gramática en mi cabeza. | 이제 문법이 전부 머릿속에 들어온 것 같아요.
+[40:03.32]
+C | Entiendo el perfecto para el tiempo abierto, el indefinido para el tiempo cerrado y los verbos irregulares. | 열린 시간엔 현재완료, 닫힌 시간엔 단순과거, 그리고 불규칙 동사까지 이해했어요.
+[40:10.40]
+C | Pero la vida real no son solo frases sueltas. | 그런데 실제 생활은 따로 노는 문장들만 있는 게 아니잖아요.
+[40:13.72]
+C | Para mejorar mi Spanish conversation, necesito escuchar una historia completa donde mezclemos todo esto de forma natural. | 스페인어 대화를 늘리려면, 이 모든 걸 자연스럽게 섞은 완전한 이야기를 들어야 해요.
+[40:21.80]
+S | Es una idea fantástica, Carlos. | 정말 좋은 생각이에요, 카를로스.
+[40:24.52]
+S | Escuchar una conversación larga y natural es la mejor Spanish listening practice. | 길고 자연스러운 대화를 듣는 게 최고의 스페인어 듣기 연습이에요.
+[40:30.96]
+S | Vamos a hacer un juego de roles. | 역할극을 해 봐요.
+[40:33.44]
+S | Imagina que somos dos amigos que hablan en un café. | 우리가 카페에서 이야기하는 두 친구라고 상상해 봐요.
+[40:37.28]
+S | Vamos a mezclar el pasado reciente con el pasado terminado. | 가까운 과거와 끝난 과거를 섞을 거예요.
+[40:42.00]
+C | Perfecto. Me encanta hacer esto en nuestras clases de español. | 좋아요. 우리 스페인어 수업에서 이거 하는 거 정말 좋아해요.
+[40:47.08]
+C | Ayuda mucho a mi cerebro a pensar rápido. Yo empiezo. | 뇌가 빨리 생각하는 데 큰 도움이 돼요. 제가 시작할게요.
+[40:52.40]
+C | Hola Sofía, qué sorpresa verte por aquí. | 안녕 소피아, 여기서 보다니 웬일이야.
+[40:55.76]
+C | ¿Qué has hecho esta mañana? | 오늘 아침엔 뭐 했어?
+[40:57.76]
+S | Hola Carlos, pues esta mañana he estado muy ocupada. | 안녕 카를로스, 음, 오늘 아침엔 엄청 바빴어.
+[41:02.44]
+S | He ido al supermercado, he comprado frutas y he limpiado mi casa. | 슈퍼마켓에 가서 과일을 사고, 집 청소를 했어.
+[41:07.36]
+S | ¿Y tú? ¿Has trabajado mucho hoy? | 너는? 오늘 일 많이 했어?
+[41:10.16]
+C | Sí, hoy he trabajado toda la mañana en la oficina. | 응, 오늘은 오전 내내 사무실에서 일했어.
+[41:14.36]
+C | He escrito muchos correos electrónicos. | 이메일을 엄청 많이 썼어.
+[41:17.60]
+C | Pero ¿sabes qué? Ayer fue un día muy diferente para mí. | 그런데 그거 알아? 어제는 나한테 완전히 다른 하루였어.
+[41:22.84]
+C | Ayer no trabajé. | 어제는 일 안 했거든.
+[41:24.64]
+S | ¿Ah, sí? ¿Qué hiciste ayer? | 아, 그래? 어제 뭐 했어?
+[41:27.08]
+S | ¿Fuiste a algún lugar especial para descansar un poco? | 좀 쉬려고 어디 특별한 데 갔어?
+[41:31.00]
+C | Sí, ayer fui a la montaña con mi amigo Pablo. | 응, 어제 친구 파블로랑 산에 갔어.
+[41:35.52]
+C | Salimos de la ciudad muy temprano, a las 7 de la mañana. | 아침 7시에, 아주 일찍 도시를 떠났어.
+[41:40.48]
+C | Tomamos mi coche y viajamos por dos horas. | 내 차를 타고 두 시간 달렸어.
+[41:44.68]
+S | ¡Qué divertido! Ir a la montaña es una gran idea. | 재밌었겠다! 산에 가는 거 좋은 생각이네.
+[41:48.88]
+S | Y dime, ¿hizo buen tiempo ayer en la montaña? | 그래서, 어제 산은 날씨 좋았어?
+[41:52.60]
+C | Sí. Hizo un día hermoso. | 응. 정말 아름다운 날이었어.
+[41:55.96]
+C | Caminamos por un bosque muy grande. | 아주 큰 숲을 걸었어.
+[41:59.44]
+C | Estuvimos caminando casi tres horas. | 거의 세 시간 동안 걸었지.
+[42:03.16]
+C | Después tuvimos mucha hambre, por supuesto. | 그러고 나서 당연히 엄청 배가 고팠어.
+[42:07.00]
+S | Lógico, caminar da mucha hambre. | 그럴 만하지, 걸으면 배가 많이 고프잖아.
+[42:10.16]
+S | ¿Y qué comieron? | 그래서 뭐 먹었어?
+[42:11.48]
+S | ¿Fueron a un restaurante o comieron algo en la naturaleza? | 식당에 갔어, 아니면 자연 속에서 뭘 먹었어?
+[42:15.84]
+C | Fuimos a un restaurante pequeño en un pueblo muy bonito. | 아주 예쁜 마을의 작은 식당에 갔어.
+[42:20.52]
+C | Pablo pidió un plato de carne asada muy grande. | 파블로는 아주 큰 숯불 고기 요리를 주문했어.
+[42:24.80]
+C | Él comió muchísimo. Pablo siempre come mucho. | 엄청 많이 먹더라. 파블로는 늘 많이 먹어.
+[42:30.00]
+S | ¿Y qué bebieron con la comida? | 음식이랑 같이 뭘 마셨어?
+[42:32.40]
+C | Nosotros pedimos agua mineral y un poco de vino tinto. | 우리는 생수랑 레드 와인을 조금 주문했어.
+[42:37.08]
+C | Después de comer, Pablo estuvo muy cansado. | 먹고 나서 파블로는 엄청 피곤했어.
+[42:40.92]
+C | ¿Y sabes qué hizo? | 그래서 걔가 뭐 했는지 알아?
+[42:43.12]
+C | Él durmió en una silla por 20 minutos. | 의자에서 20분 동안 잤어.
+[42:47.00]
+C | Él durmió muy profundamente. | 아주 깊이 잠들었지.
+[42:49.80]
+S | ¡Qué historia tan buena, Carlos! | 정말 좋은 이야기예요, 카를로스!
+[42:52.52]
+S | Y quiero hacer una pausa aquí. ¿Te diste cuenta? | 여기서 잠깐 멈추고 싶어요. 눈치챘어요?
+[42:56.32]
+S | Hablaste español de forma natural usando todo lo que aprendimos. | 우리가 배운 걸 전부 써서 자연스럽게 스페인어로 말했어요.
+[43:01.24]
+S | Usaste el perfecto, he trabajado, he escrito, y luego cambiaste al indefinido con mucha seguridad. | he trabajado, he escrito처럼 현재완료를 쓰고, 그다음엔 아주 자신 있게 단순과거로 바꿨어요.
+[43:09.32]
+S | Fui, salimos, estuvimos, pidió y durmió. | fui, salimos, estuvimos, pidió, durmió.
+[43:13.40]
+S | Tienes un español avanzado. | 고급 스페인어 실력이에요.
+[43:15.96]
+C | Wow, tienes razón. Hablar español así me da mucha confianza. | 와, 맞아요. 이렇게 스페인어로 말하니 자신감이 많이 생겨요.
+[43:21.84]
+C | No tuve que pensar demasiado en las reglas, las palabras simplemente salieron de mi boca. | 규칙을 너무 많이 생각할 필요가 없었어요. 말이 그냥 입에서 나왔어요.
+[43:28.40]
+C | Esta conversación en español ha sido muy útil. | 이번 스페인어 대화는 정말 유용했어요.
+[43:32.32]
+S | Esa es la meta de Español Auténtico. | 그게 Español Auténtico의 목표예요.
+[43:35.24]
+S | Aprender español debe ser algo natural, escuchando y repitiendo. | 스페인어 배우기는 듣고 따라 하면서 자연스러워야 해요.
+[43:40.44]
+S | Y antes de terminar nuestro episodio de hoy, vamos a hacer la última revisión de palabras. | 그리고 오늘 에피소드를 마치기 전에, 마지막 단어 복습을 할게요.
+[43:46.52]
+S | Vamos a extraer cinco palabras de nuestra pequeña historia. | 우리의 짧은 이야기에서 단어 다섯 개를 뽑아 볼게요.
+[43:50.48]
+C | Claro que sí. Me encanta esta sección. | 좋아요. 이 코너 정말 좋아해요.
+[43:53.92]
+C | Analizar el vocabulario español siempre nos ayuda a recordar mejor las frases en español. | 스페인어 어휘를 분석하면 늘 스페인어 문장을 더 잘 기억하게 돼요.
+[44:00.60]
+## 어휘 ⑦ — montaña · bosque · hambre · asada · profundamente + 마무리
+S | Montaña. Es una gran elevación natural de la tierra. | montaña(산). 땅이 자연적으로 크게 솟은 곳이에요.
+[44:05.04]
+S | A muchas personas les gusta ir a la montaña para respirar aire puro y caminar por la naturaleza. | 많은 사람들이 맑은 공기를 마시고 자연 속을 걸으려고 산에 가는 걸 좋아해요.
+[44:11.72]
+S | Bosque. Es un lugar con muchos árboles y plantas. | bosque(숲). 나무와 식물이 많은 곳이에요.
+[44:15.92]
+S | En la historia, Carlos y Pablo caminaron por un bosque muy grande. | 이야기에서 카를로스와 파블로는 아주 큰 숲을 걸었어요.
+[44:22.72]
+S | Hambre. Es la sensación física que tienes cuando necesitas comer. | hambre(배고픔). 먹어야 할 때 느끼는 몸의 감각이에요.
+[44:27.96]
+S | Después de hacer ejercicio o caminar mucho, es normal sentir mucha hambre. | 운동을 하거나 많이 걷고 나면 배가 많이 고픈 게 정상이에요.
+[44:33.76]
+S | Asada. Es una forma de cocinar la comida, normalmente la carne, usando fuego directo. | asada(구운). 음식, 주로 고기를 직화로 익히는 조리법이에요.
+[44:41.32]
+S | La carne asada es un plato típico en muchos restaurantes tradicionales. | 카르네 아사다(구운 고기)는 많은 전통 식당의 대표 메뉴예요.
+[44:46.76]
+S | Profundamente. Significa hacer algo con mucha intensidad. | profundamente(깊이). 무언가를 아주 강하게 한다는 뜻이에요.
+[44:51.36]
+S | En el caso de dormir, significa dormir muy bien, sin escuchar ruidos ni despertarse, como hizo Pablo en la silla. | 잠의 경우엔, 의자에서 잔 파블로처럼 소리도 못 듣고 깨지도 않고 아주 푹 잔다는 뜻이에요.
+[45:00.08]
+C | Qué buenas palabras para usar en el día a día. | 일상에서 쓰기 정말 좋은 단어들이네요.
+[45:03.56]
+C | Y ahora, amigos, queremos leerlos. | 그리고 이제 여러분, 여러분의 글을 읽고 싶어요.
+[45:06.56]
+C | Dejen un comentario usando la palabra bosque o la palabra montaña. | bosque나 montaña를 써서 댓글을 남겨 주세요.
+[45:11.68]
+C | Cuéntenos, ¿fueron a la montaña el año pasado? | 말해 주세요, 작년에 산에 갔나요(fueron)?
+[45:15.44]
+S | Nos encanta leer sus respuestas y ver cómo mejoran. | 여러분의 답을 읽고 실력이 느는 걸 보는 게 정말 좋아요.
+[45:19.28]
+C | Y recuerda, si este video te ayudó a comprender mejor el pasado en español, por favor, suscríbete a Español Auténtico. | 그리고 기억하세요. 이 영상이 스페인어 과거형을 더 잘 이해하는 데 도움이 됐다면 Español Auténtico를 구독해 주세요.
+[45:27.92]
+C | Deja tu me gusta y comparte este podcast con un amigo que quiera aprender español. | 좋아요를 누르고, 스페인어를 배우고 싶어 하는 친구에게 이 팟캐스트를 공유해 주세요.
+[45:33.72]
+C | Y para los que deseen apoyar más nuestro proyecto, pueden unirse como miembros del canal. | 그리고 저희 프로젝트를 더 응원하고 싶은 분들은 채널 멤버로 가입하실 수 있어요.
+[45:39.44]
+C | Es una gran ayuda para nosotros. | 저희에게 큰 도움이 돼요.
+[45:41.96]
+S | Sí, gracias de todo corazón por acompañarnos hoy. | 네, 오늘 함께해 주셔서 진심으로 감사해요.
+[45:46.00]
+S | Su apoyo hace que todo este trabajo valga la pena. | 여러분의 응원 덕분에 이 모든 작업이 보람 있어요.
+[45:49.88]
+C | Nos vemos en la próxima clase, amigos. | 다음 수업에서 만나요, 여러분.
+[45:52.44]
+S | Sigan practicando, sigan escuchando y hasta muy pronto. | 계속 연습하고, 계속 들으세요. 곧 또 만나요.
