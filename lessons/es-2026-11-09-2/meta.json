@@ -1,0 +1,893 @@
+{
+ "lang": "es",
+ "date": "2026-11-09",
+ "title": "EBS 생활 스페인어 회화 시즌 1 — 상황별 대화문 52개",
+ "es": "Español para la vida diaria",
+ "emoji": "📘",
+ "level": "A1–A2",
+ "channel": "EBS 생활 스페인어 회화 시즌 1",
+ "videoTitle": "생활 스페인어 회화 · 1–52강 대화문 (스페인 억양)",
+ "audio": "audio.m4a",
+ "duration": "18:02",
+ "speakers": {
+  "N": "Lección",
+  "A": "A",
+  "B": "B"
+ },
+ "hideCast": true,
+ "textPdf": {
+  "file": "book.pdf",
+  "title": "생활 스페인어 회화 (EBS 시즌 1 대화문 교재 · 42쪽)"
+ },
+ "summary": "EBS 생활 스페인어 회화 시즌 1의 1강부터 52강까지 대화문 52개를 스페인 억양 오디오로 한 번에 들어요. 강마다 섹션이 나뉘어 있고 문장마다 시각을 맞췄어요. 인사·자기소개(usted와 tú) → 공항 입국·세관·교통 → 호텔 → 날씨 → 쇼핑(사이즈·할인·교환) → 시각·공연 → 전화·초대 → 식당 주문·계산 → 여가·관광 → 약국·병원 → 분실·긴급 상황 → 항공권 변경·탑승 수속까지, 스페인 여행에 꼭 필요한 장면들이에요. '본문 PDF' 탭에서 교재 전체(핵심 표현 포함)를 볼 수 있어요. (시즌 2 강의와 함께 들어 보세요.)",
+ "topics": [
+  "1–12강 인사 · 이름 · 출신 · 안부 · 전화번호 · 직업",
+  "13–17강 입국 심사 · 세관 · 교통편 · 기차표 · 택시",
+  "18–23강 호텔 체크인·예약·요금 · 날씨와 기온",
+  "24–28강 신발·옷 사기 · 할인 · 카드 결제 · 교환",
+  "29–36강 시각 · 공연 · 버스 · 전화 · 초대",
+  "37–45강 식당 예약·주문·후식·계산 · 영화 · 취미 · 관광 · 박물관",
+  "46–52강 아플 때 · 약국 · 병원 · 분실 · 사고 · 항공권 변경 · 탑승"
+ ],
+ "grammar": [
+  {
+   "title": "① usted와 tú — 존칭과 반말",
+   "lead": "처음 만난 사람·윗사람에게는 usted(동사는 3인칭), 친구에게는 tú(2인칭). 같은 질문도 동사 꼴이 달라져요.",
+   "table": {
+    "head": [
+     "",
+     "usted (존칭)",
+     "tú (친한 사이)"
+    ],
+    "rows": [
+     [
+      "사는 곳",
+      "¿Dónde vive usted? (6강)",
+      "¿Dónde vives? (6강)"
+     ],
+     [
+      "안부",
+      "¿Cómo está usted? (4강)",
+      "¿Cómo estás? / ¿Qué tal estás? (5강)"
+     ],
+     [
+      "이름",
+      "¿Cómo se llama usted? (2강)",
+      "¿Cómo te llamas?"
+     ],
+     [
+      "직업",
+      "¿A qué se dedica usted? (11강)",
+      "¿A qué te dedicas?"
+     ]
+    ]
+   },
+   "tip": "don Víctor, doña María처럼 이름 앞의 don/doña도 존칭이에요."
+  },
+  {
+   "title": "② 자기소개 — 이름 · 출신 · 직업 · 직장",
+   "examples": [
+    [
+     "Me llamo Dong-su Kim. / Mi nombre es María Jiménez.",
+     "제 이름은 김동수입니다. / 제 이름은 마리아 히메네스예요."
+    ],
+    [
+     "Soy de Corea. — ¿De qué ciudad es usted? — Soy de Seúl.",
+     "한국 출신이에요. — 어느 도시 출신이세요? — 서울이요."
+    ],
+    [
+     "Soy estudiante. Estudio ciencias empresariales.",
+     "학생이에요. 경영학을 공부해요."
+    ],
+    [
+     "Trabajo en una tienda de ropa.",
+     "옷 가게에서 일해요."
+    ]
+   ]
+  },
+  {
+   "title": "③ 공항 · 교통 — 입국부터 택시까지",
+   "table": {
+    "head": [
+     "상황",
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "입국 심사",
+      "¿Cuál es el motivo de su viaje? — Turismo.",
+      "여행 목적이 뭐예요? — 관광이요."
+     ],
+     [
+      "세관",
+      "No tengo nada de declarar.",
+      "신고할 게 없어요."
+     ],
+     [
+      "교통편",
+      "¿Cómo se puede ir al centro? — Se puede ir en taxi, autobús y metro.",
+      "시내에 어떻게 가요? — 택시, 버스, 지하철로 갈 수 있어요."
+     ],
+     [
+      "표 사기",
+      "Quería un billete para Sevilla. — ¿Ventanilla o pasillo?",
+      "세비야행 표를 사고 싶은데요. — 창가요, 복도요?"
+     ],
+     [
+      "택시",
+      "Vamos al hotel Princesa. — ¿Cuánto cuesta llegar allí?",
+      "프린세사 호텔로 가 주세요. — 거기까지 얼마예요?"
+     ],
+     [
+      "탑승",
+      "¿Tiene algún equipaje? — Sólo tengo esta maleta.",
+      "부칠 짐 있으세요? — 이 가방 하나요."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ quería / quiero — 정중하게 원하는 것 말하기",
+   "lead": "quiero(원해요)보다 불완료과거 quería(~하고 싶은데요)가 더 공손해요. ¿Podría…? (~해 주시겠어요?)도 정중한 부탁이에요.",
+   "examples": [
+    [
+     "Quería un billete para Sevilla.",
+     "세비야행 표를 한 장 사고 싶은데요."
+    ],
+    [
+     "Quería reservar una mesa para cuatro personas.",
+     "4인 테이블을 예약하고 싶은데요."
+    ],
+    [
+     "Quiero reservar una habitación doble con baño.",
+     "욕실 딸린 더블룸을 예약하고 싶어요."
+    ],
+    [
+     "¿Podría traerme la carta de comidas?",
+     "메뉴판 좀 가져다주시겠어요?"
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 호텔 · 식당 표현",
+   "table": {
+    "head": [
+     "상황",
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "체크인",
+      "Tengo una reserva de habitación.",
+      "방을 예약했어요."
+     ],
+     [
+      "빈방",
+      "¿Hay una habitación libre? — ¿individual o doble?",
+      "빈방 있어요? — 싱글이요, 더블이요?"
+     ],
+     [
+      "요금",
+      "¿Está incluido el desayuno?",
+      "조식 포함인가요?"
+     ],
+     [
+      "주문",
+      "¿Qué plato me recomienda? — Pruebe el pollo asado.",
+      "어떤 요리를 추천하세요? — 통닭구이를 드셔 보세요."
+     ],
+     [
+      "후식",
+      "¿Qué quiere tomar de postre? — Quiero tomar helado.",
+      "후식은 뭐로 하시겠어요? — 아이스크림이요."
+     ],
+     [
+      "계산",
+      "La cuenta, por favor. / Quédese con el cambio.",
+      "계산서 주세요. / 거스름돈은 가지세요."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 쇼핑 — 사이즈 · 어울림 · 가격",
+   "lead": "sentar bien / quedar bien은 '(옷이) 잘 어울리다'. 어울리는 옷이 주어예요.",
+   "examples": [
+    [
+     "¿Qué talla tiene? — Calzo 240 milímetros.",
+     "사이즈가 어떻게 되세요? — 신발은 240 신어요."
+    ],
+    [
+     "¿Le gustan estos pantalones? Le sientan bien.",
+     "이 바지 마음에 드세요? 잘 어울리세요."
+    ],
+    [
+     "Esta blusa me queda muy bien. ¿Cuánto es? — Son 67 euros.",
+     "이 블라우스 저한테 잘 맞네요. 얼마예요? — 67유로예요."
+    ],
+    [
+     "¿Puedo pagar con tarjeta de crédito? — Por supuesto que sí.",
+     "신용카드로 계산해도 돼요? — 물론이죠."
+    ],
+    [
+     "¡Qué bien! Me la llevo.",
+     "잘됐네요! 이걸로 할게요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 시각 표현 — y media, y cuarto, menos cuarto",
+   "table": {
+    "head": [
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Son casi las seis.",
+      "거의 6시예요."
+     ],
+     [
+      "A las seis y media.",
+      "6시 반에."
+     ],
+     [
+      "Hay uno a las 5 y cuarto.",
+      "5시 15분에 한 대 있어요."
+     ],
+     [
+      "Sobre las seis y media.",
+      "6시 반쯤."
+     ],
+     [
+      "antes de las once y media",
+      "11시 반 전에"
+     ],
+     [
+      "de 9 de la mañana a 8 de la tarde",
+      "오전 9시부터 오후 8시까지"
+     ]
+    ]
+   },
+   "tip": "hace 3 minutos = 3분 전에 (hace + 시간 = ~전)"
+  },
+  {
+   "title": "⑧ 몸 상태 — tener + 증상 / doler",
+   "lead": "증상은 tener + 명사, 아픈 부위는 doler(gustar처럼 부위가 주어).",
+   "examples": [
+    [
+     "Tengo dolor de cabeza y fiebre.",
+     "머리가 아프고 열이 나요."
+    ],
+    [
+     "Tengo fiebre y tos. — Parece que está resfriado.",
+     "열이 나고 기침해요. — 감기 걸리신 것 같네요."
+    ],
+    [
+     "Me duele todo el cuerpo. / Me duele mucho la garganta.",
+     "온몸이 아파요. / 목이 많이 아파요."
+    ],
+    [
+     "Tómela 30 minutos después de comer.",
+     "식후 30분에 드세요."
+    ]
+   ]
+  },
+  {
+   "title": "⑨ 접속법 소원 · 명령 — ¡Que tenga…! / Pruébese",
+   "lead": "¡Que + 접속법!은 '~하시길!' 하는 인사. usted 명령은 접속법 꼴(pase, pruebe, ponga)을 써요.",
+   "examples": [
+    [
+     "¡Que tenga un buen viaje! / ¡Que tenga éxito!",
+     "좋은 여행 되세요! / 성공하세요!"
+    ],
+    [
+     "¡Que pase bien esta noche! / ¡Que la disfrute!",
+     "오늘 밤 즐겁게 보내세요! / 잘 쓰세요!"
+    ],
+    [
+     "Pruébese éstos, por favor. / Pruebe el pollo asado.",
+     "이걸 신어 보세요. / 통닭구이를 드셔 보세요."
+    ],
+    [
+     "Ponga la maleta sobre la cinta. / ¡Ayúdeme, por favor!",
+     "가방을 벨트 위에 올려 주세요. / 도와주세요!"
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "¡Hace mucho tiempo que no nos vemos!",
+   "정말 오랜만이에요!"
+  ],
+  [
+   "Me alegro mucho de verte.",
+   "만나서 정말 반가워."
+  ],
+  [
+   "¿Cómo se dice esto en español?",
+   "이걸 스페인어로 뭐라고 해요?"
+  ],
+  [
+   "No lo sabía. ¡Qué rico!",
+   "몰랐어요. 맛있네요!"
+  ],
+  [
+   "Por si acaso…",
+   "혹시나 해서…"
+  ],
+  [
+   "¡Tengo poca suerte!",
+   "운이 없네요!"
+  ],
+  [
+   "Perdóname por haber llegado tarde. — No pasa nada.",
+   "늦어서 미안해. — 괜찮아."
+  ],
+  [
+   "Ahora mismo se las traigo.",
+   "지금 바로 가져다드릴게요."
+  ],
+  [
+   "Gracias por el consejo.",
+   "조언 고마워요."
+  ],
+  [
+   "Póngame en la lista de espera, por favor.",
+   "대기자 명단에 올려 주세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "señor / señora (Sr. / Sra.)",
+   "ko": "~씨, 선생님 / 부인, 여사님",
+   "ex": "¡Buenas tardes, señora Castro!",
+   "exKo": "안녕하세요, 카스트로 여사님!"
+  },
+  {
+   "es": "¿Perdón?",
+   "ko": "네? 뭐라고요?",
+   "ex": "¿Perdón? ¿Cómo se llama usted?",
+   "exKo": "네? 성함이 어떻게 되시죠?"
+  },
+  {
+   "es": "cansado/a",
+   "ko": "피곤한",
+   "ex": "Estoy un poco cansado.",
+   "exKo": "좀 피곤해요."
+  },
+  {
+   "es": "¿Qué le pasa?",
+   "ko": "무슨 일 있으세요?",
+   "ex": "¿Qué le pasa? — Tengo mucho trabajo que hacer.",
+   "exKo": "무슨 일이세요? — 할 일이 많아요."
+  },
+  {
+   "es": "el móvil",
+   "ko": "휴대폰",
+   "ex": "¿Cuál es su número de móvil?",
+   "exKo": "휴대폰 번호가 뭐예요?"
+  },
+  {
+   "es": "el ordenador portátil",
+   "ko": "노트북 컴퓨터",
+   "ex": "Esto es un ordenador portátil.",
+   "exKo": "이건 노트북이에요."
+  },
+  {
+   "es": "llevar + 시간 + -ndo",
+   "ko": "~한 지 (시간)째다",
+   "ex": "Llevo unos días viajando.",
+   "exKo": "여행한 지 며칠 됐어요."
+  },
+  {
+   "es": "el chorizo",
+   "ko": "초리소(돼지고기 소시지)",
+   "ex": "Esto es chorizo.",
+   "exKo": "이건 초리소예요."
+  },
+  {
+   "es": "dedicarse a",
+   "ko": "~에 종사하다",
+   "ex": "¿A qué se dedica usted?",
+   "exKo": "무슨 일을 하세요?"
+  },
+  {
+   "es": "el/la camarero/a",
+   "ko": "웨이터 / 웨이트리스",
+   "ex": "Soy camarera de un restaurante.",
+   "exKo": "식당 종업원이에요."
+  },
+  {
+   "es": "las ciencias empresariales",
+   "ko": "경영학",
+   "ex": "Estudio ciencias empresariales.",
+   "exKo": "경영학을 공부해요."
+  },
+  {
+   "es": "el centro comercial",
+   "ko": "쇼핑센터",
+   "ex": "Está en el centro comercial Alcampo.",
+   "exKo": "알캄포 쇼핑센터에 있어요."
+  },
+  {
+   "es": "el pasaporte",
+   "ko": "여권",
+   "ex": "Su pasaporte, por favor.",
+   "exKo": "여권 보여 주세요."
+  },
+  {
+   "es": "el motivo",
+   "ko": "이유, 목적",
+   "ex": "¿Cuál es el motivo de su viaje?",
+   "exKo": "여행 목적이 뭐예요?"
+  },
+  {
+   "es": "declarar",
+   "ko": "신고하다",
+   "ex": "No tengo nada de declarar.",
+   "exKo": "신고할 게 없어요."
+  },
+  {
+   "es": "la maleta",
+   "ko": "여행 가방",
+   "ex": "¿Puede abrir la maleta?",
+   "exKo": "가방을 열어 주시겠어요?"
+  },
+  {
+   "es": "coger un taxi",
+   "ko": "택시를 잡다(스페인)",
+   "ex": "¿Dónde se puede coger un taxi?",
+   "exKo": "택시는 어디서 탈 수 있어요?"
+  },
+  {
+   "es": "ir andando",
+   "ko": "걸어가다",
+   "ex": "Puede ir andando.",
+   "exKo": "걸어갈 수 있어요."
+  },
+  {
+   "es": "la ventanilla / el pasillo",
+   "ko": "창가 / 복도(좌석)",
+   "ex": "¿Ventanilla o pasillo?",
+   "exKo": "창가요, 복도요?"
+  },
+  {
+   "es": "el céntimo",
+   "ko": "센트",
+   "ex": "Son 20 euros con 50 céntimos.",
+   "exKo": "20유로 50센트예요."
+  },
+  {
+   "es": "la reserva",
+   "ko": "예약",
+   "ex": "Tengo una reserva de habitación.",
+   "exKo": "방을 예약했어요."
+  },
+  {
+   "es": "la llave",
+   "ko": "열쇠",
+   "ex": "Aquí tiene la llave.",
+   "exKo": "여기 열쇠요."
+  },
+  {
+   "es": "quedarse",
+   "ko": "머무르다",
+   "ex": "¿Cuántas noches va a quedarse?",
+   "exKo": "몇 박 하실 거예요?"
+  },
+  {
+   "es": "la vista",
+   "ko": "전망",
+   "ex": "¿Hay una habitación con buena vista?",
+   "exKo": "전망 좋은 방 있어요?"
+  },
+  {
+   "es": "el huésped",
+   "ko": "투숙객",
+   "ex": "Servimos a los huéspedes un buen bufé de desayuno.",
+   "exKo": "투숙객에게 좋은 조식 뷔페를 드려요."
+  },
+  {
+   "es": "el clima",
+   "ko": "기후",
+   "ex": "¿Cómo es el clima de Corea en otoño?",
+   "exKo": "한국의 가을 기후는 어때요?"
+  },
+  {
+   "es": "hacer una excursión",
+   "ko": "소풍(나들이) 가다",
+   "ex": "Hoy vamos a hacer una excursión al lago.",
+   "exKo": "오늘 호수로 나들이 가요."
+  },
+  {
+   "es": "el abrigo",
+   "ko": "외투",
+   "ex": "Sería mejor llevar el abrigo.",
+   "exKo": "외투를 가져가는 게 좋겠어요."
+  },
+  {
+   "es": "el termómetro marca…",
+   "ko": "온도계가 ~를 가리키다",
+   "ex": "El termómetro marca sólo 10 grados.",
+   "exKo": "기온이 10도밖에 안 돼요."
+  },
+  {
+   "es": "la talla",
+   "ko": "사이즈",
+   "ex": "¿Qué talla tiene?",
+   "exKo": "사이즈가 어떻게 되세요?"
+  },
+  {
+   "es": "calzar",
+   "ko": "(신발 사이즈를) 신다",
+   "ex": "Calzo 240 milímetros.",
+   "exKo": "240 신어요."
+  },
+  {
+   "es": "equivaler a",
+   "ko": "~에 해당하다",
+   "ex": "Equivale a la talla 37.",
+   "exKo": "37 사이즈에 해당해요."
+  },
+  {
+   "es": "probarse",
+   "ko": "입어(신어) 보다",
+   "ex": "Voy a probarme.",
+   "exKo": "입어 볼게요."
+  },
+  {
+   "es": "sentar bien / quedar bien",
+   "ko": "잘 어울리다, 잘 맞다",
+   "ex": "¡Me sientan muy bien!",
+   "exKo": "저한테 아주 잘 어울려요!"
+  },
+  {
+   "es": "estrecho/a",
+   "ko": "꽉 끼는, 좁은",
+   "ex": "Son un poco estrechos.",
+   "exKo": "좀 끼어요."
+  },
+  {
+   "es": "el descuento",
+   "ko": "할인",
+   "ex": "Es un precio de descuento.",
+   "exKo": "할인 가격이에요."
+  },
+  {
+   "es": "llevarse",
+   "ko": "사 가다",
+   "ex": "Me la llevo.",
+   "exKo": "이걸로 할게요(살게요)."
+  },
+  {
+   "es": "la caja",
+   "ko": "계산대",
+   "ex": "Vamos a la caja.",
+   "exKo": "계산대로 가요."
+  },
+  {
+   "es": "firmar",
+   "ko": "서명하다",
+   "ex": "¿Puede firmar aquí?",
+   "exKo": "여기 서명해 주시겠어요?"
+  },
+  {
+   "es": "el recibo",
+   "ko": "영수증",
+   "ex": "¿Tiene el recibo?",
+   "exKo": "영수증 있으세요?"
+  },
+  {
+   "es": "funcionar",
+   "ko": "작동하다",
+   "ex": "No funciona bien.",
+   "exKo": "제대로 작동하지 않아요."
+  },
+  {
+   "es": "cambiar A por B",
+   "ko": "A를 B로 바꾸다",
+   "ex": "Se la voy a cambiar por otra.",
+   "exKo": "다른 걸로 바꿔 드릴게요."
+  },
+  {
+   "es": "darse prisa",
+   "ko": "서두르다",
+   "ex": "Tiene que darse prisa.",
+   "exKo": "서두르셔야겠어요."
+  },
+  {
+   "es": "el horario",
+   "ko": "시간표",
+   "ex": "aquí está el horario de autobuses",
+   "exKo": "여기 버스 시간표가 있어요"
+  },
+  {
+   "es": "durar",
+   "ko": "(시간이) 걸리다, 지속되다",
+   "ex": "¿Cuánto tiempo dura el espectáculo?",
+   "exKo": "공연은 얼마나 해요?"
+  },
+  {
+   "es": "el intermedio",
+   "ko": "휴식 시간, 막간",
+   "ex": "En el intermedio hay veinte minutos de descanso.",
+   "exKo": "중간에 20분 휴식이 있어요."
+  },
+  {
+   "es": "ocupado/a",
+   "ko": "사용 중인, 차 있는",
+   "ex": "No. Está ocupada.",
+   "exKo": "아뇨, 자리 있어요."
+  },
+  {
+   "es": "invitar",
+   "ko": "초대하다",
+   "ex": "Le quiero invitar a mi casa.",
+   "exKo": "당신을 우리 집에 초대하고 싶어요."
+  },
+  {
+   "es": "el vecino",
+   "ko": "이웃",
+   "ex": "Los vecinos van a venir con sus niños.",
+   "exKo": "이웃들이 아이들과 올 거예요."
+  },
+  {
+   "es": "la carta",
+   "ko": "메뉴판",
+   "ex": "¿Podría traerme la carta de comidas?",
+   "exKo": "메뉴판 좀 가져다주시겠어요?"
+  },
+  {
+   "es": "el postre",
+   "ko": "후식",
+   "ex": "¿Qué quiere tomar de postre?",
+   "exKo": "후식은 뭐로 하시겠어요?"
+  },
+  {
+   "es": "un cortado",
+   "ko": "코르타도(우유를 조금 넣은 에스프레소)",
+   "ex": "Deme un cortado, por favor.",
+   "exKo": "코르타도 한 잔 주세요."
+  },
+  {
+   "es": "la cuenta",
+   "ko": "계산서",
+   "ex": "La cuenta, por favor.",
+   "exKo": "계산서 주세요."
+  },
+  {
+   "es": "el cambio",
+   "ko": "거스름돈",
+   "ex": "Quédese con el cambio.",
+   "exKo": "거스름돈은 가지세요."
+  },
+  {
+   "es": "recoger",
+   "ko": "데리러 가다",
+   "ex": "Te voy a recoger el viernes por la noche.",
+   "exKo": "금요일 밤에 데리러 갈게."
+  },
+  {
+   "es": "tener interés en",
+   "ko": "~에 관심이 있다",
+   "ex": "Tengo interés en el arte.",
+   "exKo": "예술에 관심이 있어요."
+  },
+  {
+   "es": "a menudo",
+   "ko": "자주",
+   "ex": "A menudo voy a la exposición.",
+   "exKo": "전시회에 자주 가요."
+  },
+  {
+   "es": "recorrer",
+   "ko": "돌아다니다, 순회하다",
+   "ex": "autobuses turísticos que recorren Madrid",
+   "exKo": "마드리드를 도는 관광버스"
+  },
+  {
+   "es": "la entrada",
+   "ko": "입장권",
+   "ex": "¿Cuánto cuesta la entrada?",
+   "exKo": "입장료가 얼마예요?"
+  },
+  {
+   "es": "tener mala cara",
+   "ko": "안색이 안 좋다",
+   "ex": "Parece que hoy tiene mala cara.",
+   "exKo": "오늘 안색이 안 좋아 보여요."
+  },
+  {
+   "es": "la fiebre · la tos",
+   "ko": "열 · 기침",
+   "ex": "Tengo fiebre y tos.",
+   "exKo": "열이 나고 기침해요."
+  },
+  {
+   "es": "la gripe",
+   "ko": "독감",
+   "ex": "Tiene gripe.",
+   "exKo": "독감이네요."
+  },
+  {
+   "es": "recetar",
+   "ko": "처방하다",
+   "ex": "Le voy a recetar medicinas.",
+   "exKo": "약을 처방해 드릴게요."
+  },
+  {
+   "es": "perderse (se me ha perdido)",
+   "ko": "잃어버리다",
+   "ex": "Se me han perdido el pasaporte y la cartera.",
+   "exKo": "여권과 지갑을 잃어버렸어요."
+  },
+  {
+   "es": "robar",
+   "ko": "훔치다",
+   "ex": "Me los robaron en el metro.",
+   "exKo": "지하철에서 도둑맞았어요."
+  },
+  {
+   "es": "herido/a",
+   "ko": "다친",
+   "ex": "Mi compañero está muy herido.",
+   "exKo": "동료가 많이 다쳤어요."
+  },
+  {
+   "es": "la lista de espera",
+   "ko": "대기자 명단",
+   "ex": "Póngame en la lista de espera.",
+   "exKo": "대기자 명단에 올려 주세요."
+  },
+  {
+   "es": "la tarjeta de embarque",
+   "ko": "탑승권",
+   "ex": "Aquí está la tarjeta de embarque.",
+   "exKo": "여기 탑승권이요."
+  },
+  {
+   "es": "la puerta de embarque",
+   "ko": "탑승구",
+   "ex": "El número de la puerta de embarque es el A 40.",
+   "exKo": "탑승구는 A40이에요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A un desconocido o a una persona mayor, ¿cómo preguntas \"어디 사세요?\"",
+   "options": [
+    "¿Dónde vives?",
+    "¿Dónde vive usted?",
+    "¿Dónde vivís?",
+    "¿Dónde viviste?"
+   ],
+   "answer": 1,
+   "explain": "usted에는 3인칭 동사: ¿Dónde vive usted?"
+  },
+  {
+   "q": "En el control de pasaportes, ¿cuál es el motivo del viaje del Sr. Kim? (13강)",
+   "options": [
+    "Trabajo",
+    "Estudios",
+    "Turismo",
+    "Visitar a la familia"
+   ],
+   "answer": 2,
+   "explain": "¿Cuál es el motivo de su viaje? — Turismo."
+  },
+  {
+   "q": "\"No tengo nada de declarar\" se dice en…",
+   "options": [
+    "호텔",
+    "세관",
+    "식당",
+    "병원"
+   ],
+   "answer": 1,
+   "explain": "14강 세관 검사"
+  },
+  {
+   "q": "\"¿Ventanilla o pasillo?\"는 무엇을 묻나요?",
+   "options": [
+    "창가 좌석/복도 좌석",
+    "편도/왕복",
+    "현금/카드",
+    "싱글룸/더블룸"
+   ],
+   "answer": 0,
+   "explain": "ventanilla = 창가, pasillo = 복도"
+  },
+  {
+   "q": "¿Está incluido el desayuno en la habitación doble de 90 euros? (21강)",
+   "options": [
+    "No",
+    "Sí, hay un bufé de desayuno",
+    "Sólo los domingos",
+    "Cuesta 10 euros más"
+   ],
+   "answer": 1,
+   "explain": "Sí, claro. Servimos a los huéspedes un buen bufé de desayuno."
+  },
+  {
+   "q": "\"Le sientan bien\" significa…",
+   "options": [
+    "잘 앉으세요",
+    "잘 어울리세요",
+    "잘 맞지 않아요",
+    "너무 비싸요"
+   ],
+   "answer": 1,
+   "explain": "sentar bien = 잘 어울리다"
+  },
+  {
+   "q": "¿A cuánto ha bajado el precio de la blusa? (26강)",
+   "options": [
+    "105 euros",
+    "90 euros",
+    "67 euros",
+    "27 euros"
+   ],
+   "answer": 2,
+   "explain": "ha bajado de 105 euros a 67 euros"
+  },
+  {
+   "q": "\"A las cinco y cuarto\"는 몇 시?",
+   "options": [
+    "5시 15분",
+    "5시 45분",
+    "4시 45분",
+    "5시 반"
+   ],
+   "answer": 0,
+   "explain": "y cuarto = 15분"
+  },
+  {
+   "q": "¿Cuánto tiempo dura el espectáculo? (32강)",
+   "options": [
+    "Veinte minutos",
+    "Unas dos horas",
+    "Quince minutos",
+    "Toda la noche"
+   ],
+   "answer": 1,
+   "explain": "Unas dos horas. En el intermedio hay veinte minutos de descanso."
+  },
+  {
+   "q": "Al pagar en un restaurante, \"Quédese con el cambio\" significa…",
+   "options": [
+    "계산서 주세요",
+    "거스름돈은 가지세요",
+    "카드로 할게요",
+    "따로 계산할게요"
+   ],
+   "answer": 1,
+   "explain": "41강"
+  },
+  {
+   "q": "¿Qué día está cerrado el Museo del Prado? (45강)",
+   "options": [
+    "Los domingos",
+    "Los sábados",
+    "Los lunes",
+    "Los martes"
+   ],
+   "answer": 2,
+   "explain": "Todos los lunes permanece cerrado."
+  },
+  {
+   "q": "\"Se me han perdido el pasaporte y la cartera.\" ¿Qué ha pasado?",
+   "options": [
+    "여권과 지갑을 잃어버렸다",
+    "여권을 새로 만들었다",
+    "지갑을 찾았다",
+    "비행기를 놓쳤다"
+   ],
+   "answer": 0,
+   "explain": "49강 분실 신고"
+  }
+ ]
+}
