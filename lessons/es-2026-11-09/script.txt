@@ -6,6 +6,7 @@ END 18:24
 
 [00:00.00]
 ## 2강 · ¡Hola, buenos días! — 안녕, 좋은 아침!
+!img img/02.svg
 A | Hola, buenas tardes. | 안녕, 좋은 오후.
 [00:02.30]
 B | Buenas tardes. | 좋은 오후.
@@ -19,6 +20,7 @@ A | Mucho gusto. | 반가워.
 B | Encantada. | 반가워.
 [00:11.69]
 ## 3강 · ¿De dónde eres? — 어디 출신이니?
+!img img/03.svg
 A | Hola, buenas tardes. | 안녕, 좋은 오후.
 [00:13.85]
 B | Buenas tardes. | 좋은 오후.
@@ -36,6 +38,7 @@ A | Encantado. | 반가워.
 B | Mucho gusto. | 반가워.
 [00:31.48]
 ## 4강 · ¿Cómo estás? — 어떻게 지내?
+!img img/04.svg
 A | ¿Cómo estás? | 어떻게 지내?
 [00:33.14]
 B | Estoy muy bien, gracias. Y ¿tú? | 매우 잘 있어, 고마워. 그러면 넌?
@@ -47,6 +50,7 @@ B | Juan está en su casa. Está enfermo. | 후안은 자기 집에 있어. 아�
 A | ¡Qué pena! | 안됐군!
 [00:44.69]
 ## 5강 · ¿Estás mejor? — 나아졌어?
+!img img/05.svg
 A | ¿Cómo estás, Juan? | 후안, 어떻게 지내?
 [00:46.47]
 B | Estoy resfriado, pero hoy estoy mejor. | 감기 들었어. 하지만 지금은 좀 나아졌어.
@@ -62,6 +66,7 @@ B | Claro, la abro ahora. ¿Estás cómodo ahora? | 물론이지, 지금 열어.
 A | Sí, ahora estoy muy bien. | 그래, 지금 매우 좋아.
 [01:06.60]
 ## 6강 · ¿Hablas español? — 너 스페인어 하니?
+!img img/06.svg
 A | ¿Hablas español? | 너 스페인어 하니?
 [01:08.22]
 B | Sí, pero un poco. | 그래, 하지만 조금.
@@ -83,6 +88,7 @@ A | Me alegro de verte. | 널 만나서 반가워.
 B | Igualmente. | 마찬가지.
 [01:29.81]
 ## 7강 · ¿Dónde vives? — 어디에 살아?
+!img img/07.svg
 A | Hola, ¿dónde está Juan? | 안녕, 후안은 어디에 있어?
 [01:31.29]
 B | Está en el aula. Ahora estudia español. | 강의실에 있어. 지금 스페인어 공부해.
@@ -98,6 +104,7 @@ B | Entonces, ¿conoces a María Ramírez? | 그렇다면 너 마리아 라미�
 A | Lo siento, no la conozco. | 미안, 몰라.
 [01:49.74]
 ## 8강 · Mi casa no está tan lejos de aquí. — 우리 집은 여기서 그렇게 멀지 않아.
+!img img/08.svg
 A | Y tu casa, ¿está lejos de aquí? Tú, siempre llegas tarde a clase. | 너의 집은 여기서 멀리 있어? 넌 항상 수업에 늦게 도착해.
 [01:54.64]
 B | Sí... la verdad es que no está tan lejos de aquí. Por las mañanas trabajo en una cafetería, y luego voy al colegio. | 그래... 사실은 여기서 그렇게 멀리 있지 않아. 오전에 커피숍에서 일하고 이후 학교에 가.
@@ -111,6 +118,7 @@ A | Si necesitas ayuda, siempre puedes pedírmela, por favor. | 만약 도움이
 B | Gracias. | 고마워.
 [02:15.30]
 ## 9강 · ¿Hay un banco por aquí cerca? — 여기 가까운 곳에 은행이 있나요?
+!img img/09.svg
 A | ¿Hay un banco por aquí? | 여기 은행이 있나요?
 [02:17.30]
 B | Hay dos bancos, uno a la izquierda y otro a la derecha, aquí mismo. | 두 개가 있어요, 하나는 왼쪽에 다른 것은 오른쪽 바로 여기.
@@ -124,6 +132,7 @@ A | Gracias. | 고마워요.
 B | De nada. | 천만에요.
 [02:30.85]
 ## 10강 · ¿Vives en un piso? — 아파트에 사니?
+!img img/10.svg
 A | ¿Vives en un piso? | 아파트에 사니?
 [02:31.85]
 B | Sí, vivo en un piso con unos amigos. | 그래, 친구 몇 명과 아파트에 살아.
@@ -137,6 +146,7 @@ A | Es un piso bastante grande. | 매우 큰 아파트네.
 B | Sí, pero es un poco desordenado. | 그래, 하지만 좀 어수선해.
 [02:48.50]
 ## 11강 · Esta es tu habitación. — 여기가 네 방이야.
+!img img/11.svg
 A | Mira, esta es tu habitación. Aquí al lado están el salón y la cocina, y al final del pasillo está el cuarto de baño. | 봐봐, 여기가 너의 방이야. 여기 옆에 거실과 부엌이 있고, 복도 끝에 욕실이 있어.
 [02:56.02]
 B | Muchas gracias. Carmen, es usted muy amable. ¿Y los otros chicos? ¿Ahora no están en la casa? Quiero conocerlos ahora mismo. | 고마워요. 까르멘, 당신은 매우 친절해요. 다른 애들은요? 지금 집에 없나요? 지금 당장 그들을 알고 싶어요.
@@ -148,6 +158,7 @@ B | Bueno, gracias. | 그렇군요, 고마워요.
 A | De nada. | 천만에.
 [03:13.35]
 ## 12강 · ¿Cómo voy a la universidad? — 학교까지 어떻게 갈 수 있나요?
+!img img/12.svg
 A | ¿Cómo voy a la universidad? | 대학교에 어떻게 갈 수 있어?
 [03:15.61]
 B | Puedes ir en metro o en autobús. | 지하철이나 버스로 갈 수 있어.
@@ -161,6 +172,7 @@ A | Muchas gracias. Eres muy amable. | 매우 고마워. 넌 매우 친절해.
 B | No hay de qué. | 천만에.
 [03:35.21]
 ## 13강 · Quiero viajar por Sevilla. — 세비야로 여행하고 싶어.
+!img img/13.svg
 A | Me gusta viajar. | 난 여행하는 것 좋아해.
 [03:37.11]
 B | ¿De verdad? ¿Por qué no vamos a viajar por Sevilla este fin de semana? Ahora Sevilla está de fiesta. Hay muchos espectáculos. | 진짜로? 우리 이번 주말 세비야로 왜 여행하지 않을 거야? 지금 세비야는 축제 중이야. 많은 공연이 있어.
@@ -172,6 +184,7 @@ B | Muy bien. Mañana por la mañana nos vamos. | 매우 좋아. 우리 내일 �
 A | Vale. | 알았어.
 [03:54.46]
 ## 14강 · ¿Qué tiempo hace en Sevilla? — 세비야는 날씨가 어때?
+!img img/14.svg
 A | ¿Qué tiempo hace hoy? | 오늘 날씨 어때?
 [03:56.14]
 B | Hace mucho calor. | 엄청 더워.
@@ -185,6 +198,7 @@ A | ¡Qué pena! ¿En estos días hace mal tiempo en Sevilla? | 저런! 요즘 �
 B | Sí. Generalmente hace mucho calor, pero este año el tiempo está nublado a veces. | 그래. 보통은 엄청 더운데 올해는 때때로 구름이 끼어 있어.
 [04:14.61]
 ## 15강 · ¿Qué tiempo hace en la primavera de España? — 스페인의 봄 날씨는 어때?
+!img img/15.svg
 A | ¿Qué tiempo hace en primavera de España? | 스페인 봄 날씨는 어때?
 [04:17.47]
 B | El tiempo es muy agradable en España. Pero a veces hace viento. En el sur se llega a más o menos 25 grados. | 스페인 날씨는 매우 쾌적해. 하지만 가끔 바람이 불어. 남쪽에선 대략 25도까지 오르 기도 해.
@@ -198,6 +212,7 @@ A | ¿En el resto de España, también hace bueno? | 스페인 나머지 지역�
 B | No todo es igual. En el Norte llueve a veces. | 모두 같지는 않아. 북쪽에서는 때때로 비가 와.
 [04:39.04]
 ## 16강 · ¿Cuál es la fecha de tu cumpleaños? — 네 생일이 며칠이야?
+!img img/16.svg
 A | ¿Cuál es la fecha de tu cumpleaños? | 네 생일이 며칠이야?
 [04:41.60]
 B | Es el 29 de abril. | 4월 29일이야.
@@ -211,6 +226,7 @@ A | Claro que voy a tu fiesta. Quiero celebrarla con mucho gusto. | 당연히 �
 B | Gracias. | 고마워.
 [05:00.04]
 ## 17강 · ¿Qué hora es ahora? — 지금 몇 시야?
+!img img/17.svg
 A | ¿Qué hora es ahora? | 지금 몇 시야?
 [05:01.58]
 B | Son las ocho menos cinco. | 8시 5분 전이야.
@@ -226,6 +242,7 @@ B | ¿A qué hora empieza la clase? | 수업은 몇 시 시작이야?
 A | A las nueve en punto, y no quiero llegar tarde. | 9시 정각에, 늦게 도착하기 싫어.
 [05:18.07]
 ## 18강 · ¿A qué hora sale el tren para Granada? — 그라나다행 기차는 몇 시에 출발하나요?
+!img img/18.svg
 A | Queremos ir a Granada. ¿A qué hora sale el tren para Granada? | 우린 그라나다에 가길 원해요. 그라나다행 기차는 몇 시에 출발하나요?
 [05:22.01]
 B | Sale a las 7 en punto. | 7시 정각에 출발해요.
@@ -241,6 +258,7 @@ B | ¿Ida y vuelta? | 왕복요?
 A | No, sólo ida, por favor. | 아뇨, 편도만요.
 [05:37.68]
 ## 19강 · Me ducho por las mañanas. — 난 오전마다 샤워해.
+!img img/19.svg
 A | ¿Antes de salir de casa, qué haces? | 집에서 나가기 전에 뭐 해?
 [05:40.86]
 B | Generalmente me ducho y me afeito nada más levantarme. | 보통 일어나자마자 샤워하고 면도해.
@@ -254,6 +272,7 @@ A | Aún eres un niño para tu madre. | 네 어머니에게 넌 아직 아기야
 B | Sí, ya lo sé. | 그래, 이미 알고 있어.
 [05:59.44]
 ## 20강 · ¿Qué te parece el novio de Julia? — 훌리아의 애인은 네게 어떻게 보여?
+!img img/20.svg
 A | ¿Qué te parece el novio de Julia? | 훌리아의 애인은 네게 어떻게 보여?
 [06:01.90]
 B | La verdad es que es un poco pesado, y no me cae bien. | 사실은 좀 고리타분해. 그리고 내 맘에 안 들어.
@@ -265,6 +284,7 @@ B | A mí me cae más bien el de Ana. Yo siempre me llevo muy bien con él. Juga
 A | Estoy de acuerdo contigo. Él es genial. | 너의 의견에 동의해. 그는 끝내줘.
 [06:24.57]
 ## 21강 · ¿Te gusta el fútbol? — 축구 좋아해?
+!img img/21.svg
 A | ¿A ti qué te gusta, Ana? | 아나, 넌 뭘 좋아해?
 [06:26.67]
 B | A mí me gusta bailar, me gustan el fútbol y el baloncesto, y me gusta bastante cocinar. | 춤추는 것 좋아하고, 축구와 농구 좋아해. 그리고 요리하는 것도 매우 좋아해.
@@ -274,6 +294,7 @@ A | ¿No te gusta jugar al ajedrez? | 체스하는 것은 안 좋아해?
 B | No me gusta nada. No me gusta estar quieta mucho tiempo. | 전혀 안 좋아해. 오랜 시간 가만히 있는 것 안 좋아해.
 [06:41.04]
 ## 22강 · Es el jugador más caro del equipo. — 팀에서 가장 비싼 선수야.
+!img img/22.svg
 A | ¿Qué te parece el nuevo jugador del Real Madrid? | 레알 마드리드 새 선수 어떻게 보여?
 [06:44.62]
 B | ¿Quién? ¿Ronaldo? Es un jugador bonísimo. | 누구? 로날도? 매우 좋은 선수야.
@@ -289,6 +310,7 @@ B | Pues es el jugador más caro del equipo. | 여하튼 팀에서 제일 비싼
 A | Ya, ya lo sé. ¡Es increíble! | 이미 알고 있어. 믿기지 않아!
 [07:01.19]
 ## 23강 · ¿De parte de quién? — 누구로부터(요)?
+!img img/23.svg
 A | ¿Dígame? | 여보세요.
 [07:02.37]
 B | ¡Hola! ¿Está Daniel? | 안녕하세요. 다니엘 있나요?
@@ -304,6 +326,7 @@ B | Gracias. | 고마워요.
 A | ¡Daniel, al teléfono! Es para ti. | 다니엘, 전화! 네게 온 거야.
 [07:16.82]
 ## 24강 · Se ha equivocado. — 착각했어요.
+!img img/24.svg
 A | ¿Sí? ¡Dígame! | 네, 말씀하세요!
 [07:18.26]
 B | ¿Está Luis, por favor? | 루이스 있나요?
@@ -319,6 +342,7 @@ B | Lo siento. | 미안합니다.
 A | No pasa nada. | 괜찮아요.
 [07:38.13]
 ## 25강 · Voy a llamar más tarde. — 나중에 전화할게요.
+!img img/25.svg
 A | ¿Diga? | 여보세요.
 [07:38.55]
 B | ¿Está Luis, por favor? | 루이스 있나요?
@@ -332,6 +356,7 @@ A | Pues en este momento no puede ponerse. ¿Quiere dejarle algún recado? | 지
 B | No, gracias. Voy a llamar más tarde. | 아뇨, 고마워요. 나중에 전화할게요.
 [07:53.65]
 ## 26강 · ¿A cuánto está el kilo de naranjas? — 오렌지 1킬로는 얼마인가요?
+!img img/26.svg
 A | ¡Hola, buenas tardes! | 안녕, 좋은 오후입니다.
 [07:55.75]
 B | ¿Qué quiere usted, señora? | 부인, 뭘 원하시나요?
@@ -351,6 +376,7 @@ B | Vale. Aquí tiene, señora. ¿Quiere algo más? | 좋아요, 여기 있어�
 A | No, nada más. | 아뇨, 더 없어요.
 [08:18.29]
 ## 27강 · ¿En vuelo regular o con tarifa mini? — 규정 항공편 혹은 저가 요금으로요?
+!img img/27.svg
 A | ¿Cuánto cuesta un billete de avión Barcelona- Granada? | 바르셀로나-그라나다 비행기 표는 얼마나 비용이 드나요?
 [08:21.87]
 B | ¿En vuelo regular o con tarifa mini? | 규정 항공편 혹은 저가 요금으로요?
@@ -362,6 +388,7 @@ B | El vuelo regular cuesta 135 euros y la tarifa mini 93 euros. | 규정 항공
 A | Gracias. | 고마워요.
 [08:36.95]
 ## 28강 · ¿Por qué no vamos al cine? — 우리 영화관에 왜 안 가?
+!img img/28.svg
 A | ¿Por qué no vamos al cine esta noche? | 오늘 밤 우리 영화관에 왜 안 가?
 [08:38.87]
 B | ¿Qué película? | 무슨 영화?
@@ -375,6 +402,7 @@ A | Estos días trabajas mucho, y tienes que descansar un poco. Mañana es sába
 B | Vale, vamos. | 그래, 가자.
 [08:57.74]
 ## 29강 · ¿Qué vas a hacer después del trabajo? — 퇴근 뒤 뭐 할 거야?
+!img img/29.svg
 A | ¿Qué vas a hacer después del trabajo? | 퇴근 뒤 뭐 할 거야?
 [09:00.52]
 B | ¿Hoy o normalmente? | 오늘 혹은 보통?
@@ -392,6 +420,7 @@ A | Tienes una vida muy organizada, ¿verdad? | 넌 생활을 매우 잘 짜두�
 B | Sí. | 그래.
 [09:18.26]
 ## 30강 · Vamos a viajar por Barcelona durante la Semana Santa — 우리 부활절 동안 바르셀로나로 여행합시다.
+!img img/30.svg
 A | Juan, ¿qué vas a hacer durante la Semana Santa? | 후안, 부활절 동안 넌 뭐 할 거야?
 [09:21.48]
 B | Pues, pienso quedarme en casa. Estoy muy cansado estos días. | 응, 집에 머물 생각이야. 요즘 매우 피곤해.
@@ -405,6 +434,7 @@ A | Si vienes conmigo, te vas a divertir. | 만약 나랑 간다면, 넌 즐기�
 B | ¿De verdad? Muy bien. | 진짜로? 매우 좋아.
 [09:38.86]
 ## 31강 · ¿Cuál es el sitio más famoso de Barcelona? — 어떤 것이 바르셀로나의 가장 유명한 장소야?
+!img img/31.svg
 A | ¿Cuál es el sitio más famoso de Barcelona? | 어떤 것이 바르셀로나의 가장 유명한 장소야?
 [09:42.02]
 B | Por supuesto, las obras de Antonio Gaudí. | 당연히 안또니오 가우디의 작품들.
@@ -420,6 +450,7 @@ B | Es la iglesia más grande del mundo, y aún no se ha terminado la construcci
 A | ¿Sí? Me gustaría verla. | 그래? 봤으면 좋겠다.
 [10:05.09]
 ## 32강 · ¿En Barcelona no se habla español? — 바르셀로나에서는 스페인어 말하지 않아?
+!img img/32.svg
 A | En Barcelona no se habla español. ¿Qué idioma se habla? | 바르셀로나에선 스페인어를 말하지 않아. 어떤 언어를 말하지?
 [10:08.27]
 B | Se habla catalán, y también es romance. | 카탈루냐어를 말해, 그리고 이 또한 로망스어야.
@@ -437,6 +468,7 @@ A | Entonces, en España hay cuatro idiomas oficiales, ¿verdad? | 그렇다면 
 B | Sí. | 그래.
 [10:40.98]
 ## 33강 · ¿Cuál es el menú del día, hoy? — 오늘의 메뉴가 무엇이죠?
+!img img/33.svg
 A | Hola, buenas tardes. ¿Qué quiere tomar? | 안녕, 좋은 오후입니다. 뭘 드시겠어요?
 [10:44.12]
 B | ¿Cuál es el menú del día, hoy? | 오늘의 메뉴가 무엇이죠?
@@ -452,6 +484,7 @@ B | Una caña, por favor. | 생맥주 한 잔 부탁해요.
 A | Muy bien. | 좋아요.
 [11:03.72]
 ## 34강 · Vamos a picar algo en ese bar. — 저 바에서 뭐 먹자.
+!img img/34.svg
 A | ¿No tienes hambre, Juan? | 후안, 너 배 안 고파?
 [11:05.90]
 B | No tengo mucha hambre, pero puedo picar algo. | 많이 안 고프지만 뭐 먹을 수는 있어.
@@ -465,6 +498,7 @@ A | Quiero tomar una tapa de calamares. | 오징어 따빠 먹고 싶어.
 B | Muy bien. Me encanta la tapa de calamares. | 좋아. 나도 오징어 따빠 좋아해.
 [11:21.68]
 ## 35강 · Vamos al hotel Melisa. — 멜리사 호텔 갑시다.
+!img img/35.svg
 A | Vamos a tomar un taxi. No tengo tiempo. | 택시 타요. 시간 없어요.
 [11:24.86]
 B | Vale. ¡Taxi! | 좋아요. 택시!
@@ -484,6 +518,7 @@ B | Muy bien. Vamos deprisa, por favor. | 좋아요. 서둘러 가요, 부탁합
 A | ¡Enseguida! | 즉시!
 [11:44.71]
 ## 36강 · ¿Hay una habitación libre? — 빈방 하나 있나요?
+!img img/36.svg
 A | Hola, ¿hay una habitación libre? | 안녕, 빈방 하나 있나요?
 [11:47.59]
 B | Sí. ¿Qué tipo de habitación quiere usted, una individual o una doble? | 예. 싱글 혹은 더블 어떤 유형의 방을 원하시나요?
@@ -509,6 +544,7 @@ A | Gracias. | 고마워요.
 B | De nada, señora. Buenas noches. | 천만에요, 부인. 좋은 밤 보내세요.
 [12:21.11]
 ## 37강 · Esta habitación es muy ruidosa. — 이 방은 매우 시끄럽다.
+!img img/37.svg
 A | Buenas noches, quiero cambiar la habitación. | 좋은 저녁입니다. 방을 바꾸고 싶어요.
 [12:24.55]
 B | ¿Por qué, señora? | 부인, 왜 그런가요?
@@ -522,6 +558,7 @@ A | Deme otra habitación, por favor. | 다른 방을 줘요, 부탁해요.
 B | De acuerdo, le doy otra. | 좋아요, 다른 방을 드릴게요.
 [12:39.92]
 ## 38강 · Tengo mucho dolor de cabeza. — 머리가 매우 아파.
+!img img/38.svg
 A | Hoy ha sido un día terrible. He trabajado mucho y no he descansado nada. | 오늘은 끔찍한 하루였어. 많이 일하고는 전혀 쉬지를 못했어.
 [12:45.28]
 B | ¡Pobrecito! | 안됐군!
@@ -535,6 +572,7 @@ A | Gracias. Seguiré tu consejo. | 고마워. 너의 충고를 따를게.
 B | Nada, eres mi mejor amigo. | 천만에, 넌 내 가장 좋은 친구야.
 [13:02.48]
 ## 39강 · Deme un calmante. — 진통제 하나 주세요.
+!img img/39.svg
 A | Deme un calmante. | 진통제 하나 주세요.
 [13:04.18]
 B | ¿Tiene usted receta médica? | 의사 처방전 가지고 있나요?
@@ -550,6 +588,7 @@ B | Tome aspirina. Le va a quitar el dolor de cabeza. | 아스피린 드세요. 
 A | Vale. Deme una, por favor. | 좋아요. 하나 주세요.
 [13:20.75]
 ## 40강 · ¿Dónde le duele? — 어디가 아픈가요?
+!img img/40.svg
 A | ¿Dónde le duele? | 어디가 아프신가요?
 [13:22.25]
 B | Tengo dolor de estómago. | 위가 아파요.
@@ -567,6 +606,7 @@ A | Durante dos semanas y tiene que dejar de fumar. | 이 주 동안요, 그리�
 B | Ya... Ya lo sé. | 이미... 이미 알고 있어요.
 [13:44.39]
 ## 41강 · ¿Cómo va todo? — 전부 어때요?
+!img img/41.svg
 A | Buenos días. ¿Cómo va todo? | 좋은 아침입니다. 모두 어때요?
 [13:46.49]
 B | Mucho mejor, doctora. El régimen es estupendo, peso tres kilos menos. | 훨씬 좋아요, 박사님. 식이요법이 훌륭해요. 삼 킬로덜 나가요.
@@ -578,6 +618,7 @@ B | De acuerdo, doctora. Una cosa más... ¿Puede recetarme algunas vitaminas? L
 A | Sí. Debe tomar dos pastillas por la mañana y dos por la noche. | 그래요. 아침에 두 알 그리고 저녁에 두 알 먹어야 해요.
 [14:12.81]
 ## 42강 · ¿Qué hiciste el fin de semana? — 넌 주말에 뭐 했어?
+!img img/42.svg
 A | Hola, Juan. ¿Qué hiciste el fin de semana? | 안녕, 후안. 주말에 뭐 했어?
 [14:16.03]
 B | Fui a mi pueblo natal y visité a mis padres. Y también tomé una copa con mis viejos amigos que viven allí. | 고향에 가 부모님을 뵀어. 그리고 또한 그곳에 사는 옛 친구들과 한잔했어.
@@ -589,6 +630,7 @@ B | ¡Qué pena! Tienes que animarte mucho. | 안됐군! 좀 힘을 내.
 A | Ya lo sé. | 이미 알고 있어.
 [14:35.69]
 ## 43강 · ¿Qué tal te ha salido el examen? — 시험 어땠어?
+!img img/43.svg
 A | ¿Qué tal te ha salido el examen, Cristina? | 끄리스띠나, 시험 어땠어?
 [14:38.85]
 B | Así, así. He tenido problemas con los ejercicios de verbos. | 그럭저럭. 난 동사 연습문제에 문제가 있었어.
@@ -600,6 +642,7 @@ B | ¿Un poco? Yo creo que ha sido dificilísimo. ¡Oye! ¿Sobre qué has hecho 
 A | He comparado el sistema educativo español con el americano. | 스페인의 교육 체계를 미국 것과 비교했어.
 [14:57.17]
 ## 44강 · Acabo de llegar a Madrid. — 난 막 마드리드에 도착했어
+!img img/44.svg
 A | ¡Hola! Verá, he llegado esta mañana a Madrid, y necesito información sobre hoteles, pensiones... bueno, algún sitio donde alojarme durante unos días. | 안녕! 보실까요, 오늘 아침에 마드리드에 도착했는데, 호텔이나 여관... 등 며칠 머물 장소에 관한 정보가 필요해요.
 [15:06.49]
 B | Aquí tienes un folleto con todos los hoteles de Madrid, y otro con albergues juveniles. ¿Tienes carné de estudiante? | 여기 마드리드 모든 호텔 안내 책자가 있어, 그리고 다른 것은 유스 호스텔 관련된 것이고. 학생증 있어?
@@ -609,6 +652,7 @@ A | Sí, sí, lo tengo. | 그래요. 있어요.
 B | Entonces, puedes ir a un albergue juvenil. | 그렇다면 유스 호스텔에 갈 수 있어.
 [15:20.31]
 ## 45강 · ¿Dónde vivías cuando eras niño? — 넌 어렸을 때 어디 살았어?
+!img img/45.svg
 A | Este fin de semana voy a mi pueblo natal. | 이번 주말 난 고향에 가.
 [15:23.47]
 B | ¿En serio? ¿Dónde vivías de pequeño? | 진짜로? 어릴 때 어디 살았어?
@@ -624,6 +668,7 @@ B | ¡Qué bonita es esta ciudad! | 정말 예쁜 도시네!
 A | Claro. | 물론이지.
 [15:42.77]
 ## 46강 · ¿Cuándo fue la última vez? — 언제가 마지막이었어?
+!img img/46.svg
 A | ¿Sabes cuándo fue la última vez que cené en un restaurante italiano? | 내가 이탈리아 식당에서 식사한 마지막이 언제였는지 넌 알아?
 [15:47.37]
 B | ¿Hace mucho? | 오래전?
@@ -635,6 +680,7 @@ B | A mí me gusta mucho la comida italiana... no sé, es muy variada. | 나도 
 A | Y además, aquí en España, los restaurantes italianos son muy buenos. | 게다가 여기 스페인의 이탈리아 식당들은 매우 훌륭해.
 [16:05.72]
 ## 47강 · He perdido el metro esta mañana. — 오늘 아침 지하철을 놓쳤어
+!img img/47.svg
 A | Hola, Juan. Has llegado muy tarde. | 후안, 안녕. 너 오늘 매우 늦게 도착했어.
 [16:08.62]
 B | Esta mañana he perdido el metro, porque me he levantado muy tarde. | 오늘 아침 지하철을 놓쳤어, 왜냐면 매우 늦게 일어났거든.
@@ -646,6 +692,7 @@ B | He esperado mucho tiempo para coger un taxi, porque había mucha gente llama
 A | Pues, ha sido un día horrible para ti. | 여하튼, 네게는 오늘 끔찍한 하루였어.
 [16:25.51]
 ## 48강 · ¿Dónde viajaste la semana pasada? — 지난주 넌 어디 여행했어?
+!img img/48.svg
 A | ¿La semana pasada dónde viajaste? | 지난주 너 어디 여행했어?
 [16:28.19]
 B | Viajé por Sevilla y Granada. | 세비야와 그라나다로 여행했어.
@@ -661,6 +708,7 @@ B | Fue fantástico. Sevilla es una ciudad maravillosa y Granada... no puedes im
 A | Bueno, algún día visitaré Sevilla y Granada. | 좋아, 언젠가 세비야와 그라나다를 방문할게.
 [16:51.99]
 ## 49강 · ¿Qué harás después de graduarte? — 졸업 후 뭐할 거야?
+!img img/49.svg
 A | ¿Qué harás después de graduarte? | 넌 졸업 후 뭐할 거야?
 [16:54.35]
 B | No sé, no he pensado nada. | 모르겠어, 전혀 생각하지 않았어.
@@ -674,6 +722,7 @@ A | En el futuro quiero que seas toda una mujer. | 미래에는 네가 온전한
 B | Gracias, lo quiero ser. | 고마워, 나도 그러고 싶어.
 [17:11.18]
 ## 50강 · No se preocupe, es algo que le pueda pasar a cualquiera. — 걱정하지 말아요, 누구에게나 일어날 수 있는 일입니다.
+!img img/50.svg
 A | Pase y siéntese. | 들어오세요. 앉으세요.
 [17:13.45]
 B | Gracias. Creo que llego con un poco de retraso. Lo siento, es que el tráfico estaba de pena. | 고맙습니다. 좀 늦게 도착했어요. 미안합니다. 실은 교통 체증이 심했어요.
@@ -687,6 +736,7 @@ A | Muy bien, por hoy ya hemos terminado. Nos veremos mañana. | 좋아요, 오�
 B | Gracias, hasta mañana. | 고마워요. 내일 봐요.
 [17:43.87]
 ## 51강 · ¿Qué regalo quieres recibir en Navidad? — 성탄절에 무슨 선물 받고 싶어?
+!img img/51.svg
 A | ¿Qué regalo quieres recibir en esta fiesta de Navidad? | 넌 이번 성탄절 축제에 무슨 선물을 받길 원하니?
 [17:47.37]
 B | ¿Qué regalo? | 무슨 선물?
@@ -698,6 +748,7 @@ B | ¡Ah!, ya lo he oído alguna vez. A mí me gustaría recibir un regalo fant�
 A | ¿Anillo? Tú sigues siendo una mujer. | 반지? 넌 여전히 여자구나.
 [18:05.42]
 ## 52강 · Si vuelves a tu país, llámame. — 너희 나라에 돌아가면 전화해.
+!img img/52.svg
 A | Si vuelves a tu país, envíame un correo electrónico o llámame. | 만약 너희 나라 돌아가면 이메일을 보내거나 전화해.
 [18:10.06]
 B | Vale, ahora (mismo) somos muy amigos, y no te olvidaré nunca. | 좋아, 이제 우린 매우 친한 친구야. 널 절대로 잊지 않을 거야.

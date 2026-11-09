@@ -281,3 +281,7 @@ body.cover .vcard:not(.open) .m, body.cover .vcard:not(.open) .x .ko { filter: b
 .tq-q { font-size: 17px; font-weight: 600; }
 .tq-h { margin: 4px 0 0; padding-left: 18px; color: var(--mut); font-size: 14.5px; }
 .talk td.jp { font-size: 15px; }
+
+/* 섹션 첫머리 장면 그림 */
+figure.secImg { margin: 4px 0 12px; }
+figure.secImg img { display: block; width: 100%; max-width: 560px; height: auto; border-radius: 12px; border: 1px solid var(--line, #ddd); }

@@ -60,6 +60,7 @@
   (L.sections || []).forEach((s, si) => {
     const t0 = s.lines[0] ? s.lines[0].t : 0;
     html += `<h2 class="secT" id="sec${si}">${esc(s.title)} <span class="hint">${fmt(t0)}</span></h2>`;
+    if (s.img) html += `<figure class="secImg"><img src="lessons/${esc(L.id)}/${esc(s.img)}" alt="${esc(s.title)} 장면 그림" loading="lazy"></figure>`;
     opts += `<option value="${si}">${fmt(t0)} · ${esc(s.title)}</option>`;
     for (const l of s.lines) {
       html += `<div class="line sp${Math.max(0, spk.indexOf(l.s)) % 4}" data-i="${n++}" data-t="${l.t}"><div class="who">${esc(who[l.s] || l.s)}<span class="ts">${fmt(l.t)}</span></div>

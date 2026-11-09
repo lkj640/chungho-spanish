@@ -11,6 +11,7 @@ script.txt 형식
   END mm:ss                 영상 끝 시각
   [mm:ss]                   유튜브 transcript의 구간 시작 시각 (문장별로 [mm:ss.ss]도 돼요)
   ## 섹션 제목               (다음 줄부터 새 섹션)
+  !img 파일이름.svg           (## 바로 다음 줄: 섹션 첫머리 그림, 강의 폴더 기준 경로)
   S | 원문 | 한국어            화자 코드는 meta.json의 speakers 참고
 구간 안의 각 줄 시작 시각은 글자 수 비율로 나눠서 계산해요.
 
@@ -32,6 +33,8 @@ def parse_script(path):
     end = None
     chunks = []  # [start, [(section_or_None, speaker, es, ko), ...]]
     pending_sec = None
+    pending_img = None
+    imgs = {}
     for n, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         line = raw.strip()
         if not line or line.startswith("# "):
@@ -42,12 +45,17 @@ def parse_script(path):
             chunks.append([secs(m.group(1)), []])
         elif line.startswith("## "):
             pending_sec = line[3:].strip()
+        elif line.startswith("!img "):
+            pending_img = line[5:].strip()
         else:
             parts = [p.strip() for p in line.split("|")]
             if len(parts) != 3 or not chunks:
                 sys.exit(f"{path}:{n}: 형식 오류 → {raw}")
             chunks[-1][1].append((pending_sec, *parts))
+            if pending_img:
+                imgs[(len(chunks) - 1, len(chunks[-1][1]) - 1)] = pending_img
             pending_sec = None
+            pending_img = None
     if end is None:
         sys.exit(f"{path}: END mm:ss 줄이 필요해요")
 
@@ -56,11 +64,13 @@ def parse_script(path):
         stop = chunks[i + 1][0] if i + 1 < len(chunks) else end
         total = sum(len(r[2]) for r in rows) or 1
         acc = 0
-        for sec, spk, es, ko in rows:
+        for j, (sec, spk, es, ko) in enumerate(rows):
             t = round(start + (stop - start) * acc / total, 1)
             acc += len(es)
             if sec or not sections:
                 sections.append({"title": sec or "대본", "lines": []})
+                if (i, j) in imgs:
+                    sections[-1]["img"] = imgs[(i, j)]
             sections[-1]["lines"].append({"t": t, "s": spk, "es": es, "ko": ko})
     return sections
 

@@ -6,6 +6,7 @@ END 18:02
 
 [00:00.00]
 ## 1강 · ¡Buenos días! — 좋은 아침입니다! (인사하기)
+!img img/01.svg
 N | Lección 1. ¡Buenos días! | 1과. 좋은 아침입니다!
 [00:03.40]
 A | ¡Buenos días! | 좋은 아침입니다!
@@ -25,6 +26,7 @@ A | ¡Hasta luego! | 나중에 봬요!
 B | ¡Adiós! | 안녕히 가세요!
 [00:20.33]
 ## 2강 · ¿Cómo se llama usted? — 성함이 어떻게 되십니까? (이름 묻고 답하기)
+!img img/02.svg
 N | Lección 2. ¿Cómo se llama usted? | 2과. 성함이 어떻게 되십니까?
 [00:24.21]
 A | ¡Hola! ¡Buenas tardes! Me llamo Dong-su Kim. | 안녕하세요! 좋은 오후입니다! 저는 김동수라고 합니다.
@@ -40,6 +42,7 @@ A | ¡Mucho gusto! | 만나서 반갑습니다!
 B | ¡Encantada! | 반갑습니다! (여성이 말할 때)
 [00:40.11]
 ## 3강 · ¿De dónde es usted? — 어디 출신이세요? (출신지 묻고 답하기)
+!img img/03.svg
 N | Lección 3. ¿De dónde es usted? | 3과. 어디 출신이세요?
 [00:43.99]
 A | Señor Kim, ¿de dónde es usted? | 김 선생님, 어디 출신이세요?
@@ -51,6 +54,7 @@ A | No. Soy de Barcelona. ¿De qué ciudad es usted? | 아니요. 저는 바르�
 B | Soy de Seúl. | 저는 서울 출신입니다.
 [00:56.31]
 ## 4강 · ¿Cómo está usted? — 어떻게 지내십니까? (안부 묻기)
+!img img/04.svg
 N | Lección 4. ¿Cómo está usted? | 4과. 어떻게 지내십니까?
 [00:59.77]
 A | ¡Buenos días, Sr. Lee! | 안녕하세요, 이 선생님!
@@ -66,6 +70,7 @@ A | ¿Qué le pasa? | 무슨 일이세요?
 B | Tengo mucho trabajo que hacer. | 해야 할 일이 많아서요.
 [01:16.76]
 ## 5강 · ¡Hace mucho tiempo que no nos vemos! — 오랜만이에요! (친한 사이의 안부 인사)
+!img img/05.svg
 N | Lección 5. ¡Hace mucho tiempo que no nos vemos! | 5과. 오랜만이에요!
 [01:21.36]
 A | ¡Hola, buenas noches, José! | 안녕, 좋은 저녁이야, 호세!
@@ -79,6 +84,7 @@ B | Bien, bien. ¿Y tú, qué tal estás? | 잘 지내. 너는 어때?
 A | Muy bien. Gracias. | 아주 잘 지내. 고마워.
 [01:37.60]
 ## 6강 · ¿Dónde vive usted? — 어디에 사세요? (사는 곳 묻고 답하기)
+!img img/06.svg
 N | Lección 6. ¿Dónde vive usted? | 6과. 어디에 사세요?
 [01:41.08]
 A | Don Víctor, ¿dónde vive usted? | 돈 빅토르 씨, 어디에 사세요?
@@ -92,6 +98,7 @@ A | ¡Hola, Juan! ¿Dónde vives? | 안녕, 후안! 너는 어디 살아?
 B | Vivo en la Plaza de España. | 나는 에스파냐 광장에 살아.
 [01:56.19]
 ## 7강 · ¿Cuál es su número de teléfono? — 전화번호가 어떻게 되세요? (전화번호 묻고 답하기)
+!img img/07.svg
 N | Lección 7. ¿Cuál es su número de teléfono? | 7과. 전화번호가 어떻게 되세요?
 [02:00.11]
 A | ¿Cuál es su número de teléfono? | 전화번호가 어떻게 되세요?
@@ -103,6 +110,7 @@ A | ¿Cuál es su número de móvil? | 휴대전화 번호는 어떻게 되세�
 B | Es el 654 321 987. | 654 321 987입니다.
 [02:18.66]
 ## 8강 · ¿Qué es esto? — 이것은 무엇입니까? (사물 묻고 답하기)
+!img img/08.svg
 N | Lección 8. ¿Qué es esto? | 8과. 이것은 무엇입니까?
 [02:21.78]
 A | Perdón. ¿Qué es esto? | 실례합니다. 이게 뭐예요?
@@ -116,6 +124,7 @@ B | Sí. Aquí tiene. | 네. 여기 있어요.
 A | Muchas gracias. ¡Es un último modelo! | 정말 고맙습니다. 최신 모델이네요!
 [02:34.35]
 ## 9강 · ¿Hablas español? — 스페인어 할 줄 알아요? (언어와 여행 기간 묻기)
+!img img/09.svg
 N | Lección 9. ¿Hablas español? | 9과. 스페인어 할 줄 알아요?
 [02:37.95]
 A | ¡Hola, buenas noches! ¿Hablas español? | 안녕하세요, 좋은 저녁이에요! 스페인어 할 줄 알아요?
@@ -131,6 +140,7 @@ A | Me llamo Luis. ¡Encantado! | 저는 루이스예요. 반가워요!
 B | ¡Mucho gusto! Soy Mina. | 만나서 반가워요! 저는 미나예요.
 [02:56.04]
 ## 10강 · ¿Cómo se dice esto en español? — 이것을 스페인어로 뭐라고 해요? (모르는 단어 묻기)
+!img img/10.svg
 N | Lección 10. ¿Cómo se dice esto en español? | 10과. 이것을 스페인어로 뭐라고 해요?
 [03:00.08]
 A | ¿Quieres más vino? | 와인 더 마실래요?
@@ -142,6 +152,7 @@ A | Esto es chorizo. Es de tripa y carne de cerdo. | 이건 초리소예요. 창
 B | No lo sabía. ¡Qué rico! | 몰랐어요. 정말 맛있네요!
 [03:13.05]
 ## 11강 · ¿A qué se dedica usted? — 무슨 일을 하세요? (직업과 전공 묻기)
+!img img/11.svg
 N | Lección 11. ¿A qué se dedica usted? | 11과. 무슨 일을 하세요?
 [03:17.07]
 A | Señor Kim, ¿a qué se dedica usted? | 김 선생님, 무슨 일을 하세요?
@@ -155,6 +166,7 @@ B | Estudio ciencias empresariales. | 경영학을 공부해요.
 A | ¡Que tenga éxito! | 성공하시길 바랍니다!
 [03:33.59]
 ## 12강 · ¿Dónde trabaja usted? — 어디에서 일하세요? (직장 묻고 답하기)
+!img img/12.svg
 N | Lección 12. ¿Dónde trabaja usted? | 12과. 어디에서 일하세요?
 [03:37.37]
 A | Doña María, ¿dónde trabaja usted? | 마리아 여사님, 어디에서 일하세요?
@@ -168,6 +180,7 @@ B | Está en el centro comercial Alcampo. ¿Y usted? | 알캄포 쇼핑센터에
 A | Trabajo en el Hospital Príncipe de Asturias. | 저는 프린시페 데 아스투리아스 병원에서 일합니다.
 [03:53.20]
 ## 13강 · ¿Cuál es el motivo de su viaje? — 여행의 목적이 무엇입니까? (입국 심사)
+!img img/13.svg
 N | Lección 13. ¿Cuál es el motivo de su viaje? | 13과. 여행의 목적이 무엇입니까?
 [03:57.38]
 A | ¡Buenas noches! Su pasaporte, por favor. | 안녕하세요! 여권을 보여 주세요.
@@ -187,6 +200,7 @@ A | Bien. ¡Que tenga un buen viaje! | 좋습니다. 즐거운 여행 되세요!
 B | Gracias. | 감사합니다.
 [04:16.37]
 ## 14강 · No tengo nada de declarar. — 신고할 것이 없습니다. (세관 검사)
+!img img/14.svg
 N | Lección 14. No tengo nada de declarar. | 14과. 신고할 것이 없습니다.
 [04:20.83]
 A | ¡Buenas tardes! ¿Tiene algo de declarar? | 안녕하세요! 신고할 물건이 있습니까?
@@ -198,6 +212,7 @@ A | ¿Puede abrir la maleta? | 여행 가방을 열어 주시겠어요?
 B | Sí, un momento. | 네, 잠시만요.
 [04:31.38]
 ## 15강 · ¿Cómo se puede ir al centro de Madrid? — 마드리드 중심가로 어떻게 갈 수 있나요? (교통편 묻기)
+!img img/15.svg
 N | Lección 15. ¿Cómo se puede ir al centro de Madrid? | 15과. 마드리드 중심가로 어떻게 갈 수 있나요?
 [04:35.96]
 A | Perdone. ¿Cómo se puede ir al centro de Madrid? | 실례합니다. 마드리드 시내로 어떻게 갈 수 있나요?
@@ -213,6 +228,7 @@ A | ¿Y el metro? | 지하철은요?
 B | Puede ir andando. Mire, allí está la señal de metro. | 걸어서 가실 수 있어요. 보세요, 저기 지하철 표지판이 있어요.
 [04:54.41]
 ## 16강 · Quería un billete para Sevilla. — 세비야행 표를 한 장 사고 싶어요. (표 구입하기)
+!img img/16.svg
 N | Lección 16. Quería un billete para Sevilla. | 16과. 세비야행 표를 한 장 사고 싶어요.
 [04:59.79]
 A | Buenos días. Quería un billete para Sevilla. | 안녕하세요. 세비야행 표 한 장 사고 싶은데요.
@@ -232,6 +248,7 @@ A | Ventanilla. | 창가 쪽으로요.
 B | Bien, son 20 euros con 50 céntimos. | 좋아요, 20유로 50센트입니다.
 [05:18.54]
 ## 17강 · Vamos al hotel Princesa. — 프린세사 호텔로 가 주세요. (택시 타기)
+!img img/17.svg
 N | Lección 17. Vamos al hotel Princesa. | 17과. 프린세사 호텔로 가 주세요.
 [05:22.96]
 A | Hola, buenas tardes. ¿Adónde nos vamos? | 안녕하세요. 어디로 갈까요?
@@ -245,6 +262,7 @@ B | ¿Cuánto cuesta llegar allí? | 거기까지 가는 데 얼마예요?
 A | Cuesta más o menos 30 euros. | 대략 30유로 정도 들어요.
 [05:38.88]
 ## 18강 · Tengo una reserva de habitación. — 객실을 예약했습니다. (호텔 체크인)
+!img img/18.svg
 N | Lección 18. Tengo una reserva de habitación. | 18과. 객실을 예약했습니다.
 [05:43.62]
 A | Hola, buenas noches. ¿En qué puedo ayudarle? | 안녕하세요. 무엇을 도와드릴까요?
@@ -260,6 +278,7 @@ A | Un momento. El número de la habitación es el 304. Aquí tiene la llave. Se
 B | Muchas gracias. | 정말 감사합니다.
 [06:06.87]
 ## 19강 · ¿Hay una habitación libre? — 빈 방이 있습니까? (빈 방 문의하기)
+!img img/19.svg
 N | Lección 19. ¿Hay una habitación libre? | 19과. 빈 방이 있습니까?
 [06:11.19]
 A | Hola, buenas tardes. ¿Hay una habitación libre? | 안녕하세요. 빈 방이 있나요?
@@ -273,6 +292,7 @@ B | Bien. ¿Cuántas noches va a quedarse? | 좋아요. 며칠 밤 묵으실 건
 A | Dos noches. | 이틀 밤이요.
 [06:27.88]
 ## 20강 · Quiero reservar una habitación. — 객실을 예약하고 싶습니다. (호텔 예약하기)
+!img img/20.svg
 N | Lección 20. Quiero reservar una habitación. | 20과. 객실을 예약하고 싶습니다.
 [06:32.28]
 A | Quiero reservar una habitación doble con baño. | 욕실 딸린 2인실을 예약하고 싶어요.
@@ -286,6 +306,7 @@ B | Por si acaso, ¿hay una habitación con buena vista? | 혹시, 전망 좋은
 A | Sí, hay una. Tiene buena suerte. | 네, 하나 있어요. 운이 좋으시네요.
 [06:48.86]
 ## 21강 · ¿Cuánto cuesta la habitación? — 객실 요금이 얼마입니까? (요금 묻기)
+!img img/21.svg
 N | Lección 21. ¿Cuánto cuesta la habitación? | 21과. 객실 요금이 얼마입니까?
 [06:53.10]
 A | ¿Cuánto cuesta la habitación doble por una noche? | 2인실은 하룻밤에 얼마예요?
@@ -297,6 +318,7 @@ A | ¿Está incluido el desayuno? | 아침 식사가 포함되어 있나요?
 B | Sí, claro. Servimos a los huéspedes un buen bufé de desayuno. | 네, 물론이죠. 투숙객에게 훌륭한 조식 뷔페를 제공합니다.
 [07:06.71]
 ## 22강 · ¿Cómo es el clima de Corea? — 한국의 기후는 어떻습니까? (날씨와 계절)
+!img img/22.svg
 N | Lección 22. ¿Cómo es el clima de Corea? | 22과. 한국의 기후는 어떻습니까?
 [07:10.99]
 A | ¡Hoy hace buen tiempo! | 오늘은 날씨가 좋네요!
@@ -308,6 +330,7 @@ A | ¿Cómo es el clima de Corea en otoño? | 한국의 가을 기후는 어때�
 B | Hay muchos días de sol y hay pocos días de lluvia. | 맑은 날이 많고 비 오는 날은 적어요.
 [07:25.53]
 ## 23강 · ¿Qué temperatura hace hoy? — 오늘 기온이 얼마입니까? (오늘의 날씨와 기온)
+!img img/23.svg
 N | Lección 23. ¿Qué temperatura hace hoy? | 23과. 오늘 기온이 얼마입니까?
 [07:29.67]
 A | ¿Qué va a hacer hoy? | 오늘 뭐 하실 거예요?
@@ -319,6 +342,7 @@ A | Entonces, sería mejor llevar el abrigo. Hace viento y el termómetro marca 
 B | Gracias por el consejo. | 조언 감사합니다.
 [07:45.58]
 ## 24강 · Estoy buscando un par de zapatos. — 신발 한 켤레를 찾고 있어요. (신발 사기)
+!img img/24.svg
 N | Lección 24. Estoy buscando un par de zapatos. | 24과. 신발 한 켤레를 찾고 있어요.
 [07:50.58]
 A | ¿Le ayudo? | 도와드릴까요?
@@ -332,6 +356,7 @@ B | Calzo 240 milímetros. ¿A qué talla equivale esto en España? | 240밀리�
 A | Aproximadamente equivale a la talla 37. Pruébese éstos, por favor. | 대략 37 사이즈예요. 이것들을 신어 보세요.
 [08:12.18]
 ## 25강 · ¿Le gusta esto? — 이것이 마음에 드세요? (옷 입어 보기)
+!img img/25.svg
 N | Lección 25. ¿Le gusta esto? | 25과. 이것이 마음에 드세요?
 [08:15.88]
 A | ¿Le gustan estos pantalones? Le sientan bien. | 이 바지 마음에 드세요? 잘 어울려요.
@@ -343,6 +368,7 @@ A | Aquí tiene una talla más grande. | 여기 한 치수 큰 것이 있어요.
 B | Voy a probarme. ¡Me sientan muy bien! | 입어 볼게요. 저한테 아주 잘 맞아요!
 [08:29.48]
 ## 26강 · ¿Cuánto es? — 얼마입니까? (가격 묻기와 할인)
+!img img/26.svg
 N | Lección 26. ¿Cuánto es? | 26과. 얼마입니까?
 [08:32.94]
 A | Esta blusa me queda muy bien. Tiene buena calidad, también. ¿Cuánto es? | 이 블라우스가 저한테 아주 잘 맞아요. 품질도 좋네요. 얼마예요?
@@ -352,6 +378,7 @@ B | Son 67 euros. Es un precio de descuento. El precio de la blusa ha bajado de 
 A | ¡Qué bien! Me la llevo. | 잘됐네요! 그걸로 할게요.
 [08:50.30]
 ## 27강 · ¿Puedo pagar con tarjeta de crédito? — 신용카드로 계산해도 됩니까? (계산하기)
+!img img/27.svg
 N | Lección 27. ¿Puedo pagar con tarjeta de crédito? | 27과. 신용카드로 계산해도 됩니까?
 [08:54.80]
 A | Quiero comprar esta camisa. | 이 셔츠를 사고 싶어요.
@@ -365,6 +392,7 @@ B | Por supuesto que sí. Por favor, ¿puede firmar aquí? | 물론이죠. 여�
 A | Muchas gracias. ¡Que la disfrute! | 정말 감사합니다. 잘 입으세요! (즐겁게 사용하세요)
 [09:10.51]
 ## 28강 · No funciona bien este aparato. — 이 기기가 제대로 작동하지 않아요. (교환·환불)
+!img img/28.svg
 N | Lección 28. No funciona bien este aparato. | 28과. 이 기기가 제대로 작동하지 않아요.
 [09:15.07]
 A | Hola, buenas tardes. Hace unos días compré esta cámara digital. Desafortunadamente, no funciona bien. | 안녕하세요. 며칠 전에 이 디지털카메라를 샀는데 안타깝게도 제대로 작동하지 않아요.
@@ -376,6 +404,7 @@ A | Aquí está el recibo. | 여기 영수증 있어요.
 B | Seguramente esta cámara no es normal. Se la voy a cambiar por otra. | 이 카메라가 분명 정상이 아니군요. 다른 것으로 바꿔 드리겠습니다.
 [09:32.84]
 ## 29강 · ¿Qué hora es? — 몇 시입니까? (시간 묻기)
+!img img/29.svg
 N | Lección 29. ¿Qué hora es? | 29과. 몇 시입니까?
 [09:36.30]
 A | ¿Qué hora es ahora? | 지금 몇 시예요?
@@ -389,6 +418,7 @@ B | ¿Adónde tiene que ir? | 어디로 가야 하세요?
 A | Esta noche voy a un teatro. | 오늘 밤에 극장에 가요.
 [09:48.15]
 ## 30강 · ¿A qué hora empieza el espectáculo? — 공연은 몇 시에 시작합니까? (공연 시간 묻기)
+!img img/30.svg
 N | Lección 30. ¿A qué hora empieza el espectáculo? | 30과. 공연은 몇 시에 시작합니까?
 [09:52.55]
 A | ¿A qué hora empieza el espectáculo? | 공연은 몇 시에 시작해요?
@@ -400,6 +430,7 @@ A | Es verdad. Entonces, tiene que darse prisa. ¡Que pase bien esta noche! | �
 B | Gracias. ¡Buen fin de semana! | 고마워요. 즐거운 주말 보내세요!
 [10:09.71]
 ## 31강 · ¿Cuándo viene el autobús siguiente? — 다음 버스는 언제 옵니까? (버스 시간표)
+!img img/31.svg
 N | Lección 31. ¿Cuándo viene el autobús siguiente? | 31과. 다음 버스는 언제 옵니까?
 [10:14.55]
 A | Perdone. ¿Ya ha salido el autobús para el Teatro Real? | 실례합니다. 테아트로 레알행 버스는 벌써 떠났나요?
@@ -413,6 +444,7 @@ B | Un momento, aquí está el horario de autobuses. Hay uno a las 5 y cuarto. |
 A | ¡Muchísimas gracias! | 정말 감사합니다!
 [10:33.26]
 ## 32강 · ¿Cuánto tiempo dura el espectáculo? — 공연은 얼마나 오래 합니까? (사과하기와 공연 시간)
+!img img/32.svg
 N | Lección 32. ¿Cuánto tiempo dura el espectáculo? | 32과. 공연은 얼마나 오래 합니까?
 [10:38.36]
 A | Perdóname por haber llegado tarde. | 늦게 와서 미안해요.
@@ -426,6 +458,7 @@ B | ¿Cuánto tiempo dura el espectáculo? | 공연은 얼마나 오래 하나�
 A | Unas dos horas. En el intermedio hay veinte minutos de descanso. | 약 두 시간이에요. 중간에 20분 휴식 시간이 있어요.
 [10:55.56]
 ## 33강 · ¿Esta silla está libre? — 이 의자 비어 있습니까? (자리 묻고 대화 이어가기)
+!img img/33.svg
 N | Lección 33. ¿Esta silla está libre? | 33과. 이 의자 비어 있습니까?
 [10:59.78]
 A | El espectáculo ha sido muy bueno. | 공연이 아주 좋았어요.
@@ -439,6 +472,7 @@ B | Aquí hay mucha gente. Perdón, ¿esta silla está libre? | 여기 사람이
 A | No. Está ocupada. | 아니요. 자리 있어요.
 [11:14.02]
 ## 34강 · Habla Dongsu Kim. — 저는 김동수입니다. (전화) (전화 통화하기)
+!img img/34.svg
 N | Lección 34. Habla Dongsu Kim. | 34과. 저는 김동수입니다. (전화)
 [11:18.56]
 A | ¿Dígame? | 여보세요? (전화를 받을 때)
@@ -456,6 +490,7 @@ B | Es que mi familia está aquí. | 사실 제 가족이 여기에 와 있어�
 A | ¡Qué bien! Quiero ver a su familia. | 잘됐네요! 가족분들을 뵙고 싶어요.
 [11:37.87]
 ## 35강 · Le quiero invitar. — 당신을 초대하고 싶습니다. (초대하기)
+!img img/35.svg
 N | Lección 35. Le quiero invitar. | 35과. 당신을 초대하고 싶습니다.
 [11:42.39]
 A | Sr. Kim, ¿tiene tiempo este fin de semana? | 김 선생님, 이번 주말에 시간 있으세요?
@@ -467,6 +502,7 @@ A | Le quiero invitar a mi casa. | 저희 집에 초대하고 싶어요.
 B | Muchas gracias. Me alegro mucho por la invitación. | 정말 감사합니다. 초대해 주셔서 정말 기뻐요.
 [11:54.89]
 ## 36강 · ¿Está bien este sábado? — 이번 토요일 괜찮으세요? (약속 시간 정하기)
+!img img/36.svg
 N | Lección 36. ¿Está bien este sábado? | 36과. 이번 토요일 괜찮으세요?
 [11:59.63]
 A | Le queremos invitar a la cena del sábado. ¿Está bien este sábado? | 토요일 저녁 식사에 초대하고 싶어요. 이번 토요일 괜찮으세요?
@@ -478,6 +514,7 @@ A | Sobre las seis y media. Los vecinos van a venir con sus niños. | 6시 반�
 B | Eso está bien. Muchas gracias por la invitación. | 그거 좋네요. 초대해 주셔서 정말 감사합니다.
 [12:15.26]
 ## 37강 · Quería reservar una mesa. — 테이블을 예약하고 싶은데요. (식당 예약)
+!img img/37.svg
 N | Lección 37. Quería reservar una mesa. | 37과. 테이블을 예약하고 싶은데요.
 [12:21.02]
 A | Quería reservar una mesa para cuatro personas. | 네 명 테이블을 예약하고 싶은데요.
@@ -489,6 +526,7 @@ A | Mañana por la noche, a las diez. Si es posible, quiero una mesa al lado de 
 B | Sí, es posible. | 네, 가능합니다.
 [12:34.32]
 ## 38강 · Quiero una botella de cerveza. — 맥주 한 병 주세요. (음료 주문하기)
+!img img/38.svg
 N | Lección 38. Quiero una botella de cerveza. | 38과. 맥주 한 병 주세요.
 [12:39.40]
 A | Mire, ¿podría traerme la carta de comidas? | 저기요, 음식 메뉴판을 가져다주시겠어요?
@@ -500,6 +538,7 @@ A | Sí, yo quiero una botella de cerveza, y a esta señorita, una de agua miner
 B | Ahora mismo se las traigo. | 지금 바로 가져다 드릴게요.
 [12:54.93]
 ## 39강 · ¿Quiere pedir? — 주문하시겠습니까? (음식 주문하기)
+!img img/39.svg
 N | Lección 39. ¿Quiere pedir? | 39과. 주문하시겠습니까?
 [12:58.73]
 A | ¿Quiere pedir? | 주문하시겠어요?
@@ -511,6 +550,7 @@ A | Pruebe el pollo asado con patatas fritas. | 감자튀김을 곁들인 구운
 B | Parece bien. Que nos dé ese. Y la paella también. | 좋아 보이네요. 그걸로 주세요. 그리고 빠에야도요.
 [13:11.38]
 ## 40강 · ¿Qué quiere tomar de postre? — 후식으로 무엇을 드시겠습니까? (후식 주문하기)
+!img img/40.svg
 N | Lección 40. ¿Qué quiere tomar de postre? | 40과. 후식으로 무엇을 드시겠습니까?
 [13:15.20]
 A | ¿Ha comido bien? | 맛있게 드셨어요?
@@ -526,6 +566,7 @@ A | ¿Y café? | 커피는요?
 B | Deme un cortado, por favor. | 코르타도 한 잔 주세요.
 [13:31.62]
 ## 41강 · La cuenta, por favor. — 계산서 주세요. (계산하기)
+!img img/41.svg
 N | Lección 41. La cuenta, por favor. | 41과. 계산서 주세요.
 [13:36.16]
 A | Oiga. La cuenta, por favor. | 저기요. 계산서 주세요.
@@ -541,6 +582,7 @@ A | Aquí tiene. Quédese con el cambio. | 여기 있습니다. 잔돈은 가지
 B | Gracias. | 감사합니다.
 [13:50.58]
 ## 42강 · ¿Quiere venir al cine conmigo? — 저와 영화 보러 가시겠어요? (영화 제안하기)
+!img img/42.svg
 N | Lección 42. ¿Quiere venir al cine conmigo? | 42과. 저와 영화 보러 가시겠어요?
 [13:55.36]
 A | ¿Qué vas a hacer este fin de semana? | 이번 주말에 뭐 할 거야?
@@ -554,6 +596,7 @@ B | Sí, de acuerdo. No he visto ninguna película en España. | 응, 좋아. �
 A | Entonces, ¡tanto mejor! Te voy a recoger el viernes por la noche. | 그럼 더 잘됐다! 금요일 밤에 데리러 갈게.
 [14:13.86]
 ## 43강 · Tengo interés en el arte. — 저는 예술에 관심이 있습니다. (취미와 여가)
+!img img/43.svg
 N | Lección 43. Tengo interés en el arte. | 43과. 저는 예술에 관심이 있습니다.
 [14:18.56]
 A | ¿Qué hace en su tiempo libre? | 여가 시간에 무엇을 하세요?
@@ -567,6 +610,7 @@ B | ¡Estupendo! ¿Podría llevarme un día? | 멋지네요! 언젠가 저를 �
 A | Sí, con mucho gusto. La próxima vez le voy a llamar. | 네, 기꺼이요. 다음에 전화드릴게요.
 [14:38.70]
 ## 44강 · ¿Qué lugares turísticos hay aquí? — 여기에는 어떤 관광지가 있습니까? (관광지 묻기)
+!img img/44.svg
 N | Lección 44. ¿Qué lugares turísticos hay aquí? | 44과. 여기에는 어떤 관광지가 있습니까?
 [14:43.40]
 A | ¿Qué lugares turísticos hay en esta ciudad? | 이 도시에는 어떤 관광지가 있어요?
@@ -578,6 +622,7 @@ A | ¿Hay autobuses turísticos que recorren Madrid? | 마드리드를 도는 �
 B | Por supuesto. Puede coger el autobús Madrid Visión en cualquier parada de su recorrido. | 물론이죠. 노선 중 어느 정류장에서든 마드리드 비시온 버스를 탈 수 있어요.
 [15:03.88]
 ## 45강 · ¿A qué hora se abre el museo? — 박물관은 몇 시에 문을 엽니까? (박물관 관람)
+!img img/45.svg
 N | Lección 45. ¿A qué hora se abre el museo? | 45과. 박물관은 몇 시에 문을 엽니까?
 [15:08.62]
 A | Hoy quiero visitar el Museo del Prado. ¿Sabe cómo es el horario de visita al museo? | 오늘 프라도 미술관을 방문하고 싶어요. 관람 시간이 어떻게 되는지 아세요?
@@ -589,6 +634,7 @@ A | ¿Cuánto cuesta la entrada? | 입장료는 얼마예요?
 B | Cuesta unos seis euros y los domingos es gratis. | 6유로 정도이고 일요일은 무료예요.
 [15:28.09]
 ## 46강 · ¿Qué tiene usted? — 어디가 아프십니까? (몸 상태 말하기)
+!img img/46.svg
 N | Lección 46. ¿Qué tiene usted? | 46과. 어디가 아프십니까?
 [15:32.17]
 A | Parece que hoy tiene mala cara. | 오늘 안색이 안 좋아 보여요.
@@ -602,6 +648,7 @@ B | Tengo dolor de cabeza y fiebre. | 머리가 아프고 열이 나요.
 A | Entonces, tiene que ir al médico. | 그럼 병원에 가 보셔야겠어요.
 [15:44.68]
 ## 47강 · Me duele todo el cuerpo. — 온몸이 아파요. (약국에서)
+!img img/47.svg
 N | Lección 47. Me duele todo el cuerpo. | 47과. 온몸이 아파요.
 [15:49.54]
 A | ¡Hola, buenos días! ¿Qué desea usted? | 안녕하세요! 무엇을 원하세요?
@@ -615,6 +662,7 @@ B | Sí, también me duele todo el cuerpo. | 네, 온몸도 아파요.
 A | Aquí tiene la medicina contra el resfriado. Tómela 30 minutos después de comer. | 여기 감기약입니다. 식후 30분에 드세요.
 [16:06.33]
 ## 48강 · ¿Le voy a recetar medicinas? — 약을 처방해 드리겠습니다. (병원 진료)
+!img img/48.svg
 N | Lección 48. ¿Le voy a recetar medicinas? | 48과. 약을 처방해 드리겠습니다.
 [16:11.35]
 A | ¿Qué le pasa? | 어디가 안 좋으세요?
@@ -624,6 +672,7 @@ B | Tengo inflamación de garganta. Me duele mucho la garganta. | 목에 염증�
 A | Vamos a ver. Tiene gripe. No se preocupe mucho. Le voy a recetar medicinas. | 어디 봅시다. 독감이에요. 너무 걱정하지 마세요. 약을 처방해 드릴게요.
 [16:23.98]
 ## 49강 · Se me ha perdido el pasaporte. — 여권을 잃어버렸어요. (분실 신고)
+!img img/49.svg
 N | Lección 49. Se me ha perdido el pasaporte. | 49과. 여권을 잃어버렸어요.
 [16:29.04]
 A | Quiero hacer una declaración de extravío. | 분실 신고를 하고 싶어요.
@@ -639,6 +688,7 @@ A | Probablemente me los robaron en el metro. | 아마 지하철에서 도둑맞
 B | Le voy a hacer un certificado de extravío. | 분실 증명서를 만들어 드리겠습니다.
 [16:47.53]
 ## 50강 · ¡Ayúdeme, por favor! — 도와주세요! (긴급 상황)
+!img img/50.svg
 N | Lección 50. ¡Ayúdeme, por favor! | 50과. 도와주세요!
 [16:51.57]
 A | ¡Ayúdeme, por favor! | 도와주세요!
@@ -652,6 +702,7 @@ B | ¿Ha llamado a la policía y la ambulancia? | 경찰과 구급차를 불렀�
 A | No. ¿Qué número puedo marcar? | 아니요. 어느 번호로 전화해야 하나요?
 [17:05.55]
 ## 51강 · Quiero cambiar mi reserva del vuelo. — 항공편 예약을 변경하고 싶어요. (항공권 변경)
+!img img/51.svg
 N | Lección 51. Quiero cambiar mi reserva del vuelo. | 51과. 항공편 예약을 변경하고 싶어요.
 [17:10.97]
 A | ¡Buenos días! Quiero cambiar mi reserva del vuelo. | 안녕하세요! 항공편 예약을 변경하고 싶어요.
@@ -669,6 +720,7 @@ B | El vuelo está lleno. No hay ningún asiento libre. | 그 항공편은 만�
 A | Póngame en la lista de espera, por favor. | 대기자 명단에 올려 주세요.
 [17:35.99]
 ## 52강 · ¿Tiene algún equipaje? — 부칠 짐이 있으세요? (탑승 수속)
+!img img/52.svg
 N | Lección 52. ¿Tiene algún equipaje? | 52과. 부칠 짐이 있으세요?
 [17:40.85]
 A | ¿Prefiere asiento de ventanilla o pasillo? | 창가 좌석과 복도 좌석 중 어느 쪽이 좋으세요?
