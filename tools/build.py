@@ -84,6 +84,7 @@ FORCE = {
     "背了": "bēi le", "睛干": "jing gān", "舒服的觉": "shū fu de jiào",
     "在地里": "zài dì li", "精准地": "jīng zhǔn de", "彻底地": "chè dǐ de", "不觉地": "bù jué de", "机械性地": "jī xiè xìng de",
     "行不通": "xíng bu tōng", "违背": "wéi bèi", "榨干": "zhà gān", "补觉": "bǔ jiào", "运转": "yùn zhuǎn", "床当": "chuáng dàng",
+    "一举两得": "yì jǔ liǎng dé", "闭着": "bì zhe", "不好意思": "bù hǎo yì si", "舒服": "shū fu",
     "变长": "biàn cháng", "极长": "jí cháng", "在地下": "zài dì xià", "重构": "chóng gòu", "重塑": "chóng sù", "理解了": "lǐ jiě le", "估计得": "gū jì děi", "更地道": "gèng dì dao", 
     "人为什么": "rén wèi shén me", "都会": "dōu huì", "这只能": "zhè zhǐ néng", "落差": "luò chā", "身处": "shēn chǔ", "处在": "chǔ zài","卡在": "qiǎ zài", "打卡": "dǎ kǎ", "翻个": "fān ge", "这个": "zhè ge", 
 }
