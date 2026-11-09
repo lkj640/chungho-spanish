@@ -1,0 +1,3081 @@
+{
+ "id": "es-2026-11-09",
+ "lang": "es",
+ "date": "2026-11-09",
+ "title": "EBS 입에서 톡 스페인어 시즌 2 — 상황별 대화문 51개",
+ "es": "¡Hola, buenas tardes!",
+ "emoji": "📗",
+ "level": "A1–A2",
+ "channel": "EBS 입에서 톡 스페인어 시즌 2",
+ "videoTitle": "대화로 배우는 스페인어 · 2–52강 대화문",
+ "audio": "audio.m4a",
+ "duration": "18:24",
+ "speakers": {
+  "A": "A",
+  "B": "B"
+ },
+ "hideCast": true,
+ "textPdf": {
+  "file": "book.pdf",
+  "title": "대화로 배우는 스페인어 (EBS 시즌 2 대화문 교재 · 70쪽)"
+ },
+ "summary": "EBS 입에서 톡 스페인어 시즌 2의 2강부터 52강까지 대화문 51개를 한 번에 들어요. 강마다 섹션이 나뉘어 있고, 대화문 오디오 51개를 이어 붙여 문장마다 시각을 맞췄어요. 인사와 출신(ser/estar) → 집·길 묻기 → 날씨·시각·날짜 → 하루 일과(재귀동사) → 좋아하는 것(gustar) → 전화·쇼핑·교통·식당·호텔 → 병원 → 과거 이야기(현재완료·단순과거·불완료) → 미래 계획과 작별까지. '본문 PDF' 탭에서 교재 전체(어휘·유용한 표현 포함)를 볼 수 있어요.",
+ "topics": [
+  "2–8강 인사 · 출신 · 안부 · ser와 estar",
+  "9–13강 집 · 방 · 길 묻기 · 여행 제안",
+  "14–19강 날씨 · 날짜 · 시각 · 기차표 · 하루 일과",
+  "20–22강 gustar · caer bien · ¿Qué te parece?",
+  "23–37강 전화 · 시장 · 항공권 · 영화 · 바르셀로나 · 식당 · 택시 · 호텔",
+  "38–41강 두통 · 약국 · 병원 · 식이요법",
+  "42–52강 과거 이야기 · 미래 계획 · 면접 · 크리스마스 · 작별"
+ ],
+ "grammar": [
+  {
+   "title": "① ser vs estar — 정체는 ser, 상태·위치는 estar",
+   "lead": "둘 다 '~이다'지만 쓰임이 달라요. 출신·직업·성격은 ser, 기분·건강·위치·일시적 상태는 estar.",
+   "table": {
+    "head": [
+     "",
+     "ser",
+     "estar"
+    ],
+    "rows": [
+     [
+      "쓰임",
+      "출신 · 직업 · 성격 · 본질",
+      "상태 · 건강 · 위치"
+     ],
+     [
+      "예문",
+      "Soy de Canadá. / Soy estudiante de español.",
+      "Estoy resfriado. / Juan está en su casa."
+     ],
+     [
+      "예문",
+      "Mi profesora es muy simpática.",
+      "Mi habitación está bastante desordenada."
+     ],
+     [
+      "강",
+      "3 · 6강",
+      "4 · 5 · 7강"
+     ]
+    ]
+   },
+   "tip": "¿Cómo es tu profesora?(어떤 사람이야? — 성격) vs ¿Cómo estás?(어떻게 지내? — 상태)"
+  },
+  {
+   "title": "② 날씨 — hace + 명사, llover, estar nublado",
+   "lead": "날씨는 주로 hacer 동사 3인칭 hace로 말해요.",
+   "table": {
+    "head": [
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "¿Qué tiempo hace hoy?",
+      "오늘 날씨 어때?"
+     ],
+     [
+      "Hace mucho calor. / Hace frío.",
+      "아주 더워. / 추워."
+     ],
+     [
+      "Hace viento. / Hace buen (mal) tiempo.",
+      "바람이 불어. / 날씨가 좋아(나빠)."
+     ],
+     [
+      "Llueve. / Va a llover.",
+      "비가 와. / 비가 올 거야."
+     ],
+     [
+      "El tiempo está nublado.",
+      "날씨가 흐려."
+     ]
+    ]
+   },
+   "tip": "14·15강"
+  },
+  {
+   "title": "③ 시각과 날짜",
+   "lead": "시각은 ser 동사 복수 son + las + 숫자(1시만 es la una). '~시에'는 a las ~.",
+   "examples": [
+    [
+     "¿Qué hora es ahora? — Son las ocho menos cinco.",
+     "지금 몇 시야? — 8시 5분 전이야."
+    ],
+    [
+     "¿A qué hora empieza la clase? — A las nueve en punto.",
+     "수업 몇 시에 시작해? — 9시 정각에."
+    ],
+    [
+     "¿A qué hora sale el tren para Granada? — Sale a las 7 en punto.",
+     "그라나다행 기차는 몇 시에 출발하나요? — 7시 정각에요."
+    ],
+    [
+     "¿Cuál es la fecha de tu cumpleaños? — Es el 29 de abril.",
+     "네 생일이 며칠이야? — 4월 29일이야."
+    ]
+   ]
+  },
+  {
+   "title": "④ gustar · caer bien · parecer — '나에게 ~하다' 구조",
+   "lead": "좋아하는 대상이 주어, 사람은 간접목적어(me, te, le)로 와요. 대상이 복수면 gustan.",
+   "examples": [
+    [
+     "A mí me gusta bailar, me gustan el fútbol y el baloncesto.",
+     "나는 춤추는 게 좋고, 축구와 농구가 좋아."
+    ],
+    [
+     "No me gusta nada.",
+     "전혀 안 좋아해."
+    ],
+    [
+     "¿Qué te parece el novio de Julia? — No me cae bien.",
+     "훌리아의 남자친구 어때? — 내 맘에 안 들어."
+    ],
+    [
+     "Me parece bien. / Me parece que hace buen tiempo.",
+     "좋은 것 같아. / 날씨가 좋은 것 같아."
+    ]
+   ],
+   "tip": "A mí tampoco. (나도 아니야) — 부정에 맞장구칠 때는 tampoco"
+  },
+  {
+   "title": "⑤ 재귀동사 — me ducho, me levanto",
+   "lead": "자기 자신에게 하는 행동은 me/te/se + 동사. 동사원형 뒤에는 붙여 써요(levantarme).",
+   "examples": [
+    [
+     "Generalmente me ducho y me afeito nada más levantarme.",
+     "보통 일어나자마자 샤워하고 면도해."
+    ],
+    [
+     "¿Siempre te despiertas solo? — Mi madre me despierta siempre.",
+     "항상 혼자 일어나? — 엄마가 늘 깨워 주셔."
+    ],
+    [
+     "Me acuesto muy tarde, por eso no puedo levantarme.",
+     "아주 늦게 자서 일어날 수가 없어."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 상황별 필수 표현 — 전화 · 가게 · 교통 · 호텔 · 병원",
+   "table": {
+    "head": [
+     "상황",
+     "스페인어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "전화",
+      "¿Dígame? / ¿Diga? / ¿De parte de quién?",
+      "여보세요? / 누구세요?"
+     ],
+     [
+      "전화",
+      "Ahora se pone. / Se ha equivocado.",
+      "지금 바꿔 줄게요. / 잘못 거셨어요."
+     ],
+     [
+      "가게",
+      "¿A cuánto está el kilo? / Deme cinco kilos.",
+      "1킬로 얼마예요? / 5킬로 주세요."
+     ],
+     [
+      "가게",
+      "¿Quiere algo más? — No, nada más.",
+      "더 필요한 거 있으세요? — 아니요, 그거면 돼요."
+     ],
+     [
+      "교통",
+      "Deme dos billetes. ¿Ida y vuelta? — Sólo ida.",
+      "표 두 장 주세요. 왕복이요? — 편도만요."
+     ],
+     [
+      "택시",
+      "¿Cuánto tiempo se tarda? — Más o menos 15 minutos.",
+      "얼마나 걸려요? — 15분쯤이요."
+     ],
+     [
+      "호텔",
+      "¿Hay una habitación libre? / individual · doble",
+      "빈방 있어요? / 싱글 · 더블"
+     ],
+     [
+      "병원",
+      "¿Dónde le duele? — Tengo dolor de estómago.",
+      "어디가 아프세요? — 배가 아파요."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ 미래 — ir a + 동사원형 / 단순미래",
+   "lead": "가까운 계획은 ir a + 동사원형, 의지·예정은 단순미래(-é, -ás, -á…).",
+   "examples": [
+    [
+     "Voy a llamar más tarde.",
+     "나중에 전화할게요."
+    ],
+    [
+     "¿Qué vas a hacer después del trabajo?",
+     "퇴근하고 뭐 할 거야?"
+    ],
+    [
+     "Si vienes conmigo, te vas a divertir.",
+     "나랑 가면 재미있을 거야."
+    ],
+    [
+     "¿Qué harás después de graduarte?",
+     "졸업하고 뭐 할 거야?"
+    ],
+    [
+     "Algún día visitaré Sevilla y Granada. / Te echaré de menos.",
+     "언젠가 세비야와 그라나다에 가 볼 거야. / 네가 보고 싶을 거야."
+    ]
+   ]
+  },
+  {
+   "title": "⑧ 과거 세 가지 — 현재완료 · 단순과거 · 불완료과거",
+   "lead": "오늘 일은 현재완료, 끝난 과거(지난 주말, 지난주)는 단순과거, 과거의 배경·습관(어렸을 때)은 불완료과거.",
+   "table": {
+    "head": [
+     "시제",
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "현재완료",
+      "Esta mañana he perdido el metro. (47강)",
+      "오늘 아침 지하철을 놓쳤어."
+     ],
+     [
+      "현재완료",
+      "Hoy ha sido un día terrible. (38강)",
+      "오늘은 끔찍한 하루였어."
+     ],
+     [
+      "단순과거",
+      "¿Qué hiciste el fin de semana? — Fui a mi pueblo natal. (42강)",
+      "주말에 뭐 했어? — 고향에 갔어."
+     ],
+     [
+      "단순과거",
+      "Viajé por Sevilla y Granada. (48강)",
+      "세비야와 그라나다를 여행했어."
+     ],
+     [
+      "불완료과거",
+      "¿Dónde vivías de pequeño? — Vivía en un pueblo pesquero. (45강)",
+      "어릴 때 어디 살았어? — 어촌에 살았어."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑨ 의무 · 조언 — tener que, deber, deberías",
+   "lead": "tener que + 동사원형은 '~해야 한다', deber는 조금 더 공식적, deberías는 '~하는 게 좋겠어'(부드러운 조언).",
+   "examples": [
+    [
+     "Tengo que ganar dinero para estudiar.",
+     "공부하려면 돈을 벌어야 해."
+    ],
+    [
+     "Tienes que descansar un poco.",
+     "좀 쉬어야 해."
+    ],
+    [
+     "Si no se calma el dolor, deberías ir al médico.",
+     "통증이 가라앉지 않으면 병원에 가 보는 게 좋겠어."
+    ],
+    [
+     "Debe empezar a hacer deporte. / Tiene que dejar de fumar.",
+     "운동을 시작하셔야 해요. / 담배를 끊으셔야 해요."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "Mucho gusto. — Encantado/a.",
+   "반가워요. — 반가워요."
+  ],
+  [
+   "Me alegro de verte. — Igualmente.",
+   "만나서 기뻐. — 나도."
+  ],
+  [
+   "¡Qué pena!",
+   "안됐다!"
+  ],
+  [
+   "No hay de qué. / De nada.",
+   "천만에요."
+  ],
+  [
+   "Si no te molesta, te acompaño.",
+   "괜찮다면 같이 갈게."
+  ],
+  [
+   "Lo siento. — No pasa nada.",
+   "미안해요. — 괜찮아요."
+  ],
+  [
+   "Estoy de acuerdo contigo.",
+   "네 말에 동의해."
+  ],
+  [
+   "¡Anda! Anímate.",
+   "에이, 힘 내!"
+  ],
+  [
+   "No me suena mucho.",
+   "별로 들어 본 적이 없어."
+  ],
+  [
+   "Seguiré tu consejo.",
+   "네 충고를 따를게."
+  ],
+  [
+   "Te echaré de menos.",
+   "네가 보고 싶을 거야."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "encantado/a",
+   "ko": "반가워요(만나서 기쁜)",
+   "ex": "Soy Ana. — Encantada.",
+   "exKo": "아나예요. — 반가워요."
+  },
+  {
+   "es": "¿De dónde eres?",
+   "ko": "어디 출신이야?",
+   "ex": "Soy de Canadá.",
+   "exKo": "캐나다 출신이야."
+  },
+  {
+   "es": "enfermo/a",
+   "ko": "아픈",
+   "ex": "Juan está en su casa. Está enfermo.",
+   "exKo": "후안은 집에 있어. 아파."
+  },
+  {
+   "es": "resfriado/a",
+   "ko": "감기 든",
+   "ex": "Estoy resfriado, pero hoy estoy mejor.",
+   "exKo": "감기 걸렸는데 오늘은 좀 나아."
+  },
+  {
+   "es": "desordenado/a",
+   "ko": "어질러진",
+   "ex": "Mi habitación está bastante desordenada.",
+   "exKo": "내 방은 꽤 어질러져 있어."
+  },
+  {
+   "es": "exigente",
+   "ko": "까다로운, 엄한",
+   "ex": "Es muy simpática, pero muy exigente.",
+   "exKo": "아주 친절하지만 아주 엄하셔."
+  },
+  {
+   "es": "simpático/a",
+   "ko": "친절한, 상냥한",
+   "ex": "Mi profesora es muy simpática.",
+   "exKo": "우리 선생님은 아주 상냥하셔."
+  },
+  {
+   "es": "cerca de / lejos de",
+   "ko": "~에서 가까이 / 멀리",
+   "ex": "Vivo cerca de aquí.",
+   "exKo": "여기 근처에 살아."
+  },
+  {
+   "es": "llegar tarde",
+   "ko": "늦게 도착하다, 지각하다",
+   "ex": "Siempre llegas tarde a clase.",
+   "exKo": "넌 늘 수업에 늦어."
+  },
+  {
+   "es": "ganar dinero",
+   "ko": "돈을 벌다",
+   "ex": "Tengo que ganar dinero para estudiar.",
+   "exKo": "공부하려면 돈을 벌어야 해."
+  },
+  {
+   "es": "a la izquierda / a la derecha",
+   "ko": "왼쪽에 / 오른쪽에",
+   "ex": "uno a la izquierda y otro a la derecha",
+   "exKo": "하나는 왼쪽에, 하나는 오른쪽에"
+  },
+  {
+   "es": "el piso",
+   "ko": "아파트(스페인)",
+   "ex": "Vivo en un piso con unos amigos.",
+   "exKo": "친구 몇 명이랑 아파트에 살아."
+  },
+  {
+   "es": "el salón · el comedor · el dormitorio",
+   "ko": "거실 · 식당 · 침실",
+   "ex": "Tiene salón, comedor, baño y tres dormitorios.",
+   "exKo": "거실, 식당, 욕실, 침실 세 개가 있어."
+  },
+  {
+   "es": "el pasillo",
+   "ko": "복도",
+   "ex": "al final del pasillo está el cuarto de baño",
+   "exKo": "복도 끝에 화장실이 있어"
+  },
+  {
+   "es": "estar de viaje",
+   "ko": "여행 중이다",
+   "ex": "Ellos están de viaje por Sevilla.",
+   "exKo": "그들은 세비야 여행 중이야."
+  },
+  {
+   "es": "la parada",
+   "ko": "정류장",
+   "ex": "ahí está la parada",
+   "exKo": "거기 정류장이 있어"
+  },
+  {
+   "es": "girar · cruzar",
+   "ko": "돌다 · 건너다",
+   "ex": "Luego giras a la derecha, cruzas la calle.",
+   "exKo": "그다음 오른쪽으로 돌고 길을 건너."
+  },
+  {
+   "es": "todo recto",
+   "ko": "쭉 직진",
+   "ex": "Todo recto por esta calle hasta el final.",
+   "exKo": "이 길을 끝까지 쭉 가."
+  },
+  {
+   "es": "acompañar",
+   "ko": "동행하다",
+   "ex": "Si no te molesta, te acompaño.",
+   "exKo": "괜찮다면 같이 갈게."
+  },
+  {
+   "es": "el espectáculo",
+   "ko": "공연",
+   "ex": "Hay muchos espectáculos.",
+   "exKo": "공연이 많아."
+  },
+  {
+   "es": "llover · nublado",
+   "ko": "비가 오다 · 흐린",
+   "ex": "Creo que va a llover.",
+   "exKo": "비가 올 것 같아."
+  },
+  {
+   "es": "el cumpleaños",
+   "ko": "생일",
+   "ex": "Voy a celebrar la fiesta de cumpleaños.",
+   "exKo": "생일 파티를 할 거야."
+  },
+  {
+   "es": "tener prisa",
+   "ko": "서두르다, 바쁘다",
+   "ex": "¿Por qué tienes tanta prisa?",
+   "exKo": "왜 그렇게 서둘러?"
+  },
+  {
+   "es": "en punto",
+   "ko": "정각에",
+   "ex": "A las nueve en punto.",
+   "exKo": "9시 정각에."
+  },
+  {
+   "es": "ida y vuelta / sólo ida",
+   "ko": "왕복 / 편도",
+   "ex": "¿Ida y vuelta? — No, sólo ida.",
+   "exKo": "왕복이요? — 아뇨, 편도만요."
+  },
+  {
+   "es": "ducharse · afeitarse",
+   "ko": "샤워하다 · 면도하다",
+   "ex": "Me ducho y me afeito.",
+   "exKo": "샤워하고 면도해."
+  },
+  {
+   "es": "acostarse · levantarse",
+   "ko": "잠자리에 들다 · 일어나다",
+   "ex": "Me acuesto muy tarde.",
+   "exKo": "아주 늦게 자."
+  },
+  {
+   "es": "pesado/a",
+   "ko": "(사람이) 지겨운, 피곤한",
+   "ex": "Es un poco pesado.",
+   "exKo": "그는 좀 피곤한 스타일이야."
+  },
+  {
+   "es": "caer bien / mal",
+   "ko": "마음에 들다 / 안 들다",
+   "ex": "No me cae bien.",
+   "exKo": "내 맘에 안 들어."
+  },
+  {
+   "es": "llevarse bien con",
+   "ko": "~와 잘 지내다",
+   "ex": "Siempre me llevo muy bien con él.",
+   "exKo": "그와는 늘 아주 잘 지내."
+  },
+  {
+   "es": "tomar una copa",
+   "ko": "한잔하다",
+   "ex": "Tomamos una copa juntos.",
+   "exKo": "같이 한잔해."
+  },
+  {
+   "es": "el ajedrez",
+   "ko": "체스",
+   "ex": "¿No te gusta jugar al ajedrez?",
+   "exKo": "체스 두는 거 안 좋아해?"
+  },
+  {
+   "es": "quieto/a",
+   "ko": "가만히 있는",
+   "ex": "No me gusta estar quieta mucho tiempo.",
+   "exKo": "오래 가만히 있는 거 싫어."
+  },
+  {
+   "es": "el jugador",
+   "ko": "선수",
+   "ex": "Es el jugador más caro del equipo.",
+   "exKo": "팀에서 제일 비싼 선수야."
+  },
+  {
+   "es": "¿De parte de quién?",
+   "ko": "누구시라고 전할까요?",
+   "ex": "¿De parte de quién? — De Juan.",
+   "exKo": "누구세요? — 후안이요."
+  },
+  {
+   "es": "equivocarse",
+   "ko": "착각하다, 잘못하다",
+   "ex": "Se ha equivocado.",
+   "exKo": "잘못 거셨어요."
+  },
+  {
+   "es": "el recado",
+   "ko": "전할 말, 메시지",
+   "ex": "¿Quiere dejarle algún recado?",
+   "exKo": "메시지 남기시겠어요?"
+  },
+  {
+   "es": "el billete",
+   "ko": "표, 티켓",
+   "ex": "¿Cuánto cuesta un billete de avión?",
+   "exKo": "비행기 표는 얼마예요?"
+  },
+  {
+   "es": "estrenarse",
+   "ko": "개봉하다",
+   "ex": "Esta noche su nueva película se estrena.",
+   "exKo": "오늘 밤 그의 새 영화가 개봉해."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "체육관, 헬스장",
+   "ex": "Pues, voy al gimnasio.",
+   "exKo": "음, 헬스장 가."
+  },
+  {
+   "es": "la Semana Santa",
+   "ko": "부활절 주간(성주간)",
+   "ex": "¿Qué vas a hacer durante la Semana Santa?",
+   "exKo": "성주간에 뭐 할 거야?"
+  },
+  {
+   "es": "divertirse",
+   "ko": "즐기다",
+   "ex": "Si vienes conmigo, te vas a divertir.",
+   "exKo": "나랑 가면 재밌을 거야."
+  },
+  {
+   "es": "el idioma oficial",
+   "ko": "공용어",
+   "ex": "En España hay cuatro idiomas oficiales.",
+   "exKo": "스페인에는 공용어가 네 개 있어."
+  },
+  {
+   "es": "el menú del día",
+   "ko": "오늘의 메뉴(정식)",
+   "ex": "¿Cuál es el menú del día, hoy?",
+   "exKo": "오늘의 메뉴가 뭐예요?"
+  },
+  {
+   "es": "una caña",
+   "ko": "생맥주 한 잔",
+   "ex": "Una caña, por favor.",
+   "exKo": "생맥주 한 잔 주세요."
+  },
+  {
+   "es": "picar algo",
+   "ko": "간단히 뭘 먹다",
+   "ex": "Vamos a picar algo en ese bar.",
+   "exKo": "저 바에서 뭐 좀 먹자."
+  },
+  {
+   "es": "tardar",
+   "ko": "(시간이) 걸리다",
+   "ex": "¿Cuánto tiempo se tarda?",
+   "exKo": "얼마나 걸려요?"
+  },
+  {
+   "es": "la habitación individual / doble",
+   "ko": "싱글룸 / 더블룸",
+   "ex": "Quiero una habitación individual.",
+   "exKo": "싱글룸으로 주세요."
+  },
+  {
+   "es": "incluido",
+   "ko": "포함된",
+   "ex": "60 euros al día, incluido el desayuno",
+   "exKo": "조식 포함 하루 60유로"
+  },
+  {
+   "es": "ruidoso/a",
+   "ko": "시끄러운",
+   "ex": "Es muy ruidosa.",
+   "exKo": "아주 시끄러워요."
+  },
+  {
+   "es": "el dolor de cabeza",
+   "ko": "두통",
+   "ex": "Tengo mucho dolor de cabeza.",
+   "exKo": "머리가 많이 아파."
+  },
+  {
+   "es": "el calmante",
+   "ko": "진통제",
+   "ex": "Deme un calmante.",
+   "exKo": "진통제 하나 주세요."
+  },
+  {
+   "es": "la receta médica",
+   "ko": "처방전",
+   "ex": "¿Tiene usted receta médica?",
+   "exKo": "처방전 있으세요?"
+  },
+  {
+   "es": "doler",
+   "ko": "아프다",
+   "ex": "¿Dónde le duele?",
+   "exKo": "어디가 아프세요?"
+  },
+  {
+   "es": "dejar de + 동사원형",
+   "ko": "~을 그만두다",
+   "ex": "Tiene que dejar de fumar.",
+   "exKo": "담배를 끊으셔야 해요."
+  },
+  {
+   "es": "el régimen",
+   "ko": "식이요법, 다이어트",
+   "ex": "El régimen es estupendo.",
+   "exKo": "식이요법이 아주 좋아요."
+  },
+  {
+   "es": "el pueblo natal",
+   "ko": "고향",
+   "ex": "Fui a mi pueblo natal.",
+   "exKo": "고향에 갔어."
+  },
+  {
+   "es": "la redacción",
+   "ko": "작문",
+   "ex": "¿Sobre qué has hecho la redacción?",
+   "exKo": "작문은 뭐에 대해 썼어?"
+  },
+  {
+   "es": "alojarse",
+   "ko": "묵다, 숙박하다",
+   "ex": "algún sitio donde alojarme",
+   "exKo": "묵을 만한 곳"
+  },
+  {
+   "es": "el albergue juvenil",
+   "ko": "유스호스텔",
+   "ex": "Puedes ir a un albergue juvenil.",
+   "exKo": "유스호스텔에 갈 수 있어."
+  },
+  {
+   "es": "perder el metro",
+   "ko": "지하철을 놓치다",
+   "ex": "Esta mañana he perdido el metro.",
+   "exKo": "오늘 아침 지하철을 놓쳤어."
+  },
+  {
+   "es": "graduarse",
+   "ko": "졸업하다",
+   "ex": "¿Qué harás después de graduarte?",
+   "exKo": "졸업하고 뭐 할 거야?"
+  },
+  {
+   "es": "con retraso",
+   "ko": "늦게, 지연되어",
+   "ex": "Creo que llego con un poco de retraso.",
+   "exKo": "조금 늦게 온 것 같아요."
+  },
+  {
+   "es": "echar de menos",
+   "ko": "그리워하다",
+   "ex": "Te echaré de menos.",
+   "exKo": "네가 보고 싶을 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿De dónde es la chica de la lección 3?",
+   "options": [
+    "De Canadá",
+    "De Boston",
+    "De Madrid",
+    "De Corea"
+   ],
+   "answer": 1,
+   "explain": "Soy americana, de Boston."
+  },
+  {
+   "q": "¿Por qué no está Juan en clase? (lección 4)",
+   "options": [
+    "Está de viaje",
+    "Está enfermo",
+    "Está en el aula",
+    "Está trabajando"
+   ],
+   "answer": 1,
+   "explain": "Juan está en su casa. Está enfermo."
+  },
+  {
+   "q": "\"Hace mucho calor\" significa…",
+   "options": [
+    "비가 많이 와",
+    "바람이 불어",
+    "아주 더워",
+    "날씨가 흐려"
+   ],
+   "answer": 2,
+   "explain": "hacer + calor = 덥다"
+  },
+  {
+   "q": "¿Qué hora es? — Son las ocho menos cinco. 몇 시인가요?",
+   "options": [
+    "8시 5분",
+    "7시 55분",
+    "8시 15분",
+    "5시 8분"
+   ],
+   "answer": 1,
+   "explain": "menos cinco = 5분 전 → 7시 55분"
+  },
+  {
+   "q": "En la estación, \"sólo ida\" es…",
+   "options": [
+    "왕복",
+    "편도",
+    "1등석",
+    "다음 기차"
+   ],
+   "answer": 1,
+   "explain": "¿Ida y vuelta? — No, sólo ida."
+  },
+  {
+   "q": "\"No me cae bien\" significa…",
+   "options": [
+    "그는 넘어지지 않았어",
+    "내 맘에 안 들어",
+    "나랑 잘 지내",
+    "나는 그를 잘 몰라"
+   ],
+   "answer": 1,
+   "explain": "caer bien = 마음에 들다"
+  },
+  {
+   "q": "Al teléfono, \"¿De parte de quién?\" pregunta…",
+   "options": [
+    "어디서 전화했는지",
+    "누가 전화했는지",
+    "몇 번으로 걸었는지",
+    "언제 다시 걸지"
+   ],
+   "answer": 1,
+   "explain": "¿De parte de quién? — De Juan."
+  },
+  {
+   "q": "¿A cuánto está el kilo de naranjas? (lección 26)",
+   "options": [
+    "A un euro",
+    "A cinco euros",
+    "A 93 euros",
+    "A 60 euros"
+   ],
+   "answer": 0,
+   "explain": "La naranja está a un euro el kilo."
+  },
+  {
+   "q": "En Barcelona, ¿qué idioma se habla además del español?",
+   "options": [
+    "El gallego",
+    "El euskera",
+    "El catalán",
+    "El portugués"
+   ],
+   "answer": 2,
+   "explain": "Se habla catalán, y también es romance."
+  },
+  {
+   "q": "¿Por qué quiere cambiar la habitación la señora? (lección 37)",
+   "options": [
+    "Es muy pequeña",
+    "Da a la calle y es muy ruidosa",
+    "No tiene baño",
+    "Es muy cara"
+   ],
+   "answer": 1,
+   "explain": "Esta habitación da a la calle, y por lo tanto es muy ruidosa."
+  },
+  {
+   "q": "¿Por qué ha llegado tarde Juan? (lección 47)",
+   "options": [
+    "Ha perdido el metro",
+    "Ha estado enfermo",
+    "Ha ido al médico",
+    "Ha comido mucho"
+   ],
+   "answer": 0,
+   "explain": "Esta mañana he perdido el metro, porque me he levantado muy tarde."
+  },
+  {
+   "q": "\"Te echaré de menos\" significa…",
+   "options": [
+    "널 잊을 거야",
+    "네가 보고 싶을 거야",
+    "널 방문할 거야",
+    "너에게 전화할게"
+   ],
+   "answer": 1,
+   "explain": "echar de menos = 그리워하다"
+  }
+ ],
+ "sections": [
+  {
+   "title": "2강 · ¡Hola, buenos días! — 안녕, 좋은 아침!",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "A",
+     "es": "Hola, buenas tardes.",
+     "ko": "안녕, 좋은 오후."
+    },
+    {
+     "t": 2.3,
+     "s": "B",
+     "es": "Buenas tardes.",
+     "ko": "좋은 오후."
+    },
+    {
+     "t": 4.0,
+     "s": "A",
+     "es": "Soy Juan, y ¿tú?",
+     "ko": "난 후안이야, 너는?"
+    },
+    {
+     "t": 6.0,
+     "s": "B",
+     "es": "Soy Ana.",
+     "ko": "아나야."
+    },
+    {
+     "t": 7.4,
+     "s": "A",
+     "es": "Mucho gusto.",
+     "ko": "반가워."
+    },
+    {
+     "t": 8.8,
+     "s": "B",
+     "es": "Encantada.",
+     "ko": "반가워."
+    }
+   ]
+  },
+  {
+   "title": "3강 · ¿De dónde eres? — 어디 출신이니?",
+   "lines": [
+    {
+     "t": 11.7,
+     "s": "A",
+     "es": "Hola, buenas tardes.",
+     "ko": "안녕, 좋은 오후."
+    },
+    {
+     "t": 13.8,
+     "s": "B",
+     "es": "Buenas tardes.",
+     "ko": "좋은 오후."
+    },
+    {
+     "t": 15.5,
+     "s": "A",
+     "es": "Soy estudiante de español, ¿tú?",
+     "ko": "난 스페인어(과) 학생이야. 넌?"
+    },
+    {
+     "t": 18.1,
+     "s": "B",
+     "es": "Yo también soy estudiante de español. ¿De dónde eres?",
+     "ko": "나도 스페인어(과) 학생이야. 어디 출신이니?"
+    },
+    {
+     "t": 22.0,
+     "s": "A",
+     "es": "Soy de Canadá, ¿tú?",
+     "ko": "캐나다 출신이야. 넌?"
+    },
+    {
+     "t": 24.4,
+     "s": "B",
+     "es": "Soy americana, de Boston.",
+     "ko": "난 미국인이야. 보스턴 출신."
+    },
+    {
+     "t": 27.1,
+     "s": "A",
+     "es": "Encantado.",
+     "ko": "반가워."
+    },
+    {
+     "t": 28.5,
+     "s": "B",
+     "es": "Mucho gusto.",
+     "ko": "반가워."
+    }
+   ]
+  },
+  {
+   "title": "4강 · ¿Cómo estás? — 어떻게 지내?",
+   "lines": [
+    {
+     "t": 31.5,
+     "s": "A",
+     "es": "¿Cómo estás?",
+     "ko": "어떻게 지내?"
+    },
+    {
+     "t": 33.1,
+     "s": "B",
+     "es": "Estoy muy bien, gracias. Y ¿tú?",
+     "ko": "매우 잘 있어, 고마워. 그러면 넌?"
+    },
+    {
+     "t": 35.7,
+     "s": "A",
+     "es": "También estoy bien. Y ¿dónde está Juan?",
+     "ko": "나도 잘 지내. 그리고 후안은 어디에 있어?"
+    },
+    {
+     "t": 38.8,
+     "s": "B",
+     "es": "Juan está en su casa. Está enfermo.",
+     "ko": "후안은 자기 집에 있어. 아파."
+    },
+    {
+     "t": 41.9,
+     "s": "A",
+     "es": "¡Qué pena!",
+     "ko": "안됐군!"
+    }
+   ]
+  },
+  {
+   "title": "5강 · ¿Estás mejor? — 나아졌어?",
+   "lines": [
+    {
+     "t": 44.7,
+     "s": "A",
+     "es": "¿Cómo estás, Juan?",
+     "ko": "후안, 어떻게 지내?"
+    },
+    {
+     "t": 46.5,
+     "s": "B",
+     "es": "Estoy resfriado, pero hoy estoy mejor.",
+     "ko": "감기 들었어. 하지만 지금은 좀 나아졌어."
+    },
+    {
+     "t": 49.6,
+     "s": "A",
+     "es": "Bueno, y tu habitación es muy agradable.",
+     "ko": "좋아, 네 방은 매우 쾌적해."
+    },
+    {
+     "t": 53.1,
+     "s": "B",
+     "es": "Sí, pero está bastante desordenada.",
+     "ko": "맞아, 하지만 많이 어질러져 있어."
+    },
+    {
+     "t": 56.0,
+     "s": "A",
+     "es": "¿Puedes abrir la ventana? Aquí hace calor.",
+     "ko": "창문 좀 열 수 있어? 여기 더워."
+    },
+    {
+     "t": 59.2,
+     "s": "B",
+     "es": "Claro, la abro ahora. ¿Estás cómodo ahora?",
+     "ko": "물론이지, 지금 열어. 이제 편안해?"
+    },
+    {
+     "t": 61.8,
+     "s": "A",
+     "es": "Sí, ahora estoy muy bien.",
+     "ko": "그래, 지금 매우 좋아."
+    }
+   ]
+  },
+  {
+   "title": "6강 · ¿Hablas español? — 너 스페인어 하니?",
+   "lines": [
+    {
+     "t": 66.6,
+     "s": "A",
+     "es": "¿Hablas español?",
+     "ko": "너 스페인어 하니?"
+    },
+    {
+     "t": 68.2,
+     "s": "B",
+     "es": "Sí, pero un poco.",
+     "ko": "그래, 하지만 조금."
+    },
+    {
+     "t": 70.0,
+     "s": "A",
+     "es": "¿Dónde estudias español?",
+     "ko": "어디서 스페인어 배우니?"
+    },
+    {
+     "t": 72.3,
+     "s": "B",
+     "es": "Estudio en el Instituto Edesa.",
+     "ko": "에데사 학원에서 공부해."
+    },
+    {
+     "t": 74.9,
+     "s": "A",
+     "es": "¿Quién es tu profesora?",
+     "ko": "선생님이 누구셔?"
+    },
+    {
+     "t": 76.8,
+     "s": "B",
+     "es": "Mi profesora de español es Ana Belén.",
+     "ko": "스페인어 선생님은 아나 벨렌이셔."
+    },
+    {
+     "t": 79.9,
+     "s": "A",
+     "es": "¿Cómo es tu profesora?",
+     "ko": "너의 선생님 어떠셔?"
+    },
+    {
+     "t": 81.8,
+     "s": "B",
+     "es": "Es muy simpática, pero muy exigente.",
+     "ko": "매우 상냥하셔, 하지만 매우 엄격해."
+    },
+    {
+     "t": 85.0,
+     "s": "A",
+     "es": "Me alegro de verte.",
+     "ko": "널 만나서 반가워."
+    },
+    {
+     "t": 86.8,
+     "s": "B",
+     "es": "Igualmente.",
+     "ko": "마찬가지."
+    }
+   ]
+  },
+  {
+   "title": "7강 · ¿Dónde vives? — 어디에 살아?",
+   "lines": [
+    {
+     "t": 89.8,
+     "s": "A",
+     "es": "Hola, ¿dónde está Juan?",
+     "ko": "안녕, 후안은 어디에 있어?"
+    },
+    {
+     "t": 91.3,
+     "s": "B",
+     "es": "Está en el aula. Ahora estudia español.",
+     "ko": "강의실에 있어. 지금 스페인어 공부해."
+    },
+    {
+     "t": 95.1,
+     "s": "A",
+     "es": "Y tú, ¿dónde vives?",
+     "ko": "그러면 넌 어디 살아?"
+    },
+    {
+     "t": 97.4,
+     "s": "B",
+     "es": "Vivo cerca de aquí.",
+     "ko": "여기 근처에 살아."
+    },
+    {
+     "t": 99.3,
+     "s": "A",
+     "es": "Bueno, yo vivo en el Colegio Mayor San Juan.",
+     "ko": "좋아, 난 산 후안 기숙사에 살아."
+    },
+    {
+     "t": 102.7,
+     "s": "B",
+     "es": "Entonces, ¿conoces a María Ramírez?",
+     "ko": "그렇다면 너 마리아 라미레쓰 알아?"
+    },
+    {
+     "t": 105.7,
+     "s": "A",
+     "es": "Lo siento, no la conozco.",
+     "ko": "미안, 몰라."
+    }
+   ]
+  },
+  {
+   "title": "8강 · Mi casa no está tan lejos de aquí. — 우리 집은 여기서 그렇게 멀지 않아.",
+   "lines": [
+    {
+     "t": 109.7,
+     "s": "A",
+     "es": "Y tu casa, ¿está lejos de aquí? Tú, siempre llegas tarde a clase.",
+     "ko": "너의 집은 여기서 멀리 있어? 넌 항상 수업에 늦게 도착해."
+    },
+    {
+     "t": 114.6,
+     "s": "B",
+     "es": "Sí... la verdad es que no está tan lejos de aquí. Por las mañanas trabajo en una cafetería, y luego voy al colegio.",
+     "ko": "그래... 사실은 여기서 그렇게 멀리 있지 않아. 오전에 커피숍에서 일하고 이후 학교에 가."
+    },
+    {
+     "t": 121.8,
+     "s": "A",
+     "es": "¿De verdad? Vives muy ocupado.",
+     "ko": "진짜로? 너 매우 바쁘게 사는구나."
+    },
+    {
+     "t": 124.9,
+     "s": "B",
+     "es": "Sí, tengo que ganar dinero para estudiar.",
+     "ko": "그래, 공부하려면 돈을 벌어야 해."
+    },
+    {
+     "t": 128.1,
+     "s": "A",
+     "es": "Si necesitas ayuda, siempre puedes pedírmela, por favor.",
+     "ko": "만약 도움이 필요하면, 언제든지 내게 요청할 수 있어."
+    },
+    {
+     "t": 132.5,
+     "s": "B",
+     "es": "Gracias.",
+     "ko": "고마워."
+    }
+   ]
+  },
+  {
+   "title": "9강 · ¿Hay un banco por aquí cerca? — 여기 가까운 곳에 은행이 있나요?",
+   "lines": [
+    {
+     "t": 135.3,
+     "s": "A",
+     "es": "¿Hay un banco por aquí?",
+     "ko": "여기 은행이 있나요?"
+    },
+    {
+     "t": 137.3,
+     "s": "B",
+     "es": "Hay dos bancos, uno a la izquierda y otro a la derecha, aquí mismo.",
+     "ko": "두 개가 있어요, 하나는 왼쪽에 다른 것은 오른쪽 바로 여기."
+    },
+    {
+     "t": 142.0,
+     "s": "A",
+     "es": "¿Cuál está más cerca?",
+     "ko": "어떤 것이 더 가까이 있나요?"
+    },
+    {
+     "t": 144.0,
+     "s": "B",
+     "es": "El de la derecha está más cerca.",
+     "ko": "오른쪽 것이 더 가까이 있어요."
+    },
+    {
+     "t": 146.7,
+     "s": "A",
+     "es": "Gracias.",
+     "ko": "고마워요."
+    },
+    {
+     "t": 148.2,
+     "s": "B",
+     "es": "De nada.",
+     "ko": "천만에요."
+    }
+   ]
+  },
+  {
+   "title": "10강 · ¿Vives en un piso? — 아파트에 사니?",
+   "lines": [
+    {
+     "t": 150.8,
+     "s": "A",
+     "es": "¿Vives en un piso?",
+     "ko": "아파트에 사니?"
+    },
+    {
+     "t": 151.8,
+     "s": "B",
+     "es": "Sí, vivo en un piso con unos amigos.",
+     "ko": "그래, 친구 몇 명과 아파트에 살아."
+    },
+    {
+     "t": 155.6,
+     "s": "A",
+     "es": "¿Es grande tu piso?",
+     "ko": "너의 아파트는 크니?"
+    },
+    {
+     "t": 157.4,
+     "s": "B",
+     "es": "Sí, tiene salón, comedor, baño y tres dormitorios.",
+     "ko": "그래, 거실 식당 욕실 그리고 침실이 세 개 있어."
+    },
+    {
+     "t": 161.7,
+     "s": "A",
+     "es": "Es un piso bastante grande.",
+     "ko": "매우 큰 아파트네."
+    },
+    {
+     "t": 164.3,
+     "s": "B",
+     "es": "Sí, pero es un poco desordenado.",
+     "ko": "그래, 하지만 좀 어수선해."
+    }
+   ]
+  },
+  {
+   "title": "11강 · Esta es tu habitación. — 여기가 네 방이야.",
+   "lines": [
+    {
+     "t": 168.5,
+     "s": "A",
+     "es": "Mira, esta es tu habitación. Aquí al lado están el salón y la cocina, y al final del pasillo está el cuarto de baño.",
+     "ko": "봐봐, 여기가 너의 방이야. 여기 옆에 거실과 부엌이 있고, 복도 끝에 욕실이 있어."
+    },
+    {
+     "t": 176.0,
+     "s": "B",
+     "es": "Muchas gracias. Carmen, es usted muy amable. ¿Y los otros chicos? ¿Ahora no están en la casa? Quiero conocerlos ahora mismo.",
+     "ko": "고마워요. 까르멘, 당신은 매우 친절해요. 다른 애들은요? 지금 집에 없나요? 지금 당장 그들을 알고 싶어요."
+    },
+    {
+     "t": 184.5,
+     "s": "A",
+     "es": "Ellos están de viaje por Sevilla. Vuelven dentro de unos días.",
+     "ko": "그들은 세이야로 여행 중이야. 며칠 내로 돌아와."
+    },
+    {
+     "t": 188.9,
+     "s": "B",
+     "es": "Bueno, gracias.",
+     "ko": "그렇군요, 고마워요."
+    },
+    {
+     "t": 190.7,
+     "s": "A",
+     "es": "De nada.",
+     "ko": "천만에."
+    }
+   ]
+  },
+  {
+   "title": "12강 · ¿Cómo voy a la universidad? — 학교까지 어떻게 갈 수 있나요?",
+   "lines": [
+    {
+     "t": 193.3,
+     "s": "A",
+     "es": "¿Cómo voy a la universidad?",
+     "ko": "대학교에 어떻게 갈 수 있어?"
+    },
+    {
+     "t": 195.6,
+     "s": "B",
+     "es": "Puedes ir en metro o en autobús.",
+     "ko": "지하철이나 버스로 갈 수 있어."
+    },
+    {
+     "t": 198.5,
+     "s": "A",
+     "es": "¿Están muy lejos las paradas de autobuses?",
+     "ko": "버스 정류장들이 매우 멀리 있어?"
+    },
+    {
+     "t": 201.4,
+     "s": "B",
+     "es": "No, no mucho. Todo recto por esta calle hasta el final. Luego giras a la derecha, cruzas la calle y ahí está la parada.",
+     "ko": "아니, 그렇게 안 멀어. 이 길을 끝까지 직진. 이후 오른쪽으로 돌고, 길을 건너면 그곳에 정류장이 있어."
+    },
+    {
+     "t": 209.6,
+     "s": "A",
+     "es": "Muchas gracias. Eres muy amable.",
+     "ko": "매우 고마워. 넌 매우 친절해."
+    },
+    {
+     "t": 211.6,
+     "s": "B",
+     "es": "No hay de qué.",
+     "ko": "천만에."
+    }
+   ]
+  },
+  {
+   "title": "13강 · Quiero viajar por Sevilla. — 세비야로 여행하고 싶어.",
+   "lines": [
+    {
+     "t": 215.2,
+     "s": "A",
+     "es": "Me gusta viajar.",
+     "ko": "난 여행하는 것 좋아해."
+    },
+    {
+     "t": 217.1,
+     "s": "B",
+     "es": "¿De verdad? ¿Por qué no vamos a viajar por Sevilla este fin de semana? Ahora Sevilla está de fiesta. Hay muchos espectáculos.",
+     "ko": "진짜로? 우리 이번 주말 세비야로 왜 여행하지 않을 거야? 지금 세비야는 축제 중이야. 많은 공연이 있어."
+    },
+    {
+     "t": 225.5,
+     "s": "A",
+     "es": "Bueno, si no te molesta, te acompaño.",
+     "ko": "좋아, 만약 너를 괴롭히지 않는다면, 너랑 동행할게."
+    },
+    {
+     "t": 228.6,
+     "s": "B",
+     "es": "Muy bien. Mañana por la mañana nos vamos.",
+     "ko": "매우 좋아. 우리 내일 아침에 가자."
+    },
+    {
+     "t": 232.0,
+     "s": "A",
+     "es": "Vale.",
+     "ko": "알았어."
+    }
+   ]
+  },
+  {
+   "title": "14강 · ¿Qué tiempo hace en Sevilla? — 세비야는 날씨가 어때?",
+   "lines": [
+    {
+     "t": 234.5,
+     "s": "A",
+     "es": "¿Qué tiempo hace hoy?",
+     "ko": "오늘 날씨 어때?"
+    },
+    {
+     "t": 236.1,
+     "s": "B",
+     "es": "Hace mucho calor.",
+     "ko": "엄청 더워."
+    },
+    {
+     "t": 238.1,
+     "s": "A",
+     "es": "Mañana nos vamos a Sevilla. ¿Qué tiempo hace en Sevilla?",
+     "ko": "우리 내일 세비야에 가. 세비야 날씨는 어때?"
+    },
+    {
+     "t": 241.7,
+     "s": "B",
+     "es": "Creo que va a llover.",
+     "ko": "비가 올 것 같아."
+    },
+    {
+     "t": 242.9,
+     "s": "A",
+     "es": "¡Qué pena! ¿En estos días hace mal tiempo en Sevilla?",
+     "ko": "저런! 요즘 세비야 날씨가 나빠?"
+    },
+    {
+     "t": 247.7,
+     "s": "B",
+     "es": "Sí. Generalmente hace mucho calor, pero este año el tiempo está nublado a veces.",
+     "ko": "그래. 보통은 엄청 더운데 올해는 때때로 구름이 끼어 있어."
+    }
+   ]
+  },
+  {
+   "title": "15강 · ¿Qué tiempo hace en la primavera de España? — 스페인의 봄 날씨는 어때?",
+   "lines": [
+    {
+     "t": 254.6,
+     "s": "A",
+     "es": "¿Qué tiempo hace en primavera de España?",
+     "ko": "스페인 봄 날씨는 어때?"
+    },
+    {
+     "t": 257.5,
+     "s": "B",
+     "es": "El tiempo es muy agradable en España. Pero a veces hace viento. En el sur se llega a más o menos 25 grados.",
+     "ko": "스페인 날씨는 매우 쾌적해. 하지만 가끔 바람이 불어. 남쪽에선 대략 25도까지 오르 기도 해."
+    },
+    {
+     "t": 265.3,
+     "s": "A",
+     "es": "¿Qué te parece el tiempo de España ahora?",
+     "ko": "지금 스페인 날씨는 네게 어떻게 보여?"
+    },
+    {
+     "t": 268.0,
+     "s": "B",
+     "es": "Me parece que hace buen tiempo.",
+     "ko": "좋은 날씨로 보여."
+    },
+    {
+     "t": 270.6,
+     "s": "A",
+     "es": "¿En el resto de España, también hace bueno?",
+     "ko": "스페인 나머지 지역에서도 날씨가 좋아?"
+    },
+    {
+     "t": 273.0,
+     "s": "B",
+     "es": "No todo es igual. En el Norte llueve a veces.",
+     "ko": "모두 같지는 않아. 북쪽에서는 때때로 비가 와."
+    }
+   ]
+  },
+  {
+   "title": "16강 · ¿Cuál es la fecha de tu cumpleaños? — 네 생일이 며칠이야?",
+   "lines": [
+    {
+     "t": 279.0,
+     "s": "A",
+     "es": "¿Cuál es la fecha de tu cumpleaños?",
+     "ko": "네 생일이 며칠이야?"
+    },
+    {
+     "t": 281.6,
+     "s": "B",
+     "es": "Es el 29 de abril.",
+     "ko": "4월 29일이야."
+    },
+    {
+     "t": 284.0,
+     "s": "A",
+     "es": "¿De verdad? Dentro de unos días es el día de tu cumpleaños.",
+     "ko": "정말로? 며칠 내로 네 생일이네."
+    },
+    {
+     "t": 288.2,
+     "s": "B",
+     "es": "Sí, por eso voy a celebrar la fiesta de cumpleaños. ¿Puedes venir?",
+     "ko": "그래, 생일 파티 열 거야. 올 수 있지?"
+    },
+    {
+     "t": 292.6,
+     "s": "A",
+     "es": "Claro que voy a tu fiesta. Quiero celebrarla con mucho gusto.",
+     "ko": "당연히 네 생일에 올 거야. 기꺼이 축하하고 싶어."
+    },
+    {
+     "t": 297.3,
+     "s": "B",
+     "es": "Gracias.",
+     "ko": "고마워."
+    }
+   ]
+  },
+  {
+   "title": "17강 · ¿Qué hora es ahora? — 지금 몇 시야?",
+   "lines": [
+    {
+     "t": 300.0,
+     "s": "A",
+     "es": "¿Qué hora es ahora?",
+     "ko": "지금 몇 시야?"
+    },
+    {
+     "t": 301.6,
+     "s": "B",
+     "es": "Son las ocho menos cinco.",
+     "ko": "8시 5분 전이야."
+    },
+    {
+     "t": 303.3,
+     "s": "A",
+     "es": "Me voy a clase.",
+     "ko": "나 수업 간다."
+    },
+    {
+     "t": 305.8,
+     "s": "B",
+     "es": "¿Por qué tienes tanta prisa?",
+     "ko": "왜 그렇게 급해?"
+    },
+    {
+     "t": 308.1,
+     "s": "A",
+     "es": "No tengo tiempo suficiente.",
+     "ko": "시간이 충분히 없어."
+    },
+    {
+     "t": 310.7,
+     "s": "B",
+     "es": "¿A qué hora empieza la clase?",
+     "ko": "수업은 몇 시 시작이야?"
+    },
+    {
+     "t": 312.9,
+     "s": "A",
+     "es": "A las nueve en punto, y no quiero llegar tarde.",
+     "ko": "9시 정각에, 늦게 도착하기 싫어."
+    }
+   ]
+  },
+  {
+   "title": "18강 · ¿A qué hora sale el tren para Granada? — 그라나다행 기차는 몇 시에 출발하나요?",
+   "lines": [
+    {
+     "t": 318.1,
+     "s": "A",
+     "es": "Queremos ir a Granada. ¿A qué hora sale el tren para Granada?",
+     "ko": "우린 그라나다에 가길 원해요. 그라나다행 기차는 몇 시에 출발하나요?"
+    },
+    {
+     "t": 322.0,
+     "s": "B",
+     "es": "Sale a las 7 en punto.",
+     "ko": "7시 정각에 출발해요."
+    },
+    {
+     "t": 324.2,
+     "s": "A",
+     "es": "¿Y el siguiente tren?",
+     "ko": "그러면 다음 기차는요?"
+    },
+    {
+     "t": 326.1,
+     "s": "B",
+     "es": "El siguiente sale a las 8.",
+     "ko": "다음은 8시에요."
+    },
+    {
+     "t": 328.9,
+     "s": "A",
+     "es": "Bueno, deme dos billetes para Granada.",
+     "ko": "좋아요, 그라나다행 두 장 주세요."
+    },
+    {
+     "t": 332.0,
+     "s": "B",
+     "es": "¿Ida y vuelta?",
+     "ko": "왕복요?"
+    },
+    {
+     "t": 333.4,
+     "s": "A",
+     "es": "No, sólo ida, por favor.",
+     "ko": "아뇨, 편도만요."
+    }
+   ]
+  },
+  {
+   "title": "19강 · Me ducho por las mañanas. — 난 오전마다 샤워해.",
+   "lines": [
+    {
+     "t": 337.7,
+     "s": "A",
+     "es": "¿Antes de salir de casa, qué haces?",
+     "ko": "집에서 나가기 전에 뭐 해?"
+    },
+    {
+     "t": 340.9,
+     "s": "B",
+     "es": "Generalmente me ducho y me afeito nada más levantarme.",
+     "ko": "보통 일어나자마자 샤워하고 면도해."
+    },
+    {
+     "t": 344.7,
+     "s": "A",
+     "es": "¿Tú, siempre te despiertas sólo?",
+     "ko": "넌, 항상 스스로 일어나?"
+    },
+    {
+     "t": 347.3,
+     "s": "B",
+     "es": "No, mi madre me despierta siempre. Porque me acuesto muy tarde, por eso no puedo levantarme.",
+     "ko": "아니, 어머니가 항상 깨워주셔. 내가 너무 늦게 잠자리에 들거든, 그래서 혼자 일어날 수 없어."
+    },
+    {
+     "t": 353.7,
+     "s": "A",
+     "es": "Aún eres un niño para tu madre.",
+     "ko": "네 어머니에게 넌 아직 아기야."
+    },
+    {
+     "t": 356.0,
+     "s": "B",
+     "es": "Sí, ya lo sé.",
+     "ko": "그래, 이미 알고 있어."
+    }
+   ]
+  },
+  {
+   "title": "20강 · ¿Qué te parece el novio de Julia? — 훌리아의 애인은 네게 어떻게 보여?",
+   "lines": [
+    {
+     "t": 359.4,
+     "s": "A",
+     "es": "¿Qué te parece el novio de Julia?",
+     "ko": "훌리아의 애인은 네게 어떻게 보여?"
+    },
+    {
+     "t": 361.9,
+     "s": "B",
+     "es": "La verdad es que es un poco pesado, y no me cae bien.",
+     "ko": "사실은 좀 고리타분해. 그리고 내 맘에 안 들어."
+    },
+    {
+     "t": 365.4,
+     "s": "A",
+     "es": "A mí tampoco. Es un tío que siempre está orgulloso de sí mismo.",
+     "ko": "나도 역시 아냐. 항상 자기 자신에 대해 자부심이 강한 사람이야."
+    },
+    {
+     "t": 370.6,
+     "s": "B",
+     "es": "A mí me cae más bien el de Ana. Yo siempre me llevo muy bien con él. Jugamos al fútbol, y tomamos una copa juntos. Hace mucho tiempo que le conozco.",
+     "ko": "내게는 아나의 애인이 더 맘에 들어. 그와는 항상 매우 잘 지내. 같이 축구도 하고 한잔해. 오래전부터 그와 알고 지내."
+    },
+    {
+     "t": 380.0,
+     "s": "A",
+     "es": "Estoy de acuerdo contigo. Él es genial.",
+     "ko": "너의 의견에 동의해. 그는 끝내줘."
+    }
+   ]
+  },
+  {
+   "title": "21강 · ¿Te gusta el fútbol? — 축구 좋아해?",
+   "lines": [
+    {
+     "t": 384.6,
+     "s": "A",
+     "es": "¿A ti qué te gusta, Ana?",
+     "ko": "아나, 넌 뭘 좋아해?"
+    },
+    {
+     "t": 386.7,
+     "s": "B",
+     "es": "A mí me gusta bailar, me gustan el fútbol y el baloncesto, y me gusta bastante cocinar.",
+     "ko": "춤추는 것 좋아하고, 축구와 농구 좋아해. 그리고 요리하는 것도 매우 좋아해."
+    },
+    {
+     "t": 393.1,
+     "s": "A",
+     "es": "¿No te gusta jugar al ajedrez?",
+     "ko": "체스하는 것은 안 좋아해?"
+    },
+    {
+     "t": 394.8,
+     "s": "B",
+     "es": "No me gusta nada. No me gusta estar quieta mucho tiempo.",
+     "ko": "전혀 안 좋아해. 오랜 시간 가만히 있는 것 안 좋아해."
+    }
+   ]
+  },
+  {
+   "title": "22강 · Es el jugador más caro del equipo. — 팀에서 가장 비싼 선수야.",
+   "lines": [
+    {
+     "t": 401.0,
+     "s": "A",
+     "es": "¿Qué te parece el nuevo jugador del Real Madrid?",
+     "ko": "레알 마드리드 새 선수 어떻게 보여?"
+    },
+    {
+     "t": 404.6,
+     "s": "B",
+     "es": "¿Quién? ¿Ronaldo? Es un jugador bonísimo.",
+     "ko": "누구? 로날도? 매우 좋은 선수야."
+    },
+    {
+     "t": 407.7,
+     "s": "A",
+     "es": "Por eso te lo digo y es tan joven.",
+     "ko": "그래서 네게 말하는 거야, 그리고 매우 젊어."
+    },
+    {
+     "t": 410.8,
+     "s": "B",
+     "es": "¿Sabes de dónde es?",
+     "ko": "어디 출신인지 알아?"
+    },
+    {
+     "t": 412.8,
+     "s": "A",
+     "es": "Portugués.",
+     "ko": "포르투갈 사람."
+    },
+    {
+     "t": 414.1,
+     "s": "B",
+     "es": "Pues es el jugador más caro del equipo.",
+     "ko": "여하튼 팀에서 제일 비싼 선수야."
+    },
+    {
+     "t": 417.2,
+     "s": "A",
+     "es": "Ya, ya lo sé. ¡Es increíble!",
+     "ko": "이미 알고 있어. 믿기지 않아!"
+    }
+   ]
+  },
+  {
+   "title": "23강 · ¿De parte de quién? — 누구로부터(요)?",
+   "lines": [
+    {
+     "t": 421.2,
+     "s": "A",
+     "es": "¿Dígame?",
+     "ko": "여보세요."
+    },
+    {
+     "t": 422.4,
+     "s": "B",
+     "es": "¡Hola! ¿Está Daniel?",
+     "ko": "안녕하세요. 다니엘 있나요?"
+    },
+    {
+     "t": 424.2,
+     "s": "A",
+     "es": "Sí, ahora se pone. ¿De parte de quién?",
+     "ko": "그래요, 지금 바꿀게요. 누구로부터요?"
+    },
+    {
+     "t": 426.5,
+     "s": "B",
+     "es": "De Juan.",
+     "ko": "후안으로부터요."
+    },
+    {
+     "t": 428.9,
+     "s": "A",
+     "es": "Espera un momento, por favor.",
+     "ko": "잠시 기다려."
+    },
+    {
+     "t": 431.2,
+     "s": "B",
+     "es": "Gracias.",
+     "ko": "고마워요."
+    },
+    {
+     "t": 432.4,
+     "s": "A",
+     "es": "¡Daniel, al teléfono! Es para ti.",
+     "ko": "다니엘, 전화! 네게 온 거야."
+    }
+   ]
+  },
+  {
+   "title": "24강 · Se ha equivocado. — 착각했어요.",
+   "lines": [
+    {
+     "t": 436.8,
+     "s": "A",
+     "es": "¿Sí? ¡Dígame!",
+     "ko": "네, 말씀하세요!"
+    },
+    {
+     "t": 438.3,
+     "s": "B",
+     "es": "¿Está Luis, por favor?",
+     "ko": "루이스 있나요?"
+    },
+    {
+     "t": 440.2,
+     "s": "A",
+     "es": "¿Luis? No, aquí no vive ningún Luis.",
+     "ko": "루이스? 아뇨, 여기 어떤 루이스도 살지 않아요."
+    },
+    {
+     "t": 443.5,
+     "s": "B",
+     "es": "¿No es el 723 53 89?",
+     "ko": "번호가 723 53 89번 아닌가요?"
+    },
+    {
+     "t": 447.9,
+     "s": "A",
+     "es": "No, es el 723 53 88. Se ha equivocado.",
+     "ko": "아뇨, 723 53 88번이에요. 착각했어요."
+    },
+    {
+     "t": 453.6,
+     "s": "B",
+     "es": "Lo siento.",
+     "ko": "미안합니다."
+    },
+    {
+     "t": 455.0,
+     "s": "A",
+     "es": "No pasa nada.",
+     "ko": "괜찮아요."
+    }
+   ]
+  },
+  {
+   "title": "25강 · Voy a llamar más tarde. — 나중에 전화할게요.",
+   "lines": [
+    {
+     "t": 458.1,
+     "s": "A",
+     "es": "¿Diga?",
+     "ko": "여보세요."
+    },
+    {
+     "t": 458.6,
+     "s": "B",
+     "es": "¿Está Luis, por favor?",
+     "ko": "루이스 있나요?"
+    },
+    {
+     "t": 461.4,
+     "s": "A",
+     "es": "¿De parte de quién?",
+     "ko": "누구세요?"
+    },
+    {
+     "t": 463.2,
+     "s": "B",
+     "es": "De Daniel.",
+     "ko": "다니엘요."
+    },
+    {
+     "t": 464.6,
+     "s": "A",
+     "es": "Pues en este momento no puede ponerse. ¿Quiere dejarle algún recado?",
+     "ko": "지금 전화 연결할 수 없어요. 메시지 남기길 원하세요?"
+    },
+    {
+     "t": 468.9,
+     "s": "B",
+     "es": "No, gracias. Voy a llamar más tarde.",
+     "ko": "아뇨, 고마워요. 나중에 전화할게요."
+    }
+   ]
+  },
+  {
+   "title": "26강 · ¿A cuánto está el kilo de naranjas? — 오렌지 1킬로는 얼마인가요?",
+   "lines": [
+    {
+     "t": 473.6,
+     "s": "A",
+     "es": "¡Hola, buenas tardes!",
+     "ko": "안녕, 좋은 오후입니다."
+    },
+    {
+     "t": 475.8,
+     "s": "B",
+     "es": "¿Qué quiere usted, señora?",
+     "ko": "부인, 뭘 원하시나요?"
+    },
+    {
+     "t": 478.1,
+     "s": "A",
+     "es": "¿Estas naranjas están buenas, hoy?",
+     "ko": "오늘 오렌지 좋나요?"
+    },
+    {
+     "t": 481.1,
+     "s": "B",
+     "es": "Están bonísimas, señora.",
+     "ko": "매우 좋아요, 부인."
+    },
+    {
+     "t": 483.3,
+     "s": "A",
+     "es": "¿A cuánto está hoy el kilo?",
+     "ko": "오늘 킬로당 얼마인가요?"
+    },
+    {
+     "t": 485.5,
+     "s": "B",
+     "es": "La naranja está a un euro el kilo.",
+     "ko": "오렌지는 킬로당 1유로입니다."
+    },
+    {
+     "t": 487.8,
+     "s": "A",
+     "es": "Muy bien. Deme cinco kilos.",
+     "ko": "좋아요. 5킬로 주세요."
+    },
+    {
+     "t": 491.3,
+     "s": "B",
+     "es": "Vale. Aquí tiene, señora. ¿Quiere algo más?",
+     "ko": "좋아요, 여기 있어요, 부인. 다른 것 더 원하시나요?"
+    },
+    {
+     "t": 494.7,
+     "s": "A",
+     "es": "No, nada más.",
+     "ko": "아뇨, 더 없어요."
+    }
+   ]
+  },
+  {
+   "title": "27강 · ¿En vuelo regular o con tarifa mini? — 규정 항공편 혹은 저가 요금으로요?",
+   "lines": [
+    {
+     "t": 498.3,
+     "s": "A",
+     "es": "¿Cuánto cuesta un billete de avión Barcelona- Granada?",
+     "ko": "바르셀로나-그라나다 비행기 표는 얼마나 비용이 드나요?"
+    },
+    {
+     "t": 501.9,
+     "s": "B",
+     "es": "¿En vuelo regular o con tarifa mini?",
+     "ko": "규정 항공편 혹은 저가 요금으로요?"
+    },
+    {
+     "t": 504.5,
+     "s": "A",
+     "es": "¿Me puede decir el precio de los dos, por favor?",
+     "ko": "내게 두 개 요금 다 말해주실 수 있나요?"
+    },
+    {
+     "t": 507.9,
+     "s": "B",
+     "es": "El vuelo regular cuesta 135 euros y la tarifa mini 93 euros.",
+     "ko": "규정 항공편은 135유로이고 저가 요금은 93유로예요."
+    },
+    {
+     "t": 514.2,
+     "s": "A",
+     "es": "Gracias.",
+     "ko": "고마워요."
+    }
+   ]
+  },
+  {
+   "title": "28강 · ¿Por qué no vamos al cine? — 우리 영화관에 왜 안 가?",
+   "lines": [
+    {
+     "t": 517.0,
+     "s": "A",
+     "es": "¿Por qué no vamos al cine esta noche?",
+     "ko": "오늘 밤 우리 영화관에 왜 안 가?"
+    },
+    {
+     "t": 518.9,
+     "s": "B",
+     "es": "¿Qué película?",
+     "ko": "무슨 영화?"
+    },
+    {
+     "t": 521.1,
+     "s": "A",
+     "es": "La de Pedro Almodóvar. Esta noche su nueva película se estrena.",
+     "ko": "뻬드로 알모도바르 영화. 오늘 밤 그의 새 영화가 개봉해."
+    },
+    {
+     "t": 525.8,
+     "s": "B",
+     "es": "Yo también quiero verla, pero tengo mucho que hacer.",
+     "ko": "나도 그것 보길 원하지만, 해야 할 것이 많아."
+    },
+    {
+     "t": 529.5,
+     "s": "A",
+     "es": "Estos días trabajas mucho, y tienes que descansar un poco. Mañana es sábado.",
+     "ko": "요즘 너 너무 많이 일해, 좀 쉬어야만 해. 내일 토요일이야."
+    },
+    {
+     "t": 534.8,
+     "s": "B",
+     "es": "Vale, vamos.",
+     "ko": "그래, 가자."
+    }
+   ]
+  },
+  {
+   "title": "29강 · ¿Qué vas a hacer después del trabajo? — 퇴근 뒤 뭐 할 거야?",
+   "lines": [
+    {
+     "t": 537.7,
+     "s": "A",
+     "es": "¿Qué vas a hacer después del trabajo?",
+     "ko": "퇴근 뒤 뭐 할 거야?"
+    },
+    {
+     "t": 540.5,
+     "s": "B",
+     "es": "¿Hoy o normalmente?",
+     "ko": "오늘 혹은 보통?"
+    },
+    {
+     "t": 542.5,
+     "s": "A",
+     "es": "Ahora mismo.",
+     "ko": "지금 당장."
+    },
+    {
+     "t": 543.9,
+     "s": "B",
+     "es": "Hoy es jueves, ¿verdad? Pues, voy al gimnasio.",
+     "ko": "오늘 목요일이지, 그렇지? 체육관에 갈 거야."
+    },
+    {
+     "t": 547.0,
+     "s": "A",
+     "es": "¿Vas todos los días?",
+     "ko": "매일 가?"
+    },
+    {
+     "t": 549.1,
+     "s": "B",
+     "es": "No, sólo los martes y los jueves.",
+     "ko": "아니, 단지 매주 화요일과 목요일."
+    },
+    {
+     "t": 552.1,
+     "s": "A",
+     "es": "Tienes una vida muy organizada, ¿verdad?",
+     "ko": "넌 생활을 매우 잘 짜두었어, 그렇지?"
+    },
+    {
+     "t": 555.7,
+     "s": "B",
+     "es": "Sí.",
+     "ko": "그래."
+    }
+   ]
+  },
+  {
+   "title": "30강 · Vamos a viajar por Barcelona durante la Semana Santa — 우리 부활절 동안 바르셀로나로 여행합시다.",
+   "lines": [
+    {
+     "t": 558.3,
+     "s": "A",
+     "es": "Juan, ¿qué vas a hacer durante la Semana Santa?",
+     "ko": "후안, 부활절 동안 넌 뭐 할 거야?"
+    },
+    {
+     "t": 561.5,
+     "s": "B",
+     "es": "Pues, pienso quedarme en casa. Estoy muy cansado estos días.",
+     "ko": "응, 집에 머물 생각이야. 요즘 매우 피곤해."
+    },
+    {
+     "t": 566.3,
+     "s": "A",
+     "es": "¡Anda! Anímate. Vamos a viajar por Barcelona. ¿Qué te parece?",
+     "ko": "자! 힘내! 우리 바르셀로나로 여행하자. 어때?"
+    },
+    {
+     "t": 570.6,
+     "s": "B",
+     "es": "Me parece bien, pero...",
+     "ko": "내게 좋아 보여, 하지만..."
+    },
+    {
+     "t": 572.4,
+     "s": "A",
+     "es": "Si vienes conmigo, te vas a divertir.",
+     "ko": "만약 나랑 간다면, 넌 즐기게 될 거야."
+    },
+    {
+     "t": 575.5,
+     "s": "B",
+     "es": "¿De verdad? Muy bien.",
+     "ko": "진짜로? 매우 좋아."
+    }
+   ]
+  },
+  {
+   "title": "31강 · ¿Cuál es el sitio más famoso de Barcelona? — 어떤 것이 바르셀로나의 가장 유명한 장소야?",
+   "lines": [
+    {
+     "t": 578.9,
+     "s": "A",
+     "es": "¿Cuál es el sitio más famoso de Barcelona?",
+     "ko": "어떤 것이 바르셀로나의 가장 유명한 장소야?"
+    },
+    {
+     "t": 582.0,
+     "s": "B",
+     "es": "Por supuesto, las obras de Antonio Gaudí.",
+     "ko": "당연히 안또니오 가우디의 작품들."
+    },
+    {
+     "t": 585.4,
+     "s": "A",
+     "es": "¿Antonio Gaudí? ¿Quién es?",
+     "ko": "안또니오 가우디? 누구지?"
+    },
+    {
+     "t": 587.3,
+     "s": "B",
+     "es": "Es un arquitecto muy famoso del siglo XX. ¿No conoces la Sagrada Familia?",
+     "ko": "20세기 매우 유명한 건축가 중 한 명이지. 너 사그라다 파밀리아 모르니?"
+    },
+    {
+     "t": 592.8,
+     "s": "A",
+     "es": "No me suena mucho.",
+     "ko": "잘 모르겠어."
+    },
+    {
+     "t": 594.6,
+     "s": "B",
+     "es": "Es la iglesia más grande del mundo, y aún no se ha terminado la construcción pese a pasar 100 años.",
+     "ko": "세상에서 제일 큰 교회야. 그리고 100년이 지났음에도 불구하고 건축이 아직 끝나지 않았어."
+    },
+    {
+     "t": 601.3,
+     "s": "A",
+     "es": "¿Sí? Me gustaría verla.",
+     "ko": "그래? 봤으면 좋겠다."
+    }
+   ]
+  },
+  {
+   "title": "32강 · ¿En Barcelona no se habla español? — 바르셀로나에서는 스페인어 말하지 않아?",
+   "lines": [
+    {
+     "t": 605.1,
+     "s": "A",
+     "es": "En Barcelona no se habla español. ¿Qué idioma se habla?",
+     "ko": "바르셀로나에선 스페인어를 말하지 않아. 어떤 언어를 말하지?"
+    },
+    {
+     "t": 608.3,
+     "s": "B",
+     "es": "Se habla catalán, y también es romance.",
+     "ko": "카탈루냐어를 말해, 그리고 이 또한 로망스어야."
+    },
+    {
+     "t": 612.4,
+     "s": "A",
+     "es": "¿Por qué no se usa el español en la Comunidad de Cataluña?",
+     "ko": "카탈루냐주에서는 왜 스페인어를 사용하지 않아?"
+    },
+    {
+     "t": 616.0,
+     "s": "B",
+     "es": "En esta comunidad se usa el catalán, y el idioma oficial de esta zona es el catalán.",
+     "ko": "이 주에서는 카탈루냐어가 사용되고, 이 지역의 공식 언어는 카탈루냐어야."
+    },
+    {
+     "t": 622.2,
+     "s": "A",
+     "es": "¿Hay otros idiomas oficiales en España, además del español y el catalán?",
+     "ko": "스페인어와 카탈루냐어 외에 스페인에는 다른 공식 언어들이 있어?"
+    },
+    {
+     "t": 627.4,
+     "s": "B",
+     "es": "Sí, se habla gallego en la Comunidad de Galicia, y el euskera o el vasco en el País Vasco.",
+     "ko": "그래, 갈리시아주에서는 갈리시아어를 말하고, 바스크주에서는 에우스께라 혹은 바스 크어를 말해."
+    },
+    {
+     "t": 633.5,
+     "s": "A",
+     "es": "Entonces, en España hay cuatro idiomas oficiales, ¿verdad?",
+     "ko": "그렇다면 스페인에는 네 개의 공식 언어가 있네, 그렇지?"
+    },
+    {
+     "t": 637.7,
+     "s": "B",
+     "es": "Sí.",
+     "ko": "그래."
+    }
+   ]
+  },
+  {
+   "title": "33강 · ¿Cuál es el menú del día, hoy? — 오늘의 메뉴가 무엇이죠?",
+   "lines": [
+    {
+     "t": 641.0,
+     "s": "A",
+     "es": "Hola, buenas tardes. ¿Qué quiere tomar?",
+     "ko": "안녕, 좋은 오후입니다. 뭘 드시겠어요?"
+    },
+    {
+     "t": 644.1,
+     "s": "B",
+     "es": "¿Cuál es el menú del día, hoy?",
+     "ko": "오늘의 메뉴가 무엇이죠?"
+    },
+    {
+     "t": 646.5,
+     "s": "A",
+     "es": "Hoy tenemos una ensalada mixta, paella de primero, y de segundo la merluza a la romana o la chuleta de cerdo.",
+     "ko": "전식으로 혼합 샐러드와 파에야, 본식으로 로마식 대구 혹은 돼지갈비가 있어요."
+    },
+    {
+     "t": 653.4,
+     "s": "B",
+     "es": "Muy bien. Deme la paella y la merluza a la romana.",
+     "ko": "좋아요. 파에야와 로마식 대구 주세요."
+    },
+    {
+     "t": 657.1,
+     "s": "A",
+     "es": "Y ¿para beber?",
+     "ko": "그러면 마실 거는요?"
+    },
+    {
+     "t": 658.4,
+     "s": "B",
+     "es": "Una caña, por favor.",
+     "ko": "생맥주 한 잔 부탁해요."
+    },
+    {
+     "t": 660.8,
+     "s": "A",
+     "es": "Muy bien.",
+     "ko": "좋아요."
+    }
+   ]
+  },
+  {
+   "title": "34강 · Vamos a picar algo en ese bar. — 저 바에서 뭐 먹자.",
+   "lines": [
+    {
+     "t": 663.7,
+     "s": "A",
+     "es": "¿No tienes hambre, Juan?",
+     "ko": "후안, 너 배 안 고파?"
+    },
+    {
+     "t": 665.9,
+     "s": "B",
+     "es": "No tengo mucha hambre, pero puedo picar algo.",
+     "ko": "많이 안 고프지만 뭐 먹을 수는 있어."
+    },
+    {
+     "t": 668.6,
+     "s": "A",
+     "es": "Vamos a picar algo en ese bar.",
+     "ko": "저 바에서 뭐 먹자."
+    },
+    {
+     "t": 672.0,
+     "s": "B",
+     "es": "Vale, ¿qué quieres tomar?",
+     "ko": "좋아, 뭐 먹고 싶은데?"
+    },
+    {
+     "t": 674.1,
+     "s": "A",
+     "es": "Quiero tomar una tapa de calamares.",
+     "ko": "오징어 따빠 먹고 싶어."
+    },
+    {
+     "t": 676.9,
+     "s": "B",
+     "es": "Muy bien. Me encanta la tapa de calamares.",
+     "ko": "좋아. 나도 오징어 따빠 좋아해."
+    }
+   ]
+  },
+  {
+   "title": "35강 · Vamos al hotel Melisa. — 멜리사 호텔 갑시다.",
+   "lines": [
+    {
+     "t": 681.7,
+     "s": "A",
+     "es": "Vamos a tomar un taxi. No tengo tiempo.",
+     "ko": "택시 타요. 시간 없어요."
+    },
+    {
+     "t": 684.9,
+     "s": "B",
+     "es": "Vale. ¡Taxi!",
+     "ko": "좋아요. 택시!"
+    },
+    {
+     "t": 686.4,
+     "s": "A",
+     "es": "¿Adónde van, señoras?",
+     "ko": "부인들, 어디 가시나요?"
+    },
+    {
+     "t": 688.5,
+     "s": "B",
+     "es": "Vamos al hotel Melisa.",
+     "ko": "멜리사 호텔 갑시다."
+    },
+    {
+     "t": 690.7,
+     "s": "A",
+     "es": "Vale.",
+     "ko": "알겠어요."
+    },
+    {
+     "t": 691.7,
+     "s": "B",
+     "es": "¿Cuánto tiempo se tarda? No tengo tiempo suficiente.",
+     "ko": "얼마나 걸리나요? 충분한 시간 없어요."
+    },
+    {
+     "t": 695.6,
+     "s": "A",
+     "es": "Se tarda más o menos 15 minutos.",
+     "ko": "대략 15분 걸려요."
+    },
+    {
+     "t": 697.7,
+     "s": "B",
+     "es": "Muy bien. Vamos deprisa, por favor.",
+     "ko": "좋아요. 서둘러 가요, 부탁합니다."
+    },
+    {
+     "t": 701.9,
+     "s": "A",
+     "es": "¡Enseguida!",
+     "ko": "즉시!"
+    }
+   ]
+  },
+  {
+   "title": "36강 · ¿Hay una habitación libre? — 빈방 하나 있나요?",
+   "lines": [
+    {
+     "t": 704.7,
+     "s": "A",
+     "es": "Hola, ¿hay una habitación libre?",
+     "ko": "안녕, 빈방 하나 있나요?"
+    },
+    {
+     "t": 707.6,
+     "s": "B",
+     "es": "Sí. ¿Qué tipo de habitación quiere usted, una individual o una doble?",
+     "ko": "예. 싱글 혹은 더블 어떤 유형의 방을 원하시나요?"
+    },
+    {
+     "t": 712.2,
+     "s": "A",
+     "es": "Quiero una habitación individual. ¿Cuánto es?",
+     "ko": "싱글 방 원해요. 얼마죠?"
+    },
+    {
+     "t": 715.6,
+     "s": "B",
+     "es": "Son 60 euros al día, incluido el desayuno.",
+     "ko": "조식 포함해서 하루 60유로에요."
+    },
+    {
+     "t": 719.4,
+     "s": "A",
+     "es": "¿Hay un baño en la habitación?",
+     "ko": "방에 욕실 있나요?"
+    },
+    {
+     "t": 721.5,
+     "s": "B",
+     "es": "Claro, hay uno muy limpio.",
+     "ko": "물론이죠, 매우 깨끗한 욕실이 하나 있어요."
+    },
+    {
+     "t": 724.1,
+     "s": "A",
+     "es": "Bueno, deme una, por favor.",
+     "ko": "좋아요. 하나 주세요."
+    },
+    {
+     "t": 726.6,
+     "s": "B",
+     "es": "¿Para cuántos días?",
+     "ko": "며칠요?"
+    },
+    {
+     "t": 727.8,
+     "s": "A",
+     "es": "Sólo una noche.",
+     "ko": "하룻밤."
+    },
+    {
+     "t": 730.5,
+     "s": "B",
+     "es": "De acuerdo, la habitación número 505. Aquí tiene la llave.",
+     "ko": "좋아요. 방 번호는 505호예요. 여기 열쇠 있어요."
+    },
+    {
+     "t": 735.3,
+     "s": "A",
+     "es": "Gracias.",
+     "ko": "고마워요."
+    },
+    {
+     "t": 736.6,
+     "s": "B",
+     "es": "De nada, señora. Buenas noches.",
+     "ko": "천만에요, 부인. 좋은 밤 보내세요."
+    }
+   ]
+  },
+  {
+   "title": "37강 · Esta habitación es muy ruidosa. — 이 방은 매우 시끄럽다.",
+   "lines": [
+    {
+     "t": 741.1,
+     "s": "A",
+     "es": "Buenas noches, quiero cambiar la habitación.",
+     "ko": "좋은 저녁입니다. 방을 바꾸고 싶어요."
+    },
+    {
+     "t": 744.5,
+     "s": "B",
+     "es": "¿Por qué, señora?",
+     "ko": "부인, 왜 그런가요?"
+    },
+    {
+     "t": 746.3,
+     "s": "A",
+     "es": "Esta habitación da a la calle, y por lo tanto es muy ruidosa.",
+     "ko": "이 방은 길을 향해 있고, 따라서 매우 시끄러워요."
+    },
+    {
+     "t": 750.8,
+     "s": "B",
+     "es": "Claro, hoy es un día festivo.",
+     "ko": "맞아요, 오늘 축제 날이에요."
+    },
+    {
+     "t": 753.6,
+     "s": "A",
+     "es": "Deme otra habitación, por favor.",
+     "ko": "다른 방을 줘요, 부탁해요."
+    },
+    {
+     "t": 756.2,
+     "s": "B",
+     "es": "De acuerdo, le doy otra.",
+     "ko": "좋아요, 다른 방을 드릴게요."
+    }
+   ]
+  },
+  {
+   "title": "38강 · Tengo mucho dolor de cabeza. — 머리가 매우 아파.",
+   "lines": [
+    {
+     "t": 759.9,
+     "s": "A",
+     "es": "Hoy ha sido un día terrible. He trabajado mucho y no he descansado nada.",
+     "ko": "오늘은 끔찍한 하루였어. 많이 일하고는 전혀 쉬지를 못했어."
+    },
+    {
+     "t": 765.3,
+     "s": "B",
+     "es": "¡Pobrecito!",
+     "ko": "안됐군!"
+    },
+    {
+     "t": 766.2,
+     "s": "A",
+     "es": "Ahora, tengo mucho dolor de cabeza.",
+     "ko": "지금 머리가 매우 아파."
+    },
+    {
+     "t": 768.9,
+     "s": "B",
+     "es": "Claro, tienes que descansar un poco y tomar un calmante. Si no se calma el dolor, deberías ir al médico.",
+     "ko": "당연하지, 좀 쉬고 진통제를 먹어야만 해. 만약 통증이 가라앉지 않으면 의사에게 가야만 해."
+    },
+    {
+     "t": 775.9,
+     "s": "A",
+     "es": "Gracias. Seguiré tu consejo.",
+     "ko": "고마워. 너의 충고를 따를게."
+    },
+    {
+     "t": 778.6,
+     "s": "B",
+     "es": "Nada, eres mi mejor amigo.",
+     "ko": "천만에, 넌 내 가장 좋은 친구야."
+    }
+   ]
+  },
+  {
+   "title": "39강 · Deme un calmante. — 진통제 하나 주세요.",
+   "lines": [
+    {
+     "t": 782.5,
+     "s": "A",
+     "es": "Deme un calmante.",
+     "ko": "진통제 하나 주세요."
+    },
+    {
+     "t": 784.2,
+     "s": "B",
+     "es": "¿Tiene usted receta médica?",
+     "ko": "의사 처방전 가지고 있나요?"
+    },
+    {
+     "t": 786.5,
+     "s": "A",
+     "es": "Aquí la tiene, señora.",
+     "ko": "여기 있어요, 부인."
+    },
+    {
+     "t": 788.8,
+     "s": "B",
+     "es": "¿Para qué? ¿Dónde le duele?",
+     "ko": "왜 그러시죠? 어디가 아픈가요?"
+    },
+    {
+     "t": 790.3,
+     "s": "A",
+     "es": "Tengo un dolor horrible de cabeza.",
+     "ko": "머리가 엄청 아파요."
+    },
+    {
+     "t": 793.6,
+     "s": "B",
+     "es": "Tome aspirina. Le va a quitar el dolor de cabeza.",
+     "ko": "아스피린 드세요. 두통을 없애줄 겁니다."
+    },
+    {
+     "t": 797.2,
+     "s": "A",
+     "es": "Vale. Deme una, por favor.",
+     "ko": "좋아요. 하나 주세요."
+    }
+   ]
+  },
+  {
+   "title": "40강 · ¿Dónde le duele? — 어디가 아픈가요?",
+   "lines": [
+    {
+     "t": 800.8,
+     "s": "A",
+     "es": "¿Dónde le duele?",
+     "ko": "어디가 아프신가요?"
+    },
+    {
+     "t": 802.2,
+     "s": "B",
+     "es": "Tengo dolor de estómago.",
+     "ko": "위가 아파요."
+    },
+    {
+     "t": 804.5,
+     "s": "A",
+     "es": "Pues, estas son las pastillas que debe tomar.",
+     "ko": "저, 이것이 드셔야 할 알약입니다."
+    },
+    {
+     "t": 807.8,
+     "s": "B",
+     "es": "¿Cuántas al día, doctora?",
+     "ko": "선생님, 하루 얼마나 요?"
+    },
+    {
+     "t": 810.1,
+     "s": "A",
+     "es": "Dos por la mañana después del desayuno, y dos por la noche después de la cena.",
+     "ko": "아침 식사 후 두 알, 그리고 저녁 식사 후 두 알."
+    },
+    {
+     "t": 815.4,
+     "s": "B",
+     "es": "¿Durante cuánto tiempo?",
+     "ko": "얼마나 동안요?"
+    },
+    {
+     "t": 817.3,
+     "s": "A",
+     "es": "Durante dos semanas y tiene que dejar de fumar.",
+     "ko": "이 주 동안요, 그리고 담배 피우지 말아야 합니다."
+    },
+    {
+     "t": 820.6,
+     "s": "B",
+     "es": "Ya... Ya lo sé.",
+     "ko": "이미... 이미 알고 있어요."
+    }
+   ]
+  },
+  {
+   "title": "41강 · ¿Cómo va todo? — 전부 어때요?",
+   "lines": [
+    {
+     "t": 824.4,
+     "s": "A",
+     "es": "Buenos días. ¿Cómo va todo?",
+     "ko": "좋은 아침입니다. 모두 어때요?"
+    },
+    {
+     "t": 826.5,
+     "s": "B",
+     "es": "Mucho mejor, doctora. El régimen es estupendo, peso tres kilos menos.",
+     "ko": "훨씬 좋아요, 박사님. 식이요법이 훌륭해요. 삼 킬로덜 나가요."
+    },
+    {
+     "t": 831.7,
+     "s": "A",
+     "es": "Bien, siga con el régimen, pero ahora debe empezar a hacer deporte. Puede hacer footing dos veces por semana.",
+     "ko": "좋아요, 식이요법을 계속 따르세요. 하지만 이제 운동을 시작해야 해요. 주에 두 번 건강 달리기를 할 수 있어요."
+    },
+    {
+     "t": 838.8,
+     "s": "B",
+     "es": "De acuerdo, doctora. Una cosa más... ¿Puede recetarme algunas vitaminas? La verdad es que últimamente me encuentro algo débil.",
+     "ko": "좋아요, 박사님. 한 가지 더... 제게 비타민 처방할 수 있나요? 사실은 최근에 좀 약하게 느껴요."
+    },
+    {
+     "t": 847.2,
+     "s": "A",
+     "es": "Sí. Debe tomar dos pastillas por la mañana y dos por la noche.",
+     "ko": "그래요. 아침에 두 알 그리고 저녁에 두 알 먹어야 해요."
+    }
+   ]
+  },
+  {
+   "title": "42강 · ¿Qué hiciste el fin de semana? — 넌 주말에 뭐 했어?",
+   "lines": [
+    {
+     "t": 852.8,
+     "s": "A",
+     "es": "Hola, Juan. ¿Qué hiciste el fin de semana?",
+     "ko": "안녕, 후안. 주말에 뭐 했어?"
+    },
+    {
+     "t": 856.0,
+     "s": "B",
+     "es": "Fui a mi pueblo natal y visité a mis padres. Y también tomé una copa con mis viejos amigos que viven allí.",
+     "ko": "고향에 가 부모님을 뵀어. 그리고 또한 그곳에 사는 옛 친구들과 한잔했어."
+    },
+    {
+     "t": 863.2,
+     "s": "A",
+     "es": "Pasaste unos días fantásticos. Es que yo me quedé en casa todo el fin de semana sólo viendo la televisión.",
+     "ko": "넌 끝내주는 며칠을 보냈군. 실은 난 텔레비전만 보면서 주말 내내 집에 머물렀어."
+    },
+    {
+     "t": 870.1,
+     "s": "B",
+     "es": "¡Qué pena! Tienes que animarte mucho.",
+     "ko": "안됐군! 좀 힘을 내."
+    },
+    {
+     "t": 873.0,
+     "s": "A",
+     "es": "Ya lo sé.",
+     "ko": "이미 알고 있어."
+    }
+   ]
+  },
+  {
+   "title": "43강 · ¿Qué tal te ha salido el examen? — 시험 어땠어?",
+   "lines": [
+    {
+     "t": 875.7,
+     "s": "A",
+     "es": "¿Qué tal te ha salido el examen, Cristina?",
+     "ko": "끄리스띠나, 시험 어땠어?"
+    },
+    {
+     "t": 878.9,
+     "s": "B",
+     "es": "Así, así. He tenido problemas con los ejercicios de verbos.",
+     "ko": "그럭저럭. 난 동사 연습문제에 문제가 있었어."
+    },
+    {
+     "t": 883.1,
+     "s": "A",
+     "es": "Sí, ha sido un poco difícil.",
+     "ko": "그래, 좀 어려웠군."
+    },
+    {
+     "t": 885.9,
+     "s": "B",
+     "es": "¿Un poco? Yo creo que ha sido dificilísimo. ¡Oye! ¿Sobre qué has hecho la redacción?",
+     "ko": "좀? 난 엄청 어려웠다고 믿어. 예, 넌 뭐에 대해 글쓰기 했어?"
+    },
+    {
+     "t": 891.7,
+     "s": "A",
+     "es": "He comparado el sistema educativo español con el americano.",
+     "ko": "스페인의 교육 체계를 미국 것과 비교했어."
+    }
+   ]
+  },
+  {
+   "title": "44강 · Acabo de llegar a Madrid. — 난 막 마드리드에 도착했어",
+   "lines": [
+    {
+     "t": 897.2,
+     "s": "A",
+     "es": "¡Hola! Verá, he llegado esta mañana a Madrid, y necesito información sobre hoteles, pensiones... bueno, algún sitio donde alojarme durante unos días.",
+     "ko": "안녕! 보실까요, 오늘 아침에 마드리드에 도착했는데, 호텔이나 여관... 등 며칠 머물 장소에 관한 정보가 필요해요."
+    },
+    {
+     "t": 906.5,
+     "s": "B",
+     "es": "Aquí tienes un folleto con todos los hoteles de Madrid, y otro con albergues juveniles. ¿Tienes carné de estudiante?",
+     "ko": "여기 마드리드 모든 호텔 안내 책자가 있어, 그리고 다른 것은 유스 호스텔 관련된 것이고. 학생증 있어?"
+    },
+    {
+     "t": 912.9,
+     "s": "A",
+     "es": "Sí, sí, lo tengo.",
+     "ko": "그래요. 있어요."
+    },
+    {
+     "t": 915.8,
+     "s": "B",
+     "es": "Entonces, puedes ir a un albergue juvenil.",
+     "ko": "그렇다면 유스 호스텔에 갈 수 있어."
+    }
+   ]
+  },
+  {
+   "title": "45강 · ¿Dónde vivías cuando eras niño? — 넌 어렸을 때 어디 살았어?",
+   "lines": [
+    {
+     "t": 920.3,
+     "s": "A",
+     "es": "Este fin de semana voy a mi pueblo natal.",
+     "ko": "이번 주말 난 고향에 가."
+    },
+    {
+     "t": 923.5,
+     "s": "B",
+     "es": "¿En serio? ¿Dónde vivías de pequeño?",
+     "ko": "진짜로? 어릴 때 어디 살았어?"
+    },
+    {
+     "t": 926.1,
+     "s": "A",
+     "es": "Vivía en un pueblo pesquero. Era una ciudad muy tranquila y bonita.",
+     "ko": "어촌에 살았어. 매우 조용하고 예쁜 도시였어."
+    },
+    {
+     "t": 931.1,
+     "s": "B",
+     "es": "¡Ah! Has tenido una niñez con tranquilidad.",
+     "ko": "아! 넌 조용한 어린 시절을 보냈구나."
+    },
+    {
+     "t": 934.4,
+     "s": "A",
+     "es": "Mira esta foto. Es la ciudad donde nací.",
+     "ko": "이 사진 봐. 내가 태어난 도시야."
+    },
+    {
+     "t": 937.3,
+     "s": "B",
+     "es": "¡Qué bonita es esta ciudad!",
+     "ko": "정말 예쁜 도시네!"
+    },
+    {
+     "t": 940.1,
+     "s": "A",
+     "es": "Claro.",
+     "ko": "물론이지."
+    }
+   ]
+  },
+  {
+   "title": "46강 · ¿Cuándo fue la última vez? — 언제가 마지막이었어?",
+   "lines": [
+    {
+     "t": 942.8,
+     "s": "A",
+     "es": "¿Sabes cuándo fue la última vez que cené en un restaurante italiano?",
+     "ko": "내가 이탈리아 식당에서 식사한 마지막이 언제였는지 넌 알아?"
+    },
+    {
+     "t": 947.4,
+     "s": "B",
+     "es": "¿Hace mucho?",
+     "ko": "오래전?"
+    },
+    {
+     "t": 949.0,
+     "s": "A",
+     "es": "Por lo menos, tres meses. Creo que la última vez fue el día de mi cumpleaños.",
+     "ko": "최소한 삼 개월. 마지막은 내 생일이었던 것으로 믿어."
+    },
+    {
+     "t": 954.2,
+     "s": "B",
+     "es": "A mí me gusta mucho la comida italiana... no sé, es muy variada.",
+     "ko": "나도 이탈리아 음식을 매우 좋아해... 잘 모르겠어, 매우 다양해."
+    },
+    {
+     "t": 958.8,
+     "s": "A",
+     "es": "Y además, aquí en España, los restaurantes italianos son muy buenos.",
+     "ko": "게다가 여기 스페인의 이탈리아 식당들은 매우 훌륭해."
+    }
+   ]
+  },
+  {
+   "title": "47강 · He perdido el metro esta mañana. — 오늘 아침 지하철을 놓쳤어",
+   "lines": [
+    {
+     "t": 965.7,
+     "s": "A",
+     "es": "Hola, Juan. Has llegado muy tarde.",
+     "ko": "후안, 안녕. 너 오늘 매우 늦게 도착했어."
+    },
+    {
+     "t": 968.6,
+     "s": "B",
+     "es": "Esta mañana he perdido el metro, porque me he levantado muy tarde.",
+     "ko": "오늘 아침 지하철을 놓쳤어, 왜냐면 매우 늦게 일어났거든."
+    },
+    {
+     "t": 972.1,
+     "s": "A",
+     "es": "Y ¿cómo has venido aquí?",
+     "ko": "그러면 여긴 어떻게 왔어?"
+    },
+    {
+     "t": 974.8,
+     "s": "B",
+     "es": "He esperado mucho tiempo para coger un taxi, porque había mucha gente llamando el taxi en la calle.",
+     "ko": "택시 잡으려고 오랜 시간을 기다렸어, 왜냐면 택시 부르는 사람들이 거리에 많이 있었거든."
+    },
+    {
+     "t": 981.0,
+     "s": "A",
+     "es": "Pues, ha sido un día horrible para ti.",
+     "ko": "여하튼, 네게는 오늘 끔찍한 하루였어."
+    }
+   ]
+  },
+  {
+   "title": "48강 · ¿Dónde viajaste la semana pasada? — 지난주 넌 어디 여행했어?",
+   "lines": [
+    {
+     "t": 985.5,
+     "s": "A",
+     "es": "¿La semana pasada dónde viajaste?",
+     "ko": "지난주 너 어디 여행했어?"
+    },
+    {
+     "t": 988.2,
+     "s": "B",
+     "es": "Viajé por Sevilla y Granada.",
+     "ko": "세비야와 그라나다로 여행했어."
+    },
+    {
+     "t": 990.9,
+     "s": "A",
+     "es": "¿Qué viste allí?",
+     "ko": "그곳에서 뭘 봤어?"
+    },
+    {
+     "t": 992.5,
+     "s": "B",
+     "es": "Visité la Catedral central en Sevilla y la Alhambra en Granada.",
+     "ko": "세비야에선 대성당을 그리고 그라나다에선 알람브라를 방문했어."
+    },
+    {
+     "t": 996.8,
+     "s": "A",
+     "es": "¿Qué tal fue?",
+     "ko": "어땠어?"
+    },
+    {
+     "t": 997.5,
+     "s": "B",
+     "es": "Fue fantástico. Sevilla es una ciudad maravillosa y Granada... no puedes imaginar. Te aconsejo conocer estas ciudades.",
+     "ko": "환상적이었어. 세비야는 놀라운 도시고 그라나다는... 넌 상상하기도 힘들어. 이 도시 들을 알아보라고 네게 충고하고 싶어."
+    },
+    {
+     "t": 1007.1,
+     "s": "A",
+     "es": "Bueno, algún día visitaré Sevilla y Granada.",
+     "ko": "좋아, 언젠가 세비야와 그라나다를 방문할게."
+    }
+   ]
+  },
+  {
+   "title": "49강 · ¿Qué harás después de graduarte? — 졸업 후 뭐할 거야?",
+   "lines": [
+    {
+     "t": 1012.0,
+     "s": "A",
+     "es": "¿Qué harás después de graduarte?",
+     "ko": "넌 졸업 후 뭐할 거야?"
+    },
+    {
+     "t": 1014.4,
+     "s": "B",
+     "es": "No sé, no he pensado nada.",
+     "ko": "모르겠어, 전혀 생각하지 않았어."
+    },
+    {
+     "t": 1016.8,
+     "s": "A",
+     "es": "Ahora, no tienes tiempo suficiente. Decídelo cuanto antes.",
+     "ko": "이제 충분한 시간이 없어. 가능한 한 빨리 결정해."
+    },
+    {
+     "t": 1021.4,
+     "s": "B",
+     "es": "Ya lo sé, pero no puedo decidirlo ahora.",
+     "ko": "이미 알고 있어, 하지만 지금 그걸 결정할 수는 없어."
+    },
+    {
+     "t": 1024.3,
+     "s": "A",
+     "es": "En el futuro quiero que seas toda una mujer.",
+     "ko": "미래에는 네가 온전한 여인이 되길 희망해."
+    },
+    {
+     "t": 1027.5,
+     "s": "B",
+     "es": "Gracias, lo quiero ser.",
+     "ko": "고마워, 나도 그러고 싶어."
+    }
+   ]
+  },
+  {
+   "title": "50강 · No se preocupe, es algo que le pueda pasar a cualquiera. — 걱정하지 말아요, 누구에게나 일어날 수 있는 일입니다.",
+   "lines": [
+    {
+     "t": 1031.2,
+     "s": "A",
+     "es": "Pase y siéntese.",
+     "ko": "들어오세요. 앉으세요."
+    },
+    {
+     "t": 1033.5,
+     "s": "B",
+     "es": "Gracias. Creo que llego con un poco de retraso. Lo siento, es que el tráfico estaba de pena.",
+     "ko": "고맙습니다. 좀 늦게 도착했어요. 미안합니다. 실은 교통 체증이 심했어요."
+    },
+    {
+     "t": 1039.6,
+     "s": "A",
+     "es": "No se preocupe, es algo que le pueda pasar a cualquiera. Dígame ¿dónde realizó sus estudios universitarios?",
+     "ko": "걱정하지 말아요, 누구에게나 일어날 수 있는 일입니다. 어디서 대학 과정을 했는지 말씀해 주세요."
+    },
+    {
+     "t": 1046.5,
+     "s": "B",
+     "es": "Verá, estudié la carrera de telecomunicaciones en la Universidad Autónoma de Barcelona. Al terminar la carrera, hice un máster en los Estados Unidos.",
+     "ko": "예, 저는 바르셀로나 주립 대학교에서 텔레커뮤니케이션을 공부했습니다. 과정을 마치고 미국에서 석사를 했습니다."
+    },
+    {
+     "t": 1055.2,
+     "s": "A",
+     "es": "Muy bien, por hoy ya hemos terminado. Nos veremos mañana.",
+     "ko": "좋아요, 오늘은 끝났습니다. 내일 봅시다."
+    },
+    {
+     "t": 1060.2,
+     "s": "B",
+     "es": "Gracias, hasta mañana.",
+     "ko": "고마워요. 내일 봐요."
+    }
+   ]
+  },
+  {
+   "title": "51강 · ¿Qué regalo quieres recibir en Navidad? — 성탄절에 무슨 선물 받고 싶어?",
+   "lines": [
+    {
+     "t": 1063.9,
+     "s": "A",
+     "es": "¿Qué regalo quieres recibir en esta fiesta de Navidad?",
+     "ko": "넌 이번 성탄절 축제에 무슨 선물을 받길 원하니?"
+    },
+    {
+     "t": 1067.4,
+     "s": "B",
+     "es": "¿Qué regalo?",
+     "ko": "무슨 선물?"
+    },
+    {
+     "t": 1068.8,
+     "s": "A",
+     "es": "¿No sabes que los españoles dan un regalo a los parientes, a los novios o a los mayores?",
+     "ko": "스페인 사람들이 친척, 애인 혹은 어른들에게 선물한다는 것을 넌 모르니?"
+    },
+    {
+     "t": 1074.6,
+     "s": "B",
+     "es": "¡Ah!, ya lo he oído alguna vez. A mí me gustaría recibir un regalo fantástico como un perfume, o un anillo...",
+     "ko": "아! 언젠가 그것 들었어. 난 향수나 반지 같은 환상적인 선물을 받았으면 해."
+    },
+    {
+     "t": 1081.5,
+     "s": "A",
+     "es": "¿Anillo? Tú sigues siendo una mujer.",
+     "ko": "반지? 넌 여전히 여자구나."
+    }
+   ]
+  },
+  {
+   "title": "52강 · Si vuelves a tu país, llámame. — 너희 나라에 돌아가면 전화해.",
+   "lines": [
+    {
+     "t": 1085.4,
+     "s": "A",
+     "es": "Si vuelves a tu país, envíame un correo electrónico o llámame.",
+     "ko": "만약 너희 나라 돌아가면 이메일을 보내거나 전화해."
+    },
+    {
+     "t": 1090.1,
+     "s": "B",
+     "es": "Vale, ahora (mismo) somos muy amigos, y no te olvidaré nunca.",
+     "ko": "좋아, 이제 우린 매우 친한 친구야. 널 절대로 잊지 않을 거야."
+    },
+    {
+     "t": 1094.4,
+     "s": "A",
+     "es": "Bueno, algún día te voy a visitar para ver a tu familia. Quiero conocerla.",
+     "ko": "좋아, 언젠가 너희 가족을 만나러 널 방문할 거야. 너희 가족을 알고 싶어."
+    },
+    {
+     "t": 1099.3,
+     "s": "B",
+     "es": "Te echaré de menos.",
+     "ko": "널 그리워할 거야."
+    },
+    {
+     "t": 1101.4,
+     "s": "A",
+     "es": "Igualmente.",
+     "ko": "마찬가지야."
+    }
+   ]
+  }
+ ]
+}
