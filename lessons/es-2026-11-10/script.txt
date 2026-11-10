@@ -1,0 +1,356 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 Sí tengo tiempo→Si tengo tiempo, sobre mí mañana→sobre mi mañana, sumo→zumo, lavabajillas→lavavajillas, ¿Cómo? Con mis compañeros→Como con mis compañeros 등을 바로잡았어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 20:55
+
+## 인사 — 오늘의 주제는 하루 일과
+[00:00.40]
+S | Bienvenidos a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:04.92]
+S | Hola a todos, bienvenidos a Easy Spanish Podcast, su podcast favorito para aprender español. | 여러분 안녕하세요, 스페인어를 배우는 여러분의 최애 팟캐스트, 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:16.30]
+M | Hola, Sofía. Hola, oyentes, estoy muy contento de estar aquí hoy. | 안녕, 소피아. 청취자 여러분 안녕하세요, 오늘 여기 있게 되어 정말 기뻐요.
+[00:23.39]
+S | Yo también, Mateo. | 나도야, 마테오.
+[00:25.34]
+S | Hoy tenemos un tema muy interesante y muy útil para la vida diaria. | 오늘은 아주 흥미롭고 일상생활에 아주 유용한 주제가 있어요.
+[00:33.22]
+M | Sí, Sofía, vamos a hablar de nuestras rutinas diarias. | 응, 소피아, 우리 하루 일과에 대해 이야기할 거예요.
+[00:40.14]
+M | ¿Qué hacemos cada día? | 우리는 매일 무엇을 할까요?
+[00:42.88]
+S | Exacto. Es una excelente manera de practicar el presente de los verbos y aprender vocabulario nuevo. | 맞아요. 동사의 현재형을 연습하고 새 어휘를 배우기에 아주 좋은 방법이에요.
+[00:54.38]
+M | Sí. Y también de comparar nuestras vidas. | 응. 그리고 우리 삶을 비교해 보기에도요.
+## 소피아의 아침 — 6시 반에 일어나요
+[00:58.70]
+M | Empezamos contigo, Sofía. ¿Cómo es tu mañana típica? | 너부터 시작하자, 소피아. 너의 평소 아침은 어때?
+[01:05.31]
+S | Claro que sí. Mi mañana empieza bastante temprano. | 물론이지. 내 아침은 꽤 일찍 시작해.
+[01:12.72]
+S | De lunes a viernes me levanto a las seis y media de la mañana. | 월요일부터 금요일까지 나는 아침 6시 반에 일어나.
+[01:18.89]
+M | Wow, eso es muy temprano. ¿Por qué te levantas tan pronto? | 와, 그거 엄청 이르다. 왜 그렇게 일찍 일어나?
+[01:25.92]
+S | Me levanto temprano porque me gusta tener tiempo. | 시간 여유를 갖는 게 좋아서 일찍 일어나.
+[01:33.04]
+S | Me gusta disfrutar la mañana sin prisas. No me gusta correr. | 서두르지 않고 아침을 즐기는 게 좋아. 허둥대는 건 싫어.
+[01:40.84]
+M | Entiendo. Es bueno tener tiempo para ti. | 이해해. 자기만의 시간을 갖는 건 좋지.
+[01:45.70]
+M | ¿Y qué haces primero cuando te levantas? | 그럼 일어나면 제일 먼저 뭘 해?
+[01:50.69]
+S | Lo primero que hago es levantarme de la cama, por supuesto. | 제일 먼저 하는 건 당연히 침대에서 일어나는 거지.
+[01:58.42]
+S | Luego voy al baño, me lavo la cara con agua fría… ¡me despierta! | 그다음 화장실에 가서 찬물로 세수를 해… 그러면 잠이 깨!
+[02:06.76]
+M | Sí, el agua fría es buena para despertar. Yo también lo hago a veces. | 응, 찬물은 잠 깨는 데 좋아. 나도 가끔 그렇게 해.
+[02:15.15]
+M | ¿Y después de lavarte la cara? | 그럼 세수하고 나서는?
+[02:18.12]
+S | Después de lavarme la cara, me cepillo los dientes. Siempre lo hago. | 세수하고 나서 이를 닦아. 항상 그렇게 해.
+[02:26.57]
+S | Es muy importante para la salud. Luego me peino el pelo. | 건강에 아주 중요하잖아. 그다음 머리를 빗어.
+[02:34.28]
+M | Muy bien. Son pasos importantes. | 아주 좋아. 중요한 단계들이네.
+[02:38.54]
+M | ¿Y te duchas por la mañana o por la noche? | 그리고 샤워는 아침에 해, 밤에 해?
+[02:43.61]
+S | Normalmente me ducho por la mañana. | 보통 아침에 샤워해.
+[02:48.47]
+S | Me gusta empezar el día sintiéndome limpia y fresca. Me ducho con agua tibia. | 깨끗하고 상쾌한 기분으로 하루를 시작하는 게 좋아. 미지근한 물로 샤워해.
+[02:59.61]
+M | Ah, entiendo. Es una buena forma de empezar el día. | 아, 그렇구나. 하루를 시작하기에 좋은 방법이네.
+[03:04.56]
+M | ¿Y qué ropa te pones? ¿Preparas tu ropa la noche anterior? | 그리고 옷은 뭘 입어? 전날 밤에 옷을 준비해 둬?
+[03:10.28]
+S | A veces preparo mi ropa la noche anterior, si tengo tiempo. | 시간이 있으면 가끔 전날 밤에 옷을 준비해 둬.
+[03:17.58]
+S | Pero la mayoría de las veces elijo mi ropa por la mañana. Me visto rápido. | 하지만 대부분은 아침에 옷을 골라. 옷은 빨리 입어.
+[03:25.78]
+M | Y después de vestirte, ¿qué viene después en tu rutina matutina? | 그럼 옷을 입고 나서, 아침 일과에서 다음은 뭐야?
+[03:33.30]
+S | Después de vestirme, voy a la cocina. Es mi parte favorita. | 옷을 입고 나서 부엌에 가. 내가 제일 좋아하는 부분이야.
+[03:40.91]
+S | Preparo mi desayuno. | 아침을 준비해.
+[03:43.90]
+M | Ah, el desayuno. ¿Qué desayunas normalmente, Sofía? | 아, 아침 식사. 보통 아침으로 뭘 먹어, 소피아?
+[03:51.39]
+S | Mi desayuno es simple. Bebo un café con leche. | 내 아침은 간단해. 카페라테를 마셔.
+[03:58.47]
+S | Me encanta el café. Y como una tostada con aguacate y tomate. | 커피를 정말 좋아하거든. 그리고 아보카도와 토마토를 올린 토스트를 먹어.
+[04:08.36]
+S | A veces como fruta también. | 가끔 과일도 먹고.
+[04:11.80]
+M | Eso suena muy saludable y delicioso. A mí también me gusta el aguacate. | 그거 아주 건강하고 맛있게 들린다. 나도 아보카도 좋아해.
+[04:19.64]
+M | ¿Desayunas en casa? | 아침은 집에서 먹어?
+[04:21.95]
+S | Sí. Siempre desayuno en casa. | 응. 항상 집에서 아침을 먹어.
+[04:25.50]
+S | Me gusta sentarme tranquila y leer las noticias en mi teléfono. Es mi momento de paz. | 편하게 앉아서 휴대폰으로 뉴스를 읽는 게 좋아. 나만의 평화로운 시간이야.
+[04:35.78]
+M | Qué bien. Yo también valoro mucho el momento del desayuno. | 좋다. 나도 아침 먹는 시간을 아주 소중하게 여겨.
+[04:42.82]
+M | ¿Y después del desayuno, qué haces? | 그럼 아침 먹고 나서는 뭐 해?
+[04:47.08]
+S | Después del desayuno, recojo un poco la cocina. Lavo mi taza y mi plato. | 아침 먹고 나서 부엌을 조금 정리해. 내 컵과 접시를 씻어.
+[04:56.08]
+S | Luego me preparo para salir. Me pongo los zapatos, cojo mi bolso y mis llaves. | 그다음 나갈 준비를 해. 신발을 신고, 가방과 열쇠를 챙겨.
+[05:06.63]
+M | ¿Y a qué hora sales de casa para ir al trabajo? | 그럼 출근하러 몇 시에 집에서 나가?
+[05:14.71]
+S | Salgo de casa alrededor de las ocho y cuarto. Voy al trabajo en autobús. | 8시 15분쯤 집에서 나가. 버스로 출근해.
+[05:23.67]
+S | Mi trabajo está un poco lejos. | 직장이 좀 멀거든.
+[05:27.32]
+M | Entiendo. ¿Cuánto tiempo tardas en llegar al trabajo? | 그렇구나. 직장까지 가는 데 얼마나 걸려?
+[05:34.35]
+S | Tardo unos treinta minutos en llegar al trabajo en autobús. | 버스로 직장까지 30분쯤 걸려.
+[05:43.05]
+S | A veces leo un libro en el autobús. A veces escucho música. | 가끔 버스에서 책을 읽어. 가끔은 음악을 듣고.
+[05:52.74]
+M | Es un buen tiempo para leer. Bueno, esa es tu mañana. | 책 읽기 좋은 시간이네. 자, 이게 너의 아침이구나.
+## 마테오의 아침 — 7시 반, 그리고 자전거 출근
+[06:01.27]
+M | Ahora, Sofía, ¿quieres saber sobre mi mañana? | 이제 소피아, 내 아침에 대해 알고 싶어?
+[06:06.59]
+S | Sí, por favor, Mateo. Estoy muy interesada. | 응, 부탁해, 마테오. 정말 궁금해.
+[06:10.81]
+S | ¿Es muy diferente a la mía? | 내 아침이랑 많이 달라?
+[06:13.62]
+M | Bueno, hay algunas diferencias. Yo no me levanto tan temprano como tú. | 음, 몇 가지 차이가 있어. 나는 너만큼 일찍 일어나지 않아.
+[06:23.18]
+M | Normalmente me levanto a las siete y media. | 보통 7시 반에 일어나.
+[06:28.29]
+S | Eso es una hora más tarde que yo. ¡Qué suerte! | 나보다 한 시간 늦네. 좋겠다!
+[06:37.23]
+M | Sí, me gusta dormir un poco más. | 응, 조금 더 자는 게 좋아.
+[06:40.85]
+M | Cuando me levanto, lo primero que hago es estirar un poco mi cuerpo. Me estiro en la cama. | 일어나면 제일 먼저 몸을 조금 스트레칭해. 침대에서 기지개를 켜.
+[06:52.42]
+S | Oh, eso es una buena idea. ¿Y luego qué haces? | 오, 좋은 생각이다. 그다음엔 뭐 해?
+[06:58.96]
+M | Después de estirarme, voy al baño, me lavo la cara como tú, me cepillo los dientes y me ducho. | 스트레칭하고 나서 화장실에 가서 너처럼 세수하고, 이를 닦고, 샤워해.
+[07:17.42]
+M | Yo también prefiero ducharme por la mañana. | 나도 아침에 샤워하는 게 더 좋아.
+[07:23.62]
+S | Coincidimos en eso. ¿Y qué comes en el desayuno? ¿Es diferente al mío? | 그건 우리 같네. 그럼 아침으로는 뭘 먹어? 나랑 달라?
+[07:32.88]
+M | Sí, un poco. Yo bebo un vaso de zumo de naranja y me gusta comer cereales con leche. | 응, 조금. 나는 오렌지 주스 한 잔을 마시고, 우유에 시리얼 먹는 걸 좋아해.
+[07:44.44]
+M | A veces como una pieza de fruta, como un plátano. | 가끔 바나나 같은 과일 하나를 먹고.
+[07:51.43]
+S | Zumo de naranja y cereales. Es un desayuno clásico. | 오렌지 주스와 시리얼. 클래식한 아침이네.
+[07:59.00]
+S | ¿Y dónde desayunas? | 그럼 어디서 아침을 먹어?
+[08:01.79]
+M | Siempre desayuno en la cocina, como tú. | 항상 부엌에서 먹어, 너처럼.
+[08:07.55]
+M | Mientras desayuno, escucho la radio para las noticias. Me gusta estar informado. | 아침 먹는 동안 라디오로 뉴스를 들어. 소식을 알고 있는 게 좋거든.
+[08:18.85]
+S | Eso es bueno. ¿Y después de desayunar, qué haces antes de salir? | 그거 좋다. 그럼 아침 먹고 나서 나가기 전에 뭘 해?
+[08:26.63]
+M | Después de desayunar, me visto. No preparo mi ropa la noche anterior. | 아침 먹고 나서 옷을 입어. 전날 밤에 옷을 준비하지는 않아.
+[08:35.12]
+M | Elijo mi ropa por la mañana. | 아침에 옷을 골라.
+[08:38.93]
+M | Luego recojo mis cosas: mi portátil, mi cartera, mi móvil. | 그다음 내 물건을 챙겨. 노트북, 지갑, 휴대폰.
+[08:47.17]
+S | ¿Y a qué hora sales de casa? ¿Cómo vas al trabajo? | 그럼 몇 시에 집에서 나가? 직장엔 어떻게 가?
+[08:55.65]
+M | Salgo de casa sobre las nueve menos cuarto. Voy al trabajo en bicicleta. | 9시 15분 전쯤 집에서 나가. 자전거로 출근해.
+[09:03.73]
+M | Me gusta mucho ir en bicicleta. Es ejercicio y es bueno para el medio ambiente. | 자전거 타는 걸 아주 좋아해. 운동도 되고 환경에도 좋아.
+[09:13.69]
+S | Qué bien. Eso es muy saludable. ¿Cuánto tiempo tardas en bicicleta? | 좋다. 아주 건강하네. 자전거로 얼마나 걸려?
+[09:22.50]
+M | Tardo unos veinte minutos en llegar. Es más rápido que el autobús. | 도착하는 데 20분쯤 걸려. 버스보다 빨라.
+[09:30.33]
+M | Para mí es una buena rutina matutina. | 나한테는 좋은 아침 일과야.
+## 일하는 시간 — 프로그래머와 선생님
+[09:35.34]
+S | Ahora hablemos de nuestro día de trabajo. ¿Qué haces en el trabajo, Mateo? | 이제 우리 일하는 하루에 대해 이야기하자. 직장에서는 뭘 해, 마테오?
+[09:44.20]
+M | En el trabajo, soy programador. Llego a la oficina sobre las nueve o las diez. | 직장에서 나는 프로그래머야. 9시나 10시쯤 사무실에 도착해.
+[09:51.74]
+M | Lo primero que hago es encender mi ordenador. Reviso mis correos electrónicos. | 제일 먼저 컴퓨터를 켜. 이메일을 확인해.
+[10:02.51]
+S | Claro, es importante revisar los correos. Y luego, ¿qué tipo de cosas programas? | 그렇지, 이메일 확인은 중요하지. 그다음엔 어떤 걸 프로그래밍해?
+[10:12.76]
+M | Luego empiezo a trabajar en mis proyectos. Escribo código. | 그다음 내 프로젝트 작업을 시작해. 코드를 짜.
+[10:21.58]
+M | A veces tengo reuniones con mi equipo. Hablamos de los proyectos. | 가끔 팀과 회의를 해. 프로젝트에 대해 이야기하지.
+[10:32.78]
+M | Trabajo hasta la una y media. Y a la una y media es la hora de comer. | 1시 반까지 일해. 그리고 1시 반이 점심시간이야.
+[10:41.02]
+S | Sí, es la hora de la comida. | 응, 밥 먹을 시간이지.
+[10:43.95]
+M | Como con mis compañeros de trabajo en la cafetería de la oficina. | 회사 구내식당에서 동료들이랑 먹어.
+[10:51.11]
+M | ¿Y tú, Sofía? ¿Qué haces en el trabajo? | 너는, 소피아? 직장에서 뭘 해?
+[10:57.15]
+S | Yo soy profesora. Llego a la escuela sobre las nueve menos cuarto. | 나는 선생님이야. 9시 15분 전쯤 학교에 도착해.
+[11:05.84]
+S | Preparo mis clases. Empiezo a dar clase a las nueve en punto. | 수업을 준비해. 9시 정각에 수업을 시작해.
+[11:13.39]
+M | Qué interesante. ¿Qué asignaturas enseñas? | 흥미롭다. 무슨 과목을 가르쳐?
+[11:18.95]
+S | Enseño español a estudiantes extranjeros. Me encanta mi trabajo. | 외국인 학생들에게 스페인어를 가르쳐. 내 일이 정말 좋아.
+[11:27.69]
+S | Tengo varias clases por la mañana. | 오전에 수업이 여러 개 있어.
+[11:32.49]
+S | Hago una pausa pequeña para tomar un café a las once. | 11시에 커피 한잔하려고 잠깐 쉬어.
+[11:39.13]
+M | Una pausa para el café es importante. ¿Y cuándo comes? | 커피 타임은 중요하지. 그럼 점심은 언제 먹어?
+[11:47.68]
+S | Mi hora de comer es a las dos de la tarde. Normalmente llevo mi comida de casa. | 내 점심시간은 오후 2시야. 보통 집에서 도시락을 싸 가.
+[11:59.26]
+S | Como en la sala de profesores con mis colegas. | 교무실에서 동료들이랑 먹어.
+[12:06.57]
+M | Ah, entonces tú comes más tarde que yo. ¿Y qué haces después de comer? | 아, 그럼 너는 나보다 늦게 먹는구나. 그럼 점심 먹고 나서는 뭐 해?
+[12:15.06]
+S | Después de comer, tengo más clases. Termino de trabajar sobre las cinco de la tarde. | 점심 먹고 나서 수업이 더 있어. 오후 5시쯤 일을 마쳐.
+[12:25.02]
+S | A veces me quedo un poco más para corregir ejercicios. | 가끔은 과제를 채점하려고 조금 더 남아.
+[12:32.27]
+M | Entiendo. | 그렇구나.
+[12:33.67]
+S | Y tú, Mateo, ¿qué haces después de tu comida? ¿Terminas a la misma hora? | 너는, 마테오, 점심 먹고 나서 뭐 해? 같은 시간에 끝나?
+[12:42.96]
+M | Después de comer, vuelvo a mi trabajo. Tengo reuniones o sigo programando. | 점심 먹고 나서 다시 일해. 회의를 하거나 계속 프로그래밍을 해.
+[12:53.53]
+M | Termino de trabajar sobre las seis de la tarde. | 오후 6시쯤 일을 마쳐.
+## 퇴근 후 — 헬스장, 소파, 저녁 준비
+[12:58.74]
+S | ¿Y qué haces cuando terminas de trabajar? ¿Vas directamente a casa? | 그럼 일 끝나면 뭐 해? 바로 집에 가?
+[13:06.61]
+M | No siempre. A veces voy al gimnasio. | 항상 그렇진 않아. 가끔 헬스장에 가.
+[13:11.79]
+M | Hago ejercicio dos o tres veces por semana después del trabajo. Me gusta mantenerme en forma. | 퇴근 후에 일주일에 두세 번 운동해. 몸매를 유지하는 게 좋거든.
+[13:25.19]
+S | Eso es muy bueno. ¿Qué tipo de ejercicio haces? | 그거 아주 좋다. 어떤 운동을 해?
+[13:31.08]
+M | Corro en la cinta, levanto pesas y a veces hago clases de spinning. Me ayuda a relajarme. | 러닝머신에서 뛰고, 웨이트를 들고, 가끔 스피닝 수업을 들어. 긴장을 푸는 데 도움이 돼.
+[13:44.15]
+S | Sí, el ejercicio es un buen antiestrés. ¿Y los días que no vas al gimnasio? | 응, 운동은 좋은 스트레스 해소법이지. 그럼 헬스장에 안 가는 날은?
+[13:52.98]
+M | Los días que no voy al gimnasio, vuelvo a casa en bicicleta. Tardo veinte minutos. | 헬스장에 안 가는 날은 자전거로 집에 와. 20분 걸려.
+[14:04.72]
+M | Llego a casa sobre las seis y media o las siete. | 6시 반이나 7시쯤 집에 도착해.
+[14:08.84]
+S | Entiendo. Mi tarde es un poco diferente. | 그렇구나. 내 오후는 좀 달라.
+[14:13.47]
+S | Cuando salgo del trabajo, vuelvo a casa en autobús. Llego a casa sobre las cinco y media. | 퇴근하면 버스로 집에 와. 5시 반쯤 집에 도착해.
+[14:23.18]
+M | ¿Y qué haces al llegar a casa? ¿Descansas un poco? | 그럼 집에 도착하면 뭐 해? 좀 쉬어?
+[14:31.87]
+S | Sí, un poco. Me quito los zapatos, me pongo ropa cómoda y me siento en el sofá por unos quince minutos. | 응, 조금. 신발을 벗고, 편한 옷으로 갈아입고, 15분쯤 소파에 앉아.
+[14:46.10]
+S | Reviso mis mensajes. | 메시지를 확인해.
+[14:49.24]
+M | Es un buen momento para desconectar. ¿Y después de ese pequeño descanso? | 머리를 식히기 좋은 시간이네. 그럼 그 짧은 휴식 다음에는?
+[14:57.72]
+S | Después preparo la cena. Me gusta cocinar. | 그다음 저녁을 준비해. 요리하는 걸 좋아해.
+[15:03.40]
+S | Normalmente cocino verduras, pollo o pescado. Algo saludable. | 보통 채소나 닭고기, 생선을 요리해. 건강한 걸로.
+[15:13.44]
+M | Qué bien. ¿Cenas sola o con alguien? | 좋다. 저녁은 혼자 먹어, 누구랑 먹어?
+[15:18.61]
+S | Ceno sola entre semana. A veces llamo a mi familia mientras ceno. | 평일엔 혼자 먹어. 가끔 저녁 먹으면서 가족에게 전화해.
+[15:28.36]
+S | ¿Y tú, Mateo? ¿Quién cocina en tu casa? | 너는, 마테오? 너희 집에선 누가 요리해?
+[15:32.72]
+M | Yo cocino la mayoría de las veces. Me gusta cocinar también. | 대부분 내가 요리해. 나도 요리하는 거 좋아해.
+[15:40.32]
+M | Ceno sobre las ocho de la noche. | 저녁 8시쯤 저녁을 먹어.
+[15:43.76]
+M | A veces ceno con amigos, pero la mayoría de las noches ceno solo. | 가끔 친구들이랑 먹지만, 대부분의 밤엔 혼자 먹어.
+## 밤 일과 — 설거지, 책, 그리고 잠자리
+[15:52.12]
+S | Entiendo. ¿Y qué haces después de cenar? ¿Cómo es tu rutina nocturna? | 그렇구나. 그럼 저녁 먹고 나서는 뭐 해? 밤 일과는 어때?
+[16:01.00]
+M | Después de cenar, lavo los platos o los pongo en el lavavajillas. | 저녁 먹고 나서 설거지를 하거나 식기세척기에 넣어.
+[16:10.08]
+M | Luego me relajo en el sofá, veo una serie en la televisión o leo un libro. | 그다음 소파에서 쉬면서 TV로 드라마를 보거나 책을 읽어.
+[16:19.97]
+S | Yo hago algo parecido. Después de cenar, limpio la cocina. | 나도 비슷해. 저녁 먹고 나서 부엌을 치워.
+[16:26.88]
+S | Luego me gusta leer un poco. Leo novelas. | 그다음 책을 조금 읽는 게 좋아. 소설을 읽어.
+[16:32.69]
+M | ¿Hasta qué hora lees? ¿A qué hora te vas a la cama? | 몇 시까지 읽어? 몇 시에 잠자리에 들어?
+[16:40.37]
+S | Leo hasta las diez y media. Luego me preparo para dormir. | 10시 반까지 읽어. 그다음 잘 준비를 해.
+[16:47.22]
+S | Me lavo la cara otra vez, me cepillo los dientes y me pongo el pijama. | 다시 세수하고, 이를 닦고, 잠옷을 입어.
+[16:57.36]
+S | Me acuesto a las once. | 11시에 잠자리에 들어.
+[17:00.29]
+M | Entonces te acuestas a las once. Yo me acuesto un poco más tarde. | 그럼 너는 11시에 자는구나. 나는 조금 더 늦게 자.
+[17:10.88]
+M | Normalmente me acuesto a las once y media, o a veces a las doce. | 보통 11시 반에, 가끔은 12시에 자.
+[17:18.15]
+S | Eso es porque te levantas más tarde. | 그건 네가 더 늦게 일어나니까 그렇지.
+[17:23.93]
+S | ¿Y qué haces antes de dormir? ¿Revisas tu teléfono? | 그럼 자기 전에는 뭐 해? 휴대폰 확인해?
+[17:30.50]
+M | Sí, a veces reviso mi teléfono, pero intento no hacerlo mucho tiempo. | 응, 가끔 휴대폰을 확인하는데, 오래 하지 않으려고 해.
+[17:38.76]
+M | Prefiero leer un poco o escuchar música tranquila. Me ayuda a relajarme. | 책을 조금 읽거나 잔잔한 음악을 듣는 게 더 좋아. 긴장을 푸는 데 도움이 돼.
+[17:47.31]
+S | Sí, es mejor para dormir. | 응, 잠자는 데 그게 더 좋지.
+## 주말 — 자명종 없는 아침과 여가
+[17:50.23]
+S | Entonces, esas son nuestras rutinas de lunes a viernes. | 그러니까 이게 월요일부터 금요일까지 우리의 일과네.
+[17:57.17]
+M | ¿Y los fines de semana? ¿Cambian mucho tus hábitos? | 그럼 주말엔? 습관이 많이 바뀌어?
+[18:02.59]
+S | Oh, sí. Los fines de semana son muy diferentes. No tengo despertador. | 오, 응. 주말은 완전히 달라. 자명종이 없어.
+[18:09.44]
+S | Me levanto más tarde, a las nueve o diez de la mañana. | 더 늦게, 아침 9시나 10시에 일어나.
+[18:15.44]
+M | Qué lujo. Yo también. Los sábados y domingos me levanto a las ocho o nueve, no tan tarde como tú. | 호사네. 나도 그래. 토요일과 일요일엔 8시나 9시에 일어나. 너만큼 늦진 않아.
+[18:27.25]
+S | Los fines de semana, mi desayuno es diferente. | 주말엔 아침 식사도 달라.
+[18:33.72]
+S | A veces voy a una cafetería y tomo un brunch, o cocino tortitas en casa. Me encanta el brunch. | 가끔 카페에 가서 브런치를 먹거나, 집에서 팬케이크를 만들어. 브런치 정말 좋아해.
+[18:44.72]
+M | Yo a veces también lo hago, o preparo un desayuno más grande en casa con huevos y zumo. | 나도 가끔 그렇게 해. 아니면 집에서 달걀과 주스로 더 푸짐한 아침을 차려.
+[18:54.03]
+M | Y por la tarde, los fines de semana, salgo con mis amigos. | 그리고 주말 오후엔 친구들이랑 나가.
+[19:01.66]
+M | Vamos al parque, o vamos al cine, o visitamos un museo. | 공원에 가거나, 영화관에 가거나, 박물관에 가.
+[19:09.18]
+S | Sí, los fines de semana son para el ocio. | 응, 주말은 여가를 위한 거지.
+[19:14.86]
+S | Yo visito a mi familia, o voy de compras, o hago excursiones a la montaña. | 나는 가족을 만나러 가거나, 쇼핑을 하거나, 산으로 하이킹을 가.
+[19:24.35]
+M | Es genial tener tiempo libre. | 자유 시간이 있다는 건 정말 좋아.
+[19:28.24]
+M | Y por la noche, los sábados, a veces salgo a cenar o voy a un concierto. | 그리고 토요일 밤엔 가끔 저녁을 먹으러 나가거나 콘서트에 가.
+[19:37.72]
+S | Yo también. O ceno con amigos en casa. | 나도. 아니면 집에서 친구들이랑 저녁을 먹어.
+[19:43.07]
+S | Y me acuesto más tarde los fines de semana, a la una o las dos de la mañana. | 그리고 주말엔 새벽 1시나 2시에, 더 늦게 자.
+[19:53.56]
+M | Yo también me acuesto más tarde, pero siempre intento dormir lo suficiente. | 나도 더 늦게 자지만, 항상 충분히 자려고 해.
+[20:01.43]
+M | Es importante para la salud. | 건강에 중요하니까.
+[20:04.28]
+S | Absolutamente. Dormir es muy importante. | 당연하지. 잠은 정말 중요해.
+## 마무리 — 현재형 동사로 내 일과 말하기
+[20:10.06]
+S | Mateo, esta conversación ha sido muy útil para nuestros oyentes. | 마테오, 이번 대화는 청취자분들께 아주 유용했을 거야.
+[20:18.42]
+M | Sí, Sofía. Hemos usado muchos verbos en presente y hemos hablado de actividades diarias. | 응, 소피아. 현재형 동사를 많이 썼고 일상 활동에 대해 이야기했지.
+[20:27.99]
+S | Espero que les haya gustado. | 마음에 드셨길 바라요.
+[20:30.84]
+M | Esperamos que sí. Practiquen estas frases y hablen de sus propias rutinas. | 그랬길 바라요. 이 문장들을 연습하고 여러분 자신의 일과에 대해 말해 보세요.
+[20:38.47]
+M | Es la mejor forma de aprender. | 그게 가장 좋은 공부 방법이에요.
+[20:41.53]
+S | Muchas gracias por escucharnos. Nos vemos en el próximo episodio de Easy Spanish Podcast. | 들어 주셔서 정말 고마워요. 이지 스패니시 팟캐스트 다음 에피소드에서 만나요.
+[20:51.51]
+M | Hasta la próxima, amigos. Adiós. | 다음에 또 만나요, 여러분. 안녕.
