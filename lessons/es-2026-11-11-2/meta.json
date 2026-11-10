@@ -1,0 +1,753 @@
+{
+ "lang": "es",
+ "date": "2026-11-11",
+ "title": "초급 스페인어 회화 — 30과 대화문 모음",
+ "es": "¿Comemos juntos?",
+ "emoji": "💬",
+ "level": "A1–B1",
+ "channel": "초급 스페인어 (사용자 제공 녹음)",
+ "videoTitle": "초급 스페인어 · 1–30과 회화(会話) 대화문",
+ "audio": "audio.m4a",
+ "duration": "24:56",
+ "speakers": {
+  "M": "Makoto",
+  "C": "Carmen",
+  "T": "Tanaka",
+  "G": "García",
+  "E": "Elena",
+  "O": "Tomás",
+  "R": "Rodríguez",
+  "W": "종업원",
+  "K": "남자 손님",
+  "F": "여자 손님",
+  "P": "행인",
+  "S": "학원 직원",
+  "L": "집주인"
+ },
+ "hideCast": true,
+ "summary": "일본어 해설이 들어간 93분짜리 '초급 스페인어' 녹음에서 문형·예문·연습은 빼고, 두 사람이 주고받는 회화(会話)만 30과 모두 뽑아 25분으로 모았어요. 스페인 유학생 마코토와 친구 카르멘, 멕시코 지사장 다나카 씨와 비서 가르시아 씨가 주인공이에요. 카페 주문·자기소개·길 묻기에서 시작해 과거·완료·미래 시제를 거쳐 접속법과 si 가정문까지, 과가 올라갈수록 문법이 한 단계씩 어려워져요. (1·6·11과에는 종업원·점원이 잠깐 끼어들어요.)",
+ "topics": [
+  "1–6과 카페 주문 · 자기소개 · 새 사무실 · 길 묻기 · 어학원 · 점심 약속 (ser/estar, hay, 현재형)",
+  "7–12과 테니스 약속 · 가족 방문 · 출장 예약 · 생일 선물 · 쇼핑 · 내일 일정 (tener que, ir a, 목적격 대명사, 비교, 재귀동사)",
+  "13–16과 출장 이야기 · 방학 · 고향 마을 · 게르니카 (단순과거, 불완료과거, 현재완료)",
+  "17–20과 멕시코에 오기 전 · 은행장의 딸 · 헤밍웨이 · 오하나미 (과거완료, 관계사, 진행형)",
+  "21–24과 시험 · 아파트 · 전화 · 선거 (미래, 조건, 미래완료, 접속법 현재)",
+  "25–30과 파티 · 결혼 · 지각 · 동화 · 토르티야 · 공항 마중 (접속법, 명령형, si 가정문)"
+ ],
+ "grammar": [
+  {
+   "title": "① ser와 estar — '이다'와 '있다·상태'",
+   "lead": "<b>ser</b>는 정체·국적·직업·성격, <b>estar</b>는 위치와 지금의 상태. 둘 다 '~이다'로 옮겨지지만 쓰임이 달라요.",
+   "table": {
+    "head": [
+     "",
+     "ser",
+     "estar"
+    ],
+    "rows": [
+     [
+      "정체·직업",
+      "Soy estudiante. (2과)",
+      "—"
+     ],
+     [
+      "국적·출신",
+      "Soy española. Soy de Madrid. (2과)",
+      "—"
+     ],
+     [
+      "성격·특징",
+      "Es muy simpático y alegre. (2과)",
+      "—"
+     ],
+     [
+      "위치",
+      "—",
+      "¿Dónde está la fotocopiadora? (3과)"
+     ],
+     [
+      "상태·기분",
+      "—",
+      "Mi coche ya está viejo. (11과) / ¡Qué cansada estoy! (21과)"
+     ]
+    ]
+   },
+   "tip": "Aún ahora es muy tranquilo(본래 조용한 마을) ↔ está muy cambiado(지금 많이 변한 상태) — 15과에서 한 문장 안에 둘이 같이 나와요."
+  },
+  {
+   "title": "② hay · tener que · hay que — 있다 / ~해야 한다",
+   "lead": "<b>hay</b>는 '(어딘가에) ~가 있다'(형태 하나뿐). <b>tener que</b> + 동사원형은 '(주어가) ~해야 한다', <b>hay que</b> + 동사원형은 '(누구나) ~해야 한다'.",
+   "examples": [
+    [
+     "Hay unos tres kilómetros.",
+     "3킬로미터쯤 돼요. (4과)"
+    ],
+    [
+     "Pero hay que cambiar de línea.",
+     "하지만 노선을 갈아타야 해요. (4과)"
+    ],
+    [
+     "Usted tiene que preparar un buen plan para ellos.",
+     "가족을 위해 계획을 잘 세우셔야겠네요. (8과)"
+    ],
+    [
+     "Para levantarme a las siete, tengo que acostarme a las once.",
+     "7시에 일어나려면 11시에 자야 해요. (12과)"
+    ]
+   ],
+   "tip": "정해진 것은 estar: El museo está lejos. / 존재 여부는 hay: ¿Hay una oficina de correos por aquí?"
+  },
+  {
+   "title": "③ 목적격 대명사 두 개 — se la, te la",
+   "lead": "간접목적(~에게) + 직접목적(~을) 순서. 간접목적 <b>le/les</b>는 lo·la 앞에서 <b>se</b>로 바뀌어요. 동사원형 뒤에 붙이면 강세 표시가 생겨요.",
+   "examples": [
+    [
+     "Voy a comprársela. (= comprar + se + la)",
+     "그녀에게(se) 그것을(la) 사 줄 거야. (10과)"
+    ],
+    [
+     "Voy a regalártela el día de tu cumpleaños.",
+     "네 생일에 너에게(te) 그것을(la) 선물할게. (10과)"
+    ],
+    [
+     "¿Y su madre se los cosió?",
+     "어머니가 (당신에게) 그것들을 만들어 주셨어요? (28과)"
+    ],
+    [
+     "No, no se las entregues.",
+     "아니, 그녀에게 그것들을 주지 마. (29과 예문)"
+    ]
+   ],
+   "tip": "le compro una cartera → se la compro. 'le la'는 절대 안 돼요."
+  },
+  {
+   "title": "④ 비교 — más… que, tan… como, el más…",
+   "lead": "우월 <b>más + 형용사 + que</b>, 동등 <b>tan + 형용사 + como</b>, 최상 <b>el/la más + 형용사</b>.",
+   "examples": [
+    [
+     "Este es más barato.",
+     "이건 더 싸요. (11과)"
+    ],
+    [
+     "Pero no es tan bueno como ese.",
+     "하지만 그것만큼 좋지는 않아요. (11과)"
+    ],
+    [
+     "Es mucho más bonito.",
+     "훨씬 더 예뻐요. (11과, mucho = 훨씬)"
+    ],
+    [
+     "No siempre el más caro es el mejor.",
+     "제일 비싼 게 늘 제일 좋은 건 아니에요. (bueno의 최상급 = el mejor)"
+    ]
+   ],
+   "tip": "me gusta / me gustan, me parece… 처럼 gustar류 동사는 '좋아하는 대상'이 주어예요: Este me gusta mucho."
+  },
+  {
+   "title": "⑤ 과거 두 가지 — 단순과거(완료) vs 불완료과거(배경·습관)",
+   "lead": "한 번 일어나고 끝난 일은 <b>단순과거</b>(volví, visité, trabajé), 과거의 배경·습관·상태는 <b>불완료과거</b>(vivía, era, jugaba).",
+   "table": {
+    "head": [
+     "단순과거 (13·14과)",
+     "불완료과거 (15과)"
+    ],
+    "rows": [
+     [
+      "Anoche vine de Barcelona en el AVE.",
+      "Aquí vivía yo cuando era pequeña."
+     ],
+     [
+      "Estuve seis días.",
+      "En aquel tiempo la vida era tranquila."
+     ],
+     [
+      "El señor Rodríguez me recibió en el aeropuerto.",
+      "Jugaba al fútbol los sábados por la mañana."
+     ],
+     [
+      "Cuando tenía catorce años nos trasladamos a Madrid. ← 둘이 함께",
+      "(tenía = 배경, nos trasladamos = 사건)"
+     ]
+    ]
+   },
+   "tip": "hace + 기간: hace dos años lo nombraron(2년 전에 임명됐다) / hace catorce años que trabaja(일한 지 14년 됐다)."
+  },
+  {
+   "title": "⑥ 완료 시제 — he ido / había estudiado / habrá llegado",
+   "lead": "<b>haber + 과거분사</b>. 현재완료(he ido)는 '지금까지', 과거완료(había…)는 '그때보다 이전에', 미래완료(habrá…)는 '그때까지는 / 아마 ~했을 것'.",
+   "examples": [
+    [
+     "¿Has ido al Centro de Arte Reina Sofía? — No, aún no he ido.",
+     "레이나 소피아 미술관 가 봤어? — 아직 안 가 봤어. (16과)"
+    ],
+    [
+     "Ya había estudiado español seis meses.",
+     "(멕시코에 오기 전에) 이미 6개월 공부했었어요. (17과)"
+    ],
+    [
+     "Ya habrá llegado a Panamá.",
+     "지금쯤 파나마에 도착했을 거예요. (23과, 추측)"
+    ],
+    [
+     "Habrá vuelto a México para el martes.",
+     "화요일까지는 멕시코에 돌아와 있을 거예요. (23과)"
+    ]
+   ],
+   "tip": "수동태 ser + 과거분사: Fue bombardeado en 1937. / Fue pintado por Picasso."
+  },
+  {
+   "title": "⑦ 미래와 조건 — será, aprobaré / traerían, podría",
+   "lead": "미래형은 동사원형 + <b>-é, -ás, -á…</b>, 조건형은 동사원형 + <b>-ía, -ías, -ía…</b>. 조건형은 공손한 부탁과 '과거에서 본 미래'에도 써요.",
+   "examples": [
+    [
+     "Sabré el resultado la semana que viene.",
+     "결과는 다음 주에 알게 될 거야. (21과, saber → sabré)"
+    ],
+    [
+     "Creo que lo aprobaré sin problema.",
+     "문제없이 붙을 것 같아. (21과)"
+    ],
+    [
+     "¿Podría venir otra vez con mi señora?",
+     "아내와 한 번 더 와도 될까요? (22과, 공손)"
+    ],
+    [
+     "Me dijeron que las traerían pasado mañana.",
+     "모레 가져다준다고 했어요. (22과, 과거에서 본 미래)"
+    ],
+    [
+     "También estarán fatigados mis compañeros.",
+     "친구들도 지쳤을 거야. (21과, 현재 추측)"
+    ]
+   ],
+   "tip": "불규칙 어간: tener → tendr-, venir → vendr-, poder → podr-, saber → sabr-, hacer → har-."
+  },
+  {
+   "title": "⑧ 접속법 — 바람·감정·의심·목적 뒤에서",
+   "lead": "주절이 바람(esperar, desear), 감정(sentir), 부정·의심(no creer), 목적(para que)일 때 que 뒤 동사는 <b>접속법</b>. 주절이 과거면 접속법 과거(-ra)를 써요.",
+   "examples": [
+    [
+     "Esperamos que gane Antonio Cano.",
+     "안토니오 카노가 이기길 바라요. (24과)"
+    ],
+    [
+     "No creo que venga Mario.",
+     "마리오는 안 올 것 같아. (25과)"
+    ],
+    [
+     "Quien llegue el último tendrá que lavar platos.",
+     "제일 늦게 오는 사람은 설거지해야 해. (25과, 아직 모르는 사람)"
+    ],
+    [
+     "Podrán casarse con tal que Miguel tenga un empleo fijo.",
+     "미겔이 정규직을 구한다면 결혼할 수 있겠지. (26과)"
+    ],
+    [
+     "No nos dejó salir hasta que termináramos todos los ejercicios.",
+     "연습 문제를 다 풀 때까지 못 나가게 했어. (27과, 과거)"
+    ],
+    [
+     "Me decepcionó mucho que no hubiera podido conseguírmelo.",
+     "구해 주지 못하셔서 무척 실망했어요. (28과, 접속법 과거완료)"
+    ]
+   ],
+   "tip": "si 가정문: Si no me hubiera ayudado tanto, habría tenido mucha dificultad. (30과) — 과거 사실의 반대. 명령형은 29과: pon, echa, ten cuidado, dale la vuelta."
+  }
+ ],
+ "phrases": [
+  [
+   "¡Cuánto tiempo sin verte!",
+   "정말 오랜만이다! (14과)"
+  ],
+  [
+   "Mucho gusto. / Encantada.",
+   "만나서 반가워요. (2·3과, 여자는 encantada)"
+  ],
+  [
+   "Perdón, señora, estoy perdido.",
+   "실례합니다, 길을 잃었어요. (4과)"
+  ],
+  [
+   "Muchas gracias, muy amable.",
+   "정말 고맙습니다, 친절하시네요. (4과)"
+  ],
+  [
+   "Sí, ¿cómo no?",
+   "네, 물론이죠. (9과)"
+  ],
+  [
+   "Usted tiene razón.",
+   "맞는 말씀이에요. (8과)"
+  ],
+  [
+   "¿De parte de quién?",
+   "(전화) 누구시라고 전해 드릴까요? (23과)"
+  ],
+  [
+   "¡Qué optimista eres!",
+   "넌 정말 낙천적이구나! (21과)"
+  ],
+  [
+   "Ten cuidado, que está muy caliente.",
+   "조심해, 아주 뜨거우니까. (29과)"
+  ],
+  [
+   "Ojalá así sea.",
+   "그러면 좋겠다. (26과)"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "un chocolate con leche",
+   "ko": "우유 넣은 핫초코",
+   "ex": "Un chocolate, por favor.",
+   "exKo": "핫초코 하나 주세요."
+  },
+  {
+   "es": "en seguida",
+   "ko": "곧, 금방",
+   "ex": "Muy bien, señores. En seguida.",
+   "exKo": "알겠습니다. 곧 가져다 드릴게요."
+  },
+  {
+   "es": "el compañero / la compañera de clase",
+   "ko": "반 친구",
+   "ex": "Son compañeros de la clase.",
+   "exKo": "같은 반 친구들이에요."
+  },
+  {
+   "es": "severo/a",
+   "ko": "엄한",
+   "ex": "¿Es severo el profesor Moreno?",
+   "exKo": "모레노 선생님은 엄하셔?"
+  },
+  {
+   "es": "el escritorio",
+   "ko": "책상",
+   "ex": "Este es su escritorio.",
+   "exKo": "이게 당신 책상이에요."
+  },
+  {
+   "es": "la computadora portátil",
+   "ko": "노트북 (스페인: el ordenador portátil)",
+   "ex": "Es su computadora portátil.",
+   "exKo": "당신 노트북이에요."
+  },
+  {
+   "es": "la fotocopiadora",
+   "ko": "복사기",
+   "ex": "¿Dónde está la fotocopiadora?",
+   "exKo": "복사기는 어디 있어요?"
+  },
+  {
+   "es": "estar perdido/a",
+   "ko": "길을 잃다",
+   "ex": "Perdón, señora, estoy perdido.",
+   "exKo": "실례합니다, 길을 잃었어요."
+  },
+  {
+   "es": "la parada del autobús",
+   "ko": "버스 정류장",
+   "ex": "La parada del autobús está en la esquina.",
+   "exKo": "버스 정류장은 모퉁이에 있어요."
+  },
+  {
+   "es": "cambiar de línea",
+   "ko": "(지하철) 노선을 갈아타다",
+   "ex": "Hay que cambiar de línea.",
+   "exKo": "노선을 갈아타야 해요."
+  },
+  {
+   "es": "la oficina de correos",
+   "ko": "우체국",
+   "ex": "¿Hay una oficina de correos por aquí?",
+   "exKo": "이 근처에 우체국 있어요?"
+  },
+  {
+   "es": "perfeccionar",
+   "ko": "완벽하게 다듬다",
+   "ex": "Necesito perfeccionar el español.",
+   "exKo": "스페인어를 더 다듬어야 해요."
+  },
+  {
+   "es": "la casa de comercio",
+   "ko": "무역 회사, 상사",
+   "ex": "Trabajo en una casa de comercio.",
+   "exKo": "무역 회사에서 일해요."
+  },
+  {
+   "es": "el folleto",
+   "ko": "안내 책자",
+   "ex": "Este es el folleto del curso.",
+   "exKo": "이게 강좌 안내서예요."
+  },
+  {
+   "es": "los palillos",
+   "ko": "젓가락",
+   "ex": "Comemos con palillos.",
+   "exKo": "젓가락으로 먹어요."
+  },
+  {
+   "es": "la cancha de tenis",
+   "ko": "테니스장",
+   "ex": "En la cancha de tenis de la universidad.",
+   "exKo": "대학교 테니스장에서."
+  },
+  {
+   "es": "avisar",
+   "ko": "알리다",
+   "ex": "¿Puedes avisar a Takashi?",
+   "exKo": "다카시한테 알려 줄 수 있어?"
+  },
+  {
+   "es": "tener ganas de + 동사원형",
+   "ko": "~하고 싶다",
+   "ex": "Mi hija tiene muchas ganas de visitar Cancún.",
+   "exKo": "딸은 칸쿤에 정말 가 보고 싶어 해요."
+  },
+  {
+   "es": "las ruinas arqueológicas",
+   "ko": "유적지",
+   "ex": "Tiene interés en visitar ruinas arqueológicas.",
+   "exKo": "유적지 방문에 관심이 있어요."
+  },
+  {
+   "es": "la cita",
+   "ko": "약속, 예약",
+   "ex": "Mañana tengo una cita con el señor Rodríguez.",
+   "exKo": "내일 로드리게스 씨와 약속이 있어요."
+  },
+  {
+   "es": "tardar (+ 시간)",
+   "ko": "(시간이) 걸리다",
+   "ex": "Tarda una hora y media.",
+   "exKo": "1시간 반 걸려요."
+  },
+  {
+   "es": "la agencia de viajes",
+   "ko": "여행사",
+   "ex": "Voy a llamar a la agencia de viajes.",
+   "exKo": "여행사에 전화할게요."
+  },
+  {
+   "es": "la cartera",
+   "ko": "지갑",
+   "ex": "¿Qué tal esta cartera azul?",
+   "exKo": "이 파란 지갑 어때?"
+  },
+  {
+   "es": "gracioso/a",
+   "ko": "귀여운, 재미있는",
+   "ex": "Sí, es graciosa.",
+   "exKo": "응, 귀엽다."
+  },
+  {
+   "es": "una tontería",
+   "ko": "어리석은 일",
+   "ex": "Me parece una tontería gastar tanto dinero.",
+   "exKo": "그렇게 많은 돈을 쓰는 건 어리석은 것 같아."
+  },
+  {
+   "es": "acostarse / levantarse",
+   "ko": "자다 / 일어나다",
+   "ex": "Tengo que acostarme a las once.",
+   "exKo": "11시에 자야 해요."
+  },
+  {
+   "es": "el despertador",
+   "ko": "자명종",
+   "ex": "Pongo el despertador para las siete menos cinco.",
+   "exKo": "자명종은 6시 55분에 맞춰 둬요."
+  },
+  {
+   "es": "ordenado/a",
+   "ko": "규칙적인, 정돈된",
+   "ex": "Eres muy ordenado.",
+   "exKo": "넌 참 규칙적이구나."
+  },
+  {
+   "es": "atrasado/a",
+   "ko": "늦은, 지연된",
+   "ex": "El avión salió una hora atrasado.",
+   "exKo": "비행기가 한 시간 늦게 출발했어요."
+  },
+  {
+   "es": "fundarse",
+   "ko": "설립되다",
+   "ex": "Se fundó en 1920.",
+   "exKo": "1920년에 설립됐어요."
+  },
+  {
+   "es": "la sucursal",
+   "ko": "지점",
+   "ex": "Es gerente de la sucursal de Monterrey.",
+   "exKo": "몬테레이 지점장이에요."
+  },
+  {
+   "es": "el recuerdo",
+   "ko": "기념품; 추억",
+   "ex": "¿Compraste algún recuerdo de Barcelona?",
+   "exKo": "바르셀로나 기념품 샀어?"
+  },
+  {
+   "es": "ganar dinero",
+   "ko": "돈을 벌다",
+   "ex": "Trabajé para ganar dinero.",
+   "exKo": "돈 벌려고 일했어."
+  },
+  {
+   "es": "trasladarse",
+   "ko": "이사하다, 옮기다",
+   "ex": "Nos trasladamos a Madrid.",
+   "exKo": "우리는 마드리드로 이사했어요."
+  },
+  {
+   "es": "bombardear",
+   "ko": "폭격하다",
+   "ex": "Fue bombardeado en 1937.",
+   "exKo": "1937년에 폭격을 당했어요."
+  },
+  {
+   "es": "dominar",
+   "ko": "(언어를) 완벽히 구사하다",
+   "ex": "Usted ya casi domina el español.",
+   "exKo": "이제 스페인어를 거의 완벽하게 하시네요."
+  },
+  {
+   "es": "familiarizarse con",
+   "ko": "~에 익숙해지다",
+   "ex": "Ya se había familiarizado con México.",
+   "exKo": "이미 멕시코에 익숙해져 있었네요."
+  },
+  {
+   "es": "hospedarse",
+   "ko": "묵다",
+   "ex": "¿Dónde se hospedaba?",
+   "exKo": "어디에 묵었어요?"
+  },
+  {
+   "es": "los cerezos / florecer",
+   "ko": "벚나무 / 꽃이 피다",
+   "ex": "Cuando florecen los cerezos…",
+   "exKo": "벚꽃이 필 때…"
+  },
+  {
+   "es": "aprobar (o→ue)",
+   "ko": "(시험에) 합격하다",
+   "ex": "¿Aprobarás el examen?",
+   "exKo": "시험 붙을 것 같아?"
+  },
+  {
+   "es": "el contrato de alquiler",
+   "ko": "임대 계약서",
+   "ex": "Antes de firmar el contrato de alquiler.",
+   "exKo": "임대 계약서에 서명하기 전에."
+  },
+  {
+   "es": "dejar un recado",
+   "ko": "메시지를 남기다",
+   "ex": "¿Quiere usted dejar algún recado?",
+   "exKo": "메시지 남기시겠어요?"
+  },
+  {
+   "es": "¿Me comunica con…?",
+   "ko": "(전화) ~를 바꿔 주시겠어요?",
+   "ex": "¿Me comunica con el señor Tanaka?",
+   "exKo": "다나카 씨 좀 바꿔 주시겠어요?"
+  },
+  {
+   "es": "las elecciones",
+   "ko": "선거",
+   "ex": "El mes próximo habrá elecciones presidenciales.",
+   "exKo": "다음 달에 대통령 선거가 있어요."
+  },
+  {
+   "es": "impuntual",
+   "ko": "시간을 안 지키는",
+   "ex": "¡Qué impuntuales son!",
+   "exKo": "정말 시간을 안 지키네!"
+  },
+  {
+   "es": "el noviazgo",
+   "ko": "연애 (기간)",
+   "ex": "Llevan mucho tiempo de noviazgo.",
+   "exKo": "사귄 지 꽤 오래됐어요."
+  },
+  {
+   "es": "un empleo fijo / temporal",
+   "ko": "정규직 / 임시직",
+   "ex": "Miguel solo tiene un trabajo temporal.",
+   "exKo": "미겔은 임시직뿐이에요."
+  },
+  {
+   "es": "enfadarse / enojarse",
+   "ko": "화내다 (enojarse는 중남미에서 흔함)",
+   "ex": "Se enfadó mucho el profesor.",
+   "exKo": "선생님이 엄청 화를 내셨어."
+  },
+  {
+   "es": "la tardanza",
+   "ko": "늦음, 지각",
+   "ex": "¿Ya no estás enojado por mi tardanza?",
+   "exKo": "내가 늦은 거 이제 화 안 났어?"
+  },
+  {
+   "es": "la sartén",
+   "ko": "프라이팬",
+   "ex": "Primero, pon la sartén al fuego.",
+   "exKo": "먼저 프라이팬을 불에 올려."
+  },
+  {
+   "es": "batir huevos",
+   "ko": "달걀을 풀다",
+   "ex": "Estoy batiendo huevos.",
+   "exKo": "달걀 풀고 있어."
+  },
+  {
+   "es": "dar la vuelta",
+   "ko": "뒤집다",
+   "ex": "Dale la vuelta a la tortilla.",
+   "exKo": "토르티야를 뒤집어."
+  },
+  {
+   "es": "tener confianza en",
+   "ko": "~를 믿다",
+   "ex": "Tengo mucha confianza en él.",
+   "exKo": "저는 그분을 아주 믿어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Carmen es de Madrid. ¿Cómo lo dice ella? (2과)",
+   "options": [
+    "Estoy española.",
+    "Soy española.",
+    "Hay española.",
+    "Tengo española."
+   ],
+   "answer": 1,
+   "explain": "국적·출신은 ser: Soy española. Soy de Madrid."
+  },
+  {
+   "q": "El señor Tanaka busca la fotocopiadora: «¿Dónde ___ la fotocopiadora?» (3과)",
+   "options": [
+    "es",
+    "hay",
+    "está",
+    "tiene"
+   ],
+   "answer": 2,
+   "explain": "위치는 estar: ¿Dónde está…?"
+  },
+  {
+   "q": "«Pero ___ cambiar de línea.» — 누구든 노선을 갈아타야 한다는 뜻 (4과)",
+   "options": [
+    "hay que",
+    "tiene",
+    "está",
+    "hay"
+   ],
+   "answer": 0,
+   "explain": "일반적인 의무는 hay que + 동사원형."
+  },
+  {
+   "q": "¿Cuánto tarda el avión de la Ciudad de México a Monterrey? (9과)",
+   "options": [
+    "Treinta minutos",
+    "Una hora",
+    "Una hora y media",
+    "Dos horas"
+   ],
+   "answer": 2,
+   "explain": "Tarda una hora y media, y llega a Monterrey a las dos."
+  },
+  {
+   "q": "«Voy a comprár___» — 여동생에게(le) 지갑을(la) 사 주다 (10과)",
+   "options": [
+    "lela",
+    "sela",
+    "lasa",
+    "tela"
+   ],
+   "answer": 1,
+   "explain": "le + la → se la: comprársela."
+  },
+  {
+   "q": "«Este es más barato, pero no es ___ bueno ___ ese.» (11과)",
+   "options": [
+    "más / que",
+    "tan / como",
+    "tan / que",
+    "muy / como"
+   ],
+   "answer": 1,
+   "explain": "동등 비교 tan + 형용사 + como."
+  },
+  {
+   "q": "¿A qué hora pone Makoto el despertador? (12과)",
+   "options": [
+    "A las siete",
+    "A las siete menos cinco",
+    "A las ocho y cuarto",
+    "A las once"
+   ],
+   "answer": 1,
+   "explain": "Pongo el despertador para las siete menos cinco (6시 55분)."
+  },
+  {
+   "q": "«Aquí ___ yo cuando ___ pequeña.» (15과, 과거의 배경)",
+   "options": [
+    "viví / fui",
+    "vivía / era",
+    "he vivido / he sido",
+    "viviré / seré"
+   ],
+   "answer": 1,
+   "explain": "과거의 배경·상태는 불완료과거: vivía, era."
+  },
+  {
+   "q": "¿Qué significa «Guernica»? (16과)",
+   "options": [
+    "Un museo de Madrid",
+    "El nombre de un pueblo vasco",
+    "Un pintor español",
+    "Una guerra"
+   ],
+   "answer": 1,
+   "explain": "Es el nombre de un pueblo vasco. Fue bombardeado en 1937."
+  },
+  {
+   "q": "El señor Tanaka está en Panamá desde esta mañana. La señora García piensa: «Ya ___ a Panamá.» (23과)",
+   "options": [
+    "llegará",
+    "habrá llegado",
+    "llegaba",
+    "llegue"
+   ],
+   "answer": 1,
+   "explain": "현재 완료된 일을 추측할 때 미래완료: habrá llegado."
+  },
+  {
+   "q": "«No creo que Mario ___.» (25과)",
+   "options": [
+    "viene",
+    "vendrá",
+    "venga",
+    "vino"
+   ],
+   "answer": 2,
+   "explain": "no creer que 뒤에는 접속법: venga."
+  },
+  {
+   "q": "«Si no me ___ ayudado tanto, habría tenido mucha dificultad.» (30과)",
+   "options": [
+    "ha",
+    "había",
+    "hubiera",
+    "habría"
+   ],
+   "answer": 2,
+   "explain": "과거 사실의 반대 가정: si + 접속법 과거완료(hubiera ayudado), 주절은 조건완료(habría tenido)."
+  }
+ ]
+}

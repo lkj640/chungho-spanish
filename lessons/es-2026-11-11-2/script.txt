@@ -1,0 +1,966 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 원본: 사용자 제공 '초급 스페인어' 녹음(일본어 해설 교재, 30과, 약 93분)에서 각 과의 회화(会話) 부분만 잘라 이어 붙였어요. 화자는 대화 내용과 목소리 높낮이로 나눴어요.
+# 시각은 Whisper 단어 시각 기준이에요. 받아쓰기 오류(asento→acento, cosidas→cocidas, vivisteis 등)는 바로잡았어요.
+END 24:56
+
+
+[00:00.00]
+## 1과 · Un café, por favor — 카페에서 주문하기
+W | Buenos días, señor. | 안녕하세요(아침 인사), 손님.
+[00:02.82]
+K | Buenos días, señorita. | 안녕하세요.
+[00:04.76]
+K | Un chocolate, por favor. | 핫초코 하나 주세요.
+[00:07.04]
+W | ¿Chocolate con leche? | 우유 넣은 초콜릿으로요?
+[00:08.98]
+K | Sí, por favor. | 네, 그렇게 주세요.
+[00:10.84]
+W | ¿Unos churros, señor? | 추로스도 드릴까요, 손님?
+[00:12.82]
+K | Ah, sí. Unos churros también, por favor. | 아, 네. 추로스도 주세요.
+[00:18.20]
+W | Buenas noches, señores. | 안녕하세요(저녁 인사), 손님들.
+[00:20.42]
+F | Buenas noches. | 안녕하세요.
+[00:22.24]
+F | Una copa de vino, por favor. | 와인 한 잔 주세요.
+[00:24.48]
+W | Muy bien, señorita. | 알겠습니다, 아가씨.
+[00:26.34]
+W | ¿Y usted, señor? | 선생님은요?
+[00:28.02]
+K | Una cerveza, por favor. | 맥주 한 잔 주세요.
+[00:30.28]
+W | ¿Y unas tapas, señores? | 타파스도 좀 드릴까요?
+[00:32.68]
+F | No, gracias. | 아니요, 괜찮아요.
+[00:34.48]
+W | Muy bien, señores. En seguida. | 알겠습니다. 곧 가져다 드릴게요.
+[00:39.80]
+## 2과 · Yo soy Makoto Tanaka — 처음 만난 친구와 자기소개
+C | Hola, soy Carmen López. ¿Y tú? | 안녕, 나는 카르멘 로페스야. 너는?
+[00:44.54]
+M | Yo soy Makoto Tanaka. | 나는 다나카 마코토야.
+[00:46.58]
+M | Mucho gusto. | 만나서 반가워.
+[00:47.94]
+C | Encantada. | 반가워.
+[00:49.58]
+C | Soy estudiante. ¿Y tú? | 나는 학생이야. 너는?
+[00:52.66]
+C | ¿También eres estudiante? | 너도 학생이니?
+[00:55.12]
+M | Sí, soy estudiante. | 응, 나도 학생이야.
+[00:57.54]
+M | ¿Quién es él? | 저 사람은 누구야?
+[00:59.24]
+C | Es el profesor Moreno. | 모레노 선생님이야.
+[01:01.64]
+C | Es profesor de español. | 스페인어 선생님이셔.
+[01:04.00]
+M | ¿Es severo el profesor Moreno? | 모레노 선생님은 엄하셔?
+[01:06.40]
+C | No, es muy simpático y alegre. | 아니, 아주 친절하고 쾌활하셔.
+[01:10.12]
+C | La profesora de inglés es de Inglaterra y es severa. | 영어 선생님은 영국 분이신데 엄하셔.
+[01:14.58]
+M | ¿Quiénes son ellos? | 저 사람들은 누구야?
+[01:16.34]
+C | Son José y María. | 호세랑 마리아야.
+[01:18.18]
+C | Son compañeros de la clase. | 같은 반 친구들이야.
+[01:21.48]
+C | ¿Eres chino? | 너 중국 사람이야?
+[01:22.92]
+M | No, soy japonés. | 아니, 일본 사람이야.
+[01:25.24]
+M | Soy de Tokio. | 도쿄 출신이야.
+[01:26.74]
+M | ¿De dónde eres? | 너는 어디 출신이야?
+[01:28.52]
+C | Soy española. | 나는 스페인 사람이야.
+[01:30.14]
+C | Soy de Madrid. | 마드리드 출신이야.
+[01:33.13]
+## 3과 · Estoy en casa — 새 사무실 첫날
+T | Buenos días. | 안녕하세요.
+[01:35.44]
+T | Yo soy Ichiro Tanaka, el nuevo director. | 저는 새로 온 지사장 다나카 이치로입니다.
+[01:38.92]
+T | ¿Usted es...? | 당신은…?
+[01:40.16]
+G | Soy María García. | 저는 마리아 가르시아예요.
+[01:42.08]
+G | Soy su secretaria. | 지사장님 비서입니다.
+[01:43.86]
+G | Encantada. | 반갑습니다.
+[01:45.12]
+T | Mucho gusto. | 반갑습니다.
+[01:46.50]
+G | Este es su escritorio. | 이게 지사장님 책상이에요.
+[01:48.08]
+G | Aquí está su computadora. | 여기 컴퓨터가 있고요.
+[01:51.28]
+T | ¿Qué es esto? | 이건 뭐죠?
+[01:52.96]
+G | Es su computadora portátil. | 지사장님 노트북이에요.
+[01:55.38]
+G | Es nueva y muy ligera. | 새것이고 아주 가벼워요.
+[01:57.42]
+T | Muy bien. | 좋네요.
+[01:58.54]
+T | ¿Dónde está la fotocopiadora? | 복사기는 어디 있어요?
+[02:00.84]
+G | Está en mi oficina. | 제 사무실에 있어요.
+[02:03.12]
+T | Y estos papeles, ¿qué son? | 그리고 이 서류들은 뭐예요?
+[02:05.90]
+G | Son un informe del proyecto, unas cartas de clientes, una revista comercial... | 프로젝트 보고서, 고객들이 보낸 편지 몇 통, 경제 잡지…
+[02:12.98]
+T | ¡Ah, mucha tarea! | 아, 할 일이 많네요!
+[02:15.93]
+## 4과 · Hay una cafetería cerca de la estación — 길 묻기 (프라도 미술관 가는 법)
+M | Perdón, señora, estoy perdido. | 실례합니다, 아주머니. 길을 잃었어요.
+[02:19.58]
+M | ¿Dónde estamos? | 여기가 어디예요?
+[02:21.24]
+P | Estamos en la calle Mayor. | 여기는 마요르 거리예요.
+[02:24.20]
+P | Estamos cerca de la Plaza Mayor. | 마요르 광장 근처예요.
+[02:27.86]
+M | ¿Está cerca de aquí el Museo del Prado? | 프라도 미술관이 여기서 가까워요?
+[02:30.46]
+P | No, está lejos. | 아니요, 멀어요.
+[02:32.82]
+P | Hay unos tres kilómetros. | 3킬로미터쯤 돼요.
+[02:34.90]
+P | Pero hay un autobús directo. | 그래도 바로 가는 버스가 있어요.
+[02:37.46]
+M | ¿No hay metro? | 지하철은 없나요?
+[02:38.22]
+P | Sí, hay metro también. | 네, 지하철도 있어요.
+[02:41.28]
+P | Pero hay que cambiar de línea. | 하지만 노선을 갈아타야 해요.
+[02:43.74]
+P | Además, la estación del metro está lejos de aquí. | 게다가 지하철역이 여기서 멀어요.
+[02:47.24]
+P | Y la parada del autobús está allí, en la esquina. | 버스 정류장은 저기 모퉁이에 있고요.
+[02:51.70]
+M | Bueno, ¿cuántas paradas hay de aquí hasta el museo? | 그럼 여기서 미술관까지 몇 정거장이에요?
+[02:55.00]
+P | Hay ocho paradas. | 여덟 정거장이에요.
+[02:57.50]
+M | ¿Hay una oficina de correos por aquí? | 이 근처에 우체국이 있어요?
+[03:00.14]
+P | No, por aquí no hay. | 아니요, 이 근처에는 없어요.
+[03:02.04]
+P | Pero hay una oficina delante del museo. | 하지만 미술관 앞에 우체국이 하나 있어요.
+[03:06.20]
+M | Ah, muy bien. | 아, 잘됐네요.
+[03:07.48]
+M | Muchas gracias, muy amable. | 정말 고맙습니다. 친절하시네요.
+[03:11.04]
+## 5과 · Trabajo en un banco — 어학원에서 수업 문의하기
+S | Buenas tardes, ¿qué desea? | 안녕하세요, 무엇을 도와드릴까요?
+[03:14.60]
+T | Buenas tardes. | 안녕하세요.
+[03:16.26]
+T | Deseo información sobre los cursos de español. | 스페인어 강좌에 대해 알고 싶습니다.
+[03:19.68]
+S | ¿Pero usted ya habla español? | 그런데 벌써 스페인어를 하시네요?
+[03:21.90]
+T | Sí, pero no mucho. | 네, 하지만 많이는 못 해요.
+[03:23.96]
+T | Necesito perfeccionar el español. | 스페인어 실력을 더 다듬어야 해요.
+[03:26.40]
+S | ¿Trabaja aquí en México? | 여기 멕시코에서 일하세요?
+[03:27.88]
+T | Sí, soy de Japón y trabajo aquí en una casa de comercio. | 네, 일본 사람인데 여기 무역 회사에서 일해요.
+[03:34.16]
+S | En nuestra escuela hay varios cursos. | 저희 학원에는 여러 강좌가 있어요.
+[03:36.72]
+S | Y este es el folleto del curso para hombres de negocios. | 그리고 이게 비즈니스맨을 위한 강좌 안내서예요.
+[03:41.44]
+T | Muy bien. ¿Cuánto es? | 좋네요. 얼마예요?
+[03:43.54]
+S | Son doscientos dólares por mes. | 한 달에 200달러예요.
+[03:46.24]
+T | Está bien, muchas gracias. | 알겠습니다. 정말 고맙습니다.
+[03:47.78]
+S | A usted. | 저야말로요.
+[03:50.51]
+## 6과 · ¿Comemos juntos? — 같이 점심 먹을까?
+C | Hola. | 안녕.
+[03:52.16]
+C | ¿Dónde comes hoy? | 오늘 어디서 밥 먹어?
+[03:53.82]
+M | Ahí, en el restaurante italiano de la esquina. | 저기 모퉁이에 있는 이탈리아 식당에서.
+[03:56.46]
+M | La comida es buena y barata. | 음식이 맛있고 싸거든.
+[04:00.34]
+M | ¿Comemos juntos? | 같이 먹을까?
+[04:01.58]
+C | Sí, muy bien. | 응, 좋아.
+[04:04.04]
+W | Buenas tardes. ¿Cuántos son? | 어서 오세요. 몇 분이세요?
+[04:07.30]
+M | Dos. | 두 명이요.
+[04:09.20]
+W | Aquella mesa está libre. | 저 테이블이 비어 있어요.
+[04:11.44]
+W | Aquí está el menú. | 메뉴 여기 있습니다.
+[04:13.58]
+C | Gracias. | 고맙습니다.
+[04:15.36]
+C | Makoto, en Japón comen mucho arroz, ¿verdad? | 마코토, 일본에서는 쌀밥을 많이 먹지?
+[04:19.24]
+M | Sí, comemos mucho arroz. | 응, 쌀밥을 많이 먹어.
+[04:21.38]
+M | Y comemos con palillos. | 그리고 젓가락으로 먹어.
+[04:25.30]
+## 7과 · Quiero una cerveza — 주말에 테니스 치자
+C | Makoto, ¿estás libre mañana? | 마코토, 내일 시간 있어?
+[04:29.16]
+M | Sí, pero ¿por qué? | 응, 근데 왜?
+[04:31.20]
+C | Mañana pienso jugar al tenis con Susana. | 내일 수사나랑 테니스 치려고 하거든.
+[04:35.16]
+C | ¿Quieres jugar con nosotras? | 우리랑 같이 칠래?
+[04:37.14]
+M | ¡Claro! | 물론이지!
+[04:38.14]
+M | ¿Dónde jugamos al tenis? | 테니스는 어디서 쳐?
+[04:40.18]
+C | En la cancha de tenis de la universidad. ¿Vale? | 대학교 테니스장에서. 괜찮아?
+[04:44.20]
+M | De acuerdo. | 좋아.
+[04:45.68]
+M | Oye, Carmen, ¿recuerdas a Takashi? | 저기, 카르멘, 다카시 기억나?
+[04:48.30]
+C | Sí, claro. | 응, 당연하지.
+[04:50.32]
+C | Es tu compañero de la clase de español, ¿verdad? | 스페인어 수업 같이 듣는 친구지?
+[04:53.90]
+M | Sí. Takashi juega al tenis muy bien. | 응. 다카시는 테니스를 아주 잘 쳐.
+[04:57.80]
+M | ¿Puedo invitar a Takashi? | 다카시도 불러도 돼?
+[04:59.64]
+C | Por supuesto. | 물론이지.
+[05:01.16]
+C | Es una buena idea. | 좋은 생각이야.
+[05:03.04]
+C | Entonces, ¿puedes avisar a Takashi? | 그럼 다카시한테 알려 줄 수 있어?
+[05:05.96]
+M | Con mucho gusto. | 기꺼이.
+[05:07.46]
+C | Gracias. Así podemos pasar muy bien el fin de semana. | 고마워. 이러면 주말을 아주 즐겁게 보낼 수 있겠다.
+[05:13.17]
+## 8과 · Tengo mucha sed — 가족이 멕시코에 와요
+T | Señora García, hoy viene mi familia a México. | 가르시아 씨, 오늘 우리 가족이 멕시코에 와요.
+[05:16.62]
+G | ¡Qué bien! | 잘됐네요!
+[05:18.60]
+G | ¿Cuántos hijos tiene usted? | 자녀가 몇 명이세요?
+[05:21.10]
+T | Tengo dos, una hija y un hijo. | 둘이에요. 딸 하나, 아들 하나.
+[05:24.20]
+G | ¿Ya son grandes? | 벌써 다 컸어요?
+[05:25.76]
+G | ¿Cuántos años tienen? | 몇 살이에요?
+[05:27.64]
+T | Mi hijo tiene veinte años y mi hija tiene dieciséis años. | 아들은 스무 살이고 딸은 열여섯 살이에요.
+[05:32.80]
+G | ¿Adónde piensa llevar a su familia? | 가족을 어디에 데려가실 생각이세요?
+[05:35.94]
+T | Todavía no tengo idea. | 아직 잘 모르겠어요.
+[05:38.20]
+T | Pero quieren visitar varios lugares en México. | 하지만 다들 멕시코의 여러 곳을 가 보고 싶어 해요.
+[05:42.22]
+T | Mi esposa es arqueóloga y tiene interés en visitar ruinas arqueológicas. | 아내는 고고학자라서 유적지에 가 보고 싶어 하고요.
+[05:49.50]
+T | Mi hijo quiere ver un partido de fútbol. | 아들은 축구 경기를 보고 싶어 해요.
+[05:51.96]
+T | Y mi hija tiene muchas ganas de visitar Cancún. | 딸은 칸쿤에 정말 가 보고 싶어 하고요.
+[05:56.86]
+G | Usted tiene que preparar un buen plan para ellos. | 가족을 위해 계획을 잘 세우셔야겠네요.
+[06:00.96]
+T | Usted tiene razón. | 맞는 말씀이에요.
+[06:04.02]
+## 9과 · Son las nueve y media — 출장 비행기 예약
+T | Mañana tengo una cita con el señor Rodríguez, del Banco ABC, y voy a viajar a Monterrey. | 내일 ABC 은행 로드리게스 씨와 약속이 있어서 몬테레이에 가요.
+[06:12.06]
+G | Usted va en avión, ¿verdad? | 비행기로 가시죠?
+[06:15.58]
+G | Entonces hay que reservar un vuelo a Monterrey. | 그럼 몬테레이행 항공편을 예약해야겠네요.
+[06:19.56]
+G | ¿A qué hora y dónde es la cita? | 약속은 몇 시, 어디서예요?
+[06:22.90]
+T | Mañana a las tres de la tarde, en la oficina del señor Rodríguez. | 내일 오후 3시, 로드리게스 씨 사무실에서요.
+[06:27.84]
+T | Hay varios vuelos a Monterrey, ¿no? | 몬테레이 가는 비행기는 여러 편 있죠?
+[06:30.30]
+G | Sí, hay varios. | 네, 여러 편 있어요.
+[06:32.80]
+G | A ver... Voy a ver la guía de aviones. | 어디 보자… 항공 시간표를 볼게요.
+[06:37.26]
+G | Un avión de Aeroméxico sale a las doce y media. | 아에로멕시코 비행기가 12시 반에 출발해요.
+[06:42.18]
+T | ¿Cuánto tiempo tarda el avión desde la Ciudad de México hasta Monterrey? | 멕시코시티에서 몬테레이까지 비행기로 얼마나 걸려요?
+[06:47.34]
+G | Tarda una hora y media, y llega a Monterrey a las dos. | 1시간 반 걸려서 몬테레이에 2시에 도착해요.
+[06:52.44]
+T | Muy bien. | 좋아요.
+[06:53.34]
+T | ¿Usted puede reservar un asiento para mí en ese vuelo? | 그 비행기로 제 자리를 예약해 줄 수 있어요?
+[06:56.56]
+G | Sí, ¿cómo no? | 네, 물론이죠.
+[06:58.84]
+G | Voy a llamar por teléfono a la agencia de viajes. | 여행사에 전화할게요.
+[07:02.00]
+T | Gracias. | 고마워요.
+[07:03.80]
+T | Tardo treinta minutos desde esta oficina hasta el aeropuerto, ¿verdad? | 이 사무실에서 공항까지 30분 걸리죠?
+[07:08.44]
+G | Sí, así que usted tiene que salir de aquí a las once y media. | 네, 그러니까 11시 반에는 여기서 나가셔야 해요.
+[07:15.49]
+## 10과 · Le presto a usted mi paraguas — 여동생 생일 선물 고르기
+M | El veinticuatro de mayo es el cumpleaños de mi hermana. | 5월 24일이 여동생 생일이야.
+[07:20.40]
+M | Voy a enviarle por correo un regalo. | 우편으로 선물을 보내려고 해.
+[07:23.92]
+M | ¿Qué le compro? | 뭘 사 줄까?
+[07:26.06]
+C | ¿Por qué no le compras una cartera? | 지갑을 사 주는 게 어때?
+[07:30.74]
+M | ¿Qué tal esta cartera azul? | 이 파란 지갑 어때?
+[07:33.12]
+C | Sí, es graciosa. | 응, 귀엽다.
+[07:35.68]
+M | Voy a comprársela. | 이걸 사 줘야겠다.
+[07:37.54]
+M | Y también quiero esa cartera negra para mí. | 그리고 저 검은 지갑은 내가 갖고 싶어.
+[07:41.22]
+C | ¿Cuándo es tu cumpleaños? | 네 생일은 언제야?
+[07:43.16]
+C | Voy a regalártela el día de tu cumpleaños. | 네 생일에 그걸 선물해 줄게.
+[07:46.76]
+M | Gracias, no lo voy a olvidar. | 고마워, 그 말 잊지 않을게.
+[07:49.40]
+M | Pero tengo que esperar casi un año. | 그런데 거의 1년을 기다려야 하네.
+[07:51.84]
+M | Mi cumpleaños es el veinte de abril. | 내 생일은 4월 20일이거든.
+[07:56.17]
+## 11과 · Me gusta comer — 비싼 드레스 vs 새 차
+O | ¿Qué vestido te gusta más? | 어떤 드레스가 제일 마음에 들어?
+[07:59.18]
+E | Este me gusta mucho. | 이게 정말 마음에 들어.
+[08:01.44]
+O | Oiga, ¿cuánto cuesta este vestido? | 저기요, 이 드레스 얼마예요?
+[08:04.56]
+W | Dos mil quinientos euros. | 2,500유로입니다.
+[08:07.02]
+W | Es de marca de prestigio. | 명품 브랜드 제품이에요.
+[08:09.40]
+O | ¡Oh, es muy caro! | 오, 너무 비싸네요!
+[08:11.88]
+W | Este es más barato. | 이건 더 싸요.
+[08:13.86]
+W | Pero no es tan bueno como ese. | 하지만 그것만큼 좋지는 않아요.
+[08:16.96]
+E | No está mal. | 나쁘지 않네.
+[08:18.32]
+E | Pero me gusta más este. | 그래도 난 이게 더 좋아.
+[08:20.32]
+E | Es mucho más bonito. | 훨씬 더 예쁘잖아.
+[08:21.68]
+O | Me parece una tontería gastar tanto dinero en un vestido. | 드레스 한 벌에 그렇게 많은 돈을 쓰는 건 어리석은 것 같아.
+[08:26.70]
+E | ¿Y tú? ¿Por qué quieres comprar un coche nuevo? | 그럼 당신은? 왜 새 차를 사고 싶어 해?
+[08:31.18]
+E | ¿No te parece una tontería? | 그건 어리석은 것 같지 않아?
+[08:33.42]
+O | Es diferente. | 그건 다르지.
+[08:34.94]
+O | Mi coche ya está viejo. | 내 차는 이미 낡았잖아.
+[08:36.80]
+E | Mis vestidos también están viejos. | 내 드레스들도 낡았어.
+[08:39.58]
+O | Bueno, ¿por qué no compramos uno más barato? | 그럼 더 싼 걸로 사는 게 어때?
+[08:42.68]
+O | No siempre el más caro es el mejor. | 제일 비싼 게 늘 제일 좋은 건 아니잖아.
+[08:46.72]
+## 12과 · Me levanto a las siete — 내일 아침 일정
+M | Bueno, ya me voy a la cama. | 자, 이제 자러 갈게요.
+[08:50.62]
+E | ¿Qué te pasa? | 무슨 일 있니?
+[08:51.44]
+E | Todavía son las once. | 아직 11시밖에 안 됐는데.
+[08:53.88]
+M | Es que mañana empieza el curso y tengo que levantarme temprano. | 내일 강좌가 시작돼서 일찍 일어나야 하거든요.
+[08:58.90]
+E | ¿Qué curso es? | 무슨 강좌인데?
+[09:00.44]
+M | Es el curso para extranjeros de la universidad. | 대학교의 외국인 강좌예요.
+[09:03.94]
+E | Muy bien. | 좋구나.
+[09:05.18]
+E | ¿A qué hora empiezan las clases? | 수업은 몇 시에 시작하니?
+[09:07.18]
+M | A las nueve. | 9시에요.
+[09:08.62]
+E | ¿A qué hora piensas levantarte? | 몇 시에 일어날 생각이니?
+[09:11.12]
+M | Voy a levantarme a las siete. | 7시에 일어날 거예요.
+[09:13.60]
+M | Me ducho, desayuno, me limpio los dientes y me cambio de ropa. | 샤워하고, 아침 먹고, 이 닦고, 옷을 갈아입어요.
+[09:18.50]
+M | Voy a salir de casa a las ocho y cuarto para llegar a la clase antes de las nueve. | 9시 전에 수업에 도착하려고 8시 15분에 집을 나설 거예요.
+[09:24.56]
+M | Para levantarme a las siete, tengo que acostarme a las once. | 7시에 일어나려면 11시에 자야 해요.
+[09:29.46]
+M | Pongo el despertador para las siete menos cinco. | 자명종은 6시 55분에 맞춰 놓을게요.
+[09:32.98]
+E | Eres muy ordenado. | 넌 참 규칙적이구나.
+[09:35.93]
+## 13과 · Hablé con mi jefe ayer — 몬테레이 출장 이야기
+G | ¿Cuándo volvió de Monterrey? | 몬테레이에서 언제 돌아오셨어요?
+[09:39.72]
+T | Anoche, a eso de las diez. | 어젯밤 10시쯤에요.
+[09:42.22]
+T | El avión salió una hora atrasado del aeropuerto de Monterrey y llegué muy tarde. | 비행기가 몬테레이 공항에서 한 시간 늦게 출발해서 아주 늦게 도착했어요.
+[09:47.06]
+G | Lo siento. | 고생하셨네요.
+[09:49.08]
+G | ¿Cómo le fue la reunión con el señor Rodríguez? | 로드리게스 씨와의 회의는 어땠어요?
+[09:52.74]
+T | Muy bien. | 아주 좋았어요.
+[09:53.96]
+T | El señor Rodríguez me recibió en el aeropuerto y me llevó a la oficina del Banco ABC. | 로드리게스 씨가 공항에 마중 나와서 ABC 은행 사무실로 데려가 줬어요.
+[10:00.32]
+T | Lo felicito. | 잘됐네요.
+[10:02.18]
+G | ¿Cuándo se fundó el Banco ABC? | ABC 은행은 언제 세워졌어요?
+[10:05.14]
+T | Se fundó en mil novecientos veinte. | 1920년에 세워졌어요.
+[10:08.60]
+G | ¿Trabaja el señor Rodríguez en el banco desde hace muchos años? | 로드리게스 씨는 그 은행에서 오래 일했나요?
+[10:13.68]
+T | Sí, hace catorce años que trabaja en el banco. | 네, 그 은행에서 일한 지 14년 됐어요.
+[10:18.26]
+T | Vivió tres años en la Ciudad de México para trabajar en la oficina principal del banco. | 은행 본점에서 일하려고 멕시코시티에서 3년 살았고요.
+[10:23.52]
+T | Y hace dos años lo nombraron gerente de la sucursal de Monterrey. | 2년 전에 몬테레이 지점장으로 임명됐어요.
+[10:29.96]
+## 14과 · No tuvimos tiempo — 방학 잘 보냈어?
+C | ¡Makoto! ¡Cuánto tiempo sin verte! | 마코토! 정말 오랜만이다!
+[10:34.50]
+M | Hola, Carmen, me alegro de verte. | 안녕, 카르멘. 만나서 반가워.
+[10:36.90]
+C | ¿Cómo te fueron las vacaciones? | 방학은 어땠어?
+[10:38.64]
+M | Muy bien. | 아주 좋았어.
+[10:40.24]
+M | Anoche vine de Barcelona en el AVE. | 어젯밤에 고속열차 AVE 타고 바르셀로나에서 왔어.
+[10:43.06]
+C | ¿Cuántos días estuviste en Barcelona? | 바르셀로나에 며칠 있었어?
+[10:45.80]
+M | Estuve seis días. | 6일 있었어.
+[10:47.78]
+M | Visité la Sagrada Familia, el Parque Güell y otras construcciones de Gaudí. | 사그라다 파밀리아, 구엘 공원, 그리고 가우디의 다른 건축물들을 보러 갔어.
+[10:53.44]
+M | Me impresionaron mucho. | 정말 감동적이었어.
+[10:55.56]
+C | Muy bien. | 좋았겠다.
+[10:57.14]
+C | ¿Compraste algún recuerdo de Barcelona? | 바르셀로나 기념품은 샀어?
+[11:00.16]
+M | Sí, compré un libro de la colección de las obras de Picasso. | 응, 피카소 작품집을 한 권 샀어.
+[11:04.44]
+M | Y tú, ¿qué hiciste? | 너는 뭐 했어?
+[11:05.86]
+C | Yo trabajé mucho en la librería de mi tío. | 나는 삼촌 서점에서 일 많이 했어.
+[11:10.20]
+M | ¿Trabajaste? | 일했다고?
+[11:11.32]
+C | Sí, para ganar dinero, porque algún día quiero viajar por Perú. | 응, 돈 벌려고. 언젠가 페루를 여행하고 싶거든.
+[11:18.83]
+## 15과 · De niño vivía en Colombia — 카르멘의 고향 마을
+M | ¿Es este tu pueblo? | 여기가 네 고향 마을이야?
+[11:21.62]
+C | Sí, aquí vivía yo cuando era pequeña. | 응, 어렸을 때 여기서 살았어.
+[11:26.12]
+C | Aquella era nuestra casa. | 저게 우리 집이었어.
+[11:28.98]
+C | En aquel tiempo la vida en este pueblo era tranquila. | 그때는 이 마을 생활이 조용했지.
+[11:33.16]
+M | Aún ahora es muy tranquilo. | 지금도 아주 조용한데.
+[11:36.08]
+C | Sí, pero está muy cambiado. | 응, 하지만 많이 변했어.
+[11:39.04]
+M | Ibas a la escuela, ¿no? | 학교 다녔지?
+[11:40.82]
+C | Sí, pero ya no está la escuela. | 응, 그런데 학교는 이제 없어.
+[11:44.26]
+C | Antes estaba en aquella esquina. | 예전에는 저 모퉁이에 있었어.
+[11:47.36]
+M | ¿Estudiabas mucho? | 공부 많이 했어?
+[11:48.86]
+C | No mucho. | 별로.
+[11:50.56]
+C | Estudio más ahora que antes. | 그때보다 지금 공부를 더 해.
+[11:52.98]
+M | ¿Qué hacías los fines de semana? | 주말에는 뭐 했어?
+[11:55.48]
+C | Como yo pertenecía a un club de fútbol para niñas, jugaba al fútbol con mis compañeras los sábados por la mañana. | 여자아이 축구 클럽에 들어가 있어서 토요일 아침마다 친구들이랑 축구를 했어.
+[12:04.56]
+M | ¿Hasta cuándo vivisteis aquí? | 여기서 언제까지 살았어?
+[12:06.96]
+C | Cuando tenía catorce años nos trasladamos a Madrid. | 열네 살 때 마드리드로 이사했어.
+[12:13.28]
+## 16과 · He estado en España dos veces — 게르니카
+C | Makoto, ¿has ido al Centro de Arte Reina Sofía? | 마코토, 레이나 소피아 미술관에 가 봤어?
+[12:18.48]
+M | No, aún no he ido. | 아니, 아직 안 가 봤어.
+[12:20.88]
+M | Allí está el famoso cuadro Guernica de Picasso, ¿verdad? | 거기에 피카소의 유명한 그림 '게르니카'가 있지?
+[12:24.58]
+C | Sí, así es. | 응, 맞아.
+[12:26.62]
+C | Yo fui al centro para ver el Guernica ayer. | 나는 어제 게르니카 보러 거기 갔었어.
+[12:30.12]
+M | ¿Qué significa Guernica? | 게르니카가 무슨 뜻이야?
+[12:33.20]
+C | Es el nombre de un pueblo vasco. | 바스크 지방의 한 마을 이름이야.
+[12:35.38]
+C | Fue bombardeado en mil novecientos treinta y siete y destruido totalmente. | 1937년에 폭격을 당해 완전히 파괴됐어.
+[12:41.06]
+C | Después del bombardeo, Picasso pintó un cuadro y le puso el nombre del pueblo. | 폭격 뒤에 피카소가 그림을 그리고 그 마을 이름을 붙였지.
+[12:46.66]
+M | Ah, sí, yo lo he visto en el libro de la colección de las obras de Picasso. | 아, 그 그림 피카소 작품집에서 본 적 있어.
+[12:52.18]
+M | En el cuadro están pintados personas, animales y edificios destrozados por el bombardeo. | 그림에는 폭격으로 부서진 사람들, 동물들, 건물들이 그려져 있지.
+[12:59.12]
+C | Sí, Picasso lo pintó para protestar contra la guerra y la violencia. | 응, 피카소는 전쟁과 폭력에 항의하려고 그걸 그렸어.
+[13:04.92]
+C | Este cuadro representa la inhumanidad y crueldad de la guerra. | 이 그림은 전쟁의 비인간성과 잔인함을 보여 줘.
+[13:11.25]
+## 17과 · Ya había empezado el partido — 멕시코에 오기 전에
+G | Señor Tanaka, usted ya casi domina el español. | 다나카 씨, 이제 스페인어를 거의 완벽하게 하시네요.
+[13:15.72]
+T | Sí, gracias. | 네, 고마워요.
+[13:17.38]
+T | Los profesores que me enseñan español son eficientes. | 저한테 스페인어를 가르치는 선생님들이 유능하거든요.
+[13:21.76]
+G | ¿Había estudiado español antes de venir a México, verdad? | 멕시코에 오기 전에 스페인어를 공부하셨었죠?
+[13:25.48]
+T | Sí, ya había estudiado español seis meses. | 네, 이미 6개월 동안 공부했었어요.
+[13:30.26]
+G | ¿Estudió con profesores españoles? | 스페인 선생님한테 배우셨어요?
+[13:33.00]
+T | No, estudié español con una señora mexicana que vivía cerca de mi casa. | 아니요, 우리 집 근처에 살던 멕시코 부인한테 배웠어요.
+[13:39.68]
+G | Ah, por eso usted tiene acento mexicano. | 아, 그래서 멕시코 억양이 있으시군요.
+[13:44.14]
+G | ¿Había probado comida mexicana en Japón? | 일본에서 멕시코 음식을 먹어 본 적이 있었어요?
+[13:47.10]
+T | Sí, una vez fui a un restaurante de comida mexicana en Tokio que me había recomendado un amigo. | 네, 친구가 추천해 준 도쿄의 멕시코 음식점에 한 번 갔었어요.
+[13:53.52]
+T | Allí probé la margarita y los tacos. | 거기서 마르가리타와 타코를 먹어 봤어요.
+[13:58.00]
+G | Usted ya se había familiarizado con México antes de llegar. | 오시기 전부터 멕시코와 이미 친숙하셨네요.
+[14:03.54]
+## 18과 · La hija de Carlos de la que te hablé — 은행장의 딸 후아나
+G | Señor Tanaka, lo busca a usted una señorita que se llama Juana Rodríguez. | 다나카 씨, 후아나 로드리게스라는 아가씨가 찾아왔어요.
+[14:11.42]
+T | ¿Juana Rodríguez? | 후아나 로드리게스요?
+[14:13.02]
+T | Ah, sí, es la chica de quien le hablé ayer. | 아, 네, 어제 말씀드린 그 아가씨예요.
+[14:17.08]
+G | Ah, sí, es la hija del señor Rodríguez y quiere trabajar en alguna compañía japonesa, ¿verdad? | 아, 네, 로드리게스 씨 따님이고 일본 회사에서 일하고 싶어 한다는 분이죠?
+[14:25.44]
+T | Sí, estudió economía en la universidad... la universidad... | 네, 대학에서 경제학을 공부했어요… 그 대학이…
+[14:31.34]
+T | No recuerdo el nombre de la universidad. | 대학 이름이 기억이 안 나네요.
+[14:34.02]
+T | ¿Cómo se llama la que está al sur de la ciudad? | 시내 남쪽에 있는 대학 이름이 뭐죠?
+[14:36.94]
+G | Es la Universidad Nacional Autónoma de México. | 멕시코 국립자치대학교예요.
+[14:40.34]
+G | La llaman UNAM. | '우남(UNAM)'이라고 불러요.
+[14:41.88]
+T | Sí, sí, eso, UNAM. | 네, 네, 그거요, 우남.
+[14:43.58]
+T | ¿Es buena la UNAM? | 우남은 좋은 대학이에요?
+[14:44.54]
+G | Sí, es una de las mejores que hay en nuestro país. | 네, 우리나라 최고의 대학 중 하나예요.
+[14:50.12]
+## 19과 · Donde Hemingway solía tomar daiquiris — 헤밍웨이 퀴즈
+C | "Amo este país y me siento como en casa, y donde un hombre se siente como en casa, aparte del lugar donde nació, este es el sitio al que estaba destinado." | "나는 이 나라를 사랑하고 내 집처럼 편안하다. 태어난 곳 말고 사람이 집처럼 편안하게 느끼는 곳, 그곳이 그가 갈 운명이었던 곳이다."
+[15:03.28]
+C | ¿Sabes de quién son estas palabras? | 이게 누가 한 말인지 알아?
+[15:05.66]
+M | No, no tengo idea. | 아니, 전혀 모르겠어.
+[15:07.52]
+M | ¿De quién son? | 누가 한 말이야?
+[15:08.26]
+C | Te doy una pista. | 힌트를 줄게.
+[15:10.76]
+C | Son de un escritor norteamericano que escribió varias novelas en Cuba. | 쿠바에서 소설을 여러 편 쓴 미국 작가가 한 말이야.
+[15:16.38]
+C | Su bebida preferida era el daiquiri. | 제일 좋아하던 술은 다이키리였어.
+[15:19.58]
+M | Ah, ya sé. | 아, 알겠다.
+[15:21.32]
+M | Es Hemingway, Ernest Hemingway. | 헤밍웨이구나, 어니스트 헤밍웨이.
+[15:24.74]
+M | Ahora me toca a mí hacerte una pregunta. | 이제 내가 문제를 낼 차례야.
+[15:27.62]
+M | ¿Cómo se llama el bar donde solía tomar daiquiris? | 그가 다이키리를 마시곤 하던 바 이름이 뭐게?
+[15:30.50]
+C | Lo sé. | 알아.
+[15:32.22]
+C | Se llama El Floridita. | '엘 플로리디타'야.
+[15:34.60]
+C | Ahora yo. | 이번엔 나.
+[15:35.86]
+C | ¿Cómo se llama el hotel donde se hospedaba y escribía? | 그가 묵으면서 글을 쓰던 호텔 이름은?
+[15:40.50]
+M | Es Ambos Mundos, que está en La Habana. | 아바나에 있는 '암보스 문도스'야.
+[15:44.50]
+C | Parece que sabemos mucho de Hemingway. | 우리 헤밍웨이에 대해 꽤 많이 아는 것 같다.
+[15:47.89]
+## 20과 · Estoy viendo un video — 벚꽃놀이 '오하나미'
+O | ¿Qué estás viendo, Elena? | 뭐 보고 있어, 엘레나?
+[15:51.34]
+E | Estoy viendo un video que me prestó Makoto. | 마코토가 빌려준 비디오를 보고 있어.
+[15:54.96]
+E | Es de ohanami. | '오하나미'에 대한 거야.
+[15:56.98]
+O | ¿Qué es ohanami? | 오하나미가 뭐야?
+[15:58.02]
+E | Según lo que me explicó Makoto, en Japón, en primavera, cuando florecen los cerezos, van a los parques y otros lugares donde hay cerezos para apreciar la efímera belleza de las flores. | 마코토가 설명해 준 바로는, 일본에서는 봄에 벚꽃이 피면 공원처럼 벚나무가 있는 곳에 가서 금방 지는 꽃의 아름다움을 즐긴대.
+[16:13.54]
+E | Se dice ohanami en japonés. | 그걸 일본어로 오하나미라고 한대.
+[16:16.90]
+O | ¿Están contemplando flores? | 꽃을 구경하고 있는 거야?
+[16:18.92]
+O | ¿No están tomando vino y cantando? | 술 마시면서 노래하고 있는 거 아니야?
+[16:20.84]
+E | Sí, sí. | 응, 맞아.
+[16:22.58]
+E | Es que contemplan flores tomando vino, cantando y a veces bailando. | 술 마시고 노래하고 가끔은 춤도 추면서 꽃을 구경하는 거래.
+[16:28.36]
+O | Me parece muy divertido. | 정말 재미있겠다.
+[16:30.22]
+O | Es muy buena costumbre. | 아주 좋은 풍습이네.
+[16:31.88]
+E | Así es. | 그렇지.
+[16:33.32]
+E | Vamos a visitar Japón en primavera. ¿Te parece bien? | 봄에 일본에 가 보자. 어때?
+[16:37.28]
+O | Muy bien. | 좋아.
+[16:39.64]
+## 21과 · Haré todo lo posible — 시험이 끝난 날
+C | ¡Qué cansada estoy! | 아, 너무 피곤해!
+[16:41.86]
+C | También estarán fatigados mis compañeros. | 우리 반 친구들도 지쳤을 거야.
+[16:45.60]
+M | ¿Qué te pasó? | 무슨 일 있었어?
+[16:47.30]
+C | Tuvimos un examen muy difícil en la clase de inglés. | 영어 수업에서 아주 어려운 시험을 봤어.
+[16:51.60]
+C | ¡Cómo sufrimos! | 얼마나 고생했는지 몰라!
+[16:53.38]
+M | ¿Aprobarás el examen? | 시험은 붙을 것 같아?
+[16:55.14]
+C | No sé. | 모르겠어.
+[16:56.68]
+C | Sabré el resultado la semana que viene. | 결과는 다음 주에 알게 될 거야.
+[17:00.20]
+M | Yo voy a tener un examen de español mañana. | 나는 내일 스페인어 시험이 있어.
+[17:04.12]
+C | Entonces, ¿tendrás que estudiar esta noche? | 그럼 오늘 밤에 공부해야겠네?
+[17:07.40]
+M | No, no es necesario. | 아니, 그럴 필요 없어.
+[17:09.50]
+M | Dicen que será fácil el examen. | 시험이 쉬울 거래.
+[17:12.06]
+M | Creo que lo aprobaré sin problema. | 문제없이 붙을 것 같아.
+[17:14.06]
+C | ¡Qué optimista eres! | 넌 정말 낙천적이구나!
+[17:18.27]
+## 22과 · ¿Podría usted pasarme el pan? — 아파트 보러 가기
+L | ¿Viene usted a ver el apartamento? | 아파트 보러 오셨어요?
+[17:21.28]
+T | Sí, he telefoneado antes. | 네, 아까 전화드렸어요.
+[17:23.76]
+L | Sí, lo esperaba. | 네, 기다리고 있었어요.
+[17:25.86]
+L | Aquí está la sala. | 여기가 거실이에요.
+[17:27.78]
+L | También es comedor. | 식당으로도 써요.
+[17:29.74]
+L | ¿Vivirá usted solo? | 혼자 사실 건가요?
+[17:31.64]
+T | No, mi esposa llegará la próxima semana. | 아니요, 아내가 다음 주에 와요.
+[17:35.40]
+T | Y me gustaría tener un perro, un perrito. | 그리고 개를, 작은 강아지를 키우고 싶은데요.
+[17:38.46]
+T | ¿Lo permite? | 허락해 주시나요?
+[17:39.64]
+L | Sí, por supuesto que sí. | 네, 물론이죠.
+[17:42.46]
+T | Gracias. | 고맙습니다.
+[17:42.88]
+T | ¿No hay mesa y sillas? | 식탁하고 의자는 없나요?
+[17:45.54]
+L | Sí, ya he comprado una mesa y seis sillas. | 있어요, 식탁 하나와 의자 여섯 개를 벌써 사 뒀어요.
+[17:49.48]
+L | Me dijeron que las traerían pasado mañana. | 모레 가져다준다고 했어요.
+[17:52.86]
+T | ¿Hay mucho ruido? | 시끄럽나요?
+[17:54.44]
+L | No, esta calle es muy tranquila. | 아니요, 이 거리는 아주 조용해요.
+[17:58.16]
+L | Además, tiene una vista bellísima. | 게다가 전망이 정말 아름다워요.
+[18:01.56]
+T | Muy bien. | 좋네요.
+[18:02.74]
+T | ¿Podría venir otra vez con mi señora antes de firmar el contrato de alquiler? | 임대 계약서에 서명하기 전에 아내와 한 번 더 와도 될까요?
+[18:07.04]
+L | Sí, está bien. | 네, 좋아요.
+[18:09.58]
+L | Nos veremos otra vez la semana que viene. | 다음 주에 다시 뵙죠.
+[18:14.04]
+## 23과 · Habré llegado a Quito — 전화 받기 (다나카 씨는 출장 중)
+G | Diga. | 여보세요.
+[18:14.68]
+R | Buenos días, señora García. | 안녕하세요, 가르시아 씨.
+[18:17.56]
+R | ¿Me comunica con el señor Tanaka? | 다나카 씨 좀 바꿔 주시겠어요?
+[18:19.90]
+G | ¿De parte de quién? | 누구시라고 전해 드릴까요?
+[18:21.56]
+R | Habla Manuel Rodríguez, del Banco ABC de Monterrey. | 몬테레이 ABC 은행의 마누엘 로드리게스입니다.
+[18:25.78]
+G | Oh, señor Rodríguez, buenos días. | 아, 로드리게스 씨, 안녕하세요.
+[18:29.18]
+G | Desgraciadamente, el señor Tanaka está de viaje en Panamá. | 안타깝게도 다나카 씨는 파나마 출장 중이에요.
+[18:33.92]
+G | Ha partido esta mañana temprano y ya habrá llegado a Panamá. | 오늘 아침 일찍 떠나셨으니 지금쯤 파나마에 도착하셨을 거예요.
+[18:38.20]
+G | ¿Quiere usted dejar algún recado? | 메시지 남기시겠어요?
+[18:40.96]
+R | No, gracias. | 아니요, 괜찮습니다.
+[18:41.74]
+R | Pero ¿podría tener una cita con el señor Tanaka para el próximo jueves? | 그런데 다음 주 목요일에 다나카 씨와 약속을 잡을 수 있을까요?
+[18:47.20]
+G | Creo que sí. | 될 것 같아요.
+[18:48.60]
+G | Habrá vuelto a México para el martes. | 화요일까지는 멕시코에 돌아와 계실 거예요.
+[18:51.58]
+R | Gracias. | 고맙습니다.
+[18:52.64]
+R | Aparte de la cita, ¿podría hablar por teléfono con el señor Tanaka hoy? | 약속과 별개로, 오늘 다나카 씨와 통화할 수 있을까요?
+[18:57.64]
+G | Sí, me dijo que habría llegado al hotel para las cuatro de la tarde. | 네, 오후 4시까지는 호텔에 도착해 있을 거라고 하셨어요.
+[19:03.14]
+G | ¿Le doy el número de teléfono del hotel? | 호텔 전화번호를 알려 드릴까요?
+[19:06.93]
+## 24과 · Deseo que estudies más — 대통령 선거 이야기
+T | El mes próximo habrá elecciones presidenciales. | 다음 달에 대통령 선거가 있죠.
+[19:11.14]
+T | ¿Quién ganará? | 누가 이길까요?
+[19:12.58]
+G | Mi esposo y yo esperamos que gane Antonio Cano. | 남편과 저는 안토니오 카노가 이기길 바라요.
+[19:17.06]
+T | ¿Cree usted que ganará él? | 그 사람이 이길 거라고 생각하세요?
+[19:18.80]
+G | No, no creo que gane él, porque hay varios candidatos populares. | 아니요, 이길 것 같지는 않아요. 인기 있는 후보가 여럿 있거든요.
+[19:24.60]
+T | Es mejor que Antonio Cano explique bien su política económica en su campaña electoral, porque al pueblo en general le preocupa que el precio del petróleo no deje de subir. | 안토니오 카노는 선거 운동에서 경제 정책을 잘 설명하는 게 좋겠어요. 국민들은 대체로 석유값이 계속 오르는 걸 걱정하니까요.
+[19:37.38]
+G | Tiene razón. | 맞아요.
+[19:38.72]
+G | La subida del precio del crudo ha empezado a afectar nuestra vida, y esperamos que mejore la situación económica. | 원유값 상승이 우리 생활에 영향을 주기 시작했어요. 경제 상황이 나아지길 바라요.
+[19:47.18]
+T | Es importante que el gobierno no tarde en tomar las medidas necesarias para resolver este problema. | 정부가 이 문제를 해결할 필요한 조치를 늦지 않게 취하는 게 중요해요.
+[19:55.28]
+## 25과 · Busco una secretaria que sepa inglés y español — 늦는 친구들에게 벌칙을!
+C | Ya está lista la comida. | 음식 다 준비됐어.
+[19:57.72]
+C | ¿Podemos empezar la fiesta? | 파티 시작할까?
+[19:59.08]
+M | No creo, pues no han llegado todavía Mario, Fernando, Takashi, Silvia. | 아직 안 될 것 같아. 마리오, 페르난도, 다카시, 실비아가 아직 안 왔거든.
+[20:05.08]
+M | Los invitaste, ¿no? | 너 그 친구들 초대했지?
+[20:06.64]
+C | Sí, pero no creo que venga Mario. | 응, 근데 마리오는 안 올 것 같아.
+[20:09.72]
+C | Me dijo que tenía otro compromiso. | 다른 약속이 있다고 했어.
+[20:12.74]
+M | Siento mucho que no pueda venir Mario. | 마리오가 못 온다니 정말 아쉽다.
+[20:15.04]
+M | Él toca muy bien la guitarra. | 기타를 정말 잘 치는데.
+[20:16.98]
+M | ¿Entonces los demás llegarán atrasados? | 그럼 나머지는 늦게 오는 거야?
+[20:20.16]
+C | Creo que sí. | 그런 것 같아.
+[20:21.54]
+C | ¡Ah, qué impuntuales son! | 아, 다들 정말 시간을 안 지키네!
+[20:23.98]
+M | Sí, castigaremos a los que lleguen atrasados. | 그래, 늦게 오는 사람들한테 벌칙을 주자.
+[20:27.18]
+C | Sí, sí. | 좋아, 좋아.
+[20:29.46]
+C | Quien llegue el último tendrá que lavar platos. | 제일 늦게 오는 사람은 설거지를 해야 해.
+[20:33.24]
+M | Quien llegue el penúltimo tendrá que contar cinco chistes. | 끝에서 두 번째로 오는 사람은 농담을 다섯 개 해야 하고.
+[20:36.80]
+C | Muy bien. | 좋아.
+[20:37.76]
+C | Vamos a ver quiénes serán los dos últimos. | 누가 꼴찌 둘이 될지 보자.
+[20:41.93]
+## 26과 · Para que entre el aire fresco — 실비아와 미겔은 언제 결혼할까?
+O | Silvia y Miguel llevan mucho tiempo de noviazgo. | 실비아와 미겔은 사귄 지 꽤 오래됐지.
+[20:45.92]
+O | ¿Cuándo se casarán? | 언제 결혼할까?
+[20:47.52]
+E | Pues se casarán después de que Silvia se gradúe de la universidad. | 글쎄, 실비아가 대학을 졸업한 다음에 결혼하겠지.
+[20:52.28]
+O | Pero los padres de Silvia desean que se case con un hombre que tenga un buen empleo, y Miguel solo tiene un trabajo temporal. | 하지만 실비아 부모님은 딸이 좋은 직장이 있는 남자와 결혼하길 바라는데, 미겔은 임시직뿐이잖아.
+[21:01.46]
+E | Sí, así que podrán casarse con tal que Miguel tenga un empleo fijo. | 그래, 그러니까 미겔이 정규직을 구해야 결혼할 수 있겠지.
+[21:07.64]
+E | Tendrán que esperar hasta que Silvia se gradúe y Miguel encuentre un empleo. | 실비아가 졸업하고 미겔이 일자리를 찾을 때까지 기다려야 할 거야.
+[21:13.56]
+O | Pero aunque no tiene un trabajo fijo, es buen chico. | 그래도 정규직은 없지만 좋은 청년이야.
+[21:17.98]
+E | Ciertamente. | 확실히 그래.
+[21:19.24]
+E | Además, los dos se aman en serio. | 게다가 둘이 진지하게 사랑하잖아.
+[21:21.42]
+O | Quizás con el tiempo sus padres comprendan sus amores. | 시간이 지나면 부모님도 둘의 사랑을 이해해 주실지 몰라.
+[21:25.96]
+E | Ojalá así sea. | 그러면 좋겠다.
+[21:27.82]
+E | Y que puedan casarse pronto. | 그리고 빨리 결혼할 수 있으면 좋겠어.
+[21:31.68]
+## 27과 · Sentí mucho que no pudieras venir — 늦어서 미안해
+C | ¿Te hice esperar mucho? | 많이 기다렸지?
+[21:34.02]
+M | Sí, muchísimo. | 응, 엄청.
+[21:35.18]
+M | Casi media hora. | 거의 30분이나.
+[21:36.40]
+M | Creí que ya no vendrías. | 안 오는 줄 알았어.
+[21:38.54]
+C | Es que se enfadó mucho el profesor de inglés y no nos dejó salir hasta que termináramos todos los ejercicios. | 영어 선생님이 엄청 화가 나셔서 연습 문제를 다 풀 때까지 못 나가게 하셨거든.
+[21:45.86]
+M | Ah, lo conozco. | 아, 그 선생님 알아.
+[21:48.18]
+M | Ciertamente es muy severo. | 정말 엄하시지.
+[21:50.12]
+M | ¿Pero por qué se enfadó tanto? | 그런데 왜 그렇게 화가 나셨어?
+[21:52.34]
+C | Porque algunos no habían hecho la tarea, y además no había nadie que supiera contestar a las preguntas. | 몇 명이 숙제를 안 해 왔고, 게다가 질문에 대답할 줄 아는 사람이 아무도 없었거든.
+[22:00.10]
+M | Entonces fue natural que se enojara con vosotros. | 그럼 너희한테 화내신 게 당연하네.
+[22:03.60]
+C | Así es. | 그렇지.
+[22:04.48]
+C | ¿Y tú? ¿Ya no estás enojado por mi tardanza? | 너는? 내가 늦은 거 이제 화 안 났어?
+[22:07.74]
+M | No. | 응, 안 났어.
+[22:08.40]
+M | A decir verdad, yo también acabo de llegar. | 사실 나도 방금 왔어.
+[22:12.85]
+## 28과 · Siento mucho que no hayas podido venir — 신데렐라와 피터 팬
+G | Señor Tanaka, ¿usted ha leído el cuento de Cenicienta? | 다나카 씨, 신데렐라 이야기 읽어 보셨어요?
+[22:17.78]
+T | Sí, lo he leído a mi hija cuando era pequeña. | 네, 딸이 어렸을 때 읽어 줬어요.
+[22:21.56]
+G | Cuando era niña me gustaba mucho el cuento y pedía a mi madre que me comprara un zapato de cristal. | 저는 어렸을 때 그 이야기를 아주 좋아해서 엄마한테 유리 구두를 사 달라고 조르곤 했어요.
+[22:28.48]
+T | ¿Y qué pasó? | 그래서 어떻게 됐어요?
+[22:29.78]
+G | Por supuesto que no me lo pudo comprar, y me decepcionó mucho que no hubiera podido conseguírmelo. | 당연히 못 사 주셨죠. 구해 주지 못하셔서 무척 실망했어요.
+[22:37.08]
+T | Yo recuerdo que a mí me encantaba el cuento de Peter Pan, y yo también pedía a mi madre que me hiciera pantalones y camisas verdes. | 저는 피터 팬 이야기를 정말 좋아했던 기억이 나요. 저도 엄마한테 초록색 바지와 셔츠를 만들어 달라고 졸랐어요.
+[22:47.58]
+T | Creí que podría ser Peter Pan. | 피터 팬이 될 수 있다고 믿었거든요.
+[22:50.10]
+G | ¿Y su madre se los cosió? | 그래서 어머니가 만들어 주셨어요?
+[22:52.76]
+T | Sí, me llenó de alegría que me los hubiera hecho, pero no pude convertirme en Peter Pan. | 네, 만들어 주셔서 정말 기뻤는데, 피터 팬이 되지는 못했어요.
+[22:59.92]
+G | Qué lástima. | 아쉽네요.
+[23:00.98]
+G | Pero, tal como decía Peter Pan, lo importante sería que no perdiéramos nuestra fantasía e imaginación aun cuando nos hagamos mayores. | 하지만 피터 팬 말처럼, 중요한 건 어른이 되어도 우리의 환상과 상상력을 잃지 않는 거겠죠.
+[23:13.33]
+## 29과 · Ten cuidado — 스페인식 감자 오믈렛 만들기
+C | Makoto, ¿sabes cómo se hace la tortilla de patatas? | 마코토, 감자 토르티야 어떻게 만드는지 알아?
+[23:17.94]
+M | No, pero he visto a un cocinero hacerla en un programa de televisión. | 아니, 하지만 TV 프로그램에서 요리사가 만드는 건 봤어.
+[23:22.88]
+C | Entonces te lo enseño para que puedas prepararla para tu familia cuando regreses a Japón. | 그럼 일본에 돌아가면 가족한테 만들어 줄 수 있게 가르쳐 줄게.
+[23:29.82]
+C | Primero, pon la sartén al fuego. | 먼저 프라이팬을 불에 올려.
+[23:32.70]
+M | ¿Y pongo el aceite en la sartén? | 그리고 프라이팬에 기름을 둘러?
+[23:34.64]
+C | Sí. | 응.
+[23:36.08]
+C | Ahora, echa las patatas cortadas. | 이제 썰어 둔 감자를 넣어.
+[23:39.18]
+C | Ten cuidado, que está muy caliente. | 조심해, 아주 뜨거우니까.
+[23:42.02]
+M | Sí. | 응.
+[23:42.68]
+M | ¿Y tú qué estás haciendo? | 너는 뭐 하고 있어?
+[23:45.16]
+C | Estoy batiendo huevos. | 달걀 풀고 있어.
+[23:46.98]
+C | ¿Ya están cocidas las patatas? | 감자 다 익었어?
+[23:49.66]
+C | Échalas aquí. | 여기에 부어.
+[23:51.12]
+M | Sí. | 응.
+[23:52.28]
+M | ¿Pongo la sartén otra vez al fuego? | 프라이팬을 다시 불에 올릴까?
+[23:54.50]
+C | Sí, por favor. | 응, 그렇게 해 줘.
+[23:56.46]
+M | Ya está caliente la sartén. | 프라이팬 벌써 달궈졌어.
+[23:58.68]
+M | ¿Echamos las patatas mezcladas con huevos batidos? | 푼 달걀이랑 섞은 감자를 부을까?
+[24:01.42]
+C | Sí. | 응.
+[24:02.86]
+C | Cuando esté hecha la tortilla por un lado, dale la vuelta. | 한쪽이 다 익으면 뒤집어.
+[24:07.52]
+M | Está hecha por el otro lado también. | 반대쪽도 다 익었어.
+[24:10.86]
+## 30과 · Si yo fuera usted — 로드리게스 씨 마중 가기
+T | Señora García, ¿a qué hora llegará el señor Rodríguez al aeropuerto? | 가르시아 씨, 로드리게스 씨가 공항에 몇 시에 도착하죠?
+[24:16.80]
+G | Me dijo que tomaría el vuelo que salía de Monterrey a las diez. | 몬테레이에서 10시에 출발하는 비행기를 탈 거라고 하셨어요.
+[24:21.76]
+T | Ahora son las diez y media. | 지금이 10시 반이니까,
+[24:23.60]
+T | Si tomó ese vuelo, llegará a las once y media. | 그 비행기를 탔으면 11시 반에 도착하겠네요.
+[24:27.34]
+G | ¿Piensa ir al aeropuerto para recibirlo? | 마중하러 공항에 가실 생각이세요?
+[24:30.00]
+T | Sí, si salgo en media hora, llegaré para la hora de llegada. | 네, 30분 뒤에 나가면 도착 시간에 맞춰 갈 수 있겠어요.
+[24:35.42]
+G | Ya ustedes son muy buenos amigos. | 두 분은 이제 아주 친한 친구 사이네요.
+[24:38.06]
+T | Sí, yo tengo mucha confianza en él. | 네, 저는 그분을 아주 믿어요.
+[24:41.32]
+T | Si no me hubiera ayudado tanto, habría tenido mucha dificultad en realizar el proyecto. | 그분이 그렇게 많이 도와주지 않았다면 프로젝트를 해내는 데 큰 어려움을 겪었을 거예요.
+[24:47.84]
+G | Creo que él también confía mucho en usted. | 그분도 다나카 씨를 무척 믿는 것 같아요.
+[24:51.06]
+G | Si no hubiera sido por usted, no habría ayudado tanto. | 다나카 씨가 아니었다면 그렇게까지 돕지는 않았을 거예요.
