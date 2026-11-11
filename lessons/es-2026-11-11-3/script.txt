@@ -1,0 +1,699 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = Día 번호 읽기, S = 문장, A·B·C = 회화 등장인물. END = 오디오 끝 시각
+# 원본: 사용자 제공 '독학 스페인어 첫걸음' 본문 음성(본문 모든 문장.mp3)과 직접 친 교정본(손으로 친 모든 문장들 교정본 1.docx). 음성에 나오는 문장만 싱크하고, 악센트·¿¡·오타(passa→pasa, curto→cuarto, nobela→novela 등)를 바로잡았어요. 시각은 Whisper 단어 시각 기준.
+END 18:04
+
+
+[00:01.79]
+## Día 02 · 인사 표현 — ¡Hola! ¡Buenos días!
+S | ¡Hola! | 안녕!
+[00:03.57]
+S | ¡Hola! | 안녕!
+[00:07.04]
+S | ¡Buenos días! | 좋은 아침이에요! (오전 인사)
+[00:08.64]
+S | ¡Buenos días! | 좋은 아침이에요!
+[00:12.06]
+S | ¡Buenas tardes! | 안녕하세요! (오후 인사)
+[00:13.70]
+S | ¡Buenas tardes! | 안녕하세요!
+[00:17.23]
+S | ¡Buenas noches! | 안녕하세요! (저녁·밤 인사)
+[00:19.13]
+S | ¡Buenas noches! | 안녕하세요!
+[00:22.79]
+S | Mucho gusto. | 만나서 반가워요.
+[00:24.57]
+S | Encantada. | 반가워요. (여자가 말할 때, 남자는 Encantado)
+[00:27.74]
+S | ¡Chao! | 안녕! (헤어질 때)
+[00:29.00]
+S | ¡Adiós! | 잘 가요!
+[00:30.36]
+S | ¡Hasta luego! | 나중에 봐요!
+[00:34.27]
+S | ¡Buenas noches! | 안녕히 주무세요! (헤어질 때의 밤 인사)
+[00:36.03]
+S | ¡Buenas noches! | 안녕히 주무세요!
+[00:39.27]
+S | ¡Felicidades! | 축하해요!
+[00:41.65]
+S | Gracias. | 고마워요.
+[00:45.89]
+S | ¡Muchas gracias! | 정말 고마워요!
+[00:47.51]
+S | De nada. | 천만에요.
+[00:51.60]
+S | Lo siento. | 미안해요.
+[00:53.06]
+S | No importa. | 괜찮아요.
+[00:56.75]
+S | Perdón. | 죄송해요. / 실례합니다.
+[00:58.05]
+S | No pasa nada. | 괜찮아요, 별일 아니에요.
+[01:01.35]
+S | ¡Buen provecho! | 맛있게 드세요!
+[01:03.47]
+S | Estoy satisfecho. | 배불러요. (여자는 satisfecha)
+[01:07.49]
+## Día 03 · 현재형 규칙 동사 (-ar · -er · -ir) — Yo hablo español.
+N | Día 3. | 3일차.
+[01:09.31]
+S | Yo hablo español. | 나는 스페인어를 말해요.
+[01:12.17]
+S | Yo hablo español. | 나는 스페인어를 말해요.
+[01:17.15]
+S | ¿Hablas tú español? | 너는 스페인어를 하니?
+[01:21.47]
+S | Él come una hamburguesa. | 그는 햄버거를 먹어요.
+[01:26.35]
+S | Yo no vivo en Seúl. | 나는 서울에 살지 않아요.
+[01:31.36]
+## Día 03 · 회화 — 요즘 이탈리아어 공부해
+A | Hola, buenos días, Ana. | 안녕, 좋은 아침이야, 아나.
+[01:33.50]
+A | ¿Qué tal? | 잘 지내?
+[01:34.82]
+B | Bien. | 잘 지내.
+[01:35.66]
+B | ¿Y tú? | 너는?
+[01:37.14]
+A | Muy bien. | 아주 잘 지내.
+[01:40.29]
+A | Estos días estudio italiano. | 요즘 이탈리아어를 공부해.
+[01:44.15]
+B | Ah, ¿hablas tú italiano? | 아, 너 이탈리아어 해?
+[01:46.79]
+A | Sí, un poco. | 응, 조금.
+[01:51.53]
+## Día 03 · 연습
+S | Yo hablo español. | 나는 스페인어를 말해요.
+[01:53.73]
+S | Nosotros hablamos chino. | 우리는 중국어를 말해요.
+[01:57.75]
+S | Ella habla ruso. | 그녀는 러시아어를 말해요.
+[02:00.47]
+S | Tú comes una hamburguesa. | 너는 햄버거를 먹어.
+[02:04.05]
+S | Los coreanos comen arroz. | 한국 사람들은 밥을 먹어요.
+[02:06.93]
+S | Comemos pizza. | 우리는 피자를 먹어요.
+[02:09.83]
+S | Vivo en Seúl. | 나는 서울에 살아요.
+[02:11.49]
+S | Usted vive en Daegu. | 당신은 대구에 살아요.
+[02:14.73]
+S | Viven en Uruguay. | 그들은 우루과이에 살아요.
+[02:19.23]
+## Día 04 · ser 동사 · 시간 말하기 — Yo soy coreano.
+N | Día 4. | 4일차.
+[02:21.15]
+S | Yo soy coreano. | 나는 한국 사람이에요.
+[02:22.85]
+S | Yo soy coreano. | 나는 한국 사람이에요.
+[02:28.00]
+S | ¿De dónde eres tú? | 너는 어디 출신이야?
+[02:32.78]
+S | Este libro es grande. | 이 책은 커요.
+[02:37.45]
+S | ¿Qué hora es? | 몇 시예요?
+[02:40.97]
+## Día 04 · 회화 — 너 학생이야?
+A | ¿Eres tú estudiante? | 너 학생이야?
+[02:43.11]
+B | Sí, soy estudiante. | 응, 학생이야.
+[02:45.85]
+A | ¿Es Elena profesora? | 엘레나는 선생님이야?
+[02:48.09]
+B | No, no es profesora. | 아니, 선생님 아니야.
+[02:51.11]
+B | Ella es cantante. | 그녀는 가수야.
+[02:55.15]
+## Día 04 · 연습 — 남성형 / 여성형
+S | Soy mexicano. | 나는 멕시코 사람이에요. (남)
+[02:57.72]
+S | Soy mexicana. | 나는 멕시코 사람이에요. (여)
+[03:00.26]
+S | Soy chino. | 나는 중국 사람이에요. (남)
+[03:01.98]
+S | Soy china. | 나는 중국 사람이에요. (여)
+[03:03.98]
+S | Soy estudiante. | 나는 학생이에요.
+[03:06.26]
+S | Soy cantante. | 나는 가수예요.
+[03:08.92]
+S | Soy amable. | 나는 친절해요.
+[03:09.84]
+S | Soy bajo. | 나는 키가 작아요. (남)
+[03:12.66]
+S | Soy baja. | 나는 키가 작아요. (여)
+[03:15.20]
+S | Soy delgado. | 나는 날씬해요. (남)
+[03:16.98]
+S | Soy delgada. | 나는 날씬해요. (여)
+[03:19.24]
+S | Soy activo. | 나는 활발해요. (남)
+[03:21.14]
+S | Soy activa. | 나는 활발해요. (여)
+[03:24.96]
+## Día 05 · estar 동사 — 위치와 상태
+N | Día 5. | 5일차.
+[03:26.82]
+S | Juan está en la biblioteca. | 후안은 도서관에 있어요.
+[03:30.40]
+S | ¿Dónde está Juan? | 후안은 어디 있어요?
+[03:34.27]
+S | Juan está en la biblioteca. | 후안은 도서관에 있어요.
+[03:39.28]
+S | ¿Cómo está tu profesor? | 너희 선생님은 어떠셔?
+[03:43.29]
+S | Mi profesor está muy bien. | 우리 선생님은 아주 잘 지내셔.
+[03:45.77]
+## Día 05 · 회화 — 요즘 바빠
+A | Hola, Ana. | 안녕, 아나.
+[03:49.58]
+A | ¿Cómo estás? | 어떻게 지내?
+[03:51.42]
+B | Así, así. | 그냥 그래.
+[03:52.76]
+B | ¿Y tú? | 너는?
+[03:53.96]
+A | Bien, pero estoy ocupado estos días. | 잘 지내. 그런데 요즘 바빠.
+[03:58.06]
+B | Yo también estoy muy ocupada. | 나도 아주 바빠.
+[04:03.75]
+## Día 05 · 연습
+S | Estoy en la escuela. | 나는 학교에 있어요.
+[04:06.59]
+S | Estoy en el metro. | 나는 지하철에 있어요.
+[04:09.57]
+S | Estoy en la parada de autobús. | 나는 버스 정류장에 있어요.
+[04:12.97]
+S | Estoy en la habitación. | 나는 방에 있어요.
+[04:16.71]
+S | Estoy triste. | 나는 슬퍼요.
+[04:17.59]
+S | Estoy alegre. | 나는 기뻐요.
+[04:20.79]
+S | Estoy cansado. | 나는 피곤해요. (남)
+[04:22.91]
+S | Estoy cansada. | 나는 피곤해요. (여)
+[04:25.05]
+S | Estoy resfriado. | 나는 감기에 걸렸어요. (남)
+[04:27.25]
+S | Estoy resfriada. | 나는 감기에 걸렸어요. (여)
+[04:31.36]
+## Día 06 · hay — 있다 / hay que — ~해야 한다
+N | Día 6. | 6일차.
+[04:33.62]
+S | ¿Hay una farmacia cerca de aquí? | 이 근처에 약국이 있어요?
+[04:37.64]
+S | Hay un libro en la cama. | 침대 위에 책이 한 권 있어요.
+[04:43.52]
+S | ¿Hay una farmacia cerca de aquí? | 이 근처에 약국이 있어요?
+[04:49.71]
+S | Sí, hay una enfrente de mi casa. | 네, 우리 집 맞은편에 하나 있어요.
+[04:55.02]
+S | Hay que estudiar mucho. | 공부를 많이 해야 해요.
+[05:00.56]
+## Día 06 · 회화 — 상자 안에 뭐가 있어?
+A | Hay una caja en la sala de estar. | 거실에 상자가 하나 있어.
+[05:03.80]
+B | ¿Qué hay en la caja? | 상자 안에 뭐가 있어?
+[05:06.12]
+A | En la caja hay un regalo. | 상자 안에 선물이 있어.
+[05:09.08]
+B | Ah, hoy es el cumpleaños de tu madre. | 아, 오늘 너희 어머니 생신이구나.
+[05:15.29]
+## Día 06 · 연습
+S | Hay un sombrero. | 모자가 하나 있어요.
+[05:17.71]
+S | Hay una pluma. | 펜이 하나 있어요.
+[05:20.11]
+S | Hay diez muchachos. | 남자아이가 열 명 있어요.
+[05:23.01]
+S | ¿Hay un piano? | 피아노가 있어요?
+[05:25.23]
+S | ¿Hay una silla? | 의자가 있어요?
+[05:26.51]
+S | ¿Hay música? | 음악이 있어요?
+[05:29.57]
+S | Hay que dormir bien. | 잠을 잘 자야 해요.
+[05:32.25]
+S | Hay que bailar. | 춤을 춰야 해요.
+[05:34.49]
+S | Hay que limpiar la casa. | 집을 청소해야 해요.
+[05:38.82]
+## Día 07 · ir 동사 · ir a + 동사원형 · para — ¿Adónde vas?
+N | Día 7. | 7일차.
+[05:40.84]
+S | ¿Adónde vas? | 어디 가?
+[05:43.38]
+S | ¿Adónde vas? | 어디 가?
+[05:47.34]
+S | Voy a la oficina para trabajar. | 일하러 사무실에 가요.
+[05:52.77]
+S | ¿Qué vas a comprar? | 뭘 살 거야?
+[05:56.66]
+S | ¡Vamos a ir al hotel! | 호텔에 가자!
+[06:00.67]
+## Día 07 · 회화 — 어디 가?
+A | ¡Hola, Ana! | 안녕, 아나!
+[06:02.33]
+A | ¿Adónde vas? | 어디 가?
+[06:03.93]
+B | Voy al gimnasio. | 헬스장에 가.
+[06:05.87]
+B | ¿Y tú? | 너는?
+[06:06.83]
+B | ¿Adónde vas? | 너는 어디 가?
+[06:08.35]
+A | Voy al parque de atracciones. | 나는 놀이공원에 가.
+[06:11.53]
+B | Hasta luego. | 나중에 봐.
+[06:13.21]
+A | Chao. | 안녕.
+[06:16.46]
+## Día 07 · 연습
+S | ¿Adónde vas? | 너는 어디 가?
+[06:18.12]
+S | ¿Adónde va Elena? | 엘레나는 어디 가요?
+[06:20.36]
+S | ¿Adónde van los profesores? | 선생님들은 어디 가세요?
+[06:22.88]
+S | ¿Adónde vais? | 너희는 어디 가?
+[06:26.23]
+S | Él va a la oficina para trabajar. | 그는 일하러 사무실에 가요.
+[06:28.75]
+S | Nosotros vamos al supermercado para comprar comida. | 우리는 음식을 사러 슈퍼마켓에 가요.
+[06:35.65]
+S | Ellos van a la biblioteca para estudiar. | 그들은 공부하러 도서관에 가요.
+[06:39.53]
+S | ¡Vamos a bailar! | 춤추자!
+[06:42.29]
+S | ¡Vamos a ir al aeropuerto! | 공항에 가자!
+[06:45.15]
+S | ¡Vamos a comer comida coreana! | 한국 음식 먹자!
+[06:52.48]
+## Día 08 · tener · tener que · conocer / saber — Tengo un hermano.
+N | Día 8. | 8일차.
+[06:54.30]
+S | Tengo un hermano. | 나는 형(남동생)이 한 명 있어요.
+[06:56.98]
+S | ¿Cuántos hermanos tienes? | 형제가 몇 명이야?
+[07:01.94]
+S | Tengo dolor de estómago. | 배가 아파요.
+[07:06.23]
+S | Tengo que ver la película. | 그 영화를 봐야 해요.
+[07:11.79]
+S | Conozco un buen restaurante. | 좋은 식당을 하나 알아요.
+[07:17.36]
+## Día 08 · 회화 — 돈키호테 식당 알아?
+A | ¿Sabes dónde está el restaurante Don Quijote? | 돈키호테 식당이 어디 있는지 알아?
+[07:20.96]
+B | Sí, aquí tienes su dirección. | 응, 여기 주소 있어.
+[07:24.90]
+A | Gracias. | 고마워.
+[07:25.94]
+A | Si tienes tiempo, vamos a comer juntos. | 시간 있으면 같이 먹으러 가자.
+[07:29.80]
+B | ¡Qué bien! | 좋아!
+[07:30.96]
+B | ¡Vamos! | 가자!
+[07:34.12]
+## Día 08 · 연습
+S | Tenemos un libro francés. | 우리는 프랑스어 책이 한 권 있어요.
+[07:37.36]
+S | Ellos tienen muchos hijos. | 그들은 자녀가 많아요.
+[07:39.52]
+S | Julio tiene una computadora blanca. | 훌리오는 하얀 컴퓨터가 있어요.
+[07:44.38]
+S | Tú tienes que comer mucho. | 너는 많이 먹어야 해.
+[07:47.72]
+S | Tengo que esperar diez minutos. | 나는 10분 기다려야 해요.
+[07:51.02]
+S | Ellos tienen que cuidar a los niños. | 그들은 아이들을 돌봐야 해요.
+[07:54.90]
+S | Sabemos bailar y cantar. | 우리는 춤추고 노래할 줄 알아요.
+[07:58.22]
+S | Usted sabe enseñar historia. | 당신은 역사를 가르칠 줄 알아요.
+[08:01.30]
+S | Ellos saben tocar el piano. | 그들은 피아노를 칠 줄 알아요.
+[08:06.41]
+## Día 09 · 어간 변화 동사 · -mente 부사 — ¿Cómo puedo llegar ahí?
+N | Día 9. | 9일차.
+[08:07.87]
+S | ¿Cómo puedo llegar ahí? | 거기에 어떻게 갈 수 있어요?
+[08:10.19]
+S | ¿Cómo puedo llegar ahí? | 거기에 어떻게 갈 수 있어요?
+[08:15.99]
+S | ¿A qué hora empieza la película? | 영화는 몇 시에 시작해요?
+[08:21.42]
+S | Ellos piden más torta. | 그들은 케이크를 더 달라고 해요.
+[08:26.48]
+S | Josefina cierra la puerta rápidamente. | 호세피나는 문을 빨리 닫아요.
+[08:33.32]
+## Día 09 · 회화 — 옷 가게에서
+A | Buenas tardes. | 안녕하세요.
+[08:34.58]
+A | ¿Qué desea usted? | 무엇을 찾으세요?
+[08:36.66]
+B | Buenas tardes. | 안녕하세요.
+[08:38.44]
+B | Quiero comprar un vestido. | 원피스를 사고 싶어요.
+[08:40.88]
+B | ¿Cuánto cuesta este vestido? | 이 원피스 얼마예요?
+[08:44.08]
+A | Cuesta cincuenta euros. | 50유로예요.
+[08:46.24]
+B | ¿Puedo pagar con tarjeta de crédito? | 신용카드로 계산할 수 있어요?
+[08:50.76]
+A | Por supuesto. | 물론이죠.
+[08:55.39]
+## Día 09 · 연습
+S | ¿Puedes hablar español? | 너 스페인어 할 수 있어?
+[08:57.87]
+S | Puedes escribir una novela. | 너는 소설을 쓸 수 있어.
+[09:01.53]
+S | ¿Puedes cantar una canción? | 노래 한 곡 불러 줄 수 있어?
+[09:05.39]
+S | Prefiero el café. | 나는 커피가 더 좋아요.
+[09:07.61]
+S | Prefiero la fruta. | 나는 과일이 더 좋아요.
+[09:10.29]
+S | Prefiero la música coreana. | 나는 한국 음악이 더 좋아요.
+[09:13.11]
+S | Él pide una hamburguesa de queso. | 그는 치즈버거를 주문해요.
+[09:17.45]
+S | Él pide una sopa de verduras. | 그는 채소 수프를 주문해요.
+[09:21.17]
+S | Él pide una ensalada. | 그는 샐러드를 주문해요.
+[09:27.22]
+## Día 10 · 재귀동사 · 목적격 대명사 — ¿Cómo te llamas?
+N | Día 10. | 10일차.
+[09:28.96]
+S | ¿Cómo te llamas? | 이름이 뭐야?
+[09:31.08]
+S | ¿Cómo te llamas? | 이름이 뭐야?
+[09:34.88]
+S | Ellos lo compran. | 그들이 그것을 사요.
+[09:39.19]
+S | Mi madre me prepara la cena. | 엄마가 나에게 저녁을 차려 줘요.
+[09:44.62]
+S | Josefina me lo compra. | 호세피나가 나에게 그것을 사 줘요.
+[09:48.47]
+## Día 10 · 회화 — 내 친구를 소개할게
+A | Hola, Felipe. Te presento a mi amiga. | 안녕, 펠리페. 내 친구를 소개할게.
+[09:53.29]
+B | Mucho gusto. | 만나서 반가워.
+[09:54.91]
+C | Encantada. | 반가워.
+[09:56.47]
+B | Me llamo Felipe. | 나는 펠리페야.
+[09:58.23]
+B | ¿Cómo te llamas? | 너는 이름이 뭐야?
+[09:59.87]
+C | Me llamo Ana. | 나는 아나야.
+[10:04.17]
+## Día 10 · 연습
+S | Me llamo Felipe. | 내 이름은 펠리페예요.
+[10:06.73]
+S | Él se llama Andrés. | 그의 이름은 안드레스예요.
+[10:09.77]
+S | Usted se llama Pablo. | 당신의 이름은 파블로예요.
+[10:12.95]
+S | Me lavo la cara todos los días. | 나는 매일 세수해요.
+[10:16.59]
+S | Me afeito a veces. | 나는 가끔 면도해요.
+[10:18.19]
+S | Me cepillo los dientes. | 나는 이를 닦아요.
+[10:22.53]
+S | No me levanto temprano. | 나는 일찍 일어나지 않아요.
+[10:25.65]
+S | No me lavo la cara. | 나는 세수하지 않아요.
+[10:28.01]
+S | No me ducho por la mañana. | 나는 아침에 샤워하지 않아요.
+[10:33.55]
+## Día 11 · 현재진행형 · ¡Qué…! 감탄문 — Estoy tocando el piano.
+N | Día 11. | 11일차.
+[10:35.73]
+S | Estoy tocando el piano. | 나는 피아노를 치고 있어요.
+[10:39.09]
+S | ¿Qué estás haciendo ahora? | 지금 뭐 하고 있어?
+[10:43.22]
+S | Estoy estudiando la cultura mexicana. | 멕시코 문화를 공부하고 있어요.
+[10:48.90]
+S | Marisa es mi vieja amiga. | 마리사는 내 오랜 친구예요.
+[10:52.91]
+S | ¡Qué bueno! | 정말 좋다!
+[10:57.19]
+## Día 11 · 회화 — 뭐 하고 있어?
+A | Hola, amiga, ¿qué estás haciendo? | 안녕, 친구야. 뭐 하고 있어?
+[11:00.55]
+B | Estoy comprando un vestido nuevo. | 새 원피스를 사고 있어.
+[11:03.95]
+A | ¡Qué bonito! | 정말 예쁘다!
+[11:05.85]
+A | ¿Qué estás buscando? | 뭘 찾고 있어?
+[11:08.47]
+B | Solo estoy mirando. | 그냥 구경하고 있어.
+[11:13.16]
+## Día 11 · 연습
+S | Estoy comiendo tacos. | 타코를 먹고 있어요.
+[11:16.02]
+S | Estoy bailando. | 춤추고 있어요.
+[11:18.74]
+S | Estoy leyendo la Biblia. | 성경을 읽고 있어요.
+[11:21.76]
+S | Vienen tomando helado. | 그들은 아이스크림을 먹으면서 와요.
+[11:23.78]
+S | Juan trabaja escuchando música. | 후안은 음악을 들으면서 일해요.
+[11:28.46]
+S | Descanso tomando el sol. | 나는 햇볕을 쬐면서 쉬어요.
+[11:32.36]
+S | ¿Qué estás comiendo? | 뭘 먹고 있어?
+[11:34.40]
+S | ¿Qué estás mirando? | 뭘 보고 있어?
+[11:37.04]
+S | ¿Qué estás haciendo? | 뭐 하고 있어?
+[11:42.27]
+## Día 12 · 날씨 · 날짜 · hace … que — Hace buen tiempo.
+N | Día 12. | 12일차.
+[11:44.69]
+S | Hace buen tiempo. | 날씨가 좋아요.
+[11:47.19]
+S | ¿Qué tiempo hace hoy? | 오늘 날씨 어때요?
+[11:49.57]
+S | Hace buen tiempo. | 날씨가 좋아요.
+[11:54.11]
+S | Está nublado. | 흐려요.
+[11:57.42]
+S | Hace un mes que estudio español. | 스페인어를 공부한 지 한 달 됐어요.
+[12:03.27]
+S | ¿Qué fecha es hoy? | 오늘 며칠이에요?
+[12:05.51]
+S | Hoy es 7 de noviembre. | 오늘은 11월 7일이에요.
+[12:11.09]
+S | Hoy hace buen tiempo. | 오늘은 날씨가 좋아요.
+[12:14.33]
+S | Siempre hace sol en España. | 스페인은 늘 화창해요.
+[12:17.63]
+## Día 12 · 회화 — 내일이 호세피나 생일이네
+A | ¿Qué fecha es hoy? | 오늘 며칠이야?
+[12:20.43]
+B | Hoy es 5 de septiembre. | 오늘은 9월 5일이야.
+[12:23.79]
+A | Ah, entonces mañana es el cumpleaños de Josefina. | 아, 그럼 내일이 호세피나 생일이네.
+[12:30.15]
+## Día 12 · 연습
+S | Hace buen tiempo. | 날씨가 좋아요.
+[12:33.77]
+S | Hace mal tiempo. | 날씨가 나빠요.
+[12:36.43]
+S | Hace sol. | 해가 났어요. / 화창해요.
+[12:38.39]
+S | Hace viento. | 바람이 불어요.
+[12:40.75]
+S | Hoy es lunes. | 오늘은 월요일이에요.
+[12:43.07]
+S | Hoy es 12 de abril. | 오늘은 4월 12일이에요.
+[12:45.97]
+S | Hoy es el cumpleaños de mi primo. | 오늘은 내 사촌의 생일이에요.
+[12:49.63]
+S | Hoy es un día especial. | 오늘은 특별한 날이에요.
+[12:53.07]
+S | Hace diez días que estudio italiano. | 이탈리아어를 공부한 지 열흘 됐어요.
+[12:56.19]
+S | Hace una semana que leo la revista. | 그 잡지를 읽은 지 일주일 됐어요.
+[13:01.45]
+S | Hace un mes que viajo por España. | 스페인을 여행한 지 한 달 됐어요.
+[13:07.02]
+## Día 13 · gustar 동사 — Me gusta la manzana.
+N | Día 13. | 13일차.
+[13:09.24]
+S | Me gusta la manzana. | 나는 사과를 좋아해요.
+[13:12.00]
+S | Me gusta la manzana. | 나는 사과를 좋아해요.
+[13:17.05]
+S | Me gusta cantar. | 나는 노래하는 걸 좋아해요.
+[13:21.50]
+S | A mí me gusta el chocolate. | 나는 초콜릿을 좋아해요.
+[13:25.91]
+S | ¿Qué te gusta hacer en tu tiempo libre? | 시간 날 때 뭐 하는 걸 좋아해?
+[13:30.93]
+## Día 13 · 회화 — 시간 날 때 뭐 해?
+A | ¿Te gusta bailar? | 춤추는 거 좋아해?
+[13:33.85]
+B | Sí, me gusta bailar y cantar. | 응, 춤추고 노래하는 거 좋아해.
+[13:37.99]
+B | ¿Qué te gusta hacer en tu tiempo libre? | 너는 시간 날 때 뭐 하는 걸 좋아해?
+[13:41.17]
+A | Me gusta leer libros y dormir. | 나는 책 읽고 자는 걸 좋아해.
+[13:44.61]
+B | A mí también. | 나도.
+[13:49.86]
+## Día 13 · 연습
+S | Me gusta la computadora. | 나는 컴퓨터를 좋아해요.
+[13:53.02]
+S | Me gustan las lenguas extranjeras. | 나는 외국어를 좋아해요.
+[13:56.68]
+S | Me gustan los parques naturales. | 나는 자연공원을 좋아해요.
+[14:00.50]
+S | Me gusta pintar. | 나는 그림 그리는 걸 좋아해요.
+[14:02.32]
+S | Me gusta jugar al fútbol. | 나는 축구하는 걸 좋아해요.
+[14:06.18]
+S | No me gusta ir de compras. | 나는 쇼핑하러 가는 걸 좋아하지 않아요.
+[14:09.34]
+S | No me gusta montar en bicicleta. | 나는 자전거 타는 걸 좋아하지 않아요.
+[14:13.14]
+S | ¿Te gusta jugar al baloncesto? | 농구하는 거 좋아해?
+[14:16.14]
+S | ¿Te gusta cocinar? | 요리하는 거 좋아해?
+[14:18.40]
+S | ¿Te gusta conducir? | 운전하는 거 좋아해?
+[14:23.21]
+## Día 14 · 과거분사 · 현재완료 — He estado en Inglaterra.
+N | Día 14. | 14일차.
+[14:25.73]
+S | José es un estudiante divertido. | 호세는 재미있는 학생이에요.
+[14:29.83]
+S | José es un estudiante divertido. | 호세는 재미있는 학생이에요.
+[14:34.68]
+S | La tienda ya está cerrada. | 가게는 벌써 닫혔어요.
+[14:40.51]
+S | He estado en Inglaterra. | 나는 영국에 가 본 적이 있어요.
+[14:44.79]
+S | Hoy me he levantado tarde. | 오늘 나는 늦게 일어났어요.
+[14:50.05]
+## Día 14 · 회화 — 추로스 먹어 봤어?
+A | ¿Has probado churros? | 추로스 먹어 봤어?
+[14:52.39]
+B | Todavía no. | 아직.
+[14:54.33]
+A | Te invito a comer. | 내가 사 줄게.
+[14:56.57]
+B | Gracias, pero no he terminado la tarea. | 고마워, 그런데 아직 숙제를 못 끝냈어.
+[15:00.43]
+A | Bueno. Pues, vamos a comerlos la semana próxima. | 좋아. 그럼 다음 주에 먹으러 가자.
+[15:05.74]
+## Día 14 · 연습
+S | La tienda está cerrada. | 가게가 닫혀 있어요.
+[15:09.38]
+S | El centro está cerrado. | 센터가 닫혀 있어요.
+[15:12.56]
+S | La carnicería está cerrada. | 정육점이 닫혀 있어요.
+[15:16.30]
+S | He estado en Japón. | 나는 일본에 가 본 적이 있어요.
+[15:19.26]
+S | He estado en esa iglesia. | 나는 그 성당에 가 본 적이 있어요.
+[15:22.38]
+S | He estado en aquel hotel. | 나는 저 호텔에 가 본 적이 있어요.
+[15:25.68]
+S | Hoy he ido a la escuela. | 오늘 나는 학교에 갔어요.
+[15:28.76]
+S | Hoy he comido un pollo asado. | 오늘 나는 통닭구이를 먹었어요.
+[15:31.42]
+S | Hoy he terminado la tarea. | 오늘 나는 숙제를 끝냈어요.
+[15:37.51]
+## Día 15 · 비교급 · 최상급 — Juan es más alto que Daniela.
+N | Día 15. | 15일차.
+[15:39.63]
+S | Juan es más alto que Daniela. | 후안은 다니엘라보다 키가 커요.
+[15:43.99]
+S | Juan es más alto que Daniela. | 후안은 다니엘라보다 키가 커요.
+[15:49.67]
+S | Eduardo es tan alto como Juan. | 에두아르도는 후안만큼 키가 커요.
+[15:55.11]
+S | Este violín es mejor que aquel. | 이 바이올린이 저것보다 좋아요.
+[16:00.86]
+S | Esta flor es la más hermosa de todas. | 이 꽃이 모든 꽃 중에서 가장 아름다워요.
+[16:06.27]
+## Día 15 · 회화 — 반에서 누가 제일 똑똑해?
+A | Elena es más delgada que Juan. | 엘레나는 후안보다 날씬해.
+[16:11.29]
+B | Sí, pero ella es menos alta que Juan. | 응, 하지만 후안보다 키는 작아.
+[16:15.75]
+A | ¿Quién es el más inteligente de la clase? | 반에서 누가 제일 똑똑해?
+[16:19.27]
+B | Eduardo es el más inteligente de la clase. | 에두아르도가 반에서 제일 똑똑해.
+[16:25.28]
+## Día 15 · 연습
+S | Juan es más fuerte que Andrea. | 후안은 안드레아보다 힘이 세요.
+[16:29.76]
+S | Este refrigerador es menos caro que aquel. | 이 냉장고는 저것보다 덜 비싸요.
+[16:33.52]
+S | Mi primo es menos simpático que Juan. | 내 사촌은 후안보다 덜 상냥해요.
+[16:39.00]
+S | Tú eres tan inteligente como mi tío. | 너는 우리 삼촌만큼 똑똑해.
+[16:43.44]
+S | Esta flor es tan hermosa como esa. | 이 꽃은 그 꽃만큼 아름다워요.
+[16:48.28]
+S | Luis corre tan rápido como ellos. | 루이스는 그들만큼 빨리 달려요.
+[16:52.72]
+S | Juan es el más bajo del grupo. | 후안이 그룹에서 키가 제일 작아요.
+[16:56.90]
+S | Juan es el menos amable de la clase. | 후안이 반에서 제일 덜 친절해요.
+[17:00.28]
+S | Esta ciudad es la más hermosa del mundo. | 이 도시가 세상에서 가장 아름다워요.
+[17:08.89]
+## Día 16 · 명령형 — Abre la ventana.
+N | Día 16. | 16일차.
+[17:11.49]
+S | Abre la ventana. | 창문 열어.
+[17:14.03]
+S | Abre la ventana. | 창문 열어.
+[17:18.43]
+S | No uses ese teléfono. | 그 전화기 쓰지 마.
+[17:23.53]
+S | Coma frutas. | 과일을 드세요.
+[17:27.61]
+S | No beba mucho refresco. | 탄산음료를 많이 드시지 마세요.
+[17:32.78]
+## Día 16 · 회화 — 소금 좀 건네줘
+A | Come esto, está delicioso. | 이거 먹어 봐, 맛있어.
+[17:35.26]
+B | Gracias. | 고마워.
+[17:37.30]
+B | Está muy rico. | 정말 맛있다.
+[17:39.60]
+B | Pásame la sal, por favor. | 소금 좀 건네줘.
+[17:42.20]
+A | Toma. | 여기 있어.
+[17:45.11]
+## Día 16 · 연습 — tú / usted 긍정·부정 명령
+S | ¡Haz la tarea! | 숙제해! (tú)
+[17:47.55]
+S | ¡Haz la cama! | 침대 정리해! (tú)
+[17:49.77]
+S | ¡No hagas la tarea! | 숙제하지 마! (tú)
+[17:52.51]
+S | ¡No hagas la cama! | 침대 정리하지 마! (tú)
+[17:55.07]
+S | ¡Haga la tarea! | 숙제하세요! (usted)
+[17:57.47]
+S | ¡Haga la cama! | 침대 정리하세요! (usted)
+[17:59.33]
+S | ¡No haga la tarea! | 숙제하지 마세요! (usted)
+[18:01.27]
+S | ¡No haga la cama! | 침대 정리하지 마세요! (usted)

@@ -1,0 +1,1206 @@
+{
+ "lang": "es",
+ "date": "2026-11-11",
+ "title": "독학 스페인어 첫걸음 — Día 02~16 본문 문장",
+ "es": "Yo hablo español.",
+ "emoji": "📗",
+ "level": "A1",
+ "channel": "독학 스페인어 첫걸음 (사용자 제공 음성·교정본)",
+ "videoTitle": "본문 모든 문장 (Día 02–16)",
+ "audio": "audio.m4a",
+ "duration": "18:04",
+ "speakers": {
+  "S": "문장",
+  "N": "Día",
+  "A": "A",
+  "B": "B",
+  "C": "C"
+ },
+ "hideCast": true,
+ "summary": "'독학 스페인어 첫걸음' Día 02~16의 본문 음성(18분)을 문장마다 싱크했어요. 날마다 ① 핵심 문장·예문 ② 짧은 회화 ③ 연습 순서로 나뉘어 있어요. 인사 → 현재형 규칙 동사 → ser·estar → hay → ir a → tener·saber → 어간 변화 동사 → 재귀동사·목적격 대명사 → 진행형 → 날씨·날짜 → gustar → 현재완료 → 비교급 → 명령형까지 기초 문법을 한 바퀴 돌아요. 직접 친 교정본 문장 중 음성에 없는 예문들은 '정리' 탭의 Día별 문법 카드에 모두 넣었어요.",
+ "topics": [
+  "Día 02–05 인사 · 현재형 규칙 동사 · ser · estar",
+  "Día 06–09 hay · ir a / para · tener que · saber / conocer · 어간 변화 동사",
+  "Día 10–12 재귀동사 · 목적격 대명사 · 현재진행형 · ¡Qué…! · 날씨 · 날짜 · hace … que",
+  "Día 13–16 gustar · 현재완료 · 수동태 · 비교급 · 최상급 · 명령형"
+ ],
+ "grammar": [
+  {
+   "title": "Día 02 · 인사 표현",
+   "lead": "시간대별 인사와 기본 예의 표현. <b>buenos días</b>(오전), <b>buenas tardes</b>(오후~해 질 때), <b>buenas noches</b>(저녁·밤, 헤어질 때도).",
+   "examples": [
+    [
+     "Mucho gusto. — Encantado / Encantada.",
+     "만나서 반가워요. (말하는 사람이 남자면 -o, 여자면 -a)"
+    ],
+    [
+     "Lo siento. — No importa.",
+     "미안해요. — 괜찮아요."
+    ],
+    [
+     "Perdón. — No pasa nada.",
+     "죄송해요. — 별일 아니에요."
+    ],
+    [
+     "¡Buen provecho! — Estoy satisfecho/a.",
+     "맛있게 드세요! — 배불러요."
+    ]
+   ],
+   "tip": "스페인어 감탄문·의문문은 앞에 거꾸로 된 ¡ ¿를 붙여요."
+  },
+  {
+   "title": "Día 03 · 현재형 규칙 동사",
+   "lead": "동사원형 끝이 <b>-ar · -er · -ir</b>에 따라 어미가 바뀌어요. 주어 대명사는 자주 생략해요.",
+   "table": {
+    "head": [
+     "주어",
+     "hablar",
+     "comer",
+     "vivir"
+    ],
+    "rows": [
+     [
+      "yo",
+      "hablo",
+      "como",
+      "vivo"
+     ],
+     [
+      "tú",
+      "hablas",
+      "comes",
+      "vives"
+     ],
+     [
+      "él/ella/usted",
+      "habla",
+      "come",
+      "vive"
+     ],
+     [
+      "nosotros",
+      "hablamos",
+      "comemos",
+      "vivimos"
+     ],
+     [
+      "vosotros",
+      "habláis",
+      "coméis",
+      "vivís"
+     ],
+     [
+      "ellos/ustedes",
+      "hablan",
+      "comen",
+      "viven"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Elena baila tango.",
+     "엘레나는 탱고를 춰요. (bailar)"
+    ],
+    [
+     "Estudiamos inglés.",
+     "우리는 영어를 공부해요. (estudiar)"
+    ],
+    [
+     "¿Ellos preparan la comida?",
+     "그들이 음식을 준비해요? (preparar)"
+    ],
+    [
+     "Tú aprendes la historia coreana.",
+     "너는 한국 역사를 배워. (aprender)"
+    ],
+    [
+     "Ellos leen el libro de texto.",
+     "그들은 교과서를 읽어요. (leer)"
+    ],
+    [
+     "¿Qué venden ellos? — Ellos venden libros.",
+     "그들은 뭘 팔아요? — 책을 팔아요. (vender)"
+    ],
+    [
+     "Yo hablo coreano. / Yo no hablo coreano.",
+     "나는 한국어를 해요. / 나는 한국어를 못 해요. (부정은 동사 앞에 no)"
+    ]
+   ]
+  },
+  {
+   "title": "Día 04 · ser 동사 · 시간",
+   "lead": "<b>ser</b>는 이름·국적·직업·성격 같은 본질을 말해요(soy, eres, es, somos, sois, son). 시각도 ser로: 1시는 <b>es la una</b>, 2시부터 <b>son las…</b>.",
+   "examples": [
+    [
+     "Yo soy Juan. / Tú eres dentista.",
+     "나는 후안이에요. / 너는 치과 의사야."
+    ],
+    [
+     "Nosotras somos profesoras.",
+     "우리(여자들)는 선생님이에요."
+    ],
+    [
+     "Él es amable. / Carlos es alto.",
+     "그는 친절해요. / 카를로스는 키가 커요."
+    ],
+    [
+     "¿Dónde estudias tú? — Estudio en la biblioteca.",
+     "너는 어디서 공부해? — 도서관에서 공부해."
+    ],
+    [
+     "Soy de Corea. / Soy de Francia.",
+     "나는 한국 출신이에요. / 프랑스 출신이에요."
+    ],
+    [
+     "Es la una. / Es la una y diez. / Es la una y media.",
+     "1시예요. / 1시 10분이에요. / 1시 반이에요."
+    ],
+    [
+     "Son las dos. / Son las siete y cuarto. / Son las cinco en punto.",
+     "2시예요. / 7시 15분이에요. / 5시 정각이에요."
+    ]
+   ],
+   "tip": "형용사는 성·수를 맞춰요: mexicano/mexicana, bajo/baja. -e로 끝나는 것(amable, cantante)은 남녀 같은 꼴."
+  },
+  {
+   "title": "Día 05 · estar 동사",
+   "lead": "<b>estar</b>(estoy, estás, está, estamos, estáis, están)는 <b>위치</b>와 <b>일시적인 상태</b>를 말해요.",
+   "examples": [
+    [
+     "Estamos tristes.",
+     "우리는 슬퍼요."
+    ],
+    [
+     "Mi primo está enfermo.",
+     "내 사촌은 아파요."
+    ],
+    [
+     "La casa está sucia.",
+     "집이 더러워요."
+    ],
+    [
+     "¿Dónde está Carlos? — Él está en la librería.",
+     "카를로스는 어디 있어요? — 서점에 있어요."
+    ],
+    [
+     "Ellos viven lejos de la universidad.",
+     "그들은 대학에서 멀리 살아요."
+    ],
+    [
+     "El libro está sobre la mesa.",
+     "책은 탁자 위에 있어요."
+    ],
+    [
+     "¿Está Elena bien? / ¿Elena está bien? / Elena está bien, ¿verdad?",
+     "엘레나는 괜찮아요? (세 가지 묻는 방법)"
+    ],
+    [
+     "Juan es inteligente, ¿no?",
+     "후안은 똑똑하지? (ser = 성격)"
+    ]
+   ],
+   "tip": "ser vs estar: Juan es inteligente(본래 성질) / Juan está cansado(지금 상태)."
+  },
+  {
+   "title": "Día 06 · hay · hay que",
+   "lead": "<b>hay</b> = (불특정한 것이) 있다. 단수·복수 모두 hay. 특정한 것의 위치는 estar. <b>hay que + 동사원형</b> = (누구나) ~해야 한다.",
+   "examples": [
+    [
+     "Hay un hospital en la calle.",
+     "그 거리에 병원이 하나 있어요. (불특정 → hay)"
+    ],
+    [
+     "El hotel Hilton está en la calle.",
+     "힐튼 호텔은 그 거리에 있어요. (특정 → estar)"
+    ],
+    [
+     "¿Hay una blusa en el sofá?",
+     "소파 위에 블라우스가 있어요?"
+    ],
+    [
+     "No hay dinero. / No hay boletos.",
+     "돈이 없어요. / 표가 없어요."
+    ],
+    [
+     "Aquí hay un libro. / Allí hay una tienda de ropa.",
+     "여기에 책이 있어요. / 저기에 옷 가게가 있어요."
+    ],
+    [
+     "Hay que desayunar.",
+     "아침을 먹어야 해요."
+    ],
+    [
+     "Hay que aprender lenguas extranjeras.",
+     "외국어를 배워야 해요."
+    ],
+    [
+     "Hay que llegar a tiempo. / Hay que respetar a los padres.",
+     "제시간에 도착해야 해요. / 부모님을 공경해야 해요."
+    ]
+   ]
+  },
+  {
+   "title": "Día 07 · ir · ir a + 동사원형 · para",
+   "lead": "<b>ir</b>(voy, vas, va, vamos, vais, van) + <b>a</b> + 장소 = ~에 가다 (a + el = <b>al</b>). <b>ir a + 동사원형</b> = ~할 것이다. <b>Vamos a + 동사원형</b> = ~하자! <b>para + 동사원형</b> = ~하기 위해.",
+   "examples": [
+    [
+     "¿Adónde va ella? — Ella va a la escuela.",
+     "그녀는 어디 가요? — 학교에 가요."
+    ],
+    [
+     "Comemos para vivir.",
+     "우리는 살기 위해 먹어요."
+    ],
+    [
+     "Sara compra una novela para leer.",
+     "사라는 읽으려고 소설을 사요."
+    ],
+    [
+     "Voy a comprar una pluma y un cuaderno.",
+     "펜하고 공책을 살 거예요."
+    ],
+    [
+     "Voy a cantar una canción.",
+     "노래를 한 곡 부를 거예요."
+    ],
+    [
+     "Juan y Elena van a limpiar la casa.",
+     "후안과 엘레나는 집을 청소할 거예요."
+    ],
+    [
+     "¡Vamos a comer tacos! / ¡Vamos a descansar! / ¡Vamos a ir al museo!",
+     "타코 먹자! / 쉬자! / 박물관에 가자!"
+    ]
+   ]
+  },
+  {
+   "title": "Día 08 · tener · tener que · deber · conocer / saber",
+   "lead": "<b>tener</b>(tengo, tienes, tiene…) = 가지다. <b>tener + 명사</b>로 몸 상태를, <b>tener que / deber + 동사원형</b>으로 의무를 말해요. <b>conocer</b> = (사람·장소를 경험으로) 알다, <b>saber</b> = (정보를) 알다, <b>saber + 동사원형</b> = ~할 줄 알다.",
+   "examples": [
+    [
+     "¿Cuántos celulares hay en la mesa? — Hay tres.",
+     "탁자 위에 휴대폰이 몇 개 있어? — 세 개."
+    ],
+    [
+     "Tenemos un perro grande. / Elena tiene muchas preguntas.",
+     "우리는 큰 개가 있어요. / 엘레나는 질문이 많아요."
+    ],
+    [
+     "Tengo calor. / Tengo mucho frío. / Tengo sed. / Tengo sueño.",
+     "더워요. / 많이 추워요. / 목말라요. / 졸려요."
+    ],
+    [
+     "Tengo miedo. / Tengo suerte. / Tengo prisa. / Tengo dolor de cabeza.",
+     "무서워요. / 운이 좋아요. / 급해요. / 머리가 아파요."
+    ],
+    [
+     "Tengo diez años.",
+     "나는 열 살이에요."
+    ],
+    [
+     "Tengo que limpiar la casa. / Tengo que comprar una camisa.",
+     "집을 청소해야 해요. / 셔츠를 사야 해요."
+    ],
+    [
+     "Debo estar en casa. / Debemos llegar a tiempo.",
+     "나는 집에 있어야 해요. / 우리는 제시간에 도착해야 해요."
+    ],
+    [
+     "Conozco México. / Juan me conoce bien.",
+     "나는 멕시코에 가 봤어요. / 후안은 나를 잘 알아요."
+    ],
+    [
+     "Juan sabe la dirección de la empresa. / ¿Sabes dónde viven ellos?",
+     "후안은 회사 주소를 알아요. / 그들이 어디 사는지 알아?"
+    ]
+   ]
+  },
+  {
+   "title": "Día 09 · 어간 변화 동사 · -mente 부사",
+   "lead": "강세가 오는 어간 모음이 바뀌는 동사: <b>o→ue</b>(poder → puedo, dormir → duermo), <b>e→ie</b>(empezar → empieza, cerrar → cierra, querer → quiero, preferir → prefiero), <b>e→i</b>(pedir → pido, repetir → repite, vestir → viste). nosotros·vosotros는 안 바뀌어요. 형용사 여성형 + <b>-mente</b> = 부사.",
+   "examples": [
+    [
+     "¿Puedes tocar la guitarra?",
+     "기타 칠 수 있어?"
+    ],
+    [
+     "Duermo siete horas al día.",
+     "하루에 7시간 자요."
+    ],
+    [
+     "La clase empieza a las tres.",
+     "수업은 3시에 시작해요."
+    ],
+    [
+     "Ya te entiendo. / Te quiero mucho.",
+     "이제 네 말 이해해. / 너를 많이 사랑해."
+    ],
+    [
+     "Pido una ensalada. / Manuel repite las palabras.",
+     "샐러드를 주문해요. / 마누엘은 단어를 반복해요."
+    ],
+    [
+     "Julia viste a su hijo.",
+     "훌리아는 아들에게 옷을 입혀요."
+    ],
+    [
+     "Los coreanos comen arroz generalmente.",
+     "한국 사람들은 보통 밥을 먹어요. (general → generalmente)"
+    ],
+    [
+     "Ellos hablan amablemente.",
+     "그들은 친절하게 말해요."
+    ],
+    [
+     "Juan va a ese restaurante con frecuencia. / Ellos bailan con alegría.",
+     "후안은 그 식당에 자주 가요. / 그들은 즐겁게 춤춰요. (con + 명사 = 부사)"
+    ]
+   ]
+  },
+  {
+   "title": "Día 10 · 재귀동사 · 목적격 대명사",
+   "lead": "재귀동사는 me/te/se… 를 붙여 '자기 자신에게' 하는 동작(llamarse, lavarse, levantarse). 직접목적 <b>lo/la/los/las</b>(~을), 간접목적 <b>me/te/le/nos/os/les</b>(~에게)는 동사 앞에. 둘이 함께면 <b>간접 + 직접</b>, le/les는 <b>se</b>로 바뀌어요.",
+   "examples": [
+    [
+     "Me llamo Alicia.",
+     "내 이름은 알리시아예요."
+    ],
+    [
+     "Juan tiene el diccionario. → Juan lo tiene.",
+     "후안이 사전을 가지고 있어요. → 후안이 그것을 가지고 있어요."
+    ],
+    [
+     "Elena toma las vitaminas. → Elena las toma.",
+     "엘레나는 비타민을 먹어요. → 그것들을 먹어요."
+    ],
+    [
+     "Mis padres miran la televisión. → Mis padres la miran.",
+     "부모님이 TV를 보세요. → 그것을 보세요."
+    ],
+    [
+     "Ellos me escriben una carta. / El médico te da la medicina.",
+     "그들이 나에게 편지를 써요. / 의사가 너에게 약을 줘."
+    ],
+    [
+     "Te doy este libro. / Te lo compro.",
+     "너에게 이 책을 줄게. / 너에게 그것을 사 줄게."
+    ],
+    [
+     "Elena me regala dos libros. → Elena me los regala.",
+     "엘레나가 나에게 책 두 권을 선물해요. → 그것들을 선물해요."
+    ],
+    [
+     "Ella te la escribe.",
+     "그녀가 너에게 그것(편지)을 써 줘."
+    ],
+    [
+     "Se lo presto. / Se la regalamos.",
+     "그(녀)에게 그것을 빌려줘요. / 우리가 그(녀)에게 그것을 선물해요. (le lo → se lo)"
+    ],
+    [
+     "No se lo presto. / No se la regalamos.",
+     "부정은 대명사들 앞에 no."
+    ]
+   ]
+  },
+  {
+   "title": "Día 11 · 현재진행형 · 감탄문",
+   "lead": "<b>estar + 현재분사</b>(-ar → -ando, -er/-ir → -iendo; leer → leyendo) = ~하고 있다. 현재분사만 쓰면 '~하면서'. <b>¡Qué + 형용사/명사!</b> = 정말 ~하다!",
+   "examples": [
+    [
+     "Ella está hablando con Juan.",
+     "그녀는 후안과 이야기하고 있어요."
+    ],
+    [
+     "Julia y Josefina están corriendo.",
+     "훌리아와 호세피나는 달리고 있어요."
+    ],
+    [
+     "Ellos están cantando y bailando.",
+     "그들은 노래하고 춤추고 있어요."
+    ],
+    [
+     "Sara charla con ella comiendo paella.",
+     "사라는 파에야를 먹으면서 그녀와 수다를 떨어요."
+    ],
+    [
+     "Ellos bailan cantando una canción.",
+     "그들은 노래를 부르면서 춤춰요."
+    ],
+    [
+     "¡Qué interesante! / ¡Qué guapo! / ¡Qué guapa!",
+     "정말 재미있다! / 정말 잘생겼다! / 정말 예쁘다!"
+    ],
+    [
+     "¡Qué delicioso! / ¡Qué grande! / ¡Qué frío! / ¡Qué calor!",
+     "정말 맛있다! / 정말 크다! / 정말 춥다! / 정말 덥다!"
+    ],
+    [
+     "¡Qué pena! / ¡Qué alegría!",
+     "정말 안됐다! / 정말 기쁘다!"
+    ]
+   ]
+  },
+  {
+   "title": "Día 12 · 날씨 · 날짜 · hace … que",
+   "lead": "날씨는 <b>hace</b> + 명사(buen tiempo, calor, frío, sol, viento), <b>está</b> + 형용사(nublado, despejado), <b>hay</b> + 명사(nubes, niebla). 날짜는 <b>Hoy es</b> + 일 + de + 월. <b>Hace + 기간 + que + 현재형</b> = ~한 지 …됐다.",
+   "examples": [
+    [
+     "Hace calor. / Hace fresco.",
+     "더워요. / 선선해요."
+    ],
+    [
+     "Hay cuatro estaciones en Corea.",
+     "한국에는 사계절이 있어요."
+    ],
+    [
+     "En primavera hace buen tiempo. / En verano llueve mucho.",
+     "봄에는 날씨가 좋아요. / 여름에는 비가 많이 와요."
+    ],
+    [
+     "En otoño hace fresco. / En invierno nieva.",
+     "가을에는 선선해요. / 겨울에는 눈이 와요."
+    ],
+    [
+     "Está despejado. / Hay nubes. / Hay niebla.",
+     "맑아요. / 구름이 있어요. / 안개가 꼈어요."
+    ],
+    [
+     "Hace cinco años que vivo en Estados Unidos.",
+     "미국에 산 지 5년 됐어요."
+    ],
+    [
+     "Hace diez días que estoy a dieta. / Hace una hora que estoy aquí.",
+     "다이어트한 지 열흘 됐어요. / 여기 온 지 한 시간 됐어요."
+    ],
+    [
+     "Hoy es 15 de agosto. / ¿Qué día es hoy? — Hoy es lunes.",
+     "오늘은 8월 15일이에요. / 오늘 무슨 요일이에요? — 월요일이에요."
+    ],
+    [
+     "¿Qué es esto? / Tengo el libro que buscas.",
+     "이건 뭐예요? / 네가 찾는 책 나한테 있어. (que = 관계대명사)"
+    ]
+   ]
+  },
+  {
+   "title": "Día 13 · gustar 동사",
+   "lead": "<b>gustar</b>는 '~이 (나에게) 마음에 들다'라서 좋아하는 대상이 주어예요. 대상이 단수·동사원형이면 <b>gusta</b>, 복수면 <b>gustan</b>. 강조하거나 분명히 할 때 <b>a mí, a ti, a Juan…</b>을 앞에 붙여요. encantar·quedar·doler·molestar도 같은 구조.",
+   "examples": [
+    [
+     "Me gusta la manzana. / Te gusta la manzana. / Le gusta la manzana.",
+     "나는 / 너는 / 그(녀)는 사과를 좋아해요."
+    ],
+    [
+     "Me gustan todas las frutas.",
+     "나는 모든 과일을 좋아해요. (복수 → gustan)"
+    ],
+    [
+     "Me gusta bailar. / Me gusta nadar y tomar el sol.",
+     "나는 춤추는 걸 / 수영하고 햇볕 쬐는 걸 좋아해요."
+    ],
+    [
+     "¿Te gusta la cerveza? — No, no me gusta la cerveza.",
+     "맥주 좋아해? — 아니, 안 좋아해."
+    ],
+    [
+     "A ti te gusta el café. / A Juan le gusta el café.",
+     "너는 / 후안은 커피를 좋아해."
+    ],
+    [
+     "Me encanta el chocolate.",
+     "나는 초콜릿을 정말 좋아해요."
+    ],
+    [
+     "Me quedan cinco dólares.",
+     "나는 5달러가 남았어요."
+    ],
+    [
+     "¿Qué te duele? — Me duele el estómago.",
+     "어디가 아파? — 배가 아파."
+    ],
+    [
+     "Me molesta el ruido.",
+     "소음이 거슬려요."
+    ],
+    [
+     "¿Qué te gusta hacer? — Me gusta ir al cine.",
+     "뭐 하는 걸 좋아해? — 영화 보러 가는 걸 좋아해."
+    ]
+   ]
+  },
+  {
+   "title": "Día 14 · 과거분사 · 수동태 · 현재완료",
+   "lead": "과거분사: -ar → <b>-ado</b>, -er/-ir → <b>-ido</b> (불규칙: escrito, roto, abierto, hecho). <b>estar + 과거분사</b> = ~된 상태, <b>ser + 과거분사 + por</b> = ~에 의해 ~되다. <b>haber(he, has, ha, hemos, habéis, han) + 과거분사</b> = 현재완료(경험·오늘 한 일).",
+   "examples": [
+    [
+     "El correo electrónico está escrito en coreano.",
+     "그 이메일은 한국어로 쓰여 있어요."
+    ],
+    [
+     "La silla está rota.",
+     "의자가 부서져 있어요."
+    ],
+    [
+     "Elena es amada por su esposo.",
+     "엘레나는 남편에게 사랑받아요."
+    ],
+    [
+     "Felipe ama a Melisa. → Melisa es amada por Felipe.",
+     "펠리페는 멜리사를 사랑해요. → 멜리사는 펠리페에게 사랑받아요."
+    ],
+    [
+     "Josefina abre esta ventana. → Esta ventana es abierta por Josefina.",
+     "호세피나가 이 창문을 열어요. → 이 창문은 호세피나에 의해 열려요."
+    ],
+    [
+     "¿Has estado en Panamá? — Sí, he estado dos veces.",
+     "파나마에 가 봤어? — 응, 두 번 가 봤어."
+    ],
+    [
+     "¿Has leído esta novela? — Sí, la he leído una vez.",
+     "이 소설 읽어 봤어? — 응, 한 번 읽어 봤어."
+    ],
+    [
+     "¿Habéis probado la paella? — Sí, una vez.",
+     "너희 파에야 먹어 봤어? — 응, 한 번."
+    ],
+    [
+     "¿Has terminado la tarea? / Ya ha salido el tren.",
+     "숙제 끝냈어? / 기차가 벌써 떠났어요."
+    ],
+    [
+     "Marisa se ha maquillado. / Ellos se han lavado la cara.",
+     "마리사는 화장을 했어요. / 그들은 세수를 했어요."
+    ],
+    [
+     "Esta mañana me he levantado a las cinco. / Este año hemos estudiado mucho.",
+     "오늘 아침 5시에 일어났어요. / 올해 우리는 공부를 많이 했어요."
+    ]
+   ]
+  },
+  {
+   "title": "Día 15 · 비교급 · 최상급",
+   "lead": "우등 <b>más … que</b>, 열등 <b>menos … que</b>, 동등 <b>tan + 형용사/부사 + como</b>, <b>tanto/a/os/as + 명사 + como</b>. 최상급 <b>el/la más … de</b>. 불규칙: bueno → <b>mejor</b>, malo → <b>peor</b>, 나이 <b>mayor / menor</b>.",
+   "examples": [
+    [
+     "Elena es más bonita que Daniela.",
+     "엘레나는 다니엘라보다 예뻐요."
+    ],
+    [
+     "Tú eres más inteligente que Juan. / Esta casa es más moderna que esa.",
+     "너는 후안보다 똑똑해. / 이 집은 그 집보다 현대적이에요."
+    ],
+    [
+     "Tengo más libros que tú. / Ricardo estudia más que yo.",
+     "나는 너보다 책이 많아. / 리카르도는 나보다 공부를 많이 해요."
+    ],
+    [
+     "Ricardo es menos alto que Juan. / Juan come menos arroz que yo.",
+     "리카르도는 후안보다 키가 작아요. / 후안은 나보다 밥을 적게 먹어요."
+    ],
+    [
+     "Elena es tan bonita como Ana. / Este hotel es tan caro como aquel.",
+     "엘레나는 아나만큼 예뻐요. / 이 호텔은 저 호텔만큼 비싸요."
+    ],
+    [
+     "Tengo tantos libros como tú. / No tengo tanta experiencia como ella.",
+     "나는 너만큼 책이 많아. / 나는 그녀만큼 경험이 많지 않아."
+    ],
+    [
+     "Este violín es mejor que aquel. / Este dormitorio es peor que aquel.",
+     "이 바이올린이 저것보다 좋아요. / 이 침실이 저것보다 나빠요."
+    ],
+    [
+     "Juan es mayor que Ana. / Isabel es menor que yo.",
+     "후안은 아나보다 나이가 많아요. / 이사벨은 나보다 어려요."
+    ],
+    [
+     "Alejandro es el más alto de la clase. / Elena es la más inteligente del grupo.",
+     "알레한드로가 반에서 제일 키가 커요. / 엘레나가 그룹에서 제일 똑똑해요."
+    ],
+    [
+     "Alejandro es el menos alto de la clase.",
+     "알레한드로가 반에서 제일 키가 작아요."
+    ]
+   ]
+  },
+  {
+   "title": "Día 16 · 명령형",
+   "lead": "<b>tú 긍정</b>은 현재형 3인칭 단수(habla, come, vive). 불규칙: haz(hacer), ven(venir), ten(tener), pon, sal, di, ve. <b>tú 부정·usted·ustedes</b>는 접속법 꼴: -ar 동사 → -e, -er/-ir 동사 → -a (no hables, hable, hablen / no comas, coma, coman). 대명사는 긍정이면 뒤에 붙이고(Pásame), 부정이면 앞에(No se levante).",
+   "examples": [
+    [
+     "Come esto. / Vive aquí.",
+     "이거 먹어. / 여기 살아."
+    ],
+    [
+     "Habla más despacio. / Hable más despacio.",
+     "더 천천히 말해. / 더 천천히 말씀하세요."
+    ],
+    [
+     "Ven aquí. / Ten paciencia.",
+     "이리 와. / 참아."
+    ],
+    [
+     "No comas mucho. / No comas dulces.",
+     "많이 먹지 마. / 단 거 먹지 마."
+    ],
+    [
+     "No llores. / No grites.",
+     "울지 마. / 소리 지르지 마."
+    ],
+    [
+     "Limpien la habitación.",
+     "(여러분) 방을 청소하세요."
+    ],
+    [
+     "No se levante tarde. / No coman pan.",
+     "늦게 일어나지 마세요. / (여러분) 빵 먹지 마세요."
+    ]
+   ],
+   "tip": "Pásame la sal = pasa + me + la sal (긍정 명령 + 대명사 → 붙여 쓰고 강세 표시)."
+  }
+ ],
+ "phrases": [
+  [
+   "¡Buen provecho!",
+   "맛있게 드세요!"
+  ],
+  [
+   "No pasa nada.",
+   "괜찮아요, 별일 아니에요."
+  ],
+  [
+   "Así, así.",
+   "그냥 그래."
+  ],
+  [
+   "Si tienes tiempo, vamos a comer juntos.",
+   "시간 있으면 같이 먹으러 가자."
+  ],
+  [
+   "¿Puedo pagar con tarjeta de crédito?",
+   "신용카드로 계산할 수 있어요?"
+  ],
+  [
+   "Te presento a mi amiga.",
+   "내 친구를 소개할게."
+  ],
+  [
+   "Solo estoy mirando.",
+   "그냥 구경하고 있어요."
+  ],
+  [
+   "Te invito a comer.",
+   "내가 밥 살게."
+  ],
+  [
+   "Pásame la sal, por favor.",
+   "소금 좀 건네줘."
+  ],
+  [
+   "Toma.",
+   "여기 있어. (물건을 건넬 때)"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "satisfecho/a",
+   "ko": "배부른, 만족한",
+   "ex": "Estoy satisfecho.",
+   "exKo": "배불러요."
+  },
+  {
+   "es": "estos días",
+   "ko": "요즘",
+   "ex": "Estos días estudio italiano.",
+   "exKo": "요즘 이탈리아어를 공부해."
+  },
+  {
+   "es": "un poco",
+   "ko": "조금",
+   "ex": "Sí, un poco.",
+   "exKo": "응, 조금."
+  },
+  {
+   "es": "el/la cantante",
+   "ko": "가수",
+   "ex": "Ella es cantante.",
+   "exKo": "그녀는 가수예요."
+  },
+  {
+   "es": "bajo/a · alto/a",
+   "ko": "키가 작은 · 큰",
+   "ex": "Soy baja.",
+   "exKo": "나는 키가 작아요."
+  },
+  {
+   "es": "delgado/a",
+   "ko": "날씬한",
+   "ex": "Soy delgado.",
+   "exKo": "나는 날씬해요."
+  },
+  {
+   "es": "la biblioteca",
+   "ko": "도서관",
+   "ex": "Juan está en la biblioteca.",
+   "exKo": "후안은 도서관에 있어요."
+  },
+  {
+   "es": "la librería",
+   "ko": "서점",
+   "ex": "Él está en la librería.",
+   "exKo": "그는 서점에 있어요."
+  },
+  {
+   "es": "ocupado/a",
+   "ko": "바쁜",
+   "ex": "Estoy ocupado estos días.",
+   "exKo": "요즘 바빠요."
+  },
+  {
+   "es": "resfriado/a",
+   "ko": "감기에 걸린",
+   "ex": "Estoy resfriada.",
+   "exKo": "감기에 걸렸어요."
+  },
+  {
+   "es": "la parada de autobús",
+   "ko": "버스 정류장",
+   "ex": "Estoy en la parada de autobús.",
+   "exKo": "버스 정류장에 있어요."
+  },
+  {
+   "es": "la farmacia",
+   "ko": "약국",
+   "ex": "¿Hay una farmacia cerca de aquí?",
+   "exKo": "이 근처에 약국 있어요?"
+  },
+  {
+   "es": "enfrente de",
+   "ko": "~의 맞은편에",
+   "ex": "Hay una enfrente de mi casa.",
+   "exKo": "우리 집 맞은편에 하나 있어요."
+  },
+  {
+   "es": "la sala de estar",
+   "ko": "거실",
+   "ex": "Hay una caja en la sala de estar.",
+   "exKo": "거실에 상자가 있어요."
+  },
+  {
+   "es": "el regalo",
+   "ko": "선물",
+   "ex": "En la caja hay un regalo.",
+   "exKo": "상자 안에 선물이 있어요."
+  },
+  {
+   "es": "el cumpleaños",
+   "ko": "생일",
+   "ex": "Hoy es el cumpleaños de tu madre.",
+   "exKo": "오늘은 너희 어머니 생신이야."
+  },
+  {
+   "es": "la pluma",
+   "ko": "펜",
+   "ex": "Hay una pluma.",
+   "exKo": "펜이 하나 있어요."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "헬스장",
+   "ex": "Voy al gimnasio.",
+   "exKo": "헬스장에 가."
+  },
+  {
+   "es": "el parque de atracciones",
+   "ko": "놀이공원",
+   "ex": "Voy al parque de atracciones.",
+   "exKo": "놀이공원에 가."
+  },
+  {
+   "es": "el supermercado",
+   "ko": "슈퍼마켓",
+   "ex": "Vamos al supermercado.",
+   "exKo": "슈퍼마켓에 가요."
+  },
+  {
+   "es": "el dolor de estómago",
+   "ko": "복통",
+   "ex": "Tengo dolor de estómago.",
+   "exKo": "배가 아파요."
+  },
+  {
+   "es": "la dirección",
+   "ko": "주소",
+   "ex": "Aquí tienes su dirección.",
+   "exKo": "여기 주소 있어."
+  },
+  {
+   "es": "cuidar a",
+   "ko": "~를 돌보다",
+   "ex": "Tienen que cuidar a los niños.",
+   "exKo": "아이들을 돌봐야 해요."
+  },
+  {
+   "es": "tocar el piano",
+   "ko": "피아노를 치다",
+   "ex": "Ellos saben tocar el piano.",
+   "exKo": "그들은 피아노를 칠 줄 알아요."
+  },
+  {
+   "es": "llegar",
+   "ko": "도착하다",
+   "ex": "¿Cómo puedo llegar ahí?",
+   "exKo": "거기에 어떻게 가요?"
+  },
+  {
+   "es": "la torta",
+   "ko": "케이크 (중남미)",
+   "ex": "Ellos piden más torta.",
+   "exKo": "그들은 케이크를 더 달라고 해요."
+  },
+  {
+   "es": "cerrar (e→ie)",
+   "ko": "닫다",
+   "ex": "Josefina cierra la puerta.",
+   "exKo": "호세피나가 문을 닫아요."
+  },
+  {
+   "es": "el vestido",
+   "ko": "원피스, 드레스",
+   "ex": "Quiero comprar un vestido.",
+   "exKo": "원피스를 사고 싶어요."
+  },
+  {
+   "es": "costar (o→ue)",
+   "ko": "(값이) 나가다",
+   "ex": "¿Cuánto cuesta este vestido?",
+   "exKo": "이 원피스 얼마예요?"
+  },
+  {
+   "es": "preferir (e→ie)",
+   "ko": "더 좋아하다",
+   "ex": "Prefiero el café.",
+   "exKo": "커피가 더 좋아요."
+  },
+  {
+   "es": "pedir (e→i)",
+   "ko": "주문하다, 요청하다",
+   "ex": "Él pide una ensalada.",
+   "exKo": "그는 샐러드를 주문해요."
+  },
+  {
+   "es": "presentar",
+   "ko": "소개하다",
+   "ex": "Te presento a mi amiga.",
+   "exKo": "내 친구를 소개할게."
+  },
+  {
+   "es": "afeitarse",
+   "ko": "면도하다",
+   "ex": "Me afeito a veces.",
+   "exKo": "가끔 면도해요."
+  },
+  {
+   "es": "cepillarse los dientes",
+   "ko": "이를 닦다",
+   "ex": "Me cepillo los dientes.",
+   "exKo": "이를 닦아요."
+  },
+  {
+   "es": "ducharse",
+   "ko": "샤워하다",
+   "ex": "No me ducho por la mañana.",
+   "exKo": "아침에 샤워 안 해요."
+  },
+  {
+   "es": "buscar",
+   "ko": "찾다",
+   "ex": "¿Qué estás buscando?",
+   "exKo": "뭘 찾고 있어?"
+  },
+  {
+   "es": "mirar",
+   "ko": "보다, 구경하다",
+   "ex": "Solo estoy mirando.",
+   "exKo": "그냥 구경하고 있어요."
+  },
+  {
+   "es": "tomar el sol",
+   "ko": "햇볕을 쬐다",
+   "ex": "Descanso tomando el sol.",
+   "exKo": "햇볕을 쬐면서 쉬어요."
+  },
+  {
+   "es": "el tiempo",
+   "ko": "날씨; 시간",
+   "ex": "¿Qué tiempo hace hoy?",
+   "exKo": "오늘 날씨 어때요?"
+  },
+  {
+   "es": "nublado/a",
+   "ko": "흐린",
+   "ex": "Está nublado.",
+   "exKo": "흐려요."
+  },
+  {
+   "es": "la fecha",
+   "ko": "날짜",
+   "ex": "¿Qué fecha es hoy?",
+   "exKo": "오늘 며칠이에요?"
+  },
+  {
+   "es": "el tiempo libre",
+   "ko": "여가 시간",
+   "ex": "¿Qué te gusta hacer en tu tiempo libre?",
+   "exKo": "시간 날 때 뭐 하는 걸 좋아해?"
+  },
+  {
+   "es": "las lenguas extranjeras",
+   "ko": "외국어",
+   "ex": "Me gustan las lenguas extranjeras.",
+   "exKo": "외국어를 좋아해요."
+  },
+  {
+   "es": "ir de compras",
+   "ko": "쇼핑하러 가다",
+   "ex": "No me gusta ir de compras.",
+   "exKo": "쇼핑하러 가는 걸 안 좋아해요."
+  },
+  {
+   "es": "montar en bicicleta",
+   "ko": "자전거를 타다",
+   "ex": "No me gusta montar en bicicleta.",
+   "exKo": "자전거 타는 걸 안 좋아해요."
+  },
+  {
+   "es": "conducir",
+   "ko": "운전하다",
+   "ex": "¿Te gusta conducir?",
+   "exKo": "운전하는 거 좋아해?"
+  },
+  {
+   "es": "divertido/a",
+   "ko": "재미있는",
+   "ex": "José es un estudiante divertido.",
+   "exKo": "호세는 재미있는 학생이에요."
+  },
+  {
+   "es": "cerrado/a",
+   "ko": "닫힌",
+   "ex": "La tienda ya está cerrada.",
+   "exKo": "가게가 벌써 닫혔어요."
+  },
+  {
+   "es": "probar (o→ue)",
+   "ko": "맛보다, 먹어 보다",
+   "ex": "¿Has probado churros?",
+   "exKo": "추로스 먹어 봤어?"
+  },
+  {
+   "es": "la carnicería",
+   "ko": "정육점",
+   "ex": "La carnicería está cerrada.",
+   "exKo": "정육점이 닫혀 있어요."
+  },
+  {
+   "es": "el pollo asado",
+   "ko": "통닭구이",
+   "ex": "Hoy he comido un pollo asado.",
+   "exKo": "오늘 통닭구이를 먹었어요."
+  },
+  {
+   "es": "hermoso/a",
+   "ko": "아름다운",
+   "ex": "Esta flor es la más hermosa de todas.",
+   "exKo": "이 꽃이 가장 아름다워요."
+  },
+  {
+   "es": "el refrigerador",
+   "ko": "냉장고",
+   "ex": "Este refrigerador es menos caro.",
+   "exKo": "이 냉장고가 덜 비싸요."
+  },
+  {
+   "es": "el refresco",
+   "ko": "탄산음료",
+   "ex": "No beba mucho refresco.",
+   "exKo": "탄산음료를 많이 드시지 마세요."
+  },
+  {
+   "es": "hacer la cama",
+   "ko": "침대를 정리하다",
+   "ex": "¡Haz la cama!",
+   "exKo": "침대 정리해!"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "«Lo siento.» 에 알맞은 대답은? (Día 02)",
+   "options": [
+    "De nada.",
+    "No importa.",
+    "¡Buen provecho!",
+    "Mucho gusto."
+   ],
+   "answer": 1,
+   "explain": "Lo siento(미안해요) — No importa(괜찮아요). De nada는 Gracias에 대한 대답."
+  },
+  {
+   "q": "Nosotros ___ chino. (Día 03)",
+   "options": [
+    "hablo",
+    "hablas",
+    "hablamos",
+    "hablan"
+   ],
+   "answer": 2,
+   "explain": "nosotros → -amos: hablamos."
+  },
+  {
+   "q": "«1시 반이에요»를 스페인어로 (Día 04)",
+   "options": [
+    "Son la una y media.",
+    "Es la una y media.",
+    "Está la una y media.",
+    "Hay la una y media."
+   ],
+   "answer": 1,
+   "explain": "1시만 단수: Es la una. 2시부터 Son las…"
+  },
+  {
+   "q": "Juan ___ en la biblioteca. (Día 05)",
+   "options": [
+    "es",
+    "está",
+    "hay",
+    "tiene"
+   ],
+   "answer": 1,
+   "explain": "위치는 estar."
+  },
+  {
+   "q": "«이 근처에 약국 있어요?» (Día 06)",
+   "options": [
+    "¿Está una farmacia cerca de aquí?",
+    "¿Hay una farmacia cerca de aquí?",
+    "¿Es una farmacia cerca de aquí?",
+    "¿Tiene una farmacia cerca de aquí?"
+   ],
+   "answer": 1,
+   "explain": "불특정한 것의 존재는 hay."
+  },
+  {
+   "q": "Voy ___ gimnasio. (Día 07)",
+   "options": [
+    "a el",
+    "al",
+    "en el",
+    "del"
+   ],
+   "answer": 1,
+   "explain": "a + el = al."
+  },
+  {
+   "q": "«졸려요»는? (Día 08)",
+   "options": [
+    "Tengo sed.",
+    "Tengo sueño.",
+    "Tengo prisa.",
+    "Tengo miedo."
+   ],
+   "answer": 1,
+   "explain": "sueño = 졸림. sed 목마름, prisa 급함, miedo 두려움."
+  },
+  {
+   "q": "¿Cuánto ___ este vestido? (Día 09)",
+   "options": [
+    "costa",
+    "cuesta",
+    "cuestan",
+    "costamos"
+   ],
+   "answer": 1,
+   "explain": "costar는 o→ue 어간 변화: cuesta."
+  },
+  {
+   "q": "Elena me regala dos libros. → Elena me ___ regala. (Día 10)",
+   "options": [
+    "lo",
+    "la",
+    "los",
+    "las"
+   ],
+   "answer": 2,
+   "explain": "dos libros(남성 복수) → los."
+  },
+  {
+   "q": "¿Qué estás ___? — Estoy leyendo la Biblia. (Día 11)",
+   "options": [
+    "hacer",
+    "haciendo",
+    "hecho",
+    "hace"
+   ],
+   "answer": 1,
+   "explain": "estar + 현재분사: haciendo."
+  },
+  {
+   "q": "«스페인어를 공부한 지 한 달 됐어요» (Día 12)",
+   "options": [
+    "Hace un mes que estudio español.",
+    "Es un mes que estudio español.",
+    "Hay un mes que estudio español.",
+    "Tengo un mes que estudio español."
+   ],
+   "answer": 0,
+   "explain": "Hace + 기간 + que + 현재형."
+  },
+  {
+   "q": "Me ___ las lenguas extranjeras. (Día 13)",
+   "options": [
+    "gusta",
+    "gustan",
+    "gusto",
+    "gustas"
+   ],
+   "answer": 1,
+   "explain": "좋아하는 대상이 복수 → gustan."
+  },
+  {
+   "q": "¿Has ___ churros? — Todavía no. (Día 14)",
+   "options": [
+    "probar",
+    "probado",
+    "probando",
+    "pruebas"
+   ],
+   "answer": 1,
+   "explain": "현재완료 haber + 과거분사: has probado."
+  },
+  {
+   "q": "Este violín es ___ que aquel. (bueno의 비교급, Día 15)",
+   "options": [
+    "más bueno",
+    "mejor",
+    "mayor",
+    "tan bueno"
+   ],
+   "answer": 1,
+   "explain": "bueno → mejor (불규칙)."
+  },
+  {
+   "q": "tú에게 «숙제하지 마!» (Día 16)",
+   "options": [
+    "¡No haz la tarea!",
+    "¡No hagas la tarea!",
+    "¡No haga la tarea!",
+    "¡No hace la tarea!"
+   ],
+   "answer": 1,
+   "explain": "tú 부정 명령은 접속법 꼴: no hagas. usted면 no haga."
+  }
+ ]
+}
