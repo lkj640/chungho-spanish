@@ -1,0 +1,703 @@
+{
+ "lang": "es",
+ "date": "2026-11-11",
+ "title": "아침 루틴 말하기 — 마테오와 소피아의 아침",
+ "es": "Me lavo la cara con agua fría y después me cepillo los dientes.",
+ "emoji": "🌅",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to Talk about Your Morning Routine | Spanish Podcast A2 | Spanish Listening | ep.34",
+ "youtube": "sVYMD3R7yAQ",
+ "duration": "16:18",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "마테오와 소피아가 아침 루틴을 비교해요. 7시 반 vs 6시 반 기상, 침대에서 스트레칭, 찬물 세수와 양치, 샤워하며 노래하기, 과일·요거트 vs 카페라테·아보카도 토스트, 가방 챙기기, 버스 30분 vs 걸어서 20분 출근, 그리고 좋은 아침을 위한 조언까지. 재귀동사와 시간·빈도 표현을 현재형으로 듣고 따라 말하기 좋은 A2 회화예요.",
+ "topics": [
+  "기상: me despierto a las siete y media · me quedo en la cama un ratito",
+  "씻기: me lavo la cara · me cepillo los dientes · me ducho",
+  "아침 식사: fruta · yogur con granola · café con leche · tostadas con aguacate",
+  "출근 준비: reviso mi bolso · preparo mi mochila · me pongo los zapatos",
+  "출근길: voy en autobús / caminando · tardo unos treinta minutos",
+  "문법: 재귀동사 · después de + 동사원형 · lo primero que hago · tardar en · a veces/siempre · 조언 표현"
+ ],
+ "grammar": [
+  {
+   "title": "① 재귀동사 — 하루 일과의 핵심",
+   "lead": "씻고 입고 일어나는 동작은 <b>me · te</b>가 붙는 재귀동사예요. 주어 yo면 <b>me</b>, tú면 <b>te</b>.",
+   "table": {
+    "head": [
+     "동사원형",
+     "yo (나는)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "despertarse (e→ie)",
+      "me despierto",
+      "잠에서 깨다"
+     ],
+     [
+      "levantarse",
+      "me levanto",
+      "일어나다"
+     ],
+     [
+      "lavarse la cara",
+      "me lavo la cara",
+      "세수하다"
+     ],
+     [
+      "cepillarse los dientes",
+      "me cepillo los dientes",
+      "이를 닦다"
+     ],
+     [
+      "ducharse",
+      "me ducho",
+      "샤워하다"
+     ],
+     [
+      "vestirse (e→i)",
+      "me visto",
+      "옷을 입다"
+     ],
+     [
+      "peinarse",
+      "me peino",
+      "머리를 빗다"
+     ],
+     [
+      "ponerse los zapatos",
+      "me pongo los zapatos",
+      "신발을 신다"
+     ]
+    ]
+   },
+   "tip": "질문은 te: ¿A qué hora te despiertas? / ¿Te duchas por la mañana o por la noche? 대답은 Me despierto… / Me ducho…"
+  },
+  {
+   "title": "② 어간 변화 동사 — despertarse · vestirse · acostarse",
+   "lead": "yo·tú·él에서 어간 모음이 바뀌지만 nosotros는 그대로예요.",
+   "examples": [
+    [
+     "Me despierto a las siete y media.",
+     "7시 반에 눈을 떠요. (e→ie)"
+    ],
+    [
+     "Elijo mi ropa y me visto.",
+     "옷을 골라 입어요. (vestirse: e→i)"
+    ],
+    [
+     "Me quedo en la cama un ratito.",
+     "침대에 잠깐 더 있어요. (quedarse)"
+    ],
+    [
+     "¿A qué hora te despiertas tú?",
+     "너는 몇 시에 일어나?"
+    ]
+   ],
+   "tip": "1인칭이 불규칙인 동사도 있어요: me pongo (poner → pongo), salgo (salir → salgo)."
+  },
+  {
+   "title": "③ 순서 말하기 — primero · después · luego · lo primero que hago",
+   "lead": "하루 순서는 <b>primero → después / luego → por último</b>. '제일 먼저 하는 건'은 <b>Lo primero que hago es + 동사원형</b>.",
+   "examples": [
+    [
+     "Lo primero que hago es ir al baño.",
+     "제일 먼저 하는 건 화장실에 가는 거예요."
+    ],
+    [
+     "Primero me despierto, después me levanto.",
+     "먼저 눈을 뜨고, 그다음에 일어나요."
+    ],
+    [
+     "Y luego, ¿qué haces antes de salir?",
+     "그러고 나서 나가기 전엔 뭘 해요?"
+    ],
+    [
+     "Luego me pongo los zapatos.",
+     "그다음에 신발을 신어요."
+    ]
+   ]
+  },
+  {
+   "title": "④ después de / antes de + 동사원형",
+   "lead": "'~한 후에', '~하기 전에' 뒤에는 동사원형. 재귀동사는 끝에 me/te를 붙여요.",
+   "examples": [
+    [
+     "Después de lavarme la cara, me cepillo los dientes.",
+     "세수하고 나서 이를 닦아요."
+    ],
+    [
+     "Después de despertar me levanto casi de inmediato.",
+     "눈을 뜨고 나서 거의 바로 일어나요."
+    ],
+    [
+     "Antes de salir siempre abro las ventanas.",
+     "나가기 전에 항상 창문을 열어요."
+    ],
+    [
+     "¿Y después de vestirte?",
+     "그럼 옷을 입고 나서는?"
+    ]
+   ],
+   "tip": "질문은 상대 기준 te: después de lavarte / vestirte. 대답은 me: después de lavarme / vestirme."
+  },
+  {
+   "title": "⑤ tardar (+ 시간) en · llevar (+ 시간) — 걸리는 시간",
+   "lead": "이동 시간을 말하는 두 가지: <b>tardo … en + 동사원형</b>, <b>me lleva … + 동사원형</b>.",
+   "examples": [
+    [
+     "Tardo unos 30 minutos en autobús.",
+     "버스로 30분쯤 걸려요."
+    ],
+    [
+     "¿Cuánto tiempo tardas en llegar?",
+     "도착하는 데 얼마나 걸려요?"
+    ],
+    [
+     "Me lleva unos 20 minutos caminar al trabajo.",
+     "걸어서 출근하는 데 20분쯤 걸려요."
+    ],
+    [
+     "¿Cuánto tiempo te lleva caminar al trabajo?",
+     "걸어서 출근하는 데 얼마나 걸려?"
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 빈도와 시각 — siempre · normalmente · a veces / a las … en punto",
+   "lead": "빈도부사는 동사 앞에 놓아요. 시각은 <b>a las</b>, 정각은 <b>en punto</b>.",
+   "examples": [
+    [
+     "Normalmente me despierto a las 7:30.",
+     "보통 7시 반에 일어나요."
+    ],
+    [
+     "Siempre me cepillo los dientes por tres minutos.",
+     "항상 3분 동안 이를 닦아요."
+    ],
+    [
+     "A veces canto un poco en la ducha.",
+     "가끔 샤워하면서 노래를 조금 불러요."
+    ],
+    [
+     "Yo salgo de casa a las 8 en punto.",
+     "나는 8시 정각에 집을 나가요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 조언하기 — Mi consejo es + 동사원형 / es mejor + 동사원형",
+   "lead": "조언은 <b>Mi consejo es …</b>, 부정은 <b>no + 동사원형</b>. 비교는 <b>una hora antes que tú</b>.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "Mi consejo es + 동사원형",
+      "내 조언은 ~하는 거예요",
+      "Mi consejo es preparar las cosas la noche anterior."
+     ],
+     [
+      "Mi consejo es no + 동사원형",
+      "내 조언은 ~하지 않는 거예요",
+      "Mi consejo es no mirar el teléfono."
+     ],
+     [
+      "Es mejor + 동사원형",
+      "~하는 게 더 좋아요",
+      "Es mejor empezar el día con calma."
+     ],
+     [
+      "me gustaría + 동사원형",
+      "~했으면 좋겠어요",
+      "Me gustaría tener más tiempo."
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "¿A qué hora te despiertas?",
+   "너는 몇 시에 일어나?"
+  ],
+  [
+   "Me despierto a las seis y media, una hora antes que tú.",
+   "나는 6시 반에 일어나, 너보다 한 시간 일찍."
+  ],
+  [
+   "Lo primero que hago es ir al baño.",
+   "제일 먼저 하는 건 화장실에 가는 거야."
+  ],
+  [
+   "Me lavo la cara con agua fría. Me gusta sentirme fresco.",
+   "찬물로 세수해. 상쾌한 느낌이 좋아."
+  ],
+  [
+   "Mientras me ducho, a veces canto un poco.",
+   "샤워하는 동안 가끔 노래를 조금 불러."
+  ],
+  [
+   "Tardo unos treinta minutos en autobús.",
+   "버스로 30분쯤 걸려."
+  ],
+  [
+   "Me gustaría poder levantarme un poco más tarde.",
+   "좀 더 늦게 일어날 수 있으면 좋겠어."
+  ],
+  [
+   "Mi consejo es preparar las cosas la noche anterior.",
+   "내 조언은 전날 밤에 미리 준비해 두는 거야."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la rutina matutina",
+   "ko": "아침 루틴",
+   "ex": "Vamos a hablar de nuestra rutina matutina.",
+   "exKo": "우리의 아침 루틴에 대해 이야기할 거예요."
+  },
+  {
+   "es": "despertarse",
+   "ko": "잠에서 깨다",
+   "ex": "Me despierto a las 7:30.",
+   "exKo": "7시 반에 눈을 떠요."
+  },
+  {
+   "es": "levantarse",
+   "ko": "일어나다",
+   "ex": "No me levanto de la cama inmediatamente.",
+   "exKo": "바로 침대에서 일어나지는 않아요."
+  },
+  {
+   "es": "quedarse en la cama",
+   "ko": "침대에 머물다",
+   "ex": "Me quedo en la cama un ratito.",
+   "exKo": "침대에 잠깐 더 있어요."
+  },
+  {
+   "es": "un ratito",
+   "ko": "잠깐",
+   "ex": "Me quedo un ratito en la cama.",
+   "exKo": "침대에 잠깐 있어요."
+  },
+  {
+   "es": "estirar el cuerpo",
+   "ko": "몸을 쭉 펴다",
+   "ex": "Estiro mi cuerpo y respiro profundamente.",
+   "exKo": "몸을 펴고 깊게 숨을 쉬어요."
+  },
+  {
+   "es": "respirar profundamente",
+   "ko": "깊게 숨 쉬다",
+   "ex": "Respiro profundamente.",
+   "exKo": "깊게 숨을 쉬어요."
+  },
+  {
+   "es": "el ritual",
+   "ko": "의식, 루틴",
+   "ex": "Es como un pequeño ritual.",
+   "exKo": "작은 의식 같아요."
+  },
+  {
+   "es": "de inmediato",
+   "ko": "즉시",
+   "ex": "Me levanto casi de inmediato.",
+   "exKo": "거의 바로 일어나요."
+  },
+  {
+   "es": "el baño",
+   "ko": "화장실, 욕실",
+   "ex": "Lo primero que hago es ir al baño.",
+   "exKo": "제일 먼저 화장실에 가요."
+  },
+  {
+   "es": "lavarse la cara",
+   "ko": "세수하다",
+   "ex": "Me lavo la cara con agua fría.",
+   "exKo": "찬물로 세수해요."
+  },
+  {
+   "es": "el agua fría",
+   "ko": "찬물",
+   "ex": "El agua fría ayuda a despertar.",
+   "exKo": "찬물은 잠을 깨는 데 도움이 돼요."
+  },
+  {
+   "es": "fresco / fresca",
+   "ko": "상쾌한, 신선한",
+   "ex": "Me gusta sentirme fresco.",
+   "exKo": "상쾌한 기분이 좋아요."
+  },
+  {
+   "es": "cepillarse los dientes",
+   "ko": "이를 닦다",
+   "ex": "Me cepillo los dientes por tres minutos.",
+   "exKo": "3분 동안 이를 닦아요."
+  },
+  {
+   "es": "ducharse",
+   "ko": "샤워하다",
+   "ex": "Me ducho por la mañana.",
+   "exKo": "아침에 샤워해요."
+  },
+  {
+   "es": "refrescante",
+   "ko": "개운한",
+   "ex": "Una ducha matutina es muy refrescante.",
+   "exKo": "아침 샤워는 아주 개운해요."
+  },
+  {
+   "es": "relajarse",
+   "ko": "긴장을 풀다",
+   "ex": "Cantar me ayuda a relajarme.",
+   "exKo": "노래하면 긴장이 풀려요."
+  },
+  {
+   "es": "cantar",
+   "ko": "노래하다",
+   "ex": "A veces canto un poco.",
+   "exKo": "가끔 노래를 조금 불러요."
+  },
+  {
+   "es": "vestirse",
+   "ko": "옷을 입다",
+   "ex": "Después de la ducha me visto.",
+   "exKo": "샤워하고 나서 옷을 입어요."
+  },
+  {
+   "es": "elegir la ropa",
+   "ko": "옷을 고르다",
+   "ex": "Elijo mi ropa para el día.",
+   "exKo": "그날 입을 옷을 골라요."
+  },
+  {
+   "es": "el clima",
+   "ko": "날씨",
+   "ex": "Depende del clima.",
+   "exKo": "날씨에 따라 달라요."
+  },
+  {
+   "es": "la noche anterior",
+   "ko": "전날 밤",
+   "ex": "Preparo la mochila la noche anterior.",
+   "exKo": "전날 밤에 배낭을 챙겨요."
+  },
+  {
+   "es": "el desayuno",
+   "ko": "아침 식사",
+   "ex": "El desayuno es mi parte favorita.",
+   "exKo": "아침 식사가 제일 좋아하는 부분이에요."
+  },
+  {
+   "es": "desayunar",
+   "ko": "아침을 먹다",
+   "ex": "¿Qué desayunas tú?",
+   "exKo": "너는 아침에 뭘 먹어?"
+  },
+  {
+   "es": "la fruta",
+   "ko": "과일",
+   "ex": "Siempre como fruta.",
+   "exKo": "항상 과일을 먹어요."
+  },
+  {
+   "es": "el plátano / la manzana",
+   "ko": "바나나 / 사과",
+   "ex": "Como un plátano o una manzana.",
+   "exKo": "바나나나 사과를 먹어요."
+  },
+  {
+   "es": "el yogur con granola",
+   "ko": "그래놀라 요거트",
+   "ex": "Como un poco de yogur con granola.",
+   "exKo": "그래놀라 요거트를 조금 먹어요."
+  },
+  {
+   "es": "un vaso de agua",
+   "ko": "물 한 잔",
+   "ex": "Bebo un vaso grande de agua.",
+   "exKo": "큰 컵으로 물 한 잔을 마셔요."
+  },
+  {
+   "es": "el zumo natural",
+   "ko": "천연 주스",
+   "ex": "Prefiero el agua o un zumo natural.",
+   "exKo": "물이나 천연 주스가 더 좋아요."
+  },
+  {
+   "es": "el sabor",
+   "ko": "맛",
+   "ex": "No me gusta mucho el sabor.",
+   "exKo": "맛이 별로 안 좋아요."
+  },
+  {
+   "es": "con calma",
+   "ko": "여유롭게",
+   "ex": "Desayuno con bastante calma.",
+   "exKo": "꽤 여유롭게 아침을 먹어요."
+  },
+  {
+   "es": "disfrutar la comida",
+   "ko": "음식을 즐기다",
+   "ex": "Me gusta sentarme y disfrutar mi comida.",
+   "exKo": "앉아서 음식을 즐기는 게 좋아요."
+  },
+  {
+   "es": "el café con leche",
+   "ko": "카페라테",
+   "ex": "Un café grande con leche es mi energía.",
+   "exKo": "큰 카페라테가 나의 에너지예요."
+  },
+  {
+   "es": "la tostada con aguacate",
+   "ko": "아보카도 토스트",
+   "ex": "Como tostadas con aguacate y un huevo.",
+   "exKo": "아보카도 토스트와 계란을 먹어요."
+  },
+  {
+   "es": "el queso",
+   "ko": "치즈",
+   "ex": "A veces un poco de queso.",
+   "exKo": "가끔은 치즈도 조금."
+  },
+  {
+   "es": "las noticias",
+   "ko": "뉴스",
+   "ex": "Leo las noticias en mi teléfono.",
+   "exKo": "휴대폰으로 뉴스를 읽어요."
+  },
+  {
+   "es": "el silencio",
+   "ko": "침묵, 조용함",
+   "ex": "Prefiero el silencio por la mañana.",
+   "exKo": "아침엔 조용한 게 좋아요."
+  },
+  {
+   "es": "el maquillaje",
+   "ko": "화장",
+   "ex": "A veces me pongo un poco de maquillaje.",
+   "exKo": "가끔 화장을 조금 해요."
+  },
+  {
+   "es": "peinarse",
+   "ko": "머리를 빗다",
+   "ex": "Me cepillo los dientes y me peino.",
+   "exKo": "이를 닦고 머리를 빗어요."
+  },
+  {
+   "es": "revisar el bolso",
+   "ko": "가방을 확인하다",
+   "ex": "Reviso mi bolso antes de salir.",
+   "exKo": "나가기 전에 가방을 확인해요."
+  },
+  {
+   "es": "las llaves / la cartera",
+   "ko": "열쇠 / 지갑",
+   "ex": "Tengo las llaves, el teléfono y la cartera.",
+   "exKo": "열쇠, 휴대폰, 지갑이 있어요."
+  },
+  {
+   "es": "la mochila",
+   "ko": "배낭",
+   "ex": "Preparo mi mochila para el trabajo.",
+   "exKo": "출근용 배낭을 챙겨요."
+  },
+  {
+   "es": "el ordenador portátil",
+   "ko": "노트북",
+   "ex": "Llevo mi ordenador portátil.",
+   "exKo": "노트북을 들고 다녀요."
+  },
+  {
+   "es": "el transporte público",
+   "ko": "대중교통",
+   "ex": "Un libro para leer en el transporte público.",
+   "exKo": "대중교통에서 읽을 책 한 권."
+  },
+  {
+   "es": "la parada de autobús",
+   "ko": "버스 정류장",
+   "ex": "La parada de autobús está cerca de mi casa.",
+   "exKo": "버스 정류장이 집에서 가까워요."
+  },
+  {
+   "es": "tardar en llegar",
+   "ko": "도착하는 데 ~걸리다",
+   "ex": "¿Cuánto tiempo tardas en llegar?",
+   "exKo": "도착하는 데 얼마나 걸려요?"
+  },
+  {
+   "es": "caminando",
+   "ko": "걸어서",
+   "ex": "Yo voy al trabajo caminando.",
+   "exKo": "나는 걸어서 출근해요."
+  },
+  {
+   "es": "abrir las ventanas",
+   "ko": "창문을 열다",
+   "ex": "Antes de salir siempre abro las ventanas.",
+   "exKo": "나가기 전에 항상 창문을 열어요."
+  },
+  {
+   "es": "el aire fresco",
+   "ko": "신선한 공기",
+   "ex": "Me gusta que entre aire fresco.",
+   "exKo": "신선한 공기가 들어오는 게 좋아요."
+  },
+  {
+   "es": "un sacrificio",
+   "ko": "희생",
+   "ex": "Levantarme temprano es un sacrificio.",
+   "exKo": "일찍 일어나는 건 일종의 희생이에요."
+  },
+  {
+   "es": "el consejo",
+   "ko": "조언",
+   "ex": "Mi consejo es preparar las cosas la noche anterior.",
+   "exKo": "내 조언은 전날 밤에 준비하는 거예요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿A qué hora se despierta Mateo normalmente?",
+   "options": [
+    "a las seis y media",
+    "a las siete y media",
+    "a las ocho",
+    "a las ocho y diez"
+   ],
+   "answer": 1,
+   "explain": "Mateo dice: 'normalmente me despierto a las 7:30.' Sofía se despierta a las 6:30."
+  },
+  {
+   "q": "¿Qué hace Sofía cuando se despierta?",
+   "options": [
+    "Se levanta de inmediato",
+    "Va al baño",
+    "Se queda un ratito en la cama",
+    "Prepara el café"
+   ],
+   "answer": 2,
+   "explain": "'No me levanto de la cama inmediatamente… me quedo en la cama un ratito, estiro mi cuerpo y respiro profundamente.'"
+  },
+  {
+   "q": "¿Cuánto tiempo se cepilla los dientes Mateo?",
+   "options": [
+    "un minuto",
+    "dos minutos",
+    "tres minutos",
+    "cinco minutos"
+   ],
+   "answer": 2,
+   "explain": "'Siempre me cepillo los dientes por 3 minutos.'"
+  },
+  {
+   "q": "¿Qué hace Mateo mientras se ducha?",
+   "options": [
+    "Escucha música",
+    "Canta un poco",
+    "Piensa en la ropa",
+    "Lee las noticias"
+   ],
+   "answer": 1,
+   "explain": "'Mientras me ducho, a veces canto un poco. Me ayuda a relajarme.'"
+  },
+  {
+   "q": "¿Cuándo piensa Sofía en la ropa que va a ponerse?",
+   "options": [
+    "la noche anterior",
+    "por la mañana",
+    "el fin de semana",
+    "nunca"
+   ],
+   "answer": 1,
+   "explain": "'Generalmente lo pienso por la mañana. Depende del clima y de lo que tengo que hacer.'"
+  },
+  {
+   "q": "¿Qué desayuna Sofía?",
+   "options": [
+    "café y tostadas",
+    "fruta, yogur con granola y agua",
+    "un huevo con queso",
+    "solo un zumo"
+   ],
+   "answer": 1,
+   "explain": "Come fruta, yogur con granola y bebe un vaso grande de agua. No bebe café."
+  },
+  {
+   "q": "¿Qué desayuna Mateo?",
+   "options": [
+    "fruta y agua",
+    "un café grande con leche, tostadas con aguacate y un huevo",
+    "solo yogur",
+    "cereales con leche"
+   ],
+   "answer": 1,
+   "explain": "'Yo siempre bebo café… Como tostadas con aguacate y un huevo. A veces un poco de queso.'"
+  },
+  {
+   "q": "¿Qué hace Sofía antes de salir de casa?",
+   "options": [
+    "Abre las ventanas",
+    "Revisa su bolso",
+    "Se cepilla los dientes otra vez",
+    "Prepara la mochila"
+   ],
+   "answer": 1,
+   "explain": "'Reviso mi bolso. Me aseguro de tener las llaves, el teléfono, la cartera.'"
+  },
+  {
+   "q": "¿Cómo va Mateo al trabajo?",
+   "options": [
+    "caminando",
+    "en coche",
+    "en autobús",
+    "en bicicleta"
+   ],
+   "answer": 2,
+   "explain": "'Yo voy al trabajo en autobús.' Tarda unos 30 minutos."
+  },
+  {
+   "q": "¿Cuánto tarda Sofía en caminar al trabajo?",
+   "options": [
+    "unos 10 minutos",
+    "unos 20 minutos",
+    "unos 30 minutos",
+    "una hora"
+   ],
+   "answer": 1,
+   "explain": "'Me lleva unos 20 minutos, así que salgo de casa a las 8:10 más o menos.'"
+  },
+  {
+   "q": "¿Qué consejo da Mateo para una buena rutina matutina?",
+   "options": [
+    "No mirar el teléfono",
+    "Levantarse más tarde",
+    "Preparar las cosas la noche anterior",
+    "Desayunar más rápido"
+   ],
+   "answer": 2,
+   "explain": "'Mi consejo es preparar las cosas la noche anterior… dejar la ropa lista o preparar la mochila.'"
+  },
+  {
+   "q": "¿Cuál es el consejo de Sofía?",
+   "options": [
+    "No mirar el teléfono inmediatamente después de despertar",
+    "Cantar en la ducha",
+    "Tomar más café",
+    "Salir más temprano"
+   ],
+   "answer": 0,
+   "explain": "'Mi consejo es no mirar el teléfono inmediatamente después de despertar.' Las noticias y los mensajes pueden estresar."
+  }
+ ]
+}

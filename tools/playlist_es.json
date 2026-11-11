@@ -1,147 +1,147 @@
 {
- "playlist": "PLOfKr-QFX3fAkPdiI3xZVoh1fzXU2EVtB",
- "channel": "Easy Spanish Podcast",
- "note": "하루에 하나씩 위에서부터 순서대로 스페인어 강의로 만들어요. 만든 영상은 done에 강의 폴더 이름을 적어요.",
- "videos": [
-  {
-   "id": "wn_hSc_akSY",
-   "done": "es-2026-11-10"
-  },
-  {
-   "id": "sVYMD3R7yAQ",
-   "done": null
-  },
-  {
-   "id": "6pqzrjKXyYQ",
-   "done": null
-  },
-  {
-   "id": "V_7UwRVsvwc",
-   "done": null
-  },
-  {
-   "id": "pYMxPuJ1_f0",
-   "done": null
-  },
-  {
-   "id": "LjRMF2-1qjQ",
-   "done": null
-  },
-  {
-   "id": "t8bKqz984U4",
-   "done": null
-  },
-  {
-   "id": "U-hQYHJpuUU",
-   "done": null
-  },
-  {
-   "id": "rrR5aX7cYDw",
-   "done": null
-  },
-  {
-   "id": "j8FTGGT_gbI",
-   "done": null
-  },
-  {
-   "id": "_S-I8C8hP6w",
-   "done": null
-  },
-  {
-   "id": "oCpZrEAads0",
-   "done": null
-  },
-  {
-   "id": "qhVGy1nMMMs",
-   "done": null
-  },
-  {
-   "id": "NWEON3ldUIE",
-   "done": null
-  },
-  {
-   "id": "AA5lCJfnbds",
-   "done": null
-  },
-  {
-   "id": "8C70Ws9eeUI",
-   "done": null
-  },
-  {
-   "id": "sGrT2hqd5pE",
-   "done": null
-  },
-  {
-   "id": "bTKTFLxGDXU",
-   "done": null
-  },
-  {
-   "id": "R5XU02OCrfs",
-   "done": null
-  },
-  {
-   "id": "FCSXc47dpY0",
-   "done": null
-  },
-  {
-   "id": "YBhj7rdSID8",
-   "done": null
-  },
-  {
-   "id": "T9Bmk8NxGzo",
-   "done": null
-  },
-  {
-   "id": "2r1AngM5kHo",
-   "done": null
-  },
-  {
-   "id": "-RY2tdUn5LY",
-   "done": null
-  },
-  {
-   "id": "DTU-dTdqvlY",
-   "done": null
-  },
-  {
-   "id": "252wsI_zMzk",
-   "done": null
-  },
-  {
-   "id": "1ED64zPxLrs",
-   "done": null
-  },
-  {
-   "id": "tNzAhqBtHuA",
-   "done": null
-  },
-  {
-   "id": "mO0a-b460xM",
-   "done": null
-  },
-  {
-   "id": "Tg4Eu-NTeTg",
-   "done": null
-  },
-  {
-   "id": "I3-EPasIr0Q",
-   "done": null
-  },
-  {
-   "id": "9wp7KmsQ9Yc",
-   "done": null
-  },
-  {
-   "id": "Kc22h5JmFL8",
-   "done": null
-  },
-  {
-   "id": "onpLmf3977o",
-   "done": null
-  },
-  {
-   "id": "0E6BQlX7i_w",
-   "done": null
-  }
- ]
+  "playlist": "PLOfKr-QFX3fAkPdiI3xZVoh1fzXU2EVtB",
+  "channel": "Easy Spanish Podcast",
+  "note": "하루에 하나씩 위에서부터 순서대로 스페인어 강의로 만들어요. 만든 영상은 done에 강의 폴더 이름을 적어요.",
+  "videos": [
+    {
+      "id": "wn_hSc_akSY",
+      "done": "es-2026-11-10"
+    },
+    {
+      "id": "sVYMD3R7yAQ",
+      "done": "es-2026-11-11"
+    },
+    {
+      "id": "6pqzrjKXyYQ",
+      "done": null
+    },
+    {
+      "id": "V_7UwRVsvwc",
+      "done": null
+    },
+    {
+      "id": "pYMxPuJ1_f0",
+      "done": null
+    },
+    {
+      "id": "LjRMF2-1qjQ",
+      "done": null
+    },
+    {
+      "id": "t8bKqz984U4",
+      "done": null
+    },
+    {
+      "id": "U-hQYHJpuUU",
+      "done": null
+    },
+    {
+      "id": "rrR5aX7cYDw",
+      "done": null
+    },
+    {
+      "id": "j8FTGGT_gbI",
+      "done": null
+    },
+    {
+      "id": "_S-I8C8hP6w",
+      "done": null
+    },
+    {
+      "id": "oCpZrEAads0",
+      "done": null
+    },
+    {
+      "id": "qhVGy1nMMMs",
+      "done": null
+    },
+    {
+      "id": "NWEON3ldUIE",
+      "done": null
+    },
+    {
+      "id": "AA5lCJfnbds",
+      "done": null
+    },
+    {
+      "id": "8C70Ws9eeUI",
+      "done": null
+    },
+    {
+      "id": "sGrT2hqd5pE",
+      "done": null
+    },
+    {
+      "id": "bTKTFLxGDXU",
+      "done": null
+    },
+    {
+      "id": "R5XU02OCrfs",
+      "done": null
+    },
+    {
+      "id": "FCSXc47dpY0",
+      "done": null
+    },
+    {
+      "id": "YBhj7rdSID8",
+      "done": null
+    },
+    {
+      "id": "T9Bmk8NxGzo",
+      "done": null
+    },
+    {
+      "id": "2r1AngM5kHo",
+      "done": null
+    },
+    {
+      "id": "-RY2tdUn5LY",
+      "done": null
+    },
+    {
+      "id": "DTU-dTdqvlY",
+      "done": null
+    },
+    {
+      "id": "252wsI_zMzk",
+      "done": null
+    },
+    {
+      "id": "1ED64zPxLrs",
+      "done": null
+    },
+    {
+      "id": "tNzAhqBtHuA",
+      "done": null
+    },
+    {
+      "id": "mO0a-b460xM",
+      "done": null
+    },
+    {
+      "id": "Tg4Eu-NTeTg",
+      "done": null
+    },
+    {
+      "id": "I3-EPasIr0Q",
+      "done": null
+    },
+    {
+      "id": "9wp7KmsQ9Yc",
+      "done": null
+    },
+    {
+      "id": "Kc22h5JmFL8",
+      "done": null
+    },
+    {
+      "id": "onpLmf3977o",
+      "done": null
+    },
+    {
+      "id": "0E6BQlX7i_w",
+      "done": null
+    }
+  ]
 }
