@@ -1,0 +1,829 @@
+{
+ "lang": "es",
+ "date": "2026-11-12",
+ "title": "나혼자 끝내는 스페인어 단어장 — 30일 단어와 예문",
+ "es": "Más vale pájaro en mano que volando.",
+ "emoji": "📒",
+ "level": "A1–A2",
+ "channel": "나혼자 끝내는 스페인어 단어장 (사용자 제공 음성·문서)",
+ "videoTitle": "모든 단어 예문 합본 (Día 1–30)",
+ "audio": "audio.m4a",
+ "duration": "70:28",
+ "speakers": {
+  "N": "Día",
+  "W": "단어"
+ },
+ "hideCast": true,
+ "summary": "'나혼자 끝내는 스페인어 단어장' 30일치 음성(70분)을 단어마다 싱크했어요. 한 줄에 '단어 · 예문'과 한국어 뜻(문서에 적힌 한자 뜻 포함)이 함께 있어요. 국적·성격·가족·몸·감정·위치 → 규칙·어간 변화·재귀 동사 → 학교·회사·날씨·자연·음식 → 여행·옷·쇼핑·교통·은행·병원·공항 → 취미·운동·컴퓨터·숫자·모양·반대말 → 생활 속 동사 표현까지 약 680개예요. 문서에 없고 음성에만 있는 단어(약 80개)도 넣었고, 예문이 음성과 다른 곳은 음성에 맞췄어요.",
+ "topics": [
+  "Día 1–6 국적 · 성격 · 가족과 직업 · 몸과 외모 · 감정(estar) · 위치",
+  "Día 7–11 규칙 동사 · 어간 변화 동사(e→ie, e→i, o→ue) · 하루 일과 재귀동사",
+  "Día 12–16 학교 · 회사 · 날씨 · 자연 · 음식",
+  "Día 17–23 여행 · 옷 · 쇼핑 · 교통 · 은행과 우체국 · 병원 · 공항",
+  "Día 24–30 취미 · 운동 · 컴퓨터 · 숫자와 요일 · 모양 · 반대말 · 생활 표현"
+ ],
+ "grammar": [
+  {
+   "title": "① 명사·형용사의 성 — -o / -a",
+   "lead": "단어장의 <b>Simpático/a</b>처럼 '/a'가 붙은 말은 남성형 -o, 여성형 -a가 있어요. 음성에서도 두 형태를 차례로 읽어 줘요. -e나 자음으로 끝나는 말(amable, feliz, cortés)은 남녀 같은 꼴이에요.",
+   "examples": [
+    [
+     "Mi hijo es perezoso. / Mi hija es perezosa.",
+     "아들은 게을러요. / 딸은 게을러요."
+    ],
+    [
+     "Hablador → habladora, trabajador → trabajadora",
+     "-or로 끝나면 -a를 붙여 여성형 (Día 2)"
+    ],
+    [
+     "El médico / la médica, el profesor / la profesora",
+     "직업 명사도 같은 규칙 (Día 3)"
+    ],
+    [
+     "Los estudiantes son activos.",
+     "복수는 -s / -es: activo → activos"
+    ]
+   ],
+   "tip": "국적 형용사: español → española, japonés → japonesa, alemán → alemana (강세 표시가 사라져요)."
+  },
+  {
+   "title": "② ser와 estar",
+   "lead": "<b>ser</b>는 국적·성격·직업처럼 변하지 않는 성질(Día 1–3), <b>estar</b>는 기분·몸 상태·위치처럼 지금의 상태(Día 5–6).",
+   "table": {
+    "head": [
+     "ser (Día 1–3)",
+     "estar (Día 5–6)"
+    ],
+    "rows": [
+     [
+      "Yo soy de Corea.",
+      "Estoy nerviosa por el examen."
+     ],
+     [
+      "Mi esposo es sincero.",
+      "La habitación está sucia."
+     ],
+     [
+      "Mi padre es periodista.",
+      "El cine está enfrente del banco."
+     ],
+     [
+      "Es aburrido. (지루한 사람이다)",
+      "Estoy aburrida. (지금 지루하다)"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "③ 위치 표현 — ~de + 장소",
+   "lead": "<b>encima de, debajo de, dentro de, fuera de, delante de, enfrente de, detrás de, al lado de, cerca de, lejos de</b>. de + el = <b>del</b>, a + el = <b>al</b>.",
+   "examples": [
+    [
+     "Hay un gato debajo de la silla.",
+     "의자 밑에 고양이가 있어요."
+    ],
+    [
+     "El cajero está detrás del hotel.",
+     "ATM은 호텔 뒤에 있어요. (de + el = del)"
+    ],
+    [
+     "Mi madre está a la derecha de mi padre.",
+     "엄마는 아빠 오른쪽에 있어요."
+    ],
+    [
+     "El baño está al fondo del pasillo.",
+     "화장실은 복도 끝에 있어요."
+    ]
+   ]
+  },
+  {
+   "title": "④ 현재형 — 규칙 동사와 어간 변화 동사",
+   "lead": "Día 7은 규칙 동사, Día 8–10은 강세 모음이 바뀌는 동사예요. nosotros·vosotros는 바뀌지 않아요.",
+   "table": {
+    "head": [
+     "유형",
+     "원형 → yo",
+     "예문"
+    ],
+    "rows": [
+     [
+      "규칙 -ar/-er/-ir",
+      "estudiar → estudio",
+      "Yo estudio español."
+     ],
+     [
+      "e→ie (Día 8)",
+      "empezar → empiezo / pensar → pienso",
+      "Pienso en ti."
+     ],
+     [
+      "e→i (Día 9)",
+      "pedir → pido / repetir → repito",
+      "Le pido al camarero un café."
+     ],
+     [
+      "o→ue (Día 10)",
+      "poder → puedo / dormir → duermo",
+      "¿Cuántas horas duermes?"
+     ],
+     [
+      "u→ue",
+      "jugar → juego",
+      "Juego al fútbol con mis amigos."
+     ],
+     [
+      "불규칙 yo",
+      "coger → cojo, tener → tengo, venir → vengo",
+      "Siempre cojo metro."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑤ 재귀동사 — 하루 일과 (Día 11)",
+   "lead": "동작이 자기 자신에게 돌아오는 동사는 <b>me, te, se, nos, os, se</b>를 동사 앞에 붙여요. 동사원형에서는 뒤에 붙여요(arreglarse, bañarnos).",
+   "examples": [
+    [
+     "Yo me despierto muy temprano.",
+     "나는 아주 일찍 깨요."
+    ],
+    [
+     "¿A qué hora te levantas?",
+     "몇 시에 일어나?"
+    ],
+    [
+     "Ella se cepilla los dientes.",
+     "그녀는 이를 닦아요."
+    ],
+    [
+     "Queremos bañarnos en el mar.",
+     "우리는 바다에서 수영하고 싶어요."
+    ],
+    [
+     "Mi hija tarda mucho tiempo en arreglarse.",
+     "딸은 준비하는 데 오래 걸려요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ gustar · doler · dar 구문",
+   "lead": "좋아하는 대상·아픈 곳이 주어예요: <b>me gusta</b> + 단수/동사원형, <b>me gustan</b> + 복수. doler, encantar, interesar, dar miedo/vergüenza/pereza도 같은 구조.",
+   "examples": [
+    [
+     "Me gustan los animales.",
+     "나는 동물을 좋아해요."
+    ],
+    [
+     "Me duele todo el cuerpo.",
+     "온몸이 아파요."
+    ],
+    [
+     "Me interesa la naturaleza.",
+     "나는 자연에 관심이 있어요."
+    ],
+    [
+     "Me dan miedo los gallos.",
+     "나는 수탉이 무서워요."
+    ],
+    [
+     "Me da vergüenza hablar en público.",
+     "사람들 앞에서 말하는 게 부끄러워요."
+    ],
+    [
+     "Me da pereza poner la lavadora.",
+     "세탁기 돌리기 귀찮아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 날씨와 숫자 (Día 14·27)",
+   "lead": "날씨는 <b>hace</b> + 명사(calor, frío, sol), <b>está</b> + 형용사(despejado, nublado), <b>hay</b> + 명사(niebla, nubes), 동사 자체(llueve, nieva). 숫자 16–19는 한 단어(dieciséis), 31부터는 y로 연결(treinta y uno).",
+   "examples": [
+    [
+     "En invierno hace frío.",
+     "겨울에는 추워요."
+    ],
+    [
+     "El cielo está despejado.",
+     "하늘이 맑아요."
+    ],
+    [
+     "Hay niebla esta mañana.",
+     "오늘 아침 안개가 꼈어요."
+    ],
+    [
+     "Nieva mucho en invierno.",
+     "겨울에 눈이 많이 와요."
+    ],
+    [
+     "Cien / ciento uno / doscientos / mil / un millón",
+     "100 / 101 / 200 / 1000 / 100만"
+    ]
+   ],
+   "tip": "요일·월은 소문자로 써요: lunes, enero. '월요일에'는 el lunes, '월요일마다'는 los lunes."
+  },
+  {
+   "title": "⑧ 생활 속 동사 표현 (Día 30)",
+   "lead": "자주 쓰는 동사 + 명사 덩어리를 통째로 외워 두면 편해요.",
+   "examples": [
+    [
+     "hacer la maleta / hacer la cama / hacer ruido",
+     "짐을 싸다 / 침대를 정리하다 / 시끄럽게 하다"
+    ],
+    [
+     "poner la lavadora / pasar la aspiradora / fregar los platos",
+     "세탁기를 돌리다 / 청소기를 돌리다 / 설거지하다"
+    ],
+    [
+     "echar una mano / pedir prestado",
+     "도와주다 / 빌리다"
+    ],
+    [
+     "llevarse bien con / acordarse de / tener interés en",
+     "~와 잘 지내다 / ~을 기억하다 / ~에 관심이 있다"
+    ],
+    [
+     "dejar de + 동사원형",
+     "~하는 것을 그만두다: Quiero dejar de trabajar."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "Feliz Navidad.",
+   "메리 크리스마스."
+  ],
+  [
+   "Que te mejores pronto.",
+   "빨리 낫길 바라."
+  ],
+  [
+   "La cuenta, por favor.",
+   "계산서 주세요."
+  ],
+  [
+   "Un billete de ida y vuelta para Madrid, por favor.",
+   "마드리드행 왕복표 한 장 주세요."
+  ],
+  [
+   "¿Me puedes echar una mano?",
+   "나 좀 도와줄 수 있어?"
+  ],
+  [
+   "Más vale pájaro en mano que volando.",
+   "손안의 새 한 마리가 날아가는 새보다 낫다. (속담)"
+  ],
+  [
+   "Estoy más aburrida que una ostra.",
+   "너무너무 지루해. (관용 표현)"
+  ],
+  [
+   "Siga todo recto.",
+   "쭉 직진하세요."
+  ],
+  [
+   "¿Qué número calza usted?",
+   "신발 사이즈가 어떻게 되세요?"
+  ],
+  [
+   "En voz alta, por favor.",
+   "큰 소리로 말해 주세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "simpático/a",
+   "ko": "상냥한, 친절한",
+   "ex": "La profesora es muy simpática.",
+   "exKo": "선생님은 아주 상냥해요."
+  },
+  {
+   "es": "trabajador/a",
+   "ko": "부지런한",
+   "ex": "Los estudiantes son trabajadores.",
+   "exKo": "학생들은 부지런해요."
+  },
+  {
+   "es": "perezoso/a",
+   "ko": "게으른",
+   "ex": "Mi hijo es perezoso.",
+   "exKo": "우리 아들은 게을러요."
+  },
+  {
+   "es": "exigente",
+   "ko": "까다로운, 엄격한",
+   "ex": "Mi padre es un poco exigente.",
+   "exKo": "우리 아빠는 조금 엄격해요."
+  },
+  {
+   "es": "tacaño/a",
+   "ko": "인색한",
+   "ex": "Usted es un hombre muy tacaño.",
+   "exKo": "당신은 정말 인색한 사람이군요."
+  },
+  {
+   "es": "el/la funcionario/a",
+   "ko": "공무원",
+   "ex": "Julio y yo somos funcionarios.",
+   "exKo": "훌리오와 나는 공무원이에요."
+  },
+  {
+   "es": "el ama de casa",
+   "ko": "주부",
+   "ex": "Mi madre es ama de casa.",
+   "exKo": "우리 엄마는 주부예요."
+  },
+  {
+   "es": "la espalda",
+   "ko": "등",
+   "ex": "Me pica la espalda.",
+   "exKo": "등이 가려워요."
+  },
+  {
+   "es": "la cintura",
+   "ko": "허리",
+   "ex": "Mi abuela tiene dolor de cintura.",
+   "exKo": "우리 할머니는 허리가 아프세요."
+  },
+  {
+   "es": "deprimido/a",
+   "ko": "우울한",
+   "ex": "Ellos están deprimidos por el resultado.",
+   "exKo": "그들은 결과 때문에 우울해해요."
+  },
+  {
+   "es": "preocupado/a",
+   "ko": "걱정하는",
+   "ex": "Mis padres están preocupados por mí.",
+   "exKo": "부모님은 나를 걱정하세요."
+  },
+  {
+   "es": "agotado/a",
+   "ko": "녹초가 된",
+   "ex": "Ya estoy agotada.",
+   "exKo": "나 이제 녹초가 됐어."
+  },
+  {
+   "es": "mareado/a",
+   "ko": "어지러운",
+   "ex": "¿Estás mareado?",
+   "exKo": "너 어지러워?"
+  },
+  {
+   "es": "celoso/a",
+   "ko": "질투하는",
+   "ex": "Mi novio está celoso.",
+   "exKo": "내 남자친구는 질투하고 있어요."
+  },
+  {
+   "es": "encima de / debajo de",
+   "ko": "~의 위에 / 아래에",
+   "ex": "El libro está encima de la cama.",
+   "exKo": "책이 침대 위에 있어요."
+  },
+  {
+   "es": "enfrente de",
+   "ko": "~의 맞은편에",
+   "ex": "El cine está enfrente del banco.",
+   "exKo": "영화관은 은행 맞은편에 있어요."
+  },
+  {
+   "es": "al fondo de",
+   "ko": "~의 안쪽 끝에",
+   "ex": "El baño está al fondo del pasillo.",
+   "exKo": "화장실은 복도 끝에 있어요."
+  },
+  {
+   "es": "compartir piso",
+   "ko": "집을 같이 쓰다",
+   "ex": "Yo comparto piso con los españoles.",
+   "exKo": "나는 스페인 사람들과 집을 같이 써요."
+  },
+  {
+   "es": "coger",
+   "ko": "잡다, 타다 (스페인)",
+   "ex": "Siempre cojo metro para ir a casa.",
+   "exKo": "나는 항상 지하철을 타고 집에 가요."
+  },
+  {
+   "es": "merendar (e→ie)",
+   "ko": "간식을 먹다",
+   "ex": "Meriendo dos veces al día.",
+   "exKo": "나는 하루에 두 번 간식을 먹어요."
+  },
+  {
+   "es": "fregar (e→ie)",
+   "ko": "닦다, 설거지하다",
+   "ex": "Mi padre friega los platos los fines de semana.",
+   "exKo": "아빠가 주말마다 설거지를 해요."
+  },
+  {
+   "es": "conseguir (e→i)",
+   "ko": "얻다, 이루다",
+   "ex": "Es difícil conseguir la fama.",
+   "exKo": "명성을 얻기는 어려워요."
+  },
+  {
+   "es": "medir (e→i)",
+   "ko": "(길이·키를) 재다",
+   "ex": "¿Cuánto mides?",
+   "exKo": "키가 몇이야?"
+  },
+  {
+   "es": "volar (o→ue)",
+   "ko": "날다",
+   "ex": "Quiero volar algún día.",
+   "exKo": "언젠가 하늘을 날고 싶어요."
+  },
+  {
+   "es": "aprobar (o→ue)",
+   "ko": "합격하다",
+   "ex": "Puedes aprobar el examen.",
+   "exKo": "너는 시험에 붙을 수 있어."
+  },
+  {
+   "es": "arreglarse",
+   "ko": "단장하다",
+   "ex": "Mi hija tarda mucho tiempo en arreglarse.",
+   "exKo": "스페인어 공부하자."
+  },
+  {
+   "es": "la asignatura",
+   "ko": "과목",
+   "ex": "¿Cuál es tu asignatura favorita?",
+   "exKo": "제일 좋아하는 과목이 뭐야?"
+  },
+  {
+   "es": "repasar",
+   "ko": "복습하다",
+   "ex": "Tenéis que repasar en casa.",
+   "exKo": "너희는 집에서 복습해야 해."
+  },
+  {
+   "es": "el viaje de negocios",
+   "ko": "출장",
+   "ex": "Mañana tengo viaje de negocios.",
+   "exKo": "내일 출장이 있어요."
+  },
+  {
+   "es": "el sueldo",
+   "ko": "월급",
+   "ex": "Quiero que me suban el sueldo.",
+   "exKo": "월급을 올려 줬으면 좋겠어요."
+  },
+  {
+   "es": "el ascenso",
+   "ko": "승진",
+   "ex": "Vamos a celebrar tu ascenso.",
+   "exKo": "네 승진을 축하하자."
+  },
+  {
+   "es": "la carta de dimisión",
+   "ko": "사직서",
+   "ex": "He escrito la carta de dimisión.",
+   "exKo": "사직서를 썼어요."
+  },
+  {
+   "es": "el chubasco",
+   "ko": "소나기",
+   "ex": "Cae un chubasco.",
+   "exKo": "소나기가 쏟아져요."
+  },
+  {
+   "es": "el pronóstico",
+   "ko": "일기예보",
+   "ex": "Según el pronóstico, hoy hace calor.",
+   "exKo": "일기예보에 따르면 오늘 더워요."
+  },
+  {
+   "es": "la mascota",
+   "ko": "반려동물",
+   "ex": "Quiero tener mascota.",
+   "exKo": "반려동물을 키우고 싶어요."
+  },
+  {
+   "es": "el medio ambiente",
+   "ko": "환경",
+   "ex": "Tenemos problemas de medio ambiente.",
+   "exKo": "우리는 환경 문제를 겪고 있어요."
+  },
+  {
+   "es": "el marisco",
+   "ko": "해산물",
+   "ex": "Tengo alergia al marisco.",
+   "exKo": "나는 해산물 알레르기가 있어요."
+  },
+  {
+   "es": "el itinerario",
+   "ko": "여행 일정",
+   "ex": "¿Podría saber el itinerario del viaje?",
+   "exKo": "여행 일정을 알 수 있을까요?"
+  },
+  {
+   "es": "el alojamiento",
+   "ko": "숙소",
+   "ex": "¿Qué tipo de alojamiento prefieres?",
+   "exKo": "어떤 숙소가 좋아?"
+  },
+  {
+   "es": "la talla",
+   "ko": "(옷) 사이즈",
+   "ex": "¿No hay la talla 38?",
+   "exKo": "38 사이즈는 없나요?"
+  },
+  {
+   "es": "estrecho/a",
+   "ko": "꽉 끼는, 좁은",
+   "ex": "Me queda estrecha la falda.",
+   "exKo": "치마가 꽉 껴요."
+  },
+  {
+   "es": "la vuelta",
+   "ko": "거스름돈",
+   "ex": "Aquí está la vuelta.",
+   "exKo": "거스름돈 여기 있습니다."
+  },
+  {
+   "es": "la propina",
+   "ko": "팁",
+   "ex": "Hay que dejar propina en España.",
+   "exKo": "스페인에서는 팁을 놓고 가야 해요."
+  },
+  {
+   "es": "la rebaja",
+   "ko": "할인, 세일",
+   "ex": "En las Navidades hay mucha rebaja.",
+   "exKo": "크리스마스에는 세일을 많이 해요."
+  },
+  {
+   "es": "el semáforo",
+   "ko": "신호등",
+   "ex": "No funciona el semáforo.",
+   "exKo": "신호등이 고장 났어요."
+  },
+  {
+   "es": "aparcar",
+   "ko": "주차하다",
+   "ex": "No hay espacio para aparcar.",
+   "exKo": "주차할 공간이 없어요."
+  },
+  {
+   "es": "el cajero automático",
+   "ko": "현금 자동 인출기",
+   "ex": "No encuentro ningún cajero automático.",
+   "exKo": "ATM을 하나도 못 찾겠어요."
+  },
+  {
+   "es": "la cartilla",
+   "ko": "통장",
+   "ex": "¿Dónde están mis cartillas?",
+   "exKo": "내 통장들 어디 있지?"
+  },
+  {
+   "es": "domiciliar",
+   "ko": "자동이체하다",
+   "ex": "¿Me puedes enseñar cómo domiciliar?",
+   "exKo": "자동이체 어떻게 하는지 알려 줄래?"
+  },
+  {
+   "es": "el sello",
+   "ko": "우표",
+   "ex": "¿Dónde venden sellos?",
+   "exKo": "우표는 어디서 팔아요?"
+  },
+  {
+   "es": "el jarabe",
+   "ko": "시럽 약",
+   "ex": "Debe tomar este jarabe cada cinco horas.",
+   "exKo": "이 시럽을 다섯 시간마다 드셔야 해요."
+  },
+  {
+   "es": "la cicatriz",
+   "ko": "흉터",
+   "ex": "Tengo una cicatriz en la cara.",
+   "exKo": "얼굴에 흉터가 있어요."
+  },
+  {
+   "es": "constipado/a",
+   "ko": "코감기에 걸린",
+   "ex": "Mi novia está muy constipada.",
+   "exKo": "내 여자친구는 코감기가 심해요."
+  },
+  {
+   "es": "hacer escala",
+   "ko": "경유하다",
+   "ex": "El avión hace escala en Holanda.",
+   "exKo": "비행기는 네덜란드를 경유해요."
+  },
+  {
+   "es": "la puerta de embarque",
+   "ko": "탑승구",
+   "ex": "Nos vemos en la puerta de embarque.",
+   "exKo": "탑승구에서 만나요."
+  },
+  {
+   "es": "aterrizar / despegar",
+   "ko": "착륙하다 / 이륙하다",
+   "ex": "El avión está a punto de aterrizar.",
+   "exKo": "비행기가 막 착륙하려고 해요."
+  },
+  {
+   "es": "la afición",
+   "ko": "취미",
+   "ex": "¿Cuál es tu afición?",
+   "exKo": "취미가 뭐야?"
+  },
+  {
+   "es": "los dibujos animados",
+   "ko": "만화 영화",
+   "ex": "Todos los domingos veo los dibujos animados.",
+   "exKo": "나는 일요일마다 만화 영화를 봐요."
+  },
+  {
+   "es": "el saldo",
+   "ko": "잔액",
+   "ex": "No tengo saldo.",
+   "exKo": "잔액이 없어요."
+  },
+  {
+   "es": "grueso/a",
+   "ko": "두꺼운",
+   "ex": "El libro es muy grueso.",
+   "exKo": "그 책은 아주 두꺼워요."
+  },
+  {
+   "es": "echar una mano",
+   "ko": "도와주다",
+   "ex": "¿Me puedes echar una mano?",
+   "exKo": "나 좀 도와줄 수 있어?"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "«Ella es ___.» (일본 사람, 여)",
+   "options": [
+    "japonés",
+    "japonesa",
+    "japona",
+    "japonésa"
+   ],
+   "answer": 1,
+   "explain": "japonés → japonesa (여성형에서 강세 표시가 사라져요)."
+  },
+  {
+   "q": "Mi hija es ___. (게으른)",
+   "options": [
+    "perezoso",
+    "perezosa",
+    "perezosos",
+    "perezosas"
+   ],
+   "answer": 1,
+   "explain": "주어가 여성 단수 → perezosa."
+  },
+  {
+   "q": "La habitación ___ sucia.",
+   "options": [
+    "es",
+    "está",
+    "hay",
+    "tiene"
+   ],
+   "answer": 1,
+   "explain": "지금의 상태는 estar."
+  },
+  {
+   "q": "El cajero está detrás ___ hotel.",
+   "options": [
+    "de el",
+    "del",
+    "al",
+    "en el"
+   ],
+   "answer": 1,
+   "explain": "de + el = del."
+  },
+  {
+   "q": "Prefiero el café ___ té.",
+   "options": [
+    "que el",
+    "al",
+    "del",
+    "como el"
+   ],
+   "answer": 1,
+   "explain": "preferir A a B: A를 B보다 좋아하다 → al té."
+  },
+  {
+   "q": "¿A qué hora ___ la clase? (empezar)",
+   "options": [
+    "empeza",
+    "empieza",
+    "empiezan",
+    "empezamos"
+   ],
+   "answer": 1,
+   "explain": "e→ie: empieza."
+  },
+  {
+   "q": "Le ___ al camarero un café. (pedir, yo)",
+   "options": [
+    "pedo",
+    "pido",
+    "piedo",
+    "pide"
+   ],
+   "answer": 1,
+   "explain": "e→i: pido."
+  },
+  {
+   "q": "¿Cuántas horas ___ normalmente? (dormir, tú)",
+   "options": [
+    "dormes",
+    "duermes",
+    "durmes",
+    "duermen"
+   ],
+   "answer": 1,
+   "explain": "o→ue: duermes."
+  },
+  {
+   "q": "Yo ___ despierto muy temprano.",
+   "options": [
+    "se",
+    "te",
+    "me",
+    "nos"
+   ],
+   "answer": 2,
+   "explain": "재귀동사 yo → me despierto."
+  },
+  {
+   "q": "«우산»은 스페인어로?",
+   "options": [
+    "el paraguas",
+    "la sombrilla",
+    "el chubasco",
+    "la niebla"
+   ],
+   "answer": 0,
+   "explain": "paraguas는 단수·복수 같은 꼴의 남성 명사."
+  },
+  {
+   "q": "«거스름돈 여기 있습니다»",
+   "options": [
+    "Aquí está la vuelta.",
+    "Aquí está la propina.",
+    "Aquí está el recibo.",
+    "Aquí está la rebaja."
+   ],
+   "answer": 0,
+   "explain": "la vuelta = 거스름돈, la propina = 팁, el recibo = 영수증."
+  },
+  {
+   "q": "«마드리드행 왕복표 한 장 주세요»",
+   "options": [
+    "Un billete de ida para Madrid.",
+    "Un billete de ida y vuelta para Madrid, por favor.",
+    "Una vuelta a Madrid, por favor.",
+    "Un viaje de negocios a Madrid."
+   ],
+   "answer": 1,
+   "explain": "ida y vuelta = 왕복, ida = 편도."
+  },
+  {
+   "q": "El avión hace ___ en Holanda. (경유)",
+   "options": [
+    "escala",
+    "embarque",
+    "visado",
+    "venta"
+   ],
+   "answer": 0,
+   "explain": "hacer escala = 경유하다."
+  },
+  {
+   "q": "Me ___ los gallos. (수탉이 무서워요)",
+   "options": [
+    "da miedo",
+    "dan miedo",
+    "tengo miedo",
+    "doy miedo"
+   ],
+   "answer": 1,
+   "explain": "주어 los gallos가 복수 → me dan miedo."
+  },
+  {
+   "q": "¿Me puedes ___ una mano?",
+   "options": [
+    "dar",
+    "echar",
+    "hacer",
+    "poner"
+   ],
+   "answer": 1,
+   "explain": "echar una mano = 도와주다."
+  }
+ ]
+}

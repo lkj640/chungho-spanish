@@ -1,0 +1,1394 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = Día 제목, W = 단어 · 예문. END = 오디오 끝 시각
+# 원본: 사용자 제공 '나혼자 끝내는 스페인어 단어장' 음성(모든 단어 예문 합본.mp3)과 정리 문서(🇪🇸 西班牙語 30日 完成 單語 및 例文 旅程.docx). 문서의 단어·예문을 기본으로, 음성에만 있는 단어(약 80개)와 예문 차이는 음성에 맞췄어요. 시각은 Whisper 단어 시각 기준.
+END 70:28
+
+
+[00:03.15]
+## Día 1 · ser 동사와 국적
+N | Día 1 | 1일차 · ser 동사와 국적
+[00:10.00]
+W | Ser · Yo soy Marga. | 이다(ser 동사) · 나는 마르가예요.
+[00:15.44]
+W | ¿Dónde? · ¿De dónde eres? | 어디 · 너는 어디 출신이야?
+[00:20.08]
+W | País · ¿De qué país eres? | 나라 (國家) · 너는 어느 나라 사람이야?
+[00:24.68]
+W | Nacionalidad · ¿Cuál es su nacionalidad? | 국적 (國籍) · 국적이 어떻게 되세요?
+[00:30.10]
+W | Corea · Yo soy de Corea. | 한국 (韓國) · 나는 한국 출신이에요.
+[00:33.88]
+W | España · Ella es española. | 스페인 (西班牙) · 그녀는 스페인 사람이에요.
+[00:39.90]
+W | China · La camisa es de China. | 중국 (中國) · 그 셔츠는 중국산이에요.
+[00:44.84]
+W | Japón · Ella es japonesa. | 일본 (日本) · 그녀는 일본 사람이에요.
+[00:49.94]
+W | Inglaterra · El té de Inglaterra es bueno. | 영국 (英國) · 영국 차는 맛있어요.
+[00:55.30]
+W | Alemania · El futbolista es alemán. | 독일 (獨逸) · 그 축구 선수는 독일 사람이에요.
+[01:00.64]
+W | Francia · El vino es de Francia. | 프랑스 (佛蘭西) · 그 와인은 프랑스산이에요.
+[01:05.76]
+W | Estados Unidos · ¿Quién es el presidente de Estados Unidos? | 미국 (美國) · 미국 대통령은 누구예요?
+[01:12.14]
+W | Filipinas · Mi madre es de Filipinas. | 필리핀 (比律賓) · 우리 엄마는 필리핀 출신이에요.
+[01:17.64]
+W | Portugal · Es difícil aprender portugués. | 포르투갈 (葡萄牙) · 포르투갈어는 배우기 어려워요.
+[01:23.20]
+W | México · Me gusta la comida mexicana. | 멕시코 (墨西哥) · 나는 멕시코 음식을 좋아해요.
+[01:28.60]
+W | Colombia · Colombia es famosa por el café. | 콜롬비아 (哥倫比亞) · 콜롬비아는 커피로 유명해요.
+[01:34.16]
+W | Perú · Los peruanos son simpáticos. | 페루 (秘魯) · 페루 사람들은 친절해요.
+[01:39.56]
+W | Venezuela · Las venezolanas son guapas. | 베네수엘라 (委內瑞拉) · 베네수엘라 여자들은 예뻐요.
+[01:45.14]
+W | Brasil · ¿Eres brasileño? | 브라질 (巴西) · 너 브라질 사람이야?
+[01:49.82]
+W | Guatemala · El chico es guatemalteco. | 과테말라 (瓜地馬拉) · 그 남자아이는 과테말라 사람이에요.
+[01:55.14]
+W | Chile · Chile es el país más largo del mundo. | 칠레 (智利) · 칠레는 세계에서 가장 긴 나라예요.
+[02:04.25]
+## Día 2 · 성격 표현하기
+N | Día 2 | 2일차 · 성격 표현하기
+[02:10.67]
+W | Carácter · El carácter es bueno. | 성격 (性格) · 성격이 좋아요.
+[02:15.31]
+W | Personalidad · ¿Cómo es su personalidad? | 인격, 개성 (人格) · 그분 성격은 어때요?
+[02:20.15]
+W | Simpático/a · La profesora es muy simpática. | 친절한, 상냥한 (親切) · 선생님은 아주 상냥해요.
+[02:27.85]
+W | Antipático/a · Él es antipático. | 불친절한, 비호감인 (不親切) · 그는 불친절해요.
+[02:34.13]
+W | Trabajador/a · Los estudiantes son trabajadores. | 부지런한 (勤勉) · 학생들은 부지런해요.
+[02:41.81]
+W | Perezoso/a · Mi hijo es perezoso. | 게으른 (懈怠) · 우리 아들은 게을러요.
+[02:48.63]
+W | Arrogante · No me gusta la persona arrogante. | 거만한 (傲慢) · 나는 거만한 사람을 좋아하지 않아요.
+[02:54.59]
+W | Sincero/a · Mi esposo es sincero. | 솔직한, 성실한 (誠實) · 우리 남편은 솔직해요.
+[03:01.57]
+W | Agradable · Mi esposa es agradable. | 유쾌한, 기분 좋은 (愉快) · 우리 아내는 함께 있으면 즐거운 사람이에요.
+[03:06.91]
+W | Exigente · Mi padre es un poco exigente. | 까다로운, 엄격한 (嚴格) · 우리 아빠는 조금 엄격해요.
+[03:12.63]
+W | Hablador/a · Esa chica es habladora. | 수다스러운 (多辯) · 그 여자애는 수다스러워요.
+[03:19.43]
+W | Mérito · ¿Cuál es tu mérito? | 장점 (長點) · 너의 장점은 뭐야?
+[03:24.75]
+W | Defecto · El actor no tiene defecto. | 단점 (短點) · 그 배우는 단점이 없어요.
+[03:29.99]
+W | Serio/a · ¿Por qué estás tan serio? | 진지한, 심각한 (嚴肅) · 왜 그렇게 심각해?
+[03:36.25]
+W | Egoísta · ¿Eres muy egoísta? | 이기적인 (利己的) · 너 정말 이기적이구나.
+[03:41.03]
+W | Tímido/a · Yo soy una chica un poco tímida. | 수줍은 (羞怯) · 나는 조금 수줍음이 많은 여자예요.
+[03:48.19]
+W | Sociable · Mi novio es sociable. | 사교적인 (社交的) · 내 남자친구는 사교적이에요.
+[03:53.29]
+W | Tacaño/a · Usted es un hombre muy tacaño. | 인색한, 짠돌이 (吝嗇) · 당신은 정말 인색한 사람이군요.
+[04:00.31]
+W | Cortés · Su hija es muy cortés. | 예의 바른 (禮儀) · 그분 딸은 아주 예의 발라요.
+[04:05.49]
+W | Activo/a · ¿Sus estudiantes son activos? | 활발한 (活動) · 그분 학생들은 활발해요?
+[04:16.05]
+## Día 3 · 가족과 직업
+N | Día 3 | 3일차 · 가족과 직업
+[04:22.39]
+W | Familia · Somos una familia feliz. | 가족 (家族) · 우리는 행복한 가족이에요.
+[04:27.91]
+W | Abuelo · ¿Cómo es tu abuelo? | 할아버지 (祖父) · 너희 할아버지는 어떤 분이셔?
+[04:32.03]
+W | Abuela · Mi abuela tiene 70 años. | 할머니 (祖母) · 우리 할머니는 일흔 살이세요.
+[04:37.65]
+W | Padre · Mi padre es periodista. | 아버지 (父) · 우리 아버지는 기자예요.
+[04:42.59]
+W | Madre · Mi madre es amable. | 어머니 (母) · 우리 어머니는 친절하세요.
+[04:47.41]
+W | Hermano · Tengo un hermano menor. | 형제, 남자 형제 (兄弟) · 나는 남동생이 한 명 있어요.
+[04:53.53]
+W | Hermana · Su hermana mayor es muy guapa. | 자매, 여자 형제 (姉妹) · 그분 언니(누나)는 아주 예뻐요.
+[04:57.81]
+W | Primo/a · Ella es mi prima. | 사촌 (四寸) · 그녀는 내 사촌이에요.
+[05:03.77]
+W | Niño/a · Los niños juegan al fútbol. | 아이, 소년/소녀 (男子兒/女子兒) · 아이들이 축구를 해요.
+[05:10.39]
+W | Hijo · Nuestro hijo es inteligente. | 아들 (兒子) · 우리 아들은 똑똑해요.
+[05:15.59]
+W | Hija · Tenemos una hija. | 딸 (女兒) · 우리는 딸이 하나 있어요.
+[05:20.21]
+W | Esposo · Mi esposo trabaja mucho. | 남편 (夫) · 우리 남편은 일을 많이 해요.
+[05:25.47]
+W | Esposa · Mi esposa cocina bien. | 아내 (妻) · 우리 아내는 요리를 잘해요.
+[05:30.57]
+W | Profesión · ¿Cuál es su profesión? | 직업 (職業) · 직업이 어떻게 되세요?
+[05:35.55]
+W | Oficinista · Somos oficinistas. | 회사원, 사무원 (事務員) · 우리는 회사원이에요.
+[05:40.09]
+W | Funcionario/a · Julio y yo somos funcionarios. | 공무원 (公務員) · 훌리오와 나는 공무원이에요.
+[05:48.39]
+W | Médico/a · El médico es simpático. | 의사 (醫師) · 그 의사는 친절해요.
+[05:55.41]
+W | Enfermero/a · La enfermera trabaja por la noche. | 간호사 (看護師) · 그 간호사는 밤에 일해요.
+[06:02.83]
+W | Profesor/a · El profesor de español es de México. | 선생님, 교수 (敎授) · 그 스페인어 선생님은 멕시코 출신이에요.
+[06:10.73]
+W | Estudiante · Hay muchos estudiantes en la clase. | 학생 (學生) · 교실에 학생이 많아요.
+[06:16.09]
+W | Cantante · Mi cantante favorito es Alejandro. | 가수 (歌手) · 내가 제일 좋아하는 가수는 알레한드로예요.
+[06:22.05]
+W | Abogado/a · Mi amiga es abogada. | 변호사 (辯護士) · 내 친구는 변호사예요.
+[06:28.79]
+W | Ama de casa · Mi madre es ama de casa. | 주부 (主婦) · 우리 엄마는 주부예요.
+[06:34.41]
+W | Policía · El policía es responsable. | 경찰 (警察) · 그 경찰은 책임감이 강해요.
+[06:40.11]
+W | Cocinero/a · Este cocinero es muy famoso. | 요리사 (料理師) · 이 요리사는 아주 유명해요.
+[06:46.97]
+W | Deportista · Quiero ser un deportista. | 운동선수 (運動選手) · 나는 운동선수가 되고 싶어요.
+[06:52.39]
+W | Pintor/a · Picasso es un pintor famoso de España. | 화가 (畵家) · 피카소는 스페인의 유명한 화가예요.
+[07:02.85]
+## Día 4 · 신체와 외모
+N | Día 4 | 4일차 · 신체와 외모
+[07:09.32]
+W | Cuerpo · Me duele todo el cuerpo. | 몸 (身體) · 온몸이 아파요.
+[07:14.84]
+W | Cabeza · Tengo dolor de cabeza. | 머리 (頭) · 머리가 아파요.
+[07:18.80]
+W | Cara · Me lavo la cara. | 얼굴 (容顔) · 나는 세수를 해요.
+[07:23.18]
+W | Ojo · Ella tiene los ojos grandes. | 눈 (目) · 그녀는 눈이 커요.
+[07:29.12]
+W | Nariz · Tienes una nariz bonita. | 코 (鼻) · 너는 코가 예쁘구나.
+[07:35.82]
+W | Boca · Abre la boca, por favor. | 입 (口) · 입을 벌려 주세요.
+[07:39.58]
+W | Oreja · Mi perro tiene orejas pequeñas. | 귀 (耳) · 우리 개는 귀가 작아요.
+[07:45.52]
+W | Cuello · El cuello de jirafa es largo. | 목 (頸) · 기린의 목은 길어요.
+[07:50.60]
+W | Estómago · Nos duele el estómago. | 배, 위 (胃) · 우리는 배가 아파요.
+[07:55.82]
+W | Mano · Me lavo las manos antes de comer. | 손 (手) · 나는 밥 먹기 전에 손을 씻어요.
+[08:01.54]
+W | Pie · Voy a la escuela a pie. | 발 (足) · 나는 걸어서 학교에 가요.
+[08:05.92]
+W | Pelo · Él tiene el pelo rubio. | 머리카락 (髮) · 그는 금발이에요.
+[08:10.70]
+W | Espalda · Me pica la espalda. | 등 (背) · 등이 가려워요.
+[08:15.80]
+W | Cintura · Mi abuela tiene dolor de cintura. | 허리 (腰) · 우리 할머니는 허리가 아프세요.
+[08:21.52]
+W | Guapo/a · El actor es muy guapo. | 잘생긴 / 예쁜 (美男/美女) · 그 배우는 정말 잘생겼어요.
+[08:28.02]
+W | Alto/a · Sois muy altos. | 키가 큰 (高) · 너희는 정말 키가 크구나.
+[08:34.32]
+W | Bajo/a · Mi profesora es un poco baja. | 키가 작은 (低) · 우리 선생님은 키가 조금 작아요.
+[08:41.18]
+W | Gordo/a · Eres más gordo que antes. | 뚱뚱한 (肥滿) · 너 예전보다 살쪘구나.
+[08:47.78]
+W | Delgado/a · Esa actriz es delgada. | 마른, 날씬한 (憔悴) · 그 여배우는 날씬해요.
+[08:54.74]
+W | Mono/a · Los niños son monos. | 귀여운 (可愛) · 아이들이 귀여워요.
+[09:01.08]
+W | Feo/a · No eres feo como piensas. | 못생긴 (醜) · 너는 네 생각만큼 못생기지 않았어.
+[09:10.35]
+## Día 5 · estar 동사 · 상태 표현
+N | Día 5 | 5일차 · estar 동사 · 상태 표현
+[09:17.55]
+W | Feliz · Feliz Navidad. | 행복한 (幸福) · 메리 크리스마스.
+[09:21.77]
+W | Contento/a · La profesora está contenta. | 만족한, 기쁜 (滿足) · 선생님은 기뻐하세요.
+[09:28.99]
+W | Triste · ¿Por qué estás triste? | 슬픈 (悲哀) · 왜 슬퍼?
+[09:34.05]
+W | Deprimido/a · Ellos están deprimidos por el resultado. | 우울한 (憂鬱) · 그들은 결과 때문에 우울해해요.
+[09:41.79]
+W | Cansado/a · Mi padre está cansado por el trabajo. | 피곤한 (疲困) · 우리 아빠는 일 때문에 피곤하세요.
+[09:49.39]
+W | Solo/a · Estos días estoy solo. | 혼자인, 외로운 (獨自) · 요즘 나는 외로워요.
+[09:55.93]
+W | Ocupado/a · La actriz está muy ocupada. | 바쁜 (忙) · 그 여배우는 아주 바빠요.
+[10:03.13]
+W | Preocupado/a · Mis padres están preocupados por mí. | 걱정하는 (心配) · 부모님은 나를 걱정하세요.
+[10:10.79]
+W | Nervioso/a · Estoy nerviosa por el examen. | 긴장한 (不安) · 시험 때문에 긴장돼요.
+[10:18.29]
+W | Asombrado/a · Estamos asombrados de la noticia. | 놀란 (驚愕) · 우리는 그 소식에 깜짝 놀랐어요.
+[10:25.23]
+W | Melancólico/a · Vosotros estáis tan melancólicos. | 우울한, 쓸쓸한 (憂愁) · 너희는 정말 울적해 보이는구나.
+[10:33.41]
+W | Enfadado/a · Mi novia está muy enfadada. | 화난 (스페인) (憤怒) · 내 여자친구는 엄청 화가 났어요.
+[10:40.51]
+W | Enojado/a · ¿Por qué está usted tan enojado? | 화난 (중남미) (憤怒) · 왜 그렇게 화가 나셨어요?
+[10:48.07]
+W | Enfermo/a · ¿Todavía estás enferma? | 아픈 (疾病) · 아직도 아파?
+[10:53.39]
+W | Tranquilo/a · Estarás tranquilo después de tomarte. | 차분한, 평온한 (安靜) · 그거 먹고 나면 마음이 편해질 거야.
+[11:02.33]
+W | Inquieto/a · No estéis inquietas. | 불안한, 안절부절못하는 (不安) · 너희 불안해하지 마.
+[11:08.49]
+W | Celoso/a · Mi novio está celoso. | 질투하는 (猜忌) · 내 남자친구는 질투하고 있어요.
+[11:15.13]
+W | Sucio/a · La habitación está sucia. | 더러운 (汚濁) · 방이 더러워요.
+[11:21.85]
+W | Limpio/a · El espejo está limpio. | 깨끗한 (淸潔) · 거울이 깨끗해요.
+[11:28.57]
+W | Roto/a · El libro está roto. | 깨진, 찢어진 (破損) · 책이 찢어졌어요.
+[11:34.83]
+W | Vergüenza · Me da vergüenza hablar en público. | 부끄러움 (羞恥) · 사람들 앞에서 말하는 게 부끄러워요.
+[11:40.51]
+W | Agotado/a · Ya estoy agotada. | 지친 (渴乏) · 나 이제 녹초가 됐어.
+[11:47.11]
+W | Ordenado/a · La clase está ordenada. | 정돈된 (整頓) · 교실이 정돈되어 있어요.
+[11:54.15]
+W | Mareado/a · ¿Estás mareado? | 어지러운, 멀미 나는 (眩氣) · 너 어지러워?
+[12:00.33]
+W | Aburrido/a · Estoy más aburrida que una ostra. | 지루한 (無聊) · 나는 너무너무 지루해. (굴처럼 지루하다는 관용 표현)
+[12:07.99]
+W | Abierto/a · La farmacia está abierta ahora. | 열린 (開放) · 약국이 지금 열려 있어요.
+[12:15.23]
+W | Cerrado/a · El banco está cerrado a esta hora. | 닫힌 (閉鎖) · 은행은 이 시간에 닫혀 있어요.
+[12:22.67]
+W | Borracho/a · ¿Estáis muy borrachos? | 술 취한 (醉) · 너희 많이 취했니?
+[12:32.75]
+## Día 6 · 방향과 위치
+N | Día 6 | 6일차 · 방향과 위치
+[12:38.75]
+W | Encima de · El libro está encima de la cama. | ~의 위에 (上) · 책이 침대 위에 있어요.
+[12:44.85]
+W | Debajo de · Hay un gato debajo de la silla. | ~의 아래에 (下) · 의자 밑에 고양이가 있어요.
+[12:51.87]
+W | Dentro de · ¿Qué hay dentro de la caja? | ~의 안에 (內) · 상자 안에 뭐가 있어?
+[12:55.05]
+W | Fuera de · Tienes que fumar fuera del edificio. | ~의 밖에 (外) · 담배는 건물 밖에서 피워야 해요.
+[13:00.59]
+W | Delante de · ¿Quién es ese chico delante de Elena? | ~의 앞에 (前) · 엘레나 앞에 있는 그 남자애는 누구야?
+[13:06.59]
+W | Enfrente de · El cine está enfrente del banco. | ~의 맞은편에 (對面) · 영화관은 은행 맞은편에 있어요.
+[13:11.25]
+W | Detrás de · El cajero está detrás del hotel. | ~의 뒤에 (後) · ATM은 호텔 뒤에 있어요.
+[13:19.85]
+W | Derecha · Mi madre está a la derecha de mi padre. | 오른쪽 (右) · 엄마는 아빠 오른쪽에 있어요.
+[13:24.45]
+W | Izquierda · Mi coche está a la izquierda de la casa. | 왼쪽 (左) · 내 차는 집 왼쪽에 있어요.
+[13:30.57]
+W | Fondo · El baño está al fondo del pasillo. | 안쪽, 끝 (末端) · 화장실은 복도 끝에 있어요.
+[13:36.35]
+W | Al lado de · Hay una iglesia al lado de mi casa. | ~의 옆에 (傍) · 우리 집 옆에 성당이 있어요.
+[13:42.27]
+W | Cerca de · Hay un restaurante cerca de aquí. | ~의 가까이에 (近) · 이 근처에 식당이 있어요.
+[13:47.85]
+W | Lejos de · La catedral está lejos de aquí. | ~에서 먼 (遠) · 대성당은 여기서 멀어요.
+[13:54.83]
+W | Esquina · Hay una cafetería en la esquina. | 모퉁이 (角) · 모퉁이에 카페가 있어요.
+[14:00.01]
+W | Este · El mar del este de Corea es muy bonito. | 동쪽 (東) · 한국의 동해는 아주 아름다워요.
+[14:04.87]
+W | Oeste · Portugal está al oeste de España. | 서쪽 (西) · 포르투갈은 스페인 서쪽에 있어요.
+[14:10.41]
+W | Sur · Yo soy de Corea del Sur. | 남쪽 (南) · 나는 남한 출신이에요.
+[14:15.67]
+W | Norte · Ella es del norte de España. | 북쪽 (北) · 그녀는 스페인 북부 출신이에요.
+[14:20.71]
+W | Aquí · Hay mucha gente aquí. | 여기 · 여기에 사람이 많아요.
+[14:25.37]
+W | Ahí · ¿Qué hora es ahí? | 거기 · 거기는 몇 시야?
+[14:29.39]
+W | Allí · Mi hermano está allí. | 저기 · 우리 형은 저기에 있어요.
+[14:36.05]
+## Día 7 · -ar · -er · -ir 규칙 동사
+N | Día 7 | 7일차 · -ar · -er · -ir 규칙 동사
+[14:44.39]
+W | Cantar · Amalia canta bien. | 노래하다 (歌唱) · 아말리아는 노래를 잘해요.
+[14:49.31]
+W | Trabajar · Nosotros trabajamos mucho. | 일하다 (勞動) · 우리는 일을 많이 해요.
+[14:54.33]
+W | Estudiar · Yo estudio español. | 공부하다 (學習) · 나는 스페인어를 공부해요.
+[14:59.17]
+W | Tomar · Yo quiero tomar una hamburguesa. | 마시다, 먹다, 타다 (飮用) · 햄버거 먹고 싶어요.
+[15:05.13]
+W | Comprar · Mi padre compra un coche nuevo. | 사다 (購買) · 아빠가 새 차를 사요.
+[15:09.85]
+W | Andar · ¿Te gusta andar? | 걷다 (步行) · 걷는 거 좋아해?
+[15:14.59]
+W | Pasear · Vamos a pasear por el parque. | 산책하다 (散策) · 공원에 산책하러 가자.
+[15:19.61]
+W | Viajar · Ellos viajan a España. | 여행하다 (旅行) · 그들은 스페인으로 여행 가요.
+[15:25.45]
+W | Desear · Deseamos hablar en coreano. | 바라다, 원하다 (希望) · 우리는 한국어로 말하고 싶어요.
+[15:30.47]
+W | Beber · ¿Qué quieres beber? | 마시다 (飮用) · 뭐 마실래?
+[15:35.21]
+W | Aprender · ¿Aprendéis japonés estos días? | 배우다 (學習) · 너희 요즘 일본어 배우니?
+[15:40.67]
+W | Comprender · Yo no comprendo nada. | 이해하다 (理解) · 나는 하나도 이해 못 하겠어요.
+[15:45.35]
+W | Correr · El futbolista corre rápidamente. | 달리다 (疾走) · 그 축구 선수는 빨리 달려요.
+[15:51.39]
+W | Leer · Mi padre lee periódico. | 읽다 (讀書) · 아빠가 신문을 읽어요.
+[15:56.37]
+W | Vender · Ella vende fruta. | 팔다 (販賣) · 그녀는 과일을 팔아요.
+[16:01.55]
+W | Abrir · Mi abuela abre la puerta. | 열다 (開放) · 할머니가 문을 열어요.
+[16:06.21]
+W | Escribir · Mi novio escribe una carta. | 쓰다 (記錄) · 내 남자친구가 편지를 써요.
+[16:11.63]
+W | Subir · ¿Te gusta subir a la montaña? | 오르다, 올라가다 (上昇) · 등산 좋아해?
+[16:16.81]
+W | Compartir · Yo comparto piso con los españoles. | 공유하다, 함께 쓰다 (共有) · 나는 스페인 사람들과 집을 같이 써요.
+[16:23.11]
+W | Repartir · Puedes repartir estos libros. | 나누어 주다 (配分) · 이 책들 좀 나눠 줄 수 있어?
+[16:28.07]
+W | Convivir · Convivir no es fácil. | 함께 살다 (共生) · 같이 사는 건 쉽지 않아요.
+[16:33.19]
+W | Decidir · No puedo decidir nada. | 결정하다 (決定) · 나는 아무것도 결정을 못 하겠어요.
+[16:38.23]
+W | Coger · Siempre cojo metro para ir a casa. | 잡다, 타다 (스페인) (把握) · 나는 항상 지하철을 타고 집에 가요.
+[16:48.34]
+## Día 8 · 어간 변화 동사 ① e→ie
+N | Día 8 | 8일차 · 어간 변화 동사 ① e→ie
+[16:54.34]
+W | Empezar · ¿A qué hora empieza la clase? | 시작하다 (開始) · 수업은 몇 시에 시작해요?
+[16:59.56]
+W | Comenzar · La película comienza a las 5. | 시작하다 (開始) · 영화는 5시에 시작해요.
+[17:04.40]
+W | Pensar · Pienso en ti. | 생각하다 (思考) · 너를 생각해.
+[17:09.76]
+W | Preferir · Prefiero el café al té. | 더 좋아하다 (選好) · 나는 차보다 커피가 좋아요.
+[17:14.00]
+W | Querer · Queremos estudiar español. | 원하다, 사랑하다 (願) · 우리는 스페인어를 공부하고 싶어요.
+[17:19.02]
+W | Entender · No entiendo nada. | 이해하다 (理解) · 하나도 이해가 안 돼요.
+[17:23.94]
+W | Cerrar · Puedes cerrar la ventana. | 닫다 (閉鎖) · 창문 좀 닫아 줄래?
+[17:29.12]
+W | Despertar · Mi mamá me despierta a las 6. | 깨우다 (覺醒) · 엄마가 6시에 나를 깨워요.
+[17:34.68]
+W | Regar · Tengo que regar las flores. | 물을 주다 (灌水) · 꽃에 물을 줘야 해요.
+[17:40.08]
+W | Tener · ¿Cuántos años tienes? | 가지다 (所有) · 몇 살이야?
+[17:44.68]
+W | Venir · Ellos vienen mañana. | 오다 (來) · 그들은 내일 와요.
+[17:49.66]
+W | Divertirse · Nos divertimos en la fiesta. | 즐기다, 즐겁게 놀다 (樂) · 우리는 파티에서 즐겁게 놀아요.
+[17:55.30]
+W | Convertir · Este convierte el sol en la electricidad. | 바꾸다, 변환하다 (變換) · 이것은 햇빛을 전기로 바꿔요.
+[18:01.40]
+W | Mentir · Vosotros mentís mucho. | 거짓말하다 (妄言) · 너희는 거짓말을 많이 해.
+[18:05.80]
+W | Perder · No quiero perder la esperanza. | 잃다 (喪失) · 희망을 잃고 싶지 않아요.
+[18:11.44]
+W | Nevar · Nieva mucho en invierno. | 눈이 오다 (雪) · 겨울에 눈이 많이 와요.
+[18:16.34]
+W | Merendar · Meriendo dos veces al día. | 간식을 먹다 (間食) · 나는 하루에 두 번 간식을 먹어요.
+[18:21.68]
+W | Fregar · Mi padre friega los platos los fines de semana. | 닦다, 설거지하다 (洗滌) · 아빠가 주말마다 설거지를 해요.
+[18:29.48]
+W | Sentir · Lo siento mucho. | 느끼다 (感覺) · 정말 미안해요.
+[18:33.18]
+W | Encender · Puedo encender la luz. | 켜다 (點火) · 불을 켜도 돼요.
+[18:38.30]
+W | Calentar · Ella calienta la leche. | 데우다 (加熱) · 그녀가 우유를 데워요.
+[18:46.95]
+## Día 9 · 어간 변화 동사 ② e→i
+N | Día 9 | 9일차 · 어간 변화 동사 ② e→i
+[18:53.57]
+W | Pedir · Le pido al camarero un café. | 요청하다, 주문하다 (要請) · 나는 웨이터에게 커피를 한 잔 부탁해요.
+[18:58.63]
+W | Competir · Los estudiantes compiten mucho. | 경쟁하다 (競爭) · 학생들이 치열하게 경쟁해요.
+[19:05.05]
+W | Seguir · El invierno sigue al otoño. | 뒤따르다, 계속하다 (繼續) · 가을 다음에 겨울이 와요.
+[19:09.93]
+W | Conseguir · Es difícil conseguir la fama. | 얻다, 이루다 (獲得) · 명성을 얻기는 어려워요.
+[19:15.63]
+W | Servir · El camarero sirve un café al cliente. | 대접하다, 제공하다 (奉仕) · 웨이터가 손님에게 커피를 내와요.
+[19:21.59]
+W | Elegir · Ella elige una corbata roja. | 고르다 (選擇) · 그녀는 빨간 넥타이를 골라요.
+[19:27.07]
+W | Repetir · ¿Puedes repetir la pregunta? | 반복하다 (反復) · 질문을 다시 해 줄 수 있어?
+[19:32.63]
+W | Decir · Mi novio siempre dice la verdad. | 말하다 (話) · 내 남자친구는 항상 진실을 말해요.
+[19:37.63]
+W | Despedir · Ya es la hora de despedir. | 작별하다, 배웅하다 (告別) · 이제 헤어질 시간이에요.
+[19:42.91]
+W | Vestir · Ella le viste la ropa a su bebé. | 옷을 입히다 (着衣) · 그녀는 아기에게 옷을 입혀요.
+[19:48.27]
+W | Medir · ¿Cuánto mides? | 재다 (測定) · 키가 몇이야?
+[19:52.27]
+W | Freír · El cocinero fríe las patatas. | 튀기다 (油煎) · 요리사가 감자를 튀겨요.
+[19:58.97]
+W | Reírse · Las niñas se ríen. | 웃다 (笑) · 여자아이들이 웃어요.
+[20:02.93]
+W | Sonreír · La profesora sonríe hacia nosotros. | 미소 짓다 (微笑) · 선생님이 우리에게 미소 지어요.
+[20:12.45]
+## Día 10 · 어간 변화 동사 ③ o→ue
+N | Día 10 | 10일차 · 어간 변화 동사 ③ o→ue
+[20:18.76]
+W | Jugar · Juego al fútbol con mis amigos. | 놀다, (운동을) 하다 (遊戱) · 나는 친구들과 축구를 해요.
+[20:24.36]
+W | Poder · ¿Puedo cerrar la ventana? | ~할 수 있다 (可能) · 창문 닫아도 돼요?
+[20:29.22]
+W | Dormir · ¿Cuántas horas duermes normalmente? | 자다 (睡眠) · 보통 몇 시간 자?
+[20:34.30]
+W | Morir · Si no comes nada, puedes morir. | 죽다 (死亡) · 아무것도 안 먹으면 죽을 수도 있어.
+[20:40.38]
+W | Volver · ¿Cuándo vuelves a Corea? | 돌아가다 (歸還) · 한국에 언제 돌아가?
+[20:45.24]
+W | Costar · ¿Cuánto cuesta esta camisa? | (값이) 나가다 (費用) · 이 셔츠 얼마예요?
+[20:50.32]
+W | Llover · Llueve mucho ahora. | 비가 오다 (雨) · 지금 비가 많이 와요.
+[20:56.62]
+W | Encontrar · No encuentro mis gafas. | 찾다, 발견하다 (發見) · 안경을 못 찾겠어요.
+[21:01.18]
+W | Volar · Quiero volar algún día. | 날다 (飛行) · 언젠가 하늘을 날고 싶어요.
+[21:06.04]
+W | Mostrar · Ella muestra su coche nuevo. | 보여 주다 (展示) · 그녀가 새 차를 보여 줘요.
+[21:11.16]
+W | Resolver · El jefe resuelve el problema. | 해결하다 (解決) · 사장이 문제를 해결해요.
+[21:17.00]
+W | Doler · Me duele el estómago. | 아프다 (痛症) · 배가 아파요.
+[21:22.04]
+W | Aprobar · Puedes aprobar el examen. | 합격하다 (合格) · 너는 시험에 붙을 수 있어.
+[21:27.46]
+W | Recordar · Todavía te recuerdo. | 기억하다 (記憶) · 아직도 너를 기억해.
+[21:35.15]
+## Día 11 · 하루 일과 (재귀동사)
+N | Día 11 | 11일차 · 하루 일과 (재귀동사)
+[21:41.27]
+W | Despertarse · Yo me despierto muy temprano. | 잠에서 깨다 (起天) · 나는 아주 일찍 깨요.
+[21:46.65]
+W | Levantarse · ¿A qué hora te levantas? | 일어나다 (起立) · 몇 시에 일어나?
+[21:52.43]
+W | Lavarse · Me lavo las manos antes de comer. | 씻다 (洗滌) · 나는 밥 먹기 전에 손을 씻어요.
+[21:58.65]
+W | Cepillarse · Ella se cepilla los dientes. | 양치하다, 빗다 (刷質) · 그녀는 이를 닦아요.
+[22:03.83]
+W | Vestirse · Me visto un traje. | 옷을 입다 (着衣) · 나는 정장을 입어요.
+[22:08.67]
+W | Ir · Vamos a la escuela. | 가다 (去) · 학교에 가자.
+[22:13.23]
+W | Venir · Mis padres vienen mañana. | 오다 · 부모님이 내일 오세요.
+[22:18.51]
+W | Saludar · Nos saludamos cortésmente. | 인사하다 (人事) · 우리는 정중하게 인사해요.
+[22:23.87]
+W | Desayunar · ¿Qué desayuna usted normalmente? | 아침을 먹다 (朝食) · 보통 아침으로 뭘 드세요?
+[22:29.99]
+W | Comer · Nosotros comemos en un restaurante. | 점심을 먹다, 먹다 (午食) · 우리는 식당에서 점심을 먹어요.
+[22:35.73]
+W | Cenar · Vamos a cenar juntos. | 저녁을 먹다 (夕食) · 같이 저녁 먹자.
+[22:41.01]
+W | Ver · Yo veo la televisión con mi familia. | 보다 (視) · 나는 가족과 TV를 봐요.
+[22:46.65]
+W | Escuchar · Me gusta escuchar música. | 듣다 (聽) · 나는 음악 듣는 걸 좋아해요.
+[22:51.97]
+W | Leer · Mi padre lee el periódico todos los días. | 읽다 · 아빠는 매일 신문을 읽어요.
+[22:58.07]
+W | Ducharse · Me ducho todas las noches. | 샤워하다 (沐浴) · 나는 매일 밤 샤워해요.
+[23:03.57]
+W | Bañarse · Queremos bañarnos en el mar. | 목욕하다, 물놀이하다 (沐浴) · 우리는 바다에서 수영하고 싶어요.
+[23:09.45]
+W | Maquillarse · Mi novia siempre se maquilla. | 화장하다 (化裝) · 내 여자친구는 항상 화장을 해요.
+[23:15.41]
+W | Estudiar · Vamos a estudiar español. | 단장하다, 꾸미다 · 우리 딸은 준비하는 데 시간이 오래 걸려요.
+[23:20.07]
+W | Arreglarse · Mi hija tarda mucho tiempo en arreglarse. | 공부하다 (整理) · 스페인어 공부하자.
+[23:26.39]
+W | Acostarse · Yo me acuesto a las 11. | 잠자리에 들다 (就寢) · 나는 11시에 자요.
+[23:31.99]
+W | Dormir · ¿Cuántas horas duermes normalmente? | 자다 · 보통 몇 시간 자?
+[23:40.65]
+## Día 12 · 학교
+N | Día 12 | 12일차 · 학교
+[23:47.04]
+W | Escuela · Voy a la escuela. | 학교 (學校) · 나는 학교에 가요.
+[23:51.72]
+W | Estudiante · Los estudiantes son buenos. | 학생 · 학생들이 착해요.
+[23:57.74]
+W | Profesor/a · La profesora es inteligente. | 선생님 (敎授) · 그 선생님은 똑똑해요.
+[24:04.70]
+W | Tarea · Hoy no hay tarea. | 숙제 (宿題) · 오늘은 숙제가 없어요.
+[24:09.44]
+W | Entrar · Ella va a entrar en la universidad. | 들어가다, 입학하다 (入學) · 그녀는 대학에 입학할 거예요.
+[24:14.74]
+W | Graduarse · Yo me gradúo este febrero. | 졸업하다 (卒業) · 나는 이번 2월에 졸업해요.
+[24:20.30]
+W | Enseñar · Él enseña español. | 가르치다 (敎育) · 그는 스페인어를 가르쳐요.
+[24:25.66]
+W | Clase · La clase está limpia. | 수업, 교실 (授業) · 교실이 깨끗해요.
+[24:30.22]
+W | Aula · ¿Dónde está el aula 201? | 강의실 (敎室) · 201호 강의실은 어디예요?
+[24:36.06]
+W | Asignatura · ¿Cuál es tu asignatura favorita? | 과목 (科目) · 제일 좋아하는 과목이 뭐야?
+[24:41.80]
+W | Diccionario · Necesito el diccionario. | 사전 (辭典) · 사전이 필요해요.
+[24:47.23]
+W | Contestar · Ellos contestan a las preguntas. | 대답하다 (回答) · 그들은 질문에 대답해요.
+[24:53.42]
+W | Preguntar · ¿Puedo preguntar? | 질문하다 (質問) · 질문해도 돼요?
+[24:57.94]
+W | Aprender · ¿Aprendéis inglés estos días? | 배우다 · 너희 요즘 영어 배우니?
+[25:03.10]
+W | Comprender · No lo comprendo. | 이해하다 · 이해가 안 돼요.
+[25:07.66]
+W | Examen · Tenemos examen este viernes. | 시험 (試驗) · 이번 금요일에 시험이 있어요.
+[25:13.44]
+W | Llamar · Voy a llamar los nombres. | 부르다 (呼名) · 이름을 부를게요. (출석)
+[25:18.58]
+W | Nota · Saco buenas notas. | 성적, 점수 (成績) · 나는 좋은 성적을 받아요.
+[25:23.80]
+W | Empezar · ¿A qué hora empieza la clase? | 시작하다 · 수업은 몇 시에 시작해요?
+[25:28.82]
+W | Terminar · La clase de inglés termina a las 5. | 끝나다 (終了) · 영어 수업은 5시에 끝나요.
+[25:35.44]
+W | Repasar · Tenéis que repasar en casa. | 복습하다 (復習) · 너희는 집에서 복습해야 해.
+[25:40.38]
+W | Memorizar · Tengo que memorizar estas palabras. | 암기하다 (暗記) · 이 단어들을 외워야 해요.
+[25:45.98]
+W | Universidad · Ella estudia en la Universidad de ABC. | 대학교 (大學) · 그녀는 ABC 대학교에 다녀요.
+[25:52.02]
+W | Fácil · El español es fácil. | 쉬운 (容易) · 스페인어는 쉬워요.
+[25:57.52]
+W | Difícil · Las matemáticas son difíciles. | 어려운 (困難) · 수학은 어려워요.
+[26:06.45]
+## Día 13 · 회사
+N | Día 13 | 13일차 · 회사
+[26:12.79]
+W | Empresa · ¿Dónde está su empresa? | 회사 (會社) · 회사가 어디에 있어요?
+[26:17.47]
+W | Oficina · Hay ocho personas en mi oficina. | 사무실 (辦公室) · 우리 사무실에는 여덟 명이 있어요.
+[26:23.59]
+W | Trabajo · Tengo mucho trabajo. | 일 (勞動) · 일이 많아요.
+[26:25.91]
+W | Trabajar · Tenemos que trabajar hasta la noche. | 일하다 · 우리는 밤까지 일해야 해요.
+[26:34.35]
+W | Documento · Necesito este documento. | 서류 (文書) · 이 서류가 필요해요.
+[26:39.25]
+W | Reunión · ¿A qué hora termina la reunión? | 회의 (會議) · 회의는 몇 시에 끝나요?
+[26:44.45]
+W | Viaje de negocios · Mañana tengo viaje de negocios. | 출장 (出張) · 내일 출장이 있어요.
+[26:50.75]
+W | Cansado/a · Los empleados están cansados. | 상사, 사장 · 사장님은 아주 까다로워요.
+[26:57.67]
+W | Ocupado/a · Mi padre siempre está ocupado. | 동료 · 내 직장 동료는 친절해요.
+[27:04.97]
+W | Jefe/a · El jefe es muy exigente. | 피곤한 (長) · 직원들이 피곤해해요.
+[27:11.65]
+W | Compañero/a · Mi compañera de trabajo es simpática. | 바쁜 (同僚) · 우리 아빠는 항상 바빠요.
+[27:22.03]
+W | Sueldo · Quiero que me suban el sueldo. | 월급 (給料) · 월급을 올려 줬으면 좋겠어요.
+[27:26.61]
+W | Explicar · ¿Puedes explicar los datos? | 설명하다 (說明) · 자료를 설명해 줄 수 있어?
+[27:32.29]
+W | Comprobar · Tenéis que comprobar la máquina. | 확인하다 (確認) · 너희는 기계를 점검해야 해.
+[27:37.33]
+W | Tarjeta de presentación · Aquí tiene mi tarjeta de presentación. | 명함 (名刺) · 여기 제 명함입니다.
+[27:44.03]
+W | Trabajo nocturno · No me gusta el trabajo nocturno. | 야간 근무 (夜勤) · 나는 야간 근무를 싫어해요.
+[27:50.73]
+W | Descansar · Es muy importante descansar. | 쉬다 (休息) · 쉬는 건 아주 중요해요.
+[27:55.89]
+W | Ascenso · Vamos a celebrar tu ascenso. | 승진 (昇進) · 네 승진을 축하하자.
+[28:01.17]
+W | Carta de dimisión · He escrito la carta de dimisión. | 사직서 (辭職書) · 사직서를 썼어요.
+[28:07.01]
+W | Despedir · Me van a despedir pronto. | 해고하다 (解雇) · 나는 곧 해고될 거예요.
+[28:12.51]
+W | Emplear · Necesitamos emplear a la nueva secretaria. | 고용하다 (採用) · 새 비서를 채용해야 해요.
+[28:21.15]
+## Día 14 · 날씨
+N | Día 14 | 14일차 · 날씨
+[28:27.99]
+W | Tiempo · ¿Qué tiempo hace hoy? | 날씨 (天氣) · 오늘 날씨 어때요?
+[28:33.19]
+W | Estación · En Corea hay cuatro estaciones. | 계절 (季節) · 한국에는 사계절이 있어요.
+[28:38.87]
+W | Primavera · Me gusta la primavera. | 봄 (春) · 나는 봄을 좋아해요.
+[28:44.01]
+W | Verano · Mi estación favorita es verano. | 여름 (夏) · 내가 제일 좋아하는 계절은 여름이에요.
+[28:49.55]
+W | Otoño · En otoño hace fresco. | 가을 (秋) · 가을에는 선선해요.
+[28:54.67]
+W | Invierno · En invierno hace frío. | 겨울 (冬) · 겨울에는 추워요.
+[28:59.83]
+W | Cielo · El cielo es azul. | 하늘 (天空) · 하늘이 파래요.
+[29:04.49]
+W | Despejado · El cielo está despejado. | 맑은 (淸明) · 하늘이 맑아요.
+[29:11.57]
+W | Nublado · Todavía el cielo está nublado. | 흐린 (曇) · 아직 하늘이 흐려요.
+[29:19.59]
+W | Lluvia · No puedo ir a casa por la lluvia. | 비 (雨) · 비 때문에 집에 못 가요.
+[29:24.03]
+W | Chubasco · Cae un chubasco. | 소나기 (驟雨) · 소나기가 쏟아져요.
+[29:28.73]
+W | Nieve · Hay nieve en la montaña. | 눈 (雪) · 산에 눈이 있어요.
+[29:33.91]
+W | Nevado/a · La calle está nevada. | 눈 덮인 · 길에 눈이 쌓였어요.
+[29:40.11]
+W | Paraguas · ¿Tienes paraguas? | 우산 (雨傘) · 우산 있어?
+[29:45.23]
+W | Nube · Hay nubes. | 구름 · 구름이 꼈어요.
+[29:48.97]
+W | Niebla · Hay niebla esta mañana. | 안개 (霧) · 오늘 아침 안개가 꼈어요.
+[29:54.59]
+W | Estrella · El cielo está lleno de estrellas. | 별 (星) · 하늘에 별이 가득해요.
+[30:00.13]
+W | Luna · No se ve la luna. | 달 (月) · 달이 안 보여요.
+[30:04.39]
+W | Sol · Hace mucho sol en verano. | 해 (日) · 여름에는 햇볕이 강해요.
+[30:09.35]
+W | Pronóstico · Según el pronóstico, hoy hace calor. | 일기예보 (豫報) · 일기예보에 따르면 오늘 더워요.
+[30:16.77]
+W | Temperatura · La temperatura es muy alta. | 기온 (溫度) · 기온이 아주 높아요.
+[30:24.55]
+## Día 15 · 동물 · 식물 · 자연
+N | Día 15 | 15일차 · 동물 · 식물 · 자연
+[30:31.69]
+W | Animal · Me gustan los animales. | 동물 (動物) · 나는 동물을 좋아해요.
+[30:37.01]
+W | Pájaro · Más vale pájaro en mano que volando. | 새 (鳥) · 숲속의 두 마리 새보다 손안의 한 마리 새가 낫다.
+[30:42.85]
+W | Pez · Hay muchos peces. | 물고기 (魚) · 물고기가 많아요.
+[30:47.47]
+W | Insecto · Ha entrado un insecto en la habitación. | 곤충 (昆蟲) · 방에 벌레가 들어왔어요.
+[30:53.37]
+W | Planta · La planta está muriendo. | 식물 (植物) · 식물이 죽어 가요.
+[30:58.51]
+W | Naturaleza · Me interesa la naturaleza. | 자연 (自然) · 나는 자연에 관심이 있어요.
+[31:04.39]
+W | Montaña · Vamos a subir a la montaña. | 산 (山) · 산에 올라가자.
+[31:09.65]
+W | Río · Los niños nadan en el río. | 강 (江) · 아이들이 강에서 수영해요.
+[31:14.79]
+W | Bosque · El bosque es muy hermoso. | 숲 (森林) · 숲이 아주 아름다워요.
+[31:20.27]
+W | Árbol · Plantamos árboles en el jardín. | 나무 (樹木) · 우리는 정원에 나무를 심어요.
+[31:25.45]
+W | Flor · Mi novio me regala una flor. | 꽃 (花) · 내 남자친구가 꽃을 선물해 줘요.
+[31:30.83]
+W | Gallo · Me dan miedo los gallos. | 수탉 (鷄) · 나는 수탉이 무서워요.
+[31:35.75]
+W | Mascota · Quiero tener mascota. | 반려동물 (寵物) · 반려동물을 키우고 싶어요.
+[31:40.87]
+W | Medio ambiente · Tenemos problemas de medio ambiente. | 환경 (環境) · 우리는 환경 문제를 겪고 있어요.
+[31:46.95]
+W | Mar · Hay contaminación en el mar. | 바다 (海) · 바다가 오염되어 있어요.
+[31:52.67]
+W | Regar · Tienes que regar una vez a la semana. | 물을 주다 · 일주일에 한 번 물을 줘야 해.
+[31:58.19]
+W | Florecer · En primavera florecen. | 꽃이 피다 (開花) · 봄에는 꽃이 펴요.
+[32:03.27]
+W | Criar · Mi abuelo cría dos pájaros. | 기르다 (養育) · 할아버지는 새 두 마리를 기르세요.
+[32:08.97]
+W | Cultivar · Cultivar el cactus es fácil. | 재배하다 (栽培) · 선인장 키우기는 쉬워요.
+[32:14.63]
+W | Protección · La protección de los animales es importante. | 보호 (保護) · 동물 보호는 중요해요.
+[32:20.45]
+W | Respetar · Hay que respetar el medio ambiente. | 존중하다 (尊重) · 환경을 존중해야 해요.
+[32:29.55]
+## Día 16 · 식사와 음식
+N | Día 16 | 16일차 · 식사와 음식
+[32:36.30]
+W | Desayuno · Está incluido el desayuno. | 아침 식사 (朝食) · 아침 식사가 포함되어 있어요.
+[32:41.32]
+W | Comida · Me gusta la comida mexicana. | 식사, 점심 (午食) · 나는 멕시코 음식을 좋아해요.
+[32:46.66]
+W | Cena · Tenemos una cena especial. | 저녁 식사 (夕食) · 우리는 특별한 저녁 식사가 있어요.
+[32:51.80]
+W | Pan · Hay pan en casa. | 빵 · 집에 빵이 있어요.
+[32:56.28]
+W | Arroz · Se cocina paella con arroz. | 쌀, 밥 (米) · 파에야는 쌀로 만들어요.
+[33:01.54]
+W | Carne · Ella no come carne. | 고기 (肉) · 그녀는 고기를 안 먹어요.
+[33:06.18]
+W | Pescado · Me encanta el pescado crudo. | 생선 (魚) · 나는 생선회를 정말 좋아해요.
+[33:11.34]
+W | Agua · Quiero tomar agua ahora mismo. | 물 · 지금 당장 물을 마시고 싶어요.
+[33:17.38]
+W | Vino · Él compra una botella de vino. | 와인 (酒) · 그는 와인 한 병을 사요.
+[33:22.22]
+W | Cerveza · ¿Quieres tomar una cerveza? | 맥주 (酒) · 맥주 한잔할래?
+[33:27.28]
+W | Verdura · Tenéis que comer más verdura. | 채소 (菜蔬) · 너희는 채소를 더 먹어야 해.
+[33:32.70]
+W | Fruta · ¿Cuál es tu fruta favorita? | 과일 (果實) · 제일 좋아하는 과일이 뭐야?
+[33:37.68]
+W | Postre · ¿Qué va a tomar de postre? | 디저트 (後食) · 디저트는 뭘로 하시겠어요?
+[33:42.74]
+W | Queso · Este queso huele mucho. | 치즈 · 이 치즈는 냄새가 강해요.
+[33:47.70]
+W | Marisco · Tengo alergia al marisco. | 해산물 (海産物) · 나는 해산물 알레르기가 있어요.
+[33:52.90]
+W | Bebida · La bebida no está incluida. | 음료 (飮料) · 음료는 포함되어 있지 않아요.
+[33:58.14]
+W | Sal · ¿Me puedes pasar la sal? | 소금 (鹽) · 소금 좀 건네줄래?
+[34:03.02]
+W | Azúcar · Un té con leche sin azúcar, por favor. | 설탕 (糖) · 설탕 넣지 않은 밀크티 주세요.
+[34:08.16]
+W | Menú · Vamos a ver el menú. | 메뉴 (目錄) · 메뉴를 보자.
+[34:13.44]
+W | Cuenta · La cuenta, por favor. | 계산서 (計算) · 계산서 주세요.
+[34:17.72]
+W | Restaurante · ¿Hay algún restaurante bueno cerca de aquí? | 식당 (食堂) · 이 근처에 괜찮은 식당 있어요?
+[34:25.85]
+## Día 17 · 여행
+N | Día 17 | 17일차 · 여행
+[34:30.58]
+W | Viaje · Voy de viaje la semana que viene. | 여행 (旅行) · 다음 주에 여행 가요.
+[34:39.79]
+W | Paisaje · Tomo café viendo el paisaje. | 풍경 (風景) · 나는 풍경을 보면서 커피를 마셔요.
+[34:45.47]
+W | Itinerario · ¿Podría saber el itinerario del viaje? | 일정 (日程) · 여행 일정을 알 수 있을까요?
+[34:50.71]
+W | Reservar · Quisiera reservar una habitación. | 예약하다 (豫約) · 방을 하나 예약하고 싶어요.
+[34:57.07]
+W | Hotel · Este hotel es de cinco estrellas. | 호텔 (旅館) · 이 호텔은 5성급이에요.
+[35:02.69]
+W | Hostal · ¿Qué tal si nos quedamos en un hostal? | 호스텔 (旅人宿) · 호스텔에서 묵는 게 어때?
+[35:08.63]
+W | Alojamiento · ¿Qué tipo de alojamiento prefieres? | 숙소 (宿所) · 어떤 숙소가 좋아?
+[35:14.43]
+W | Cambiar · ¿Se puede cambiar el hotel? | 바꾸다 · 호텔을 바꿀 수 있어요?
+[35:19.37]
+W | Lugar · ¿Hay algún lugar famoso? | 장소 (場所) · 유명한 곳이 있어요?
+[35:24.49]
+W | Decidir · Decidimos cuándo salimos de viaje. | 결정하다 · 언제 여행을 떠날지 정해요.
+[35:30.09]
+W | Cancelar · Si cancelas el viaje, hay comisión. | 취소하다 (取消) · 여행을 취소하면 수수료가 있어요.
+[35:33.83]
+W | Plan · ¿Qué plan tienes para las Navidades? | 계획 (計劃) · 크리스마스 계획이 뭐야?
+[35:41.39]
+W | Experiencia · El viaje fue una experiencia inolvidable. | 경험 (經驗) · 그 여행은 잊지 못할 경험이었어요.
+[35:48.05]
+W | Extranjero · ¿Hay un mapa para los extranjeros? | 외국인 (外國) · 외국인용 지도 있어요?
+[35:55.49]
+W | Mochila · No cabe todo en mi mochila. | 배낭 (背囊) · 배낭에 다 안 들어가요.
+[36:01.71]
+W | Maleta · Tengo que comprar una maleta nueva. | 여행 가방 (行李) · 새 여행 가방을 사야 해요.
+[36:06.45]
+W | Agencia de viajes · Voy a preguntarlo a la agencia de viajes. | 여행사 (旅行社) · 여행사에 물어볼게요.
+[36:13.79]
+W | Guía · Hace 10 años que ella trabaja de guía. | 가이드 (案內) · 그녀는 가이드로 일한 지 10년 됐어요.
+[36:19.71]
+W | Oferta · Hay última oferta de vuelos. | 특가 상품 · 항공권 마지막 특가가 있어요.
+[36:25.15]
+W | Monumento · Me gusta visitar los monumentos. | 기념물, 유적 (紀念物) · 나는 기념물 구경하는 걸 좋아해요.
+[36:30.15]
+W | Turista · Hay muchos turistas en Barcelona. | 관광객 (觀光客) · 바르셀로나에는 관광객이 많아요.
+[36:39.35]
+## Día 18 · 옷
+N | Día 18 | 18일차 · 옷
+[36:45.43]
+W | Ropa · La ropa es elegante. | 옷 (衣) · 그 옷은 우아해요.
+[36:50.51]
+W | Vestirse · Ella se viste antes de salir. | 옷을 입다 · 그녀는 나가기 전에 옷을 입어요.
+[36:56.01]
+W | Ponerse · Mi abuelo siempre se pone un sombrero. | 입다, 쓰다, 신다 (着用) · 할아버지는 항상 모자를 쓰세요.
+[37:02.47]
+W | Quitarse · Al entrar, tenéis que quitaros los zapatos. | 벗다 (脫衣) · 들어올 때 신발을 벗어야 해.
+[37:08.03]
+W | Pantalones · Te quedan bien los pantalones. | 바지 (袴) · 바지가 잘 어울려.
+[37:13.65]
+W | Camisa · Él compra una camisa nueva. | 셔츠 (衫) · 그는 새 셔츠를 사요.
+[37:19.03]
+W | Blusa · ¿Puedo probarme esta blusa? | 블라우스 · 이 블라우스 입어 봐도 돼요?
+[37:23.83]
+W | Camiseta · Prefiero la camiseta roja. | 티셔츠 (衫) · 나는 빨간 티셔츠가 더 좋아요.
+[37:29.89]
+W | Falda · Me queda estrecha la falda. | 치마 (裳) · 치마가 꽉 껴요.
+[37:34.45]
+W | Vestido · Quiero comprar un vestido para la fiesta. | 원피스, 드레스 (衣) · 파티에 입을 원피스를 사고 싶어요.
+[37:40.05]
+W | Talla · ¿No hay la talla 38? | 치수, 사이즈 (規格) · 38 사이즈는 없나요?
+[37:45.65]
+W | Número · ¿Qué número calza usted? | (신발) 치수, 번호 · 신발 사이즈가 어떻게 되세요?
+[37:50.35]
+W | Zapatos · Estos zapatos son demasiado caros. | 신발 (靴) · 이 신발은 너무 비싸요.
+[37:55.63]
+W | Ropa interior · No te preocupes, no se ve la ropa interior. | 속옷 (內衣) · 걱정 마, 속옷 안 보여.
+[38:02.89]
+W | Calcetines · Necesito unos calcetines largos. | 양말 (襪) · 긴 양말이 필요해요.
+[38:08.95]
+W | Medias · Ella lleva unas medias blancas. | 스타킹 · 그녀는 흰 스타킹을 신고 있어요.
+[38:14.49]
+W | Abrigo · ¿Dónde está mi abrigo? | 외투 (外套) · 내 외투 어디 있어?
+[38:18.13]
+W | Chaqueta · La chaqueta está en el armario. | 재킷 (甲衣) · 재킷은 옷장에 있어요.
+[38:24.09]
+W | Traje · Su traje es viejo. | 정장 (正裝) · 그의 정장은 낡았어요.
+[38:28.97]
+W | Pijama · Los niños se ponen el pijama. | 잠옷 (寢衣) · 아이들이 잠옷을 입어요.
+[38:34.67]
+W | Moda · La minifalda está de moda. | 유행 (流行) · 미니스커트가 유행이에요.
+[38:43.25]
+## Día 19 · 쇼핑
+N | Día 19 | 19일차 · 쇼핑
+[38:48.75]
+W | Grandes almacenes · En Corea hay muchos grandes almacenes. | 백화점 (百貨店) · 한국에는 백화점이 많아요.
+[38:56.29]
+W | Tienda de ropa · Pablo trabaja en una tienda de ropa. | 옷 가게 (衣類店) · 파블로는 옷 가게에서 일해요.
+[39:02.67]
+W | Ferretería · No hay una ferretería por aquí. | 철물점 · 이 근처에는 철물점이 없어요.
+[39:08.21]
+W | Tienda de alimentación · ¿Dónde está la tienda de alimentación coreana? | 식료품점 · 한국 식료품점은 어디에 있어요?
+[39:15.79]
+W | Rastro · Lo he comprado en un rastro. | 벼룩시장 · 그거 벼룩시장에서 샀어요.
+[39:21.35]
+W | Supermercado · No se vende en los supermercados. | 슈퍼마켓 · 슈퍼마켓에서는 안 팔아요.
+[39:26.89]
+W | Mercado · En el mercado se venden cosas baratas. | 시장 (市場) · 시장에서는 싼 물건을 팔아요.
+[39:33.17]
+W | Comprar · ¿Qué vas a comprar? | 사다 · 뭐 살 거야?
+[39:37.35]
+W | Vender · ¿Dónde venden naranjas? | 팔다 · 오렌지는 어디서 팔아요?
+[39:42.23]
+W | Ir de compras · Mi madre y yo vamos de compras. | 쇼핑하러 가다 · 엄마와 나는 쇼핑하러 가요.
+[39:49.29]
+W | Dinero · Me falta un poco de dinero. | 돈 (錢) · 돈이 조금 모자라요.
+[39:54.23]
+W | Euro · En Europa se usa euro. | 유로 (貨幣) · 유럽에서는 유로를 써요.
+[39:58.59]
+W | Céntimo · No me gusta tener los céntimos. | 센트 · 나는 동전(센트) 갖고 다니는 게 싫어요.
+[40:04.63]
+W | Producto · Hay muchos productos en esta tienda. | 상품 (物品) · 이 가게에는 상품이 많아요.
+[40:10.27]
+W | Costar · ¿Cuánto cuesta esta camisa? | (값이) 나가다 · 이 셔츠 얼마예요?
+[40:14.97]
+W | Pagar · No puedo pagar más dinero. | 지불하다 (支給) · 돈을 더는 낼 수 없어요.
+[40:19.49]
+W | Tarjeta de crédito · ¿En efectivo o con tarjeta de crédito? | 신용카드 (信用카드) · 현금으로 하시겠어요, 카드로 하시겠어요?
+[40:26.49]
+W | Recibo · No necesito el recibo. | 영수증 (領收證) · 영수증은 필요 없어요.
+[40:31.59]
+W | Vuelta · Aquí está la vuelta. | 거스름돈 (殘錢) · 거스름돈 여기 있습니다.
+[40:35.53]
+W | Propina · Hay que dejar propina en España. | 팁 (奉仕料) · 스페인에서는 팁을 놓고 가야 해요.
+[40:40.81]
+W | Tienda · Todas las tiendas están cerradas. | 가게 · 가게가 다 닫혔어요.
+[40:48.29]
+W | Precio · Lo he comprado a buen precio. | 가격 (價格) · 그거 좋은 가격에 샀어요.
+[40:53.27]
+W | Rebaja · En las Navidades hay mucha rebaja. | 할인, 세일 (割引) · 크리스마스에는 세일을 많이 해요.
+[40:58.69]
+W | Caro/a · Creo que este bolso es demasiado caro. | 비싼 (高價) · 이 가방은 너무 비싼 것 같아요.
+[41:05.91]
+W | Barato/a · Esta falda no es tan barata como pensaba. | 싼 (低價) · 이 치마는 생각보다 싸지 않네요.
+[41:14.01]
+W | Dependiente · ¿Dónde está el dependiente? | 점원 (店員) · 점원은 어디 있어요?
+[41:19.13]
+W | Cliente · Hay 200 puntos en su cuenta de cliente. | 손님, 고객 (顧客) · 고객님 계정에 200포인트가 있어요.
+[41:27.85]
+## Día 20 · 교통
+N | Día 20 | 20일차 · 교통
+[41:35.38]
+W | Transporte · Hay que usar transporte público. | 교통 (交通) · 대중교통을 이용해야 해요.
+[41:41.72]
+W | Tráfico · Hay mucho tráfico. | 교통량 (交通量) · 차가 많이 막혀요.
+[41:46.18]
+W | Tomar · ¿Qué número de autobús tengo que tomar? | 타다 · 몇 번 버스를 타야 해요?
+[41:52.78]
+W | Bajar · Bajamos en la estación de Seúl. | 내리다 (下車) · 우리는 서울역에서 내려요.
+[41:57.18]
+W | Metro · Voy a la empresa en metro. | 지하철 (地下鐵) · 나는 지하철로 회사에 가요.
+[42:02.48]
+W | Estación · ¿Dónde está la estación de tren? | 역 (驛) · 기차역은 어디예요?
+[42:07.86]
+W | Coche · ¿Vas a ir ahí en coche? | 자동차 · 거기 차로 갈 거야?
+[42:13.10]
+W | Cerca · El museo está cerca de aquí. | 가까이 (近) · 박물관은 여기서 가까워요.
+[42:17.98]
+W | Lejos · El aeropuerto está lejos del centro. | 멀리 (遠) · 공항은 시내에서 멀어요.
+[42:24.02]
+W | Despacio · Los coches van muy despacio. | 천천히 (徐行) · 차들이 아주 천천히 가요.
+[42:29.90]
+W | Tardar · Tarda mucho hasta la estación. | (시간이) 걸리다 (所要) · 역까지 오래 걸려요.
+[42:34.58]
+W | Calle · No hay nadie en la calle. | 거리, 길 (街) · 거리에 아무도 없어요.
+[42:40.28]
+W | Carretera · Ten cuidado en la carretera. | 도로 (道路) · 도로에서 조심해.
+[42:44.98]
+W | Cruce · Había un accidente en el cruce. | 교차로 (交叉路) · 교차로에서 사고가 났었어요.
+[42:50.76]
+W | Semáforo · No funciona el semáforo. | 신호등 (信號燈) · 신호등이 고장 났어요.
+[42:55.52]
+W | Cruzar · Hay que cruzar por esta calle. | 건너다 (橫斷) · 이 길로 건너야 해요.
+[43:00.68]
+W | Caminar · Ya no puedo caminar más. | 걷다 (步行) · 더는 못 걷겠어요.
+[43:05.80]
+W | Correr · En la autopista los coches corren rápido. | 달리다 · 고속도로에서는 차들이 빨리 달려요.
+[43:12.08]
+W | Girar · Si giras a la derecha habrá un banco. | 돌다 (回轉) · 오른쪽으로 돌면 은행이 있을 거예요.
+[43:18.10]
+W | Aparcar · No hay espacio para aparcar. | 주차하다 (駐車) · 주차할 공간이 없어요.
+[43:23.26]
+W | Parada · Bajamos en la próxima parada. | 정류장 (停留場) · 다음 정류장에서 내려요.
+[43:28.84]
+W | Último/a · ¿A qué hora sale el último tren? | 마지막의 · 마지막 기차는 몇 시에 떠나요?
+[43:37.02]
+W | Recto/a · Siga todo recto. | 똑바른 · 쭉 직진하세요.
+[43:42.18]
+W | Conductor · El conductor conduce muy rápido. | 운전기사 (運轉手) · 운전기사가 아주 빨리 운전해요.
+[43:49.52]
+W | Ida y vuelta · Un billete de ida y vuelta para Madrid, por favor. | 왕복 (往復) · 마드리드행 왕복표 한 장 주세요.
+[43:56.50]
+W | Ventanilla · Veo el paisaje por la ventanilla. | (차·기차의) 창문 (窓) · 창밖으로 풍경을 봐요.
+[44:03.00]
+W | Conducir · Yo no conduzco bien. | 운전하다 (運轉) · 나는 운전을 잘 못해요.
+[44:07.76]
+W | Parar · Este autobús no para en esa parada. | 멈추다, 서다 (停止) · 이 버스는 그 정류장에 안 서요.
+[44:15.85]
+## Día 21 · 은행과 우체국
+N | Día 21 | 21일차 · 은행과 우체국
+[44:23.46]
+W | Banco · ¿A qué hora abre el banco? | 은행 (銀行) · 은행은 몇 시에 열어요?
+[44:28.72]
+W | Ventanilla · Solamente una ventanilla está abierta. | 창구 (窓口) · 창구가 하나만 열려 있어요.
+[44:34.48]
+W | Cajero automático · No encuentro ningún cajero automático. | 현금 자동 인출기 (換錢機) · ATM을 하나도 못 찾겠어요.
+[44:41.30]
+W | Cartilla · ¿Dónde están mis cartillas? | 통장 (通帳) · 내 통장들 어디 있지?
+[44:45.98]
+W | Firma · Ponga su firma aquí, por favor. | 서명 (署名) · 여기에 서명해 주세요.
+[44:51.46]
+W | Turno · Ahora es mi turno. | 차례, 순번 · 이제 제 차례예요.
+[44:56.10]
+W | Rico/a · Si ahorro mucho, podré ser rica. | 부유한 (富) · 저축을 많이 하면 부자가 될 거예요.
+[45:03.38]
+W | Retirar · Necesito retirar dinero. | 인출하다 (引出) · 돈을 찾아야 해요.
+[45:09.60]
+W | Ahorrar · Si quieres viajar, tienes que ahorrar más. | 저축하다 (貯蓄) · 여행 가고 싶으면 저축을 더 해야 해.
+[45:15.26]
+W | Ingresar · Hay que ingresar 300 €. | 입금하다 (入金) · 300유로를 입금해야 해요.
+[45:20.86]
+W | Domiciliar · ¿Me puedes enseñar cómo domiciliar? | 자동이체하다 (自動移替) · 자동이체 어떻게 하는지 알려 줄래?
+[45:26.84]
+W | Cambiar · ¿Dónde puedo cambiar el dinero? | 환전하다 (換錢) · 어디서 환전할 수 있어요?
+[45:32.20]
+W | Oficina de correos · Tengo que ir a la oficina de correos. | 우체국 (郵便局) · 우체국에 가야 해요.
+[45:38.60]
+W | Carta · Me escribirás carta, ¿verdad? | 편지 (信) · 편지 써 줄 거지?
+[45:44.28]
+W | Sello · ¿Dónde venden sellos? | 우표 (郵票) · 우표는 어디서 팔아요?
+[45:48.92]
+W | Postal · Tengo varias postales de Portugal. | 엽서 · 포르투갈 엽서가 여러 장 있어요.
+[45:54.54]
+W | Enviar · Quería enviar estos a Corea. | 보내다 (發送) · 이것들을 한국에 보내고 싶은데요.
+[45:59.80]
+W | Llegar · Va a llegar la carta. | 도착하다 (到着) · 편지가 곧 도착할 거예요.
+[46:05.18]
+W | Sobre · ¿Cuánto cuesta el sobre? | 봉투 (封套) · 봉투는 얼마예요?
+[46:09.58]
+W | Paquete · No he recibido el paquete. | 소포, 택배 (宅配) · 소포를 못 받았어요.
+[46:14.72]
+W | Caja · No cabe todo en esta caja. | 상자 (箱子) · 이 상자에 다 안 들어가요.
+[46:22.75]
+## Día 22 · 병원
+N | Día 22 | 22일차 · 병원
+[46:29.76]
+W | Clínica · La clínica está en el segundo piso. | 병원, 의원 (病院) · 병원은 2층에 있어요.
+[46:35.70]
+W | Ingresar · Lo van a tener que ingresar. | 입원시키다 (入院) · 그를 입원시켜야 할 거예요.
+[46:40.38]
+W | Salir del hospital · Cuando sales del hospital… | 퇴원하다 (退院) · 네가 퇴원하면…
+[46:46.70]
+W | Paciente · En aquel hospital hay muchos pacientes. | 환자 (患者) · 저 병원에는 환자가 많아요.
+[46:52.78]
+W | Médico/a · Los médicos del hospital son profesionales. | 의사 · 그 병원 의사들은 전문적이에요.
+[47:00.68]
+W | Enfermero/a · La enfermera es muy simpática. | 간호사 · 그 간호사는 아주 친절해요.
+[47:08.56]
+W | Enfermedad · Es una enfermedad grave. | 병 (疾病) · 심각한 병이에요.
+[47:13.20]
+W | Dolor · Tengo mucho dolor de cabeza. | 통증 (痛症) · 머리가 많이 아파요.
+[47:18.46]
+W | Doler · ¿Qué te duele? | 아프다 · 어디가 아파?
+[47:22.56]
+W | Enfermo/a · Mi abuelo está enfermo. | 아픈 · 할아버지가 편찮으세요.
+[47:29.40]
+W | Fiebre · Mi hijo tiene mucha fiebre. | 열 (熱) · 아들이 열이 많이 나요.
+[47:35.41]
+W | Jarabe · Debe tomar este jarabe cada cinco horas. | 시럽 약 (藥水) · 이 시럽을 다섯 시간마다 드셔야 해요.
+[47:40.87]
+W | Pastilla · No me gustan las pastillas. | 알약 (藥) · 나는 알약을 싫어해요.
+[47:46.31]
+W | Herida · Es una herida mental. | 상처 (傷處) · 마음의 상처예요.
+[47:51.48]
+W | Cicatriz · Tengo una cicatriz en la cara. | 흉터 (瘢痕) · 얼굴에 흉터가 있어요.
+[47:56.69]
+W | Sangre · Su cara estaba llena de sangre. | 피 (血) · 그의 얼굴은 피투성이였어요.
+[48:02.83]
+W | Resfriado/a · Daniela está resfriada. | 감기에 걸린 (感氣) · 다니엘라는 감기에 걸렸어요.
+[48:09.53]
+W | Infección · Hay infección en la garganta. | 감염 (感染) · 목에 염증이 있어요.
+[48:15.01]
+W | Salud · Hay que hacer ejercicio para la salud. | 건강 (健康) · 건강을 위해 운동해야 해요.
+[48:20.43]
+W | Moco · El niño tiene mocos. | 콧물 · 아이가 콧물을 흘려요.
+[48:25.19]
+W | Constipado/a · Mi novia está muy constipada. | 코감기에 걸린 · 내 여자친구는 코감기가 심해요.
+[48:35.17]
+W | Estetoscopio · El estetoscopio es un instrumento médico. | 청진기 (聽診器) · 청진기는 의료 기구예요.
+[48:39.03]
+W | Examinar · El doctor examina a los pacientes. | 진찰하다 (檢査) · 의사가 환자들을 진찰해요.
+[48:45.17]
+W | Contagioso/a · La gripe es contagiosa. | 전염성의 (傳染) · 독감은 전염돼요.
+[48:52.45]
+W | Mejorarse · Que te mejores pronto. | 낫다, 회복하다 (快癒) · 빨리 낫길 바라.
+[48:58.67]
+W | Alergia · ¿Tiene usted alguna alergia? | 알레르기 (反應) · 알레르기 있으세요?
+[49:05.65]
+## Día 23 · 공항
+N | Día 23 | 23일차 · 공항
+[49:13.38]
+W | Aeropuerto · Tarda una hora hasta el aeropuerto. | 공항 (空港) · 공항까지 한 시간 걸려요.
+[49:19.66]
+W | Vuelo · Es la primera vez que tomo el vuelo. | 항공편 (飛行) · 비행기를 타는 건 처음이에요.
+[49:24.48]
+W | Avión · ¿Hay avión para Barcelona? | 비행기 (飛行機) · 바르셀로나행 비행기 있어요?
+[49:30.56]
+W | Pasaporte · Enseñe su pasaporte, por favor. | 여권 (旅券) · 여권을 보여 주세요.
+[49:35.86]
+W | País · Corea es un país muy bonito. | 나라 · 한국은 아주 아름다운 나라예요.
+[49:40.96]
+W | Partir · ¿A qué hora parte el último avión? | 출발하다 (出發) · 마지막 비행기는 몇 시에 출발해요?
+[49:46.74]
+W | Llegar · Todavía no ha llegado un pasajero. | 도착하다 · 아직 승객 한 명이 도착하지 않았어요.
+[49:51.40]
+W | Tienda sin impuestos · He comprado mucho en la tienda sin impuesto. | 면세점 (免稅店) · 면세점에서 많이 샀어요.
+[49:58.60]
+W | Venta · Los billetes están en venta. | 판매 (販賣) · 표를 판매하고 있어요.
+[50:04.52]
+W | Extranjero · Ellos viajan mucho al extranjero. | 외국, 해외 (外國) · 그들은 해외여행을 많이 가요.
+[50:10.34]
+W | Acompañar · Ellos acompañan a su hijo en el viaje. | 동행하다 (同行) · 그들은 여행에 아들과 함께 가요.
+[50:16.22]
+W | Intención · ¿Cuál es su intención para ir a España? | 의도, 목적 (意圖) · 스페인에 가는 목적이 뭐예요?
+[50:21.90]
+W | Despedir · Te voy a despedir en el aeropuerto. | 승무원 · 승무원들이 우리에게 인사해요.
+[50:27.16]
+W | Azafato/a · Las azafatas nos saludan. | 비자 (乘務員) · 비자는 언제 나와요?
+[50:34.26]
+W | Visado · ¿Cuándo me darán el visado? | 경유 (査證) · 비행기는 네덜란드를 경유해요.
+[50:39.30]
+W | Escala · El avión hace escala en Holanda. | 탑승 (經由) · 탑승구에서 만나요.
+[50:45.02]
+W | Embarque · Nos vemos en la puerta de embarque. | 배웅하다 (搭乘) · 공항에서 배웅해 줄게.
+[50:51.16]
+W | Abordar · ¿Dónde puedo abordar el avión? | 탑승하다 · 비행기는 어디서 타요?
+[50:57.40]
+W | Despegar · El vuelo va a despegar pronto. | 이륙하다 (離陸) · 비행기가 곧 이륙해요.
+[51:02.42]
+W | Aterrizar · El avión está a punto de aterrizar. | 착륙하다 (着陸) · 비행기가 막 착륙하려고 해요.
+[51:07.70]
+W | Sala de espera · Hay mucha gente en la sala de espera. | 대기실 (待機室) · 대기실에 사람이 많아요.
+[51:17.05]
+## Día 24 · 취미
+N | Día 24 | 24일차 · 취미
+[51:24.22]
+W | Afición · ¿Cuál es tu afición? | 취미 (趣味) · 취미가 뭐야?
+[51:29.30]
+W | Guitarra · Sé tocar la guitarra. | 기타 · 나는 기타를 칠 줄 알아요.
+[51:34.72]
+W | Instrumento · ¿Tocáis algún instrumento? | 악기 (樂器) · 너희 악기 다룰 줄 아는 거 있어?
+[51:39.79]
+W | Película · Me gusta ver las películas. | 영화 (映畵) · 나는 영화 보는 걸 좋아해요.
+[51:45.09]
+W | Música · Mi afición es escuchar música. | 음악 (音樂) · 내 취미는 음악 감상이에요.
+[51:49.32]
+W | Tocar · Me encanta tocar el piano. | 연주하다 (演奏) · 나는 피아노 치는 걸 정말 좋아해요.
+[51:56.79]
+W | Telenovela · Mi madre ve las telenovelas. | 드라마 (連續劇) · 엄마는 드라마를 보세요.
+[52:01.95]
+W | Dibujos animados · Todos los domingos veo los dibujos animados. | 만화 영화 (漫畵) · 나는 일요일마다 만화 영화를 봐요.
+[52:09.13]
+W | Dibujar · ¿Todavía dibujas bien? | 그림을 그리다 (繪畵) · 아직도 그림 잘 그려?
+[52:13.75]
+W | Tomar fotos · Mi padre toma fotos en el viaje. | 사진을 찍다 (寫眞) · 아빠는 여행에서 사진을 찍으세요.
+[52:20.21]
+W | Cámara · Quiero comprar una cámara buena. | 카메라 · 좋은 카메라를 사고 싶어요.
+[52:25.33]
+W | Muñeco/a · Mi hermana colecciona los muñecos. | 인형 · 우리 언니(누나)는 인형을 모아요.
+[52:32.51]
+W | Novela · Estoy leyendo una novela. | 소설 (小說) · 나는 소설을 읽고 있어요.
+[52:37.79]
+W | Concierto · ¿Quieres ir al concierto conmigo? | 콘서트 (公演) · 나랑 콘서트 갈래?
+[52:43.31]
+W | Teatro · Ella dirige obras de teatro. | 연극 (演劇) · 그녀는 연극을 연출해요.
+[52:49.53]
+W | Bailar · Vamos a ir a bailar esta noche. | 춤추다 (舞踊) · 오늘 밤 춤추러 가자.
+[52:55.07]
+W | Aficionado/a · Soy gran aficionada al béisbol. | 애호가, 팬 (愛好家) · 나는 야구의 열렬한 팬이에요.
+[53:03.11]
+W | Pasatiempo · Mi abuelo dibuja como pasatiempo. | 여가 활동, 취미 (餘暇) · 할아버지는 취미로 그림을 그리세요.
+[53:08.31]
+W | Jugar · Me gusta jugar al baloncesto. | 놀다, 하다 · 나는 농구하는 걸 좋아해요.
+[53:14.11]
+W | Disfrutar · Ellos disfrutan del tiempo libre en la playa. | 즐기다 (享受) · 그들은 해변에서 여가를 즐겨요.
+[53:22.17]
+W | Tomar clase · Voy a tomar la clase de ella. | 수업을 듣다 · 나는 그녀의 수업을 들을 거예요.
+[53:28.05]
+## Día 25 · 운동
+N | Día 25 | 25일차 · 운동
+[53:35.96]
+W | Ejercicio · Hago ejercicio todos los días. | 운동 (運動) · 나는 매일 운동해요.
+[53:41.68]
+W | Deporte · ¿Qué deporte te gusta? | 스포츠 (體育) · 무슨 스포츠 좋아해?
+[53:46.54]
+W | Balón · Él echa el balón. | 공 (큰 공) · 그가 공을 던져요.
+[53:51.12]
+W | Pelota · Los niños juegan con la pelota. | 공 (작은 공) · 아이들이 공을 가지고 놀아요.
+[53:57.20]
+W | Béisbol · Me gusta ver el béisbol. | 야구 (野球) · 나는 야구 보는 걸 좋아해요.
+[54:02.44]
+W | Fútbol · El fútbol es muy popular en España. | 축구 (蹴球) · 스페인에서 축구는 아주 인기가 많아요.
+[54:08.60]
+W | Baloncesto · Queremos jugar al baloncesto. | 농구 (籠球) · 우리는 농구를 하고 싶어요.
+[54:14.06]
+W | Voleibol · A Marco le encanta el voleibol. | 배구 (排球) · 마르코는 배구를 정말 좋아해요.
+[54:20.24]
+W | Balonmano · El balonmano es divertido. | 핸드볼 (送球) · 핸드볼은 재미있어요.
+[54:25.66]
+W | Golf · Mi padre juega al golf el fin de semana. | 골프 (高爾夫) · 아빠는 주말에 골프를 치세요.
+[54:30.80]
+W | Jugar a · Vamos a jugar al fútbol. | (운동을) 하다 · 축구하자.
+[54:36.20]
+W | Nadar · Nado tres veces a la semana. | 수영하다 (泳) · 나는 일주일에 세 번 수영해요.
+[54:41.18]
+W | Piscina · Hay mucha gente en la piscina. | 수영장 (泳場) · 수영장에 사람이 많아요.
+[54:46.14]
+W | Gimnasio · El gimnasio está cerca de mi casa. | 헬스장, 체육관 (體育館) · 헬스장은 우리 집 근처에 있어요.
+[54:52.24]
+W | Deportista · Ese deportista juega muy bien. | 운동선수 · 저 선수는 경기를 정말 잘해요.
+[54:58.44]
+W | Equipo · Mi equipo favorito es Real Madrid. | 팀 (팀) · 내가 제일 좋아하는 팀은 레알 마드리드예요.
+[55:03.30]
+W | Partido · El partido de fútbol empieza a las 7. | 경기 (競技) · 축구 경기는 7시에 시작해요.
+[55:09.64]
+W | Billar · No me gusta jugar al billar. | 당구 (撞球) · 나는 당구 치는 걸 싫어해요.
+[55:14.52]
+W | Bolos · ¿Queréis jugar a los bolos? | 볼링 (볼링) · 너희 볼링 칠래?
+[55:20.02]
+W | Tenis · No juego bien al tenis. | 테니스 (庭球) · 나는 테니스를 잘 못 쳐요.
+[55:24.96]
+W | Esquí · Voy a practicar esquí. | 스키 (스키) · 스키를 연습할 거예요.
+[55:31.85]
+## Día 26 · 컴퓨터와 휴대폰
+N | Día 26 | 26일차 · 컴퓨터와 휴대폰
+[55:39.90]
+W | Ordenador · ¿Podría usar el ordenador? | 컴퓨터 (스페인) (電算機) · 컴퓨터 좀 써도 될까요?
+[55:43.30]
+W | Ordenador portátil · Necesito un ordenador portátil nuevo. | 노트북 · 새 노트북이 필요해요.
+[55:52.98]
+W | Dato · Ella me envía los datos. | 자료, 데이터 (資料) · 그녀가 나에게 자료를 보내요.
+[55:57.48]
+W | Archivo · No encuentro ese archivo. | 파일 (文書) · 그 파일을 못 찾겠어요.
+[56:02.74]
+W | Red · La red ha desarrollado mucho. | 네트워크, 인터넷 (網) · 인터넷이 많이 발전했어요.
+[56:07.78]
+W | Encender · Ella enciende la computadora. | 켜다 (點火) · 그녀가 컴퓨터를 켜요.
+[56:13.24]
+W | Apagar · ¿Cómo se apaga este móvil? | 끄다 (消火) · 이 휴대폰 어떻게 꺼요?
+[56:18.16]
+W | Descargar · Quiero descargar este programa. | 다운로드하다 (下載) · 이 프로그램을 다운받고 싶어요.
+[56:24.04]
+W | Subir · ¿Vas a subir esta foto? | 올리다, 업로드하다 · 이 사진 올릴 거야?
+[56:28.84]
+W | Funcionar · No funciona el ordenador. | 작동하다 (作動) · 컴퓨터가 작동을 안 해요.
+[56:34.28]
+W | Arreglar · Puedes arreglar el teléfono. | 고치다 (修理) · 너 전화기 고칠 수 있잖아.
+[56:39.68]
+W | Internet · Busco información por el internet. | 인터넷 (網) · 나는 인터넷으로 정보를 찾아요.
+[56:45.36]
+W | Correo electrónico · No uso mucho el correo electrónico. | 이메일 (電子郵便) · 나는 이메일을 많이 안 써요.
+[56:52.46]
+W | Guardar · Tienen que guardar todos los datos. | 저장하다 (保存) · 모든 데이터를 저장해야 해요.
+[56:57.76]
+W | Borrar · Voy a borrar este documento. | 지우다 (削除) · 이 문서를 지울게요.
+[57:03.24]
+W | Información · Hay mucha información en internet. | 정보 (情報) · 인터넷에는 정보가 많아요.
+[57:09.00]
+W | Teléfono · Tenemos que cambiar el teléfono. | 전화기 · 전화기를 바꿔야 해요.
+[57:14.12]
+W | Móvil · Mis padres me regalarán un móvil. | 휴대폰 (스페인) (携帶電話) · 부모님이 휴대폰을 사 주실 거예요.
+[57:20.18]
+W | Número · ¿Cuál es tu número de teléfono? | 번호 · 네 전화번호가 뭐야?
+[57:24.86]
+W | Mensaje · Le envío un mensaje a él. | 메시지 · 그에게 메시지를 보내요.
+[57:30.16]
+W | Pantalla · No sale nada en la pantalla. | 화면 (畵面) · 화면에 아무것도 안 나와요.
+[57:35.62]
+W | Voz · En voz alta, por favor. | 목소리 (音聲) · 큰 소리로 말해 주세요.
+[57:40.50]
+W | Llamar · ¿Me puedes llamar esta noche? | 전화하다 · 오늘 밤 전화해 줄 수 있어?
+[57:46.22]
+W | Sonar · El móvil suena. | 울리다 (鳴) · 휴대폰이 울려요.
+[57:50.20]
+W | Alarma · No he oído la alarma. | 알람 (警報) · 알람을 못 들었어요.
+[57:55.42]
+W | Cargar · ¿Por qué no cargas el móvil? | 충전하다 (充塡) · 휴대폰 충전 좀 하지 그래?
+[58:00.62]
+W | Saldo · No tengo saldo. | 잔액 (殘額) · 잔액이 없어요.
+[58:05.34]
+W | Aplicación · Esta aplicación es muy útil. | 앱, 응용 프로그램 (應用) · 이 앱은 아주 유용해요.
+[58:13.55]
+## Día 27 · 숫자와 요일
+N | Día 27 | 27일차 · 숫자와 요일
+[58:45.25]
+W | Diez, once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve | 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+[59:15.95]
+W | Veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien | 20, 30, 40, 50, 60, 70, 80, 90, 100
+[59:41.65]
+W | Doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos, mil | 200, 300, 400, 500, 600, 700, 800, 900, 1000
+[60:09.65]
+W | Un millón, mil millones, un billón | 100만, 10억, 1조
+[60:19.95]
+W | Primero/a, segundo/a, tercero/a, cuarto/a, quinto/a, sexto/a, séptimo/a, octavo/a, noveno/a, décimo/a | 첫 번째, 두 번째, 세 번째 … 열 번째 (서수)
+[61:02.25]
+W | Enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre | 1월, 2월, 3월, 4월, 5월, 6월, 7월, 8월, 9월, 10월, 11월, 12월
+[61:35.85]
+W | Lunes, martes, miércoles, jueves, viernes, sábado, domingo | 월요일, 화요일, 수요일, 목요일, 금요일, 토요일, 일요일
+[62:02.65]
+W | Contar, sumar, restar, multiplicar, dividir, número impar, número par | 세다·계산하다, 더하다, 빼다, 곱하다, 나누다, 홀수, 짝수
+[62:26.75]
+W | Precio, mediodía, medianoche, madrugada | 가격, 정오, 자정, 새벽
+[62:35.25]
+W | Temprano, tarde, a tiempo, pronto, ahora, ayer, hoy, mañana | 일찍, 늦게, 제시간에, 곧, 지금, 어제, 오늘, 내일
+[62:59.55]
+W | Semana, fin de semana, año, mes, día, día de la semana, calendario, reloj, hora, minuto | 주, 주말, 해(년), 월, 날, 요일, 달력, 시계, 시간, 분
+[63:28.85]
+## Día 28 · 모양
+N | Día 28 | 28일차 · 모양
+[63:36.99]
+W | Forma · La calle tiene una forma de T. | 모양 (形態) · 그 길은 T자 모양이에요.
+[63:42.23]
+W | Redondo/a · Me gusta el reloj redondo. | 둥근 (圓形) · 나는 둥근 시계가 좋아요.
+[63:49.17]
+W | Cuadrado/a · Él tiene una cara cuadrada. | 네모난 (四角形) · 그는 얼굴이 각졌어요.
+[63:56.13]
+W | Triangular · Esto es muy triangular. | 삼각형의 (三角形) · 이건 정말 삼각형이네요.
+[64:01.61]
+W | Línea recta · El niño traza una línea recta. | 직선 (直線) · 아이가 직선을 그어요.
+[64:07.53]
+W | Línea curva · El artista usa líneas curvas. | 곡선 (曲線) · 그 화가는 곡선을 써요.
+[64:13.85]
+W | Cono · Estos países forman un cono. | 원뿔 (圓錐) · 이 나라들은 원뿔 모양을 이뤄요.
+[64:19.69]
+W | Fino/a · Tu cara es muy fina. | 가는, 섬세한 (細) · 너는 얼굴이 정말 갸름해.
+[64:26.17]
+W | Igual · Ellos son casi iguales. | 같은 (平等) · 그들은 거의 똑같아요.
+[64:30.99]
+W | Diferente · Necesito algo diferente. | 다른 (差異) · 뭔가 다른 게 필요해요.
+[64:36.51]
+W | Grueso/a · El libro es muy grueso. | 두꺼운 (厚) · 그 책은 아주 두꺼워요.
+[64:43.37]
+W | Columna · Hay una columna en el centro. | 기둥 (柱) · 가운데에 기둥이 하나 있어요.
+[64:48.57]
+W | Pirámide · Dibujo una pirámide. | 피라미드 (金字塔) · 나는 피라미드를 그려요.
+[64:53.73]
+W | Plano/a · Estos zapatos son planos. | 평평한 (平面) · 이 신발은 굽이 없어요.
+[65:01.95]
+## Día 29 · 반대말 형용사
+N | Día 29 | 29일차 · 반대말 형용사
+[65:10.48]
+W | Rápido/a · ¿Has visto aquel avión rápido? | 빠른 (迅速) · 저 빠른 비행기 봤어?
+[65:18.00]
+W | Lento/a · La tortuga es lenta. | 느린 (緩慢) · 거북이는 느려요.
+[65:24.68]
+W | Barato/a · En este restaurante no hay comida barata. | 싼 · 이 식당에는 싼 음식이 없어요.
+[65:32.46]
+W | Caro/a · Ella siempre compra los zapatos caros. | 비싼 · 그녀는 항상 비싼 신발을 사요.
+[65:39.64]
+W | Nuevo/a · Van a construir un puente nuevo. | 새로운 (新) · 새 다리를 지을 거래요.
+[65:46.60]
+W | Viejo/a · Mi abuela me dio un bolso viejo. | 낡은, 늙은 (舊) · 할머니가 낡은 가방을 주셨어요.
+[65:54.08]
+W | Joven · ¿Quién es ese hombre joven? | 젊은 · 저 젊은 남자는 누구예요?
+[65:58.54]
+W | Bueno/a · Buen viaje. | 좋은 (良) · 즐거운 여행 되세요.
+[66:05.31]
+W | Malo/a · Qué mal tiempo. | 나쁜 (惡) · 날씨 정말 안 좋다.
+[66:11.43]
+W | Pesado/a · ¿Por qué mi mochila es tan pesada? | 무거운 (重) · 내 배낭은 왜 이렇게 무겁지?
+[66:18.33]
+W | Ligero/a · Su maleta no es ligera. | 가벼운 (輕) · 그분 여행 가방은 가볍지 않아요.
+[66:25.45]
+W | Fuerte · Sopla un viento fuerte hoy. | 강한 (强) · 오늘 바람이 세게 불어요.
+[66:30.57]
+W | Débil · Ella tiene una voz débil. | 약한 (弱) · 그녀는 목소리가 약해요.
+[66:36.03]
+W | Feliz · Yo soy la chica más feliz del mundo. | 행복한 · 나는 세상에서 제일 행복한 여자예요.
+[66:41.69]
+W | Fácil · Aprender español es fácil. | 쉬운 · 스페인어 배우기는 쉬워요.
+[66:47.11]
+W | Difícil · Tenemos que resolver este problema difícil. | 어려운 · 이 어려운 문제를 해결해야 해요.
+[66:52.91]
+W | Frío/a · No puedo ducharme con agua fría. | 차가운 (冷) · 찬물로는 샤워 못 해요.
+[67:00.03]
+W | Caliente · Me gustaría tomar un café caliente. | 뜨거운 (溫) · 뜨거운 커피를 마시고 싶어요.
+[67:06.01]
+W | Fresco/a · Aquí se venden frutas frescas. | 신선한, 시원한 (淸) · 여기서 신선한 과일을 팔아요.
+[67:13.37]
+W | Limpio/a · La cama está limpia. | 깨끗한 · 침대가 깨끗해요.
+[67:19.97]
+W | Sucio/a · La mesa de mi hermana menor está siempre sucia. | 더러운 · 내 여동생 책상은 항상 지저분해요.
+[67:27.87]
+W | Cómodo/a · Esta silla es cómoda. | 편안한 · 이 의자는 편해요.
+[67:34.45]
+W | Incómodo/a · Estoy incómodo con ellos. | 불편한 · 나는 그들이 불편해요.
+[67:41.59]
+W | Moderno/a · Vivo en un piso moderno. | 현대적인 (現代) · 나는 현대식 아파트에 살아요.
+[67:48.31]
+W | Tradicional · La ropa tradicional de Corea es Hanbok. | 전통적인 (傳統) · 한국의 전통 의상은 한복이에요.
+[67:54.65]
+W | Internacional · Barcelona es una ciudad internacional. | 국제적인 (國際) · 바르셀로나는 국제도시예요.
+[68:00.87]
+W | Rico/a · Su comida es muy rica. | 맛있는 (味) · 그분 요리는 아주 맛있어요.
+[68:07.35]
+W | Picante · La comida coreana es picante. | 매운 (辛) · 한국 음식은 매워요.
+[68:15.05]
+## Día 30 · 생활 속 동사 표현
+N | Día 30 | 30일차 · 생활 속 동사 표현
+[68:23.00]
+W | Pasear por · Me gusta pasear por el parque. | ~을 산책하다 (散策) · 나는 공원 산책을 좋아해요.
+[68:28.70]
+W | Ir al centro · Vamos a ir al centro mañana. | 시내에 가다 · 내일 시내에 가자.
+[68:34.44]
+W | Ir de pesca · ¿Quieres ir de pesca conmigo al mar? | 낚시하러 가다 (漁) · 나랑 바다에 낚시하러 갈래?
+[68:40.38]
+W | Tomar el sol · Los españoles toman el sol en la playa. | 일광욕하다 (日) · 스페인 사람들은 해변에서 일광욕을 해요.
+[68:46.62]
+W | Hacer ruido · Mis vecinos hacen ruido por la noche. | 시끄럽게 하다 (騷音) · 이웃들이 밤에 시끄럽게 해요.
+[68:52.80]
+W | Hacer la maleta · Tengo que hacer la maleta. | 짐을 싸다 (行李) · 짐을 싸야 해요.
+[68:58.24]
+W | Hacer la cama · ¿Por qué no haces la cama? | 침대를 정리하다 (寢具) · 왜 침대 정리를 안 해?
+[69:03.50]
+W | Poner la lavadora · Me da pereza poner la lavadora. | 세탁기를 돌리다 (洗濯) · 세탁기 돌리기 귀찮아요.
+[69:09.54]
+W | Tener interés en · Mi hijo tiene interés en la historia. | ~에 관심이 있다 (興味) · 우리 아들은 역사에 관심이 있어요.
+[69:15.76]
+W | Ir al extranjero · El actor va al extranjero pronto. | 해외에 가다 · 그 배우는 곧 해외로 가요.
+[69:22.12]
+W | Dejar de trabajar · Quiero dejar de trabajar. | 일을 그만두다 (中斷) · 일을 그만두고 싶어요.
+[69:28.58]
+W | Acordarse de · Todavía me acuerdo de ti. | ~을 기억하다 (記憶) · 아직도 너를 기억해.
+[69:33.20]
+W | Pedir prestado · Él siempre pide prestado dinero. | 빌리다 (借用) · 그는 항상 돈을 빌려요.
+[69:39.20]
+W | Llevarse bien con · No me llevo bien con ella. | ~와 잘 지내다 (和睦) · 나는 그녀와 사이가 안 좋아요.
+[69:44.56]
+W | Fregar los platos · Mi padre friega los platos. | 설거지하다 (洗滌) · 아빠가 설거지를 하세요.
+[69:51.54]
+W | Pasar la aspiradora · Necesitas pasar la aspiradora. | 청소기를 돌리다 (淸掃) · 너 청소기 돌려야 해.
+[69:57.78]
+W | Echar una mano · ¿Me puedes echar una mano? | 도와주다 (助力) · 나 좀 도와줄 수 있어?
+[70:03.22]
+W | Ir de excursión · Este sábado vamos de excursión. | 소풍 가다 (遠足) · 이번 토요일에 소풍 가요.
+[70:08.34]
+W | Montar en bicicleta · Los domingos monto en bicicleta. | 자전거를 타다 (自轉車) · 나는 일요일마다 자전거를 타요.
+[70:15.62]
+W | Compartir piso · Comparto piso con una chica alemana. | 집을 같이 쓰다 (共有) · 나는 독일 여자애랑 집을 같이 써요.
+[70:21.56]
+W | Tomar la decisión · Es difícil tomar la decisión. | 결정을 내리다 (決定) · 결정을 내리기는 어려워요.

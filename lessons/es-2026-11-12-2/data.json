@@ -1,0 +1,5056 @@
+{
+ "id": "es-2026-11-12-2",
+ "lang": "es",
+ "date": "2026-11-12",
+ "title": "나혼자 끝내는 스페인어 단어장 — 30일 단어와 예문",
+ "es": "Más vale pájaro en mano que volando.",
+ "emoji": "📒",
+ "level": "A1–A2",
+ "channel": "나혼자 끝내는 스페인어 단어장 (사용자 제공 음성·문서)",
+ "videoTitle": "모든 단어 예문 합본 (Día 1–30)",
+ "audio": "audio.m4a",
+ "duration": "70:28",
+ "speakers": {
+  "N": "Día",
+  "W": "단어"
+ },
+ "hideCast": true,
+ "summary": "'나혼자 끝내는 스페인어 단어장' 30일치 음성(70분)을 단어마다 싱크했어요. 한 줄에 '단어 · 예문'과 한국어 뜻(문서에 적힌 한자 뜻 포함)이 함께 있어요. 국적·성격·가족·몸·감정·위치 → 규칙·어간 변화·재귀 동사 → 학교·회사·날씨·자연·음식 → 여행·옷·쇼핑·교통·은행·병원·공항 → 취미·운동·컴퓨터·숫자·모양·반대말 → 생활 속 동사 표현까지 약 680개예요. 문서에 없고 음성에만 있는 단어(약 80개)도 넣었고, 예문이 음성과 다른 곳은 음성에 맞췄어요.",
+ "topics": [
+  "Día 1–6 국적 · 성격 · 가족과 직업 · 몸과 외모 · 감정(estar) · 위치",
+  "Día 7–11 규칙 동사 · 어간 변화 동사(e→ie, e→i, o→ue) · 하루 일과 재귀동사",
+  "Día 12–16 학교 · 회사 · 날씨 · 자연 · 음식",
+  "Día 17–23 여행 · 옷 · 쇼핑 · 교통 · 은행과 우체국 · 병원 · 공항",
+  "Día 24–30 취미 · 운동 · 컴퓨터 · 숫자와 요일 · 모양 · 반대말 · 생활 표현"
+ ],
+ "grammar": [
+  {
+   "title": "① 명사·형용사의 성 — -o / -a",
+   "lead": "단어장의 <b>Simpático/a</b>처럼 '/a'가 붙은 말은 남성형 -o, 여성형 -a가 있어요. 음성에서도 두 형태를 차례로 읽어 줘요. -e나 자음으로 끝나는 말(amable, feliz, cortés)은 남녀 같은 꼴이에요.",
+   "examples": [
+    [
+     "Mi hijo es perezoso. / Mi hija es perezosa.",
+     "아들은 게을러요. / 딸은 게을러요."
+    ],
+    [
+     "Hablador → habladora, trabajador → trabajadora",
+     "-or로 끝나면 -a를 붙여 여성형 (Día 2)"
+    ],
+    [
+     "El médico / la médica, el profesor / la profesora",
+     "직업 명사도 같은 규칙 (Día 3)"
+    ],
+    [
+     "Los estudiantes son activos.",
+     "복수는 -s / -es: activo → activos"
+    ]
+   ],
+   "tip": "국적 형용사: español → española, japonés → japonesa, alemán → alemana (강세 표시가 사라져요)."
+  },
+  {
+   "title": "② ser와 estar",
+   "lead": "<b>ser</b>는 국적·성격·직업처럼 변하지 않는 성질(Día 1–3), <b>estar</b>는 기분·몸 상태·위치처럼 지금의 상태(Día 5–6).",
+   "table": {
+    "head": [
+     "ser (Día 1–3)",
+     "estar (Día 5–6)"
+    ],
+    "rows": [
+     [
+      "Yo soy de Corea.",
+      "Estoy nerviosa por el examen."
+     ],
+     [
+      "Mi esposo es sincero.",
+      "La habitación está sucia."
+     ],
+     [
+      "Mi padre es periodista.",
+      "El cine está enfrente del banco."
+     ],
+     [
+      "Es aburrido. (지루한 사람이다)",
+      "Estoy aburrida. (지금 지루하다)"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "③ 위치 표현 — ~de + 장소",
+   "lead": "<b>encima de, debajo de, dentro de, fuera de, delante de, enfrente de, detrás de, al lado de, cerca de, lejos de</b>. de + el = <b>del</b>, a + el = <b>al</b>.",
+   "examples": [
+    [
+     "Hay un gato debajo de la silla.",
+     "의자 밑에 고양이가 있어요."
+    ],
+    [
+     "El cajero está detrás del hotel.",
+     "ATM은 호텔 뒤에 있어요. (de + el = del)"
+    ],
+    [
+     "Mi madre está a la derecha de mi padre.",
+     "엄마는 아빠 오른쪽에 있어요."
+    ],
+    [
+     "El baño está al fondo del pasillo.",
+     "화장실은 복도 끝에 있어요."
+    ]
+   ]
+  },
+  {
+   "title": "④ 현재형 — 규칙 동사와 어간 변화 동사",
+   "lead": "Día 7은 규칙 동사, Día 8–10은 강세 모음이 바뀌는 동사예요. nosotros·vosotros는 바뀌지 않아요.",
+   "table": {
+    "head": [
+     "유형",
+     "원형 → yo",
+     "예문"
+    ],
+    "rows": [
+     [
+      "규칙 -ar/-er/-ir",
+      "estudiar → estudio",
+      "Yo estudio español."
+     ],
+     [
+      "e→ie (Día 8)",
+      "empezar → empiezo / pensar → pienso",
+      "Pienso en ti."
+     ],
+     [
+      "e→i (Día 9)",
+      "pedir → pido / repetir → repito",
+      "Le pido al camarero un café."
+     ],
+     [
+      "o→ue (Día 10)",
+      "poder → puedo / dormir → duermo",
+      "¿Cuántas horas duermes?"
+     ],
+     [
+      "u→ue",
+      "jugar → juego",
+      "Juego al fútbol con mis amigos."
+     ],
+     [
+      "불규칙 yo",
+      "coger → cojo, tener → tengo, venir → vengo",
+      "Siempre cojo metro."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑤ 재귀동사 — 하루 일과 (Día 11)",
+   "lead": "동작이 자기 자신에게 돌아오는 동사는 <b>me, te, se, nos, os, se</b>를 동사 앞에 붙여요. 동사원형에서는 뒤에 붙여요(arreglarse, bañarnos).",
+   "examples": [
+    [
+     "Yo me despierto muy temprano.",
+     "나는 아주 일찍 깨요."
+    ],
+    [
+     "¿A qué hora te levantas?",
+     "몇 시에 일어나?"
+    ],
+    [
+     "Ella se cepilla los dientes.",
+     "그녀는 이를 닦아요."
+    ],
+    [
+     "Queremos bañarnos en el mar.",
+     "우리는 바다에서 수영하고 싶어요."
+    ],
+    [
+     "Mi hija tarda mucho tiempo en arreglarse.",
+     "딸은 준비하는 데 오래 걸려요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ gustar · doler · dar 구문",
+   "lead": "좋아하는 대상·아픈 곳이 주어예요: <b>me gusta</b> + 단수/동사원형, <b>me gustan</b> + 복수. doler, encantar, interesar, dar miedo/vergüenza/pereza도 같은 구조.",
+   "examples": [
+    [
+     "Me gustan los animales.",
+     "나는 동물을 좋아해요."
+    ],
+    [
+     "Me duele todo el cuerpo.",
+     "온몸이 아파요."
+    ],
+    [
+     "Me interesa la naturaleza.",
+     "나는 자연에 관심이 있어요."
+    ],
+    [
+     "Me dan miedo los gallos.",
+     "나는 수탉이 무서워요."
+    ],
+    [
+     "Me da vergüenza hablar en público.",
+     "사람들 앞에서 말하는 게 부끄러워요."
+    ],
+    [
+     "Me da pereza poner la lavadora.",
+     "세탁기 돌리기 귀찮아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 날씨와 숫자 (Día 14·27)",
+   "lead": "날씨는 <b>hace</b> + 명사(calor, frío, sol), <b>está</b> + 형용사(despejado, nublado), <b>hay</b> + 명사(niebla, nubes), 동사 자체(llueve, nieva). 숫자 16–19는 한 단어(dieciséis), 31부터는 y로 연결(treinta y uno).",
+   "examples": [
+    [
+     "En invierno hace frío.",
+     "겨울에는 추워요."
+    ],
+    [
+     "El cielo está despejado.",
+     "하늘이 맑아요."
+    ],
+    [
+     "Hay niebla esta mañana.",
+     "오늘 아침 안개가 꼈어요."
+    ],
+    [
+     "Nieva mucho en invierno.",
+     "겨울에 눈이 많이 와요."
+    ],
+    [
+     "Cien / ciento uno / doscientos / mil / un millón",
+     "100 / 101 / 200 / 1000 / 100만"
+    ]
+   ],
+   "tip": "요일·월은 소문자로 써요: lunes, enero. '월요일에'는 el lunes, '월요일마다'는 los lunes."
+  },
+  {
+   "title": "⑧ 생활 속 동사 표현 (Día 30)",
+   "lead": "자주 쓰는 동사 + 명사 덩어리를 통째로 외워 두면 편해요.",
+   "examples": [
+    [
+     "hacer la maleta / hacer la cama / hacer ruido",
+     "짐을 싸다 / 침대를 정리하다 / 시끄럽게 하다"
+    ],
+    [
+     "poner la lavadora / pasar la aspiradora / fregar los platos",
+     "세탁기를 돌리다 / 청소기를 돌리다 / 설거지하다"
+    ],
+    [
+     "echar una mano / pedir prestado",
+     "도와주다 / 빌리다"
+    ],
+    [
+     "llevarse bien con / acordarse de / tener interés en",
+     "~와 잘 지내다 / ~을 기억하다 / ~에 관심이 있다"
+    ],
+    [
+     "dejar de + 동사원형",
+     "~하는 것을 그만두다: Quiero dejar de trabajar."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "Feliz Navidad.",
+   "메리 크리스마스."
+  ],
+  [
+   "Que te mejores pronto.",
+   "빨리 낫길 바라."
+  ],
+  [
+   "La cuenta, por favor.",
+   "계산서 주세요."
+  ],
+  [
+   "Un billete de ida y vuelta para Madrid, por favor.",
+   "마드리드행 왕복표 한 장 주세요."
+  ],
+  [
+   "¿Me puedes echar una mano?",
+   "나 좀 도와줄 수 있어?"
+  ],
+  [
+   "Más vale pájaro en mano que volando.",
+   "손안의 새 한 마리가 날아가는 새보다 낫다. (속담)"
+  ],
+  [
+   "Estoy más aburrida que una ostra.",
+   "너무너무 지루해. (관용 표현)"
+  ],
+  [
+   "Siga todo recto.",
+   "쭉 직진하세요."
+  ],
+  [
+   "¿Qué número calza usted?",
+   "신발 사이즈가 어떻게 되세요?"
+  ],
+  [
+   "En voz alta, por favor.",
+   "큰 소리로 말해 주세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "simpático/a",
+   "ko": "상냥한, 친절한",
+   "ex": "La profesora es muy simpática.",
+   "exKo": "선생님은 아주 상냥해요."
+  },
+  {
+   "es": "trabajador/a",
+   "ko": "부지런한",
+   "ex": "Los estudiantes son trabajadores.",
+   "exKo": "학생들은 부지런해요."
+  },
+  {
+   "es": "perezoso/a",
+   "ko": "게으른",
+   "ex": "Mi hijo es perezoso.",
+   "exKo": "우리 아들은 게을러요."
+  },
+  {
+   "es": "exigente",
+   "ko": "까다로운, 엄격한",
+   "ex": "Mi padre es un poco exigente.",
+   "exKo": "우리 아빠는 조금 엄격해요."
+  },
+  {
+   "es": "tacaño/a",
+   "ko": "인색한",
+   "ex": "Usted es un hombre muy tacaño.",
+   "exKo": "당신은 정말 인색한 사람이군요."
+  },
+  {
+   "es": "el/la funcionario/a",
+   "ko": "공무원",
+   "ex": "Julio y yo somos funcionarios.",
+   "exKo": "훌리오와 나는 공무원이에요."
+  },
+  {
+   "es": "el ama de casa",
+   "ko": "주부",
+   "ex": "Mi madre es ama de casa.",
+   "exKo": "우리 엄마는 주부예요."
+  },
+  {
+   "es": "la espalda",
+   "ko": "등",
+   "ex": "Me pica la espalda.",
+   "exKo": "등이 가려워요."
+  },
+  {
+   "es": "la cintura",
+   "ko": "허리",
+   "ex": "Mi abuela tiene dolor de cintura.",
+   "exKo": "우리 할머니는 허리가 아프세요."
+  },
+  {
+   "es": "deprimido/a",
+   "ko": "우울한",
+   "ex": "Ellos están deprimidos por el resultado.",
+   "exKo": "그들은 결과 때문에 우울해해요."
+  },
+  {
+   "es": "preocupado/a",
+   "ko": "걱정하는",
+   "ex": "Mis padres están preocupados por mí.",
+   "exKo": "부모님은 나를 걱정하세요."
+  },
+  {
+   "es": "agotado/a",
+   "ko": "녹초가 된",
+   "ex": "Ya estoy agotada.",
+   "exKo": "나 이제 녹초가 됐어."
+  },
+  {
+   "es": "mareado/a",
+   "ko": "어지러운",
+   "ex": "¿Estás mareado?",
+   "exKo": "너 어지러워?"
+  },
+  {
+   "es": "celoso/a",
+   "ko": "질투하는",
+   "ex": "Mi novio está celoso.",
+   "exKo": "내 남자친구는 질투하고 있어요."
+  },
+  {
+   "es": "encima de / debajo de",
+   "ko": "~의 위에 / 아래에",
+   "ex": "El libro está encima de la cama.",
+   "exKo": "책이 침대 위에 있어요."
+  },
+  {
+   "es": "enfrente de",
+   "ko": "~의 맞은편에",
+   "ex": "El cine está enfrente del banco.",
+   "exKo": "영화관은 은행 맞은편에 있어요."
+  },
+  {
+   "es": "al fondo de",
+   "ko": "~의 안쪽 끝에",
+   "ex": "El baño está al fondo del pasillo.",
+   "exKo": "화장실은 복도 끝에 있어요."
+  },
+  {
+   "es": "compartir piso",
+   "ko": "집을 같이 쓰다",
+   "ex": "Yo comparto piso con los españoles.",
+   "exKo": "나는 스페인 사람들과 집을 같이 써요."
+  },
+  {
+   "es": "coger",
+   "ko": "잡다, 타다 (스페인)",
+   "ex": "Siempre cojo metro para ir a casa.",
+   "exKo": "나는 항상 지하철을 타고 집에 가요."
+  },
+  {
+   "es": "merendar (e→ie)",
+   "ko": "간식을 먹다",
+   "ex": "Meriendo dos veces al día.",
+   "exKo": "나는 하루에 두 번 간식을 먹어요."
+  },
+  {
+   "es": "fregar (e→ie)",
+   "ko": "닦다, 설거지하다",
+   "ex": "Mi padre friega los platos los fines de semana.",
+   "exKo": "아빠가 주말마다 설거지를 해요."
+  },
+  {
+   "es": "conseguir (e→i)",
+   "ko": "얻다, 이루다",
+   "ex": "Es difícil conseguir la fama.",
+   "exKo": "명성을 얻기는 어려워요."
+  },
+  {
+   "es": "medir (e→i)",
+   "ko": "(길이·키를) 재다",
+   "ex": "¿Cuánto mides?",
+   "exKo": "키가 몇이야?"
+  },
+  {
+   "es": "volar (o→ue)",
+   "ko": "날다",
+   "ex": "Quiero volar algún día.",
+   "exKo": "언젠가 하늘을 날고 싶어요."
+  },
+  {
+   "es": "aprobar (o→ue)",
+   "ko": "합격하다",
+   "ex": "Puedes aprobar el examen.",
+   "exKo": "너는 시험에 붙을 수 있어."
+  },
+  {
+   "es": "arreglarse",
+   "ko": "단장하다",
+   "ex": "Mi hija tarda mucho tiempo en arreglarse.",
+   "exKo": "스페인어 공부하자."
+  },
+  {
+   "es": "la asignatura",
+   "ko": "과목",
+   "ex": "¿Cuál es tu asignatura favorita?",
+   "exKo": "제일 좋아하는 과목이 뭐야?"
+  },
+  {
+   "es": "repasar",
+   "ko": "복습하다",
+   "ex": "Tenéis que repasar en casa.",
+   "exKo": "너희는 집에서 복습해야 해."
+  },
+  {
+   "es": "el viaje de negocios",
+   "ko": "출장",
+   "ex": "Mañana tengo viaje de negocios.",
+   "exKo": "내일 출장이 있어요."
+  },
+  {
+   "es": "el sueldo",
+   "ko": "월급",
+   "ex": "Quiero que me suban el sueldo.",
+   "exKo": "월급을 올려 줬으면 좋겠어요."
+  },
+  {
+   "es": "el ascenso",
+   "ko": "승진",
+   "ex": "Vamos a celebrar tu ascenso.",
+   "exKo": "네 승진을 축하하자."
+  },
+  {
+   "es": "la carta de dimisión",
+   "ko": "사직서",
+   "ex": "He escrito la carta de dimisión.",
+   "exKo": "사직서를 썼어요."
+  },
+  {
+   "es": "el chubasco",
+   "ko": "소나기",
+   "ex": "Cae un chubasco.",
+   "exKo": "소나기가 쏟아져요."
+  },
+  {
+   "es": "el pronóstico",
+   "ko": "일기예보",
+   "ex": "Según el pronóstico, hoy hace calor.",
+   "exKo": "일기예보에 따르면 오늘 더워요."
+  },
+  {
+   "es": "la mascota",
+   "ko": "반려동물",
+   "ex": "Quiero tener mascota.",
+   "exKo": "반려동물을 키우고 싶어요."
+  },
+  {
+   "es": "el medio ambiente",
+   "ko": "환경",
+   "ex": "Tenemos problemas de medio ambiente.",
+   "exKo": "우리는 환경 문제를 겪고 있어요."
+  },
+  {
+   "es": "el marisco",
+   "ko": "해산물",
+   "ex": "Tengo alergia al marisco.",
+   "exKo": "나는 해산물 알레르기가 있어요."
+  },
+  {
+   "es": "el itinerario",
+   "ko": "여행 일정",
+   "ex": "¿Podría saber el itinerario del viaje?",
+   "exKo": "여행 일정을 알 수 있을까요?"
+  },
+  {
+   "es": "el alojamiento",
+   "ko": "숙소",
+   "ex": "¿Qué tipo de alojamiento prefieres?",
+   "exKo": "어떤 숙소가 좋아?"
+  },
+  {
+   "es": "la talla",
+   "ko": "(옷) 사이즈",
+   "ex": "¿No hay la talla 38?",
+   "exKo": "38 사이즈는 없나요?"
+  },
+  {
+   "es": "estrecho/a",
+   "ko": "꽉 끼는, 좁은",
+   "ex": "Me queda estrecha la falda.",
+   "exKo": "치마가 꽉 껴요."
+  },
+  {
+   "es": "la vuelta",
+   "ko": "거스름돈",
+   "ex": "Aquí está la vuelta.",
+   "exKo": "거스름돈 여기 있습니다."
+  },
+  {
+   "es": "la propina",
+   "ko": "팁",
+   "ex": "Hay que dejar propina en España.",
+   "exKo": "스페인에서는 팁을 놓고 가야 해요."
+  },
+  {
+   "es": "la rebaja",
+   "ko": "할인, 세일",
+   "ex": "En las Navidades hay mucha rebaja.",
+   "exKo": "크리스마스에는 세일을 많이 해요."
+  },
+  {
+   "es": "el semáforo",
+   "ko": "신호등",
+   "ex": "No funciona el semáforo.",
+   "exKo": "신호등이 고장 났어요."
+  },
+  {
+   "es": "aparcar",
+   "ko": "주차하다",
+   "ex": "No hay espacio para aparcar.",
+   "exKo": "주차할 공간이 없어요."
+  },
+  {
+   "es": "el cajero automático",
+   "ko": "현금 자동 인출기",
+   "ex": "No encuentro ningún cajero automático.",
+   "exKo": "ATM을 하나도 못 찾겠어요."
+  },
+  {
+   "es": "la cartilla",
+   "ko": "통장",
+   "ex": "¿Dónde están mis cartillas?",
+   "exKo": "내 통장들 어디 있지?"
+  },
+  {
+   "es": "domiciliar",
+   "ko": "자동이체하다",
+   "ex": "¿Me puedes enseñar cómo domiciliar?",
+   "exKo": "자동이체 어떻게 하는지 알려 줄래?"
+  },
+  {
+   "es": "el sello",
+   "ko": "우표",
+   "ex": "¿Dónde venden sellos?",
+   "exKo": "우표는 어디서 팔아요?"
+  },
+  {
+   "es": "el jarabe",
+   "ko": "시럽 약",
+   "ex": "Debe tomar este jarabe cada cinco horas.",
+   "exKo": "이 시럽을 다섯 시간마다 드셔야 해요."
+  },
+  {
+   "es": "la cicatriz",
+   "ko": "흉터",
+   "ex": "Tengo una cicatriz en la cara.",
+   "exKo": "얼굴에 흉터가 있어요."
+  },
+  {
+   "es": "constipado/a",
+   "ko": "코감기에 걸린",
+   "ex": "Mi novia está muy constipada.",
+   "exKo": "내 여자친구는 코감기가 심해요."
+  },
+  {
+   "es": "hacer escala",
+   "ko": "경유하다",
+   "ex": "El avión hace escala en Holanda.",
+   "exKo": "비행기는 네덜란드를 경유해요."
+  },
+  {
+   "es": "la puerta de embarque",
+   "ko": "탑승구",
+   "ex": "Nos vemos en la puerta de embarque.",
+   "exKo": "탑승구에서 만나요."
+  },
+  {
+   "es": "aterrizar / despegar",
+   "ko": "착륙하다 / 이륙하다",
+   "ex": "El avión está a punto de aterrizar.",
+   "exKo": "비행기가 막 착륙하려고 해요."
+  },
+  {
+   "es": "la afición",
+   "ko": "취미",
+   "ex": "¿Cuál es tu afición?",
+   "exKo": "취미가 뭐야?"
+  },
+  {
+   "es": "los dibujos animados",
+   "ko": "만화 영화",
+   "ex": "Todos los domingos veo los dibujos animados.",
+   "exKo": "나는 일요일마다 만화 영화를 봐요."
+  },
+  {
+   "es": "el saldo",
+   "ko": "잔액",
+   "ex": "No tengo saldo.",
+   "exKo": "잔액이 없어요."
+  },
+  {
+   "es": "grueso/a",
+   "ko": "두꺼운",
+   "ex": "El libro es muy grueso.",
+   "exKo": "그 책은 아주 두꺼워요."
+  },
+  {
+   "es": "echar una mano",
+   "ko": "도와주다",
+   "ex": "¿Me puedes echar una mano?",
+   "exKo": "나 좀 도와줄 수 있어?"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "«Ella es ___.» (일본 사람, 여)",
+   "options": [
+    "japonés",
+    "japonesa",
+    "japona",
+    "japonésa"
+   ],
+   "answer": 1,
+   "explain": "japonés → japonesa (여성형에서 강세 표시가 사라져요)."
+  },
+  {
+   "q": "Mi hija es ___. (게으른)",
+   "options": [
+    "perezoso",
+    "perezosa",
+    "perezosos",
+    "perezosas"
+   ],
+   "answer": 1,
+   "explain": "주어가 여성 단수 → perezosa."
+  },
+  {
+   "q": "La habitación ___ sucia.",
+   "options": [
+    "es",
+    "está",
+    "hay",
+    "tiene"
+   ],
+   "answer": 1,
+   "explain": "지금의 상태는 estar."
+  },
+  {
+   "q": "El cajero está detrás ___ hotel.",
+   "options": [
+    "de el",
+    "del",
+    "al",
+    "en el"
+   ],
+   "answer": 1,
+   "explain": "de + el = del."
+  },
+  {
+   "q": "Prefiero el café ___ té.",
+   "options": [
+    "que el",
+    "al",
+    "del",
+    "como el"
+   ],
+   "answer": 1,
+   "explain": "preferir A a B: A를 B보다 좋아하다 → al té."
+  },
+  {
+   "q": "¿A qué hora ___ la clase? (empezar)",
+   "options": [
+    "empeza",
+    "empieza",
+    "empiezan",
+    "empezamos"
+   ],
+   "answer": 1,
+   "explain": "e→ie: empieza."
+  },
+  {
+   "q": "Le ___ al camarero un café. (pedir, yo)",
+   "options": [
+    "pedo",
+    "pido",
+    "piedo",
+    "pide"
+   ],
+   "answer": 1,
+   "explain": "e→i: pido."
+  },
+  {
+   "q": "¿Cuántas horas ___ normalmente? (dormir, tú)",
+   "options": [
+    "dormes",
+    "duermes",
+    "durmes",
+    "duermen"
+   ],
+   "answer": 1,
+   "explain": "o→ue: duermes."
+  },
+  {
+   "q": "Yo ___ despierto muy temprano.",
+   "options": [
+    "se",
+    "te",
+    "me",
+    "nos"
+   ],
+   "answer": 2,
+   "explain": "재귀동사 yo → me despierto."
+  },
+  {
+   "q": "«우산»은 스페인어로?",
+   "options": [
+    "el paraguas",
+    "la sombrilla",
+    "el chubasco",
+    "la niebla"
+   ],
+   "answer": 0,
+   "explain": "paraguas는 단수·복수 같은 꼴의 남성 명사."
+  },
+  {
+   "q": "«거스름돈 여기 있습니다»",
+   "options": [
+    "Aquí está la vuelta.",
+    "Aquí está la propina.",
+    "Aquí está el recibo.",
+    "Aquí está la rebaja."
+   ],
+   "answer": 0,
+   "explain": "la vuelta = 거스름돈, la propina = 팁, el recibo = 영수증."
+  },
+  {
+   "q": "«마드리드행 왕복표 한 장 주세요»",
+   "options": [
+    "Un billete de ida para Madrid.",
+    "Un billete de ida y vuelta para Madrid, por favor.",
+    "Una vuelta a Madrid, por favor.",
+    "Un viaje de negocios a Madrid."
+   ],
+   "answer": 1,
+   "explain": "ida y vuelta = 왕복, ida = 편도."
+  },
+  {
+   "q": "El avión hace ___ en Holanda. (경유)",
+   "options": [
+    "escala",
+    "embarque",
+    "visado",
+    "venta"
+   ],
+   "answer": 0,
+   "explain": "hacer escala = 경유하다."
+  },
+  {
+   "q": "Me ___ los gallos. (수탉이 무서워요)",
+   "options": [
+    "da miedo",
+    "dan miedo",
+    "tengo miedo",
+    "doy miedo"
+   ],
+   "answer": 1,
+   "explain": "주어 los gallos가 복수 → me dan miedo."
+  },
+  {
+   "q": "¿Me puedes ___ una mano?",
+   "options": [
+    "dar",
+    "echar",
+    "hacer",
+    "poner"
+   ],
+   "answer": 1,
+   "explain": "echar una mano = 도와주다."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Día 1 · ser 동사와 국적",
+   "lines": [
+    {
+     "t": 3.1,
+     "s": "N",
+     "es": "Día 1",
+     "ko": "1일차 · ser 동사와 국적"
+    },
+    {
+     "t": 10.0,
+     "s": "W",
+     "es": "Ser · Yo soy Marga.",
+     "ko": "이다(ser 동사) · 나는 마르가예요."
+    },
+    {
+     "t": 15.4,
+     "s": "W",
+     "es": "¿Dónde? · ¿De dónde eres?",
+     "ko": "어디 · 너는 어디 출신이야?"
+    },
+    {
+     "t": 20.1,
+     "s": "W",
+     "es": "País · ¿De qué país eres?",
+     "ko": "나라 (國家) · 너는 어느 나라 사람이야?"
+    },
+    {
+     "t": 24.7,
+     "s": "W",
+     "es": "Nacionalidad · ¿Cuál es su nacionalidad?",
+     "ko": "국적 (國籍) · 국적이 어떻게 되세요?"
+    },
+    {
+     "t": 30.1,
+     "s": "W",
+     "es": "Corea · Yo soy de Corea.",
+     "ko": "한국 (韓國) · 나는 한국 출신이에요."
+    },
+    {
+     "t": 33.9,
+     "s": "W",
+     "es": "España · Ella es española.",
+     "ko": "스페인 (西班牙) · 그녀는 스페인 사람이에요."
+    },
+    {
+     "t": 39.9,
+     "s": "W",
+     "es": "China · La camisa es de China.",
+     "ko": "중국 (中國) · 그 셔츠는 중국산이에요."
+    },
+    {
+     "t": 44.8,
+     "s": "W",
+     "es": "Japón · Ella es japonesa.",
+     "ko": "일본 (日本) · 그녀는 일본 사람이에요."
+    },
+    {
+     "t": 49.9,
+     "s": "W",
+     "es": "Inglaterra · El té de Inglaterra es bueno.",
+     "ko": "영국 (英國) · 영국 차는 맛있어요."
+    },
+    {
+     "t": 55.3,
+     "s": "W",
+     "es": "Alemania · El futbolista es alemán.",
+     "ko": "독일 (獨逸) · 그 축구 선수는 독일 사람이에요."
+    },
+    {
+     "t": 60.6,
+     "s": "W",
+     "es": "Francia · El vino es de Francia.",
+     "ko": "프랑스 (佛蘭西) · 그 와인은 프랑스산이에요."
+    },
+    {
+     "t": 65.8,
+     "s": "W",
+     "es": "Estados Unidos · ¿Quién es el presidente de Estados Unidos?",
+     "ko": "미국 (美國) · 미국 대통령은 누구예요?"
+    },
+    {
+     "t": 72.1,
+     "s": "W",
+     "es": "Filipinas · Mi madre es de Filipinas.",
+     "ko": "필리핀 (比律賓) · 우리 엄마는 필리핀 출신이에요."
+    },
+    {
+     "t": 77.6,
+     "s": "W",
+     "es": "Portugal · Es difícil aprender portugués.",
+     "ko": "포르투갈 (葡萄牙) · 포르투갈어는 배우기 어려워요."
+    },
+    {
+     "t": 83.2,
+     "s": "W",
+     "es": "México · Me gusta la comida mexicana.",
+     "ko": "멕시코 (墨西哥) · 나는 멕시코 음식을 좋아해요."
+    },
+    {
+     "t": 88.6,
+     "s": "W",
+     "es": "Colombia · Colombia es famosa por el café.",
+     "ko": "콜롬비아 (哥倫比亞) · 콜롬비아는 커피로 유명해요."
+    },
+    {
+     "t": 94.2,
+     "s": "W",
+     "es": "Perú · Los peruanos son simpáticos.",
+     "ko": "페루 (秘魯) · 페루 사람들은 친절해요."
+    },
+    {
+     "t": 99.6,
+     "s": "W",
+     "es": "Venezuela · Las venezolanas son guapas.",
+     "ko": "베네수엘라 (委內瑞拉) · 베네수엘라 여자들은 예뻐요."
+    },
+    {
+     "t": 105.1,
+     "s": "W",
+     "es": "Brasil · ¿Eres brasileño?",
+     "ko": "브라질 (巴西) · 너 브라질 사람이야?"
+    },
+    {
+     "t": 109.8,
+     "s": "W",
+     "es": "Guatemala · El chico es guatemalteco.",
+     "ko": "과테말라 (瓜地馬拉) · 그 남자아이는 과테말라 사람이에요."
+    },
+    {
+     "t": 115.1,
+     "s": "W",
+     "es": "Chile · Chile es el país más largo del mundo.",
+     "ko": "칠레 (智利) · 칠레는 세계에서 가장 긴 나라예요."
+    }
+   ]
+  },
+  {
+   "title": "Día 2 · 성격 표현하기",
+   "lines": [
+    {
+     "t": 124.2,
+     "s": "N",
+     "es": "Día 2",
+     "ko": "2일차 · 성격 표현하기"
+    },
+    {
+     "t": 130.7,
+     "s": "W",
+     "es": "Carácter · El carácter es bueno.",
+     "ko": "성격 (性格) · 성격이 좋아요."
+    },
+    {
+     "t": 135.3,
+     "s": "W",
+     "es": "Personalidad · ¿Cómo es su personalidad?",
+     "ko": "인격, 개성 (人格) · 그분 성격은 어때요?"
+    },
+    {
+     "t": 140.2,
+     "s": "W",
+     "es": "Simpático/a · La profesora es muy simpática.",
+     "ko": "친절한, 상냥한 (親切) · 선생님은 아주 상냥해요."
+    },
+    {
+     "t": 147.8,
+     "s": "W",
+     "es": "Antipático/a · Él es antipático.",
+     "ko": "불친절한, 비호감인 (不親切) · 그는 불친절해요."
+    },
+    {
+     "t": 154.1,
+     "s": "W",
+     "es": "Trabajador/a · Los estudiantes son trabajadores.",
+     "ko": "부지런한 (勤勉) · 학생들은 부지런해요."
+    },
+    {
+     "t": 161.8,
+     "s": "W",
+     "es": "Perezoso/a · Mi hijo es perezoso.",
+     "ko": "게으른 (懈怠) · 우리 아들은 게을러요."
+    },
+    {
+     "t": 168.6,
+     "s": "W",
+     "es": "Arrogante · No me gusta la persona arrogante.",
+     "ko": "거만한 (傲慢) · 나는 거만한 사람을 좋아하지 않아요."
+    },
+    {
+     "t": 174.6,
+     "s": "W",
+     "es": "Sincero/a · Mi esposo es sincero.",
+     "ko": "솔직한, 성실한 (誠實) · 우리 남편은 솔직해요."
+    },
+    {
+     "t": 181.6,
+     "s": "W",
+     "es": "Agradable · Mi esposa es agradable.",
+     "ko": "유쾌한, 기분 좋은 (愉快) · 우리 아내는 함께 있으면 즐거운 사람이에요."
+    },
+    {
+     "t": 186.9,
+     "s": "W",
+     "es": "Exigente · Mi padre es un poco exigente.",
+     "ko": "까다로운, 엄격한 (嚴格) · 우리 아빠는 조금 엄격해요."
+    },
+    {
+     "t": 192.6,
+     "s": "W",
+     "es": "Hablador/a · Esa chica es habladora.",
+     "ko": "수다스러운 (多辯) · 그 여자애는 수다스러워요."
+    },
+    {
+     "t": 199.4,
+     "s": "W",
+     "es": "Mérito · ¿Cuál es tu mérito?",
+     "ko": "장점 (長點) · 너의 장점은 뭐야?"
+    },
+    {
+     "t": 204.8,
+     "s": "W",
+     "es": "Defecto · El actor no tiene defecto.",
+     "ko": "단점 (短點) · 그 배우는 단점이 없어요."
+    },
+    {
+     "t": 210.0,
+     "s": "W",
+     "es": "Serio/a · ¿Por qué estás tan serio?",
+     "ko": "진지한, 심각한 (嚴肅) · 왜 그렇게 심각해?"
+    },
+    {
+     "t": 216.2,
+     "s": "W",
+     "es": "Egoísta · ¿Eres muy egoísta?",
+     "ko": "이기적인 (利己的) · 너 정말 이기적이구나."
+    },
+    {
+     "t": 221.0,
+     "s": "W",
+     "es": "Tímido/a · Yo soy una chica un poco tímida.",
+     "ko": "수줍은 (羞怯) · 나는 조금 수줍음이 많은 여자예요."
+    },
+    {
+     "t": 228.2,
+     "s": "W",
+     "es": "Sociable · Mi novio es sociable.",
+     "ko": "사교적인 (社交的) · 내 남자친구는 사교적이에요."
+    },
+    {
+     "t": 233.3,
+     "s": "W",
+     "es": "Tacaño/a · Usted es un hombre muy tacaño.",
+     "ko": "인색한, 짠돌이 (吝嗇) · 당신은 정말 인색한 사람이군요."
+    },
+    {
+     "t": 240.3,
+     "s": "W",
+     "es": "Cortés · Su hija es muy cortés.",
+     "ko": "예의 바른 (禮儀) · 그분 딸은 아주 예의 발라요."
+    },
+    {
+     "t": 245.5,
+     "s": "W",
+     "es": "Activo/a · ¿Sus estudiantes son activos?",
+     "ko": "활발한 (活動) · 그분 학생들은 활발해요?"
+    }
+   ]
+  },
+  {
+   "title": "Día 3 · 가족과 직업",
+   "lines": [
+    {
+     "t": 256.1,
+     "s": "N",
+     "es": "Día 3",
+     "ko": "3일차 · 가족과 직업"
+    },
+    {
+     "t": 262.4,
+     "s": "W",
+     "es": "Familia · Somos una familia feliz.",
+     "ko": "가족 (家族) · 우리는 행복한 가족이에요."
+    },
+    {
+     "t": 267.9,
+     "s": "W",
+     "es": "Abuelo · ¿Cómo es tu abuelo?",
+     "ko": "할아버지 (祖父) · 너희 할아버지는 어떤 분이셔?"
+    },
+    {
+     "t": 272.0,
+     "s": "W",
+     "es": "Abuela · Mi abuela tiene 70 años.",
+     "ko": "할머니 (祖母) · 우리 할머니는 일흔 살이세요."
+    },
+    {
+     "t": 277.6,
+     "s": "W",
+     "es": "Padre · Mi padre es periodista.",
+     "ko": "아버지 (父) · 우리 아버지는 기자예요."
+    },
+    {
+     "t": 282.6,
+     "s": "W",
+     "es": "Madre · Mi madre es amable.",
+     "ko": "어머니 (母) · 우리 어머니는 친절하세요."
+    },
+    {
+     "t": 287.4,
+     "s": "W",
+     "es": "Hermano · Tengo un hermano menor.",
+     "ko": "형제, 남자 형제 (兄弟) · 나는 남동생이 한 명 있어요."
+    },
+    {
+     "t": 293.5,
+     "s": "W",
+     "es": "Hermana · Su hermana mayor es muy guapa.",
+     "ko": "자매, 여자 형제 (姉妹) · 그분 언니(누나)는 아주 예뻐요."
+    },
+    {
+     "t": 297.8,
+     "s": "W",
+     "es": "Primo/a · Ella es mi prima.",
+     "ko": "사촌 (四寸) · 그녀는 내 사촌이에요."
+    },
+    {
+     "t": 303.8,
+     "s": "W",
+     "es": "Niño/a · Los niños juegan al fútbol.",
+     "ko": "아이, 소년/소녀 (男子兒/女子兒) · 아이들이 축구를 해요."
+    },
+    {
+     "t": 310.4,
+     "s": "W",
+     "es": "Hijo · Nuestro hijo es inteligente.",
+     "ko": "아들 (兒子) · 우리 아들은 똑똑해요."
+    },
+    {
+     "t": 315.6,
+     "s": "W",
+     "es": "Hija · Tenemos una hija.",
+     "ko": "딸 (女兒) · 우리는 딸이 하나 있어요."
+    },
+    {
+     "t": 320.2,
+     "s": "W",
+     "es": "Esposo · Mi esposo trabaja mucho.",
+     "ko": "남편 (夫) · 우리 남편은 일을 많이 해요."
+    },
+    {
+     "t": 325.5,
+     "s": "W",
+     "es": "Esposa · Mi esposa cocina bien.",
+     "ko": "아내 (妻) · 우리 아내는 요리를 잘해요."
+    },
+    {
+     "t": 330.6,
+     "s": "W",
+     "es": "Profesión · ¿Cuál es su profesión?",
+     "ko": "직업 (職業) · 직업이 어떻게 되세요?"
+    },
+    {
+     "t": 335.6,
+     "s": "W",
+     "es": "Oficinista · Somos oficinistas.",
+     "ko": "회사원, 사무원 (事務員) · 우리는 회사원이에요."
+    },
+    {
+     "t": 340.1,
+     "s": "W",
+     "es": "Funcionario/a · Julio y yo somos funcionarios.",
+     "ko": "공무원 (公務員) · 훌리오와 나는 공무원이에요."
+    },
+    {
+     "t": 348.4,
+     "s": "W",
+     "es": "Médico/a · El médico es simpático.",
+     "ko": "의사 (醫師) · 그 의사는 친절해요."
+    },
+    {
+     "t": 355.4,
+     "s": "W",
+     "es": "Enfermero/a · La enfermera trabaja por la noche.",
+     "ko": "간호사 (看護師) · 그 간호사는 밤에 일해요."
+    },
+    {
+     "t": 362.8,
+     "s": "W",
+     "es": "Profesor/a · El profesor de español es de México.",
+     "ko": "선생님, 교수 (敎授) · 그 스페인어 선생님은 멕시코 출신이에요."
+    },
+    {
+     "t": 370.7,
+     "s": "W",
+     "es": "Estudiante · Hay muchos estudiantes en la clase.",
+     "ko": "학생 (學生) · 교실에 학생이 많아요."
+    },
+    {
+     "t": 376.1,
+     "s": "W",
+     "es": "Cantante · Mi cantante favorito es Alejandro.",
+     "ko": "가수 (歌手) · 내가 제일 좋아하는 가수는 알레한드로예요."
+    },
+    {
+     "t": 382.1,
+     "s": "W",
+     "es": "Abogado/a · Mi amiga es abogada.",
+     "ko": "변호사 (辯護士) · 내 친구는 변호사예요."
+    },
+    {
+     "t": 388.8,
+     "s": "W",
+     "es": "Ama de casa · Mi madre es ama de casa.",
+     "ko": "주부 (主婦) · 우리 엄마는 주부예요."
+    },
+    {
+     "t": 394.4,
+     "s": "W",
+     "es": "Policía · El policía es responsable.",
+     "ko": "경찰 (警察) · 그 경찰은 책임감이 강해요."
+    },
+    {
+     "t": 400.1,
+     "s": "W",
+     "es": "Cocinero/a · Este cocinero es muy famoso.",
+     "ko": "요리사 (料理師) · 이 요리사는 아주 유명해요."
+    },
+    {
+     "t": 407.0,
+     "s": "W",
+     "es": "Deportista · Quiero ser un deportista.",
+     "ko": "운동선수 (運動選手) · 나는 운동선수가 되고 싶어요."
+    },
+    {
+     "t": 412.4,
+     "s": "W",
+     "es": "Pintor/a · Picasso es un pintor famoso de España.",
+     "ko": "화가 (畵家) · 피카소는 스페인의 유명한 화가예요."
+    }
+   ]
+  },
+  {
+   "title": "Día 4 · 신체와 외모",
+   "lines": [
+    {
+     "t": 422.9,
+     "s": "N",
+     "es": "Día 4",
+     "ko": "4일차 · 신체와 외모"
+    },
+    {
+     "t": 429.3,
+     "s": "W",
+     "es": "Cuerpo · Me duele todo el cuerpo.",
+     "ko": "몸 (身體) · 온몸이 아파요."
+    },
+    {
+     "t": 434.8,
+     "s": "W",
+     "es": "Cabeza · Tengo dolor de cabeza.",
+     "ko": "머리 (頭) · 머리가 아파요."
+    },
+    {
+     "t": 438.8,
+     "s": "W",
+     "es": "Cara · Me lavo la cara.",
+     "ko": "얼굴 (容顔) · 나는 세수를 해요."
+    },
+    {
+     "t": 443.2,
+     "s": "W",
+     "es": "Ojo · Ella tiene los ojos grandes.",
+     "ko": "눈 (目) · 그녀는 눈이 커요."
+    },
+    {
+     "t": 449.1,
+     "s": "W",
+     "es": "Nariz · Tienes una nariz bonita.",
+     "ko": "코 (鼻) · 너는 코가 예쁘구나."
+    },
+    {
+     "t": 455.8,
+     "s": "W",
+     "es": "Boca · Abre la boca, por favor.",
+     "ko": "입 (口) · 입을 벌려 주세요."
+    },
+    {
+     "t": 459.6,
+     "s": "W",
+     "es": "Oreja · Mi perro tiene orejas pequeñas.",
+     "ko": "귀 (耳) · 우리 개는 귀가 작아요."
+    },
+    {
+     "t": 465.5,
+     "s": "W",
+     "es": "Cuello · El cuello de jirafa es largo.",
+     "ko": "목 (頸) · 기린의 목은 길어요."
+    },
+    {
+     "t": 470.6,
+     "s": "W",
+     "es": "Estómago · Nos duele el estómago.",
+     "ko": "배, 위 (胃) · 우리는 배가 아파요."
+    },
+    {
+     "t": 475.8,
+     "s": "W",
+     "es": "Mano · Me lavo las manos antes de comer.",
+     "ko": "손 (手) · 나는 밥 먹기 전에 손을 씻어요."
+    },
+    {
+     "t": 481.5,
+     "s": "W",
+     "es": "Pie · Voy a la escuela a pie.",
+     "ko": "발 (足) · 나는 걸어서 학교에 가요."
+    },
+    {
+     "t": 485.9,
+     "s": "W",
+     "es": "Pelo · Él tiene el pelo rubio.",
+     "ko": "머리카락 (髮) · 그는 금발이에요."
+    },
+    {
+     "t": 490.7,
+     "s": "W",
+     "es": "Espalda · Me pica la espalda.",
+     "ko": "등 (背) · 등이 가려워요."
+    },
+    {
+     "t": 495.8,
+     "s": "W",
+     "es": "Cintura · Mi abuela tiene dolor de cintura.",
+     "ko": "허리 (腰) · 우리 할머니는 허리가 아프세요."
+    },
+    {
+     "t": 501.5,
+     "s": "W",
+     "es": "Guapo/a · El actor es muy guapo.",
+     "ko": "잘생긴 / 예쁜 (美男/美女) · 그 배우는 정말 잘생겼어요."
+    },
+    {
+     "t": 508.0,
+     "s": "W",
+     "es": "Alto/a · Sois muy altos.",
+     "ko": "키가 큰 (高) · 너희는 정말 키가 크구나."
+    },
+    {
+     "t": 514.3,
+     "s": "W",
+     "es": "Bajo/a · Mi profesora es un poco baja.",
+     "ko": "키가 작은 (低) · 우리 선생님은 키가 조금 작아요."
+    },
+    {
+     "t": 521.2,
+     "s": "W",
+     "es": "Gordo/a · Eres más gordo que antes.",
+     "ko": "뚱뚱한 (肥滿) · 너 예전보다 살쪘구나."
+    },
+    {
+     "t": 527.8,
+     "s": "W",
+     "es": "Delgado/a · Esa actriz es delgada.",
+     "ko": "마른, 날씬한 (憔悴) · 그 여배우는 날씬해요."
+    },
+    {
+     "t": 534.7,
+     "s": "W",
+     "es": "Mono/a · Los niños son monos.",
+     "ko": "귀여운 (可愛) · 아이들이 귀여워요."
+    },
+    {
+     "t": 541.1,
+     "s": "W",
+     "es": "Feo/a · No eres feo como piensas.",
+     "ko": "못생긴 (醜) · 너는 네 생각만큼 못생기지 않았어."
+    }
+   ]
+  },
+  {
+   "title": "Día 5 · estar 동사 · 상태 표현",
+   "lines": [
+    {
+     "t": 550.4,
+     "s": "N",
+     "es": "Día 5",
+     "ko": "5일차 · estar 동사 · 상태 표현"
+    },
+    {
+     "t": 557.5,
+     "s": "W",
+     "es": "Feliz · Feliz Navidad.",
+     "ko": "행복한 (幸福) · 메리 크리스마스."
+    },
+    {
+     "t": 561.8,
+     "s": "W",
+     "es": "Contento/a · La profesora está contenta.",
+     "ko": "만족한, 기쁜 (滿足) · 선생님은 기뻐하세요."
+    },
+    {
+     "t": 569.0,
+     "s": "W",
+     "es": "Triste · ¿Por qué estás triste?",
+     "ko": "슬픈 (悲哀) · 왜 슬퍼?"
+    },
+    {
+     "t": 574.0,
+     "s": "W",
+     "es": "Deprimido/a · Ellos están deprimidos por el resultado.",
+     "ko": "우울한 (憂鬱) · 그들은 결과 때문에 우울해해요."
+    },
+    {
+     "t": 581.8,
+     "s": "W",
+     "es": "Cansado/a · Mi padre está cansado por el trabajo.",
+     "ko": "피곤한 (疲困) · 우리 아빠는 일 때문에 피곤하세요."
+    },
+    {
+     "t": 589.4,
+     "s": "W",
+     "es": "Solo/a · Estos días estoy solo.",
+     "ko": "혼자인, 외로운 (獨自) · 요즘 나는 외로워요."
+    },
+    {
+     "t": 595.9,
+     "s": "W",
+     "es": "Ocupado/a · La actriz está muy ocupada.",
+     "ko": "바쁜 (忙) · 그 여배우는 아주 바빠요."
+    },
+    {
+     "t": 603.1,
+     "s": "W",
+     "es": "Preocupado/a · Mis padres están preocupados por mí.",
+     "ko": "걱정하는 (心配) · 부모님은 나를 걱정하세요."
+    },
+    {
+     "t": 610.8,
+     "s": "W",
+     "es": "Nervioso/a · Estoy nerviosa por el examen.",
+     "ko": "긴장한 (不安) · 시험 때문에 긴장돼요."
+    },
+    {
+     "t": 618.3,
+     "s": "W",
+     "es": "Asombrado/a · Estamos asombrados de la noticia.",
+     "ko": "놀란 (驚愕) · 우리는 그 소식에 깜짝 놀랐어요."
+    },
+    {
+     "t": 625.2,
+     "s": "W",
+     "es": "Melancólico/a · Vosotros estáis tan melancólicos.",
+     "ko": "우울한, 쓸쓸한 (憂愁) · 너희는 정말 울적해 보이는구나."
+    },
+    {
+     "t": 633.4,
+     "s": "W",
+     "es": "Enfadado/a · Mi novia está muy enfadada.",
+     "ko": "화난 (스페인) (憤怒) · 내 여자친구는 엄청 화가 났어요."
+    },
+    {
+     "t": 640.5,
+     "s": "W",
+     "es": "Enojado/a · ¿Por qué está usted tan enojado?",
+     "ko": "화난 (중남미) (憤怒) · 왜 그렇게 화가 나셨어요?"
+    },
+    {
+     "t": 648.1,
+     "s": "W",
+     "es": "Enfermo/a · ¿Todavía estás enferma?",
+     "ko": "아픈 (疾病) · 아직도 아파?"
+    },
+    {
+     "t": 653.4,
+     "s": "W",
+     "es": "Tranquilo/a · Estarás tranquilo después de tomarte.",
+     "ko": "차분한, 평온한 (安靜) · 그거 먹고 나면 마음이 편해질 거야."
+    },
+    {
+     "t": 662.3,
+     "s": "W",
+     "es": "Inquieto/a · No estéis inquietas.",
+     "ko": "불안한, 안절부절못하는 (不安) · 너희 불안해하지 마."
+    },
+    {
+     "t": 668.5,
+     "s": "W",
+     "es": "Celoso/a · Mi novio está celoso.",
+     "ko": "질투하는 (猜忌) · 내 남자친구는 질투하고 있어요."
+    },
+    {
+     "t": 675.1,
+     "s": "W",
+     "es": "Sucio/a · La habitación está sucia.",
+     "ko": "더러운 (汚濁) · 방이 더러워요."
+    },
+    {
+     "t": 681.9,
+     "s": "W",
+     "es": "Limpio/a · El espejo está limpio.",
+     "ko": "깨끗한 (淸潔) · 거울이 깨끗해요."
+    },
+    {
+     "t": 688.6,
+     "s": "W",
+     "es": "Roto/a · El libro está roto.",
+     "ko": "깨진, 찢어진 (破損) · 책이 찢어졌어요."
+    },
+    {
+     "t": 694.8,
+     "s": "W",
+     "es": "Vergüenza · Me da vergüenza hablar en público.",
+     "ko": "부끄러움 (羞恥) · 사람들 앞에서 말하는 게 부끄러워요."
+    },
+    {
+     "t": 700.5,
+     "s": "W",
+     "es": "Agotado/a · Ya estoy agotada.",
+     "ko": "지친 (渴乏) · 나 이제 녹초가 됐어."
+    },
+    {
+     "t": 707.1,
+     "s": "W",
+     "es": "Ordenado/a · La clase está ordenada.",
+     "ko": "정돈된 (整頓) · 교실이 정돈되어 있어요."
+    },
+    {
+     "t": 714.1,
+     "s": "W",
+     "es": "Mareado/a · ¿Estás mareado?",
+     "ko": "어지러운, 멀미 나는 (眩氣) · 너 어지러워?"
+    },
+    {
+     "t": 720.3,
+     "s": "W",
+     "es": "Aburrido/a · Estoy más aburrida que una ostra.",
+     "ko": "지루한 (無聊) · 나는 너무너무 지루해. (굴처럼 지루하다는 관용 표현)"
+    },
+    {
+     "t": 728.0,
+     "s": "W",
+     "es": "Abierto/a · La farmacia está abierta ahora.",
+     "ko": "열린 (開放) · 약국이 지금 열려 있어요."
+    },
+    {
+     "t": 735.2,
+     "s": "W",
+     "es": "Cerrado/a · El banco está cerrado a esta hora.",
+     "ko": "닫힌 (閉鎖) · 은행은 이 시간에 닫혀 있어요."
+    },
+    {
+     "t": 742.7,
+     "s": "W",
+     "es": "Borracho/a · ¿Estáis muy borrachos?",
+     "ko": "술 취한 (醉) · 너희 많이 취했니?"
+    }
+   ]
+  },
+  {
+   "title": "Día 6 · 방향과 위치",
+   "lines": [
+    {
+     "t": 752.8,
+     "s": "N",
+     "es": "Día 6",
+     "ko": "6일차 · 방향과 위치"
+    },
+    {
+     "t": 758.8,
+     "s": "W",
+     "es": "Encima de · El libro está encima de la cama.",
+     "ko": "~의 위에 (上) · 책이 침대 위에 있어요."
+    },
+    {
+     "t": 764.9,
+     "s": "W",
+     "es": "Debajo de · Hay un gato debajo de la silla.",
+     "ko": "~의 아래에 (下) · 의자 밑에 고양이가 있어요."
+    },
+    {
+     "t": 771.9,
+     "s": "W",
+     "es": "Dentro de · ¿Qué hay dentro de la caja?",
+     "ko": "~의 안에 (內) · 상자 안에 뭐가 있어?"
+    },
+    {
+     "t": 775.0,
+     "s": "W",
+     "es": "Fuera de · Tienes que fumar fuera del edificio.",
+     "ko": "~의 밖에 (外) · 담배는 건물 밖에서 피워야 해요."
+    },
+    {
+     "t": 780.6,
+     "s": "W",
+     "es": "Delante de · ¿Quién es ese chico delante de Elena?",
+     "ko": "~의 앞에 (前) · 엘레나 앞에 있는 그 남자애는 누구야?"
+    },
+    {
+     "t": 786.6,
+     "s": "W",
+     "es": "Enfrente de · El cine está enfrente del banco.",
+     "ko": "~의 맞은편에 (對面) · 영화관은 은행 맞은편에 있어요."
+    },
+    {
+     "t": 791.2,
+     "s": "W",
+     "es": "Detrás de · El cajero está detrás del hotel.",
+     "ko": "~의 뒤에 (後) · ATM은 호텔 뒤에 있어요."
+    },
+    {
+     "t": 799.9,
+     "s": "W",
+     "es": "Derecha · Mi madre está a la derecha de mi padre.",
+     "ko": "오른쪽 (右) · 엄마는 아빠 오른쪽에 있어요."
+    },
+    {
+     "t": 804.5,
+     "s": "W",
+     "es": "Izquierda · Mi coche está a la izquierda de la casa.",
+     "ko": "왼쪽 (左) · 내 차는 집 왼쪽에 있어요."
+    },
+    {
+     "t": 810.6,
+     "s": "W",
+     "es": "Fondo · El baño está al fondo del pasillo.",
+     "ko": "안쪽, 끝 (末端) · 화장실은 복도 끝에 있어요."
+    },
+    {
+     "t": 816.4,
+     "s": "W",
+     "es": "Al lado de · Hay una iglesia al lado de mi casa.",
+     "ko": "~의 옆에 (傍) · 우리 집 옆에 성당이 있어요."
+    },
+    {
+     "t": 822.3,
+     "s": "W",
+     "es": "Cerca de · Hay un restaurante cerca de aquí.",
+     "ko": "~의 가까이에 (近) · 이 근처에 식당이 있어요."
+    },
+    {
+     "t": 827.9,
+     "s": "W",
+     "es": "Lejos de · La catedral está lejos de aquí.",
+     "ko": "~에서 먼 (遠) · 대성당은 여기서 멀어요."
+    },
+    {
+     "t": 834.8,
+     "s": "W",
+     "es": "Esquina · Hay una cafetería en la esquina.",
+     "ko": "모퉁이 (角) · 모퉁이에 카페가 있어요."
+    },
+    {
+     "t": 840.0,
+     "s": "W",
+     "es": "Este · El mar del este de Corea es muy bonito.",
+     "ko": "동쪽 (東) · 한국의 동해는 아주 아름다워요."
+    },
+    {
+     "t": 844.9,
+     "s": "W",
+     "es": "Oeste · Portugal está al oeste de España.",
+     "ko": "서쪽 (西) · 포르투갈은 스페인 서쪽에 있어요."
+    },
+    {
+     "t": 850.4,
+     "s": "W",
+     "es": "Sur · Yo soy de Corea del Sur.",
+     "ko": "남쪽 (南) · 나는 남한 출신이에요."
+    },
+    {
+     "t": 855.7,
+     "s": "W",
+     "es": "Norte · Ella es del norte de España.",
+     "ko": "북쪽 (北) · 그녀는 스페인 북부 출신이에요."
+    },
+    {
+     "t": 860.7,
+     "s": "W",
+     "es": "Aquí · Hay mucha gente aquí.",
+     "ko": "여기 · 여기에 사람이 많아요."
+    },
+    {
+     "t": 865.4,
+     "s": "W",
+     "es": "Ahí · ¿Qué hora es ahí?",
+     "ko": "거기 · 거기는 몇 시야?"
+    },
+    {
+     "t": 869.4,
+     "s": "W",
+     "es": "Allí · Mi hermano está allí.",
+     "ko": "저기 · 우리 형은 저기에 있어요."
+    }
+   ]
+  },
+  {
+   "title": "Día 7 · -ar · -er · -ir 규칙 동사",
+   "lines": [
+    {
+     "t": 876.0,
+     "s": "N",
+     "es": "Día 7",
+     "ko": "7일차 · -ar · -er · -ir 규칙 동사"
+    },
+    {
+     "t": 884.4,
+     "s": "W",
+     "es": "Cantar · Amalia canta bien.",
+     "ko": "노래하다 (歌唱) · 아말리아는 노래를 잘해요."
+    },
+    {
+     "t": 889.3,
+     "s": "W",
+     "es": "Trabajar · Nosotros trabajamos mucho.",
+     "ko": "일하다 (勞動) · 우리는 일을 많이 해요."
+    },
+    {
+     "t": 894.3,
+     "s": "W",
+     "es": "Estudiar · Yo estudio español.",
+     "ko": "공부하다 (學習) · 나는 스페인어를 공부해요."
+    },
+    {
+     "t": 899.2,
+     "s": "W",
+     "es": "Tomar · Yo quiero tomar una hamburguesa.",
+     "ko": "마시다, 먹다, 타다 (飮用) · 햄버거 먹고 싶어요."
+    },
+    {
+     "t": 905.1,
+     "s": "W",
+     "es": "Comprar · Mi padre compra un coche nuevo.",
+     "ko": "사다 (購買) · 아빠가 새 차를 사요."
+    },
+    {
+     "t": 909.9,
+     "s": "W",
+     "es": "Andar · ¿Te gusta andar?",
+     "ko": "걷다 (步行) · 걷는 거 좋아해?"
+    },
+    {
+     "t": 914.6,
+     "s": "W",
+     "es": "Pasear · Vamos a pasear por el parque.",
+     "ko": "산책하다 (散策) · 공원에 산책하러 가자."
+    },
+    {
+     "t": 919.6,
+     "s": "W",
+     "es": "Viajar · Ellos viajan a España.",
+     "ko": "여행하다 (旅行) · 그들은 스페인으로 여행 가요."
+    },
+    {
+     "t": 925.5,
+     "s": "W",
+     "es": "Desear · Deseamos hablar en coreano.",
+     "ko": "바라다, 원하다 (希望) · 우리는 한국어로 말하고 싶어요."
+    },
+    {
+     "t": 930.5,
+     "s": "W",
+     "es": "Beber · ¿Qué quieres beber?",
+     "ko": "마시다 (飮用) · 뭐 마실래?"
+    },
+    {
+     "t": 935.2,
+     "s": "W",
+     "es": "Aprender · ¿Aprendéis japonés estos días?",
+     "ko": "배우다 (學習) · 너희 요즘 일본어 배우니?"
+    },
+    {
+     "t": 940.7,
+     "s": "W",
+     "es": "Comprender · Yo no comprendo nada.",
+     "ko": "이해하다 (理解) · 나는 하나도 이해 못 하겠어요."
+    },
+    {
+     "t": 945.4,
+     "s": "W",
+     "es": "Correr · El futbolista corre rápidamente.",
+     "ko": "달리다 (疾走) · 그 축구 선수는 빨리 달려요."
+    },
+    {
+     "t": 951.4,
+     "s": "W",
+     "es": "Leer · Mi padre lee periódico.",
+     "ko": "읽다 (讀書) · 아빠가 신문을 읽어요."
+    },
+    {
+     "t": 956.4,
+     "s": "W",
+     "es": "Vender · Ella vende fruta.",
+     "ko": "팔다 (販賣) · 그녀는 과일을 팔아요."
+    },
+    {
+     "t": 961.5,
+     "s": "W",
+     "es": "Abrir · Mi abuela abre la puerta.",
+     "ko": "열다 (開放) · 할머니가 문을 열어요."
+    },
+    {
+     "t": 966.2,
+     "s": "W",
+     "es": "Escribir · Mi novio escribe una carta.",
+     "ko": "쓰다 (記錄) · 내 남자친구가 편지를 써요."
+    },
+    {
+     "t": 971.6,
+     "s": "W",
+     "es": "Subir · ¿Te gusta subir a la montaña?",
+     "ko": "오르다, 올라가다 (上昇) · 등산 좋아해?"
+    },
+    {
+     "t": 976.8,
+     "s": "W",
+     "es": "Compartir · Yo comparto piso con los españoles.",
+     "ko": "공유하다, 함께 쓰다 (共有) · 나는 스페인 사람들과 집을 같이 써요."
+    },
+    {
+     "t": 983.1,
+     "s": "W",
+     "es": "Repartir · Puedes repartir estos libros.",
+     "ko": "나누어 주다 (配分) · 이 책들 좀 나눠 줄 수 있어?"
+    },
+    {
+     "t": 988.1,
+     "s": "W",
+     "es": "Convivir · Convivir no es fácil.",
+     "ko": "함께 살다 (共生) · 같이 사는 건 쉽지 않아요."
+    },
+    {
+     "t": 993.2,
+     "s": "W",
+     "es": "Decidir · No puedo decidir nada.",
+     "ko": "결정하다 (決定) · 나는 아무것도 결정을 못 하겠어요."
+    },
+    {
+     "t": 998.2,
+     "s": "W",
+     "es": "Coger · Siempre cojo metro para ir a casa.",
+     "ko": "잡다, 타다 (스페인) (把握) · 나는 항상 지하철을 타고 집에 가요."
+    }
+   ]
+  },
+  {
+   "title": "Día 8 · 어간 변화 동사 ① e→ie",
+   "lines": [
+    {
+     "t": 1008.3,
+     "s": "N",
+     "es": "Día 8",
+     "ko": "8일차 · 어간 변화 동사 ① e→ie"
+    },
+    {
+     "t": 1014.3,
+     "s": "W",
+     "es": "Empezar · ¿A qué hora empieza la clase?",
+     "ko": "시작하다 (開始) · 수업은 몇 시에 시작해요?"
+    },
+    {
+     "t": 1019.6,
+     "s": "W",
+     "es": "Comenzar · La película comienza a las 5.",
+     "ko": "시작하다 (開始) · 영화는 5시에 시작해요."
+    },
+    {
+     "t": 1024.4,
+     "s": "W",
+     "es": "Pensar · Pienso en ti.",
+     "ko": "생각하다 (思考) · 너를 생각해."
+    },
+    {
+     "t": 1029.8,
+     "s": "W",
+     "es": "Preferir · Prefiero el café al té.",
+     "ko": "더 좋아하다 (選好) · 나는 차보다 커피가 좋아요."
+    },
+    {
+     "t": 1034.0,
+     "s": "W",
+     "es": "Querer · Queremos estudiar español.",
+     "ko": "원하다, 사랑하다 (願) · 우리는 스페인어를 공부하고 싶어요."
+    },
+    {
+     "t": 1039.0,
+     "s": "W",
+     "es": "Entender · No entiendo nada.",
+     "ko": "이해하다 (理解) · 하나도 이해가 안 돼요."
+    },
+    {
+     "t": 1043.9,
+     "s": "W",
+     "es": "Cerrar · Puedes cerrar la ventana.",
+     "ko": "닫다 (閉鎖) · 창문 좀 닫아 줄래?"
+    },
+    {
+     "t": 1049.1,
+     "s": "W",
+     "es": "Despertar · Mi mamá me despierta a las 6.",
+     "ko": "깨우다 (覺醒) · 엄마가 6시에 나를 깨워요."
+    },
+    {
+     "t": 1054.7,
+     "s": "W",
+     "es": "Regar · Tengo que regar las flores.",
+     "ko": "물을 주다 (灌水) · 꽃에 물을 줘야 해요."
+    },
+    {
+     "t": 1060.1,
+     "s": "W",
+     "es": "Tener · ¿Cuántos años tienes?",
+     "ko": "가지다 (所有) · 몇 살이야?"
+    },
+    {
+     "t": 1064.7,
+     "s": "W",
+     "es": "Venir · Ellos vienen mañana.",
+     "ko": "오다 (來) · 그들은 내일 와요."
+    },
+    {
+     "t": 1069.7,
+     "s": "W",
+     "es": "Divertirse · Nos divertimos en la fiesta.",
+     "ko": "즐기다, 즐겁게 놀다 (樂) · 우리는 파티에서 즐겁게 놀아요."
+    },
+    {
+     "t": 1075.3,
+     "s": "W",
+     "es": "Convertir · Este convierte el sol en la electricidad.",
+     "ko": "바꾸다, 변환하다 (變換) · 이것은 햇빛을 전기로 바꿔요."
+    },
+    {
+     "t": 1081.4,
+     "s": "W",
+     "es": "Mentir · Vosotros mentís mucho.",
+     "ko": "거짓말하다 (妄言) · 너희는 거짓말을 많이 해."
+    },
+    {
+     "t": 1085.8,
+     "s": "W",
+     "es": "Perder · No quiero perder la esperanza.",
+     "ko": "잃다 (喪失) · 희망을 잃고 싶지 않아요."
+    },
+    {
+     "t": 1091.4,
+     "s": "W",
+     "es": "Nevar · Nieva mucho en invierno.",
+     "ko": "눈이 오다 (雪) · 겨울에 눈이 많이 와요."
+    },
+    {
+     "t": 1096.3,
+     "s": "W",
+     "es": "Merendar · Meriendo dos veces al día.",
+     "ko": "간식을 먹다 (間食) · 나는 하루에 두 번 간식을 먹어요."
+    },
+    {
+     "t": 1101.7,
+     "s": "W",
+     "es": "Fregar · Mi padre friega los platos los fines de semana.",
+     "ko": "닦다, 설거지하다 (洗滌) · 아빠가 주말마다 설거지를 해요."
+    },
+    {
+     "t": 1109.5,
+     "s": "W",
+     "es": "Sentir · Lo siento mucho.",
+     "ko": "느끼다 (感覺) · 정말 미안해요."
+    },
+    {
+     "t": 1113.2,
+     "s": "W",
+     "es": "Encender · Puedo encender la luz.",
+     "ko": "켜다 (點火) · 불을 켜도 돼요."
+    },
+    {
+     "t": 1118.3,
+     "s": "W",
+     "es": "Calentar · Ella calienta la leche.",
+     "ko": "데우다 (加熱) · 그녀가 우유를 데워요."
+    }
+   ]
+  },
+  {
+   "title": "Día 9 · 어간 변화 동사 ② e→i",
+   "lines": [
+    {
+     "t": 1127.0,
+     "s": "N",
+     "es": "Día 9",
+     "ko": "9일차 · 어간 변화 동사 ② e→i"
+    },
+    {
+     "t": 1133.6,
+     "s": "W",
+     "es": "Pedir · Le pido al camarero un café.",
+     "ko": "요청하다, 주문하다 (要請) · 나는 웨이터에게 커피를 한 잔 부탁해요."
+    },
+    {
+     "t": 1138.6,
+     "s": "W",
+     "es": "Competir · Los estudiantes compiten mucho.",
+     "ko": "경쟁하다 (競爭) · 학생들이 치열하게 경쟁해요."
+    },
+    {
+     "t": 1145.0,
+     "s": "W",
+     "es": "Seguir · El invierno sigue al otoño.",
+     "ko": "뒤따르다, 계속하다 (繼續) · 가을 다음에 겨울이 와요."
+    },
+    {
+     "t": 1149.9,
+     "s": "W",
+     "es": "Conseguir · Es difícil conseguir la fama.",
+     "ko": "얻다, 이루다 (獲得) · 명성을 얻기는 어려워요."
+    },
+    {
+     "t": 1155.6,
+     "s": "W",
+     "es": "Servir · El camarero sirve un café al cliente.",
+     "ko": "대접하다, 제공하다 (奉仕) · 웨이터가 손님에게 커피를 내와요."
+    },
+    {
+     "t": 1161.6,
+     "s": "W",
+     "es": "Elegir · Ella elige una corbata roja.",
+     "ko": "고르다 (選擇) · 그녀는 빨간 넥타이를 골라요."
+    },
+    {
+     "t": 1167.1,
+     "s": "W",
+     "es": "Repetir · ¿Puedes repetir la pregunta?",
+     "ko": "반복하다 (反復) · 질문을 다시 해 줄 수 있어?"
+    },
+    {
+     "t": 1172.6,
+     "s": "W",
+     "es": "Decir · Mi novio siempre dice la verdad.",
+     "ko": "말하다 (話) · 내 남자친구는 항상 진실을 말해요."
+    },
+    {
+     "t": 1177.6,
+     "s": "W",
+     "es": "Despedir · Ya es la hora de despedir.",
+     "ko": "작별하다, 배웅하다 (告別) · 이제 헤어질 시간이에요."
+    },
+    {
+     "t": 1182.9,
+     "s": "W",
+     "es": "Vestir · Ella le viste la ropa a su bebé.",
+     "ko": "옷을 입히다 (着衣) · 그녀는 아기에게 옷을 입혀요."
+    },
+    {
+     "t": 1188.3,
+     "s": "W",
+     "es": "Medir · ¿Cuánto mides?",
+     "ko": "재다 (測定) · 키가 몇이야?"
+    },
+    {
+     "t": 1192.3,
+     "s": "W",
+     "es": "Freír · El cocinero fríe las patatas.",
+     "ko": "튀기다 (油煎) · 요리사가 감자를 튀겨요."
+    },
+    {
+     "t": 1199.0,
+     "s": "W",
+     "es": "Reírse · Las niñas se ríen.",
+     "ko": "웃다 (笑) · 여자아이들이 웃어요."
+    },
+    {
+     "t": 1202.9,
+     "s": "W",
+     "es": "Sonreír · La profesora sonríe hacia nosotros.",
+     "ko": "미소 짓다 (微笑) · 선생님이 우리에게 미소 지어요."
+    }
+   ]
+  },
+  {
+   "title": "Día 10 · 어간 변화 동사 ③ o→ue",
+   "lines": [
+    {
+     "t": 1212.5,
+     "s": "N",
+     "es": "Día 10",
+     "ko": "10일차 · 어간 변화 동사 ③ o→ue"
+    },
+    {
+     "t": 1218.8,
+     "s": "W",
+     "es": "Jugar · Juego al fútbol con mis amigos.",
+     "ko": "놀다, (운동을) 하다 (遊戱) · 나는 친구들과 축구를 해요."
+    },
+    {
+     "t": 1224.4,
+     "s": "W",
+     "es": "Poder · ¿Puedo cerrar la ventana?",
+     "ko": "~할 수 있다 (可能) · 창문 닫아도 돼요?"
+    },
+    {
+     "t": 1229.2,
+     "s": "W",
+     "es": "Dormir · ¿Cuántas horas duermes normalmente?",
+     "ko": "자다 (睡眠) · 보통 몇 시간 자?"
+    },
+    {
+     "t": 1234.3,
+     "s": "W",
+     "es": "Morir · Si no comes nada, puedes morir.",
+     "ko": "죽다 (死亡) · 아무것도 안 먹으면 죽을 수도 있어."
+    },
+    {
+     "t": 1240.4,
+     "s": "W",
+     "es": "Volver · ¿Cuándo vuelves a Corea?",
+     "ko": "돌아가다 (歸還) · 한국에 언제 돌아가?"
+    },
+    {
+     "t": 1245.2,
+     "s": "W",
+     "es": "Costar · ¿Cuánto cuesta esta camisa?",
+     "ko": "(값이) 나가다 (費用) · 이 셔츠 얼마예요?"
+    },
+    {
+     "t": 1250.3,
+     "s": "W",
+     "es": "Llover · Llueve mucho ahora.",
+     "ko": "비가 오다 (雨) · 지금 비가 많이 와요."
+    },
+    {
+     "t": 1256.6,
+     "s": "W",
+     "es": "Encontrar · No encuentro mis gafas.",
+     "ko": "찾다, 발견하다 (發見) · 안경을 못 찾겠어요."
+    },
+    {
+     "t": 1261.2,
+     "s": "W",
+     "es": "Volar · Quiero volar algún día.",
+     "ko": "날다 (飛行) · 언젠가 하늘을 날고 싶어요."
+    },
+    {
+     "t": 1266.0,
+     "s": "W",
+     "es": "Mostrar · Ella muestra su coche nuevo.",
+     "ko": "보여 주다 (展示) · 그녀가 새 차를 보여 줘요."
+    },
+    {
+     "t": 1271.2,
+     "s": "W",
+     "es": "Resolver · El jefe resuelve el problema.",
+     "ko": "해결하다 (解決) · 사장이 문제를 해결해요."
+    },
+    {
+     "t": 1277.0,
+     "s": "W",
+     "es": "Doler · Me duele el estómago.",
+     "ko": "아프다 (痛症) · 배가 아파요."
+    },
+    {
+     "t": 1282.0,
+     "s": "W",
+     "es": "Aprobar · Puedes aprobar el examen.",
+     "ko": "합격하다 (合格) · 너는 시험에 붙을 수 있어."
+    },
+    {
+     "t": 1287.5,
+     "s": "W",
+     "es": "Recordar · Todavía te recuerdo.",
+     "ko": "기억하다 (記憶) · 아직도 너를 기억해."
+    }
+   ]
+  },
+  {
+   "title": "Día 11 · 하루 일과 (재귀동사)",
+   "lines": [
+    {
+     "t": 1295.2,
+     "s": "N",
+     "es": "Día 11",
+     "ko": "11일차 · 하루 일과 (재귀동사)"
+    },
+    {
+     "t": 1301.3,
+     "s": "W",
+     "es": "Despertarse · Yo me despierto muy temprano.",
+     "ko": "잠에서 깨다 (起天) · 나는 아주 일찍 깨요."
+    },
+    {
+     "t": 1306.7,
+     "s": "W",
+     "es": "Levantarse · ¿A qué hora te levantas?",
+     "ko": "일어나다 (起立) · 몇 시에 일어나?"
+    },
+    {
+     "t": 1312.4,
+     "s": "W",
+     "es": "Lavarse · Me lavo las manos antes de comer.",
+     "ko": "씻다 (洗滌) · 나는 밥 먹기 전에 손을 씻어요."
+    },
+    {
+     "t": 1318.7,
+     "s": "W",
+     "es": "Cepillarse · Ella se cepilla los dientes.",
+     "ko": "양치하다, 빗다 (刷質) · 그녀는 이를 닦아요."
+    },
+    {
+     "t": 1323.8,
+     "s": "W",
+     "es": "Vestirse · Me visto un traje.",
+     "ko": "옷을 입다 (着衣) · 나는 정장을 입어요."
+    },
+    {
+     "t": 1328.7,
+     "s": "W",
+     "es": "Ir · Vamos a la escuela.",
+     "ko": "가다 (去) · 학교에 가자."
+    },
+    {
+     "t": 1333.2,
+     "s": "W",
+     "es": "Venir · Mis padres vienen mañana.",
+     "ko": "오다 · 부모님이 내일 오세요."
+    },
+    {
+     "t": 1338.5,
+     "s": "W",
+     "es": "Saludar · Nos saludamos cortésmente.",
+     "ko": "인사하다 (人事) · 우리는 정중하게 인사해요."
+    },
+    {
+     "t": 1343.9,
+     "s": "W",
+     "es": "Desayunar · ¿Qué desayuna usted normalmente?",
+     "ko": "아침을 먹다 (朝食) · 보통 아침으로 뭘 드세요?"
+    },
+    {
+     "t": 1350.0,
+     "s": "W",
+     "es": "Comer · Nosotros comemos en un restaurante.",
+     "ko": "점심을 먹다, 먹다 (午食) · 우리는 식당에서 점심을 먹어요."
+    },
+    {
+     "t": 1355.7,
+     "s": "W",
+     "es": "Cenar · Vamos a cenar juntos.",
+     "ko": "저녁을 먹다 (夕食) · 같이 저녁 먹자."
+    },
+    {
+     "t": 1361.0,
+     "s": "W",
+     "es": "Ver · Yo veo la televisión con mi familia.",
+     "ko": "보다 (視) · 나는 가족과 TV를 봐요."
+    },
+    {
+     "t": 1366.7,
+     "s": "W",
+     "es": "Escuchar · Me gusta escuchar música.",
+     "ko": "듣다 (聽) · 나는 음악 듣는 걸 좋아해요."
+    },
+    {
+     "t": 1372.0,
+     "s": "W",
+     "es": "Leer · Mi padre lee el periódico todos los días.",
+     "ko": "읽다 · 아빠는 매일 신문을 읽어요."
+    },
+    {
+     "t": 1378.1,
+     "s": "W",
+     "es": "Ducharse · Me ducho todas las noches.",
+     "ko": "샤워하다 (沐浴) · 나는 매일 밤 샤워해요."
+    },
+    {
+     "t": 1383.6,
+     "s": "W",
+     "es": "Bañarse · Queremos bañarnos en el mar.",
+     "ko": "목욕하다, 물놀이하다 (沐浴) · 우리는 바다에서 수영하고 싶어요."
+    },
+    {
+     "t": 1389.5,
+     "s": "W",
+     "es": "Maquillarse · Mi novia siempre se maquilla.",
+     "ko": "화장하다 (化裝) · 내 여자친구는 항상 화장을 해요."
+    },
+    {
+     "t": 1395.4,
+     "s": "W",
+     "es": "Estudiar · Vamos a estudiar español.",
+     "ko": "단장하다, 꾸미다 · 우리 딸은 준비하는 데 시간이 오래 걸려요."
+    },
+    {
+     "t": 1400.1,
+     "s": "W",
+     "es": "Arreglarse · Mi hija tarda mucho tiempo en arreglarse.",
+     "ko": "공부하다 (整理) · 스페인어 공부하자."
+    },
+    {
+     "t": 1406.4,
+     "s": "W",
+     "es": "Acostarse · Yo me acuesto a las 11.",
+     "ko": "잠자리에 들다 (就寢) · 나는 11시에 자요."
+    },
+    {
+     "t": 1412.0,
+     "s": "W",
+     "es": "Dormir · ¿Cuántas horas duermes normalmente?",
+     "ko": "자다 · 보통 몇 시간 자?"
+    }
+   ]
+  },
+  {
+   "title": "Día 12 · 학교",
+   "lines": [
+    {
+     "t": 1420.7,
+     "s": "N",
+     "es": "Día 12",
+     "ko": "12일차 · 학교"
+    },
+    {
+     "t": 1427.0,
+     "s": "W",
+     "es": "Escuela · Voy a la escuela.",
+     "ko": "학교 (學校) · 나는 학교에 가요."
+    },
+    {
+     "t": 1431.7,
+     "s": "W",
+     "es": "Estudiante · Los estudiantes son buenos.",
+     "ko": "학생 · 학생들이 착해요."
+    },
+    {
+     "t": 1437.7,
+     "s": "W",
+     "es": "Profesor/a · La profesora es inteligente.",
+     "ko": "선생님 (敎授) · 그 선생님은 똑똑해요."
+    },
+    {
+     "t": 1444.7,
+     "s": "W",
+     "es": "Tarea · Hoy no hay tarea.",
+     "ko": "숙제 (宿題) · 오늘은 숙제가 없어요."
+    },
+    {
+     "t": 1449.4,
+     "s": "W",
+     "es": "Entrar · Ella va a entrar en la universidad.",
+     "ko": "들어가다, 입학하다 (入學) · 그녀는 대학에 입학할 거예요."
+    },
+    {
+     "t": 1454.7,
+     "s": "W",
+     "es": "Graduarse · Yo me gradúo este febrero.",
+     "ko": "졸업하다 (卒業) · 나는 이번 2월에 졸업해요."
+    },
+    {
+     "t": 1460.3,
+     "s": "W",
+     "es": "Enseñar · Él enseña español.",
+     "ko": "가르치다 (敎育) · 그는 스페인어를 가르쳐요."
+    },
+    {
+     "t": 1465.7,
+     "s": "W",
+     "es": "Clase · La clase está limpia.",
+     "ko": "수업, 교실 (授業) · 교실이 깨끗해요."
+    },
+    {
+     "t": 1470.2,
+     "s": "W",
+     "es": "Aula · ¿Dónde está el aula 201?",
+     "ko": "강의실 (敎室) · 201호 강의실은 어디예요?"
+    },
+    {
+     "t": 1476.1,
+     "s": "W",
+     "es": "Asignatura · ¿Cuál es tu asignatura favorita?",
+     "ko": "과목 (科目) · 제일 좋아하는 과목이 뭐야?"
+    },
+    {
+     "t": 1481.8,
+     "s": "W",
+     "es": "Diccionario · Necesito el diccionario.",
+     "ko": "사전 (辭典) · 사전이 필요해요."
+    },
+    {
+     "t": 1487.2,
+     "s": "W",
+     "es": "Contestar · Ellos contestan a las preguntas.",
+     "ko": "대답하다 (回答) · 그들은 질문에 대답해요."
+    },
+    {
+     "t": 1493.4,
+     "s": "W",
+     "es": "Preguntar · ¿Puedo preguntar?",
+     "ko": "질문하다 (質問) · 질문해도 돼요?"
+    },
+    {
+     "t": 1497.9,
+     "s": "W",
+     "es": "Aprender · ¿Aprendéis inglés estos días?",
+     "ko": "배우다 · 너희 요즘 영어 배우니?"
+    },
+    {
+     "t": 1503.1,
+     "s": "W",
+     "es": "Comprender · No lo comprendo.",
+     "ko": "이해하다 · 이해가 안 돼요."
+    },
+    {
+     "t": 1507.7,
+     "s": "W",
+     "es": "Examen · Tenemos examen este viernes.",
+     "ko": "시험 (試驗) · 이번 금요일에 시험이 있어요."
+    },
+    {
+     "t": 1513.4,
+     "s": "W",
+     "es": "Llamar · Voy a llamar los nombres.",
+     "ko": "부르다 (呼名) · 이름을 부를게요. (출석)"
+    },
+    {
+     "t": 1518.6,
+     "s": "W",
+     "es": "Nota · Saco buenas notas.",
+     "ko": "성적, 점수 (成績) · 나는 좋은 성적을 받아요."
+    },
+    {
+     "t": 1523.8,
+     "s": "W",
+     "es": "Empezar · ¿A qué hora empieza la clase?",
+     "ko": "시작하다 · 수업은 몇 시에 시작해요?"
+    },
+    {
+     "t": 1528.8,
+     "s": "W",
+     "es": "Terminar · La clase de inglés termina a las 5.",
+     "ko": "끝나다 (終了) · 영어 수업은 5시에 끝나요."
+    },
+    {
+     "t": 1535.4,
+     "s": "W",
+     "es": "Repasar · Tenéis que repasar en casa.",
+     "ko": "복습하다 (復習) · 너희는 집에서 복습해야 해."
+    },
+    {
+     "t": 1540.4,
+     "s": "W",
+     "es": "Memorizar · Tengo que memorizar estas palabras.",
+     "ko": "암기하다 (暗記) · 이 단어들을 외워야 해요."
+    },
+    {
+     "t": 1546.0,
+     "s": "W",
+     "es": "Universidad · Ella estudia en la Universidad de ABC.",
+     "ko": "대학교 (大學) · 그녀는 ABC 대학교에 다녀요."
+    },
+    {
+     "t": 1552.0,
+     "s": "W",
+     "es": "Fácil · El español es fácil.",
+     "ko": "쉬운 (容易) · 스페인어는 쉬워요."
+    },
+    {
+     "t": 1557.5,
+     "s": "W",
+     "es": "Difícil · Las matemáticas son difíciles.",
+     "ko": "어려운 (困難) · 수학은 어려워요."
+    }
+   ]
+  },
+  {
+   "title": "Día 13 · 회사",
+   "lines": [
+    {
+     "t": 1566.5,
+     "s": "N",
+     "es": "Día 13",
+     "ko": "13일차 · 회사"
+    },
+    {
+     "t": 1572.8,
+     "s": "W",
+     "es": "Empresa · ¿Dónde está su empresa?",
+     "ko": "회사 (會社) · 회사가 어디에 있어요?"
+    },
+    {
+     "t": 1577.5,
+     "s": "W",
+     "es": "Oficina · Hay ocho personas en mi oficina.",
+     "ko": "사무실 (辦公室) · 우리 사무실에는 여덟 명이 있어요."
+    },
+    {
+     "t": 1583.6,
+     "s": "W",
+     "es": "Trabajo · Tengo mucho trabajo.",
+     "ko": "일 (勞動) · 일이 많아요."
+    },
+    {
+     "t": 1585.9,
+     "s": "W",
+     "es": "Trabajar · Tenemos que trabajar hasta la noche.",
+     "ko": "일하다 · 우리는 밤까지 일해야 해요."
+    },
+    {
+     "t": 1594.3,
+     "s": "W",
+     "es": "Documento · Necesito este documento.",
+     "ko": "서류 (文書) · 이 서류가 필요해요."
+    },
+    {
+     "t": 1599.2,
+     "s": "W",
+     "es": "Reunión · ¿A qué hora termina la reunión?",
+     "ko": "회의 (會議) · 회의는 몇 시에 끝나요?"
+    },
+    {
+     "t": 1604.5,
+     "s": "W",
+     "es": "Viaje de negocios · Mañana tengo viaje de negocios.",
+     "ko": "출장 (出張) · 내일 출장이 있어요."
+    },
+    {
+     "t": 1610.8,
+     "s": "W",
+     "es": "Cansado/a · Los empleados están cansados.",
+     "ko": "상사, 사장 · 사장님은 아주 까다로워요."
+    },
+    {
+     "t": 1617.7,
+     "s": "W",
+     "es": "Ocupado/a · Mi padre siempre está ocupado.",
+     "ko": "동료 · 내 직장 동료는 친절해요."
+    },
+    {
+     "t": 1625.0,
+     "s": "W",
+     "es": "Jefe/a · El jefe es muy exigente.",
+     "ko": "피곤한 (長) · 직원들이 피곤해해요."
+    },
+    {
+     "t": 1631.7,
+     "s": "W",
+     "es": "Compañero/a · Mi compañera de trabajo es simpática.",
+     "ko": "바쁜 (同僚) · 우리 아빠는 항상 바빠요."
+    },
+    {
+     "t": 1642.0,
+     "s": "W",
+     "es": "Sueldo · Quiero que me suban el sueldo.",
+     "ko": "월급 (給料) · 월급을 올려 줬으면 좋겠어요."
+    },
+    {
+     "t": 1646.6,
+     "s": "W",
+     "es": "Explicar · ¿Puedes explicar los datos?",
+     "ko": "설명하다 (說明) · 자료를 설명해 줄 수 있어?"
+    },
+    {
+     "t": 1652.3,
+     "s": "W",
+     "es": "Comprobar · Tenéis que comprobar la máquina.",
+     "ko": "확인하다 (確認) · 너희는 기계를 점검해야 해."
+    },
+    {
+     "t": 1657.3,
+     "s": "W",
+     "es": "Tarjeta de presentación · Aquí tiene mi tarjeta de presentación.",
+     "ko": "명함 (名刺) · 여기 제 명함입니다."
+    },
+    {
+     "t": 1664.0,
+     "s": "W",
+     "es": "Trabajo nocturno · No me gusta el trabajo nocturno.",
+     "ko": "야간 근무 (夜勤) · 나는 야간 근무를 싫어해요."
+    },
+    {
+     "t": 1670.7,
+     "s": "W",
+     "es": "Descansar · Es muy importante descansar.",
+     "ko": "쉬다 (休息) · 쉬는 건 아주 중요해요."
+    },
+    {
+     "t": 1675.9,
+     "s": "W",
+     "es": "Ascenso · Vamos a celebrar tu ascenso.",
+     "ko": "승진 (昇進) · 네 승진을 축하하자."
+    },
+    {
+     "t": 1681.2,
+     "s": "W",
+     "es": "Carta de dimisión · He escrito la carta de dimisión.",
+     "ko": "사직서 (辭職書) · 사직서를 썼어요."
+    },
+    {
+     "t": 1687.0,
+     "s": "W",
+     "es": "Despedir · Me van a despedir pronto.",
+     "ko": "해고하다 (解雇) · 나는 곧 해고될 거예요."
+    },
+    {
+     "t": 1692.5,
+     "s": "W",
+     "es": "Emplear · Necesitamos emplear a la nueva secretaria.",
+     "ko": "고용하다 (採用) · 새 비서를 채용해야 해요."
+    }
+   ]
+  },
+  {
+   "title": "Día 14 · 날씨",
+   "lines": [
+    {
+     "t": 1701.2,
+     "s": "N",
+     "es": "Día 14",
+     "ko": "14일차 · 날씨"
+    },
+    {
+     "t": 1708.0,
+     "s": "W",
+     "es": "Tiempo · ¿Qué tiempo hace hoy?",
+     "ko": "날씨 (天氣) · 오늘 날씨 어때요?"
+    },
+    {
+     "t": 1713.2,
+     "s": "W",
+     "es": "Estación · En Corea hay cuatro estaciones.",
+     "ko": "계절 (季節) · 한국에는 사계절이 있어요."
+    },
+    {
+     "t": 1718.9,
+     "s": "W",
+     "es": "Primavera · Me gusta la primavera.",
+     "ko": "봄 (春) · 나는 봄을 좋아해요."
+    },
+    {
+     "t": 1724.0,
+     "s": "W",
+     "es": "Verano · Mi estación favorita es verano.",
+     "ko": "여름 (夏) · 내가 제일 좋아하는 계절은 여름이에요."
+    },
+    {
+     "t": 1729.5,
+     "s": "W",
+     "es": "Otoño · En otoño hace fresco.",
+     "ko": "가을 (秋) · 가을에는 선선해요."
+    },
+    {
+     "t": 1734.7,
+     "s": "W",
+     "es": "Invierno · En invierno hace frío.",
+     "ko": "겨울 (冬) · 겨울에는 추워요."
+    },
+    {
+     "t": 1739.8,
+     "s": "W",
+     "es": "Cielo · El cielo es azul.",
+     "ko": "하늘 (天空) · 하늘이 파래요."
+    },
+    {
+     "t": 1744.5,
+     "s": "W",
+     "es": "Despejado · El cielo está despejado.",
+     "ko": "맑은 (淸明) · 하늘이 맑아요."
+    },
+    {
+     "t": 1751.6,
+     "s": "W",
+     "es": "Nublado · Todavía el cielo está nublado.",
+     "ko": "흐린 (曇) · 아직 하늘이 흐려요."
+    },
+    {
+     "t": 1759.6,
+     "s": "W",
+     "es": "Lluvia · No puedo ir a casa por la lluvia.",
+     "ko": "비 (雨) · 비 때문에 집에 못 가요."
+    },
+    {
+     "t": 1764.0,
+     "s": "W",
+     "es": "Chubasco · Cae un chubasco.",
+     "ko": "소나기 (驟雨) · 소나기가 쏟아져요."
+    },
+    {
+     "t": 1768.7,
+     "s": "W",
+     "es": "Nieve · Hay nieve en la montaña.",
+     "ko": "눈 (雪) · 산에 눈이 있어요."
+    },
+    {
+     "t": 1773.9,
+     "s": "W",
+     "es": "Nevado/a · La calle está nevada.",
+     "ko": "눈 덮인 · 길에 눈이 쌓였어요."
+    },
+    {
+     "t": 1780.1,
+     "s": "W",
+     "es": "Paraguas · ¿Tienes paraguas?",
+     "ko": "우산 (雨傘) · 우산 있어?"
+    },
+    {
+     "t": 1785.2,
+     "s": "W",
+     "es": "Nube · Hay nubes.",
+     "ko": "구름 · 구름이 꼈어요."
+    },
+    {
+     "t": 1789.0,
+     "s": "W",
+     "es": "Niebla · Hay niebla esta mañana.",
+     "ko": "안개 (霧) · 오늘 아침 안개가 꼈어요."
+    },
+    {
+     "t": 1794.6,
+     "s": "W",
+     "es": "Estrella · El cielo está lleno de estrellas.",
+     "ko": "별 (星) · 하늘에 별이 가득해요."
+    },
+    {
+     "t": 1800.1,
+     "s": "W",
+     "es": "Luna · No se ve la luna.",
+     "ko": "달 (月) · 달이 안 보여요."
+    },
+    {
+     "t": 1804.4,
+     "s": "W",
+     "es": "Sol · Hace mucho sol en verano.",
+     "ko": "해 (日) · 여름에는 햇볕이 강해요."
+    },
+    {
+     "t": 1809.3,
+     "s": "W",
+     "es": "Pronóstico · Según el pronóstico, hoy hace calor.",
+     "ko": "일기예보 (豫報) · 일기예보에 따르면 오늘 더워요."
+    },
+    {
+     "t": 1816.8,
+     "s": "W",
+     "es": "Temperatura · La temperatura es muy alta.",
+     "ko": "기온 (溫度) · 기온이 아주 높아요."
+    }
+   ]
+  },
+  {
+   "title": "Día 15 · 동물 · 식물 · 자연",
+   "lines": [
+    {
+     "t": 1824.5,
+     "s": "N",
+     "es": "Día 15",
+     "ko": "15일차 · 동물 · 식물 · 자연"
+    },
+    {
+     "t": 1831.7,
+     "s": "W",
+     "es": "Animal · Me gustan los animales.",
+     "ko": "동물 (動物) · 나는 동물을 좋아해요."
+    },
+    {
+     "t": 1837.0,
+     "s": "W",
+     "es": "Pájaro · Más vale pájaro en mano que volando.",
+     "ko": "새 (鳥) · 숲속의 두 마리 새보다 손안의 한 마리 새가 낫다."
+    },
+    {
+     "t": 1842.8,
+     "s": "W",
+     "es": "Pez · Hay muchos peces.",
+     "ko": "물고기 (魚) · 물고기가 많아요."
+    },
+    {
+     "t": 1847.5,
+     "s": "W",
+     "es": "Insecto · Ha entrado un insecto en la habitación.",
+     "ko": "곤충 (昆蟲) · 방에 벌레가 들어왔어요."
+    },
+    {
+     "t": 1853.4,
+     "s": "W",
+     "es": "Planta · La planta está muriendo.",
+     "ko": "식물 (植物) · 식물이 죽어 가요."
+    },
+    {
+     "t": 1858.5,
+     "s": "W",
+     "es": "Naturaleza · Me interesa la naturaleza.",
+     "ko": "자연 (自然) · 나는 자연에 관심이 있어요."
+    },
+    {
+     "t": 1864.4,
+     "s": "W",
+     "es": "Montaña · Vamos a subir a la montaña.",
+     "ko": "산 (山) · 산에 올라가자."
+    },
+    {
+     "t": 1869.7,
+     "s": "W",
+     "es": "Río · Los niños nadan en el río.",
+     "ko": "강 (江) · 아이들이 강에서 수영해요."
+    },
+    {
+     "t": 1874.8,
+     "s": "W",
+     "es": "Bosque · El bosque es muy hermoso.",
+     "ko": "숲 (森林) · 숲이 아주 아름다워요."
+    },
+    {
+     "t": 1880.3,
+     "s": "W",
+     "es": "Árbol · Plantamos árboles en el jardín.",
+     "ko": "나무 (樹木) · 우리는 정원에 나무를 심어요."
+    },
+    {
+     "t": 1885.5,
+     "s": "W",
+     "es": "Flor · Mi novio me regala una flor.",
+     "ko": "꽃 (花) · 내 남자친구가 꽃을 선물해 줘요."
+    },
+    {
+     "t": 1890.8,
+     "s": "W",
+     "es": "Gallo · Me dan miedo los gallos.",
+     "ko": "수탉 (鷄) · 나는 수탉이 무서워요."
+    },
+    {
+     "t": 1895.8,
+     "s": "W",
+     "es": "Mascota · Quiero tener mascota.",
+     "ko": "반려동물 (寵物) · 반려동물을 키우고 싶어요."
+    },
+    {
+     "t": 1900.9,
+     "s": "W",
+     "es": "Medio ambiente · Tenemos problemas de medio ambiente.",
+     "ko": "환경 (環境) · 우리는 환경 문제를 겪고 있어요."
+    },
+    {
+     "t": 1907.0,
+     "s": "W",
+     "es": "Mar · Hay contaminación en el mar.",
+     "ko": "바다 (海) · 바다가 오염되어 있어요."
+    },
+    {
+     "t": 1912.7,
+     "s": "W",
+     "es": "Regar · Tienes que regar una vez a la semana.",
+     "ko": "물을 주다 · 일주일에 한 번 물을 줘야 해."
+    },
+    {
+     "t": 1918.2,
+     "s": "W",
+     "es": "Florecer · En primavera florecen.",
+     "ko": "꽃이 피다 (開花) · 봄에는 꽃이 펴요."
+    },
+    {
+     "t": 1923.3,
+     "s": "W",
+     "es": "Criar · Mi abuelo cría dos pájaros.",
+     "ko": "기르다 (養育) · 할아버지는 새 두 마리를 기르세요."
+    },
+    {
+     "t": 1929.0,
+     "s": "W",
+     "es": "Cultivar · Cultivar el cactus es fácil.",
+     "ko": "재배하다 (栽培) · 선인장 키우기는 쉬워요."
+    },
+    {
+     "t": 1934.6,
+     "s": "W",
+     "es": "Protección · La protección de los animales es importante.",
+     "ko": "보호 (保護) · 동물 보호는 중요해요."
+    },
+    {
+     "t": 1940.5,
+     "s": "W",
+     "es": "Respetar · Hay que respetar el medio ambiente.",
+     "ko": "존중하다 (尊重) · 환경을 존중해야 해요."
+    }
+   ]
+  },
+  {
+   "title": "Día 16 · 식사와 음식",
+   "lines": [
+    {
+     "t": 1949.5,
+     "s": "N",
+     "es": "Día 16",
+     "ko": "16일차 · 식사와 음식"
+    },
+    {
+     "t": 1956.3,
+     "s": "W",
+     "es": "Desayuno · Está incluido el desayuno.",
+     "ko": "아침 식사 (朝食) · 아침 식사가 포함되어 있어요."
+    },
+    {
+     "t": 1961.3,
+     "s": "W",
+     "es": "Comida · Me gusta la comida mexicana.",
+     "ko": "식사, 점심 (午食) · 나는 멕시코 음식을 좋아해요."
+    },
+    {
+     "t": 1966.7,
+     "s": "W",
+     "es": "Cena · Tenemos una cena especial.",
+     "ko": "저녁 식사 (夕食) · 우리는 특별한 저녁 식사가 있어요."
+    },
+    {
+     "t": 1971.8,
+     "s": "W",
+     "es": "Pan · Hay pan en casa.",
+     "ko": "빵 · 집에 빵이 있어요."
+    },
+    {
+     "t": 1976.3,
+     "s": "W",
+     "es": "Arroz · Se cocina paella con arroz.",
+     "ko": "쌀, 밥 (米) · 파에야는 쌀로 만들어요."
+    },
+    {
+     "t": 1981.5,
+     "s": "W",
+     "es": "Carne · Ella no come carne.",
+     "ko": "고기 (肉) · 그녀는 고기를 안 먹어요."
+    },
+    {
+     "t": 1986.2,
+     "s": "W",
+     "es": "Pescado · Me encanta el pescado crudo.",
+     "ko": "생선 (魚) · 나는 생선회를 정말 좋아해요."
+    },
+    {
+     "t": 1991.3,
+     "s": "W",
+     "es": "Agua · Quiero tomar agua ahora mismo.",
+     "ko": "물 · 지금 당장 물을 마시고 싶어요."
+    },
+    {
+     "t": 1997.4,
+     "s": "W",
+     "es": "Vino · Él compra una botella de vino.",
+     "ko": "와인 (酒) · 그는 와인 한 병을 사요."
+    },
+    {
+     "t": 2002.2,
+     "s": "W",
+     "es": "Cerveza · ¿Quieres tomar una cerveza?",
+     "ko": "맥주 (酒) · 맥주 한잔할래?"
+    },
+    {
+     "t": 2007.3,
+     "s": "W",
+     "es": "Verdura · Tenéis que comer más verdura.",
+     "ko": "채소 (菜蔬) · 너희는 채소를 더 먹어야 해."
+    },
+    {
+     "t": 2012.7,
+     "s": "W",
+     "es": "Fruta · ¿Cuál es tu fruta favorita?",
+     "ko": "과일 (果實) · 제일 좋아하는 과일이 뭐야?"
+    },
+    {
+     "t": 2017.7,
+     "s": "W",
+     "es": "Postre · ¿Qué va a tomar de postre?",
+     "ko": "디저트 (後食) · 디저트는 뭘로 하시겠어요?"
+    },
+    {
+     "t": 2022.7,
+     "s": "W",
+     "es": "Queso · Este queso huele mucho.",
+     "ko": "치즈 · 이 치즈는 냄새가 강해요."
+    },
+    {
+     "t": 2027.7,
+     "s": "W",
+     "es": "Marisco · Tengo alergia al marisco.",
+     "ko": "해산물 (海産物) · 나는 해산물 알레르기가 있어요."
+    },
+    {
+     "t": 2032.9,
+     "s": "W",
+     "es": "Bebida · La bebida no está incluida.",
+     "ko": "음료 (飮料) · 음료는 포함되어 있지 않아요."
+    },
+    {
+     "t": 2038.1,
+     "s": "W",
+     "es": "Sal · ¿Me puedes pasar la sal?",
+     "ko": "소금 (鹽) · 소금 좀 건네줄래?"
+    },
+    {
+     "t": 2043.0,
+     "s": "W",
+     "es": "Azúcar · Un té con leche sin azúcar, por favor.",
+     "ko": "설탕 (糖) · 설탕 넣지 않은 밀크티 주세요."
+    },
+    {
+     "t": 2048.2,
+     "s": "W",
+     "es": "Menú · Vamos a ver el menú.",
+     "ko": "메뉴 (目錄) · 메뉴를 보자."
+    },
+    {
+     "t": 2053.4,
+     "s": "W",
+     "es": "Cuenta · La cuenta, por favor.",
+     "ko": "계산서 (計算) · 계산서 주세요."
+    },
+    {
+     "t": 2057.7,
+     "s": "W",
+     "es": "Restaurante · ¿Hay algún restaurante bueno cerca de aquí?",
+     "ko": "식당 (食堂) · 이 근처에 괜찮은 식당 있어요?"
+    }
+   ]
+  },
+  {
+   "title": "Día 17 · 여행",
+   "lines": [
+    {
+     "t": 2065.8,
+     "s": "N",
+     "es": "Día 17",
+     "ko": "17일차 · 여행"
+    },
+    {
+     "t": 2070.6,
+     "s": "W",
+     "es": "Viaje · Voy de viaje la semana que viene.",
+     "ko": "여행 (旅行) · 다음 주에 여행 가요."
+    },
+    {
+     "t": 2079.8,
+     "s": "W",
+     "es": "Paisaje · Tomo café viendo el paisaje.",
+     "ko": "풍경 (風景) · 나는 풍경을 보면서 커피를 마셔요."
+    },
+    {
+     "t": 2085.5,
+     "s": "W",
+     "es": "Itinerario · ¿Podría saber el itinerario del viaje?",
+     "ko": "일정 (日程) · 여행 일정을 알 수 있을까요?"
+    },
+    {
+     "t": 2090.7,
+     "s": "W",
+     "es": "Reservar · Quisiera reservar una habitación.",
+     "ko": "예약하다 (豫約) · 방을 하나 예약하고 싶어요."
+    },
+    {
+     "t": 2097.1,
+     "s": "W",
+     "es": "Hotel · Este hotel es de cinco estrellas.",
+     "ko": "호텔 (旅館) · 이 호텔은 5성급이에요."
+    },
+    {
+     "t": 2102.7,
+     "s": "W",
+     "es": "Hostal · ¿Qué tal si nos quedamos en un hostal?",
+     "ko": "호스텔 (旅人宿) · 호스텔에서 묵는 게 어때?"
+    },
+    {
+     "t": 2108.6,
+     "s": "W",
+     "es": "Alojamiento · ¿Qué tipo de alojamiento prefieres?",
+     "ko": "숙소 (宿所) · 어떤 숙소가 좋아?"
+    },
+    {
+     "t": 2114.4,
+     "s": "W",
+     "es": "Cambiar · ¿Se puede cambiar el hotel?",
+     "ko": "바꾸다 · 호텔을 바꿀 수 있어요?"
+    },
+    {
+     "t": 2119.4,
+     "s": "W",
+     "es": "Lugar · ¿Hay algún lugar famoso?",
+     "ko": "장소 (場所) · 유명한 곳이 있어요?"
+    },
+    {
+     "t": 2124.5,
+     "s": "W",
+     "es": "Decidir · Decidimos cuándo salimos de viaje.",
+     "ko": "결정하다 · 언제 여행을 떠날지 정해요."
+    },
+    {
+     "t": 2130.1,
+     "s": "W",
+     "es": "Cancelar · Si cancelas el viaje, hay comisión.",
+     "ko": "취소하다 (取消) · 여행을 취소하면 수수료가 있어요."
+    },
+    {
+     "t": 2133.8,
+     "s": "W",
+     "es": "Plan · ¿Qué plan tienes para las Navidades?",
+     "ko": "계획 (計劃) · 크리스마스 계획이 뭐야?"
+    },
+    {
+     "t": 2141.4,
+     "s": "W",
+     "es": "Experiencia · El viaje fue una experiencia inolvidable.",
+     "ko": "경험 (經驗) · 그 여행은 잊지 못할 경험이었어요."
+    },
+    {
+     "t": 2148.1,
+     "s": "W",
+     "es": "Extranjero · ¿Hay un mapa para los extranjeros?",
+     "ko": "외국인 (外國) · 외국인용 지도 있어요?"
+    },
+    {
+     "t": 2155.5,
+     "s": "W",
+     "es": "Mochila · No cabe todo en mi mochila.",
+     "ko": "배낭 (背囊) · 배낭에 다 안 들어가요."
+    },
+    {
+     "t": 2161.7,
+     "s": "W",
+     "es": "Maleta · Tengo que comprar una maleta nueva.",
+     "ko": "여행 가방 (行李) · 새 여행 가방을 사야 해요."
+    },
+    {
+     "t": 2166.4,
+     "s": "W",
+     "es": "Agencia de viajes · Voy a preguntarlo a la agencia de viajes.",
+     "ko": "여행사 (旅行社) · 여행사에 물어볼게요."
+    },
+    {
+     "t": 2173.8,
+     "s": "W",
+     "es": "Guía · Hace 10 años que ella trabaja de guía.",
+     "ko": "가이드 (案內) · 그녀는 가이드로 일한 지 10년 됐어요."
+    },
+    {
+     "t": 2179.7,
+     "s": "W",
+     "es": "Oferta · Hay última oferta de vuelos.",
+     "ko": "특가 상품 · 항공권 마지막 특가가 있어요."
+    },
+    {
+     "t": 2185.2,
+     "s": "W",
+     "es": "Monumento · Me gusta visitar los monumentos.",
+     "ko": "기념물, 유적 (紀念物) · 나는 기념물 구경하는 걸 좋아해요."
+    },
+    {
+     "t": 2190.2,
+     "s": "W",
+     "es": "Turista · Hay muchos turistas en Barcelona.",
+     "ko": "관광객 (觀光客) · 바르셀로나에는 관광객이 많아요."
+    }
+   ]
+  },
+  {
+   "title": "Día 18 · 옷",
+   "lines": [
+    {
+     "t": 2199.3,
+     "s": "N",
+     "es": "Día 18",
+     "ko": "18일차 · 옷"
+    },
+    {
+     "t": 2205.4,
+     "s": "W",
+     "es": "Ropa · La ropa es elegante.",
+     "ko": "옷 (衣) · 그 옷은 우아해요."
+    },
+    {
+     "t": 2210.5,
+     "s": "W",
+     "es": "Vestirse · Ella se viste antes de salir.",
+     "ko": "옷을 입다 · 그녀는 나가기 전에 옷을 입어요."
+    },
+    {
+     "t": 2216.0,
+     "s": "W",
+     "es": "Ponerse · Mi abuelo siempre se pone un sombrero.",
+     "ko": "입다, 쓰다, 신다 (着用) · 할아버지는 항상 모자를 쓰세요."
+    },
+    {
+     "t": 2222.5,
+     "s": "W",
+     "es": "Quitarse · Al entrar, tenéis que quitaros los zapatos.",
+     "ko": "벗다 (脫衣) · 들어올 때 신발을 벗어야 해."
+    },
+    {
+     "t": 2228.0,
+     "s": "W",
+     "es": "Pantalones · Te quedan bien los pantalones.",
+     "ko": "바지 (袴) · 바지가 잘 어울려."
+    },
+    {
+     "t": 2233.7,
+     "s": "W",
+     "es": "Camisa · Él compra una camisa nueva.",
+     "ko": "셔츠 (衫) · 그는 새 셔츠를 사요."
+    },
+    {
+     "t": 2239.0,
+     "s": "W",
+     "es": "Blusa · ¿Puedo probarme esta blusa?",
+     "ko": "블라우스 · 이 블라우스 입어 봐도 돼요?"
+    },
+    {
+     "t": 2243.8,
+     "s": "W",
+     "es": "Camiseta · Prefiero la camiseta roja.",
+     "ko": "티셔츠 (衫) · 나는 빨간 티셔츠가 더 좋아요."
+    },
+    {
+     "t": 2249.9,
+     "s": "W",
+     "es": "Falda · Me queda estrecha la falda.",
+     "ko": "치마 (裳) · 치마가 꽉 껴요."
+    },
+    {
+     "t": 2254.4,
+     "s": "W",
+     "es": "Vestido · Quiero comprar un vestido para la fiesta.",
+     "ko": "원피스, 드레스 (衣) · 파티에 입을 원피스를 사고 싶어요."
+    },
+    {
+     "t": 2260.1,
+     "s": "W",
+     "es": "Talla · ¿No hay la talla 38?",
+     "ko": "치수, 사이즈 (規格) · 38 사이즈는 없나요?"
+    },
+    {
+     "t": 2265.7,
+     "s": "W",
+     "es": "Número · ¿Qué número calza usted?",
+     "ko": "(신발) 치수, 번호 · 신발 사이즈가 어떻게 되세요?"
+    },
+    {
+     "t": 2270.3,
+     "s": "W",
+     "es": "Zapatos · Estos zapatos son demasiado caros.",
+     "ko": "신발 (靴) · 이 신발은 너무 비싸요."
+    },
+    {
+     "t": 2275.6,
+     "s": "W",
+     "es": "Ropa interior · No te preocupes, no se ve la ropa interior.",
+     "ko": "속옷 (內衣) · 걱정 마, 속옷 안 보여."
+    },
+    {
+     "t": 2282.9,
+     "s": "W",
+     "es": "Calcetines · Necesito unos calcetines largos.",
+     "ko": "양말 (襪) · 긴 양말이 필요해요."
+    },
+    {
+     "t": 2288.9,
+     "s": "W",
+     "es": "Medias · Ella lleva unas medias blancas.",
+     "ko": "스타킹 · 그녀는 흰 스타킹을 신고 있어요."
+    },
+    {
+     "t": 2294.5,
+     "s": "W",
+     "es": "Abrigo · ¿Dónde está mi abrigo?",
+     "ko": "외투 (外套) · 내 외투 어디 있어?"
+    },
+    {
+     "t": 2298.1,
+     "s": "W",
+     "es": "Chaqueta · La chaqueta está en el armario.",
+     "ko": "재킷 (甲衣) · 재킷은 옷장에 있어요."
+    },
+    {
+     "t": 2304.1,
+     "s": "W",
+     "es": "Traje · Su traje es viejo.",
+     "ko": "정장 (正裝) · 그의 정장은 낡았어요."
+    },
+    {
+     "t": 2309.0,
+     "s": "W",
+     "es": "Pijama · Los niños se ponen el pijama.",
+     "ko": "잠옷 (寢衣) · 아이들이 잠옷을 입어요."
+    },
+    {
+     "t": 2314.7,
+     "s": "W",
+     "es": "Moda · La minifalda está de moda.",
+     "ko": "유행 (流行) · 미니스커트가 유행이에요."
+    }
+   ]
+  },
+  {
+   "title": "Día 19 · 쇼핑",
+   "lines": [
+    {
+     "t": 2323.2,
+     "s": "N",
+     "es": "Día 19",
+     "ko": "19일차 · 쇼핑"
+    },
+    {
+     "t": 2328.8,
+     "s": "W",
+     "es": "Grandes almacenes · En Corea hay muchos grandes almacenes.",
+     "ko": "백화점 (百貨店) · 한국에는 백화점이 많아요."
+    },
+    {
+     "t": 2336.3,
+     "s": "W",
+     "es": "Tienda de ropa · Pablo trabaja en una tienda de ropa.",
+     "ko": "옷 가게 (衣類店) · 파블로는 옷 가게에서 일해요."
+    },
+    {
+     "t": 2342.7,
+     "s": "W",
+     "es": "Ferretería · No hay una ferretería por aquí.",
+     "ko": "철물점 · 이 근처에는 철물점이 없어요."
+    },
+    {
+     "t": 2348.2,
+     "s": "W",
+     "es": "Tienda de alimentación · ¿Dónde está la tienda de alimentación coreana?",
+     "ko": "식료품점 · 한국 식료품점은 어디에 있어요?"
+    },
+    {
+     "t": 2355.8,
+     "s": "W",
+     "es": "Rastro · Lo he comprado en un rastro.",
+     "ko": "벼룩시장 · 그거 벼룩시장에서 샀어요."
+    },
+    {
+     "t": 2361.3,
+     "s": "W",
+     "es": "Supermercado · No se vende en los supermercados.",
+     "ko": "슈퍼마켓 · 슈퍼마켓에서는 안 팔아요."
+    },
+    {
+     "t": 2366.9,
+     "s": "W",
+     "es": "Mercado · En el mercado se venden cosas baratas.",
+     "ko": "시장 (市場) · 시장에서는 싼 물건을 팔아요."
+    },
+    {
+     "t": 2373.2,
+     "s": "W",
+     "es": "Comprar · ¿Qué vas a comprar?",
+     "ko": "사다 · 뭐 살 거야?"
+    },
+    {
+     "t": 2377.3,
+     "s": "W",
+     "es": "Vender · ¿Dónde venden naranjas?",
+     "ko": "팔다 · 오렌지는 어디서 팔아요?"
+    },
+    {
+     "t": 2382.2,
+     "s": "W",
+     "es": "Ir de compras · Mi madre y yo vamos de compras.",
+     "ko": "쇼핑하러 가다 · 엄마와 나는 쇼핑하러 가요."
+    },
+    {
+     "t": 2389.3,
+     "s": "W",
+     "es": "Dinero · Me falta un poco de dinero.",
+     "ko": "돈 (錢) · 돈이 조금 모자라요."
+    },
+    {
+     "t": 2394.2,
+     "s": "W",
+     "es": "Euro · En Europa se usa euro.",
+     "ko": "유로 (貨幣) · 유럽에서는 유로를 써요."
+    },
+    {
+     "t": 2398.6,
+     "s": "W",
+     "es": "Céntimo · No me gusta tener los céntimos.",
+     "ko": "센트 · 나는 동전(센트) 갖고 다니는 게 싫어요."
+    },
+    {
+     "t": 2404.6,
+     "s": "W",
+     "es": "Producto · Hay muchos productos en esta tienda.",
+     "ko": "상품 (物品) · 이 가게에는 상품이 많아요."
+    },
+    {
+     "t": 2410.3,
+     "s": "W",
+     "es": "Costar · ¿Cuánto cuesta esta camisa?",
+     "ko": "(값이) 나가다 · 이 셔츠 얼마예요?"
+    },
+    {
+     "t": 2415.0,
+     "s": "W",
+     "es": "Pagar · No puedo pagar más dinero.",
+     "ko": "지불하다 (支給) · 돈을 더는 낼 수 없어요."
+    },
+    {
+     "t": 2419.5,
+     "s": "W",
+     "es": "Tarjeta de crédito · ¿En efectivo o con tarjeta de crédito?",
+     "ko": "신용카드 (信用카드) · 현금으로 하시겠어요, 카드로 하시겠어요?"
+    },
+    {
+     "t": 2426.5,
+     "s": "W",
+     "es": "Recibo · No necesito el recibo.",
+     "ko": "영수증 (領收證) · 영수증은 필요 없어요."
+    },
+    {
+     "t": 2431.6,
+     "s": "W",
+     "es": "Vuelta · Aquí está la vuelta.",
+     "ko": "거스름돈 (殘錢) · 거스름돈 여기 있습니다."
+    },
+    {
+     "t": 2435.5,
+     "s": "W",
+     "es": "Propina · Hay que dejar propina en España.",
+     "ko": "팁 (奉仕料) · 스페인에서는 팁을 놓고 가야 해요."
+    },
+    {
+     "t": 2440.8,
+     "s": "W",
+     "es": "Tienda · Todas las tiendas están cerradas.",
+     "ko": "가게 · 가게가 다 닫혔어요."
+    },
+    {
+     "t": 2448.3,
+     "s": "W",
+     "es": "Precio · Lo he comprado a buen precio.",
+     "ko": "가격 (價格) · 그거 좋은 가격에 샀어요."
+    },
+    {
+     "t": 2453.3,
+     "s": "W",
+     "es": "Rebaja · En las Navidades hay mucha rebaja.",
+     "ko": "할인, 세일 (割引) · 크리스마스에는 세일을 많이 해요."
+    },
+    {
+     "t": 2458.7,
+     "s": "W",
+     "es": "Caro/a · Creo que este bolso es demasiado caro.",
+     "ko": "비싼 (高價) · 이 가방은 너무 비싼 것 같아요."
+    },
+    {
+     "t": 2465.9,
+     "s": "W",
+     "es": "Barato/a · Esta falda no es tan barata como pensaba.",
+     "ko": "싼 (低價) · 이 치마는 생각보다 싸지 않네요."
+    },
+    {
+     "t": 2474.0,
+     "s": "W",
+     "es": "Dependiente · ¿Dónde está el dependiente?",
+     "ko": "점원 (店員) · 점원은 어디 있어요?"
+    },
+    {
+     "t": 2479.1,
+     "s": "W",
+     "es": "Cliente · Hay 200 puntos en su cuenta de cliente.",
+     "ko": "손님, 고객 (顧客) · 고객님 계정에 200포인트가 있어요."
+    }
+   ]
+  },
+  {
+   "title": "Día 20 · 교통",
+   "lines": [
+    {
+     "t": 2487.8,
+     "s": "N",
+     "es": "Día 20",
+     "ko": "20일차 · 교통"
+    },
+    {
+     "t": 2495.4,
+     "s": "W",
+     "es": "Transporte · Hay que usar transporte público.",
+     "ko": "교통 (交通) · 대중교통을 이용해야 해요."
+    },
+    {
+     "t": 2501.7,
+     "s": "W",
+     "es": "Tráfico · Hay mucho tráfico.",
+     "ko": "교통량 (交通量) · 차가 많이 막혀요."
+    },
+    {
+     "t": 2506.2,
+     "s": "W",
+     "es": "Tomar · ¿Qué número de autobús tengo que tomar?",
+     "ko": "타다 · 몇 번 버스를 타야 해요?"
+    },
+    {
+     "t": 2512.8,
+     "s": "W",
+     "es": "Bajar · Bajamos en la estación de Seúl.",
+     "ko": "내리다 (下車) · 우리는 서울역에서 내려요."
+    },
+    {
+     "t": 2517.2,
+     "s": "W",
+     "es": "Metro · Voy a la empresa en metro.",
+     "ko": "지하철 (地下鐵) · 나는 지하철로 회사에 가요."
+    },
+    {
+     "t": 2522.5,
+     "s": "W",
+     "es": "Estación · ¿Dónde está la estación de tren?",
+     "ko": "역 (驛) · 기차역은 어디예요?"
+    },
+    {
+     "t": 2527.9,
+     "s": "W",
+     "es": "Coche · ¿Vas a ir ahí en coche?",
+     "ko": "자동차 · 거기 차로 갈 거야?"
+    },
+    {
+     "t": 2533.1,
+     "s": "W",
+     "es": "Cerca · El museo está cerca de aquí.",
+     "ko": "가까이 (近) · 박물관은 여기서 가까워요."
+    },
+    {
+     "t": 2538.0,
+     "s": "W",
+     "es": "Lejos · El aeropuerto está lejos del centro.",
+     "ko": "멀리 (遠) · 공항은 시내에서 멀어요."
+    },
+    {
+     "t": 2544.0,
+     "s": "W",
+     "es": "Despacio · Los coches van muy despacio.",
+     "ko": "천천히 (徐行) · 차들이 아주 천천히 가요."
+    },
+    {
+     "t": 2549.9,
+     "s": "W",
+     "es": "Tardar · Tarda mucho hasta la estación.",
+     "ko": "(시간이) 걸리다 (所要) · 역까지 오래 걸려요."
+    },
+    {
+     "t": 2554.6,
+     "s": "W",
+     "es": "Calle · No hay nadie en la calle.",
+     "ko": "거리, 길 (街) · 거리에 아무도 없어요."
+    },
+    {
+     "t": 2560.3,
+     "s": "W",
+     "es": "Carretera · Ten cuidado en la carretera.",
+     "ko": "도로 (道路) · 도로에서 조심해."
+    },
+    {
+     "t": 2565.0,
+     "s": "W",
+     "es": "Cruce · Había un accidente en el cruce.",
+     "ko": "교차로 (交叉路) · 교차로에서 사고가 났었어요."
+    },
+    {
+     "t": 2570.8,
+     "s": "W",
+     "es": "Semáforo · No funciona el semáforo.",
+     "ko": "신호등 (信號燈) · 신호등이 고장 났어요."
+    },
+    {
+     "t": 2575.5,
+     "s": "W",
+     "es": "Cruzar · Hay que cruzar por esta calle.",
+     "ko": "건너다 (橫斷) · 이 길로 건너야 해요."
+    },
+    {
+     "t": 2580.7,
+     "s": "W",
+     "es": "Caminar · Ya no puedo caminar más.",
+     "ko": "걷다 (步行) · 더는 못 걷겠어요."
+    },
+    {
+     "t": 2585.8,
+     "s": "W",
+     "es": "Correr · En la autopista los coches corren rápido.",
+     "ko": "달리다 · 고속도로에서는 차들이 빨리 달려요."
+    },
+    {
+     "t": 2592.1,
+     "s": "W",
+     "es": "Girar · Si giras a la derecha habrá un banco.",
+     "ko": "돌다 (回轉) · 오른쪽으로 돌면 은행이 있을 거예요."
+    },
+    {
+     "t": 2598.1,
+     "s": "W",
+     "es": "Aparcar · No hay espacio para aparcar.",
+     "ko": "주차하다 (駐車) · 주차할 공간이 없어요."
+    },
+    {
+     "t": 2603.3,
+     "s": "W",
+     "es": "Parada · Bajamos en la próxima parada.",
+     "ko": "정류장 (停留場) · 다음 정류장에서 내려요."
+    },
+    {
+     "t": 2608.8,
+     "s": "W",
+     "es": "Último/a · ¿A qué hora sale el último tren?",
+     "ko": "마지막의 · 마지막 기차는 몇 시에 떠나요?"
+    },
+    {
+     "t": 2617.0,
+     "s": "W",
+     "es": "Recto/a · Siga todo recto.",
+     "ko": "똑바른 · 쭉 직진하세요."
+    },
+    {
+     "t": 2622.2,
+     "s": "W",
+     "es": "Conductor · El conductor conduce muy rápido.",
+     "ko": "운전기사 (運轉手) · 운전기사가 아주 빨리 운전해요."
+    },
+    {
+     "t": 2629.5,
+     "s": "W",
+     "es": "Ida y vuelta · Un billete de ida y vuelta para Madrid, por favor.",
+     "ko": "왕복 (往復) · 마드리드행 왕복표 한 장 주세요."
+    },
+    {
+     "t": 2636.5,
+     "s": "W",
+     "es": "Ventanilla · Veo el paisaje por la ventanilla.",
+     "ko": "(차·기차의) 창문 (窓) · 창밖으로 풍경을 봐요."
+    },
+    {
+     "t": 2643.0,
+     "s": "W",
+     "es": "Conducir · Yo no conduzco bien.",
+     "ko": "운전하다 (運轉) · 나는 운전을 잘 못해요."
+    },
+    {
+     "t": 2647.8,
+     "s": "W",
+     "es": "Parar · Este autobús no para en esa parada.",
+     "ko": "멈추다, 서다 (停止) · 이 버스는 그 정류장에 안 서요."
+    }
+   ]
+  },
+  {
+   "title": "Día 21 · 은행과 우체국",
+   "lines": [
+    {
+     "t": 2655.8,
+     "s": "N",
+     "es": "Día 21",
+     "ko": "21일차 · 은행과 우체국"
+    },
+    {
+     "t": 2663.5,
+     "s": "W",
+     "es": "Banco · ¿A qué hora abre el banco?",
+     "ko": "은행 (銀行) · 은행은 몇 시에 열어요?"
+    },
+    {
+     "t": 2668.7,
+     "s": "W",
+     "es": "Ventanilla · Solamente una ventanilla está abierta.",
+     "ko": "창구 (窓口) · 창구가 하나만 열려 있어요."
+    },
+    {
+     "t": 2674.5,
+     "s": "W",
+     "es": "Cajero automático · No encuentro ningún cajero automático.",
+     "ko": "현금 자동 인출기 (換錢機) · ATM을 하나도 못 찾겠어요."
+    },
+    {
+     "t": 2681.3,
+     "s": "W",
+     "es": "Cartilla · ¿Dónde están mis cartillas?",
+     "ko": "통장 (通帳) · 내 통장들 어디 있지?"
+    },
+    {
+     "t": 2686.0,
+     "s": "W",
+     "es": "Firma · Ponga su firma aquí, por favor.",
+     "ko": "서명 (署名) · 여기에 서명해 주세요."
+    },
+    {
+     "t": 2691.5,
+     "s": "W",
+     "es": "Turno · Ahora es mi turno.",
+     "ko": "차례, 순번 · 이제 제 차례예요."
+    },
+    {
+     "t": 2696.1,
+     "s": "W",
+     "es": "Rico/a · Si ahorro mucho, podré ser rica.",
+     "ko": "부유한 (富) · 저축을 많이 하면 부자가 될 거예요."
+    },
+    {
+     "t": 2703.4,
+     "s": "W",
+     "es": "Retirar · Necesito retirar dinero.",
+     "ko": "인출하다 (引出) · 돈을 찾아야 해요."
+    },
+    {
+     "t": 2709.6,
+     "s": "W",
+     "es": "Ahorrar · Si quieres viajar, tienes que ahorrar más.",
+     "ko": "저축하다 (貯蓄) · 여행 가고 싶으면 저축을 더 해야 해."
+    },
+    {
+     "t": 2715.3,
+     "s": "W",
+     "es": "Ingresar · Hay que ingresar 300 €.",
+     "ko": "입금하다 (入金) · 300유로를 입금해야 해요."
+    },
+    {
+     "t": 2720.9,
+     "s": "W",
+     "es": "Domiciliar · ¿Me puedes enseñar cómo domiciliar?",
+     "ko": "자동이체하다 (自動移替) · 자동이체 어떻게 하는지 알려 줄래?"
+    },
+    {
+     "t": 2726.8,
+     "s": "W",
+     "es": "Cambiar · ¿Dónde puedo cambiar el dinero?",
+     "ko": "환전하다 (換錢) · 어디서 환전할 수 있어요?"
+    },
+    {
+     "t": 2732.2,
+     "s": "W",
+     "es": "Oficina de correos · Tengo que ir a la oficina de correos.",
+     "ko": "우체국 (郵便局) · 우체국에 가야 해요."
+    },
+    {
+     "t": 2738.6,
+     "s": "W",
+     "es": "Carta · Me escribirás carta, ¿verdad?",
+     "ko": "편지 (信) · 편지 써 줄 거지?"
+    },
+    {
+     "t": 2744.3,
+     "s": "W",
+     "es": "Sello · ¿Dónde venden sellos?",
+     "ko": "우표 (郵票) · 우표는 어디서 팔아요?"
+    },
+    {
+     "t": 2748.9,
+     "s": "W",
+     "es": "Postal · Tengo varias postales de Portugal.",
+     "ko": "엽서 · 포르투갈 엽서가 여러 장 있어요."
+    },
+    {
+     "t": 2754.5,
+     "s": "W",
+     "es": "Enviar · Quería enviar estos a Corea.",
+     "ko": "보내다 (發送) · 이것들을 한국에 보내고 싶은데요."
+    },
+    {
+     "t": 2759.8,
+     "s": "W",
+     "es": "Llegar · Va a llegar la carta.",
+     "ko": "도착하다 (到着) · 편지가 곧 도착할 거예요."
+    },
+    {
+     "t": 2765.2,
+     "s": "W",
+     "es": "Sobre · ¿Cuánto cuesta el sobre?",
+     "ko": "봉투 (封套) · 봉투는 얼마예요?"
+    },
+    {
+     "t": 2769.6,
+     "s": "W",
+     "es": "Paquete · No he recibido el paquete.",
+     "ko": "소포, 택배 (宅配) · 소포를 못 받았어요."
+    },
+    {
+     "t": 2774.7,
+     "s": "W",
+     "es": "Caja · No cabe todo en esta caja.",
+     "ko": "상자 (箱子) · 이 상자에 다 안 들어가요."
+    }
+   ]
+  },
+  {
+   "title": "Día 22 · 병원",
+   "lines": [
+    {
+     "t": 2782.8,
+     "s": "N",
+     "es": "Día 22",
+     "ko": "22일차 · 병원"
+    },
+    {
+     "t": 2789.8,
+     "s": "W",
+     "es": "Clínica · La clínica está en el segundo piso.",
+     "ko": "병원, 의원 (病院) · 병원은 2층에 있어요."
+    },
+    {
+     "t": 2795.7,
+     "s": "W",
+     "es": "Ingresar · Lo van a tener que ingresar.",
+     "ko": "입원시키다 (入院) · 그를 입원시켜야 할 거예요."
+    },
+    {
+     "t": 2800.4,
+     "s": "W",
+     "es": "Salir del hospital · Cuando sales del hospital…",
+     "ko": "퇴원하다 (退院) · 네가 퇴원하면…"
+    },
+    {
+     "t": 2806.7,
+     "s": "W",
+     "es": "Paciente · En aquel hospital hay muchos pacientes.",
+     "ko": "환자 (患者) · 저 병원에는 환자가 많아요."
+    },
+    {
+     "t": 2812.8,
+     "s": "W",
+     "es": "Médico/a · Los médicos del hospital son profesionales.",
+     "ko": "의사 · 그 병원 의사들은 전문적이에요."
+    },
+    {
+     "t": 2820.7,
+     "s": "W",
+     "es": "Enfermero/a · La enfermera es muy simpática.",
+     "ko": "간호사 · 그 간호사는 아주 친절해요."
+    },
+    {
+     "t": 2828.6,
+     "s": "W",
+     "es": "Enfermedad · Es una enfermedad grave.",
+     "ko": "병 (疾病) · 심각한 병이에요."
+    },
+    {
+     "t": 2833.2,
+     "s": "W",
+     "es": "Dolor · Tengo mucho dolor de cabeza.",
+     "ko": "통증 (痛症) · 머리가 많이 아파요."
+    },
+    {
+     "t": 2838.5,
+     "s": "W",
+     "es": "Doler · ¿Qué te duele?",
+     "ko": "아프다 · 어디가 아파?"
+    },
+    {
+     "t": 2842.6,
+     "s": "W",
+     "es": "Enfermo/a · Mi abuelo está enfermo.",
+     "ko": "아픈 · 할아버지가 편찮으세요."
+    },
+    {
+     "t": 2849.4,
+     "s": "W",
+     "es": "Fiebre · Mi hijo tiene mucha fiebre.",
+     "ko": "열 (熱) · 아들이 열이 많이 나요."
+    },
+    {
+     "t": 2855.4,
+     "s": "W",
+     "es": "Jarabe · Debe tomar este jarabe cada cinco horas.",
+     "ko": "시럽 약 (藥水) · 이 시럽을 다섯 시간마다 드셔야 해요."
+    },
+    {
+     "t": 2860.9,
+     "s": "W",
+     "es": "Pastilla · No me gustan las pastillas.",
+     "ko": "알약 (藥) · 나는 알약을 싫어해요."
+    },
+    {
+     "t": 2866.3,
+     "s": "W",
+     "es": "Herida · Es una herida mental.",
+     "ko": "상처 (傷處) · 마음의 상처예요."
+    },
+    {
+     "t": 2871.5,
+     "s": "W",
+     "es": "Cicatriz · Tengo una cicatriz en la cara.",
+     "ko": "흉터 (瘢痕) · 얼굴에 흉터가 있어요."
+    },
+    {
+     "t": 2876.7,
+     "s": "W",
+     "es": "Sangre · Su cara estaba llena de sangre.",
+     "ko": "피 (血) · 그의 얼굴은 피투성이였어요."
+    },
+    {
+     "t": 2882.8,
+     "s": "W",
+     "es": "Resfriado/a · Daniela está resfriada.",
+     "ko": "감기에 걸린 (感氣) · 다니엘라는 감기에 걸렸어요."
+    },
+    {
+     "t": 2889.5,
+     "s": "W",
+     "es": "Infección · Hay infección en la garganta.",
+     "ko": "감염 (感染) · 목에 염증이 있어요."
+    },
+    {
+     "t": 2895.0,
+     "s": "W",
+     "es": "Salud · Hay que hacer ejercicio para la salud.",
+     "ko": "건강 (健康) · 건강을 위해 운동해야 해요."
+    },
+    {
+     "t": 2900.4,
+     "s": "W",
+     "es": "Moco · El niño tiene mocos.",
+     "ko": "콧물 · 아이가 콧물을 흘려요."
+    },
+    {
+     "t": 2905.2,
+     "s": "W",
+     "es": "Constipado/a · Mi novia está muy constipada.",
+     "ko": "코감기에 걸린 · 내 여자친구는 코감기가 심해요."
+    },
+    {
+     "t": 2915.2,
+     "s": "W",
+     "es": "Estetoscopio · El estetoscopio es un instrumento médico.",
+     "ko": "청진기 (聽診器) · 청진기는 의료 기구예요."
+    },
+    {
+     "t": 2919.0,
+     "s": "W",
+     "es": "Examinar · El doctor examina a los pacientes.",
+     "ko": "진찰하다 (檢査) · 의사가 환자들을 진찰해요."
+    },
+    {
+     "t": 2925.2,
+     "s": "W",
+     "es": "Contagioso/a · La gripe es contagiosa.",
+     "ko": "전염성의 (傳染) · 독감은 전염돼요."
+    },
+    {
+     "t": 2932.4,
+     "s": "W",
+     "es": "Mejorarse · Que te mejores pronto.",
+     "ko": "낫다, 회복하다 (快癒) · 빨리 낫길 바라."
+    },
+    {
+     "t": 2938.7,
+     "s": "W",
+     "es": "Alergia · ¿Tiene usted alguna alergia?",
+     "ko": "알레르기 (反應) · 알레르기 있으세요?"
+    }
+   ]
+  },
+  {
+   "title": "Día 23 · 공항",
+   "lines": [
+    {
+     "t": 2945.7,
+     "s": "N",
+     "es": "Día 23",
+     "ko": "23일차 · 공항"
+    },
+    {
+     "t": 2953.4,
+     "s": "W",
+     "es": "Aeropuerto · Tarda una hora hasta el aeropuerto.",
+     "ko": "공항 (空港) · 공항까지 한 시간 걸려요."
+    },
+    {
+     "t": 2959.7,
+     "s": "W",
+     "es": "Vuelo · Es la primera vez que tomo el vuelo.",
+     "ko": "항공편 (飛行) · 비행기를 타는 건 처음이에요."
+    },
+    {
+     "t": 2964.5,
+     "s": "W",
+     "es": "Avión · ¿Hay avión para Barcelona?",
+     "ko": "비행기 (飛行機) · 바르셀로나행 비행기 있어요?"
+    },
+    {
+     "t": 2970.6,
+     "s": "W",
+     "es": "Pasaporte · Enseñe su pasaporte, por favor.",
+     "ko": "여권 (旅券) · 여권을 보여 주세요."
+    },
+    {
+     "t": 2975.9,
+     "s": "W",
+     "es": "País · Corea es un país muy bonito.",
+     "ko": "나라 · 한국은 아주 아름다운 나라예요."
+    },
+    {
+     "t": 2981.0,
+     "s": "W",
+     "es": "Partir · ¿A qué hora parte el último avión?",
+     "ko": "출발하다 (出發) · 마지막 비행기는 몇 시에 출발해요?"
+    },
+    {
+     "t": 2986.7,
+     "s": "W",
+     "es": "Llegar · Todavía no ha llegado un pasajero.",
+     "ko": "도착하다 · 아직 승객 한 명이 도착하지 않았어요."
+    },
+    {
+     "t": 2991.4,
+     "s": "W",
+     "es": "Tienda sin impuestos · He comprado mucho en la tienda sin impuesto.",
+     "ko": "면세점 (免稅店) · 면세점에서 많이 샀어요."
+    },
+    {
+     "t": 2998.6,
+     "s": "W",
+     "es": "Venta · Los billetes están en venta.",
+     "ko": "판매 (販賣) · 표를 판매하고 있어요."
+    },
+    {
+     "t": 3004.5,
+     "s": "W",
+     "es": "Extranjero · Ellos viajan mucho al extranjero.",
+     "ko": "외국, 해외 (外國) · 그들은 해외여행을 많이 가요."
+    },
+    {
+     "t": 3010.3,
+     "s": "W",
+     "es": "Acompañar · Ellos acompañan a su hijo en el viaje.",
+     "ko": "동행하다 (同行) · 그들은 여행에 아들과 함께 가요."
+    },
+    {
+     "t": 3016.2,
+     "s": "W",
+     "es": "Intención · ¿Cuál es su intención para ir a España?",
+     "ko": "의도, 목적 (意圖) · 스페인에 가는 목적이 뭐예요?"
+    },
+    {
+     "t": 3021.9,
+     "s": "W",
+     "es": "Despedir · Te voy a despedir en el aeropuerto.",
+     "ko": "승무원 · 승무원들이 우리에게 인사해요."
+    },
+    {
+     "t": 3027.2,
+     "s": "W",
+     "es": "Azafato/a · Las azafatas nos saludan.",
+     "ko": "비자 (乘務員) · 비자는 언제 나와요?"
+    },
+    {
+     "t": 3034.3,
+     "s": "W",
+     "es": "Visado · ¿Cuándo me darán el visado?",
+     "ko": "경유 (査證) · 비행기는 네덜란드를 경유해요."
+    },
+    {
+     "t": 3039.3,
+     "s": "W",
+     "es": "Escala · El avión hace escala en Holanda.",
+     "ko": "탑승 (經由) · 탑승구에서 만나요."
+    },
+    {
+     "t": 3045.0,
+     "s": "W",
+     "es": "Embarque · Nos vemos en la puerta de embarque.",
+     "ko": "배웅하다 (搭乘) · 공항에서 배웅해 줄게."
+    },
+    {
+     "t": 3051.2,
+     "s": "W",
+     "es": "Abordar · ¿Dónde puedo abordar el avión?",
+     "ko": "탑승하다 · 비행기는 어디서 타요?"
+    },
+    {
+     "t": 3057.4,
+     "s": "W",
+     "es": "Despegar · El vuelo va a despegar pronto.",
+     "ko": "이륙하다 (離陸) · 비행기가 곧 이륙해요."
+    },
+    {
+     "t": 3062.4,
+     "s": "W",
+     "es": "Aterrizar · El avión está a punto de aterrizar.",
+     "ko": "착륙하다 (着陸) · 비행기가 막 착륙하려고 해요."
+    },
+    {
+     "t": 3067.7,
+     "s": "W",
+     "es": "Sala de espera · Hay mucha gente en la sala de espera.",
+     "ko": "대기실 (待機室) · 대기실에 사람이 많아요."
+    }
+   ]
+  },
+  {
+   "title": "Día 24 · 취미",
+   "lines": [
+    {
+     "t": 3077.1,
+     "s": "N",
+     "es": "Día 24",
+     "ko": "24일차 · 취미"
+    },
+    {
+     "t": 3084.2,
+     "s": "W",
+     "es": "Afición · ¿Cuál es tu afición?",
+     "ko": "취미 (趣味) · 취미가 뭐야?"
+    },
+    {
+     "t": 3089.3,
+     "s": "W",
+     "es": "Guitarra · Sé tocar la guitarra.",
+     "ko": "기타 · 나는 기타를 칠 줄 알아요."
+    },
+    {
+     "t": 3094.7,
+     "s": "W",
+     "es": "Instrumento · ¿Tocáis algún instrumento?",
+     "ko": "악기 (樂器) · 너희 악기 다룰 줄 아는 거 있어?"
+    },
+    {
+     "t": 3099.8,
+     "s": "W",
+     "es": "Película · Me gusta ver las películas.",
+     "ko": "영화 (映畵) · 나는 영화 보는 걸 좋아해요."
+    },
+    {
+     "t": 3105.1,
+     "s": "W",
+     "es": "Música · Mi afición es escuchar música.",
+     "ko": "음악 (音樂) · 내 취미는 음악 감상이에요."
+    },
+    {
+     "t": 3109.3,
+     "s": "W",
+     "es": "Tocar · Me encanta tocar el piano.",
+     "ko": "연주하다 (演奏) · 나는 피아노 치는 걸 정말 좋아해요."
+    },
+    {
+     "t": 3116.8,
+     "s": "W",
+     "es": "Telenovela · Mi madre ve las telenovelas.",
+     "ko": "드라마 (連續劇) · 엄마는 드라마를 보세요."
+    },
+    {
+     "t": 3121.9,
+     "s": "W",
+     "es": "Dibujos animados · Todos los domingos veo los dibujos animados.",
+     "ko": "만화 영화 (漫畵) · 나는 일요일마다 만화 영화를 봐요."
+    },
+    {
+     "t": 3129.1,
+     "s": "W",
+     "es": "Dibujar · ¿Todavía dibujas bien?",
+     "ko": "그림을 그리다 (繪畵) · 아직도 그림 잘 그려?"
+    },
+    {
+     "t": 3133.8,
+     "s": "W",
+     "es": "Tomar fotos · Mi padre toma fotos en el viaje.",
+     "ko": "사진을 찍다 (寫眞) · 아빠는 여행에서 사진을 찍으세요."
+    },
+    {
+     "t": 3140.2,
+     "s": "W",
+     "es": "Cámara · Quiero comprar una cámara buena.",
+     "ko": "카메라 · 좋은 카메라를 사고 싶어요."
+    },
+    {
+     "t": 3145.3,
+     "s": "W",
+     "es": "Muñeco/a · Mi hermana colecciona los muñecos.",
+     "ko": "인형 · 우리 언니(누나)는 인형을 모아요."
+    },
+    {
+     "t": 3152.5,
+     "s": "W",
+     "es": "Novela · Estoy leyendo una novela.",
+     "ko": "소설 (小說) · 나는 소설을 읽고 있어요."
+    },
+    {
+     "t": 3157.8,
+     "s": "W",
+     "es": "Concierto · ¿Quieres ir al concierto conmigo?",
+     "ko": "콘서트 (公演) · 나랑 콘서트 갈래?"
+    },
+    {
+     "t": 3163.3,
+     "s": "W",
+     "es": "Teatro · Ella dirige obras de teatro.",
+     "ko": "연극 (演劇) · 그녀는 연극을 연출해요."
+    },
+    {
+     "t": 3169.5,
+     "s": "W",
+     "es": "Bailar · Vamos a ir a bailar esta noche.",
+     "ko": "춤추다 (舞踊) · 오늘 밤 춤추러 가자."
+    },
+    {
+     "t": 3175.1,
+     "s": "W",
+     "es": "Aficionado/a · Soy gran aficionada al béisbol.",
+     "ko": "애호가, 팬 (愛好家) · 나는 야구의 열렬한 팬이에요."
+    },
+    {
+     "t": 3183.1,
+     "s": "W",
+     "es": "Pasatiempo · Mi abuelo dibuja como pasatiempo.",
+     "ko": "여가 활동, 취미 (餘暇) · 할아버지는 취미로 그림을 그리세요."
+    },
+    {
+     "t": 3188.3,
+     "s": "W",
+     "es": "Jugar · Me gusta jugar al baloncesto.",
+     "ko": "놀다, 하다 · 나는 농구하는 걸 좋아해요."
+    },
+    {
+     "t": 3194.1,
+     "s": "W",
+     "es": "Disfrutar · Ellos disfrutan del tiempo libre en la playa.",
+     "ko": "즐기다 (享受) · 그들은 해변에서 여가를 즐겨요."
+    },
+    {
+     "t": 3202.2,
+     "s": "W",
+     "es": "Tomar clase · Voy a tomar la clase de ella.",
+     "ko": "수업을 듣다 · 나는 그녀의 수업을 들을 거예요."
+    }
+   ]
+  },
+  {
+   "title": "Día 25 · 운동",
+   "lines": [
+    {
+     "t": 3208.1,
+     "s": "N",
+     "es": "Día 25",
+     "ko": "25일차 · 운동"
+    },
+    {
+     "t": 3216.0,
+     "s": "W",
+     "es": "Ejercicio · Hago ejercicio todos los días.",
+     "ko": "운동 (運動) · 나는 매일 운동해요."
+    },
+    {
+     "t": 3221.7,
+     "s": "W",
+     "es": "Deporte · ¿Qué deporte te gusta?",
+     "ko": "스포츠 (體育) · 무슨 스포츠 좋아해?"
+    },
+    {
+     "t": 3226.5,
+     "s": "W",
+     "es": "Balón · Él echa el balón.",
+     "ko": "공 (큰 공) · 그가 공을 던져요."
+    },
+    {
+     "t": 3231.1,
+     "s": "W",
+     "es": "Pelota · Los niños juegan con la pelota.",
+     "ko": "공 (작은 공) · 아이들이 공을 가지고 놀아요."
+    },
+    {
+     "t": 3237.2,
+     "s": "W",
+     "es": "Béisbol · Me gusta ver el béisbol.",
+     "ko": "야구 (野球) · 나는 야구 보는 걸 좋아해요."
+    },
+    {
+     "t": 3242.4,
+     "s": "W",
+     "es": "Fútbol · El fútbol es muy popular en España.",
+     "ko": "축구 (蹴球) · 스페인에서 축구는 아주 인기가 많아요."
+    },
+    {
+     "t": 3248.6,
+     "s": "W",
+     "es": "Baloncesto · Queremos jugar al baloncesto.",
+     "ko": "농구 (籠球) · 우리는 농구를 하고 싶어요."
+    },
+    {
+     "t": 3254.1,
+     "s": "W",
+     "es": "Voleibol · A Marco le encanta el voleibol.",
+     "ko": "배구 (排球) · 마르코는 배구를 정말 좋아해요."
+    },
+    {
+     "t": 3260.2,
+     "s": "W",
+     "es": "Balonmano · El balonmano es divertido.",
+     "ko": "핸드볼 (送球) · 핸드볼은 재미있어요."
+    },
+    {
+     "t": 3265.7,
+     "s": "W",
+     "es": "Golf · Mi padre juega al golf el fin de semana.",
+     "ko": "골프 (高爾夫) · 아빠는 주말에 골프를 치세요."
+    },
+    {
+     "t": 3270.8,
+     "s": "W",
+     "es": "Jugar a · Vamos a jugar al fútbol.",
+     "ko": "(운동을) 하다 · 축구하자."
+    },
+    {
+     "t": 3276.2,
+     "s": "W",
+     "es": "Nadar · Nado tres veces a la semana.",
+     "ko": "수영하다 (泳) · 나는 일주일에 세 번 수영해요."
+    },
+    {
+     "t": 3281.2,
+     "s": "W",
+     "es": "Piscina · Hay mucha gente en la piscina.",
+     "ko": "수영장 (泳場) · 수영장에 사람이 많아요."
+    },
+    {
+     "t": 3286.1,
+     "s": "W",
+     "es": "Gimnasio · El gimnasio está cerca de mi casa.",
+     "ko": "헬스장, 체육관 (體育館) · 헬스장은 우리 집 근처에 있어요."
+    },
+    {
+     "t": 3292.2,
+     "s": "W",
+     "es": "Deportista · Ese deportista juega muy bien.",
+     "ko": "운동선수 · 저 선수는 경기를 정말 잘해요."
+    },
+    {
+     "t": 3298.4,
+     "s": "W",
+     "es": "Equipo · Mi equipo favorito es Real Madrid.",
+     "ko": "팀 (팀) · 내가 제일 좋아하는 팀은 레알 마드리드예요."
+    },
+    {
+     "t": 3303.3,
+     "s": "W",
+     "es": "Partido · El partido de fútbol empieza a las 7.",
+     "ko": "경기 (競技) · 축구 경기는 7시에 시작해요."
+    },
+    {
+     "t": 3309.6,
+     "s": "W",
+     "es": "Billar · No me gusta jugar al billar.",
+     "ko": "당구 (撞球) · 나는 당구 치는 걸 싫어해요."
+    },
+    {
+     "t": 3314.5,
+     "s": "W",
+     "es": "Bolos · ¿Queréis jugar a los bolos?",
+     "ko": "볼링 (볼링) · 너희 볼링 칠래?"
+    },
+    {
+     "t": 3320.0,
+     "s": "W",
+     "es": "Tenis · No juego bien al tenis.",
+     "ko": "테니스 (庭球) · 나는 테니스를 잘 못 쳐요."
+    },
+    {
+     "t": 3325.0,
+     "s": "W",
+     "es": "Esquí · Voy a practicar esquí.",
+     "ko": "스키 (스키) · 스키를 연습할 거예요."
+    }
+   ]
+  },
+  {
+   "title": "Día 26 · 컴퓨터와 휴대폰",
+   "lines": [
+    {
+     "t": 3331.8,
+     "s": "N",
+     "es": "Día 26",
+     "ko": "26일차 · 컴퓨터와 휴대폰"
+    },
+    {
+     "t": 3339.9,
+     "s": "W",
+     "es": "Ordenador · ¿Podría usar el ordenador?",
+     "ko": "컴퓨터 (스페인) (電算機) · 컴퓨터 좀 써도 될까요?"
+    },
+    {
+     "t": 3343.3,
+     "s": "W",
+     "es": "Ordenador portátil · Necesito un ordenador portátil nuevo.",
+     "ko": "노트북 · 새 노트북이 필요해요."
+    },
+    {
+     "t": 3353.0,
+     "s": "W",
+     "es": "Dato · Ella me envía los datos.",
+     "ko": "자료, 데이터 (資料) · 그녀가 나에게 자료를 보내요."
+    },
+    {
+     "t": 3357.5,
+     "s": "W",
+     "es": "Archivo · No encuentro ese archivo.",
+     "ko": "파일 (文書) · 그 파일을 못 찾겠어요."
+    },
+    {
+     "t": 3362.7,
+     "s": "W",
+     "es": "Red · La red ha desarrollado mucho.",
+     "ko": "네트워크, 인터넷 (網) · 인터넷이 많이 발전했어요."
+    },
+    {
+     "t": 3367.8,
+     "s": "W",
+     "es": "Encender · Ella enciende la computadora.",
+     "ko": "켜다 (點火) · 그녀가 컴퓨터를 켜요."
+    },
+    {
+     "t": 3373.2,
+     "s": "W",
+     "es": "Apagar · ¿Cómo se apaga este móvil?",
+     "ko": "끄다 (消火) · 이 휴대폰 어떻게 꺼요?"
+    },
+    {
+     "t": 3378.2,
+     "s": "W",
+     "es": "Descargar · Quiero descargar este programa.",
+     "ko": "다운로드하다 (下載) · 이 프로그램을 다운받고 싶어요."
+    },
+    {
+     "t": 3384.0,
+     "s": "W",
+     "es": "Subir · ¿Vas a subir esta foto?",
+     "ko": "올리다, 업로드하다 · 이 사진 올릴 거야?"
+    },
+    {
+     "t": 3388.8,
+     "s": "W",
+     "es": "Funcionar · No funciona el ordenador.",
+     "ko": "작동하다 (作動) · 컴퓨터가 작동을 안 해요."
+    },
+    {
+     "t": 3394.3,
+     "s": "W",
+     "es": "Arreglar · Puedes arreglar el teléfono.",
+     "ko": "고치다 (修理) · 너 전화기 고칠 수 있잖아."
+    },
+    {
+     "t": 3399.7,
+     "s": "W",
+     "es": "Internet · Busco información por el internet.",
+     "ko": "인터넷 (網) · 나는 인터넷으로 정보를 찾아요."
+    },
+    {
+     "t": 3405.4,
+     "s": "W",
+     "es": "Correo electrónico · No uso mucho el correo electrónico.",
+     "ko": "이메일 (電子郵便) · 나는 이메일을 많이 안 써요."
+    },
+    {
+     "t": 3412.5,
+     "s": "W",
+     "es": "Guardar · Tienen que guardar todos los datos.",
+     "ko": "저장하다 (保存) · 모든 데이터를 저장해야 해요."
+    },
+    {
+     "t": 3417.8,
+     "s": "W",
+     "es": "Borrar · Voy a borrar este documento.",
+     "ko": "지우다 (削除) · 이 문서를 지울게요."
+    },
+    {
+     "t": 3423.2,
+     "s": "W",
+     "es": "Información · Hay mucha información en internet.",
+     "ko": "정보 (情報) · 인터넷에는 정보가 많아요."
+    },
+    {
+     "t": 3429.0,
+     "s": "W",
+     "es": "Teléfono · Tenemos que cambiar el teléfono.",
+     "ko": "전화기 · 전화기를 바꿔야 해요."
+    },
+    {
+     "t": 3434.1,
+     "s": "W",
+     "es": "Móvil · Mis padres me regalarán un móvil.",
+     "ko": "휴대폰 (스페인) (携帶電話) · 부모님이 휴대폰을 사 주실 거예요."
+    },
+    {
+     "t": 3440.2,
+     "s": "W",
+     "es": "Número · ¿Cuál es tu número de teléfono?",
+     "ko": "번호 · 네 전화번호가 뭐야?"
+    },
+    {
+     "t": 3444.9,
+     "s": "W",
+     "es": "Mensaje · Le envío un mensaje a él.",
+     "ko": "메시지 · 그에게 메시지를 보내요."
+    },
+    {
+     "t": 3450.2,
+     "s": "W",
+     "es": "Pantalla · No sale nada en la pantalla.",
+     "ko": "화면 (畵面) · 화면에 아무것도 안 나와요."
+    },
+    {
+     "t": 3455.6,
+     "s": "W",
+     "es": "Voz · En voz alta, por favor.",
+     "ko": "목소리 (音聲) · 큰 소리로 말해 주세요."
+    },
+    {
+     "t": 3460.5,
+     "s": "W",
+     "es": "Llamar · ¿Me puedes llamar esta noche?",
+     "ko": "전화하다 · 오늘 밤 전화해 줄 수 있어?"
+    },
+    {
+     "t": 3466.2,
+     "s": "W",
+     "es": "Sonar · El móvil suena.",
+     "ko": "울리다 (鳴) · 휴대폰이 울려요."
+    },
+    {
+     "t": 3470.2,
+     "s": "W",
+     "es": "Alarma · No he oído la alarma.",
+     "ko": "알람 (警報) · 알람을 못 들었어요."
+    },
+    {
+     "t": 3475.4,
+     "s": "W",
+     "es": "Cargar · ¿Por qué no cargas el móvil?",
+     "ko": "충전하다 (充塡) · 휴대폰 충전 좀 하지 그래?"
+    },
+    {
+     "t": 3480.6,
+     "s": "W",
+     "es": "Saldo · No tengo saldo.",
+     "ko": "잔액 (殘額) · 잔액이 없어요."
+    },
+    {
+     "t": 3485.3,
+     "s": "W",
+     "es": "Aplicación · Esta aplicación es muy útil.",
+     "ko": "앱, 응용 프로그램 (應用) · 이 앱은 아주 유용해요."
+    }
+   ]
+  },
+  {
+   "title": "Día 27 · 숫자와 요일",
+   "lines": [
+    {
+     "t": 3493.6,
+     "s": "N",
+     "es": "Día 27",
+     "ko": "27일차 · 숫자와 요일"
+    },
+    {
+     "t": 3525.2,
+     "s": "W",
+     "es": "Diez, once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve",
+     "ko": "10, 11, 12, 13, 14, 15, 16, 17, 18, 19"
+    },
+    {
+     "t": 3555.9,
+     "s": "W",
+     "es": "Veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien",
+     "ko": "20, 30, 40, 50, 60, 70, 80, 90, 100"
+    },
+    {
+     "t": 3581.7,
+     "s": "W",
+     "es": "Doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos, mil",
+     "ko": "200, 300, 400, 500, 600, 700, 800, 900, 1000"
+    },
+    {
+     "t": 3609.7,
+     "s": "W",
+     "es": "Un millón, mil millones, un billón",
+     "ko": "100만, 10억, 1조"
+    },
+    {
+     "t": 3619.9,
+     "s": "W",
+     "es": "Primero/a, segundo/a, tercero/a, cuarto/a, quinto/a, sexto/a, séptimo/a, octavo/a, noveno/a, décimo/a",
+     "ko": "첫 번째, 두 번째, 세 번째 … 열 번째 (서수)"
+    },
+    {
+     "t": 3662.2,
+     "s": "W",
+     "es": "Enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre",
+     "ko": "1월, 2월, 3월, 4월, 5월, 6월, 7월, 8월, 9월, 10월, 11월, 12월"
+    },
+    {
+     "t": 3695.8,
+     "s": "W",
+     "es": "Lunes, martes, miércoles, jueves, viernes, sábado, domingo",
+     "ko": "월요일, 화요일, 수요일, 목요일, 금요일, 토요일, 일요일"
+    },
+    {
+     "t": 3722.7,
+     "s": "W",
+     "es": "Contar, sumar, restar, multiplicar, dividir, número impar, número par",
+     "ko": "세다·계산하다, 더하다, 빼다, 곱하다, 나누다, 홀수, 짝수"
+    },
+    {
+     "t": 3746.8,
+     "s": "W",
+     "es": "Precio, mediodía, medianoche, madrugada",
+     "ko": "가격, 정오, 자정, 새벽"
+    },
+    {
+     "t": 3755.2,
+     "s": "W",
+     "es": "Temprano, tarde, a tiempo, pronto, ahora, ayer, hoy, mañana",
+     "ko": "일찍, 늦게, 제시간에, 곧, 지금, 어제, 오늘, 내일"
+    },
+    {
+     "t": 3779.6,
+     "s": "W",
+     "es": "Semana, fin de semana, año, mes, día, día de la semana, calendario, reloj, hora, minuto",
+     "ko": "주, 주말, 해(년), 월, 날, 요일, 달력, 시계, 시간, 분"
+    }
+   ]
+  },
+  {
+   "title": "Día 28 · 모양",
+   "lines": [
+    {
+     "t": 3808.8,
+     "s": "N",
+     "es": "Día 28",
+     "ko": "28일차 · 모양"
+    },
+    {
+     "t": 3817.0,
+     "s": "W",
+     "es": "Forma · La calle tiene una forma de T.",
+     "ko": "모양 (形態) · 그 길은 T자 모양이에요."
+    },
+    {
+     "t": 3822.2,
+     "s": "W",
+     "es": "Redondo/a · Me gusta el reloj redondo.",
+     "ko": "둥근 (圓形) · 나는 둥근 시계가 좋아요."
+    },
+    {
+     "t": 3829.2,
+     "s": "W",
+     "es": "Cuadrado/a · Él tiene una cara cuadrada.",
+     "ko": "네모난 (四角形) · 그는 얼굴이 각졌어요."
+    },
+    {
+     "t": 3836.1,
+     "s": "W",
+     "es": "Triangular · Esto es muy triangular.",
+     "ko": "삼각형의 (三角形) · 이건 정말 삼각형이네요."
+    },
+    {
+     "t": 3841.6,
+     "s": "W",
+     "es": "Línea recta · El niño traza una línea recta.",
+     "ko": "직선 (直線) · 아이가 직선을 그어요."
+    },
+    {
+     "t": 3847.5,
+     "s": "W",
+     "es": "Línea curva · El artista usa líneas curvas.",
+     "ko": "곡선 (曲線) · 그 화가는 곡선을 써요."
+    },
+    {
+     "t": 3853.8,
+     "s": "W",
+     "es": "Cono · Estos países forman un cono.",
+     "ko": "원뿔 (圓錐) · 이 나라들은 원뿔 모양을 이뤄요."
+    },
+    {
+     "t": 3859.7,
+     "s": "W",
+     "es": "Fino/a · Tu cara es muy fina.",
+     "ko": "가는, 섬세한 (細) · 너는 얼굴이 정말 갸름해."
+    },
+    {
+     "t": 3866.2,
+     "s": "W",
+     "es": "Igual · Ellos son casi iguales.",
+     "ko": "같은 (平等) · 그들은 거의 똑같아요."
+    },
+    {
+     "t": 3871.0,
+     "s": "W",
+     "es": "Diferente · Necesito algo diferente.",
+     "ko": "다른 (差異) · 뭔가 다른 게 필요해요."
+    },
+    {
+     "t": 3876.5,
+     "s": "W",
+     "es": "Grueso/a · El libro es muy grueso.",
+     "ko": "두꺼운 (厚) · 그 책은 아주 두꺼워요."
+    },
+    {
+     "t": 3883.4,
+     "s": "W",
+     "es": "Columna · Hay una columna en el centro.",
+     "ko": "기둥 (柱) · 가운데에 기둥이 하나 있어요."
+    },
+    {
+     "t": 3888.6,
+     "s": "W",
+     "es": "Pirámide · Dibujo una pirámide.",
+     "ko": "피라미드 (金字塔) · 나는 피라미드를 그려요."
+    },
+    {
+     "t": 3893.7,
+     "s": "W",
+     "es": "Plano/a · Estos zapatos son planos.",
+     "ko": "평평한 (平面) · 이 신발은 굽이 없어요."
+    }
+   ]
+  },
+  {
+   "title": "Día 29 · 반대말 형용사",
+   "lines": [
+    {
+     "t": 3901.9,
+     "s": "N",
+     "es": "Día 29",
+     "ko": "29일차 · 반대말 형용사"
+    },
+    {
+     "t": 3910.5,
+     "s": "W",
+     "es": "Rápido/a · ¿Has visto aquel avión rápido?",
+     "ko": "빠른 (迅速) · 저 빠른 비행기 봤어?"
+    },
+    {
+     "t": 3918.0,
+     "s": "W",
+     "es": "Lento/a · La tortuga es lenta.",
+     "ko": "느린 (緩慢) · 거북이는 느려요."
+    },
+    {
+     "t": 3924.7,
+     "s": "W",
+     "es": "Barato/a · En este restaurante no hay comida barata.",
+     "ko": "싼 · 이 식당에는 싼 음식이 없어요."
+    },
+    {
+     "t": 3932.5,
+     "s": "W",
+     "es": "Caro/a · Ella siempre compra los zapatos caros.",
+     "ko": "비싼 · 그녀는 항상 비싼 신발을 사요."
+    },
+    {
+     "t": 3939.6,
+     "s": "W",
+     "es": "Nuevo/a · Van a construir un puente nuevo.",
+     "ko": "새로운 (新) · 새 다리를 지을 거래요."
+    },
+    {
+     "t": 3946.6,
+     "s": "W",
+     "es": "Viejo/a · Mi abuela me dio un bolso viejo.",
+     "ko": "낡은, 늙은 (舊) · 할머니가 낡은 가방을 주셨어요."
+    },
+    {
+     "t": 3954.1,
+     "s": "W",
+     "es": "Joven · ¿Quién es ese hombre joven?",
+     "ko": "젊은 · 저 젊은 남자는 누구예요?"
+    },
+    {
+     "t": 3958.5,
+     "s": "W",
+     "es": "Bueno/a · Buen viaje.",
+     "ko": "좋은 (良) · 즐거운 여행 되세요."
+    },
+    {
+     "t": 3965.3,
+     "s": "W",
+     "es": "Malo/a · Qué mal tiempo.",
+     "ko": "나쁜 (惡) · 날씨 정말 안 좋다."
+    },
+    {
+     "t": 3971.4,
+     "s": "W",
+     "es": "Pesado/a · ¿Por qué mi mochila es tan pesada?",
+     "ko": "무거운 (重) · 내 배낭은 왜 이렇게 무겁지?"
+    },
+    {
+     "t": 3978.3,
+     "s": "W",
+     "es": "Ligero/a · Su maleta no es ligera.",
+     "ko": "가벼운 (輕) · 그분 여행 가방은 가볍지 않아요."
+    },
+    {
+     "t": 3985.4,
+     "s": "W",
+     "es": "Fuerte · Sopla un viento fuerte hoy.",
+     "ko": "강한 (强) · 오늘 바람이 세게 불어요."
+    },
+    {
+     "t": 3990.6,
+     "s": "W",
+     "es": "Débil · Ella tiene una voz débil.",
+     "ko": "약한 (弱) · 그녀는 목소리가 약해요."
+    },
+    {
+     "t": 3996.0,
+     "s": "W",
+     "es": "Feliz · Yo soy la chica más feliz del mundo.",
+     "ko": "행복한 · 나는 세상에서 제일 행복한 여자예요."
+    },
+    {
+     "t": 4001.7,
+     "s": "W",
+     "es": "Fácil · Aprender español es fácil.",
+     "ko": "쉬운 · 스페인어 배우기는 쉬워요."
+    },
+    {
+     "t": 4007.1,
+     "s": "W",
+     "es": "Difícil · Tenemos que resolver este problema difícil.",
+     "ko": "어려운 · 이 어려운 문제를 해결해야 해요."
+    },
+    {
+     "t": 4012.9,
+     "s": "W",
+     "es": "Frío/a · No puedo ducharme con agua fría.",
+     "ko": "차가운 (冷) · 찬물로는 샤워 못 해요."
+    },
+    {
+     "t": 4020.0,
+     "s": "W",
+     "es": "Caliente · Me gustaría tomar un café caliente.",
+     "ko": "뜨거운 (溫) · 뜨거운 커피를 마시고 싶어요."
+    },
+    {
+     "t": 4026.0,
+     "s": "W",
+     "es": "Fresco/a · Aquí se venden frutas frescas.",
+     "ko": "신선한, 시원한 (淸) · 여기서 신선한 과일을 팔아요."
+    },
+    {
+     "t": 4033.4,
+     "s": "W",
+     "es": "Limpio/a · La cama está limpia.",
+     "ko": "깨끗한 · 침대가 깨끗해요."
+    },
+    {
+     "t": 4040.0,
+     "s": "W",
+     "es": "Sucio/a · La mesa de mi hermana menor está siempre sucia.",
+     "ko": "더러운 · 내 여동생 책상은 항상 지저분해요."
+    },
+    {
+     "t": 4047.9,
+     "s": "W",
+     "es": "Cómodo/a · Esta silla es cómoda.",
+     "ko": "편안한 · 이 의자는 편해요."
+    },
+    {
+     "t": 4054.4,
+     "s": "W",
+     "es": "Incómodo/a · Estoy incómodo con ellos.",
+     "ko": "불편한 · 나는 그들이 불편해요."
+    },
+    {
+     "t": 4061.6,
+     "s": "W",
+     "es": "Moderno/a · Vivo en un piso moderno.",
+     "ko": "현대적인 (現代) · 나는 현대식 아파트에 살아요."
+    },
+    {
+     "t": 4068.3,
+     "s": "W",
+     "es": "Tradicional · La ropa tradicional de Corea es Hanbok.",
+     "ko": "전통적인 (傳統) · 한국의 전통 의상은 한복이에요."
+    },
+    {
+     "t": 4074.7,
+     "s": "W",
+     "es": "Internacional · Barcelona es una ciudad internacional.",
+     "ko": "국제적인 (國際) · 바르셀로나는 국제도시예요."
+    },
+    {
+     "t": 4080.9,
+     "s": "W",
+     "es": "Rico/a · Su comida es muy rica.",
+     "ko": "맛있는 (味) · 그분 요리는 아주 맛있어요."
+    },
+    {
+     "t": 4087.3,
+     "s": "W",
+     "es": "Picante · La comida coreana es picante.",
+     "ko": "매운 (辛) · 한국 음식은 매워요."
+    }
+   ]
+  },
+  {
+   "title": "Día 30 · 생활 속 동사 표현",
+   "lines": [
+    {
+     "t": 4095.1,
+     "s": "N",
+     "es": "Día 30",
+     "ko": "30일차 · 생활 속 동사 표현"
+    },
+    {
+     "t": 4103.0,
+     "s": "W",
+     "es": "Pasear por · Me gusta pasear por el parque.",
+     "ko": "~을 산책하다 (散策) · 나는 공원 산책을 좋아해요."
+    },
+    {
+     "t": 4108.7,
+     "s": "W",
+     "es": "Ir al centro · Vamos a ir al centro mañana.",
+     "ko": "시내에 가다 · 내일 시내에 가자."
+    },
+    {
+     "t": 4114.4,
+     "s": "W",
+     "es": "Ir de pesca · ¿Quieres ir de pesca conmigo al mar?",
+     "ko": "낚시하러 가다 (漁) · 나랑 바다에 낚시하러 갈래?"
+    },
+    {
+     "t": 4120.4,
+     "s": "W",
+     "es": "Tomar el sol · Los españoles toman el sol en la playa.",
+     "ko": "일광욕하다 (日) · 스페인 사람들은 해변에서 일광욕을 해요."
+    },
+    {
+     "t": 4126.6,
+     "s": "W",
+     "es": "Hacer ruido · Mis vecinos hacen ruido por la noche.",
+     "ko": "시끄럽게 하다 (騷音) · 이웃들이 밤에 시끄럽게 해요."
+    },
+    {
+     "t": 4132.8,
+     "s": "W",
+     "es": "Hacer la maleta · Tengo que hacer la maleta.",
+     "ko": "짐을 싸다 (行李) · 짐을 싸야 해요."
+    },
+    {
+     "t": 4138.2,
+     "s": "W",
+     "es": "Hacer la cama · ¿Por qué no haces la cama?",
+     "ko": "침대를 정리하다 (寢具) · 왜 침대 정리를 안 해?"
+    },
+    {
+     "t": 4143.5,
+     "s": "W",
+     "es": "Poner la lavadora · Me da pereza poner la lavadora.",
+     "ko": "세탁기를 돌리다 (洗濯) · 세탁기 돌리기 귀찮아요."
+    },
+    {
+     "t": 4149.5,
+     "s": "W",
+     "es": "Tener interés en · Mi hijo tiene interés en la historia.",
+     "ko": "~에 관심이 있다 (興味) · 우리 아들은 역사에 관심이 있어요."
+    },
+    {
+     "t": 4155.8,
+     "s": "W",
+     "es": "Ir al extranjero · El actor va al extranjero pronto.",
+     "ko": "해외에 가다 · 그 배우는 곧 해외로 가요."
+    },
+    {
+     "t": 4162.1,
+     "s": "W",
+     "es": "Dejar de trabajar · Quiero dejar de trabajar.",
+     "ko": "일을 그만두다 (中斷) · 일을 그만두고 싶어요."
+    },
+    {
+     "t": 4168.6,
+     "s": "W",
+     "es": "Acordarse de · Todavía me acuerdo de ti.",
+     "ko": "~을 기억하다 (記憶) · 아직도 너를 기억해."
+    },
+    {
+     "t": 4173.2,
+     "s": "W",
+     "es": "Pedir prestado · Él siempre pide prestado dinero.",
+     "ko": "빌리다 (借用) · 그는 항상 돈을 빌려요."
+    },
+    {
+     "t": 4179.2,
+     "s": "W",
+     "es": "Llevarse bien con · No me llevo bien con ella.",
+     "ko": "~와 잘 지내다 (和睦) · 나는 그녀와 사이가 안 좋아요."
+    },
+    {
+     "t": 4184.6,
+     "s": "W",
+     "es": "Fregar los platos · Mi padre friega los platos.",
+     "ko": "설거지하다 (洗滌) · 아빠가 설거지를 하세요."
+    },
+    {
+     "t": 4191.5,
+     "s": "W",
+     "es": "Pasar la aspiradora · Necesitas pasar la aspiradora.",
+     "ko": "청소기를 돌리다 (淸掃) · 너 청소기 돌려야 해."
+    },
+    {
+     "t": 4197.8,
+     "s": "W",
+     "es": "Echar una mano · ¿Me puedes echar una mano?",
+     "ko": "도와주다 (助力) · 나 좀 도와줄 수 있어?"
+    },
+    {
+     "t": 4203.2,
+     "s": "W",
+     "es": "Ir de excursión · Este sábado vamos de excursión.",
+     "ko": "소풍 가다 (遠足) · 이번 토요일에 소풍 가요."
+    },
+    {
+     "t": 4208.3,
+     "s": "W",
+     "es": "Montar en bicicleta · Los domingos monto en bicicleta.",
+     "ko": "자전거를 타다 (自轉車) · 나는 일요일마다 자전거를 타요."
+    },
+    {
+     "t": 4215.6,
+     "s": "W",
+     "es": "Compartir piso · Comparto piso con una chica alemana.",
+     "ko": "집을 같이 쓰다 (共有) · 나는 독일 여자애랑 집을 같이 써요."
+    },
+    {
+     "t": 4221.6,
+     "s": "W",
+     "es": "Tomar la decisión · Es difícil tomar la decisión.",
+     "ko": "결정을 내리다 (決定) · 결정을 내리기는 어려워요."
+    }
+   ]
+  }
+ ]
+}
