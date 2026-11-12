@@ -1,0 +1,323 @@
+{
+ "lang": "en",
+ "date": "2026-11-12",
+ "title": "읽기는 뇌를 물리적으로 다시 짠다 — 읽는 뇌 딥다이브",
+ "es": "The architecture of your mind is always under construction.",
+ "emoji": "🧠",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "How Reading Physically Rewires Your Brain",
+ "audio": "audio.m4a",
+ "duration": "15:24",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "두 진행자가 BBC 월드 서비스 영상 '읽기는 뇌를 어떻게 바꿀까'를 영어로 깊이 파고들어요. 뇌에는 읽기 센터가 없어서 시각·청각·언어 부품을 주워 모아 회로를 짓는다는 '해커' 비유, 기원전 3300년의 쐐기 문자, 영어 뇌와 중국어 뇌의 차이와 중국어만 잃은 뇌졸중 환자, 소설 속 배신에 배가 조여 오는 이유인 전측 섬엽과 '공감 엔진', 화면 훑어보기와 여덟 살 아이들의 실행 기능, 민주주의, 그리고 읽는 모습을 보여 주라는 해독제까지 이야기해요. (같은 날 올라온 BBC 원본 영상 강의와 함께 들어 보세요.)",
+ "topics": [
+  "no reading center — the brain as a scavenging hacker",
+  "3300 BC · cuneiform · hieroglyphics",
+  "English (phonetic) vs. Chinese (visual-spatial) reading circuits · the stroke patient",
+  "visceral reading · the anterior insula · the empathy engine",
+  "skimming screens · executive function · democracy · go back to basics",
+  "구문: not just A, it's B · so … that · as if · rather than · what if / what … might"
+ ],
+ "grammar": [
+  {
+   "title": "① 핵심 흐름 — 읽는 뇌의 다섯 장면",
+   "lead": "에피소드 전체를 한 표로 정리해요.",
+   "table": {
+    "head": [
+     "장면",
+     "핵심 문장",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "1 해커",
+      "The human brain simply doesn't have a reading center.",
+      "인간의 뇌에는 읽기 센터가 없다"
+     ],
+     [
+      "2 문자 체계",
+      "The type of language you learn physically dictates the architecture of the brain.",
+      "배우는 언어가 뇌 구조를 결정한다"
+     ],
+     [
+      "3 공감",
+      "Deep reading is the practice of human empathy on a literal physical level.",
+      "깊이 읽기는 몸으로 하는 공감 연습이다"
+     ],
+     [
+      "4 화면",
+      "The screen itself isn't the primary danger. It's the mode of consumption.",
+      "화면이 아니라 소비 방식이 문제다"
+     ],
+     [
+      "5 해독제",
+      "Neuroplasticity works in both directions.",
+      "신경가소성은 양방향으로 작동한다"
+     ]
+    ]
+   },
+   "tip": "When you read deeply, you physically change your brain. — 오늘의 핵심 문장이에요."
+  },
+  {
+   "title": "② It's not just that A. It's that B. — A만이 아니라 B다",
+   "lead": "앞 사람의 말을 받아서 한 단계 더 깊이 들어갈 때 써요.",
+   "examples": [
+    [
+     "It's not just that the hacker plugged the microphone into the camera. It's that the physical wires between those parts literally thicken.",
+     "해커가 마이크를 카메라에 꽂기만 한 게 아니라, 부품 사이의 전선이 말 그대로 굵어진다는 거예요."
+    ],
+    [
+     "Deep reading isn't just data processing. It is the practice of human empathy.",
+     "깊이 읽기는 단순한 데이터 처리가 아니라 인간 공감의 연습이에요."
+    ]
+   ]
+  },
+  {
+   "title": "③ so … that / as … as — 정도와 비교",
+   "lead": "<b>so + 형용사/부사 + that</b> = 너무 ~해서 …하다. <b>as … as</b> = ~만큼 …한.",
+   "examples": [
+    [
+     "We rely on reading so heavily every single day that we treat it like an innate human trait.",
+     "매일 읽기에 너무 많이 의존해서 타고난 특성처럼 여겨요."
+    ],
+    [
+     "Like it's as hardwired into our DNA as walking or breathing.",
+     "걷기나 숨쉬기만큼 DNA에 새겨져 있는 것처럼요."
+    ],
+    [
+     "They're separated enough physically that localized damage can destroy one while totally sparing the other.",
+     "충분히 떨어져 있어서 국소 손상이 하나만 망가뜨릴 수 있어요. (enough … that)"
+    ]
+   ]
+  },
+  {
+   "title": "④ as if / like — 마치 ~인 것처럼",
+   "lead": "<b>as if</b> 뒤에는 절(주어+동사)이 와요. 구어에서는 like도 써요.",
+   "examples": [
+    [
+     "It sends the exact same nervous system signals to your gut as if you were experiencing that social threat yourself.",
+     "마치 그 사회적 위협을 직접 겪는 것처럼 똑같은 신경 신호를 배 속에 보내요. (가정이라 were)"
+    ],
+    [
+     "We treat it like it's just this innate human trait.",
+     "그걸 그냥 타고난 인간의 특성처럼 여겨요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 원인과 결과를 잇는 동사 — predict · trigger · undermine · compromise",
+   "lead": "과학 이야기에서 자주 쓰는 '영향' 동사예요.",
+   "examples": [
+    [
+     "The amount of digital exposure a child has directly predicts negative attentional executive function processing.",
+     "아이의 디지털 노출량이 실행 기능 저하를 직접 예측해요."
+    ],
+    [
+     "Witnessing a huge betrayal triggered that same region.",
+     "큰 배신을 목격하면 같은 영역이 작동했어요."
+    ],
+    [
+     "Skimming undermines critical thinking.",
+     "훑어보기는 비판적 사고를 약화시켜요."
+    ],
+    [
+     "Democratic deliberation is severely compromised.",
+     "민주적 숙의가 심각하게 훼손돼요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ rather than / instead of — ~하기보다, ~ 대신",
+   "lead": "두 가지를 대비할 때 써요. 뒤에 동사가 오면 -ing.",
+   "examples": [
+    [
+     "Our brains quickly adapt to skimming for quick information, rather than diving deeply into a narrative.",
+     "뇌는 이야기에 깊이 빠지기보다 빠른 정보를 훑는 데 금세 적응해요."
+    ],
+    [
+     "They forced the visual hardware to recognize an abstract clay symbol instead.",
+     "대신 시각 하드웨어가 추상적인 점토 기호를 알아보게 했어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 마무리 질문 — If …, what … might …?",
+   "lead": "조건을 깔고 미래를 상상하게 하는 질문 패턴이에요.",
+   "examples": [
+    [
+     "If the human brain is so wonderfully adaptable that it managed to hijack ancient hardware to invent reading…",
+     "만약 인간의 뇌가 오래된 하드웨어를 가로채 읽기를 발명할 만큼 적응력이 뛰어나다면…"
+    ],
+    [
+     "What entirely new, unnatural cognitive ability might our brains try to co-opt our reading circuits for a thousand years from now?",
+     "천 년 뒤 우리 뇌는 읽기 회로를 어떤 새로운 능력에 쓰려고 할까요?"
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "It flips everything you think you know about reading upside down.",
+   "읽기에 대해 안다고 생각하는 모든 걸 뒤집어 놓아요."
+  ],
+  [
+   "Okay. Let's unpack this.",
+   "좋아요. 이걸 풀어 봐요."
+  ],
+  [
+   "What's fascinating here is that your analogy is biologically spot on.",
+   "흥미로운 건 그 비유가 생물학적으로 딱 맞는다는 거예요."
+  ],
+  [
+   "This case study is incredible. — It's mind-bending.",
+   "이 사례 연구 놀라워요. — 머리가 띵할 정도예요."
+  ],
+  [
+   "That seems like a weird crossover.",
+   "이상한 조합 같은데요."
+  ],
+  [
+   "That's a great way to put it.",
+   "아주 좋은 표현이에요."
+  ],
+  [
+   "It's not all doom and gloom.",
+   "다 암울하기만 한 건 아니에요."
+  ],
+  [
+   "Thanks for exploring the blueprint with us.",
+   "함께 설계도를 살펴봐 주셔서 감사해요."
+  ]
+ ],
+ "vocab": [
+  { "es": "innate", "ko": "타고난, 선천적인", "ex": "We treat it like it's just this innate human trait.", "exKo": "그걸 타고난 인간의 특성처럼 여겨요." },
+  { "es": "hardwired", "ko": "타고나도록 새겨진", "ex": "as hardwired into our DNA as walking or breathing", "exKo": "걷기나 숨쉬기만큼 DNA에 새겨진" },
+  { "es": "dismantle", "ko": "무너뜨리다, 해체하다", "ex": "a video that completely dismantles that assumption", "exKo": "그 가정을 완전히 무너뜨리는 영상" },
+  { "es": "from scratch", "ko": "처음부터, 맨바닥에서", "ex": "It physically rewires our brains from scratch.", "exKo": "뇌를 처음부터 물리적으로 다시 배선해요." },
+  { "es": "rewire", "ko": "다시 배선하다, 회로를 바꾸다", "ex": "How reading physically rewires your brain", "exKo": "읽기가 뇌를 물리적으로 다시 짜는 방법" },
+  { "es": "skim", "ko": "훑어보다", "ex": "skimming high-speed digital screens", "exKo": "빠른 디지털 화면을 훑어보기" },
+  { "es": "neurotypical", "ko": "신경학적으로 전형적인", "ex": "a neurotypical infant", "exKo": "신경학적으로 전형적인 아기" },
+  { "es": "carve out", "ko": "깎아 만들다, 새기다", "ex": "Millions of years of evolution carved out those pathways.", "exKo": "수백만 년의 진화가 그 경로를 새겼어요." },
+  { "es": "circuitry", "ko": "회로", "ex": "There is zero innate circuitry for reading.", "exKo": "읽기를 위한 타고난 회로는 전혀 없어요." },
+  { "es": "scavenge", "ko": "(쓸 만한 것을) 주워 모으다", "ex": "The brain has to scavenge.", "exKo": "뇌는 주워 모아야 해요." },
+  { "es": "painstakingly", "ko": "공들여, 애써서", "ex": "They painstakingly wire them all together.", "exKo": "공들여 전부 이어 붙여요." },
+  { "es": "spot on", "ko": "딱 맞는, 정확한", "ex": "Your analogy is biologically spot on.", "exKo": "그 비유는 생물학적으로 딱 맞아요." },
+  { "es": "neuroplasticity", "ko": "신경가소성", "ex": "Neuroplasticity works in both directions.", "exKo": "신경가소성은 양방향으로 작동해요." },
+  { "es": "fuse", "ko": "융합하다, 합쳐지다", "ex": "They fuse together and become a permanent new pathway.", "exKo": "합쳐져서 영구적인 새 경로가 돼요." },
+  { "es": "orchestrate", "ko": "지휘하다, 조율하다", "ex": "It's orchestrating this massive collaboration.", "exKo": "거대한 협업을 지휘하고 있어요." },
+  { "es": "lobe", "ko": "(뇌의) 엽", "ex": "It activates all four lobes of the cortex.", "exKo": "피질의 네 엽을 모두 활성화해요." },
+  { "es": "cuneiform", "ko": "쐐기 문자", "ex": "Sumerian cuneiform and Egyptian hieroglyphics", "exKo": "수메르 쐐기 문자와 이집트 상형 문자" },
+  { "es": "inventory", "ko": "재고, 물품 목록", "ex": "They needed a way to track inventory.", "exKo": "재고를 관리할 방법이 필요했어요." },
+  { "es": "blueprint", "ko": "설계도", "ex": "The final structure depends on the blueprint.", "exKo": "최종 구조는 설계도에 달려 있어요." },
+  { "es": "dictate", "ko": "결정하다, 좌우하다", "ex": "The language you learn physically dictates the architecture of the brain.", "exKo": "배우는 언어가 뇌 구조를 물리적으로 좌우해요." },
+  { "es": "decoding", "ko": "해독", "ex": "a circuit heavily reliant on phonetic decoding", "exKo": "소리 해독에 크게 의존하는 회로" },
+  { "es": "sound out", "ko": "소리 내어 읽어 보다", "ex": "You see a letter, you sound it out.", "exKo": "글자를 보면 소리 내어 읽어 봐요." },
+  { "es": "logographic", "ko": "표의 문자의", "ex": "a logographic system, like Chinese characters", "exKo": "한자 같은 표의 문자 체계" },
+  { "es": "intricate", "ko": "복잡한, 정교한", "ex": "They are visually intricate.", "exKo": "시각적으로 복잡해요." },
+  { "es": "stroke", "ko": "뇌졸중", "ex": "a bilingual patient who suffered a massive stroke", "exKo": "심한 뇌졸중을 겪은 이중 언어 환자" },
+  { "es": "mind-bending", "ko": "머리가 띵할 만큼 놀라운", "ex": "It's mind-bending.", "exKo": "머리가 띵할 정도예요." },
+  { "es": "wipe out", "ko": "완전히 없애다", "ex": "It completely wipes out his ability to read Chinese.", "exKo": "중국어 읽는 능력을 완전히 지워 버려요." },
+  { "es": "intact", "ko": "온전한, 손상되지 않은", "ex": "His ability to read English remains entirely intact.", "exKo": "영어 읽는 능력은 온전히 남아요." },
+  { "es": "spare", "ko": "(손상을) 면하게 하다", "ex": "destroy one while totally sparing the other", "exKo": "하나는 망가뜨리고 다른 하나는 온전히 남겨요" },
+  { "es": "visceral", "ko": "본능적인, 몸으로 느끼는", "ex": "Visceral reading.", "exKo": "몸으로 느끼는 읽기." },
+  { "es": "a knot in your stomach", "ko": "배 속이 조이는 느낌, 긴장", "ex": "You feel a literal knot in your stomach.", "exKo": "배 속이 정말로 조여 와요." },
+  { "es": "anterior insula", "ko": "전측 섬엽", "ex": "The bridge there is a region called the anterior insula.", "exKo": "그 다리가 전측 섬엽이라는 영역이에요." },
+  { "es": "light up", "ko": "환하게 켜지다, 활성화되다", "ex": "The anterior insula just lights up.", "exKo": "전측 섬엽이 환하게 켜져요." },
+  { "es": "nausea", "ko": "메스꺼움", "ex": "Digestion, nausea, the physical sensation of pain.", "exKo": "소화, 메스꺼움, 통증 감각." },
+  { "es": "empathic", "ko": "공감의", "ex": "fundamentally associated with our empathic processes", "exKo": "근본적으로 공감 과정과 연결된" },
+  { "es": "disgust", "ko": "혐오", "ex": "Moral disgust and physical disgust became biologically intertwined.", "exKo": "도덕적 혐오와 신체적 혐오가 얽혔어요." },
+  { "es": "co-opt", "ko": "(다른 용도로) 끌어다 쓰다", "ex": "That primitive physical alarm system got co-opted.", "exKo": "그 원시적 경보 시스템이 다른 용도로 쓰였어요." },
+  { "es": "intertwined", "ko": "뒤얽힌", "ex": "became biologically intertwined", "exKo": "생물학적으로 얽히게 됐어요" },
+  { "es": "inhabit", "ko": "~에 살다, 들어가 살다", "ex": "You are physically inhabiting the emotional reality of a fictional character.", "exKo": "허구 인물의 감정 속에 몸으로 들어가 사는 거예요." },
+  { "es": "conform to", "ko": "~에 맞추다, 따르다", "ex": "Because it conforms to the medium.", "exKo": "매체에 맞춰지니까요." },
+  { "es": "bombard", "ko": "퍼붓다, 폭격하다", "ex": "You're bombarded by alerts and push notifications.", "exKo": "알림과 푸시 알림에 폭격당해요." },
+  { "es": "susceptible", "ko": "~에 취약한", "ex": "Skimming makes us highly susceptible to misinformation.", "exKo": "훑어보기는 잘못된 정보에 취약하게 만들어요." },
+  { "es": "executive function", "ko": "실행 기능", "ex": "Think of executive function as the cognitive management system of the brain.", "exKo": "실행 기능을 뇌의 인지 관리 시스템이라고 생각하세요." },
+  { "es": "gratification", "ko": "만족, 충족", "ex": "delay immediate gratification", "exKo": "당장의 만족을 미루다" },
+  { "es": "rapid-fire", "ko": "속사포 같은", "ex": "rapid-fire digital content", "exKo": "속사포 같은 디지털 콘텐츠" },
+  { "es": "doom and gloom", "ko": "비관, 암울함", "ex": "It's not all doom and gloom.", "exKo": "다 암울하기만 한 건 아니에요." },
+  { "es": "fracture", "ko": "산산조각 내다", "ex": "It's designed to fracture focus.", "exKo": "집중을 산산조각 내도록 설계됐어요." },
+  { "es": "deliberation", "ko": "숙의, 신중한 논의", "ex": "Democratic deliberation is severely compromised.", "exKo": "민주적 숙의가 심각하게 훼손돼요." },
+  { "es": "antidote", "ko": "해독제, 해결책", "ex": "The antidote they suggest is beautifully simple.", "exKo": "그들이 제안하는 해독제는 아주 단순해요." },
+  { "es": "model (v.)", "ko": "본보기를 보이다", "ex": "You have to visibly model a reading life.", "exKo": "읽는 삶을 눈에 보이게 보여 줘야 해요." }
+ ],
+ "quiz": [
+  {
+   "q": "According to the hosts, why is reading called an \"unnatural hack\"?",
+   "options": ["It is very difficult", "The brain has no innate reading center and must build one from existing parts", "Only some people can read", "It was invented by computers"],
+   "answer": 1,
+   "explain": "There is zero innate circuitry for reading. The human brain simply doesn't have a reading center."
+  },
+  {
+   "q": "In the hacker analogy, what does the \"revolutionary new piece of software\" stand for?",
+   "options": ["Spoken language", "Written language", "Music", "Memory"],
+   "answer": 1,
+   "explain": "This hacker wants to run a revolutionary new piece of software, which is written language."
+  },
+  {
+   "q": "When did this cognitive hack start?",
+   "options": ["About 300 years ago", "About 3300 BC", "About 1 million years ago", "In the 20th century"],
+   "answer": 1,
+   "explain": "It didn't even start until about 3300 BC, with Sumerian cuneiform and Egyptian hieroglyphics."
+  },
+  {
+   "q": "Why did early agricultural societies need writing?",
+   "options": ["To write poems", "To track inventory and keep permanent records", "To send letters", "To teach children"],
+   "answer": 1,
+   "explain": "Those early agricultural societies needed a way to track inventory. They needed permanent records."
+  },
+  {
+   "q": "Reading Chinese characters relies more heavily on …",
+   "options": ["phonetic decoding", "visual memory and complex spatial recognition", "hearing", "smell"],
+   "answer": 1,
+   "explain": "To process those intricate characters, the brain has to rely far more heavily on visual memory and complex spatial recognition."
+  },
+  {
+   "q": "What happened to the bilingual stroke patient?",
+   "options": ["He lost both languages", "He lost Chinese reading but kept English reading", "He lost English reading but kept Chinese", "Nothing changed"],
+   "answer": 1,
+   "explain": "It completely wipes out his ability to read Chinese. But his ability to read English remains entirely intact."
+  },
+  {
+   "q": "Which brain region lights up when people read emotionally resonant stories?",
+   "options": ["The anterior insula", "The visual cortex only", "The spinal cord", "The heart"],
+   "answer": 0,
+   "explain": "When neuroscientists put people in fMRI machines… the anterior insula just lights up."
+  },
+  {
+   "q": "Originally, the anterior insula evolved to process …",
+   "options": ["music", "physical disgust, like eating rotten meat", "colors", "numbers"],
+   "answer": 1,
+   "explain": "The anterior insula evolved to process physical disgust, like if you ate a piece of rotten meat."
+  },
+  {
+   "q": "What did the research on eight-year-olds find?",
+   "options": ["More screen time improves focus", "Digital exposure predicts worse attention and executive function", "Children read more on screens", "There was no effect"],
+   "answer": 1,
+   "explain": "The amount of digital exposure a child has directly predicts negative attentional executive function processing."
+  },
+  {
+   "q": "According to the hosts, what is the primary danger?",
+   "options": ["The screen itself", "The mode of consumption — the infinite scroll and algorithmic feed", "E-readers", "Long novels"],
+   "answer": 1,
+   "explain": "The screen itself isn't the primary danger. It's the mode of consumption."
+  },
+  {
+   "q": "\"It sends the same signals to your gut ___ you were experiencing that threat yourself.\"",
+   "options": ["as if", "so that", "rather than", "even"],
+   "answer": 0,
+   "explain": "as if + 절 = 마치 ~인 것처럼 (가정이라 were)."
+  },
+  {
+   "q": "What antidote do the researchers suggest?",
+   "options": ["Ban all screens", "Go back to basics — adults visibly model a reading life", "Read only news", "Read faster"],
+   "answer": 1,
+   "explain": "You have to visibly model a reading life… and immerse children in an environment where deep focus is valued."
+  }
+ ]
+}
