@@ -1,0 +1,654 @@
+{
+ "lang": "en",
+ "date": "2026-11-12",
+ "title": "엄격한 친구 조건이 역효과를 내는 이유",
+ "es": "What if the conditions that protect you are the reasons you cut ties?",
+ "emoji": "🫂",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "Why Strict Friendship Conditions Backfire",
+ "audio": "audio.m4a",
+ "duration": "15:53",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "한국어·일본어로 적힌 '우정에 관한 다섯 가지 질문' 메모(11/11 일본어 토론 강의와 같은 자료)를 두 진행자가 영어로 해부해요. 친구의 '조건'은 사회적 자가면역 반응이 되고, 조건을 꽉 쥘수록 마음을 열 수 있는 친구(心を許せる)는 0명에 가까워져요. 이성 친구는 보행자 다리 위의 화물 열차, 절교(絶交)는 지각판이 만든 지진이자 살아 있는 사람을 애도하는 일, 새 친구 사귀기는 정리해고 직후의 채용에 비유해요. 마지막 질문 '어떤 친구를 원하나'는 다시 1번 질문(조건)으로 돌아가는 닫힌 고리라는 분석과 함께, '나를 지키려던 조건이 결국 관계를 끊는 이유라면?'이라는 질문을 남겨요.",
+ "topics": [
+  "jogeon (조건) · an autoimmune response · friend or foe",
+  "kokoro o yuruseru (心を許せる) · head count · cognitive dissonance",
+  "friends with the opposite sex · a freight train over a footbridge",
+  "jeolgyo / zekkō (絶交) · tectonic plates · mourning a living person",
+  "hiring after layoffs · emotional bandwidth · sunk cost fallacy",
+  "구문: the 비교급, the 비교급 · What if …? · isn't because A, but because B · force + 목적어 + to"
+ ],
+ "grammar": [
+  {
+   "title": "① 다섯 가지 질문 (한국어 · 일본어 메모)",
+   "lead": "방송이 분석한 메모의 뼈대예요. 11/11 일본어 토론 강의와 같은 자료예요.",
+   "table": {
+    "head": [
+     "#",
+     "질문",
+     "영어로"
+    ],
+    "rows": [
+     [
+      "1",
+      "친한 친구의 조건 (親友の条件)",
+      "the conditions to call someone a close friend"
+     ],
+     [
+      "2",
+      "마음을 열 수 있는 친구는 몇 명 (心を許せる)",
+      "how many friends you can open your heart to"
+     ],
+     [
+      "3",
+      "이성과 친구가 될 수 있나",
+      "Is it possible to be friends with the opposite sex?"
+     ],
+     [
+      "4",
+      "멀어지거나 절교한 적 (絶交)",
+      "Have you ever drifted apart or cut ties?"
+     ],
+     [
+      "5",
+      "친구가 더 많으면 좋을까, 어떤 친구를 원하나",
+      "Would it be better to have more friends? What kind?"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "② the + 비교급, the + 비교급 — ~할수록 더 ~하다",
+   "lead": "이번 에피소드의 핵심 논리예요.",
+   "examples": [
+    [
+     "The tighter you grip your protective conditions, the lower your head count of truly intimate connections becomes.",
+     "방어적인 조건을 꽉 쥘수록 정말 친밀한 관계의 수는 줄어들어요."
+    ]
+   ]
+  },
+  {
+   "title": "③ What if …? / If you had to … — 가정과 상상",
+   "lead": "듣는 사람을 끌어들일 때 쓰는 가정 표현.",
+   "examples": [
+    [
+     "If you had to write down the exact terms and conditions, could you actually do it?",
+     "정확한 조건을 적어야 한다면 실제로 적을 수 있을까요?"
+    ],
+    [
+     "What if the very strict conditions you set … are the exact same reasons you end up having to cut ties?",
+     "나를 지키려고 세운 바로 그 조건이 결국 관계를 끊는 이유라면요?"
+    ]
+   ]
+  },
+  {
+   "title": "④ isn't because A, but because B — A 때문이 아니라 B 때문이다",
+   "lead": "원인을 바로잡는 구조.",
+   "examples": [
+    [
+     "The reason your inner circle is so small isn't because the world is lacking in good people, but because your internal sorting system is rejecting perfectly healthy tissue.",
+     "가까운 사람이 적은 건 세상에 좋은 사람이 없어서가 아니라, 내 분류 시스템이 건강한 조직을 거부하기 때문이에요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ force/demand + 목적어 + to 부정사 / 원형",
+   "lead": "문서가 독자에게 무언가를 '하게 만든다'는 말이 계속 나와요.",
+   "examples": [
+    [
+     "It forces the listener to confront the actual mechanics of relationship decay.",
+     "듣는 사람이 관계가 썩어 가는 실제 구조를 마주하게 만들어요."
+    ],
+    [
+     "The first prompt demands the reader articulate the conditions.",
+     "첫 질문은 독자가 조건을 말로 설명하도록 요구해요."
+    ],
+    [
+     "It forces you to rewrite your jogeon.",
+     "여러분의 '조건'을 다시 쓰게 만들어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 비유 표현 모음",
+   "lead": "추상적인 관계 이야기를 구체적인 이미지로 바꿔요.",
+   "table": {
+    "head": [
+     "비유",
+     "무엇을 설명하나"
+    ],
+    "rows": [
+     [
+      "an autoimmune response / white blood cells",
+      "너무 엄격한 친구 조건"
+     ],
+     [
+      "search filters that give 0 results",
+      "조건 때문에 친구가 0명"
+     ],
+     [
+      "driving a freight train over a footbridge",
+      "우정에 끼어든 연애 감정"
+     ],
+     [
+      "tectonic plates and an earthquake",
+      "가치관이 바뀌어 생기는 절교"
+     ],
+     [
+      "hiring right after layoffs",
+      "절교 뒤에 새 친구를 사귀는 일"
+     ],
+     [
+      "a closed loop",
+      "5번 질문이 1번 질문으로 돌아가는 구조"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "We want friendship to be a feeling.",
+   "우리는 우정이 하나의 느낌이기를 바라요."
+  ],
+  [
+   "You're completely walled off.",
+   "완전히 벽에 갇혀 있는 거예요."
+  ],
+  [
+   "It's a tough pill to swallow.",
+   "받아들이기 쓴 약이네요."
+  ],
+  [
+   "It doesn't let you off the hook.",
+   "그냥 넘어가게 두지 않아요."
+  ],
+  [
+   "We only have so much to give.",
+   "줄 수 있는 게 그만큼밖에 없어요."
+  ],
+  [
+   "Daunting is an understatement.",
+   "막막하다는 말로는 부족해요."
+  ],
+  [
+   "Knowing the risks but doing it anyway.",
+   "위험을 알면서도 그래도 하는 거죠."
+  ],
+  [
+   "Lay it on us.",
+   "들려주세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "inner circle",
+   "ko": "가장 가까운 사람들, 측근",
+   "ex": "the exact terms and conditions they met to gain entry into your inner circle",
+   "exKo": "가장 가까운 무리에 들어오기 위해 충족한 정확한 조건"
+  },
+  {
+   "es": "terms and conditions",
+   "ko": "약관, 조건",
+   "ex": "write down the exact terms and conditions",
+   "exKo": "정확한 약관과 조건을 적다"
+  },
+  {
+   "es": "itemized",
+   "ko": "항목별로 나눈",
+   "ex": "that clinical itemized list",
+   "exKo": "그 냉정한 항목별 목록"
+  },
+  {
+   "es": "curated",
+   "ko": "엄선된, 큐레이션된",
+   "ex": "our social lives are actually highly curated",
+   "exKo": "우리의 사회생활은 사실 고도로 엄선돼 있어요"
+  },
+  {
+   "es": "subconscious",
+   "ko": "잠재의식의",
+   "ex": "usually on a subconscious level",
+   "exKo": "보통은 무의식 수준에서"
+  },
+  {
+   "es": "deeply ingrained",
+   "ko": "깊이 박힌",
+   "ex": "a deeply ingrained set of internal metrics",
+   "exKo": "깊이 박힌 내부 기준들"
+  },
+  {
+   "es": "concise",
+   "ko": "간결한",
+   "ex": "an incredibly concise source document",
+   "exKo": "놀라울 만큼 간결한 자료"
+  },
+  {
+   "es": "bilingual",
+   "ko": "두 언어로 된",
+   "ex": "The entire document is bilingual.",
+   "exKo": "문서 전체가 두 언어로 되어 있어요."
+  },
+  {
+   "es": "articulate",
+   "ko": "분명히 말로 표현하다",
+   "ex": "demands the reader articulate the conditions",
+   "exKo": "조건을 말로 설명하라고 요구해요"
+  },
+  {
+   "es": "clinical",
+   "ko": "냉정한, 감정 없는",
+   "ex": "that word conditions feels incredibly clinical",
+   "exKo": "'조건'이라는 말은 엄청나게 냉정하게 느껴져요"
+  },
+  {
+   "es": "autoimmune response",
+   "ko": "자가면역 반응",
+   "ex": "Almost like an autoimmune response.",
+   "exKo": "거의 자가면역 반응 같아요."
+  },
+  {
+   "es": "friend or foe",
+   "ko": "아군 아니면 적군",
+   "ex": "It's binary: friend or foe.",
+   "exKo": "이분법이에요. 아군 아니면 적군."
+  },
+  {
+   "es": "hypervigilant",
+   "ko": "과도하게 경계하는",
+   "ex": "if your social immune system is set to be hypervigilant",
+   "exKo": "사회적 면역계가 과민하게 설정돼 있다면"
+  },
+  {
+   "es": "impenetrable fortress",
+   "ko": "뚫을 수 없는 요새",
+   "ex": "you are basically building an impenetrable fortress",
+   "exKo": "기본적으로 뚫을 수 없는 요새를 짓고 있는 거예요"
+  },
+  {
+   "es": "walled off",
+   "ko": "벽으로 막힌, 고립된",
+   "ex": "You're completely walled off.",
+   "exKo": "완전히 벽에 둘러싸여 있어요."
+  },
+  {
+   "es": "head count",
+   "ko": "인원수",
+   "ex": "the head count, exactly",
+   "exKo": "정확히는 인원수"
+  },
+  {
+   "es": "whiplash",
+   "ko": "급반전, 갑작스러운 충격",
+   "ex": "The psychological whiplash between those two concepts is stunning.",
+   "exKo": "두 개념 사이의 심리적 급반전이 놀라워요."
+  },
+  {
+   "es": "jarring",
+   "ko": "당황스러운, 거슬리는",
+   "ex": "Yeah, it really is jarring.",
+   "exKo": "네, 정말 당황스러워요."
+  },
+  {
+   "es": "ironclad",
+   "ko": "철갑을 두른, 확고한",
+   "ex": "the ironclad armor of conditions",
+   "exKo": "조건이라는 철갑"
+  },
+  {
+   "es": "vulnerability",
+   "ko": "취약함, 약한 모습",
+   "ex": "the absolute vulnerability of an open heart",
+   "exKo": "열린 마음의 절대적인 취약함"
+  },
+  {
+   "es": "cognitive dissonance",
+   "ko": "인지 부조화",
+   "ex": "a fundamental cognitive dissonance in human behavior",
+   "exKo": "인간 행동의 근본적인 인지 부조화"
+  },
+  {
+   "es": "stave off",
+   "ko": "막다, 피하다",
+   "ex": "deep unguarded connection to stave off isolation",
+   "exKo": "고립을 막는 무방비한 깊은 연결"
+  },
+  {
+   "es": "be at war with",
+   "ko": "~와 전쟁 중이다, 충돌하다",
+   "ex": "These two survival mechanisms are at war with each other.",
+   "exKo": "이 두 생존 장치는 서로 충돌해요."
+  },
+  {
+   "es": "perilously",
+   "ko": "위태롭게",
+   "ex": "That number drops perilously close to 0.",
+   "exKo": "그 숫자는 위태로울 만큼 0에 가까워져요."
+  },
+  {
+   "es": "a tough pill to swallow",
+   "ko": "받아들이기 힘든 사실",
+   "ex": "It's a tough pill to swallow.",
+   "exKo": "받아들이기 쓴 약이네요."
+  },
+  {
+   "es": "stringent",
+   "ko": "엄격한",
+   "ex": "our stringent filters",
+   "exKo": "우리의 엄격한 필터"
+  },
+  {
+   "es": "let someone off the hook",
+   "ko": "봐주다, 그냥 넘어가다",
+   "ex": "It doesn't let you off the hook.",
+   "exKo": "그냥 넘어가게 두지 않아요."
+  },
+  {
+   "es": "pivot",
+   "ko": "방향을 틀다; 전환",
+   "ex": "No, it pivots sharply.",
+   "exKo": "아니요, 급하게 방향을 틀어요."
+  },
+  {
+   "es": "volatile",
+   "ko": "변덕스러운, 불안정한",
+   "ex": "the volatile, messy reality of maintaining",
+   "exKo": "유지하는 일의 불안정하고 지저분한 현실"
+  },
+  {
+   "es": "push back on",
+   "ko": "~에 반박하다",
+   "ex": "I have to push back on the author's framework here.",
+   "exKo": "여기서는 저자의 틀에 반박해야겠어요."
+  },
+  {
+   "es": "social construct",
+   "ko": "사회적 구성물",
+   "ex": "an outdated social construct",
+   "exKo": "낡은 사회적 구성물"
+  },
+  {
+   "es": "platonic",
+   "ko": "플라토닉한, 비연애적인",
+   "ex": "purely platonic structure",
+   "exKo": "순수하게 플라토닉한 구조"
+  },
+  {
+   "es": "renegotiate",
+   "ko": "다시 협상하다",
+   "ex": "are forced to renegotiate",
+   "exKo": "다시 협상할 수밖에 없어요"
+  },
+  {
+   "es": "compartmentalize",
+   "ko": "칸칸이 나누다, 분리하다",
+   "ex": "notoriously bad at compartmentalizing intimate feelings",
+   "exKo": "친밀한 감정을 나눠 두는 데 악명 높게 서툰"
+  },
+  {
+   "es": "contaminant",
+   "ko": "오염 물질",
+   "ex": "an introduced contaminant to the ecosystem",
+   "exKo": "생태계에 들어온 오염 물질"
+  },
+  {
+   "es": "drift apart",
+   "ko": "(사이가) 멀어지다",
+   "ex": "Have you ever drifted apart from a close friend?",
+   "exKo": "가까운 친구와 멀어진 적이 있나요?"
+  },
+  {
+   "es": "cut ties (with)",
+   "ko": "(~와) 관계를 끊다",
+   "ex": "cut ties with someone you thought was a lifelong friend",
+   "exKo": "평생 친구라 생각한 사람과 관계를 끊다"
+  },
+  {
+   "es": "lose touch",
+   "ko": "연락이 끊기다",
+   "ex": "It doesn't ask if you lost touch.",
+   "exKo": "연락이 끊겼느냐고 묻는 게 아니에요."
+  },
+  {
+   "es": "sever",
+   "ko": "잘라 내다, 끊다",
+   "ex": "to actively sever the bond",
+   "exKo": "적극적으로 유대를 끊다"
+  },
+  {
+   "es": "estrangement",
+   "ko": "소원함, 절연",
+   "ex": "the psychology of estrangement",
+   "exKo": "절연의 심리학"
+  },
+  {
+   "es": "amputation",
+   "ko": "절단",
+   "ex": "a violent amputation of the relationship",
+   "exKo": "관계의 폭력적인 절단"
+  },
+  {
+   "es": "tectonic plates",
+   "ko": "지각판",
+   "ex": "I think of it like tectonic plates.",
+   "exKo": "저는 지각판 같다고 생각해요."
+  },
+  {
+   "es": "detonate",
+   "ko": "폭파하다",
+   "ex": "detonate the bridge connecting you to that person",
+   "exKo": "그 사람과 이어진 다리를 폭파하다"
+  },
+  {
+   "es": "wield",
+   "ko": "(무기를) 휘두르다",
+   "ex": "you were the one who wielded the knife",
+   "exKo": "칼을 휘두른 사람이 나였어요"
+  },
+  {
+   "es": "precarious",
+   "ko": "불안정한, 위태로운",
+   "ex": "a very precarious emotional state",
+   "exKo": "아주 불안정한 감정 상태"
+  },
+  {
+   "es": "apt",
+   "ko": "적절한",
+   "ex": "That is a very apt analogy.",
+   "exKo": "아주 적절한 비유네요."
+  },
+  {
+   "es": "bandwidth",
+   "ko": "(감정·정신적) 여력",
+   "ex": "emotional bandwidth",
+   "exKo": "감정적 여력"
+  },
+  {
+   "es": "onboard",
+   "ko": "(신입을) 적응시키다",
+   "ex": "the prospect of onboarding someone new is daunting",
+   "exKo": "새 사람을 적응시키는 건 막막해요"
+  },
+  {
+   "es": "daunting",
+   "ko": "벅찬, 막막한",
+   "ex": "Daunting is an understatement.",
+   "exKo": "막막하다는 말로는 부족해요."
+  },
+  {
+   "es": "an understatement",
+   "ko": "절제된 표현, 과소 표현",
+   "ex": "Daunting is an understatement.",
+   "exKo": "막막하다는 건 약한 표현이에요."
+  },
+  {
+   "es": "sunk cost fallacy",
+   "ko": "매몰 비용의 오류",
+   "ex": "operating on the sunk cost fallacy",
+   "exKo": "매몰 비용의 오류로 움직이는"
+  },
+  {
+   "es": "full circle",
+   "ko": "한 바퀴 돌아 제자리",
+   "ex": "It comes full circle.",
+   "exKo": "한 바퀴 돌아 제자리로 와요."
+  },
+  {
+   "es": "go into overdrive",
+   "ko": "과열되다, 풀가동하다",
+   "ex": "The autoimmune system goes into overdrive.",
+   "exKo": "자가면역계가 과열돼요."
+  },
+  {
+   "es": "grace",
+   "ko": "너그러움, 은혜",
+   "ex": "adjust those conditions toward grace",
+   "exKo": "그 조건을 너그러움 쪽으로 조정하다"
+  },
+  {
+   "es": "Lay it on us.",
+   "ko": "말해 봐요, 들려줘요",
+   "ex": "Lay it on us.",
+   "exKo": "들려주세요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What kind of source document does the episode analyze?",
+   "options": [
+    "A psychology textbook",
+    "A single bilingual note with five questions about friendship",
+    "A research paper",
+    "A magazine quiz"
+   ],
+   "answer": 1,
+   "explain": "a structured framework of exactly five distinct questions… The entire document is bilingual."
+  },
+  {
+   "q": "Why does the Korean word 'jogeon' feel different from the Japanese phrasing?",
+   "options": [
+    "It is warmer",
+    "It means 'conditions' and feels clinical",
+    "It is longer",
+    "It is a slang word"
+   ],
+   "answer": 1,
+   "explain": "It hinges on the word jogeon, which translates directly to conditions… it feels incredibly clinical."
+  },
+  {
+   "q": "What do the hosts compare strict friendship conditions to?",
+   "options": [
+    "A shopping cart",
+    "An autoimmune response",
+    "A marathon",
+    "A library"
+   ],
+   "answer": 1,
+   "explain": "Almost like a business contract or an autoimmune response."
+  },
+  {
+   "q": "What does 'kokoro o yuruseru' mean?",
+   "options": [
+    "Someone you work with",
+    "Someone you can truly open your heart to",
+    "Someone you met online",
+    "Someone who is rich"
+   ],
+   "answer": 1,
+   "explain": "someone you can truly open your heart to, someone who has your complete unarmoured trust"
+  },
+  {
+   "q": "What happens the tighter you grip your protective conditions?",
+   "options": [
+    "You get more friends",
+    "Your head count of truly intimate connections becomes lower",
+    "You become famous",
+    "Nothing changes"
+   ],
+   "answer": 1,
+   "explain": "The tighter you grip your protective conditions, the lower your head count… becomes."
+  },
+  {
+   "q": "What is the shopping-website analogy about?",
+   "options": [
+    "Buying gifts",
+    "Setting filters so strictly that you get 0 results",
+    "Saving money",
+    "Online friends"
+   ],
+   "answer": 1,
+   "explain": "setting the search filters on a shopping website so strictly that you get 0 results"
+  },
+  {
+   "q": "How is romantic tension in a friendship described?",
+   "options": [
+    "A bonus",
+    "A freight train driven over a footbridge",
+    "A small bridge",
+    "A good habit"
+   ],
+   "answer": 1,
+   "explain": "like driving a freight train over a foot bridge"
+  },
+  {
+   "q": "What do 'jeolgyo' and 'zekkō' describe?",
+   "options": [
+    "Losing touch after moving",
+    "Actively cutting ties — a violent amputation of the relationship",
+    "Making new friends",
+    "A wedding"
+   ],
+   "answer": 1,
+   "explain": "They describe a violent amputation of the relationship."
+  },
+  {
+   "q": "Why is estrangement psychologically heavy?",
+   "options": [
+    "It is expensive",
+    "It is mourning a living person, with grief plus the guilt of agency",
+    "It is boring",
+    "It is easy"
+   ],
+   "answer": 1,
+   "explain": "it involves mourning a living person… grief of loss combined with the guilt of agency"
+  },
+  {
+   "q": "What does the fifth prompt remind the host of?",
+   "options": [
+    "A school exam",
+    "A company hiring right after painful layoffs",
+    "A wedding",
+    "A vacation"
+   ],
+   "answer": 1,
+   "explain": "a company trying to evaluate its hiring needs immediately following a massive painful round of layoffs"
+  },
+  {
+   "q": "Why is the document called a closed loop?",
+   "options": [
+    "It has no end",
+    "'What kind of friends do you want?' sends you back to rewriting your conditions in prompt 1",
+    "It repeats words",
+    "It is in two languages"
+   ],
+   "answer": 1,
+   "explain": "which sends you directly back to the very first prompt. It forces you to rewrite your jogeon."
+  },
+  {
+   "q": "What is the 'rare, difficult path' after cutting ties?",
+   "options": [
+    "Building a higher wall",
+    "Adjusting your conditions toward grace",
+    "Never having friends again",
+    "Using social media more"
+   ],
+   "answer": 1,
+   "explain": "the rare difficult path is choosing to adjust those conditions toward grace"
+  }
+ ]
+}
