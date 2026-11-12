@@ -97,7 +97,7 @@ FORCE = {
     "行不通": "xíng bu tōng", "违背": "wéi bèi", "榨干": "zhà gān", "补觉": "bǔ jiào", "运转": "yùn zhuǎn", "床当": "chuáng dàng",
     "一举两得": "yì jǔ liǎng dé", "闭着": "bì zhe", "不好意思": "bù hǎo yì si", "舒服": "shū fu",
     "变长": "biàn cháng", "极长": "jí cháng", "在地下": "zài dì xià", "重构": "chóng gòu", "重塑": "chóng sù", "理解了": "lǐ jiě le", "估计得": "gū jì děi", "更地道": "gèng dì dao", 
-    "慢慢地": "màn màn de", "自然地": "zì rán de", "更好地": "gèng hǎo de", "深入地": "shēn rù de", "极大地": "jí dà de", "大胆地": "dà dǎn de", "自觉地": "zì jué de", "努力地": "nǔ lì de", "小声地": "xiǎo shēng de", "默默地": "mò mò de", "轻轻地": "qīng qīng de", "做得到": "zuò de dào", "肯定都": "kěn dìng dōu", "很长": "hěn cháng", "来不长": "lái bù cháng", "分享": "fēn xiǎng",
+    "慢慢地": "màn màn de", "自然地": "zì rán de", "更好地": "gèng hǎo de", "深入地": "shēn rù de", "极大地": "jí dà de", "大胆地": "dà dǎn de", "自觉地": "zì jué de", "努力地": "nǔ lì de", "小声地": "xiǎo shēng de", "默默地": "mò mò de", "轻轻地": "qīng qīng de", "做得到": "zuò de dào", "肯定都": "kěn dìng dōu", "看得到": "kàn de dào", "用得到": "yòng de dào", "很长": "hěn cháng", "来不长": "lái bù cháng", "分享": "fēn xiǎng",
     "人为什么": "rén wèi shén me", "都会": "dōu huì", "这只能": "zhè zhǐ néng", "落差": "luò chā", "身处": "shēn chǔ", "处在": "chǔ zài","卡在": "qiǎ zài", "打卡": "dǎ kǎ", "翻个": "fān ge", "这个": "zhè ge", 
 }
 
