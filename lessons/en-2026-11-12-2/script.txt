@@ -1,0 +1,120 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 내레이터, W = Maryanne Wolf (『다시, 책으로(Reader, Come Home)』 저자), G = Rebecca Gotlieb (심리학자·교육 연구자). 화면 이름표로 확인했고, 화면에 얼굴이 안 나오는 01:23~01:36 구간은 말투와 맥락으로 G로 봤어요.  END = 영상 끝 시각
+# 원본: 유튜브 영어 자막(수동 자막). 자막 줄을 문장 단위로 다시 묶고, activation and all four lobes → activation in all four lobes, they became becoming → they became, becoming, the information that's that we're → the information that we're 등 말하다 겹친 부분을 정리했어요. 섹션은 영상 설명의 챕터를 따랐어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 05:55
+
+
+## 왜 우리는 읽는 능력을 갖고 태어나지 않을까?
+[00:00.12]
+N | Clicking on this video activated circuits in your brain that took thousands of years to develop: the ones required for reading. | 이 영상을 클릭한 순간, 여러분 뇌에서 발달하는 데 수천 년이 걸린 회로들이 켜졌어요. 바로 읽기에 필요한 회로들이요.
+[00:08.80]
+W | We think of language as natural, and reading is written language, so it must be natural. | 우리는 언어를 자연스러운 것으로 여기고, 읽기는 글로 쓴 언어니까 당연히 자연스러울 거라고 생각하죠.
+[00:16.16]
+W | But it isn't. | 하지만 그렇지 않아요.
+[00:17.16]
+W | It isn't natural at all. | 전혀 자연스럽지 않아요.
+[00:19.40]
+N | Scientific studies indicate that a neurotypical brain is born with the circuitry that allows our eyes to see and our vocal cords to produce sounds, | 과학 연구에 따르면 신경학적으로 전형적인 뇌는 눈으로 보고 성대로 소리를 내게 해 주는 회로를 갖고 태어나지만,
+[00:28.16]
+N | but it doesn't innately have the ability to read. | 읽는 능력은 타고나지 않아요.
+[00:31.56]
+G | From an evolutionary time scale, our brain hasn't had enough time to develop a dedicated reading brain. | 진화의 시간 척도로 보면, 우리 뇌는 읽기만을 위한 전용 뇌를 발달시킬 만큼 충분한 시간을 갖지 못했어요.
+[00:38.08]
+G | And so to build a reading brain network, we co-opt parts of the brain involved in vision and auditory processing, and language and attention and affect. | 그래서 읽는 뇌 네트워크를 만들기 위해, 우리는 시각과 청각 처리, 그리고 언어와 주의와 정서에 관여하는 뇌 부위들을 끌어다 써요.
+## 읽기는 어디서 시작됐을까?
+[00:49.88]
+N | The Sumerian cuneiform symbols are thought to be one of the earliest writing systems in the world, dating back to around 3300 BC. | 수메르의 쐐기 문자는 세계에서 가장 오래된 문자 체계 중 하나로 여겨지며, 기원전 3300년경까지 거슬러 올라가요.
+[00:58.88]
+N | Around the same time, though, Egyptians started developing their hieroglyphics. | 그런데 거의 같은 시기에 이집트인들도 상형 문자를 발전시키기 시작했어요.
+[01:04.36]
+N | Symbols evolved over time. | 기호들은 시간이 흐르며 진화했어요.
+[01:07.04]
+N | The more we read and wrote, the more sophisticated they became, becoming the letters and characters we recognise today. | 우리가 많이 읽고 쓸수록 기호는 더 정교해졌고, 결국 오늘날 우리가 알아보는 글자와 문자가 되었어요.
+## 읽기는 뇌에 어떤 영향을 줄까?
+[01:14.80]
+N | Scientists now know that reading activates the brain so that letters and words become associated with sounds and meanings. | 이제 과학자들은 읽기가 뇌를 활성화해서 글자와 단어가 소리와 의미에 연결된다는 것을 알고 있어요.
+[01:23.28]
+G | Reading is really a whole brain process. | 읽기는 정말로 뇌 전체가 참여하는 과정이에요.
+[01:26.48]
+G | It involves activation in all four lobes of the cortex. | 대뇌 피질의 네 개 엽이 모두 활성화돼요.
+[01:32.00]
+G | The process of developing a reading brain alters everything from brain activity to brain structure and brain connectivity. | 읽는 뇌를 발달시키는 과정은 뇌 활동부터 뇌 구조, 뇌 연결성까지 모든 것을 바꿔 놓아요.
+## 다른 언어를 읽으면 뇌가 다르게 바뀔까?
+[01:43.20]
+N | And the language we read also shapes our brain. | 그리고 우리가 읽는 언어도 우리 뇌를 형성해요.
+[01:47.12]
+N | Chinese characters, for instance, are an example of the logographic system. | 예를 들어 한자는 표어 문자 체계의 한 예예요.
+[01:52.08]
+N | Each object or idea is represented by a symbol rather than by a set of letters of the alphabet. | 각 사물이나 개념이 알파벳 글자들의 조합이 아니라 하나의 기호로 나타나요.
+[01:57.92]
+N | Research indicates that learning logographic writing systems activates different areas of the brain than learning an alphabet-based language like English. | 연구에 따르면 표어 문자 체계를 배우면 영어처럼 알파벳 기반 언어를 배울 때와는 다른 뇌 영역이 활성화돼요.
+[02:07.52]
+N | The areas involved in visual memory and visual association do more of the work. | 시각 기억과 시각 연합에 관여하는 영역이 더 많은 일을 해요.
+[02:12.96]
+N | This theory was corroborated after scientists studied a bilingual patient who knew both Chinese and English. | 이 이론은 과학자들이 중국어와 영어를 모두 아는 이중 언어 환자를 연구한 뒤 뒷받침되었어요.
+[02:19.56]
+N | The man suffered a massive stroke, which affected some areas of his brain, including his ability to read Chinese, | 그 남성은 큰 뇌졸중을 겪어 뇌의 몇몇 영역이 손상되었고, 중국어를 읽는 능력도 영향을 받았지만,
+[02:26.80]
+N | but astonishingly, his proficiency in English remained intact. | 놀랍게도 영어 실력은 그대로 남아 있었어요.
+[02:31.32]
+W | It's a beautiful example of how the brain circuit reflects the requirements of Chinese, | 이건 뇌 회로가 중국어의 요구 조건을 어떻게 반영하는지 보여 주는 아름다운 예예요.
+[02:40.20]
+W | which inevitably means more visual memory and visual processing of those beautifully intricate symbols or characters. | 그건 필연적으로, 그 아름답고 복잡한 기호나 문자들을 위해 시각 기억과 시각 처리를 더 많이 쓴다는 뜻이에요.
+## 읽기는 몸에 어떤 영향을 줄까?
+[02:52.92]
+N | Whatever the language, reading not only impacts the brain, but it also affects us on a physical level. | 어떤 언어든, 읽기는 뇌에만 영향을 주는 게 아니라 몸의 차원에서도 우리에게 영향을 줘요.
+[02:59.48]
+G | We might feel in our guts the nervousness or the pain of a character. | 우리는 등장인물의 초조함이나 고통을 뱃속에서 느낄 수도 있어요.
+[03:05.32]
+G | And I mean that not only like "I feel it inside me," but I mean that literally. | 그건 '마음속으로 느낀다'는 뜻만이 아니라, 말 그대로 그렇다는 뜻이에요.
+[03:10.48]
+G | Like the anterior insula, which is responsible for gastromotoric movement, for feelings of nausea and pain and discomfort, | 예를 들어 전측 섬엽은 위장 운동, 그리고 메스꺼움과 통증과 불편감을 담당하는데,
+[03:21.20]
+G | is also the part of the brain that's associated with many of the empathic processes. | 공감과 관련된 여러 과정과 연결된 뇌 부위이기도 해요.
+## 화면으로 읽으면 어떻게 될까?
+[03:28.60]
+N | And the brain is very adaptable. | 그리고 뇌는 적응력이 아주 뛰어나요.
+[03:31.60]
+N | Evidence suggests that it's already changing as a result of new technologies. | 증거에 따르면 뇌는 새로운 기술 때문에 이미 변하고 있어요.
+[03:35.72]
+N | Reading on a phone or tablet is generally passive scrolling, often interrupted by messages and alerts. | 휴대폰이나 태블릿으로 읽는 것은 대개 수동적인 스크롤이고, 메시지와 알림으로 자주 끊겨요.
+[03:43.48]
+N | When we read on screens, we tend to skim, and when we skim, we're more susceptible to misinformation. | 화면으로 읽을 때 우리는 대충 훑어보는 경향이 있고, 훑어볼 때 잘못된 정보에 더 쉽게 넘어가요.
+[03:49.40]
+G | We need to support individuals in being able to think critically about the things that they're reading, | 우리는 사람들이 자기가 읽는 것을 비판적으로 생각할 수 있도록 도와야 해요.
+[03:54.68]
+G | because that's fundamental to a democracy: our ability to analyse and think deeply about the information that we're consuming. | 왜냐하면 그게 민주주의의 근본이거든요. 우리가 소비하는 정보를 분석하고 깊이 생각하는 능력 말이에요.
+[04:04.48]
+N | Some academic research even suggests that children who use cell phones from an early age perform worse in school later in life. | 어떤 학술 연구는 어릴 때부터 휴대폰을 쓴 아이들이 나중에 학교 성적이 더 나쁘다고까지 말해요.
+[04:12.84]
+W | At eight years of age, the amount of digital exposure predicted their attentional, executive function processing and academic performance. | 여덟 살 때 디지털 노출량이 아이들의 주의력, 실행 기능 처리, 그리고 학업 성취를 예측했어요.
+[04:23.24]
+W | And it's a negative. | 그리고 그 관계는 부정적이에요.
+[04:24.96]
+W | The more digital, the worse academic. | 디지털을 많이 할수록 학업 성적은 나빠져요.
+[04:28.40]
+W | If you can imagine, if that brain is constantly being distracted and hyperstimulated, you're going to have them not able to really move from one stimulus to the next without a desire for ever quicker intervals between stimuli. | 상상해 보세요. 그 뇌가 끊임없이 산만해지고 과도하게 자극받으면, 아이들은 자극과 자극 사이의 간격이 점점 더 짧기를 바라지 않고는 한 자극에서 다음 자극으로 제대로 넘어가지 못하게 돼요.
+[04:49.88]
+W | So then you have kids going offline and saying they're bored. | 그러니 아이들이 오프라인이 되면 심심하다고 말하게 되는 거죠.
+## 부모는 새 기술을 어떻게 다뤄야 할까?
+[04:54.20]
+N | It's a relatively new field of research, and some studies suggest that monitored and education-focused screen time can be beneficial to children. | 비교적 새로운 연구 분야이고, 일부 연구는 관리되고 교육 중심인 화면 시간은 아이들에게 도움이 될 수 있다고 말해요.
+[05:02.40]
+N | For parents concerned about navigating the digital world, the advice is to go back to basics. | 디지털 세상을 어떻게 헤쳐 나갈지 걱정하는 부모에게 주는 조언은 기본으로 돌아가라는 거예요.
+[05:07.92]
+W | The antidote to all that's happening is the simplest, most beautiful one, and that is to have our children immersed in reading and have a reading life. | 지금 벌어지는 모든 일에 대한 해독제는 가장 단순하고 가장 아름다운 것이에요. 바로 우리 아이들이 읽기에 푹 빠져 읽는 삶을 살게 하는 거예요.
+[05:18.16]
+W | Our parents and teachers all have to help. | 부모와 교사 모두가 도와야 해요.
+[05:21.64]
+W | You know, they have to model, they have to read to their child. | 그러니까, 본보기가 되어야 하고, 아이에게 책을 읽어 줘야 해요.
+[05:25.04]
+W | They have to love it themselves. | 스스로 읽기를 사랑해야 해요.
+[05:28.44]
+N | And this is likely to have benefits beyond the individual reader. | 그리고 이것은 읽는 개인을 넘어서는 이익을 가져올 가능성이 커요.
+[05:32.84]
+G | The power of deep reading is really fundamental to our humanity. | 깊이 읽기의 힘은 우리 인간다움의 정말 근본이에요.
+[05:37.24]
+G | When we read deeply, we change our brains and we change who we are. | 깊이 읽을 때 우리는 뇌를 바꾸고, 우리가 누구인지도 바꿔요.
+[05:42.04]
+G | And that process of changing the minds and hearts of individuals changes society and allows us to build bigger, more beautiful futures. | 그리고 개인의 생각과 마음을 바꾸는 그 과정이 사회를 바꾸고, 우리가 더 크고 더 아름다운 미래를 만들 수 있게 해 줘요.

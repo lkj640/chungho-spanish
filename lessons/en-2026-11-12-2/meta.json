@@ -1,0 +1,782 @@
+{
+ "lang": "en",
+ "date": "2026-11-12",
+ "title": "읽기는 뇌를 어떻게 바꿀까 — 읽는 뇌의 과학",
+ "es": "When we read deeply, we change our brains and we change who we are.",
+ "emoji": "📖",
+ "level": "B2",
+ "channel": "BBC World Service",
+ "videoTitle": "How reading changes the way your brain works - BBC World Service",
+ "youtube": "X1L1Hd3xfrU",
+ "duration": "05:55",
+ "speakers": {
+  "N": "내레이터",
+  "W": "Maryanne Wolf",
+  "G": "Rebecca Gotlieb"
+ },
+ "hideCast": false,
+ "summary": "BBC 월드 서비스의 6분짜리 해설 영상이에요. 말하기와 달리 읽기는 타고나는 능력이 아니어서, 뇌는 시각·청각·언어·주의·정서를 맡던 부위를 '끌어다 써서(co-opt)' 읽는 뇌를 만들어요. 쐐기 문자와 상형 문자에서 시작된 문자의 역사, 뇌 전체가 참여하는 읽기, 한자처럼 표어 문자를 읽을 때 시각 기억 영역이 더 일한다는 연구(뇌졸중 뒤 중국어만 못 읽게 된 이중 언어 환자), 등장인물의 고통을 '뱃속에서' 느끼게 하는 전측 섬엽 이야기가 이어져요. 후반부는 화면으로 훑어 읽기(skim)가 잘못된 정보에 취약하게 만들고 아이들의 주의력·학업에 영향을 준다는 경고, 그리고 해독제는 '아이들이 읽는 삶을 살게 하는 것'이라는 조언으로 끝나요.",
+ "topics": [
+  "a reading brain network · co-opt · cuneiform · hieroglyphics",
+  "a whole brain process · four lobes of the cortex · connectivity",
+  "logographic vs. alphabet-based · visual memory · a bilingual stroke patient",
+  "in our guts · the anterior insula · empathic processes",
+  "skim · passive scrolling · susceptible to misinformation · executive function",
+  "the antidote · a reading life · deep reading",
+  "구문: the 비교급, the 비교급 · not only A but (also) B · so that · be thought to · 명사 + rather than"
+ ],
+ "grammar": [
+  {
+   "title": "① The 비교급, the 비교급 — ~할수록 더 ~하다",
+   "lead": "두 변화가 함께 커지는 관계를 말할 때 써요. 영상에 두 번 나와요. 말할 때는 동사를 빼고 짧게 말하기도 해요.",
+   "table": {
+    "head": [
+     "영상 속 문장",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "The more we read and wrote, the more sophisticated they became.",
+      "많이 읽고 쓸수록 기호는 더 정교해졌다"
+     ],
+     [
+      "The more digital, the worse academic.",
+      "디지털을 많이 할수록 학업은 나빠진다 (동사 생략)"
+     ],
+     [
+      "The sooner, the better.",
+      "빠를수록 좋다 (관용 표현)"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "The more you read, the more you know.",
+     "많이 읽을수록 많이 알게 돼요."
+    ],
+    [
+     "The longer I wait, the more nervous I get.",
+     "오래 기다릴수록 더 긴장돼요."
+    ]
+   ],
+   "tip": "앞뒤 모두 <b>the</b>를 붙이는 게 핵심이에요. worse는 bad의 비교급이에요."
+  },
+  {
+   "title": "② not only A but (also) B — A뿐 아니라 B도",
+   "lead": "정보를 하나 더 얹을 때 쓰는 연결 표현이에요.",
+   "table": {
+    "head": [
+     "영상 속 문장",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "reading not only impacts the brain, but it also affects us on a physical level",
+      "읽기는 뇌에 영향을 줄 뿐 아니라 몸에도 영향을 준다"
+     ],
+     [
+      "I mean that not only like I feel it inside me, but I mean that literally",
+      "마음속 느낌일 뿐 아니라 말 그대로라는 뜻이다"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "She not only speaks Chinese but also writes it.",
+     "그녀는 중국어를 말할 뿐 아니라 쓰기도 해요."
+    ]
+   ],
+   "tip": "Not only를 문장 맨 앞에 두면 도치돼요: <b>Not only does reading change the brain, …</b>"
+  },
+  {
+   "title": "③ 과학 보도에서 쓰는 '근거' 동사",
+   "lead": "연구 결과를 전할 때 단정하지 않고 근거를 밝히는 동사들이에요. 주어는 사람이 아니라 연구·증거예요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "영상 속 예"
+    ],
+    "rows": [
+     [
+      "studies indicate that …",
+      "연구는 ~을 보여 준다",
+      "Scientific studies indicate that a neurotypical brain is born with …"
+     ],
+     [
+      "evidence suggests that …",
+      "증거는 ~을 시사한다",
+      "Evidence suggests that it's already changing"
+     ],
+     [
+      "research even suggests that …",
+      "연구는 ~라고까지 말한다",
+      "Some academic research even suggests that children …"
+     ],
+     [
+      "A was corroborated",
+      "A가 뒷받침되었다",
+      "This theory was corroborated after …"
+     ],
+     [
+      "A predicted B",
+      "A가 B를 예측했다",
+      "the amount of digital exposure predicted their … performance"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Research indicates that sleep improves memory.",
+     "연구에 따르면 잠은 기억력을 높여요."
+    ]
+   ],
+   "tip": "suggest that 뒤는 '~을 시사한다(그럴 가능성이 있다)', indicate는 조금 더 단정적인 '~을 보여 준다'예요."
+  },
+  {
+   "title": "④ be thought to / dating back to — 추정과 연대",
+   "lead": "역사 이야기를 할 때 자주 쓰는 수동 표현과 분사구문이에요.",
+   "table": {
+    "head": [
+     "형태",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "be thought to be …",
+      "~라고 여겨진다",
+      "The Sumerian cuneiform symbols are thought to be one of the earliest writing systems"
+     ],
+     [
+      "…, dating back to + 시기",
+      "~까지 거슬러 올라가는",
+      "dating back to around 3300 BC"
+     ],
+     [
+      "be likely to + 동사",
+      "~할 가능성이 크다",
+      "this is likely to have benefits beyond the individual reader"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "The temple is thought to be over 1,000 years old.",
+     "그 절은 천 년이 넘은 것으로 여겨져요."
+    ],
+    [
+     "a custom dating back to the 15th century",
+     "15세기로 거슬러 올라가는 관습"
+    ]
+   ],
+   "tip": "BC는 기원전, AD는 기원후예요. 3300 BC는 'three thousand three hundred BC'로 읽어요."
+  },
+  {
+   "title": "⑤ so that / rather than / which — 이어 붙이는 연결어",
+   "lead": "긴 문장을 만드는 연결어 세 가지예요.",
+   "table": {
+    "head": [
+     "연결어",
+     "뜻",
+     "영상 속 예"
+    ],
+    "rows": [
+     [
+      "so that + 절",
+      "그래서 ~하도록",
+      "reading activates the brain so that letters and words become associated with sounds"
+     ],
+     [
+      "A rather than B",
+      "B가 아니라 A",
+      "represented by a symbol rather than by a set of letters"
+     ],
+     [
+      ", which …",
+      "(앞 내용 전체를 받아) 그리고 그것은",
+      "a massive stroke, which affected some areas of his brain"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Speak slowly so that everyone can follow.",
+     "모두 따라올 수 있게 천천히 말하세요."
+    ],
+    [
+     "I prefer reading on paper rather than on screens.",
+     "저는 화면보다 종이로 읽는 걸 더 좋아해요."
+    ]
+   ],
+   "tip": "쉼표 + which는 앞의 명사나 문장 전체를 덧붙여 설명해요. that으로 바꿀 수 없어요."
+  },
+  {
+   "title": "⑥ 뇌와 읽기 용어",
+   "lead": "영상에 나오는 핵심 전문어를 정리했어요.",
+   "table": {
+    "head": [
+     "영어",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "circuit / circuitry",
+      "회로"
+     ],
+     [
+      "neurotypical",
+      "신경학적으로 전형적인"
+     ],
+     [
+      "the cortex · four lobes",
+      "대뇌 피질 · 네 개의 엽(전두·두정·측두·후두엽)"
+     ],
+     [
+      "connectivity",
+      "(뇌 영역 간) 연결성"
+     ],
+     [
+      "logographic",
+      "표어 문자의 (한 글자가 한 단어·뜻)"
+     ],
+     [
+      "the anterior insula",
+      "전측 섬엽"
+     ],
+     [
+      "empathic",
+      "공감의"
+     ],
+     [
+      "executive function",
+      "실행 기능 (계획·억제·전환)"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Reading is really a whole brain process.",
+     "읽기는 정말로 뇌 전체가 참여하는 과정이에요."
+    ]
+   ],
+   "tip": "a whole brain process처럼 명사 앞에 명사를 겹쳐 형용사처럼 쓰는 것도 과학 영어의 특징이에요."
+  }
+ ],
+ "phrases": [
+  [
+   "It isn't natural at all.",
+   "전혀 자연스럽지 않아요."
+  ],
+  [
+   "Reading is really a whole brain process.",
+   "읽기는 정말로 뇌 전체가 참여하는 과정이에요."
+  ],
+  [
+   "The more we read and wrote, the more sophisticated they became.",
+   "많이 읽고 쓸수록 기호는 더 정교해졌어요."
+  ],
+  [
+   "We might feel in our guts the nervousness or the pain of a character.",
+   "등장인물의 초조함이나 고통을 뱃속에서 느낄 수도 있어요."
+  ],
+  [
+   "When we skim, we're more susceptible to misinformation.",
+   "훑어볼 때 잘못된 정보에 더 쉽게 넘어가요."
+  ],
+  [
+   "The more digital, the worse academic.",
+   "디지털을 많이 할수록 학업 성적은 나빠져요."
+  ],
+  [
+   "the advice is to go back to basics",
+   "조언은 기본으로 돌아가라는 거예요"
+  ],
+  [
+   "They have to love it themselves.",
+   "스스로 읽기를 사랑해야 해요."
+  ],
+  [
+   "When we read deeply, we change our brains and we change who we are.",
+   "깊이 읽을 때 우리는 뇌를 바꾸고 우리가 누구인지도 바꿔요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "circuit",
+   "ko": "회로",
+   "ex": "activated circuits in your brain",
+   "exKo": "뇌의 회로를 켰다"
+  },
+  {
+   "es": "neurotypical",
+   "ko": "신경학적으로 전형적인",
+   "ex": "a neurotypical brain is born with the circuitry",
+   "exKo": "신경학적으로 전형적인 뇌는 그 회로를 갖고 태어난다"
+  },
+  {
+   "es": "circuitry",
+   "ko": "회로(망) 전체",
+   "ex": "the circuitry that allows our eyes to see",
+   "exKo": "눈으로 보게 해 주는 회로"
+  },
+  {
+   "es": "vocal cords",
+   "ko": "성대",
+   "ex": "our vocal cords to produce sounds",
+   "exKo": "성대가 소리를 내도록"
+  },
+  {
+   "es": "innately",
+   "ko": "선천적으로, 타고나서",
+   "ex": "it doesn't innately have the ability to read",
+   "exKo": "읽는 능력은 타고나지 않는다"
+  },
+  {
+   "es": "evolutionary",
+   "ko": "진화의",
+   "ex": "From an evolutionary time scale",
+   "exKo": "진화의 시간 척도로 보면"
+  },
+  {
+   "es": "dedicated",
+   "ko": "전용의, ~만을 위한",
+   "ex": "a dedicated reading brain",
+   "exKo": "읽기 전용 뇌"
+  },
+  {
+   "es": "co-opt",
+   "ko": "(다른 용도로) 끌어다 쓰다",
+   "ex": "we co-opt parts of the brain involved in vision",
+   "exKo": "시각에 관여하는 뇌 부위를 끌어다 쓴다"
+  },
+  {
+   "es": "auditory",
+   "ko": "청각의",
+   "ex": "vision and auditory processing",
+   "exKo": "시각과 청각 처리"
+  },
+  {
+   "es": "affect (n.)",
+   "ko": "정서, 감정 (심리학 용어)",
+   "ex": "language and attention and affect",
+   "exKo": "언어와 주의와 정서"
+  },
+  {
+   "es": "cuneiform",
+   "ko": "쐐기 문자",
+   "ex": "The Sumerian cuneiform symbols",
+   "exKo": "수메르의 쐐기 문자"
+  },
+  {
+   "es": "date back to",
+   "ko": "~까지 거슬러 올라가다",
+   "ex": "dating back to around 3300 BC",
+   "exKo": "기원전 3300년경까지 거슬러 올라가는"
+  },
+  {
+   "es": "hieroglyphics",
+   "ko": "(이집트) 상형 문자",
+   "ex": "Egyptians started developing their hieroglyphics",
+   "exKo": "이집트인들이 상형 문자를 발전시키기 시작했다"
+  },
+  {
+   "es": "evolve",
+   "ko": "진화하다, 발전하다",
+   "ex": "Symbols evolved over time.",
+   "exKo": "기호들은 시간이 흐르며 진화했다."
+  },
+  {
+   "es": "sophisticated",
+   "ko": "정교한, 세련된",
+   "ex": "the more sophisticated they became",
+   "exKo": "더 정교해졌다"
+  },
+  {
+   "es": "activate",
+   "ko": "활성화하다",
+   "ex": "reading activates the brain",
+   "exKo": "읽기는 뇌를 활성화한다"
+  },
+  {
+   "es": "be associated with",
+   "ko": "~과 연결되다, 관련되다",
+   "ex": "letters and words become associated with sounds",
+   "exKo": "글자와 단어가 소리와 연결된다"
+  },
+  {
+   "es": "lobe",
+   "ko": "(뇌의) 엽",
+   "ex": "all four lobes of the cortex",
+   "exKo": "대뇌 피질의 네 개 엽 모두"
+  },
+  {
+   "es": "cortex",
+   "ko": "(대뇌) 피질",
+   "ex": "all four lobes of the cortex",
+   "exKo": "대뇌 피질의 네 개 엽"
+  },
+  {
+   "es": "alter",
+   "ko": "바꾸다, 변경하다",
+   "ex": "alters everything from brain activity to brain structure",
+   "exKo": "뇌 활동부터 구조까지 모든 것을 바꾼다"
+  },
+  {
+   "es": "connectivity",
+   "ko": "연결성",
+   "ex": "brain structure and brain connectivity",
+   "exKo": "뇌 구조와 뇌 연결성"
+  },
+  {
+   "es": "shape",
+   "ko": "형성하다, 빚어내다",
+   "ex": "the language we read also shapes our brain",
+   "exKo": "우리가 읽는 언어도 뇌를 형성한다"
+  },
+  {
+   "es": "logographic",
+   "ko": "표어 문자의",
+   "ex": "an example of the logographic system",
+   "exKo": "표어 문자 체계의 한 예"
+  },
+  {
+   "es": "be represented by",
+   "ko": "~으로 나타나다",
+   "ex": "represented by a symbol rather than by a set of letters",
+   "exKo": "글자 조합이 아니라 기호로 나타난다"
+  },
+  {
+   "es": "corroborate",
+   "ko": "(증거로) 뒷받침하다",
+   "ex": "This theory was corroborated",
+   "exKo": "이 이론은 뒷받침되었다"
+  },
+  {
+   "es": "bilingual",
+   "ko": "이중 언어의",
+   "ex": "a bilingual patient",
+   "exKo": "이중 언어 환자"
+  },
+  {
+   "es": "suffer a stroke",
+   "ko": "뇌졸중을 겪다",
+   "ex": "The man suffered a massive stroke",
+   "exKo": "그 남성은 큰 뇌졸중을 겪었다"
+  },
+  {
+   "es": "astonishingly",
+   "ko": "놀랍게도",
+   "ex": "but astonishingly, his proficiency in English remained intact",
+   "exKo": "하지만 놀랍게도 영어 실력은 그대로였다"
+  },
+  {
+   "es": "proficiency",
+   "ko": "숙달, 실력",
+   "ex": "his proficiency in English",
+   "exKo": "그의 영어 실력"
+  },
+  {
+   "es": "intact",
+   "ko": "손상되지 않은, 온전한",
+   "ex": "remained intact",
+   "exKo": "온전히 남아 있었다"
+  },
+  {
+   "es": "inevitably",
+   "ko": "필연적으로, 불가피하게",
+   "ex": "which inevitably means more visual memory",
+   "exKo": "그건 필연적으로 더 많은 시각 기억을 뜻한다"
+  },
+  {
+   "es": "intricate",
+   "ko": "복잡하고 정교한",
+   "ex": "those beautifully intricate symbols",
+   "exKo": "그 아름답고 복잡한 기호들"
+  },
+  {
+   "es": "feel in one's gut",
+   "ko": "뱃속에서(본능적으로) 느끼다",
+   "ex": "We might feel in our guts the nervousness",
+   "exKo": "초조함을 뱃속에서 느낄 수도 있다"
+  },
+  {
+   "es": "literally",
+   "ko": "말 그대로",
+   "ex": "but I mean that literally",
+   "exKo": "말 그대로라는 뜻이다"
+  },
+  {
+   "es": "nausea",
+   "ko": "메스꺼움",
+   "ex": "feelings of nausea and pain and discomfort",
+   "exKo": "메스꺼움과 통증과 불편감"
+  },
+  {
+   "es": "discomfort",
+   "ko": "불편(감)",
+   "ex": "nausea and pain and discomfort",
+   "exKo": "메스꺼움과 통증과 불편감"
+  },
+  {
+   "es": "empathic",
+   "ko": "공감의",
+   "ex": "many of the empathic processes",
+   "exKo": "여러 공감 과정"
+  },
+  {
+   "es": "adaptable",
+   "ko": "적응력이 있는",
+   "ex": "the brain is very adaptable",
+   "exKo": "뇌는 적응력이 아주 뛰어나다"
+  },
+  {
+   "es": "passive",
+   "ko": "수동적인",
+   "ex": "generally passive scrolling",
+   "exKo": "대개 수동적인 스크롤"
+  },
+  {
+   "es": "interrupt",
+   "ko": "방해하다, 끊다",
+   "ex": "often interrupted by messages and alerts",
+   "exKo": "메시지와 알림으로 자주 끊긴다"
+  },
+  {
+   "es": "skim",
+   "ko": "훑어보다, 대충 읽다",
+   "ex": "When we read on screens, we tend to skim",
+   "exKo": "화면으로 읽을 때 훑어보는 경향이 있다"
+  },
+  {
+   "es": "be susceptible to",
+   "ko": "~에 취약하다, ~에 넘어가기 쉽다",
+   "ex": "we're more susceptible to misinformation",
+   "exKo": "잘못된 정보에 더 쉽게 넘어간다"
+  },
+  {
+   "es": "misinformation",
+   "ko": "잘못된 정보, 허위 정보",
+   "ex": "more susceptible to misinformation",
+   "exKo": "잘못된 정보에 더 취약한"
+  },
+  {
+   "es": "think critically",
+   "ko": "비판적으로 생각하다",
+   "ex": "being able to think critically about the things that they're reading",
+   "exKo": "읽는 것을 비판적으로 생각할 수 있는 것"
+  },
+  {
+   "es": "fundamental to",
+   "ko": "~의 근본인, ~에 필수적인",
+   "ex": "that's fundamental to a democracy",
+   "exKo": "그게 민주주의의 근본이다"
+  },
+  {
+   "es": "exposure",
+   "ko": "노출",
+   "ex": "the amount of digital exposure",
+   "exKo": "디지털 노출량"
+  },
+  {
+   "es": "executive function",
+   "ko": "실행 기능",
+   "ex": "attentional, executive function processing",
+   "exKo": "주의력, 실행 기능 처리"
+  },
+  {
+   "es": "distracted",
+   "ko": "산만해진, 주의가 흐트러진",
+   "ex": "constantly being distracted and hyperstimulated",
+   "exKo": "끊임없이 산만해지고 과도하게 자극받는"
+  },
+  {
+   "es": "stimulus (pl. stimuli)",
+   "ko": "자극",
+   "ex": "from one stimulus to the next",
+   "exKo": "한 자극에서 다음 자극으로"
+  },
+  {
+   "es": "interval",
+   "ko": "간격",
+   "ex": "ever quicker intervals between stimuli",
+   "exKo": "자극 사이의 점점 더 짧은 간격"
+  },
+  {
+   "es": "beneficial",
+   "ko": "유익한, 이로운",
+   "ex": "screen time can be beneficial to children",
+   "exKo": "화면 시간이 아이들에게 유익할 수 있다"
+  },
+  {
+   "es": "navigate",
+   "ko": "(어려운 상황을) 헤쳐 나가다",
+   "ex": "parents concerned about navigating the digital world",
+   "exKo": "디지털 세상을 헤쳐 나가는 걸 걱정하는 부모"
+  },
+  {
+   "es": "go back to basics",
+   "ko": "기본으로 돌아가다",
+   "ex": "the advice is to go back to basics",
+   "exKo": "조언은 기본으로 돌아가라는 것이다"
+  },
+  {
+   "es": "antidote",
+   "ko": "해독제, 해결책",
+   "ex": "The antidote to all that's happening",
+   "exKo": "지금 벌어지는 모든 일의 해독제"
+  },
+  {
+   "es": "immersed in",
+   "ko": "~에 푹 빠진, 몰두한",
+   "ex": "to have our children immersed in reading",
+   "exKo": "아이들을 읽기에 푹 빠지게 하는 것"
+  },
+  {
+   "es": "model (v.)",
+   "ko": "본보기를 보이다",
+   "ex": "they have to model, they have to read to their child",
+   "exKo": "본보기가 되어 아이에게 읽어 줘야 한다"
+  },
+  {
+   "es": "humanity",
+   "ko": "인간다움, 인류",
+   "ex": "fundamental to our humanity",
+   "exKo": "우리 인간다움의 근본"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why does the narrator say clicking on the video \"activated circuits in your brain\"?",
+   "options": [
+    "Because videos damage the brain",
+    "Because reading the title used circuits that took thousands of years to develop",
+    "Because the brain is born ready to read",
+    "Because of the music"
+   ],
+   "answer": 1,
+   "explain": "Clicking on this video activated circuits … the ones required for reading."
+  },
+  {
+   "q": "According to Maryanne Wolf, is reading natural?",
+   "options": [
+    "Yes, because language is natural",
+    "Only for children",
+    "No, it isn't natural at all",
+    "Only in alphabet languages"
+   ],
+   "answer": 2,
+   "explain": "But it isn't. It isn't natural at all."
+  },
+  {
+   "q": "What does a neurotypical brain NOT innately have?",
+   "options": [
+    "The ability to see",
+    "The ability to produce sounds",
+    "The ability to read",
+    "Vocal cords"
+   ],
+   "answer": 2,
+   "explain": "it doesn't innately have the ability to read."
+  },
+  {
+   "q": "How does the brain build a reading network?",
+   "options": [
+    "It grows a brand-new region",
+    "It co-opts parts used for vision, hearing, language, attention and affect",
+    "It copies the reading brain of parents",
+    "It only uses the visual area"
+   ],
+   "answer": 1,
+   "explain": "we co-opt parts of the brain involved in vision and auditory processing…"
+  },
+  {
+   "q": "Around when do Sumerian cuneiform symbols date back to?",
+   "options": [
+    "300 BC",
+    "1300 BC",
+    "3300 BC",
+    "3300 AD"
+   ],
+   "answer": 2,
+   "explain": "dating back to around 3300 BC."
+  },
+  {
+   "q": "\"Reading is really a whole brain process\" means…",
+   "options": [
+    "Reading uses only the left side",
+    "It activates all four lobes of the cortex",
+    "Reading needs a whole book",
+    "Only adults use the whole brain"
+   ],
+   "answer": 1,
+   "explain": "It involves activation in all four lobes of the cortex."
+  },
+  {
+   "q": "Which areas do more of the work when reading a logographic system like Chinese?",
+   "options": [
+    "Areas for smell",
+    "Areas for visual memory and visual association",
+    "Areas for movement",
+    "Areas for hearing only"
+   ],
+   "answer": 1,
+   "explain": "The areas involved in visual memory and visual association do more of the work."
+  },
+  {
+   "q": "What happened to the bilingual patient after his stroke?",
+   "options": [
+    "He lost both languages",
+    "He could read Chinese but not English",
+    "He lost the ability to read Chinese, but his English remained intact",
+    "He learned a third language"
+   ],
+   "answer": 2,
+   "explain": "his ability to read Chinese … his proficiency in English remained intact."
+  },
+  {
+   "q": "The anterior insula is linked to nausea and pain and also to…",
+   "options": [
+    "empathic processes",
+    "eyesight",
+    "memorizing numbers",
+    "sleep"
+   ],
+   "answer": 0,
+   "explain": "is also the part of the brain that's associated with many of the empathic processes."
+  },
+  {
+   "q": "What tends to happen when we read on screens?",
+   "options": [
+    "We read more slowly",
+    "We skim and become more susceptible to misinformation",
+    "We remember everything",
+    "We stop scrolling"
+   ],
+   "answer": 1,
+   "explain": "When we read on screens, we tend to skim… more susceptible to misinformation."
+  },
+  {
+   "q": "\"The more digital, the worse academic.\" What does this mean?",
+   "options": [
+    "More screen time → better grades",
+    "More digital exposure → worse academic performance",
+    "Digital tools are always bad for adults",
+    "Grades decide screen time"
+   ],
+   "answer": 1,
+   "explain": "the amount of digital exposure predicted … And it's a negative."
+  },
+  {
+   "q": "What is \"the antidote\" Wolf recommends to parents?",
+   "options": [
+    "Banning all phones forever",
+    "Buying educational apps",
+    "Having children immersed in reading and living a reading life",
+    "More homework"
+   ],
+   "answer": 2,
+   "explain": "that is to have our children immersed in reading and have a reading life."
+  }
+ ]
+}
