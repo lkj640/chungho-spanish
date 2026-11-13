@@ -1,0 +1,271 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 화자를 맥락으로 나눴어요. pailla→paella, aí→ají, lenly→Listenly, 끝의 'M.'→Mateo 등 잘못 들린 부분을 바로잡고, 'Cebiche'는 세비체 철자 그대로 두었어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 13:56
+
+
+## 인사 — 오늘의 주제는 좋아하는 음식
+[00:00.28]
+S | Hola a todos y bienvenidos a un nuevo episodio de Easy Spanish Podcast. | 여러분 안녕하세요, 이지 스패니시 팟캐스트의 새 에피소드에 오신 걸 환영해요.
+[00:06.97]
+S | Soy Sofía. | 저는 소피아예요.
+[00:07.89]
+M | Y yo soy Mateo. | 그리고 저는 마테오예요.
+[00:09.16]
+S | Es un placer estar aquí con ustedes hoy. | 오늘 여러분과 함께하게 되어 기뻐요.
+[00:13.61]
+S | Hoy tenemos un tema muy sabroso, Mateo. | 오늘은 아주 맛있는 주제가 있어요, 마테오.
+[00:16.93]
+S | Vamos a hablar de algo que a todos nos gusta. La comida. | 우리 모두가 좋아하는 것에 대해 이야기할 거예요. 바로 음식이에요.
+[00:22.90]
+M | Sí, la comida es uno de mis temas favoritos, Sofía. | 맞아요, 음식은 제가 가장 좋아하는 주제 중 하나예요, 소피아.
+[00:28.64]
+M | ¿De qué vamos a hablar exactamente? | 정확히 무슨 이야기를 할 거예요?
+[00:31.08]
+S | Hoy vamos a compartir nuestras comidas favoritas. | 오늘은 각자 가장 좋아하는 음식을 나눌 거예요.
+[00:34.73]
+S | Cada uno va a describir su plato preferido, por qué le gusta tanto y quizás cómo se prepara. | 각자 제일 좋아하는 요리를 설명하고, 왜 그렇게 좋아하는지, 어쩌면 어떻게 만드는지도 이야기할 거예요.
+[00:42.71]
+M | Qué buena idea. Siempre es interesante escuchar sobre los gustos culinarios de otras personas. | 좋은 생각이에요. 다른 사람들의 음식 취향을 듣는 건 늘 흥미롭죠.
+[00:49.26]
+M | ¿Quién empieza? | 누가 먼저 시작할까요?
+## 소피아의 최애 음식 — 발렌시아 파에야
+[00:50.06]
+S | Yo puedo empezar, Mateo. Mi comida favorita es la paella. | 내가 먼저 할게요, 마테오. 내가 제일 좋아하는 음식은 파에야예요.
+[00:56.46]
+M | Ah, la paella. Qué elección tan clásica y deliciosa. | 아, 파에야. 정말 클래식하고 맛있는 선택이네요.
+[01:02.76]
+M | ¿Qué tipo de paella es tu favorita? Hay muchas. | 어떤 종류의 파에야를 제일 좋아해요? 종류가 많잖아요.
+[01:06.75]
+S | Sí, hay muchos tipos de paella, Mateo. | 네, 파에야는 종류가 많아요, 마테오.
+[01:09.96]
+S | Mi favorita es la paella valenciana, la original. | 내가 제일 좋아하는 건 발렌시아식 파에야, 오리지널이에요.
+[01:15.48]
+S | Es un plato de arroz muy famoso de España. | 스페인에서 아주 유명한 쌀 요리예요.
+[01:19.27]
+M | Entiendo. La paella valenciana. ¿Y qué ingredientes lleva esta paella tan especial? | 알겠어요. 발렌시아식 파에야. 그럼 이 특별한 파에야에는 어떤 재료가 들어가나요?
+[01:26.55]
+S | Bueno, los ingredientes principales son arroz, por supuesto, pero no cualquier arroz. Es un arroz especial para paella. | 음, 주재료는 물론 쌀이에요, 하지만 아무 쌀이나 쓰는 건 아니고요. 파에야 전용 쌀이에요.
+[01:38.26]
+S | También lleva pollo y conejo. | 닭고기와 토끼고기도 들어가요.
+[01:41.85]
+M | Conejo. Eso es interesante. No es común en todos los platos de arroz. | 토끼고기요. 흥미롭네요. 모든 쌀 요리에 흔히 들어가는 건 아니잖아요.
+[01:50.18]
+S | Sí. El conejo es tradicional en la paella valenciana y también lleva verduras frescas como judías verdes y garrofó, que es un tipo de judía blanca grande. | 네. 토끼고기는 발렌시아식 파에야의 전통 재료고, 껍질콩과 가로포(크고 하얀 콩의 한 종류) 같은 신선한 채소도 들어가요.
+[02:03.63]
+M | Mmm, suena muy completo. ¿Qué otros ingredientes tiene? ¿Lleva mariscos también? | 음, 아주 푸짐하게 들리네요. 다른 재료는 뭐가 있어요? 해산물도 들어가나요?
+[02:10.65]
+S | No, la paella valenciana tradicional no lleva mariscos. | 아니요, 전통 발렌시아식 파에야에는 해산물이 들어가지 않아요.
+[02:15.57]
+S | Esa es otra versión, la paella de marisco, que también es muy rica, pero la original lleva carne y verduras. | 그건 다른 버전인 해산물 파에야인데, 그것도 아주 맛있지만 오리지널은 고기와 채소가 들어가요.
+[02:24.87]
+M | Ah, ya veo. Entonces, la paella valenciana es con pollo, conejo y verduras. Eso es muy específico. | 아, 알겠어요. 그러니까 발렌시아식 파에야는 닭고기, 토끼고기, 채소로 만드는 거네요. 아주 구체적이네요.
+[02:35.39]
+S | Exacto. Y no podemos olvidar el azafrán, que le da un color amarillo precioso y un sabor único. | 맞아요. 그리고 사프란을 잊으면 안 돼요, 사프란이 예쁜 노란색과 독특한 맛을 내 주거든요.
+[02:44.37]
+M | Es delicioso. El azafrán le da ese color tan característico. | 맛있죠. 사프란이 그 특유의 색을 내 주죠.
+## 파에야 만드는 법
+[02:51.57]
+M | ¿Y cómo se prepara, Sofía? ¿Es difícil de cocinar? | 그럼 어떻게 만들어요, 소피아? 요리하기 어려워요?
+[02:56.62]
+S | Es un poco laboriosa, pero no es muy difícil si sigues los pasos. | 품이 좀 들긴 하지만, 순서대로 하면 아주 어렵진 않아요.
+[03:02.76]
+S | Primero se sofríe la carne en aceite de oliva en una paellera. | 먼저 파에예라(파에야 팬)에 올리브유를 두르고 고기를 볶아요.
+[03:06.86]
+M | ¿Qué es una paellera? ¿Una sartén grande y plana? | 파에예라가 뭐예요? 크고 평평한 프라이팬이에요?
+[03:11.96]
+S | Una paellera. | 파에예라요.
+[03:13.32]
+M | ¿Entendido? ¿Y después de la carne? | 알겠어요. 그럼 고기 다음에는요?
+[03:16.56]
+S | Después se añaden las verduras y se sofríen también. | 그다음에 채소를 넣고 같이 볶아요.
+[03:22.31]
+S | Luego se añade el agua y se cocina para hacer un caldo. Aquí es donde los sabores se mezclan. | 그러고 나서 물을 넣고 끓여서 육수를 만들어요. 여기서 맛이 서로 어우러져요.
+[03:30.67]
+M | El caldo es importante para el sabor. ¿Y el arroz, cuándo lo pones? | 육수는 맛에 중요하죠. 그럼 쌀은 언제 넣어요?
+[03:37.72]
+S | El arroz se añade al final, cuando el caldo está listo. | 쌀은 마지막에, 육수가 다 됐을 때 넣어요.
+[03:41.66]
+S | Es muy importante no mover el arroz después de añadirlo. | 쌀을 넣은 뒤에는 절대 젓지 않는 게 아주 중요해요.
+[03:46.91]
+S | Se cocina a fuego lento hasta que absorbe todo el líquido. | 약한 불에서 국물을 모두 흡수할 때까지 익혀요.
+[03:52.31]
+M | No mover el arroz. Oh, eso es un detalle importante. ¿Y cuánto tiempo tarda en cocinarse? | 쌀을 젓지 않는다. 아, 그거 중요한 포인트네요. 그럼 조리하는 데 시간이 얼마나 걸려요?
+[04:00.85]
+S | Aproximadamente unos 18 a 20 minutos para el arroz. Pero todo el proceso, desde el principio hasta el final, puede durar una hora o más. | 쌀은 대략 18~20분 정도 걸려요. 하지만 처음부터 끝까지 전체 과정은 한 시간 이상 걸릴 수 있어요.
+[04:12.41]
+M | Una hora. Es un plato que requiere tiempo y dedicación. | 한 시간이라. 시간과 정성이 필요한 요리네요.
+## 파에야가 특별한 이유
+[04:17.31]
+M | ¿Por qué te gusta tanto la paella, Sofía? | 파에야가 왜 그렇게 좋아요, 소피아?
+[04:21.65]
+S | Me gusta porque me recuerda a mi familia. | 우리 가족이 떠오르기 때문에 좋아해요.
+[04:25.65]
+S | Mi abuela siempre la preparaba los domingos. Era un momento de unión para todos. | 할머니가 일요일마다 늘 만들어 주셨어요. 모두가 하나로 모이는 시간이었죠.
+[04:33.03]
+M | Ah, entonces tiene un valor sentimental. La comida hecha por la abuela siempre es la mejor. | 아, 그럼 감성적인 가치가 있네요. 할머니가 만들어 주신 음식이 항상 최고죠.
+[04:40.73]
+S | Totalmente. Además, el sabor es increíble. | 완전히요. 게다가 맛도 놀라워요.
+[04:44.20]
+S | Es una combinación de sabores de la tierra, frescos y muy reconfortantes. Cada grano de arroz tiene mucho sabor. | 땅에서 온 맛들이 어우러진, 신선하고 아주 푸근한 맛이에요. 쌀알 하나하나에 맛이 가득해요.
+[04:55.50]
+M | Mmm, ya me está dando hambre. Necesito probar tu paella un día de estos. | 음, 벌써 배가 고파지네요. 조만간 소피아의 파에야를 꼭 먹어 봐야겠어요.
+[05:02.68]
+S | Claro que sí. Será un placer cocinarla para ti. | 물론이죠. 기꺼이 만들어 줄게요.
+## 마테오의 최애 음식 — 타코 알 파스토르
+[05:07.47]
+S | Pero ahora es tu turno, Mateo. ¿Cuál es tu comida favorita? | 이제 마테오 차례예요. 제일 좋아하는 음식은 뭐예요?
+[05:11.99]
+M | Mi comida favorita son los tacos al pastor. | 내가 제일 좋아하는 음식은 타코 알 파스토르예요.
+[05:19.22]
+S | Oh, los tacos al pastor. Qué buena elección. Son deliciosos. ¿Son de México, verdad? | 오, 타코 알 파스토르. 좋은 선택이에요. 정말 맛있죠. 멕시코 음식 맞죠?
+[05:29.22]
+M | Sí, son de México. Son un tipo de taco muy popular. | 네, 멕시코 음식이에요. 아주 인기 있는 타코의 한 종류예요.
+[05:34.25]
+M | La carne es de cerdo marinada con especias y chiles. | 고기는 향신료와 칠리로 재운 돼지고기예요.
+[05:40.45]
+S | Mmm, cerdo marinado. ¿Qué tipo de especias y chiles usan? | 음, 재운 돼지고기라. 어떤 향신료와 칠리를 쓰나요?
+[05:46.56]
+M | Se usa achiote, que le da un color rojizo a la carne. | 아치오테를 쓰는데, 고기에 붉은빛을 내 줘요.
+[05:51.07]
+M | También se usa orégano, comino, ajo y diferentes chiles secos como guajillo o ancho, y un poco de piña. | 오레가노, 커민, 마늘, 그리고 구아히요나 안초 같은 여러 말린 칠리도 쓰고, 파인애플도 조금 들어가요.
+[06:01.66]
+S | Piña. Eso es una combinación interesante. ¿Cómo se cocina la carne con la piña? | 파인애플이라니. 흥미로운 조합이네요. 고기를 파인애플과 어떻게 익혀요?
+[06:09.78]
+M | La carne se cocina en un trompo, que es un asador vertical giratorio, como el que se usa para el kebab. | 고기는 트롬포에서 익히는데, 케밥에 쓰는 것 같은 수직 회전 꼬치 구이 기계예요.
+[06:17.99]
+M | La piña se pone en la parte superior del trompo y se va cocinando con la carne. | 파인애플은 트롬포 맨 위에 올려서 고기와 함께 익혀요.
+[06:24.68]
+S | Ah, ya entiendo. Así la carne se cocina de manera uniforme y la piña le da un toque dulce y ácido. | 아, 이해했어요. 그렇게 하면 고기가 골고루 익고, 파인애플이 달콤하고 새콤한 맛을 더하겠네요.
+[06:32.46]
+S | ¿Y cómo se prepara el taco? | 그럼 타코는 어떻게 만들어요?
+[06:35.64]
+M | Después de cortar la carne muy finita del trompo, se sirve en tortillas pequeñas de maíz. | 트롬포에서 고기를 아주 얇게 썬 다음, 작은 옥수수 토르티야에 담아 내요.
+[06:41.86]
+M | Se le pone cebolla picada, cilantro fresco y un trozo de piña asada. | 다진 양파, 신선한 고수, 구운 파인애플 조각을 올려요.
+[06:48.62]
+S | Cilantro y cebolla. Esos son esenciales para un buen taco. ¿Y le pones alguna salsa? | 고수와 양파. 맛있는 타코에 꼭 필요하죠. 소스도 뿌려요?
+[06:56.79]
+M | Claro que sí. No es un taco al pastor sin una buena salsa. | 물론이죠. 좋은 소스가 없으면 타코 알 파스토르가 아니에요.
+[07:02.25]
+M | Generalmente se le pone salsa roja picante o salsa verde y un chorrito de limón. | 보통 매운 빨간 소스나 초록 소스를 뿌리고, 라임즙을 조금 짜 넣어요.
+[07:09.46]
+S | Mmm, suena increíblemente sabroso. La combinación de la carne marinada, la piña dulce, el cilantro fresco, la cebolla y la salsa picante es una fiesta de sabores en la boca. | 음, 정말 맛있게 들려요. 양념한 고기, 달콤한 파인애플, 신선한 고수, 양파, 매콤한 소스의 조합은 입안의 맛 축제네요.
+[07:27.23]
+M | Exacto. Es una explosión de sabores. Es salado, dulce, picante y fresco al mismo tiempo. Es mi favorito. | 맞아요. 맛의 폭발이에요. 짭짤하고 달콤하고 매콤하고 상큼한 맛이 동시에 나요. 제 최애예요.
+## 음식에 얽힌 추억
+[07:38.12]
+S | ¿Y por qué son tus favoritos, Mateo? ¿Hay alguna historia detrás de ellos? | 그럼 왜 그게 제일 좋아요, 마테오? 그 뒤에 무슨 사연이 있나요?
+[07:45.33]
+M | Bueno, me recuerdan a mis viajes a México. | 음, 멕시코 여행이 떠오르거든요.
+[07:49.68]
+M | La primera vez que los probé fue en un mercado callejero de la Ciudad de México. | 처음 먹어 본 곳은 멕시코시티의 길거리 시장이었어요.
+[07:54.88]
+M | El ambiente, el olor, la gente, todo era mágico. | 분위기, 냄새, 사람들, 모든 게 마법 같았어요.
+[08:00.05]
+S | Entonces, para ti también es una experiencia y un recuerdo. La comida es mucho más que solo alimentarse, ¿verdad? | 그럼 마테오에게도 경험이자 추억이네요. 음식은 단지 먹는 것 이상이죠, 그렇죠?
+[08:12.84]
+M | Mucho más. Es cultura, es historia, es reunión. | 훨씬 그 이상이에요. 문화이고, 역사이고, 모임이에요.
+[08:17.72]
+M | Cada vez que como tacos al pastor, me transporto a ese lugar y a ese momento. | 타코 알 파스토르를 먹을 때마다 그 장소, 그 순간으로 돌아가요.
+[08:23.85]
+S | Me pasa lo mismo con la paella. No es solo el sabor, es todo lo que lo rodea. Compartir, reír, recordar. | 저도 파에야가 그래요. 맛만이 아니라 그 주변의 모든 것이에요. 나누고, 웃고, 추억하는 것.
+## 파에야 vs 타코 — 다른 점
+[08:35.72]
+M | ¿Cuál crees que es la diferencia principal entre tu paella y mis tacos, aparte de los ingredientes? | 재료 말고, 소피아의 파에야와 내 타코의 가장 큰 차이가 뭐라고 생각해요?
+[08:43.41]
+S | Mm. La paella es un plato que se come con cuchara, un plato principal grande para compartir en la mesa. | 음. 파에야는 숟가락으로 먹는 요리이고, 식탁에서 함께 나눠 먹는 큰 메인 요리예요.
+[08:51.36]
+S | Los tacos son más un finger food, algo que puedes comer con las manos, más informal. | 타코는 핑거푸드에 가까워서 손으로 먹을 수 있고 더 격식 없는 음식이죠.
+[08:58.27]
+M | Sí, eso es cierto. Los tacos son perfectos para comer de pie o en un ambiente más relajado. | 네, 맞아요. 타코는 서서 먹거나 더 편안한 분위기에서 먹기에 딱이에요.
+[09:05.06]
+M | Y la paella es más para una comida sentados, más larga. | 그리고 파에야는 앉아서 오래 즐기는 식사에 더 어울리죠.
+[09:09.85]
+S | Exacto. Pero ambos son platos que unen a la gente, ¿no crees? | 맞아요. 하지만 둘 다 사람들을 하나로 이어 주는 음식이에요, 그렇지 않아요?
+[09:15.33]
+M | Absolutamente. La comida siempre une a la gente, no importa si es formal o informal. | 물론이죠. 격식이 있든 없든 음식은 언제나 사람들을 하나로 묶어 줘요.
+## 다른 좋아하는 음식 — 피자, 스시, 세비체
+[09:24.11]
+S | Mateo, ¿hay alguna otra comida que te guste mucho, además de los tacos al pastor? | 마테오, 타코 알 파스토르 말고 또 많이 좋아하는 음식이 있어요?
+[09:31.56]
+M | Oh, hay muchas. Me encanta la pizza, por ejemplo, y también el sushi. ¿Y a ti, Sofía? | 오, 많아요. 예를 들어 피자를 정말 좋아하고, 스시도 좋아해요. 소피아는요?
+[09:38.70]
+S | A mí también me gusta mucho la pizza, especialmente la pizza margarita. | 저도 피자를 아주 좋아해요, 특히 마르게리타 피자요.
+[09:45.53]
+S | Y me encanta el ceviche, un plato de pescado de Perú. | 그리고 페루의 생선 요리인 세비체도 아주 좋아해요.
+[09:49.67]
+M | Cebiche. ¿Cómo es el ceviche? | 세비체. 세비체는 어떤 음식이에요?
+[09:52.89]
+S | Es pescado crudo marinado en jugo de limón o lima. | 레몬이나 라임즙에 재운 생선회예요.
+[09:57.28]
+S | Lleva cebolla roja, cilantro y a veces ají, que es un tipo de chile. Es muy fresco y ligero. | 붉은 양파, 고수, 가끔 칠리의 일종인 아히도 들어가요. 아주 상큼하고 가벼워요.
+[10:06.82]
+M | Pescado crudo marinado en limón. Suena muy refrescante, ¿y es picante? | 레몬에 재운 생선회라. 아주 시원하게 들리는데, 매워요?
+[10:14.55]
+S | Puede ser un poco picante dependiendo del ají que uses, pero el limón cocina el pescado, así que no está realmente crudo. Es una sensación muy agradable. | 쓰는 아히에 따라 조금 매울 수 있어요. 하지만 레몬이 생선을 익혀 주기 때문에 사실 날것은 아니에요. 아주 기분 좋은 느낌이에요.
+[10:28.64]
+M | Qué interesante. Es increíble cómo diferentes culturas tienen formas tan únicas de preparar los alimentos. | 흥미롭네요. 문화마다 음식을 만드는 방식이 이렇게 독특하다니 놀라워요.
+[10:36.77]
+S | Sí, la gastronomía del mundo es fascinante. Podríamos hacer un episodio entero sobre platos internacionales. | 네, 세계의 음식 문화는 정말 매력적이에요. 세계 요리만으로 한 에피소드를 통째로 만들 수도 있겠어요.
+[10:46.91]
+M | Me encanta esa idea. | 정말 좋은 생각이에요.
+## 싫어하는 음식과 외식 vs 집밥
+[10:48.44]
+M | Pero volviendo a nuestras favoritas, ¿hay algo que no te guste comer, Sofía? | 하지만 우리가 좋아하는 음식 이야기로 돌아와서, 소피아는 먹기 싫어하는 게 있어요?
+[10:55.99]
+S | Mm, no me gusta mucho el hígado. La textura no me agrada. | 음, 간은 별로 안 좋아해요. 식감이 마음에 안 들어요.
+[11:03.44]
+M | Entiendo. La textura es importante para algunos alimentos. A mí no me gustan las aceitunas. | 이해해요. 어떤 음식은 식감이 중요하죠. 저는 올리브를 안 좋아해요.
+[11:10.98]
+S | ¿No te gustan las aceitunas? Pero son tan comunes en España. | 올리브를 안 좋아한다고요? 스페인에서는 정말 흔한데요.
+[11:17.27]
+M | Lo sé, lo sé, pero su sabor y textura no me terminan de convencer. Soy un poco especial con eso. | 알아요, 알아, 그래도 그 맛과 식감이 영 마음에 안 들어요. 그런 데는 제가 좀 까다로워요.
+[11:25.96]
+S | Cada uno tiene sus gustos. Es normal. | 사람마다 취향이 있죠. 당연한 거예요.
+[11:30.24]
+M | Sofía, ¿prefieres cocinar en casa o comer fuera en un restaurante? | 소피아는 집에서 요리하는 게 좋아요, 아니면 식당에서 외식하는 게 좋아요?
+[11:36.33]
+S | Me gusta cocinar en casa, especialmente los fines de semana cuando tengo tiempo. Disfruto mucho el proceso de preparar la comida, como la paella. | 집에서 요리하는 걸 좋아해요, 특히 시간이 있는 주말에요. 파에야처럼 음식을 준비하는 과정을 아주 즐겨요.
+[11:47.92]
+M | Sí, la paella necesita tiempo. | 네, 파에야는 시간이 필요하죠.
+[11:50.61]
+S | Pero también me encanta ir a restaurantes. Es una oportunidad para probar cosas nuevas y para que cocinen para mí. Es un lujo. | 하지만 식당에 가는 것도 아주 좋아해요. 새로운 걸 맛볼 기회이고 다른 사람이 나를 위해 요리해 주니까요. 호사예요.
+[12:01.71]
+M | Estoy de acuerdo. Ambas opciones son buenas por diferentes razones. Cocinar en casa es más personal y comer fuera es una experiencia diferente. | 동의해요. 두 가지 다 각기 다른 이유로 좋아요. 집에서 요리하는 건 더 개인적이고, 외식은 또 다른 경험이죠.
+[12:13.20]
+S | ¿Y tú, Mateo? ¿Qué prefieres? | 마테오는요? 어느 쪽이 좋아요?
+[12:16.48]
+M | Yo también disfruto mucho cocinando, especialmente cuando preparo algo nuevo, pero me encanta descubrir restaurantes, probar platos diferentes de todo el mundo. Es como viajar a través de la comida. | 저도 요리하는 걸 아주 즐겨요, 특히 새로운 걸 만들 때요. 하지만 식당을 찾아다니며 세계 각국의 다른 요리를 맛보는 것도 아주 좋아해요. 음식을 통해 여행하는 것 같아요.
+[12:31.65]
+S | Qué buena forma de verlo. La comida nos conecta con el mundo. | 좋은 관점이에요. 음식은 우리를 세계와 이어 줘요.
+## 함께 요리하자 + 마무리
+[12:37.36]
+M | Sofía, ¿qué te parece si un día cocinamos algo juntos? | 소피아, 언젠가 함께 요리해 보면 어때요?
+[12:42.15]
+M | Tú puedes enseñarme a hacer paella y yo te enseño a preparar unos tacos al pastor caseros. | 소피아가 파에야 만드는 법을 가르쳐 주면, 저는 집에서 만드는 타코 알 파스토르를 알려 줄게요.
+[12:49.85]
+S | Qué idea tan fantástica, Mateo. Me encantaría. Sería muy divertido y delicioso. | 정말 멋진 생각이에요, 마테오. 너무 좋아요. 아주 재미있고 맛있을 거예요.
+[12:58.16]
+M | Sí, estoy seguro de que sí. Podríamos hacer un Listenly cooking show un día. | 네, 분명 그럴 거예요. 언젠가 리슨리 쿠킹쇼를 해 볼 수도 있겠네요.
+[13:09.16]
+S | Esa es una idea para el futuro. | 그건 미래를 위한 아이디어로 남겨 둬요.
+[13:11.27]
+S | Por ahora creo que hemos compartido mucho sobre nuestras comidas favoritas. | 지금은 우리가 좋아하는 음식에 대해 많이 나눈 것 같아요.
+[13:17.81]
+M | Sí, ha sido una conversación muy rica y apetitosa. | 네, 아주 풍성하고 군침 도는 대화였어요.
+[13:21.86]
+M | Gracias por compartir tu amor por la paella, Sofía. | 파에야에 대한 사랑을 나눠 줘서 고마워요, 소피아.
+[13:26.72]
+S | Y gracias a ti por compartir la pasión por los tacos al pastor, Mateo. | 저도 타코 알 파스토르에 대한 열정을 나눠 줘서 고마워요, 마테오.
+[13:31.05]
+S | Esperamos que nuestros oyentes hayan disfrutado de este viaje culinario. | 청취자 여러분이 이 미식 여행을 즐기셨기를 바라요.
+[13:36.30]
+M | Esperamos que les hayamos dado algunas ideas para su próxima comida. | 다음 식사를 위한 아이디어를 조금이라도 드렸기를 바라요.
+[13:41.22]
+S | No olviden practicar su español mientras disfrutan de algo delicioso. | 맛있는 걸 즐기면서 스페인어 연습하는 것도 잊지 마세요.
+[13:46.68]
+M | Hasta el próximo episodio de Easy Spanish Podcast. Adiós. | 다음 이지 스패니시 팟캐스트 에피소드까지. 안녕히 계세요.
+[13:51.65]
+S | Hasta pronto y buen provecho a todos. | 곧 만나요, 모두 맛있게 드세요.

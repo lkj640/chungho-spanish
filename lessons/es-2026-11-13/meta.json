@@ -1,0 +1,754 @@
+{
+  "lang": "es",
+  "date": "2026-11-13",
+  "title": "좋아하는 음식 말하기 — 파에야와 타코 알 파스토르",
+  "es": "Primero se sofríe la carne en aceite de oliva en una paellera.",
+  "emoji": "🥘",
+  "level": "A2",
+  "channel": "Easy Spanish Podcast",
+  "videoTitle": "Talking about My Favorite Meal (A2) | Learn español with Podcast | episode 33 | Easy Spanish",
+  "youtube": "6pqzrjKXyYQ",
+  "duration": "13:56",
+  "speakers": {
+    "S": "Sofía",
+    "M": "Mateo"
+  },
+  "hideCast": true,
+  "summary": "소피아와 마테오가 각자 제일 좋아하는 음식을 소개해요. 소피아의 발렌시아식 파에야(재료·만드는 순서·할머니와의 추억), 마테오의 타코 알 파스토르(재운 돼지고기·트롬포·파인애플), 세비체, 싫어하는 음식, 집밥 vs 외식까지. 비인칭 se 요리법 표현과 gustar 구문을 듣고 따라 말하기 좋은 A2 회화예요.",
+  "topics": [
+    "파에야: arroz · pollo · conejo · azafrán · paellera",
+    "요리 순서: primero se sofríe · después se añaden · al final",
+    "타코 알 파스토르: cerdo marinado · trompo · piña · tortillas de maíz",
+    "좋고 싫음: me gusta · me encanta · no me gusta",
+    "집밥 vs 외식: cocinar en casa · comer fuera",
+    "문법: gustar · 비인칭 se · llevar · tardar en · preferir"
+  ],
+  "grammar": [
+    {
+      "title": "① gustar 구문 — 좋아하는 것·싫어하는 것",
+      "lead": "좋아하는 대상이 <b>주어</b>예요. 대상이 하나면 gusta, 여럿이면 gustan. 누가 좋아하는지는 me·te·le로 나타내요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "me gusta + 단수",
+            "나는 ~이 좋다",
+            "Me gusta la paella."
+          ],
+          [
+            "me gustan + 복수",
+            "나는 ~들이 좋다",
+            "Me gustan los tacos."
+          ],
+          [
+            "no me gusta(n)",
+            "나는 ~이 싫다",
+            "No me gusta el hígado."
+          ],
+          [
+            "¿te gusta(n)…?",
+            "너는 ~ 좋아해?",
+            "¿Te gustan las aceitunas?"
+          ],
+          [
+            "me encanta(n)",
+            "정말 좋아한다",
+            "Me encanta el ceviche."
+          ],
+          [
+            "a mí también me gusta",
+            "나도 좋아한다",
+            "A mí también me gusta la pizza."
+          ]
+        ]
+      },
+      "tip": "'나는'을 강조할 때 a mí, a ti를 붙여요: ¿Y a ti, Sofía? / A mí no me gustan las aceitunas."
+    },
+    {
+      "title": "② 비인칭 se — 요리법 말하기",
+      "lead": "누가 하는지 밝히지 않고 방법을 설명할 때는 <b>se + 동사(3인칭)</b>를 써요. 대상이 복수면 동사도 복수.",
+      "examples": [
+        [
+          "Primero se sofríe la carne en aceite de oliva.",
+          "먼저 고기를 올리브유에 볶아요."
+        ],
+        [
+          "Después se añaden las verduras.",
+          "그다음 채소를 넣어요. (복수 → añaden)"
+        ],
+        [
+          "El arroz se añade al final.",
+          "쌀은 마지막에 넣어요."
+        ],
+        [
+          "Se le pone cebolla picada y cilantro.",
+          "다진 양파와 고수를 올려요."
+        ]
+      ],
+      "tip": "레시피 순서어: primero → después → luego → al final."
+    },
+    {
+      "title": "③ 순서 표현 — primero, después, luego, al final",
+      "lead": "음식 만드는 과정을 말할 때 순서어가 뼈대가 돼요.",
+      "examples": [
+        [
+          "Primero se sofríe la carne.",
+          "먼저 고기를 볶아요."
+        ],
+        [
+          "¿Y después de la carne?",
+          "그럼 고기 다음에는요?"
+        ],
+        [
+          "Luego se añade el agua.",
+          "그러고 나서 물을 넣어요."
+        ],
+        [
+          "El arroz se añade al final.",
+          "쌀은 마지막에 넣어요."
+        ],
+        [
+          "Después de cortar la carne, se sirve en tortillas.",
+          "고기를 썬 뒤에 토르티야에 담아 내요."
+        ]
+      ],
+      "tip": "después de + 동사원형 = ~한 뒤에 (Después de cortar…)."
+    },
+    {
+      "title": "④ llevar — 재료가 들어가다",
+      "lead": "요리에 들어가는 재료를 물을 때 <b>llevar</b>를 써요. 주어는 요리, 목적어가 재료예요.",
+      "examples": [
+        [
+          "¿Qué ingredientes lleva esta paella?",
+          "이 파에야에는 어떤 재료가 들어가요?"
+        ],
+        [
+          "También lleva pollo y conejo.",
+          "닭고기와 토끼고기도 들어가요."
+        ],
+        [
+          "¿Lleva mariscos también?",
+          "해산물도 들어가요?"
+        ],
+        [
+          "Lleva cebolla roja, cilantro y a veces ají.",
+          "붉은 양파, 고수, 가끔 아히가 들어가요."
+        ]
+      ],
+      "tip": "'~ 없이'는 no lleva ~ : La paella tradicional no lleva mariscos."
+    },
+    {
+      "title": "⑤ tardar en · durar — 걸리는 시간",
+      "lead": "시간이 걸린다고 말할 때 두 동사를 구분해요.",
+      "table": {
+        "head": [
+          "동사",
+          "쓰임",
+          "예"
+        ],
+        "rows": [
+          [
+            "tardar en + 동사원형",
+            "~하는 데 시간이 걸리다",
+            "¿Cuánto tiempo tarda en cocinarse?"
+          ],
+          [
+            "durar",
+            "(어떤 일이) 지속되다",
+            "Todo el proceso puede durar una hora o más."
+          ],
+          [
+            "aproximadamente",
+            "대략",
+            "Aproximadamente unos 18 a 20 minutos."
+          ],
+          [
+            "requerir",
+            "필요로 하다",
+            "Requiere tiempo y dedicación."
+          ]
+        ]
+      },
+      "tip": "unos/unas + 숫자 = 약 ~: unos 20 minutos."
+    },
+    {
+      "title": "⑥ 주어 + 선호 질문 — prefieres A o B",
+      "lead": "둘 중 하나를 고르는 질문은 <b>preferir A o B</b>. e→ie 어간 변화 동사예요.",
+      "examples": [
+        [
+          "¿Prefieres cocinar en casa o comer fuera?",
+          "집에서 요리하는 게 좋아, 외식이 좋아?"
+        ],
+        [
+          "¿Qué prefieres?",
+          "어느 쪽이 좋아?"
+        ],
+        [
+          "Prefiero cocinar en casa los fines de semana.",
+          "주말엔 집에서 요리하는 걸 선호해요."
+        ],
+        [
+          "Estoy de acuerdo. Ambas opciones son buenas.",
+          "동의해요. 둘 다 좋아요."
+        ]
+      ],
+      "tip": "preferir: prefiero, prefieres, prefiere … (nosotros prefer-imos는 어간 그대로)."
+    },
+    {
+      "title": "⑦ ser vs estar — 설명할 때 구분",
+      "lead": "음식의 정체·출신은 <b>ser</b>, 상태·위치는 <b>estar</b>예요.",
+      "table": {
+        "head": [
+          "동사",
+          "쓰임",
+          "예"
+        ],
+        "rows": [
+          [
+            "ser (정체)",
+            "무엇인지",
+            "Es un plato de arroz muy famoso."
+          ],
+          [
+            "ser (출신)",
+            "어디서 온 것인지",
+            "Son de México."
+          ],
+          [
+            "ser (재료)",
+            "무엇으로 만든 것인지",
+            "La carne es de cerdo."
+          ],
+          [
+            "estar (상태)",
+            "지금의 상태",
+            "El caldo está listo. / El pescado no está crudo."
+          ]
+        ]
+      },
+      "tip": "'준비됐다' = estar listo: cuando el caldo está listo."
+    }
+  ],
+  "phrases": [
+    [
+      "Mi comida favorita es la paella.",
+      "내가 제일 좋아하는 음식은 파에야예요."
+    ],
+    [
+      "¿Qué ingredientes lleva?",
+      "어떤 재료가 들어가요?"
+    ],
+    [
+      "¿Es difícil de cocinar?",
+      "요리하기 어려워요?"
+    ],
+    [
+      "Primero se sofríe la carne en aceite de oliva.",
+      "먼저 고기를 올리브유에 볶아요."
+    ],
+    [
+      "¿Cuánto tiempo tarda en cocinarse?",
+      "조리하는 데 시간이 얼마나 걸려요?"
+    ],
+    [
+      "Me gusta porque me recuerda a mi familia.",
+      "우리 가족이 떠올라서 좋아해요."
+    ],
+    [
+      "La comida es mucho más que solo alimentarse.",
+      "음식은 단지 먹는 것 이상이에요."
+    ],
+    [
+      "Cada uno tiene sus gustos. Es normal.",
+      "사람마다 취향이 있죠. 당연한 거예요."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "la comida",
+      "ko": "음식, 식사",
+      "ex": "La comida es uno de mis temas favoritos.",
+      "exKo": "음식은 제가 가장 좋아하는 주제 중 하나예요."
+    },
+    {
+      "es": "sabroso/a",
+      "ko": "맛있는",
+      "ex": "Hoy tenemos un tema muy sabroso.",
+      "exKo": "오늘은 아주 맛있는 주제가 있어요."
+    },
+    {
+      "es": "el plato preferido",
+      "ko": "가장 좋아하는 요리",
+      "ex": "Cada uno va a describir su plato preferido.",
+      "exKo": "각자 제일 좋아하는 요리를 설명할 거예요."
+    },
+    {
+      "es": "los gustos culinarios",
+      "ko": "음식 취향",
+      "ex": "Es interesante escuchar sobre los gustos culinarios.",
+      "exKo": "음식 취향을 듣는 건 흥미로워요."
+    },
+    {
+      "es": "la paella",
+      "ko": "파에야",
+      "ex": "Mi comida favorita es la paella.",
+      "exKo": "내가 제일 좋아하는 음식은 파에야예요."
+    },
+    {
+      "es": "el arroz",
+      "ko": "쌀, 밥",
+      "ex": "Es un plato de arroz muy famoso.",
+      "exKo": "아주 유명한 쌀 요리예요."
+    },
+    {
+      "es": "el pollo",
+      "ko": "닭고기",
+      "ex": "También lleva pollo y conejo.",
+      "exKo": "닭고기와 토끼고기도 들어가요."
+    },
+    {
+      "es": "el conejo",
+      "ko": "토끼고기",
+      "ex": "El conejo es tradicional en la paella valenciana.",
+      "exKo": "토끼고기는 발렌시아식 파에야의 전통 재료예요."
+    },
+    {
+      "es": "las verduras",
+      "ko": "채소",
+      "ex": "Lleva verduras frescas.",
+      "exKo": "신선한 채소가 들어가요."
+    },
+    {
+      "es": "las judías verdes",
+      "ko": "껍질콩",
+      "ex": "Lleva judías verdes y garrofó.",
+      "exKo": "껍질콩과 가로포가 들어가요."
+    },
+    {
+      "es": "los mariscos",
+      "ko": "해산물",
+      "ex": "La paella tradicional no lleva mariscos.",
+      "exKo": "전통 파에야에는 해산물이 안 들어가요."
+    },
+    {
+      "es": "el azafrán",
+      "ko": "사프란",
+      "ex": "El azafrán le da un color amarillo precioso.",
+      "exKo": "사프란이 예쁜 노란색을 내 줘요."
+    },
+    {
+      "es": "llevar (ingredientes)",
+      "ko": "~이 들어가다",
+      "ex": "¿Qué ingredientes lleva esta paella?",
+      "exKo": "이 파에야에는 어떤 재료가 들어가나요?"
+    },
+    {
+      "es": "laborioso/a",
+      "ko": "품이 많이 드는",
+      "ex": "Es un poco laboriosa, pero no es muy difícil.",
+      "exKo": "품이 좀 들지만 아주 어렵진 않아요."
+    },
+    {
+      "es": "sofreír",
+      "ko": "(기름에) 볶다",
+      "ex": "Primero se sofríe la carne en aceite de oliva.",
+      "exKo": "먼저 고기를 올리브유에 볶아요."
+    },
+    {
+      "es": "el aceite de oliva",
+      "ko": "올리브유",
+      "ex": "Se sofríe en aceite de oliva.",
+      "exKo": "올리브유에 볶아요."
+    },
+    {
+      "es": "la paellera",
+      "ko": "파에야 팬",
+      "ex": "Se cocina en una paellera.",
+      "exKo": "파에예라에서 조리해요."
+    },
+    {
+      "es": "la sartén",
+      "ko": "프라이팬",
+      "ex": "¿Es una sartén grande y plana?",
+      "exKo": "크고 평평한 프라이팬이에요?"
+    },
+    {
+      "es": "añadir",
+      "ko": "더하다, 넣다",
+      "ex": "El arroz se añade al final.",
+      "exKo": "쌀은 마지막에 넣어요."
+    },
+    {
+      "es": "el caldo",
+      "ko": "육수",
+      "ex": "Se cocina para hacer un caldo.",
+      "exKo": "끓여서 육수를 만들어요."
+    },
+    {
+      "es": "a fuego lento",
+      "ko": "약한 불에",
+      "ex": "Se cocina a fuego lento.",
+      "exKo": "약한 불에서 익혀요."
+    },
+    {
+      "es": "absorber",
+      "ko": "흡수하다",
+      "ex": "Absorbe todo el líquido.",
+      "exKo": "국물을 모두 흡수해요."
+    },
+    {
+      "es": "tardar en",
+      "ko": "~하는 데 시간이 걸리다",
+      "ex": "¿Cuánto tiempo tarda en cocinarse?",
+      "exKo": "조리하는 데 시간이 얼마나 걸려요?"
+    },
+    {
+      "es": "requerir",
+      "ko": "필요로 하다",
+      "ex": "Es un plato que requiere tiempo y dedicación.",
+      "exKo": "시간과 정성이 필요한 요리예요."
+    },
+    {
+      "es": "recordar a",
+      "ko": "~을 떠올리게 하다",
+      "ex": "Me recuerda a mi familia.",
+      "exKo": "우리 가족이 떠올라요."
+    },
+    {
+      "es": "la unión",
+      "ko": "결속, 하나됨",
+      "ex": "Era un momento de unión para todos.",
+      "exKo": "모두가 하나로 모이는 시간이었어요."
+    },
+    {
+      "es": "el valor sentimental",
+      "ko": "감정적 가치",
+      "ex": "Entonces tiene un valor sentimental.",
+      "exKo": "그럼 감성적인 가치가 있네요."
+    },
+    {
+      "es": "reconfortante",
+      "ko": "마음을 푸근하게 하는",
+      "ex": "Es una combinación muy reconfortante.",
+      "exKo": "아주 푸근한 조합이에요."
+    },
+    {
+      "es": "el grano",
+      "ko": "낟알",
+      "ex": "Cada grano de arroz tiene mucho sabor.",
+      "exKo": "쌀알 하나하나에 맛이 가득해요."
+    },
+    {
+      "es": "los tacos al pastor",
+      "ko": "타코 알 파스토르",
+      "ex": "Mi comida favorita son los tacos al pastor.",
+      "exKo": "내가 제일 좋아하는 음식은 타코 알 파스토르예요."
+    },
+    {
+      "es": "el cerdo",
+      "ko": "돼지고기",
+      "ex": "La carne es de cerdo marinada.",
+      "exKo": "고기는 재운 돼지고기예요."
+    },
+    {
+      "es": "marinado/a",
+      "ko": "양념에 재운",
+      "ex": "Es carne marinada con especias.",
+      "exKo": "향신료에 재운 고기예요."
+    },
+    {
+      "es": "las especias",
+      "ko": "향신료",
+      "ex": "¿Qué tipo de especias usan?",
+      "exKo": "어떤 향신료를 쓰나요?"
+    },
+    {
+      "es": "el chile",
+      "ko": "칠리, 고추",
+      "ex": "Se usan diferentes chiles secos.",
+      "exKo": "여러 가지 말린 칠리를 써요."
+    },
+    {
+      "es": "la piña",
+      "ko": "파인애플",
+      "ex": "La piña le da un toque dulce y ácido.",
+      "exKo": "파인애플이 달콤새콤한 맛을 더해요."
+    },
+    {
+      "es": "el trompo",
+      "ko": "(수직) 회전 꼬치 구이대",
+      "ex": "La carne se cocina en un trompo.",
+      "exKo": "고기는 트롬포에서 익혀요."
+    },
+    {
+      "es": "el asador giratorio",
+      "ko": "회전 꼬치 구이기",
+      "ex": "Es un asador vertical giratorio.",
+      "exKo": "수직 회전 구이기예요."
+    },
+    {
+      "es": "uniforme",
+      "ko": "고른, 균일한",
+      "ex": "Así la carne se cocina de manera uniforme.",
+      "exKo": "그렇게 하면 고기가 골고루 익어요."
+    },
+    {
+      "es": "la tortilla de maíz",
+      "ko": "옥수수 토르티야",
+      "ex": "Se sirve en tortillas pequeñas de maíz.",
+      "exKo": "작은 옥수수 토르티야에 담아 내요."
+    },
+    {
+      "es": "el cilantro",
+      "ko": "고수",
+      "ex": "Se le pone cilantro fresco.",
+      "exKo": "신선한 고수를 올려요."
+    },
+    {
+      "es": "la cebolla",
+      "ko": "양파",
+      "ex": "Lleva cebolla picada.",
+      "exKo": "다진 양파가 들어가요."
+    },
+    {
+      "es": "la salsa picante",
+      "ko": "매운 소스",
+      "ex": "Se le pone salsa roja picante.",
+      "exKo": "매운 빨간 소스를 뿌려요."
+    },
+    {
+      "es": "un chorrito de limón",
+      "ko": "라임/레몬즙 약간",
+      "ex": "Lleva un chorrito de limón.",
+      "exKo": "라임즙을 조금 짜 넣어요."
+    },
+    {
+      "es": "una explosión de sabores",
+      "ko": "맛의 폭발",
+      "ex": "Es una explosión de sabores.",
+      "exKo": "맛의 폭발이에요."
+    },
+    {
+      "es": "el mercado callejero",
+      "ko": "길거리 시장",
+      "ex": "Los probé en un mercado callejero.",
+      "exKo": "길거리 시장에서 처음 먹어 봤어요."
+    },
+    {
+      "es": "transportarse",
+      "ko": "(마음이) 옮겨 가다",
+      "ex": "Me transporto a ese lugar y a ese momento.",
+      "exKo": "그 장소, 그 순간으로 돌아가요."
+    },
+    {
+      "es": "el finger food",
+      "ko": "손으로 집어 먹는 음식",
+      "ex": "Los tacos son más un finger food.",
+      "exKo": "타코는 핑거푸드에 가까워요."
+    },
+    {
+      "es": "informal",
+      "ko": "격식 없는",
+      "ex": "Los tacos son más informales.",
+      "exKo": "타코가 더 격식 없는 음식이에요."
+    },
+    {
+      "es": "el ceviche",
+      "ko": "세비체(페루식 생선 요리)",
+      "ex": "Me encanta el ceviche.",
+      "exKo": "세비체를 아주 좋아해요."
+    },
+    {
+      "es": "el ají",
+      "ko": "아히(고추의 일종)",
+      "ex": "A veces lleva ají.",
+      "exKo": "가끔 아히가 들어가요."
+    },
+    {
+      "es": "crudo/a",
+      "ko": "날것의",
+      "ex": "Es pescado crudo marinado en limón.",
+      "exKo": "레몬에 재운 생선회예요."
+    },
+    {
+      "es": "el hígado",
+      "ko": "간(내장)",
+      "ex": "No me gusta mucho el hígado.",
+      "exKo": "간은 별로 안 좋아해요."
+    },
+    {
+      "es": "la textura",
+      "ko": "식감",
+      "ex": "La textura no me agrada.",
+      "exKo": "식감이 마음에 안 들어요."
+    },
+    {
+      "es": "la aceituna",
+      "ko": "올리브 열매",
+      "ex": "A mí no me gustan las aceitunas.",
+      "exKo": "저는 올리브를 안 좋아해요."
+    },
+    {
+      "es": "convencer",
+      "ko": "납득시키다",
+      "ex": "Su sabor no me termina de convencer.",
+      "exKo": "그 맛이 영 마음에 안 들어요."
+    },
+    {
+      "es": "comer fuera",
+      "ko": "외식하다",
+      "ex": "¿Prefieres cocinar en casa o comer fuera?",
+      "exKo": "집에서 요리하는 게 좋아요, 외식이 좋아요?"
+    },
+    {
+      "es": "probar",
+      "ko": "맛보다, 시도하다",
+      "ex": "Es una oportunidad para probar cosas nuevas.",
+      "exKo": "새로운 걸 맛볼 기회예요."
+    },
+    {
+      "es": "buen provecho",
+      "ko": "맛있게 드세요",
+      "ex": "Hasta pronto y buen provecho a todos.",
+      "exKo": "곧 만나요, 모두 맛있게 드세요."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "¿Cuál es la comida favorita de Sofía?",
+      "options": [
+        "los tacos al pastor",
+        "la paella",
+        "el ceviche",
+        "la pizza"
+      ],
+      "answer": 1,
+      "explain": "Sofía dice: 'Mi comida favorita es la paella.'"
+    },
+    {
+      "q": "¿Qué tipo de paella prefiere Sofía?",
+      "options": [
+        "la paella de marisco",
+        "la paella valenciana",
+        "la paella mixta",
+        "la paella vegetariana"
+      ],
+      "answer": 1,
+      "explain": "Su favorita es la paella valenciana, la original."
+    },
+    {
+      "q": "¿Qué NO lleva la paella valenciana tradicional?",
+      "options": [
+        "pollo",
+        "conejo",
+        "mariscos",
+        "verduras"
+      ],
+      "answer": 2,
+      "explain": "'La paella valenciana tradicional no lleva mariscos.'"
+    },
+    {
+      "q": "¿Qué le da a la paella su color amarillo?",
+      "options": [
+        "el pimiento",
+        "el azafrán",
+        "el limón",
+        "el caldo"
+      ],
+      "answer": 1,
+      "explain": "'El azafrán le da un color amarillo precioso y un sabor único.'"
+    },
+    {
+      "q": "¿Cuándo se añade el arroz?",
+      "options": [
+        "al principio",
+        "después de la carne",
+        "al final, cuando el caldo está listo",
+        "antes del agua"
+      ],
+      "answer": 2,
+      "explain": "'El arroz se añade al final, cuando el caldo está listo.'"
+    },
+    {
+      "q": "¿Qué es importante hacer después de añadir el arroz?",
+      "options": [
+        "moverlo mucho",
+        "no moverlo",
+        "taparlo",
+        "añadir más sal"
+      ],
+      "answer": 1,
+      "explain": "'Es muy importante no mover el arroz después de añadirlo.'"
+    },
+    {
+      "q": "¿Por qué le gusta tanto la paella a Sofía?",
+      "options": [
+        "Es muy barata",
+        "Le recuerda a su familia",
+        "Es muy rápida",
+        "Aprendió en un curso"
+      ],
+      "answer": 1,
+      "explain": "Su abuela la preparaba los domingos, un momento de unión."
+    },
+    {
+      "q": "¿Qué es un trompo?",
+      "options": [
+        "una tortilla",
+        "un asador vertical giratorio",
+        "una salsa",
+        "un tipo de chile"
+      ],
+      "answer": 1,
+      "explain": "'La carne se cocina en un trompo, que es un asador vertical giratorio.'"
+    },
+    {
+      "q": "¿Qué fruta se cocina con la carne de los tacos al pastor?",
+      "options": [
+        "mango",
+        "manzana",
+        "piña",
+        "naranja"
+      ],
+      "answer": 2,
+      "explain": "La piña se pone arriba del trompo y se cocina con la carne."
+    },
+    {
+      "q": "¿Dónde probó Mateo los tacos por primera vez?",
+      "options": [
+        "en un restaurante de Madrid",
+        "en un mercado callejero de la Ciudad de México",
+        "en casa de su abuela",
+        "en Perú"
+      ],
+      "answer": 1,
+      "explain": "'La primera vez que los probé fue en un mercado callejero de la Ciudad de México.'"
+    },
+    {
+      "q": "¿Qué no le gusta a Mateo?",
+      "options": [
+        "el hígado",
+        "las aceitunas",
+        "el ceviche",
+        "la pizza"
+      ],
+      "answer": 1,
+      "explain": "Mateo: 'A mí no me gustan las aceitunas.' (El hígado no le gusta a Sofía.)"
+    },
+    {
+      "q": "¿Qué propone Mateo al final?",
+      "options": [
+        "abrir un restaurante",
+        "cocinar algo juntos",
+        "viajar a México",
+        "hacer un concurso"
+      ],
+      "answer": 1,
+      "explain": "Propone que Sofía le enseñe paella y él le enseña tacos al pastor caseros."
+    }
+  ]
+}
