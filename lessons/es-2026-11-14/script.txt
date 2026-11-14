@@ -1,0 +1,261 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 화자를 맥락으로 나눴어요. supercmodo→supercómodo, Enfente→Enfrente, lavavo→lavabo, espalla→espalda, tr días→tres días, desadme→deseadme, Déjenos→Déjennos, 'Mi terraza tiene una terraza'→'Mi casa tiene una terraza', 'Suena muy bien, Mateo'→'Sofía', 'limpia el piso'→'limpias', 자막에 빠진 'coger'(coge) 등 잘못 들린 부분을 바로잡았어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 12:05
+
+
+## 인사 — 이모할머니가 내일 오신다
+[00:00.36]
+S | Bienvenida a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:05.92]
+M | Sofía, tienes que ayudarme. | 소피아, 나 좀 도와줘요.
+[00:07.75]
+M | Mi tía abuela viene a visitarme mañana desde Sevilla y me ha preguntado por mensaje si mi piso está limpio y ordenado. | 내일 이모할머니가 세비야에서 저를 보러 오시는데, 제 집이 깨끗하고 정돈돼 있느냐고 메시지로 물으셨어요.
+[00:17.45]
+M | He respondido que sí. | 저는 그렇다고 답했고요.
+[00:19.13]
+S | ¿Y cuál es el problema, Mateo? ¿Tu piso no está limpio? | 그럼 뭐가 문제예요, 마테오? 집이 안 깨끗해요?
+[00:23.64]
+M | Bueno, hay tres cajas de pizza en el salón. | 음, 거실에 피자 상자가 세 개 있어요.
+[00:27.24]
+M | Mi ropa sucia está encima del sofá y no encuentro la mesa de la cocina debajo de tantos papeles. | 빨랫감은 소파 위에 있고, 부엌 식탁은 서류가 너무 많아서 어디 있는지 찾을 수가 없어요.
+[00:35.25]
+S | Hola a todos, bienvenidos a este episodio especial de Easy Spanish Podcast. | 여러분 안녕하세요, 이지 스패니시 팟캐스트 특별 에피소드에 오신 걸 환영해요.
+[00:40.51]
+S | Hoy no vamos a hacer shadowing, hoy vamos a hablar de la casa, de las habitaciones y del mobiliario en nivel A2. | 오늘은 쉐도잉은 하지 않고, A2 수준으로 집과 방, 가구에 대해 이야기할 거예요.
+[00:50.36]
+S | Y vamos a intentar que Mateo limpie su piso antes de que llegue su tía abuela. Empezamos. | 그리고 마테오가 이모할머니가 오시기 전에 집을 청소하도록 해 볼 거예요. 시작합시다.
+## 집의 종류 — 피소? 단독주택?
+[00:57.60]
+S | A ver, Mateo, vamos a empezar por lo básico para nuestros oyentes. | 자, 마테오, 청취자분들을 위해 기본부터 시작해요.
+[01:02.56]
+S | Para describir tu casa, primero tienes que decir qué tipo de vivienda es. | 집을 묘사하려면 먼저 어떤 종류의 집인지 말해야 해요.
+[01:08.54]
+S | ¿Vives en una casa independiente o en un piso? | 단독주택에 살아요, 아니면 아파트(피소)에 살아요?
+[01:11.79]
+M | Yo vivo en un piso, en la tercera planta de un edificio en el centro de Madrid. | 저는 마드리드 중심가 건물 3층의 피소에 살아요.
+[01:17.85]
+M | No me gustan las casas grandes porque hay que limpiar mucho más. | 큰 집은 청소할 게 훨씬 많아서 싫어요.
+[01:22.55]
+S | Yo prefiero las casas. | 저는 단독주택이 더 좋아요.
+[01:24.05]
+S | Vivo en una casa adosada en las afueras de la ciudad. | 저는 도시 외곽의 연립(타운하우스)주택에 살아요.
+[01:27.65]
+S | Lo bueno de mi casa es que tiene un pequeño jardín detrás y un garaje para el coche. | 우리 집의 장점은 뒤쪽에 작은 정원이 있고 차를 세울 차고가 있다는 거예요.
+[01:34.11]
+M | Qué lujo. Un garaje en el centro de Madrid cuesta una fortuna. | 부럽네요. 마드리드 중심가에서 차고는 엄청나게 비싸요.
+[01:39.00]
+M | Mi coche duerme en la calle y siempre tardo 20 minutos en encontrar aparcamiento. | 제 차는 길에서 자고, 주차할 곳을 찾는 데 늘 20분이 걸려요.
+## 현관 — el recibidor
+[01:46.02]
+S | Bueno, imagina que tu tía abuela abre la puerta de tu piso. | 자, 이모할머니가 네 집 문을 연다고 상상해 봐요.
+[01:50.32]
+S | Lo primero que ve es el recibidor o la entrada. ¿Cómo es tu recibidor? | 가장 먼저 보이는 건 현관이에요. 현관은 어떻게 생겼어요?
+[01:55.67]
+M | Mi recibidor es muy pequeño y un poco oscuro porque no tiene ventanas. | 현관은 아주 작고, 창문이 없어서 좀 어두워요.
+[02:01.22]
+M | Al lado de la puerta tengo un mueble para colgar los abrigos y las chaquetas. | 문 옆에 외투와 재킷을 거는 가구가 있어요.
+[02:06.92]
+S | ¿Y tienes un espejo en la entrada? | 현관에 거울은 있어요?
+[02:09.44]
+S | A mí me encanta tener un espejo grande para mirarme antes de salir de casa. | 저는 외출 전에 나를 비춰 볼 큰 거울을 두는 걸 정말 좋아해요.
+[02:14.72]
+M | Sí, tengo un espejo redondo encima del mueble, pero suelo usarlo para comprobar si tengo manchas de café en la camiseta antes de ir a trabajar. | 네, 가구 위에 둥근 거울이 있는데, 출근 전에 티셔츠에 커피 얼룩이 없는지 확인할 때 주로 써요.
+## 거실 — el salón
+[02:25.60]
+S | Del recibidor pasamos directamente al salón o cuarto de estar. | 현관에서 곧바로 거실(살론, 쿠아르토 데 에스타르)로 이어져요.
+[02:29.85]
+S | El salón es la habitación más importante de la casa para ti, ¿verdad? | 거실이 너한테는 집에서 가장 중요한 방이죠, 그렇죠?
+[02:35.66]
+M | Totalmente. Mi salón es amplio y tiene mucha luz natural porque hay un gran ventanal que da a la calle. | 완전히요. 제 거실은 넓고, 길 쪽으로 난 큰 통창 덕분에 자연광이 많이 들어와요.
+[02:42.60]
+M | En el centro del salón tengo mi objeto favorito del mundo, un sofá de tres plazas de color gris. Es supercómodo. | 거실 한가운데에는 세상에서 제일 좋아하는 물건, 회색 3인용 소파가 있어요. 정말 편해요.
+[02:52.53]
+S | Sí, el famoso sofá donde pasas los fines de semana viendo series. | 맞아요, 주말마다 드라마를 보며 보내는 그 유명한 소파죠.
+[02:56.87]
+S | ¿Qué más muebles tienes en el salón? | 거실에 가구가 또 뭐가 있어요?
+[02:58.61]
+M | Enfrente del sofá tengo una mesa baja de madera para poner el café y el mando a distancia. | 소파 맞은편에 커피와 리모컨을 올려 두는 낮은 나무 탁자가 있어요.
+[03:05.91]
+M | Detrás de la mesa está el mueble de la televisión con una tele bastante grande y mi consola de videojuegos. | 탁자 뒤에는 꽤 큰 TV와 제 게임기가 있는 TV장이 있어요.
+[03:13.90]
+S | En mi salón no tenemos una televisión tan grande, pero tenemos una estantería llena de libros y un par de sillones muy bonitos para leer por las tardes. | 우리 거실에는 그렇게 큰 TV는 없지만, 책이 가득한 책장과 오후에 책 읽기 좋은 예쁜 안락의자 두 개가 있어요.
+[03:25.28]
+S | También tengo una alfombra azul debajo de la mesa. | 탁자 아래에는 파란 카펫도 깔려 있어요.
+## 식당 — el comedor
+[03:29.13]
+M | Mi salón y mi comedor están en la misma habitación. | 제 거실과 식당은 같은 방에 있어요.
+[03:33.76]
+M | En una esquina tengo una mesa de comedor extensible con cuatro sillas donde como cuando tengo visitas. | 한쪽 구석에 의자 네 개가 딸린 확장형 식탁이 있는데, 손님이 올 때 거기서 먹어요.
+[03:43.48]
+S | Mi comedor está separado de la cocina por una puerta de cristal. | 우리 식당은 유리문으로 주방과 분리돼 있어요.
+[03:47.03]
+S | La mesa de mi comedor es redonda y las sillas son de color blanco. | 식탁은 둥글고 의자는 흰색이에요.
+[03:51.12]
+S | En la pared tengo algunos cuadros con fotos de mis viajes. | 벽에는 여행 사진이 담긴 그림 액자가 몇 개 걸려 있어요.
+[03:54.61]
+M | Yo no tengo cuadros en el comedor, pero tengo una lámpara moderna que cuelga del techo justo encima de la mesa. | 저는 식당에 액자는 없지만, 식탁 바로 위 천장에 매달린 현대적인 조명이 있어요.
+[04:03.63]
+M | A veces la luz es demasiado fuerte y parece que estoy en un examen de la universidad. | 가끔 불빛이 너무 강해서 대학 시험을 보는 것 같아요.
+## 주방 — la cocina
+[04:10.45]
+S | Vamos a la cocina. Mateo, el lugar donde haces magia o donde quemas las cosas. | 주방으로 가 볼까요. 마테오, 마법을 부리거나 음식을 태우는 곳이죠.
+[04:17.12]
+S | ¿Cómo es tu cocina? | 주방은 어떻게 생겼어요?
+[04:18.85]
+M | Mi cocina es alargada y un poco estrecha, pero es bastante moderna. | 제 주방은 길쭉하고 좀 좁지만 꽤 현대적이에요.
+[04:24.05]
+M | Tiene una encimera de mármol gris donde preparo la comida. | 음식을 준비하는 회색 대리석 조리대가 있어요.
+[04:29.26]
+M | Los electrodomésticos son de acero inoxidable. | 가전제품은 스테인리스 스틸이에요.
+[04:32.52]
+M | Tengo una nevera grande, un microondas, un horno y una vitrocerámica para cocinar. | 큰 냉장고, 전자레인지, 오븐, 요리용 인덕션(세라믹 레인지)이 있어요.
+[04:39.70]
+S | ¿Y tienes lavavajillas? | 식기세척기는 있어요?
+[04:41.20]
+M | Para mí el lavavajillas es el mejor invento de la historia humana. Odio fregar los platos a mano. | 저한테 식기세척기는 인류 역사상 최고의 발명품이에요. 손으로 설거지하는 건 질색이에요.
+[04:48.48]
+M | Sí, tengo lavavajillas. Menos mal, porque si tuviera que fregar los platos a mano, usaría platos de papel todos los días. | 네, 있어요. 다행이죠, 손으로 설거지해야 한다면 매일 종이접시를 쓸 테니까요.
+[04:57.65]
+M | También tengo una tostadora y una cafetera eléctrica que uso cada mañana. | 토스터와 전기 커피메이커도 있는데 매일 아침 써요.
+## 침실 — el dormitorio
+[05:02.88]
+S | Pasemos ahora a la zona de descanso, el dormitorio o la habitación. | 이제 휴식 공간인 침실(도르미토리오, 아비타시온)로 가 봐요.
+[05:07.58]
+S | ¿Cómo es tu dormitorio, Mateo? | 마테오, 침실은 어떻게 생겼어요?
+[05:09.72]
+M | Mi dormitorio es sencillo. | 제 침실은 단출해요.
+[05:11.52]
+M | Lo más importante es la cama de matrimonio en el centro con dos mesitas de noche a los lados. | 가장 중요한 건 한가운데 있는 더블침대와 양옆의 협탁 두 개예요.
+[05:19.86]
+M | En cada mesita tengo una pequeña lámpara para leer por las noches. | 협탁마다 밤에 책을 읽을 작은 램프가 있어요.
+[05:24.94]
+S | ¿Y tienes un armario empotrado para guardar toda tu ropa? | 옷을 다 넣어 둘 붙박이장은 있어요?
+[05:29.16]
+M | Sí, tengo un armario empotrado de tres puertas, pero el problema es que mi ropa nunca está dentro del armario, siempre está encima de una silla en la esquina. | 네, 문이 세 개인 붙박이장이 있는데, 문제는 옷이 한 번도 장 안에 있지 않고 늘 구석 의자 위에 있다는 거예요.
+[05:41.16]
+M | La silla de la ropa es un mueble básico en mi casa. Es un desastre. | '옷 의자'는 우리 집의 기본 가구예요. 엉망이죠.
+[05:46.65]
+S | Mi dormitorio es muy ordenado. | 제 침실은 아주 정돈돼 있어요.
+[05:48.59]
+S | Las paredes están pintadas de un color verde claro que relaja mucho. | 벽은 마음이 편안해지는 연한 초록색으로 칠해져 있어요.
+[05:53.33]
+S | Tengo un armario grande, una cómoda con cajones para los calcetines y unas cortinas blancas que tapan la luz por la mañana. | 큰 옷장, 양말을 넣는 서랍장, 아침 햇빛을 가려 주는 흰 커튼이 있어요.
+## 욕실 — el cuarto de baño
+[06:01.98]
+M | Al lado de mi dormitorio está el cuarto de baño. Es un baño completo pero pequeño. | 제 침실 옆에 욕실이 있어요. 갖출 건 다 갖췄지만 작아요.
+[06:07.65]
+M | No tengo bañera. Tengo un plato de ducha con una mampara de cristal porque es más práctico y gasta menos agua. | 욕조는 없고, 유리 칸막이가 달린 샤워 트레이가 있어요. 더 실용적이고 물도 덜 쓰니까요.
+[06:16.17]
+S | Mi casa tiene dos baños, uno grande en la planta de arriba con bañera y un aseo pequeño en la planta baja para las visitas. | 우리 집에는 욕실이 둘 있는데, 위층에 욕조가 있는 큰 욕실과 아래층에 손님용 작은 화장실이 있어요.
+[06:24.79]
+S | En el baño grande tenemos un mueble con el lavabo, un espejo enorme y el retrete. | 큰 욕실에는 세면대가 있는 장, 커다란 거울, 변기가 있어요.
+[06:30.72]
+S | En mi baño también tengo un armario pequeño debajo del lavabo donde guardo las toallas, el champú, el gel de ducha y el papel higiénico. | 욕실에는 세면대 아래에 수건, 샴푸, 샤워젤, 화장지를 넣어 두는 작은 수납장도 있어요.
+## 서재와 손님방
+[06:41.36]
+S | Mateo, tu piso tiene dos habitaciones, ¿verdad? ¿Qué haces con la segunda habitación? | 마테오, 네 집엔 방이 두 개죠? 두 번째 방은 어떻게 써요?
+[06:46.92]
+M | La uso como despacho para trabajar desde casa y grabar el podcast. | 재택근무하고 팟캐스트를 녹음하는 서재로 써요.
+[06:52.28]
+M | Tengo un escritorio grande, una silla de oficina ergonómica para que no me duela la espalda y un ordenador con dos pantallas. | 큰 책상, 허리가 아프지 않게 해 주는 인체공학 사무용 의자, 모니터 두 대짜리 컴퓨터가 있어요.
+[07:01.04]
+S | Es una buena idea. Yo uso mi habitación extra como dormitorio de invitados. | 좋은 생각이네요. 저는 여분의 방을 손님방으로 써요.
+[07:06.00]
+S | Hay una cama individual y un pequeño escritorio. | 1인용 침대와 작은 책상이 있어요.
+[07:09.30]
+S | Es el cuarto donde va a dormir tu tía abuela mañana si limpias el piso. | 네가 집을 청소하면 내일 이모할머니가 주무실 방이 바로 그 방이에요.
+[07:15.12]
+M | Es verdad. Mañana esa habitación tiene que dejar de ser un almacén de cajas vacías y convertirse en un dormitorio perfecto para mi tía. | 맞아요. 내일까지 그 방은 빈 상자 창고에서 이모를 위한 완벽한 침실로 바뀌어야 해요.
+## 발코니와 테라스
+[07:24.21]
+S | Antes dijiste que no tienes jardín, pero tu piso tiene un balcón pequeño, ¿no? | 아까 정원이 없다고 했지만, 네 집엔 작은 발코니가 있죠?
+[07:29.93]
+M | Sí, tengo un balcón estrecho que da a la calle principal. | 네, 큰길 쪽으로 난 좁은 발코니가 있어요.
+[07:34.64]
+M | Es pequeño, pero hay espacio suficiente para poner dos sillas plegables y una mesa pequeña. | 작지만 접이식 의자 두 개와 작은 탁자를 놓을 공간은 충분해요.
+[07:41.08]
+M | En primavera me gusta sentarme ahí a tomar el sol y ver pasar a la gente. | 봄에는 거기 앉아 햇볕을 쬐며 지나가는 사람들을 구경하는 게 좋아요.
+[07:47.40]
+S | Mi casa tiene una terraza grande en la planta de arriba. | 우리 집에는 위층에 큰 테라스가 있어요.
+[07:51.21]
+S | Tengo muchas plantas de exterior, un sofá de jardín y una mesa grande para cenar con amigos las noches de verano. | 야외 식물이 많고, 정원용 소파와 여름밤에 친구들과 저녁을 먹는 큰 식탁이 있어요.
+[07:58.63]
+S | Las vistas desde mi terraza son muy bonitas. Se pueden ver las montañas a lo lejos. | 테라스에서 보이는 경치가 아주 예뻐요. 멀리 산이 보여요.
+[08:04.60]
+M | Las vistas de mi balcón son solo carros, autobuses y una tienda de fruta enfrente. | 제 발코니에서 보이는 건 자동차와 버스, 맞은편 과일 가게뿐이에요.
+[08:11.64]
+M | No es muy romántico, pero es muy útil cuando necesito comprar plátanos a última hora. | 낭만적이진 않지만, 막판에 바나나를 사야 할 때는 아주 유용해요.
+## 집안일 — las tareas del hogar
+[08:17.72]
+S | Bueno, Mateo, ya hemos descrito toda la casa. | 자, 마테오, 집 전체를 다 묘사했어요.
+[08:22.60]
+S | Ahora viene la parte difícil, mantenerla limpia. ¿Con qué frecuencia haces las tareas del hogar? | 이제 어려운 부분, 깨끗하게 유지하기예요. 집안일은 얼마나 자주 해요?
+[08:30.91]
+M | Eh, depende. Intento pasar la aspiradora por el salón y el pasillo una vez a la semana y limpio el baño los sábados por la mañana, pero fregar el suelo me da mucha pereza. | 음, 때에 따라 달라요. 거실과 복도는 일주일에 한 번 청소기를 돌리려 하고 욕실은 토요일 아침에 청소하는데, 바닥 걸레질은 너무 귀찮아요.
+[08:43.67]
+S | Limpiar la casa es pesado, pero necesario. | 집 청소는 힘들지만 꼭 필요한 일이에요.
+[08:47.30]
+S | Yo suelo limpiar un poco cada día para no acumular trabajo el fin de semana. | 저는 주말에 일이 쌓이지 않도록 매일 조금씩 청소하는 편이에요.
+[08:54.33]
+S | El lunes pongo la lavadora. El martes limpio el polvo de los muebles con un plumero. El miércoles limpio los cristales de las ventanas. | 월요일엔 세탁기를 돌리고, 화요일엔 먼지떨이로 가구의 먼지를 털고, 수요일엔 창문 유리를 닦아요.
+[09:05.02]
+M | Wow, eres una máquina de la limpieza. | 와, 청소 기계네요.
+[09:07.95]
+M | Yo pongo la lavadora solo cuando me quedo sin calcetines limpios y tender la ropa es lo que más odio de todo el proceso. | 저는 깨끗한 양말이 떨어졌을 때만 세탁기를 돌리고, 빨래 너는 게 그 모든 과정에서 제일 싫어요.
+## 집의 문제들 — 누수, 난방, 소음
+[09:16.98]
+M | Vivir en un piso viejo también tiene problemas. | 오래된 피소에 사는 것도 문제가 있어요.
+[09:19.97]
+M | El mes pasado tuve una gotera en el techo del baño porque el vecino de arriba tuvo una avería en su tubería. El baño parecía una piscina olímpica. | 지난달에는 윗집 이웃의 배관이 고장 나서 욕실 천장에서 물이 샜어요. 욕실이 올림픽 수영장 같았어요.
+[09:31.70]
+S | ¡Qué horror! En las casas independientes no tenemos goteras de los vecinos. | 끔찍하네요! 단독주택에서는 이웃 때문에 물이 새는 일은 없어요.
+[09:38.04]
+S | Pero el año pasado se rompió la calefacción en pleno invierno. | 하지만 작년엔 한겨울에 난방이 고장 났어요.
+[09:42.63]
+S | Pasamos tres días con tres mantas encima en el salón esperando al técnico. Hacía más frío dentro de la casa que en la calle. | 기사님을 기다리며 거실에서 담요 세 장을 덮고 사흘을 보냈어요. 집 안이 밖보다 더 추웠어요.
+[09:51.84]
+M | Otro problema de mi piso son los ruidos. | 제 피소의 또 다른 문제는 소음이에요.
+[09:55.12]
+M | Las paredes son delgadas y a veces escucho la televisión del vecino de al lado a las 11 de la noche. | 벽이 얇아서 가끔 밤 11시에 옆집 TV 소리가 들려요.
+[10:02.76]
+M | Menos mal que el vecino tiene buen gusto para las películas. | 다행히 이웃이 영화 취향이 좋아요.
+## 꿈의 집 — 1,000만 유로가 있다면
+[10:06.77]
+S | Para terminar nuestro episodio de hoy, Mateo, si tuvieras 10 millones de euros, ¿cómo sería la casa de tus sueños? | 오늘 에피소드를 마무리하며, 마테오, 1,000만 유로가 있다면 꿈의 집은 어떤 모습일까요?
+[10:15.26]
+M | Mi casa ideal sería una villa moderna en la playa con paredes de cristal para ver el mar desde la cama. | 제 이상적인 집은 침대에서 바다가 보이도록 유리 벽을 단, 해변의 현대식 빌라예요.
+[10:24.20]
+M | Tendría una piscina infinita, una cocina gigantesca con un chef privado que cocine pizza saludable todos los días y por supuesto un robot que limpie toda la casa automáticamente. | 인피니티 풀, 매일 건강한 피자를 만들어 주는 전속 셰프가 있는 거대한 주방, 그리고 물론 집 전체를 자동으로 청소하는 로봇도 있을 거예요.
+[10:37.68]
+M | ¿Y la tuya? | 소피아의 집은요?
+[10:39.00]
+S | Mi casa ideal sería una cabaña de madera rústica en medio de un bosque verde cerca de un lago. | 제 이상적인 집은 호수 가까운 푸른 숲 한가운데 있는 소박한 통나무 오두막이에요.
+[10:46.83]
+S | Tendría una chimenea grande en el salón para el invierno, una biblioteca con miles de libros y un jardín enorme con árboles frutales y flores de todos los colores. | 겨울을 위한 큰 벽난로가 거실에 있고, 수천 권의 책이 있는 서재와 과일나무와 온갖 색 꽃이 가득한 커다란 정원이 있을 거예요.
+[10:57.47]
+S | Un lugar muy tranquilo, sin ruidos de coches. | 자동차 소음이 없는 아주 조용한 곳이죠.
+[11:00.97]
+M | Suena muy bien, Sofía, pero hoy la realidad es que mi piso tiene polvo, cajas de pizza y mi tía abuela llega en menos de 24 horas. | 정말 좋네요, 소피아. 하지만 오늘의 현실은 제 집에 먼지와 피자 상자가 있고 이모할머니가 24시간도 안 남아 도착하신다는 거예요.
+[11:10.92]
+S | Tienes mucha razón. | 네 말이 맞아요.
+[11:12.53]
+S | Tienes que apagar el micrófono ahora mismo, coger la escoba, el mocho, los productos de limpieza y empezar a trabajar. | 지금 당장 마이크를 끄고, 빗자루와 대걸레, 청소용품을 챙겨서 일을 시작해야 해요.
+[11:22.24]
+M | Sí, capitán. | 네, 대장님.
+## 마무리 인사
+[11:23.19]
+S | Amigos de Easy Spanish Podcast, hoy hemos aprendido a describir todas las partes de una casa, los muebles y los tipos de vivienda en nivel A2. | 이지 스패니시 팟캐스트 친구들, 오늘 우리는 A2 수준으로 집의 모든 부분과 가구, 주거 형태를 묘사하는 법을 배웠어요.
+[11:34.03]
+S | Esperamos que este episodio largo os ayude a hablar de vuestro propio hogar. | 이 긴 에피소드가 여러분의 집을 이야기하는 데 도움이 되길 바라요.
+[11:40.11]
+S | Recordad que podéis escuchar este audio mientras limpiáis vuestra habitación o cocináis. | 방을 청소하거나 요리하면서 이 오디오를 들어도 된다는 걸 기억하세요.
+[11:45.22]
+S | Déjennos un comentario abajo describiendo vuestra casa. ¿Viven en un piso o en una casa? | 아래에 여러분의 집을 묘사하는 댓글을 남겨 주세요. 피소에 사세요, 아니면 단독주택에 사세요?
+[11:52.01]
+M | ¿Cuál es vuestra habitación favorita? | 제일 좋아하는 방은 어디예요?
+[11:54.08]
+M | Y deseadme suerte con la limpieza y con mi tía. | 그리고 제 청소와 이모할머니 맞이가 잘되도록 행운을 빌어 주세요.
+[11:58.20]
+S | Muchas gracias por escucharnos y hasta el próximo episodio. Hasta pronto. Adiós. | 들어 주셔서 정말 감사하고, 다음 에피소드에서 만나요. 곧 만나요. 안녕히 계세요.

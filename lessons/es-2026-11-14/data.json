@@ -1,0 +1,1589 @@
+{
+ "id": "es-2026-11-14",
+ "lang": "es",
+ "date": "2026-11-14",
+ "title": "우리 집 묘사하기 — 방, 가구, 집안일",
+ "es": "Mi salón es amplio y tiene mucha luz natural.",
+ "emoji": "🏠",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to to Describe Your Home in Spanish (A2) | Learn español with Podcast | ep 32 | Easy Spanish",
+ "youtube": "V_7UwRVsvwc",
+ "duration": "12:05",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "내일 세비야에서 이모할머니가 오시는데 집이 엉망인 마테오를 소피아가 도와요. 피소와 단독주택, 현관·거실·식당·주방·침실·욕실·서재·발코니까지 방과 가구 이름, 위치 표현, 집안일 빈도, 집의 문제점, 꿈의 집(조건법)까지 A2 수준으로 집을 묘사하는 법을 듣고 따라 말해 봐요.",
+ "topics": [
+  "주거 형태: piso · casa independiente · casa adosada",
+  "방 이름: recibidor · salón · comedor · cocina · dormitorio · baño",
+  "가구·가전: sofá · estantería · nevera · lavavajillas · armario",
+  "위치 표현: encima de · debajo de · enfrente de · detrás de",
+  "집안일: pasar la aspiradora · poner la lavadora · fregar el suelo",
+  "문법: hay/tener · ser vs estar · soler · 조건법"
+ ],
+ "grammar": [
+  {
+   "title": "① 집의 방과 가구 이름",
+   "lead": "집을 묘사할 때는 <b>방 → 가구 → 위치</b> 순서로 말하면 쉬워요.",
+   "table": {
+    "head": [
+     "방",
+     "가구·물건",
+     "예"
+    ],
+    "rows": [
+     [
+      "el salón",
+      "el sofá, la estantería",
+      "Mi salón tiene un sofá gris."
+     ],
+     [
+      "la cocina",
+      "la nevera, el horno",
+      "Tengo una nevera grande."
+     ],
+     [
+      "el dormitorio",
+      "la cama, el armario",
+      "La cama está en el centro."
+     ],
+     [
+      "el baño",
+      "la bañera, el lavabo",
+      "No tengo bañera."
+     ],
+     [
+      "el despacho",
+      "el escritorio",
+      "Tengo un escritorio grande."
+     ]
+    ]
+   },
+   "tip": "방 이름은 salón/cuarto de estar, dormitorio/habitación처럼 동의어가 많아요. 둘 다 알아 두세요."
+  },
+  {
+   "title": "② 위치 전치사 — encima de, debajo de, enfrente de, detrás de",
+   "lead": "가구가 어디 있는지 말할 때는 <b>위치 표현 + de</b>를 써요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "encima de",
+      "~ 위에",
+      "La ropa está encima del sofá."
+     ],
+     [
+      "debajo de",
+      "~ 아래에",
+      "Una alfombra debajo de la mesa."
+     ],
+     [
+      "enfrente de",
+      "~ 맞은편에",
+      "Enfrente del sofá hay una mesa."
+     ],
+     [
+      "detrás de",
+      "~ 뒤에",
+      "Detrás de la mesa está la tele."
+     ],
+     [
+      "al lado de",
+      "~ 옆에",
+      "Al lado de la puerta hay un mueble."
+     ],
+     [
+      "en el centro de",
+      "~ 한가운데에",
+      "La cama está en el centro."
+     ]
+    ]
+   },
+   "tip": "de + el는 del로 줄어요: encima del sofá (○) / encima de el sofá (×)."
+  },
+  {
+   "title": "③ tener로 집 묘사하기 / hay",
+   "lead": "가진 것은 <b>tener</b>, 거기에 있다는 존재는 <b>hay</b>(단·복수 동일)로 말해요.",
+   "examples": [
+    [
+     "Mi casa tiene un pequeño jardín.",
+     "우리 집에는 작은 정원이 있어요."
+    ],
+    [
+     "Tengo dos mesitas de noche.",
+     "협탁이 두 개 있어요."
+    ],
+    [
+     "Hay tres cajas de pizza en el salón.",
+     "거실에 피자 상자가 세 개 있어요."
+    ],
+    [
+     "Hay espacio suficiente para dos sillas.",
+     "의자 두 개를 놓을 공간은 충분해요."
+    ]
+   ],
+   "tip": "hay는 '불특정한 것의 존재', está/están은 '특정한 것의 위치'예요: Hay una mesa. / La mesa está en la cocina."
+  },
+  {
+   "title": "④ ser vs estar — 집의 특징과 상태",
+   "lead": "변하지 않는 특징은 <b>ser</b>, 일시적 상태·위치는 <b>estar</b>를 써요.",
+   "examples": [
+    [
+     "Mi salón es amplio.",
+     "제 거실은 넓어요. (특징)"
+    ],
+    [
+     "La cocina es alargada y moderna.",
+     "주방은 길쭉하고 현대적이에요."
+    ],
+    [
+     "Mi piso no está limpio.",
+     "제 집은 깨끗하지 않아요. (상태)"
+    ],
+    [
+     "Las paredes están pintadas de verde.",
+     "벽은 초록색으로 칠해져 있어요. (결과 상태)"
+    ],
+    [
+     "El comedor está separado de la cocina.",
+     "식당은 주방과 분리돼 있어요."
+    ]
+   ],
+   "tip": "estar + 과거분사(pintado, separado, ordenado)는 '~된 상태'를 나타내요."
+  },
+  {
+   "title": "⑤ 빈도 표현 — suelo + 동사원형, con qué frecuencia",
+   "lead": "습관은 <b>soler + 동사원형</b>(~하는 편이다)으로 말해요.",
+   "examples": [
+    [
+     "Yo suelo limpiar un poco cada día.",
+     "저는 매일 조금씩 청소하는 편이에요."
+    ],
+    [
+     "Suelo usar el espejo para mirar manchas.",
+     "거울은 주로 얼룩 확인용으로 써요."
+    ],
+    [
+     "¿Con qué frecuencia haces las tareas?",
+     "집안일은 얼마나 자주 해요?"
+    ],
+    [
+     "Paso la aspiradora una vez a la semana.",
+     "일주일에 한 번 청소기를 돌려요."
+    ]
+   ],
+   "tip": "soler는 o→ue 불규칙: suelo, sueles, suele, solemos, soléis, suelen."
+  },
+  {
+   "title": "⑥ 가정법 과거 + 조건법 — 꿈의 집",
+   "lead": "비현실적인 가정은 <b>si + 접속법 과거, 조건법</b>으로 말해요.",
+   "examples": [
+    [
+     "Si tuvieras 10 millones, ¿cómo sería tu casa?",
+     "1,000만 유로가 있다면 집은 어떨까요?"
+    ],
+    [
+     "Tendría una piscina infinita.",
+     "인피니티 풀이 있을 거예요."
+    ],
+    [
+     "Si tuviera que fregar a mano, usaría platos de papel.",
+     "손으로 설거지해야 한다면 종이접시를 쓸 거예요."
+    ],
+    [
+     "Mi casa ideal sería una cabaña de madera.",
+     "제 이상적인 집은 나무 오두막일 거예요."
+    ]
+   ],
+   "tip": "조건법 = 동사원형 + -ía, -ías, -ía, -íamos, -íais, -ían (ser → sería, tener → tendría)."
+  },
+  {
+   "title": "⑦ 비교 표현 — más…que, tan…como",
+   "lead": "집과 방을 비교할 때 쓰는 기본 틀이에요.",
+   "examples": [
+    [
+     "Hay que limpiar mucho más.",
+     "청소할 게 훨씬 더 많아요."
+    ],
+    [
+     "Hacía más frío dentro que en la calle.",
+     "집 안이 밖보다 더 추웠어요."
+    ],
+    [
+     "No tenemos una televisión tan grande.",
+     "그렇게 큰 TV는 없어요."
+    ],
+    [
+     "Es la habitación más importante de la casa.",
+     "집에서 가장 중요한 방이에요."
+    ]
+   ],
+   "tip": "우등비교 más + 형용사 + que, 동등비교 tan + 형용사 + como(여기선 como 생략), 최상급 el/la más + 형용사 + de."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Vives en una casa o en un piso?",
+   "단독주택에 살아요, 아니면 피소에 살아요?"
+  ],
+  [
+   "Vivo en la tercera planta de un edificio.",
+   "저는 건물 3층에 살아요."
+  ],
+  [
+   "Mi salón es amplio y tiene mucha luz natural.",
+   "제 거실은 넓고 자연광이 많아요."
+  ],
+  [
+   "Enfrente del sofá tengo una mesa baja.",
+   "소파 맞은편에 낮은 탁자가 있어요."
+  ],
+  [
+   "Hay espacio suficiente para dos sillas.",
+   "의자 두 개를 놓을 공간은 충분해요."
+  ],
+  [
+   "¿Con qué frecuencia haces las tareas del hogar?",
+   "집안일은 얼마나 자주 해요?"
+  ],
+  [
+   "Odio fregar los platos a mano.",
+   "손으로 설거지하는 건 질색이에요."
+  ],
+  [
+   "Mi casa ideal sería una cabaña en el bosque.",
+   "제 이상적인 집은 숲속 오두막이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la vivienda",
+   "ko": "주거, 집",
+   "ex": "Primero tienes que decir qué tipo de vivienda es.",
+   "exKo": "먼저 어떤 종류의 집인지 말해야 해요."
+  },
+  {
+   "es": "el piso",
+   "ko": "(공동주택의) 집, 아파트",
+   "ex": "Vivo en un piso en la tercera planta.",
+   "exKo": "저는 3층의 피소에 살아요."
+  },
+  {
+   "es": "la casa independiente",
+   "ko": "단독주택",
+   "ex": "¿Vives en una casa independiente o en un piso?",
+   "exKo": "단독주택에 살아요, 피소에 살아요?"
+  },
+  {
+   "es": "la casa adosada",
+   "ko": "연립(타운하우스)주택",
+   "ex": "Vivo en una casa adosada en las afueras.",
+   "exKo": "저는 외곽의 연립주택에 살아요."
+  },
+  {
+   "es": "las afueras",
+   "ko": "(도시) 외곽",
+   "ex": "Mi casa está en las afueras de la ciudad.",
+   "exKo": "우리 집은 도시 외곽에 있어요."
+  },
+  {
+   "es": "el jardín",
+   "ko": "정원",
+   "ex": "Tiene un pequeño jardín detrás.",
+   "exKo": "뒤쪽에 작은 정원이 있어요."
+  },
+  {
+   "es": "el garaje",
+   "ko": "차고",
+   "ex": "Un garaje en el centro cuesta una fortuna.",
+   "exKo": "중심가의 차고는 엄청나게 비싸요."
+  },
+  {
+   "es": "el aparcamiento",
+   "ko": "주차(장)",
+   "ex": "Tardo 20 minutos en encontrar aparcamiento.",
+   "exKo": "주차할 곳을 찾는 데 20분 걸려요."
+  },
+  {
+   "es": "el recibidor",
+   "ko": "현관",
+   "ex": "Mi recibidor es muy pequeño y un poco oscuro.",
+   "exKo": "제 현관은 아주 작고 좀 어두워요."
+  },
+  {
+   "es": "el abrigo",
+   "ko": "외투",
+   "ex": "Un mueble para colgar los abrigos.",
+   "exKo": "외투를 거는 가구."
+  },
+  {
+   "es": "el espejo",
+   "ko": "거울",
+   "ex": "Tengo un espejo redondo encima del mueble.",
+   "exKo": "가구 위에 둥근 거울이 있어요."
+  },
+  {
+   "es": "la mancha",
+   "ko": "얼룩",
+   "ex": "Tengo manchas de café en la camiseta.",
+   "exKo": "티셔츠에 커피 얼룩이 있어요."
+  },
+  {
+   "es": "el salón",
+   "ko": "거실",
+   "ex": "El salón es amplio y tiene mucha luz natural.",
+   "exKo": "거실은 넓고 자연광이 많아요."
+  },
+  {
+   "es": "el ventanal",
+   "ko": "큰 창, 통창",
+   "ex": "Hay un gran ventanal que da a la calle.",
+   "exKo": "길 쪽으로 난 큰 통창이 있어요."
+  },
+  {
+   "es": "el sofá",
+   "ko": "소파",
+   "ex": "Un sofá de tres plazas de color gris.",
+   "exKo": "회색 3인용 소파."
+  },
+  {
+   "es": "la mesa baja",
+   "ko": "낮은 탁자",
+   "ex": "Una mesa baja de madera para poner el café.",
+   "exKo": "커피를 놓는 낮은 나무 탁자."
+  },
+  {
+   "es": "el mando a distancia",
+   "ko": "리모컨",
+   "ex": "Pongo el mando a distancia en la mesa.",
+   "exKo": "리모컨을 탁자에 놓아요."
+  },
+  {
+   "es": "la estantería",
+   "ko": "책장, 선반",
+   "ex": "Tenemos una estantería llena de libros.",
+   "exKo": "책이 가득한 책장이 있어요."
+  },
+  {
+   "es": "el sillón",
+   "ko": "안락의자",
+   "ex": "Un par de sillones muy bonitos para leer.",
+   "exKo": "책 읽기 좋은 예쁜 안락의자 두 개."
+  },
+  {
+   "es": "la alfombra",
+   "ko": "카펫, 러그",
+   "ex": "Tengo una alfombra azul debajo de la mesa.",
+   "exKo": "탁자 아래에 파란 카펫이 있어요."
+  },
+  {
+   "es": "el comedor",
+   "ko": "식당, 식탁 공간",
+   "ex": "Mi comedor está separado de la cocina.",
+   "exKo": "식당은 주방과 분리돼 있어요."
+  },
+  {
+   "es": "extensible",
+   "ko": "확장되는",
+   "ex": "Una mesa de comedor extensible con cuatro sillas.",
+   "exKo": "의자 네 개가 있는 확장형 식탁."
+  },
+  {
+   "es": "el cuadro",
+   "ko": "그림, 액자",
+   "ex": "En la pared tengo algunos cuadros.",
+   "exKo": "벽에 그림 액자가 몇 개 있어요."
+  },
+  {
+   "es": "la lámpara",
+   "ko": "조명, 램프",
+   "ex": "Una lámpara moderna cuelga del techo.",
+   "exKo": "현대적인 조명이 천장에 매달려 있어요."
+  },
+  {
+   "es": "el techo",
+   "ko": "천장",
+   "ex": "Cuelga del techo justo encima de la mesa.",
+   "exKo": "식탁 바로 위 천장에 매달려 있어요."
+  },
+  {
+   "es": "la encimera",
+   "ko": "조리대",
+   "ex": "Una encimera de mármol gris.",
+   "exKo": "회색 대리석 조리대."
+  },
+  {
+   "es": "los electrodomésticos",
+   "ko": "가전제품",
+   "ex": "Los electrodomésticos son de acero inoxidable.",
+   "exKo": "가전제품은 스테인리스예요."
+  },
+  {
+   "es": "la nevera",
+   "ko": "냉장고",
+   "ex": "Tengo una nevera grande.",
+   "exKo": "큰 냉장고가 있어요."
+  },
+  {
+   "es": "el horno",
+   "ko": "오븐",
+   "ex": "Un microondas, un horno y una vitrocerámica.",
+   "exKo": "전자레인지, 오븐, 인덕션."
+  },
+  {
+   "es": "la vitrocerámica",
+   "ko": "세라믹(인덕션) 레인지",
+   "ex": "Cocino en una vitrocerámica.",
+   "exKo": "세라믹 레인지로 요리해요."
+  },
+  {
+   "es": "el lavavajillas",
+   "ko": "식기세척기",
+   "ex": "El lavavajillas es el mejor invento.",
+   "exKo": "식기세척기는 최고의 발명품이에요."
+  },
+  {
+   "es": "fregar los platos",
+   "ko": "설거지하다",
+   "ex": "Odio fregar los platos a mano.",
+   "exKo": "손으로 설거지하는 게 싫어요."
+  },
+  {
+   "es": "la tostadora",
+   "ko": "토스터",
+   "ex": "También tengo una tostadora.",
+   "exKo": "토스터도 있어요."
+  },
+  {
+   "es": "la cafetera",
+   "ko": "커피메이커",
+   "ex": "Una cafetera eléctrica que uso cada mañana.",
+   "exKo": "매일 아침 쓰는 전기 커피메이커."
+  },
+  {
+   "es": "el dormitorio",
+   "ko": "침실",
+   "ex": "Mi dormitorio es sencillo.",
+   "exKo": "제 침실은 단출해요."
+  },
+  {
+   "es": "la cama de matrimonio",
+   "ko": "더블침대",
+   "ex": "La cama de matrimonio está en el centro.",
+   "exKo": "더블침대가 가운데 있어요."
+  },
+  {
+   "es": "la mesita de noche",
+   "ko": "협탁",
+   "ex": "Dos mesitas de noche a los lados.",
+   "exKo": "양옆에 협탁 두 개."
+  },
+  {
+   "es": "el armario empotrado",
+   "ko": "붙박이장",
+   "ex": "Tengo un armario empotrado de tres puertas.",
+   "exKo": "문이 세 개인 붙박이장이 있어요."
+  },
+  {
+   "es": "la cómoda",
+   "ko": "서랍장",
+   "ex": "Una cómoda con cajones para los calcetines.",
+   "exKo": "양말을 넣는 서랍장."
+  },
+  {
+   "es": "el cajón",
+   "ko": "서랍",
+   "ex": "Los calcetines están en el cajón.",
+   "exKo": "양말은 서랍에 있어요."
+  },
+  {
+   "es": "la cortina",
+   "ko": "커튼",
+   "ex": "Unas cortinas blancas tapan la luz.",
+   "exKo": "흰 커튼이 빛을 가려요."
+  },
+  {
+   "es": "el cuarto de baño",
+   "ko": "욕실",
+   "ex": "Es un baño completo pero pequeño.",
+   "exKo": "갖출 건 다 갖췄지만 작은 욕실이에요."
+  },
+  {
+   "es": "la bañera",
+   "ko": "욕조",
+   "ex": "No tengo bañera.",
+   "exKo": "욕조는 없어요."
+  },
+  {
+   "es": "el plato de ducha",
+   "ko": "샤워 트레이",
+   "ex": "Tengo un plato de ducha con mampara.",
+   "exKo": "칸막이가 있는 샤워 트레이가 있어요."
+  },
+  {
+   "es": "la mampara",
+   "ko": "(샤워) 칸막이",
+   "ex": "Una mampara de cristal.",
+   "exKo": "유리 칸막이."
+  },
+  {
+   "es": "el aseo",
+   "ko": "(작은) 화장실",
+   "ex": "Un aseo pequeño en la planta baja.",
+   "exKo": "아래층의 작은 화장실."
+  },
+  {
+   "es": "el lavabo",
+   "ko": "세면대",
+   "ex": "Un mueble con el lavabo y un espejo.",
+   "exKo": "세면대와 거울이 있는 장."
+  },
+  {
+   "es": "el retrete",
+   "ko": "변기",
+   "ex": "En el baño hay un retrete.",
+   "exKo": "욕실에 변기가 있어요."
+  },
+  {
+   "es": "la toalla",
+   "ko": "수건",
+   "ex": "Guardo las toallas debajo del lavabo.",
+   "exKo": "세면대 아래에 수건을 보관해요."
+  },
+  {
+   "es": "el papel higiénico",
+   "ko": "화장지",
+   "ex": "Guardo el papel higiénico en el armario.",
+   "exKo": "화장지는 수납장에 넣어요."
+  },
+  {
+   "es": "el despacho",
+   "ko": "서재, 사무실",
+   "ex": "La uso como despacho para trabajar desde casa.",
+   "exKo": "재택근무용 서재로 써요."
+  },
+  {
+   "es": "el escritorio",
+   "ko": "책상",
+   "ex": "Tengo un escritorio grande.",
+   "exKo": "큰 책상이 있어요."
+  },
+  {
+   "es": "el balcón",
+   "ko": "발코니",
+   "ex": "Tengo un balcón estrecho.",
+   "exKo": "좁은 발코니가 있어요."
+  },
+  {
+   "es": "la terraza",
+   "ko": "테라스",
+   "ex": "Mi casa tiene una terraza grande.",
+   "exKo": "우리 집엔 큰 테라스가 있어요."
+  },
+  {
+   "es": "las vistas",
+   "ko": "전망, 경치",
+   "ex": "Las vistas desde mi terraza son bonitas.",
+   "exKo": "테라스에서 보는 경치가 예뻐요."
+  },
+  {
+   "es": "la aspiradora",
+   "ko": "청소기",
+   "ex": "Paso la aspiradora por el salón.",
+   "exKo": "거실에 청소기를 돌려요."
+  },
+  {
+   "es": "fregar el suelo",
+   "ko": "바닥을 닦다",
+   "ex": "Fregar el suelo me da mucha pereza.",
+   "exKo": "바닥 닦는 건 너무 귀찮아요."
+  },
+  {
+   "es": "la lavadora",
+   "ko": "세탁기",
+   "ex": "El lunes pongo la lavadora.",
+   "exKo": "월요일엔 세탁기를 돌려요."
+  },
+  {
+   "es": "tender la ropa",
+   "ko": "빨래를 널다",
+   "ex": "Tender la ropa es lo que más odio.",
+   "exKo": "빨래 너는 게 제일 싫어요."
+  },
+  {
+   "es": "el polvo",
+   "ko": "먼지",
+   "ex": "Limpio el polvo de los muebles.",
+   "exKo": "가구의 먼지를 털어요."
+  },
+  {
+   "es": "la gotera",
+   "ko": "(천장에서) 물이 새는 곳",
+   "ex": "Tuve una gotera en el techo del baño.",
+   "exKo": "욕실 천장에서 물이 샜어요."
+  },
+  {
+   "es": "la avería",
+   "ko": "고장",
+   "ex": "El vecino tuvo una avería en su tubería.",
+   "exKo": "이웃의 배관이 고장 났어요."
+  },
+  {
+   "es": "la calefacción",
+   "ko": "난방",
+   "ex": "Se rompió la calefacción en pleno invierno.",
+   "exKo": "한겨울에 난방이 고장 났어요."
+  },
+  {
+   "es": "la escoba",
+   "ko": "빗자루",
+   "ex": "Coge la escoba y empieza a trabajar.",
+   "exKo": "빗자루를 들고 일을 시작해요."
+  },
+  {
+   "es": "la cabaña",
+   "ko": "오두막",
+   "ex": "Mi casa ideal sería una cabaña de madera.",
+   "exKo": "제 이상적인 집은 나무 오두막이에요."
+  },
+  {
+   "es": "la chimenea",
+   "ko": "벽난로, 굴뚝",
+   "ex": "Tendría una chimenea grande en el salón.",
+   "exKo": "거실에 큰 벽난로가 있을 거예요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Desde dónde viene la tía abuela de Mateo?",
+   "options": [
+    "Madrid",
+    "Sevilla",
+    "Valencia",
+    "Barcelona"
+   ],
+   "answer": 1,
+   "explain": "Mateo dice: 'Mi tía abuela viene a visitarme mañana desde Sevilla.'"
+  },
+  {
+   "q": "¿En qué tipo de vivienda vive Mateo?",
+   "options": [
+    "una casa adosada",
+    "una casa independiente",
+    "un piso",
+    "una cabaña"
+   ],
+   "answer": 2,
+   "explain": "Mateo: 'Yo vivo en un piso, en la tercera planta.'"
+  },
+  {
+   "q": "¿Qué tiene Sofía detrás de su casa?",
+   "options": [
+    "una piscina",
+    "un pequeño jardín",
+    "un balcón",
+    "un patio de cristal"
+   ],
+   "answer": 1,
+   "explain": "Sofía: 'tiene un pequeño jardín detrás y un garaje'."
+  },
+  {
+   "q": "¿Por qué el recibidor de Mateo es oscuro?",
+   "options": [
+    "Tiene paredes negras",
+    "No tiene ventanas",
+    "Usa cortinas gruesas",
+    "Está en el sótano"
+   ],
+   "answer": 1,
+   "explain": "'es muy pequeño y un poco oscuro porque no tiene ventanas.'"
+  },
+  {
+   "q": "¿De qué color es el sofá de Mateo?",
+   "options": [
+    "azul",
+    "blanco",
+    "gris",
+    "verde"
+   ],
+   "answer": 2,
+   "explain": "Mateo tiene 'un sofá de tres plazas de color gris'."
+  },
+  {
+   "q": "¿Qué dice Mateo del lavavajillas?",
+   "options": [
+    "Es caro",
+    "Es el mejor invento de la historia humana",
+    "No lo usa nunca",
+    "No lo tiene"
+   ],
+   "answer": 1,
+   "explain": "'Para mí el lavavajillas es el mejor invento de la historia humana.'"
+  },
+  {
+   "q": "¿Dónde está siempre la ropa de Mateo?",
+   "options": [
+    "en el armario",
+    "en el cajón",
+    "encima de una silla",
+    "en la lavadora"
+   ],
+   "answer": 2,
+   "explain": "Su ropa 'siempre está encima de una silla en la esquina'."
+  },
+  {
+   "q": "¿Qué tiene Mateo en el baño en lugar de bañera?",
+   "options": [
+    "una piscina",
+    "un plato de ducha con mampara",
+    "un jacuzzi",
+    "nada"
+   ],
+   "answer": 1,
+   "explain": "'Tengo un plato de ducha con una mampara de cristal.'"
+  },
+  {
+   "q": "¿Para qué usa Mateo la segunda habitación?",
+   "options": [
+    "dormitorio de invitados",
+    "almacén",
+    "despacho",
+    "gimnasio"
+   ],
+   "answer": 2,
+   "explain": "La usa 'como despacho para trabajar desde casa y grabar el podcast'."
+  },
+  {
+   "q": "¿Qué ve Mateo desde su balcón?",
+   "options": [
+    "las montañas",
+    "un lago",
+    "coches, autobuses y una tienda de fruta",
+    "el mar"
+   ],
+   "answer": 2,
+   "explain": "'Las vistas de mi balcón son solo carros, autobuses y una tienda de fruta enfrente.'"
+  },
+  {
+   "q": "¿Qué problema tuvo Sofía el año pasado?",
+   "options": [
+    "una gotera",
+    "se rompió la calefacción",
+    "ruidos de los vecinos",
+    "una inundación"
+   ],
+   "answer": 1,
+   "explain": "'el año pasado se rompió la calefacción en pleno invierno.'"
+  },
+  {
+   "q": "¿Cómo sería la casa ideal de Sofía?",
+   "options": [
+    "una villa en la playa",
+    "un ático en Madrid",
+    "una cabaña de madera en un bosque",
+    "un castillo"
+   ],
+   "answer": 2,
+   "explain": "Sofía: 'Mi casa ideal sería una cabaña de madera rústica en medio de un bosque'."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 이모할머니가 내일 오신다",
+   "lines": [
+    {
+     "t": 0.4,
+     "s": "S",
+     "es": "Bienvenida a Easy Spanish Podcast.",
+     "ko": "이지 스패니시 팟캐스트에 오신 걸 환영해요."
+    },
+    {
+     "t": 5.9,
+     "s": "M",
+     "es": "Sofía, tienes que ayudarme.",
+     "ko": "소피아, 나 좀 도와줘요."
+    },
+    {
+     "t": 7.8,
+     "s": "M",
+     "es": "Mi tía abuela viene a visitarme mañana desde Sevilla y me ha preguntado por mensaje si mi piso está limpio y ordenado.",
+     "ko": "내일 이모할머니가 세비야에서 저를 보러 오시는데, 제 집이 깨끗하고 정돈돼 있느냐고 메시지로 물으셨어요."
+    },
+    {
+     "t": 17.4,
+     "s": "M",
+     "es": "He respondido que sí.",
+     "ko": "저는 그렇다고 답했고요."
+    },
+    {
+     "t": 19.1,
+     "s": "S",
+     "es": "¿Y cuál es el problema, Mateo? ¿Tu piso no está limpio?",
+     "ko": "그럼 뭐가 문제예요, 마테오? 집이 안 깨끗해요?"
+    },
+    {
+     "t": 23.6,
+     "s": "M",
+     "es": "Bueno, hay tres cajas de pizza en el salón.",
+     "ko": "음, 거실에 피자 상자가 세 개 있어요."
+    },
+    {
+     "t": 27.2,
+     "s": "M",
+     "es": "Mi ropa sucia está encima del sofá y no encuentro la mesa de la cocina debajo de tantos papeles.",
+     "ko": "빨랫감은 소파 위에 있고, 부엌 식탁은 서류가 너무 많아서 어디 있는지 찾을 수가 없어요."
+    },
+    {
+     "t": 35.2,
+     "s": "S",
+     "es": "Hola a todos, bienvenidos a este episodio especial de Easy Spanish Podcast.",
+     "ko": "여러분 안녕하세요, 이지 스패니시 팟캐스트 특별 에피소드에 오신 걸 환영해요."
+    },
+    {
+     "t": 40.5,
+     "s": "S",
+     "es": "Hoy no vamos a hacer shadowing, hoy vamos a hablar de la casa, de las habitaciones y del mobiliario en nivel A2.",
+     "ko": "오늘은 쉐도잉은 하지 않고, A2 수준으로 집과 방, 가구에 대해 이야기할 거예요."
+    },
+    {
+     "t": 50.4,
+     "s": "S",
+     "es": "Y vamos a intentar que Mateo limpie su piso antes de que llegue su tía abuela. Empezamos.",
+     "ko": "그리고 마테오가 이모할머니가 오시기 전에 집을 청소하도록 해 볼 거예요. 시작합시다."
+    }
+   ]
+  },
+  {
+   "title": "집의 종류 — 피소? 단독주택?",
+   "lines": [
+    {
+     "t": 57.6,
+     "s": "S",
+     "es": "A ver, Mateo, vamos a empezar por lo básico para nuestros oyentes.",
+     "ko": "자, 마테오, 청취자분들을 위해 기본부터 시작해요."
+    },
+    {
+     "t": 62.6,
+     "s": "S",
+     "es": "Para describir tu casa, primero tienes que decir qué tipo de vivienda es.",
+     "ko": "집을 묘사하려면 먼저 어떤 종류의 집인지 말해야 해요."
+    },
+    {
+     "t": 68.5,
+     "s": "S",
+     "es": "¿Vives en una casa independiente o en un piso?",
+     "ko": "단독주택에 살아요, 아니면 아파트(피소)에 살아요?"
+    },
+    {
+     "t": 71.8,
+     "s": "M",
+     "es": "Yo vivo en un piso, en la tercera planta de un edificio en el centro de Madrid.",
+     "ko": "저는 마드리드 중심가 건물 3층의 피소에 살아요."
+    },
+    {
+     "t": 77.8,
+     "s": "M",
+     "es": "No me gustan las casas grandes porque hay que limpiar mucho más.",
+     "ko": "큰 집은 청소할 게 훨씬 많아서 싫어요."
+    },
+    {
+     "t": 82.5,
+     "s": "S",
+     "es": "Yo prefiero las casas.",
+     "ko": "저는 단독주택이 더 좋아요."
+    },
+    {
+     "t": 84.0,
+     "s": "S",
+     "es": "Vivo en una casa adosada en las afueras de la ciudad.",
+     "ko": "저는 도시 외곽의 연립(타운하우스)주택에 살아요."
+    },
+    {
+     "t": 87.7,
+     "s": "S",
+     "es": "Lo bueno de mi casa es que tiene un pequeño jardín detrás y un garaje para el coche.",
+     "ko": "우리 집의 장점은 뒤쪽에 작은 정원이 있고 차를 세울 차고가 있다는 거예요."
+    },
+    {
+     "t": 94.1,
+     "s": "M",
+     "es": "Qué lujo. Un garaje en el centro de Madrid cuesta una fortuna.",
+     "ko": "부럽네요. 마드리드 중심가에서 차고는 엄청나게 비싸요."
+    },
+    {
+     "t": 99.0,
+     "s": "M",
+     "es": "Mi coche duerme en la calle y siempre tardo 20 minutos en encontrar aparcamiento.",
+     "ko": "제 차는 길에서 자고, 주차할 곳을 찾는 데 늘 20분이 걸려요."
+    }
+   ]
+  },
+  {
+   "title": "현관 — el recibidor",
+   "lines": [
+    {
+     "t": 106.0,
+     "s": "S",
+     "es": "Bueno, imagina que tu tía abuela abre la puerta de tu piso.",
+     "ko": "자, 이모할머니가 네 집 문을 연다고 상상해 봐요."
+    },
+    {
+     "t": 110.3,
+     "s": "S",
+     "es": "Lo primero que ve es el recibidor o la entrada. ¿Cómo es tu recibidor?",
+     "ko": "가장 먼저 보이는 건 현관이에요. 현관은 어떻게 생겼어요?"
+    },
+    {
+     "t": 115.7,
+     "s": "M",
+     "es": "Mi recibidor es muy pequeño y un poco oscuro porque no tiene ventanas.",
+     "ko": "현관은 아주 작고, 창문이 없어서 좀 어두워요."
+    },
+    {
+     "t": 121.2,
+     "s": "M",
+     "es": "Al lado de la puerta tengo un mueble para colgar los abrigos y las chaquetas.",
+     "ko": "문 옆에 외투와 재킷을 거는 가구가 있어요."
+    },
+    {
+     "t": 126.9,
+     "s": "S",
+     "es": "¿Y tienes un espejo en la entrada?",
+     "ko": "현관에 거울은 있어요?"
+    },
+    {
+     "t": 129.4,
+     "s": "S",
+     "es": "A mí me encanta tener un espejo grande para mirarme antes de salir de casa.",
+     "ko": "저는 외출 전에 나를 비춰 볼 큰 거울을 두는 걸 정말 좋아해요."
+    },
+    {
+     "t": 134.7,
+     "s": "M",
+     "es": "Sí, tengo un espejo redondo encima del mueble, pero suelo usarlo para comprobar si tengo manchas de café en la camiseta antes de ir a trabajar.",
+     "ko": "네, 가구 위에 둥근 거울이 있는데, 출근 전에 티셔츠에 커피 얼룩이 없는지 확인할 때 주로 써요."
+    }
+   ]
+  },
+  {
+   "title": "거실 — el salón",
+   "lines": [
+    {
+     "t": 145.6,
+     "s": "S",
+     "es": "Del recibidor pasamos directamente al salón o cuarto de estar.",
+     "ko": "현관에서 곧바로 거실(살론, 쿠아르토 데 에스타르)로 이어져요."
+    },
+    {
+     "t": 149.8,
+     "s": "S",
+     "es": "El salón es la habitación más importante de la casa para ti, ¿verdad?",
+     "ko": "거실이 너한테는 집에서 가장 중요한 방이죠, 그렇죠?"
+    },
+    {
+     "t": 155.7,
+     "s": "M",
+     "es": "Totalmente. Mi salón es amplio y tiene mucha luz natural porque hay un gran ventanal que da a la calle.",
+     "ko": "완전히요. 제 거실은 넓고, 길 쪽으로 난 큰 통창 덕분에 자연광이 많이 들어와요."
+    },
+    {
+     "t": 162.6,
+     "s": "M",
+     "es": "En el centro del salón tengo mi objeto favorito del mundo, un sofá de tres plazas de color gris. Es supercómodo.",
+     "ko": "거실 한가운데에는 세상에서 제일 좋아하는 물건, 회색 3인용 소파가 있어요. 정말 편해요."
+    },
+    {
+     "t": 172.5,
+     "s": "S",
+     "es": "Sí, el famoso sofá donde pasas los fines de semana viendo series.",
+     "ko": "맞아요, 주말마다 드라마를 보며 보내는 그 유명한 소파죠."
+    },
+    {
+     "t": 176.9,
+     "s": "S",
+     "es": "¿Qué más muebles tienes en el salón?",
+     "ko": "거실에 가구가 또 뭐가 있어요?"
+    },
+    {
+     "t": 178.6,
+     "s": "M",
+     "es": "Enfrente del sofá tengo una mesa baja de madera para poner el café y el mando a distancia.",
+     "ko": "소파 맞은편에 커피와 리모컨을 올려 두는 낮은 나무 탁자가 있어요."
+    },
+    {
+     "t": 185.9,
+     "s": "M",
+     "es": "Detrás de la mesa está el mueble de la televisión con una tele bastante grande y mi consola de videojuegos.",
+     "ko": "탁자 뒤에는 꽤 큰 TV와 제 게임기가 있는 TV장이 있어요."
+    },
+    {
+     "t": 193.9,
+     "s": "S",
+     "es": "En mi salón no tenemos una televisión tan grande, pero tenemos una estantería llena de libros y un par de sillones muy bonitos para leer por las tardes.",
+     "ko": "우리 거실에는 그렇게 큰 TV는 없지만, 책이 가득한 책장과 오후에 책 읽기 좋은 예쁜 안락의자 두 개가 있어요."
+    },
+    {
+     "t": 205.3,
+     "s": "S",
+     "es": "También tengo una alfombra azul debajo de la mesa.",
+     "ko": "탁자 아래에는 파란 카펫도 깔려 있어요."
+    }
+   ]
+  },
+  {
+   "title": "식당 — el comedor",
+   "lines": [
+    {
+     "t": 209.1,
+     "s": "M",
+     "es": "Mi salón y mi comedor están en la misma habitación.",
+     "ko": "제 거실과 식당은 같은 방에 있어요."
+    },
+    {
+     "t": 213.8,
+     "s": "M",
+     "es": "En una esquina tengo una mesa de comedor extensible con cuatro sillas donde como cuando tengo visitas.",
+     "ko": "한쪽 구석에 의자 네 개가 딸린 확장형 식탁이 있는데, 손님이 올 때 거기서 먹어요."
+    },
+    {
+     "t": 223.5,
+     "s": "S",
+     "es": "Mi comedor está separado de la cocina por una puerta de cristal.",
+     "ko": "우리 식당은 유리문으로 주방과 분리돼 있어요."
+    },
+    {
+     "t": 227.0,
+     "s": "S",
+     "es": "La mesa de mi comedor es redonda y las sillas son de color blanco.",
+     "ko": "식탁은 둥글고 의자는 흰색이에요."
+    },
+    {
+     "t": 231.1,
+     "s": "S",
+     "es": "En la pared tengo algunos cuadros con fotos de mis viajes.",
+     "ko": "벽에는 여행 사진이 담긴 그림 액자가 몇 개 걸려 있어요."
+    },
+    {
+     "t": 234.6,
+     "s": "M",
+     "es": "Yo no tengo cuadros en el comedor, pero tengo una lámpara moderna que cuelga del techo justo encima de la mesa.",
+     "ko": "저는 식당에 액자는 없지만, 식탁 바로 위 천장에 매달린 현대적인 조명이 있어요."
+    },
+    {
+     "t": 243.6,
+     "s": "M",
+     "es": "A veces la luz es demasiado fuerte y parece que estoy en un examen de la universidad.",
+     "ko": "가끔 불빛이 너무 강해서 대학 시험을 보는 것 같아요."
+    }
+   ]
+  },
+  {
+   "title": "주방 — la cocina",
+   "lines": [
+    {
+     "t": 250.4,
+     "s": "S",
+     "es": "Vamos a la cocina. Mateo, el lugar donde haces magia o donde quemas las cosas.",
+     "ko": "주방으로 가 볼까요. 마테오, 마법을 부리거나 음식을 태우는 곳이죠."
+    },
+    {
+     "t": 257.1,
+     "s": "S",
+     "es": "¿Cómo es tu cocina?",
+     "ko": "주방은 어떻게 생겼어요?"
+    },
+    {
+     "t": 258.9,
+     "s": "M",
+     "es": "Mi cocina es alargada y un poco estrecha, pero es bastante moderna.",
+     "ko": "제 주방은 길쭉하고 좀 좁지만 꽤 현대적이에요."
+    },
+    {
+     "t": 264.1,
+     "s": "M",
+     "es": "Tiene una encimera de mármol gris donde preparo la comida.",
+     "ko": "음식을 준비하는 회색 대리석 조리대가 있어요."
+    },
+    {
+     "t": 269.3,
+     "s": "M",
+     "es": "Los electrodomésticos son de acero inoxidable.",
+     "ko": "가전제품은 스테인리스 스틸이에요."
+    },
+    {
+     "t": 272.5,
+     "s": "M",
+     "es": "Tengo una nevera grande, un microondas, un horno y una vitrocerámica para cocinar.",
+     "ko": "큰 냉장고, 전자레인지, 오븐, 요리용 인덕션(세라믹 레인지)이 있어요."
+    },
+    {
+     "t": 279.7,
+     "s": "S",
+     "es": "¿Y tienes lavavajillas?",
+     "ko": "식기세척기는 있어요?"
+    },
+    {
+     "t": 281.2,
+     "s": "M",
+     "es": "Para mí el lavavajillas es el mejor invento de la historia humana. Odio fregar los platos a mano.",
+     "ko": "저한테 식기세척기는 인류 역사상 최고의 발명품이에요. 손으로 설거지하는 건 질색이에요."
+    },
+    {
+     "t": 288.5,
+     "s": "M",
+     "es": "Sí, tengo lavavajillas. Menos mal, porque si tuviera que fregar los platos a mano, usaría platos de papel todos los días.",
+     "ko": "네, 있어요. 다행이죠, 손으로 설거지해야 한다면 매일 종이접시를 쓸 테니까요."
+    },
+    {
+     "t": 297.6,
+     "s": "M",
+     "es": "También tengo una tostadora y una cafetera eléctrica que uso cada mañana.",
+     "ko": "토스터와 전기 커피메이커도 있는데 매일 아침 써요."
+    }
+   ]
+  },
+  {
+   "title": "침실 — el dormitorio",
+   "lines": [
+    {
+     "t": 302.9,
+     "s": "S",
+     "es": "Pasemos ahora a la zona de descanso, el dormitorio o la habitación.",
+     "ko": "이제 휴식 공간인 침실(도르미토리오, 아비타시온)로 가 봐요."
+    },
+    {
+     "t": 307.6,
+     "s": "S",
+     "es": "¿Cómo es tu dormitorio, Mateo?",
+     "ko": "마테오, 침실은 어떻게 생겼어요?"
+    },
+    {
+     "t": 309.7,
+     "s": "M",
+     "es": "Mi dormitorio es sencillo.",
+     "ko": "제 침실은 단출해요."
+    },
+    {
+     "t": 311.5,
+     "s": "M",
+     "es": "Lo más importante es la cama de matrimonio en el centro con dos mesitas de noche a los lados.",
+     "ko": "가장 중요한 건 한가운데 있는 더블침대와 양옆의 협탁 두 개예요."
+    },
+    {
+     "t": 319.9,
+     "s": "M",
+     "es": "En cada mesita tengo una pequeña lámpara para leer por las noches.",
+     "ko": "협탁마다 밤에 책을 읽을 작은 램프가 있어요."
+    },
+    {
+     "t": 324.9,
+     "s": "S",
+     "es": "¿Y tienes un armario empotrado para guardar toda tu ropa?",
+     "ko": "옷을 다 넣어 둘 붙박이장은 있어요?"
+    },
+    {
+     "t": 329.2,
+     "s": "M",
+     "es": "Sí, tengo un armario empotrado de tres puertas, pero el problema es que mi ropa nunca está dentro del armario, siempre está encima de una silla en la esquina.",
+     "ko": "네, 문이 세 개인 붙박이장이 있는데, 문제는 옷이 한 번도 장 안에 있지 않고 늘 구석 의자 위에 있다는 거예요."
+    },
+    {
+     "t": 341.2,
+     "s": "M",
+     "es": "La silla de la ropa es un mueble básico en mi casa. Es un desastre.",
+     "ko": "'옷 의자'는 우리 집의 기본 가구예요. 엉망이죠."
+    },
+    {
+     "t": 346.6,
+     "s": "S",
+     "es": "Mi dormitorio es muy ordenado.",
+     "ko": "제 침실은 아주 정돈돼 있어요."
+    },
+    {
+     "t": 348.6,
+     "s": "S",
+     "es": "Las paredes están pintadas de un color verde claro que relaja mucho.",
+     "ko": "벽은 마음이 편안해지는 연한 초록색으로 칠해져 있어요."
+    },
+    {
+     "t": 353.3,
+     "s": "S",
+     "es": "Tengo un armario grande, una cómoda con cajones para los calcetines y unas cortinas blancas que tapan la luz por la mañana.",
+     "ko": "큰 옷장, 양말을 넣는 서랍장, 아침 햇빛을 가려 주는 흰 커튼이 있어요."
+    }
+   ]
+  },
+  {
+   "title": "욕실 — el cuarto de baño",
+   "lines": [
+    {
+     "t": 362.0,
+     "s": "M",
+     "es": "Al lado de mi dormitorio está el cuarto de baño. Es un baño completo pero pequeño.",
+     "ko": "제 침실 옆에 욕실이 있어요. 갖출 건 다 갖췄지만 작아요."
+    },
+    {
+     "t": 367.6,
+     "s": "M",
+     "es": "No tengo bañera. Tengo un plato de ducha con una mampara de cristal porque es más práctico y gasta menos agua.",
+     "ko": "욕조는 없고, 유리 칸막이가 달린 샤워 트레이가 있어요. 더 실용적이고 물도 덜 쓰니까요."
+    },
+    {
+     "t": 376.2,
+     "s": "S",
+     "es": "Mi casa tiene dos baños, uno grande en la planta de arriba con bañera y un aseo pequeño en la planta baja para las visitas.",
+     "ko": "우리 집에는 욕실이 둘 있는데, 위층에 욕조가 있는 큰 욕실과 아래층에 손님용 작은 화장실이 있어요."
+    },
+    {
+     "t": 384.8,
+     "s": "S",
+     "es": "En el baño grande tenemos un mueble con el lavabo, un espejo enorme y el retrete.",
+     "ko": "큰 욕실에는 세면대가 있는 장, 커다란 거울, 변기가 있어요."
+    },
+    {
+     "t": 390.7,
+     "s": "S",
+     "es": "En mi baño también tengo un armario pequeño debajo del lavabo donde guardo las toallas, el champú, el gel de ducha y el papel higiénico.",
+     "ko": "욕실에는 세면대 아래에 수건, 샴푸, 샤워젤, 화장지를 넣어 두는 작은 수납장도 있어요."
+    }
+   ]
+  },
+  {
+   "title": "서재와 손님방",
+   "lines": [
+    {
+     "t": 401.4,
+     "s": "S",
+     "es": "Mateo, tu piso tiene dos habitaciones, ¿verdad? ¿Qué haces con la segunda habitación?",
+     "ko": "마테오, 네 집엔 방이 두 개죠? 두 번째 방은 어떻게 써요?"
+    },
+    {
+     "t": 406.9,
+     "s": "M",
+     "es": "La uso como despacho para trabajar desde casa y grabar el podcast.",
+     "ko": "재택근무하고 팟캐스트를 녹음하는 서재로 써요."
+    },
+    {
+     "t": 412.3,
+     "s": "M",
+     "es": "Tengo un escritorio grande, una silla de oficina ergonómica para que no me duela la espalda y un ordenador con dos pantallas.",
+     "ko": "큰 책상, 허리가 아프지 않게 해 주는 인체공학 사무용 의자, 모니터 두 대짜리 컴퓨터가 있어요."
+    },
+    {
+     "t": 421.0,
+     "s": "S",
+     "es": "Es una buena idea. Yo uso mi habitación extra como dormitorio de invitados.",
+     "ko": "좋은 생각이네요. 저는 여분의 방을 손님방으로 써요."
+    },
+    {
+     "t": 426.0,
+     "s": "S",
+     "es": "Hay una cama individual y un pequeño escritorio.",
+     "ko": "1인용 침대와 작은 책상이 있어요."
+    },
+    {
+     "t": 429.3,
+     "s": "S",
+     "es": "Es el cuarto donde va a dormir tu tía abuela mañana si limpias el piso.",
+     "ko": "네가 집을 청소하면 내일 이모할머니가 주무실 방이 바로 그 방이에요."
+    },
+    {
+     "t": 435.1,
+     "s": "M",
+     "es": "Es verdad. Mañana esa habitación tiene que dejar de ser un almacén de cajas vacías y convertirse en un dormitorio perfecto para mi tía.",
+     "ko": "맞아요. 내일까지 그 방은 빈 상자 창고에서 이모를 위한 완벽한 침실로 바뀌어야 해요."
+    }
+   ]
+  },
+  {
+   "title": "발코니와 테라스",
+   "lines": [
+    {
+     "t": 444.2,
+     "s": "S",
+     "es": "Antes dijiste que no tienes jardín, pero tu piso tiene un balcón pequeño, ¿no?",
+     "ko": "아까 정원이 없다고 했지만, 네 집엔 작은 발코니가 있죠?"
+    },
+    {
+     "t": 449.9,
+     "s": "M",
+     "es": "Sí, tengo un balcón estrecho que da a la calle principal.",
+     "ko": "네, 큰길 쪽으로 난 좁은 발코니가 있어요."
+    },
+    {
+     "t": 454.6,
+     "s": "M",
+     "es": "Es pequeño, pero hay espacio suficiente para poner dos sillas plegables y una mesa pequeña.",
+     "ko": "작지만 접이식 의자 두 개와 작은 탁자를 놓을 공간은 충분해요."
+    },
+    {
+     "t": 461.1,
+     "s": "M",
+     "es": "En primavera me gusta sentarme ahí a tomar el sol y ver pasar a la gente.",
+     "ko": "봄에는 거기 앉아 햇볕을 쬐며 지나가는 사람들을 구경하는 게 좋아요."
+    },
+    {
+     "t": 467.4,
+     "s": "S",
+     "es": "Mi casa tiene una terraza grande en la planta de arriba.",
+     "ko": "우리 집에는 위층에 큰 테라스가 있어요."
+    },
+    {
+     "t": 471.2,
+     "s": "S",
+     "es": "Tengo muchas plantas de exterior, un sofá de jardín y una mesa grande para cenar con amigos las noches de verano.",
+     "ko": "야외 식물이 많고, 정원용 소파와 여름밤에 친구들과 저녁을 먹는 큰 식탁이 있어요."
+    },
+    {
+     "t": 478.6,
+     "s": "S",
+     "es": "Las vistas desde mi terraza son muy bonitas. Se pueden ver las montañas a lo lejos.",
+     "ko": "테라스에서 보이는 경치가 아주 예뻐요. 멀리 산이 보여요."
+    },
+    {
+     "t": 484.6,
+     "s": "M",
+     "es": "Las vistas de mi balcón son solo carros, autobuses y una tienda de fruta enfrente.",
+     "ko": "제 발코니에서 보이는 건 자동차와 버스, 맞은편 과일 가게뿐이에요."
+    },
+    {
+     "t": 491.6,
+     "s": "M",
+     "es": "No es muy romántico, pero es muy útil cuando necesito comprar plátanos a última hora.",
+     "ko": "낭만적이진 않지만, 막판에 바나나를 사야 할 때는 아주 유용해요."
+    }
+   ]
+  },
+  {
+   "title": "집안일 — las tareas del hogar",
+   "lines": [
+    {
+     "t": 497.7,
+     "s": "S",
+     "es": "Bueno, Mateo, ya hemos descrito toda la casa.",
+     "ko": "자, 마테오, 집 전체를 다 묘사했어요."
+    },
+    {
+     "t": 502.6,
+     "s": "S",
+     "es": "Ahora viene la parte difícil, mantenerla limpia. ¿Con qué frecuencia haces las tareas del hogar?",
+     "ko": "이제 어려운 부분, 깨끗하게 유지하기예요. 집안일은 얼마나 자주 해요?"
+    },
+    {
+     "t": 510.9,
+     "s": "M",
+     "es": "Eh, depende. Intento pasar la aspiradora por el salón y el pasillo una vez a la semana y limpio el baño los sábados por la mañana, pero fregar el suelo me da mucha pereza.",
+     "ko": "음, 때에 따라 달라요. 거실과 복도는 일주일에 한 번 청소기를 돌리려 하고 욕실은 토요일 아침에 청소하는데, 바닥 걸레질은 너무 귀찮아요."
+    },
+    {
+     "t": 523.7,
+     "s": "S",
+     "es": "Limpiar la casa es pesado, pero necesario.",
+     "ko": "집 청소는 힘들지만 꼭 필요한 일이에요."
+    },
+    {
+     "t": 527.3,
+     "s": "S",
+     "es": "Yo suelo limpiar un poco cada día para no acumular trabajo el fin de semana.",
+     "ko": "저는 주말에 일이 쌓이지 않도록 매일 조금씩 청소하는 편이에요."
+    },
+    {
+     "t": 534.3,
+     "s": "S",
+     "es": "El lunes pongo la lavadora. El martes limpio el polvo de los muebles con un plumero. El miércoles limpio los cristales de las ventanas.",
+     "ko": "월요일엔 세탁기를 돌리고, 화요일엔 먼지떨이로 가구의 먼지를 털고, 수요일엔 창문 유리를 닦아요."
+    },
+    {
+     "t": 545.0,
+     "s": "M",
+     "es": "Wow, eres una máquina de la limpieza.",
+     "ko": "와, 청소 기계네요."
+    },
+    {
+     "t": 548.0,
+     "s": "M",
+     "es": "Yo pongo la lavadora solo cuando me quedo sin calcetines limpios y tender la ropa es lo que más odio de todo el proceso.",
+     "ko": "저는 깨끗한 양말이 떨어졌을 때만 세탁기를 돌리고, 빨래 너는 게 그 모든 과정에서 제일 싫어요."
+    }
+   ]
+  },
+  {
+   "title": "집의 문제들 — 누수, 난방, 소음",
+   "lines": [
+    {
+     "t": 557.0,
+     "s": "M",
+     "es": "Vivir en un piso viejo también tiene problemas.",
+     "ko": "오래된 피소에 사는 것도 문제가 있어요."
+    },
+    {
+     "t": 560.0,
+     "s": "M",
+     "es": "El mes pasado tuve una gotera en el techo del baño porque el vecino de arriba tuvo una avería en su tubería. El baño parecía una piscina olímpica.",
+     "ko": "지난달에는 윗집 이웃의 배관이 고장 나서 욕실 천장에서 물이 샜어요. 욕실이 올림픽 수영장 같았어요."
+    },
+    {
+     "t": 571.7,
+     "s": "S",
+     "es": "¡Qué horror! En las casas independientes no tenemos goteras de los vecinos.",
+     "ko": "끔찍하네요! 단독주택에서는 이웃 때문에 물이 새는 일은 없어요."
+    },
+    {
+     "t": 578.0,
+     "s": "S",
+     "es": "Pero el año pasado se rompió la calefacción en pleno invierno.",
+     "ko": "하지만 작년엔 한겨울에 난방이 고장 났어요."
+    },
+    {
+     "t": 582.6,
+     "s": "S",
+     "es": "Pasamos tres días con tres mantas encima en el salón esperando al técnico. Hacía más frío dentro de la casa que en la calle.",
+     "ko": "기사님을 기다리며 거실에서 담요 세 장을 덮고 사흘을 보냈어요. 집 안이 밖보다 더 추웠어요."
+    },
+    {
+     "t": 591.8,
+     "s": "M",
+     "es": "Otro problema de mi piso son los ruidos.",
+     "ko": "제 피소의 또 다른 문제는 소음이에요."
+    },
+    {
+     "t": 595.1,
+     "s": "M",
+     "es": "Las paredes son delgadas y a veces escucho la televisión del vecino de al lado a las 11 de la noche.",
+     "ko": "벽이 얇아서 가끔 밤 11시에 옆집 TV 소리가 들려요."
+    },
+    {
+     "t": 602.8,
+     "s": "M",
+     "es": "Menos mal que el vecino tiene buen gusto para las películas.",
+     "ko": "다행히 이웃이 영화 취향이 좋아요."
+    }
+   ]
+  },
+  {
+   "title": "꿈의 집 — 1,000만 유로가 있다면",
+   "lines": [
+    {
+     "t": 606.8,
+     "s": "S",
+     "es": "Para terminar nuestro episodio de hoy, Mateo, si tuvieras 10 millones de euros, ¿cómo sería la casa de tus sueños?",
+     "ko": "오늘 에피소드를 마무리하며, 마테오, 1,000만 유로가 있다면 꿈의 집은 어떤 모습일까요?"
+    },
+    {
+     "t": 615.3,
+     "s": "M",
+     "es": "Mi casa ideal sería una villa moderna en la playa con paredes de cristal para ver el mar desde la cama.",
+     "ko": "제 이상적인 집은 침대에서 바다가 보이도록 유리 벽을 단, 해변의 현대식 빌라예요."
+    },
+    {
+     "t": 624.2,
+     "s": "M",
+     "es": "Tendría una piscina infinita, una cocina gigantesca con un chef privado que cocine pizza saludable todos los días y por supuesto un robot que limpie toda la casa automáticamente.",
+     "ko": "인피니티 풀, 매일 건강한 피자를 만들어 주는 전속 셰프가 있는 거대한 주방, 그리고 물론 집 전체를 자동으로 청소하는 로봇도 있을 거예요."
+    },
+    {
+     "t": 637.7,
+     "s": "M",
+     "es": "¿Y la tuya?",
+     "ko": "소피아의 집은요?"
+    },
+    {
+     "t": 639.0,
+     "s": "S",
+     "es": "Mi casa ideal sería una cabaña de madera rústica en medio de un bosque verde cerca de un lago.",
+     "ko": "제 이상적인 집은 호수 가까운 푸른 숲 한가운데 있는 소박한 통나무 오두막이에요."
+    },
+    {
+     "t": 646.8,
+     "s": "S",
+     "es": "Tendría una chimenea grande en el salón para el invierno, una biblioteca con miles de libros y un jardín enorme con árboles frutales y flores de todos los colores.",
+     "ko": "겨울을 위한 큰 벽난로가 거실에 있고, 수천 권의 책이 있는 서재와 과일나무와 온갖 색 꽃이 가득한 커다란 정원이 있을 거예요."
+    },
+    {
+     "t": 657.5,
+     "s": "S",
+     "es": "Un lugar muy tranquilo, sin ruidos de coches.",
+     "ko": "자동차 소음이 없는 아주 조용한 곳이죠."
+    },
+    {
+     "t": 661.0,
+     "s": "M",
+     "es": "Suena muy bien, Sofía, pero hoy la realidad es que mi piso tiene polvo, cajas de pizza y mi tía abuela llega en menos de 24 horas.",
+     "ko": "정말 좋네요, 소피아. 하지만 오늘의 현실은 제 집에 먼지와 피자 상자가 있고 이모할머니가 24시간도 안 남아 도착하신다는 거예요."
+    },
+    {
+     "t": 670.9,
+     "s": "S",
+     "es": "Tienes mucha razón.",
+     "ko": "네 말이 맞아요."
+    },
+    {
+     "t": 672.5,
+     "s": "S",
+     "es": "Tienes que apagar el micrófono ahora mismo, coger la escoba, el mocho, los productos de limpieza y empezar a trabajar.",
+     "ko": "지금 당장 마이크를 끄고, 빗자루와 대걸레, 청소용품을 챙겨서 일을 시작해야 해요."
+    },
+    {
+     "t": 682.2,
+     "s": "M",
+     "es": "Sí, capitán.",
+     "ko": "네, 대장님."
+    }
+   ]
+  },
+  {
+   "title": "마무리 인사",
+   "lines": [
+    {
+     "t": 683.2,
+     "s": "S",
+     "es": "Amigos de Easy Spanish Podcast, hoy hemos aprendido a describir todas las partes de una casa, los muebles y los tipos de vivienda en nivel A2.",
+     "ko": "이지 스패니시 팟캐스트 친구들, 오늘 우리는 A2 수준으로 집의 모든 부분과 가구, 주거 형태를 묘사하는 법을 배웠어요."
+    },
+    {
+     "t": 694.0,
+     "s": "S",
+     "es": "Esperamos que este episodio largo os ayude a hablar de vuestro propio hogar.",
+     "ko": "이 긴 에피소드가 여러분의 집을 이야기하는 데 도움이 되길 바라요."
+    },
+    {
+     "t": 700.1,
+     "s": "S",
+     "es": "Recordad que podéis escuchar este audio mientras limpiáis vuestra habitación o cocináis.",
+     "ko": "방을 청소하거나 요리하면서 이 오디오를 들어도 된다는 걸 기억하세요."
+    },
+    {
+     "t": 705.2,
+     "s": "S",
+     "es": "Déjennos un comentario abajo describiendo vuestra casa. ¿Viven en un piso o en una casa?",
+     "ko": "아래에 여러분의 집을 묘사하는 댓글을 남겨 주세요. 피소에 사세요, 아니면 단독주택에 사세요?"
+    },
+    {
+     "t": 712.0,
+     "s": "M",
+     "es": "¿Cuál es vuestra habitación favorita?",
+     "ko": "제일 좋아하는 방은 어디예요?"
+    },
+    {
+     "t": 714.1,
+     "s": "M",
+     "es": "Y deseadme suerte con la limpieza y con mi tía.",
+     "ko": "그리고 제 청소와 이모할머니 맞이가 잘되도록 행운을 빌어 주세요."
+    },
+    {
+     "t": 718.2,
+     "s": "S",
+     "es": "Muchas gracias por escucharnos y hasta el próximo episodio. Hasta pronto. Adiós.",
+     "ko": "들어 주셔서 정말 감사하고, 다음 에피소드에서 만나요. 곧 만나요. 안녕히 계세요."
+    }
+   ]
+  }
+ ]
+}
