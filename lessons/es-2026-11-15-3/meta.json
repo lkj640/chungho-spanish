@@ -1,0 +1,666 @@
+{
+  "lang": "es",
+  "date": "2026-11-15",
+  "title": "스페인어 어휘를 부탁해 ② — 의류·음식·주거 (3–5장)",
+  "es": "¿Qué tal me queda esta camiseta?",
+  "emoji": "👗",
+  "level": "A2–B1",
+  "channel": "스페인어 어휘를 부탁해 (MP3)",
+  "videoTitle": "스페인어 어휘를 부탁해 — 2/4편",
+  "audio": "audio.m4a",
+  "duration": "50:46",
+  "speakers": {
+    "W": "표제어",
+    "E": "예문"
+  },
+  "hideCast": true,
+  "summary": "3장 의류(옷, 신발·소품, 스타일·소재, 몸 관리), 4장 음식(식품, 맛·조리법, 상점·식당), 5장 주거(집, 주방·욕실, 침실·거실, 집안일)의 기본 어휘 약 300개를 다뤄요. 단어 → 한국어 뜻 → 예문 순서로 들으면서 예문을 소리 내어 따라 하고, 명사는 관사(el/la)와 함께 외워 보세요.",
+  "topics": [
+    "의류: camisa · falda · pantalones · vestido · probarse · quedar bien",
+    "신발·소품: zapato · bolso · gafas · pendiente · reloj · cinturón",
+    "스타일·소재: de rayas · de cuadros · de lunares · algodón · seda · cuero",
+    "몸 관리: afeitarse · maquillarse · peinarse · jabón · toalla",
+    "식품·맛·조리: pan · carne · pescado · al horno · frito · picante · rico",
+    "상점·식당: carta · cuenta · propina · menú del día · panadería",
+    "집·가구·집안일: piso · dormitorio · nevera · lavadora · barrer · planchar"
+  ],
+  "grammar": [
+    {
+      "title": "① quedar — 옷이 어울리다 / 맞다",
+      "lead": "옷이 '어울린다, 크다/작다'는 <b>(간접목적대명사) + quedar + 형용사/부사</b>로 말해요. 주어는 옷이에요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "me queda bien",
+            "나한테 잘 어울린다",
+            "Esta falda me queda bien."
+          ],
+          [
+            "te queda mal",
+            "너한테 안 어울린다",
+            "Es que no te queda muy bien."
+          ],
+          [
+            "me quedan pequeñas",
+            "나한테 작다",
+            "Estas zapatillas me quedan pequeñas."
+          ],
+          [
+            "le quedaba ancha",
+            "그에게 헐렁했다",
+            "La chaqueta le quedaba muy ancha."
+          ],
+          [
+            "¿Qué tal me queda...?",
+            "~ 나한테 어때?",
+            "¿Qué tal me queda esta camiseta?"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "¿Qué tal me queda esta camiseta?",
+          "이 티셔츠 나한테 어때?"
+        ],
+        [
+          "Los calcetines blancos no quedan bien con el traje negro.",
+          "흰 양말은 검은 정장과 어울리지 않는다."
+        ],
+        [
+          "Estas zapatillas de deporte me quedan pequeñas.",
+          "이 운동화는 나한테 작다."
+        ]
+      ],
+      "tip": "옷이 복수(zapatillas, pantalones)면 동사도 quedan으로 복수가 돼요. gustar와 같은 구조예요."
+    },
+    {
+      "title": "② 입고 벗는 재귀동사 — ponerse, quitarse, probarse",
+      "lead": "자기 몸에 하는 동작은 <b>재귀동사</b>를 써요. 몸 관리 동사(afeitarse, peinarse, maquillarse)도 같은 방식이에요.",
+      "table": {
+        "head": [
+          "동사",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "ponerse",
+            "입다, 쓰다, 신다",
+            "Me pongo una gorra."
+          ],
+          [
+            "quitarse",
+            "벗다",
+            "Me quité la falda."
+          ],
+          [
+            "probarse",
+            "입어 보다",
+            "¡Quiero probármela!"
+          ],
+          [
+            "vestirse",
+            "옷을 입다",
+            "No tardo nada en vestirme."
+          ],
+          [
+            "afeitarse",
+            "면도하다",
+            "Mi papá se afeita todas las mañanas."
+          ],
+          [
+            "peinarse",
+            "머리를 빗다",
+            "Mi abuela se peina antes de acostarse."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Ponte el pijama y vete a la cama.",
+          "잠옷 입고 자러 가라."
+        ],
+        [
+          "Me quité la falda y me puse los pantalones.",
+          "나는 치마를 벗고 바지를 입었다."
+        ],
+        [
+          "Me maquillo siempre cuando salgo con mis amigos.",
+          "친구들과 나갈 때는 늘 화장을 한다."
+        ]
+      ],
+      "tip": "명령형·부정사에서는 대명사가 뒤에 붙어요: ponte, quítate, probármela(probar+me+la)."
+    },
+    {
+      "title": "③ 소재·무늬·조리법은 de / a / al로",
+      "lead": "'무엇으로 만든'은 <b>de + 소재</b>, '무늬'는 <b>de + 무늬</b>, 조리 방법은 <b>a la / al</b>로 명사 뒤에 붙여요.",
+      "table": {
+        "head": [
+          "형태",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "de seda / de lana",
+            "실크로 된 / 모직의",
+            "una blusa de seda"
+          ],
+          [
+            "de oro / de cuero",
+            "금으로 된 / 가죽의",
+            "Estos collares son de oro."
+          ],
+          [
+            "de rayas / de cuadros",
+            "줄무늬의 / 체크무늬의",
+            "una corbata de rayas"
+          ],
+          [
+            "de lunares",
+            "물방울무늬의",
+            "un vestido de lunares"
+          ],
+          [
+            "al horno / al vapor",
+            "오븐에 구운 / 찐",
+            "el pescado al horno"
+          ],
+          [
+            "a la parrilla",
+            "석쇠에 구운",
+            "carne a la parrilla"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Quiero comprarme una blusa de seda.",
+          "실크 블라우스를 하나 사고 싶다."
+        ],
+        [
+          "Aquella corbata de rayas grises es inglesa.",
+          "저 회색 줄무늬 넥타이는 영국산이다."
+        ],
+        [
+          "A María le gusta el pescado al horno.",
+          "마리아는 오븐에 구운 생선을 좋아한다."
+        ]
+      ],
+      "tip": "de 뒤의 소재·무늬 명사에는 관사를 쓰지 않아요(de la seda ✗). 소재를 물을 때는 ¿De qué es?"
+    },
+    {
+      "title": "④ estar + 형용사 — 음식의 지금 상태",
+      "lead": "음식이 지금 어떤 상태인지(맛, 온도, 익은 정도)는 <b>estar</b>로 말해요. ser는 원래 성질을 말해요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "estar salado",
+            "짜다",
+            "La sopa está salada."
+          ],
+          [
+            "estar caliente / frío",
+            "뜨겁다 / 식었다",
+            "La leche está demasiado caliente."
+          ],
+          [
+            "estar crudo",
+            "덜 익었다",
+            "El pollo todavía está crudo."
+          ],
+          [
+            "estar hecho",
+            "익었다",
+            "Esta carne está muy hecha."
+          ],
+          [
+            "estar maduro",
+            "(과일이) 익었다",
+            "El melón está maduro."
+          ],
+          [
+            "estar rico / bueno",
+            "맛있다",
+            "¡Qué rico está este zumo!"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "La sopa está salada. Le has puesto demasiada sal.",
+          "수프가 짜다. 소금을 너무 많이 넣었구나."
+        ],
+        [
+          "Te caliento la sopa, está fría.",
+          "수프 데워 줄게, 식었어."
+        ],
+        [
+          "La sopa de marisco está muy buena.",
+          "해산물 수프가 아주 맛있다."
+        ]
+      ],
+      "tip": "맛을 비유할 때는 saber a: Sabe a quemado(탄 맛이 난다). 음식이 몸에 안 맞을 땐 sentar mal: Me sienta mal."
+    }
+  ],
+  "phrases": [
+    [
+      "¿Qué talla usas?",
+      "너는 어떤 사이즈를 입니?"
+    ],
+    [
+      "¿Tienes una talla más grande?",
+      "더 큰 사이즈 있어요?"
+    ],
+    [
+      "Los probadores están ahí, al fondo.",
+      "탈의실은 저기 안쪽에 있다."
+    ],
+    [
+      "Voy a cambiarme de ropa.",
+      "옷을 갈아입을게."
+    ],
+    [
+      "¿Me trae la cuenta, por favor?",
+      "계산서 좀 갖다주시겠어요?"
+    ],
+    [
+      "¿Cuál es el menú del día?",
+      "오늘의 정식은 뭐예요?"
+    ],
+    [
+      "Si tienes hambre, podemos tomar algo.",
+      "배고프면 뭐 좀 먹을 수 있어."
+    ],
+    [
+      "Hoy voy a limpiar los cristales. ¿Me echas una mano?",
+      "오늘 유리창을 닦을 거야. 좀 도와줄래?"
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "la ropa",
+      "ko": "옷",
+      "ex": "Voy a cambiarme de ropa.",
+      "exKo": "옷을 갈아입을게."
+    },
+    {
+      "es": "la camisa",
+      "ko": "셔츠",
+      "ex": "Llevas una camisa muy bonita. ¿Dónde la compraste?",
+      "exKo": "아주 예쁜 셔츠를 입었구나. 어디서 샀니?"
+    },
+    {
+      "es": "la falda",
+      "ko": "치마",
+      "ex": "Quería una falda de algodón con bolsillos.",
+      "exKo": "주머니가 달린 면 치마를 원했어요."
+    },
+    {
+      "es": "los pantalones",
+      "ko": "바지",
+      "ex": "¿Cuántos pantalones meto en la maleta?",
+      "exKo": "바지를 몇 벌 여행 가방에 넣을까?"
+    },
+    {
+      "es": "el vestido",
+      "ko": "드레스, 원피스",
+      "ex": "Ese vestido estampado de flores es precioso.",
+      "exKo": "그 꽃무늬 원피스는 정말 예쁘다."
+    },
+    {
+      "es": "la talla",
+      "ko": "사이즈, 치수",
+      "ex": "¿Qué talla usas?",
+      "exKo": "너는 어떤 사이즈를 입니?"
+    },
+    {
+      "es": "probarse",
+      "ko": "입어 보다",
+      "ex": "¡Qué falda más bonita! ¡Quiero probármela!",
+      "exKo": "정말 예쁜 치마다! 입어 보고 싶다!"
+    },
+    {
+      "es": "quedar bien",
+      "ko": "잘 어울리다",
+      "ex": "¿Qué tal me queda esta camiseta?",
+      "exKo": "이 티셔츠 나한테 어때?"
+    },
+    {
+      "es": "estar de moda",
+      "ko": "유행하다",
+      "ex": "Las camisas estampadas de flores están de moda.",
+      "exKo": "꽃무늬 셔츠가 유행이다."
+    },
+    {
+      "es": "los zapatos",
+      "ko": "신발, 구두",
+      "ex": "Se puso los zapatos para salir.",
+      "exKo": "그는 나가려고 신발을 신었다."
+    },
+    {
+      "es": "el bolso",
+      "ko": "핸드백, 가방",
+      "ex": "También necesito un bolso de fiesta y unos zapatos de tacón.",
+      "exKo": "파티용 가방과 굽 있는 구두도 필요하다."
+    },
+    {
+      "es": "las gafas",
+      "ko": "안경",
+      "ex": "Llevo gafas desde los diez años.",
+      "exKo": "나는 열 살 때부터 안경을 쓴다."
+    },
+    {
+      "es": "el paraguas",
+      "ko": "우산",
+      "ex": "No te olvides del paraguas, está lloviendo.",
+      "exKo": "우산 잊지 마, 비가 오고 있어."
+    },
+    {
+      "es": "la cartera",
+      "ko": "지갑",
+      "ex": "Ten cuidado con tu cartera. Aquí hay mucha gente.",
+      "exKo": "지갑 조심해. 여기 사람이 많아."
+    },
+    {
+      "es": "claro, clara",
+      "ko": "밝은, 옅은",
+      "ex": "Me gusta el color azul claro.",
+      "exKo": "나는 하늘색이 좋다."
+    },
+    {
+      "es": "cómodo, cómoda",
+      "ko": "편안한",
+      "ex": "Prefiero dormir sin almohada. Para mí es más cómodo.",
+      "exKo": "나는 베개 없이 자는 게 좋다. 그게 더 편하다."
+    },
+    {
+      "es": "el jabón",
+      "ko": "비누",
+      "ex": "Hay que lavarse las manos con jabón.",
+      "exKo": "비누로 손을 씻어야 한다."
+    },
+    {
+      "es": "la toalla",
+      "ko": "수건",
+      "ex": "Sécate las manos con esta toalla.",
+      "exKo": "이 수건으로 손을 닦아라."
+    },
+    {
+      "es": "la carne",
+      "ko": "고기",
+      "ex": "Lucía no come carne, es vegetariana.",
+      "exKo": "루시아는 고기를 먹지 않는다. 채식주의자다."
+    },
+    {
+      "es": "el pescado",
+      "ko": "생선",
+      "ex": "¿Hoy no hay nada de pescado?",
+      "exKo": "오늘은 생선이 하나도 없어요?"
+    },
+    {
+      "es": "la verdura",
+      "ko": "채소",
+      "ex": "Hace falta comprar verdura.",
+      "exKo": "채소를 사야 한다."
+    },
+    {
+      "es": "la fruta",
+      "ko": "과일",
+      "ex": "Las piñas y los plátanos son frutas tropicales.",
+      "exKo": "파인애플과 바나나는 열대 과일이다."
+    },
+    {
+      "es": "el pan",
+      "ko": "빵",
+      "ex": "Este pan se hace con harina y agua.",
+      "exKo": "이 빵은 밀가루와 물로 만든다."
+    },
+    {
+      "es": "el postre",
+      "ko": "후식, 디저트",
+      "ex": "¿Qué hay de postre?",
+      "exKo": "후식은 뭐가 있어요?"
+    },
+    {
+      "es": "el zumo",
+      "ko": "주스",
+      "ex": "Esta mañana he tomado un zumo de naranja.",
+      "exKo": "오늘 아침에 오렌지 주스를 마셨다."
+    },
+    {
+      "es": "salado, salada",
+      "ko": "짠",
+      "ex": "La carne está un poco salada, pero sabe fenomenal.",
+      "exKo": "고기가 조금 짜지만 맛은 훌륭하다."
+    },
+    {
+      "es": "picante",
+      "ko": "매운",
+      "ex": "A mí la comida picante me sienta mal.",
+      "exKo": "나는 매운 음식이 몸에 맞지 않는다."
+    },
+    {
+      "es": "la receta",
+      "ko": "조리법, 레시피",
+      "ex": "La receta del postre está escrita en mi cuaderno.",
+      "exKo": "후식 레시피는 내 공책에 적혀 있다."
+    },
+    {
+      "es": "la carta",
+      "ko": "메뉴(판)",
+      "ex": "Aquí tienen la carta de postres.",
+      "exKo": "여기 디저트 메뉴판입니다."
+    },
+    {
+      "es": "la cuenta",
+      "ko": "계산서",
+      "ex": "¿Me trae la cuenta, por favor?",
+      "exKo": "계산서 좀 갖다주시겠어요?"
+    },
+    {
+      "es": "la propina",
+      "ko": "팁",
+      "ex": "Antes de salir, deja propina, ¿vale?",
+      "exKo": "나가기 전에 팁 두고 가, 알았지?"
+    },
+    {
+      "es": "alquilar",
+      "ko": "빌리다, 임대하다",
+      "ex": "Alquilé un coche para viajar por España.",
+      "exKo": "스페인을 여행하려고 차를 빌렸다."
+    },
+    {
+      "es": "el piso",
+      "ko": "아파트, 층",
+      "ex": "Mi piso es muy céntrico y está muy bien comunicado.",
+      "exKo": "내 아파트는 아주 시내 중심에 있고 교통이 아주 좋다."
+    },
+    {
+      "es": "el dormitorio",
+      "ko": "침실",
+      "ex": "Mi casa tiene tres dormitorios, dos baños, una cocina grande, un salón comedor y un jardín alrededor.",
+      "exKo": "우리 집에는 침실 셋, 욕실 둘, 큰 부엌, 거실 겸 식당, 그리고 둘레에 정원이 있다."
+    },
+    {
+      "es": "mudarse",
+      "ko": "이사하다",
+      "ex": "Dentro de poco, me mudaré de casa.",
+      "exKo": "곧 이사할 것이다."
+    },
+    {
+      "es": "el mueble",
+      "ko": "가구",
+      "ex": "Daniel quiere poner más muebles en su salón.",
+      "exKo": "다니엘은 거실에 가구를 더 놓고 싶어 한다."
+    },
+    {
+      "es": "la nevera",
+      "ko": "냉장고",
+      "ex": "Te he dejado la comida en la nevera.",
+      "exKo": "냉장고에 음식 넣어 뒀어."
+    },
+    {
+      "es": "la lavadora",
+      "ko": "세탁기",
+      "ex": "¿Puedes poner la lavadora? Tengo que salir ahora mismo.",
+      "exKo": "세탁기 좀 돌려 줄래? 나 지금 바로 나가야 해."
+    },
+    {
+      "es": "fregar",
+      "ko": "설거지하다, 닦다",
+      "ex": "¿Puedes fregar los platos y poner la mesa?",
+      "exKo": "설거지하고 상 좀 차려 줄래?"
+    },
+    {
+      "es": "funcionar",
+      "ko": "작동하다",
+      "ex": "De momento, el ascensor no funciona.",
+      "exKo": "지금은 엘리베이터가 작동하지 않는다."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "'탈의실'을 스페인어로 하면?",
+      "options": [
+        "el escaparate",
+        "el probador",
+        "el pasillo",
+        "el armario"
+      ],
+      "answer": 1,
+      "explain": "probador는 옷을 입어 보는 탈의실이에요. escaparate는 진열장(쇼윈도)이에요."
+    },
+    {
+      "q": "¿Qué tal me ___ esta camiseta? (이 티셔츠 나한테 어때?)",
+      "options": [
+        "queda",
+        "quedo",
+        "quedas",
+        "quedan"
+      ],
+      "answer": 0,
+      "explain": "주어가 esta camiseta(3인칭 단수)이므로 queda를 써요. me는 '나에게'예요."
+    },
+    {
+      "q": "Una corbata ___ rayas (줄무늬 넥타이)",
+      "options": [
+        "con las",
+        "de",
+        "a",
+        "en"
+      ],
+      "answer": 1,
+      "explain": "무늬는 de + 무늬 명사: de rayas, de cuadros, de lunares. 관사는 쓰지 않아요."
+    },
+    {
+      "q": "'귀걸이'에 해당하는 단어는?",
+      "options": [
+        "la pulsera",
+        "el collar",
+        "el pendiente",
+        "el anillo"
+      ],
+      "answer": 2,
+      "explain": "pendiente는 귀걸이, pulsera는 팔찌, collar는 목걸이, anillo는 반지예요."
+    },
+    {
+      "q": "Me ___ la falda y me puse los pantalones. (치마를 벗었다)",
+      "options": [
+        "probé",
+        "vestí",
+        "quité",
+        "llevé"
+      ],
+      "answer": 2,
+      "explain": "quitarse는 '벗다'. 과거형 1인칭은 me quité예요."
+    },
+    {
+      "q": "La sopa está ___. Le has puesto demasiada sal.",
+      "options": [
+        "dulce",
+        "salada",
+        "ácida",
+        "cruda"
+      ],
+      "answer": 1,
+      "explain": "소금(sal)을 너무 많이 넣었으니 salada(짠)가 맞아요."
+    },
+    {
+      "q": "'오븐에 구운 생선'은?",
+      "options": [
+        "pescado al vapor",
+        "pescado frito",
+        "pescado al horno",
+        "pescado crudo"
+      ],
+      "answer": 2,
+      "explain": "al horno는 오븐에 구운, al vapor는 찐, frito는 튀긴, crudo는 날것의예요."
+    },
+    {
+      "q": "식당에서 계산서를 달라고 할 때 알맞은 말은?",
+      "options": [
+        "¿Me trae la carta?",
+        "¿Me trae la cuenta, por favor?",
+        "¿Dejo la propina?",
+        "¿Reservo una mesa?"
+      ],
+      "answer": 1,
+      "explain": "la cuenta가 계산서예요. la carta는 메뉴판, la propina는 팁이에요."
+    },
+    {
+      "q": "Este pescado está malísimo; además, ___ a quemado.",
+      "options": [
+        "huele",
+        "es",
+        "sabe",
+        "está"
+      ],
+      "answer": 2,
+      "explain": "saber a + 명사 = '~ 맛이 나다'. sabe a quemado는 '탄 맛이 난다'예요."
+    },
+    {
+      "q": "'이사하다'를 뜻하는 동사는?",
+      "options": [
+        "alquilar",
+        "construir",
+        "mudarse",
+        "almacenar"
+      ],
+      "answer": 2,
+      "explain": "mudarse (de casa)는 이사하다. alquilar는 빌리다, construir는 짓다, almacenar는 저장하다예요."
+    },
+    {
+      "q": "음식을 차갑게 보관하는 가전제품은?",
+      "options": [
+        "el horno",
+        "la nevera",
+        "el microondas",
+        "la lavadora"
+      ],
+      "answer": 1,
+      "explain": "nevera는 냉장고예요. horno는 오븐, microondas는 전자레인지, lavadora는 세탁기예요."
+    },
+    {
+      "q": "'빨래를 널다'는?",
+      "options": [
+        "poner la lavadora",
+        "tender la ropa",
+        "hacer la cama",
+        "barrer el suelo"
+      ],
+      "answer": 1,
+      "explain": "tender la ropa는 빨래를 널다, poner la lavadora는 세탁기를 돌리다, hacer la cama는 침대를 정리하다예요."
+    }
+  ]
+}

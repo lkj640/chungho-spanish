@@ -1,0 +1,671 @@
+{
+  "lang": "es",
+  "date": "2026-11-15",
+  "title": "스페인어 어휘를 부탁해 ④ — 여가·국가와 정치·경제와 일 (9–11장)",
+  "es": "¿Puedo pagar en efectivo?",
+  "emoji": "🎭",
+  "level": "A2–B1",
+  "channel": "스페인어 어휘를 부탁해 (MP3)",
+  "videoTitle": "스페인어 어휘를 부탁해 — 4/4편",
+  "audio": "audio.m4a",
+  "duration": "52:11",
+  "speakers": {
+    "W": "표제어",
+    "E": "예문"
+  },
+  "hideCast": true,
+  "summary": "9장 여가(영화·연극, 미술·음악·무용, 스포츠, 기타 취미, 파티·축하, 여행), 10장 국가·정치와 사법·범죄, 11장 경제·일·쇼핑까지 약 300개 단어를 예문과 함께 들어요. 표제어 → 한국어 뜻 → 예문 순서로 나오니, 예문을 소리 내어 따라 하며 명사는 관사와 함께, 동사는 쓰임(jugar a, dedicarse a 등)과 함께 외워 보세요.",
+  "topics": [
+    "영화·연극: película · entrada · taquilla · estreno · guion",
+    "미술·음악: cuadro · escultura · concierto · tocar · canción",
+    "스포츠: partido · equipo · ganar · empatar · entrenar",
+    "취미·축제: afición · tiempo libre · boda · Navidad · regalo",
+    "여행: reserva · maleta · alojamiento · aduana · temporada alta",
+    "정치·사법: elecciones · votar · gobierno · ley · cárcel",
+    "경제·일·쇼핑: dinero · préstamo · empleo · sueldo · descuento"
+  ],
+  "grammar": [
+    {
+      "title": "① jugar a + 스포츠 / tocar + 악기",
+      "lead": "'(운동·게임을) 하다'는 <b>jugar a</b>, '(악기를) 연주하다'는 <b>tocar</b>를 써요. a + el = <b>al</b>.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "jugar al fútbol",
+            "축구를 하다",
+            "Juego al fútbol los fines de semana."
+          ],
+          [
+            "jugar al tenis",
+            "테니스를 치다",
+            "Ayer jugamos al tenis."
+          ],
+          [
+            "jugar a las cartas",
+            "카드놀이를 하다",
+            "Después jugamos a las cartas."
+          ],
+          [
+            "tocar la guitarra",
+            "기타를 치다",
+            "Tu padre toca la guitarra de maravilla."
+          ],
+          [
+            "tocar el violín",
+            "바이올린을 켜다",
+            "Mi tía me enseñó a tocar el violín."
+          ],
+          [
+            "practicar el esquí",
+            "스키를 타다",
+            "Se dedica a practicar el esquí."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Ayer jugamos al tenis y después a las cartas.",
+          "어제 우리는 테니스를 치고 그다음에 카드놀이를 했다."
+        ],
+        [
+          "Mi hermana toca el tambor en una orquesta.",
+          "내 여동생은 오케스트라에서 북을 연주한다."
+        ],
+        [
+          "En España no practican mucho el béisbol.",
+          "스페인에서는 야구를 별로 하지 않는다."
+        ]
+      ],
+      "tip": "tocar는 '만지다'라는 뜻도 있어요. 악기 앞에는 정관사(el, la)를 붙여요."
+    },
+    {
+      "title": "② 직업·사람 명사의 남성형/여성형",
+      "lead": "-o → <b>-a</b>, 자음 → <b>+a</b>가 기본이에요. -ista, -e로 끝나는 말은 관사로만 구분하는 경우가 많아요.",
+      "table": {
+        "head": [
+          "남성",
+          "여성",
+          "뜻"
+        ],
+        "rows": [
+          [
+            "el director",
+            "la directora",
+            "감독"
+          ],
+          [
+            "el pintor",
+            "la pintora",
+            "화가"
+          ],
+          [
+            "el campeón",
+            "la campeona",
+            "챔피언"
+          ],
+          [
+            "el dependiente",
+            "la dependienta",
+            "점원"
+          ],
+          [
+            "el presidente",
+            "la presidenta",
+            "대통령"
+          ],
+          [
+            "el protagonista",
+            "la protagonista",
+            "주인공"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Picasso fue un pintor genial.",
+          "피카소는 천재적인 화가였다."
+        ],
+        [
+          "La dependienta nos enseñó las camisas muy amablemente.",
+          "여자 점원이 아주 친절하게 셔츠들을 보여 주었다."
+        ],
+        [
+          "Son los campeones del Mundial de fútbol.",
+          "그들은 축구 월드컵 우승팀이다."
+        ]
+      ],
+      "tip": "campeón → campeona처럼 여성형이 되면 강세 부호(tilde)가 사라지는 점에 주의하세요."
+    },
+    {
+      "title": "③ 쇼핑·돈 관련 전치사 표현",
+      "lead": "결제와 할인에는 정해진 전치사 표현이 많아요: <b>en</b> efectivo, <b>a</b> plazos, <b>en</b> oferta, <b>de</b> rebaja.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "pagar en efectivo",
+            "현금으로 내다",
+            "¿Puedo pagar en efectivo?"
+          ],
+          [
+            "pagar con tarjeta",
+            "카드로 내다",
+            "Pagó con su tarjeta de crédito."
+          ],
+          [
+            "pagar a plazos",
+            "할부로 내다",
+            "Pagar el coche a plazos."
+          ],
+          [
+            "estar en oferta",
+            "특가 중이다",
+            "Esta camisa está en oferta."
+          ],
+          [
+            "estar de rebaja",
+            "세일 중이다",
+            "Esta blusa está de rebaja."
+          ],
+          [
+            "cambiar A por B",
+            "A를 B로 바꾸다",
+            "He cambiado la mesa por un sofá."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Esta camisa está en oferta y por eso sale tan barata.",
+          "이 셔츠는 특가 판매 중이라 이렇게 싸다."
+        ],
+        [
+          "Si no queda satisfecho con la compra, le devolvemos su dinero.",
+          "구매에 만족하지 않으시면 환불해 드립니다."
+        ],
+        [
+          "No tengo suelto para el periódico.",
+          "신문 살 잔돈이 없다."
+        ]
+      ],
+      "tip": "salir barato/caro는 '(결과적으로) 싸게/비싸게 먹히다'라는 뜻이에요: El piso me ha salido barato."
+    },
+    {
+      "title": "④ 수동의 se와 무인칭 se",
+      "lead": "뉴스·설명문 예문에는 <b>se + 3인칭 동사</b>가 자주 나와요. 주어가 복수면 동사도 복수예요.",
+      "table": {
+        "head": [
+          "형태",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "se celebra + 단수",
+            "~가 기념된다",
+            "Se celebra el Día de los Reyes Magos."
+          ],
+          [
+            "se usan + 복수",
+            "~가 쓰인다",
+            "Los fuegos artificiales se usan en las fiestas."
+          ],
+          [
+            "se exponen + 복수",
+            "~가 전시된다",
+            "Sus cuadros se exponen en la galería."
+          ],
+          [
+            "se negocia + 단수",
+            "~가 거래된다",
+            "Se negocia el precio de las acciones."
+          ],
+          [
+            "se necesita + 단수",
+            "~가 필요하다",
+            "Se necesita una carta de presentación."
+          ],
+          [
+            "se oía + 단수",
+            "~가 들렸다",
+            "Se oía el sonido del piano."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Desde la habitación se oía el sonido del piano.",
+          "방에서 피아노 소리가 들렸다."
+        ],
+        [
+          "Durante la dictadura se restringió gravemente la libertad de expresión.",
+          "독재 기간에는 표현의 자유가 심하게 제한되었다."
+        ],
+        [
+          "La amistad no se puede comprar.",
+          "우정은 돈으로 살 수 없다."
+        ]
+      ],
+      "tip": "'누가' 했는지보다 '무엇이' 일어났는지가 중요할 때 쓰는 구조예요. 한국어로는 '~된다/~한다'로 옮기면 자연스러워요."
+    }
+  ],
+  "phrases": [
+    [
+      "¿Qué película vamos a ver?",
+      "우리 무슨 영화 볼까?"
+    ],
+    [
+      "¿Qué haces normalmente en tu tiempo libre?",
+      "너는 보통 여가 시간에 뭘 하니?"
+    ],
+    [
+      "Lo he pasado bien en la fiesta.",
+      "파티에서 즐거운 시간을 보냈다."
+    ],
+    [
+      "Quiero reservar una habitación doble para tres noches.",
+      "더블룸을 3박 예약하고 싶다."
+    ],
+    [
+      "¿Dónde puedo conseguir un plano de la ciudad?",
+      "시내 지도는 어디서 구할 수 있나요?"
+    ],
+    [
+      "Tengo una entrevista de trabajo pasado mañana.",
+      "나는 모레 취업 면접이 있다."
+    ],
+    [
+      "¿Puedo pagar en efectivo?",
+      "현금으로 내도 되나요?"
+    ],
+    [
+      "Deme una bolsa para meter lo que he comprado.",
+      "산 물건을 넣게 봉투 하나 주세요."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "la entrada",
+      "ko": "입장권, 표",
+      "ex": "Las entradas para el cine están cada vez más caras.",
+      "exKo": "영화표가 점점 더 비싸지고 있다."
+    },
+    {
+      "es": "la película",
+      "ko": "영화",
+      "ex": "¿Qué película vamos a ver?",
+      "exKo": "우리 무슨 영화 볼까?"
+    },
+    {
+      "es": "el estreno",
+      "ko": "개봉, 초연",
+      "ex": "Hoy es el estreno de esa película tan esperada.",
+      "exKo": "오늘은 그 많이 기다리던 영화의 개봉일이다."
+    },
+    {
+      "es": "la taquilla",
+      "ko": "매표소",
+      "ex": "Él compró la entrada en la taquilla del cine.",
+      "exKo": "그는 영화관 매표소에서 표를 샀다."
+    },
+    {
+      "es": "el subtítulo",
+      "ko": "자막",
+      "ex": "Mi hermano lee tan despacio que se pierde la mitad de los subtítulos.",
+      "exKo": "내 남동생은 너무 천천히 읽어서 자막의 절반을 놓친다."
+    },
+    {
+      "es": "la canción",
+      "ko": "노래",
+      "ex": "¿Puedes copiarme la letra de esta canción?",
+      "exKo": "이 노래 가사를 나한테 베껴 줄 수 있니?"
+    },
+    {
+      "es": "el concierto",
+      "ko": "콘서트, 연주회",
+      "ex": "El concierto de rock terminó muy tarde.",
+      "exKo": "록 콘서트는 아주 늦게 끝났다."
+    },
+    {
+      "es": "la exposición",
+      "ko": "전시회",
+      "ex": "La exposición de grabados fue un éxito.",
+      "exKo": "판화 전시회는 성공적이었다."
+    },
+    {
+      "es": "tocar",
+      "ko": "연주하다, 만지다",
+      "ex": "Mi tía me enseñó a tocar el violín.",
+      "exKo": "이모가 나에게 바이올린 연주를 가르쳐 주었다."
+    },
+    {
+      "es": "el instrumento",
+      "ko": "악기",
+      "ex": "El piano es mi instrumento preferido.",
+      "exKo": "피아노는 내가 가장 좋아하는 악기다."
+    },
+    {
+      "es": "el partido",
+      "ko": "시합, 경기",
+      "ex": "Los dos equipos jugarán un partido amistoso el mes que viene.",
+      "exKo": "두 팀은 다음 달에 친선 경기를 할 것이다."
+    },
+    {
+      "es": "el equipo",
+      "ko": "팀",
+      "ex": "Nuestro equipo se clasificó para la semifinal.",
+      "exKo": "우리 팀은 준결승에 진출했다."
+    },
+    {
+      "es": "ganar",
+      "ko": "이기다; 벌다",
+      "ex": "Ayer ganamos el partido.",
+      "exKo": "어제 우리는 경기에서 이겼다."
+    },
+    {
+      "es": "empatar",
+      "ko": "비기다",
+      "ex": "Cuando dos equipos empatan, ninguno de los dos gana.",
+      "exKo": "두 팀이 비기면 어느 쪽도 이기지 못한다."
+    },
+    {
+      "es": "entrenar(se)",
+      "ko": "훈련하다",
+      "ex": "Cualquier deportista se entrena muchas horas al día.",
+      "exKo": "운동선수라면 누구나 하루에 여러 시간 훈련한다."
+    },
+    {
+      "es": "estar en forma",
+      "ko": "건강을 유지하다",
+      "ex": "Los médicos recomiendan practicar algún deporte para estar en forma.",
+      "exKo": "의사들은 건강을 유지하기 위해 운동을 하라고 권한다."
+    },
+    {
+      "es": "la afición",
+      "ko": "취미",
+      "ex": "Su mayor afición es la lectura.",
+      "exKo": "그의 가장 큰 취미는 독서다."
+    },
+    {
+      "es": "el tiempo libre",
+      "ko": "여가 시간",
+      "ex": "¿Qué haces normalmente en tu tiempo libre?",
+      "exKo": "너는 보통 여가 시간에 뭘 하니?"
+    },
+    {
+      "es": "quedar con alguien",
+      "ko": "누구와 만나기로 하다",
+      "ex": "Quedamos a las tres en tu casa.",
+      "exKo": "우리 세 시에 너희 집에서 만나자."
+    },
+    {
+      "es": "pasarlo bien",
+      "ko": "즐겁게 보내다",
+      "ex": "Lo he pasado bien en la fiesta.",
+      "exKo": "파티에서 즐거운 시간을 보냈다."
+    },
+    {
+      "es": "la boda",
+      "ko": "결혼식",
+      "ex": "Me compré un vestido para ir a la boda de mi prima Ana.",
+      "exKo": "사촌 아나의 결혼식에 가려고 원피스를 샀다."
+    },
+    {
+      "es": "el regalo",
+      "ko": "선물",
+      "ex": "Su regalo fue un viaje al extranjero.",
+      "exKo": "그의 선물은 해외여행이었다."
+    },
+    {
+      "es": "la reserva",
+      "ko": "예약",
+      "ex": "Ya he hecho la reserva del hotel.",
+      "exKo": "호텔 예약은 이미 했다."
+    },
+    {
+      "es": "la maleta",
+      "ko": "여행 가방",
+      "ex": "No encuentro la maleta de viaje.",
+      "exKo": "여행 가방을 못 찾겠다."
+    },
+    {
+      "es": "el alojamiento",
+      "ko": "숙소",
+      "ex": "Buscamos alojamiento barato para las vacaciones.",
+      "exKo": "우리는 휴가 때 묵을 저렴한 숙소를 찾고 있다."
+    },
+    {
+      "es": "la temporada alta",
+      "ko": "성수기",
+      "ex": "Conseguí un vuelo a Londres muy barato en temporada alta.",
+      "exKo": "성수기에 아주 싼 런던행 항공편을 구했다."
+    },
+    {
+      "es": "gratis",
+      "ko": "무료의, 무료로",
+      "ex": "La entrada al espectáculo es gratis.",
+      "exKo": "그 공연은 입장이 무료다."
+    },
+    {
+      "es": "las elecciones",
+      "ko": "선거",
+      "ex": "Hoy se llevan a cabo las elecciones presidenciales.",
+      "exKo": "오늘 대통령 선거가 실시된다."
+    },
+    {
+      "es": "votar",
+      "ko": "투표하다",
+      "ex": "Todos los coreanos mayores de 18 años tienen derecho a votar.",
+      "exKo": "18세 이상의 모든 한국인은 투표할 권리가 있다."
+    },
+    {
+      "es": "el gobierno",
+      "ko": "정부",
+      "ex": "El gobierno está formado por el presidente y sus ministros.",
+      "exKo": "정부는 대통령과 장관들로 구성된다."
+    },
+    {
+      "es": "la ley",
+      "ko": "법",
+      "ex": "Todos los ciudadanos deben respetar la ley.",
+      "exKo": "모든 시민은 법을 지켜야 한다."
+    },
+    {
+      "es": "la multa",
+      "ko": "벌금",
+      "ex": "Me pusieron una multa por dejar el coche mal aparcado.",
+      "exKo": "차를 잘못 주차해서 벌금을 물었다."
+    },
+    {
+      "es": "robar",
+      "ko": "훔치다",
+      "ex": "Ayer los ladrones robaron el banco.",
+      "exKo": "어제 도둑들이 은행을 털었다."
+    },
+    {
+      "es": "el préstamo",
+      "ko": "대출",
+      "ex": "Pidió un préstamo al banco.",
+      "exKo": "그는 은행에 대출을 신청했다."
+    },
+    {
+      "es": "los ahorros",
+      "ko": "저축한 돈",
+      "ex": "Guardo mis ahorros en la cuenta del banco.",
+      "exKo": "나는 저축한 돈을 은행 계좌에 넣어 둔다."
+    },
+    {
+      "es": "cobrar",
+      "ko": "(돈을) 받다",
+      "ex": "Cada mes cobramos un sueldo por nuestro trabajo.",
+      "exKo": "우리는 매달 일한 대가로 월급을 받는다."
+    },
+    {
+      "es": "el sueldo",
+      "ko": "월급",
+      "ex": "Me aumentaron el sueldo.",
+      "exKo": "내 월급이 올랐다."
+    },
+    {
+      "es": "el empleo",
+      "ko": "일자리, 고용",
+      "ex": "Mi hija tiene un buen empleo.",
+      "exKo": "내 딸은 좋은 일자리를 가지고 있다."
+    },
+    {
+      "es": "el descuento",
+      "ko": "할인",
+      "ex": "He conseguido un buen descuento en la compra del televisor.",
+      "exKo": "텔레비전을 살 때 할인을 많이 받았다."
+    },
+    {
+      "es": "devolver",
+      "ko": "돌려주다, 환불하다",
+      "ex": "Si no queda satisfecho con la compra, le devolvemos su dinero.",
+      "exKo": "구매에 만족하지 않으시면 환불해 드립니다."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "'매표소'를 스페인어로?",
+      "options": [
+        "la taquilla",
+        "la fila",
+        "la escena",
+        "la sesión"
+      ],
+      "answer": 0,
+      "explain": "taquilla는 영화관·극장·역의 표 파는 곳이에요. fila는 '줄', sesión은 '상영 회차'."
+    },
+    {
+      "q": "Mi tía me enseñó a ___ el violín.",
+      "options": [
+        "jugar",
+        "tocar",
+        "bailar",
+        "ganar"
+      ],
+      "answer": 1,
+      "explain": "악기를 연주할 때는 tocar를 써요. jugar는 운동·게임에 써요."
+    },
+    {
+      "q": "Juego ___ fútbol con mis compañeros.",
+      "options": [
+        "el",
+        "a la",
+        "al",
+        "de"
+      ],
+      "answer": 2,
+      "explain": "jugar a + el fútbol → jugar al fútbol."
+    },
+    {
+      "q": "Cuando dos equipos ___, ninguno de los dos gana.",
+      "options": [
+        "empatan",
+        "entrenan",
+        "animan",
+        "nadan"
+      ],
+      "answer": 0,
+      "explain": "empatar = 비기다. 아무도 이기지 못하니까 empatan."
+    },
+    {
+      "q": "'estar en forma'의 뜻은?",
+      "options": [
+        "형식을 갖추다",
+        "몸 상태가 좋다",
+        "줄을 서다",
+        "유행하다"
+      ],
+      "answer": 1,
+      "explain": "estar en forma는 운동 등으로 건강한 몸 상태를 유지한다는 뜻이에요."
+    },
+    {
+      "q": "Lo he ___ bien en la fiesta. (파티에서 즐거웠다)",
+      "options": [
+        "pasado",
+        "quedado",
+        "tomado",
+        "hecho"
+      ],
+      "answer": 0,
+      "explain": "pasarlo bien = 즐거운 시간을 보내다. 현재완료로 lo he pasado bien."
+    },
+    {
+      "q": "스페인에서 12월 31일 밤을 부르는 말은?",
+      "options": [
+        "Nochebuena",
+        "Nochevieja",
+        "Semana Santa",
+        "Día de los Reyes Magos"
+      ],
+      "answer": 1,
+      "explain": "Nochevieja는 12월 31일 밤, Nochebuena는 12월 24일 밤이에요. 자정 종소리에 포도 12알을 먹어요."
+    },
+    {
+      "q": "'성수기'는?",
+      "options": [
+        "temporada baja",
+        "temporada alta",
+        "media pensión",
+        "casco viejo"
+      ],
+      "answer": 1,
+      "explain": "temporada alta = 성수기, temporada baja = 비수기."
+    },
+    {
+      "q": "'투표하다'는?",
+      "options": [
+        "votar",
+        "juzgar",
+        "detener",
+        "denunciar"
+      ],
+      "answer": 0,
+      "explain": "votar = 투표하다. juzgar는 재판하다, detener는 체포하다, denunciar는 고발하다."
+    },
+    {
+      "q": "La policía soltó al joven que acababa de ___. (방금 체포한)",
+      "options": [
+        "robar",
+        "herir",
+        "detener",
+        "disparar"
+      ],
+      "answer": 2,
+      "explain": "detener = 체포하다. acabar de + 동사원형 = 막 ~하다."
+    },
+    {
+      "q": "¿Puedo pagar ___ efectivo?",
+      "options": [
+        "con",
+        "en",
+        "a",
+        "por"
+      ],
+      "answer": 1,
+      "explain": "현금으로 내다는 pagar en efectivo, 할부는 a plazos, 카드는 con tarjeta."
+    },
+    {
+      "q": "Esta camisa está ___ oferta y por eso sale tan barata.",
+      "options": [
+        "de",
+        "a",
+        "en",
+        "por"
+      ],
+      "answer": 2,
+      "explain": "estar en oferta = 특가 중이다. 세일은 estar de rebaja."
+    }
+  ]
+}

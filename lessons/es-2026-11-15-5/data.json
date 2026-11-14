@@ -1,0 +1,4443 @@
+{
+ "id": "es-2026-11-15-5",
+ "lang": "es",
+ "date": "2026-11-15",
+ "title": "스페인어 어휘를 부탁해 ④ — 여가·국가와 정치·경제와 일 (9–11장)",
+ "es": "¿Puedo pagar en efectivo?",
+ "emoji": "🎭",
+ "level": "A2–B1",
+ "channel": "스페인어 어휘를 부탁해 (MP3)",
+ "videoTitle": "스페인어 어휘를 부탁해 — 4/4편",
+ "audio": "audio.m4a",
+ "duration": "52:11",
+ "speakers": {
+  "W": "표제어",
+  "E": "예문"
+ },
+ "hideCast": true,
+ "summary": "9장 여가(영화·연극, 미술·음악·무용, 스포츠, 기타 취미, 파티·축하, 여행), 10장 국가·정치와 사법·범죄, 11장 경제·일·쇼핑까지 약 300개 단어를 예문과 함께 들어요. 표제어 → 한국어 뜻 → 예문 순서로 나오니, 예문을 소리 내어 따라 하며 명사는 관사와 함께, 동사는 쓰임(jugar a, dedicarse a 등)과 함께 외워 보세요.",
+ "topics": [
+  "영화·연극: película · entrada · taquilla · estreno · guion",
+  "미술·음악: cuadro · escultura · concierto · tocar · canción",
+  "스포츠: partido · equipo · ganar · empatar · entrenar",
+  "취미·축제: afición · tiempo libre · boda · Navidad · regalo",
+  "여행: reserva · maleta · alojamiento · aduana · temporada alta",
+  "정치·사법: elecciones · votar · gobierno · ley · cárcel",
+  "경제·일·쇼핑: dinero · préstamo · empleo · sueldo · descuento"
+ ],
+ "grammar": [
+  {
+   "title": "① jugar a + 스포츠 / tocar + 악기",
+   "lead": "'(운동·게임을) 하다'는 <b>jugar a</b>, '(악기를) 연주하다'는 <b>tocar</b>를 써요. a + el = <b>al</b>.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "jugar al fútbol",
+      "축구를 하다",
+      "Juego al fútbol los fines de semana."
+     ],
+     [
+      "jugar al tenis",
+      "테니스를 치다",
+      "Ayer jugamos al tenis."
+     ],
+     [
+      "jugar a las cartas",
+      "카드놀이를 하다",
+      "Después jugamos a las cartas."
+     ],
+     [
+      "tocar la guitarra",
+      "기타를 치다",
+      "Tu padre toca la guitarra de maravilla."
+     ],
+     [
+      "tocar el violín",
+      "바이올린을 켜다",
+      "Mi tía me enseñó a tocar el violín."
+     ],
+     [
+      "practicar el esquí",
+      "스키를 타다",
+      "Se dedica a practicar el esquí."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Ayer jugamos al tenis y después a las cartas.",
+     "어제 우리는 테니스를 치고 그다음에 카드놀이를 했다."
+    ],
+    [
+     "Mi hermana toca el tambor en una orquesta.",
+     "내 여동생은 오케스트라에서 북을 연주한다."
+    ],
+    [
+     "En España no practican mucho el béisbol.",
+     "스페인에서는 야구를 별로 하지 않는다."
+    ]
+   ],
+   "tip": "tocar는 '만지다'라는 뜻도 있어요. 악기 앞에는 정관사(el, la)를 붙여요."
+  },
+  {
+   "title": "② 직업·사람 명사의 남성형/여성형",
+   "lead": "-o → <b>-a</b>, 자음 → <b>+a</b>가 기본이에요. -ista, -e로 끝나는 말은 관사로만 구분하는 경우가 많아요.",
+   "table": {
+    "head": [
+     "남성",
+     "여성",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "el director",
+      "la directora",
+      "감독"
+     ],
+     [
+      "el pintor",
+      "la pintora",
+      "화가"
+     ],
+     [
+      "el campeón",
+      "la campeona",
+      "챔피언"
+     ],
+     [
+      "el dependiente",
+      "la dependienta",
+      "점원"
+     ],
+     [
+      "el presidente",
+      "la presidenta",
+      "대통령"
+     ],
+     [
+      "el protagonista",
+      "la protagonista",
+      "주인공"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Picasso fue un pintor genial.",
+     "피카소는 천재적인 화가였다."
+    ],
+    [
+     "La dependienta nos enseñó las camisas muy amablemente.",
+     "여자 점원이 아주 친절하게 셔츠들을 보여 주었다."
+    ],
+    [
+     "Son los campeones del Mundial de fútbol.",
+     "그들은 축구 월드컵 우승팀이다."
+    ]
+   ],
+   "tip": "campeón → campeona처럼 여성형이 되면 강세 부호(tilde)가 사라지는 점에 주의하세요."
+  },
+  {
+   "title": "③ 쇼핑·돈 관련 전치사 표현",
+   "lead": "결제와 할인에는 정해진 전치사 표현이 많아요: <b>en</b> efectivo, <b>a</b> plazos, <b>en</b> oferta, <b>de</b> rebaja.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "pagar en efectivo",
+      "현금으로 내다",
+      "¿Puedo pagar en efectivo?"
+     ],
+     [
+      "pagar con tarjeta",
+      "카드로 내다",
+      "Pagó con su tarjeta de crédito."
+     ],
+     [
+      "pagar a plazos",
+      "할부로 내다",
+      "Pagar el coche a plazos."
+     ],
+     [
+      "estar en oferta",
+      "특가 중이다",
+      "Esta camisa está en oferta."
+     ],
+     [
+      "estar de rebaja",
+      "세일 중이다",
+      "Esta blusa está de rebaja."
+     ],
+     [
+      "cambiar A por B",
+      "A를 B로 바꾸다",
+      "He cambiado la mesa por un sofá."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Esta camisa está en oferta y por eso sale tan barata.",
+     "이 셔츠는 특가 판매 중이라 이렇게 싸다."
+    ],
+    [
+     "Si no queda satisfecho con la compra, le devolvemos su dinero.",
+     "구매에 만족하지 않으시면 환불해 드립니다."
+    ],
+    [
+     "No tengo suelto para el periódico.",
+     "신문 살 잔돈이 없다."
+    ]
+   ],
+   "tip": "salir barato/caro는 '(결과적으로) 싸게/비싸게 먹히다'라는 뜻이에요: El piso me ha salido barato."
+  },
+  {
+   "title": "④ 수동의 se와 무인칭 se",
+   "lead": "뉴스·설명문 예문에는 <b>se + 3인칭 동사</b>가 자주 나와요. 주어가 복수면 동사도 복수예요.",
+   "table": {
+    "head": [
+     "형태",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "se celebra + 단수",
+      "~가 기념된다",
+      "Se celebra el Día de los Reyes Magos."
+     ],
+     [
+      "se usan + 복수",
+      "~가 쓰인다",
+      "Los fuegos artificiales se usan en las fiestas."
+     ],
+     [
+      "se exponen + 복수",
+      "~가 전시된다",
+      "Sus cuadros se exponen en la galería."
+     ],
+     [
+      "se negocia + 단수",
+      "~가 거래된다",
+      "Se negocia el precio de las acciones."
+     ],
+     [
+      "se necesita + 단수",
+      "~가 필요하다",
+      "Se necesita una carta de presentación."
+     ],
+     [
+      "se oía + 단수",
+      "~가 들렸다",
+      "Se oía el sonido del piano."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Desde la habitación se oía el sonido del piano.",
+     "방에서 피아노 소리가 들렸다."
+    ],
+    [
+     "Durante la dictadura se restringió gravemente la libertad de expresión.",
+     "독재 기간에는 표현의 자유가 심하게 제한되었다."
+    ],
+    [
+     "La amistad no se puede comprar.",
+     "우정은 돈으로 살 수 없다."
+    ]
+   ],
+   "tip": "'누가' 했는지보다 '무엇이' 일어났는지가 중요할 때 쓰는 구조예요. 한국어로는 '~된다/~한다'로 옮기면 자연스러워요."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Qué película vamos a ver?",
+   "우리 무슨 영화 볼까?"
+  ],
+  [
+   "¿Qué haces normalmente en tu tiempo libre?",
+   "너는 보통 여가 시간에 뭘 하니?"
+  ],
+  [
+   "Lo he pasado bien en la fiesta.",
+   "파티에서 즐거운 시간을 보냈다."
+  ],
+  [
+   "Quiero reservar una habitación doble para tres noches.",
+   "더블룸을 3박 예약하고 싶다."
+  ],
+  [
+   "¿Dónde puedo conseguir un plano de la ciudad?",
+   "시내 지도는 어디서 구할 수 있나요?"
+  ],
+  [
+   "Tengo una entrevista de trabajo pasado mañana.",
+   "나는 모레 취업 면접이 있다."
+  ],
+  [
+   "¿Puedo pagar en efectivo?",
+   "현금으로 내도 되나요?"
+  ],
+  [
+   "Deme una bolsa para meter lo que he comprado.",
+   "산 물건을 넣게 봉투 하나 주세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la entrada",
+   "ko": "입장권, 표",
+   "ex": "Las entradas para el cine están cada vez más caras.",
+   "exKo": "영화표가 점점 더 비싸지고 있다."
+  },
+  {
+   "es": "la película",
+   "ko": "영화",
+   "ex": "¿Qué película vamos a ver?",
+   "exKo": "우리 무슨 영화 볼까?"
+  },
+  {
+   "es": "el estreno",
+   "ko": "개봉, 초연",
+   "ex": "Hoy es el estreno de esa película tan esperada.",
+   "exKo": "오늘은 그 많이 기다리던 영화의 개봉일이다."
+  },
+  {
+   "es": "la taquilla",
+   "ko": "매표소",
+   "ex": "Él compró la entrada en la taquilla del cine.",
+   "exKo": "그는 영화관 매표소에서 표를 샀다."
+  },
+  {
+   "es": "el subtítulo",
+   "ko": "자막",
+   "ex": "Mi hermano lee tan despacio que se pierde la mitad de los subtítulos.",
+   "exKo": "내 남동생은 너무 천천히 읽어서 자막의 절반을 놓친다."
+  },
+  {
+   "es": "la canción",
+   "ko": "노래",
+   "ex": "¿Puedes copiarme la letra de esta canción?",
+   "exKo": "이 노래 가사를 나한테 베껴 줄 수 있니?"
+  },
+  {
+   "es": "el concierto",
+   "ko": "콘서트, 연주회",
+   "ex": "El concierto de rock terminó muy tarde.",
+   "exKo": "록 콘서트는 아주 늦게 끝났다."
+  },
+  {
+   "es": "la exposición",
+   "ko": "전시회",
+   "ex": "La exposición de grabados fue un éxito.",
+   "exKo": "판화 전시회는 성공적이었다."
+  },
+  {
+   "es": "tocar",
+   "ko": "연주하다, 만지다",
+   "ex": "Mi tía me enseñó a tocar el violín.",
+   "exKo": "이모가 나에게 바이올린 연주를 가르쳐 주었다."
+  },
+  {
+   "es": "el instrumento",
+   "ko": "악기",
+   "ex": "El piano es mi instrumento preferido.",
+   "exKo": "피아노는 내가 가장 좋아하는 악기다."
+  },
+  {
+   "es": "el partido",
+   "ko": "시합, 경기",
+   "ex": "Los dos equipos jugarán un partido amistoso el mes que viene.",
+   "exKo": "두 팀은 다음 달에 친선 경기를 할 것이다."
+  },
+  {
+   "es": "el equipo",
+   "ko": "팀",
+   "ex": "Nuestro equipo se clasificó para la semifinal.",
+   "exKo": "우리 팀은 준결승에 진출했다."
+  },
+  {
+   "es": "ganar",
+   "ko": "이기다; 벌다",
+   "ex": "Ayer ganamos el partido.",
+   "exKo": "어제 우리는 경기에서 이겼다."
+  },
+  {
+   "es": "empatar",
+   "ko": "비기다",
+   "ex": "Cuando dos equipos empatan, ninguno de los dos gana.",
+   "exKo": "두 팀이 비기면 어느 쪽도 이기지 못한다."
+  },
+  {
+   "es": "entrenar(se)",
+   "ko": "훈련하다",
+   "ex": "Cualquier deportista se entrena muchas horas al día.",
+   "exKo": "운동선수라면 누구나 하루에 여러 시간 훈련한다."
+  },
+  {
+   "es": "estar en forma",
+   "ko": "건강을 유지하다",
+   "ex": "Los médicos recomiendan practicar algún deporte para estar en forma.",
+   "exKo": "의사들은 건강을 유지하기 위해 운동을 하라고 권한다."
+  },
+  {
+   "es": "la afición",
+   "ko": "취미",
+   "ex": "Su mayor afición es la lectura.",
+   "exKo": "그의 가장 큰 취미는 독서다."
+  },
+  {
+   "es": "el tiempo libre",
+   "ko": "여가 시간",
+   "ex": "¿Qué haces normalmente en tu tiempo libre?",
+   "exKo": "너는 보통 여가 시간에 뭘 하니?"
+  },
+  {
+   "es": "quedar con alguien",
+   "ko": "누구와 만나기로 하다",
+   "ex": "Quedamos a las tres en tu casa.",
+   "exKo": "우리 세 시에 너희 집에서 만나자."
+  },
+  {
+   "es": "pasarlo bien",
+   "ko": "즐겁게 보내다",
+   "ex": "Lo he pasado bien en la fiesta.",
+   "exKo": "파티에서 즐거운 시간을 보냈다."
+  },
+  {
+   "es": "la boda",
+   "ko": "결혼식",
+   "ex": "Me compré un vestido para ir a la boda de mi prima Ana.",
+   "exKo": "사촌 아나의 결혼식에 가려고 원피스를 샀다."
+  },
+  {
+   "es": "el regalo",
+   "ko": "선물",
+   "ex": "Su regalo fue un viaje al extranjero.",
+   "exKo": "그의 선물은 해외여행이었다."
+  },
+  {
+   "es": "la reserva",
+   "ko": "예약",
+   "ex": "Ya he hecho la reserva del hotel.",
+   "exKo": "호텔 예약은 이미 했다."
+  },
+  {
+   "es": "la maleta",
+   "ko": "여행 가방",
+   "ex": "No encuentro la maleta de viaje.",
+   "exKo": "여행 가방을 못 찾겠다."
+  },
+  {
+   "es": "el alojamiento",
+   "ko": "숙소",
+   "ex": "Buscamos alojamiento barato para las vacaciones.",
+   "exKo": "우리는 휴가 때 묵을 저렴한 숙소를 찾고 있다."
+  },
+  {
+   "es": "la temporada alta",
+   "ko": "성수기",
+   "ex": "Conseguí un vuelo a Londres muy barato en temporada alta.",
+   "exKo": "성수기에 아주 싼 런던행 항공편을 구했다."
+  },
+  {
+   "es": "gratis",
+   "ko": "무료의, 무료로",
+   "ex": "La entrada al espectáculo es gratis.",
+   "exKo": "그 공연은 입장이 무료다."
+  },
+  {
+   "es": "las elecciones",
+   "ko": "선거",
+   "ex": "Hoy se llevan a cabo las elecciones presidenciales.",
+   "exKo": "오늘 대통령 선거가 실시된다."
+  },
+  {
+   "es": "votar",
+   "ko": "투표하다",
+   "ex": "Todos los coreanos mayores de 18 años tienen derecho a votar.",
+   "exKo": "18세 이상의 모든 한국인은 투표할 권리가 있다."
+  },
+  {
+   "es": "el gobierno",
+   "ko": "정부",
+   "ex": "El gobierno está formado por el presidente y sus ministros.",
+   "exKo": "정부는 대통령과 장관들로 구성된다."
+  },
+  {
+   "es": "la ley",
+   "ko": "법",
+   "ex": "Todos los ciudadanos deben respetar la ley.",
+   "exKo": "모든 시민은 법을 지켜야 한다."
+  },
+  {
+   "es": "la multa",
+   "ko": "벌금",
+   "ex": "Me pusieron una multa por dejar el coche mal aparcado.",
+   "exKo": "차를 잘못 주차해서 벌금을 물었다."
+  },
+  {
+   "es": "robar",
+   "ko": "훔치다",
+   "ex": "Ayer los ladrones robaron el banco.",
+   "exKo": "어제 도둑들이 은행을 털었다."
+  },
+  {
+   "es": "el préstamo",
+   "ko": "대출",
+   "ex": "Pidió un préstamo al banco.",
+   "exKo": "그는 은행에 대출을 신청했다."
+  },
+  {
+   "es": "los ahorros",
+   "ko": "저축한 돈",
+   "ex": "Guardo mis ahorros en la cuenta del banco.",
+   "exKo": "나는 저축한 돈을 은행 계좌에 넣어 둔다."
+  },
+  {
+   "es": "cobrar",
+   "ko": "(돈을) 받다",
+   "ex": "Cada mes cobramos un sueldo por nuestro trabajo.",
+   "exKo": "우리는 매달 일한 대가로 월급을 받는다."
+  },
+  {
+   "es": "el sueldo",
+   "ko": "월급",
+   "ex": "Me aumentaron el sueldo.",
+   "exKo": "내 월급이 올랐다."
+  },
+  {
+   "es": "el empleo",
+   "ko": "일자리, 고용",
+   "ex": "Mi hija tiene un buen empleo.",
+   "exKo": "내 딸은 좋은 일자리를 가지고 있다."
+  },
+  {
+   "es": "el descuento",
+   "ko": "할인",
+   "ex": "He conseguido un buen descuento en la compra del televisor.",
+   "exKo": "텔레비전을 살 때 할인을 많이 받았다."
+  },
+  {
+   "es": "devolver",
+   "ko": "돌려주다, 환불하다",
+   "ex": "Si no queda satisfecho con la compra, le devolvemos su dinero.",
+   "exKo": "구매에 만족하지 않으시면 환불해 드립니다."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'매표소'를 스페인어로?",
+   "options": [
+    "la taquilla",
+    "la fila",
+    "la escena",
+    "la sesión"
+   ],
+   "answer": 0,
+   "explain": "taquilla는 영화관·극장·역의 표 파는 곳이에요. fila는 '줄', sesión은 '상영 회차'."
+  },
+  {
+   "q": "Mi tía me enseñó a ___ el violín.",
+   "options": [
+    "jugar",
+    "tocar",
+    "bailar",
+    "ganar"
+   ],
+   "answer": 1,
+   "explain": "악기를 연주할 때는 tocar를 써요. jugar는 운동·게임에 써요."
+  },
+  {
+   "q": "Juego ___ fútbol con mis compañeros.",
+   "options": [
+    "el",
+    "a la",
+    "al",
+    "de"
+   ],
+   "answer": 2,
+   "explain": "jugar a + el fútbol → jugar al fútbol."
+  },
+  {
+   "q": "Cuando dos equipos ___, ninguno de los dos gana.",
+   "options": [
+    "empatan",
+    "entrenan",
+    "animan",
+    "nadan"
+   ],
+   "answer": 0,
+   "explain": "empatar = 비기다. 아무도 이기지 못하니까 empatan."
+  },
+  {
+   "q": "'estar en forma'의 뜻은?",
+   "options": [
+    "형식을 갖추다",
+    "몸 상태가 좋다",
+    "줄을 서다",
+    "유행하다"
+   ],
+   "answer": 1,
+   "explain": "estar en forma는 운동 등으로 건강한 몸 상태를 유지한다는 뜻이에요."
+  },
+  {
+   "q": "Lo he ___ bien en la fiesta. (파티에서 즐거웠다)",
+   "options": [
+    "pasado",
+    "quedado",
+    "tomado",
+    "hecho"
+   ],
+   "answer": 0,
+   "explain": "pasarlo bien = 즐거운 시간을 보내다. 현재완료로 lo he pasado bien."
+  },
+  {
+   "q": "스페인에서 12월 31일 밤을 부르는 말은?",
+   "options": [
+    "Nochebuena",
+    "Nochevieja",
+    "Semana Santa",
+    "Día de los Reyes Magos"
+   ],
+   "answer": 1,
+   "explain": "Nochevieja는 12월 31일 밤, Nochebuena는 12월 24일 밤이에요. 자정 종소리에 포도 12알을 먹어요."
+  },
+  {
+   "q": "'성수기'는?",
+   "options": [
+    "temporada baja",
+    "temporada alta",
+    "media pensión",
+    "casco viejo"
+   ],
+   "answer": 1,
+   "explain": "temporada alta = 성수기, temporada baja = 비수기."
+  },
+  {
+   "q": "'투표하다'는?",
+   "options": [
+    "votar",
+    "juzgar",
+    "detener",
+    "denunciar"
+   ],
+   "answer": 0,
+   "explain": "votar = 투표하다. juzgar는 재판하다, detener는 체포하다, denunciar는 고발하다."
+  },
+  {
+   "q": "La policía soltó al joven que acababa de ___. (방금 체포한)",
+   "options": [
+    "robar",
+    "herir",
+    "detener",
+    "disparar"
+   ],
+   "answer": 2,
+   "explain": "detener = 체포하다. acabar de + 동사원형 = 막 ~하다."
+  },
+  {
+   "q": "¿Puedo pagar ___ efectivo?",
+   "options": [
+    "con",
+    "en",
+    "a",
+    "por"
+   ],
+   "answer": 1,
+   "explain": "현금으로 내다는 pagar en efectivo, 할부는 a plazos, 카드는 con tarjeta."
+  },
+  {
+   "q": "Esta camisa está ___ oferta y por eso sale tan barata.",
+   "options": [
+    "de",
+    "a",
+    "en",
+    "por"
+   ],
+   "answer": 2,
+   "explain": "estar en oferta = 특가 중이다. 세일은 estar de rebaja."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Capítulo 9 · Unidad 1. Cine, obra de teatro · 영화, 연극",
+   "lines": [
+    {
+     "t": 3.8,
+     "s": "W",
+     "es": "banda sonora",
+     "ko": "영화 음악, 사운드트랙"
+    },
+    {
+     "t": 21.1,
+     "s": "E",
+     "es": "La banda sonora de esta película es ya un clásico del cine.",
+     "ko": "이 영화의 사운드트랙은 이미 영화계의 고전이다."
+    },
+    {
+     "t": 27.3,
+     "s": "W",
+     "es": "cartelera",
+     "ko": "(영화·공연) 광고판, 상영 안내"
+    },
+    {
+     "t": 31.7,
+     "s": "E",
+     "es": "Miré la cartelera para ver si había alguna película interesante.",
+     "ko": "재미있는 영화가 있는지 보려고 상영 안내판을 살펴봤다."
+    },
+    {
+     "t": 38.0,
+     "s": "W",
+     "es": "cine",
+     "ko": "영화관, 영화"
+    },
+    {
+     "t": 42.9,
+     "s": "E",
+     "es": "Voy a comprar entradas para el cine.",
+     "ko": "영화표를 사러 간다."
+    },
+    {
+     "t": 48.0,
+     "s": "W",
+     "es": "comedia",
+     "ko": "희극, 코미디"
+    },
+    {
+     "t": 50.4,
+     "s": "E",
+     "es": "Hay un teatro en el que solo representan comedias.",
+     "ko": "희극만 공연하는 극장이 하나 있다."
+    },
+    {
+     "t": 56.7,
+     "s": "W",
+     "es": "dibujo animado",
+     "ko": "만화 영화, 애니메이션"
+    },
+    {
+     "t": 62.3,
+     "s": "E",
+     "es": "No solo a los niños les gustan los dibujos animados.",
+     "ko": "만화 영화를 좋아하는 건 아이들만이 아니다."
+    },
+    {
+     "t": 68.6,
+     "s": "W",
+     "es": "director, directora",
+     "ko": "감독"
+    },
+    {
+     "t": 71.4,
+     "s": "E",
+     "es": "Pedro Almodóvar es el director de cine español más famoso del mundo.",
+     "ko": "페드로 알모도바르는 세계에서 가장 유명한 스페인 영화감독이다."
+    },
+    {
+     "t": 78.3,
+     "s": "W",
+     "es": "entrada",
+     "ko": "입장권, 표"
+    },
+    {
+     "t": 82.8,
+     "s": "E",
+     "es": "Las entradas para el cine están cada vez más caras.",
+     "ko": "영화표가 점점 더 비싸지고 있다."
+    },
+    {
+     "t": 88.3,
+     "s": "W",
+     "es": "escena",
+     "ko": "무대, 장면"
+    },
+    {
+     "t": 92.8,
+     "s": "E",
+     "es": "Prepararon la escena para la función.",
+     "ko": "그들은 공연을 위해 무대를 준비했다."
+    },
+    {
+     "t": 97.6,
+     "s": "W",
+     "es": "espectáculo",
+     "ko": "관람물, 쇼"
+    },
+    {
+     "t": 102.0,
+     "s": "E",
+     "es": "Está metido en el mundo del espectáculo.",
+     "ko": "그는 연예계에 몸담고 있다."
+    },
+    {
+     "t": 107.2,
+     "s": "W",
+     "es": "espectador, espectadora",
+     "ko": "관객"
+    },
+    {
+     "t": 112.2,
+     "s": "E",
+     "es": "Acudieron más de 2.000 espectadores a su actuación.",
+     "ko": "그의 공연에 2,000명이 넘는 관객이 찾아왔다."
+    },
+    {
+     "t": 117.8,
+     "s": "W",
+     "es": "estreno",
+     "ko": "개봉, 초연"
+    },
+    {
+     "t": 122.3,
+     "s": "E",
+     "es": "Hoy es el estreno de esa película tan esperada.",
+     "ko": "오늘은 그 많이 기다리던 영화의 개봉일이다."
+    },
+    {
+     "t": 127.3,
+     "s": "W",
+     "es": "fila",
+     "ko": "열, 줄"
+    },
+    {
+     "t": 132.0,
+     "s": "E",
+     "es": "Nos sentamos en la tercera fila de butacas.",
+     "ko": "우리는 객석 세 번째 줄에 앉았다."
+    },
+    {
+     "t": 137.2,
+     "s": "W",
+     "es": "función",
+     "ko": "공연, 상연"
+    },
+    {
+     "t": 141.9,
+     "s": "E",
+     "es": "El actor realizó tres funciones a sala llena.",
+     "ko": "그 배우는 만석인 객석 앞에서 세 번 공연했다."
+    },
+    {
+     "t": 147.1,
+     "s": "W",
+     "es": "guion",
+     "ko": "각본, 대본"
+    },
+    {
+     "t": 151.9,
+     "s": "E",
+     "es": "La actriz repasó el guion antes de empezar a rodar.",
+     "ko": "여배우는 촬영을 시작하기 전에 대본을 복습했다."
+    },
+    {
+     "t": 157.8,
+     "s": "W",
+     "es": "película",
+     "ko": "영화"
+    },
+    {
+     "t": 160.3,
+     "s": "E",
+     "es": "¿Qué película vamos a ver?",
+     "ko": "우리 무슨 영화 볼까?"
+    },
+    {
+     "t": 165.3,
+     "s": "W",
+     "es": "protagonista",
+     "ko": "주인공"
+    },
+    {
+     "t": 168.5,
+     "s": "E",
+     "es": "El protagonista muere al principio y los demás personajes recuerdan su vida.",
+     "ko": "주인공은 처음에 죽고 다른 등장인물들이 그의 삶을 회상한다."
+    },
+    {
+     "t": 176.8,
+     "s": "W",
+     "es": "representación",
+     "ko": "공연, 상연"
+    },
+    {
+     "t": 179.2,
+     "s": "E",
+     "es": "Fue una excelente representación de la obra de Shakespeare.",
+     "ko": "셰익스피어 작품의 훌륭한 공연이었다."
+    },
+    {
+     "t": 185.8,
+     "s": "W",
+     "es": "rodar",
+     "ko": "촬영하다"
+    },
+    {
+     "t": 188.4,
+     "s": "E",
+     "es": "Rodaron la película en un estudio inmenso.",
+     "ko": "그들은 거대한 스튜디오에서 영화를 촬영했다."
+    },
+    {
+     "t": 196.5,
+     "s": "W",
+     "es": "sesión",
+     "ko": "(상영) 회, 상영 시간"
+    },
+    {
+     "t": 197.2,
+     "s": "E",
+     "es": "Compré entradas de cine para la sesión de mediodía.",
+     "ko": "낮 상영 회차 영화표를 샀다."
+    },
+    {
+     "t": 203.5,
+     "s": "W",
+     "es": "subtítulo",
+     "ko": "자막"
+    },
+    {
+     "t": 205.5,
+     "s": "E",
+     "es": "Mi hermano lee tan despacio que se pierde la mitad de los subtítulos.",
+     "ko": "내 남동생은 너무 천천히 읽어서 자막의 절반을 놓친다."
+    },
+    {
+     "t": 212.4,
+     "s": "W",
+     "es": "taquilla",
+     "ko": "매표소, 창구"
+    },
+    {
+     "t": 217.5,
+     "s": "E",
+     "es": "Él compró la entrada en la taquilla del cine.",
+     "ko": "그는 영화관 매표소에서 표를 샀다."
+    },
+    {
+     "t": 221.8,
+     "s": "W",
+     "es": "teatro",
+     "ko": "연극, 극작품, 극장"
+    },
+    {
+     "t": 228.4,
+     "s": "E",
+     "es": "Es muy distinto leer teatro de leer novela.",
+     "ko": "희곡을 읽는 것은 소설을 읽는 것과 매우 다르다."
+    },
+    {
+     "t": 234.5,
+     "s": "W",
+     "es": "tragedia",
+     "ko": "비극"
+    },
+    {
+     "t": 236.8,
+     "s": "E",
+     "es": "Romeo y Julieta es una tragedia.",
+     "ko": "『로미오와 줄리엣』은 비극이다."
+    },
+    {
+     "t": 241.1,
+     "s": "W",
+     "es": "versión original",
+     "ko": "원어판, 원래 언어 버전"
+    },
+    {
+     "t": 248.0,
+     "s": "E",
+     "es": "Me gusta ver películas en versión original.",
+     "ko": "나는 영화를 원어로 보는 것을 좋아한다."
+    },
+    {
+     "t": 255.4,
+     "s": "W",
+     "es": "vídeo",
+     "ko": "비디오, 영상"
+    },
+    {
+     "t": 255.4,
+     "s": "E",
+     "es": "¿Te apetece ver el vídeo de nuestro viaje?",
+     "ko": "우리 여행 영상 볼래?"
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Bellas artes, música, danza · 미술, 음악, 무용",
+   "lines": [
+    {
+     "t": 276.0,
+     "s": "W",
+     "es": "abstracto, abstracta",
+     "ko": "추상적인"
+    },
+    {
+     "t": 280.4,
+     "s": "E",
+     "es": "No me gusta mucho la pintura abstracta.",
+     "ko": "나는 추상화를 별로 좋아하지 않는다."
+    },
+    {
+     "t": 284.9,
+     "s": "W",
+     "es": "arte",
+     "ko": "예술"
+    },
+    {
+     "t": 288.5,
+     "s": "E",
+     "es": "Tu cuadro es una obra de arte.",
+     "ko": "네 그림은 예술 작품이다."
+    },
+    {
+     "t": 292.4,
+     "s": "W",
+     "es": "bailar",
+     "ko": "춤추다"
+    },
+    {
+     "t": 294.7,
+     "s": "E",
+     "es": "Mis padres bailaron un tango estupendo.",
+     "ko": "부모님은 멋진 탱고를 추셨다."
+    },
+    {
+     "t": 300.7,
+     "s": "W",
+     "es": "canción",
+     "ko": "노래"
+    },
+    {
+     "t": 303.9,
+     "s": "E",
+     "es": "¿A ti no te gustan las canciones del trío Los Panchos?",
+     "ko": "너는 트리오 로스 판초스의 노래를 좋아하지 않니?"
+    },
+    {
+     "t": 308.7,
+     "s": "W",
+     "es": "color",
+     "ko": "색, 색깔"
+    },
+    {
+     "t": 312.1,
+     "s": "E",
+     "es": "Me impresiona el color de estos cuadros.",
+     "ko": "이 그림들의 색감이 인상적이다."
+    },
+    {
+     "t": 316.9,
+     "s": "W",
+     "es": "compositor, compositora",
+     "ko": "작곡가"
+    },
+    {
+     "t": 321.2,
+     "s": "E",
+     "es": "Verdi fue un compositor de óperas italiano.",
+     "ko": "베르디는 이탈리아의 오페라 작곡가였다."
+    },
+    {
+     "t": 326.8,
+     "s": "W",
+     "es": "concierto",
+     "ko": "콘서트, 연주회"
+    },
+    {
+     "t": 327.9,
+     "s": "E",
+     "es": "El concierto de rock terminó muy tarde.",
+     "ko": "록 콘서트는 아주 늦게 끝났다."
+    },
+    {
+     "t": 337.4,
+     "s": "W",
+     "es": "coro",
+     "ko": "합창단, 합창"
+    },
+    {
+     "t": 338.5,
+     "s": "E",
+     "es": "Me gustaría pertenecer a un coro.",
+     "ko": "나는 합창단에 들어가고 싶다."
+    },
+    {
+     "t": 344.4,
+     "s": "W",
+     "es": "dibujar",
+     "ko": "그리다, 묘사하다"
+    },
+    {
+     "t": 348.1,
+     "s": "E",
+     "es": "El libro dibuja perfectamente las costumbres del siglo pasado.",
+     "ko": "그 책은 지난 세기의 풍습을 완벽하게 묘사한다."
+    },
+    {
+     "t": 355.9,
+     "s": "W",
+     "es": "discoteca",
+     "ko": "디스코텍, 클럽"
+    },
+    {
+     "t": 359.3,
+     "s": "E",
+     "es": "Fueron a la discoteca a divertirse.",
+     "ko": "그들은 놀러 클럽에 갔다."
+    },
+    {
+     "t": 363.9,
+     "s": "W",
+     "es": "ensayar",
+     "ko": "연습하다, 리허설하다"
+    },
+    {
+     "t": 366.6,
+     "s": "E",
+     "es": "Los martes ensaya la compañía.",
+     "ko": "화요일마다 극단이 연습한다."
+    },
+    {
+     "t": 372.0,
+     "s": "W",
+     "es": "escultura",
+     "ko": "조각, 조각품"
+    },
+    {
+     "t": 374.9,
+     "s": "E",
+     "es": "En la sala había varias esculturas.",
+     "ko": "전시실에는 여러 조각품이 있었다."
+    },
+    {
+     "t": 382.1,
+     "s": "W",
+     "es": "estilo",
+     "ko": "스타일, 양식"
+    },
+    {
+     "t": 386.3,
+     "s": "E",
+     "es": "El actor se viste con un estilo muy clásico.",
+     "ko": "그 배우는 아주 클래식한 스타일로 옷을 입는다."
+    },
+    {
+     "t": 393.9,
+     "s": "W",
+     "es": "exposición",
+     "ko": "전시회"
+    },
+    {
+     "t": 396.2,
+     "s": "E",
+     "es": "La exposición de grabados fue un éxito.",
+     "ko": "판화 전시회는 성공적이었다."
+    },
+    {
+     "t": 402.7,
+     "s": "W",
+     "es": "flauta",
+     "ko": "플루트, 피리"
+    },
+    {
+     "t": 405.0,
+     "s": "E",
+     "es": "Las flautas pueden ser de madera u otros materiales.",
+     "ko": "플루트는 나무나 다른 재료로 만들어질 수 있다."
+    },
+    {
+     "t": 408.4,
+     "s": "W",
+     "es": "galería",
+     "ko": "갤러리, 화랑"
+    },
+    {
+     "t": 414.1,
+     "s": "E",
+     "es": "Sus cuadros se exponen en la galería de arte.",
+     "ko": "그의 그림들은 화랑에 전시되어 있다."
+    },
+    {
+     "t": 419.7,
+     "s": "W",
+     "es": "guitarra",
+     "ko": "기타"
+    },
+    {
+     "t": 422.4,
+     "s": "E",
+     "es": "Tu padre toca la guitarra de maravilla.",
+     "ko": "너희 아버지는 기타를 기막히게 치신다."
+    },
+    {
+     "t": 427.7,
+     "s": "W",
+     "es": "instrumento",
+     "ko": "악기, 도구"
+    },
+    {
+     "t": 430.1,
+     "s": "E",
+     "es": "El piano es mi instrumento preferido.",
+     "ko": "피아노는 내가 가장 좋아하는 악기다."
+    },
+    {
+     "t": 435.4,
+     "s": "W",
+     "es": "letra",
+     "ko": "가사, 글자"
+    },
+    {
+     "t": 438.0,
+     "s": "E",
+     "es": "¿Puedes copiarme la letra de esta canción?",
+     "ko": "이 노래 가사를 나한테 베껴 줄 수 있니?"
+    },
+    {
+     "t": 443.1,
+     "s": "W",
+     "es": "madera",
+     "ko": "목재, 나무"
+    },
+    {
+     "t": 445.7,
+     "s": "E",
+     "es": "Milagros compra madera de acacia para hacer una escultura de su padre.",
+     "ko": "밀라그로스는 아버지의 조각상을 만들기 위해 아카시아 목재를 산다."
+    },
+    {
+     "t": 453.0,
+     "s": "W",
+     "es": "mármol",
+     "ko": "대리석"
+    },
+    {
+     "t": 455.6,
+     "s": "E",
+     "es": "El David se esculpió en una pieza gigantesca de mármol.",
+     "ko": "다비드상은 거대한 대리석 한 덩어리로 조각되었다."
+    },
+    {
+     "t": 461.5,
+     "s": "W",
+     "es": "música",
+     "ko": "음악"
+    },
+    {
+     "t": 463.7,
+     "s": "E",
+     "es": "Me encanta componer música.",
+     "ko": "나는 작곡하는 것을 아주 좋아한다."
+    },
+    {
+     "t": 470.2,
+     "s": "W",
+     "es": "musical",
+     "ko": "뮤지컬; 음악의"
+    },
+    {
+     "t": 472.3,
+     "s": "E",
+     "es": "Fuimos a ver un musical al teatro.",
+     "ko": "우리는 극장에 뮤지컬을 보러 갔다."
+    },
+    {
+     "t": 476.6,
+     "s": "W",
+     "es": "orquesta",
+     "ko": "오케스트라, 관현악단"
+    },
+    {
+     "t": 480.3,
+     "s": "E",
+     "es": "Mi hermana toca el tambor en una orquesta.",
+     "ko": "내 여동생은 오케스트라에서 북을 연주한다."
+    },
+    {
+     "t": 485.0,
+     "s": "W",
+     "es": "piano",
+     "ko": "피아노"
+    },
+    {
+     "t": 487.9,
+     "s": "E",
+     "es": "Tienen un piano en el salón.",
+     "ko": "그들은 거실에 피아노가 있다."
+    },
+    {
+     "t": 492.3,
+     "s": "W",
+     "es": "pintor, pintora",
+     "ko": "화가"
+    },
+    {
+     "t": 497.0,
+     "s": "E",
+     "es": "Picasso fue un pintor genial.",
+     "ko": "피카소는 천재적인 화가였다."
+    },
+    {
+     "t": 500.8,
+     "s": "W",
+     "es": "retrato",
+     "ko": "초상화"
+    },
+    {
+     "t": 504.3,
+     "s": "E",
+     "es": "Goya dejó varios retratos de la familia real.",
+     "ko": "고야는 왕실 가족의 초상화를 여러 점 남겼다."
+    },
+    {
+     "t": 509.2,
+     "s": "W",
+     "es": "sonido",
+     "ko": "소리, 음향"
+    },
+    {
+     "t": 514.0,
+     "s": "E",
+     "es": "Desde la habitación se oía el sonido del piano.",
+     "ko": "방에서 피아노 소리가 들렸다."
+    },
+    {
+     "t": 518.5,
+     "s": "W",
+     "es": "tocar",
+     "ko": "연주하다, 만지다"
+    },
+    {
+     "t": 522.5,
+     "s": "E",
+     "es": "¡Qué bien tocas el violonchelo!",
+     "ko": "첼로를 정말 잘 연주하는구나!"
+    },
+    {
+     "t": 526.7,
+     "s": "W",
+     "es": "violín",
+     "ko": "바이올린"
+    },
+    {
+     "t": 530.1,
+     "s": "E",
+     "es": "Mi tía me enseñó a tocar el violín.",
+     "ko": "이모가 나에게 바이올린 연주를 가르쳐 주었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Deporte · 스포츠",
+   "lines": [
+    {
+     "t": 544.4,
+     "s": "W",
+     "es": "aficionado, aficionada",
+     "ko": "팬, 애호가, ~광"
+    },
+    {
+     "t": 558.8,
+     "s": "E",
+     "es": "Es aficionado a los deportes: nada, anda en bicicleta y juega al fútbol.",
+     "ko": "그는 스포츠 애호가다. 수영하고, 자전거를 타고, 축구를 한다."
+    },
+    {
+     "t": 566.1,
+     "s": "W",
+     "es": "ajedrez",
+     "ko": "체스"
+    },
+    {
+     "t": 566.1,
+     "s": "E",
+     "es": "Le han regalado un ajedrez.",
+     "ko": "그는 체스 세트를 선물 받았다."
+    },
+    {
+     "t": 573.7,
+     "s": "W",
+     "es": "animar",
+     "ko": "응원하다, 격려하다"
+    },
+    {
+     "t": 578.4,
+     "s": "E",
+     "es": "El público animó a los futbolistas.",
+     "ko": "관중이 축구 선수들을 응원했다."
+    },
+    {
+     "t": 583.4,
+     "s": "W",
+     "es": "árbitro, árbitra",
+     "ko": "심판"
+    },
+    {
+     "t": 588.7,
+     "s": "E",
+     "es": "El árbitro hizo sonar el silbato cuando los jugadores se golpearon.",
+     "ko": "선수들이 서로 부딪치자 심판이 호루라기를 불었다."
+    },
+    {
+     "t": 596.5,
+     "s": "W",
+     "es": "atletismo",
+     "ko": "육상, 육상 경기"
+    },
+    {
+     "t": 601.5,
+     "s": "E",
+     "es": "Se denomina atletismo a un conjunto de pruebas deportivas divididas en carreras, saltos y lanzamientos.",
+     "ko": "달리기, 도약, 투척으로 나뉜 일련의 운동 종목을 육상이라고 부른다."
+    },
+    {
+     "t": 611.4,
+     "s": "W",
+     "es": "balón",
+     "ko": "공"
+    },
+    {
+     "t": 613.1,
+     "s": "E",
+     "es": "Molina mandó el balón fuera del campo.",
+     "ko": "몰리나가 공을 경기장 밖으로 차 냈다."
+    },
+    {
+     "t": 620.3,
+     "s": "W",
+     "es": "baloncesto",
+     "ko": "농구"
+    },
+    {
+     "t": 622.0,
+     "s": "E",
+     "es": "Antes mi primo jugaba en un equipo de baloncesto.",
+     "ko": "예전에 내 사촌은 농구팀에서 뛰었다."
+    },
+    {
+     "t": 628.1,
+     "s": "W",
+     "es": "béisbol",
+     "ko": "야구"
+    },
+    {
+     "t": 630.9,
+     "s": "E",
+     "es": "En España no practican mucho el béisbol.",
+     "ko": "스페인에서는 야구를 별로 하지 않는다."
+    },
+    {
+     "t": 636.6,
+     "s": "W",
+     "es": "boxeo",
+     "ko": "권투, 복싱"
+    },
+    {
+     "t": 640.6,
+     "s": "E",
+     "es": "El boxeo es un deporte olímpico.",
+     "ko": "권투는 올림픽 종목이다."
+    },
+    {
+     "t": 644.8,
+     "s": "W",
+     "es": "campeón, campeona",
+     "ko": "챔피언, 우승자"
+    },
+    {
+     "t": 648.9,
+     "s": "E",
+     "es": "Son los campeones del Mundial de fútbol.",
+     "ko": "그들은 축구 월드컵 우승팀이다."
+    },
+    {
+     "t": 653.6,
+     "s": "W",
+     "es": "cancha",
+     "ko": "경기장, 코트"
+    },
+    {
+     "t": 658.6,
+     "s": "E",
+     "es": "Los jugadores de baloncesto salen a la cancha.",
+     "ko": "농구 선수들이 경기장으로 나온다."
+    },
+    {
+     "t": 662.6,
+     "s": "W",
+     "es": "carrera",
+     "ko": "경주, 달리기"
+    },
+    {
+     "t": 666.6,
+     "s": "E",
+     "es": "La semana pasada fuimos a ver las carreras de caballos.",
+     "ko": "지난주에 우리는 경마를 보러 갔다."
+    },
+    {
+     "t": 670.6,
+     "s": "W",
+     "es": "ciclismo",
+     "ko": "사이클 경기, 자전거 경기"
+    },
+    {
+     "t": 675.7,
+     "s": "E",
+     "es": "La práctica del ciclismo en carretera puede ser peligrosa.",
+     "ko": "도로에서 사이클을 타는 것은 위험할 수 있다."
+    },
+    {
+     "t": 681.3,
+     "s": "W",
+     "es": "corrida de toros",
+     "ko": "투우"
+    },
+    {
+     "t": 685.1,
+     "s": "E",
+     "es": "Las fiestas terminaron con una corrida de toros.",
+     "ko": "축제는 투우로 막을 내렸다."
+    },
+    {
+     "t": 692.2,
+     "s": "W",
+     "es": "deporte",
+     "ko": "운동, 스포츠"
+    },
+    {
+     "t": 696.0,
+     "s": "E",
+     "es": "La natación es mi deporte favorito.",
+     "ko": "수영은 내가 가장 좋아하는 운동이다."
+    },
+    {
+     "t": 701.4,
+     "s": "W",
+     "es": "empatar",
+     "ko": "비기다, 동점이 되다"
+    },
+    {
+     "t": 707.0,
+     "s": "E",
+     "es": "Cuando dos equipos empatan, ninguno de los dos gana.",
+     "ko": "두 팀이 비기면 어느 쪽도 이기지 못한다."
+    },
+    {
+     "t": 712.4,
+     "s": "W",
+     "es": "entrenar",
+     "ko": "훈련하다"
+    },
+    {
+     "t": 715.3,
+     "s": "E",
+     "es": "Cualquier deportista se entrena muchas horas al día.",
+     "ko": "운동선수라면 누구나 하루에 여러 시간 훈련한다."
+    },
+    {
+     "t": 723.1,
+     "s": "W",
+     "es": "equipo",
+     "ko": "팀"
+    },
+    {
+     "t": 724.1,
+     "s": "E",
+     "es": "Nuestro equipo se clasificó para la semifinal.",
+     "ko": "우리 팀은 준결승에 진출했다."
+    },
+    {
+     "t": 729.8,
+     "s": "W",
+     "es": "esquí",
+     "ko": "스키"
+    },
+    {
+     "t": 732.0,
+     "s": "E",
+     "es": "Durante el invierno se dedica a practicar el esquí.",
+     "ko": "그는 겨울 동안 스키 타는 데 전념한다."
+    },
+    {
+     "t": 738.1,
+     "s": "W",
+     "es": "estadio",
+     "ko": "경기장, 스타디움"
+    },
+    {
+     "t": 739.9,
+     "s": "E",
+     "es": "El estadio olímpico está lleno de gente.",
+     "ko": "올림픽 경기장은 사람들로 가득하다."
+    },
+    {
+     "t": 745.7,
+     "s": "W",
+     "es": "estar en forma",
+     "ko": "몸 상태가 좋다, 건강을 유지하다"
+    },
+    {
+     "t": 750.6,
+     "s": "E",
+     "es": "Los médicos recomiendan practicar algún deporte para estar en forma.",
+     "ko": "의사들은 건강을 유지하기 위해 운동을 하라고 권한다."
+    },
+    {
+     "t": 756.8,
+     "s": "W",
+     "es": "falta",
+     "ko": "반칙, 파울"
+    },
+    {
+     "t": 760.0,
+     "s": "E",
+     "es": "El árbitro advirtió la falta del jugador.",
+     "ko": "심판은 그 선수의 반칙을 지적했다."
+    },
+    {
+     "t": 765.2,
+     "s": "W",
+     "es": "fútbol",
+     "ko": "축구"
+    },
+    {
+     "t": 767.3,
+     "s": "E",
+     "es": "Juego al fútbol con mis compañeros de la oficina los fines de semana.",
+     "ko": "나는 주말마다 회사 동료들과 축구를 한다."
+    },
+    {
+     "t": 774.0,
+     "s": "W",
+     "es": "ganar",
+     "ko": "이기다"
+    },
+    {
+     "t": 776.9,
+     "s": "E",
+     "es": "Ayer ganamos el partido.",
+     "ko": "어제 우리는 경기에서 이겼다."
+    },
+    {
+     "t": 781.5,
+     "s": "W",
+     "es": "gimnasio",
+     "ko": "체육관, 헬스클럽"
+    },
+    {
+     "t": 785.4,
+     "s": "E",
+     "es": "Los sábados por la mañana voy al gimnasio.",
+     "ko": "토요일 아침마다 나는 헬스클럽에 간다."
+    },
+    {
+     "t": 790.2,
+     "s": "W",
+     "es": "jugar",
+     "ko": "경기하다, 놀다"
+    },
+    {
+     "t": 794.6,
+     "s": "E",
+     "es": "Ayer jugamos al tenis y después a las cartas.",
+     "ko": "어제 우리는 테니스를 치고 그다음에 카드놀이를 했다."
+    },
+    {
+     "t": 801.1,
+     "s": "W",
+     "es": "motociclismo",
+     "ko": "오토바이 경주"
+    },
+    {
+     "t": 805.4,
+     "s": "E",
+     "es": "Acudo a todas las competiciones de motociclismo de España.",
+     "ko": "나는 스페인의 오토바이 경주 대회에 모두 간다."
+    },
+    {
+     "t": 810.9,
+     "s": "W",
+     "es": "nadar",
+     "ko": "수영하다"
+    },
+    {
+     "t": 813.5,
+     "s": "E",
+     "es": "Conseguí llegar a la costa nadando.",
+     "ko": "나는 헤엄쳐서 해안까지 갈 수 있었다."
+    },
+    {
+     "t": 818.8,
+     "s": "W",
+     "es": "partido",
+     "ko": "시합, 경기"
+    },
+    {
+     "t": 822.7,
+     "s": "E",
+     "es": "Los dos equipos jugarán un partido amistoso el mes que viene.",
+     "ko": "두 팀은 다음 달에 친선 경기를 할 것이다."
+    },
+    {
+     "t": 829.0,
+     "s": "W",
+     "es": "patinaje",
+     "ko": "스케이트, 롤러스케이트"
+    },
+    {
+     "t": 833.7,
+     "s": "E",
+     "es": "El patinaje sobre hielo es el deporte más hermoso.",
+     "ko": "아이스 스케이팅은 가장 아름다운 스포츠다."
+    },
+    {
+     "t": 839.6,
+     "s": "W",
+     "es": "pesca",
+     "ko": "낚시, 어업"
+    },
+    {
+     "t": 842.3,
+     "s": "E",
+     "es": "Antiguamente, la pesca se realizaba cerca de la costa.",
+     "ko": "옛날에는 고기잡이가 해안 근처에서 이루어졌다."
+    },
+    {
+     "t": 848.5,
+     "s": "W",
+     "es": "piscina",
+     "ko": "수영장"
+    },
+    {
+     "t": 850.9,
+     "s": "E",
+     "es": "Las duchas de la piscina están al fondo del pasillo.",
+     "ko": "수영장 샤워실은 복도 끝에 있다."
+    },
+    {
+     "t": 856.9,
+     "s": "W",
+     "es": "portero, portera",
+     "ko": "골키퍼; 수위"
+    },
+    {
+     "t": 861.3,
+     "s": "E",
+     "es": "Contrataron un nuevo portero.",
+     "ko": "새 골키퍼를 영입했다."
+    },
+    {
+     "t": 865.2,
+     "s": "W",
+     "es": "tenis",
+     "ko": "테니스"
+    },
+    {
+     "t": 868.5,
+     "s": "E",
+     "es": "El tenista Sánchez se despedirá del tenis profesional el año que viene.",
+     "ko": "테니스 선수 산체스는 내년에 프로 테니스계를 떠날 것이다."
+    },
+    {
+     "t": 875.5,
+     "s": "W",
+     "es": "yate",
+     "ko": "요트"
+    },
+    {
+     "t": 877.5,
+     "s": "E",
+     "es": "Recorrimos el Mediterráneo en yate.",
+     "ko": "우리는 요트로 지중해를 일주했다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Otras aficiones · 기타 취미",
+   "lines": [
+    {
+     "t": 894.4,
+     "s": "W",
+     "es": "afición",
+     "ko": "취미"
+    },
+    {
+     "t": 898.0,
+     "s": "E",
+     "es": "Su mayor afición es la lectura.",
+     "ko": "그의 가장 큰 취미는 독서다."
+    },
+    {
+     "t": 902.1,
+     "s": "W",
+     "es": "cámara",
+     "ko": "카메라"
+    },
+    {
+     "t": 904.4,
+     "s": "E",
+     "es": "Desde que nació el bebé, Luisa quiere comprar una buena cámara para sacarle fotos.",
+     "ko": "아기가 태어난 뒤로 루이사는 아기 사진을 찍으려고 좋은 카메라를 사고 싶어 한다."
+    },
+    {
+     "t": 914.0,
+     "s": "W",
+     "es": "circo",
+     "ko": "서커스"
+    },
+    {
+     "t": 916.2,
+     "s": "E",
+     "es": "Las actuaciones de circo se realizan cada domingo.",
+     "ko": "서커스 공연은 매주 일요일에 열린다."
+    },
+    {
+     "t": 922.7,
+     "s": "W",
+     "es": "coleccionar",
+     "ko": "수집하다"
+    },
+    {
+     "t": 925.4,
+     "s": "E",
+     "es": "He empezado a coleccionar los números extras de esta revista.",
+     "ko": "나는 이 잡지의 특별호를 모으기 시작했다."
+    },
+    {
+     "t": 932.8,
+     "s": "W",
+     "es": "entretenerse",
+     "ko": "즐기다, 시간을 보내다, 지체하다"
+    },
+    {
+     "t": 937.1,
+     "s": "E",
+     "es": "Se entretuvieron en la tienda y llegaron tarde.",
+     "ko": "그들은 가게에서 시간을 끌다가 늦게 도착했다."
+    },
+    {
+     "t": 946.2,
+     "s": "W",
+     "es": "fotografía",
+     "ko": "사진, 사진술"
+    },
+    {
+     "t": 946.2,
+     "s": "E",
+     "es": "La fotografía es el arte de dibujar con luz.",
+     "ko": "사진은 빛으로 그림을 그리는 예술이다."
+    },
+    {
+     "t": 956.9,
+     "s": "W",
+     "es": "ir de compras",
+     "ko": "쇼핑하러 가다"
+    },
+    {
+     "t": 956.9,
+     "s": "E",
+     "es": "Todos los sábados por la mañana voy de compras al centro comercial.",
+     "ko": "토요일 아침마다 나는 쇼핑몰에 쇼핑하러 간다."
+    },
+    {
+     "t": 965.1,
+     "s": "W",
+     "es": "juguete",
+     "ko": "장난감"
+    },
+    {
+     "t": 965.7,
+     "s": "E",
+     "es": "Recoge siempre los juguetes después de jugar.",
+     "ko": "놀고 나면 항상 장난감을 치워라."
+    },
+    {
+     "t": 971.8,
+     "s": "W",
+     "es": "montaña rusa",
+     "ko": "롤러코스터"
+    },
+    {
+     "t": 975.2,
+     "s": "E",
+     "es": "Nunca me he subido a una montaña rusa.",
+     "ko": "나는 롤러코스터를 한 번도 타 본 적이 없다."
+    },
+    {
+     "t": 980.1,
+     "s": "W",
+     "es": "pasarlo bien, pasarlo mal",
+     "ko": "재미있게 보내다, 힘든 시간을 보내다"
+    },
+    {
+     "t": 989.1,
+     "s": "E",
+     "es": "Lo he pasado bien en la fiesta.",
+     "ko": "파티에서 즐거운 시간을 보냈다."
+    },
+    {
+     "t": 994.5,
+     "s": "W",
+     "es": "paseo",
+     "ko": "산책"
+    },
+    {
+     "t": 994.5,
+     "s": "E",
+     "es": "¿Puedes dar un paseo alrededor del barrio antiguo?",
+     "ko": "옛 동네 주변을 산책할 수 있니?"
+    },
+    {
+     "t": 1001.5,
+     "s": "W",
+     "es": "quedar con alguien",
+     "ko": "누구와 만나기로 하다"
+    },
+    {
+     "t": 1001.5,
+     "s": "E",
+     "es": "Quedamos a las tres en tu casa.",
+     "ko": "우리 세 시에 너희 집에서 만나자."
+    },
+    {
+     "t": 1010.9,
+     "s": "W",
+     "es": "tomar el sol",
+     "ko": "햇볕을 쬐다, 일광욕하다"
+    },
+    {
+     "t": 1010.9,
+     "s": "E",
+     "es": "Rosa pasa todo el día tomando el sol.",
+     "ko": "로사는 하루 종일 일광욕을 하며 보낸다."
+    },
+    {
+     "t": 1020.9,
+     "s": "W",
+     "es": "tiempo libre",
+     "ko": "여가 시간, 자유 시간"
+    },
+    {
+     "t": 1027.2,
+     "s": "E",
+     "es": "¿Qué haces normalmente en tu tiempo libre?",
+     "ko": "너는 보통 여가 시간에 뭘 하니?"
+    },
+    {
+     "t": 1031.0,
+     "s": "W",
+     "es": "voluntario, voluntaria",
+     "ko": "자원봉사자; 자발적인"
+    },
+    {
+     "t": 1037.1,
+     "s": "E",
+     "es": "Un grupo de voluntarios vinieron a ayudar a los heridos del accidente.",
+     "ko": "자원봉사자 한 무리가 사고 부상자들을 도우러 왔다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 5. Fiesta, celebración · 파티, 축하",
+   "lines": [
+    {
+     "t": 1056.9,
+     "s": "W",
+     "es": "aniversario",
+     "ko": "기념일"
+    },
+    {
+     "t": 1060.8,
+     "s": "E",
+     "es": "El quinto aniversario del colegio cae esta semana.",
+     "ko": "학교 개교 5주년 기념일이 이번 주다."
+    },
+    {
+     "t": 1065.5,
+     "s": "W",
+     "es": "banquete",
+     "ko": "연회, 피로연"
+    },
+    {
+     "t": 1067.9,
+     "s": "E",
+     "es": "En su boda ofrecieron un banquete muy lujoso.",
+     "ko": "그들은 결혼식에서 아주 호화로운 피로연을 베풀었다."
+    },
+    {
+     "t": 1074.2,
+     "s": "W",
+     "es": "boda",
+     "ko": "결혼식"
+    },
+    {
+     "t": 1077.1,
+     "s": "E",
+     "es": "Me compré un vestido para ir a la boda de mi prima Ana.",
+     "ko": "사촌 아나의 결혼식에 가려고 원피스를 샀다."
+    },
+    {
+     "t": 1082.5,
+     "s": "W",
+     "es": "brindis",
+     "ko": "건배"
+    },
+    {
+     "t": 1085.9,
+     "s": "E",
+     "es": "Hicieron un brindis en honor de los novios.",
+     "ko": "그들은 신랑 신부를 위해 건배했다."
+    },
+    {
+     "t": 1090.3,
+     "s": "W",
+     "es": "carnaval",
+     "ko": "카니발, 사육제"
+    },
+    {
+     "t": 1094.3,
+     "s": "E",
+     "es": "El Carnaval de Río de Janeiro es el más famoso del mundo.",
+     "ko": "리우데자네이루 카니발은 세계에서 가장 유명하다."
+    },
+    {
+     "t": 1100.0,
+     "s": "W",
+     "es": "celebración",
+     "ko": "축하, 기념행사, 개최"
+    },
+    {
+     "t": 1100.0,
+     "s": "E",
+     "es": "La celebración de los Juegos Olímpicos fue todo un éxito para el país organizador.",
+     "ko": "올림픽 개최는 주최국에게 대성공이었다."
+    },
+    {
+     "t": 1114.4,
+     "s": "W",
+     "es": "ceremonia",
+     "ko": "의식, 식"
+    },
+    {
+     "t": 1116.3,
+     "s": "E",
+     "es": "Ayer tuvo lugar la ceremonia de apertura de los Juegos Olímpicos.",
+     "ko": "어제 올림픽 개막식이 열렸다."
+    },
+    {
+     "t": 1123.8,
+     "s": "W",
+     "es": "cumpleaños",
+     "ko": "생일"
+    },
+    {
+     "t": 1125.7,
+     "s": "E",
+     "es": "Hoy han celebrado el cumpleaños de su hijo.",
+     "ko": "오늘 그들은 아들의 생일을 축하했다."
+    },
+    {
+     "t": 1131.2,
+     "s": "W",
+     "es": "Día de los Reyes Magos",
+     "ko": "동방박사의 날 (1월 6일)"
+    },
+    {
+     "t": 1135.7,
+     "s": "E",
+     "es": "El día 6 de enero de cada año se celebra el Día de los Reyes Magos.",
+     "ko": "매년 1월 6일에는 동방박사의 날을 기념한다."
+    },
+    {
+     "t": 1143.3,
+     "s": "W",
+     "es": "evento",
+     "ko": "행사, 이벤트"
+    },
+    {
+     "t": 1147.3,
+     "s": "E",
+     "es": "El evento dejó sin palabras a la gente.",
+     "ko": "그 행사는 사람들을 말문이 막히게 했다."
+    },
+    {
+     "t": 1151.7,
+     "s": "W",
+     "es": "feria",
+     "ko": "박람회, 바자, 축제"
+    },
+    {
+     "t": 1157.8,
+     "s": "E",
+     "es": "En la Feria de Sevilla conocí a mi mujer.",
+     "ko": "세비야 축제에서 나는 아내를 만났다."
+    },
+    {
+     "t": 1162.1,
+     "s": "W",
+     "es": "fiesta",
+     "ko": "파티, 축제"
+    },
+    {
+     "t": 1167.1,
+     "s": "E",
+     "es": "Montaremos una fiesta sorpresa para Javier.",
+     "ko": "우리는 하비에르를 위해 깜짝 파티를 열 것이다."
+    },
+    {
+     "t": 1176.9,
+     "s": "W",
+     "es": "fuegos artificiales",
+     "ko": "불꽃놀이"
+    },
+    {
+     "t": 1176.9,
+     "s": "E",
+     "es": "Los fuegos artificiales se usan en las fiestas como diversión.",
+     "ko": "불꽃놀이는 축제에서 오락으로 쓰인다."
+    },
+    {
+     "t": 1183.4,
+     "s": "W",
+     "es": "invitación",
+     "ko": "초대, 초대장"
+    },
+    {
+     "t": 1185.7,
+     "s": "E",
+     "es": "Aceptó encantado la invitación a la fiesta.",
+     "ko": "그는 기꺼이 파티 초대를 받아들였다."
+    },
+    {
+     "t": 1191.0,
+     "s": "W",
+     "es": "luna de miel",
+     "ko": "신혼여행"
+    },
+    {
+     "t": 1194.2,
+     "s": "E",
+     "es": "Mi hermano va a Cuba de luna de miel.",
+     "ko": "우리 형은 쿠바로 신혼여행을 간다."
+    },
+    {
+     "t": 1199.9,
+     "s": "W",
+     "es": "Navidad",
+     "ko": "크리스마스, 성탄절"
+    },
+    {
+     "t": 1202.6,
+     "s": "E",
+     "es": "Pasaremos la Navidad en casa de los abuelos.",
+     "ko": "우리는 조부모님 댁에서 크리스마스를 보낼 것이다."
+    },
+    {
+     "t": 1208.1,
+     "s": "W",
+     "es": "Nochebuena",
+     "ko": "크리스마스이브 (12월 24일 밤)"
+    },
+    {
+     "t": 1214.6,
+     "s": "E",
+     "es": "Celebraremos la Nochebuena en casa.",
+     "ko": "우리는 크리스마스이브를 집에서 보낼 것이다."
+    },
+    {
+     "t": 1219.6,
+     "s": "W",
+     "es": "Nochevieja",
+     "ko": "섣달 그믐날 밤 (12월 31일 밤)"
+    },
+    {
+     "t": 1223.4,
+     "s": "E",
+     "es": "En Nochevieja, comemos doce uvas cuando suenan las campanadas de la medianoche.",
+     "ko": "12월 31일 밤에 우리는 자정의 종소리가 울릴 때 포도 열두 알을 먹는다."
+    },
+    {
+     "t": 1233.4,
+     "s": "W",
+     "es": "regalo",
+     "ko": "선물"
+    },
+    {
+     "t": 1234.9,
+     "s": "E",
+     "es": "Su regalo fue un viaje al extranjero.",
+     "ko": "그의 선물은 해외여행이었다."
+    },
+    {
+     "t": 1240.5,
+     "s": "W",
+     "es": "Semana Santa",
+     "ko": "성주간, 부활절 주간"
+    },
+    {
+     "t": 1245.7,
+     "s": "E",
+     "es": "En España celebran la Semana Santa por todo lo alto.",
+     "ko": "스페인에서는 성주간을 성대하게 기념한다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 6. Viaje · 여행",
+   "lines": [
+    {
+     "t": 1263.4,
+     "s": "W",
+     "es": "aduana",
+     "ko": "세관"
+    },
+    {
+     "t": 1263.4,
+     "s": "E",
+     "es": "Al pasar por la aduana nos registraron los bolsos.",
+     "ko": "세관을 통과할 때 우리 가방을 검사했다."
+    },
+    {
+     "t": 1270.2,
+     "s": "W",
+     "es": "agencia de viajes",
+     "ko": "여행사"
+    },
+    {
+     "t": 1274.9,
+     "s": "E",
+     "es": "Pasamos por una agencia de viajes para informarnos del horario del tren.",
+     "ko": "우리는 기차 시간표를 알아보려고 여행사에 들렀다."
+    },
+    {
+     "t": 1282.4,
+     "s": "W",
+     "es": "alojamiento",
+     "ko": "숙소, 숙박"
+    },
+    {
+     "t": 1282.4,
+     "s": "E",
+     "es": "Buscamos alojamiento barato para las vacaciones.",
+     "ko": "우리는 휴가 때 묵을 저렴한 숙소를 찾고 있다."
+    },
+    {
+     "t": 1289.2,
+     "s": "W",
+     "es": "botones",
+     "ko": "(호텔) 벨보이"
+    },
+    {
+     "t": 1289.2,
+     "s": "E",
+     "es": "Llamé al botones del hotel para preguntar por mi maleta.",
+     "ko": "내 여행 가방에 대해 물어보려고 호텔 벨보이를 불렀다."
+    },
+    {
+     "t": 1298.5,
+     "s": "W",
+     "es": "casco viejo",
+     "ko": "구시가지"
+    },
+    {
+     "t": 1298.5,
+     "s": "E",
+     "es": "En el casco viejo de la ciudad puede haber restos romanos.",
+     "ko": "도시의 구시가지에는 로마 시대 유적이 있을 수 있다."
+    },
+    {
+     "t": 1311.9,
+     "s": "W",
+     "es": "crucero",
+     "ko": "크루즈, 유람선 여행"
+    },
+    {
+     "t": 1311.9,
+     "s": "E",
+     "es": "Este verano haremos un crucero por el Caribe.",
+     "ko": "올여름 우리는 카리브해 크루즈 여행을 할 것이다."
+    },
+    {
+     "t": 1316.9,
+     "s": "W",
+     "es": "equipaje",
+     "ko": "짐, 수하물"
+    },
+    {
+     "t": 1322.2,
+     "s": "E",
+     "es": "Todavía no he hecho el equipaje y salgo dentro de tres horas hacia París.",
+     "ko": "아직 짐을 안 쌌는데 세 시간 뒤에 파리로 떠난다."
+    },
+    {
+     "t": 1328.5,
+     "s": "W",
+     "es": "escala",
+     "ko": "경유, 경유지"
+    },
+    {
+     "t": 1333.0,
+     "s": "E",
+     "es": "Tomó un vuelo de España a Perú con una escala en Río de Janeiro.",
+     "ko": "그는 리우데자네이루를 경유하는 스페인발 페루행 비행기를 탔다."
+    },
+    {
+     "t": 1340.4,
+     "s": "W",
+     "es": "extranjero, extranjera",
+     "ko": "외국, 외국인; 외국의"
+    },
+    {
+     "t": 1347.9,
+     "s": "E",
+     "es": "Buenos Aires tiene muchos atractivos para los extranjeros.",
+     "ko": "부에노스아이레스는 외국인에게 매력이 많은 곳이다."
+    },
+    {
+     "t": 1354.1,
+     "s": "W",
+     "es": "gratis",
+     "ko": "무료의, 무료로"
+    },
+    {
+     "t": 1358.1,
+     "s": "E",
+     "es": "La entrada al espectáculo es gratis.",
+     "ko": "그 공연은 입장이 무료다."
+    },
+    {
+     "t": 1363.3,
+     "s": "W",
+     "es": "guía",
+     "ko": "가이드, 안내서"
+    },
+    {
+     "t": 1366.7,
+     "s": "E",
+     "es": "Los turistas extranjeros consiguieron una guía de turismo de la ciudad.",
+     "ko": "외국인 관광객들은 그 도시의 관광 안내서를 구했다."
+    },
+    {
+     "t": 1372.5,
+     "s": "W",
+     "es": "habitación",
+     "ko": "방, 객실"
+    },
+    {
+     "t": 1376.1,
+     "s": "E",
+     "es": "Quiero reservar una habitación doble para tres noches.",
+     "ko": "더블룸을 3박 예약하고 싶다."
+    },
+    {
+     "t": 1381.4,
+     "s": "W",
+     "es": "hostal",
+     "ko": "호스텔, 저렴한 숙소"
+    },
+    {
+     "t": 1384.7,
+     "s": "E",
+     "es": "Buscaremos un hostal. Es más barato que un hotel.",
+     "ko": "호스텔을 찾아보자. 호텔보다 싸다."
+    },
+    {
+     "t": 1390.3,
+     "s": "W",
+     "es": "maleta",
+     "ko": "여행 가방, 트렁크"
+    },
+    {
+     "t": 1392.4,
+     "s": "E",
+     "es": "No encuentro la maleta de viaje.",
+     "ko": "여행 가방을 못 찾겠다."
+    },
+    {
+     "t": 1397.8,
+     "s": "W",
+     "es": "media pensión",
+     "ko": "2식 포함 숙박 (아침·저녁)"
+    },
+    {
+     "t": 1402.8,
+     "s": "E",
+     "es": "¿Qué incluye la media pensión de un hotel?",
+     "ko": "호텔의 하프 보드에는 무엇이 포함되나요?"
+    },
+    {
+     "t": 1408.4,
+     "s": "W",
+     "es": "monumento",
+     "ko": "기념물, 기념비"
+    },
+    {
+     "t": 1412.2,
+     "s": "E",
+     "es": "Enfrente de la casa en la que nació el escritor hay una plaza con un monumento dedicado a él.",
+     "ko": "그 작가가 태어난 집 맞은편에는 그에게 바친 기념비가 있는 광장이 있다."
+    },
+    {
+     "t": 1420.0,
+     "s": "W",
+     "es": "oficina de información",
+     "ko": "안내소, 관광 안내소"
+    },
+    {
+     "t": 1424.2,
+     "s": "E",
+     "es": "Cuando llegues a la ciudad, visita primero la oficina de información.",
+     "ko": "도시에 도착하면 먼저 관광 안내소에 가 봐."
+    },
+    {
+     "t": 1431.5,
+     "s": "W",
+     "es": "paisaje",
+     "ko": "풍경, 경치"
+    },
+    {
+     "t": 1434.0,
+     "s": "E",
+     "es": "Pararon junto al camino para mirar el paisaje.",
+     "ko": "그들은 경치를 보려고 길가에 멈췄다."
+    },
+    {
+     "t": 1439.6,
+     "s": "W",
+     "es": "Patrimonio de la Humanidad",
+     "ko": "인류 문화유산, 세계 유산"
+    },
+    {
+     "t": 1444.6,
+     "s": "E",
+     "es": "España es el segundo país con mayor número de bienes declarados Patrimonio de la Humanidad en el mundo, por detrás de Italia.",
+     "ko": "스페인은 이탈리아에 이어 세계에서 두 번째로 세계 유산이 많은 나라다."
+    },
+    {
+     "t": 1454.4,
+     "s": "W",
+     "es": "plano",
+     "ko": "(시내) 지도, 도면"
+    },
+    {
+     "t": 1456.7,
+     "s": "E",
+     "es": "¿Dónde puedo conseguir un plano de la ciudad?",
+     "ko": "시내 지도는 어디서 구할 수 있나요?"
+    },
+    {
+     "t": 1462.3,
+     "s": "W",
+     "es": "recepción",
+     "ko": "접수처, 프런트"
+    },
+    {
+     "t": 1465.4,
+     "s": "E",
+     "es": "En la recepción del gimnasio le darán la llave de la taquilla.",
+     "ko": "체육관 접수처에서 사물함 열쇠를 줄 것이다."
+    },
+    {
+     "t": 1473.4,
+     "s": "W",
+     "es": "reserva",
+     "ko": "예약"
+    },
+    {
+     "t": 1475.0,
+     "s": "E",
+     "es": "Ya he hecho la reserva del hotel.",
+     "ko": "호텔 예약은 이미 했다."
+    },
+    {
+     "t": 1480.9,
+     "s": "W",
+     "es": "ruinas",
+     "ko": "유적, 폐허"
+    },
+    {
+     "t": 1483.3,
+     "s": "E",
+     "es": "Cerca del hotel se encontraban las ruinas de un templo griego.",
+     "ko": "호텔 근처에 그리스 신전 유적이 있었다."
+    },
+    {
+     "t": 1490.1,
+     "s": "W",
+     "es": "seguro",
+     "ko": "보험"
+    },
+    {
+     "t": 1492.9,
+     "s": "E",
+     "es": "El automóvil tiene un seguro contra robos.",
+     "ko": "그 자동차는 도난 보험에 가입되어 있다."
+    },
+    {
+     "t": 1497.9,
+     "s": "W",
+     "es": "temporada alta",
+     "ko": "성수기"
+    },
+    {
+     "t": 1502.1,
+     "s": "E",
+     "es": "Conseguí un vuelo a Londres muy barato en temporada alta.",
+     "ko": "성수기에 아주 싼 런던행 항공편을 구했다."
+    },
+    {
+     "t": 1507.0,
+     "s": "W",
+     "es": "tienda de campaña",
+     "ko": "텐트"
+    },
+    {
+     "t": 1510.7,
+     "s": "E",
+     "es": "Montamos la tienda de campaña para pasar la noche.",
+     "ko": "우리는 밤을 보내려고 텐트를 쳤다."
+    },
+    {
+     "t": 1517.0,
+     "s": "W",
+     "es": "turismo",
+     "ko": "관광"
+    },
+    {
+     "t": 1519.3,
+     "s": "E",
+     "es": "Recorrió el este de Europa haciendo turismo.",
+     "ko": "그는 관광을 하며 동유럽을 돌아다녔다."
+    },
+    {
+     "t": 1524.6,
+     "s": "W",
+     "es": "vacaciones",
+     "ko": "방학, 휴가"
+    },
+    {
+     "t": 1529.3,
+     "s": "E",
+     "es": "Voy a tomar unas vacaciones de 20 días.",
+     "ko": "20일간 휴가를 낼 것이다."
+    },
+    {
+     "t": 1534.2,
+     "s": "W",
+     "es": "viajar",
+     "ko": "여행하다"
+    },
+    {
+     "t": 1537.3,
+     "s": "E",
+     "es": "¿Ha viajado mucho por Asia?",
+     "ko": "아시아를 많이 여행해 보셨어요?"
+    },
+    {
+     "t": 1541.5,
+     "s": "W",
+     "es": "visitar",
+     "ko": "방문하다"
+    },
+    {
+     "t": 1544.2,
+     "s": "E",
+     "es": "Me encanta visitar museos.",
+     "ko": "나는 박물관에 가는 것을 아주 좋아한다."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 10 · Unidad 1. Estado, política · 국가, 정치",
+   "lines": [
+    {
+     "t": 1582.4,
+     "s": "W",
+     "es": "campaña electoral",
+     "ko": "선거 운동, 선거 캠페인"
+    },
+    {
+     "t": 1588.7,
+     "s": "E",
+     "es": "La campaña electoral empieza mañana.",
+     "ko": "선거 운동은 내일 시작된다."
+    },
+    {
+     "t": 1593.1,
+     "s": "W",
+     "es": "candidato, candidata",
+     "ko": "후보, 후보자"
+    },
+    {
+     "t": 1597.4,
+     "s": "E",
+     "es": "El periodista entrevista a los tres candidatos.",
+     "ko": "기자가 세 후보를 인터뷰한다."
+    },
+    {
+     "t": 1602.2,
+     "s": "W",
+     "es": "ciudadano, ciudadana",
+     "ko": "시민"
+    },
+    {
+     "t": 1603.4,
+     "s": "E",
+     "es": "Todos los ciudadanos tienen derecho a vivir en paz.",
+     "ko": "모든 시민은 평화롭게 살 권리가 있다."
+    },
+    {
+     "t": 1613.2,
+     "s": "W",
+     "es": "congreso",
+     "ko": "의회, 하원"
+    },
+    {
+     "t": 1617.5,
+     "s": "E",
+     "es": "Las Cortes Generales españolas están formadas por el Senado y el Congreso de los Diputados.",
+     "ko": "스페인 의회는 상원과 하원으로 구성되어 있다."
+    },
+    {
+     "t": 1625.9,
+     "s": "W",
+     "es": "derecho",
+     "ko": "권리, 법"
+    },
+    {
+     "t": 1626.9,
+     "s": "E",
+     "es": "Todos tenemos derecho a una enseñanza pública de calidad.",
+     "ko": "우리 모두는 양질의 공교육을 받을 권리가 있다."
+    },
+    {
+     "t": 1634.3,
+     "s": "W",
+     "es": "dictadura",
+     "ko": "독재, 독재 기간"
+    },
+    {
+     "t": 1639.7,
+     "s": "E",
+     "es": "Durante la dictadura se restringió gravemente la libertad de expresión.",
+     "ko": "독재 기간에는 표현의 자유가 심하게 제한되었다."
+    },
+    {
+     "t": 1646.6,
+     "s": "W",
+     "es": "diplomático, diplomática",
+     "ko": "외교관; 외교의"
+    },
+    {
+     "t": 1651.3,
+     "s": "E",
+     "es": "Para negociar las condiciones de paz, cada nación en guerra ha enviado a su diplomático.",
+     "ko": "평화 조건을 협상하기 위해 전쟁 중인 각국이 외교관을 보냈다."
+    },
+    {
+     "t": 1658.3,
+     "s": "W",
+     "es": "diputado, diputada",
+     "ko": "국회의원, 하원 의원"
+    },
+    {
+     "t": 1664.8,
+     "s": "E",
+     "es": "Los diputados ejercen su labor en el Congreso.",
+     "ko": "하원 의원들은 의회에서 업무를 수행한다."
+    },
+    {
+     "t": 1670.7,
+     "s": "W",
+     "es": "ejército",
+     "ko": "군대"
+    },
+    {
+     "t": 1673.6,
+     "s": "E",
+     "es": "Nuestro ejército derrotó al enemigo.",
+     "ko": "우리 군대가 적을 물리쳤다."
+    },
+    {
+     "t": 1678.7,
+     "s": "W",
+     "es": "elecciones",
+     "ko": "선거"
+    },
+    {
+     "t": 1682.5,
+     "s": "E",
+     "es": "Hoy se llevan a cabo las elecciones presidenciales.",
+     "ko": "오늘 대통령 선거가 실시된다."
+    },
+    {
+     "t": 1688.2,
+     "s": "W",
+     "es": "embajada",
+     "ko": "대사관"
+    },
+    {
+     "t": 1691.5,
+     "s": "E",
+     "es": "Los residentes en el extranjero tienen que comunicar su residencia a la embajada.",
+     "ko": "해외 거주자는 대사관에 거주지를 신고해야 한다."
+    },
+    {
+     "t": 1698.2,
+     "s": "W",
+     "es": "Estado",
+     "ko": "국가"
+    },
+    {
+     "t": 1701.7,
+     "s": "E",
+     "es": "El Estado español está dividido en comunidades autónomas.",
+     "ko": "스페인이라는 국가는 자치 지방들로 나뉘어 있다."
+    },
+    {
+     "t": 1707.5,
+     "s": "W",
+     "es": "exilio",
+     "ko": "망명"
+    },
+    {
+     "t": 1710.9,
+     "s": "E",
+     "es": "El exilio le resultó muy doloroso.",
+     "ko": "망명 생활은 그에게 매우 고통스러웠다."
+    },
+    {
+     "t": 1718.2,
+     "s": "W",
+     "es": "frontera",
+     "ko": "국경"
+    },
+    {
+     "t": 1718.2,
+     "s": "E",
+     "es": "No hemos tenido ningún problema al cruzar la frontera.",
+     "ko": "국경을 넘을 때 아무 문제도 없었다."
+    },
+    {
+     "t": 1724.7,
+     "s": "W",
+     "es": "gobierno",
+     "ko": "정부"
+    },
+    {
+     "t": 1724.7,
+     "s": "E",
+     "es": "El gobierno está formado por el presidente y sus ministros.",
+     "ko": "정부는 대통령과 장관들로 구성된다."
+    },
+    {
+     "t": 1733.4,
+     "s": "W",
+     "es": "golpe de estado",
+     "ko": "쿠데타"
+    },
+    {
+     "t": 1733.4,
+     "s": "E",
+     "es": "Los militares intentaron dar un golpe de estado.",
+     "ko": "군인들이 쿠데타를 시도했다."
+    },
+    {
+     "t": 1742.3,
+     "s": "W",
+     "es": "guerra",
+     "ko": "전쟁"
+    },
+    {
+     "t": 1742.3,
+     "s": "E",
+     "es": "Ambos países llevan años en guerra.",
+     "ko": "두 나라는 몇 년째 전쟁 중이다."
+    },
+    {
+     "t": 1750.7,
+     "s": "W",
+     "es": "militar",
+     "ko": "군인; 군대의"
+    },
+    {
+     "t": 1750.7,
+     "s": "E",
+     "es": "Era hija de un militar.",
+     "ko": "그녀는 군인의 딸이었다."
+    },
+    {
+     "t": 1759.4,
+     "s": "W",
+     "es": "ministro, ministra",
+     "ko": "장관"
+    },
+    {
+     "t": 1759.4,
+     "s": "E",
+     "es": "El ministro del Interior ha dado una rueda de prensa para informar del atentado terrorista.",
+     "ko": "내무부 장관이 테러 공격에 대해 알리기 위해 기자 회견을 열었다."
+    },
+    {
+     "t": 1771.6,
+     "s": "W",
+     "es": "monarquía",
+     "ko": "군주제, 왕실"
+    },
+    {
+     "t": 1776.3,
+     "s": "E",
+     "es": "A la boda asistieron representantes de la monarquía española.",
+     "ko": "결혼식에 스페인 왕실 대표들이 참석했다."
+    },
+    {
+     "t": 1781.9,
+     "s": "W",
+     "es": "mundo",
+     "ko": "세계, 세상"
+    },
+    {
+     "t": 1785.3,
+     "s": "E",
+     "es": "En el mundo todavía hay gente que se muere de hambre.",
+     "ko": "세상에는 아직도 굶어 죽는 사람들이 있다."
+    },
+    {
+     "t": 1789.9,
+     "s": "W",
+     "es": "nación",
+     "ko": "국가, 국민"
+    },
+    {
+     "t": 1793.1,
+     "s": "E",
+     "es": "El presidente se dirigió a toda la nación en su discurso.",
+     "ko": "대통령은 연설에서 전 국민에게 말했다."
+    },
+    {
+     "t": 1800.0,
+     "s": "W",
+     "es": "partido político",
+     "ko": "정당"
+    },
+    {
+     "t": 1804.3,
+     "s": "E",
+     "es": "En las elecciones de mayo ganó el Partido Republicano.",
+     "ko": "5월 선거에서 공화당이 이겼다."
+    },
+    {
+     "t": 1809.3,
+     "s": "W",
+     "es": "poder",
+     "ko": "정권, 권력"
+    },
+    {
+     "t": 1813.8,
+     "s": "E",
+     "es": "El presidente llegó al poder siendo muy joven.",
+     "ko": "대통령은 아주 젊은 나이에 권력을 잡았다."
+    },
+    {
+     "t": 1819.0,
+     "s": "W",
+     "es": "política",
+     "ko": "정치"
+    },
+    {
+     "t": 1821.3,
+     "s": "E",
+     "es": "Queremos una política honesta.",
+     "ko": "우리는 정직한 정치를 원한다."
+    },
+    {
+     "t": 1827.0,
+     "s": "W",
+     "es": "portavoz",
+     "ko": "대변인"
+    },
+    {
+     "t": 1830.0,
+     "s": "E",
+     "es": "El portavoz del gobierno se enfrentó con el periodista.",
+     "ko": "정부 대변인이 그 기자와 맞섰다."
+    },
+    {
+     "t": 1836.2,
+     "s": "W",
+     "es": "presidente, presidenta",
+     "ko": "대통령, 회장"
+    },
+    {
+     "t": 1841.3,
+     "s": "E",
+     "es": "El presidente anunció el término de la guerra.",
+     "ko": "대통령이 전쟁 종식을 발표했다."
+    },
+    {
+     "t": 1846.1,
+     "s": "W",
+     "es": "pueblo",
+     "ko": "민족, 민중, 대중; 마을"
+    },
+    {
+     "t": 1852.0,
+     "s": "E",
+     "es": "Voz del pueblo, voz de Dios.",
+     "ko": "민심은 천심이다."
+    },
+    {
+     "t": 1856.0,
+     "s": "W",
+     "es": "rey, reina",
+     "ko": "왕, 여왕, 왕비"
+    },
+    {
+     "t": 1862.5,
+     "s": "E",
+     "es": "Érase una vez un rey que tenía tres hijas.",
+     "ko": "옛날 옛적에 딸 셋을 둔 왕이 있었다."
+    },
+    {
+     "t": 1867.0,
+     "s": "W",
+     "es": "votar",
+     "ko": "투표하다"
+    },
+    {
+     "t": 1872.1,
+     "s": "E",
+     "es": "Todos los coreanos mayores de 18 años tienen derecho a votar.",
+     "ko": "18세 이상의 모든 한국인은 투표할 권리가 있다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Ley, policía · 법, 경찰",
+   "lines": [
+    {
+     "t": 1892.1,
+     "s": "W",
+     "es": "acusado, acusada",
+     "ko": "피고"
+    },
+    {
+     "t": 1896.9,
+     "s": "E",
+     "es": "El juez declaró culpable al acusado.",
+     "ko": "판사는 피고에게 유죄를 선고했다."
+    },
+    {
+     "t": 1901.9,
+     "s": "W",
+     "es": "arma",
+     "ko": "무기"
+    },
+    {
+     "t": 1901.9,
+     "s": "E",
+     "es": "Las armas nucleares son un peligro para la humanidad y para el planeta.",
+     "ko": "핵무기는 인류와 지구에 위험하다."
+    },
+    {
+     "t": 1911.4,
+     "s": "W",
+     "es": "asesino, asesina",
+     "ko": "살인자"
+    },
+    {
+     "t": 1911.4,
+     "s": "E",
+     "es": "El asesino fue condenado a la máxima pena.",
+     "ko": "살인범은 최고형을 선고받았다."
+    },
+    {
+     "t": 1920.4,
+     "s": "W",
+     "es": "cárcel",
+     "ko": "감옥, 교도소"
+    },
+    {
+     "t": 1920.4,
+     "s": "E",
+     "es": "En su pueblo hay una cárcel de mujeres.",
+     "ko": "그의 마을에는 여자 교도소가 있다."
+    },
+    {
+     "t": 1927.8,
+     "s": "W",
+     "es": "carné de identidad",
+     "ko": "신분증"
+    },
+    {
+     "t": 1932.2,
+     "s": "E",
+     "es": "Aquel día dejaste tu carné de identidad en mi casa.",
+     "ko": "그날 너는 신분증을 우리 집에 두고 갔다."
+    },
+    {
+     "t": 1937.7,
+     "s": "W",
+     "es": "coche bomba",
+     "ko": "차량 폭탄"
+    },
+    {
+     "t": 1941.8,
+     "s": "E",
+     "es": "Un coche bomba estalló al pasar otro coche.",
+     "ko": "다른 차가 지나갈 때 차량 폭탄이 터졌다."
+    },
+    {
+     "t": 1947.0,
+     "s": "W",
+     "es": "coche patrulla",
+     "ko": "경찰차, 순찰차"
+    },
+    {
+     "t": 1951.8,
+     "s": "E",
+     "es": "Me despertó la sirena de una patrulla.",
+     "ko": "순찰차 사이렌 소리에 잠이 깼다."
+    },
+    {
+     "t": 1957.5,
+     "s": "W",
+     "es": "comisaría",
+     "ko": "경찰서"
+    },
+    {
+     "t": 1960.8,
+     "s": "E",
+     "es": "Acompáñeme, por favor, a la comisaría.",
+     "ko": "경찰서까지 같이 가 주시죠."
+    },
+    {
+     "t": 1965.9,
+     "s": "W",
+     "es": "Constitución",
+     "ko": "헌법"
+    },
+    {
+     "t": 1968.6,
+     "s": "E",
+     "es": "La actual Constitución de España se aprobó en diciembre de 1978.",
+     "ko": "스페인의 현행 헌법은 1978년 12월에 승인되었다."
+    },
+    {
+     "t": 1976.4,
+     "s": "W",
+     "es": "crimen",
+     "ko": "중죄, 범죄"
+    },
+    {
+     "t": 1980.4,
+     "s": "E",
+     "es": "Hacer trabajar a un niño de seis años es un crimen imperdonable.",
+     "ko": "여섯 살 아이에게 일을 시키는 것은 용서할 수 없는 범죄다."
+    },
+    {
+     "t": 1986.9,
+     "s": "W",
+     "es": "culpable",
+     "ko": "죄인; 죄가 있는"
+    },
+    {
+     "t": 1991.9,
+     "s": "E",
+     "es": "Aquel es el culpable del asesinato.",
+     "ko": "저 사람이 살인의 범인이다."
+    },
+    {
+     "t": 1997.1,
+     "s": "W",
+     "es": "delincuente",
+     "ko": "범죄자"
+    },
+    {
+     "t": 1999.2,
+     "s": "E",
+     "es": "La droga lo convirtió en un delincuente.",
+     "ko": "마약이 그를 범죄자로 만들었다."
+    },
+    {
+     "t": 2005.0,
+     "s": "W",
+     "es": "delito",
+     "ko": "범죄, 위법 행위"
+    },
+    {
+     "t": 2010.1,
+     "s": "E",
+     "es": "Está en la cárcel por un delito de robo.",
+     "ko": "그는 절도죄로 감옥에 있다."
+    },
+    {
+     "t": 2016.3,
+     "s": "W",
+     "es": "denunciar",
+     "ko": "고소하다, 고발하다, 신고하다"
+    },
+    {
+     "t": 2016.3,
+     "s": "E",
+     "es": "Los chicos denunciaron el robo de los documentos.",
+     "ko": "아이들은 서류 도난을 신고했다."
+    },
+    {
+     "t": 2027.1,
+     "s": "W",
+     "es": "detective",
+     "ko": "탐정, 형사"
+    },
+    {
+     "t": 2027.1,
+     "s": "E",
+     "es": "Sherlock Holmes es el detective más famoso de la literatura.",
+     "ko": "셜록 홈스는 문학에서 가장 유명한 탐정이다."
+    },
+    {
+     "t": 2038.4,
+     "s": "W",
+     "es": "detener",
+     "ko": "체포하다, 멈추게 하다"
+    },
+    {
+     "t": 2038.4,
+     "s": "E",
+     "es": "La policía soltó al joven que acababa de detener.",
+     "ko": "경찰은 방금 체포한 청년을 풀어 주었다."
+    },
+    {
+     "t": 2046.1,
+     "s": "W",
+     "es": "discriminación",
+     "ko": "차별"
+    },
+    {
+     "t": 2046.1,
+     "s": "E",
+     "es": "Aún es muy alto el grado de discriminación sexual en el mundo.",
+     "ko": "세계적으로 성차별 정도는 아직도 매우 높다."
+    },
+    {
+     "t": 2057.5,
+     "s": "W",
+     "es": "disparar",
+     "ko": "쏘다, 발사하다"
+    },
+    {
+     "t": 2057.5,
+     "s": "E",
+     "es": "Disparó su última bala.",
+     "ko": "그는 마지막 총알을 쏘았다."
+    },
+    {
+     "t": 2065.6,
+     "s": "W",
+     "es": "documentación",
+     "ko": "서류, 신분 증명서"
+    },
+    {
+     "t": 2065.6,
+     "s": "E",
+     "es": "Si la policía te pide la documentación del coche, tendrás que enseñársela.",
+     "ko": "경찰이 차량 서류를 요구하면 보여 줘야 한다."
+    },
+    {
+     "t": 2074.8,
+     "s": "W",
+     "es": "fiscal",
+     "ko": "검사, 검찰"
+    },
+    {
+     "t": 2079.0,
+     "s": "E",
+     "es": "El fiscal pidió una condena de cinco años de cárcel para el acusado.",
+     "ko": "검사는 피고에게 징역 5년을 구형했다."
+    },
+    {
+     "t": 2086.2,
+     "s": "W",
+     "es": "guerra",
+     "ko": "전쟁"
+    },
+    {
+     "t": 2089.0,
+     "s": "E",
+     "es": "¿Por qué la religión provoca guerras?",
+     "ko": "왜 종교는 전쟁을 일으킬까?"
+    },
+    {
+     "t": 2094.2,
+     "s": "W",
+     "es": "herir",
+     "ko": "상처를 입히다, 다치게 하다"
+    },
+    {
+     "t": 2099.3,
+     "s": "E",
+     "es": "El hombre lo hirió gravemente con un cuchillo.",
+     "ko": "그 남자는 칼로 그에게 중상을 입혔다."
+    },
+    {
+     "t": 2104.7,
+     "s": "W",
+     "es": "huella digital",
+     "ko": "지문"
+    },
+    {
+     "t": 2108.7,
+     "s": "E",
+     "es": "Mi pasaporte lleva impresa mi huella digital.",
+     "ko": "내 여권에는 내 지문이 찍혀 있다."
+    },
+    {
+     "t": 2113.5,
+     "s": "W",
+     "es": "igualdad",
+     "ko": "평등"
+    },
+    {
+     "t": 2117.3,
+     "s": "E",
+     "es": "En esta empresa todos tienen igualdad de condiciones.",
+     "ko": "이 회사에서는 모두가 동등한 조건을 갖는다."
+    },
+    {
+     "t": 2122.9,
+     "s": "W",
+     "es": "ilegal",
+     "ko": "불법의"
+    },
+    {
+     "t": 2123.7,
+     "s": "E",
+     "es": "Es ilegal comprar y vender discos piratas.",
+     "ko": "해적판 음반을 사고파는 것은 불법이다."
+    },
+    {
+     "t": 2132.3,
+     "s": "W",
+     "es": "inocente",
+     "ko": "결백한 (사람), 순진한, 무죄의"
+    },
+    {
+     "t": 2140.3,
+     "s": "E",
+     "es": "La jueza declara inocente al acusado.",
+     "ko": "판사는 피고에게 무죄를 선고한다."
+    },
+    {
+     "t": 2144.3,
+     "s": "W",
+     "es": "insultar",
+     "ko": "욕하다, 모욕하다"
+    },
+    {
+     "t": 2148.3,
+     "s": "E",
+     "es": "Los aficionados del Real Madrid insultaron al equipo visitante.",
+     "ko": "레알 마드리드 팬들은 원정 팀에게 욕을 했다."
+    },
+    {
+     "t": 2153.7,
+     "s": "W",
+     "es": "jurado",
+     "ko": "배심원단, 심사위원단"
+    },
+    {
+     "t": 2159.9,
+     "s": "E",
+     "es": "Fui jurado en un concurso de poesía.",
+     "ko": "나는 시 경연 대회의 심사위원을 맡았다."
+    },
+    {
+     "t": 2164.9,
+     "s": "W",
+     "es": "justicia",
+     "ko": "정의, 사법, 사법부"
+    },
+    {
+     "t": 2169.3,
+     "s": "E",
+     "es": "El delincuente cayó en manos de la justicia.",
+     "ko": "그 범죄자는 사법 당국의 손에 넘어갔다."
+    },
+    {
+     "t": 2174.8,
+     "s": "W",
+     "es": "juzgar",
+     "ko": "재판하다, 판단하다"
+    },
+    {
+     "t": 2179.7,
+     "s": "E",
+     "es": "Lo van a juzgar por un caso de racismo.",
+     "ko": "그는 인종 차별 사건으로 재판을 받을 것이다."
+    },
+    {
+     "t": 2185.1,
+     "s": "W",
+     "es": "ladrón, ladrona",
+     "ko": "도둑"
+    },
+    {
+     "t": 2189.4,
+     "s": "E",
+     "es": "Han detenido al ladrón que robó en la joyería.",
+     "ko": "보석 가게를 턴 도둑이 체포되었다."
+    },
+    {
+     "t": 2193.8,
+     "s": "W",
+     "es": "ley",
+     "ko": "법, 법률"
+    },
+    {
+     "t": 2197.9,
+     "s": "E",
+     "es": "Todos los ciudadanos deben respetar la ley.",
+     "ko": "모든 시민은 법을 지켜야 한다."
+    },
+    {
+     "t": 2202.4,
+     "s": "W",
+     "es": "matar",
+     "ko": "죽이다, 살해하다"
+    },
+    {
+     "t": 2206.9,
+     "s": "E",
+     "es": "El cartero mató a su esposa.",
+     "ko": "그 집배원은 아내를 살해했다."
+    },
+    {
+     "t": 2211.5,
+     "s": "W",
+     "es": "multa",
+     "ko": "벌금"
+    },
+    {
+     "t": 2212.7,
+     "s": "E",
+     "es": "Me pusieron una multa por dejar el coche mal aparcado.",
+     "ko": "차를 잘못 주차해서 벌금을 물었다."
+    },
+    {
+     "t": 2219.9,
+     "s": "W",
+     "es": "pena de muerte",
+     "ko": "사형"
+    },
+    {
+     "t": 2222.2,
+     "s": "E",
+     "es": "Lo han condenado a la pena de muerte.",
+     "ko": "그는 사형을 선고받았다."
+    },
+    {
+     "t": 2228.1,
+     "s": "W",
+     "es": "pistola",
+     "ko": "권총"
+    },
+    {
+     "t": 2230.0,
+     "s": "E",
+     "es": "El chico apuntaba con su pistola al cajero del banco.",
+     "ko": "그 청년은 은행 창구 직원에게 권총을 겨누고 있었다."
+    },
+    {
+     "t": 2236.6,
+     "s": "W",
+     "es": "raza",
+     "ko": "인종, 혈통, 품종"
+    },
+    {
+     "t": 2240.0,
+     "s": "E",
+     "es": "Compraron un perro de raza.",
+     "ko": "그들은 순종 개를 샀다."
+    },
+    {
+     "t": 2244.2,
+     "s": "W",
+     "es": "robar",
+     "ko": "훔치다, 도둑질하다"
+    },
+    {
+     "t": 2248.6,
+     "s": "E",
+     "es": "Ayer los ladrones robaron el banco.",
+     "ko": "어제 도둑들이 은행을 털었다."
+    },
+    {
+     "t": 2254.0,
+     "s": "W",
+     "es": "secuestro",
+     "ko": "납치"
+    },
+    {
+     "t": 2256.9,
+     "s": "E",
+     "es": "El secuestro del empresario ha terminado felizmente.",
+     "ko": "기업가 납치 사건은 다행히 무사히 끝났다."
+    },
+    {
+     "t": 2261.6,
+     "s": "W",
+     "es": "sospechoso, sospechosa",
+     "ko": "용의자; 의심스러운"
+    },
+    {
+     "t": 2267.6,
+     "s": "E",
+     "es": "Sus palabras tienen un aire sospechoso.",
+     "ko": "그의 말에는 수상쩍은 데가 있다."
+    },
+    {
+     "t": 2272.6,
+     "s": "W",
+     "es": "testigo",
+     "ko": "증인"
+    },
+    {
+     "t": 2275.3,
+     "s": "E",
+     "es": "Las huellas son testigo de tu presencia en la casa.",
+     "ko": "발자국이 네가 그 집에 있었다는 증거다."
+    },
+    {
+     "t": 2279.0,
+     "s": "W",
+     "es": "víctima",
+     "ko": "희생자, 피해자"
+    },
+    {
+     "t": 2284.3,
+     "s": "E",
+     "es": "Todas las guerras causan muchas víctimas.",
+     "ko": "모든 전쟁은 많은 희생자를 낳는다."
+    },
+    {
+     "t": 2289.3,
+     "s": "W",
+     "es": "vigilar",
+     "ko": "감시하다, 지키다"
+    },
+    {
+     "t": 2294.2,
+     "s": "E",
+     "es": "Doña María vigilaba a sus hijos mientras jugaban por la casa.",
+     "ko": "마리아 부인은 아이들이 집 안에서 노는 동안 지켜보고 있었다."
+    },
+    {
+     "t": 2300.8,
+     "s": "W",
+     "es": "violencia",
+     "ko": "폭력"
+    },
+    {
+     "t": 2304.1,
+     "s": "E",
+     "es": "No debes tratar a nadie con violencia.",
+     "ko": "누구에게도 폭력적으로 대해서는 안 된다."
+    },
+    {
+     "t": 2308.9,
+     "s": "W",
+     "es": "visado",
+     "ko": "비자"
+    },
+    {
+     "t": 2312.0,
+     "s": "E",
+     "es": "Para entrar en ese país necesitas el visado de su embajada.",
+     "ko": "그 나라에 들어가려면 그 나라 대사관의 비자가 필요하다."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 11 · Unidad 1. Economía · 경제",
+   "lines": [
+    {
+     "t": 2349.3,
+     "s": "W",
+     "es": "acciones",
+     "ko": "주식"
+    },
+    {
+     "t": 2352.0,
+     "s": "E",
+     "es": "Mi padre invirtió todo su capital en la compra de acciones.",
+     "ko": "아버지는 자본 전부를 주식 매입에 투자하셨다."
+    },
+    {
+     "t": 2358.3,
+     "s": "W",
+     "es": "ahorro",
+     "ko": "저축, 절약"
+    },
+    {
+     "t": 2358.3,
+     "s": "E",
+     "es": "Ella usó sus ahorros de la cuenta bancaria.",
+     "ko": "그녀는 은행 계좌의 저축을 썼다."
+    },
+    {
+     "t": 2367.6,
+     "s": "W",
+     "es": "billete",
+     "ko": "지폐; 표"
+    },
+    {
+     "t": 2367.6,
+     "s": "E",
+     "es": "El billete de 20 euros es de color azul.",
+     "ko": "20유로 지폐는 파란색이다."
+    },
+    {
+     "t": 2376.2,
+     "s": "W",
+     "es": "bolsa",
+     "ko": "증시, 증권 거래소"
+    },
+    {
+     "t": 2382.7,
+     "s": "E",
+     "es": "Teresa ha ganado mucho dinero invirtiendo en bolsa.",
+     "ko": "테레사는 주식에 투자해서 돈을 많이 벌었다."
+    },
+    {
+     "t": 2388.0,
+     "s": "W",
+     "es": "capital",
+     "ko": "자본"
+    },
+    {
+     "t": 2390.8,
+     "s": "E",
+     "es": "Esto es todo mi capital.",
+     "ko": "이게 내 전 재산이다."
+    },
+    {
+     "t": 2394.9,
+     "s": "W",
+     "es": "cobrar",
+     "ko": "돈을 받다, 수금하다"
+    },
+    {
+     "t": 2397.8,
+     "s": "E",
+     "es": "Cada mes cobramos un sueldo por nuestro trabajo.",
+     "ko": "우리는 매달 일한 대가로 월급을 받는다."
+    },
+    {
+     "t": 2404.2,
+     "s": "W",
+     "es": "coste",
+     "ko": "비용"
+    },
+    {
+     "t": 2407.0,
+     "s": "E",
+     "es": "Nos costó decidirnos porque el coste era muy alto.",
+     "ko": "비용이 너무 높아서 결정하기 힘들었다."
+    },
+    {
+     "t": 2414.3,
+     "s": "W",
+     "es": "cuenta",
+     "ko": "은행 계좌, 계산, 계산서"
+    },
+    {
+     "t": 2418.8,
+     "s": "E",
+     "es": "Guardo mis ahorros en la cuenta del banco.",
+     "ko": "나는 저축한 돈을 은행 계좌에 넣어 둔다."
+    },
+    {
+     "t": 2423.5,
+     "s": "W",
+     "es": "cuota",
+     "ko": "요금, 할부금, 회비"
+    },
+    {
+     "t": 2429.1,
+     "s": "E",
+     "es": "La cuota mensual del club es de 100 euros.",
+     "ko": "그 클럽의 월 회비는 100유로다."
+    },
+    {
+     "t": 2434.9,
+     "s": "W",
+     "es": "demanda",
+     "ko": "수요, 요구"
+    },
+    {
+     "t": 2440.1,
+     "s": "E",
+     "es": "Ese producto no tiene demanda.",
+     "ko": "그 제품은 수요가 없다."
+    },
+    {
+     "t": 2444.7,
+     "s": "W",
+     "es": "desarrollarse",
+     "ko": "발전하다"
+    },
+    {
+     "t": 2448.1,
+     "s": "E",
+     "es": "Corea se desarrolló muchísimo en los años 80.",
+     "ko": "한국은 80년대에 엄청나게 발전했다."
+    },
+    {
+     "t": 2453.7,
+     "s": "W",
+     "es": "dinero",
+     "ko": "돈"
+    },
+    {
+     "t": 2455.5,
+     "s": "E",
+     "es": "El joven heredó mucho dinero.",
+     "ko": "그 청년은 많은 돈을 상속받았다."
+    },
+    {
+     "t": 2461.3,
+     "s": "W",
+     "es": "economía",
+     "ko": "경제"
+    },
+    {
+     "t": 2462.4,
+     "s": "E",
+     "es": "Hay que mejorar la economía familiar.",
+     "ko": "가계 경제를 개선해야 한다."
+    },
+    {
+     "t": 2470.2,
+     "s": "W",
+     "es": "exportación",
+     "ko": "수출"
+    },
+    {
+     "t": 2471.3,
+     "s": "E",
+     "es": "Esta empresa se dedica a la exportación de ropa.",
+     "ko": "이 회사는 의류 수출을 한다."
+    },
+    {
+     "t": 2477.7,
+     "s": "W",
+     "es": "fábrica",
+     "ko": "공장"
+    },
+    {
+     "t": 2481.3,
+     "s": "E",
+     "es": "Este producto viene mal de fábrica.",
+     "ko": "이 제품은 공장에서부터 불량으로 나왔다."
+    },
+    {
+     "t": 2487.0,
+     "s": "W",
+     "es": "firma",
+     "ko": "서명"
+    },
+    {
+     "t": 2487.0,
+     "s": "E",
+     "es": "Un cheque sin firma no tiene validez.",
+     "ko": "서명이 없는 수표는 효력이 없다."
+    },
+    {
+     "t": 2496.4,
+     "s": "W",
+     "es": "gasto",
+     "ko": "지출, 비용"
+    },
+    {
+     "t": 2496.4,
+     "s": "E",
+     "es": "Tengo muchos gastos este mes.",
+     "ko": "이번 달에는 지출이 많다."
+    },
+    {
+     "t": 2503.8,
+     "s": "W",
+     "es": "herencia",
+     "ko": "유산, 상속"
+    },
+    {
+     "t": 2503.8,
+     "s": "E",
+     "es": "Según su derecho de herencia, le pertenece la mitad de los bienes.",
+     "ko": "상속권에 따라 재산의 절반이 그의 것이다."
+    },
+    {
+     "t": 2514.6,
+     "s": "W",
+     "es": "hipoteca",
+     "ko": "주택 담보 대출"
+    },
+    {
+     "t": 2518.4,
+     "s": "E",
+     "es": "El año pasado cancelamos la hipoteca del apartamento.",
+     "ko": "작년에 우리는 아파트 주택 담보 대출을 다 갚았다."
+    },
+    {
+     "t": 2523.7,
+     "s": "W",
+     "es": "impuesto",
+     "ko": "세금"
+    },
+    {
+     "t": 2527.4,
+     "s": "E",
+     "es": "El IVA es un impuesto.",
+     "ko": "부가가치세는 세금의 하나다."
+    },
+    {
+     "t": 2531.3,
+     "s": "W",
+     "es": "industria",
+     "ko": "산업, 제조업, 공장"
+    },
+    {
+     "t": 2536.5,
+     "s": "E",
+     "es": "Esta ciudad es un importante núcleo de la industria textil.",
+     "ko": "이 도시는 섬유 산업의 중요한 중심지다."
+    },
+    {
+     "t": 2543.6,
+     "s": "W",
+     "es": "interés",
+     "ko": "이자, 관심"
+    },
+    {
+     "t": 2546.9,
+     "s": "E",
+     "es": "Han subido los tipos de interés.",
+     "ko": "금리가 올랐다."
+    },
+    {
+     "t": 2551.1,
+     "s": "W",
+     "es": "inversión",
+     "ko": "투자"
+    },
+    {
+     "t": 2554.3,
+     "s": "E",
+     "es": "Las inversiones más seguras son las de las empresas públicas.",
+     "ko": "가장 안전한 투자는 공기업에 대한 투자다."
+    },
+    {
+     "t": 2560.1,
+     "s": "W",
+     "es": "libreta de banco",
+     "ko": "통장"
+    },
+    {
+     "t": 2564.0,
+     "s": "E",
+     "es": "¿Dónde habré metido la libreta del banco?",
+     "ko": "통장을 어디에 뒀더라?"
+    },
+    {
+     "t": 2569.0,
+     "s": "W",
+     "es": "moneda",
+     "ko": "화폐, 동전"
+    },
+    {
+     "t": 2573.1,
+     "s": "E",
+     "es": "El euro es la moneda de la Unión Europea.",
+     "ko": "유로는 유럽 연합의 화폐다."
+    },
+    {
+     "t": 2579.0,
+     "s": "W",
+     "es": "negociar",
+     "ko": "협상하다, 흥정하다, 거래하다"
+    },
+    {
+     "t": 2585.3,
+     "s": "E",
+     "es": "En la bolsa se negocia el precio de las acciones de las empresas.",
+     "ko": "증권 거래소에서는 기업 주식의 가격이 거래된다."
+    },
+    {
+     "t": 2591.1,
+     "s": "W",
+     "es": "pagar",
+     "ko": "지불하다, 돈을 갚다"
+    },
+    {
+     "t": 2596.3,
+     "s": "E",
+     "es": "Si no pagas la factura del teléfono, te cortarán la línea.",
+     "ko": "전화 요금을 내지 않으면 전화가 끊길 것이다."
+    },
+    {
+     "t": 2601.3,
+     "s": "W",
+     "es": "plazo",
+     "ko": "기한, 할부"
+    },
+    {
+     "t": 2606.9,
+     "s": "E",
+     "es": "Pagar el coche a plazos.",
+     "ko": "차 값을 할부로 내다."
+    },
+    {
+     "t": 2610.7,
+     "s": "W",
+     "es": "pobre",
+     "ko": "가난한 (사람), 불쌍한"
+    },
+    {
+     "t": 2617.7,
+     "s": "E",
+     "es": "Aumenta el número de pobres en el mundo.",
+     "ko": "세계적으로 가난한 사람의 수가 늘고 있다."
+    },
+    {
+     "t": 2623.4,
+     "s": "W",
+     "es": "préstamo",
+     "ko": "대출, 빌려줌"
+    },
+    {
+     "t": 2626.0,
+     "s": "E",
+     "es": "Pidió un préstamo al banco.",
+     "ko": "그는 은행에 대출을 신청했다."
+    },
+    {
+     "t": 2631.3,
+     "s": "W",
+     "es": "presupuesto",
+     "ko": "예산, 견적"
+    },
+    {
+     "t": 2633.6,
+     "s": "E",
+     "es": "Los presupuestos del Estado aumentarán el año que viene.",
+     "ko": "내년에는 국가 예산이 늘어날 것이다."
+    },
+    {
+     "t": 2640.4,
+     "s": "W",
+     "es": "producto",
+     "ko": "상품, 제품, 산물"
+    },
+    {
+     "t": 2642.6,
+     "s": "E",
+     "es": "En el mercado venden frutas y otros productos del campo.",
+     "ko": "시장에서는 과일과 다른 농산물을 판다."
+    },
+    {
+     "t": 2650.0,
+     "s": "W",
+     "es": "recursos",
+     "ko": "자원, 재력, 수단"
+    },
+    {
+     "t": 2654.9,
+     "s": "E",
+     "es": "La empresa no tiene recursos para contratar nuevos empleados.",
+     "ko": "그 회사는 새 직원을 고용할 재원이 없다."
+    },
+    {
+     "t": 2661.5,
+     "s": "W",
+     "es": "sucursal",
+     "ko": "지점"
+    },
+    {
+     "t": 2663.6,
+     "s": "E",
+     "es": "La empresa tiene sucursales en todo el país.",
+     "ko": "그 회사는 전국에 지점이 있다."
+    },
+    {
+     "t": 2669.7,
+     "s": "W",
+     "es": "tarjeta de crédito",
+     "ko": "신용카드"
+    },
+    {
+     "t": 2673.7,
+     "s": "E",
+     "es": "¿Pagó usted los pasajes de avión con su tarjeta de crédito?",
+     "ko": "비행기 표를 신용카드로 결제하셨나요?"
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Trabajo · 일, 직장",
+   "lines": [
+    {
+     "t": 2683.9,
+     "s": "W",
+     "es": "a tiempo parcial",
+     "ko": "파트타임으로, 시간제로"
+    },
+    {
+     "t": 2683.9,
+     "s": "E",
+     "es": "Trabajo a tiempo parcial en la empresa.",
+     "ko": "나는 그 회사에서 파트타임으로 일한다."
+    },
+    {
+     "t": 2696.6,
+     "s": "W",
+     "es": "carta de presentación",
+     "ko": "자기소개서"
+    },
+    {
+     "t": 2700.5,
+     "s": "E",
+     "es": "Se necesita una carta de presentación para solicitar el puesto.",
+     "ko": "그 자리에 지원하려면 자기소개서가 필요하다."
+    },
+    {
+     "t": 2708.0,
+     "s": "W",
+     "es": "comercial",
+     "ko": "상업의, 상업적인; 영업 사원"
+    },
+    {
+     "t": 2709.1,
+     "s": "E",
+     "es": "Es una película muy comercial.",
+     "ko": "그것은 아주 상업적인 영화다."
+    },
+    {
+     "t": 2717.5,
+     "s": "W",
+     "es": "compañía",
+     "ko": "회사; 동반"
+    },
+    {
+     "t": 2721.0,
+     "s": "E",
+     "es": "Mi madre trabaja en una compañía de seguros.",
+     "ko": "우리 어머니는 보험 회사에서 일하신다."
+    },
+    {
+     "t": 2727.3,
+     "s": "W",
+     "es": "contrato",
+     "ko": "계약, 계약서"
+    },
+    {
+     "t": 2730.0,
+     "s": "E",
+     "es": "Hicimos un contrato con dos fontaneros para terminar la obra.",
+     "ko": "공사를 마무리하려고 배관공 두 명과 계약했다."
+    },
+    {
+     "t": 2736.0,
+     "s": "W",
+     "es": "currículum",
+     "ko": "이력서"
+    },
+    {
+     "t": 2740.7,
+     "s": "E",
+     "es": "La empresa pide el currículum para una primera selección.",
+     "ko": "회사는 1차 선발을 위해 이력서를 요구한다."
+    },
+    {
+     "t": 2746.5,
+     "s": "W",
+     "es": "dedicarse a algo",
+     "ko": "~에 종사하다, ~을 업으로 하다"
+    },
+    {
+     "t": 2751.3,
+     "s": "E",
+     "es": "Ella se dedica a la restauración de muebles antiguos.",
+     "ko": "그녀는 고가구 복원 일을 한다."
+    },
+    {
+     "t": 2758.0,
+     "s": "W",
+     "es": "departamento",
+     "ko": "부서, 과"
+    },
+    {
+     "t": 2761.7,
+     "s": "E",
+     "es": "El departamento de Relaciones Públicas está en la séptima planta.",
+     "ko": "홍보부는 7층에 있다."
+    },
+    {
+     "t": 2769.6,
+     "s": "W",
+     "es": "despedir",
+     "ko": "해고하다; 배웅하다"
+    },
+    {
+     "t": 2772.3,
+     "s": "E",
+     "es": "El jefe me despidió del trabajo.",
+     "ko": "사장이 나를 해고했다."
+    },
+    {
+     "t": 2777.5,
+     "s": "W",
+     "es": "empleo",
+     "ko": "직업, 일자리, 고용"
+    },
+    {
+     "t": 2783.2,
+     "s": "E",
+     "es": "Mi hija tiene un buen empleo.",
+     "ko": "내 딸은 좋은 일자리를 가지고 있다."
+    },
+    {
+     "t": 2787.3,
+     "s": "W",
+     "es": "empresa",
+     "ko": "회사, 기업"
+    },
+    {
+     "t": 2790.7,
+     "s": "E",
+     "es": "La empresa constructora necesita diez obreros con experiencia.",
+     "ko": "그 건설 회사는 경력 있는 노동자 열 명이 필요하다."
+    },
+    {
+     "t": 2796.3,
+     "s": "W",
+     "es": "entrevista",
+     "ko": "면접, 인터뷰"
+    },
+    {
+     "t": 2801.4,
+     "s": "E",
+     "es": "Tengo una entrevista de trabajo pasado mañana.",
+     "ko": "나는 모레 취업 면접이 있다."
+    },
+    {
+     "t": 2805.9,
+     "s": "W",
+     "es": "huelga",
+     "ko": "파업"
+    },
+    {
+     "t": 2808.9,
+     "s": "E",
+     "es": "Llevan ya 20 días haciendo huelga.",
+     "ko": "그들은 벌써 20일째 파업 중이다."
+    },
+    {
+     "t": 2812.9,
+     "s": "W",
+     "es": "jornada",
+     "ko": "하루 일과, 근무 시간"
+    },
+    {
+     "t": 2816.9,
+     "s": "E",
+     "es": "Sonia termina su jornada a las 8.",
+     "ko": "소니아는 8시에 하루 일을 마친다."
+    },
+    {
+     "t": 2820.9,
+     "s": "W",
+     "es": "jubilación",
+     "ko": "은퇴, 퇴직"
+    },
+    {
+     "t": 2836.1,
+     "s": "W",
+     "es": "mano de obra",
+     "ko": "노동력, 일손"
+    },
+    {
+     "t": 2836.1,
+     "s": "E",
+     "es": "Es difícil encontrar mano de obra especializada en este campo.",
+     "ko": "이 분야에서는 전문 인력을 구하기 어렵다."
+    },
+    {
+     "t": 2846.6,
+     "s": "W",
+     "es": "obrero, obrera",
+     "ko": "노동자"
+    },
+    {
+     "t": 2846.6,
+     "s": "E",
+     "es": "Un obrero de la construcción se cayó de la tercera planta.",
+     "ko": "건설 노동자 한 명이 3층에서 떨어졌다."
+    },
+    {
+     "t": 2856.3,
+     "s": "W",
+     "es": "paro",
+     "ko": "실업"
+    },
+    {
+     "t": 2856.3,
+     "s": "E",
+     "es": "Irene está en paro desde hace dos meses.",
+     "ko": "이레네는 두 달 전부터 실직 상태다."
+    },
+    {
+     "t": 2867.4,
+     "s": "W",
+     "es": "patrón, patrona",
+     "ko": "고용주, 사장"
+    },
+    {
+     "t": 2868.3,
+     "s": "E",
+     "es": "El patrón pide a los obreros que tengan más cuidado.",
+     "ko": "사장은 노동자들에게 더 조심하라고 요구한다."
+    },
+    {
+     "t": 2873.7,
+     "s": "W",
+     "es": "pensión",
+     "ko": "연금"
+    },
+    {
+     "t": 2877.4,
+     "s": "E",
+     "es": "Los jubilados cobran una pensión del Estado.",
+     "ko": "퇴직자들은 국가에서 연금을 받는다."
+    },
+    {
+     "t": 2887.0,
+     "s": "W",
+     "es": "personal",
+     "ko": "직원, 인원"
+    },
+    {
+     "t": 2888.1,
+     "s": "E",
+     "es": "El personal de la oficina está comiendo en el comedor.",
+     "ko": "사무실 직원들은 구내식당에서 식사 중이다."
+    },
+    {
+     "t": 2894.5,
+     "s": "W",
+     "es": "promoción",
+     "ko": "승진"
+    },
+    {
+     "t": 2898.9,
+     "s": "E",
+     "es": "En su empleo no tiene posibilidades de promoción.",
+     "ko": "그의 직장에서는 승진 가능성이 없다."
+    },
+    {
+     "t": 2909.3,
+     "s": "W",
+     "es": "sindicato",
+     "ko": "노동조합"
+    },
+    {
+     "t": 2909.3,
+     "s": "E",
+     "es": "El sindicato lucha por mantener los puestos de trabajo.",
+     "ko": "노동조합은 일자리를 지키기 위해 싸운다."
+    },
+    {
+     "t": 2918.7,
+     "s": "W",
+     "es": "sueldo",
+     "ko": "월급, 급여"
+    },
+    {
+     "t": 2918.7,
+     "s": "E",
+     "es": "Me aumentaron el sueldo.",
+     "ko": "내 월급이 올랐다."
+    },
+    {
+     "t": 2923.4,
+     "s": "W",
+     "es": "trabajo",
+     "ko": "직업, 일, 직장"
+    },
+    {
+     "t": 2929.3,
+     "s": "E",
+     "es": "No llegues tarde al trabajo.",
+     "ko": "직장에 늦지 마라."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. De compras · 쇼핑",
+   "lines": [
+    {
+     "t": 2943.2,
+     "s": "W",
+     "es": "barato, barata",
+     "ko": "값싼"
+    },
+    {
+     "t": 2947.8,
+     "s": "E",
+     "es": "El piso me ha salido barato.",
+     "ko": "그 아파트를 싸게 구했다."
+    },
+    {
+     "t": 2952.8,
+     "s": "W",
+     "es": "bolsa",
+     "ko": "봉지, 봉투, 가방"
+    },
+    {
+     "t": 2956.1,
+     "s": "E",
+     "es": "Deme una bolsa para meter lo que he comprado.",
+     "ko": "산 물건을 넣게 봉투 하나 주세요."
+    },
+    {
+     "t": 2960.7,
+     "s": "W",
+     "es": "caja",
+     "ko": "계산대; 상자"
+    },
+    {
+     "t": 2967.5,
+     "s": "E",
+     "es": "Pasen por caja para abonar sus compras.",
+     "ko": "구매하신 물건은 계산대에서 결제해 주세요."
+    },
+    {
+     "t": 2971.5,
+     "s": "W",
+     "es": "cambiar",
+     "ko": "바꾸다, 교환하다"
+    },
+    {
+     "t": 2975.7,
+     "s": "E",
+     "es": "He cambiado la mesa por un sofá.",
+     "ko": "나는 탁자를 소파로 바꿨다."
+    },
+    {
+     "t": 2981.1,
+     "s": "W",
+     "es": "caro, cara",
+     "ko": "비싼"
+    },
+    {
+     "t": 2985.4,
+     "s": "E",
+     "es": "Carmen vive en un piso caro.",
+     "ko": "카르멘은 비싼 아파트에 산다."
+    },
+    {
+     "t": 2988.9,
+     "s": "W",
+     "es": "cliente, clienta",
+     "ko": "손님, 고객"
+    },
+    {
+     "t": 2995.0,
+     "s": "E",
+     "es": "El cliente siempre tiene la razón.",
+     "ko": "손님은 언제나 옳다."
+    },
+    {
+     "t": 2999.4,
+     "s": "W",
+     "es": "comprar",
+     "ko": "사다, 구입하다"
+    },
+    {
+     "t": 3002.7,
+     "s": "E",
+     "es": "La amistad no se puede comprar.",
+     "ko": "우정은 돈으로 살 수 없다."
+    },
+    {
+     "t": 3007.8,
+     "s": "W",
+     "es": "dependiente, dependienta",
+     "ko": "점원"
+    },
+    {
+     "t": 3012.8,
+     "s": "E",
+     "es": "La dependienta nos enseñó las camisas muy amablemente.",
+     "ko": "여자 점원이 아주 친절하게 셔츠들을 보여 주었다."
+    },
+    {
+     "t": 3018.4,
+     "s": "W",
+     "es": "descuento",
+     "ko": "할인"
+    },
+    {
+     "t": 3021.7,
+     "s": "E",
+     "es": "He conseguido un buen descuento en la compra del televisor.",
+     "ko": "텔레비전을 살 때 할인을 많이 받았다."
+    },
+    {
+     "t": 3026.8,
+     "s": "W",
+     "es": "devolver",
+     "ko": "돌려주다, 반품하다, 환불하다"
+    },
+    {
+     "t": 3032.1,
+     "s": "E",
+     "es": "Si no queda satisfecho con la compra, le devolvemos su dinero.",
+     "ko": "구매에 만족하지 않으시면 환불해 드립니다."
+    },
+    {
+     "t": 3038.5,
+     "s": "W",
+     "es": "en efectivo",
+     "ko": "현금으로"
+    },
+    {
+     "t": 3041.8,
+     "s": "E",
+     "es": "¿Puedo pagar en efectivo?",
+     "ko": "현금으로 내도 되나요?"
+    },
+    {
+     "t": 3046.3,
+     "s": "W",
+     "es": "envolver",
+     "ko": "포장하다, 싸다"
+    },
+    {
+     "t": 3049.2,
+     "s": "E",
+     "es": "Mi hermana envuelve los regalos con papel de colores.",
+     "ko": "내 여동생은 선물을 색종이로 포장한다."
+    },
+    {
+     "t": 3055.4,
+     "s": "W",
+     "es": "garantía",
+     "ko": "보증, 품질 보증"
+    },
+    {
+     "t": 3058.6,
+     "s": "E",
+     "es": "El coche tiene una garantía de dos años.",
+     "ko": "그 차는 2년 보증이 된다."
+    },
+    {
+     "t": 3064.5,
+     "s": "W",
+     "es": "oferta",
+     "ko": "특가 판매, 공급"
+    },
+    {
+     "t": 3069.0,
+     "s": "E",
+     "es": "Esta camisa está en oferta y por eso sale tan barata.",
+     "ko": "이 셔츠는 특가 판매 중이라 이렇게 싸다."
+    },
+    {
+     "t": 3075.4,
+     "s": "W",
+     "es": "precio",
+     "ko": "가격"
+    },
+    {
+     "t": 3077.4,
+     "s": "E",
+     "es": "Pagaste un precio exagerado por esos zapatos.",
+     "ko": "너는 그 신발에 터무니없는 값을 치렀다."
+    },
+    {
+     "t": 3084.0,
+     "s": "W",
+     "es": "rebaja",
+     "ko": "할인, 세일"
+    },
+    {
+     "t": 3087.5,
+     "s": "E",
+     "es": "Me voy a comprar esta blusa bonita que está de rebaja.",
+     "ko": "세일 중인 이 예쁜 블라우스를 사야겠다."
+    },
+    {
+     "t": 3095.0,
+     "s": "W",
+     "es": "recibo",
+     "ko": "영수증"
+    },
+    {
+     "t": 3098.1,
+     "s": "E",
+     "es": "Para el cambio es necesario presentar el recibo de compra.",
+     "ko": "교환하려면 구매 영수증을 제시해야 한다."
+    },
+    {
+     "t": 3103.3,
+     "s": "W",
+     "es": "tener suelto",
+     "ko": "잔돈이 있다"
+    },
+    {
+     "t": 3107.9,
+     "s": "E",
+     "es": "No tengo suelto para el periódico.",
+     "ko": "신문 살 잔돈이 없다."
+    },
+    {
+     "t": 3112.8,
+     "s": "W",
+     "es": "tienda",
+     "ko": "가게, 상점"
+    },
+    {
+     "t": 3117.7,
+     "s": "E",
+     "es": "Han cerrado la tienda de la esquina porque no vendía casi nada.",
+     "ko": "모퉁이 가게는 거의 팔리지 않아서 문을 닫았다."
+    },
+    {
+     "t": 3124.9,
+     "s": "W",
+     "es": "vender",
+     "ko": "팔다"
+    },
+    {
+     "t": 3127.1,
+     "s": "E",
+     "es": "Mitchell se dedica a vender coches importados.",
+     "ko": "미첼은 수입차 판매 일을 한다."
+    }
+   ]
+  }
+ ]
+}

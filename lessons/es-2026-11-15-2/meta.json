@@ -1,0 +1,671 @@
+{
+  "lang": "es",
+  "date": "2026-11-15",
+  "title": "스페인어 어휘를 부탁해 ① — 인간·인간관계와 사회 (1–2장)",
+  "es": "Mi madre siempre se lava las manos antes de cocinar.",
+  "emoji": "🧍",
+  "level": "A2–B1",
+  "channel": "스페인어 어휘를 부탁해 (MP3)",
+  "videoTitle": "스페인어 어휘를 부탁해 — 1/4편",
+  "audio": "audio.m4a",
+  "duration": "60:10",
+  "speakers": {
+    "W": "표제어",
+    "E": "예문"
+  },
+  "hideCast": true,
+  "summary": "1장 '인간'(신체, 외모, 동작·생리, 성격, 감정, 사고, 건강)과 2장 '인간관계와 사회'(가족, 일생, 인간관계, 일상생활, 직업)의 핵심 단어 약 340개를 다뤄요. 스페인어 표제어 → 한국어 뜻 → 예문 순으로 들으면서, 예문을 따라 읽고 명사는 관사(el/la)와 함께, 형용사는 남성형·여성형을 함께 외워 보세요.",
+  "topics": [
+    "신체: la boca · la mano · la espalda · el pelo",
+    "외모: alto · delgado · moreno · rubio · parecerse",
+    "동작·생리: andar · dormir · reír · tener hambre/sed",
+    "성격·감정: amable · tímido · contento · enfadado · nervioso",
+    "사고·건강: pensar · recordar · fiebre · receta médica",
+    "가족·일생: abuelo · cuñado · casarse · dar a luz",
+    "일상·직업: levantarse · ducharse · abogado · enfermera"
+  ],
+  "grammar": [
+    {
+      "title": "① 직업·사람 명사의 남성형과 여성형",
+      "lead": "사람을 나타내는 명사는 대부분 <b>-o → -a</b>, <b>자음 → +a</b>로 여성형을 만들어요. <b>-ista, -ante, -e</b>로 끝나는 단어는 관사만 바꿔요.",
+      "table": {
+        "head": [
+          "유형",
+          "남성",
+          "여성"
+        ],
+        "rows": [
+          [
+            "-o → -a",
+            "el abogado",
+            "la abogada"
+          ],
+          [
+            "자음 + a",
+            "el profesor",
+            "la profesora"
+          ],
+          [
+            "-ista (같은 형태)",
+            "el taxista",
+            "la taxista"
+          ],
+          [
+            "-ante / -e (같은 형태)",
+            "el cantante",
+            "la cantante"
+          ],
+          [
+            "불규칙",
+            "el actor",
+            "la actriz"
+          ],
+          [
+            "특수형",
+            "el dependiente",
+            "la dependienta"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "De mayor quiero ser abogada.",
+          "나는 커서 변호사가 되고 싶다."
+        ],
+        [
+          "Su madre es dentista.",
+          "그의 어머니는 치과 의사다."
+        ],
+        [
+          "La jueza lo condenó a 20 años de cárcel.",
+          "판사는 그에게 징역 20년을 선고했다."
+        ]
+      ],
+      "tip": "ser + 직업 명사에는 보통 관사를 붙이지 않아요: Mi tía es maestra. (O) / Mi tía es una maestra. (특별한 강조가 없으면 X)"
+    },
+    {
+      "title": "② doler와 estar mal de — 아픈 곳 말하기",
+      "lead": "<b>doler</b>는 gustar처럼 아픈 신체 부위가 주어예요. 신체 부위에는 소유사 대신 <b>정관사</b>를 써요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예"
+        ],
+        "rows": [
+          [
+            "me duele + 단수",
+            "~이 아프다",
+            "Me duele el brazo derecho."
+          ],
+          [
+            "me duelen + 복수",
+            "~들이 아프다",
+            "Me duelen los pies."
+          ],
+          [
+            "tener dolor de + 부위",
+            "~에 통증이 있다",
+            "Tengo dolor de garganta."
+          ],
+          [
+            "estar mal de + 부위",
+            "~이 안 좋다",
+            "Ella está mal del corazón."
+          ],
+          [
+            "me pica + 부위",
+            "~이 가렵다",
+            "Me pica la espalda."
+          ],
+          [
+            "tener fiebre / tos",
+            "열 / 기침이 있다",
+            "Mi hijo tiene mucha fiebre."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Me duele el brazo derecho.",
+          "오른팔이 아프다."
+        ],
+        [
+          "Tengo mucho dolor de estómago.",
+          "배가 많이 아프다."
+        ],
+        [
+          "Me pica la espalda.",
+          "등이 가렵다."
+        ]
+      ],
+      "tip": "'내 팔이 아프다'를 Me duele mi brazo라고 하지 않아요. me가 이미 '나'를 나타내므로 el brazo면 충분해요."
+    },
+    {
+      "title": "③ 재귀동사로 일상 말하기",
+      "lead": "자기 자신에게 하는 동작은 <b>재귀대명사 me/te/se/nos/os/se</b>와 함께 써요. 재귀 여부에 따라 뜻이 달라지기도 해요.",
+      "table": {
+        "head": [
+          "재귀동사",
+          "뜻",
+          "비재귀 동사"
+        ],
+        "rows": [
+          [
+            "levantarse",
+            "일어나다",
+            "levantar 들어 올리다"
+          ],
+          [
+            "acostarse",
+            "잠자리에 들다",
+            "acostar 눕히다, 재우다"
+          ],
+          [
+            "ducharse / bañarse",
+            "샤워하다 / 목욕하다",
+            "bañar 목욕시키다"
+          ],
+          [
+            "lavarse la cara",
+            "세수하다",
+            "lavar 씻기다"
+          ],
+          [
+            "despertarse",
+            "잠에서 깨다",
+            "despertar 깨우다"
+          ],
+          [
+            "casarse / divorciarse",
+            "결혼하다 / 이혼하다",
+            "casar 결혼시키다"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Mi madre se levanta a las seis y me despierta.",
+          "어머니는 6시에 일어나서 나를 깨운다."
+        ],
+        [
+          "La madre acuesta a sus hijos y luego se acuesta ella.",
+          "엄마는 아이들을 재우고 나서 자신도 잠자리에 든다."
+        ],
+        [
+          "Siempre me baño por la noche.",
+          "나는 항상 밤에 목욕한다."
+        ]
+      ],
+      "tip": "명령형에서는 재귀대명사가 동사 뒤에 붙어요: Lávate la cara. / ¿Por qué no te duchas ahora?"
+    },
+    {
+      "title": "④ ser vs estar — 성격과 상태",
+      "lead": "타고난 성격·외모·직업은 <b>ser</b>, 지금의 기분·몸 상태는 <b>estar</b>를 써요. 같은 형용사도 동사에 따라 뜻이 달라져요.",
+      "table": {
+        "head": [
+          "형용사",
+          "ser + 형용사",
+          "estar + 형용사"
+        ],
+        "rows": [
+          [
+            "alegre",
+            "명랑한 성격이다",
+            "(지금) 기쁘다"
+          ],
+          [
+            "aburrido",
+            "지루한 사람이다",
+            "심심하다, 지루해하다"
+          ],
+          [
+            "listo",
+            "똑똑하다",
+            "준비가 되었다"
+          ],
+          [
+            "guapo",
+            "잘생겼다(원래)",
+            "(오늘) 멋있어 보인다"
+          ],
+          [
+            "malo",
+            "나쁜 사람이다",
+            "아프다, 상태가 나쁘다"
+          ],
+          [
+            "viejo",
+            "늙었다, 낡았다",
+            "(나이에 비해) 늙어 보인다"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Carmen es una estudiante muy alegre.",
+          "카르멘은 아주 명랑한 학생이다."
+        ],
+        [
+          "Maribel está alegre por el ascenso de su hijo.",
+          "마리벨은 아들의 승진으로 기뻐하고 있다."
+        ],
+        [
+          "¡Qué guapo estás con ese traje!",
+          "그 정장을 입으니 정말 멋지다!"
+        ]
+      ],
+      "tip": "감정 형용사(contento, enfadado, nervioso, preocupado, deprimido)는 거의 항상 estar와 함께 써요."
+    }
+  ],
+  "phrases": [
+    [
+      "Me duele el brazo derecho.",
+      "오른팔이 아프다."
+    ],
+    [
+      "Tengo dolor de garganta y me cuesta mucho tragar.",
+      "목이 아파서 삼키기가 무척 힘들다."
+    ],
+    [
+      "En esta foto te pareces mucho a tu abuelo.",
+      "이 사진에서 너는 할아버지를 많이 닮았다."
+    ],
+    [
+      "Mi vecina y yo nos llevamos muy mal.",
+      "이웃 여자와 나는 사이가 아주 나쁘다."
+    ],
+    [
+      "Estoy nervioso porque tengo un examen.",
+      "시험이 있어서 긴장된다."
+    ],
+    [
+      "Quiero pedir hora con la doctora López.",
+      "로페스 선생님께 진료 예약을 하고 싶어요."
+    ],
+    [
+      "Mi hermano me lleva tres años.",
+      "우리 형은 나보다 세 살 많다."
+    ],
+    [
+      "¿A qué hora sales de la oficina?",
+      "너는 몇 시에 퇴근하니?"
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "la boca",
+      "ko": "입",
+      "ex": "No debes hablar con la boca llena.",
+      "exKo": "입에 음식을 가득 넣은 채로 말하면 안 된다."
+    },
+    {
+      "es": "la cabeza",
+      "ko": "머리",
+      "ex": "Los aviones pasan por encima de nuestras cabezas.",
+      "exKo": "비행기들이 우리 머리 위로 지나간다."
+    },
+    {
+      "es": "la cara",
+      "ko": "얼굴",
+      "ex": "Me suena su cara.",
+      "exKo": "그의 얼굴이 낯익다."
+    },
+    {
+      "es": "el corazón",
+      "ko": "심장, 마음",
+      "ex": "Ella está mal del corazón.",
+      "exKo": "그녀는 심장이 안 좋다."
+    },
+    {
+      "es": "el diente",
+      "ko": "이, 치아",
+      "ex": "Me lavo los dientes dos veces al día.",
+      "exKo": "나는 하루에 두 번 이를 닦는다."
+    },
+    {
+      "es": "la espalda",
+      "ko": "등",
+      "ex": "Se echó la mochila a la espalda.",
+      "exKo": "그는 배낭을 등에 멨다."
+    },
+    {
+      "es": "la mano",
+      "ko": "손",
+      "ex": "Mi madre siempre se lava las manos antes de cocinar.",
+      "exKo": "어머니는 요리하기 전에 항상 손을 씻는다."
+    },
+    {
+      "es": "el pelo",
+      "ko": "머리카락, 털",
+      "ex": "Voy a cortarme el pelo.",
+      "exKo": "나는 머리를 자를 것이다."
+    },
+    {
+      "es": "la pierna",
+      "ko": "다리",
+      "ex": "Antonio se dio un golpe en la pierna y se rompió el hueso.",
+      "exKo": "안토니오는 다리를 부딪쳐서 뼈가 부러졌다."
+    },
+    {
+      "es": "alto, alta",
+      "ko": "키가 큰",
+      "ex": "Su hija está muy alta para su edad.",
+      "exKo": "그의 딸은 나이에 비해 키가 매우 크다."
+    },
+    {
+      "es": "delgado, delgada",
+      "ko": "마른, 날씬한",
+      "ex": "Tienes los brazos demasiado delgados.",
+      "exKo": "너는 팔이 너무 가늘다."
+    },
+    {
+      "es": "parecerse",
+      "ko": "닮다",
+      "ex": "En esta foto te pareces mucho a tu abuelo.",
+      "exKo": "이 사진에서 너는 할아버지를 많이 닮았다."
+    },
+    {
+      "es": "el peso",
+      "ko": "체중, 몸무게",
+      "ex": "¿Cuál es tu peso?",
+      "exKo": "너는 몸무게가 얼마니?"
+    },
+    {
+      "es": "andar",
+      "ko": "걷다",
+      "ex": "Iremos andando hasta la estación.",
+      "exKo": "우리는 역까지 걸어갈 것이다."
+    },
+    {
+      "es": "despertar",
+      "ko": "깨우다",
+      "ex": "Mi madre me despierta todas las mañanas.",
+      "exKo": "어머니는 매일 아침 나를 깨운다."
+    },
+    {
+      "es": "el hambre",
+      "ko": "배고픔",
+      "ex": "Venimos a casa con mucha hambre.",
+      "exKo": "우리는 몹시 배가 고픈 채로 집에 온다."
+    },
+    {
+      "es": "la sed",
+      "ko": "갈증",
+      "ex": "Dame una botella de agua. Tengo mucha sed.",
+      "exKo": "물 한 병 줘. 목이 많이 마르다."
+    },
+    {
+      "es": "amable",
+      "ko": "상냥한, 친절한",
+      "ex": "Somos amables con los ancianos.",
+      "exKo": "우리는 노인들에게 친절하다."
+    },
+    {
+      "es": "tímido, tímida",
+      "ko": "소심한, 수줍어하는",
+      "ex": "No seas tan tímida.",
+      "exKo": "그렇게 수줍어하지 마."
+    },
+    {
+      "es": "llevarse bien / mal",
+      "ko": "사이가 좋다 / 나쁘다",
+      "ex": "Mi vecina y yo nos llevamos muy mal.",
+      "exKo": "이웃 여자와 나는 사이가 아주 나쁘다."
+    },
+    {
+      "es": "contento, contenta",
+      "ko": "만족스러운, 기쁜",
+      "ex": "¿Estás contenta con el coche?",
+      "exKo": "그 차에 만족하니?"
+    },
+    {
+      "es": "enfadado, enfadada",
+      "ko": "화난",
+      "ex": "Mi madre está enfadada conmigo porque anoche volví tarde.",
+      "exKo": "어젯밤 내가 늦게 들어와서 어머니는 나에게 화가 나 있다."
+    },
+    {
+      "es": "el miedo",
+      "ko": "두려움, 공포",
+      "ex": "¿No te dan miedo las serpientes?",
+      "exKo": "너는 뱀이 무섭지 않니?"
+    },
+    {
+      "es": "preocupado, preocupada",
+      "ko": "걱정하는",
+      "ex": "Mis padres están preocupados por la salud de mi abuelo.",
+      "exKo": "부모님은 할아버지의 건강을 걱정하신다."
+    },
+    {
+      "es": "recordar",
+      "ko": "기억하다",
+      "ex": "Recuerdo que no comías pescado.",
+      "exKo": "네가 생선을 먹지 않았던 게 기억난다."
+    },
+    {
+      "es": "olvidar",
+      "ko": "잊어버리다",
+      "ex": "He olvidado su número de teléfono.",
+      "exKo": "나는 그의 전화번호를 잊어버렸다."
+    },
+    {
+      "es": "equivocarse",
+      "ko": "틀리다, 혼동하다",
+      "ex": "Te equivocas, eso no es así.",
+      "exKo": "네가 틀렸어, 그건 그렇지 않아."
+    },
+    {
+      "es": "cansado, cansada",
+      "ko": "피곤한",
+      "ex": "¿Qué te pasa? Te veo muy cansada.",
+      "exKo": "무슨 일 있니? 너 아주 피곤해 보여."
+    },
+    {
+      "es": "la fiebre",
+      "ko": "열",
+      "ex": "Mi hijo tiene mucha fiebre.",
+      "exKo": "내 아들은 열이 많이 난다."
+    },
+    {
+      "es": "la receta médica",
+      "ko": "처방전",
+      "ex": "Voy a la farmacia con receta médica.",
+      "exKo": "나는 처방전을 가지고 약국에 간다."
+    },
+    {
+      "es": "resfriado, resfriada",
+      "ko": "감기에 걸린",
+      "ex": "Los niños están resfriados.",
+      "exKo": "아이들이 감기에 걸렸다."
+    },
+    {
+      "es": "el cuñado, la cuñada",
+      "ko": "처남·매부, 올케·시누이",
+      "ex": "Tu cuñado te ha llamado.",
+      "exKo": "네 처남이 너에게 전화했었다."
+    },
+    {
+      "es": "el suegro, la suegra",
+      "ko": "시아버지·장인, 시어머니·장모",
+      "ex": "Los sábados vamos a comer a casa de mis suegros.",
+      "exKo": "토요일마다 우리는 시댁에 가서 식사한다."
+    },
+    {
+      "es": "casarse",
+      "ko": "결혼하다",
+      "ex": "¿Cuándo te casas?",
+      "exKo": "너 언제 결혼하니?"
+    },
+    {
+      "es": "crecer",
+      "ko": "성장하다, 자라다",
+      "ex": "Crecí en Buenos Aires.",
+      "exKo": "나는 부에노스아이레스에서 자랐다."
+    },
+    {
+      "es": "dar a luz",
+      "ko": "낳다, 출산하다",
+      "ex": "Mi hermana acaba de dar a luz a una niña.",
+      "exKo": "언니가 막 딸을 낳았다."
+    },
+    {
+      "es": "la cita",
+      "ko": "약속",
+      "ex": "Mañana tengo una cita de trabajo.",
+      "exKo": "내일 나는 업무 약속이 있다."
+    },
+    {
+      "es": "levantarse",
+      "ko": "일어나다",
+      "ex": "Mi madre se levanta a las seis y me despierta.",
+      "exKo": "어머니는 6시에 일어나서 나를 깨운다."
+    },
+    {
+      "es": "el abogado, la abogada",
+      "ko": "변호사",
+      "ex": "De mayor quiero ser abogada.",
+      "exKo": "나는 커서 변호사가 되고 싶다."
+    },
+    {
+      "es": "el enfermero, la enfermera",
+      "ko": "간호사",
+      "ex": "El enfermero levantó al paciente.",
+      "exKo": "간호사가 환자를 일으켜 세웠다."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "'팔꿈치'를 스페인어로?",
+      "options": [
+        "el codo",
+        "el cuello",
+        "el hombro",
+        "la muñeca"
+      ],
+      "answer": 0,
+      "explain": "el codo = 팔꿈치. cuello는 목, hombro는 어깨, muñeca는 손목이에요."
+    },
+    {
+      "q": "Me ___ el brazo derecho. (오른팔이 아프다)",
+      "options": [
+        "duelo",
+        "duele",
+        "duelen",
+        "dolor"
+      ],
+      "answer": 1,
+      "explain": "아픈 부위 el brazo(단수)가 주어이므로 duele를 써요."
+    },
+    {
+      "q": "El futbolista tiene una lesión en el ___. (허벅지)",
+      "options": [
+        "músculo",
+        "muslo",
+        "pecho",
+        "trasero"
+      ],
+      "answer": 1,
+      "explain": "muslo = 허벅지. músculo(근육)와 헷갈리기 쉬워요."
+    },
+    {
+      "q": "'빨간 머리의'에 해당하는 단어는?",
+      "options": [
+        "rubio",
+        "moreno",
+        "pelirrojo",
+        "calvo"
+      ],
+      "answer": 2,
+      "explain": "pelirrojo = 빨간 머리의. rubio는 금발, moreno는 갈색 머리·가무잡잡한, calvo는 대머리예요."
+    },
+    {
+      "q": "En esta foto te ___ mucho a tu abuelo. (닮다)",
+      "options": [
+        "pareces",
+        "parece",
+        "pareces de",
+        "parecer"
+      ],
+      "answer": 0,
+      "explain": "parecerse a ~ = ~를 닮다. tú에 맞춰 te pareces a tu abuelo."
+    },
+    {
+      "q": "'시간을 잘 지키는'은?",
+      "options": [
+        "prudente",
+        "puntual",
+        "paciente",
+        "sincero"
+      ],
+      "answer": 1,
+      "explain": "puntual = 시간을 잘 지키는. prudente는 신중한, paciente는 참을성 있는이에요."
+    },
+    {
+      "q": "Mi vecina y yo nos ___ muy mal. (사이가 나쁘다)",
+      "options": [
+        "llevamos",
+        "llevan",
+        "llevo",
+        "lleváis"
+      ],
+      "answer": 0,
+      "explain": "llevarse mal = 사이가 나쁘다. 주어 '이웃과 나'는 nosotros이므로 nos llevamos."
+    },
+    {
+      "q": "감정 상태를 말할 때 알맞은 것은? ___ nervioso porque tengo un examen.",
+      "options": [
+        "Soy",
+        "Estoy",
+        "Tengo",
+        "Hay"
+      ],
+      "answer": 1,
+      "explain": "일시적인 기분·상태는 estar를 써요: Estoy nervioso."
+    },
+    {
+      "q": "'처방전'은?",
+      "options": [
+        "la receta médica",
+        "el seguro médico",
+        "la inyección",
+        "la medicina"
+      ],
+      "answer": 0,
+      "explain": "receta médica = 처방전. seguro médico는 의료 보험, inyección은 주사예요."
+    },
+    {
+      "q": "'며느리'를 스페인어로?",
+      "options": [
+        "la suegra",
+        "la cuñada",
+        "la nuera",
+        "la sobrina"
+      ],
+      "answer": 2,
+      "explain": "nuera = 며느리. 사위는 yerno, 시어머니·장모는 suegra예요."
+    },
+    {
+      "q": "Mi hermana acaba de ___ a una niña. (딸을 낳았다)",
+      "options": [
+        "criar",
+        "dar a luz",
+        "crecer",
+        "nacer"
+      ],
+      "answer": 1,
+      "explain": "dar a luz = 출산하다. criar는 기르다, nacer는 태어나다예요."
+    },
+    {
+      "q": "'택시 기사(여성)'의 올바른 형태는?",
+      "options": [
+        "la taxisto",
+        "la taxista",
+        "la taxistera",
+        "el taxisto"
+      ],
+      "answer": 1,
+      "explain": "-ista로 끝나는 직업 명사는 남녀 형태가 같고 관사만 바뀌어요: el/la taxista."
+    }
+  ]
+}

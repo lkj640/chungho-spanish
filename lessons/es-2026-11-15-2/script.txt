@@ -1,0 +1,1413 @@
+# 형식: [mm:ss.ss] 시작 시각 / ## 단원 / 화자 | 원문 | 한국어
+# W = 표제어(스페인어 단어 | 한국어 뜻), E = 예문(스페인어 예문 | 한국어 번역)
+# 원본: 「스페인어 어휘를 부탁해」 MP3 1/4 구간 (0:00부터). Whisper 받아쓰기 시각으로 단어·예문별 싱크, 잘못 들린 부분과 한국어 뜻은 손으로 바로잡았어요.
+END 60:10
+
+
+## Capítulo 1 · Unidad 1. Cuerpo · 신체
+[01:02.80]
+W | boca | 입
+[01:05.80]
+E | No debes hablar con la boca llena. | 입에 음식을 가득 넣은 채로 말하면 안 된다.
+[01:11.10]
+W | brazo | 팔
+[01:13.30]
+E | Me duele el brazo derecho. | 오른팔이 아프다.
+[01:19.10]
+W | cabeza | 머리
+[01:21.80]
+E | Los aviones pasan por encima de nuestras cabezas. | 비행기들이 우리 머리 위로 지나간다.
+[01:26.40]
+W | cara | 얼굴
+[01:31.20]
+E | Me suena su cara. | 그의 얼굴이 낯익다.
+[01:35.00]
+W | ceja | 눈썹
+[01:38.40]
+E | Tengo las cejas espesas. | 나는 눈썹이 짙다.
+[01:42.70]
+W | cerebro | 뇌
+[01:46.40]
+E | El cerebro humano es más grande que el del mono. | 인간의 뇌는 원숭이의 뇌보다 크다.
+[01:52.80]
+W | codo | 팔꿈치
+[01:56.50]
+E | Para estudiar, apoyo los codos en la mesa. | 공부할 때 나는 책상에 팔꿈치를 괸다.
+[02:02.80]
+W | corazón | 심장, 마음
+[02:06.60]
+E | Ella está mal del corazón. | 그녀는 심장이 안 좋다.
+[02:11.10]
+W | cuello | 목
+[02:13.70]
+E | El chico llevaba una bufanda alrededor del cuello. | 그 소년은 목에 목도리를 두르고 있었다.
+[02:20.40]
+W | dedo | 손가락, 발가락
+[02:25.10]
+E | La chica me señaló con el dedo. | 그 소녀가 손가락으로 나를 가리켰다.
+[02:29.70]
+W | diente | 이, 치아
+[02:34.60]
+E | Me lavo los dientes dos veces al día. | 나는 하루에 두 번 이를 닦는다.
+[02:40.20]
+W | espalda | 등
+[02:43.10]
+E | Se echó la mochila a la espalda. | 그는 배낭을 등에 멨다.
+[02:48.50]
+W | estómago | 위, 복부, 배
+[02:54.60]
+E | Tengo mucho dolor de estómago. | 배가 많이 아프다.
+[02:59.10]
+W | físico | 체격, 외모
+[03:02.60]
+E | Anabel tiene un físico muy llamativo. | 아나벨은 아주 눈에 띄는 외모를 지녔다.
+[03:07.20]
+W | frente | 이마
+[03:10.60]
+E | ¿Por qué te tapas la frente con el pelo? | 왜 머리카락으로 이마를 가리니?
+[03:16.20]
+W | garganta | 목구멍, 인후
+[03:23.70]
+E | Tengo dolor de garganta y me cuesta mucho tragar. | 목이 아파서 삼키기가 무척 힘들다.
+[03:29.50]
+W | hígado | 간
+[03:31.80]
+E | ¿Qué tengo que comer si estoy mal del hígado? | 간이 안 좋으면 무엇을 먹어야 하나요?
+[03:38.10]
+W | hombro | 어깨
+[03:39.60]
+E | Un amigo mío me tocó el hombro para saludarme. | 내 친구 하나가 인사하려고 내 어깨를 건드렸다.
+[03:47.10]
+W | hueso | 뼈
+[03:49.40]
+E | Antonio se dio un golpe en la pierna y se rompió el hueso. | 안토니오는 다리를 부딪쳐서 뼈가 부러졌다.
+[03:56.70]
+W | labio | 입술
+[03:59.30]
+E | Mi madre se pintó los labios de rojo. | 어머니는 입술을 빨갛게 칠했다.
+[04:05.40]
+W | lengua | 혀, 언어
+[04:09.50]
+E | Me he mordido la lengua. | 나는 혀를 깨물었다.
+[04:13.50]
+W | mano | 손
+[04:16.20]
+E | Mi madre siempre se lava las manos antes de cocinar. | 어머니는 요리하기 전에 항상 손을 씻는다.
+[04:22.60]
+W | mejilla | 볼, 뺨
+[04:27.50]
+E | José me besó en la mejilla. | 호세가 내 볼에 입을 맞췄다.
+[04:31.90]
+W | muñeca | 손목
+[04:34.40]
+E | Llevo el reloj en la muñeca izquierda. | 나는 왼쪽 손목에 시계를 찬다.
+[04:40.60]
+W | músculo | 근육
+[04:43.60]
+E | Necesitas desarrollar más músculo en las piernas. Las tienes muy delgadas. | 너는 다리 근육을 더 키워야 해. 다리가 너무 가늘어.
+[04:51.70]
+W | muslo | 넓적다리, 허벅지
+[04:56.40]
+E | El futbolista tiene una lesión en el muslo. | 그 축구 선수는 허벅지에 부상이 있다.
+[05:02.50]
+W | nariz | 코
+[05:05.30]
+E | Él tiene un grano en la nariz. | 그는 코에 여드름이 났다.
+[05:09.90]
+W | ojo | 눈
+[05:12.70]
+E | Abre los ojos y mírame. | 눈을 뜨고 나를 봐.
+[05:17.70]
+W | ombligo | 배꼽, 중심
+[05:21.90]
+E | ¿Te crees que eres el ombligo del mundo? | 네가 세상의 중심이라고 생각하니?
+[05:27.20]
+W | oreja | 귀
+[05:31.20]
+E | Celia se ha hecho agujeros en las orejas para llevar pendientes. | 셀리아는 귀걸이를 하려고 귀를 뚫었다.
+[05:39.00]
+W | palma | 손바닥
+[05:39.00]
+E | Te leo la palma de la mano. | 내가 네 손금을 봐 줄게.
+[05:46.00]
+W | pecho | 가슴
+[05:46.00]
+E | El ladrón tenía una herida en el pecho. | 그 도둑은 가슴에 상처가 있었다.
+[05:53.20]
+W | pelo | 머리카락, 털
+[05:57.60]
+E | Voy a cortarme el pelo. | 나는 머리를 자를 것이다.
+[06:02.80]
+W | pestaña | 속눈썹
+[06:05.50]
+E | Ella arqueaba sus pestañas con rímel. | 그녀는 마스카라로 속눈썹을 올렸다.
+[06:11.10]
+W | pie | 발
+[06:13.10]
+E | He metido solo los pies en la piscina porque el agua está muy fría. | 물이 너무 차가워서 수영장에 발만 담갔다.
+[06:19.60]
+W | piel | 피부
+[06:23.80]
+E | Hay que tomar suficiente agua para tener la piel sana. | 건강한 피부를 위해서는 물을 충분히 마셔야 한다.
+[06:32.00]
+W | pierna | 다리
+[06:34.00]
+E | Mi hermana se pone minifalda a menudo porque tiene unas piernas muy bonitas. | 언니는 다리가 아주 예뻐서 미니스커트를 자주 입는다.
+[06:42.00]
+W | pulmón | 폐, 허파
+[06:45.60]
+E | Fumar daña los pulmones. | 흡연은 폐를 손상시킨다.
+[06:50.90]
+W | rodilla | 무릎
+[06:54.70]
+E | Manuel dobló las rodillas para rezar. | 마누엘은 기도하려고 무릎을 꿇었다.
+[06:59.30]
+W | sangre | 피
+[07:02.70]
+E | Mi hermano tiene sangre de tipo O. | 내 동생은 혈액형이 O형이다.
+[07:07.70]
+W | trasero | 엉덩이
+[07:12.10]
+E | Tengo el trasero dolorido porque llevo tres horas sentado. | 세 시간째 앉아 있어서 엉덩이가 아프다.
+[07:18.90]
+W | tripa | 창자, 내장, 복부
+[07:24.90]
+E | Le sonaban las tripas de hambre. | 그는 배가 고파서 배에서 꼬르륵 소리가 났다.
+[07:29.90]
+W | uña | 손톱, 발톱
+[07:35.10]
+E | Tienes que cortarte esas uñas tan largas. | 너는 그 긴 손톱을 깎아야 한다.
+[07:40.10]
+W | vena | 정맥, 혈관
+[07:43.70]
+E | Esta inyección se pone en las venas. | 이 주사는 정맥에 놓는다.
+[07:48.70]
+W | voz | 목소리
+[07:50.70]
+E | Él ya me lo dijo en voz baja. | 그는 이미 작은 목소리로 내게 그것을 말했다.
+
+## Unidad 2. Descripción física · 신체적 특징
+[08:06.10]
+W | alto, alta | 키가 큰, 높은
+[08:09.80]
+E | Su hija está muy alta para su edad. | 그의 딸은 나이에 비해 키가 매우 크다.
+[08:17.80]
+W | bajo, baja | 키가 작은, 낮은
+[08:21.50]
+E | Mi hermano es muy bajo. | 내 남동생은 키가 아주 작다.
+[08:27.10]
+W | barba | 턱수염
+[08:30.00]
+E | Mi abuelo tiene la barba muy larga. | 우리 할아버지는 턱수염이 아주 길다.
+[08:35.20]
+W | calvo, calva | 대머리의
+[08:37.00]
+E | Vino un señor calvo con gafas para verte. | 안경 쓴 대머리 아저씨가 너를 만나러 왔다.
+[08:44.90]
+W | débil | 약한
+[08:48.40]
+E | Hay que ayudar a las personas débiles. | 약한 사람들을 도와야 한다.
+[08:53.40]
+W | delgado, delgada | 마른, 날씬한
+[08:58.10]
+E | Tienes los brazos demasiado delgados. | 너는 팔이 너무 가늘다.
+[09:03.50]
+W | estatura | 신장, 키
+[09:08.00]
+E | Soy de estatura normal. | 나는 키가 보통이다.
+[09:13.00]
+W | feo, fea | 못생긴
+[09:16.40]
+E | A ninguna madre le parecen feos sus hijos. | 자기 자식이 못생겨 보이는 엄마는 없다.
+[09:23.30]
+W | fuerte | 강한, 힘센
+[09:27.50]
+E | Mi mejor amigo es fuerte como un toro. | 내 가장 친한 친구는 황소처럼 힘이 세다.
+[09:33.80]
+W | gordo, gorda | 뚱뚱한
+[09:37.20]
+E | ¿Por qué estás cada vez más gordo? | 너는 왜 점점 더 살이 찌니?
+[09:42.60]
+W | guapo, guapa | 예쁜, 잘생긴
+[09:48.30]
+E | ¡Qué guapo estás con ese traje! | 그 정장을 입으니 정말 멋지다!
+[09:53.30]
+W | joven | 젊은이, 젊은
+[09:58.00]
+E | Cuando era joven, quería viajar por todo el mundo. | 젊었을 때 나는 전 세계를 여행하고 싶었다.
+[10:03.40]
+W | moreno, morena | 갈색 머리의, 피부가 가무잡잡한
+[10:09.20]
+E | Ana es morena, pero todas sus hermanas son rubias. | 아나는 갈색 머리지만 자매들은 모두 금발이다.
+[10:16.70]
+W | parecerse | 닮다
+[10:18.60]
+E | En esta foto te pareces mucho a tu abuelo. | 이 사진에서 너는 할아버지를 많이 닮았다.
+[10:26.10]
+W | pelirrojo, pelirroja | 빨간 머리의
+[10:30.00]
+E | Su hermano es alto, pelirrojo y lleva gafas. | 그의 형은 키가 크고 빨간 머리에 안경을 쓴다.
+[10:35.80]
+W | pelo liso | 직모, 곧은 머리카락
+[10:42.10]
+E | Mi hermana tiene el pelo liso y rubio. | 언니는 금발의 곧은 머리를 가졌다.
+[10:47.10]
+W | pelo rizado | 곱슬머리
+[10:51.10]
+E | Un hijo mío tiene el pelo rizado. | 내 아들 중 하나는 곱슬머리다.
+[10:56.80]
+W | peso | 체중, 몸무게
+[11:00.00]
+E | ¿Cuál es tu peso? | 너는 몸무게가 얼마니?
+[11:04.70]
+W | rubio, rubia | 금발의
+[11:09.50]
+E | Soy moreno, pero mi hermana es rubia. | 나는 갈색 머리지만 누나는 금발이다.
+[11:14.10]
+W | viejo, vieja | 늙은, 낡은
+[11:18.90]
+E | Está muy viejo para la edad que tiene. | 그는 나이에 비해 많이 늙었다.
+
+## Unidad 3. Movimiento, fisiología · 동작, 생리
+[11:36.60]
+W | abrazar | 껴안다, 포옹하다
+[11:41.90]
+E | Él me abrazó muy fuerte. | 그는 나를 아주 꽉 껴안았다.
+[11:46.30]
+W | acostar | 눕히다, 재우다
+[11:49.90]
+E | La madre acuesta a sus hijos y luego se acuesta ella. | 엄마는 아이들을 재우고 나서 자신도 잠자리에 든다.
+[11:55.70]
+W | adelgazar | 살이 빠지다, 날씬해지다
+[11:58.30]
+E | Mi hermano come muy poco para adelgazar. | 내 동생은 살을 빼려고 아주 조금 먹는다.
+[12:04.50]
+W | andar | 걷다
+[12:08.10]
+E | Iremos andando hasta la estación. | 우리는 역까지 걸어갈 것이다.
+[12:12.60]
+W | aplaudir | 박수 치다
+[12:16.40]
+E | El público aplaude a los actores. | 관객들이 배우들에게 박수를 친다.
+[12:20.80]
+W | beber | 마시다
+[12:24.40]
+E | ¿Qué quieres beber? | 무엇을 마시고 싶니?
+[12:28.60]
+W | besar | 입맞추다, 키스하다
+[12:33.40]
+E | Bésame mucho. | (노래 제목) 내게 많이 키스해 줘.
+[12:40.60]
+W | caer | 넘어지다, 떨어지다
+[12:45.40]
+E | Se cayó al suelo y se dio un golpe en la cabeza. | 그는 바닥에 넘어져 머리를 부딪쳤다.
+[12:50.60]
+W | comer | 먹다
+[12:53.70]
+E | Comemos dos hamburguesas. | 우리는 햄버거 두 개를 먹는다.
+[12:58.30]
+W | correr | 달리다, 뛰다
+[13:03.60]
+E | Los niños corren por el parque. | 아이들이 공원을 뛰어다닌다.
+[13:08.10]
+W | despertar | 깨우다
+[13:11.90]
+E | Mi madre me despierta todas las mañanas. | 어머니는 매일 아침 나를 깨운다.
+[13:16.80]
+W | doblar | 접다, 구부리다
+[13:20.90]
+E | No puedo doblar la rodilla. | 나는 무릎을 굽힐 수 없다.
+[13:26.60]
+W | dormir | 자다
+[13:29.80]
+E | La música no me dejaba dormir. | 음악 때문에 나는 잠을 잘 수 없었다.
+[13:34.40]
+W | empujar | 밀다
+[13:37.90]
+E | Empuja la puerta para salir. | 나가려면 문을 밀어라.
+[13:41.90]
+W | engordar | 살찌다
+[13:45.90]
+E | Hacemos ejercicio para no engordar. | 우리는 살찌지 않으려고 운동한다.
+[13:51.70]
+W | escuchar | 듣다, 경청하다
+[13:55.30]
+E | Los estudiantes escuchan lo que dice su profesora. | 학생들은 선생님이 하는 말을 듣는다.
+[14:01.70]
+W | estar de pie | 서 있다
+[14:05.10]
+E | Mi padre estaba de pie junto a mi cama. | 아버지는 내 침대 옆에 서 계셨다.
+[14:11.90]
+W | golpear | 두드리다, 때리다
+[14:15.00]
+E | El profesor golpea la mesa con la mano. | 선생님이 손으로 책상을 두드린다.
+[14:20.80]
+W | gritar | 소리 지르다
+[14:24.70]
+E | No me grites. | 나에게 소리 지르지 마.
+[14:27.90]
+W | hablar | 말하다
+[14:31.40]
+E | Puedo hablar español e inglés. | 나는 스페인어와 영어를 할 수 있다.
+[14:35.70]
+W | hambre | 배고픔, 공복감
+[14:41.20]
+E | Venimos a casa con mucha hambre. | 우리는 몹시 배가 고픈 채로 집에 온다.
+[14:45.80]
+W | lágrima | 눈물
+[14:48.80]
+E | Cuando vi a mi madre, se me saltaron las lágrimas. | 어머니를 보았을 때 눈물이 터져 나왔다.
+[14:54.80]
+W | leer | 읽다, 독서하다
+[15:00.20]
+E | Lo voy a leer en voz alta. | 내가 그것을 큰 소리로 읽을게.
+[15:05.40]
+W | levantar | 들다, 일으키다
+[15:10.10]
+E | Ella se levantó y dijo su nombre. | 그녀는 일어서서 자기 이름을 말했다.
+[15:15.50]
+W | llorar | 울다
+[15:18.30]
+E | No llores por mí, Argentina. | 나를 위해 울지 말아요, 아르헨티나.
+[15:22.80]
+W | mirar | 보다, 바라보다
+[15:25.50]
+E | ¿Por qué me miras así? | 왜 나를 그렇게 쳐다보니?
+[15:29.20]
+W | moverse | 움직이다
+[15:33.10]
+E | La tía se mueve con dificultad porque está mal de salud. | 고모는 건강이 좋지 않아서 움직이는 것이 힘들다.
+[15:39.40]
+W | oír | 듣다, 들리다
+[15:41.80]
+E | ¿Me oyes? | 내 말 들리니?
+[15:46.10]
+W | oler | 냄새를 맡다
+[15:47.40]
+E | Me gusta oler las flores. | 나는 꽃 냄새 맡는 것을 좋아한다.
+[15:55.50]
+W | reír | 웃다
+[15:56.70]
+E | Sus chistes me hacen reír. | 그의 농담은 나를 웃게 한다.
+[16:03.90]
+W | respirar | 숨 쉬다, 호흡하다
+[16:05.10]
+E | Respire hondo, por favor. | 숨을 깊이 쉬세요.
+[16:13.80]
+W | saborear | 맛보다, 음미하다
+[16:13.80]
+E | Para poder saborear la comida, hay que comer despacio. | 음식을 음미하려면 천천히 먹어야 한다.
+[16:21.80]
+W | saltar | 뛰다, 점프하다
+[16:26.70]
+E | Las chicas saltaron de alegría. | 소녀들은 기뻐서 펄쩍 뛰었다.
+[16:31.30]
+W | sed | 갈증
+[16:34.70]
+E | Dame una botella de agua. Tengo mucha sed. | 물 한 병 줘. 목이 많이 마르다.
+[16:40.70]
+W | sentar | 앉히다
+[16:43.70]
+E | La profesora sienta a sus alumnos en el banco. | 선생님이 학생들을 벤치에 앉힌다.
+[16:49.80]
+W | sudar | 땀을 흘리다
+[16:52.80]
+E | Necesitas beber agua porque has sudado mucho. | 땀을 많이 흘렸으니 물을 마셔야 한다.
+[16:58.10]
+W | tirar | 잡아당기다, 던지다
+[17:01.70]
+E | Para entrar, tira de la puerta. | 들어가려면 문을 당겨라.
+[17:06.10]
+W | tocar | 만지다
+[17:09.00]
+E | Si lo tocas, te vas a quemar. | 그것을 만지면 데일 거야.
+[17:14.60]
+W | ver | 보다
+[17:17.40]
+E | No vemos mucho la televisión. | 우리는 텔레비전을 많이 보지 않는다.
+[17:21.90]
+W | volverse | 뒤를 돌다
+[17:25.90]
+E | Alfonso se volvió y me llamó. | 알폰소는 뒤돌아서 나를 불렀다.
+
+## Unidad 4. Carácter · 성격
+[17:35.90]
+W | abierto, abierta | 열린, 개방적인
+[17:45.10]
+E | Mi amiga tiene una mentalidad muy abierta. | 내 친구는 사고방식이 아주 개방적이다.
+[17:55.90]
+W | agradable | 기분 좋은, 상냥한
+[17:57.70]
+E | Elis es una persona muy agradable. | 엘리스는 아주 상냥한 사람이다.
+[18:02.80]
+W | alegre | 명랑한, 쾌활한
+[18:08.10]
+E | Carmen es una estudiante muy alegre. | 카르멘은 아주 명랑한 학생이다.
+[18:12.10]
+W | amable | 상냥한, 친절한
+[18:17.40]
+E | Somos amables con los ancianos. | 우리는 노인들에게 친절하다.
+[18:22.00]
+W | bueno, buena | 좋은, 착한
+[18:27.50]
+E | Juan es muy bueno, es un buen chico. | 후안은 아주 착하다. 좋은 아이다.
+[18:32.50]
+W | carácter | 성격, 특성
+[18:37.50]
+E | Tiene un carácter muy fuerte. | 그는 성격이 아주 강하다.
+[18:43.50]
+W | cariñoso, cariñosa | 다정한
+[18:47.50]
+E | Debes ser más cariñoso con tu mamá. | 너는 엄마에게 좀 더 다정하게 대해야 한다.
+[18:51.60]
+W | divertido, divertida | 재미있는
+[18:53.70]
+E | Me gusta la película. Los actores son muy divertidos. | 나는 그 영화가 좋다. 배우들이 아주 재미있다.
+[19:04.50]
+W | educado, educada | 정중한, 예의 바른
+[19:10.10]
+E | Prefiero al señor Morales. Es educado y responsable. | 나는 모랄레스 씨가 더 좋다. 그는 예의 바르고 책임감이 있다.
+[19:16.60]
+W | generoso, generosa | 관대한, 너그러운
+[19:20.00]
+E | La profesora Cho es generosa con sus alumnos. | 조 선생님은 학생들에게 너그럽다.
+[19:26.90]
+W | hablador, habladora | 말이 많은, 수다스러운
+[19:33.20]
+E | ¡Qué hablador es tu vecino! Habla sin parar. | 네 이웃은 정말 수다스럽구나! 쉬지 않고 말한다.
+[19:39.10]
+W | listo, lista | 똑똑한, 영리한
+[19:42.80]
+E | Su hija es la más lista de la clase. | 그의 딸은 반에서 가장 똑똑하다.
+[19:48.00]
+W | llevarse bien, llevarse mal | 사이가 좋다, 사이가 나쁘다
+[19:57.40]
+E | Mi vecina y yo nos llevamos muy mal. | 이웃 여자와 나는 사이가 아주 나쁘다.
+[20:02.50]
+W | maduro, madura | 성숙한
+[20:05.30]
+E | Me gusta hablar con ella porque es una chica madura. | 그녀는 성숙한 아가씨라서 나는 그녀와 이야기하는 것이 좋다.
+[20:12.10]
+W | malo, mala | 나쁜, 악한
+[20:18.60]
+E | Es una mala persona. Habla mal de ti a tus espaldas. | 그는 나쁜 사람이다. 네가 없는 데서 네 험담을 한다.
+[20:25.00]
+W | mentiroso, mentirosa | 거짓말하는, 거짓말쟁이
+[20:29.50]
+E | ¡Es tan mentiroso! | 그는 정말 거짓말쟁이다!
+[20:33.50]
+W | paciente | 참을성 있는, 인내심이 강한
+[20:40.10]
+E | Es tan paciente que nunca se enfada. | 그는 참을성이 아주 많아서 절대 화를 내지 않는다.
+[20:45.80]
+W | prudente | 신중한
+[20:49.40]
+E | No conduzcas tan rápido y sé más prudente. | 그렇게 빨리 운전하지 말고 좀 더 신중해라.
+[20:55.50]
+W | puntual | 시간을 잘 지키는
+[20:58.00]
+E | El jefe llegará a tiempo. Es muy puntual. | 사장님은 제시간에 도착할 거야. 시간을 아주 잘 지키시거든.
+[21:05.60]
+W | seguro, segura | 자신 있는, 확실한
+[21:11.20]
+E | Lola es segura de sí misma y confía en sus capacidades. | 롤라는 자신감이 있고 자기 능력을 믿는다.
+[21:18.40]
+W | sensible | 민감한, 예민한
+[21:22.20]
+E | Soy sensible a los cambios de temperatura. | 나는 온도 변화에 민감하다.
+[21:27.00]
+W | sentido del humor | 유머 감각
+[21:31.40]
+E | Mi novio tiene sentido del humor y me hace reír. | 내 남자 친구는 유머 감각이 있어서 나를 웃게 한다.
+[21:37.30]
+W | serio, seria | 진지한, 심각한
+[21:43.20]
+E | ¡Qué serio es! Nunca gasta bromas. | 그는 정말 진지하다! 절대 농담을 하지 않는다.
+[21:49.10]
+W | simpático, simpática | 호감 가는, 친절한
+[21:53.60]
+E | A todo el mundo le gusta la gente simpática. | 모든 사람은 호감 가는 사람을 좋아한다.
+[22:00.70]
+W | sincero, sincera | 솔직한, 진실한
+[22:04.80]
+E | Anoche fui sincero contigo. | 어젯밤 나는 너에게 솔직했다.
+[22:09.70]
+W | sociable | 사교적인, 우호적인
+[22:15.20]
+E | Ramiro es muy sociable. Tiene muchísimos amigos. | 라미로는 아주 사교적이다. 친구가 엄청 많다.
+[22:21.00]
+W | tímido, tímida | 소심한, 수줍어하는
+[22:27.70]
+E | No seas tan tímida. | 그렇게 수줍어하지 마.
+[22:31.10]
+W | tonto, tonta | 바보, 어리석은
+[22:36.60]
+E | ¿Tú te has creído que yo soy tonta? | 너 내가 바보인 줄 알았니?
+[22:42.40]
+W | trabajador, trabajadora | 부지런한, 열심히 일하는
+[22:48.90]
+E | Ella siempre saca buenas notas porque es muy trabajadora. | 그녀는 아주 부지런해서 항상 좋은 성적을 받는다.
+[22:58.00]
+W | vago, vaga | 게으른
+[22:58.00]
+E | No trabaja nunca porque es vago. | 그는 게을러서 절대 일하지 않는다.
+
+## Unidad 5. Sentimiento · 감정
+[23:13.80]
+W | aburrido, aburrida | 심심한, 지겨운
+[23:20.70]
+E | ¿Por qué no salimos? Estoy muy aburrido. | 우리 나가지 않을래? 너무 심심해.
+[23:26.60]
+W | aguantar | 참다
+[23:29.50]
+E | Es difícil aguantar el ruido de la calle. | 거리의 소음을 참기가 힘들다.
+[23:35.30]
+W | alegre | 즐거운, 기쁜
+[23:40.00]
+E | Maribel está alegre por el ascenso de su hijo. | 마리벨은 아들의 승진으로 기뻐하고 있다.
+[23:45.70]
+W | arrepentirse | 후회하다
+[23:48.60]
+E | No me arrepiento de nada. | 나는 아무것도 후회하지 않는다.
+[23:53.50]
+W | asustar | 놀라게 하다, 겁주다
+[23:58.00]
+E | ¿Te asusta pensar en la muerte? | 죽음에 대해 생각하면 겁이 나니?
+[24:03.30]
+W | contento, contenta | 만족스러운, 기쁜
+[24:08.90]
+E | ¿Estás contenta con el coche? | 그 차에 만족하니?
+[24:13.60]
+W | deprimido, deprimida | 우울한, 풀이 죽은
+[24:19.60]
+E | No estés tan deprimido y sal. | 그렇게 우울해하지 말고 밖에 나가.
+[24:24.20]
+W | disfrutar de algo | ~을 즐기다
+[24:29.20]
+E | Disfruta de este tiempo tan agradable. | 이렇게 좋은 날씨를 즐겨라.
+[24:34.00]
+W | emocionar | 감동시키다
+[24:38.90]
+E | No te emociones tanto. | 그렇게 흥분하지 마.
+[24:42.80]
+W | enamorado, enamorada | 사랑에 빠진, 사랑하는
+[24:48.60]
+E | Estoy enamorado de Ana. | 나는 아나를 사랑하고 있다.
+[24:54.30]
+W | enfadado, enfadada | 화난
+[24:57.50]
+E | Mi madre está enfadada conmigo porque anoche volví tarde. | 어젯밤 내가 늦게 들어와서 어머니는 나에게 화가 나 있다.
+[25:05.80]
+W | envidia | 질투, 부러움
+[25:07.70]
+E | ¡Qué envidia me da verte tan contenta! | 네가 그렇게 기뻐하는 걸 보니 정말 부럽다!
+[25:13.00]
+W | estrés | 스트레스
+[25:16.30]
+E | Tenemos mucho estrés por el trabajo. | 우리는 일 때문에 스트레스가 많다.
+[25:20.50]
+W | feliz | 행복한
+[25:23.40]
+E | Siempre me haces feliz, hijo mío. | 아들아, 너는 늘 나를 행복하게 해 준다.
+[25:29.20]
+W | humor | 기분
+[25:32.30]
+E | Estoy de buen humor. | 나는 기분이 좋다.
+[25:35.80]
+W | miedo | 두려움, 공포
+[25:40.60]
+E | ¿No te dan miedo las serpientes? | 너는 뱀이 무섭지 않니?
+[25:45.60]
+W | nervioso, nerviosa | 긴장한, 초조한
+[25:51.40]
+E | Estoy nervioso porque tengo un examen. | 시험이 있어서 긴장된다.
+[25:59.10]
+W | odiar | 싫어하다, 미워하다
+[25:59.10]
+E | Odio el color marrón. | 나는 갈색이 싫다.
+[26:05.70]
+W | pena | 슬픔, 고통
+[26:11.40]
+E | Me da pena verlo sufrir así. | 그가 그렇게 고통스러워하는 것을 보니 마음이 아프다.
+[26:14.50]
+W | pobre | 불쌍한, 가련한
+[26:20.60]
+E | ¡Pobre de mí! | 아, 불쌍한 내 신세!
+[26:23.50]
+W | preocupado, preocupada | 걱정하는
+[26:29.40]
+E | Mis padres están preocupados por la salud de mi abuelo. | 부모님은 할아버지의 건강을 걱정하신다.
+[26:34.80]
+W | satisfecho, satisfecha | 만족한, 만족스러운
+[26:41.10]
+E | Me quedé satisfecha con lo que dijo mi novio. | 나는 남자 친구가 한 말에 만족했다.
+[26:47.40]
+W | sorprender | 놀라게 하다
+[26:51.10]
+E | Me sorprendieron sus ideas. | 그의 생각들이 나를 놀라게 했다.
+[26:55.30]
+W | tranquilo, tranquila | 침착한, 평온한
+[27:02.10]
+E | El día del examen estaba bastante tranquilo. | 시험 날 나는 꽤 침착했다.
+[27:07.30]
+W | triste | 슬픈
+[27:09.80]
+E | Me puse triste cuando oí la noticia. | 그 소식을 들었을 때 나는 슬퍼졌다.
+
+## Unidad 6. Pensamiento · 사고
+[27:26.50]
+W | aprender | 배우다
+[27:30.00]
+E | Aprendo a montar en bicicleta. | 나는 자전거 타기를 배운다.
+[27:34.80]
+W | buscar | 찾다
+[27:38.60]
+E | Yo no busco la fama. | 나는 명성을 좇지 않는다.
+[27:43.40]
+W | comprender | 이해하다
+[27:46.40]
+E | Ella te comprende perfectamente. | 그녀는 너를 완벽하게 이해한다.
+[27:51.90]
+W | decidir | 결정하다
+[27:54.80]
+E | Decidieron no ir. | 그들은 가지 않기로 결정했다.
+[27:59.50]
+W | encontrar | 발견하다, 찾다
+[28:04.60]
+E | Al final encontré la casa. | 결국 나는 그 집을 찾았다.
+[28:08.60]
+W | entender | 이해하다
+[28:12.60]
+E | No entendí la pregunta. | 나는 질문을 이해하지 못했다.
+[28:16.60]
+W | equivocarse | 틀리다, 혼동하다
+[28:22.60]
+E | Te equivocas, eso no es así. | 네가 틀렸어, 그건 그렇지 않아.
+[28:27.60]
+W | esperar | 기다리다, 바라다
+[28:32.60]
+E | Espero que te haya gustado el regalo. | 선물이 마음에 들었기를 바란다.
+[28:37.50]
+W | estudiar | 공부하다
+[28:41.20]
+E | Estoy estudiando español en una academia. | 나는 학원에서 스페인어를 공부하고 있다.
+[28:46.40]
+W | ignorar | 모르다
+[28:50.50]
+E | Ignoramos dónde vive Nacho. | 우리는 나초가 어디 사는지 모른다.
+[28:54.40]
+W | imaginar | 상상하다
+[28:57.50]
+E | Me imagino que tendrás hambre. | 너 배고프겠구나.
+[29:03.60]
+W | interesarse | 관심을 갖다
+[29:07.10]
+E | Mi primo se interesa por Miriam. | 내 사촌은 미리암에게 관심이 있다.
+[29:13.30]
+W | mente | 정신, 생각
+[29:16.60]
+E | No podía apartar de la mente tus palabras. | 나는 네 말을 머릿속에서 떨쳐 낼 수 없었다.
+[29:21.90]
+W | olvidar | 잊어버리다
+[29:25.50]
+E | He olvidado su número de teléfono. | 나는 그의 전화번호를 잊어버렸다.
+[29:30.00]
+W | opinar | 의견을 갖다, 의견을 나타내다
+[29:36.90]
+E | Prefiero no opinar sobre la cuestión. | 나는 그 문제에 대해 의견을 말하지 않는 편이 좋겠다.
+[29:41.60]
+W | pensar | 생각하다
+[29:43.40]
+E | Pienso ir a bailar. | 나는 춤추러 갈 생각이다.
+[29:49.00]
+W | recordar | 기억하다
+[29:50.90]
+E | Recuerdo que no comías pescado. | 네가 생선을 먹지 않았던 게 기억난다.
+[29:57.40]
+W | saber | 알다
+[29:59.90]
+E | ¿No sabéis cuánto os quiero? | 내가 너희를 얼마나 사랑하는지 모르니?
+[30:04.90]
+W | sentir | 느끼다
+[30:06.30]
+E | De repente sentí frío. | 갑자기 추위를 느꼈다.
+[30:13.40]
+W | soñar | 꿈꾸다
+[30:14.80]
+E | Juan sueña con ser piloto. | 후안은 조종사가 되기를 꿈꾼다.
+
+## Unidad 7. Salud · 건강
+[30:49.50]
+W | apetito | 식욕
+[30:52.30]
+E | El olor del aceite me quitó el apetito. | 기름 냄새 때문에 식욕이 없어졌다.
+[30:57.40]
+W | cansado, cansada | 피곤한
+[31:01.80]
+E | ¿Qué te pasa? Te veo muy cansada. | 무슨 일 있니? 너 아주 피곤해 보여.
+[31:07.40]
+W | cuidar | 돌보다
+[31:10.30]
+E | La mamá cuida a los hijos. | 엄마가 아이들을 돌본다.
+[31:14.80]
+W | curar | 치료하다, 낫게 하다
+[31:15.80]
+E | El doctor le curó la herida. | 의사가 그의 상처를 치료했다.
+[31:22.70]
+W | dentista | 치과 의사
+[31:28.60]
+E | Su madre es dentista. | 그의 어머니는 치과 의사다.
+[31:32.50]
+W | dolor | 고통, 통증
+[31:35.90]
+E | La herida me produce mucho dolor. | 상처 때문에 몹시 아프다.
+[31:40.30]
+W | embarazo | 임신
+[31:43.30]
+E | Hay que cuidarse mucho durante el embarazo. | 임신 중에는 몸조심을 많이 해야 한다.
+[31:49.20]
+W | encontrarse bien, encontrarse mal | 컨디션이 좋다, 컨디션이 나쁘다
+[31:58.70]
+E | ¿Te encuentras mal? | 몸이 안 좋니?
+[32:02.70]
+W | enfermedad | 질병, 병
+[32:06.30]
+E | En el siglo XXV no habrá enfermedades. | 25세기에는 질병이 없을 것이다.
+[32:12.10]
+W | enfermo, enferma | 아픈, 병에 걸린, 환자
+[32:19.80]
+E | Se puso enferma cuando tocó el animal. | 그녀는 그 동물을 만지고 나서 병이 났다.
+[32:25.00]
+W | farmacia | 약국
+[32:28.30]
+E | Allí hay una farmacia. | 저기에 약국이 있다.
+[32:32.80]
+W | fiebre | 열
+[32:35.10]
+E | Mi hijo tiene mucha fiebre. | 내 아들은 열이 많이 난다.
+[32:39.80]
+W | grave | 심각한, 위중한
+[32:45.80]
+E | Hubo diez heridos graves en aquel accidente. | 그 사고로 중상자가 열 명 나왔다.
+[32:50.80]
+W | gripe | 독감
+[32:54.80]
+E | Josefa tiene la gripe. | 호세파는 독감에 걸렸다.
+[32:57.80]
+W | herir | 상처를 입히다
+[33:02.80]
+E | El ladrón hirió al policía en el brazo. | 도둑이 경찰의 팔에 상처를 입혔다.
+[33:06.80]
+W | hospital | 병원
+[33:10.30]
+E | ¿Dónde está el hospital de la Cruz Roja? | 적십자 병원은 어디에 있나요?
+[33:16.20]
+W | inyección | 주사
+[33:19.00]
+E | La enfermera viene a ponerme una inyección. | 간호사가 내게 주사를 놓으러 온다.
+[33:24.20]
+W | mareado, mareada | 어지러운, 멀미 나는
+[33:28.50]
+E | Estaba mareada porque había leído en el coche. | 차 안에서 책을 읽었더니 멀미가 났다.
+[33:34.90]
+W | medicina | 약, 의학
+[33:38.90]
+E | ¿Te has tomado ya la medicina? | 약은 벌써 먹었니?
+[33:42.90]
+W | médico, médica | 의사
+[33:47.60]
+E | Los médicos cuidan a los pacientes. | 의사들은 환자들을 돌본다.
+[33:52.30]
+W | paciente | 환자
+[33:55.90]
+E | Los pacientes necesitan descansar. | 환자들은 쉬어야 한다.
+[34:00.40]
+W | pedir hora | 예약하다
+[34:03.20]
+E | Quiero pedir hora con la doctora López. | 로페스 선생님께 진료 예약을 하고 싶어요.
+[34:08.30]
+W | picar | 가렵다, 따끔거리다
+[34:14.40]
+E | Me pica la espalda. | 등이 가렵다.
+[34:17.90]
+W | quemarse | 데다, 화상을 입다
+[34:23.60]
+E | Me quemé la lengua con la sopa. | 수프에 혀를 데었다.
+[34:27.80]
+W | receta médica | 처방전
+[34:31.30]
+E | Voy a la farmacia con receta médica. | 나는 처방전을 가지고 약국에 간다.
+[34:37.10]
+W | reposo | 안정, 휴식
+[34:41.80]
+E | Usted necesita guardar reposo unos días. | 당신은 며칠 동안 안정을 취해야 합니다.
+[34:47.50]
+W | resfriado, resfriada | 감기, 감기에 걸린
+[34:53.90]
+E | Los niños están resfriados. | 아이들이 감기에 걸렸다.
+[34:59.10]
+W | salud | 건강
+[35:02.00]
+E | ¿Cómo está de salud, abuela? | 할머니, 건강은 어떠세요?
+[35:07.10]
+W | sangrar | 피가 나다
+[35:09.70]
+E | El joven chocó contra la pared y le sangró la nariz. | 그 청년은 벽에 부딪쳐 코피가 났다.
+[35:16.30]
+W | sano, sana | 건강한
+[35:19.70]
+E | No se preocupe, el niño está muy sano. | 걱정 마세요, 아이는 아주 건강해요.
+[35:25.80]
+W | seguro médico | 의료 보험
+[35:29.60]
+E | ¿Tienes seguro médico? | 너는 의료 보험이 있니?
+[35:34.20]
+W | temperatura | 온도, 체온
+[35:38.30]
+E | La temperatura se mide con el termómetro. | 체온은 체온계로 잰다.
+[35:44.50]
+W | tensión | 혈압, 긴장
+[35:49.10]
+E | Mi madre tiene la tensión baja por la mañana. | 어머니는 아침에 혈압이 낮다.
+[35:54.60]
+W | termómetro | 체온계, 온도계
+[35:59.60]
+E | Ponle el termómetro a la niña. | 여자아이에게 체온계를 대 줘.
+[36:04.00]
+W | tos | 기침
+[36:06.60]
+E | Tengo tos y no puedo comer nada. | 기침이 나서 아무것도 먹을 수 없다.
+[36:12.40]
+W | urgencias | 응급실
+[36:15.80]
+E | Anoche tuvimos que ir a urgencias. | 어젯밤 우리는 응급실에 가야 했다.
+[36:20.90]
+W | vida | 생명, 삶
+[36:22.60]
+E | He vivido aquí toda mi vida. | 나는 평생 여기서 살았다.
+[36:29.50]
+W | vomitar | 토하다
+[36:32.40]
+E | Eso me da ganas de vomitar. | 그걸 보니 토할 것 같다.
+
+## Capítulo 2 · Unidad 1. Familia · 가족
+[37:11.80]
+W | abuelo, abuela | 할아버지, 할머니
+[37:17.50]
+E | Les presento a mis abuelos. | 제 조부모님을 소개합니다.
+[37:22.10]
+W | antepasado, antepasada | 선조, 조상
+[37:27.40]
+E | Uno de sus antepasados se casó con una princesa. | 그의 조상 중 한 명은 공주와 결혼했다.
+[37:34.10]
+W | cuñado, cuñada | 처남, 매부, 올케, 시누이
+[37:42.40]
+E | Tu cuñado te ha llamado. | 네 처남이 너에게 전화했었다.
+[37:46.80]
+W | esposo, esposa | 남편, 부인
+[37:52.30]
+E | Mi esposo y yo nos conocimos cuando teníamos veinte años. | 남편과 나는 스무 살 때 만났다.
+[37:59.70]
+W | familia | 가족
+[38:03.30]
+E | ¿Cuántos sois en tu familia? | 너희 가족은 몇 명이니?
+[38:07.00]
+W | hermano, hermana | 형제, 자매
+[38:12.30]
+E | Mi hermano me lleva tres años. | 우리 형은 나보다 세 살 많다.
+[38:17.40]
+W | hijo, hija | 아들, 딸
+[38:22.80]
+E | Tengo un hijo y dos hijas. | 나는 아들 하나와 딸 둘이 있다.
+[38:27.20]
+W | hogar | 가정, 집
+[38:31.20]
+E | Nos casamos y formamos un hogar. | 우리는 결혼해서 가정을 꾸렸다.
+[38:36.00]
+W | madre | 어머니
+[38:39.10]
+E | Él ha llamado a mi madre esta mañana. | 그가 오늘 아침 우리 어머니에게 전화했다.
+[38:44.20]
+W | marido | 남편
+[38:46.20]
+E | Mi hijo y mi marido no se parecen mucho. | 내 아들과 남편은 별로 닮지 않았다.
+[38:52.90]
+W | mujer | 부인, 여자
+[38:56.30]
+E | Mi futura mujer trabaja en un banco. | 내 미래의 아내는 은행에서 일한다.
+[39:01.90]
+W | nieto, nieta | 손자, 손녀
+[39:07.10]
+E | Todos los nietos se reunieron para celebrar el cumpleaños de la abuela. | 손주들이 모두 모여 할머니의 생신을 축하했다.
+[39:15.10]
+W | nuera | 며느리
+[39:18.20]
+E | Yo soy la nuera del señor Martínez. | 저는 마르티네스 씨의 며느리입니다.
+[39:23.10]
+W | padre | 아버지
+[39:25.60]
+E | El padre de José murió hace cinco años. | 호세의 아버지는 5년 전에 돌아가셨다.
+[39:32.10]
+W | pariente | 친척
+[39:34.70]
+E | Vinieron mis parientes a felicitarme. | 친척들이 나를 축하하러 왔다.
+[39:39.90]
+W | primo, prima | 사촌
+[39:42.60]
+E | Un primo suyo es futbolista. | 그의 사촌 중 한 명은 축구 선수다.
+[39:47.90]
+W | sobrino, sobrina | 조카
+[39:52.20]
+E | Tendré una sobrina el mes que viene. | 다음 달에 나는 조카딸이 생긴다.
+[39:56.70]
+W | suegro, suegra | 시아버지, 시어머니, 장인, 장모
+[40:03.60]
+E | Los sábados vamos a comer a casa de mis suegros. | 토요일마다 우리는 시댁에 가서 식사한다.
+[40:09.60]
+W | tío, tía | 삼촌, 고모
+[40:14.00]
+E | Mi tía es siete años menor que mi madre. | 우리 이모는 어머니보다 일곱 살 어리다.
+[40:20.90]
+W | yerno | 사위
+[40:22.50]
+E | De los tres yernos míos, el marido de mi hija mayor es el que mejor me cae. | 내 사위 셋 중에서 큰딸의 남편이 가장 마음에 든다.
+
+## Unidad 2. Vida · 일생
+[40:42.50]
+W | adolescente | 청소년, 청소년기의
+[40:50.00]
+E | Es profesor de instituto y da clases a adolescentes. | 그는 고등학교 교사로 청소년들을 가르친다.
+[40:55.00]
+W | adulto, adulta | 성인, 어른
+[41:00.90]
+E | Esta película es para adultos. | 이 영화는 성인용이다.
+[41:19.40]
+W | bautizar | 세례를 주다
+[41:22.90]
+E | El sacerdote la bautizó en enero. | 신부님이 1월에 그녀에게 세례를 주었다.
+[41:30.90]
+W | bebé | 아기
+[41:30.90]
+E | ¿Tu bebé es niño o niña? | 네 아기는 아들이니, 딸이니?
+[41:36.40]
+W | boda | 결혼식
+[41:39.30]
+E | Su boda tuvo lugar en una iglesia muy bonita. | 그들의 결혼식은 아주 예쁜 교회에서 열렸다.
+[41:45.50]
+W | casado, casada | 결혼한, 기혼자
+[41:51.50]
+E | Merche está casada con mi primo. | 메르체는 내 사촌과 결혼했다.
+[41:56.10]
+W | casarse | 결혼하다
+[41:59.00]
+E | ¿Cuándo te casas? | 너 언제 결혼하니?
+[42:03.00]
+W | chico, chica | 소년, 소녀, 청년, 아가씨
+[42:11.60]
+E | Las chicas de la oficina son de Barcelona. | 사무실 아가씨들은 바르셀로나 출신이다.
+[42:16.00]
+W | crecer | 성장하다, 자라다
+[42:20.10]
+E | Crecí en Buenos Aires. | 나는 부에노스아이레스에서 자랐다.
+[42:24.70]
+W | criar | 기르다, 키우다
+[42:27.20]
+E | Los crió su abuela hasta los diez años. | 그들은 열 살 때까지 할머니 손에 자랐다.
+[42:33.00]
+W | dar a luz | 낳다, 출산하다
+[42:38.30]
+E | Mi hermana acaba de dar a luz a una niña. | 언니가 막 딸을 낳았다.
+[42:43.50]
+W | destino | 운명
+[42:45.80]
+E | Es mi destino vivir lejos de casa. | 집에서 멀리 떨어져 사는 것이 내 운명이다.
+[42:51.60]
+W | divorciarse | 이혼하다
+[42:54.40]
+E | Tras dos años de matrimonio, decidieron divorciarse. | 결혼 2년 만에 그들은 이혼하기로 했다.
+[43:01.60]
+W | educación | 교육
+[43:03.40]
+E | Quieren darles a sus hijos una buena educación. | 그들은 자녀들에게 좋은 교육을 시키고 싶어 한다.
+[43:10.20]
+W | enamorarse | 사랑에 빠지다
+[43:13.00]
+E | Los dos jóvenes se enamoraron locamente. | 두 젊은이는 미친 듯이 사랑에 빠졌다.
+[43:20.30]
+W | envejecer | 늙다
+[43:24.40]
+E | En un año envejeció mucho. | 그는 1년 사이에 많이 늙었다.
+[43:28.80]
+W | funeral | 장례식
+[43:32.20]
+E | Todos los familiares asistieron a los funerales. | 모든 가족이 장례식에 참석했다.
+[43:38.00]
+W | joven | 젊은이, 아가씨, 젊은
+[43:43.90]
+E | Un joven me ayudó en el accidente. | 사고가 났을 때 한 젊은이가 나를 도와주었다.
+[43:49.10]
+W | llevar años juntos | ~년째 함께하다
+[43:56.50]
+E | Mis abuelos llevan 60 años juntos. | 우리 조부모님은 60년째 함께 살고 계신다.
+[44:03.20]
+W | luna de miel | 신혼여행
+[44:07.00]
+E | Están de luna de miel en La Habana. | 그들은 아바나로 신혼여행 중이다.
+[44:13.00]
+W | matrimonio | 부부, 결혼
+[44:15.80]
+E | A la fiesta solo van los matrimonios. | 그 파티에는 부부들만 간다.
+[44:21.70]
+W | mayor | 성인, 노인, 나이가 든
+[44:29.80]
+E | Nuestros hijos ya son mayores. | 우리 아이들은 이제 다 컸다.
+[44:34.40]
+W | morir | 죽다
+[44:36.90]
+E | Un amigo de mi padre murió de repente. | 아버지의 친구 한 분이 갑자기 돌아가셨다.
+[44:42.50]
+W | muchacho, muchacha | 소년, 소녀, 젊은이
+[44:50.40]
+E | Aquella muchacha rubia es mi hija Susana. | 저 금발 아가씨가 내 딸 수사나다.
+[44:56.20]
+W | nacer | 태어나다
+[44:59.60]
+E | Che Guevara nació en Argentina. | 체 게바라는 아르헨티나에서 태어났다.
+[45:04.20]
+W | niñez | 어린 시절, 유년기
+[45:09.60]
+E | Pasó su niñez en casa de sus abuelos. | 그는 어린 시절을 조부모님 댁에서 보냈다.
+[45:14.90]
+W | novio, novia | 애인, 약혼자
+[45:20.00]
+E | Mi novia trabaja en una escuela. | 내 여자 친구는 학교에서 일한다.
+[45:24.90]
+W | pareja | 커플, 짝
+[45:27.40]
+E | En este juego hay que formar parejas. | 이 게임에서는 짝을 지어야 한다.
+[45:32.30]
+W | salir con alguien | ~와 사귀다
+[45:37.40]
+E | Desde esta semana salgo con Miguel. | 이번 주부터 나는 미겔과 사귄다.
+[45:42.70]
+W | separarse | 헤어지다, 별거하다
+[45:47.50]
+E | ¿En qué año se separó usted de su marido? | 당신은 몇 년도에 남편과 헤어지셨나요?
+[45:52.30]
+W | soltero, soltera | 미혼 남, 미혼 여, 미혼의
+[45:59.80]
+E | Estoy soltera. | 나는 미혼이다.
+[46:02.10]
+W | tener éxito | 성공하다
+[46:06.60]
+E | Su negocio tiene mucho éxito y gana mucho dinero. | 그의 사업은 크게 성공해서 돈을 많이 번다.
+[46:14.00]
+W | vejez | 노년, 노년기
+[46:16.70]
+E | Las piernas se vuelven débiles en la vejez. | 노년에는 다리가 약해진다.
+[46:22.30]
+W | viudo, viuda | 홀아비, 미망인
+[46:30.30]
+E | Murió su mujer y se quedó viudo. | 그는 아내가 죽어서 홀아비가 되었다.
+
+## Unidad 3. Relaciones personales · 인간관계
+[46:57.00]
+W | caballero | 신사, 기사
+[47:01.80]
+E | Miguel es todo un caballero. | 미겔은 정말 신사다.
+[47:06.20]
+W | caer bien a alguien, caer mal a alguien | 누구의 마음에 들다, 누구의 마음에 들지 않다
+[47:18.70]
+E | Mi novio no le cayó bien a mi padre. | 아버지는 내 남자 친구를 마음에 들어 하지 않았다.
+[47:24.00]
+W | cita | 약속, 만날 약속
+[47:28.10]
+E | Mañana tengo una cita de trabajo. | 내일 나는 업무 약속이 있다.
+[47:33.30]
+W | colega | 동료, 동업자
+[47:37.60]
+E | Ignacio se reunió con sus colegas para discutir el asunto. | 이그나시오는 그 문제를 논의하려고 동료들과 모였다.
+[47:43.60]
+W | compañero, compañera | 동료, 짝
+[47:49.40]
+E | He visto a tu compañero de la oficina en el parque. | 공원에서 네 회사 동료를 봤다.
+[47:53.50]
+W | dama | 숙녀, 귀부인
+[48:00.10]
+E | Antes, las damas llevaban abanico. | 예전에 귀부인들은 부채를 들고 다녔다.
+[48:05.20]
+W | discusión | 토론, 논의, 논쟁
+[48:09.50]
+E | Eso está en discusión. | 그것은 논의 중이다.
+[48:13.70]
+W | hombre | 인간, 남자
+[48:18.50]
+E | Es hombre de pocas palabras. | 그는 말수가 적은 남자다.
+[48:22.80]
+W | huésped | 손님, 숙박객
+[48:28.00]
+E | Actualmente tienen tres huéspedes permanentes. | 현재 그들에게는 장기 투숙객이 세 명 있다.
+[48:33.90]
+W | individuo | 개인, 사람
+[48:38.60]
+E | Dos individuos entraron en casa y robaron las joyas y el dinero. | 두 사람이 집에 들어와 보석과 돈을 훔쳤다.
+[48:44.90]
+W | madrina | 대모, 들러리
+[48:47.80]
+E | La madrina de la boda fue la madre del novio. | 결혼식의 대모는 신랑의 어머니였다.
+[48:53.90]
+W | padrino | 대부
+[48:57.00]
+E | En las bodas, el padrino acompaña a la novia al altar. | 결혼식에서 대부는 신부와 함께 제단까지 걸어간다.
+[49:03.10]
+W | persona | 사람, 인간, 인물
+[49:09.60]
+E | Unas cien personas asistieron al concierto. | 약 100명이 그 콘서트에 참석했다.
+[49:14.80]
+W | vecino, vecina | 이웃
+[49:16.50]
+E | El vecino de al lado nos ayuda mucho. | 옆집 이웃이 우리를 많이 도와준다.
+
+## Unidad 4. Acciones cotidianas · 일상생활
+[49:36.00]
+W | acostarse | 눕다, 잠자리에 들다
+[49:42.70]
+E | Nos acostamos tarde, como a las dos de la madrugada. | 우리는 새벽 두 시쯤 늦게 잠자리에 들었다.
+[49:49.30]
+W | almorzar | 점심을 먹다, 늦은 아침을 먹다
+[49:55.10]
+E | Vamos a almorzar, ya que no hemos desayunado. | 아침을 안 먹었으니 점심 먹으러 가자.
+[50:02.30]
+W | bañarse | 목욕하다
+[50:05.00]
+E | Siempre me baño por la noche. | 나는 항상 밤에 목욕한다.
+[50:09.50]
+W | cena | 저녁 식사
+[50:12.70]
+E | Ella nos invitó a una cena en el restaurante. | 그녀는 식당에서 우리에게 저녁을 대접했다.
+[50:19.50]
+W | comida | 음식, 식사, 점심 식사
+[50:23.70]
+E | No sirven comidas después de las cuatro. | 4시 이후에는 식사를 제공하지 않는다.
+[50:30.00]
+W | desayuno | 아침 식사
+[50:32.50]
+E | El desayuno está preparado en la cama. | 아침 식사가 침대에 차려져 있다.
+[50:39.10]
+W | ducharse | 샤워하다
+[50:42.00]
+E | ¿Por qué no te duchas ahora? | 지금 샤워하는 게 어때?
+[50:45.90]
+W | hacer la cama | 침대를 정리하다
+[50:50.60]
+E | Tienes que hacer la cama antes de desayunar. | 아침 먹기 전에 침대를 정리해야 한다.
+[50:56.20]
+W | ir a trabajar | 출근하다
+[50:59.70]
+E | ¿Va a trabajar en su coche? | 당신은 자가용으로 출근하세요?
+[51:04.10]
+W | lavarse la cara | 세수하다
+[51:04.10]
+E | Lávate la cara y los dientes. | 세수하고 이를 닦아라.
+[51:13.50]
+W | levantarse | 일어나다
+[51:13.50]
+E | Mi madre se levanta a las seis y me despierta. | 어머니는 6시에 일어나서 나를 깨운다.
+[51:22.30]
+W | merienda | 간식
+[51:22.30]
+E | Hoy no voy a llevar la merienda. | 오늘은 간식을 안 가져갈 거야.
+[51:31.30]
+W | reunirse | 모이다, 모임을 갖다
+[51:36.40]
+E | Todos sus amigos se reunieron para ayudarlo. | 그의 친구들이 모두 그를 돕기 위해 모였다.
+[51:41.20]
+W | sacar al perro | 개를 산책시키다
+[51:49.00]
+E | No te olvides de sacar al perro. | 개 산책시키는 거 잊지 마.
+[51:53.20]
+W | salir | 나가다, 떠나다
+[51:55.80]
+E | ¿A qué hora sales de la oficina? | 너는 몇 시에 퇴근하니?
+
+## Unidad 5. Profesión · 직업
+[52:12.20]
+W | abogado, abogada | 변호사
+[52:16.90]
+E | De mayor quiero ser abogada. | 나는 커서 변호사가 되고 싶다.
+[52:21.80]
+W | actor, actriz | 배우
+[52:24.70]
+E | ¿Sabes el nombre del actor de la película que vimos ayer? | 어제 본 영화의 배우 이름을 아니?
+[52:32.50]
+W | agricultor, agricultora | 농부
+[52:36.30]
+E | Los jóvenes de hoy no quieren ser agricultores. | 요즘 젊은이들은 농부가 되고 싶어 하지 않는다.
+[52:42.00]
+W | ama de casa | 주부
+[52:43.60]
+E | Mi mamá es ama de casa. | 우리 엄마는 주부다.
+[52:54.70]
+W | arquitecto, arquitecta | 건축가
+[52:54.70]
+E | El edificio diseñado por la arquitecta es mundialmente famoso. | 그 건축가가 설계한 건물은 세계적으로 유명하다.
+[53:07.40]
+W | asistente | 조수, 보조원
+[53:07.40]
+E | La directora llamó a su asistente. | 여자 국장이 자기 비서를 불렀다.
+[53:15.40]
+W | bombero, bombera | 소방관
+[53:15.40]
+E | Hay que cederles el paso a los bomberos. | 소방관들에게 길을 양보해야 한다.
+[53:23.50]
+W | cajero, cajera | 계산원
+[53:23.50]
+E | Voy a la cajera para pagar esto. | 이것을 계산하러 계산원에게 간다.
+[53:33.10]
+W | camarero, camarera | 웨이터, 웨이트리스
+[53:33.10]
+E | Estoy aquí de camarero durante el verano. | 나는 여름 동안 여기서 웨이터로 일한다.
+[53:43.60]
+W | cantante | 가수
+[53:47.50]
+E | Los cantantes de K-Pop visitan París este fin de semana. | 케이팝 가수들이 이번 주말 파리를 방문한다.
+[53:53.50]
+W | carpintero, carpintera | 목수
+[53:58.70]
+E | Martín es carpintero de muebles. | 마르틴은 가구 목수다.
+[54:03.10]
+W | cartero, cartera | 우체부, 집배원
+[54:07.50]
+E | El cartero no ha traído hoy la carta de mi madre. | 오늘 집배원이 어머니의 편지를 가져오지 않았다.
+[54:14.50]
+W | cocinero, cocinera | 요리사
+[54:18.10]
+E | El cocinero es un vasco de mucha fama. | 그 요리사는 아주 유명한 바스크 사람이다.
+[54:23.40]
+W | conductor, conductora | 운전기사
+[54:27.60]
+E | El conductor paró el coche ante el paso de peatones. | 운전기사는 횡단보도 앞에서 차를 세웠다.
+[54:36.40]
+W | dependiente, dependienta | 점원, 종업원
+[54:40.20]
+E | Ella ya trabaja como dependienta en una tienda. | 그녀는 이미 가게에서 점원으로 일한다.
+[54:45.60]
+W | diseñador, diseñadora | 디자이너
+[54:52.60]
+E | Él es diseñador de moda y ella es diseñadora de muebles. | 그는 패션 디자이너이고 그녀는 가구 디자이너다.
+[54:59.50]
+W | empleado, empleada | 직원, 종업원
+[55:01.30]
+E | La dueña no está en este momento. Yo soy un empleado. | 사장님은 지금 안 계세요. 저는 직원입니다.
+[55:10.00]
+W | enfermero, enfermera | 간호사
+[55:10.00]
+E | El enfermero levantó al paciente. | 간호사가 환자를 일으켜 세웠다.
+[55:20.10]
+W | escritor, escritora | 작가
+[55:20.10]
+E | Es una conocida escritora de novelas de ciencia ficción. | 그녀는 유명한 공상 과학 소설 작가다.
+[55:29.80]
+W | fotógrafo, fotógrafa | 사진작가
+[55:33.80]
+E | Trabaja en un importante periódico como fotógrafo. | 그는 주요 신문사에서 사진 기자로 일한다.
+[55:40.70]
+W | funcionario, funcionaria | 공무원
+[55:44.40]
+E | Mi padre es funcionario de policía. | 우리 아버지는 경찰 공무원이다.
+[55:50.30]
+W | guardia | 경비원, 경비
+[55:54.50]
+E | Le preguntamos a un guardia cómo se iba al puerto. | 우리는 경비원에게 항구로 가는 길을 물었다.
+[56:01.70]
+W | intérprete | 통역사
+[56:04.40]
+E | Acompaña al presidente en su viaje oficial un intérprete de ruso. | 러시아어 통역사가 대통령의 공식 순방에 동행한다.
+[56:11.70]
+W | jardinero, jardinera | 정원사
+[56:15.70]
+E | A mi marido le gustan mucho las flores. Es un buen jardinero. | 남편은 꽃을 아주 좋아한다. 훌륭한 정원사다.
+[56:22.60]
+W | jefe, jefa | 책임자, 국장, 과장
+[56:29.70]
+E | ¿Quién es el jefe aquí? | 여기 책임자가 누구죠?
+[56:33.30]
+W | juez, jueza | 판사
+[56:38.10]
+E | La jueza lo condenó a 20 años de cárcel. | 판사는 그에게 징역 20년을 선고했다.
+[56:43.70]
+W | maestro, maestra | 선생님, 교사
+[56:45.70]
+E | Mi tía es maestra. | 우리 이모는 교사다.
+[56:52.80]
+W | mecánico, mecánica | 정비사
+[56:58.50]
+E | El mecánico me dijo que la reparación iba a ser muy cara. | 정비사는 수리비가 아주 비쌀 거라고 내게 말했다.
+[57:05.40]
+W | médico, médica | 의사
+[57:09.20]
+E | ¿En esta sala hay algún médico? | 이 홀에 의사 계신가요?
+[57:13.70]
+W | minero, minera | 광부
+[57:13.70]
+E | Algunas minas han empezado a admitir mineras. | 몇몇 광산은 여자 광부를 받아들이기 시작했다.
+[57:25.30]
+W | modelo | 모델
+[57:25.30]
+E | Si quieres ser mi modelo, debes estarte quieta. | 내 모델이 되고 싶으면 가만히 있어야 해.
+[57:33.00]
+W | obrero, obrera | 노동자
+[57:33.00]
+E | En esa fábrica trabajan cerca de mil obreros. | 그 공장에서는 천 명 가까운 노동자가 일한다.
+[57:43.70]
+W | oficio | 직업, 일
+[57:43.70]
+E | Mi oficio es enseñar español. | 내 직업은 스페인어를 가르치는 것이다.
+[57:52.80]
+W | panadero, panadera | 제빵사
+[57:56.40]
+E | Mis padres son panaderos y hacen el pan más rico del mundo. | 우리 부모님은 제빵사이고 세상에서 가장 맛있는 빵을 만드신다.
+[58:04.40]
+W | peluquero, peluquera | 미용사
+[58:07.60]
+E | ¿A qué peluquero vas? Es que te han cortado muy bien el pelo. | 어느 미용사한테 가니? 머리를 아주 잘 잘랐네.
+[58:15.00]
+W | periodista | 기자, 저널리스트
+[58:19.50]
+E | En aquella guerra murieron también los periodistas extranjeros. | 그 전쟁에서는 외국인 기자들도 목숨을 잃었다.
+[58:26.80]
+W | pescador, pescadora | 어부, 낚시꾼
+[58:31.70]
+E | La mayoría de los habitantes de este pueblo son pescadores. | 이 마을 주민 대부분은 어부다.
+[58:38.70]
+W | piloto | 조종사, 운전사
+[58:43.20]
+E | Los pilotos se presentaron a los pasajeros. | 조종사들이 승객들에게 자신을 소개했다.
+[58:49.10]
+W | pintor, pintora | 화가
+[58:53.20]
+E | Picasso fue un pintor español nacido en Málaga. | 피카소는 말라가에서 태어난 스페인 화가였다.
+[58:59.60]
+W | policía | 경찰
+[59:02.80]
+E | Varios policías fueron corriendo al lugar del accidente. | 경찰 여러 명이 사고 현장으로 달려갔다.
+[59:09.00]
+W | profesor, profesora | 교수, 선생님
+[59:15.00]
+E | Mi profesora de lengua ha publicado varias novelas. | 우리 국어 선생님은 소설을 여러 권 출간했다.
+[59:20.90]
+W | secretario, secretaria | 비서
+[59:25.70]
+E | Si quiere hablar con la directora, hable primero con su secretario. | 국장님과 이야기하고 싶으시면 먼저 비서와 이야기하세요.
+[59:33.10]
+W | taxista | 택시 기사
+[59:36.30]
+E | A este restaurante vienen muchos taxistas para comer. | 이 식당에는 택시 기사들이 많이 식사하러 온다.
+[59:42.10]
+W | vendedor, vendedora | 판매원, 상인
+[59:46.50]
+E | Es el mejor vendedor de seguros de su departamento. | 그는 자기 부서 최고의 보험 판매원이다.
+[59:54.20]
+W | veterinario, veterinaria | 수의사
+[59:54.20]
+E | Llevé al perro enfermo al veterinario. | 나는 아픈 개를 수의사에게 데려갔다.

@@ -1,0 +1,1265 @@
+# 형식: [mm:ss.ss] 시작 시각 / ## 단원 / 화자 | 원문 | 한국어
+# W = 표제어(스페인어 단어 | 한국어 뜻), E = 예문(스페인어 예문 | 한국어 번역)
+# 원본: 「스페인어 어휘를 부탁해」 MP3 4/4 구간 (185:26부터). Whisper 받아쓰기 시각으로 단어·예문별 싱크, 잘못 들린 부분과 한국어 뜻은 손으로 바로잡았어요.
+END 52:11
+
+
+## Capítulo 9 · Unidad 1. Cine, obra de teatro · 영화, 연극
+[00:03.80]
+W | banda sonora | 영화 음악, 사운드트랙
+[00:21.10]
+E | La banda sonora de esta película es ya un clásico del cine. | 이 영화의 사운드트랙은 이미 영화계의 고전이다.
+[00:27.30]
+W | cartelera | (영화·공연) 광고판, 상영 안내
+[00:31.70]
+E | Miré la cartelera para ver si había alguna película interesante. | 재미있는 영화가 있는지 보려고 상영 안내판을 살펴봤다.
+[00:38.00]
+W | cine | 영화관, 영화
+[00:42.90]
+E | Voy a comprar entradas para el cine. | 영화표를 사러 간다.
+[00:48.00]
+W | comedia | 희극, 코미디
+[00:50.40]
+E | Hay un teatro en el que solo representan comedias. | 희극만 공연하는 극장이 하나 있다.
+[00:56.70]
+W | dibujo animado | 만화 영화, 애니메이션
+[01:02.30]
+E | No solo a los niños les gustan los dibujos animados. | 만화 영화를 좋아하는 건 아이들만이 아니다.
+[01:08.60]
+W | director, directora | 감독
+[01:11.40]
+E | Pedro Almodóvar es el director de cine español más famoso del mundo. | 페드로 알모도바르는 세계에서 가장 유명한 스페인 영화감독이다.
+[01:18.30]
+W | entrada | 입장권, 표
+[01:22.80]
+E | Las entradas para el cine están cada vez más caras. | 영화표가 점점 더 비싸지고 있다.
+[01:28.30]
+W | escena | 무대, 장면
+[01:32.80]
+E | Prepararon la escena para la función. | 그들은 공연을 위해 무대를 준비했다.
+[01:37.60]
+W | espectáculo | 관람물, 쇼
+[01:42.00]
+E | Está metido en el mundo del espectáculo. | 그는 연예계에 몸담고 있다.
+[01:47.20]
+W | espectador, espectadora | 관객
+[01:52.20]
+E | Acudieron más de 2.000 espectadores a su actuación. | 그의 공연에 2,000명이 넘는 관객이 찾아왔다.
+[01:57.80]
+W | estreno | 개봉, 초연
+[02:02.30]
+E | Hoy es el estreno de esa película tan esperada. | 오늘은 그 많이 기다리던 영화의 개봉일이다.
+[02:07.30]
+W | fila | 열, 줄
+[02:12.00]
+E | Nos sentamos en la tercera fila de butacas. | 우리는 객석 세 번째 줄에 앉았다.
+[02:17.20]
+W | función | 공연, 상연
+[02:21.90]
+E | El actor realizó tres funciones a sala llena. | 그 배우는 만석인 객석 앞에서 세 번 공연했다.
+[02:27.10]
+W | guion | 각본, 대본
+[02:31.90]
+E | La actriz repasó el guion antes de empezar a rodar. | 여배우는 촬영을 시작하기 전에 대본을 복습했다.
+[02:37.80]
+W | película | 영화
+[02:40.30]
+E | ¿Qué película vamos a ver? | 우리 무슨 영화 볼까?
+[02:45.30]
+W | protagonista | 주인공
+[02:48.50]
+E | El protagonista muere al principio y los demás personajes recuerdan su vida. | 주인공은 처음에 죽고 다른 등장인물들이 그의 삶을 회상한다.
+[02:56.80]
+W | representación | 공연, 상연
+[02:59.20]
+E | Fue una excelente representación de la obra de Shakespeare. | 셰익스피어 작품의 훌륭한 공연이었다.
+[03:05.80]
+W | rodar | 촬영하다
+[03:08.40]
+E | Rodaron la película en un estudio inmenso. | 그들은 거대한 스튜디오에서 영화를 촬영했다.
+[03:16.50]
+W | sesión | (상영) 회, 상영 시간
+[03:17.20]
+E | Compré entradas de cine para la sesión de mediodía. | 낮 상영 회차 영화표를 샀다.
+[03:23.50]
+W | subtítulo | 자막
+[03:25.50]
+E | Mi hermano lee tan despacio que se pierde la mitad de los subtítulos. | 내 남동생은 너무 천천히 읽어서 자막의 절반을 놓친다.
+[03:32.40]
+W | taquilla | 매표소, 창구
+[03:37.50]
+E | Él compró la entrada en la taquilla del cine. | 그는 영화관 매표소에서 표를 샀다.
+[03:41.80]
+W | teatro | 연극, 극작품, 극장
+[03:48.40]
+E | Es muy distinto leer teatro de leer novela. | 희곡을 읽는 것은 소설을 읽는 것과 매우 다르다.
+[03:54.50]
+W | tragedia | 비극
+[03:56.80]
+E | Romeo y Julieta es una tragedia. | 『로미오와 줄리엣』은 비극이다.
+[04:01.10]
+W | versión original | 원어판, 원래 언어 버전
+[04:08.00]
+E | Me gusta ver películas en versión original. | 나는 영화를 원어로 보는 것을 좋아한다.
+[04:15.40]
+W | vídeo | 비디오, 영상
+[04:15.40]
+E | ¿Te apetece ver el vídeo de nuestro viaje? | 우리 여행 영상 볼래?
+
+## Unidad 2. Bellas artes, música, danza · 미술, 음악, 무용
+[04:36.00]
+W | abstracto, abstracta | 추상적인
+[04:40.40]
+E | No me gusta mucho la pintura abstracta. | 나는 추상화를 별로 좋아하지 않는다.
+[04:44.90]
+W | arte | 예술
+[04:48.50]
+E | Tu cuadro es una obra de arte. | 네 그림은 예술 작품이다.
+[04:52.40]
+W | bailar | 춤추다
+[04:54.70]
+E | Mis padres bailaron un tango estupendo. | 부모님은 멋진 탱고를 추셨다.
+[05:00.70]
+W | canción | 노래
+[05:03.90]
+E | ¿A ti no te gustan las canciones del trío Los Panchos? | 너는 트리오 로스 판초스의 노래를 좋아하지 않니?
+[05:08.70]
+W | color | 색, 색깔
+[05:12.10]
+E | Me impresiona el color de estos cuadros. | 이 그림들의 색감이 인상적이다.
+[05:16.90]
+W | compositor, compositora | 작곡가
+[05:21.20]
+E | Verdi fue un compositor de óperas italiano. | 베르디는 이탈리아의 오페라 작곡가였다.
+[05:26.80]
+W | concierto | 콘서트, 연주회
+[05:27.90]
+E | El concierto de rock terminó muy tarde. | 록 콘서트는 아주 늦게 끝났다.
+[05:37.40]
+W | coro | 합창단, 합창
+[05:38.50]
+E | Me gustaría pertenecer a un coro. | 나는 합창단에 들어가고 싶다.
+[05:44.40]
+W | dibujar | 그리다, 묘사하다
+[05:48.10]
+E | El libro dibuja perfectamente las costumbres del siglo pasado. | 그 책은 지난 세기의 풍습을 완벽하게 묘사한다.
+[05:55.90]
+W | discoteca | 디스코텍, 클럽
+[05:59.30]
+E | Fueron a la discoteca a divertirse. | 그들은 놀러 클럽에 갔다.
+[06:03.90]
+W | ensayar | 연습하다, 리허설하다
+[06:06.60]
+E | Los martes ensaya la compañía. | 화요일마다 극단이 연습한다.
+[06:12.00]
+W | escultura | 조각, 조각품
+[06:14.90]
+E | En la sala había varias esculturas. | 전시실에는 여러 조각품이 있었다.
+[06:22.10]
+W | estilo | 스타일, 양식
+[06:26.30]
+E | El actor se viste con un estilo muy clásico. | 그 배우는 아주 클래식한 스타일로 옷을 입는다.
+[06:33.90]
+W | exposición | 전시회
+[06:36.20]
+E | La exposición de grabados fue un éxito. | 판화 전시회는 성공적이었다.
+[06:42.70]
+W | flauta | 플루트, 피리
+[06:45.00]
+E | Las flautas pueden ser de madera u otros materiales. | 플루트는 나무나 다른 재료로 만들어질 수 있다.
+[06:48.40]
+W | galería | 갤러리, 화랑
+[06:54.10]
+E | Sus cuadros se exponen en la galería de arte. | 그의 그림들은 화랑에 전시되어 있다.
+[06:59.70]
+W | guitarra | 기타
+[07:02.40]
+E | Tu padre toca la guitarra de maravilla. | 너희 아버지는 기타를 기막히게 치신다.
+[07:07.70]
+W | instrumento | 악기, 도구
+[07:10.10]
+E | El piano es mi instrumento preferido. | 피아노는 내가 가장 좋아하는 악기다.
+[07:15.40]
+W | letra | 가사, 글자
+[07:18.00]
+E | ¿Puedes copiarme la letra de esta canción? | 이 노래 가사를 나한테 베껴 줄 수 있니?
+[07:23.10]
+W | madera | 목재, 나무
+[07:25.70]
+E | Milagros compra madera de acacia para hacer una escultura de su padre. | 밀라그로스는 아버지의 조각상을 만들기 위해 아카시아 목재를 산다.
+[07:33.00]
+W | mármol | 대리석
+[07:35.60]
+E | El David se esculpió en una pieza gigantesca de mármol. | 다비드상은 거대한 대리석 한 덩어리로 조각되었다.
+[07:41.50]
+W | música | 음악
+[07:43.70]
+E | Me encanta componer música. | 나는 작곡하는 것을 아주 좋아한다.
+[07:50.20]
+W | musical | 뮤지컬; 음악의
+[07:52.30]
+E | Fuimos a ver un musical al teatro. | 우리는 극장에 뮤지컬을 보러 갔다.
+[07:56.60]
+W | orquesta | 오케스트라, 관현악단
+[08:00.30]
+E | Mi hermana toca el tambor en una orquesta. | 내 여동생은 오케스트라에서 북을 연주한다.
+[08:05.00]
+W | piano | 피아노
+[08:07.90]
+E | Tienen un piano en el salón. | 그들은 거실에 피아노가 있다.
+[08:12.30]
+W | pintor, pintora | 화가
+[08:17.00]
+E | Picasso fue un pintor genial. | 피카소는 천재적인 화가였다.
+[08:20.80]
+W | retrato | 초상화
+[08:24.30]
+E | Goya dejó varios retratos de la familia real. | 고야는 왕실 가족의 초상화를 여러 점 남겼다.
+[08:29.20]
+W | sonido | 소리, 음향
+[08:34.00]
+E | Desde la habitación se oía el sonido del piano. | 방에서 피아노 소리가 들렸다.
+[08:38.50]
+W | tocar | 연주하다, 만지다
+[08:42.50]
+E | ¡Qué bien tocas el violonchelo! | 첼로를 정말 잘 연주하는구나!
+[08:46.70]
+W | violín | 바이올린
+[08:50.10]
+E | Mi tía me enseñó a tocar el violín. | 이모가 나에게 바이올린 연주를 가르쳐 주었다.
+
+## Unidad 3. Deporte · 스포츠
+[09:04.40]
+W | aficionado, aficionada | 팬, 애호가, ~광
+[09:18.80]
+E | Es aficionado a los deportes: nada, anda en bicicleta y juega al fútbol. | 그는 스포츠 애호가다. 수영하고, 자전거를 타고, 축구를 한다.
+[09:26.10]
+W | ajedrez | 체스
+[09:26.10]
+E | Le han regalado un ajedrez. | 그는 체스 세트를 선물 받았다.
+[09:33.70]
+W | animar | 응원하다, 격려하다
+[09:38.40]
+E | El público animó a los futbolistas. | 관중이 축구 선수들을 응원했다.
+[09:43.40]
+W | árbitro, árbitra | 심판
+[09:48.70]
+E | El árbitro hizo sonar el silbato cuando los jugadores se golpearon. | 선수들이 서로 부딪치자 심판이 호루라기를 불었다.
+[09:56.50]
+W | atletismo | 육상, 육상 경기
+[10:01.50]
+E | Se denomina atletismo a un conjunto de pruebas deportivas divididas en carreras, saltos y lanzamientos. | 달리기, 도약, 투척으로 나뉜 일련의 운동 종목을 육상이라고 부른다.
+[10:11.40]
+W | balón | 공
+[10:13.10]
+E | Molina mandó el balón fuera del campo. | 몰리나가 공을 경기장 밖으로 차 냈다.
+[10:20.30]
+W | baloncesto | 농구
+[10:22.00]
+E | Antes mi primo jugaba en un equipo de baloncesto. | 예전에 내 사촌은 농구팀에서 뛰었다.
+[10:28.10]
+W | béisbol | 야구
+[10:30.90]
+E | En España no practican mucho el béisbol. | 스페인에서는 야구를 별로 하지 않는다.
+[10:36.60]
+W | boxeo | 권투, 복싱
+[10:40.60]
+E | El boxeo es un deporte olímpico. | 권투는 올림픽 종목이다.
+[10:44.80]
+W | campeón, campeona | 챔피언, 우승자
+[10:48.90]
+E | Son los campeones del Mundial de fútbol. | 그들은 축구 월드컵 우승팀이다.
+[10:53.60]
+W | cancha | 경기장, 코트
+[10:58.60]
+E | Los jugadores de baloncesto salen a la cancha. | 농구 선수들이 경기장으로 나온다.
+[11:02.60]
+W | carrera | 경주, 달리기
+[11:06.60]
+E | La semana pasada fuimos a ver las carreras de caballos. | 지난주에 우리는 경마를 보러 갔다.
+[11:10.60]
+W | ciclismo | 사이클 경기, 자전거 경기
+[11:15.70]
+E | La práctica del ciclismo en carretera puede ser peligrosa. | 도로에서 사이클을 타는 것은 위험할 수 있다.
+[11:21.30]
+W | corrida de toros | 투우
+[11:25.10]
+E | Las fiestas terminaron con una corrida de toros. | 축제는 투우로 막을 내렸다.
+[11:32.20]
+W | deporte | 운동, 스포츠
+[11:36.00]
+E | La natación es mi deporte favorito. | 수영은 내가 가장 좋아하는 운동이다.
+[11:41.40]
+W | empatar | 비기다, 동점이 되다
+[11:47.00]
+E | Cuando dos equipos empatan, ninguno de los dos gana. | 두 팀이 비기면 어느 쪽도 이기지 못한다.
+[11:52.40]
+W | entrenar | 훈련하다
+[11:55.30]
+E | Cualquier deportista se entrena muchas horas al día. | 운동선수라면 누구나 하루에 여러 시간 훈련한다.
+[12:03.10]
+W | equipo | 팀
+[12:04.10]
+E | Nuestro equipo se clasificó para la semifinal. | 우리 팀은 준결승에 진출했다.
+[12:09.80]
+W | esquí | 스키
+[12:12.00]
+E | Durante el invierno se dedica a practicar el esquí. | 그는 겨울 동안 스키 타는 데 전념한다.
+[12:18.10]
+W | estadio | 경기장, 스타디움
+[12:19.90]
+E | El estadio olímpico está lleno de gente. | 올림픽 경기장은 사람들로 가득하다.
+[12:25.70]
+W | estar en forma | 몸 상태가 좋다, 건강을 유지하다
+[12:30.60]
+E | Los médicos recomiendan practicar algún deporte para estar en forma. | 의사들은 건강을 유지하기 위해 운동을 하라고 권한다.
+[12:36.80]
+W | falta | 반칙, 파울
+[12:40.00]
+E | El árbitro advirtió la falta del jugador. | 심판은 그 선수의 반칙을 지적했다.
+[12:45.20]
+W | fútbol | 축구
+[12:47.30]
+E | Juego al fútbol con mis compañeros de la oficina los fines de semana. | 나는 주말마다 회사 동료들과 축구를 한다.
+[12:54.00]
+W | ganar | 이기다
+[12:56.90]
+E | Ayer ganamos el partido. | 어제 우리는 경기에서 이겼다.
+[13:01.50]
+W | gimnasio | 체육관, 헬스클럽
+[13:05.40]
+E | Los sábados por la mañana voy al gimnasio. | 토요일 아침마다 나는 헬스클럽에 간다.
+[13:10.20]
+W | jugar | 경기하다, 놀다
+[13:14.60]
+E | Ayer jugamos al tenis y después a las cartas. | 어제 우리는 테니스를 치고 그다음에 카드놀이를 했다.
+[13:21.10]
+W | motociclismo | 오토바이 경주
+[13:25.40]
+E | Acudo a todas las competiciones de motociclismo de España. | 나는 스페인의 오토바이 경주 대회에 모두 간다.
+[13:30.90]
+W | nadar | 수영하다
+[13:33.50]
+E | Conseguí llegar a la costa nadando. | 나는 헤엄쳐서 해안까지 갈 수 있었다.
+[13:38.80]
+W | partido | 시합, 경기
+[13:42.70]
+E | Los dos equipos jugarán un partido amistoso el mes que viene. | 두 팀은 다음 달에 친선 경기를 할 것이다.
+[13:49.00]
+W | patinaje | 스케이트, 롤러스케이트
+[13:53.70]
+E | El patinaje sobre hielo es el deporte más hermoso. | 아이스 스케이팅은 가장 아름다운 스포츠다.
+[13:59.60]
+W | pesca | 낚시, 어업
+[14:02.30]
+E | Antiguamente, la pesca se realizaba cerca de la costa. | 옛날에는 고기잡이가 해안 근처에서 이루어졌다.
+[14:08.50]
+W | piscina | 수영장
+[14:10.90]
+E | Las duchas de la piscina están al fondo del pasillo. | 수영장 샤워실은 복도 끝에 있다.
+[14:16.90]
+W | portero, portera | 골키퍼; 수위
+[14:21.30]
+E | Contrataron un nuevo portero. | 새 골키퍼를 영입했다.
+[14:25.20]
+W | tenis | 테니스
+[14:28.50]
+E | El tenista Sánchez se despedirá del tenis profesional el año que viene. | 테니스 선수 산체스는 내년에 프로 테니스계를 떠날 것이다.
+[14:35.50]
+W | yate | 요트
+[14:37.50]
+E | Recorrimos el Mediterráneo en yate. | 우리는 요트로 지중해를 일주했다.
+
+## Unidad 4. Otras aficiones · 기타 취미
+[14:54.40]
+W | afición | 취미
+[14:58.00]
+E | Su mayor afición es la lectura. | 그의 가장 큰 취미는 독서다.
+[15:02.10]
+W | cámara | 카메라
+[15:04.40]
+E | Desde que nació el bebé, Luisa quiere comprar una buena cámara para sacarle fotos. | 아기가 태어난 뒤로 루이사는 아기 사진을 찍으려고 좋은 카메라를 사고 싶어 한다.
+[15:14.00]
+W | circo | 서커스
+[15:16.20]
+E | Las actuaciones de circo se realizan cada domingo. | 서커스 공연은 매주 일요일에 열린다.
+[15:22.70]
+W | coleccionar | 수집하다
+[15:25.40]
+E | He empezado a coleccionar los números extras de esta revista. | 나는 이 잡지의 특별호를 모으기 시작했다.
+[15:32.80]
+W | entretenerse | 즐기다, 시간을 보내다, 지체하다
+[15:37.10]
+E | Se entretuvieron en la tienda y llegaron tarde. | 그들은 가게에서 시간을 끌다가 늦게 도착했다.
+[15:46.20]
+W | fotografía | 사진, 사진술
+[15:46.20]
+E | La fotografía es el arte de dibujar con luz. | 사진은 빛으로 그림을 그리는 예술이다.
+[15:56.90]
+W | ir de compras | 쇼핑하러 가다
+[15:56.90]
+E | Todos los sábados por la mañana voy de compras al centro comercial. | 토요일 아침마다 나는 쇼핑몰에 쇼핑하러 간다.
+[16:05.10]
+W | juguete | 장난감
+[16:05.70]
+E | Recoge siempre los juguetes después de jugar. | 놀고 나면 항상 장난감을 치워라.
+[16:11.80]
+W | montaña rusa | 롤러코스터
+[16:15.20]
+E | Nunca me he subido a una montaña rusa. | 나는 롤러코스터를 한 번도 타 본 적이 없다.
+[16:20.10]
+W | pasarlo bien, pasarlo mal | 재미있게 보내다, 힘든 시간을 보내다
+[16:29.10]
+E | Lo he pasado bien en la fiesta. | 파티에서 즐거운 시간을 보냈다.
+[16:34.50]
+W | paseo | 산책
+[16:34.50]
+E | ¿Puedes dar un paseo alrededor del barrio antiguo? | 옛 동네 주변을 산책할 수 있니?
+[16:41.50]
+W | quedar con alguien | 누구와 만나기로 하다
+[16:41.50]
+E | Quedamos a las tres en tu casa. | 우리 세 시에 너희 집에서 만나자.
+[16:50.90]
+W | tomar el sol | 햇볕을 쬐다, 일광욕하다
+[16:50.90]
+E | Rosa pasa todo el día tomando el sol. | 로사는 하루 종일 일광욕을 하며 보낸다.
+[17:00.90]
+W | tiempo libre | 여가 시간, 자유 시간
+[17:07.20]
+E | ¿Qué haces normalmente en tu tiempo libre? | 너는 보통 여가 시간에 뭘 하니?
+[17:11.00]
+W | voluntario, voluntaria | 자원봉사자; 자발적인
+[17:17.10]
+E | Un grupo de voluntarios vinieron a ayudar a los heridos del accidente. | 자원봉사자 한 무리가 사고 부상자들을 도우러 왔다.
+
+## Unidad 5. Fiesta, celebración · 파티, 축하
+[17:36.90]
+W | aniversario | 기념일
+[17:40.80]
+E | El quinto aniversario del colegio cae esta semana. | 학교 개교 5주년 기념일이 이번 주다.
+[17:45.50]
+W | banquete | 연회, 피로연
+[17:47.90]
+E | En su boda ofrecieron un banquete muy lujoso. | 그들은 결혼식에서 아주 호화로운 피로연을 베풀었다.
+[17:54.20]
+W | boda | 결혼식
+[17:57.10]
+E | Me compré un vestido para ir a la boda de mi prima Ana. | 사촌 아나의 결혼식에 가려고 원피스를 샀다.
+[18:02.50]
+W | brindis | 건배
+[18:05.90]
+E | Hicieron un brindis en honor de los novios. | 그들은 신랑 신부를 위해 건배했다.
+[18:10.30]
+W | carnaval | 카니발, 사육제
+[18:14.30]
+E | El Carnaval de Río de Janeiro es el más famoso del mundo. | 리우데자네이루 카니발은 세계에서 가장 유명하다.
+[18:20.00]
+W | celebración | 축하, 기념행사, 개최
+[18:20.00]
+E | La celebración de los Juegos Olímpicos fue todo un éxito para el país organizador. | 올림픽 개최는 주최국에게 대성공이었다.
+[18:34.40]
+W | ceremonia | 의식, 식
+[18:36.30]
+E | Ayer tuvo lugar la ceremonia de apertura de los Juegos Olímpicos. | 어제 올림픽 개막식이 열렸다.
+[18:43.80]
+W | cumpleaños | 생일
+[18:45.70]
+E | Hoy han celebrado el cumpleaños de su hijo. | 오늘 그들은 아들의 생일을 축하했다.
+[18:51.20]
+W | Día de los Reyes Magos | 동방박사의 날 (1월 6일)
+[18:55.70]
+E | El día 6 de enero de cada año se celebra el Día de los Reyes Magos. | 매년 1월 6일에는 동방박사의 날을 기념한다.
+[19:03.30]
+W | evento | 행사, 이벤트
+[19:07.30]
+E | El evento dejó sin palabras a la gente. | 그 행사는 사람들을 말문이 막히게 했다.
+[19:11.70]
+W | feria | 박람회, 바자, 축제
+[19:17.80]
+E | En la Feria de Sevilla conocí a mi mujer. | 세비야 축제에서 나는 아내를 만났다.
+[19:22.10]
+W | fiesta | 파티, 축제
+[19:27.10]
+E | Montaremos una fiesta sorpresa para Javier. | 우리는 하비에르를 위해 깜짝 파티를 열 것이다.
+[19:36.90]
+W | fuegos artificiales | 불꽃놀이
+[19:36.90]
+E | Los fuegos artificiales se usan en las fiestas como diversión. | 불꽃놀이는 축제에서 오락으로 쓰인다.
+[19:43.40]
+W | invitación | 초대, 초대장
+[19:45.70]
+E | Aceptó encantado la invitación a la fiesta. | 그는 기꺼이 파티 초대를 받아들였다.
+[19:51.00]
+W | luna de miel | 신혼여행
+[19:54.20]
+E | Mi hermano va a Cuba de luna de miel. | 우리 형은 쿠바로 신혼여행을 간다.
+[19:59.90]
+W | Navidad | 크리스마스, 성탄절
+[20:02.60]
+E | Pasaremos la Navidad en casa de los abuelos. | 우리는 조부모님 댁에서 크리스마스를 보낼 것이다.
+[20:08.10]
+W | Nochebuena | 크리스마스이브 (12월 24일 밤)
+[20:14.60]
+E | Celebraremos la Nochebuena en casa. | 우리는 크리스마스이브를 집에서 보낼 것이다.
+[20:19.60]
+W | Nochevieja | 섣달 그믐날 밤 (12월 31일 밤)
+[20:23.40]
+E | En Nochevieja, comemos doce uvas cuando suenan las campanadas de la medianoche. | 12월 31일 밤에 우리는 자정의 종소리가 울릴 때 포도 열두 알을 먹는다.
+[20:33.40]
+W | regalo | 선물
+[20:34.90]
+E | Su regalo fue un viaje al extranjero. | 그의 선물은 해외여행이었다.
+[20:40.50]
+W | Semana Santa | 성주간, 부활절 주간
+[20:45.70]
+E | En España celebran la Semana Santa por todo lo alto. | 스페인에서는 성주간을 성대하게 기념한다.
+
+## Unidad 6. Viaje · 여행
+[21:03.40]
+W | aduana | 세관
+[21:03.40]
+E | Al pasar por la aduana nos registraron los bolsos. | 세관을 통과할 때 우리 가방을 검사했다.
+[21:10.20]
+W | agencia de viajes | 여행사
+[21:14.90]
+E | Pasamos por una agencia de viajes para informarnos del horario del tren. | 우리는 기차 시간표를 알아보려고 여행사에 들렀다.
+[21:22.40]
+W | alojamiento | 숙소, 숙박
+[21:22.40]
+E | Buscamos alojamiento barato para las vacaciones. | 우리는 휴가 때 묵을 저렴한 숙소를 찾고 있다.
+[21:29.20]
+W | botones | (호텔) 벨보이
+[21:29.20]
+E | Llamé al botones del hotel para preguntar por mi maleta. | 내 여행 가방에 대해 물어보려고 호텔 벨보이를 불렀다.
+[21:38.50]
+W | casco viejo | 구시가지
+[21:38.50]
+E | En el casco viejo de la ciudad puede haber restos romanos. | 도시의 구시가지에는 로마 시대 유적이 있을 수 있다.
+[21:51.90]
+W | crucero | 크루즈, 유람선 여행
+[21:51.90]
+E | Este verano haremos un crucero por el Caribe. | 올여름 우리는 카리브해 크루즈 여행을 할 것이다.
+[21:56.90]
+W | equipaje | 짐, 수하물
+[22:02.20]
+E | Todavía no he hecho el equipaje y salgo dentro de tres horas hacia París. | 아직 짐을 안 쌌는데 세 시간 뒤에 파리로 떠난다.
+[22:08.50]
+W | escala | 경유, 경유지
+[22:13.00]
+E | Tomó un vuelo de España a Perú con una escala en Río de Janeiro. | 그는 리우데자네이루를 경유하는 스페인발 페루행 비행기를 탔다.
+[22:20.40]
+W | extranjero, extranjera | 외국, 외국인; 외국의
+[22:27.90]
+E | Buenos Aires tiene muchos atractivos para los extranjeros. | 부에노스아이레스는 외국인에게 매력이 많은 곳이다.
+[22:34.10]
+W | gratis | 무료의, 무료로
+[22:38.10]
+E | La entrada al espectáculo es gratis. | 그 공연은 입장이 무료다.
+[22:43.30]
+W | guía | 가이드, 안내서
+[22:46.70]
+E | Los turistas extranjeros consiguieron una guía de turismo de la ciudad. | 외국인 관광객들은 그 도시의 관광 안내서를 구했다.
+[22:52.50]
+W | habitación | 방, 객실
+[22:56.10]
+E | Quiero reservar una habitación doble para tres noches. | 더블룸을 3박 예약하고 싶다.
+[23:01.40]
+W | hostal | 호스텔, 저렴한 숙소
+[23:04.70]
+E | Buscaremos un hostal. Es más barato que un hotel. | 호스텔을 찾아보자. 호텔보다 싸다.
+[23:10.30]
+W | maleta | 여행 가방, 트렁크
+[23:12.40]
+E | No encuentro la maleta de viaje. | 여행 가방을 못 찾겠다.
+[23:17.80]
+W | media pensión | 2식 포함 숙박 (아침·저녁)
+[23:22.80]
+E | ¿Qué incluye la media pensión de un hotel? | 호텔의 하프 보드에는 무엇이 포함되나요?
+[23:28.40]
+W | monumento | 기념물, 기념비
+[23:32.20]
+E | Enfrente de la casa en la que nació el escritor hay una plaza con un monumento dedicado a él. | 그 작가가 태어난 집 맞은편에는 그에게 바친 기념비가 있는 광장이 있다.
+[23:40.00]
+W | oficina de información | 안내소, 관광 안내소
+[23:44.20]
+E | Cuando llegues a la ciudad, visita primero la oficina de información. | 도시에 도착하면 먼저 관광 안내소에 가 봐.
+[23:51.50]
+W | paisaje | 풍경, 경치
+[23:54.00]
+E | Pararon junto al camino para mirar el paisaje. | 그들은 경치를 보려고 길가에 멈췄다.
+[23:59.60]
+W | Patrimonio de la Humanidad | 인류 문화유산, 세계 유산
+[24:04.60]
+E | España es el segundo país con mayor número de bienes declarados Patrimonio de la Humanidad en el mundo, por detrás de Italia. | 스페인은 이탈리아에 이어 세계에서 두 번째로 세계 유산이 많은 나라다.
+[24:14.40]
+W | plano | (시내) 지도, 도면
+[24:16.70]
+E | ¿Dónde puedo conseguir un plano de la ciudad? | 시내 지도는 어디서 구할 수 있나요?
+[24:22.30]
+W | recepción | 접수처, 프런트
+[24:25.40]
+E | En la recepción del gimnasio le darán la llave de la taquilla. | 체육관 접수처에서 사물함 열쇠를 줄 것이다.
+[24:33.40]
+W | reserva | 예약
+[24:35.00]
+E | Ya he hecho la reserva del hotel. | 호텔 예약은 이미 했다.
+[24:40.90]
+W | ruinas | 유적, 폐허
+[24:43.30]
+E | Cerca del hotel se encontraban las ruinas de un templo griego. | 호텔 근처에 그리스 신전 유적이 있었다.
+[24:50.10]
+W | seguro | 보험
+[24:52.90]
+E | El automóvil tiene un seguro contra robos. | 그 자동차는 도난 보험에 가입되어 있다.
+[24:57.90]
+W | temporada alta | 성수기
+[25:02.10]
+E | Conseguí un vuelo a Londres muy barato en temporada alta. | 성수기에 아주 싼 런던행 항공편을 구했다.
+[25:07.00]
+W | tienda de campaña | 텐트
+[25:10.70]
+E | Montamos la tienda de campaña para pasar la noche. | 우리는 밤을 보내려고 텐트를 쳤다.
+[25:17.00]
+W | turismo | 관광
+[25:19.30]
+E | Recorrió el este de Europa haciendo turismo. | 그는 관광을 하며 동유럽을 돌아다녔다.
+[25:24.60]
+W | vacaciones | 방학, 휴가
+[25:29.30]
+E | Voy a tomar unas vacaciones de 20 días. | 20일간 휴가를 낼 것이다.
+[25:34.20]
+W | viajar | 여행하다
+[25:37.30]
+E | ¿Ha viajado mucho por Asia? | 아시아를 많이 여행해 보셨어요?
+[25:41.50]
+W | visitar | 방문하다
+[25:44.20]
+E | Me encanta visitar museos. | 나는 박물관에 가는 것을 아주 좋아한다.
+
+## Capítulo 10 · Unidad 1. Estado, política · 국가, 정치
+[26:22.40]
+W | campaña electoral | 선거 운동, 선거 캠페인
+[26:28.70]
+E | La campaña electoral empieza mañana. | 선거 운동은 내일 시작된다.
+[26:33.10]
+W | candidato, candidata | 후보, 후보자
+[26:37.40]
+E | El periodista entrevista a los tres candidatos. | 기자가 세 후보를 인터뷰한다.
+[26:42.20]
+W | ciudadano, ciudadana | 시민
+[26:43.40]
+E | Todos los ciudadanos tienen derecho a vivir en paz. | 모든 시민은 평화롭게 살 권리가 있다.
+[26:53.20]
+W | congreso | 의회, 하원
+[26:57.50]
+E | Las Cortes Generales españolas están formadas por el Senado y el Congreso de los Diputados. | 스페인 의회는 상원과 하원으로 구성되어 있다.
+[27:05.90]
+W | derecho | 권리, 법
+[27:06.90]
+E | Todos tenemos derecho a una enseñanza pública de calidad. | 우리 모두는 양질의 공교육을 받을 권리가 있다.
+[27:14.30]
+W | dictadura | 독재, 독재 기간
+[27:19.70]
+E | Durante la dictadura se restringió gravemente la libertad de expresión. | 독재 기간에는 표현의 자유가 심하게 제한되었다.
+[27:26.60]
+W | diplomático, diplomática | 외교관; 외교의
+[27:31.30]
+E | Para negociar las condiciones de paz, cada nación en guerra ha enviado a su diplomático. | 평화 조건을 협상하기 위해 전쟁 중인 각국이 외교관을 보냈다.
+[27:38.30]
+W | diputado, diputada | 국회의원, 하원 의원
+[27:44.80]
+E | Los diputados ejercen su labor en el Congreso. | 하원 의원들은 의회에서 업무를 수행한다.
+[27:50.70]
+W | ejército | 군대
+[27:53.60]
+E | Nuestro ejército derrotó al enemigo. | 우리 군대가 적을 물리쳤다.
+[27:58.70]
+W | elecciones | 선거
+[28:02.50]
+E | Hoy se llevan a cabo las elecciones presidenciales. | 오늘 대통령 선거가 실시된다.
+[28:08.20]
+W | embajada | 대사관
+[28:11.50]
+E | Los residentes en el extranjero tienen que comunicar su residencia a la embajada. | 해외 거주자는 대사관에 거주지를 신고해야 한다.
+[28:18.20]
+W | Estado | 국가
+[28:21.70]
+E | El Estado español está dividido en comunidades autónomas. | 스페인이라는 국가는 자치 지방들로 나뉘어 있다.
+[28:27.50]
+W | exilio | 망명
+[28:30.90]
+E | El exilio le resultó muy doloroso. | 망명 생활은 그에게 매우 고통스러웠다.
+[28:38.20]
+W | frontera | 국경
+[28:38.20]
+E | No hemos tenido ningún problema al cruzar la frontera. | 국경을 넘을 때 아무 문제도 없었다.
+[28:44.70]
+W | gobierno | 정부
+[28:44.70]
+E | El gobierno está formado por el presidente y sus ministros. | 정부는 대통령과 장관들로 구성된다.
+[28:53.40]
+W | golpe de estado | 쿠데타
+[28:53.40]
+E | Los militares intentaron dar un golpe de estado. | 군인들이 쿠데타를 시도했다.
+[29:02.30]
+W | guerra | 전쟁
+[29:02.30]
+E | Ambos países llevan años en guerra. | 두 나라는 몇 년째 전쟁 중이다.
+[29:10.70]
+W | militar | 군인; 군대의
+[29:10.70]
+E | Era hija de un militar. | 그녀는 군인의 딸이었다.
+[29:19.40]
+W | ministro, ministra | 장관
+[29:19.40]
+E | El ministro del Interior ha dado una rueda de prensa para informar del atentado terrorista. | 내무부 장관이 테러 공격에 대해 알리기 위해 기자 회견을 열었다.
+[29:31.60]
+W | monarquía | 군주제, 왕실
+[29:36.30]
+E | A la boda asistieron representantes de la monarquía española. | 결혼식에 스페인 왕실 대표들이 참석했다.
+[29:41.90]
+W | mundo | 세계, 세상
+[29:45.30]
+E | En el mundo todavía hay gente que se muere de hambre. | 세상에는 아직도 굶어 죽는 사람들이 있다.
+[29:49.90]
+W | nación | 국가, 국민
+[29:53.10]
+E | El presidente se dirigió a toda la nación en su discurso. | 대통령은 연설에서 전 국민에게 말했다.
+[30:00.00]
+W | partido político | 정당
+[30:04.30]
+E | En las elecciones de mayo ganó el Partido Republicano. | 5월 선거에서 공화당이 이겼다.
+[30:09.30]
+W | poder | 정권, 권력
+[30:13.80]
+E | El presidente llegó al poder siendo muy joven. | 대통령은 아주 젊은 나이에 권력을 잡았다.
+[30:19.00]
+W | política | 정치
+[30:21.30]
+E | Queremos una política honesta. | 우리는 정직한 정치를 원한다.
+[30:27.00]
+W | portavoz | 대변인
+[30:30.00]
+E | El portavoz del gobierno se enfrentó con el periodista. | 정부 대변인이 그 기자와 맞섰다.
+[30:36.20]
+W | presidente, presidenta | 대통령, 회장
+[30:41.30]
+E | El presidente anunció el término de la guerra. | 대통령이 전쟁 종식을 발표했다.
+[30:46.10]
+W | pueblo | 민족, 민중, 대중; 마을
+[30:52.00]
+E | Voz del pueblo, voz de Dios. | 민심은 천심이다.
+[30:56.00]
+W | rey, reina | 왕, 여왕, 왕비
+[31:02.50]
+E | Érase una vez un rey que tenía tres hijas. | 옛날 옛적에 딸 셋을 둔 왕이 있었다.
+[31:07.00]
+W | votar | 투표하다
+[31:12.10]
+E | Todos los coreanos mayores de 18 años tienen derecho a votar. | 18세 이상의 모든 한국인은 투표할 권리가 있다.
+
+## Unidad 2. Ley, policía · 법, 경찰
+[31:32.10]
+W | acusado, acusada | 피고
+[31:36.90]
+E | El juez declaró culpable al acusado. | 판사는 피고에게 유죄를 선고했다.
+[31:41.90]
+W | arma | 무기
+[31:41.90]
+E | Las armas nucleares son un peligro para la humanidad y para el planeta. | 핵무기는 인류와 지구에 위험하다.
+[31:51.40]
+W | asesino, asesina | 살인자
+[31:51.40]
+E | El asesino fue condenado a la máxima pena. | 살인범은 최고형을 선고받았다.
+[32:00.40]
+W | cárcel | 감옥, 교도소
+[32:00.40]
+E | En su pueblo hay una cárcel de mujeres. | 그의 마을에는 여자 교도소가 있다.
+[32:07.80]
+W | carné de identidad | 신분증
+[32:12.20]
+E | Aquel día dejaste tu carné de identidad en mi casa. | 그날 너는 신분증을 우리 집에 두고 갔다.
+[32:17.70]
+W | coche bomba | 차량 폭탄
+[32:21.80]
+E | Un coche bomba estalló al pasar otro coche. | 다른 차가 지나갈 때 차량 폭탄이 터졌다.
+[32:27.00]
+W | coche patrulla | 경찰차, 순찰차
+[32:31.80]
+E | Me despertó la sirena de una patrulla. | 순찰차 사이렌 소리에 잠이 깼다.
+[32:37.50]
+W | comisaría | 경찰서
+[32:40.80]
+E | Acompáñeme, por favor, a la comisaría. | 경찰서까지 같이 가 주시죠.
+[32:45.90]
+W | Constitución | 헌법
+[32:48.60]
+E | La actual Constitución de España se aprobó en diciembre de 1978. | 스페인의 현행 헌법은 1978년 12월에 승인되었다.
+[32:56.40]
+W | crimen | 중죄, 범죄
+[33:00.40]
+E | Hacer trabajar a un niño de seis años es un crimen imperdonable. | 여섯 살 아이에게 일을 시키는 것은 용서할 수 없는 범죄다.
+[33:06.90]
+W | culpable | 죄인; 죄가 있는
+[33:11.90]
+E | Aquel es el culpable del asesinato. | 저 사람이 살인의 범인이다.
+[33:17.10]
+W | delincuente | 범죄자
+[33:19.20]
+E | La droga lo convirtió en un delincuente. | 마약이 그를 범죄자로 만들었다.
+[33:25.00]
+W | delito | 범죄, 위법 행위
+[33:30.10]
+E | Está en la cárcel por un delito de robo. | 그는 절도죄로 감옥에 있다.
+[33:36.30]
+W | denunciar | 고소하다, 고발하다, 신고하다
+[33:36.30]
+E | Los chicos denunciaron el robo de los documentos. | 아이들은 서류 도난을 신고했다.
+[33:47.10]
+W | detective | 탐정, 형사
+[33:47.10]
+E | Sherlock Holmes es el detective más famoso de la literatura. | 셜록 홈스는 문학에서 가장 유명한 탐정이다.
+[33:58.40]
+W | detener | 체포하다, 멈추게 하다
+[33:58.40]
+E | La policía soltó al joven que acababa de detener. | 경찰은 방금 체포한 청년을 풀어 주었다.
+[34:06.10]
+W | discriminación | 차별
+[34:06.10]
+E | Aún es muy alto el grado de discriminación sexual en el mundo. | 세계적으로 성차별 정도는 아직도 매우 높다.
+[34:17.50]
+W | disparar | 쏘다, 발사하다
+[34:17.50]
+E | Disparó su última bala. | 그는 마지막 총알을 쏘았다.
+[34:25.60]
+W | documentación | 서류, 신분 증명서
+[34:25.60]
+E | Si la policía te pide la documentación del coche, tendrás que enseñársela. | 경찰이 차량 서류를 요구하면 보여 줘야 한다.
+[34:34.80]
+W | fiscal | 검사, 검찰
+[34:39.00]
+E | El fiscal pidió una condena de cinco años de cárcel para el acusado. | 검사는 피고에게 징역 5년을 구형했다.
+[34:46.20]
+W | guerra | 전쟁
+[34:49.00]
+E | ¿Por qué la religión provoca guerras? | 왜 종교는 전쟁을 일으킬까?
+[34:54.20]
+W | herir | 상처를 입히다, 다치게 하다
+[34:59.30]
+E | El hombre lo hirió gravemente con un cuchillo. | 그 남자는 칼로 그에게 중상을 입혔다.
+[35:04.70]
+W | huella digital | 지문
+[35:08.70]
+E | Mi pasaporte lleva impresa mi huella digital. | 내 여권에는 내 지문이 찍혀 있다.
+[35:13.50]
+W | igualdad | 평등
+[35:17.30]
+E | En esta empresa todos tienen igualdad de condiciones. | 이 회사에서는 모두가 동등한 조건을 갖는다.
+[35:22.90]
+W | ilegal | 불법의
+[35:23.70]
+E | Es ilegal comprar y vender discos piratas. | 해적판 음반을 사고파는 것은 불법이다.
+[35:32.30]
+W | inocente | 결백한 (사람), 순진한, 무죄의
+[35:40.30]
+E | La jueza declara inocente al acusado. | 판사는 피고에게 무죄를 선고한다.
+[35:44.30]
+W | insultar | 욕하다, 모욕하다
+[35:48.30]
+E | Los aficionados del Real Madrid insultaron al equipo visitante. | 레알 마드리드 팬들은 원정 팀에게 욕을 했다.
+[35:53.70]
+W | jurado | 배심원단, 심사위원단
+[35:59.90]
+E | Fui jurado en un concurso de poesía. | 나는 시 경연 대회의 심사위원을 맡았다.
+[36:04.90]
+W | justicia | 정의, 사법, 사법부
+[36:09.30]
+E | El delincuente cayó en manos de la justicia. | 그 범죄자는 사법 당국의 손에 넘어갔다.
+[36:14.80]
+W | juzgar | 재판하다, 판단하다
+[36:19.70]
+E | Lo van a juzgar por un caso de racismo. | 그는 인종 차별 사건으로 재판을 받을 것이다.
+[36:25.10]
+W | ladrón, ladrona | 도둑
+[36:29.40]
+E | Han detenido al ladrón que robó en la joyería. | 보석 가게를 턴 도둑이 체포되었다.
+[36:33.80]
+W | ley | 법, 법률
+[36:37.90]
+E | Todos los ciudadanos deben respetar la ley. | 모든 시민은 법을 지켜야 한다.
+[36:42.40]
+W | matar | 죽이다, 살해하다
+[36:46.90]
+E | El cartero mató a su esposa. | 그 집배원은 아내를 살해했다.
+[36:51.50]
+W | multa | 벌금
+[36:52.70]
+E | Me pusieron una multa por dejar el coche mal aparcado. | 차를 잘못 주차해서 벌금을 물었다.
+[36:59.90]
+W | pena de muerte | 사형
+[37:02.20]
+E | Lo han condenado a la pena de muerte. | 그는 사형을 선고받았다.
+[37:08.10]
+W | pistola | 권총
+[37:10.00]
+E | El chico apuntaba con su pistola al cajero del banco. | 그 청년은 은행 창구 직원에게 권총을 겨누고 있었다.
+[37:16.60]
+W | raza | 인종, 혈통, 품종
+[37:20.00]
+E | Compraron un perro de raza. | 그들은 순종 개를 샀다.
+[37:24.20]
+W | robar | 훔치다, 도둑질하다
+[37:28.60]
+E | Ayer los ladrones robaron el banco. | 어제 도둑들이 은행을 털었다.
+[37:34.00]
+W | secuestro | 납치
+[37:36.90]
+E | El secuestro del empresario ha terminado felizmente. | 기업가 납치 사건은 다행히 무사히 끝났다.
+[37:41.60]
+W | sospechoso, sospechosa | 용의자; 의심스러운
+[37:47.60]
+E | Sus palabras tienen un aire sospechoso. | 그의 말에는 수상쩍은 데가 있다.
+[37:52.60]
+W | testigo | 증인
+[37:55.30]
+E | Las huellas son testigo de tu presencia en la casa. | 발자국이 네가 그 집에 있었다는 증거다.
+[37:59.00]
+W | víctima | 희생자, 피해자
+[38:04.30]
+E | Todas las guerras causan muchas víctimas. | 모든 전쟁은 많은 희생자를 낳는다.
+[38:09.30]
+W | vigilar | 감시하다, 지키다
+[38:14.20]
+E | Doña María vigilaba a sus hijos mientras jugaban por la casa. | 마리아 부인은 아이들이 집 안에서 노는 동안 지켜보고 있었다.
+[38:20.80]
+W | violencia | 폭력
+[38:24.10]
+E | No debes tratar a nadie con violencia. | 누구에게도 폭력적으로 대해서는 안 된다.
+[38:28.90]
+W | visado | 비자
+[38:32.00]
+E | Para entrar en ese país necesitas el visado de su embajada. | 그 나라에 들어가려면 그 나라 대사관의 비자가 필요하다.
+
+## Capítulo 11 · Unidad 1. Economía · 경제
+[39:09.30]
+W | acciones | 주식
+[39:12.00]
+E | Mi padre invirtió todo su capital en la compra de acciones. | 아버지는 자본 전부를 주식 매입에 투자하셨다.
+[39:18.30]
+W | ahorro | 저축, 절약
+[39:18.30]
+E | Ella usó sus ahorros de la cuenta bancaria. | 그녀는 은행 계좌의 저축을 썼다.
+[39:27.60]
+W | billete | 지폐; 표
+[39:27.60]
+E | El billete de 20 euros es de color azul. | 20유로 지폐는 파란색이다.
+[39:36.20]
+W | bolsa | 증시, 증권 거래소
+[39:42.70]
+E | Teresa ha ganado mucho dinero invirtiendo en bolsa. | 테레사는 주식에 투자해서 돈을 많이 벌었다.
+[39:48.00]
+W | capital | 자본
+[39:50.80]
+E | Esto es todo mi capital. | 이게 내 전 재산이다.
+[39:54.90]
+W | cobrar | 돈을 받다, 수금하다
+[39:57.80]
+E | Cada mes cobramos un sueldo por nuestro trabajo. | 우리는 매달 일한 대가로 월급을 받는다.
+[40:04.20]
+W | coste | 비용
+[40:07.00]
+E | Nos costó decidirnos porque el coste era muy alto. | 비용이 너무 높아서 결정하기 힘들었다.
+[40:14.30]
+W | cuenta | 은행 계좌, 계산, 계산서
+[40:18.80]
+E | Guardo mis ahorros en la cuenta del banco. | 나는 저축한 돈을 은행 계좌에 넣어 둔다.
+[40:23.50]
+W | cuota | 요금, 할부금, 회비
+[40:29.10]
+E | La cuota mensual del club es de 100 euros. | 그 클럽의 월 회비는 100유로다.
+[40:34.90]
+W | demanda | 수요, 요구
+[40:40.10]
+E | Ese producto no tiene demanda. | 그 제품은 수요가 없다.
+[40:44.70]
+W | desarrollarse | 발전하다
+[40:48.10]
+E | Corea se desarrolló muchísimo en los años 80. | 한국은 80년대에 엄청나게 발전했다.
+[40:53.70]
+W | dinero | 돈
+[40:55.50]
+E | El joven heredó mucho dinero. | 그 청년은 많은 돈을 상속받았다.
+[41:01.30]
+W | economía | 경제
+[41:02.40]
+E | Hay que mejorar la economía familiar. | 가계 경제를 개선해야 한다.
+[41:10.20]
+W | exportación | 수출
+[41:11.30]
+E | Esta empresa se dedica a la exportación de ropa. | 이 회사는 의류 수출을 한다.
+[41:17.70]
+W | fábrica | 공장
+[41:21.30]
+E | Este producto viene mal de fábrica. | 이 제품은 공장에서부터 불량으로 나왔다.
+[41:27.00]
+W | firma | 서명
+[41:27.00]
+E | Un cheque sin firma no tiene validez. | 서명이 없는 수표는 효력이 없다.
+[41:36.40]
+W | gasto | 지출, 비용
+[41:36.40]
+E | Tengo muchos gastos este mes. | 이번 달에는 지출이 많다.
+[41:43.80]
+W | herencia | 유산, 상속
+[41:43.80]
+E | Según su derecho de herencia, le pertenece la mitad de los bienes. | 상속권에 따라 재산의 절반이 그의 것이다.
+[41:54.60]
+W | hipoteca | 주택 담보 대출
+[41:58.40]
+E | El año pasado cancelamos la hipoteca del apartamento. | 작년에 우리는 아파트 주택 담보 대출을 다 갚았다.
+[42:03.70]
+W | impuesto | 세금
+[42:07.40]
+E | El IVA es un impuesto. | 부가가치세는 세금의 하나다.
+[42:11.30]
+W | industria | 산업, 제조업, 공장
+[42:16.50]
+E | Esta ciudad es un importante núcleo de la industria textil. | 이 도시는 섬유 산업의 중요한 중심지다.
+[42:23.60]
+W | interés | 이자, 관심
+[42:26.90]
+E | Han subido los tipos de interés. | 금리가 올랐다.
+[42:31.10]
+W | inversión | 투자
+[42:34.30]
+E | Las inversiones más seguras son las de las empresas públicas. | 가장 안전한 투자는 공기업에 대한 투자다.
+[42:40.10]
+W | libreta de banco | 통장
+[42:44.00]
+E | ¿Dónde habré metido la libreta del banco? | 통장을 어디에 뒀더라?
+[42:49.00]
+W | moneda | 화폐, 동전
+[42:53.10]
+E | El euro es la moneda de la Unión Europea. | 유로는 유럽 연합의 화폐다.
+[42:59.00]
+W | negociar | 협상하다, 흥정하다, 거래하다
+[43:05.30]
+E | En la bolsa se negocia el precio de las acciones de las empresas. | 증권 거래소에서는 기업 주식의 가격이 거래된다.
+[43:11.10]
+W | pagar | 지불하다, 돈을 갚다
+[43:16.30]
+E | Si no pagas la factura del teléfono, te cortarán la línea. | 전화 요금을 내지 않으면 전화가 끊길 것이다.
+[43:21.30]
+W | plazo | 기한, 할부
+[43:26.90]
+E | Pagar el coche a plazos. | 차 값을 할부로 내다.
+[43:30.70]
+W | pobre | 가난한 (사람), 불쌍한
+[43:37.70]
+E | Aumenta el número de pobres en el mundo. | 세계적으로 가난한 사람의 수가 늘고 있다.
+[43:43.40]
+W | préstamo | 대출, 빌려줌
+[43:46.00]
+E | Pidió un préstamo al banco. | 그는 은행에 대출을 신청했다.
+[43:51.30]
+W | presupuesto | 예산, 견적
+[43:53.60]
+E | Los presupuestos del Estado aumentarán el año que viene. | 내년에는 국가 예산이 늘어날 것이다.
+[44:00.40]
+W | producto | 상품, 제품, 산물
+[44:02.60]
+E | En el mercado venden frutas y otros productos del campo. | 시장에서는 과일과 다른 농산물을 판다.
+[44:10.00]
+W | recursos | 자원, 재력, 수단
+[44:14.90]
+E | La empresa no tiene recursos para contratar nuevos empleados. | 그 회사는 새 직원을 고용할 재원이 없다.
+[44:21.50]
+W | sucursal | 지점
+[44:23.60]
+E | La empresa tiene sucursales en todo el país. | 그 회사는 전국에 지점이 있다.
+[44:29.70]
+W | tarjeta de crédito | 신용카드
+[44:33.70]
+E | ¿Pagó usted los pasajes de avión con su tarjeta de crédito? | 비행기 표를 신용카드로 결제하셨나요?
+
+## Unidad 2. Trabajo · 일, 직장
+[44:43.90]
+W | a tiempo parcial | 파트타임으로, 시간제로
+[44:43.90]
+E | Trabajo a tiempo parcial en la empresa. | 나는 그 회사에서 파트타임으로 일한다.
+[44:56.60]
+W | carta de presentación | 자기소개서
+[45:00.50]
+E | Se necesita una carta de presentación para solicitar el puesto. | 그 자리에 지원하려면 자기소개서가 필요하다.
+[45:08.00]
+W | comercial | 상업의, 상업적인; 영업 사원
+[45:09.10]
+E | Es una película muy comercial. | 그것은 아주 상업적인 영화다.
+[45:17.50]
+W | compañía | 회사; 동반
+[45:21.00]
+E | Mi madre trabaja en una compañía de seguros. | 우리 어머니는 보험 회사에서 일하신다.
+[45:27.30]
+W | contrato | 계약, 계약서
+[45:30.00]
+E | Hicimos un contrato con dos fontaneros para terminar la obra. | 공사를 마무리하려고 배관공 두 명과 계약했다.
+[45:36.00]
+W | currículum | 이력서
+[45:40.70]
+E | La empresa pide el currículum para una primera selección. | 회사는 1차 선발을 위해 이력서를 요구한다.
+[45:46.50]
+W | dedicarse a algo | ~에 종사하다, ~을 업으로 하다
+[45:51.30]
+E | Ella se dedica a la restauración de muebles antiguos. | 그녀는 고가구 복원 일을 한다.
+[45:58.00]
+W | departamento | 부서, 과
+[46:01.70]
+E | El departamento de Relaciones Públicas está en la séptima planta. | 홍보부는 7층에 있다.
+[46:09.60]
+W | despedir | 해고하다; 배웅하다
+[46:12.30]
+E | El jefe me despidió del trabajo. | 사장이 나를 해고했다.
+[46:17.50]
+W | empleo | 직업, 일자리, 고용
+[46:23.20]
+E | Mi hija tiene un buen empleo. | 내 딸은 좋은 일자리를 가지고 있다.
+[46:27.30]
+W | empresa | 회사, 기업
+[46:30.70]
+E | La empresa constructora necesita diez obreros con experiencia. | 그 건설 회사는 경력 있는 노동자 열 명이 필요하다.
+[46:36.30]
+W | entrevista | 면접, 인터뷰
+[46:41.40]
+E | Tengo una entrevista de trabajo pasado mañana. | 나는 모레 취업 면접이 있다.
+[46:45.90]
+W | huelga | 파업
+[46:48.90]
+E | Llevan ya 20 días haciendo huelga. | 그들은 벌써 20일째 파업 중이다.
+[46:52.90]
+W | jornada | 하루 일과, 근무 시간
+[46:56.90]
+E | Sonia termina su jornada a las 8. | 소니아는 8시에 하루 일을 마친다.
+[47:00.90]
+W | jubilación | 은퇴, 퇴직
+[47:16.10]
+W | mano de obra | 노동력, 일손
+[47:16.10]
+E | Es difícil encontrar mano de obra especializada en este campo. | 이 분야에서는 전문 인력을 구하기 어렵다.
+[47:26.60]
+W | obrero, obrera | 노동자
+[47:26.60]
+E | Un obrero de la construcción se cayó de la tercera planta. | 건설 노동자 한 명이 3층에서 떨어졌다.
+[47:36.30]
+W | paro | 실업
+[47:36.30]
+E | Irene está en paro desde hace dos meses. | 이레네는 두 달 전부터 실직 상태다.
+[47:47.40]
+W | patrón, patrona | 고용주, 사장
+[47:48.30]
+E | El patrón pide a los obreros que tengan más cuidado. | 사장은 노동자들에게 더 조심하라고 요구한다.
+[47:53.70]
+W | pensión | 연금
+[47:57.40]
+E | Los jubilados cobran una pensión del Estado. | 퇴직자들은 국가에서 연금을 받는다.
+[48:07.00]
+W | personal | 직원, 인원
+[48:08.10]
+E | El personal de la oficina está comiendo en el comedor. | 사무실 직원들은 구내식당에서 식사 중이다.
+[48:14.50]
+W | promoción | 승진
+[48:18.90]
+E | En su empleo no tiene posibilidades de promoción. | 그의 직장에서는 승진 가능성이 없다.
+[48:29.30]
+W | sindicato | 노동조합
+[48:29.30]
+E | El sindicato lucha por mantener los puestos de trabajo. | 노동조합은 일자리를 지키기 위해 싸운다.
+[48:38.70]
+W | sueldo | 월급, 급여
+[48:38.70]
+E | Me aumentaron el sueldo. | 내 월급이 올랐다.
+[48:43.40]
+W | trabajo | 직업, 일, 직장
+[48:49.30]
+E | No llegues tarde al trabajo. | 직장에 늦지 마라.
+
+## Unidad 3. De compras · 쇼핑
+[49:03.20]
+W | barato, barata | 값싼
+[49:07.80]
+E | El piso me ha salido barato. | 그 아파트를 싸게 구했다.
+[49:12.80]
+W | bolsa | 봉지, 봉투, 가방
+[49:16.10]
+E | Deme una bolsa para meter lo que he comprado. | 산 물건을 넣게 봉투 하나 주세요.
+[49:20.70]
+W | caja | 계산대; 상자
+[49:27.50]
+E | Pasen por caja para abonar sus compras. | 구매하신 물건은 계산대에서 결제해 주세요.
+[49:31.50]
+W | cambiar | 바꾸다, 교환하다
+[49:35.70]
+E | He cambiado la mesa por un sofá. | 나는 탁자를 소파로 바꿨다.
+[49:41.10]
+W | caro, cara | 비싼
+[49:45.40]
+E | Carmen vive en un piso caro. | 카르멘은 비싼 아파트에 산다.
+[49:48.90]
+W | cliente, clienta | 손님, 고객
+[49:55.00]
+E | El cliente siempre tiene la razón. | 손님은 언제나 옳다.
+[49:59.40]
+W | comprar | 사다, 구입하다
+[50:02.70]
+E | La amistad no se puede comprar. | 우정은 돈으로 살 수 없다.
+[50:07.80]
+W | dependiente, dependienta | 점원
+[50:12.80]
+E | La dependienta nos enseñó las camisas muy amablemente. | 여자 점원이 아주 친절하게 셔츠들을 보여 주었다.
+[50:18.40]
+W | descuento | 할인
+[50:21.70]
+E | He conseguido un buen descuento en la compra del televisor. | 텔레비전을 살 때 할인을 많이 받았다.
+[50:26.80]
+W | devolver | 돌려주다, 반품하다, 환불하다
+[50:32.10]
+E | Si no queda satisfecho con la compra, le devolvemos su dinero. | 구매에 만족하지 않으시면 환불해 드립니다.
+[50:38.50]
+W | en efectivo | 현금으로
+[50:41.80]
+E | ¿Puedo pagar en efectivo? | 현금으로 내도 되나요?
+[50:46.30]
+W | envolver | 포장하다, 싸다
+[50:49.20]
+E | Mi hermana envuelve los regalos con papel de colores. | 내 여동생은 선물을 색종이로 포장한다.
+[50:55.40]
+W | garantía | 보증, 품질 보증
+[50:58.60]
+E | El coche tiene una garantía de dos años. | 그 차는 2년 보증이 된다.
+[51:04.50]
+W | oferta | 특가 판매, 공급
+[51:09.00]
+E | Esta camisa está en oferta y por eso sale tan barata. | 이 셔츠는 특가 판매 중이라 이렇게 싸다.
+[51:15.40]
+W | precio | 가격
+[51:17.40]
+E | Pagaste un precio exagerado por esos zapatos. | 너는 그 신발에 터무니없는 값을 치렀다.
+[51:24.00]
+W | rebaja | 할인, 세일
+[51:27.50]
+E | Me voy a comprar esta blusa bonita que está de rebaja. | 세일 중인 이 예쁜 블라우스를 사야겠다.
+[51:35.00]
+W | recibo | 영수증
+[51:38.10]
+E | Para el cambio es necesario presentar el recibo de compra. | 교환하려면 구매 영수증을 제시해야 한다.
+[51:43.30]
+W | tener suelto | 잔돈이 있다
+[51:47.90]
+E | No tengo suelto para el periódico. | 신문 살 잔돈이 없다.
+[51:52.80]
+W | tienda | 가게, 상점
+[51:57.70]
+E | Han cerrado la tienda de la esquina porque no vendía casi nada. | 모퉁이 가게는 거의 팔리지 않아서 문을 닫았다.
+[52:04.90]
+W | vender | 팔다
+[52:07.10]
+E | Mitchell se dedica a vender coches importados. | 미첼은 수입차 판매 일을 한다.

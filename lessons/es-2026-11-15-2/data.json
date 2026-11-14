@@ -1,0 +1,4886 @@
+{
+ "id": "es-2026-11-15-2",
+ "lang": "es",
+ "date": "2026-11-15",
+ "title": "스페인어 어휘를 부탁해 ① — 인간·인간관계와 사회 (1–2장)",
+ "es": "Mi madre siempre se lava las manos antes de cocinar.",
+ "emoji": "🧍",
+ "level": "A2–B1",
+ "channel": "스페인어 어휘를 부탁해 (MP3)",
+ "videoTitle": "스페인어 어휘를 부탁해 — 1/4편",
+ "audio": "audio.m4a",
+ "duration": "60:10",
+ "speakers": {
+  "W": "표제어",
+  "E": "예문"
+ },
+ "hideCast": true,
+ "summary": "1장 '인간'(신체, 외모, 동작·생리, 성격, 감정, 사고, 건강)과 2장 '인간관계와 사회'(가족, 일생, 인간관계, 일상생활, 직업)의 핵심 단어 약 340개를 다뤄요. 스페인어 표제어 → 한국어 뜻 → 예문 순으로 들으면서, 예문을 따라 읽고 명사는 관사(el/la)와 함께, 형용사는 남성형·여성형을 함께 외워 보세요.",
+ "topics": [
+  "신체: la boca · la mano · la espalda · el pelo",
+  "외모: alto · delgado · moreno · rubio · parecerse",
+  "동작·생리: andar · dormir · reír · tener hambre/sed",
+  "성격·감정: amable · tímido · contento · enfadado · nervioso",
+  "사고·건강: pensar · recordar · fiebre · receta médica",
+  "가족·일생: abuelo · cuñado · casarse · dar a luz",
+  "일상·직업: levantarse · ducharse · abogado · enfermera"
+ ],
+ "grammar": [
+  {
+   "title": "① 직업·사람 명사의 남성형과 여성형",
+   "lead": "사람을 나타내는 명사는 대부분 <b>-o → -a</b>, <b>자음 → +a</b>로 여성형을 만들어요. <b>-ista, -ante, -e</b>로 끝나는 단어는 관사만 바꿔요.",
+   "table": {
+    "head": [
+     "유형",
+     "남성",
+     "여성"
+    ],
+    "rows": [
+     [
+      "-o → -a",
+      "el abogado",
+      "la abogada"
+     ],
+     [
+      "자음 + a",
+      "el profesor",
+      "la profesora"
+     ],
+     [
+      "-ista (같은 형태)",
+      "el taxista",
+      "la taxista"
+     ],
+     [
+      "-ante / -e (같은 형태)",
+      "el cantante",
+      "la cantante"
+     ],
+     [
+      "불규칙",
+      "el actor",
+      "la actriz"
+     ],
+     [
+      "특수형",
+      "el dependiente",
+      "la dependienta"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "De mayor quiero ser abogada.",
+     "나는 커서 변호사가 되고 싶다."
+    ],
+    [
+     "Su madre es dentista.",
+     "그의 어머니는 치과 의사다."
+    ],
+    [
+     "La jueza lo condenó a 20 años de cárcel.",
+     "판사는 그에게 징역 20년을 선고했다."
+    ]
+   ],
+   "tip": "ser + 직업 명사에는 보통 관사를 붙이지 않아요: Mi tía es maestra. (O) / Mi tía es una maestra. (특별한 강조가 없으면 X)"
+  },
+  {
+   "title": "② doler와 estar mal de — 아픈 곳 말하기",
+   "lead": "<b>doler</b>는 gustar처럼 아픈 신체 부위가 주어예요. 신체 부위에는 소유사 대신 <b>정관사</b>를 써요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "me duele + 단수",
+      "~이 아프다",
+      "Me duele el brazo derecho."
+     ],
+     [
+      "me duelen + 복수",
+      "~들이 아프다",
+      "Me duelen los pies."
+     ],
+     [
+      "tener dolor de + 부위",
+      "~에 통증이 있다",
+      "Tengo dolor de garganta."
+     ],
+     [
+      "estar mal de + 부위",
+      "~이 안 좋다",
+      "Ella está mal del corazón."
+     ],
+     [
+      "me pica + 부위",
+      "~이 가렵다",
+      "Me pica la espalda."
+     ],
+     [
+      "tener fiebre / tos",
+      "열 / 기침이 있다",
+      "Mi hijo tiene mucha fiebre."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Me duele el brazo derecho.",
+     "오른팔이 아프다."
+    ],
+    [
+     "Tengo mucho dolor de estómago.",
+     "배가 많이 아프다."
+    ],
+    [
+     "Me pica la espalda.",
+     "등이 가렵다."
+    ]
+   ],
+   "tip": "'내 팔이 아프다'를 Me duele mi brazo라고 하지 않아요. me가 이미 '나'를 나타내므로 el brazo면 충분해요."
+  },
+  {
+   "title": "③ 재귀동사로 일상 말하기",
+   "lead": "자기 자신에게 하는 동작은 <b>재귀대명사 me/te/se/nos/os/se</b>와 함께 써요. 재귀 여부에 따라 뜻이 달라지기도 해요.",
+   "table": {
+    "head": [
+     "재귀동사",
+     "뜻",
+     "비재귀 동사"
+    ],
+    "rows": [
+     [
+      "levantarse",
+      "일어나다",
+      "levantar 들어 올리다"
+     ],
+     [
+      "acostarse",
+      "잠자리에 들다",
+      "acostar 눕히다, 재우다"
+     ],
+     [
+      "ducharse / bañarse",
+      "샤워하다 / 목욕하다",
+      "bañar 목욕시키다"
+     ],
+     [
+      "lavarse la cara",
+      "세수하다",
+      "lavar 씻기다"
+     ],
+     [
+      "despertarse",
+      "잠에서 깨다",
+      "despertar 깨우다"
+     ],
+     [
+      "casarse / divorciarse",
+      "결혼하다 / 이혼하다",
+      "casar 결혼시키다"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Mi madre se levanta a las seis y me despierta.",
+     "어머니는 6시에 일어나서 나를 깨운다."
+    ],
+    [
+     "La madre acuesta a sus hijos y luego se acuesta ella.",
+     "엄마는 아이들을 재우고 나서 자신도 잠자리에 든다."
+    ],
+    [
+     "Siempre me baño por la noche.",
+     "나는 항상 밤에 목욕한다."
+    ]
+   ],
+   "tip": "명령형에서는 재귀대명사가 동사 뒤에 붙어요: Lávate la cara. / ¿Por qué no te duchas ahora?"
+  },
+  {
+   "title": "④ ser vs estar — 성격과 상태",
+   "lead": "타고난 성격·외모·직업은 <b>ser</b>, 지금의 기분·몸 상태는 <b>estar</b>를 써요. 같은 형용사도 동사에 따라 뜻이 달라져요.",
+   "table": {
+    "head": [
+     "형용사",
+     "ser + 형용사",
+     "estar + 형용사"
+    ],
+    "rows": [
+     [
+      "alegre",
+      "명랑한 성격이다",
+      "(지금) 기쁘다"
+     ],
+     [
+      "aburrido",
+      "지루한 사람이다",
+      "심심하다, 지루해하다"
+     ],
+     [
+      "listo",
+      "똑똑하다",
+      "준비가 되었다"
+     ],
+     [
+      "guapo",
+      "잘생겼다(원래)",
+      "(오늘) 멋있어 보인다"
+     ],
+     [
+      "malo",
+      "나쁜 사람이다",
+      "아프다, 상태가 나쁘다"
+     ],
+     [
+      "viejo",
+      "늙었다, 낡았다",
+      "(나이에 비해) 늙어 보인다"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Carmen es una estudiante muy alegre.",
+     "카르멘은 아주 명랑한 학생이다."
+    ],
+    [
+     "Maribel está alegre por el ascenso de su hijo.",
+     "마리벨은 아들의 승진으로 기뻐하고 있다."
+    ],
+    [
+     "¡Qué guapo estás con ese traje!",
+     "그 정장을 입으니 정말 멋지다!"
+    ]
+   ],
+   "tip": "감정 형용사(contento, enfadado, nervioso, preocupado, deprimido)는 거의 항상 estar와 함께 써요."
+  }
+ ],
+ "phrases": [
+  [
+   "Me duele el brazo derecho.",
+   "오른팔이 아프다."
+  ],
+  [
+   "Tengo dolor de garganta y me cuesta mucho tragar.",
+   "목이 아파서 삼키기가 무척 힘들다."
+  ],
+  [
+   "En esta foto te pareces mucho a tu abuelo.",
+   "이 사진에서 너는 할아버지를 많이 닮았다."
+  ],
+  [
+   "Mi vecina y yo nos llevamos muy mal.",
+   "이웃 여자와 나는 사이가 아주 나쁘다."
+  ],
+  [
+   "Estoy nervioso porque tengo un examen.",
+   "시험이 있어서 긴장된다."
+  ],
+  [
+   "Quiero pedir hora con la doctora López.",
+   "로페스 선생님께 진료 예약을 하고 싶어요."
+  ],
+  [
+   "Mi hermano me lleva tres años.",
+   "우리 형은 나보다 세 살 많다."
+  ],
+  [
+   "¿A qué hora sales de la oficina?",
+   "너는 몇 시에 퇴근하니?"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la boca",
+   "ko": "입",
+   "ex": "No debes hablar con la boca llena.",
+   "exKo": "입에 음식을 가득 넣은 채로 말하면 안 된다."
+  },
+  {
+   "es": "la cabeza",
+   "ko": "머리",
+   "ex": "Los aviones pasan por encima de nuestras cabezas.",
+   "exKo": "비행기들이 우리 머리 위로 지나간다."
+  },
+  {
+   "es": "la cara",
+   "ko": "얼굴",
+   "ex": "Me suena su cara.",
+   "exKo": "그의 얼굴이 낯익다."
+  },
+  {
+   "es": "el corazón",
+   "ko": "심장, 마음",
+   "ex": "Ella está mal del corazón.",
+   "exKo": "그녀는 심장이 안 좋다."
+  },
+  {
+   "es": "el diente",
+   "ko": "이, 치아",
+   "ex": "Me lavo los dientes dos veces al día.",
+   "exKo": "나는 하루에 두 번 이를 닦는다."
+  },
+  {
+   "es": "la espalda",
+   "ko": "등",
+   "ex": "Se echó la mochila a la espalda.",
+   "exKo": "그는 배낭을 등에 멨다."
+  },
+  {
+   "es": "la mano",
+   "ko": "손",
+   "ex": "Mi madre siempre se lava las manos antes de cocinar.",
+   "exKo": "어머니는 요리하기 전에 항상 손을 씻는다."
+  },
+  {
+   "es": "el pelo",
+   "ko": "머리카락, 털",
+   "ex": "Voy a cortarme el pelo.",
+   "exKo": "나는 머리를 자를 것이다."
+  },
+  {
+   "es": "la pierna",
+   "ko": "다리",
+   "ex": "Antonio se dio un golpe en la pierna y se rompió el hueso.",
+   "exKo": "안토니오는 다리를 부딪쳐서 뼈가 부러졌다."
+  },
+  {
+   "es": "alto, alta",
+   "ko": "키가 큰",
+   "ex": "Su hija está muy alta para su edad.",
+   "exKo": "그의 딸은 나이에 비해 키가 매우 크다."
+  },
+  {
+   "es": "delgado, delgada",
+   "ko": "마른, 날씬한",
+   "ex": "Tienes los brazos demasiado delgados.",
+   "exKo": "너는 팔이 너무 가늘다."
+  },
+  {
+   "es": "parecerse",
+   "ko": "닮다",
+   "ex": "En esta foto te pareces mucho a tu abuelo.",
+   "exKo": "이 사진에서 너는 할아버지를 많이 닮았다."
+  },
+  {
+   "es": "el peso",
+   "ko": "체중, 몸무게",
+   "ex": "¿Cuál es tu peso?",
+   "exKo": "너는 몸무게가 얼마니?"
+  },
+  {
+   "es": "andar",
+   "ko": "걷다",
+   "ex": "Iremos andando hasta la estación.",
+   "exKo": "우리는 역까지 걸어갈 것이다."
+  },
+  {
+   "es": "despertar",
+   "ko": "깨우다",
+   "ex": "Mi madre me despierta todas las mañanas.",
+   "exKo": "어머니는 매일 아침 나를 깨운다."
+  },
+  {
+   "es": "el hambre",
+   "ko": "배고픔",
+   "ex": "Venimos a casa con mucha hambre.",
+   "exKo": "우리는 몹시 배가 고픈 채로 집에 온다."
+  },
+  {
+   "es": "la sed",
+   "ko": "갈증",
+   "ex": "Dame una botella de agua. Tengo mucha sed.",
+   "exKo": "물 한 병 줘. 목이 많이 마르다."
+  },
+  {
+   "es": "amable",
+   "ko": "상냥한, 친절한",
+   "ex": "Somos amables con los ancianos.",
+   "exKo": "우리는 노인들에게 친절하다."
+  },
+  {
+   "es": "tímido, tímida",
+   "ko": "소심한, 수줍어하는",
+   "ex": "No seas tan tímida.",
+   "exKo": "그렇게 수줍어하지 마."
+  },
+  {
+   "es": "llevarse bien / mal",
+   "ko": "사이가 좋다 / 나쁘다",
+   "ex": "Mi vecina y yo nos llevamos muy mal.",
+   "exKo": "이웃 여자와 나는 사이가 아주 나쁘다."
+  },
+  {
+   "es": "contento, contenta",
+   "ko": "만족스러운, 기쁜",
+   "ex": "¿Estás contenta con el coche?",
+   "exKo": "그 차에 만족하니?"
+  },
+  {
+   "es": "enfadado, enfadada",
+   "ko": "화난",
+   "ex": "Mi madre está enfadada conmigo porque anoche volví tarde.",
+   "exKo": "어젯밤 내가 늦게 들어와서 어머니는 나에게 화가 나 있다."
+  },
+  {
+   "es": "el miedo",
+   "ko": "두려움, 공포",
+   "ex": "¿No te dan miedo las serpientes?",
+   "exKo": "너는 뱀이 무섭지 않니?"
+  },
+  {
+   "es": "preocupado, preocupada",
+   "ko": "걱정하는",
+   "ex": "Mis padres están preocupados por la salud de mi abuelo.",
+   "exKo": "부모님은 할아버지의 건강을 걱정하신다."
+  },
+  {
+   "es": "recordar",
+   "ko": "기억하다",
+   "ex": "Recuerdo que no comías pescado.",
+   "exKo": "네가 생선을 먹지 않았던 게 기억난다."
+  },
+  {
+   "es": "olvidar",
+   "ko": "잊어버리다",
+   "ex": "He olvidado su número de teléfono.",
+   "exKo": "나는 그의 전화번호를 잊어버렸다."
+  },
+  {
+   "es": "equivocarse",
+   "ko": "틀리다, 혼동하다",
+   "ex": "Te equivocas, eso no es así.",
+   "exKo": "네가 틀렸어, 그건 그렇지 않아."
+  },
+  {
+   "es": "cansado, cansada",
+   "ko": "피곤한",
+   "ex": "¿Qué te pasa? Te veo muy cansada.",
+   "exKo": "무슨 일 있니? 너 아주 피곤해 보여."
+  },
+  {
+   "es": "la fiebre",
+   "ko": "열",
+   "ex": "Mi hijo tiene mucha fiebre.",
+   "exKo": "내 아들은 열이 많이 난다."
+  },
+  {
+   "es": "la receta médica",
+   "ko": "처방전",
+   "ex": "Voy a la farmacia con receta médica.",
+   "exKo": "나는 처방전을 가지고 약국에 간다."
+  },
+  {
+   "es": "resfriado, resfriada",
+   "ko": "감기에 걸린",
+   "ex": "Los niños están resfriados.",
+   "exKo": "아이들이 감기에 걸렸다."
+  },
+  {
+   "es": "el cuñado, la cuñada",
+   "ko": "처남·매부, 올케·시누이",
+   "ex": "Tu cuñado te ha llamado.",
+   "exKo": "네 처남이 너에게 전화했었다."
+  },
+  {
+   "es": "el suegro, la suegra",
+   "ko": "시아버지·장인, 시어머니·장모",
+   "ex": "Los sábados vamos a comer a casa de mis suegros.",
+   "exKo": "토요일마다 우리는 시댁에 가서 식사한다."
+  },
+  {
+   "es": "casarse",
+   "ko": "결혼하다",
+   "ex": "¿Cuándo te casas?",
+   "exKo": "너 언제 결혼하니?"
+  },
+  {
+   "es": "crecer",
+   "ko": "성장하다, 자라다",
+   "ex": "Crecí en Buenos Aires.",
+   "exKo": "나는 부에노스아이레스에서 자랐다."
+  },
+  {
+   "es": "dar a luz",
+   "ko": "낳다, 출산하다",
+   "ex": "Mi hermana acaba de dar a luz a una niña.",
+   "exKo": "언니가 막 딸을 낳았다."
+  },
+  {
+   "es": "la cita",
+   "ko": "약속",
+   "ex": "Mañana tengo una cita de trabajo.",
+   "exKo": "내일 나는 업무 약속이 있다."
+  },
+  {
+   "es": "levantarse",
+   "ko": "일어나다",
+   "ex": "Mi madre se levanta a las seis y me despierta.",
+   "exKo": "어머니는 6시에 일어나서 나를 깨운다."
+  },
+  {
+   "es": "el abogado, la abogada",
+   "ko": "변호사",
+   "ex": "De mayor quiero ser abogada.",
+   "exKo": "나는 커서 변호사가 되고 싶다."
+  },
+  {
+   "es": "el enfermero, la enfermera",
+   "ko": "간호사",
+   "ex": "El enfermero levantó al paciente.",
+   "exKo": "간호사가 환자를 일으켜 세웠다."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'팔꿈치'를 스페인어로?",
+   "options": [
+    "el codo",
+    "el cuello",
+    "el hombro",
+    "la muñeca"
+   ],
+   "answer": 0,
+   "explain": "el codo = 팔꿈치. cuello는 목, hombro는 어깨, muñeca는 손목이에요."
+  },
+  {
+   "q": "Me ___ el brazo derecho. (오른팔이 아프다)",
+   "options": [
+    "duelo",
+    "duele",
+    "duelen",
+    "dolor"
+   ],
+   "answer": 1,
+   "explain": "아픈 부위 el brazo(단수)가 주어이므로 duele를 써요."
+  },
+  {
+   "q": "El futbolista tiene una lesión en el ___. (허벅지)",
+   "options": [
+    "músculo",
+    "muslo",
+    "pecho",
+    "trasero"
+   ],
+   "answer": 1,
+   "explain": "muslo = 허벅지. músculo(근육)와 헷갈리기 쉬워요."
+  },
+  {
+   "q": "'빨간 머리의'에 해당하는 단어는?",
+   "options": [
+    "rubio",
+    "moreno",
+    "pelirrojo",
+    "calvo"
+   ],
+   "answer": 2,
+   "explain": "pelirrojo = 빨간 머리의. rubio는 금발, moreno는 갈색 머리·가무잡잡한, calvo는 대머리예요."
+  },
+  {
+   "q": "En esta foto te ___ mucho a tu abuelo. (닮다)",
+   "options": [
+    "pareces",
+    "parece",
+    "pareces de",
+    "parecer"
+   ],
+   "answer": 0,
+   "explain": "parecerse a ~ = ~를 닮다. tú에 맞춰 te pareces a tu abuelo."
+  },
+  {
+   "q": "'시간을 잘 지키는'은?",
+   "options": [
+    "prudente",
+    "puntual",
+    "paciente",
+    "sincero"
+   ],
+   "answer": 1,
+   "explain": "puntual = 시간을 잘 지키는. prudente는 신중한, paciente는 참을성 있는이에요."
+  },
+  {
+   "q": "Mi vecina y yo nos ___ muy mal. (사이가 나쁘다)",
+   "options": [
+    "llevamos",
+    "llevan",
+    "llevo",
+    "lleváis"
+   ],
+   "answer": 0,
+   "explain": "llevarse mal = 사이가 나쁘다. 주어 '이웃과 나'는 nosotros이므로 nos llevamos."
+  },
+  {
+   "q": "감정 상태를 말할 때 알맞은 것은? ___ nervioso porque tengo un examen.",
+   "options": [
+    "Soy",
+    "Estoy",
+    "Tengo",
+    "Hay"
+   ],
+   "answer": 1,
+   "explain": "일시적인 기분·상태는 estar를 써요: Estoy nervioso."
+  },
+  {
+   "q": "'처방전'은?",
+   "options": [
+    "la receta médica",
+    "el seguro médico",
+    "la inyección",
+    "la medicina"
+   ],
+   "answer": 0,
+   "explain": "receta médica = 처방전. seguro médico는 의료 보험, inyección은 주사예요."
+  },
+  {
+   "q": "'며느리'를 스페인어로?",
+   "options": [
+    "la suegra",
+    "la cuñada",
+    "la nuera",
+    "la sobrina"
+   ],
+   "answer": 2,
+   "explain": "nuera = 며느리. 사위는 yerno, 시어머니·장모는 suegra예요."
+  },
+  {
+   "q": "Mi hermana acaba de ___ a una niña. (딸을 낳았다)",
+   "options": [
+    "criar",
+    "dar a luz",
+    "crecer",
+    "nacer"
+   ],
+   "answer": 1,
+   "explain": "dar a luz = 출산하다. criar는 기르다, nacer는 태어나다예요."
+  },
+  {
+   "q": "'택시 기사(여성)'의 올바른 형태는?",
+   "options": [
+    "la taxisto",
+    "la taxista",
+    "la taxistera",
+    "el taxisto"
+   ],
+   "answer": 1,
+   "explain": "-ista로 끝나는 직업 명사는 남녀 형태가 같고 관사만 바뀌어요: el/la taxista."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Capítulo 1 · Unidad 1. Cuerpo · 신체",
+   "lines": [
+    {
+     "t": 62.8,
+     "s": "W",
+     "es": "boca",
+     "ko": "입"
+    },
+    {
+     "t": 65.8,
+     "s": "E",
+     "es": "No debes hablar con la boca llena.",
+     "ko": "입에 음식을 가득 넣은 채로 말하면 안 된다."
+    },
+    {
+     "t": 71.1,
+     "s": "W",
+     "es": "brazo",
+     "ko": "팔"
+    },
+    {
+     "t": 73.3,
+     "s": "E",
+     "es": "Me duele el brazo derecho.",
+     "ko": "오른팔이 아프다."
+    },
+    {
+     "t": 79.1,
+     "s": "W",
+     "es": "cabeza",
+     "ko": "머리"
+    },
+    {
+     "t": 81.8,
+     "s": "E",
+     "es": "Los aviones pasan por encima de nuestras cabezas.",
+     "ko": "비행기들이 우리 머리 위로 지나간다."
+    },
+    {
+     "t": 86.4,
+     "s": "W",
+     "es": "cara",
+     "ko": "얼굴"
+    },
+    {
+     "t": 91.2,
+     "s": "E",
+     "es": "Me suena su cara.",
+     "ko": "그의 얼굴이 낯익다."
+    },
+    {
+     "t": 95.0,
+     "s": "W",
+     "es": "ceja",
+     "ko": "눈썹"
+    },
+    {
+     "t": 98.4,
+     "s": "E",
+     "es": "Tengo las cejas espesas.",
+     "ko": "나는 눈썹이 짙다."
+    },
+    {
+     "t": 102.7,
+     "s": "W",
+     "es": "cerebro",
+     "ko": "뇌"
+    },
+    {
+     "t": 106.4,
+     "s": "E",
+     "es": "El cerebro humano es más grande que el del mono.",
+     "ko": "인간의 뇌는 원숭이의 뇌보다 크다."
+    },
+    {
+     "t": 112.8,
+     "s": "W",
+     "es": "codo",
+     "ko": "팔꿈치"
+    },
+    {
+     "t": 116.5,
+     "s": "E",
+     "es": "Para estudiar, apoyo los codos en la mesa.",
+     "ko": "공부할 때 나는 책상에 팔꿈치를 괸다."
+    },
+    {
+     "t": 122.8,
+     "s": "W",
+     "es": "corazón",
+     "ko": "심장, 마음"
+    },
+    {
+     "t": 126.6,
+     "s": "E",
+     "es": "Ella está mal del corazón.",
+     "ko": "그녀는 심장이 안 좋다."
+    },
+    {
+     "t": 131.1,
+     "s": "W",
+     "es": "cuello",
+     "ko": "목"
+    },
+    {
+     "t": 133.7,
+     "s": "E",
+     "es": "El chico llevaba una bufanda alrededor del cuello.",
+     "ko": "그 소년은 목에 목도리를 두르고 있었다."
+    },
+    {
+     "t": 140.4,
+     "s": "W",
+     "es": "dedo",
+     "ko": "손가락, 발가락"
+    },
+    {
+     "t": 145.1,
+     "s": "E",
+     "es": "La chica me señaló con el dedo.",
+     "ko": "그 소녀가 손가락으로 나를 가리켰다."
+    },
+    {
+     "t": 149.7,
+     "s": "W",
+     "es": "diente",
+     "ko": "이, 치아"
+    },
+    {
+     "t": 154.6,
+     "s": "E",
+     "es": "Me lavo los dientes dos veces al día.",
+     "ko": "나는 하루에 두 번 이를 닦는다."
+    },
+    {
+     "t": 160.2,
+     "s": "W",
+     "es": "espalda",
+     "ko": "등"
+    },
+    {
+     "t": 163.1,
+     "s": "E",
+     "es": "Se echó la mochila a la espalda.",
+     "ko": "그는 배낭을 등에 멨다."
+    },
+    {
+     "t": 168.5,
+     "s": "W",
+     "es": "estómago",
+     "ko": "위, 복부, 배"
+    },
+    {
+     "t": 174.6,
+     "s": "E",
+     "es": "Tengo mucho dolor de estómago.",
+     "ko": "배가 많이 아프다."
+    },
+    {
+     "t": 179.1,
+     "s": "W",
+     "es": "físico",
+     "ko": "체격, 외모"
+    },
+    {
+     "t": 182.6,
+     "s": "E",
+     "es": "Anabel tiene un físico muy llamativo.",
+     "ko": "아나벨은 아주 눈에 띄는 외모를 지녔다."
+    },
+    {
+     "t": 187.2,
+     "s": "W",
+     "es": "frente",
+     "ko": "이마"
+    },
+    {
+     "t": 190.6,
+     "s": "E",
+     "es": "¿Por qué te tapas la frente con el pelo?",
+     "ko": "왜 머리카락으로 이마를 가리니?"
+    },
+    {
+     "t": 196.2,
+     "s": "W",
+     "es": "garganta",
+     "ko": "목구멍, 인후"
+    },
+    {
+     "t": 203.7,
+     "s": "E",
+     "es": "Tengo dolor de garganta y me cuesta mucho tragar.",
+     "ko": "목이 아파서 삼키기가 무척 힘들다."
+    },
+    {
+     "t": 209.5,
+     "s": "W",
+     "es": "hígado",
+     "ko": "간"
+    },
+    {
+     "t": 211.8,
+     "s": "E",
+     "es": "¿Qué tengo que comer si estoy mal del hígado?",
+     "ko": "간이 안 좋으면 무엇을 먹어야 하나요?"
+    },
+    {
+     "t": 218.1,
+     "s": "W",
+     "es": "hombro",
+     "ko": "어깨"
+    },
+    {
+     "t": 219.6,
+     "s": "E",
+     "es": "Un amigo mío me tocó el hombro para saludarme.",
+     "ko": "내 친구 하나가 인사하려고 내 어깨를 건드렸다."
+    },
+    {
+     "t": 227.1,
+     "s": "W",
+     "es": "hueso",
+     "ko": "뼈"
+    },
+    {
+     "t": 229.4,
+     "s": "E",
+     "es": "Antonio se dio un golpe en la pierna y se rompió el hueso.",
+     "ko": "안토니오는 다리를 부딪쳐서 뼈가 부러졌다."
+    },
+    {
+     "t": 236.7,
+     "s": "W",
+     "es": "labio",
+     "ko": "입술"
+    },
+    {
+     "t": 239.3,
+     "s": "E",
+     "es": "Mi madre se pintó los labios de rojo.",
+     "ko": "어머니는 입술을 빨갛게 칠했다."
+    },
+    {
+     "t": 245.4,
+     "s": "W",
+     "es": "lengua",
+     "ko": "혀, 언어"
+    },
+    {
+     "t": 249.5,
+     "s": "E",
+     "es": "Me he mordido la lengua.",
+     "ko": "나는 혀를 깨물었다."
+    },
+    {
+     "t": 253.5,
+     "s": "W",
+     "es": "mano",
+     "ko": "손"
+    },
+    {
+     "t": 256.2,
+     "s": "E",
+     "es": "Mi madre siempre se lava las manos antes de cocinar.",
+     "ko": "어머니는 요리하기 전에 항상 손을 씻는다."
+    },
+    {
+     "t": 262.6,
+     "s": "W",
+     "es": "mejilla",
+     "ko": "볼, 뺨"
+    },
+    {
+     "t": 267.5,
+     "s": "E",
+     "es": "José me besó en la mejilla.",
+     "ko": "호세가 내 볼에 입을 맞췄다."
+    },
+    {
+     "t": 271.9,
+     "s": "W",
+     "es": "muñeca",
+     "ko": "손목"
+    },
+    {
+     "t": 274.4,
+     "s": "E",
+     "es": "Llevo el reloj en la muñeca izquierda.",
+     "ko": "나는 왼쪽 손목에 시계를 찬다."
+    },
+    {
+     "t": 280.6,
+     "s": "W",
+     "es": "músculo",
+     "ko": "근육"
+    },
+    {
+     "t": 283.6,
+     "s": "E",
+     "es": "Necesitas desarrollar más músculo en las piernas. Las tienes muy delgadas.",
+     "ko": "너는 다리 근육을 더 키워야 해. 다리가 너무 가늘어."
+    },
+    {
+     "t": 291.7,
+     "s": "W",
+     "es": "muslo",
+     "ko": "넓적다리, 허벅지"
+    },
+    {
+     "t": 296.4,
+     "s": "E",
+     "es": "El futbolista tiene una lesión en el muslo.",
+     "ko": "그 축구 선수는 허벅지에 부상이 있다."
+    },
+    {
+     "t": 302.5,
+     "s": "W",
+     "es": "nariz",
+     "ko": "코"
+    },
+    {
+     "t": 305.3,
+     "s": "E",
+     "es": "Él tiene un grano en la nariz.",
+     "ko": "그는 코에 여드름이 났다."
+    },
+    {
+     "t": 309.9,
+     "s": "W",
+     "es": "ojo",
+     "ko": "눈"
+    },
+    {
+     "t": 312.7,
+     "s": "E",
+     "es": "Abre los ojos y mírame.",
+     "ko": "눈을 뜨고 나를 봐."
+    },
+    {
+     "t": 317.7,
+     "s": "W",
+     "es": "ombligo",
+     "ko": "배꼽, 중심"
+    },
+    {
+     "t": 321.9,
+     "s": "E",
+     "es": "¿Te crees que eres el ombligo del mundo?",
+     "ko": "네가 세상의 중심이라고 생각하니?"
+    },
+    {
+     "t": 327.2,
+     "s": "W",
+     "es": "oreja",
+     "ko": "귀"
+    },
+    {
+     "t": 331.2,
+     "s": "E",
+     "es": "Celia se ha hecho agujeros en las orejas para llevar pendientes.",
+     "ko": "셀리아는 귀걸이를 하려고 귀를 뚫었다."
+    },
+    {
+     "t": 339.0,
+     "s": "W",
+     "es": "palma",
+     "ko": "손바닥"
+    },
+    {
+     "t": 339.0,
+     "s": "E",
+     "es": "Te leo la palma de la mano.",
+     "ko": "내가 네 손금을 봐 줄게."
+    },
+    {
+     "t": 346.0,
+     "s": "W",
+     "es": "pecho",
+     "ko": "가슴"
+    },
+    {
+     "t": 346.0,
+     "s": "E",
+     "es": "El ladrón tenía una herida en el pecho.",
+     "ko": "그 도둑은 가슴에 상처가 있었다."
+    },
+    {
+     "t": 353.2,
+     "s": "W",
+     "es": "pelo",
+     "ko": "머리카락, 털"
+    },
+    {
+     "t": 357.6,
+     "s": "E",
+     "es": "Voy a cortarme el pelo.",
+     "ko": "나는 머리를 자를 것이다."
+    },
+    {
+     "t": 362.8,
+     "s": "W",
+     "es": "pestaña",
+     "ko": "속눈썹"
+    },
+    {
+     "t": 365.5,
+     "s": "E",
+     "es": "Ella arqueaba sus pestañas con rímel.",
+     "ko": "그녀는 마스카라로 속눈썹을 올렸다."
+    },
+    {
+     "t": 371.1,
+     "s": "W",
+     "es": "pie",
+     "ko": "발"
+    },
+    {
+     "t": 373.1,
+     "s": "E",
+     "es": "He metido solo los pies en la piscina porque el agua está muy fría.",
+     "ko": "물이 너무 차가워서 수영장에 발만 담갔다."
+    },
+    {
+     "t": 379.6,
+     "s": "W",
+     "es": "piel",
+     "ko": "피부"
+    },
+    {
+     "t": 383.8,
+     "s": "E",
+     "es": "Hay que tomar suficiente agua para tener la piel sana.",
+     "ko": "건강한 피부를 위해서는 물을 충분히 마셔야 한다."
+    },
+    {
+     "t": 392.0,
+     "s": "W",
+     "es": "pierna",
+     "ko": "다리"
+    },
+    {
+     "t": 394.0,
+     "s": "E",
+     "es": "Mi hermana se pone minifalda a menudo porque tiene unas piernas muy bonitas.",
+     "ko": "언니는 다리가 아주 예뻐서 미니스커트를 자주 입는다."
+    },
+    {
+     "t": 402.0,
+     "s": "W",
+     "es": "pulmón",
+     "ko": "폐, 허파"
+    },
+    {
+     "t": 405.6,
+     "s": "E",
+     "es": "Fumar daña los pulmones.",
+     "ko": "흡연은 폐를 손상시킨다."
+    },
+    {
+     "t": 410.9,
+     "s": "W",
+     "es": "rodilla",
+     "ko": "무릎"
+    },
+    {
+     "t": 414.7,
+     "s": "E",
+     "es": "Manuel dobló las rodillas para rezar.",
+     "ko": "마누엘은 기도하려고 무릎을 꿇었다."
+    },
+    {
+     "t": 419.3,
+     "s": "W",
+     "es": "sangre",
+     "ko": "피"
+    },
+    {
+     "t": 422.7,
+     "s": "E",
+     "es": "Mi hermano tiene sangre de tipo O.",
+     "ko": "내 동생은 혈액형이 O형이다."
+    },
+    {
+     "t": 427.7,
+     "s": "W",
+     "es": "trasero",
+     "ko": "엉덩이"
+    },
+    {
+     "t": 432.1,
+     "s": "E",
+     "es": "Tengo el trasero dolorido porque llevo tres horas sentado.",
+     "ko": "세 시간째 앉아 있어서 엉덩이가 아프다."
+    },
+    {
+     "t": 438.9,
+     "s": "W",
+     "es": "tripa",
+     "ko": "창자, 내장, 복부"
+    },
+    {
+     "t": 444.9,
+     "s": "E",
+     "es": "Le sonaban las tripas de hambre.",
+     "ko": "그는 배가 고파서 배에서 꼬르륵 소리가 났다."
+    },
+    {
+     "t": 449.9,
+     "s": "W",
+     "es": "uña",
+     "ko": "손톱, 발톱"
+    },
+    {
+     "t": 455.1,
+     "s": "E",
+     "es": "Tienes que cortarte esas uñas tan largas.",
+     "ko": "너는 그 긴 손톱을 깎아야 한다."
+    },
+    {
+     "t": 460.1,
+     "s": "W",
+     "es": "vena",
+     "ko": "정맥, 혈관"
+    },
+    {
+     "t": 463.7,
+     "s": "E",
+     "es": "Esta inyección se pone en las venas.",
+     "ko": "이 주사는 정맥에 놓는다."
+    },
+    {
+     "t": 468.7,
+     "s": "W",
+     "es": "voz",
+     "ko": "목소리"
+    },
+    {
+     "t": 470.7,
+     "s": "E",
+     "es": "Él ya me lo dijo en voz baja.",
+     "ko": "그는 이미 작은 목소리로 내게 그것을 말했다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Descripción física · 신체적 특징",
+   "lines": [
+    {
+     "t": 486.1,
+     "s": "W",
+     "es": "alto, alta",
+     "ko": "키가 큰, 높은"
+    },
+    {
+     "t": 489.8,
+     "s": "E",
+     "es": "Su hija está muy alta para su edad.",
+     "ko": "그의 딸은 나이에 비해 키가 매우 크다."
+    },
+    {
+     "t": 497.8,
+     "s": "W",
+     "es": "bajo, baja",
+     "ko": "키가 작은, 낮은"
+    },
+    {
+     "t": 501.5,
+     "s": "E",
+     "es": "Mi hermano es muy bajo.",
+     "ko": "내 남동생은 키가 아주 작다."
+    },
+    {
+     "t": 507.1,
+     "s": "W",
+     "es": "barba",
+     "ko": "턱수염"
+    },
+    {
+     "t": 510.0,
+     "s": "E",
+     "es": "Mi abuelo tiene la barba muy larga.",
+     "ko": "우리 할아버지는 턱수염이 아주 길다."
+    },
+    {
+     "t": 515.2,
+     "s": "W",
+     "es": "calvo, calva",
+     "ko": "대머리의"
+    },
+    {
+     "t": 517.0,
+     "s": "E",
+     "es": "Vino un señor calvo con gafas para verte.",
+     "ko": "안경 쓴 대머리 아저씨가 너를 만나러 왔다."
+    },
+    {
+     "t": 524.9,
+     "s": "W",
+     "es": "débil",
+     "ko": "약한"
+    },
+    {
+     "t": 528.4,
+     "s": "E",
+     "es": "Hay que ayudar a las personas débiles.",
+     "ko": "약한 사람들을 도와야 한다."
+    },
+    {
+     "t": 533.4,
+     "s": "W",
+     "es": "delgado, delgada",
+     "ko": "마른, 날씬한"
+    },
+    {
+     "t": 538.1,
+     "s": "E",
+     "es": "Tienes los brazos demasiado delgados.",
+     "ko": "너는 팔이 너무 가늘다."
+    },
+    {
+     "t": 543.5,
+     "s": "W",
+     "es": "estatura",
+     "ko": "신장, 키"
+    },
+    {
+     "t": 548.0,
+     "s": "E",
+     "es": "Soy de estatura normal.",
+     "ko": "나는 키가 보통이다."
+    },
+    {
+     "t": 553.0,
+     "s": "W",
+     "es": "feo, fea",
+     "ko": "못생긴"
+    },
+    {
+     "t": 556.4,
+     "s": "E",
+     "es": "A ninguna madre le parecen feos sus hijos.",
+     "ko": "자기 자식이 못생겨 보이는 엄마는 없다."
+    },
+    {
+     "t": 563.3,
+     "s": "W",
+     "es": "fuerte",
+     "ko": "강한, 힘센"
+    },
+    {
+     "t": 567.5,
+     "s": "E",
+     "es": "Mi mejor amigo es fuerte como un toro.",
+     "ko": "내 가장 친한 친구는 황소처럼 힘이 세다."
+    },
+    {
+     "t": 573.8,
+     "s": "W",
+     "es": "gordo, gorda",
+     "ko": "뚱뚱한"
+    },
+    {
+     "t": 577.2,
+     "s": "E",
+     "es": "¿Por qué estás cada vez más gordo?",
+     "ko": "너는 왜 점점 더 살이 찌니?"
+    },
+    {
+     "t": 582.6,
+     "s": "W",
+     "es": "guapo, guapa",
+     "ko": "예쁜, 잘생긴"
+    },
+    {
+     "t": 588.3,
+     "s": "E",
+     "es": "¡Qué guapo estás con ese traje!",
+     "ko": "그 정장을 입으니 정말 멋지다!"
+    },
+    {
+     "t": 593.3,
+     "s": "W",
+     "es": "joven",
+     "ko": "젊은이, 젊은"
+    },
+    {
+     "t": 598.0,
+     "s": "E",
+     "es": "Cuando era joven, quería viajar por todo el mundo.",
+     "ko": "젊었을 때 나는 전 세계를 여행하고 싶었다."
+    },
+    {
+     "t": 603.4,
+     "s": "W",
+     "es": "moreno, morena",
+     "ko": "갈색 머리의, 피부가 가무잡잡한"
+    },
+    {
+     "t": 609.2,
+     "s": "E",
+     "es": "Ana es morena, pero todas sus hermanas son rubias.",
+     "ko": "아나는 갈색 머리지만 자매들은 모두 금발이다."
+    },
+    {
+     "t": 616.7,
+     "s": "W",
+     "es": "parecerse",
+     "ko": "닮다"
+    },
+    {
+     "t": 618.6,
+     "s": "E",
+     "es": "En esta foto te pareces mucho a tu abuelo.",
+     "ko": "이 사진에서 너는 할아버지를 많이 닮았다."
+    },
+    {
+     "t": 626.1,
+     "s": "W",
+     "es": "pelirrojo, pelirroja",
+     "ko": "빨간 머리의"
+    },
+    {
+     "t": 630.0,
+     "s": "E",
+     "es": "Su hermano es alto, pelirrojo y lleva gafas.",
+     "ko": "그의 형은 키가 크고 빨간 머리에 안경을 쓴다."
+    },
+    {
+     "t": 635.8,
+     "s": "W",
+     "es": "pelo liso",
+     "ko": "직모, 곧은 머리카락"
+    },
+    {
+     "t": 642.1,
+     "s": "E",
+     "es": "Mi hermana tiene el pelo liso y rubio.",
+     "ko": "언니는 금발의 곧은 머리를 가졌다."
+    },
+    {
+     "t": 647.1,
+     "s": "W",
+     "es": "pelo rizado",
+     "ko": "곱슬머리"
+    },
+    {
+     "t": 651.1,
+     "s": "E",
+     "es": "Un hijo mío tiene el pelo rizado.",
+     "ko": "내 아들 중 하나는 곱슬머리다."
+    },
+    {
+     "t": 656.8,
+     "s": "W",
+     "es": "peso",
+     "ko": "체중, 몸무게"
+    },
+    {
+     "t": 660.0,
+     "s": "E",
+     "es": "¿Cuál es tu peso?",
+     "ko": "너는 몸무게가 얼마니?"
+    },
+    {
+     "t": 664.7,
+     "s": "W",
+     "es": "rubio, rubia",
+     "ko": "금발의"
+    },
+    {
+     "t": 669.5,
+     "s": "E",
+     "es": "Soy moreno, pero mi hermana es rubia.",
+     "ko": "나는 갈색 머리지만 누나는 금발이다."
+    },
+    {
+     "t": 674.1,
+     "s": "W",
+     "es": "viejo, vieja",
+     "ko": "늙은, 낡은"
+    },
+    {
+     "t": 678.9,
+     "s": "E",
+     "es": "Está muy viejo para la edad que tiene.",
+     "ko": "그는 나이에 비해 많이 늙었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Movimiento, fisiología · 동작, 생리",
+   "lines": [
+    {
+     "t": 696.6,
+     "s": "W",
+     "es": "abrazar",
+     "ko": "껴안다, 포옹하다"
+    },
+    {
+     "t": 701.9,
+     "s": "E",
+     "es": "Él me abrazó muy fuerte.",
+     "ko": "그는 나를 아주 꽉 껴안았다."
+    },
+    {
+     "t": 706.3,
+     "s": "W",
+     "es": "acostar",
+     "ko": "눕히다, 재우다"
+    },
+    {
+     "t": 709.9,
+     "s": "E",
+     "es": "La madre acuesta a sus hijos y luego se acuesta ella.",
+     "ko": "엄마는 아이들을 재우고 나서 자신도 잠자리에 든다."
+    },
+    {
+     "t": 715.7,
+     "s": "W",
+     "es": "adelgazar",
+     "ko": "살이 빠지다, 날씬해지다"
+    },
+    {
+     "t": 718.3,
+     "s": "E",
+     "es": "Mi hermano come muy poco para adelgazar.",
+     "ko": "내 동생은 살을 빼려고 아주 조금 먹는다."
+    },
+    {
+     "t": 724.5,
+     "s": "W",
+     "es": "andar",
+     "ko": "걷다"
+    },
+    {
+     "t": 728.1,
+     "s": "E",
+     "es": "Iremos andando hasta la estación.",
+     "ko": "우리는 역까지 걸어갈 것이다."
+    },
+    {
+     "t": 732.6,
+     "s": "W",
+     "es": "aplaudir",
+     "ko": "박수 치다"
+    },
+    {
+     "t": 736.4,
+     "s": "E",
+     "es": "El público aplaude a los actores.",
+     "ko": "관객들이 배우들에게 박수를 친다."
+    },
+    {
+     "t": 740.8,
+     "s": "W",
+     "es": "beber",
+     "ko": "마시다"
+    },
+    {
+     "t": 744.4,
+     "s": "E",
+     "es": "¿Qué quieres beber?",
+     "ko": "무엇을 마시고 싶니?"
+    },
+    {
+     "t": 748.6,
+     "s": "W",
+     "es": "besar",
+     "ko": "입맞추다, 키스하다"
+    },
+    {
+     "t": 753.4,
+     "s": "E",
+     "es": "Bésame mucho.",
+     "ko": "(노래 제목) 내게 많이 키스해 줘."
+    },
+    {
+     "t": 760.6,
+     "s": "W",
+     "es": "caer",
+     "ko": "넘어지다, 떨어지다"
+    },
+    {
+     "t": 765.4,
+     "s": "E",
+     "es": "Se cayó al suelo y se dio un golpe en la cabeza.",
+     "ko": "그는 바닥에 넘어져 머리를 부딪쳤다."
+    },
+    {
+     "t": 770.6,
+     "s": "W",
+     "es": "comer",
+     "ko": "먹다"
+    },
+    {
+     "t": 773.7,
+     "s": "E",
+     "es": "Comemos dos hamburguesas.",
+     "ko": "우리는 햄버거 두 개를 먹는다."
+    },
+    {
+     "t": 778.3,
+     "s": "W",
+     "es": "correr",
+     "ko": "달리다, 뛰다"
+    },
+    {
+     "t": 783.6,
+     "s": "E",
+     "es": "Los niños corren por el parque.",
+     "ko": "아이들이 공원을 뛰어다닌다."
+    },
+    {
+     "t": 788.1,
+     "s": "W",
+     "es": "despertar",
+     "ko": "깨우다"
+    },
+    {
+     "t": 791.9,
+     "s": "E",
+     "es": "Mi madre me despierta todas las mañanas.",
+     "ko": "어머니는 매일 아침 나를 깨운다."
+    },
+    {
+     "t": 796.8,
+     "s": "W",
+     "es": "doblar",
+     "ko": "접다, 구부리다"
+    },
+    {
+     "t": 800.9,
+     "s": "E",
+     "es": "No puedo doblar la rodilla.",
+     "ko": "나는 무릎을 굽힐 수 없다."
+    },
+    {
+     "t": 806.6,
+     "s": "W",
+     "es": "dormir",
+     "ko": "자다"
+    },
+    {
+     "t": 809.8,
+     "s": "E",
+     "es": "La música no me dejaba dormir.",
+     "ko": "음악 때문에 나는 잠을 잘 수 없었다."
+    },
+    {
+     "t": 814.4,
+     "s": "W",
+     "es": "empujar",
+     "ko": "밀다"
+    },
+    {
+     "t": 817.9,
+     "s": "E",
+     "es": "Empuja la puerta para salir.",
+     "ko": "나가려면 문을 밀어라."
+    },
+    {
+     "t": 821.9,
+     "s": "W",
+     "es": "engordar",
+     "ko": "살찌다"
+    },
+    {
+     "t": 825.9,
+     "s": "E",
+     "es": "Hacemos ejercicio para no engordar.",
+     "ko": "우리는 살찌지 않으려고 운동한다."
+    },
+    {
+     "t": 831.7,
+     "s": "W",
+     "es": "escuchar",
+     "ko": "듣다, 경청하다"
+    },
+    {
+     "t": 835.3,
+     "s": "E",
+     "es": "Los estudiantes escuchan lo que dice su profesora.",
+     "ko": "학생들은 선생님이 하는 말을 듣는다."
+    },
+    {
+     "t": 841.7,
+     "s": "W",
+     "es": "estar de pie",
+     "ko": "서 있다"
+    },
+    {
+     "t": 845.1,
+     "s": "E",
+     "es": "Mi padre estaba de pie junto a mi cama.",
+     "ko": "아버지는 내 침대 옆에 서 계셨다."
+    },
+    {
+     "t": 851.9,
+     "s": "W",
+     "es": "golpear",
+     "ko": "두드리다, 때리다"
+    },
+    {
+     "t": 855.0,
+     "s": "E",
+     "es": "El profesor golpea la mesa con la mano.",
+     "ko": "선생님이 손으로 책상을 두드린다."
+    },
+    {
+     "t": 860.8,
+     "s": "W",
+     "es": "gritar",
+     "ko": "소리 지르다"
+    },
+    {
+     "t": 864.7,
+     "s": "E",
+     "es": "No me grites.",
+     "ko": "나에게 소리 지르지 마."
+    },
+    {
+     "t": 867.9,
+     "s": "W",
+     "es": "hablar",
+     "ko": "말하다"
+    },
+    {
+     "t": 871.4,
+     "s": "E",
+     "es": "Puedo hablar español e inglés.",
+     "ko": "나는 스페인어와 영어를 할 수 있다."
+    },
+    {
+     "t": 875.7,
+     "s": "W",
+     "es": "hambre",
+     "ko": "배고픔, 공복감"
+    },
+    {
+     "t": 881.2,
+     "s": "E",
+     "es": "Venimos a casa con mucha hambre.",
+     "ko": "우리는 몹시 배가 고픈 채로 집에 온다."
+    },
+    {
+     "t": 885.8,
+     "s": "W",
+     "es": "lágrima",
+     "ko": "눈물"
+    },
+    {
+     "t": 888.8,
+     "s": "E",
+     "es": "Cuando vi a mi madre, se me saltaron las lágrimas.",
+     "ko": "어머니를 보았을 때 눈물이 터져 나왔다."
+    },
+    {
+     "t": 894.8,
+     "s": "W",
+     "es": "leer",
+     "ko": "읽다, 독서하다"
+    },
+    {
+     "t": 900.2,
+     "s": "E",
+     "es": "Lo voy a leer en voz alta.",
+     "ko": "내가 그것을 큰 소리로 읽을게."
+    },
+    {
+     "t": 905.4,
+     "s": "W",
+     "es": "levantar",
+     "ko": "들다, 일으키다"
+    },
+    {
+     "t": 910.1,
+     "s": "E",
+     "es": "Ella se levantó y dijo su nombre.",
+     "ko": "그녀는 일어서서 자기 이름을 말했다."
+    },
+    {
+     "t": 915.5,
+     "s": "W",
+     "es": "llorar",
+     "ko": "울다"
+    },
+    {
+     "t": 918.3,
+     "s": "E",
+     "es": "No llores por mí, Argentina.",
+     "ko": "나를 위해 울지 말아요, 아르헨티나."
+    },
+    {
+     "t": 922.8,
+     "s": "W",
+     "es": "mirar",
+     "ko": "보다, 바라보다"
+    },
+    {
+     "t": 925.5,
+     "s": "E",
+     "es": "¿Por qué me miras así?",
+     "ko": "왜 나를 그렇게 쳐다보니?"
+    },
+    {
+     "t": 929.2,
+     "s": "W",
+     "es": "moverse",
+     "ko": "움직이다"
+    },
+    {
+     "t": 933.1,
+     "s": "E",
+     "es": "La tía se mueve con dificultad porque está mal de salud.",
+     "ko": "고모는 건강이 좋지 않아서 움직이는 것이 힘들다."
+    },
+    {
+     "t": 939.4,
+     "s": "W",
+     "es": "oír",
+     "ko": "듣다, 들리다"
+    },
+    {
+     "t": 941.8,
+     "s": "E",
+     "es": "¿Me oyes?",
+     "ko": "내 말 들리니?"
+    },
+    {
+     "t": 946.1,
+     "s": "W",
+     "es": "oler",
+     "ko": "냄새를 맡다"
+    },
+    {
+     "t": 947.4,
+     "s": "E",
+     "es": "Me gusta oler las flores.",
+     "ko": "나는 꽃 냄새 맡는 것을 좋아한다."
+    },
+    {
+     "t": 955.5,
+     "s": "W",
+     "es": "reír",
+     "ko": "웃다"
+    },
+    {
+     "t": 956.7,
+     "s": "E",
+     "es": "Sus chistes me hacen reír.",
+     "ko": "그의 농담은 나를 웃게 한다."
+    },
+    {
+     "t": 963.9,
+     "s": "W",
+     "es": "respirar",
+     "ko": "숨 쉬다, 호흡하다"
+    },
+    {
+     "t": 965.1,
+     "s": "E",
+     "es": "Respire hondo, por favor.",
+     "ko": "숨을 깊이 쉬세요."
+    },
+    {
+     "t": 973.8,
+     "s": "W",
+     "es": "saborear",
+     "ko": "맛보다, 음미하다"
+    },
+    {
+     "t": 973.8,
+     "s": "E",
+     "es": "Para poder saborear la comida, hay que comer despacio.",
+     "ko": "음식을 음미하려면 천천히 먹어야 한다."
+    },
+    {
+     "t": 981.8,
+     "s": "W",
+     "es": "saltar",
+     "ko": "뛰다, 점프하다"
+    },
+    {
+     "t": 986.7,
+     "s": "E",
+     "es": "Las chicas saltaron de alegría.",
+     "ko": "소녀들은 기뻐서 펄쩍 뛰었다."
+    },
+    {
+     "t": 991.3,
+     "s": "W",
+     "es": "sed",
+     "ko": "갈증"
+    },
+    {
+     "t": 994.7,
+     "s": "E",
+     "es": "Dame una botella de agua. Tengo mucha sed.",
+     "ko": "물 한 병 줘. 목이 많이 마르다."
+    },
+    {
+     "t": 1000.7,
+     "s": "W",
+     "es": "sentar",
+     "ko": "앉히다"
+    },
+    {
+     "t": 1003.7,
+     "s": "E",
+     "es": "La profesora sienta a sus alumnos en el banco.",
+     "ko": "선생님이 학생들을 벤치에 앉힌다."
+    },
+    {
+     "t": 1009.8,
+     "s": "W",
+     "es": "sudar",
+     "ko": "땀을 흘리다"
+    },
+    {
+     "t": 1012.8,
+     "s": "E",
+     "es": "Necesitas beber agua porque has sudado mucho.",
+     "ko": "땀을 많이 흘렸으니 물을 마셔야 한다."
+    },
+    {
+     "t": 1018.1,
+     "s": "W",
+     "es": "tirar",
+     "ko": "잡아당기다, 던지다"
+    },
+    {
+     "t": 1021.7,
+     "s": "E",
+     "es": "Para entrar, tira de la puerta.",
+     "ko": "들어가려면 문을 당겨라."
+    },
+    {
+     "t": 1026.1,
+     "s": "W",
+     "es": "tocar",
+     "ko": "만지다"
+    },
+    {
+     "t": 1029.0,
+     "s": "E",
+     "es": "Si lo tocas, te vas a quemar.",
+     "ko": "그것을 만지면 데일 거야."
+    },
+    {
+     "t": 1034.6,
+     "s": "W",
+     "es": "ver",
+     "ko": "보다"
+    },
+    {
+     "t": 1037.4,
+     "s": "E",
+     "es": "No vemos mucho la televisión.",
+     "ko": "우리는 텔레비전을 많이 보지 않는다."
+    },
+    {
+     "t": 1041.9,
+     "s": "W",
+     "es": "volverse",
+     "ko": "뒤를 돌다"
+    },
+    {
+     "t": 1045.9,
+     "s": "E",
+     "es": "Alfonso se volvió y me llamó.",
+     "ko": "알폰소는 뒤돌아서 나를 불렀다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Carácter · 성격",
+   "lines": [
+    {
+     "t": 1055.9,
+     "s": "W",
+     "es": "abierto, abierta",
+     "ko": "열린, 개방적인"
+    },
+    {
+     "t": 1065.1,
+     "s": "E",
+     "es": "Mi amiga tiene una mentalidad muy abierta.",
+     "ko": "내 친구는 사고방식이 아주 개방적이다."
+    },
+    {
+     "t": 1075.9,
+     "s": "W",
+     "es": "agradable",
+     "ko": "기분 좋은, 상냥한"
+    },
+    {
+     "t": 1077.7,
+     "s": "E",
+     "es": "Elis es una persona muy agradable.",
+     "ko": "엘리스는 아주 상냥한 사람이다."
+    },
+    {
+     "t": 1082.8,
+     "s": "W",
+     "es": "alegre",
+     "ko": "명랑한, 쾌활한"
+    },
+    {
+     "t": 1088.1,
+     "s": "E",
+     "es": "Carmen es una estudiante muy alegre.",
+     "ko": "카르멘은 아주 명랑한 학생이다."
+    },
+    {
+     "t": 1092.1,
+     "s": "W",
+     "es": "amable",
+     "ko": "상냥한, 친절한"
+    },
+    {
+     "t": 1097.4,
+     "s": "E",
+     "es": "Somos amables con los ancianos.",
+     "ko": "우리는 노인들에게 친절하다."
+    },
+    {
+     "t": 1102.0,
+     "s": "W",
+     "es": "bueno, buena",
+     "ko": "좋은, 착한"
+    },
+    {
+     "t": 1107.5,
+     "s": "E",
+     "es": "Juan es muy bueno, es un buen chico.",
+     "ko": "후안은 아주 착하다. 좋은 아이다."
+    },
+    {
+     "t": 1112.5,
+     "s": "W",
+     "es": "carácter",
+     "ko": "성격, 특성"
+    },
+    {
+     "t": 1117.5,
+     "s": "E",
+     "es": "Tiene un carácter muy fuerte.",
+     "ko": "그는 성격이 아주 강하다."
+    },
+    {
+     "t": 1123.5,
+     "s": "W",
+     "es": "cariñoso, cariñosa",
+     "ko": "다정한"
+    },
+    {
+     "t": 1127.5,
+     "s": "E",
+     "es": "Debes ser más cariñoso con tu mamá.",
+     "ko": "너는 엄마에게 좀 더 다정하게 대해야 한다."
+    },
+    {
+     "t": 1131.6,
+     "s": "W",
+     "es": "divertido, divertida",
+     "ko": "재미있는"
+    },
+    {
+     "t": 1133.7,
+     "s": "E",
+     "es": "Me gusta la película. Los actores son muy divertidos.",
+     "ko": "나는 그 영화가 좋다. 배우들이 아주 재미있다."
+    },
+    {
+     "t": 1144.5,
+     "s": "W",
+     "es": "educado, educada",
+     "ko": "정중한, 예의 바른"
+    },
+    {
+     "t": 1150.1,
+     "s": "E",
+     "es": "Prefiero al señor Morales. Es educado y responsable.",
+     "ko": "나는 모랄레스 씨가 더 좋다. 그는 예의 바르고 책임감이 있다."
+    },
+    {
+     "t": 1156.6,
+     "s": "W",
+     "es": "generoso, generosa",
+     "ko": "관대한, 너그러운"
+    },
+    {
+     "t": 1160.0,
+     "s": "E",
+     "es": "La profesora Cho es generosa con sus alumnos.",
+     "ko": "조 선생님은 학생들에게 너그럽다."
+    },
+    {
+     "t": 1166.9,
+     "s": "W",
+     "es": "hablador, habladora",
+     "ko": "말이 많은, 수다스러운"
+    },
+    {
+     "t": 1173.2,
+     "s": "E",
+     "es": "¡Qué hablador es tu vecino! Habla sin parar.",
+     "ko": "네 이웃은 정말 수다스럽구나! 쉬지 않고 말한다."
+    },
+    {
+     "t": 1179.1,
+     "s": "W",
+     "es": "listo, lista",
+     "ko": "똑똑한, 영리한"
+    },
+    {
+     "t": 1182.8,
+     "s": "E",
+     "es": "Su hija es la más lista de la clase.",
+     "ko": "그의 딸은 반에서 가장 똑똑하다."
+    },
+    {
+     "t": 1188.0,
+     "s": "W",
+     "es": "llevarse bien, llevarse mal",
+     "ko": "사이가 좋다, 사이가 나쁘다"
+    },
+    {
+     "t": 1197.4,
+     "s": "E",
+     "es": "Mi vecina y yo nos llevamos muy mal.",
+     "ko": "이웃 여자와 나는 사이가 아주 나쁘다."
+    },
+    {
+     "t": 1202.5,
+     "s": "W",
+     "es": "maduro, madura",
+     "ko": "성숙한"
+    },
+    {
+     "t": 1205.3,
+     "s": "E",
+     "es": "Me gusta hablar con ella porque es una chica madura.",
+     "ko": "그녀는 성숙한 아가씨라서 나는 그녀와 이야기하는 것이 좋다."
+    },
+    {
+     "t": 1212.1,
+     "s": "W",
+     "es": "malo, mala",
+     "ko": "나쁜, 악한"
+    },
+    {
+     "t": 1218.6,
+     "s": "E",
+     "es": "Es una mala persona. Habla mal de ti a tus espaldas.",
+     "ko": "그는 나쁜 사람이다. 네가 없는 데서 네 험담을 한다."
+    },
+    {
+     "t": 1225.0,
+     "s": "W",
+     "es": "mentiroso, mentirosa",
+     "ko": "거짓말하는, 거짓말쟁이"
+    },
+    {
+     "t": 1229.5,
+     "s": "E",
+     "es": "¡Es tan mentiroso!",
+     "ko": "그는 정말 거짓말쟁이다!"
+    },
+    {
+     "t": 1233.5,
+     "s": "W",
+     "es": "paciente",
+     "ko": "참을성 있는, 인내심이 강한"
+    },
+    {
+     "t": 1240.1,
+     "s": "E",
+     "es": "Es tan paciente que nunca se enfada.",
+     "ko": "그는 참을성이 아주 많아서 절대 화를 내지 않는다."
+    },
+    {
+     "t": 1245.8,
+     "s": "W",
+     "es": "prudente",
+     "ko": "신중한"
+    },
+    {
+     "t": 1249.4,
+     "s": "E",
+     "es": "No conduzcas tan rápido y sé más prudente.",
+     "ko": "그렇게 빨리 운전하지 말고 좀 더 신중해라."
+    },
+    {
+     "t": 1255.5,
+     "s": "W",
+     "es": "puntual",
+     "ko": "시간을 잘 지키는"
+    },
+    {
+     "t": 1258.0,
+     "s": "E",
+     "es": "El jefe llegará a tiempo. Es muy puntual.",
+     "ko": "사장님은 제시간에 도착할 거야. 시간을 아주 잘 지키시거든."
+    },
+    {
+     "t": 1265.6,
+     "s": "W",
+     "es": "seguro, segura",
+     "ko": "자신 있는, 확실한"
+    },
+    {
+     "t": 1271.2,
+     "s": "E",
+     "es": "Lola es segura de sí misma y confía en sus capacidades.",
+     "ko": "롤라는 자신감이 있고 자기 능력을 믿는다."
+    },
+    {
+     "t": 1278.4,
+     "s": "W",
+     "es": "sensible",
+     "ko": "민감한, 예민한"
+    },
+    {
+     "t": 1282.2,
+     "s": "E",
+     "es": "Soy sensible a los cambios de temperatura.",
+     "ko": "나는 온도 변화에 민감하다."
+    },
+    {
+     "t": 1287.0,
+     "s": "W",
+     "es": "sentido del humor",
+     "ko": "유머 감각"
+    },
+    {
+     "t": 1291.4,
+     "s": "E",
+     "es": "Mi novio tiene sentido del humor y me hace reír.",
+     "ko": "내 남자 친구는 유머 감각이 있어서 나를 웃게 한다."
+    },
+    {
+     "t": 1297.3,
+     "s": "W",
+     "es": "serio, seria",
+     "ko": "진지한, 심각한"
+    },
+    {
+     "t": 1303.2,
+     "s": "E",
+     "es": "¡Qué serio es! Nunca gasta bromas.",
+     "ko": "그는 정말 진지하다! 절대 농담을 하지 않는다."
+    },
+    {
+     "t": 1309.1,
+     "s": "W",
+     "es": "simpático, simpática",
+     "ko": "호감 가는, 친절한"
+    },
+    {
+     "t": 1313.6,
+     "s": "E",
+     "es": "A todo el mundo le gusta la gente simpática.",
+     "ko": "모든 사람은 호감 가는 사람을 좋아한다."
+    },
+    {
+     "t": 1320.7,
+     "s": "W",
+     "es": "sincero, sincera",
+     "ko": "솔직한, 진실한"
+    },
+    {
+     "t": 1324.8,
+     "s": "E",
+     "es": "Anoche fui sincero contigo.",
+     "ko": "어젯밤 나는 너에게 솔직했다."
+    },
+    {
+     "t": 1329.7,
+     "s": "W",
+     "es": "sociable",
+     "ko": "사교적인, 우호적인"
+    },
+    {
+     "t": 1335.2,
+     "s": "E",
+     "es": "Ramiro es muy sociable. Tiene muchísimos amigos.",
+     "ko": "라미로는 아주 사교적이다. 친구가 엄청 많다."
+    },
+    {
+     "t": 1341.0,
+     "s": "W",
+     "es": "tímido, tímida",
+     "ko": "소심한, 수줍어하는"
+    },
+    {
+     "t": 1347.7,
+     "s": "E",
+     "es": "No seas tan tímida.",
+     "ko": "그렇게 수줍어하지 마."
+    },
+    {
+     "t": 1351.1,
+     "s": "W",
+     "es": "tonto, tonta",
+     "ko": "바보, 어리석은"
+    },
+    {
+     "t": 1356.6,
+     "s": "E",
+     "es": "¿Tú te has creído que yo soy tonta?",
+     "ko": "너 내가 바보인 줄 알았니?"
+    },
+    {
+     "t": 1362.4,
+     "s": "W",
+     "es": "trabajador, trabajadora",
+     "ko": "부지런한, 열심히 일하는"
+    },
+    {
+     "t": 1368.9,
+     "s": "E",
+     "es": "Ella siempre saca buenas notas porque es muy trabajadora.",
+     "ko": "그녀는 아주 부지런해서 항상 좋은 성적을 받는다."
+    },
+    {
+     "t": 1378.0,
+     "s": "W",
+     "es": "vago, vaga",
+     "ko": "게으른"
+    },
+    {
+     "t": 1378.0,
+     "s": "E",
+     "es": "No trabaja nunca porque es vago.",
+     "ko": "그는 게을러서 절대 일하지 않는다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 5. Sentimiento · 감정",
+   "lines": [
+    {
+     "t": 1393.8,
+     "s": "W",
+     "es": "aburrido, aburrida",
+     "ko": "심심한, 지겨운"
+    },
+    {
+     "t": 1400.7,
+     "s": "E",
+     "es": "¿Por qué no salimos? Estoy muy aburrido.",
+     "ko": "우리 나가지 않을래? 너무 심심해."
+    },
+    {
+     "t": 1406.6,
+     "s": "W",
+     "es": "aguantar",
+     "ko": "참다"
+    },
+    {
+     "t": 1409.5,
+     "s": "E",
+     "es": "Es difícil aguantar el ruido de la calle.",
+     "ko": "거리의 소음을 참기가 힘들다."
+    },
+    {
+     "t": 1415.3,
+     "s": "W",
+     "es": "alegre",
+     "ko": "즐거운, 기쁜"
+    },
+    {
+     "t": 1420.0,
+     "s": "E",
+     "es": "Maribel está alegre por el ascenso de su hijo.",
+     "ko": "마리벨은 아들의 승진으로 기뻐하고 있다."
+    },
+    {
+     "t": 1425.7,
+     "s": "W",
+     "es": "arrepentirse",
+     "ko": "후회하다"
+    },
+    {
+     "t": 1428.6,
+     "s": "E",
+     "es": "No me arrepiento de nada.",
+     "ko": "나는 아무것도 후회하지 않는다."
+    },
+    {
+     "t": 1433.5,
+     "s": "W",
+     "es": "asustar",
+     "ko": "놀라게 하다, 겁주다"
+    },
+    {
+     "t": 1438.0,
+     "s": "E",
+     "es": "¿Te asusta pensar en la muerte?",
+     "ko": "죽음에 대해 생각하면 겁이 나니?"
+    },
+    {
+     "t": 1443.3,
+     "s": "W",
+     "es": "contento, contenta",
+     "ko": "만족스러운, 기쁜"
+    },
+    {
+     "t": 1448.9,
+     "s": "E",
+     "es": "¿Estás contenta con el coche?",
+     "ko": "그 차에 만족하니?"
+    },
+    {
+     "t": 1453.6,
+     "s": "W",
+     "es": "deprimido, deprimida",
+     "ko": "우울한, 풀이 죽은"
+    },
+    {
+     "t": 1459.6,
+     "s": "E",
+     "es": "No estés tan deprimido y sal.",
+     "ko": "그렇게 우울해하지 말고 밖에 나가."
+    },
+    {
+     "t": 1464.2,
+     "s": "W",
+     "es": "disfrutar de algo",
+     "ko": "~을 즐기다"
+    },
+    {
+     "t": 1469.2,
+     "s": "E",
+     "es": "Disfruta de este tiempo tan agradable.",
+     "ko": "이렇게 좋은 날씨를 즐겨라."
+    },
+    {
+     "t": 1474.0,
+     "s": "W",
+     "es": "emocionar",
+     "ko": "감동시키다"
+    },
+    {
+     "t": 1478.9,
+     "s": "E",
+     "es": "No te emociones tanto.",
+     "ko": "그렇게 흥분하지 마."
+    },
+    {
+     "t": 1482.8,
+     "s": "W",
+     "es": "enamorado, enamorada",
+     "ko": "사랑에 빠진, 사랑하는"
+    },
+    {
+     "t": 1488.6,
+     "s": "E",
+     "es": "Estoy enamorado de Ana.",
+     "ko": "나는 아나를 사랑하고 있다."
+    },
+    {
+     "t": 1494.3,
+     "s": "W",
+     "es": "enfadado, enfadada",
+     "ko": "화난"
+    },
+    {
+     "t": 1497.5,
+     "s": "E",
+     "es": "Mi madre está enfadada conmigo porque anoche volví tarde.",
+     "ko": "어젯밤 내가 늦게 들어와서 어머니는 나에게 화가 나 있다."
+    },
+    {
+     "t": 1505.8,
+     "s": "W",
+     "es": "envidia",
+     "ko": "질투, 부러움"
+    },
+    {
+     "t": 1507.7,
+     "s": "E",
+     "es": "¡Qué envidia me da verte tan contenta!",
+     "ko": "네가 그렇게 기뻐하는 걸 보니 정말 부럽다!"
+    },
+    {
+     "t": 1513.0,
+     "s": "W",
+     "es": "estrés",
+     "ko": "스트레스"
+    },
+    {
+     "t": 1516.3,
+     "s": "E",
+     "es": "Tenemos mucho estrés por el trabajo.",
+     "ko": "우리는 일 때문에 스트레스가 많다."
+    },
+    {
+     "t": 1520.5,
+     "s": "W",
+     "es": "feliz",
+     "ko": "행복한"
+    },
+    {
+     "t": 1523.4,
+     "s": "E",
+     "es": "Siempre me haces feliz, hijo mío.",
+     "ko": "아들아, 너는 늘 나를 행복하게 해 준다."
+    },
+    {
+     "t": 1529.2,
+     "s": "W",
+     "es": "humor",
+     "ko": "기분"
+    },
+    {
+     "t": 1532.3,
+     "s": "E",
+     "es": "Estoy de buen humor.",
+     "ko": "나는 기분이 좋다."
+    },
+    {
+     "t": 1535.8,
+     "s": "W",
+     "es": "miedo",
+     "ko": "두려움, 공포"
+    },
+    {
+     "t": 1540.6,
+     "s": "E",
+     "es": "¿No te dan miedo las serpientes?",
+     "ko": "너는 뱀이 무섭지 않니?"
+    },
+    {
+     "t": 1545.6,
+     "s": "W",
+     "es": "nervioso, nerviosa",
+     "ko": "긴장한, 초조한"
+    },
+    {
+     "t": 1551.4,
+     "s": "E",
+     "es": "Estoy nervioso porque tengo un examen.",
+     "ko": "시험이 있어서 긴장된다."
+    },
+    {
+     "t": 1559.1,
+     "s": "W",
+     "es": "odiar",
+     "ko": "싫어하다, 미워하다"
+    },
+    {
+     "t": 1559.1,
+     "s": "E",
+     "es": "Odio el color marrón.",
+     "ko": "나는 갈색이 싫다."
+    },
+    {
+     "t": 1565.7,
+     "s": "W",
+     "es": "pena",
+     "ko": "슬픔, 고통"
+    },
+    {
+     "t": 1571.4,
+     "s": "E",
+     "es": "Me da pena verlo sufrir así.",
+     "ko": "그가 그렇게 고통스러워하는 것을 보니 마음이 아프다."
+    },
+    {
+     "t": 1574.5,
+     "s": "W",
+     "es": "pobre",
+     "ko": "불쌍한, 가련한"
+    },
+    {
+     "t": 1580.6,
+     "s": "E",
+     "es": "¡Pobre de mí!",
+     "ko": "아, 불쌍한 내 신세!"
+    },
+    {
+     "t": 1583.5,
+     "s": "W",
+     "es": "preocupado, preocupada",
+     "ko": "걱정하는"
+    },
+    {
+     "t": 1589.4,
+     "s": "E",
+     "es": "Mis padres están preocupados por la salud de mi abuelo.",
+     "ko": "부모님은 할아버지의 건강을 걱정하신다."
+    },
+    {
+     "t": 1594.8,
+     "s": "W",
+     "es": "satisfecho, satisfecha",
+     "ko": "만족한, 만족스러운"
+    },
+    {
+     "t": 1601.1,
+     "s": "E",
+     "es": "Me quedé satisfecha con lo que dijo mi novio.",
+     "ko": "나는 남자 친구가 한 말에 만족했다."
+    },
+    {
+     "t": 1607.4,
+     "s": "W",
+     "es": "sorprender",
+     "ko": "놀라게 하다"
+    },
+    {
+     "t": 1611.1,
+     "s": "E",
+     "es": "Me sorprendieron sus ideas.",
+     "ko": "그의 생각들이 나를 놀라게 했다."
+    },
+    {
+     "t": 1615.3,
+     "s": "W",
+     "es": "tranquilo, tranquila",
+     "ko": "침착한, 평온한"
+    },
+    {
+     "t": 1622.1,
+     "s": "E",
+     "es": "El día del examen estaba bastante tranquilo.",
+     "ko": "시험 날 나는 꽤 침착했다."
+    },
+    {
+     "t": 1627.3,
+     "s": "W",
+     "es": "triste",
+     "ko": "슬픈"
+    },
+    {
+     "t": 1629.8,
+     "s": "E",
+     "es": "Me puse triste cuando oí la noticia.",
+     "ko": "그 소식을 들었을 때 나는 슬퍼졌다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 6. Pensamiento · 사고",
+   "lines": [
+    {
+     "t": 1646.5,
+     "s": "W",
+     "es": "aprender",
+     "ko": "배우다"
+    },
+    {
+     "t": 1650.0,
+     "s": "E",
+     "es": "Aprendo a montar en bicicleta.",
+     "ko": "나는 자전거 타기를 배운다."
+    },
+    {
+     "t": 1654.8,
+     "s": "W",
+     "es": "buscar",
+     "ko": "찾다"
+    },
+    {
+     "t": 1658.6,
+     "s": "E",
+     "es": "Yo no busco la fama.",
+     "ko": "나는 명성을 좇지 않는다."
+    },
+    {
+     "t": 1663.4,
+     "s": "W",
+     "es": "comprender",
+     "ko": "이해하다"
+    },
+    {
+     "t": 1666.4,
+     "s": "E",
+     "es": "Ella te comprende perfectamente.",
+     "ko": "그녀는 너를 완벽하게 이해한다."
+    },
+    {
+     "t": 1671.9,
+     "s": "W",
+     "es": "decidir",
+     "ko": "결정하다"
+    },
+    {
+     "t": 1674.8,
+     "s": "E",
+     "es": "Decidieron no ir.",
+     "ko": "그들은 가지 않기로 결정했다."
+    },
+    {
+     "t": 1679.5,
+     "s": "W",
+     "es": "encontrar",
+     "ko": "발견하다, 찾다"
+    },
+    {
+     "t": 1684.6,
+     "s": "E",
+     "es": "Al final encontré la casa.",
+     "ko": "결국 나는 그 집을 찾았다."
+    },
+    {
+     "t": 1688.6,
+     "s": "W",
+     "es": "entender",
+     "ko": "이해하다"
+    },
+    {
+     "t": 1692.6,
+     "s": "E",
+     "es": "No entendí la pregunta.",
+     "ko": "나는 질문을 이해하지 못했다."
+    },
+    {
+     "t": 1696.6,
+     "s": "W",
+     "es": "equivocarse",
+     "ko": "틀리다, 혼동하다"
+    },
+    {
+     "t": 1702.6,
+     "s": "E",
+     "es": "Te equivocas, eso no es así.",
+     "ko": "네가 틀렸어, 그건 그렇지 않아."
+    },
+    {
+     "t": 1707.6,
+     "s": "W",
+     "es": "esperar",
+     "ko": "기다리다, 바라다"
+    },
+    {
+     "t": 1712.6,
+     "s": "E",
+     "es": "Espero que te haya gustado el regalo.",
+     "ko": "선물이 마음에 들었기를 바란다."
+    },
+    {
+     "t": 1717.5,
+     "s": "W",
+     "es": "estudiar",
+     "ko": "공부하다"
+    },
+    {
+     "t": 1721.2,
+     "s": "E",
+     "es": "Estoy estudiando español en una academia.",
+     "ko": "나는 학원에서 스페인어를 공부하고 있다."
+    },
+    {
+     "t": 1726.4,
+     "s": "W",
+     "es": "ignorar",
+     "ko": "모르다"
+    },
+    {
+     "t": 1730.5,
+     "s": "E",
+     "es": "Ignoramos dónde vive Nacho.",
+     "ko": "우리는 나초가 어디 사는지 모른다."
+    },
+    {
+     "t": 1734.4,
+     "s": "W",
+     "es": "imaginar",
+     "ko": "상상하다"
+    },
+    {
+     "t": 1737.5,
+     "s": "E",
+     "es": "Me imagino que tendrás hambre.",
+     "ko": "너 배고프겠구나."
+    },
+    {
+     "t": 1743.6,
+     "s": "W",
+     "es": "interesarse",
+     "ko": "관심을 갖다"
+    },
+    {
+     "t": 1747.1,
+     "s": "E",
+     "es": "Mi primo se interesa por Miriam.",
+     "ko": "내 사촌은 미리암에게 관심이 있다."
+    },
+    {
+     "t": 1753.3,
+     "s": "W",
+     "es": "mente",
+     "ko": "정신, 생각"
+    },
+    {
+     "t": 1756.6,
+     "s": "E",
+     "es": "No podía apartar de la mente tus palabras.",
+     "ko": "나는 네 말을 머릿속에서 떨쳐 낼 수 없었다."
+    },
+    {
+     "t": 1761.9,
+     "s": "W",
+     "es": "olvidar",
+     "ko": "잊어버리다"
+    },
+    {
+     "t": 1765.5,
+     "s": "E",
+     "es": "He olvidado su número de teléfono.",
+     "ko": "나는 그의 전화번호를 잊어버렸다."
+    },
+    {
+     "t": 1770.0,
+     "s": "W",
+     "es": "opinar",
+     "ko": "의견을 갖다, 의견을 나타내다"
+    },
+    {
+     "t": 1776.9,
+     "s": "E",
+     "es": "Prefiero no opinar sobre la cuestión.",
+     "ko": "나는 그 문제에 대해 의견을 말하지 않는 편이 좋겠다."
+    },
+    {
+     "t": 1781.6,
+     "s": "W",
+     "es": "pensar",
+     "ko": "생각하다"
+    },
+    {
+     "t": 1783.4,
+     "s": "E",
+     "es": "Pienso ir a bailar.",
+     "ko": "나는 춤추러 갈 생각이다."
+    },
+    {
+     "t": 1789.0,
+     "s": "W",
+     "es": "recordar",
+     "ko": "기억하다"
+    },
+    {
+     "t": 1790.9,
+     "s": "E",
+     "es": "Recuerdo que no comías pescado.",
+     "ko": "네가 생선을 먹지 않았던 게 기억난다."
+    },
+    {
+     "t": 1797.4,
+     "s": "W",
+     "es": "saber",
+     "ko": "알다"
+    },
+    {
+     "t": 1799.9,
+     "s": "E",
+     "es": "¿No sabéis cuánto os quiero?",
+     "ko": "내가 너희를 얼마나 사랑하는지 모르니?"
+    },
+    {
+     "t": 1804.9,
+     "s": "W",
+     "es": "sentir",
+     "ko": "느끼다"
+    },
+    {
+     "t": 1806.3,
+     "s": "E",
+     "es": "De repente sentí frío.",
+     "ko": "갑자기 추위를 느꼈다."
+    },
+    {
+     "t": 1813.4,
+     "s": "W",
+     "es": "soñar",
+     "ko": "꿈꾸다"
+    },
+    {
+     "t": 1814.8,
+     "s": "E",
+     "es": "Juan sueña con ser piloto.",
+     "ko": "후안은 조종사가 되기를 꿈꾼다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 7. Salud · 건강",
+   "lines": [
+    {
+     "t": 1849.5,
+     "s": "W",
+     "es": "apetito",
+     "ko": "식욕"
+    },
+    {
+     "t": 1852.3,
+     "s": "E",
+     "es": "El olor del aceite me quitó el apetito.",
+     "ko": "기름 냄새 때문에 식욕이 없어졌다."
+    },
+    {
+     "t": 1857.4,
+     "s": "W",
+     "es": "cansado, cansada",
+     "ko": "피곤한"
+    },
+    {
+     "t": 1861.8,
+     "s": "E",
+     "es": "¿Qué te pasa? Te veo muy cansada.",
+     "ko": "무슨 일 있니? 너 아주 피곤해 보여."
+    },
+    {
+     "t": 1867.4,
+     "s": "W",
+     "es": "cuidar",
+     "ko": "돌보다"
+    },
+    {
+     "t": 1870.3,
+     "s": "E",
+     "es": "La mamá cuida a los hijos.",
+     "ko": "엄마가 아이들을 돌본다."
+    },
+    {
+     "t": 1874.8,
+     "s": "W",
+     "es": "curar",
+     "ko": "치료하다, 낫게 하다"
+    },
+    {
+     "t": 1875.8,
+     "s": "E",
+     "es": "El doctor le curó la herida.",
+     "ko": "의사가 그의 상처를 치료했다."
+    },
+    {
+     "t": 1882.7,
+     "s": "W",
+     "es": "dentista",
+     "ko": "치과 의사"
+    },
+    {
+     "t": 1888.6,
+     "s": "E",
+     "es": "Su madre es dentista.",
+     "ko": "그의 어머니는 치과 의사다."
+    },
+    {
+     "t": 1892.5,
+     "s": "W",
+     "es": "dolor",
+     "ko": "고통, 통증"
+    },
+    {
+     "t": 1895.9,
+     "s": "E",
+     "es": "La herida me produce mucho dolor.",
+     "ko": "상처 때문에 몹시 아프다."
+    },
+    {
+     "t": 1900.3,
+     "s": "W",
+     "es": "embarazo",
+     "ko": "임신"
+    },
+    {
+     "t": 1903.3,
+     "s": "E",
+     "es": "Hay que cuidarse mucho durante el embarazo.",
+     "ko": "임신 중에는 몸조심을 많이 해야 한다."
+    },
+    {
+     "t": 1909.2,
+     "s": "W",
+     "es": "encontrarse bien, encontrarse mal",
+     "ko": "컨디션이 좋다, 컨디션이 나쁘다"
+    },
+    {
+     "t": 1918.7,
+     "s": "E",
+     "es": "¿Te encuentras mal?",
+     "ko": "몸이 안 좋니?"
+    },
+    {
+     "t": 1922.7,
+     "s": "W",
+     "es": "enfermedad",
+     "ko": "질병, 병"
+    },
+    {
+     "t": 1926.3,
+     "s": "E",
+     "es": "En el siglo XXV no habrá enfermedades.",
+     "ko": "25세기에는 질병이 없을 것이다."
+    },
+    {
+     "t": 1932.1,
+     "s": "W",
+     "es": "enfermo, enferma",
+     "ko": "아픈, 병에 걸린, 환자"
+    },
+    {
+     "t": 1939.8,
+     "s": "E",
+     "es": "Se puso enferma cuando tocó el animal.",
+     "ko": "그녀는 그 동물을 만지고 나서 병이 났다."
+    },
+    {
+     "t": 1945.0,
+     "s": "W",
+     "es": "farmacia",
+     "ko": "약국"
+    },
+    {
+     "t": 1948.3,
+     "s": "E",
+     "es": "Allí hay una farmacia.",
+     "ko": "저기에 약국이 있다."
+    },
+    {
+     "t": 1952.8,
+     "s": "W",
+     "es": "fiebre",
+     "ko": "열"
+    },
+    {
+     "t": 1955.1,
+     "s": "E",
+     "es": "Mi hijo tiene mucha fiebre.",
+     "ko": "내 아들은 열이 많이 난다."
+    },
+    {
+     "t": 1959.8,
+     "s": "W",
+     "es": "grave",
+     "ko": "심각한, 위중한"
+    },
+    {
+     "t": 1965.8,
+     "s": "E",
+     "es": "Hubo diez heridos graves en aquel accidente.",
+     "ko": "그 사고로 중상자가 열 명 나왔다."
+    },
+    {
+     "t": 1970.8,
+     "s": "W",
+     "es": "gripe",
+     "ko": "독감"
+    },
+    {
+     "t": 1974.8,
+     "s": "E",
+     "es": "Josefa tiene la gripe.",
+     "ko": "호세파는 독감에 걸렸다."
+    },
+    {
+     "t": 1977.8,
+     "s": "W",
+     "es": "herir",
+     "ko": "상처를 입히다"
+    },
+    {
+     "t": 1982.8,
+     "s": "E",
+     "es": "El ladrón hirió al policía en el brazo.",
+     "ko": "도둑이 경찰의 팔에 상처를 입혔다."
+    },
+    {
+     "t": 1986.8,
+     "s": "W",
+     "es": "hospital",
+     "ko": "병원"
+    },
+    {
+     "t": 1990.3,
+     "s": "E",
+     "es": "¿Dónde está el hospital de la Cruz Roja?",
+     "ko": "적십자 병원은 어디에 있나요?"
+    },
+    {
+     "t": 1996.2,
+     "s": "W",
+     "es": "inyección",
+     "ko": "주사"
+    },
+    {
+     "t": 1999.0,
+     "s": "E",
+     "es": "La enfermera viene a ponerme una inyección.",
+     "ko": "간호사가 내게 주사를 놓으러 온다."
+    },
+    {
+     "t": 2004.2,
+     "s": "W",
+     "es": "mareado, mareada",
+     "ko": "어지러운, 멀미 나는"
+    },
+    {
+     "t": 2008.5,
+     "s": "E",
+     "es": "Estaba mareada porque había leído en el coche.",
+     "ko": "차 안에서 책을 읽었더니 멀미가 났다."
+    },
+    {
+     "t": 2014.9,
+     "s": "W",
+     "es": "medicina",
+     "ko": "약, 의학"
+    },
+    {
+     "t": 2018.9,
+     "s": "E",
+     "es": "¿Te has tomado ya la medicina?",
+     "ko": "약은 벌써 먹었니?"
+    },
+    {
+     "t": 2022.9,
+     "s": "W",
+     "es": "médico, médica",
+     "ko": "의사"
+    },
+    {
+     "t": 2027.6,
+     "s": "E",
+     "es": "Los médicos cuidan a los pacientes.",
+     "ko": "의사들은 환자들을 돌본다."
+    },
+    {
+     "t": 2032.3,
+     "s": "W",
+     "es": "paciente",
+     "ko": "환자"
+    },
+    {
+     "t": 2035.9,
+     "s": "E",
+     "es": "Los pacientes necesitan descansar.",
+     "ko": "환자들은 쉬어야 한다."
+    },
+    {
+     "t": 2040.4,
+     "s": "W",
+     "es": "pedir hora",
+     "ko": "예약하다"
+    },
+    {
+     "t": 2043.2,
+     "s": "E",
+     "es": "Quiero pedir hora con la doctora López.",
+     "ko": "로페스 선생님께 진료 예약을 하고 싶어요."
+    },
+    {
+     "t": 2048.3,
+     "s": "W",
+     "es": "picar",
+     "ko": "가렵다, 따끔거리다"
+    },
+    {
+     "t": 2054.4,
+     "s": "E",
+     "es": "Me pica la espalda.",
+     "ko": "등이 가렵다."
+    },
+    {
+     "t": 2057.9,
+     "s": "W",
+     "es": "quemarse",
+     "ko": "데다, 화상을 입다"
+    },
+    {
+     "t": 2063.6,
+     "s": "E",
+     "es": "Me quemé la lengua con la sopa.",
+     "ko": "수프에 혀를 데었다."
+    },
+    {
+     "t": 2067.8,
+     "s": "W",
+     "es": "receta médica",
+     "ko": "처방전"
+    },
+    {
+     "t": 2071.3,
+     "s": "E",
+     "es": "Voy a la farmacia con receta médica.",
+     "ko": "나는 처방전을 가지고 약국에 간다."
+    },
+    {
+     "t": 2077.1,
+     "s": "W",
+     "es": "reposo",
+     "ko": "안정, 휴식"
+    },
+    {
+     "t": 2081.8,
+     "s": "E",
+     "es": "Usted necesita guardar reposo unos días.",
+     "ko": "당신은 며칠 동안 안정을 취해야 합니다."
+    },
+    {
+     "t": 2087.5,
+     "s": "W",
+     "es": "resfriado, resfriada",
+     "ko": "감기, 감기에 걸린"
+    },
+    {
+     "t": 2093.9,
+     "s": "E",
+     "es": "Los niños están resfriados.",
+     "ko": "아이들이 감기에 걸렸다."
+    },
+    {
+     "t": 2099.1,
+     "s": "W",
+     "es": "salud",
+     "ko": "건강"
+    },
+    {
+     "t": 2102.0,
+     "s": "E",
+     "es": "¿Cómo está de salud, abuela?",
+     "ko": "할머니, 건강은 어떠세요?"
+    },
+    {
+     "t": 2107.1,
+     "s": "W",
+     "es": "sangrar",
+     "ko": "피가 나다"
+    },
+    {
+     "t": 2109.7,
+     "s": "E",
+     "es": "El joven chocó contra la pared y le sangró la nariz.",
+     "ko": "그 청년은 벽에 부딪쳐 코피가 났다."
+    },
+    {
+     "t": 2116.3,
+     "s": "W",
+     "es": "sano, sana",
+     "ko": "건강한"
+    },
+    {
+     "t": 2119.7,
+     "s": "E",
+     "es": "No se preocupe, el niño está muy sano.",
+     "ko": "걱정 마세요, 아이는 아주 건강해요."
+    },
+    {
+     "t": 2125.8,
+     "s": "W",
+     "es": "seguro médico",
+     "ko": "의료 보험"
+    },
+    {
+     "t": 2129.6,
+     "s": "E",
+     "es": "¿Tienes seguro médico?",
+     "ko": "너는 의료 보험이 있니?"
+    },
+    {
+     "t": 2134.2,
+     "s": "W",
+     "es": "temperatura",
+     "ko": "온도, 체온"
+    },
+    {
+     "t": 2138.3,
+     "s": "E",
+     "es": "La temperatura se mide con el termómetro.",
+     "ko": "체온은 체온계로 잰다."
+    },
+    {
+     "t": 2144.5,
+     "s": "W",
+     "es": "tensión",
+     "ko": "혈압, 긴장"
+    },
+    {
+     "t": 2149.1,
+     "s": "E",
+     "es": "Mi madre tiene la tensión baja por la mañana.",
+     "ko": "어머니는 아침에 혈압이 낮다."
+    },
+    {
+     "t": 2154.6,
+     "s": "W",
+     "es": "termómetro",
+     "ko": "체온계, 온도계"
+    },
+    {
+     "t": 2159.6,
+     "s": "E",
+     "es": "Ponle el termómetro a la niña.",
+     "ko": "여자아이에게 체온계를 대 줘."
+    },
+    {
+     "t": 2164.0,
+     "s": "W",
+     "es": "tos",
+     "ko": "기침"
+    },
+    {
+     "t": 2166.6,
+     "s": "E",
+     "es": "Tengo tos y no puedo comer nada.",
+     "ko": "기침이 나서 아무것도 먹을 수 없다."
+    },
+    {
+     "t": 2172.4,
+     "s": "W",
+     "es": "urgencias",
+     "ko": "응급실"
+    },
+    {
+     "t": 2175.8,
+     "s": "E",
+     "es": "Anoche tuvimos que ir a urgencias.",
+     "ko": "어젯밤 우리는 응급실에 가야 했다."
+    },
+    {
+     "t": 2180.9,
+     "s": "W",
+     "es": "vida",
+     "ko": "생명, 삶"
+    },
+    {
+     "t": 2182.6,
+     "s": "E",
+     "es": "He vivido aquí toda mi vida.",
+     "ko": "나는 평생 여기서 살았다."
+    },
+    {
+     "t": 2189.5,
+     "s": "W",
+     "es": "vomitar",
+     "ko": "토하다"
+    },
+    {
+     "t": 2192.4,
+     "s": "E",
+     "es": "Eso me da ganas de vomitar.",
+     "ko": "그걸 보니 토할 것 같다."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 2 · Unidad 1. Familia · 가족",
+   "lines": [
+    {
+     "t": 2231.8,
+     "s": "W",
+     "es": "abuelo, abuela",
+     "ko": "할아버지, 할머니"
+    },
+    {
+     "t": 2237.5,
+     "s": "E",
+     "es": "Les presento a mis abuelos.",
+     "ko": "제 조부모님을 소개합니다."
+    },
+    {
+     "t": 2242.1,
+     "s": "W",
+     "es": "antepasado, antepasada",
+     "ko": "선조, 조상"
+    },
+    {
+     "t": 2247.4,
+     "s": "E",
+     "es": "Uno de sus antepasados se casó con una princesa.",
+     "ko": "그의 조상 중 한 명은 공주와 결혼했다."
+    },
+    {
+     "t": 2254.1,
+     "s": "W",
+     "es": "cuñado, cuñada",
+     "ko": "처남, 매부, 올케, 시누이"
+    },
+    {
+     "t": 2262.4,
+     "s": "E",
+     "es": "Tu cuñado te ha llamado.",
+     "ko": "네 처남이 너에게 전화했었다."
+    },
+    {
+     "t": 2266.8,
+     "s": "W",
+     "es": "esposo, esposa",
+     "ko": "남편, 부인"
+    },
+    {
+     "t": 2272.3,
+     "s": "E",
+     "es": "Mi esposo y yo nos conocimos cuando teníamos veinte años.",
+     "ko": "남편과 나는 스무 살 때 만났다."
+    },
+    {
+     "t": 2279.7,
+     "s": "W",
+     "es": "familia",
+     "ko": "가족"
+    },
+    {
+     "t": 2283.3,
+     "s": "E",
+     "es": "¿Cuántos sois en tu familia?",
+     "ko": "너희 가족은 몇 명이니?"
+    },
+    {
+     "t": 2287.0,
+     "s": "W",
+     "es": "hermano, hermana",
+     "ko": "형제, 자매"
+    },
+    {
+     "t": 2292.3,
+     "s": "E",
+     "es": "Mi hermano me lleva tres años.",
+     "ko": "우리 형은 나보다 세 살 많다."
+    },
+    {
+     "t": 2297.4,
+     "s": "W",
+     "es": "hijo, hija",
+     "ko": "아들, 딸"
+    },
+    {
+     "t": 2302.8,
+     "s": "E",
+     "es": "Tengo un hijo y dos hijas.",
+     "ko": "나는 아들 하나와 딸 둘이 있다."
+    },
+    {
+     "t": 2307.2,
+     "s": "W",
+     "es": "hogar",
+     "ko": "가정, 집"
+    },
+    {
+     "t": 2311.2,
+     "s": "E",
+     "es": "Nos casamos y formamos un hogar.",
+     "ko": "우리는 결혼해서 가정을 꾸렸다."
+    },
+    {
+     "t": 2316.0,
+     "s": "W",
+     "es": "madre",
+     "ko": "어머니"
+    },
+    {
+     "t": 2319.1,
+     "s": "E",
+     "es": "Él ha llamado a mi madre esta mañana.",
+     "ko": "그가 오늘 아침 우리 어머니에게 전화했다."
+    },
+    {
+     "t": 2324.2,
+     "s": "W",
+     "es": "marido",
+     "ko": "남편"
+    },
+    {
+     "t": 2326.2,
+     "s": "E",
+     "es": "Mi hijo y mi marido no se parecen mucho.",
+     "ko": "내 아들과 남편은 별로 닮지 않았다."
+    },
+    {
+     "t": 2332.9,
+     "s": "W",
+     "es": "mujer",
+     "ko": "부인, 여자"
+    },
+    {
+     "t": 2336.3,
+     "s": "E",
+     "es": "Mi futura mujer trabaja en un banco.",
+     "ko": "내 미래의 아내는 은행에서 일한다."
+    },
+    {
+     "t": 2341.9,
+     "s": "W",
+     "es": "nieto, nieta",
+     "ko": "손자, 손녀"
+    },
+    {
+     "t": 2347.1,
+     "s": "E",
+     "es": "Todos los nietos se reunieron para celebrar el cumpleaños de la abuela.",
+     "ko": "손주들이 모두 모여 할머니의 생신을 축하했다."
+    },
+    {
+     "t": 2355.1,
+     "s": "W",
+     "es": "nuera",
+     "ko": "며느리"
+    },
+    {
+     "t": 2358.2,
+     "s": "E",
+     "es": "Yo soy la nuera del señor Martínez.",
+     "ko": "저는 마르티네스 씨의 며느리입니다."
+    },
+    {
+     "t": 2363.1,
+     "s": "W",
+     "es": "padre",
+     "ko": "아버지"
+    },
+    {
+     "t": 2365.6,
+     "s": "E",
+     "es": "El padre de José murió hace cinco años.",
+     "ko": "호세의 아버지는 5년 전에 돌아가셨다."
+    },
+    {
+     "t": 2372.1,
+     "s": "W",
+     "es": "pariente",
+     "ko": "친척"
+    },
+    {
+     "t": 2374.7,
+     "s": "E",
+     "es": "Vinieron mis parientes a felicitarme.",
+     "ko": "친척들이 나를 축하하러 왔다."
+    },
+    {
+     "t": 2379.9,
+     "s": "W",
+     "es": "primo, prima",
+     "ko": "사촌"
+    },
+    {
+     "t": 2382.6,
+     "s": "E",
+     "es": "Un primo suyo es futbolista.",
+     "ko": "그의 사촌 중 한 명은 축구 선수다."
+    },
+    {
+     "t": 2387.9,
+     "s": "W",
+     "es": "sobrino, sobrina",
+     "ko": "조카"
+    },
+    {
+     "t": 2392.2,
+     "s": "E",
+     "es": "Tendré una sobrina el mes que viene.",
+     "ko": "다음 달에 나는 조카딸이 생긴다."
+    },
+    {
+     "t": 2396.7,
+     "s": "W",
+     "es": "suegro, suegra",
+     "ko": "시아버지, 시어머니, 장인, 장모"
+    },
+    {
+     "t": 2403.6,
+     "s": "E",
+     "es": "Los sábados vamos a comer a casa de mis suegros.",
+     "ko": "토요일마다 우리는 시댁에 가서 식사한다."
+    },
+    {
+     "t": 2409.6,
+     "s": "W",
+     "es": "tío, tía",
+     "ko": "삼촌, 고모"
+    },
+    {
+     "t": 2414.0,
+     "s": "E",
+     "es": "Mi tía es siete años menor que mi madre.",
+     "ko": "우리 이모는 어머니보다 일곱 살 어리다."
+    },
+    {
+     "t": 2420.9,
+     "s": "W",
+     "es": "yerno",
+     "ko": "사위"
+    },
+    {
+     "t": 2422.5,
+     "s": "E",
+     "es": "De los tres yernos míos, el marido de mi hija mayor es el que mejor me cae.",
+     "ko": "내 사위 셋 중에서 큰딸의 남편이 가장 마음에 든다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Vida · 일생",
+   "lines": [
+    {
+     "t": 2442.5,
+     "s": "W",
+     "es": "adolescente",
+     "ko": "청소년, 청소년기의"
+    },
+    {
+     "t": 2450.0,
+     "s": "E",
+     "es": "Es profesor de instituto y da clases a adolescentes.",
+     "ko": "그는 고등학교 교사로 청소년들을 가르친다."
+    },
+    {
+     "t": 2455.0,
+     "s": "W",
+     "es": "adulto, adulta",
+     "ko": "성인, 어른"
+    },
+    {
+     "t": 2460.9,
+     "s": "E",
+     "es": "Esta película es para adultos.",
+     "ko": "이 영화는 성인용이다."
+    },
+    {
+     "t": 2479.4,
+     "s": "W",
+     "es": "bautizar",
+     "ko": "세례를 주다"
+    },
+    {
+     "t": 2482.9,
+     "s": "E",
+     "es": "El sacerdote la bautizó en enero.",
+     "ko": "신부님이 1월에 그녀에게 세례를 주었다."
+    },
+    {
+     "t": 2490.9,
+     "s": "W",
+     "es": "bebé",
+     "ko": "아기"
+    },
+    {
+     "t": 2490.9,
+     "s": "E",
+     "es": "¿Tu bebé es niño o niña?",
+     "ko": "네 아기는 아들이니, 딸이니?"
+    },
+    {
+     "t": 2496.4,
+     "s": "W",
+     "es": "boda",
+     "ko": "결혼식"
+    },
+    {
+     "t": 2499.3,
+     "s": "E",
+     "es": "Su boda tuvo lugar en una iglesia muy bonita.",
+     "ko": "그들의 결혼식은 아주 예쁜 교회에서 열렸다."
+    },
+    {
+     "t": 2505.5,
+     "s": "W",
+     "es": "casado, casada",
+     "ko": "결혼한, 기혼자"
+    },
+    {
+     "t": 2511.5,
+     "s": "E",
+     "es": "Merche está casada con mi primo.",
+     "ko": "메르체는 내 사촌과 결혼했다."
+    },
+    {
+     "t": 2516.1,
+     "s": "W",
+     "es": "casarse",
+     "ko": "결혼하다"
+    },
+    {
+     "t": 2519.0,
+     "s": "E",
+     "es": "¿Cuándo te casas?",
+     "ko": "너 언제 결혼하니?"
+    },
+    {
+     "t": 2523.0,
+     "s": "W",
+     "es": "chico, chica",
+     "ko": "소년, 소녀, 청년, 아가씨"
+    },
+    {
+     "t": 2531.6,
+     "s": "E",
+     "es": "Las chicas de la oficina son de Barcelona.",
+     "ko": "사무실 아가씨들은 바르셀로나 출신이다."
+    },
+    {
+     "t": 2536.0,
+     "s": "W",
+     "es": "crecer",
+     "ko": "성장하다, 자라다"
+    },
+    {
+     "t": 2540.1,
+     "s": "E",
+     "es": "Crecí en Buenos Aires.",
+     "ko": "나는 부에노스아이레스에서 자랐다."
+    },
+    {
+     "t": 2544.7,
+     "s": "W",
+     "es": "criar",
+     "ko": "기르다, 키우다"
+    },
+    {
+     "t": 2547.2,
+     "s": "E",
+     "es": "Los crió su abuela hasta los diez años.",
+     "ko": "그들은 열 살 때까지 할머니 손에 자랐다."
+    },
+    {
+     "t": 2553.0,
+     "s": "W",
+     "es": "dar a luz",
+     "ko": "낳다, 출산하다"
+    },
+    {
+     "t": 2558.3,
+     "s": "E",
+     "es": "Mi hermana acaba de dar a luz a una niña.",
+     "ko": "언니가 막 딸을 낳았다."
+    },
+    {
+     "t": 2563.5,
+     "s": "W",
+     "es": "destino",
+     "ko": "운명"
+    },
+    {
+     "t": 2565.8,
+     "s": "E",
+     "es": "Es mi destino vivir lejos de casa.",
+     "ko": "집에서 멀리 떨어져 사는 것이 내 운명이다."
+    },
+    {
+     "t": 2571.6,
+     "s": "W",
+     "es": "divorciarse",
+     "ko": "이혼하다"
+    },
+    {
+     "t": 2574.4,
+     "s": "E",
+     "es": "Tras dos años de matrimonio, decidieron divorciarse.",
+     "ko": "결혼 2년 만에 그들은 이혼하기로 했다."
+    },
+    {
+     "t": 2581.6,
+     "s": "W",
+     "es": "educación",
+     "ko": "교육"
+    },
+    {
+     "t": 2583.4,
+     "s": "E",
+     "es": "Quieren darles a sus hijos una buena educación.",
+     "ko": "그들은 자녀들에게 좋은 교육을 시키고 싶어 한다."
+    },
+    {
+     "t": 2590.2,
+     "s": "W",
+     "es": "enamorarse",
+     "ko": "사랑에 빠지다"
+    },
+    {
+     "t": 2593.0,
+     "s": "E",
+     "es": "Los dos jóvenes se enamoraron locamente.",
+     "ko": "두 젊은이는 미친 듯이 사랑에 빠졌다."
+    },
+    {
+     "t": 2600.3,
+     "s": "W",
+     "es": "envejecer",
+     "ko": "늙다"
+    },
+    {
+     "t": 2604.4,
+     "s": "E",
+     "es": "En un año envejeció mucho.",
+     "ko": "그는 1년 사이에 많이 늙었다."
+    },
+    {
+     "t": 2608.8,
+     "s": "W",
+     "es": "funeral",
+     "ko": "장례식"
+    },
+    {
+     "t": 2612.2,
+     "s": "E",
+     "es": "Todos los familiares asistieron a los funerales.",
+     "ko": "모든 가족이 장례식에 참석했다."
+    },
+    {
+     "t": 2618.0,
+     "s": "W",
+     "es": "joven",
+     "ko": "젊은이, 아가씨, 젊은"
+    },
+    {
+     "t": 2623.9,
+     "s": "E",
+     "es": "Un joven me ayudó en el accidente.",
+     "ko": "사고가 났을 때 한 젊은이가 나를 도와주었다."
+    },
+    {
+     "t": 2629.1,
+     "s": "W",
+     "es": "llevar años juntos",
+     "ko": "~년째 함께하다"
+    },
+    {
+     "t": 2636.5,
+     "s": "E",
+     "es": "Mis abuelos llevan 60 años juntos.",
+     "ko": "우리 조부모님은 60년째 함께 살고 계신다."
+    },
+    {
+     "t": 2643.2,
+     "s": "W",
+     "es": "luna de miel",
+     "ko": "신혼여행"
+    },
+    {
+     "t": 2647.0,
+     "s": "E",
+     "es": "Están de luna de miel en La Habana.",
+     "ko": "그들은 아바나로 신혼여행 중이다."
+    },
+    {
+     "t": 2653.0,
+     "s": "W",
+     "es": "matrimonio",
+     "ko": "부부, 결혼"
+    },
+    {
+     "t": 2655.8,
+     "s": "E",
+     "es": "A la fiesta solo van los matrimonios.",
+     "ko": "그 파티에는 부부들만 간다."
+    },
+    {
+     "t": 2661.7,
+     "s": "W",
+     "es": "mayor",
+     "ko": "성인, 노인, 나이가 든"
+    },
+    {
+     "t": 2669.8,
+     "s": "E",
+     "es": "Nuestros hijos ya son mayores.",
+     "ko": "우리 아이들은 이제 다 컸다."
+    },
+    {
+     "t": 2674.4,
+     "s": "W",
+     "es": "morir",
+     "ko": "죽다"
+    },
+    {
+     "t": 2676.9,
+     "s": "E",
+     "es": "Un amigo de mi padre murió de repente.",
+     "ko": "아버지의 친구 한 분이 갑자기 돌아가셨다."
+    },
+    {
+     "t": 2682.5,
+     "s": "W",
+     "es": "muchacho, muchacha",
+     "ko": "소년, 소녀, 젊은이"
+    },
+    {
+     "t": 2690.4,
+     "s": "E",
+     "es": "Aquella muchacha rubia es mi hija Susana.",
+     "ko": "저 금발 아가씨가 내 딸 수사나다."
+    },
+    {
+     "t": 2696.2,
+     "s": "W",
+     "es": "nacer",
+     "ko": "태어나다"
+    },
+    {
+     "t": 2699.6,
+     "s": "E",
+     "es": "Che Guevara nació en Argentina.",
+     "ko": "체 게바라는 아르헨티나에서 태어났다."
+    },
+    {
+     "t": 2704.2,
+     "s": "W",
+     "es": "niñez",
+     "ko": "어린 시절, 유년기"
+    },
+    {
+     "t": 2709.6,
+     "s": "E",
+     "es": "Pasó su niñez en casa de sus abuelos.",
+     "ko": "그는 어린 시절을 조부모님 댁에서 보냈다."
+    },
+    {
+     "t": 2714.9,
+     "s": "W",
+     "es": "novio, novia",
+     "ko": "애인, 약혼자"
+    },
+    {
+     "t": 2720.0,
+     "s": "E",
+     "es": "Mi novia trabaja en una escuela.",
+     "ko": "내 여자 친구는 학교에서 일한다."
+    },
+    {
+     "t": 2724.9,
+     "s": "W",
+     "es": "pareja",
+     "ko": "커플, 짝"
+    },
+    {
+     "t": 2727.4,
+     "s": "E",
+     "es": "En este juego hay que formar parejas.",
+     "ko": "이 게임에서는 짝을 지어야 한다."
+    },
+    {
+     "t": 2732.3,
+     "s": "W",
+     "es": "salir con alguien",
+     "ko": "~와 사귀다"
+    },
+    {
+     "t": 2737.4,
+     "s": "E",
+     "es": "Desde esta semana salgo con Miguel.",
+     "ko": "이번 주부터 나는 미겔과 사귄다."
+    },
+    {
+     "t": 2742.7,
+     "s": "W",
+     "es": "separarse",
+     "ko": "헤어지다, 별거하다"
+    },
+    {
+     "t": 2747.5,
+     "s": "E",
+     "es": "¿En qué año se separó usted de su marido?",
+     "ko": "당신은 몇 년도에 남편과 헤어지셨나요?"
+    },
+    {
+     "t": 2752.3,
+     "s": "W",
+     "es": "soltero, soltera",
+     "ko": "미혼 남, 미혼 여, 미혼의"
+    },
+    {
+     "t": 2759.8,
+     "s": "E",
+     "es": "Estoy soltera.",
+     "ko": "나는 미혼이다."
+    },
+    {
+     "t": 2762.1,
+     "s": "W",
+     "es": "tener éxito",
+     "ko": "성공하다"
+    },
+    {
+     "t": 2766.6,
+     "s": "E",
+     "es": "Su negocio tiene mucho éxito y gana mucho dinero.",
+     "ko": "그의 사업은 크게 성공해서 돈을 많이 번다."
+    },
+    {
+     "t": 2774.0,
+     "s": "W",
+     "es": "vejez",
+     "ko": "노년, 노년기"
+    },
+    {
+     "t": 2776.7,
+     "s": "E",
+     "es": "Las piernas se vuelven débiles en la vejez.",
+     "ko": "노년에는 다리가 약해진다."
+    },
+    {
+     "t": 2782.3,
+     "s": "W",
+     "es": "viudo, viuda",
+     "ko": "홀아비, 미망인"
+    },
+    {
+     "t": 2790.3,
+     "s": "E",
+     "es": "Murió su mujer y se quedó viudo.",
+     "ko": "그는 아내가 죽어서 홀아비가 되었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Relaciones personales · 인간관계",
+   "lines": [
+    {
+     "t": 2817.0,
+     "s": "W",
+     "es": "caballero",
+     "ko": "신사, 기사"
+    },
+    {
+     "t": 2821.8,
+     "s": "E",
+     "es": "Miguel es todo un caballero.",
+     "ko": "미겔은 정말 신사다."
+    },
+    {
+     "t": 2826.2,
+     "s": "W",
+     "es": "caer bien a alguien, caer mal a alguien",
+     "ko": "누구의 마음에 들다, 누구의 마음에 들지 않다"
+    },
+    {
+     "t": 2838.7,
+     "s": "E",
+     "es": "Mi novio no le cayó bien a mi padre.",
+     "ko": "아버지는 내 남자 친구를 마음에 들어 하지 않았다."
+    },
+    {
+     "t": 2844.0,
+     "s": "W",
+     "es": "cita",
+     "ko": "약속, 만날 약속"
+    },
+    {
+     "t": 2848.1,
+     "s": "E",
+     "es": "Mañana tengo una cita de trabajo.",
+     "ko": "내일 나는 업무 약속이 있다."
+    },
+    {
+     "t": 2853.3,
+     "s": "W",
+     "es": "colega",
+     "ko": "동료, 동업자"
+    },
+    {
+     "t": 2857.6,
+     "s": "E",
+     "es": "Ignacio se reunió con sus colegas para discutir el asunto.",
+     "ko": "이그나시오는 그 문제를 논의하려고 동료들과 모였다."
+    },
+    {
+     "t": 2863.6,
+     "s": "W",
+     "es": "compañero, compañera",
+     "ko": "동료, 짝"
+    },
+    {
+     "t": 2869.4,
+     "s": "E",
+     "es": "He visto a tu compañero de la oficina en el parque.",
+     "ko": "공원에서 네 회사 동료를 봤다."
+    },
+    {
+     "t": 2873.5,
+     "s": "W",
+     "es": "dama",
+     "ko": "숙녀, 귀부인"
+    },
+    {
+     "t": 2880.1,
+     "s": "E",
+     "es": "Antes, las damas llevaban abanico.",
+     "ko": "예전에 귀부인들은 부채를 들고 다녔다."
+    },
+    {
+     "t": 2885.2,
+     "s": "W",
+     "es": "discusión",
+     "ko": "토론, 논의, 논쟁"
+    },
+    {
+     "t": 2889.5,
+     "s": "E",
+     "es": "Eso está en discusión.",
+     "ko": "그것은 논의 중이다."
+    },
+    {
+     "t": 2893.7,
+     "s": "W",
+     "es": "hombre",
+     "ko": "인간, 남자"
+    },
+    {
+     "t": 2898.5,
+     "s": "E",
+     "es": "Es hombre de pocas palabras.",
+     "ko": "그는 말수가 적은 남자다."
+    },
+    {
+     "t": 2902.8,
+     "s": "W",
+     "es": "huésped",
+     "ko": "손님, 숙박객"
+    },
+    {
+     "t": 2908.0,
+     "s": "E",
+     "es": "Actualmente tienen tres huéspedes permanentes.",
+     "ko": "현재 그들에게는 장기 투숙객이 세 명 있다."
+    },
+    {
+     "t": 2913.9,
+     "s": "W",
+     "es": "individuo",
+     "ko": "개인, 사람"
+    },
+    {
+     "t": 2918.6,
+     "s": "E",
+     "es": "Dos individuos entraron en casa y robaron las joyas y el dinero.",
+     "ko": "두 사람이 집에 들어와 보석과 돈을 훔쳤다."
+    },
+    {
+     "t": 2924.9,
+     "s": "W",
+     "es": "madrina",
+     "ko": "대모, 들러리"
+    },
+    {
+     "t": 2927.8,
+     "s": "E",
+     "es": "La madrina de la boda fue la madre del novio.",
+     "ko": "결혼식의 대모는 신랑의 어머니였다."
+    },
+    {
+     "t": 2933.9,
+     "s": "W",
+     "es": "padrino",
+     "ko": "대부"
+    },
+    {
+     "t": 2937.0,
+     "s": "E",
+     "es": "En las bodas, el padrino acompaña a la novia al altar.",
+     "ko": "결혼식에서 대부는 신부와 함께 제단까지 걸어간다."
+    },
+    {
+     "t": 2943.1,
+     "s": "W",
+     "es": "persona",
+     "ko": "사람, 인간, 인물"
+    },
+    {
+     "t": 2949.6,
+     "s": "E",
+     "es": "Unas cien personas asistieron al concierto.",
+     "ko": "약 100명이 그 콘서트에 참석했다."
+    },
+    {
+     "t": 2954.8,
+     "s": "W",
+     "es": "vecino, vecina",
+     "ko": "이웃"
+    },
+    {
+     "t": 2956.5,
+     "s": "E",
+     "es": "El vecino de al lado nos ayuda mucho.",
+     "ko": "옆집 이웃이 우리를 많이 도와준다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Acciones cotidianas · 일상생활",
+   "lines": [
+    {
+     "t": 2976.0,
+     "s": "W",
+     "es": "acostarse",
+     "ko": "눕다, 잠자리에 들다"
+    },
+    {
+     "t": 2982.7,
+     "s": "E",
+     "es": "Nos acostamos tarde, como a las dos de la madrugada.",
+     "ko": "우리는 새벽 두 시쯤 늦게 잠자리에 들었다."
+    },
+    {
+     "t": 2989.3,
+     "s": "W",
+     "es": "almorzar",
+     "ko": "점심을 먹다, 늦은 아침을 먹다"
+    },
+    {
+     "t": 2995.1,
+     "s": "E",
+     "es": "Vamos a almorzar, ya que no hemos desayunado.",
+     "ko": "아침을 안 먹었으니 점심 먹으러 가자."
+    },
+    {
+     "t": 3002.3,
+     "s": "W",
+     "es": "bañarse",
+     "ko": "목욕하다"
+    },
+    {
+     "t": 3005.0,
+     "s": "E",
+     "es": "Siempre me baño por la noche.",
+     "ko": "나는 항상 밤에 목욕한다."
+    },
+    {
+     "t": 3009.5,
+     "s": "W",
+     "es": "cena",
+     "ko": "저녁 식사"
+    },
+    {
+     "t": 3012.7,
+     "s": "E",
+     "es": "Ella nos invitó a una cena en el restaurante.",
+     "ko": "그녀는 식당에서 우리에게 저녁을 대접했다."
+    },
+    {
+     "t": 3019.5,
+     "s": "W",
+     "es": "comida",
+     "ko": "음식, 식사, 점심 식사"
+    },
+    {
+     "t": 3023.7,
+     "s": "E",
+     "es": "No sirven comidas después de las cuatro.",
+     "ko": "4시 이후에는 식사를 제공하지 않는다."
+    },
+    {
+     "t": 3030.0,
+     "s": "W",
+     "es": "desayuno",
+     "ko": "아침 식사"
+    },
+    {
+     "t": 3032.5,
+     "s": "E",
+     "es": "El desayuno está preparado en la cama.",
+     "ko": "아침 식사가 침대에 차려져 있다."
+    },
+    {
+     "t": 3039.1,
+     "s": "W",
+     "es": "ducharse",
+     "ko": "샤워하다"
+    },
+    {
+     "t": 3042.0,
+     "s": "E",
+     "es": "¿Por qué no te duchas ahora?",
+     "ko": "지금 샤워하는 게 어때?"
+    },
+    {
+     "t": 3045.9,
+     "s": "W",
+     "es": "hacer la cama",
+     "ko": "침대를 정리하다"
+    },
+    {
+     "t": 3050.6,
+     "s": "E",
+     "es": "Tienes que hacer la cama antes de desayunar.",
+     "ko": "아침 먹기 전에 침대를 정리해야 한다."
+    },
+    {
+     "t": 3056.2,
+     "s": "W",
+     "es": "ir a trabajar",
+     "ko": "출근하다"
+    },
+    {
+     "t": 3059.7,
+     "s": "E",
+     "es": "¿Va a trabajar en su coche?",
+     "ko": "당신은 자가용으로 출근하세요?"
+    },
+    {
+     "t": 3064.1,
+     "s": "W",
+     "es": "lavarse la cara",
+     "ko": "세수하다"
+    },
+    {
+     "t": 3064.1,
+     "s": "E",
+     "es": "Lávate la cara y los dientes.",
+     "ko": "세수하고 이를 닦아라."
+    },
+    {
+     "t": 3073.5,
+     "s": "W",
+     "es": "levantarse",
+     "ko": "일어나다"
+    },
+    {
+     "t": 3073.5,
+     "s": "E",
+     "es": "Mi madre se levanta a las seis y me despierta.",
+     "ko": "어머니는 6시에 일어나서 나를 깨운다."
+    },
+    {
+     "t": 3082.3,
+     "s": "W",
+     "es": "merienda",
+     "ko": "간식"
+    },
+    {
+     "t": 3082.3,
+     "s": "E",
+     "es": "Hoy no voy a llevar la merienda.",
+     "ko": "오늘은 간식을 안 가져갈 거야."
+    },
+    {
+     "t": 3091.3,
+     "s": "W",
+     "es": "reunirse",
+     "ko": "모이다, 모임을 갖다"
+    },
+    {
+     "t": 3096.4,
+     "s": "E",
+     "es": "Todos sus amigos se reunieron para ayudarlo.",
+     "ko": "그의 친구들이 모두 그를 돕기 위해 모였다."
+    },
+    {
+     "t": 3101.2,
+     "s": "W",
+     "es": "sacar al perro",
+     "ko": "개를 산책시키다"
+    },
+    {
+     "t": 3109.0,
+     "s": "E",
+     "es": "No te olvides de sacar al perro.",
+     "ko": "개 산책시키는 거 잊지 마."
+    },
+    {
+     "t": 3113.2,
+     "s": "W",
+     "es": "salir",
+     "ko": "나가다, 떠나다"
+    },
+    {
+     "t": 3115.8,
+     "s": "E",
+     "es": "¿A qué hora sales de la oficina?",
+     "ko": "너는 몇 시에 퇴근하니?"
+    }
+   ]
+  },
+  {
+   "title": "Unidad 5. Profesión · 직업",
+   "lines": [
+    {
+     "t": 3132.2,
+     "s": "W",
+     "es": "abogado, abogada",
+     "ko": "변호사"
+    },
+    {
+     "t": 3136.9,
+     "s": "E",
+     "es": "De mayor quiero ser abogada.",
+     "ko": "나는 커서 변호사가 되고 싶다."
+    },
+    {
+     "t": 3141.8,
+     "s": "W",
+     "es": "actor, actriz",
+     "ko": "배우"
+    },
+    {
+     "t": 3144.7,
+     "s": "E",
+     "es": "¿Sabes el nombre del actor de la película que vimos ayer?",
+     "ko": "어제 본 영화의 배우 이름을 아니?"
+    },
+    {
+     "t": 3152.5,
+     "s": "W",
+     "es": "agricultor, agricultora",
+     "ko": "농부"
+    },
+    {
+     "t": 3156.3,
+     "s": "E",
+     "es": "Los jóvenes de hoy no quieren ser agricultores.",
+     "ko": "요즘 젊은이들은 농부가 되고 싶어 하지 않는다."
+    },
+    {
+     "t": 3162.0,
+     "s": "W",
+     "es": "ama de casa",
+     "ko": "주부"
+    },
+    {
+     "t": 3163.6,
+     "s": "E",
+     "es": "Mi mamá es ama de casa.",
+     "ko": "우리 엄마는 주부다."
+    },
+    {
+     "t": 3174.7,
+     "s": "W",
+     "es": "arquitecto, arquitecta",
+     "ko": "건축가"
+    },
+    {
+     "t": 3174.7,
+     "s": "E",
+     "es": "El edificio diseñado por la arquitecta es mundialmente famoso.",
+     "ko": "그 건축가가 설계한 건물은 세계적으로 유명하다."
+    },
+    {
+     "t": 3187.4,
+     "s": "W",
+     "es": "asistente",
+     "ko": "조수, 보조원"
+    },
+    {
+     "t": 3187.4,
+     "s": "E",
+     "es": "La directora llamó a su asistente.",
+     "ko": "여자 국장이 자기 비서를 불렀다."
+    },
+    {
+     "t": 3195.4,
+     "s": "W",
+     "es": "bombero, bombera",
+     "ko": "소방관"
+    },
+    {
+     "t": 3195.4,
+     "s": "E",
+     "es": "Hay que cederles el paso a los bomberos.",
+     "ko": "소방관들에게 길을 양보해야 한다."
+    },
+    {
+     "t": 3203.5,
+     "s": "W",
+     "es": "cajero, cajera",
+     "ko": "계산원"
+    },
+    {
+     "t": 3203.5,
+     "s": "E",
+     "es": "Voy a la cajera para pagar esto.",
+     "ko": "이것을 계산하러 계산원에게 간다."
+    },
+    {
+     "t": 3213.1,
+     "s": "W",
+     "es": "camarero, camarera",
+     "ko": "웨이터, 웨이트리스"
+    },
+    {
+     "t": 3213.1,
+     "s": "E",
+     "es": "Estoy aquí de camarero durante el verano.",
+     "ko": "나는 여름 동안 여기서 웨이터로 일한다."
+    },
+    {
+     "t": 3223.6,
+     "s": "W",
+     "es": "cantante",
+     "ko": "가수"
+    },
+    {
+     "t": 3227.5,
+     "s": "E",
+     "es": "Los cantantes de K-Pop visitan París este fin de semana.",
+     "ko": "케이팝 가수들이 이번 주말 파리를 방문한다."
+    },
+    {
+     "t": 3233.5,
+     "s": "W",
+     "es": "carpintero, carpintera",
+     "ko": "목수"
+    },
+    {
+     "t": 3238.7,
+     "s": "E",
+     "es": "Martín es carpintero de muebles.",
+     "ko": "마르틴은 가구 목수다."
+    },
+    {
+     "t": 3243.1,
+     "s": "W",
+     "es": "cartero, cartera",
+     "ko": "우체부, 집배원"
+    },
+    {
+     "t": 3247.5,
+     "s": "E",
+     "es": "El cartero no ha traído hoy la carta de mi madre.",
+     "ko": "오늘 집배원이 어머니의 편지를 가져오지 않았다."
+    },
+    {
+     "t": 3254.5,
+     "s": "W",
+     "es": "cocinero, cocinera",
+     "ko": "요리사"
+    },
+    {
+     "t": 3258.1,
+     "s": "E",
+     "es": "El cocinero es un vasco de mucha fama.",
+     "ko": "그 요리사는 아주 유명한 바스크 사람이다."
+    },
+    {
+     "t": 3263.4,
+     "s": "W",
+     "es": "conductor, conductora",
+     "ko": "운전기사"
+    },
+    {
+     "t": 3267.6,
+     "s": "E",
+     "es": "El conductor paró el coche ante el paso de peatones.",
+     "ko": "운전기사는 횡단보도 앞에서 차를 세웠다."
+    },
+    {
+     "t": 3276.4,
+     "s": "W",
+     "es": "dependiente, dependienta",
+     "ko": "점원, 종업원"
+    },
+    {
+     "t": 3280.2,
+     "s": "E",
+     "es": "Ella ya trabaja como dependienta en una tienda.",
+     "ko": "그녀는 이미 가게에서 점원으로 일한다."
+    },
+    {
+     "t": 3285.6,
+     "s": "W",
+     "es": "diseñador, diseñadora",
+     "ko": "디자이너"
+    },
+    {
+     "t": 3292.6,
+     "s": "E",
+     "es": "Él es diseñador de moda y ella es diseñadora de muebles.",
+     "ko": "그는 패션 디자이너이고 그녀는 가구 디자이너다."
+    },
+    {
+     "t": 3299.5,
+     "s": "W",
+     "es": "empleado, empleada",
+     "ko": "직원, 종업원"
+    },
+    {
+     "t": 3301.3,
+     "s": "E",
+     "es": "La dueña no está en este momento. Yo soy un empleado.",
+     "ko": "사장님은 지금 안 계세요. 저는 직원입니다."
+    },
+    {
+     "t": 3310.0,
+     "s": "W",
+     "es": "enfermero, enfermera",
+     "ko": "간호사"
+    },
+    {
+     "t": 3310.0,
+     "s": "E",
+     "es": "El enfermero levantó al paciente.",
+     "ko": "간호사가 환자를 일으켜 세웠다."
+    },
+    {
+     "t": 3320.1,
+     "s": "W",
+     "es": "escritor, escritora",
+     "ko": "작가"
+    },
+    {
+     "t": 3320.1,
+     "s": "E",
+     "es": "Es una conocida escritora de novelas de ciencia ficción.",
+     "ko": "그녀는 유명한 공상 과학 소설 작가다."
+    },
+    {
+     "t": 3329.8,
+     "s": "W",
+     "es": "fotógrafo, fotógrafa",
+     "ko": "사진작가"
+    },
+    {
+     "t": 3333.8,
+     "s": "E",
+     "es": "Trabaja en un importante periódico como fotógrafo.",
+     "ko": "그는 주요 신문사에서 사진 기자로 일한다."
+    },
+    {
+     "t": 3340.7,
+     "s": "W",
+     "es": "funcionario, funcionaria",
+     "ko": "공무원"
+    },
+    {
+     "t": 3344.4,
+     "s": "E",
+     "es": "Mi padre es funcionario de policía.",
+     "ko": "우리 아버지는 경찰 공무원이다."
+    },
+    {
+     "t": 3350.3,
+     "s": "W",
+     "es": "guardia",
+     "ko": "경비원, 경비"
+    },
+    {
+     "t": 3354.5,
+     "s": "E",
+     "es": "Le preguntamos a un guardia cómo se iba al puerto.",
+     "ko": "우리는 경비원에게 항구로 가는 길을 물었다."
+    },
+    {
+     "t": 3361.7,
+     "s": "W",
+     "es": "intérprete",
+     "ko": "통역사"
+    },
+    {
+     "t": 3364.4,
+     "s": "E",
+     "es": "Acompaña al presidente en su viaje oficial un intérprete de ruso.",
+     "ko": "러시아어 통역사가 대통령의 공식 순방에 동행한다."
+    },
+    {
+     "t": 3371.7,
+     "s": "W",
+     "es": "jardinero, jardinera",
+     "ko": "정원사"
+    },
+    {
+     "t": 3375.7,
+     "s": "E",
+     "es": "A mi marido le gustan mucho las flores. Es un buen jardinero.",
+     "ko": "남편은 꽃을 아주 좋아한다. 훌륭한 정원사다."
+    },
+    {
+     "t": 3382.6,
+     "s": "W",
+     "es": "jefe, jefa",
+     "ko": "책임자, 국장, 과장"
+    },
+    {
+     "t": 3389.7,
+     "s": "E",
+     "es": "¿Quién es el jefe aquí?",
+     "ko": "여기 책임자가 누구죠?"
+    },
+    {
+     "t": 3393.3,
+     "s": "W",
+     "es": "juez, jueza",
+     "ko": "판사"
+    },
+    {
+     "t": 3398.1,
+     "s": "E",
+     "es": "La jueza lo condenó a 20 años de cárcel.",
+     "ko": "판사는 그에게 징역 20년을 선고했다."
+    },
+    {
+     "t": 3403.7,
+     "s": "W",
+     "es": "maestro, maestra",
+     "ko": "선생님, 교사"
+    },
+    {
+     "t": 3405.7,
+     "s": "E",
+     "es": "Mi tía es maestra.",
+     "ko": "우리 이모는 교사다."
+    },
+    {
+     "t": 3412.8,
+     "s": "W",
+     "es": "mecánico, mecánica",
+     "ko": "정비사"
+    },
+    {
+     "t": 3418.5,
+     "s": "E",
+     "es": "El mecánico me dijo que la reparación iba a ser muy cara.",
+     "ko": "정비사는 수리비가 아주 비쌀 거라고 내게 말했다."
+    },
+    {
+     "t": 3425.4,
+     "s": "W",
+     "es": "médico, médica",
+     "ko": "의사"
+    },
+    {
+     "t": 3429.2,
+     "s": "E",
+     "es": "¿En esta sala hay algún médico?",
+     "ko": "이 홀에 의사 계신가요?"
+    },
+    {
+     "t": 3433.7,
+     "s": "W",
+     "es": "minero, minera",
+     "ko": "광부"
+    },
+    {
+     "t": 3433.7,
+     "s": "E",
+     "es": "Algunas minas han empezado a admitir mineras.",
+     "ko": "몇몇 광산은 여자 광부를 받아들이기 시작했다."
+    },
+    {
+     "t": 3445.3,
+     "s": "W",
+     "es": "modelo",
+     "ko": "모델"
+    },
+    {
+     "t": 3445.3,
+     "s": "E",
+     "es": "Si quieres ser mi modelo, debes estarte quieta.",
+     "ko": "내 모델이 되고 싶으면 가만히 있어야 해."
+    },
+    {
+     "t": 3453.0,
+     "s": "W",
+     "es": "obrero, obrera",
+     "ko": "노동자"
+    },
+    {
+     "t": 3453.0,
+     "s": "E",
+     "es": "En esa fábrica trabajan cerca de mil obreros.",
+     "ko": "그 공장에서는 천 명 가까운 노동자가 일한다."
+    },
+    {
+     "t": 3463.7,
+     "s": "W",
+     "es": "oficio",
+     "ko": "직업, 일"
+    },
+    {
+     "t": 3463.7,
+     "s": "E",
+     "es": "Mi oficio es enseñar español.",
+     "ko": "내 직업은 스페인어를 가르치는 것이다."
+    },
+    {
+     "t": 3472.8,
+     "s": "W",
+     "es": "panadero, panadera",
+     "ko": "제빵사"
+    },
+    {
+     "t": 3476.4,
+     "s": "E",
+     "es": "Mis padres son panaderos y hacen el pan más rico del mundo.",
+     "ko": "우리 부모님은 제빵사이고 세상에서 가장 맛있는 빵을 만드신다."
+    },
+    {
+     "t": 3484.4,
+     "s": "W",
+     "es": "peluquero, peluquera",
+     "ko": "미용사"
+    },
+    {
+     "t": 3487.6,
+     "s": "E",
+     "es": "¿A qué peluquero vas? Es que te han cortado muy bien el pelo.",
+     "ko": "어느 미용사한테 가니? 머리를 아주 잘 잘랐네."
+    },
+    {
+     "t": 3495.0,
+     "s": "W",
+     "es": "periodista",
+     "ko": "기자, 저널리스트"
+    },
+    {
+     "t": 3499.5,
+     "s": "E",
+     "es": "En aquella guerra murieron también los periodistas extranjeros.",
+     "ko": "그 전쟁에서는 외국인 기자들도 목숨을 잃었다."
+    },
+    {
+     "t": 3506.8,
+     "s": "W",
+     "es": "pescador, pescadora",
+     "ko": "어부, 낚시꾼"
+    },
+    {
+     "t": 3511.7,
+     "s": "E",
+     "es": "La mayoría de los habitantes de este pueblo son pescadores.",
+     "ko": "이 마을 주민 대부분은 어부다."
+    },
+    {
+     "t": 3518.7,
+     "s": "W",
+     "es": "piloto",
+     "ko": "조종사, 운전사"
+    },
+    {
+     "t": 3523.2,
+     "s": "E",
+     "es": "Los pilotos se presentaron a los pasajeros.",
+     "ko": "조종사들이 승객들에게 자신을 소개했다."
+    },
+    {
+     "t": 3529.1,
+     "s": "W",
+     "es": "pintor, pintora",
+     "ko": "화가"
+    },
+    {
+     "t": 3533.2,
+     "s": "E",
+     "es": "Picasso fue un pintor español nacido en Málaga.",
+     "ko": "피카소는 말라가에서 태어난 스페인 화가였다."
+    },
+    {
+     "t": 3539.6,
+     "s": "W",
+     "es": "policía",
+     "ko": "경찰"
+    },
+    {
+     "t": 3542.8,
+     "s": "E",
+     "es": "Varios policías fueron corriendo al lugar del accidente.",
+     "ko": "경찰 여러 명이 사고 현장으로 달려갔다."
+    },
+    {
+     "t": 3549.0,
+     "s": "W",
+     "es": "profesor, profesora",
+     "ko": "교수, 선생님"
+    },
+    {
+     "t": 3555.0,
+     "s": "E",
+     "es": "Mi profesora de lengua ha publicado varias novelas.",
+     "ko": "우리 국어 선생님은 소설을 여러 권 출간했다."
+    },
+    {
+     "t": 3560.9,
+     "s": "W",
+     "es": "secretario, secretaria",
+     "ko": "비서"
+    },
+    {
+     "t": 3565.7,
+     "s": "E",
+     "es": "Si quiere hablar con la directora, hable primero con su secretario.",
+     "ko": "국장님과 이야기하고 싶으시면 먼저 비서와 이야기하세요."
+    },
+    {
+     "t": 3573.1,
+     "s": "W",
+     "es": "taxista",
+     "ko": "택시 기사"
+    },
+    {
+     "t": 3576.3,
+     "s": "E",
+     "es": "A este restaurante vienen muchos taxistas para comer.",
+     "ko": "이 식당에는 택시 기사들이 많이 식사하러 온다."
+    },
+    {
+     "t": 3582.1,
+     "s": "W",
+     "es": "vendedor, vendedora",
+     "ko": "판매원, 상인"
+    },
+    {
+     "t": 3586.5,
+     "s": "E",
+     "es": "Es el mejor vendedor de seguros de su departamento.",
+     "ko": "그는 자기 부서 최고의 보험 판매원이다."
+    },
+    {
+     "t": 3594.2,
+     "s": "W",
+     "es": "veterinario, veterinaria",
+     "ko": "수의사"
+    },
+    {
+     "t": 3594.2,
+     "s": "E",
+     "es": "Llevé al perro enfermo al veterinario.",
+     "ko": "나는 아픈 개를 수의사에게 데려갔다."
+    }
+   ]
+  }
+ ]
+}

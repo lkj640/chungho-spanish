@@ -1,0 +1,4414 @@
+{
+ "id": "es-2026-11-15-3",
+ "lang": "es",
+ "date": "2026-11-15",
+ "title": "스페인어 어휘를 부탁해 ② — 의류·음식·주거 (3–5장)",
+ "es": "¿Qué tal me queda esta camiseta?",
+ "emoji": "👗",
+ "level": "A2–B1",
+ "channel": "스페인어 어휘를 부탁해 (MP3)",
+ "videoTitle": "스페인어 어휘를 부탁해 — 2/4편",
+ "audio": "audio.m4a",
+ "duration": "50:46",
+ "speakers": {
+  "W": "표제어",
+  "E": "예문"
+ },
+ "hideCast": true,
+ "summary": "3장 의류(옷, 신발·소품, 스타일·소재, 몸 관리), 4장 음식(식품, 맛·조리법, 상점·식당), 5장 주거(집, 주방·욕실, 침실·거실, 집안일)의 기본 어휘 약 300개를 다뤄요. 단어 → 한국어 뜻 → 예문 순서로 들으면서 예문을 소리 내어 따라 하고, 명사는 관사(el/la)와 함께 외워 보세요.",
+ "topics": [
+  "의류: camisa · falda · pantalones · vestido · probarse · quedar bien",
+  "신발·소품: zapato · bolso · gafas · pendiente · reloj · cinturón",
+  "스타일·소재: de rayas · de cuadros · de lunares · algodón · seda · cuero",
+  "몸 관리: afeitarse · maquillarse · peinarse · jabón · toalla",
+  "식품·맛·조리: pan · carne · pescado · al horno · frito · picante · rico",
+  "상점·식당: carta · cuenta · propina · menú del día · panadería",
+  "집·가구·집안일: piso · dormitorio · nevera · lavadora · barrer · planchar"
+ ],
+ "grammar": [
+  {
+   "title": "① quedar — 옷이 어울리다 / 맞다",
+   "lead": "옷이 '어울린다, 크다/작다'는 <b>(간접목적대명사) + quedar + 형용사/부사</b>로 말해요. 주어는 옷이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "me queda bien",
+      "나한테 잘 어울린다",
+      "Esta falda me queda bien."
+     ],
+     [
+      "te queda mal",
+      "너한테 안 어울린다",
+      "Es que no te queda muy bien."
+     ],
+     [
+      "me quedan pequeñas",
+      "나한테 작다",
+      "Estas zapatillas me quedan pequeñas."
+     ],
+     [
+      "le quedaba ancha",
+      "그에게 헐렁했다",
+      "La chaqueta le quedaba muy ancha."
+     ],
+     [
+      "¿Qué tal me queda...?",
+      "~ 나한테 어때?",
+      "¿Qué tal me queda esta camiseta?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "¿Qué tal me queda esta camiseta?",
+     "이 티셔츠 나한테 어때?"
+    ],
+    [
+     "Los calcetines blancos no quedan bien con el traje negro.",
+     "흰 양말은 검은 정장과 어울리지 않는다."
+    ],
+    [
+     "Estas zapatillas de deporte me quedan pequeñas.",
+     "이 운동화는 나한테 작다."
+    ]
+   ],
+   "tip": "옷이 복수(zapatillas, pantalones)면 동사도 quedan으로 복수가 돼요. gustar와 같은 구조예요."
+  },
+  {
+   "title": "② 입고 벗는 재귀동사 — ponerse, quitarse, probarse",
+   "lead": "자기 몸에 하는 동작은 <b>재귀동사</b>를 써요. 몸 관리 동사(afeitarse, peinarse, maquillarse)도 같은 방식이에요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "ponerse",
+      "입다, 쓰다, 신다",
+      "Me pongo una gorra."
+     ],
+     [
+      "quitarse",
+      "벗다",
+      "Me quité la falda."
+     ],
+     [
+      "probarse",
+      "입어 보다",
+      "¡Quiero probármela!"
+     ],
+     [
+      "vestirse",
+      "옷을 입다",
+      "No tardo nada en vestirme."
+     ],
+     [
+      "afeitarse",
+      "면도하다",
+      "Mi papá se afeita todas las mañanas."
+     ],
+     [
+      "peinarse",
+      "머리를 빗다",
+      "Mi abuela se peina antes de acostarse."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Ponte el pijama y vete a la cama.",
+     "잠옷 입고 자러 가라."
+    ],
+    [
+     "Me quité la falda y me puse los pantalones.",
+     "나는 치마를 벗고 바지를 입었다."
+    ],
+    [
+     "Me maquillo siempre cuando salgo con mis amigos.",
+     "친구들과 나갈 때는 늘 화장을 한다."
+    ]
+   ],
+   "tip": "명령형·부정사에서는 대명사가 뒤에 붙어요: ponte, quítate, probármela(probar+me+la)."
+  },
+  {
+   "title": "③ 소재·무늬·조리법은 de / a / al로",
+   "lead": "'무엇으로 만든'은 <b>de + 소재</b>, '무늬'는 <b>de + 무늬</b>, 조리 방법은 <b>a la / al</b>로 명사 뒤에 붙여요.",
+   "table": {
+    "head": [
+     "형태",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "de seda / de lana",
+      "실크로 된 / 모직의",
+      "una blusa de seda"
+     ],
+     [
+      "de oro / de cuero",
+      "금으로 된 / 가죽의",
+      "Estos collares son de oro."
+     ],
+     [
+      "de rayas / de cuadros",
+      "줄무늬의 / 체크무늬의",
+      "una corbata de rayas"
+     ],
+     [
+      "de lunares",
+      "물방울무늬의",
+      "un vestido de lunares"
+     ],
+     [
+      "al horno / al vapor",
+      "오븐에 구운 / 찐",
+      "el pescado al horno"
+     ],
+     [
+      "a la parrilla",
+      "석쇠에 구운",
+      "carne a la parrilla"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Quiero comprarme una blusa de seda.",
+     "실크 블라우스를 하나 사고 싶다."
+    ],
+    [
+     "Aquella corbata de rayas grises es inglesa.",
+     "저 회색 줄무늬 넥타이는 영국산이다."
+    ],
+    [
+     "A María le gusta el pescado al horno.",
+     "마리아는 오븐에 구운 생선을 좋아한다."
+    ]
+   ],
+   "tip": "de 뒤의 소재·무늬 명사에는 관사를 쓰지 않아요(de la seda ✗). 소재를 물을 때는 ¿De qué es?"
+  },
+  {
+   "title": "④ estar + 형용사 — 음식의 지금 상태",
+   "lead": "음식이 지금 어떤 상태인지(맛, 온도, 익은 정도)는 <b>estar</b>로 말해요. ser는 원래 성질을 말해요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "estar salado",
+      "짜다",
+      "La sopa está salada."
+     ],
+     [
+      "estar caliente / frío",
+      "뜨겁다 / 식었다",
+      "La leche está demasiado caliente."
+     ],
+     [
+      "estar crudo",
+      "덜 익었다",
+      "El pollo todavía está crudo."
+     ],
+     [
+      "estar hecho",
+      "익었다",
+      "Esta carne está muy hecha."
+     ],
+     [
+      "estar maduro",
+      "(과일이) 익었다",
+      "El melón está maduro."
+     ],
+     [
+      "estar rico / bueno",
+      "맛있다",
+      "¡Qué rico está este zumo!"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "La sopa está salada. Le has puesto demasiada sal.",
+     "수프가 짜다. 소금을 너무 많이 넣었구나."
+    ],
+    [
+     "Te caliento la sopa, está fría.",
+     "수프 데워 줄게, 식었어."
+    ],
+    [
+     "La sopa de marisco está muy buena.",
+     "해산물 수프가 아주 맛있다."
+    ]
+   ],
+   "tip": "맛을 비유할 때는 saber a: Sabe a quemado(탄 맛이 난다). 음식이 몸에 안 맞을 땐 sentar mal: Me sienta mal."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Qué talla usas?",
+   "너는 어떤 사이즈를 입니?"
+  ],
+  [
+   "¿Tienes una talla más grande?",
+   "더 큰 사이즈 있어요?"
+  ],
+  [
+   "Los probadores están ahí, al fondo.",
+   "탈의실은 저기 안쪽에 있다."
+  ],
+  [
+   "Voy a cambiarme de ropa.",
+   "옷을 갈아입을게."
+  ],
+  [
+   "¿Me trae la cuenta, por favor?",
+   "계산서 좀 갖다주시겠어요?"
+  ],
+  [
+   "¿Cuál es el menú del día?",
+   "오늘의 정식은 뭐예요?"
+  ],
+  [
+   "Si tienes hambre, podemos tomar algo.",
+   "배고프면 뭐 좀 먹을 수 있어."
+  ],
+  [
+   "Hoy voy a limpiar los cristales. ¿Me echas una mano?",
+   "오늘 유리창을 닦을 거야. 좀 도와줄래?"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la ropa",
+   "ko": "옷",
+   "ex": "Voy a cambiarme de ropa.",
+   "exKo": "옷을 갈아입을게."
+  },
+  {
+   "es": "la camisa",
+   "ko": "셔츠",
+   "ex": "Llevas una camisa muy bonita. ¿Dónde la compraste?",
+   "exKo": "아주 예쁜 셔츠를 입었구나. 어디서 샀니?"
+  },
+  {
+   "es": "la falda",
+   "ko": "치마",
+   "ex": "Quería una falda de algodón con bolsillos.",
+   "exKo": "주머니가 달린 면 치마를 원했어요."
+  },
+  {
+   "es": "los pantalones",
+   "ko": "바지",
+   "ex": "¿Cuántos pantalones meto en la maleta?",
+   "exKo": "바지를 몇 벌 여행 가방에 넣을까?"
+  },
+  {
+   "es": "el vestido",
+   "ko": "드레스, 원피스",
+   "ex": "Ese vestido estampado de flores es precioso.",
+   "exKo": "그 꽃무늬 원피스는 정말 예쁘다."
+  },
+  {
+   "es": "la talla",
+   "ko": "사이즈, 치수",
+   "ex": "¿Qué talla usas?",
+   "exKo": "너는 어떤 사이즈를 입니?"
+  },
+  {
+   "es": "probarse",
+   "ko": "입어 보다",
+   "ex": "¡Qué falda más bonita! ¡Quiero probármela!",
+   "exKo": "정말 예쁜 치마다! 입어 보고 싶다!"
+  },
+  {
+   "es": "quedar bien",
+   "ko": "잘 어울리다",
+   "ex": "¿Qué tal me queda esta camiseta?",
+   "exKo": "이 티셔츠 나한테 어때?"
+  },
+  {
+   "es": "estar de moda",
+   "ko": "유행하다",
+   "ex": "Las camisas estampadas de flores están de moda.",
+   "exKo": "꽃무늬 셔츠가 유행이다."
+  },
+  {
+   "es": "los zapatos",
+   "ko": "신발, 구두",
+   "ex": "Se puso los zapatos para salir.",
+   "exKo": "그는 나가려고 신발을 신었다."
+  },
+  {
+   "es": "el bolso",
+   "ko": "핸드백, 가방",
+   "ex": "También necesito un bolso de fiesta y unos zapatos de tacón.",
+   "exKo": "파티용 가방과 굽 있는 구두도 필요하다."
+  },
+  {
+   "es": "las gafas",
+   "ko": "안경",
+   "ex": "Llevo gafas desde los diez años.",
+   "exKo": "나는 열 살 때부터 안경을 쓴다."
+  },
+  {
+   "es": "el paraguas",
+   "ko": "우산",
+   "ex": "No te olvides del paraguas, está lloviendo.",
+   "exKo": "우산 잊지 마, 비가 오고 있어."
+  },
+  {
+   "es": "la cartera",
+   "ko": "지갑",
+   "ex": "Ten cuidado con tu cartera. Aquí hay mucha gente.",
+   "exKo": "지갑 조심해. 여기 사람이 많아."
+  },
+  {
+   "es": "claro, clara",
+   "ko": "밝은, 옅은",
+   "ex": "Me gusta el color azul claro.",
+   "exKo": "나는 하늘색이 좋다."
+  },
+  {
+   "es": "cómodo, cómoda",
+   "ko": "편안한",
+   "ex": "Prefiero dormir sin almohada. Para mí es más cómodo.",
+   "exKo": "나는 베개 없이 자는 게 좋다. 그게 더 편하다."
+  },
+  {
+   "es": "el jabón",
+   "ko": "비누",
+   "ex": "Hay que lavarse las manos con jabón.",
+   "exKo": "비누로 손을 씻어야 한다."
+  },
+  {
+   "es": "la toalla",
+   "ko": "수건",
+   "ex": "Sécate las manos con esta toalla.",
+   "exKo": "이 수건으로 손을 닦아라."
+  },
+  {
+   "es": "la carne",
+   "ko": "고기",
+   "ex": "Lucía no come carne, es vegetariana.",
+   "exKo": "루시아는 고기를 먹지 않는다. 채식주의자다."
+  },
+  {
+   "es": "el pescado",
+   "ko": "생선",
+   "ex": "¿Hoy no hay nada de pescado?",
+   "exKo": "오늘은 생선이 하나도 없어요?"
+  },
+  {
+   "es": "la verdura",
+   "ko": "채소",
+   "ex": "Hace falta comprar verdura.",
+   "exKo": "채소를 사야 한다."
+  },
+  {
+   "es": "la fruta",
+   "ko": "과일",
+   "ex": "Las piñas y los plátanos son frutas tropicales.",
+   "exKo": "파인애플과 바나나는 열대 과일이다."
+  },
+  {
+   "es": "el pan",
+   "ko": "빵",
+   "ex": "Este pan se hace con harina y agua.",
+   "exKo": "이 빵은 밀가루와 물로 만든다."
+  },
+  {
+   "es": "el postre",
+   "ko": "후식, 디저트",
+   "ex": "¿Qué hay de postre?",
+   "exKo": "후식은 뭐가 있어요?"
+  },
+  {
+   "es": "el zumo",
+   "ko": "주스",
+   "ex": "Esta mañana he tomado un zumo de naranja.",
+   "exKo": "오늘 아침에 오렌지 주스를 마셨다."
+  },
+  {
+   "es": "salado, salada",
+   "ko": "짠",
+   "ex": "La carne está un poco salada, pero sabe fenomenal.",
+   "exKo": "고기가 조금 짜지만 맛은 훌륭하다."
+  },
+  {
+   "es": "picante",
+   "ko": "매운",
+   "ex": "A mí la comida picante me sienta mal.",
+   "exKo": "나는 매운 음식이 몸에 맞지 않는다."
+  },
+  {
+   "es": "la receta",
+   "ko": "조리법, 레시피",
+   "ex": "La receta del postre está escrita en mi cuaderno.",
+   "exKo": "후식 레시피는 내 공책에 적혀 있다."
+  },
+  {
+   "es": "la carta",
+   "ko": "메뉴(판)",
+   "ex": "Aquí tienen la carta de postres.",
+   "exKo": "여기 디저트 메뉴판입니다."
+  },
+  {
+   "es": "la cuenta",
+   "ko": "계산서",
+   "ex": "¿Me trae la cuenta, por favor?",
+   "exKo": "계산서 좀 갖다주시겠어요?"
+  },
+  {
+   "es": "la propina",
+   "ko": "팁",
+   "ex": "Antes de salir, deja propina, ¿vale?",
+   "exKo": "나가기 전에 팁 두고 가, 알았지?"
+  },
+  {
+   "es": "alquilar",
+   "ko": "빌리다, 임대하다",
+   "ex": "Alquilé un coche para viajar por España.",
+   "exKo": "스페인을 여행하려고 차를 빌렸다."
+  },
+  {
+   "es": "el piso",
+   "ko": "아파트, 층",
+   "ex": "Mi piso es muy céntrico y está muy bien comunicado.",
+   "exKo": "내 아파트는 아주 시내 중심에 있고 교통이 아주 좋다."
+  },
+  {
+   "es": "el dormitorio",
+   "ko": "침실",
+   "ex": "Mi casa tiene tres dormitorios, dos baños, una cocina grande, un salón comedor y un jardín alrededor.",
+   "exKo": "우리 집에는 침실 셋, 욕실 둘, 큰 부엌, 거실 겸 식당, 그리고 둘레에 정원이 있다."
+  },
+  {
+   "es": "mudarse",
+   "ko": "이사하다",
+   "ex": "Dentro de poco, me mudaré de casa.",
+   "exKo": "곧 이사할 것이다."
+  },
+  {
+   "es": "el mueble",
+   "ko": "가구",
+   "ex": "Daniel quiere poner más muebles en su salón.",
+   "exKo": "다니엘은 거실에 가구를 더 놓고 싶어 한다."
+  },
+  {
+   "es": "la nevera",
+   "ko": "냉장고",
+   "ex": "Te he dejado la comida en la nevera.",
+   "exKo": "냉장고에 음식 넣어 뒀어."
+  },
+  {
+   "es": "la lavadora",
+   "ko": "세탁기",
+   "ex": "¿Puedes poner la lavadora? Tengo que salir ahora mismo.",
+   "exKo": "세탁기 좀 돌려 줄래? 나 지금 바로 나가야 해."
+  },
+  {
+   "es": "fregar",
+   "ko": "설거지하다, 닦다",
+   "ex": "¿Puedes fregar los platos y poner la mesa?",
+   "exKo": "설거지하고 상 좀 차려 줄래?"
+  },
+  {
+   "es": "funcionar",
+   "ko": "작동하다",
+   "ex": "De momento, el ascensor no funciona.",
+   "exKo": "지금은 엘리베이터가 작동하지 않는다."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'탈의실'을 스페인어로 하면?",
+   "options": [
+    "el escaparate",
+    "el probador",
+    "el pasillo",
+    "el armario"
+   ],
+   "answer": 1,
+   "explain": "probador는 옷을 입어 보는 탈의실이에요. escaparate는 진열장(쇼윈도)이에요."
+  },
+  {
+   "q": "¿Qué tal me ___ esta camiseta? (이 티셔츠 나한테 어때?)",
+   "options": [
+    "queda",
+    "quedo",
+    "quedas",
+    "quedan"
+   ],
+   "answer": 0,
+   "explain": "주어가 esta camiseta(3인칭 단수)이므로 queda를 써요. me는 '나에게'예요."
+  },
+  {
+   "q": "Una corbata ___ rayas (줄무늬 넥타이)",
+   "options": [
+    "con las",
+    "de",
+    "a",
+    "en"
+   ],
+   "answer": 1,
+   "explain": "무늬는 de + 무늬 명사: de rayas, de cuadros, de lunares. 관사는 쓰지 않아요."
+  },
+  {
+   "q": "'귀걸이'에 해당하는 단어는?",
+   "options": [
+    "la pulsera",
+    "el collar",
+    "el pendiente",
+    "el anillo"
+   ],
+   "answer": 2,
+   "explain": "pendiente는 귀걸이, pulsera는 팔찌, collar는 목걸이, anillo는 반지예요."
+  },
+  {
+   "q": "Me ___ la falda y me puse los pantalones. (치마를 벗었다)",
+   "options": [
+    "probé",
+    "vestí",
+    "quité",
+    "llevé"
+   ],
+   "answer": 2,
+   "explain": "quitarse는 '벗다'. 과거형 1인칭은 me quité예요."
+  },
+  {
+   "q": "La sopa está ___. Le has puesto demasiada sal.",
+   "options": [
+    "dulce",
+    "salada",
+    "ácida",
+    "cruda"
+   ],
+   "answer": 1,
+   "explain": "소금(sal)을 너무 많이 넣었으니 salada(짠)가 맞아요."
+  },
+  {
+   "q": "'오븐에 구운 생선'은?",
+   "options": [
+    "pescado al vapor",
+    "pescado frito",
+    "pescado al horno",
+    "pescado crudo"
+   ],
+   "answer": 2,
+   "explain": "al horno는 오븐에 구운, al vapor는 찐, frito는 튀긴, crudo는 날것의예요."
+  },
+  {
+   "q": "식당에서 계산서를 달라고 할 때 알맞은 말은?",
+   "options": [
+    "¿Me trae la carta?",
+    "¿Me trae la cuenta, por favor?",
+    "¿Dejo la propina?",
+    "¿Reservo una mesa?"
+   ],
+   "answer": 1,
+   "explain": "la cuenta가 계산서예요. la carta는 메뉴판, la propina는 팁이에요."
+  },
+  {
+   "q": "Este pescado está malísimo; además, ___ a quemado.",
+   "options": [
+    "huele",
+    "es",
+    "sabe",
+    "está"
+   ],
+   "answer": 2,
+   "explain": "saber a + 명사 = '~ 맛이 나다'. sabe a quemado는 '탄 맛이 난다'예요."
+  },
+  {
+   "q": "'이사하다'를 뜻하는 동사는?",
+   "options": [
+    "alquilar",
+    "construir",
+    "mudarse",
+    "almacenar"
+   ],
+   "answer": 2,
+   "explain": "mudarse (de casa)는 이사하다. alquilar는 빌리다, construir는 짓다, almacenar는 저장하다예요."
+  },
+  {
+   "q": "음식을 차갑게 보관하는 가전제품은?",
+   "options": [
+    "el horno",
+    "la nevera",
+    "el microondas",
+    "la lavadora"
+   ],
+   "answer": 1,
+   "explain": "nevera는 냉장고예요. horno는 오븐, microondas는 전자레인지, lavadora는 세탁기예요."
+  },
+  {
+   "q": "'빨래를 널다'는?",
+   "options": [
+    "poner la lavadora",
+    "tender la ropa",
+    "hacer la cama",
+    "barrer el suelo"
+   ],
+   "answer": 1,
+   "explain": "tender la ropa는 빨래를 널다, poner la lavadora는 세탁기를 돌리다, hacer la cama는 침대를 정리하다예요."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Capítulo 3 · Unidad 1. Ropa · 의류",
+   "lines": [
+    {
+     "t": 25.4,
+     "s": "W",
+     "es": "abrigo",
+     "ko": "외투, 코트"
+    },
+    {
+     "t": 29.5,
+     "s": "E",
+     "es": "Su abrigo era de color amarillo.",
+     "ko": "그의 외투는 노란색이었다."
+    },
+    {
+     "t": 34.1,
+     "s": "W",
+     "es": "bañador",
+     "ko": "수영복"
+    },
+    {
+     "t": 37.6,
+     "s": "E",
+     "es": "Mejor vamos antes a ver bañadores.",
+     "ko": "먼저 수영복을 보러 가는 게 낫겠다."
+    },
+    {
+     "t": 43.1,
+     "s": "W",
+     "es": "bolsillo",
+     "ko": "주머니"
+    },
+    {
+     "t": 46.6,
+     "s": "E",
+     "es": "Me encantan estos bolsillos pequeños del abrigo.",
+     "ko": "외투의 이 작은 주머니들이 정말 마음에 든다."
+    },
+    {
+     "t": 51.6,
+     "s": "W",
+     "es": "botón",
+     "ko": "단추"
+    },
+    {
+     "t": 55.1,
+     "s": "E",
+     "es": "No sé dónde he perdido uno de estos botones.",
+     "ko": "이 단추 중 하나를 어디서 잃어버렸는지 모르겠다."
+    },
+    {
+     "t": 60.5,
+     "s": "W",
+     "es": "bragas",
+     "ko": "(여성용) 팬티"
+    },
+    {
+     "t": 65.5,
+     "s": "E",
+     "es": "Mi madre tiene unas bragas azules.",
+     "ko": "우리 엄마는 파란 팬티를 가지고 있다."
+    },
+    {
+     "t": 70.2,
+     "s": "W",
+     "es": "calzoncillos",
+     "ko": "(남성용) 팬티"
+    },
+    {
+     "t": 74.3,
+     "s": "E",
+     "es": "¿Has encontrado unos calzoncillos que te gusten?",
+     "ko": "마음에 드는 팬티를 찾았니?"
+    },
+    {
+     "t": 79.3,
+     "s": "W",
+     "es": "camisa",
+     "ko": "셔츠, 와이셔츠"
+    },
+    {
+     "t": 84.5,
+     "s": "E",
+     "es": "Llevas una camisa muy bonita. ¿Dónde la compraste?",
+     "ko": "아주 예쁜 셔츠를 입었구나. 어디서 샀니?"
+    },
+    {
+     "t": 89.5,
+     "s": "W",
+     "es": "camiseta",
+     "ko": "티셔츠"
+    },
+    {
+     "t": 92.6,
+     "s": "E",
+     "es": "Siempre vas con camisas. ¿Nunca te pones camisetas?",
+     "ko": "너는 늘 셔츠만 입는구나. 티셔츠는 전혀 안 입니?"
+    },
+    {
+     "t": 100.3,
+     "s": "W",
+     "es": "chaleco",
+     "ko": "조끼"
+    },
+    {
+     "t": 103.3,
+     "s": "E",
+     "es": "Mi abuelo siempre llevaba chaleco debajo de la chaqueta.",
+     "ko": "할아버지는 늘 재킷 안에 조끼를 입으셨다."
+    },
+    {
+     "t": 109.4,
+     "s": "W",
+     "es": "chaqueta",
+     "ko": "재킷"
+    },
+    {
+     "t": 111.8,
+     "s": "E",
+     "es": "Quítate esa chaqueta y ponte otra más elegante.",
+     "ko": "그 재킷은 벗고 더 세련된 걸 입어라."
+    },
+    {
+     "t": 118.1,
+     "s": "W",
+     "es": "coser",
+     "ko": "바느질하다, 꿰매다"
+    },
+    {
+     "t": 120.8,
+     "s": "E",
+     "es": "No sé coser. Mi madre lo ha hecho siempre por mí.",
+     "ko": "나는 바느질을 못 한다. 늘 엄마가 대신 해 주셨다."
+    },
+    {
+     "t": 127.8,
+     "s": "W",
+     "es": "diseño",
+     "ko": "디자인"
+    },
+    {
+     "t": 131.8,
+     "s": "E",
+     "es": "Para hacer un buen diseño de un bolso, hay que pensar en su utilidad.",
+     "ko": "가방을 잘 디자인하려면 쓰임새를 생각해야 한다."
+    },
+    {
+     "t": 140.4,
+     "s": "W",
+     "es": "escaparate",
+     "ko": "진열장, 쇼윈도"
+    },
+    {
+     "t": 143.2,
+     "s": "E",
+     "es": "Quería ver la camiseta negra del escaparate.",
+     "ko": "진열장에 있는 검은 티셔츠를 보고 싶었어요."
+    },
+    {
+     "t": 148.3,
+     "s": "W",
+     "es": "estar de moda",
+     "ko": "유행하다"
+    },
+    {
+     "t": 151.3,
+     "s": "E",
+     "es": "Las camisas estampadas de flores están de moda.",
+     "ko": "꽃무늬 셔츠가 유행이다."
+    },
+    {
+     "t": 158.4,
+     "s": "W",
+     "es": "falda",
+     "ko": "치마"
+    },
+    {
+     "t": 161.1,
+     "s": "E",
+     "es": "Quería una falda de algodón con bolsillos.",
+     "ko": "주머니가 달린 면 치마를 원했어요."
+    },
+    {
+     "t": 166.3,
+     "s": "W",
+     "es": "jersey",
+     "ko": "스웨터"
+    },
+    {
+     "t": 169.1,
+     "s": "E",
+     "es": "¡Mira qué jersey más caro!",
+     "ko": "이 스웨터 얼마나 비싼지 봐!"
+    },
+    {
+     "t": 173.7,
+     "s": "W",
+     "es": "lavar en seco",
+     "ko": "드라이클리닝하다"
+    },
+    {
+     "t": 178.8,
+     "s": "E",
+     "es": "Esta camisa de seda hay que lavarla en seco.",
+     "ko": "이 실크 셔츠는 드라이클리닝해야 한다."
+    },
+    {
+     "t": 184.6,
+     "s": "W",
+     "es": "manga",
+     "ko": "소매"
+    },
+    {
+     "t": 187.2,
+     "s": "E",
+     "es": "Estas camisetas sin manga se llevan en verano.",
+     "ko": "이 민소매 티셔츠는 여름에 입는다."
+    },
+    {
+     "t": 193.3,
+     "s": "W",
+     "es": "pantalones",
+     "ko": "바지"
+    },
+    {
+     "t": 196.4,
+     "s": "E",
+     "es": "¿Cuántos pantalones meto en la maleta?",
+     "ko": "바지를 몇 벌 여행 가방에 넣을까?"
+    },
+    {
+     "t": 201.4,
+     "s": "W",
+     "es": "pijama",
+     "ko": "잠옷"
+    },
+    {
+     "t": 203.3,
+     "s": "E",
+     "es": "Ponte el pijama y vete a la cama.",
+     "ko": "잠옷 입고 자러 가라."
+    },
+    {
+     "t": 208.9,
+     "s": "W",
+     "es": "probador",
+     "ko": "탈의실, 피팅룸"
+    },
+    {
+     "t": 213.7,
+     "s": "E",
+     "es": "Los probadores están ahí, al fondo.",
+     "ko": "탈의실은 저기 안쪽에 있다."
+    },
+    {
+     "t": 219.0,
+     "s": "W",
+     "es": "probarse",
+     "ko": "입어 보다, 착용해 보다"
+    },
+    {
+     "t": 223.9,
+     "s": "E",
+     "es": "¡Qué falda más bonita! ¡Quiero probármela!",
+     "ko": "정말 예쁜 치마다! 입어 보고 싶다!"
+    },
+    {
+     "t": 229.8,
+     "s": "W",
+     "es": "quedar bien, quedar mal",
+     "ko": "잘 어울리다, 어울리지 않다"
+    },
+    {
+     "t": 237.1,
+     "s": "E",
+     "es": "¿Qué tal me queda esta camiseta? —Es que no te queda muy bien.",
+     "ko": "이 티셔츠 나한테 어때? — 사실 별로 안 어울려."
+    },
+    {
+     "t": 245.7,
+     "s": "W",
+     "es": "quitarse",
+     "ko": "벗다"
+    },
+    {
+     "t": 248.4,
+     "s": "E",
+     "es": "Me quité la falda y me puse los pantalones.",
+     "ko": "나는 치마를 벗고 바지를 입었다."
+    },
+    {
+     "t": 254.1,
+     "s": "W",
+     "es": "ropa",
+     "ko": "옷"
+    },
+    {
+     "t": 257.0,
+     "s": "E",
+     "es": "Voy a cambiarme de ropa.",
+     "ko": "옷을 갈아입을게."
+    },
+    {
+     "t": 261.2,
+     "s": "W",
+     "es": "talla",
+     "ko": "사이즈, 치수"
+    },
+    {
+     "t": 264.0,
+     "s": "E",
+     "es": "¿Qué talla usas?",
+     "ko": "너는 어떤 사이즈를 입니?"
+    },
+    {
+     "t": 267.7,
+     "s": "W",
+     "es": "traje",
+     "ko": "정장"
+    },
+    {
+     "t": 272.1,
+     "s": "E",
+     "es": "Pruébese este traje, a ver si le gusta.",
+     "ko": "이 정장을 입어 보시고 마음에 드는지 보세요."
+    },
+    {
+     "t": 277.0,
+     "s": "W",
+     "es": "vaqueros",
+     "ko": "청바지"
+    },
+    {
+     "t": 279.7,
+     "s": "E",
+     "es": "¿Por qué no te compras también unos pantalones vaqueros?",
+     "ko": "청바지도 하나 사는 게 어때?"
+    },
+    {
+     "t": 286.6,
+     "s": "W",
+     "es": "vestido",
+     "ko": "드레스, 원피스"
+    },
+    {
+     "t": 291.4,
+     "s": "E",
+     "es": "Voy a ponerme el vestido de novia de mi madre en mi boda.",
+     "ko": "내 결혼식에서 엄마의 웨딩드레스를 입을 것이다."
+    },
+    {
+     "t": 297.0,
+     "s": "W",
+     "es": "vestirse",
+     "ko": "옷을 입다"
+    },
+    {
+     "t": 300.2,
+     "s": "E",
+     "es": "No tardo nada en vestirme.",
+     "ko": "나는 옷 입는 데 시간이 전혀 안 걸린다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Calzado, complementos · 신발·소품",
+   "lines": [
+    {
+     "t": 317.6,
+     "s": "W",
+     "es": "anillo",
+     "ko": "반지"
+    },
+    {
+     "t": 322.6,
+     "s": "E",
+     "es": "Por su aniversario de boda, Tomás le regaló un anillo a su mujer.",
+     "ko": "결혼기념일에 토마스는 아내에게 반지를 선물했다."
+    },
+    {
+     "t": 328.5,
+     "s": "W",
+     "es": "bolso",
+     "ko": "핸드백, 가방"
+    },
+    {
+     "t": 331.9,
+     "s": "E",
+     "es": "También necesito un bolso de fiesta y unos zapatos de tacón.",
+     "ko": "파티용 가방과 굽 있는 구두도 필요하다."
+    },
+    {
+     "t": 350.0,
+     "s": "W",
+     "es": "bufanda",
+     "ko": "목도리"
+    },
+    {
+     "t": 350.0,
+     "s": "E",
+     "es": "¿Puedes comprarle a tu marido una bufanda o un pañuelo?",
+     "ko": "남편에게 목도리나 스카프를 사 줄 수 있니?"
+    },
+    {
+     "t": 357.2,
+     "s": "W",
+     "es": "calcetín",
+     "ko": "양말"
+    },
+    {
+     "t": 359.9,
+     "s": "E",
+     "es": "Los calcetines blancos no quedan bien con el traje negro.",
+     "ko": "흰 양말은 검은 정장과 어울리지 않는다."
+    },
+    {
+     "t": 365.5,
+     "s": "W",
+     "es": "cartera",
+     "ko": "지갑"
+    },
+    {
+     "t": 369.1,
+     "s": "E",
+     "es": "Ten cuidado con tu cartera. Aquí hay mucha gente.",
+     "ko": "지갑 조심해. 여기 사람이 많아."
+    },
+    {
+     "t": 375.4,
+     "s": "W",
+     "es": "cinturón",
+     "ko": "허리띠, 벨트"
+    },
+    {
+     "t": 378.6,
+     "s": "E",
+     "es": "Se te caen los pantalones. ¿Por qué no te pones un cinturón?",
+     "ko": "바지가 흘러내리잖아. 벨트를 하는 게 어때?"
+    },
+    {
+     "t": 384.5,
+     "s": "W",
+     "es": "collar",
+     "ko": "목걸이"
+    },
+    {
+     "t": 387.8,
+     "s": "E",
+     "es": "¿Quieres que te deje el collar que me puse en tu boda?",
+     "ko": "네 결혼식 때 내가 했던 목걸이 빌려줄까?"
+    },
+    {
+     "t": 392.9,
+     "s": "W",
+     "es": "corbata",
+     "ko": "넥타이"
+    },
+    {
+     "t": 395.9,
+     "s": "E",
+     "es": "¿Qué te parece si le compramos una corbata de rayas a papá?",
+     "ko": "아빠께 줄무늬 넥타이를 사 드리는 게 어때?"
+    },
+    {
+     "t": 402.9,
+     "s": "W",
+     "es": "gafas",
+     "ko": "안경"
+    },
+    {
+     "t": 405.2,
+     "s": "E",
+     "es": "Llevo gafas desde los diez años.",
+     "ko": "나는 열 살 때부터 안경을 쓴다."
+    },
+    {
+     "t": 411.0,
+     "s": "W",
+     "es": "gorra",
+     "ko": "(챙 달린) 모자, 캡모자"
+    },
+    {
+     "t": 413.4,
+     "s": "E",
+     "es": "Cuando voy a la playa, me pongo una gorra.",
+     "ko": "해변에 갈 때 나는 캡모자를 쓴다."
+    },
+    {
+     "t": 419.1,
+     "s": "W",
+     "es": "guante",
+     "ko": "장갑"
+    },
+    {
+     "t": 421.2,
+     "s": "E",
+     "es": "¡Quiero comprar unos guantes! ¡Tengo las manos heladas!",
+     "ko": "장갑을 사고 싶다! 손이 꽁꽁 얼었다!"
+    },
+    {
+     "t": 427.8,
+     "s": "W",
+     "es": "joya",
+     "ko": "보석"
+    },
+    {
+     "t": 431.1,
+     "s": "E",
+     "es": "Guardo las joyas en una caja fuerte.",
+     "ko": "나는 보석을 금고에 보관한다."
+    },
+    {
+     "t": 435.6,
+     "s": "W",
+     "es": "maletín",
+     "ko": "서류 가방, 손가방"
+    },
+    {
+     "t": 440.7,
+     "s": "E",
+     "es": "¿Has guardado la calculadora en el maletín?",
+     "ko": "계산기를 서류 가방에 넣었니?"
+    },
+    {
+     "t": 445.4,
+     "s": "W",
+     "es": "medias",
+     "ko": "스타킹"
+    },
+    {
+     "t": 448.9,
+     "s": "E",
+     "es": "Prefiero las medias hasta la cintura.",
+     "ko": "나는 허리까지 오는 스타킹이 더 좋다."
+    },
+    {
+     "t": 452.9,
+     "s": "W",
+     "es": "mochila",
+     "ko": "배낭, 백팩"
+    },
+    {
+     "t": 456.4,
+     "s": "E",
+     "es": "Si te gusta ir al campo, cómprate una mochila.",
+     "ko": "시골에 가는 걸 좋아하면 배낭을 하나 사."
+    },
+    {
+     "t": 463.3,
+     "s": "W",
+     "es": "pañuelo",
+     "ko": "스카프, 손수건"
+    },
+    {
+     "t": 467.0,
+     "s": "E",
+     "es": "¿Quieres regalarle a mamá un pañuelo de seda?",
+     "ko": "엄마께 실크 스카프를 선물하고 싶니?"
+    },
+    {
+     "t": 473.7,
+     "s": "W",
+     "es": "paraguas",
+     "ko": "우산"
+    },
+    {
+     "t": 473.7,
+     "s": "E",
+     "es": "No te olvides del paraguas, está lloviendo.",
+     "ko": "우산 잊지 마, 비가 오고 있어."
+    },
+    {
+     "t": 481.2,
+     "s": "W",
+     "es": "pendiente",
+     "ko": "귀걸이"
+    },
+    {
+     "t": 481.2,
+     "s": "E",
+     "es": "¿Quién es la chica que lleva los pendientes grandes?",
+     "ko": "큰 귀걸이를 한 여자아이는 누구니?"
+    },
+    {
+     "t": 489.1,
+     "s": "W",
+     "es": "pulsera",
+     "ko": "팔찌"
+    },
+    {
+     "t": 489.1,
+     "s": "E",
+     "es": "A mi novia le compré una pulsera de oro por su cumpleaños.",
+     "ko": "여자 친구 생일에 금팔찌를 사 주었다."
+    },
+    {
+     "t": 499.9,
+     "s": "W",
+     "es": "reloj",
+     "ko": "시계"
+    },
+    {
+     "t": 501.7,
+     "s": "E",
+     "es": "¡Qué reloj más elegante!",
+     "ko": "정말 멋진 시계다!"
+    },
+    {
+     "t": 508.2,
+     "s": "W",
+     "es": "sandalia",
+     "ko": "샌들"
+    },
+    {
+     "t": 510.0,
+     "s": "E",
+     "es": "Compré unas sandalias para ir a la playa.",
+     "ko": "해변에 가려고 샌들을 샀다."
+    },
+    {
+     "t": 515.4,
+     "s": "W",
+     "es": "sombrero",
+     "ko": "(챙이 넓은) 모자"
+    },
+    {
+     "t": 517.9,
+     "s": "E",
+     "es": "Al ver a su abuelo, me quité el sombrero.",
+     "ko": "그의 할아버지를 보자 나는 모자를 벗었다."
+    },
+    {
+     "t": 523.1,
+     "s": "W",
+     "es": "zapatilla de deporte",
+     "ko": "운동화"
+    },
+    {
+     "t": 527.6,
+     "s": "E",
+     "es": "Estas zapatillas de deporte me quedan pequeñas. Me hacen mucho daño.",
+     "ko": "이 운동화는 나한테 작다. 발이 많이 아프다."
+    },
+    {
+     "t": 537.9,
+     "s": "W",
+     "es": "zapato",
+     "ko": "신발, 구두"
+    },
+    {
+     "t": 537.9,
+     "s": "E",
+     "es": "Se puso los zapatos para salir.",
+     "ko": "그는 나가려고 신발을 신었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Estilo, material · 스타일·소재",
+   "lines": [
+    {
+     "t": 560.0,
+     "s": "W",
+     "es": "algodón",
+     "ko": "면, 목화"
+    },
+    {
+     "t": 564.7,
+     "s": "E",
+     "es": "El algodón es muy fresco para el verano.",
+     "ko": "면은 여름에 아주 시원하다."
+    },
+    {
+     "t": 569.9,
+     "s": "W",
+     "es": "ancho, ancha",
+     "ko": "넓은, 헐렁한"
+    },
+    {
+     "t": 577.2,
+     "s": "E",
+     "es": "La chaqueta le quedaba muy ancha.",
+     "ko": "그 재킷은 그에게 너무 헐렁했다."
+    },
+    {
+     "t": 582.8,
+     "s": "W",
+     "es": "claro, clara",
+     "ko": "밝은, 옅은"
+    },
+    {
+     "t": 587.7,
+     "s": "E",
+     "es": "Me gusta el color azul claro.",
+     "ko": "나는 하늘색(연한 파란색)이 좋다."
+    },
+    {
+     "t": 592.4,
+     "s": "W",
+     "es": "cómodo, cómoda",
+     "ko": "편안한"
+    },
+    {
+     "t": 595.8,
+     "s": "E",
+     "es": "No entiendo por qué no tienes unos vaqueros. ¡Son tan cómodos!",
+     "ko": "네가 왜 청바지가 없는지 모르겠어. 정말 편한데!"
+    },
+    {
+     "t": 602.7,
+     "s": "W",
+     "es": "corto, corta",
+     "ko": "짧은"
+    },
+    {
+     "t": 605.8,
+     "s": "E",
+     "es": "¿No es demasiado corta esta falda?",
+     "ko": "이 치마 너무 짧지 않니?"
+    },
+    {
+     "t": 610.9,
+     "s": "W",
+     "es": "cuero",
+     "ko": "가죽"
+    },
+    {
+     "t": 613.8,
+     "s": "E",
+     "es": "Ayer compré unos pantalones de cuero de color verde.",
+     "ko": "어제 초록색 가죽 바지를 샀다."
+    },
+    {
+     "t": 618.8,
+     "s": "W",
+     "es": "de cuadros",
+     "ko": "체크무늬의"
+    },
+    {
+     "t": 622.8,
+     "s": "E",
+     "es": "Quiero unas camisas de cuadros.",
+     "ko": "체크무늬 셔츠를 원해요."
+    },
+    {
+     "t": 627.4,
+     "s": "W",
+     "es": "de lunares",
+     "ko": "물방울무늬의"
+    },
+    {
+     "t": 632.6,
+     "s": "E",
+     "es": "Tengo una foto de mi mamá con un vestido de lunares.",
+     "ko": "물방울무늬 원피스를 입은 엄마 사진이 있다."
+    },
+    {
+     "t": 639.0,
+     "s": "W",
+     "es": "de rayas",
+     "ko": "줄무늬의"
+    },
+    {
+     "t": 645.7,
+     "s": "E",
+     "es": "Aquella corbata de rayas grises es inglesa.",
+     "ko": "저 회색 줄무늬 넥타이는 영국산이다."
+    },
+    {
+     "t": 651.5,
+     "s": "W",
+     "es": "estampado, estampada",
+     "ko": "무늬가 찍힌, 무늬가 들어간"
+    },
+    {
+     "t": 659.1,
+     "s": "E",
+     "es": "Ese vestido estampado de flores es precioso.",
+     "ko": "그 꽃무늬 원피스는 정말 예쁘다."
+    },
+    {
+     "t": 664.0,
+     "s": "W",
+     "es": "grande",
+     "ko": "큰"
+    },
+    {
+     "t": 666.9,
+     "s": "E",
+     "es": "¿Tienes una talla más grande?",
+     "ko": "더 큰 사이즈 있어요?"
+    },
+    {
+     "t": 671.9,
+     "s": "W",
+     "es": "grueso, gruesa",
+     "ko": "두꺼운"
+    },
+    {
+     "t": 674.7,
+     "s": "E",
+     "es": "Esta bufanda es demasiado gruesa para llevarla al cuello.",
+     "ko": "이 목도리는 목에 두르기에는 너무 두껍다."
+    },
+    {
+     "t": 681.1,
+     "s": "W",
+     "es": "hilo",
+     "ko": "실"
+    },
+    {
+     "t": 683.1,
+     "s": "E",
+     "es": "Con un hilo blanco, ella me cosió el botón.",
+     "ko": "그녀는 흰 실로 내 단추를 달아 주었다."
+    },
+    {
+     "t": 689.2,
+     "s": "W",
+     "es": "lana",
+     "ko": "울, 양모"
+    },
+    {
+     "t": 689.2,
+     "s": "E",
+     "es": "Ese jersey de lana es ideal para el invierno.",
+     "ko": "그 모직 스웨터는 겨울에 딱이다."
+    },
+    {
+     "t": 699.3,
+     "s": "W",
+     "es": "largo, larga",
+     "ko": "긴"
+    },
+    {
+     "t": 701.8,
+     "s": "E",
+     "es": "Quiero otro un poco más largo.",
+     "ko": "조금 더 긴 것을 원해요."
+    },
+    {
+     "t": 710.1,
+     "s": "W",
+     "es": "ligero, ligera",
+     "ko": "가벼운"
+    },
+    {
+     "t": 710.1,
+     "s": "E",
+     "es": "Busco un abrigo de lana que sea muy ligero.",
+     "ko": "아주 가벼운 모직 코트를 찾고 있어요."
+    },
+    {
+     "t": 714.2,
+     "s": "W",
+     "es": "liso, lisa",
+     "ko": "단색의, 장식이 없는"
+    },
+    {
+     "t": 722.5,
+     "s": "E",
+     "es": "Me gustan los vestidos lisos porque los puedo combinar con diferentes complementos.",
+     "ko": "단색 원피스는 여러 소품과 맞춰 입을 수 있어서 좋다."
+    },
+    {
+     "t": 729.6,
+     "s": "W",
+     "es": "oro",
+     "ko": "금"
+    },
+    {
+     "t": 729.6,
+     "s": "E",
+     "es": "Estos collares son de oro.",
+     "ko": "이 목걸이들은 금이다."
+    },
+    {
+     "t": 736.5,
+     "s": "W",
+     "es": "oscuro, oscura",
+     "ko": "어두운, 짙은"
+    },
+    {
+     "t": 741.1,
+     "s": "E",
+     "es": "Lara llevaba un sombrero de un hermoso verde oscuro.",
+     "ko": "라라는 아름다운 짙은 녹색 모자를 쓰고 있었다."
+    },
+    {
+     "t": 747.9,
+     "s": "W",
+     "es": "pequeño, pequeña",
+     "ko": "작은"
+    },
+    {
+     "t": 752.4,
+     "s": "E",
+     "es": "La clienta no quiere este bolso pequeño, lo quiere más grande.",
+     "ko": "그 손님은 이 작은 가방 말고 더 큰 것을 원한다."
+    },
+    {
+     "t": 758.1,
+     "s": "W",
+     "es": "plata",
+     "ko": "은"
+    },
+    {
+     "t": 761.4,
+     "s": "E",
+     "es": "La plata es menos valorada que el oro.",
+     "ko": "은은 금보다 덜 귀하게 여겨진다."
+    },
+    {
+     "t": 765.9,
+     "s": "W",
+     "es": "seda",
+     "ko": "비단, 실크"
+    },
+    {
+     "t": 768.0,
+     "s": "E",
+     "es": "Quiero comprarme una blusa de seda.",
+     "ko": "실크 블라우스를 하나 사고 싶다."
+    },
+    {
+     "t": 773.5,
+     "s": "W",
+     "es": "suave",
+     "ko": "부드러운"
+    },
+    {
+     "t": 777.3,
+     "s": "E",
+     "es": "Toca este pañuelo. ¡Qué suave es!",
+     "ko": "이 스카프 만져 봐. 정말 부드러워!"
+    },
+    {
+     "t": 782.0,
+     "s": "W",
+     "es": "tela",
+     "ko": "천, 원단"
+    },
+    {
+     "t": 786.7,
+     "s": "E",
+     "es": "Ella usó esta tela para hacer una manta.",
+     "ko": "그녀는 이 천으로 담요를 만들었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Cuidado personal, higiene personal · 몸 관리·위생",
+   "lines": [
+    {
+     "t": 806.5,
+     "s": "W",
+     "es": "afeitarse",
+     "ko": "면도하다"
+    },
+    {
+     "t": 806.5,
+     "s": "E",
+     "es": "Mi papá se afeita todas las mañanas.",
+     "ko": "아빠는 매일 아침 면도를 하신다."
+    },
+    {
+     "t": 814.1,
+     "s": "W",
+     "es": "barra de labios",
+     "ko": "립스틱"
+    },
+    {
+     "t": 818.6,
+     "s": "E",
+     "es": "Mi novio me regaló una barra de labios de color naranja.",
+     "ko": "남자 친구가 나에게 주황색 립스틱을 선물했다."
+    },
+    {
+     "t": 824.4,
+     "s": "W",
+     "es": "cepillo de dientes",
+     "ko": "칫솔"
+    },
+    {
+     "t": 828.6,
+     "s": "E",
+     "es": "Llevo un cepillo de dientes en el bolso para lavarme los dientes.",
+     "ko": "나는 이를 닦으려고 가방에 칫솔을 넣고 다닌다."
+    },
+    {
+     "t": 834.2,
+     "s": "W",
+     "es": "champú",
+     "ko": "샴푸"
+    },
+    {
+     "t": 837.8,
+     "s": "E",
+     "es": "No nos lavamos el pelo con champú, sino con jabón.",
+     "ko": "우리는 샴푸가 아니라 비누로 머리를 감는다."
+    },
+    {
+     "t": 843.4,
+     "s": "W",
+     "es": "cosmético",
+     "ko": "화장품"
+    },
+    {
+     "t": 846.7,
+     "s": "E",
+     "es": "En el bolso llevo algunos cosméticos. ¿Quieres que te los deje?",
+     "ko": "가방에 화장품이 좀 있어. 빌려줄까?"
+    },
+    {
+     "t": 853.9,
+     "s": "W",
+     "es": "cuidarse",
+     "ko": "몸을 돌보다, 가꾸다"
+    },
+    {
+     "t": 857.7,
+     "s": "E",
+     "es": "Me encanta cuidarme.",
+     "ko": "나는 내 몸을 가꾸는 것을 정말 좋아한다."
+    },
+    {
+     "t": 862.4,
+     "s": "W",
+     "es": "jabón",
+     "ko": "비누"
+    },
+    {
+     "t": 865.0,
+     "s": "E",
+     "es": "Hay que lavarse las manos con jabón.",
+     "ko": "비누로 손을 씻어야 한다."
+    },
+    {
+     "t": 870.3,
+     "s": "W",
+     "es": "maquillarse",
+     "ko": "화장하다"
+    },
+    {
+     "t": 871.2,
+     "s": "E",
+     "es": "Me maquillo siempre cuando salgo con mis amigos.",
+     "ko": "친구들과 나갈 때는 늘 화장을 한다."
+    },
+    {
+     "t": 878.8,
+     "s": "W",
+     "es": "pasta de dientes",
+     "ko": "치약"
+    },
+    {
+     "t": 882.2,
+     "s": "E",
+     "es": "Queda muy poca pasta de dientes. Necesito otro tubo.",
+     "ko": "치약이 거의 안 남았다. 한 통 더 필요하다."
+    },
+    {
+     "t": 889.6,
+     "s": "W",
+     "es": "peinarse",
+     "ko": "머리를 빗다"
+    },
+    {
+     "t": 892.0,
+     "s": "E",
+     "es": "Mi abuela se peina antes de acostarse.",
+     "ko": "할머니는 주무시기 전에 머리를 빗으신다."
+    },
+    {
+     "t": 898.1,
+     "s": "W",
+     "es": "perfume",
+     "ko": "향수"
+    },
+    {
+     "t": 901.6,
+     "s": "E",
+     "es": "A veces se echa perfume cuando tiene una reunión importante.",
+     "ko": "그는 중요한 회의가 있을 때 가끔 향수를 뿌린다."
+    },
+    {
+     "t": 906.6,
+     "s": "W",
+     "es": "secador",
+     "ko": "헤어드라이어"
+    },
+    {
+     "t": 910.7,
+     "s": "E",
+     "es": "A veces uso el secador para secarme el pelo.",
+     "ko": "가끔 머리를 말리려고 드라이어를 쓴다."
+    },
+    {
+     "t": 917.1,
+     "s": "W",
+     "es": "teñir el pelo",
+     "ko": "머리를 염색하다"
+    },
+    {
+     "t": 920.9,
+     "s": "E",
+     "es": "Teñir el pelo de color violeta.",
+     "ko": "머리를 보라색으로 염색하다."
+    },
+    {
+     "t": 925.7,
+     "s": "W",
+     "es": "tijeras",
+     "ko": "가위"
+    },
+    {
+     "t": 929.0,
+     "s": "E",
+     "es": "Mete las tijeras en la caja.",
+     "ko": "가위를 상자에 넣어라."
+    },
+    {
+     "t": 933.1,
+     "s": "W",
+     "es": "toalla",
+     "ko": "수건"
+    },
+    {
+     "t": 936.2,
+     "s": "E",
+     "es": "Sécate las manos con esta toalla.",
+     "ko": "이 수건으로 손을 닦아라."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 4 · Unidad 1. Alimentos · 식품",
+   "lines": [
+    {
+     "t": 970.9,
+     "s": "W",
+     "es": "aceite",
+     "ko": "기름, 식용유"
+    },
+    {
+     "t": 976.6,
+     "s": "E",
+     "es": "Cocinar con menos aceite es importante para la dieta.",
+     "ko": "기름을 덜 써서 요리하는 것은 다이어트에 중요하다."
+    },
+    {
+     "t": 984.1,
+     "s": "W",
+     "es": "aceituna",
+     "ko": "올리브"
+    },
+    {
+     "t": 986.7,
+     "s": "E",
+     "es": "Las aceitunas son muy importantes en la cocina española.",
+     "ko": "올리브는 스페인 요리에서 아주 중요하다."
+    },
+    {
+     "t": 993.1,
+     "s": "W",
+     "es": "agua",
+     "ko": "물"
+    },
+    {
+     "t": 995.9,
+     "s": "E",
+     "es": "Necesito dos vasos de agua para hacer paella.",
+     "ko": "파에야를 만들려면 물 두 컵이 필요하다."
+    },
+    {
+     "t": 1000.7,
+     "s": "W",
+     "es": "ajo",
+     "ko": "마늘"
+    },
+    {
+     "t": 1003.5,
+     "s": "E",
+     "es": "Los coreanos usamos mucho ajo en la comida.",
+     "ko": "우리 한국인은 음식에 마늘을 많이 쓴다."
+    },
+    {
+     "t": 1009.2,
+     "s": "W",
+     "es": "arroz",
+     "ko": "쌀, 밥"
+    },
+    {
+     "t": 1012.2,
+     "s": "E",
+     "es": "A mi hijo le gustan las galletas de arroz.",
+     "ko": "우리 아들은 쌀과자를 좋아한다."
+    },
+    {
+     "t": 1017.7,
+     "s": "W",
+     "es": "atún",
+     "ko": "참치"
+    },
+    {
+     "t": 1020.7,
+     "s": "E",
+     "es": "Con estas latas de atún podemos hacer unas comidas muy ricas.",
+     "ko": "이 참치 캔들로 아주 맛있는 음식을 만들 수 있다."
+    },
+    {
+     "t": 1027.6,
+     "s": "W",
+     "es": "azúcar",
+     "ko": "설탕"
+    },
+    {
+     "t": 1030.9,
+     "s": "E",
+     "es": "Ponme dos cucharitas de azúcar en el café.",
+     "ko": "커피에 설탕 두 스푼 넣어 줘."
+    },
+    {
+     "t": 1036.0,
+     "s": "W",
+     "es": "bacalao",
+     "ko": "대구"
+    },
+    {
+     "t": 1037.7,
+     "s": "E",
+     "es": "El bacalao fresco es un pescado barato.",
+     "ko": "신선한 대구는 값싼 생선이다."
+    },
+    {
+     "t": 1043.8,
+     "s": "W",
+     "es": "bebida",
+     "ko": "음료"
+    },
+    {
+     "t": 1046.6,
+     "s": "E",
+     "es": "Te toca traer bebidas para la fiesta de este fin de semana.",
+     "ko": "이번 주말 파티에는 네가 음료를 가져올 차례다."
+    },
+    {
+     "t": 1053.5,
+     "s": "W",
+     "es": "bocadillo",
+     "ko": "(바게트) 샌드위치"
+    },
+    {
+     "t": 1056.7,
+     "s": "E",
+     "es": "Compramos queso para los bocadillos.",
+     "ko": "샌드위치에 넣을 치즈를 샀다."
+    },
+    {
+     "t": 1062.1,
+     "s": "W",
+     "es": "café",
+     "ko": "커피"
+    },
+    {
+     "t": 1063.8,
+     "s": "E",
+     "es": "Tomamos café.",
+     "ko": "우리는 커피를 마신다."
+    },
+    {
+     "t": 1068.3,
+     "s": "W",
+     "es": "caramelo",
+     "ko": "사탕, 캐러멜"
+    },
+    {
+     "t": 1072.7,
+     "s": "E",
+     "es": "No comas tantos caramelos, luego tendrás que ir al dentista.",
+     "ko": "사탕을 그렇게 많이 먹지 마. 나중에 치과에 가야 할 거야."
+    },
+    {
+     "t": 1078.6,
+     "s": "W",
+     "es": "carne",
+     "ko": "고기, 육류"
+    },
+    {
+     "t": 1083.5,
+     "s": "E",
+     "es": "Lucía no come carne, es vegetariana.",
+     "ko": "루시아는 고기를 먹지 않는다. 채식주의자다."
+    },
+    {
+     "t": 1088.1,
+     "s": "W",
+     "es": "cebolla",
+     "ko": "양파"
+    },
+    {
+     "t": 1091.4,
+     "s": "E",
+     "es": "Cuando preparo espaguetis, yo les pongo mucha cebolla.",
+     "ko": "나는 스파게티를 만들 때 양파를 많이 넣는다."
+    },
+    {
+     "t": 1102.6,
+     "s": "W",
+     "es": "cereal",
+     "ko": "곡물, 시리얼"
+    },
+    {
+     "t": 1102.6,
+     "s": "E",
+     "es": "El cereal es la base alimenticia de muchos países.",
+     "ko": "곡물은 많은 나라의 주식이다."
+    },
+    {
+     "t": 1111.9,
+     "s": "W",
+     "es": "cerveza",
+     "ko": "맥주"
+    },
+    {
+     "t": 1111.9,
+     "s": "E",
+     "es": "Compré cinco cervezas en el supermercado.",
+     "ko": "슈퍼마켓에서 맥주 다섯 병을 샀다."
+    },
+    {
+     "t": 1124.4,
+     "s": "W",
+     "es": "dulce",
+     "ko": "단것, 과자"
+    },
+    {
+     "t": 1124.4,
+     "s": "E",
+     "es": "De postre, sacamos frutas y dulces variados.",
+     "ko": "후식으로 과일과 여러 가지 단것을 내놓았다."
+    },
+    {
+     "t": 1131.2,
+     "s": "W",
+     "es": "ensalada",
+     "ko": "샐러드"
+    },
+    {
+     "t": 1131.9,
+     "s": "E",
+     "es": "Te haré una ensalada con lechuga, tomate y atún.",
+     "ko": "상추, 토마토, 참치로 샐러드를 만들어 줄게."
+    },
+    {
+     "t": 1141.5,
+     "s": "W",
+     "es": "espaguetis",
+     "ko": "스파게티"
+    },
+    {
+     "t": 1142.3,
+     "s": "E",
+     "es": "Los espaguetis son más gruesos y más largos que los fideos.",
+     "ko": "스파게티는 국수보다 더 굵고 길다."
+    },
+    {
+     "t": 1151.5,
+     "s": "W",
+     "es": "fiambre",
+     "ko": "햄·소시지류 냉육"
+    },
+    {
+     "t": 1151.5,
+     "s": "E",
+     "es": "El chorizo es un fiambre.",
+     "ko": "초리소는 냉육의 일종이다."
+    },
+    {
+     "t": 1156.7,
+     "s": "W",
+     "es": "fresa",
+     "ko": "딸기"
+    },
+    {
+     "t": 1159.1,
+     "s": "E",
+     "es": "Las fresas de primavera son las mejores.",
+     "ko": "봄 딸기가 최고다."
+    },
+    {
+     "t": 1165.3,
+     "s": "W",
+     "es": "fruta",
+     "ko": "과일"
+    },
+    {
+     "t": 1167.4,
+     "s": "E",
+     "es": "Las piñas y los plátanos son frutas tropicales.",
+     "ko": "파인애플과 바나나는 열대 과일이다."
+    },
+    {
+     "t": 1174.5,
+     "s": "W",
+     "es": "hamburguesa",
+     "ko": "햄버거"
+    },
+    {
+     "t": 1177.8,
+     "s": "E",
+     "es": "En el colegio he comido una hamburguesa.",
+     "ko": "학교에서 햄버거를 먹었다."
+    },
+    {
+     "t": 1182.5,
+     "s": "W",
+     "es": "harina",
+     "ko": "밀가루"
+    },
+    {
+     "t": 1185.6,
+     "s": "E",
+     "es": "Este pan se hace con harina y agua.",
+     "ko": "이 빵은 밀가루와 물로 만든다."
+    },
+    {
+     "t": 1190.7,
+     "s": "W",
+     "es": "helado",
+     "ko": "아이스크림"
+    },
+    {
+     "t": 1193.1,
+     "s": "E",
+     "es": "De postre tomé helado de vainilla.",
+     "ko": "후식으로 바닐라 아이스크림을 먹었다."
+    },
+    {
+     "t": 1198.5,
+     "s": "W",
+     "es": "huevo",
+     "ko": "달걀"
+    },
+    {
+     "t": 1200.6,
+     "s": "E",
+     "es": "Mis gallinas ponen huevos todas las mañanas.",
+     "ko": "우리 닭들은 매일 아침 알을 낳는다."
+    },
+    {
+     "t": 1207.4,
+     "s": "W",
+     "es": "jamón",
+     "ko": "햄"
+    },
+    {
+     "t": 1211.5,
+     "s": "E",
+     "es": "Me hago un bocadillo con tres lonchas de jamón.",
+     "ko": "햄 세 장으로 샌드위치를 만든다."
+    },
+    {
+     "t": 1216.2,
+     "s": "W",
+     "es": "leche",
+     "ko": "우유"
+    },
+    {
+     "t": 1219.4,
+     "s": "E",
+     "es": "¿Queda leche? —Solo una botella.",
+     "ko": "우유 남았어? — 한 병밖에 없어."
+    },
+    {
+     "t": 1224.3,
+     "s": "W",
+     "es": "lechuga",
+     "ko": "상추"
+    },
+    {
+     "t": 1226.7,
+     "s": "E",
+     "es": "¿Por qué no pones lechuga en la ensalada?",
+     "ko": "샐러드에 상추를 넣는 게 어때?"
+    },
+    {
+     "t": 1232.5,
+     "s": "W",
+     "es": "legumbre",
+     "ko": "콩류"
+    },
+    {
+     "t": 1234.7,
+     "s": "E",
+     "es": "Hay que comer legumbres para tener buena salud.",
+     "ko": "건강하려면 콩류를 먹어야 한다."
+    },
+    {
+     "t": 1241.3,
+     "s": "W",
+     "es": "limón",
+     "ko": "레몬"
+    },
+    {
+     "t": 1243.2,
+     "s": "E",
+     "es": "El limón posee un alto contenido en vitamina C.",
+     "ko": "레몬은 비타민 C 함량이 높다."
+    },
+    {
+     "t": 1249.9,
+     "s": "W",
+     "es": "maíz",
+     "ko": "옥수수"
+    },
+    {
+     "t": 1252.2,
+     "s": "E",
+     "es": "Las palomitas son maíz tostado.",
+     "ko": "팝콘은 튀긴 옥수수다."
+    },
+    {
+     "t": 1258.5,
+     "s": "W",
+     "es": "mantequilla",
+     "ko": "버터"
+    },
+    {
+     "t": 1261.1,
+     "s": "E",
+     "es": "Saca la mantequilla de la nevera.",
+     "ko": "냉장고에서 버터를 꺼내라."
+    },
+    {
+     "t": 1265.9,
+     "s": "W",
+     "es": "manzana",
+     "ko": "사과"
+    },
+    {
+     "t": 1269.1,
+     "s": "E",
+     "es": "Quería un kilo de manzanas y una piña, pero pequeña.",
+     "ko": "사과 1킬로와 파인애플 하나 주세요. 작은 걸로요."
+    },
+    {
+     "t": 1274.8,
+     "s": "W",
+     "es": "marisco",
+     "ko": "해산물"
+    },
+    {
+     "t": 1278.0,
+     "s": "E",
+     "es": "No me gusta el marisco.",
+     "ko": "나는 해산물을 좋아하지 않는다."
+    },
+    {
+     "t": 1282.7,
+     "s": "W",
+     "es": "mayonesa",
+     "ko": "마요네즈"
+    },
+    {
+     "t": 1284.9,
+     "s": "E",
+     "es": "De primero, quiero espárragos con mayonesa.",
+     "ko": "첫 번째 요리로는 마요네즈를 곁들인 아스파라거스를 원해요."
+    },
+    {
+     "t": 1292.1,
+     "s": "W",
+     "es": "melocotón",
+     "ko": "복숭아"
+    },
+    {
+     "t": 1295.1,
+     "s": "E",
+     "es": "El melocotonero que plantamos en el jardín se estropeó sin llegar a dar ningún melocotón.",
+     "ko": "정원에 심은 복숭아나무는 복숭아 하나 열리지 못하고 죽어 버렸다."
+    },
+    {
+     "t": 1303.3,
+     "s": "W",
+     "es": "melón",
+     "ko": "멜론"
+    },
+    {
+     "t": 1305.8,
+     "s": "E",
+     "es": "¿Alguien quiere un poco de melón?",
+     "ko": "멜론 좀 먹을 사람?"
+    },
+    {
+     "t": 1310.7,
+     "s": "W",
+     "es": "mermelada",
+     "ko": "잼, 마멀레이드"
+    },
+    {
+     "t": 1315.4,
+     "s": "E",
+     "es": "Hacemos mermelada de melocotón.",
+     "ko": "우리는 복숭아잼을 만든다."
+    },
+    {
+     "t": 1319.6,
+     "s": "W",
+     "es": "miel",
+     "ko": "꿀"
+    },
+    {
+     "t": 1321.4,
+     "s": "E",
+     "es": "La miel es un alimento sano y natural.",
+     "ko": "꿀은 건강한 천연 식품이다."
+    },
+    {
+     "t": 1328.0,
+     "s": "W",
+     "es": "naranja",
+     "ko": "오렌지"
+    },
+    {
+     "t": 1329.4,
+     "s": "E",
+     "es": "Valencia es mundialmente famosa por sus naranjas.",
+     "ko": "발렌시아는 오렌지로 세계적으로 유명하다."
+    },
+    {
+     "t": 1336.7,
+     "s": "W",
+     "es": "ostra",
+     "ko": "굴"
+    },
+    {
+     "t": 1338.9,
+     "s": "E",
+     "es": "Las ostras se comen sin cocinar.",
+     "ko": "굴은 익히지 않고 먹는다."
+    },
+    {
+     "t": 1344.9,
+     "s": "W",
+     "es": "pan",
+     "ko": "빵"
+    },
+    {
+     "t": 1345.9,
+     "s": "E",
+     "es": "No te olvides del pan: dos barras de pan.",
+     "ko": "빵 잊지 마. 바게트 두 개야."
+    },
+    {
+     "t": 1351.7,
+     "s": "W",
+     "es": "patata",
+     "ko": "감자"
+    },
+    {
+     "t": 1354.6,
+     "s": "E",
+     "es": "La tortilla de patatas es un plato típico español.",
+     "ko": "감자 토르티야는 스페인의 대표 요리다."
+    },
+    {
+     "t": 1366.5,
+     "s": "W",
+     "es": "pera",
+     "ko": "배"
+    },
+    {
+     "t": 1368.9,
+     "s": "W",
+     "es": "pescado",
+     "ko": "생선"
+    },
+    {
+     "t": 1372.3,
+     "s": "E",
+     "es": "¿Hoy no hay nada de pescado?",
+     "ko": "오늘은 생선이 하나도 없어요?"
+    },
+    {
+     "t": 1376.8,
+     "s": "W",
+     "es": "pimienta",
+     "ko": "후추"
+    },
+    {
+     "t": 1379.2,
+     "s": "E",
+     "es": "En la mesa siempre están preparadas la pimienta y la sal.",
+     "ko": "식탁에는 늘 후추와 소금이 준비되어 있다."
+    },
+    {
+     "t": 1386.5,
+     "s": "W",
+     "es": "piña",
+     "ko": "파인애플"
+    },
+    {
+     "t": 1389.0,
+     "s": "E",
+     "es": "Necesito un cuchillo más grande para cortar la piña.",
+     "ko": "파인애플을 자르려면 더 큰 칼이 필요하다."
+    },
+    {
+     "t": 1396.3,
+     "s": "W",
+     "es": "plátano",
+     "ko": "바나나"
+    },
+    {
+     "t": 1399.1,
+     "s": "E",
+     "es": "¿Cuánto vale un kilo de plátanos?",
+     "ko": "바나나 1킬로에 얼마예요?"
+    },
+    {
+     "t": 1403.4,
+     "s": "W",
+     "es": "pollo",
+     "ko": "닭고기, 병아리"
+    },
+    {
+     "t": 1407.9,
+     "s": "E",
+     "es": "Hoy servimos sopa de ajo y pollo asado.",
+     "ko": "오늘은 마늘 수프와 구운 닭고기를 냅니다."
+    },
+    {
+     "t": 1413.7,
+     "s": "W",
+     "es": "queso",
+     "ko": "치즈"
+    },
+    {
+     "t": 1416.8,
+     "s": "E",
+     "es": "Huele mucho este queso.",
+     "ko": "이 치즈는 냄새가 많이 난다."
+    },
+    {
+     "t": 1420.9,
+     "s": "W",
+     "es": "refresco",
+     "ko": "청량음료"
+    },
+    {
+     "t": 1424.8,
+     "s": "E",
+     "es": "Después del concierto, nos ofrecieron un refresco.",
+     "ko": "콘서트가 끝난 뒤 우리에게 청량음료를 대접했다."
+    },
+    {
+     "t": 1432.3,
+     "s": "W",
+     "es": "sal",
+     "ko": "소금"
+    },
+    {
+     "t": 1433.8,
+     "s": "E",
+     "es": "La sopa está salada. Le has puesto demasiada sal.",
+     "ko": "수프가 짜다. 소금을 너무 많이 넣었구나."
+    },
+    {
+     "t": 1439.3,
+     "s": "W",
+     "es": "salsa",
+     "ko": "소스"
+    },
+    {
+     "t": 1442.6,
+     "s": "E",
+     "es": "Para la carne, va bien una salsa de vino.",
+     "ko": "고기에는 와인 소스가 잘 어울린다."
+    },
+    {
+     "t": 1447.8,
+     "s": "W",
+     "es": "sopa",
+     "ko": "수프"
+    },
+    {
+     "t": 1450.0,
+     "s": "E",
+     "es": "La sopa de marisco está muy buena.",
+     "ko": "해산물 수프가 아주 맛있다."
+    },
+    {
+     "t": 1455.5,
+     "s": "W",
+     "es": "tarta",
+     "ko": "케이크"
+    },
+    {
+     "t": 1457.8,
+     "s": "E",
+     "es": "He comprado una tarta para celebrar el cumpleaños de mi amigo Pedro.",
+     "ko": "친구 페드로의 생일을 축하하려고 케이크를 샀다."
+    },
+    {
+     "t": 1465.6,
+     "s": "W",
+     "es": "té",
+     "ko": "차"
+    },
+    {
+     "t": 1467.1,
+     "s": "E",
+     "es": "Los japoneses toman mucho té verde.",
+     "ko": "일본 사람들은 녹차를 많이 마신다."
+    },
+    {
+     "t": 1472.9,
+     "s": "W",
+     "es": "tomate",
+     "ko": "토마토"
+    },
+    {
+     "t": 1474.9,
+     "s": "E",
+     "es": "En Corea, ¿por qué venden los tomates en la frutería?",
+     "ko": "한국에서는 왜 토마토를 과일 가게에서 팔아요?"
+    },
+    {
+     "t": 1482.5,
+     "s": "W",
+     "es": "tortilla",
+     "ko": "토르티야, 스페인식 오믈렛"
+    },
+    {
+     "t": 1482.5,
+     "s": "E",
+     "es": "La tortilla se hace con patatas y huevos.",
+     "ko": "토르티야는 감자와 달걀로 만든다."
+    },
+    {
+     "t": 1491.5,
+     "s": "W",
+     "es": "tostada",
+     "ko": "토스트"
+    },
+    {
+     "t": 1491.5,
+     "s": "E",
+     "es": "He desayunado dos tostadas y un vaso de leche.",
+     "ko": "아침으로 토스트 두 장과 우유 한 잔을 먹었다."
+    },
+    {
+     "t": 1499.3,
+     "s": "W",
+     "es": "uva",
+     "ko": "포도"
+    },
+    {
+     "t": 1499.3,
+     "s": "E",
+     "es": "Con las uvas podemos hacer zumo o vino.",
+     "ko": "포도로 주스나 와인을 만들 수 있다."
+    },
+    {
+     "t": 1507.7,
+     "s": "W",
+     "es": "verdura",
+     "ko": "채소"
+    },
+    {
+     "t": 1510.3,
+     "s": "E",
+     "es": "Hace falta comprar verdura.",
+     "ko": "채소를 사야 한다."
+    },
+    {
+     "t": 1515.1,
+     "s": "W",
+     "es": "vinagre",
+     "ko": "식초"
+    },
+    {
+     "t": 1517.8,
+     "s": "E",
+     "es": "Échale a la ensalada sal, vinagre y aceite.",
+     "ko": "샐러드에 소금, 식초, 기름을 넣어라."
+    },
+    {
+     "t": 1522.6,
+     "s": "W",
+     "es": "vino",
+     "ko": "포도주, 와인"
+    },
+    {
+     "t": 1525.9,
+     "s": "E",
+     "es": "Los españoles dicen que una buena comida debe acompañarse de un buen vino.",
+     "ko": "스페인 사람들은 좋은 식사에는 좋은 와인이 곁들여져야 한다고 말한다."
+    },
+    {
+     "t": 1535.0,
+     "s": "W",
+     "es": "zumo",
+     "ko": "주스"
+    },
+    {
+     "t": 1535.0,
+     "s": "E",
+     "es": "Esta mañana he tomado un zumo de naranja.",
+     "ko": "오늘 아침에 오렌지 주스를 마셨다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Sabor, preparación · 맛·조리법",
+   "lines": [
+    {
+     "t": 1554.2,
+     "s": "W",
+     "es": "ácido, ácida",
+     "ko": "신맛의, 산성의"
+    },
+    {
+     "t": 1559.5,
+     "s": "E",
+     "es": "Los alimentos ácidos, como el limón, son buenos para el hígado.",
+     "ko": "레몬 같은 신 음식은 간에 좋다."
+    },
+    {
+     "t": 1567.0,
+     "s": "W",
+     "es": "a la parrilla",
+     "ko": "석쇠에 구운"
+    },
+    {
+     "t": 1574.8,
+     "s": "E",
+     "es": "Este restaurante especializado en carne a la parrilla es muy famoso en mi país.",
+     "ko": "석쇠 구이 고기 전문인 이 식당은 우리나라에서 아주 유명하다."
+    },
+    {
+     "t": 1582.7,
+     "s": "W",
+     "es": "al horno",
+     "ko": "오븐에 구운"
+    },
+    {
+     "t": 1588.0,
+     "s": "E",
+     "es": "A María le gusta el pescado al horno.",
+     "ko": "마리아는 오븐에 구운 생선을 좋아한다."
+    },
+    {
+     "t": 1593.4,
+     "s": "W",
+     "es": "al vapor",
+     "ko": "찐"
+    },
+    {
+     "t": 1599.0,
+     "s": "E",
+     "es": "No engordan las verduras al vapor.",
+     "ko": "찐 채소는 살이 찌지 않는다."
+    },
+    {
+     "t": 1603.2,
+     "s": "W",
+     "es": "asado, asada",
+     "ko": "구운"
+    },
+    {
+     "t": 1607.7,
+     "s": "E",
+     "es": "De segundo, quiero cordero asado.",
+     "ko": "두 번째 요리로는 양고기 구이를 원해요."
+    },
+    {
+     "t": 1612.1,
+     "s": "W",
+     "es": "botella",
+     "ko": "병"
+    },
+    {
+     "t": 1615.8,
+     "s": "E",
+     "es": "Traigo dos botellas de vino.",
+     "ko": "와인 두 병을 가져올게."
+    },
+    {
+     "t": 1619.8,
+     "s": "W",
+     "es": "caliente",
+     "ko": "뜨거운"
+    },
+    {
+     "t": 1619.8,
+     "s": "E",
+     "es": "¡Uy! La leche está demasiado caliente.",
+     "ko": "앗! 우유가 너무 뜨겁다."
+    },
+    {
+     "t": 1627.7,
+     "s": "W",
+     "es": "cocer",
+     "ko": "삶다, 익히다"
+    },
+    {
+     "t": 1627.7,
+     "s": "E",
+     "es": "Vamos a cocer el pescado a fuego lento.",
+     "ko": "생선을 약한 불에 익히자."
+    },
+    {
+     "t": 1637.1,
+     "s": "W",
+     "es": "cortar",
+     "ko": "자르다"
+    },
+    {
+     "t": 1637.1,
+     "s": "E",
+     "es": "Después de lavar las manzanas, córtalas por la mitad.",
+     "ko": "사과를 씻은 뒤 반으로 잘라라."
+    },
+    {
+     "t": 1645.8,
+     "s": "W",
+     "es": "crudo, cruda",
+     "ko": "날것의, 익지 않은"
+    },
+    {
+     "t": 1652.1,
+     "s": "E",
+     "es": "El pollo todavía está crudo. Hay que cocerlo un poco más.",
+     "ko": "닭고기가 아직 덜 익었다. 조금 더 익혀야 한다."
+    },
+    {
+     "t": 1658.8,
+     "s": "W",
+     "es": "dieta",
+     "ko": "식이 요법, 다이어트"
+    },
+    {
+     "t": 1663.7,
+     "s": "E",
+     "es": "La dieta sana incluye alimentos naturales.",
+     "ko": "건강한 식단에는 자연식품이 들어간다."
+    },
+    {
+     "t": 1669.1,
+     "s": "W",
+     "es": "dulce",
+     "ko": "달콤한, 단"
+    },
+    {
+     "t": 1672.0,
+     "s": "E",
+     "es": "Dicen que los alimentos dulces, como el chocolate, son buenos para el estómago.",
+     "ko": "초콜릿 같은 단 음식이 위에 좋다고 한다."
+    },
+    {
+     "t": 1679.6,
+     "s": "W",
+     "es": "duro, dura",
+     "ko": "딱딱한, 단단한"
+    },
+    {
+     "t": 1679.6,
+     "s": "E",
+     "es": "No me gustan los huevos duros.",
+     "ko": "나는 완숙 달걀을 좋아하지 않는다."
+    },
+    {
+     "t": 1687.8,
+     "s": "W",
+     "es": "estar hecho",
+     "ko": "(음식이) 익다"
+    },
+    {
+     "t": 1687.8,
+     "s": "E",
+     "es": "Esta carne está dura, está muy hecha.",
+     "ko": "이 고기는 질기다. 너무 익었다."
+    },
+    {
+     "t": 1695.8,
+     "s": "W",
+     "es": "fresco, fresca",
+     "ko": "신선한, 싱싱한"
+    },
+    {
+     "t": 1699.8,
+     "s": "E",
+     "es": "Creo que aquí el marisco es muy fresco.",
+     "ko": "여기 해산물은 아주 신선한 것 같다."
+    },
+    {
+     "t": 1705.1,
+     "s": "W",
+     "es": "frío, fría",
+     "ko": "차가운"
+    },
+    {
+     "t": 1705.1,
+     "s": "E",
+     "es": "Te caliento la sopa, está fría.",
+     "ko": "수프 데워 줄게, 식었어."
+    },
+    {
+     "t": 1715.0,
+     "s": "W",
+     "es": "frito, frita",
+     "ko": "튀긴"
+    },
+    {
+     "t": 1715.0,
+     "s": "E",
+     "es": "Las patatas fritas van bien con la hamburguesa.",
+     "ko": "감자튀김은 햄버거와 잘 어울린다."
+    },
+    {
+     "t": 1727.5,
+     "s": "W",
+     "es": "lata",
+     "ko": "캔, 통조림"
+    },
+    {
+     "t": 1727.5,
+     "s": "E",
+     "es": "En casa siempre tengo sardinas en lata.",
+     "ko": "집에 늘 정어리 통조림이 있다."
+    },
+    {
+     "t": 1737.8,
+     "s": "W",
+     "es": "maduro, madura",
+     "ko": "익은"
+    },
+    {
+     "t": 1737.8,
+     "s": "E",
+     "es": "Ya podemos comer el melón, está maduro.",
+     "ko": "이제 멜론을 먹어도 된다. 다 익었다."
+    },
+    {
+     "t": 1742.8,
+     "s": "W",
+     "es": "pelar",
+     "ko": "껍질을 벗기다"
+    },
+    {
+     "t": 1745.7,
+     "s": "E",
+     "es": "Para hacer la tortilla de patatas, primero hay que pelar las patatas.",
+     "ko": "감자 토르티야를 만들려면 먼저 감자 껍질을 벗겨야 한다."
+    },
+    {
+     "t": 1754.4,
+     "s": "W",
+     "es": "picante",
+     "ko": "매운"
+    },
+    {
+     "t": 1754.4,
+     "s": "E",
+     "es": "A mí la comida picante me sienta mal.",
+     "ko": "나는 매운 음식이 몸에 맞지 않는다."
+    },
+    {
+     "t": 1764.1,
+     "s": "W",
+     "es": "receta",
+     "ko": "조리법, 레시피"
+    },
+    {
+     "t": 1764.1,
+     "s": "E",
+     "es": "La receta del postre está escrita en mi cuaderno.",
+     "ko": "후식 레시피는 내 공책에 적혀 있다."
+    },
+    {
+     "t": 1771.6,
+     "s": "W",
+     "es": "rico, rica",
+     "ko": "맛있는"
+    },
+    {
+     "t": 1771.6,
+     "s": "E",
+     "es": "¡Qué rico está este zumo! Quiero otro más.",
+     "ko": "이 주스 정말 맛있다! 한 잔 더 마시고 싶다."
+    },
+    {
+     "t": 1780.2,
+     "s": "W",
+     "es": "saber a algo",
+     "ko": "~ 맛이 나다"
+    },
+    {
+     "t": 1785.6,
+     "s": "E",
+     "es": "Este pescado está malísimo; además, sabe a quemado.",
+     "ko": "이 생선은 정말 맛없다. 게다가 탄 맛이 난다."
+    },
+    {
+     "t": 1791.6,
+     "s": "W",
+     "es": "salado, salada",
+     "ko": "짠"
+    },
+    {
+     "t": 1796.0,
+     "s": "E",
+     "es": "La carne está un poco salada, pero sabe fenomenal.",
+     "ko": "고기가 조금 짜지만 맛은 훌륭하다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Tienda, restaurante · 상점·식당",
+   "lines": [
+    {
+     "t": 1814.1,
+     "s": "W",
+     "es": "aperitivo",
+     "ko": "전채 요리, 애피타이저"
+    },
+    {
+     "t": 1819.5,
+     "s": "E",
+     "es": "¿Prefieren tomar antes un aperitivo?",
+     "ko": "먼저 애피타이저를 드시겠어요?"
+    },
+    {
+     "t": 1823.7,
+     "s": "W",
+     "es": "bar",
+     "ko": "바, 술집"
+    },
+    {
+     "t": 1824.7,
+     "s": "E",
+     "es": "Fuimos de bar en bar tomando tapas.",
+     "ko": "우리는 타파스를 먹으며 이 바 저 바를 돌아다녔다."
+    },
+    {
+     "t": 1832.0,
+     "s": "W",
+     "es": "cafetería",
+     "ko": "카페, 찻집"
+    },
+    {
+     "t": 1838.5,
+     "s": "E",
+     "es": "Comeré en cualquier cafetería cuando termine el trabajo.",
+     "ko": "일이 끝나면 아무 카페에서나 먹을게."
+    },
+    {
+     "t": 1843.9,
+     "s": "W",
+     "es": "carnicería",
+     "ko": "정육점"
+    },
+    {
+     "t": 1847.9,
+     "s": "E",
+     "es": "Compré dos filetes de ternera en la carnicería.",
+     "ko": "정육점에서 송아지 고기 스테이크 두 장을 샀다."
+    },
+    {
+     "t": 1850.9,
+     "s": "W",
+     "es": "carta",
+     "ko": "메뉴(판)"
+    },
+    {
+     "t": 1856.3,
+     "s": "E",
+     "es": "Aquí tienen la carta de postres.",
+     "ko": "여기 디저트 메뉴판입니다."
+    },
+    {
+     "t": 1860.3,
+     "s": "W",
+     "es": "cuenta",
+     "ko": "계산서"
+    },
+    {
+     "t": 1863.4,
+     "s": "E",
+     "es": "¿Me trae la cuenta, por favor?",
+     "ko": "계산서 좀 갖다주시겠어요?"
+    },
+    {
+     "t": 1867.9,
+     "s": "W",
+     "es": "frutería",
+     "ko": "과일 가게"
+    },
+    {
+     "t": 1871.2,
+     "s": "E",
+     "es": "¿Hay peras en la frutería?",
+     "ko": "과일 가게에 배 있어요?"
+    },
+    {
+     "t": 1875.6,
+     "s": "W",
+     "es": "heladería",
+     "ko": "아이스크림 가게"
+    },
+    {
+     "t": 1879.0,
+     "s": "E",
+     "es": "Siempre que paso por esta heladería, entro a tomarme un helado.",
+     "ko": "이 아이스크림 가게 앞을 지날 때마다 들어가서 아이스크림을 먹는다."
+    },
+    {
+     "t": 1885.3,
+     "s": "W",
+     "es": "menú del día",
+     "ko": "정식, 오늘의 메뉴"
+    },
+    {
+     "t": 1891.5,
+     "s": "E",
+     "es": "¿Cuál es el menú del día?",
+     "ko": "오늘의 정식은 뭐예요?"
+    },
+    {
+     "t": 1895.1,
+     "s": "W",
+     "es": "mercado",
+     "ko": "시장"
+    },
+    {
+     "t": 1898.2,
+     "s": "E",
+     "es": "Acércate al mercado y compra fruta.",
+     "ko": "시장에 가서 과일 좀 사 와."
+    },
+    {
+     "t": 1904.0,
+     "s": "W",
+     "es": "panadería",
+     "ko": "빵집"
+    },
+    {
+     "t": 1905.8,
+     "s": "E",
+     "es": "En las panaderías se suelen vender también productos de pastelería.",
+     "ko": "빵집에서는 보통 제과 제품도 판다."
+    },
+    {
+     "t": 1913.3,
+     "s": "W",
+     "es": "pescadería",
+     "ko": "생선 가게"
+    },
+    {
+     "t": 1916.0,
+     "s": "E",
+     "es": "En esa pescadería venden pescado fresco y pescado congelado.",
+     "ko": "그 생선 가게에서는 신선한 생선과 냉동 생선을 판다."
+    },
+    {
+     "t": 1924.0,
+     "s": "W",
+     "es": "plato",
+     "ko": "요리, 접시"
+    },
+    {
+     "t": 1927.6,
+     "s": "E",
+     "es": "El arroz con pollo es mi plato favorito.",
+     "ko": "닭고기 밥은 내가 가장 좋아하는 요리다."
+    },
+    {
+     "t": 1933.4,
+     "s": "W",
+     "es": "postre",
+     "ko": "후식, 디저트"
+    },
+    {
+     "t": 1936.0,
+     "s": "E",
+     "es": "¿Qué hay de postre?",
+     "ko": "후식은 뭐가 있어요?"
+    },
+    {
+     "t": 1939.7,
+     "s": "W",
+     "es": "propina",
+     "ko": "팁"
+    },
+    {
+     "t": 1941.8,
+     "s": "E",
+     "es": "Antes de salir, deja propina, ¿vale?",
+     "ko": "나가기 전에 팁 두고 가, 알았지?"
+    },
+    {
+     "t": 1946.7,
+     "s": "W",
+     "es": "reservar mesa",
+     "ko": "자리를 예약하다"
+    },
+    {
+     "t": 1950.8,
+     "s": "E",
+     "es": "Llama al restaurante y reserva una mesa para dos.",
+     "ko": "식당에 전화해서 두 사람 자리를 예약해."
+    },
+    {
+     "t": 1957.6,
+     "s": "W",
+     "es": "restaurante",
+     "ko": "레스토랑, 식당"
+    },
+    {
+     "t": 1962.7,
+     "s": "E",
+     "es": "Los camareros de este restaurante son muy amables.",
+     "ko": "이 식당 종업원들은 아주 친절하다."
+    },
+    {
+     "t": 1969.1,
+     "s": "W",
+     "es": "supermercado",
+     "ko": "슈퍼마켓"
+    },
+    {
+     "t": 1971.6,
+     "s": "E",
+     "es": "¿Por qué hay tanta gente en el supermercado?",
+     "ko": "슈퍼마켓에 왜 이렇게 사람이 많지?"
+    },
+    {
+     "t": 1976.6,
+     "s": "W",
+     "es": "tapa",
+     "ko": "타파(스), 안주"
+    },
+    {
+     "t": 1978.8,
+     "s": "E",
+     "es": "Tomamos unas cañas y unas tapas de boquerones.",
+     "ko": "우리는 생맥주 몇 잔과 멸치 타파스를 먹었다."
+    },
+    {
+     "t": 1984.4,
+     "s": "W",
+     "es": "tomar algo",
+     "ko": "뭔가 먹다(마시다), 요기하다"
+    },
+    {
+     "t": 1990.6,
+     "s": "E",
+     "es": "Si tienes hambre, podemos tomar algo.",
+     "ko": "배고프면 뭐 좀 먹을 수 있어."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 5 · Unidad 1. Vivienda · 주거",
+   "lines": [
+    {
+     "t": 2026.9,
+     "s": "W",
+     "es": "alquilar",
+     "ko": "빌려주다, 임대하다, 빌리다"
+    },
+    {
+     "t": 2033.8,
+     "s": "E",
+     "es": "Alquilé un coche para viajar por España.",
+     "ko": "스페인을 여행하려고 차를 빌렸다."
+    },
+    {
+     "t": 2038.5,
+     "s": "W",
+     "es": "ascensor",
+     "ko": "엘리베이터"
+    },
+    {
+     "t": 2041.5,
+     "s": "E",
+     "es": "De momento, el ascensor no funciona.",
+     "ko": "지금은 엘리베이터가 작동하지 않는다."
+    },
+    {
+     "t": 2048.2,
+     "s": "W",
+     "es": "azulejo",
+     "ko": "타일"
+    },
+    {
+     "t": 2050.7,
+     "s": "E",
+     "es": "Lo más caro de la reforma de la casa han sido los azulejos de la cocina y el baño.",
+     "ko": "집 수리에서 가장 비쌌던 것은 부엌과 욕실 타일이었다."
+    },
+    {
+     "t": 2058.6,
+     "s": "W",
+     "es": "balcón",
+     "ko": "발코니"
+    },
+    {
+     "t": 2061.0,
+     "s": "E",
+     "es": "Tengo unas plantas en el balcón.",
+     "ko": "발코니에 화분이 몇 개 있다."
+    },
+    {
+     "t": 2066.4,
+     "s": "W",
+     "es": "calefacción",
+     "ko": "난방"
+    },
+    {
+     "t": 2068.5,
+     "s": "E",
+     "es": "En mi casa tenemos calefacción eléctrica.",
+     "ko": "우리 집은 전기 난방이다."
+    },
+    {
+     "t": 2074.1,
+     "s": "W",
+     "es": "casa",
+     "ko": "집"
+    },
+    {
+     "t": 2077.5,
+     "s": "E",
+     "es": "Vivo en una casa de alquiler.",
+     "ko": "나는 셋집에 산다."
+    },
+    {
+     "t": 2081.7,
+     "s": "W",
+     "es": "céntrico, céntrica",
+     "ko": "도심의, 중심가의"
+    },
+    {
+     "t": 2087.5,
+     "s": "E",
+     "es": "Mi piso es muy céntrico y está muy bien comunicado.",
+     "ko": "내 아파트는 아주 시내 중심에 있고 교통이 아주 좋다."
+    },
+    {
+     "t": 2093.2,
+     "s": "W",
+     "es": "chalé",
+     "ko": "단독 주택, 별장"
+    },
+    {
+     "t": 2098.7,
+     "s": "E",
+     "es": "¿Vives en un piso o en un chalé?",
+     "ko": "아파트에 사니, 단독 주택에 사니?"
+    },
+    {
+     "t": 2102.1,
+     "s": "W",
+     "es": "cocina",
+     "ko": "부엌, 주방, 요리"
+    },
+    {
+     "t": 2102.1,
+     "s": "E",
+     "es": "La cocina es el lugar más importante de la casa porque es donde se prepara la comida.",
+     "ko": "부엌은 음식을 만드는 곳이라서 집에서 가장 중요한 장소이다."
+    },
+    {
+     "t": 2114.2,
+     "s": "W",
+     "es": "columna",
+     "ko": "기둥"
+    },
+    {
+     "t": 2117.2,
+     "s": "E",
+     "es": "En el salón hay tres columnas de mármol.",
+     "ko": "거실에 대리석 기둥이 세 개 있다."
+    },
+    {
+     "t": 2121.8,
+     "s": "W",
+     "es": "comedor",
+     "ko": "식당, 급식실"
+    },
+    {
+     "t": 2124.0,
+     "s": "E",
+     "es": "En el comedor del colegio comemos cientos de alumnos.",
+     "ko": "학교 급식실에서는 수백 명의 학생이 밥을 먹는다."
+    },
+    {
+     "t": 2131.4,
+     "s": "W",
+     "es": "construir",
+     "ko": "짓다, 건설하다"
+    },
+    {
+     "t": 2135.7,
+     "s": "E",
+     "es": "¿Quién construyó esta iglesia? —Fue mi padre.",
+     "ko": "누가 이 교회를 지었어요? — 우리 아버지였어요."
+    },
+    {
+     "t": 2140.7,
+     "s": "W",
+     "es": "cortina",
+     "ko": "커튼"
+    },
+    {
+     "t": 2143.8,
+     "s": "E",
+     "es": "Estas cortinas verdes quedarán bien en mi cuarto.",
+     "ko": "이 초록색 커튼은 내 방에 잘 어울릴 것이다."
+    },
+    {
+     "t": 2149.7,
+     "s": "W",
+     "es": "cristal",
+     "ko": "유리"
+    },
+    {
+     "t": 2151.9,
+     "s": "E",
+     "es": "Hoy voy a limpiar los cristales. ¿Me echas una mano?",
+     "ko": "오늘 유리창을 닦을 거야. 좀 도와줄래?"
+    },
+    {
+     "t": 2158.3,
+     "s": "W",
+     "es": "cuadro",
+     "ko": "그림, 사각형"
+    },
+    {
+     "t": 2163.4,
+     "s": "E",
+     "es": "Tengo dos cuadros abstractos colgados en la pared.",
+     "ko": "벽에 추상화 두 점을 걸어 두었다."
+    },
+    {
+     "t": 2169.0,
+     "s": "W",
+     "es": "cuarto de baño",
+     "ko": "욕실"
+    },
+    {
+     "t": 2172.1,
+     "s": "E",
+     "es": "El cuarto de baño está al final del pasillo.",
+     "ko": "욕실은 복도 끝에 있다."
+    },
+    {
+     "t": 2178.6,
+     "s": "W",
+     "es": "dormitorio",
+     "ko": "침실"
+    },
+    {
+     "t": 2181.5,
+     "s": "E",
+     "es": "Mi casa tiene tres dormitorios, dos baños, una cocina grande, un salón comedor y un jardín alrededor.",
+     "ko": "우리 집에는 침실 셋, 욕실 둘, 큰 부엌, 거실 겸 식당, 그리고 둘레에 정원이 있다."
+    },
+    {
+     "t": 2191.8,
+     "s": "W",
+     "es": "electrodoméstico",
+     "ko": "가전제품"
+    },
+    {
+     "t": 2194.5,
+     "s": "E",
+     "es": "Mi hijo va a abrir una tienda de electrodomésticos.",
+     "ko": "우리 아들은 가전제품 가게를 열 것이다."
+    },
+    {
+     "t": 2201.0,
+     "s": "W",
+     "es": "escalera",
+     "ko": "계단"
+    },
+    {
+     "t": 2205.7,
+     "s": "E",
+     "es": "Vamos a subir por la escalera, es un quinto piso.",
+     "ko": "계단으로 올라가자, 5층이야."
+    },
+    {
+     "t": 2210.7,
+     "s": "W",
+     "es": "espejo",
+     "ko": "거울"
+    },
+    {
+     "t": 2213.5,
+     "s": "E",
+     "es": "Quiero poner el espejo en el lavabo.",
+     "ko": "거울을 세면대 위에 달고 싶다."
+    },
+    {
+     "t": 2217.7,
+     "s": "W",
+     "es": "estantería",
+     "ko": "책장, 진열장"
+    },
+    {
+     "t": 2223.0,
+     "s": "E",
+     "es": "Tengo una estantería llena de libros.",
+     "ko": "나는 책으로 가득 찬 책장이 있다."
+    },
+    {
+     "t": 2227.5,
+     "s": "W",
+     "es": "garaje",
+     "ko": "차고, 주차장"
+    },
+    {
+     "t": 2230.9,
+     "s": "E",
+     "es": "¿El piso tiene plaza de garaje?",
+     "ko": "그 아파트에 주차 공간이 있어요?"
+    },
+    {
+     "t": 2234.5,
+     "s": "W",
+     "es": "habitación",
+     "ko": "방"
+    },
+    {
+     "t": 2238.4,
+     "s": "E",
+     "es": "Las habitaciones dan a la calle.",
+     "ko": "방들이 거리 쪽으로 나 있다."
+    },
+    {
+     "t": 2242.9,
+     "s": "W",
+     "es": "jardín",
+     "ko": "정원"
+    },
+    {
+     "t": 2242.9,
+     "s": "E",
+     "es": "Mi sueño es tener una casa con jardín.",
+     "ko": "내 꿈은 정원이 있는 집을 갖는 것이다."
+    },
+    {
+     "t": 2251.0,
+     "s": "W",
+     "es": "lámpara",
+     "ko": "램프, 전등"
+    },
+    {
+     "t": 2255.6,
+     "s": "E",
+     "es": "Al irse la luz, mi abuelo encendió una lámpara de petróleo.",
+     "ko": "전기가 나가자 할아버지가 석유 램프를 켜셨다."
+    },
+    {
+     "t": 2261.1,
+     "s": "W",
+     "es": "llave",
+     "ko": "열쇠"
+    },
+    {
+     "t": 2264.2,
+     "s": "E",
+     "es": "No pude entrar en casa porque había dejado las llaves en la oficina.",
+     "ko": "열쇠를 사무실에 두고 와서 집에 들어갈 수 없었다."
+    },
+    {
+     "t": 2270.9,
+     "s": "W",
+     "es": "luz",
+     "ko": "빛, 전기"
+    },
+    {
+     "t": 2274.6,
+     "s": "E",
+     "es": "Esta habitación no tiene mucha luz.",
+     "ko": "이 방은 빛이 많이 들지 않는다."
+    },
+    {
+     "t": 2279.7,
+     "s": "W",
+     "es": "mudarse",
+     "ko": "이사하다"
+    },
+    {
+     "t": 2283.2,
+     "s": "E",
+     "es": "Dentro de poco, me mudaré de casa.",
+     "ko": "곧 이사할 것이다."
+    },
+    {
+     "t": 2288.1,
+     "s": "W",
+     "es": "mueble",
+     "ko": "가구"
+    },
+    {
+     "t": 2291.2,
+     "s": "E",
+     "es": "Daniel quiere poner más muebles en su salón.",
+     "ko": "다니엘은 거실에 가구를 더 놓고 싶어 한다."
+    },
+    {
+     "t": 2295.9,
+     "s": "W",
+     "es": "pared",
+     "ko": "벽"
+    },
+    {
+     "t": 2298.6,
+     "s": "E",
+     "es": "A esta pared le vendría muy bien un cuadro de tu tío.",
+     "ko": "이 벽에는 너희 삼촌 그림이 아주 잘 어울릴 것 같다."
+    },
+    {
+     "t": 2304.1,
+     "s": "W",
+     "es": "pasillo",
+     "ko": "복도"
+    },
+    {
+     "t": 2306.4,
+     "s": "E",
+     "es": "Su casa tiene un largo pasillo.",
+     "ko": "그의 집에는 긴 복도가 있다."
+    },
+    {
+     "t": 2316.9,
+     "s": "W",
+     "es": "patio",
+     "ko": "안뜰, 마당"
+    },
+    {
+     "t": 2316.9,
+     "s": "E",
+     "es": "La cocina da al patio.",
+     "ko": "부엌은 안뜰 쪽으로 나 있다."
+    },
+    {
+     "t": 2324.4,
+     "s": "W",
+     "es": "piscina",
+     "ko": "수영장"
+    },
+    {
+     "t": 2324.4,
+     "s": "E",
+     "es": "En el edificio donde vivo, tengo piscina y zonas verdes.",
+     "ko": "내가 사는 건물에는 수영장과 녹지가 있다."
+    },
+    {
+     "t": 2330.8,
+     "s": "W",
+     "es": "piso",
+     "ko": "아파트, 층"
+    },
+    {
+     "t": 2336.3,
+     "s": "E",
+     "es": "Roberto llama a Beatriz para enseñarle su piso.",
+     "ko": "로베르토는 자기 아파트를 보여 주려고 베아트리스에게 전화한다."
+    },
+    {
+     "t": 2341.6,
+     "s": "W",
+     "es": "portero, portera",
+     "ko": "수위, 관리인"
+    },
+    {
+     "t": 2345.9,
+     "s": "E",
+     "es": "El portero me entregó el paquete que me había mandado mi madre.",
+     "ko": "수위가 엄마가 보낸 소포를 나에게 전해 주었다."
+    },
+    {
+     "t": 2351.4,
+     "s": "W",
+     "es": "propietario, propietaria",
+     "ko": "주인, 소유주"
+    },
+    {
+     "t": 2357.0,
+     "s": "E",
+     "es": "¿Nadie quiere hablar con el propietario del piso?",
+     "ko": "아무도 집주인과 이야기하고 싶지 않아요?"
+    },
+    {
+     "t": 2362.7,
+     "s": "W",
+     "es": "puerta",
+     "ko": "문"
+    },
+    {
+     "t": 2365.3,
+     "s": "E",
+     "es": "Siempre cierra la puerta con llave.",
+     "ko": "그는 항상 문을 열쇠로 잠근다."
+    },
+    {
+     "t": 2370.5,
+     "s": "W",
+     "es": "soleado, soleada",
+     "ko": "햇볕이 잘 드는"
+    },
+    {
+     "t": 2377.3,
+     "s": "E",
+     "es": "Mi prima vive en un piso bastante pequeño, pero es muy soleado.",
+     "ko": "내 사촌은 꽤 작은 아파트에 살지만 햇볕이 아주 잘 든다."
+    },
+    {
+     "t": 2385.8,
+     "s": "W",
+     "es": "sótano",
+     "ko": "지하실"
+    },
+    {
+     "t": 2385.8,
+     "s": "E",
+     "es": "Utilizamos el sótano de la casa para guardar el vino.",
+     "ko": "우리는 집 지하실을 와인 보관에 쓴다."
+    },
+    {
+     "t": 2392.9,
+     "s": "W",
+     "es": "suelo",
+     "ko": "바닥"
+    },
+    {
+     "t": 2392.9,
+     "s": "E",
+     "es": "La alfombra es tan ancha que cubre todo el suelo.",
+     "ko": "카펫이 아주 넓어서 바닥 전체를 덮는다."
+    },
+    {
+     "t": 2401.1,
+     "s": "W",
+     "es": "techo",
+     "ko": "천장"
+    },
+    {
+     "t": 2401.1,
+     "s": "E",
+     "es": "En el techo hay una lámpara muy moderna que ilumina bien.",
+     "ko": "천장에는 밝게 비추는 아주 현대적인 조명이 있다."
+    },
+    {
+     "t": 2410.1,
+     "s": "W",
+     "es": "terraza",
+     "ko": "테라스"
+    },
+    {
+     "t": 2412.4,
+     "s": "E",
+     "es": "¿El salón no tiene terraza?",
+     "ko": "거실에 테라스가 없어요?"
+    },
+    {
+     "t": 2417.2,
+     "s": "W",
+     "es": "timbre",
+     "ko": "초인종, 벨"
+    },
+    {
+     "t": 2419.4,
+     "s": "E",
+     "es": "Toque el timbre si necesita algo.",
+     "ko": "필요한 것이 있으면 벨을 누르세요."
+    },
+    {
+     "t": 2424.5,
+     "s": "W",
+     "es": "ventana",
+     "ko": "창문"
+    },
+    {
+     "t": 2427.3,
+     "s": "E",
+     "es": "¿Quieres cerrar la ventana? Es que entra mucho aire.",
+     "ko": "창문 좀 닫아 줄래? 바람이 많이 들어와서."
+    },
+    {
+     "t": 2433.7,
+     "s": "W",
+     "es": "vivienda",
+     "ko": "주택, 집"
+    },
+    {
+     "t": 2436.4,
+     "s": "E",
+     "es": "Quiero tener una segunda vivienda en mi pueblo.",
+     "ko": "내 고향 마을에 별장을 하나 갖고 싶다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Cocina, cuarto de baño · 주방·욕실",
+   "lines": [
+    {
+     "t": 2453.8,
+     "s": "W",
+     "es": "almacenar",
+     "ko": "저장하다, 보관하다"
+    },
+    {
+     "t": 2458.2,
+     "s": "E",
+     "es": "La tienda cuenta con un local para almacenar verduras.",
+     "ko": "그 가게에는 채소를 보관하는 공간이 있다."
+    },
+    {
+     "t": 2464.1,
+     "s": "W",
+     "es": "bañera",
+     "ko": "욕조"
+    },
+    {
+     "t": 2466.8,
+     "s": "E",
+     "es": "La bañera de mi casa es redonda y tiene los grifos dorados.",
+     "ko": "우리 집 욕조는 둥글고 수도꼭지가 금색이다."
+    },
+    {
+     "t": 2474.7,
+     "s": "W",
+     "es": "bidé",
+     "ko": "비데"
+    },
+    {
+     "t": 2474.7,
+     "s": "E",
+     "es": "Este cuarto de baño es tan pequeño que no tiene bidé.",
+     "ko": "이 욕실은 너무 작아서 비데가 없다."
+    },
+    {
+     "t": 2481.8,
+     "s": "W",
+     "es": "cafetera",
+     "ko": "커피 메이커, 커피 주전자"
+    },
+    {
+     "t": 2481.8,
+     "s": "E",
+     "es": "Al terminar la comida, puse la cafetera en el fuego.",
+     "ko": "식사가 끝나자 나는 커피 주전자를 불에 올렸다."
+    },
+    {
+     "t": 2492.5,
+     "s": "W",
+     "es": "congelar",
+     "ko": "냉동하다, 얼리다"
+    },
+    {
+     "t": 2496.6,
+     "s": "E",
+     "es": "Luisa compra carne una vez al mes y la congela para tenerla a mano siempre que la necesite.",
+     "ko": "루이사는 한 달에 한 번 고기를 사서 필요할 때마다 쓸 수 있게 얼려 둔다."
+    },
+    {
+     "t": 2504.9,
+     "s": "W",
+     "es": "copa",
+     "ko": "(굽 달린) 잔"
+    },
+    {
+     "t": 2507.1,
+     "s": "E",
+     "es": "El champán siempre se toma en copa.",
+     "ko": "샴페인은 항상 굽 달린 잔에 마신다."
+    },
+    {
+     "t": 2512.3,
+     "s": "W",
+     "es": "cubierto",
+     "ko": "식기(숟가락·포크·나이프 세트)"
+    },
+    {
+     "t": 2520.0,
+     "s": "E",
+     "es": "¿Tú pones los cubiertos en la mesa?",
+     "ko": "네가 식탁에 수저를 놓을래?"
+    },
+    {
+     "t": 2525.6,
+     "s": "W",
+     "es": "cuchara",
+     "ko": "숟가락"
+    },
+    {
+     "t": 2528.2,
+     "s": "E",
+     "es": "La sopa y el puré se toman siempre con cuchara.",
+     "ko": "수프와 퓌레는 항상 숟가락으로 먹는다."
+    },
+    {
+     "t": 2533.9,
+     "s": "W",
+     "es": "cuchillo",
+     "ko": "칼, 나이프"
+    },
+    {
+     "t": 2537.1,
+     "s": "E",
+     "es": "Has puesto las cucharas y los tenedores, pero se te han olvidado los cuchillos.",
+     "ko": "숟가락과 포크는 놓았는데 나이프를 잊었구나."
+    },
+    {
+     "t": 2544.3,
+     "s": "W",
+     "es": "ducha",
+     "ko": "샤워, 샤워기"
+    },
+    {
+     "t": 2548.9,
+     "s": "E",
+     "es": "Me levanté y me di una ducha con agua fría para despertarme.",
+     "ko": "일어나서 잠을 깨려고 찬물로 샤워를 했다."
+    },
+    {
+     "t": 2555.3,
+     "s": "W",
+     "es": "fregar",
+     "ko": "설거지하다, 닦다"
+    },
+    {
+     "t": 2557.9,
+     "s": "E",
+     "es": "¿Puedes fregar los platos y poner la mesa?",
+     "ko": "설거지하고 상 좀 차려 줄래?"
+    },
+    {
+     "t": 2563.8,
+     "s": "W",
+     "es": "grifo",
+     "ko": "수도꼭지"
+    },
+    {
+     "t": 2566.6,
+     "s": "E",
+     "es": "Caen gotas del grifo. Ciérralo bien.",
+     "ko": "수도꼭지에서 물이 떨어져. 꽉 잠가."
+    },
+    {
+     "t": 2572.3,
+     "s": "W",
+     "es": "horno",
+     "ko": "오븐"
+    },
+    {
+     "t": 2575.3,
+     "s": "E",
+     "es": "El pollo está en el horno.",
+     "ko": "닭고기는 오븐에 있다."
+    },
+    {
+     "t": 2578.8,
+     "s": "W",
+     "es": "lavabo",
+     "ko": "세면대"
+    },
+    {
+     "t": 2583.8,
+     "s": "E",
+     "es": "Han elegido el lavabo en color blanco.",
+     "ko": "그들은 흰색 세면대를 골랐다."
+    },
+    {
+     "t": 2589.1,
+     "s": "W",
+     "es": "lavadora",
+     "ko": "세탁기"
+    },
+    {
+     "t": 2592.8,
+     "s": "E",
+     "es": "Mi hermana se casa y voy a regalarle una lavadora.",
+     "ko": "언니가 결혼해서 세탁기를 선물할 것이다."
+    },
+    {
+     "t": 2598.6,
+     "s": "W",
+     "es": "lavavajillas",
+     "ko": "식기세척기"
+    },
+    {
+     "t": 2602.0,
+     "s": "E",
+     "es": "Mete los platos sucios en el lavavajillas.",
+     "ko": "더러운 접시는 식기세척기에 넣어라."
+    },
+    {
+     "t": 2608.4,
+     "s": "W",
+     "es": "mantel",
+     "ko": "식탁보"
+    },
+    {
+     "t": 2609.1,
+     "s": "E",
+     "es": "Hoy voy a poner el mantel que me gusta más.",
+     "ko": "오늘은 내가 제일 좋아하는 식탁보를 깔 것이다."
+    },
+    {
+     "t": 2616.6,
+     "s": "W",
+     "es": "microondas",
+     "ko": "전자레인지"
+    },
+    {
+     "t": 2619.3,
+     "s": "E",
+     "es": "No me gusta calentar la comida en el microondas.",
+     "ko": "나는 음식을 전자레인지에 데우는 걸 좋아하지 않는다."
+    },
+    {
+     "t": 2626.2,
+     "s": "W",
+     "es": "nevera",
+     "ko": "냉장고"
+    },
+    {
+     "t": 2628.3,
+     "s": "E",
+     "es": "Te he dejado la comida en la nevera.",
+     "ko": "냉장고에 음식 넣어 뒀어."
+    },
+    {
+     "t": 2632.8,
+     "s": "W",
+     "es": "papel higiénico",
+     "ko": "화장지"
+    },
+    {
+     "t": 2636.8,
+     "s": "E",
+     "es": "¿Dónde están los rollos de papel higiénico?",
+     "ko": "두루마리 화장지는 어디 있어요?"
+    },
+    {
+     "t": 2642.6,
+     "s": "W",
+     "es": "servilleta",
+     "ko": "냅킨"
+    },
+    {
+     "t": 2645.3,
+     "s": "E",
+     "es": "Después de comer, la niña se limpió la boca con la servilleta.",
+     "ko": "식사 후 여자아이는 냅킨으로 입을 닦았다."
+    },
+    {
+     "t": 2651.7,
+     "s": "W",
+     "es": "taza",
+     "ko": "찻잔, 컵"
+    },
+    {
+     "t": 2654.5,
+     "s": "E",
+     "es": "¿Tomas el café en taza o en vaso?",
+     "ko": "커피를 찻잔에 마셔, 컵에 마셔?"
+    },
+    {
+     "t": 2659.0,
+     "s": "W",
+     "es": "tenedor",
+     "ko": "포크"
+    },
+    {
+     "t": 2661.8,
+     "s": "E",
+     "es": "Anoche cenamos en un restaurante de cuatro tenedores.",
+     "ko": "어젯밤 우리는 포크 네 개 등급의 고급 식당에서 저녁을 먹었다."
+    },
+    {
+     "t": 2668.4,
+     "s": "W",
+     "es": "vaso",
+     "ko": "(유리)컵, 잔"
+    },
+    {
+     "t": 2670.3,
+     "s": "E",
+     "es": "¿De quién es este vaso de leche caliente?",
+     "ko": "이 따뜻한 우유 잔은 누구 거야?"
+    },
+    {
+     "t": 2675.6,
+     "s": "W",
+     "es": "váter",
+     "ko": "변기"
+    },
+    {
+     "t": 2681.8,
+     "s": "E",
+     "es": "No tires al váter nada más que el papel higiénico.",
+     "ko": "변기에는 화장지 말고는 아무것도 버리지 마라."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Dormitorio, salón · 침실·거실",
+   "lines": [
+    {
+     "t": 2698.1,
+     "s": "W",
+     "es": "aire acondicionado",
+     "ko": "에어컨"
+    },
+    {
+     "t": 2702.1,
+     "s": "E",
+     "es": "Hace mucho calor, ¿por qué no ponemos un aire acondicionado?",
+     "ko": "너무 덥다. 에어컨을 하나 다는 게 어때?"
+    },
+    {
+     "t": 2708.7,
+     "s": "W",
+     "es": "alfombra",
+     "ko": "카펫, 양탄자"
+    },
+    {
+     "t": 2711.4,
+     "s": "E",
+     "es": "Sofía tiene una alfombra de lana en el suelo.",
+     "ko": "소피아는 바닥에 양모 카펫을 깔아 두었다."
+    },
+    {
+     "t": 2717.4,
+     "s": "W",
+     "es": "almohada",
+     "ko": "베개"
+    },
+    {
+     "t": 2720.0,
+     "s": "E",
+     "es": "Prefiero dormir sin almohada. Para mí es más cómodo.",
+     "ko": "나는 베개 없이 자는 게 좋다. 그게 더 편하다."
+    },
+    {
+     "t": 2726.2,
+     "s": "W",
+     "es": "armario",
+     "ko": "장, 옷장"
+    },
+    {
+     "t": 2730.7,
+     "s": "E",
+     "es": "Guardo mis chaquetas en el segundo estante del armario.",
+     "ko": "나는 재킷을 옷장 두 번째 칸에 보관한다."
+    },
+    {
+     "t": 2737.1,
+     "s": "W",
+     "es": "cajón",
+     "ko": "서랍"
+    },
+    {
+     "t": 2741.3,
+     "s": "E",
+     "es": "Puedes usar todos los cajones para guardar tus cosas.",
+     "ko": "네 물건을 넣는 데 서랍을 다 써도 돼."
+    },
+    {
+     "t": 2747.1,
+     "s": "W",
+     "es": "cama",
+     "ko": "침대"
+    },
+    {
+     "t": 2750.2,
+     "s": "E",
+     "es": "Entre la cama y la pared hay una mesilla.",
+     "ko": "침대와 벽 사이에 협탁이 있다."
+    },
+    {
+     "t": 2755.1,
+     "s": "W",
+     "es": "despertador",
+     "ko": "자명종, 알람 시계"
+    },
+    {
+     "t": 2758.8,
+     "s": "E",
+     "es": "Tienes que poner el despertador a las seis de la mañana.",
+     "ko": "알람을 아침 여섯 시에 맞춰야 한다."
+    },
+    {
+     "t": 2763.9,
+     "s": "W",
+     "es": "equipo de música",
+     "ko": "오디오"
+    },
+    {
+     "t": 2769.0,
+     "s": "E",
+     "es": "Debajo de la televisión tengo el equipo de música.",
+     "ko": "텔레비전 아래에 오디오가 있다."
+    },
+    {
+     "t": 2774.6,
+     "s": "W",
+     "es": "mando a distancia",
+     "ko": "리모컨"
+    },
+    {
+     "t": 2778.5,
+     "s": "E",
+     "es": "¿Dónde está el mando a distancia?",
+     "ko": "리모컨 어디 있어?"
+    },
+    {
+     "t": 2782.8,
+     "s": "W",
+     "es": "manta",
+     "ko": "담요"
+    },
+    {
+     "t": 2785.8,
+     "s": "E",
+     "es": "Las sábanas y la manta están en el armario.",
+     "ko": "시트와 담요는 옷장에 있다."
+    },
+    {
+     "t": 2791.2,
+     "s": "W",
+     "es": "mesa",
+     "ko": "탁자, 테이블"
+    },
+    {
+     "t": 2793.7,
+     "s": "E",
+     "es": "Mi mujer lleva varios días buscando una mesa que le guste.",
+     "ko": "아내는 며칠째 마음에 드는 탁자를 찾고 있다."
+    },
+    {
+     "t": 2800.0,
+     "s": "W",
+     "es": "mesilla de noche",
+     "ko": "침대 옆 탁자, 협탁"
+    },
+    {
+     "t": 2800.0,
+     "s": "E",
+     "es": "El despertador está encima de la mesilla de noche.",
+     "ko": "자명종은 침대 옆 탁자 위에 있다."
+    },
+    {
+     "t": 2812.5,
+     "s": "W",
+     "es": "ordenador",
+     "ko": "컴퓨터"
+    },
+    {
+     "t": 2812.5,
+     "s": "E",
+     "es": "Mi abuela me regaló este ordenador cuando entré en la universidad.",
+     "ko": "할머니가 내가 대학에 들어갔을 때 이 컴퓨터를 선물해 주셨다."
+    },
+    {
+     "t": 2822.5,
+     "s": "W",
+     "es": "sábana",
+     "ko": "(침대) 시트"
+    },
+    {
+     "t": 2824.8,
+     "s": "E",
+     "es": "Cambia las sábanas que están sucias.",
+     "ko": "더러운 시트를 갈아라."
+    },
+    {
+     "t": 2830.6,
+     "s": "W",
+     "es": "salón",
+     "ko": "거실"
+    },
+    {
+     "t": 2832.6,
+     "s": "E",
+     "es": "De noche me gusta escuchar música en el salón.",
+     "ko": "밤에 나는 거실에서 음악 듣는 것을 좋아한다."
+    },
+    {
+     "t": 2838.8,
+     "s": "W",
+     "es": "silla",
+     "ko": "의자"
+    },
+    {
+     "t": 2841.1,
+     "s": "E",
+     "es": "Hay seis sillas alrededor de la mesa.",
+     "ko": "탁자 둘레에 의자가 여섯 개 있다."
+    },
+    {
+     "t": 2850.6,
+     "s": "W",
+     "es": "sillón",
+     "ko": "안락의자"
+    },
+    {
+     "t": 2850.6,
+     "s": "E",
+     "es": "Tengo dos sillones cerca de la chimenea.",
+     "ko": "벽난로 가까이에 안락의자가 두 개 있다."
+    },
+    {
+     "t": 2856.7,
+     "s": "W",
+     "es": "sofá",
+     "ko": "소파"
+    },
+    {
+     "t": 2860.7,
+     "s": "E",
+     "es": "Siéntate en el sofá. Estarás muy cómoda.",
+     "ko": "소파에 앉아. 아주 편할 거야."
+    },
+    {
+     "t": 2865.4,
+     "s": "W",
+     "es": "teléfono",
+     "ko": "전화"
+    },
+    {
+     "t": 2868.1,
+     "s": "E",
+     "es": "De repente, sonó el teléfono.",
+     "ko": "갑자기 전화가 울렸다."
+    },
+    {
+     "t": 2872.8,
+     "s": "W",
+     "es": "televisión",
+     "ko": "텔레비전"
+    },
+    {
+     "t": 2875.7,
+     "s": "E",
+     "es": "He visto la televisión todo el día.",
+     "ko": "하루 종일 텔레비전을 봤다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Labores domésticas · 집안일",
+   "lines": [
+    {
+     "t": 2891.4,
+     "s": "W",
+     "es": "apagar la luz",
+     "ko": "불을 끄다"
+    },
+    {
+     "t": 2896.3,
+     "s": "E",
+     "es": "¿Puedes apagar la luz? Quiero dormir ya.",
+     "ko": "불 좀 꺼 줄래? 이제 자고 싶어."
+    },
+    {
+     "t": 2901.1,
+     "s": "W",
+     "es": "aspiradora",
+     "ko": "진공청소기"
+    },
+    {
+     "t": 2904.8,
+     "s": "E",
+     "es": "Primero hay que pasar la aspiradora en el salón.",
+     "ko": "먼저 거실에 청소기를 돌려야 한다."
+    },
+    {
+     "t": 2910.4,
+     "s": "W",
+     "es": "barrer",
+     "ko": "(빗자루로) 쓸다"
+    },
+    {
+     "t": 2916.0,
+     "s": "E",
+     "es": "Después hay que barrer la terraza.",
+     "ko": "그다음에 테라스를 쓸어야 한다."
+    },
+    {
+     "t": 2920.2,
+     "s": "W",
+     "es": "basura",
+     "ko": "쓰레기"
+    },
+    {
+     "t": 2922.8,
+     "s": "E",
+     "es": "Hay mucha basura en la calle.",
+     "ko": "거리에 쓰레기가 많다."
+    },
+    {
+     "t": 2928.4,
+     "s": "W",
+     "es": "detergente",
+     "ko": "세제"
+    },
+    {
+     "t": 2931.8,
+     "s": "E",
+     "es": "Antes de lavar, pongo detergente en la lavadora.",
+     "ko": "빨래하기 전에 세탁기에 세제를 넣는다."
+    },
+    {
+     "t": 2937.3,
+     "s": "W",
+     "es": "enchufar",
+     "ko": "플러그를 꽂다"
+    },
+    {
+     "t": 2941.2,
+     "s": "E",
+     "es": "Enchufa la plancha y espera a que se caliente antes de empezar a planchar.",
+     "ko": "다림질을 시작하기 전에 다리미 플러그를 꽂고 뜨거워질 때까지 기다려."
+    },
+    {
+     "t": 2948.4,
+     "s": "W",
+     "es": "escoba",
+     "ko": "빗자루"
+    },
+    {
+     "t": 2952.5,
+     "s": "E",
+     "es": "Coloqué la escoba en un rincón de la cocina.",
+     "ko": "빗자루를 부엌 구석에 두었다."
+    },
+    {
+     "t": 2957.3,
+     "s": "W",
+     "es": "estropeado, estropeada",
+     "ko": "고장 난, 망가진"
+    },
+    {
+     "t": 2962.9,
+     "s": "E",
+     "es": "Tengo estropeada la lavadora.",
+     "ko": "우리 세탁기가 고장 났다."
+    },
+    {
+     "t": 2967.3,
+     "s": "W",
+     "es": "funcionar",
+     "ko": "작동하다, 기능하다"
+    },
+    {
+     "t": 2972.3,
+     "s": "E",
+     "es": "¿Cómo funciona este microondas?",
+     "ko": "이 전자레인지는 어떻게 작동해요?"
+    },
+    {
+     "t": 2976.2,
+     "s": "W",
+     "es": "hacer la cama",
+     "ko": "침대를 정리하다"
+    },
+    {
+     "t": 2980.7,
+     "s": "E",
+     "es": "Voy a hacer la cama y a ducharme.",
+     "ko": "침대를 정리하고 샤워할 거야."
+    },
+    {
+     "t": 2984.7,
+     "s": "W",
+     "es": "limpiar el polvo",
+     "ko": "먼지를 닦다"
+    },
+    {
+     "t": 2990.2,
+     "s": "E",
+     "es": "El mueble está sucio. ¿Cuándo vas a limpiarle el polvo?",
+     "ko": "가구가 더럽다. 언제 먼지를 닦을 거야?"
+    },
+    {
+     "t": 2996.3,
+     "s": "W",
+     "es": "planchar",
+     "ko": "다림질하다"
+    },
+    {
+     "t": 2999.8,
+     "s": "E",
+     "es": "Antes de planchar la camisa, hay que mojarla un poco.",
+     "ko": "셔츠를 다리기 전에 물을 조금 적셔야 한다."
+    },
+    {
+     "t": 3005.1,
+     "s": "W",
+     "es": "poner la lavadora",
+     "ko": "세탁기를 돌리다"
+    },
+    {
+     "t": 3010.7,
+     "s": "E",
+     "es": "¿Puedes poner la lavadora? Tengo que salir ahora mismo.",
+     "ko": "세탁기 좀 돌려 줄래? 나 지금 바로 나가야 해."
+    },
+    {
+     "t": 3016.4,
+     "s": "W",
+     "es": "tender la ropa",
+     "ko": "빨래를 널다"
+    },
+    {
+     "t": 3020.9,
+     "s": "E",
+     "es": "No te olvides de tender la ropa que está dentro de la lavadora.",
+     "ko": "세탁기 안에 있는 빨래 너는 거 잊지 마."
+    },
+    {
+     "t": 3027.5,
+     "s": "W",
+     "es": "trapo",
+     "ko": "걸레, 행주"
+    },
+    {
+     "t": 3032.0,
+     "s": "E",
+     "es": "Necesito un trapo húmedo para limpiar la mesa.",
+     "ko": "탁자를 닦을 젖은 행주가 필요하다."
+    }
+   ]
+  }
+ ]
+}

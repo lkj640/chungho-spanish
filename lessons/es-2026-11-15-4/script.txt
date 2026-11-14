@@ -1,0 +1,1853 @@
+# 형식: [mm:ss.ss] 시작 시각 / ## 단원 / 화자 | 원문 | 한국어
+# W = 표제어(스페인어 단어 | 한국어 뜻), E = 예문(스페인어 예문 | 한국어 번역)
+# 원본: 「스페인어 어휘를 부탁해」 MP3 3/4 구간 (110:56부터). Whisper 받아쓰기 시각으로 단어·예문별 싱크, 잘못 들린 부분과 한국어 뜻은 손으로 바로잡았어요.
+END 74:30
+
+
+## Capítulo 6 · Unidad 1. Universo, Tierra, Geografía · 우주, 지구, 지리
+[00:28.30]
+W | agua | 물
+[00:31.10]
+E | Es aconsejable beber dos litros de agua por día. | 하루에 물을 2리터 마시는 것이 좋다.
+[00:36.60]
+W | arena | 모래
+[00:39.60]
+E | En la playa los niños hacen castillos de arena. | 해변에서 아이들이 모래성을 쌓는다.
+[00:45.70]
+W | bosque | 숲
+[00:47.90]
+E | Debemos proteger los bosques por nuestros hijos. | 우리는 아이들을 위해 숲을 보호해야 한다.
+[00:53.80]
+W | campo | 시골, 밭, 논
+[00:58.20]
+E | Los domingos siempre paseamos por el campo. | 일요일마다 우리는 늘 시골길을 산책한다.
+[01:04.20]
+W | cometa | 혜성
+[01:07.50]
+E | Anoche vimos el cometa Halley. | 어젯밤 우리는 핼리 혜성을 보았다.
+[01:12.20]
+W | continente | 대륙
+[01:15.60]
+E | Hay cinco continentes en la Tierra: Eurasia, América, Oceanía, África y la Antártida. | 지구에는 유라시아, 아메리카, 오세아니아, 아프리카, 남극의 다섯 대륙이 있다.
+[01:24.40]
+W | costa | 해안
+[01:28.40]
+E | Es necesario mantener limpias las costas. | 해안을 깨끗하게 유지해야 한다.
+[01:33.20]
+W | desierto | 사막
+[01:35.60]
+E | El pueblo está cerca del desierto del Sáhara. | 그 마을은 사하라 사막 근처에 있다.
+[01:41.40]
+W | ecuador | 적도
+[01:45.10]
+E | En el ecuador hay veces que el sol llega al punto más alto del cielo al mediodía. | 적도에서는 정오에 해가 하늘의 가장 높은 곳에 이를 때가 있다.
+[01:51.60]
+W | este | 동, 동쪽
+[01:56.10]
+E | Esta ventana está orientada al este. | 이 창문은 동쪽을 향해 있다.
+[02:01.10]
+W | estrecho | 해협
+[02:03.30]
+E | El estrecho de Gibraltar separa el continente europeo del continente africano. | 지브롤터 해협은 유럽 대륙과 아프리카 대륙을 가른다.
+[02:11.20]
+W | estrella | 별
+[02:14.00]
+E | Hay muchísimas estrellas en el cielo. | 하늘에 별이 아주 많다.
+[02:19.90]
+W | frontera | 국경
+[02:22.80]
+E | Los Pirineos son una frontera natural entre España y Francia. | 피레네 산맥은 스페인과 프랑스 사이의 자연 국경이다.
+[02:29.80]
+W | geografía | 지리
+[02:31.70]
+E | En el libro de geografía aparecen todos los ríos y cordilleras del país. | 지리책에는 그 나라의 모든 강과 산맥이 나온다.
+[02:40.70]
+W | hemisferio | 반구
+[02:43.80]
+E | El ecuador divide la Tierra en los hemisferios norte y sur. | 적도는 지구를 북반구와 남반구로 나눈다.
+[02:50.00]
+W | isla | 섬
+[02:52.30]
+E | Gran Bretaña es una isla. | 그레이트브리튼은 섬이다.
+[02:57.80]
+W | lago | 호수
+[03:01.20]
+E | Veo a una persona sobre el lago congelado. | 얼어붙은 호수 위에 사람이 한 명 보인다.
+[03:06.60]
+W | luna | 달, 위성
+[03:09.90]
+E | La Luna tarda 28 días en dar la vuelta a la Tierra. | 달이 지구를 한 바퀴 도는 데 28일이 걸린다.
+[03:17.10]
+W | mar | 바다
+[03:18.50]
+E | El mar Mediterráneo baña el sur de Europa. | 지중해는 유럽 남부 해안에 맞닿아 있다.
+[03:24.70]
+W | montaña | 산
+[03:26.60]
+E | Se fue a vivir a la montaña huyendo de la contaminación de la ciudad. | 그는 도시의 오염을 피해 산으로 살러 갔다.
+[03:34.70]
+W | norte | 북, 북쪽
+[03:38.20]
+E | La brújula marca el norte. | 나침반은 북쪽을 가리킨다.
+[03:43.70]
+W | océano | 바다, 대양
+[03:47.00]
+E | Los cinco océanos de la Tierra son el Atlántico, el Pacífico, el Índico, el Glacial Ártico y el Glacial Antártico. | 지구의 5대양은 대서양, 태평양, 인도양, 북극해, 남극해이다.
+[03:58.30]
+W | oeste | 서, 서쪽
+[04:02.40]
+E | Portugal está en el oeste de la Península Ibérica. | 포르투갈은 이베리아 반도의 서쪽에 있다.
+[04:08.40]
+W | ola | 파도
+[04:10.80]
+E | La ola alcanzó los 20 metros de altura. | 파도가 높이 20미터에 이르렀다.
+[04:16.30]
+W | orilla | 강변, 해변
+[04:19.80]
+E | Encontramos una botella en la orilla del río. | 우리는 강가에서 병 하나를 발견했다.
+[04:25.60]
+W | país | 나라, 국가
+[04:30.20]
+E | Costa Rica es un país muy bonito. | 코스타리카는 아주 아름다운 나라이다.
+[04:34.40]
+W | paisaje | 풍경, 경치
+[04:39.50]
+E | Mirábamos el paisaje desde el balcón. | 우리는 발코니에서 풍경을 바라보고 있었다.
+[04:43.90]
+W | península | 반도
+[04:46.30]
+E | En todo el sur de la península lloverá mañana. | 내일 반도 남부 전역에 비가 내리겠다.
+[04:52.90]
+W | planeta | 별, 행성, 지구
+[04:58.70]
+E | Nuestro sistema solar consta de ocho planetas. | 우리 태양계는 여덟 개의 행성으로 이루어져 있다.
+[05:03.90]
+W | playa | 해변
+[05:06.60]
+E | Quiero casarme en una playa de arena blanca. | 나는 하얀 모래 해변에서 결혼하고 싶다.
+[05:12.40]
+W | Polo Norte | 북극
+[05:15.70]
+E | Los esquimales habitan en el Polo Norte. | 에스키모는 북극에 산다.
+[05:21.20]
+W | región | 지역, 지방
+[05:24.80]
+E | Los polos son las regiones más frías del planeta. | 극지방은 지구에서 가장 추운 지역이다.
+[05:31.10]
+W | río | 강
+[05:32.80]
+E | En Seúl hay un río muy grande que se llama Han. | 서울에는 한강이라는 아주 큰 강이 있다.
+[05:40.00]
+W | satélite | 위성
+[05:42.20]
+E | La Luna es un satélite de la Tierra. | 달은 지구의 위성이다.
+[05:49.20]
+W | sol | 태양, 해
+[05:50.70]
+E | El sol brilla encima de nuestras cabezas. | 해가 우리 머리 위에서 빛난다.
+[05:55.40]
+W | sur | 남, 남쪽
+[05:59.70]
+E | Vivo al sur de la ciudad. | 나는 도시의 남쪽에 산다.
+[06:03.30]
+W | Tierra | 지구, 땅
+[06:06.50]
+E | La Tierra es el planeta más cercano al Sol después de Mercurio y Venus. | 지구는 수성과 금성 다음으로 태양에 가까운 행성이다.
+[06:14.50]
+W | valle | 계곡, 골짜기
+[06:17.50]
+E | Construyeron el pueblo en un valle entre montañas. | 그들은 산 사이 골짜기에 마을을 세웠다.
+[06:23.70]
+W | volcán | 화산
+[06:26.00]
+E | Hay un volcán inactivo en su pueblo. | 그의 마을에는 휴화산이 있다.
+[06:31.20]
+W | zona | 지역, 구역
+[06:33.10]
+E | Esta zona está poco poblada. | 이 지역은 인구가 적다.
+
+## Unidad 2. Tiempo, fenómenos naturales · 날씨, 자연 현상
+[06:51.90]
+W | amanecer | 동틀 녘, 새벽, 동이 트다, 해가 뜨다
+[07:00.10]
+E | Llovió un poco al amanecer. | 새벽에 비가 조금 내렸다.
+[07:04.60]
+W | anochecer | 해 질 녘, 석양, 해가 지다
+[07:11.10]
+E | Me gusta contemplar los anocheceres desde la playa. | 나는 해변에서 해 질 녘 풍경을 바라보는 것을 좋아한다.
+[07:17.10]
+W | arcoíris | 무지개
+[07:20.10]
+E | Después de la lluvia es posible ver el arcoíris. | 비가 온 뒤에는 무지개를 볼 수 있다.
+[07:26.00]
+W | atmósfera | 대기, 분위기
+[07:30.30]
+E | La atmósfera se refiere a la capa de aire que rodea la Tierra. | 대기란 지구를 둘러싼 공기층을 말한다.
+[07:36.60]
+W | bajo cero | 영하의
+[07:40.70]
+E | Hoy estamos a ocho grados bajo cero. | 오늘은 영하 8도이다.
+[07:45.20]
+W | calor | 더위, 열
+[07:48.20]
+E | Este verano no ha hecho mucho calor. | 올여름은 그다지 덥지 않았다.
+[07:53.30]
+W | cielo | 하늘
+[07:56.10]
+E | Esta noche se ven más estrellas en el cielo. | 오늘 밤은 하늘에 별이 더 많이 보인다.
+[08:01.40]
+W | clima | 날씨, 기후
+[08:04.90]
+E | La zona tiene un clima frío y seco. | 그 지역은 기후가 춥고 건조하다.
+[08:09.90]
+W | desastre natural | 자연재해
+[08:14.50]
+E | Los desastres naturales causan muchas muertes cada año. | 자연재해로 해마다 많은 사람이 목숨을 잃는다.
+[08:19.90]
+W | fresco, fresca | 쌀쌀한, 선선한
+[08:27.70]
+E | En una noche fresca, mi primo y yo salimos a pasear. | 선선한 밤에 사촌과 나는 산책을 나갔다.
+[08:33.30]
+W | frío, fría | 추위, 냉기, 차가운
+[08:40.20]
+E | Hoy no hace ni frío ni calor. | 오늘은 춥지도 덥지도 않다.
+[08:44.70]
+W | grado | 도, 온도
+[08:49.10]
+E | Ayer estuvimos a diez grados. | 어제는 기온이 10도였다.
+[08:53.50]
+W | hacer sol | 해가 나다, 화창하다
+[08:57.20]
+E | El primer día hacía sol, hacía buen tiempo. | 첫날은 해가 나고 날씨가 좋았다.
+[09:02.80]
+W | hielo | 얼음
+[09:06.00]
+E | Necesito hielo para mi bebida. | 음료에 넣을 얼음이 필요하다.
+[09:10.80]
+W | húmedo, húmeda | 습한, 습기가 많은
+[09:10.80]
+E | El clima del Caribe es muy húmedo. | 카리브해의 기후는 매우 습하다.
+[09:21.50]
+W | inundación | 홍수
+[09:21.50]
+E | La lluvia produjo una gran inundación. | 비로 큰 홍수가 났다.
+[09:28.60]
+W | lluvia | 비
+[09:28.60]
+E | La lluvia en primavera es buena para todos los que viven del campo. | 봄비는 농사를 지으며 사는 모든 이에게 좋다.
+[09:40.30]
+W | meteorología | 기상학
+[09:40.30]
+E | La meteorología es una parte de la ciencia que estudia los fenómenos naturales de la atmósfera terrestre. | 기상학은 지구 대기의 자연 현상을 연구하는 과학의 한 분야이다.
+[09:51.90]
+W | niebla | 안개
+[09:51.90]
+E | La niebla provocó el cierre de caminos. | 안개 때문에 도로가 폐쇄되었다.
+[10:00.40]
+W | nieve | 눈
+[10:02.30]
+E | Durante toda la noche cayó mucha nieve en la zona. | 밤새 그 지역에 눈이 많이 내렸다.
+[10:09.10]
+W | nube | 구름
+[10:11.60]
+E | Empezaron a llegar unas nubes enormes y negras. | 거대한 먹구름이 몰려오기 시작했다.
+[10:18.20]
+W | relámpago | 번개
+[10:20.60]
+E | Después del relámpago viene el trueno. | 번개가 친 뒤에 천둥이 친다.
+[10:25.80]
+W | seco, seca | 마른, 건조한
+[10:31.40]
+E | El clima en Andalucía es muy seco. | 안달루시아의 기후는 매우 건조하다.
+[10:35.70]
+W | sequía | 가뭄
+[10:39.30]
+E | La sequía en muchas zonas del planeta es consecuencia del cambio climático. | 지구 곳곳의 가뭄은 기후 변화의 결과이다.
+[10:46.80]
+W | temperatura | 기온, 온도
+[10:50.40]
+E | ¿Qué temperatura hace hoy? | 오늘 기온이 몇 도니?
+[10:55.40]
+W | terremoto | 지진
+[10:58.90]
+E | El terremoto destruyó antiguos edificios de la ciudad. | 지진으로 도시의 오래된 건물들이 무너졌다.
+[11:04.40]
+W | tiempo | 날씨, 시간
+[11:09.00]
+E | Hoy hace buen tiempo, pero mañana va a llover. | 오늘은 날씨가 좋지만 내일은 비가 올 것이다.
+[11:13.90]
+W | tormenta | 소나기, 폭풍우
+[11:17.90]
+E | En Madrid hace muy mal tiempo, con tormentas y relámpagos. | 마드리드는 폭풍우와 번개로 날씨가 아주 나쁘다.
+[11:24.90]
+W | trueno | 천둥
+[11:27.70]
+E | He oído truenos a lo lejos. | 멀리서 천둥소리를 들었다.
+[11:32.40]
+W | viento | 바람
+[11:35.10]
+E | Ayer hizo mucho viento en el este del país. | 어제 그 나라 동부에는 바람이 많이 불었다.
+
+## Unidad 3. Animales · 동물
+[11:50.50]
+W | abeja | 벌
+[11:53.90]
+E | Las abejas obreras producen cera y miel. | 일벌은 밀랍과 꿀을 만든다.
+[11:59.80]
+W | acuario | 수족관, 어항
+[12:03.90]
+E | Tengo un acuario con muchos peces. | 나는 물고기가 많은 어항을 가지고 있다.
+[12:09.20]
+W | águila | 독수리
+[12:11.90]
+E | El águila come ratones. | 독수리는 쥐를 먹는다.
+[12:15.90]
+W | animal de compañía | 반려동물, 애완동물
+[12:22.30]
+E | Un animal de compañía es un miembro de la familia. | 반려동물은 가족의 일원이다.
+[12:27.60]
+W | araña | 거미
+[12:30.60]
+E | Las arañas atrapan insectos en su red. | 거미는 거미줄로 곤충을 잡는다.
+[12:35.40]
+W | burro, burra | 당나귀
+[12:39.60]
+E | El burro es un animal de carga. | 당나귀는 짐을 나르는 동물이다.
+[12:43.60]
+W | caballo | 말
+[12:48.30]
+E | El caballo es un animal veloz. | 말은 빠른 동물이다.
+[12:52.60]
+W | cabra | 염소
+[12:55.90]
+E | El ser humano aprovecha la leche, la carne y la piel de la cabra. | 인간은 염소의 젖과 고기, 가죽을 이용한다.
+[13:03.10]
+W | cerdo, cerda | 돼지
+[13:06.90]
+E | Los coreanos consumen hasta las orejas del cerdo. | 한국인은 돼지 귀까지 먹는다.
+[13:10.90]
+W | conejo, coneja | 토끼
+[13:10.90]
+E | Los conejos dan saltos en el campo. | 토끼들이 들판에서 깡충깡충 뛴다.
+[13:20.80]
+W | cucaracha | 바퀴벌레
+[13:20.80]
+E | Me dan mucho miedo las cucarachas. | 나는 바퀴벌레가 너무 무섭다.
+[13:29.50]
+W | elefante, elefanta | 코끼리
+[13:29.50]
+E | Un elefante africano es más grande que uno asiático. | 아프리카코끼리는 아시아코끼리보다 크다.
+[13:41.00]
+W | gallina | 암탉
+[13:41.00]
+E | Mis gallinas ponen huevos cada mañana. | 우리 암탉들은 매일 아침 알을 낳는다.
+[13:48.50]
+W | gallo | 수탉
+[13:48.50]
+E | Los gallos suelen cantar al amanecer. | 수탉은 보통 새벽에 운다.
+[13:56.20]
+W | ganado | 가축
+[13:56.20]
+E | Mi ganado está formado por cabras, ovejas y cerdos. | 내 가축은 염소, 양, 돼지로 이루어져 있다.
+[14:06.30]
+W | gato, gata | 고양이
+[14:06.30]
+E | Mi gato es muy cariñoso. | 내 고양이는 아주 다정하다.
+[14:14.50]
+W | granja | 농장
+[14:14.50]
+E | Los principales productos de esta granja provienen de la ganadería. | 이 농장의 주요 생산물은 축산에서 나온다.
+[14:24.20]
+W | hembra | 암컷
+[14:26.40]
+E | La yegua es la hembra del caballo. | 암말은 말의 암컷이다.
+[14:31.40]
+W | hormiga | 개미
+[14:33.80]
+E | Este lugar está lleno de pequeñas hormigas rojas. | 이곳은 작은 붉은 개미로 가득하다.
+[14:40.50]
+W | insecto | 곤충
+[14:42.90]
+E | Las hormigas y las abejas son insectos sociales. | 개미와 벌은 사회성 곤충이다.
+[14:49.80]
+W | jaula | 우리, 새장
+[14:49.80]
+E | Compré una jaula nueva para pájaros. | 새 새장을 하나 샀다.
+[14:58.20]
+W | ladrar | 짖다
+[14:58.20]
+E | Anoche un perro ladró mucho en la calle. | 어젯밤 개 한 마리가 거리에서 많이 짖었다.
+[15:06.70]
+W | león, leona | 사자
+[15:06.70]
+E | El león es el rey de la selva. | 사자는 밀림의 왕이다.
+[15:14.90]
+W | lobo, loba | 늑대
+[15:19.60]
+E | El lobo suele vivir formando grupos familiares. | 늑대는 보통 가족 무리를 이루어 산다.
+[15:25.50]
+W | loro, lora | 앵무새
+[15:29.40]
+E | El loro es un animal tropical. | 앵무새는 열대 동물이다.
+[15:33.50]
+W | macho | 수컷
+[15:37.40]
+E | Es una codorniz macho. | 이것은 수컷 메추라기이다.
+[15:41.90]
+W | mamífero, mamífera | 포유류, 포유류의
+[15:47.40]
+E | Las crías de los mamíferos se alimentan de la leche de sus madres. | 포유류의 새끼는 어미의 젖을 먹고 자란다.
+[15:55.50]
+W | mariposa | 나비
+[15:57.30]
+E | En el jardín unas mariposas están volando sobre las flores. | 정원에서 나비 몇 마리가 꽃 위를 날고 있다.
+[16:05.00]
+W | mono, mona | 원숭이
+[16:08.30]
+E | Los monos se parecen mucho a los humanos en muchos aspectos. | 원숭이는 여러 면에서 인간과 많이 닮았다.
+[16:16.00]
+W | mosca | 파리
+[16:16.00]
+E | Cierra la ventana para que no entren moscas. | 파리가 들어오지 않게 창문을 닫아라.
+[16:22.80]
+W | oso, osa | 곰
+[16:22.80]
+E | Los osos se alimentan principalmente de vegetales. | 곰은 주로 식물을 먹고 산다.
+[16:32.30]
+W | oveja | 양
+[16:34.90]
+E | Las ovejas siempre andan juntas. | 양들은 항상 함께 다닌다.
+[16:40.20]
+W | pájaro | 새
+[16:43.50]
+E | El gorrión es un pájaro. | 참새는 새이다.
+[16:48.50]
+W | palomo, paloma | 비둘기
+[16:52.90]
+E | Mi abuela tenía unas palomas mensajeras en su juventud. | 우리 할머니는 젊었을 때 전서구를 몇 마리 기르셨다.
+[16:57.80]
+W | pata | (동물의) 다리, 발
+[17:02.50]
+E | Los cocodrilos tienen cuatro patas. | 악어는 다리가 네 개다.
+[17:08.10]
+W | pato, pata | 오리
+[17:11.70]
+E | Los patos viven en estado salvaje o bien domesticados. | 오리는 야생 상태로 살거나 아니면 길들여져 산다.
+[17:18.40]
+W | pavo, pava | 칠면조
+[17:21.70]
+E | Me dejé el pavo en el horno. | 칠면조를 오븐에 넣어 둔 채 깜빡했다.
+[17:26.50]
+W | perro, perra | 개
+[17:26.50]
+E | El perro se parece mucho al lobo. | 개는 늑대와 많이 닮았다.
+[17:34.80]
+W | pez | 물고기
+[17:34.80]
+E | El tiburón es un tipo de pez. | 상어는 물고기의 일종이다.
+[17:42.20]
+W | pluma | 깃털
+[17:42.20]
+E | En la montaña encontré una pluma de pavo real. | 산에서 공작 깃털을 하나 발견했다.
+[17:48.50]
+W | poner huevos | 알을 낳다
+[17:54.50]
+E | Los peces y las aves ponen huevos. | 물고기와 새는 알을 낳는다.
+[17:54.50]
+W | ratón, ratona | 쥐
+[18:01.50]
+E | A los ratones les gusta mucho el queso y las cosas dulces. | 쥐는 치즈와 단것을 아주 좋아한다.
+[18:12.00]
+W | salvaje | 야생의
+[18:12.00]
+E | Allí están los caballos salvajes que protegemos en esta zona. | 저기에 우리가 이 지역에서 보호하는 야생마들이 있다.
+[18:20.00]
+W | serpiente | 뱀
+[18:20.00]
+E | La serpiente suele identificarse con el diablo en Occidente. | 서양에서 뱀은 흔히 악마와 동일시된다.
+[18:29.80]
+W | tigre | 호랑이
+[18:29.80]
+E | En el circo tienen tigres de la India amaestrados. | 서커스단에는 길들인 인도 호랑이들이 있다.
+[18:39.10]
+W | toro | 황소, 수소
+[18:41.80]
+E | Mañana iremos a una corrida de toros. | 내일 우리는 투우를 보러 갈 것이다.
+[18:47.10]
+W | tortuga | 거북
+[18:49.60]
+E | En el cuento, la tortuga ganó a la liebre en la carrera. | 동화에서 거북이 경주에서 토끼를 이겼다.
+[18:55.90]
+W | vaca | 암소
+[18:58.60]
+E | Me gusta mucho la carne de vaca. | 나는 소고기를 아주 좋아한다.
+[19:04.20]
+W | volar | 날다
+[19:07.00]
+E | Los pájaros están volando muy bajo. | 새들이 아주 낮게 날고 있다.
+[19:11.60]
+W | zorro, zorra | 여우
+[19:16.00]
+E | El zorro tiene fama de ser un animal muy astuto. | 여우는 아주 교활한 동물로 알려져 있다.
+
+## Unidad 4. Plantas · 식물
+[19:31.70]
+W | árbol | 나무
+[19:34.70]
+E | Plantaron árboles junto a la avenida. | 그들은 대로변에 나무를 심었다.
+[19:40.00]
+W | caña de azúcar | 사탕수수
+[19:44.50]
+E | Se extrae el jugo de la caña de azúcar con una máquina. | 사탕수수 즙은 기계로 짜낸다.
+[19:50.20]
+W | césped | 잔디
+[19:53.80]
+E | Ayer corté el césped del jardín. | 어제 정원의 잔디를 깎았다.
+[19:57.70]
+W | clavel | 카네이션
+[20:00.50]
+E | El señor llevaba un clavel blanco en la solapa de su chaqueta. | 그 신사는 재킷 옷깃에 흰 카네이션을 꽂고 있었다.
+[20:07.80]
+W | cultivar | 경작하다, 재배하다
+[20:13.10]
+E | Los agricultores cultivaron la tierra. | 농부들이 땅을 경작했다.
+[20:18.10]
+W | flor | 꽃
+[20:21.30]
+E | En la primavera los campos están en flor. | 봄에는 들판에 꽃이 핀다.
+[20:26.20]
+W | frutal | 과일나무, 과수
+[20:30.70]
+E | El señor García plantó varios frutales en el huerto. | 가르시아 씨는 과수원에 과일나무를 몇 그루 심었다.
+[20:37.20]
+W | girasol | 해바라기
+[20:41.10]
+E | De las semillas del girasol se obtiene aceite. | 해바라기 씨에서 기름을 얻는다.
+[20:46.40]
+W | hierba | 풀
+[20:49.50]
+E | Estos animales se alimentan de la hierba del campo. | 이 동물들은 들판의 풀을 먹고 산다.
+[20:54.80]
+W | hoja | 잎, 잎사귀
+[20:58.00]
+E | La hoja del pino tiene forma de aguja. | 소나무 잎은 바늘 모양이다.
+[21:04.10]
+W | hongo | 버섯
+[21:07.20]
+E | El champiñón es un hongo. | 양송이는 버섯의 일종이다.
+[21:11.40]
+W | huerta | 밭, 경작지
+[21:15.40]
+E | Todas estas verduras provienen de una huerta orgánica. | 이 채소들은 모두 유기농 밭에서 나온 것이다.
+[21:22.00]
+W | invernadero | 온실
+[21:24.90]
+E | Nuestra familia cultiva tomates en el invernadero. | 우리 가족은 온실에서 토마토를 재배한다.
+[21:31.00]
+W | laurel | 월계수
+[21:33.90]
+E | Las hojas de laurel se usan para dar sabor a la comida. | 월계수 잎은 음식에 맛을 내는 데 쓰인다.
+[21:40.10]
+W | pino | 소나무
+[21:42.90]
+E | En el parque hay pinos que tienen más de 50 años. | 공원에는 수령이 50년이 넘은 소나무들이 있다.
+[21:49.10]
+W | plantar | 심다
+[21:51.70]
+E | Plantamos 10 manzanos en la granja. | 우리는 농장에 사과나무 10그루를 심었다.
+[21:57.20]
+W | raíz | 뿌리
+[21:60.00]
+E | Este árbol crecerá bien porque tiene raíces fuertes. | 이 나무는 뿌리가 튼튼해서 잘 자랄 것이다.
+[22:05.30]
+W | rama | 가지
+[22:08.70]
+E | Colgaron sus chaquetas de las ramas de un viejo árbol. | 그들은 오래된 나무의 가지에 재킷을 걸었다.
+[22:14.40]
+W | regar | 물을 주다
+[22:17.90]
+E | Cuando yo no esté en casa, tú tienes que regar las plantas. | 내가 집에 없을 때는 네가 화초에 물을 줘야 한다.
+[22:23.10]
+W | rosa | 장미
+[22:25.50]
+E | ¡Qué bien huelen las rosas! | 장미 향기가 정말 좋다!
+[22:30.80]
+W | rural | 시골의, 농촌의
+[22:35.50]
+E | En su pueblo podemos hacer turismo rural. | 그의 마을에서는 농촌 관광을 할 수 있다.
+[22:40.80]
+W | sembrar | 씨를 뿌리다
+[22:44.30]
+E | Sembró sésamo en sus campos. | 그는 자기 밭에 참깨를 뿌렸다.
+[22:49.70]
+W | semilla | 씨, 씨앗
+[22:51.80]
+E | Escupí las semillas de la manzana. | 나는 사과 씨를 뱉었다.
+[22:57.60]
+W | tronco | (나무의) 몸통, 줄기
+[23:01.70]
+E | El tronco de este pino tiene un metro de diámetro. | 이 소나무 줄기는 지름이 1미터이다.
+[23:07.40]
+W | vid | 포도나무
+[23:10.20]
+E | Hay vides silvestres en mi huerto. | 내 과수원에는 야생 포도나무가 있다.
+
+## Unidad 5. Medio ambiente · 환경
+[23:25.60]
+W | basura | 쓰레기
+[23:29.20]
+E | Prohibido tirar basura. | 쓰레기 투기 금지.
+[23:32.80]
+W | calentamiento global | 지구 온난화
+[23:37.70]
+E | El calentamiento global se refiere al fenómeno del aumento de la temperatura media global. | 지구 온난화는 지구 평균 기온이 올라가는 현상을 말한다.
+[23:45.50]
+W | cambio climático | 기후 변화
+[23:49.20]
+E | El cambio climático se debe al calentamiento global. | 기후 변화는 지구 온난화 때문에 일어난다.
+[23:55.10]
+W | capa de ozono | 오존층
+[23:59.40]
+E | La contaminación atmosférica está destruyendo la capa de ozono. | 대기 오염이 오존층을 파괴하고 있다.
+[24:06.20]
+W | contaminación | 오염
+[24:09.90]
+E | La contaminación del aire en las grandes ciudades está disminuyendo poco a poco. | 대도시의 대기 오염이 조금씩 줄어들고 있다.
+[24:17.20]
+W | ecología | 생태학
+[24:21.20]
+E | Un biólogo especializado en ecología va a venir a dar una conferencia. | 생태학을 전문으로 하는 생물학자가 강연을 하러 올 것이다.
+[24:27.80]
+W | ecosistema | 생태계
+[24:31.70]
+E | Cada especie desempeña un papel concreto en el ecosistema. | 각각의 종은 생태계에서 구체적인 역할을 한다.
+[24:37.10]
+W | efecto invernadero | 온실 효과
+[24:40.70]
+E | El deshielo de los polos se debe al efecto invernadero. | 극지방의 얼음이 녹는 것은 온실 효과 때문이다.
+[24:47.80]
+W | energía | 에너지
+[24:51.00]
+E | Estas máquinas transforman la energía solar en energía eléctrica. | 이 기계들은 태양 에너지를 전기 에너지로 바꾼다.
+[24:57.20]
+W | humo | 연기
+[25:00.70]
+E | Antes las fábricas echaban humo negro. | 예전에는 공장들이 검은 연기를 내뿜었다.
+[25:05.40]
+W | medio ambiente | 환경
+[25:09.20]
+E | Proteger el medio ambiente es importante para nosotros mismos. | 환경을 보호하는 것은 우리 자신에게 중요하다.
+[25:14.70]
+W | plástico | 플라스틱
+[25:18.50]
+E | Desde ahora tenemos que pagar en el supermercado por la bolsa de plástico. | 이제부터 슈퍼마켓에서 비닐봉지 값을 내야 한다.
+[25:25.00]
+W | reciclar | 재활용하다
+[25:29.30]
+E | Si reciclamos el papel, no habrá que talar tantos árboles. | 종이를 재활용하면 그렇게 많은 나무를 벨 필요가 없을 것이다.
+[25:34.90]
+W | reducir | 감축하다, 줄이다
+[25:40.30]
+E | Debemos reducir el consumo de gasolina; si no, acabaremos pronto con el petróleo. | 휘발유 소비를 줄여야 한다. 그러지 않으면 석유가 곧 바닥날 것이다.
+[25:48.40]
+W | vidrio | 유리
+[25:48.40]
+E | Ese es el contenedor en el que debes tirar el vidrio. | 저것이 유리를 버려야 하는 수거함이다.
+
+## Capítulo 7 · Unidad 1. Edificio, calle · 건물, 거리
+[26:29.50]
+W | acera | 인도, 보도
+[26:35.20]
+E | Los niños juegan en la acera frente a su casa. | 아이들이 집 앞 인도에서 논다.
+[26:41.10]
+W | aparcamiento | 주차장
+[26:43.80]
+E | Dejó su coche en un gran aparcamiento del centro. | 그는 시내의 큰 주차장에 차를 세웠다.
+[26:50.30]
+W | avenida | 대로, 큰길
+[26:53.90]
+E | Paseamos por la Avenida de Mayo. | 우리는 마요 대로를 산책했다.
+[26:59.50]
+W | ayuntamiento | 시청, 도청
+[27:03.40]
+E | El Ayuntamiento de Madrid está en la plaza de Cibeles. | 마드리드 시청은 시벨레스 광장에 있다.
+[27:10.20]
+W | banco | 은행, 벤치
+[27:15.70]
+E | Tenemos que hacer este ingreso en el banco. | 이 돈을 은행에 입금해야 한다.
+[27:21.30]
+W | barrio | 구역, 지역, 동네
+[27:26.00]
+E | En mi barrio no hay ni una librería. | 우리 동네에는 서점이 하나도 없다.
+[27:31.10]
+W | boca de metro | 지하철 입구
+[27:35.70]
+E | Te espero en la boca de metro número 3. | 지하철 3번 출구에서 기다릴게.
+[27:40.50]
+W | cajero automático | 현금 자동 인출기
+[27:46.10]
+E | Voy a sacar dinero en el cajero automático. | 현금 인출기에서 돈을 뽑을 거다.
+[27:53.20]
+W | calle | 거리, 길
+[27:56.30]
+E | Cruza la calle por el paso de cebra. | 횡단보도로 길을 건너라.
+[28:02.10]
+W | cementerio | 묘지
+[28:04.90]
+E | El autor de la obra está enterrado en el cementerio de la catedral. | 그 작품의 작가는 대성당 묘지에 묻혀 있다.
+[28:11.00]
+W | centro comercial | 쇼핑센터, 쇼핑몰
+[28:17.20]
+E | En mi barrio hay un centro comercial con muchas tiendas de todas clases. | 우리 동네에는 온갖 종류의 가게가 많은 쇼핑센터가 있다.
+[28:23.20]
+W | ciudad | 도시
+[28:25.30]
+E | Muchas ciudades europeas conservan sus centros históricos. | 많은 유럽 도시가 역사 지구를 보존하고 있다.
+[28:32.40]
+W | comisaría | 경찰서
+[28:36.10]
+E | Voy a la comisaría para denunciar un robo. | 도난 신고를 하러 경찰서에 간다.
+[28:40.80]
+W | cruce | 교차로, 사거리, 횡단보도
+[28:48.10]
+E | Nos encontramos en un cruce de la calle Pino. | 우리는 피노 거리의 한 교차로에서 만났다.
+[28:53.50]
+W | edificio | 건물
+[28:55.90]
+E | En los edificios del centro cada vez hay menos viviendas y más oficinas y centros comerciales. | 도심 건물에는 주택은 점점 줄고 사무실과 상가는 늘고 있다.
+[29:05.80]
+W | esquina | 모퉁이, 코너
+[29:10.00]
+E | En aquella esquina puedes encontrar un banco. | 저 모퉁이에 가면 은행이 있다.
+[29:15.00]
+W | estación | 역, 정류장
+[29:18.50]
+E | Estamos en la estación de autobuses para ir a Toledo. | 우리는 톨레도에 가려고 버스 터미널에 와 있다.
+[29:23.30]
+W | estatua | 조각상, 동상
+[29:25.70]
+E | En la plaza hay una estatua de Felipe II. | 광장에는 펠리페 2세의 동상이 있다.
+[29:32.10]
+W | farmacia | 약국
+[29:35.00]
+E | La farmacia de la esquina está de turno. | 모퉁이 약국이 당번 약국이다.
+[29:39.80]
+W | farol | 가로등, 등불
+[29:44.70]
+E | Ha puesto un farol en la terraza del chalet. | 그는 별장 테라스에 등을 달았다.
+[29:49.70]
+W | ferrocarril | 철도
+[29:53.30]
+E | La estación de ferrocarril está llena de gente. | 기차역이 사람들로 가득하다.
+[30:00.30]
+W | fuente | 분수, 샘
+[30:03.20]
+E | En la fuente de la ciudad las palomas se bañan a menudo. | 도시의 분수에서 비둘기들이 자주 목욕을 한다.
+[30:10.80]
+W | gasolinera | 주유소
+[30:12.40]
+E | Pararemos en la próxima gasolinera para estirar las piernas. | 다리 좀 펴게 다음 주유소에서 쉬어 가자.
+[30:19.60]
+W | glorieta | 로터리
+[30:23.50]
+E | Cuando llegues a la glorieta, gira a la derecha. | 로터리에 도착하면 오른쪽으로 돌아라.
+[30:29.40]
+W | gran almacén | 백화점
+[30:34.30]
+E | Me compré este abrigo en unos grandes almacenes. | 이 외투는 백화점에서 샀다.
+[30:41.00]
+W | habitante | 주민
+[30:43.10]
+E | En mi pueblo solo quedan 15 habitantes. | 우리 마을에는 주민이 15명밖에 남지 않았다.
+[30:49.30]
+W | iglesia | 교회, 성당
+[30:53.00]
+E | Hay muchas iglesias antiguas en España. | 스페인에는 오래된 성당이 많다.
+[30:58.70]
+W | librería | 서점
+[31:01.40]
+E | Cerca de aquí hay una librería especializada en filosofía. | 이 근처에 철학 전문 서점이 있다.
+[31:07.70]
+W | lugar | 장소
+[31:10.70]
+E | Están buscando un lugar para hacer su nueva casa. | 그들은 새 집을 지을 장소를 찾고 있다.
+[31:15.40]
+W | manzana | (도시의) 블록, 구획
+[31:18.90]
+E | El taxi dio una vuelta a la manzana. | 택시가 블록을 한 바퀴 돌았다.
+[31:23.30]
+W | museo | 박물관, 미술관
+[31:28.30]
+E | Hay una exposición de Salvador Dalí en el Museo de Arte Moderno. | 현대 미술관에서 살바도르 달리 전시회가 열리고 있다.
+[31:34.20]
+W | oficina de correos | 우체국
+[31:38.30]
+E | Voy a ir a la oficina de correos para enviar este paquete a mi casa. | 이 소포를 집으로 부치러 우체국에 갈 것이다.
+[31:45.70]
+W | palacio | 궁전
+[31:47.80]
+E | Los reyes de España viven en el Palacio de la Zarzuela. | 스페인 국왕 부부는 사르수엘라 궁전에 산다.
+[31:54.40]
+W | parada | 정류장
+[31:57.00]
+E | Déjeme allí, cerca de la parada de taxis. | 저기 택시 정류장 근처에 내려 주세요.
+[32:03.00]
+W | parque | 공원
+[32:05.10]
+E | La ciudad necesita más parques para que la gente pueda descansar. | 도시에는 사람들이 쉴 수 있도록 공원이 더 필요하다.
+[32:11.50]
+W | paso de peatones | 횡단보도
+[32:16.30]
+E | Por aquí no veo el paso de peatones. | 이 근처에는 횡단보도가 안 보인다.
+[32:21.50]
+W | peluquería | 미용실
+[32:24.30]
+E | Una vez al mes me corto el pelo en la peluquería. | 나는 한 달에 한 번 미용실에서 머리를 자른다.
+[32:29.20]
+W | plaza | 광장
+[32:32.50]
+E | Hemos quedado en la Plaza Mayor. | 우리는 마요르 광장에서 만나기로 했다.
+[32:36.60]
+W | pueblo | 마을, 시골
+[32:43.30]
+E | Mis padres son de un pueblo muy pequeño de la provincia de Ávila. | 우리 부모님은 아빌라 주의 아주 작은 마을 출신이다.
+[32:52.50]
+W | puente | 다리
+[32:53.20]
+E | Cruzaremos el puente del río. | 우리는 강 위의 다리를 건널 것이다.
+[32:58.10]
+W | quiosco | (신문) 가판대
+[33:01.90]
+E | Acércate al quiosco y cómprame el periódico, por favor. | 가판대에 가서 신문 좀 사다 줘.
+[33:06.50]
+W | tienda | 상점, 가게
+[33:11.50]
+E | Mi tío tiene una tienda de cosméticos. | 우리 삼촌은 화장품 가게를 한다.
+[33:16.20]
+W | tintorería | 세탁소
+[33:18.50]
+E | Él ya ha llevado la alfombra a la tintorería para guardarla limpia. | 그는 양탄자를 깨끗하게 보관하려고 이미 세탁소에 맡겼다.
+[33:25.30]
+W | torre | 탑
+[33:28.40]
+E | Subimos a la torre de la iglesia. | 우리는 성당 탑에 올라갔다.
+[33:32.50]
+W | zoo | 동물원
+[33:35.80]
+E | A los niños les encanta ir al zoo. | 아이들은 동물원에 가는 것을 정말 좋아한다.
+
+## Unidad 2. Transporte · 교통
+[33:50.80]
+W | acelerar | 가속하다, 속도를 내다
+[33:54.60]
+E | ¡Acelera, que llegamos tarde! | 속도 좀 내, 늦겠어!
+[33:58.30]
+W | aeropuerto | 공항
+[34:02.30]
+E | El aeropuerto de Madrid es el de Barajas. | 마드리드의 공항은 바라하스 공항이다.
+[34:10.00]
+W | andén | 플랫폼, 승강장
+[34:10.00]
+E | Esperé en el andén a que llegara el próximo tren. | 나는 승강장에서 다음 기차가 오기를 기다렸다.
+[34:13.40]
+W | aparcar | 주차하다
+[34:13.40]
+E | Le costó mucho aprender a aparcar el coche. | 그는 주차하는 법을 배우느라 무척 애를 먹었다.
+[34:24.40]
+W | a pie | 걸어서
+[34:24.40]
+E | Iremos a pie al restaurante porque está muy cerca de aquí. | 식당이 여기서 아주 가까우니 걸어서 갈 것이다.
+[34:32.50]
+W | área de servicio | 휴게소
+[34:32.50]
+E | Vamos a descansar en la primera área de servicio que encontremos. | 처음 나오는 휴게소에서 쉬어 가자.
+[34:43.10]
+W | arreglar | 고치다, 수선하다, 정돈하다
+[34:49.60]
+E | El técnico arregló mi coche. | 기술자가 내 차를 고쳤다.
+[34:53.90]
+W | asiento | 좌석
+[34:57.60]
+E | El asiento del conductor está delante. | 운전석은 앞쪽에 있다.
+[35:02.60]
+W | atasco | 정체, 교통 체증, 막힘
+[35:08.70]
+E | En las horas punta se suelen producir atascos. | 출퇴근 시간에는 보통 교통 체증이 생긴다.
+[35:14.50]
+W | aterrizar | 착륙하다
+[35:17.60]
+E | El avión aterrizó sin problemas. | 비행기는 무사히 착륙했다.
+[35:23.10]
+W | atropellar | (차가) 치다
+[35:25.50]
+E | El coche atropelló al perro. | 차가 개를 치었다.
+[35:30.60]
+W | autobús | 버스
+[35:33.90]
+E | Cogimos el autobús que va a la plaza de España. | 우리는 에스파냐 광장으로 가는 버스를 탔다.
+[35:41.20]
+W | avión | 비행기
+[35:43.00]
+E | Viajar en avión es caro, pero es más cómodo y rápido. | 비행기 여행은 비싸지만 더 편하고 빠르다.
+[35:48.60]
+W | azafato, azafata | 승무원
+[35:52.70]
+E | Una azafata nos ayudó a meter las maletas en el maletero. | 승무원 한 명이 우리가 가방을 짐칸에 넣는 것을 도와주었다.
+[35:59.30]
+W | bajar | 내리다
+[36:02.20]
+E | Bajamos del tren y nos dirigimos a la salida. | 우리는 기차에서 내려 출구로 향했다.
+[36:07.80]
+W | barco | 배
+[36:09.50]
+E | A este lugar se puede llegar fácilmente por avión, carretera, ferrocarril o barco. | 이곳은 비행기, 도로, 철도, 배로 쉽게 올 수 있다.
+[36:20.50]
+W | bicicleta | 자전거
+[36:21.20]
+E | De niña iba a la escuela en bicicleta. | 어렸을 때 나는 자전거를 타고 학교에 다녔다.
+[36:26.70]
+W | billete | 표, 티켓
+[36:30.70]
+E | Enseña el billete al revisor. | 검표원에게 표를 보여 줘라.
+[36:34.70]
+W | camión | 트럭
+[36:37.70]
+E | Necesito un camión de mudanzas este jueves. | 이번 목요일에 이삿짐 트럭이 필요하다.
+[36:42.40]
+W | capitán, capitana | 선장, 대장, 대위, 주장
+[36:51.90]
+E | El capitán de este barco de pasajeros está en la proa. | 이 여객선의 선장은 뱃머리에 있다.
+[36:57.40]
+W | carné de conducir | 운전면허증
+[37:02.20]
+E | El policía me pidió el carné de conducir. | 경찰관이 내게 운전면허증을 요구했다.
+[37:06.80]
+W | carretera | 도로, 차도
+[37:10.80]
+E | En carretera el peatón debe circular por la izquierda. | 차도에서 보행자는 왼쪽으로 다녀야 한다.
+[37:17.00]
+W | casco | 헬멧
+[37:19.70]
+E | Tienes que ponerte el casco cuando vayas en moto. | 오토바이를 탈 때는 헬멧을 써야 한다.
+[37:24.80]
+W | chaleco salvavidas | 구명조끼
+[37:29.30]
+E | Los supervivientes del naufragio tenían puestos los chalecos salvavidas. | 난파 사고의 생존자들은 구명조끼를 입고 있었다.
+[37:36.20]
+W | chocar | 부딪치다, 충돌하다
+[37:39.40]
+E | Si giras así, vamos a chocar contra el farol. | 그렇게 돌면 가로등에 부딪치겠다.
+[37:43.80]
+W | cinturón de seguridad | 안전벨트
+[37:48.20]
+E | Hay que abrocharse el cinturón de seguridad al sentarse. | 자리에 앉으면 안전벨트를 매야 한다.
+[37:54.30]
+W | coche | 자동차
+[37:57.50]
+E | Voy a comprar un coche de último modelo. | 최신 모델 자동차를 살 것이다.
+[38:02.40]
+W | conducir | 운전하다
+[38:05.00]
+E | Mi padre conduce el autobús. | 우리 아버지는 버스를 운전하신다.
+[38:10.20]
+W | cristal | 유리
+[38:12.90]
+E | Tus cristales están sucios. No podrás ver bien. | 네 유리가 더러워. 잘 안 보일 거야.
+[38:18.30]
+W | despegar | 이륙하다
+[38:20.90]
+E | ¡Abróchense los cinturones! El avión va a despegar. | 안전벨트를 매 주십시오! 비행기가 곧 이륙합니다.
+[38:27.60]
+W | destino | 목적지
+[38:30.60]
+E | El destino de este barco es Incheon. | 이 배의 목적지는 인천이다.
+[38:35.40]
+W | embarque | 승선, 탑승
+[38:39.50]
+E | Lleven en la mano su tarjeta de embarque. | 탑승권을 손에 들고 계십시오.
+[38:44.60]
+W | entrada | 입장, 입구
+[38:48.60]
+E | Quedamos en la entrada del edificio. | 우리는 건물 입구에서 만나기로 했다.
+[38:53.30]
+W | facturar el equipaje | 짐을 부치다, 수하물을 탁송하다
+[39:00.30]
+E | ¡Date prisa! Tenemos que facturar el equipaje. | 서둘러! 짐을 부쳐야 해.
+[39:05.50]
+W | frenar | 멈추다, 브레이크를 밟다
+[39:09.00]
+E | El automóvil frenó delante del semáforo. | 자동차가 신호등 앞에서 멈췄다.
+[39:13.20]
+W | gasolina | 휘발유
+[39:16.60]
+E | Cada día sube el precio de la gasolina. | 휘발윳값이 날마다 오른다.
+[39:21.70]
+W | girar | 돌다, 회전하다
+[39:28.50]
+E | Gire en la primera calle a la derecha. | 첫 번째 길에서 오른쪽으로 도세요.
+[39:33.30]
+W | helicóptero | 헬리콥터
+[39:36.70]
+E | Varios helicópteros rescataron a los náufragos. | 헬리콥터 여러 대가 조난자들을 구조했다.
+[39:42.10]
+W | horario | 시간표
+[39:44.20]
+E | Los pasajeros deben consultar el nuevo horario de autobuses. | 승객들은 새 버스 시간표를 확인해야 한다.
+[39:51.50]
+W | llegada | 도착
+[39:54.70]
+E | Esperamos la llegada del avión de París. | 우리는 파리발 비행기의 도착을 기다린다.
+[39:59.60]
+W | maletero | (자동차) 트렁크, 짐칸
+[40:04.30]
+E | Este coche tiene un maletero muy amplio. | 이 차는 트렁크가 아주 넓다.
+[40:09.10]
+W | metro | 지하철
+[40:11.50]
+E | ¿Debes tomar el metro para llegar a tiempo? | 제시간에 도착하려면 지하철을 타야 하니?
+[40:18.30]
+W | motocicleta | 오토바이
+[40:20.70]
+E | ¿Cuál es la ropa adecuada para montar en motocicleta? | 오토바이를 탈 때 알맞은 옷은 무엇일까?
+[40:27.00]
+W | pasajero, pasajera | 승객
+[40:30.50]
+E | ¡Pasajeros, al tren! | 승객 여러분, 기차에 타세요!
+[40:34.90]
+W | pasaporte | 여권
+[40:35.80]
+E | La policía de aduanas revisa los pasaportes de los viajeros. | 세관 경찰이 여행객들의 여권을 검사한다.
+[40:43.90]
+W | piloto | 조종사
+[40:46.90]
+E | El piloto del avión se comunicó por radio con el aeropuerto. | 비행기 조종사가 무전으로 공항과 교신했다.
+[40:53.30]
+W | puerto | 항구
+[40:56.10]
+E | ¿De qué puerto sale ese barco? | 그 배는 어느 항구에서 출발하니?
+[41:00.10]
+W | rápido, rápida | 빠른
+[41:03.00]
+E | Con un movimiento rápido, el coche se alejó de la carretera. | 빠른 움직임으로 차는 도로에서 멀어졌다.
+[41:11.00]
+W | retraso | 지연, 연착
+[41:12.90]
+E | El retraso de los vuelos se debió a las lluvias. | 항공편 지연은 비 때문이었다.
+[41:19.10]
+W | rueda | 바퀴
+[41:21.10]
+E | Le voy a cambiar la rueda al coche. | 차 바퀴를 갈아 끼울 것이다.
+[41:26.90]
+W | salida | 출구, 출발
+[41:29.40]
+E | La salida de la autopista está a 200 metros. | 고속도로 출구는 200미터 앞에 있다.
+[41:36.90]
+W | semáforo | 신호등
+[41:38.90]
+E | El semáforo está en rojo. | 신호등이 빨간불이다.
+[41:44.00]
+W | tardar | (시간이) 걸리다, 늦다
+[41:46.80]
+E | No te preocupes, no tardaré mucho en llegar. | 걱정하지 마, 곧 도착할 거야.
+[41:53.90]
+W | taxi | 택시
+[41:54.90]
+E | Tomé un taxi en la plaza. | 광장에서 택시를 탔다.
+[41:59.60]
+W | tráfico | 교통, 교통량
+[42:02.00]
+E | El puerto de Buenos Aires tiene mucho tráfico. | 부에노스아이레스 항구는 교통량이 많다.
+[42:07.20]
+W | tren | 기차
+[42:10.90]
+E | Fuimos a visitar a sus padres en tren. | 우리는 기차를 타고 그의 부모님을 뵈러 갔다.
+[42:15.40]
+W | vehículo | 차량, 탈것, 운송 수단
+[42:21.00]
+E | El barco es un vehículo mucho más lento que el avión. | 배는 비행기보다 훨씬 느린 운송 수단이다.
+[42:27.10]
+W | velocidad | 속도
+[42:30.60]
+E | El automóvil tomó la curva a toda velocidad. | 자동차가 전속력으로 커브를 돌았다.
+[42:36.10]
+W | ventanilla | 창구, 매표소
+[42:40.80]
+E | Compré los billetes en la ventanilla. | 매표소에서 표를 샀다.
+[42:45.70]
+W | volante | (자동차) 핸들
+[42:48.40]
+E | No debes soltar el volante del coche mientras conduces. | 운전하는 동안 핸들을 놓으면 안 된다.
+
+## Unidad 3. Localización · 위치
+[43:04.70]
+W | abajo | 아래로, 아래에
+[43:08.10]
+E | El vaso cayó hacia abajo. | 컵이 아래로 떨어졌다.
+[43:14.20]
+W | adentro | 안으로, 안에
+[43:17.10]
+E | Vamos adentro del bosque. | 숲 안으로 들어가자.
+[43:21.20]
+W | afuera | 밖에, 밖으로, 바깥
+[43:25.70]
+E | Mi tío viene de afuera, no vive aquí. | 우리 삼촌은 외지에서 오는 거라 여기 살지 않는다.
+[43:30.40]
+W | ahí | 거기
+[43:33.70]
+E | Julia, ¿estás ahí? | 훌리아, 거기 있니?
+[43:37.50]
+W | a la derecha de | ~의 오른쪽에
+[43:41.10]
+E | Mi casa queda a la derecha. | 우리 집은 오른쪽에 있다.
+[43:45.60]
+W | a la izquierda de | ~의 왼쪽에
+[43:49.10]
+E | La calle Machado es la tercera a la izquierda. | 마차도 거리는 왼쪽 세 번째 길이다.
+[43:55.20]
+W | al final de | ~의 끝에
+[43:58.20]
+E | Mi padre me esperaba al final del camino. | 아버지가 길 끝에서 나를 기다리고 계셨다.
+[44:03.30]
+W | al fondo de | ~의 안쪽에, ~의 맨 끝에
+[44:07.10]
+E | La salida de emergencia está al fondo. | 비상구는 안쪽 끝에 있다.
+[44:11.70]
+W | al lado de | ~의 옆에
+[44:15.30]
+E | Su casa está al lado de la estación. | 그의 집은 역 옆에 있다.
+[44:19.50]
+W | allí | 저기
+[44:22.80]
+E | Tu coche estará por allí, entre los autobuses. | 네 차는 아마 저기 버스들 사이에 있을 거야.
+[44:28.10]
+W | aquí | 여기
+[44:31.20]
+E | Aquí está mi gato durmiendo, ¿lo ves? | 여기 내 고양이가 자고 있어, 보이니?
+[44:35.40]
+W | arriba | 위로, 위에
+[44:38.90]
+E | La casa tiene dos pisos y los cuartos están arriba. | 그 집은 2층이고 방들은 위층에 있다.
+[44:45.50]
+W | cerca de | ~ 가까이에
+[44:48.80]
+E | Ahora tengo el trabajo cerca de casa. | 이제 직장이 집 가까이에 있다.
+[44:53.60]
+W | debajo de | ~ 아래에
+[44:56.50]
+E | La carta está debajo de aquella revista. | 편지는 저 잡지 아래에 있다.
+[45:02.00]
+W | delante de | ~ 앞에
+[45:04.80]
+E | Voy delante, junto al conductor. | 나는 앞자리, 운전사 옆에 탄다.
+[45:09.70]
+W | dentro de | ~ 안에
+[45:13.20]
+E | Nos tuvimos que quedar dentro porque llovía. | 비가 와서 우리는 안에 있어야 했다.
+[45:18.00]
+W | detrás de | ~ 뒤에
+[45:21.40]
+E | Detrás de esa estantería está lo que buscas. | 네가 찾는 것은 그 책장 뒤에 있다.
+[45:26.10]
+W | encima de | ~ 위에
+[45:29.40]
+E | Deja la taza encima de la mesa. | 컵을 탁자 위에 놓아라.
+[45:34.00]
+W | en el centro de | ~의 중심에
+[45:37.90]
+E | Vivo en el centro de Caracas. | 나는 카라카스 중심가에 산다.
+[45:42.10]
+W | enfrente de | ~ 정면에, ~ 앞에
+[45:47.50]
+E | El hotel está enfrente del ayuntamiento. | 호텔은 시청 맞은편에 있다.
+[45:53.30]
+W | entre | ~ 사이에
+[45:55.80]
+E | Ella encontró las fotos que buscaba entre las páginas de un libro. | 그녀는 찾던 사진들을 책갈피 사이에서 발견했다.
+[46:01.00]
+W | junto a | ~의 옆에, ~ 가까이에
+[46:03.60]
+E | Te esperaré junto a tu casa. | 너희 집 옆에서 기다릴게.
+[46:09.30]
+W | lejos de | ~에서 멀리
+[46:12.20]
+E | Australia está muy lejos de España. | 호주는 스페인에서 아주 멀다.
+[46:18.10]
+W | recto | 곧장, 똑바로
+[46:21.70]
+E | Cuando llegues al semáforo, sigue recto y encontrarás un cruce. | 신호등에 도착하면 곧장 가라, 그러면 교차로가 나올 것이다.
+[46:28.70]
+W | sobre | ~ 위에
+[46:32.20]
+E | El libro está sobre el sillón. | 책은 안락의자 위에 있다.
+
+## Capítulo 8 · Unidad 1. Educación · 교육
+[47:08.50]
+W | academia | 학원
+[47:13.50]
+E | Cada viernes voy a la academia de baile. | 나는 금요일마다 댄스 학원에 간다.
+[47:17.10]
+W | alumno, alumna | 학생
+[47:21.40]
+E | Mis alumnos hablan mucho en la clase de conversación. | 내 학생들은 회화 수업에서 말을 많이 한다.
+[47:27.30]
+W | aprender | 배우다, 암기하다
+[47:32.30]
+E | ¡Has aprendido muy rápido a nadar! | 수영을 정말 빨리 배웠구나!
+[47:36.20]
+W | apuntes | 필기, 수업 내용을 적은 것
+[47:42.60]
+E | Los alumnos tomaron apuntes en clase. | 학생들은 수업 시간에 필기를 했다.
+[47:47.10]
+W | asignatura | 과목
+[47:50.90]
+E | Aprobé todas las asignaturas el año pasado. | 나는 작년에 모든 과목을 통과했다.
+[47:56.70]
+W | asistir | 출석하다, 참석하다
+[48:01.80]
+E | De niña asistía a clases todos los días. | 어렸을 때 나는 매일 수업에 출석했다.
+[48:06.70]
+W | aula | 교실
+[48:10.10]
+E | Daremos la clase en la primera aula. | 수업은 첫 번째 교실에서 하겠다.
+[48:14.40]
+W | beca | 장학금
+[48:17.10]
+E | Me concedieron una beca para irme a Estados Unidos. | 나는 미국에 갈 수 있는 장학금을 받았다.
+[48:24.50]
+W | biblioteca | 도서관
+[48:27.60]
+E | En la biblioteca los libros están clasificados por secciones. | 도서관에서 책들은 분야별로 분류되어 있다.
+[48:34.60]
+W | bolígrafo | 볼펜
+[48:36.80]
+E | ¿Me dejas un bolígrafo azul? | 파란 볼펜 좀 빌려줄래?
+[48:41.30]
+W | carrera | 전공, 직업, 경력
+[48:46.50]
+E | Mi prima empezó la carrera de arquitectura a los 17 años. | 내 사촌은 17살에 건축학 공부를 시작했다.
+[48:52.40]
+W | clase | 교실, 수업
+[48:57.10]
+E | En mi clase hay una chica que sabe hablar griego. | 우리 반에 그리스어를 할 줄 아는 여자아이가 있다.
+[49:02.00]
+W | colegio | 학교
+[49:05.60]
+E | Su hija va a ir a un colegio privado. | 그의 딸은 사립 학교에 다닐 것이다.
+[49:09.90]
+W | compañero, compañera | 동료, 친구, 짝
+[49:14.60]
+E | Juego al fútbol con los compañeros de colegio. | 나는 학교 친구들과 축구를 한다.
+[49:20.50]
+W | cuaderno | 공책
+[49:22.60]
+E | Me he comprado un cuaderno para apuntar todo lo que dice la profesora. | 선생님이 하시는 말씀을 모두 적으려고 공책을 하나 샀다.
+[49:28.90]
+W | curso | 과정, 강좌, 학년
+[49:35.80]
+E | El curso de español fue muy útil. | 스페인어 강좌는 아주 유익했다.
+[49:41.20]
+W | deberes | 숙제
+[49:43.20]
+E | Puedes salir a jugar después de acabar los deberes. | 숙제를 다 하고 나서 나가 놀아도 된다.
+[49:48.90]
+W | diccionario | 사전
+[49:50.90]
+E | Cuando no sepas el significado de una palabra, búscala en el diccionario. | 단어의 뜻을 모를 때는 사전에서 찾아라.
+[49:59.50]
+W | doctorado | 박사 과정, 박사 학위
+[50:04.50]
+E | El doctorado dura cuatro años. | 박사 과정은 4년이다.
+[50:09.40]
+W | educación | 교육
+[50:10.30]
+E | Los padres se preocupan de dar una buena educación a sus hijos. | 부모는 자녀에게 좋은 교육을 시키려고 애쓴다.
+[50:19.20]
+W | ejercicio | 연습, 연습 문제
+[50:23.40]
+E | Hacer ejercicios de gramática es muy importante para aprender un idioma. | 언어를 배우는 데는 문법 연습 문제를 푸는 것이 아주 중요하다.
+[50:31.10]
+W | enseñar | 가르치다
+[50:33.60]
+E | Mi padre me enseñó a montar en bicicleta. | 아버지가 내게 자전거 타는 법을 가르쳐 주셨다.
+[50:38.00]
+W | escuela | 학교, 학원, 학파
+[50:45.10]
+E | Ella trabaja como profesora de inglés en una escuela. | 그녀는 한 학교에서 영어 교사로 일한다.
+[50:51.00]
+W | especialidad | 전공
+[50:54.00]
+E | Alfonso escogió la especialidad de Lingüística Comparada. | 알폰소는 비교언어학을 전공으로 선택했다.
+[51:00.60]
+W | examen | 시험
+[51:02.00]
+E | Hoy tengo examen oral de inglés. | 오늘 영어 말하기 시험이 있다.
+[51:08.00]
+W | formación profesional | 직업 교육
+[51:12.50]
+E | Está terminando los estudios de formación profesional en peluquería. | 그는 미용 직업 교육 과정을 마쳐 가고 있다.
+[51:18.40]
+W | goma de borrar | 지우개
+[51:22.00]
+E | Déjame la goma de borrar, que me he equivocado. | 지우개 좀 빌려줘, 틀렸어.
+[51:27.20]
+W | graduarse | 졸업하다
+[51:30.40]
+E | Se graduó en Filosofía en 2011. | 그는 2011년에 철학과를 졸업했다.
+[51:35.60]
+W | guardería | 어린이집, 유아원
+[51:38.00]
+E | Su hijo más pequeño va a una guardería desde este verano. | 그의 막내아들은 올여름부터 어린이집에 다닌다.
+[51:45.30]
+W | lápiz | 연필
+[51:48.20]
+E | Ya no escribimos con lápiz tanto como antes. | 우리는 이제 예전만큼 연필로 쓰지 않는다.
+[51:53.90]
+W | maestro, maestra | (초등학교) 선생님, 교사
+[51:57.80]
+E | Es maestra y da clase de matemáticas. | 그녀는 교사이고 수학을 가르친다.
+[52:03.90]
+W | matrícula | 등록, 수강 신청
+[52:08.10]
+E | En la secretaría del centro puede usted consultar la matrícula para este curso. | 학교 행정실에서 이번 학년 등록에 대해 문의하실 수 있습니다.
+[52:16.30]
+W | nota | 성적, 메모
+[52:19.40]
+E | El alumno obtuvo la máxima calificación como nota final. | 그 학생은 최종 성적으로 최고 점수를 받았다.
+[52:26.60]
+W | papel | 종이
+[52:28.30]
+E | Desde ahora voy a usar bolsas de papel en vez de las de plástico. | 이제부터 비닐봉지 대신 종이봉투를 쓸 것이다.
+[52:36.00]
+W | pizarra | 칠판
+[52:38.60]
+E | La profesora llenó la pizarra de ejercicios. | 선생님이 칠판을 연습 문제로 가득 채웠다.
+[52:43.60]
+W | profesor, profesora | 선생님, 교수님
+[52:49.80]
+E | Hoy no ha venido la profesora de piano. | 오늘은 피아노 선생님이 오지 않았다.
+[52:54.40]
+W | prueba | 테스트, 시험
+[52:59.10]
+E | Este fin de semana tengo una prueba de natación. | 이번 주말에 수영 시험이 있다.
+[53:03.90]
+W | título | 학위, 졸업장
+[53:04.70]
+E | Cuando me gradúe, tendré un título universitario. | 졸업하면 나는 대학 학위를 갖게 될 것이다.
+[53:12.60]
+W | tiza | 분필
+[53:14.90]
+E | En el instituto utilizamos unas tizas que no dejan polvo. | 고등학교에서 우리는 가루가 날리지 않는 분필을 쓴다.
+[53:23.40]
+W | universidad | 대학교
+[53:24.50]
+E | Las primeras universidades se crearon en el siglo XIII. | 최초의 대학들은 13세기에 세워졌다.
+
+## Unidad 2. Lengua, literatura · 언어, 문학
+[53:43.60]
+W | autor, autora | 작가, 저자
+[53:47.50]
+E | Nunca se supo quién fue el autor de la obra. | 그 작품의 작가가 누구였는지는 끝내 밝혀지지 않았다.
+[53:53.60]
+W | biografía | 전기
+[53:56.70]
+E | Ella escribió la mejor biografía de García Lorca. | 그녀는 가르시아 로르카의 가장 훌륭한 전기를 썼다.
+[54:01.50]
+W | cómic | 만화
+[54:05.50]
+E | Me gustan los cómics de superhéroes. | 나는 슈퍼히어로 만화를 좋아한다.
+[54:09.70]
+W | consonante | 자음
+[54:13.10]
+E | En esta palabra falta una consonante. | 이 단어에는 자음이 하나 빠져 있다.
+[54:18.70]
+W | conversación | 대화, 회화
+[54:22.60]
+E | Me divierto mucho en la clase de conversación. | 나는 회화 수업이 아주 재미있다.
+[54:28.80]
+W | dialecto | 방언, 사투리
+[54:32.60]
+E | El andaluz es un dialecto del castellano. | 안달루시아어는 스페인어의 방언이다.
+[54:38.30]
+W | editorial | 출판사
+[54:41.60]
+E | Este libro es de la editorial universitaria. | 이 책은 대학 출판사에서 나왔다.
+[54:46.80]
+W | género | 장르
+[54:49.30]
+E | No me gusta ese género de novelas. | 나는 그런 장르의 소설을 좋아하지 않는다.
+[54:54.60]
+W | gramática | 문법
+[54:57.30]
+E | ¿Dónde está el libro de gramática alemana? | 독일어 문법책은 어디 있니?
+[55:02.30]
+W | lector, lectora | 독자
+[55:05.50]
+E | En las cartas al director se expresa la opinión de los lectores del diario. | 독자 투고란에는 신문 독자들의 의견이 실린다.
+[55:13.70]
+W | lengua | 언어
+[55:16.20]
+E | Mi amiga domina varias lenguas. | 내 친구는 여러 언어를 구사한다.
+[55:20.70]
+W | letra | 문자, 글자
+[55:24.40]
+E | La palabra «mosca» tiene cinco letras. | ‘mosca’라는 단어는 다섯 글자이다.
+[55:31.00]
+W | lingüística | 언어학
+[55:33.60]
+E | Trabajo en el Departamento de Lingüística de la universidad. | 나는 대학교 언어학과에서 일한다.
+[55:39.50]
+W | novela | 소설
+[55:42.30]
+E | Don Quijote es la novela de caballerías más famosa del mundo. | 돈키호테는 세상에서 가장 유명한 기사 소설이다.
+[55:49.50]
+W | obra | 작품
+[55:52.70]
+E | A mi profesor le gustan las obras de Borges. | 우리 선생님은 보르헤스의 작품을 좋아하신다.
+[55:57.40]
+W | palabra | 단어, 말
+[56:00.80]
+E | Es difícil distinguir algunas palabras del inglés. | 영어의 어떤 단어들은 구별하기 어렵다.
+[56:06.10]
+W | personaje | 등장인물
+[56:10.00]
+E | La Cenicienta y los tres cerditos son personajes de cuentos infantiles. | 신데렐라와 아기 돼지 삼 형제는 동화 속 등장인물이다.
+[56:16.90]
+W | poema | 시
+[56:20.20]
+E | Antes mi marido me dedicaba poemas románticos. | 예전에 남편은 내게 낭만적인 시를 바치곤 했다.
+[56:26.30]
+W | pronunciación | 발음
+[56:29.20]
+E | Tengo buena pronunciación en francés. | 나는 프랑스어 발음이 좋다.
+[56:33.80]
+W | publicar | 출간하다, 출판하다
+[56:38.20]
+E | Ese periódico fue el primero en publicar la noticia. | 그 신문이 처음으로 그 소식을 보도했다.
+[56:45.50]
+W | significado | 의미
+[56:48.30]
+E | Desconozco el significado de esa sonrisa. | 나는 그 미소의 의미를 모르겠다.
+[56:53.20]
+W | título | 제목
+[56:57.70]
+E | En esta estantería los libros están ordenados por título. | 이 책장에는 책들이 제목순으로 정리되어 있다.
+[57:03.60]
+W | traducción | 번역
+[57:05.80]
+E | Él ganaba un poco de dinero haciendo trabajos de traducción. | 그는 번역 일을 하며 돈을 조금 벌었다.
+[57:12.70]
+W | vocabulario | 어휘, 어휘집
+[57:16.80]
+E | Su vocabulario es muy amplio. | 그는 어휘가 아주 풍부하다.
+[57:21.40]
+W | vocal | 모음
+[57:24.80]
+E | El español tiene cinco vocales. | 스페인어에는 모음이 다섯 개 있다.
+
+## Unidad 3. Religión, otros estudios · 종교, 기타 학문
+[57:42.80]
+W | arquitectura | 건축, 건축학
+[57:45.80]
+E | A Celia le fascinó la arquitectura árabe. | 셀리아는 아랍 건축에 매료되었다.
+[57:50.70]
+W | bellas artes | 예술, 미술
+[57:56.30]
+E | Mi padre siempre ha tenido mucho interés en las bellas artes. | 우리 아버지는 늘 미술에 관심이 많으셨다.
+[58:01.90]
+W | Biblia | 성경
+[58:05.60]
+E | Cada noche leo unas páginas de la Biblia. | 나는 매일 밤 성경을 몇 쪽씩 읽는다.
+[58:09.90]
+W | biología | 생물, 생물학
+[58:14.10]
+E | La biología es una ciencia que trata de los seres vivos. | 생물학은 생명체를 다루는 과학이다.
+[58:21.20]
+W | budismo | 불교
+[58:23.80]
+E | El budismo surgió en la India en el siglo VI a. C. y se extendió por gran parte de Asia. | 불교는 기원전 6세기 인도에서 생겨나 아시아 대부분 지역으로 퍼졌다.
+[58:32.00]
+W | católico, católica | 가톨릭 신자, 가톨릭의
+[58:38.40]
+E | Los católicos, los protestantes y los ortodoxos son cristianos. | 가톨릭 신자, 개신교 신자, 정교회 신자는 모두 그리스도교인이다.
+[58:44.90]
+W | ciencias de la educación | 교육학
+[58:46.50]
+E | Ella es doctora en Ciencias de la Educación. | 그녀는 교육학 박사이다.
+[58:54.40]
+W | cristianismo | 그리스도교, 기독교
+[58:56.80]
+E | El cristianismo es la religión mayoritaria de Europa. | 그리스도교는 유럽에서 신자가 가장 많은 종교이다.
+[59:03.00]
+W | derecho | 법학
+[59:05.80]
+E | Mi hermana está haciendo el doctorado en Derecho Internacional. | 우리 언니는 국제법 박사 과정을 밟고 있다.
+[59:10.90]
+W | Dios | 신, 하느님
+[59:14.70]
+E | Alá es el nombre de Dios en árabe. | 알라는 아랍어로 신을 부르는 이름이다.
+[59:19.50]
+W | economía | 경제, 경제학
+[59:21.70]
+E | La economía actual de España está en crisis. | 현재 스페인 경제는 위기에 처해 있다.
+[59:28.10]
+W | filología | 문헌학, 어문학
+[59:30.70]
+E | Mi especialidad es la filología española. | 내 전공은 스페인 어문학이다.
+[59:36.60]
+W | filosofía | 철학
+[59:38.00]
+E | La filosofía griega se considera la base del pensamiento occidental. | 그리스 철학은 서양 사상의 토대로 여겨진다.
+[59:45.90]
+W | física | 물리학
+[59:49.00]
+E | El estudiante suspendió la física en junio. | 그 학생은 6월에 물리 과목에서 낙제했다.
+[59:54.60]
+W | geografía | 지리학
+[59:56.80]
+E | La geografía es mi asignatura favorita. | 지리는 내가 가장 좋아하는 과목이다.
+[60:02.30]
+W | infierno | 지옥
+[60:04.00]
+E | Esta oficina se ha convertido en un infierno por los continuos rumores. | 끊임없는 소문 때문에 이 사무실은 지옥이 되었다.
+[60:12.60]
+W | ingeniería | 공학
+[60:12.60]
+E | La clonación es posible gracias a la ingeniería genética. | 복제는 유전 공학 덕분에 가능하다.
+[60:21.90]
+W | islamismo | 이슬람교
+[60:25.70]
+E | El Corán es el libro sagrado del islamismo. | 코란은 이슬람교의 경전이다.
+[60:31.00]
+W | matemáticas | 수학
+[60:34.00]
+E | Voy a clase de matemáticas. | 나는 수학 수업에 간다.
+[60:38.80]
+W | medicina | 의학, 약
+[60:42.90]
+E | La lucha contra el cáncer ha encontrado muy buenas respuestas en la medicina alternativa. | 암과의 싸움에서 대체 의학이 아주 좋은 해답을 찾아냈다.
+[60:50.70]
+W | periodismo | 언론, 신문 방송학
+[60:56.20]
+E | Él ya dejó la carrera de periodismo para dedicarse a la literatura. | 그는 문학에 전념하려고 이미 신문 방송학 공부를 그만두었다.
+[61:01.70]
+W | política | 정치, 정치학
+[61:05.20]
+E | Mi tío se ha metido en política. | 우리 삼촌은 정치에 뛰어들었다.
+[61:09.20]
+W | psicología | 심리학
+[61:13.10]
+E | La psicología tiene sus raíces en la filosofía. | 심리학은 철학에 뿌리를 두고 있다.
+[61:18.00]
+W | química | 화학
+[61:21.40]
+E | Si quieres ser farmacéutica, deberás estudiar mucha química. | 약사가 되고 싶다면 화학을 많이 공부해야 할 것이다.
+[61:27.40]
+W | religión | 종교
+[61:31.20]
+E | La religión acompaña al hombre desde sus orígenes. | 종교는 인류의 기원부터 인간과 함께해 왔다.
+[61:36.20]
+W | sacerdote | 사제, 승려
+[61:41.10]
+E | Iba con un sacerdote budista en el autobús. | 나는 버스에서 한 불교 승려와 함께 가고 있었다.
+[61:45.70]
+W | sociología | 사회학
+[61:49.90]
+E | En sociología estudian el porqué del aumento de la xenofobia en todo el mundo. | 사회학에서는 전 세계적으로 외국인 혐오가 늘어나는 이유를 연구한다.
+[61:56.60]
+W | superstición | 미신
+[62:00.40]
+E | Creer en brujas es pura superstición. | 마녀를 믿는 것은 순전한 미신이다.
+[62:06.00]
+W | templo | 신전, 사원
+[62:09.80]
+E | La Mezquita de Córdoba fue un templo musulmán. | 코르도바의 메스키타는 이슬람 사원이었다.
+[62:16.20]
+W | teología | 신학
+[62:18.20]
+E | Estudió teología en los Estados Unidos. | 그는 미국에서 신학을 공부했다.
+
+## Unidad 4. Medios de comunicación · 대중 매체
+[62:35.10]
+W | cadena | 방송사, 방송국
+[62:40.00]
+E | Es una cadena local y por tanto no llega a toda España. | 지역 방송국이라서 스페인 전역에 방송되지는 않는다.
+[62:45.60]
+W | canal | 채널
+[62:47.90]
+E | Mi televisor solo tiene cinco canales. | 우리 텔레비전은 채널이 다섯 개밖에 안 나온다.
+[62:54.90]
+W | concurso | 경연 대회, 퀴즈 프로그램
+[62:58.80]
+E | El concurso de baile fue todo un éxito. | 춤 경연 대회는 대성공이었다.
+[63:04.10]
+W | debate | 토론
+[63:06.80]
+E | Antes de votar, quiero ver el debate de los candidatos en la televisión. | 투표하기 전에 텔레비전에서 후보자 토론을 보고 싶다.
+[63:15.00]
+W | documental | 다큐멘터리
+[63:16.80]
+E | Pusieron un documental antes de la película. | 영화 전에 다큐멘터리를 방영했다.
+[63:23.20]
+W | emitir | 방송하다
+[63:26.10]
+E | Algunas radios emiten durante todo el día. | 어떤 라디오 방송국은 하루 종일 방송한다.
+[63:31.20]
+W | en directo | 생방송으로
+[63:34.70]
+E | Luis Miguel va a cantar en directo en un programa de esta noche. | 루이스 미겔이 오늘 밤 한 프로그램에서 라이브로 노래할 것이다.
+[63:41.90]
+W | entrevista | 인터뷰
+[63:41.90]
+E | La cantante actuó con seguridad en la entrevista. | 그 가수는 인터뷰에서 자신 있게 행동했다.
+[63:50.10]
+W | enviado especial, enviada especial | 특파원
+[63:54.50]
+E | El programa conectó con el enviado especial. | 프로그램이 특파원을 연결했다.
+[64:01.20]
+W | episodio | 에피소드, (연속극의) 회
+[64:06.70]
+E | Ayer vi el quinto episodio de mi telenovela preferida. | 어제 내가 가장 좋아하는 드라마의 5회를 봤다.
+[64:13.00]
+W | grabación | 녹음, 녹화
+[64:13.00]
+E | Cortaron la grabación para hacer un descanso. | 쉬는 시간을 가지려고 녹화를 중단했다.
+[64:21.50]
+W | informativo | 뉴스 (프로그램)
+[64:21.50]
+E | Cada noche a las nueve vemos el informativo. | 우리는 매일 밤 9시에 뉴스를 본다.
+[64:30.50]
+W | locutor, locutora | 아나운서
+[64:30.50]
+E | Es locutora de los informativos de una emisora de radio. | 그녀는 한 라디오 방송국의 뉴스 아나운서이다.
+[64:37.20]
+W | medio de comunicación de masas | 대중 매체
+[64:44.80]
+E | Los medios de comunicación nos ayudan a relacionarnos con el mundo. | 대중 매체는 우리가 세상과 관계를 맺도록 도와준다.
+[64:53.60]
+W | micrófono | 마이크
+[64:53.60]
+E | Acércame más el micrófono. | 마이크를 좀 더 가까이 대 줘.
+[65:00.50]
+W | noticias | 뉴스, 소식
+[65:00.50]
+E | Mi abuelo siempre pone la radio para escuchar las noticias. | 우리 할아버지는 늘 뉴스를 들으려고 라디오를 켜신다.
+[65:11.30]
+W | periódico | 신문
+[65:15.10]
+E | Todos los periódicos del país recogen la noticia del accidente. | 국내 모든 신문이 그 사고 소식을 싣고 있다.
+[65:20.50]
+W | presentador, presentadora | 사회자, 진행자
+[65:25.20]
+E | La presentadora del concurso vestía de rojo. | 퀴즈 프로그램 진행자는 빨간 옷을 입고 있었다.
+[65:30.20]
+W | publicidad | 광고
+[65:32.90]
+E | Los anuncios de televisión son medios muy utilizados por la publicidad. | 텔레비전 광고는 광고업계에서 아주 많이 쓰는 매체이다.
+[65:40.40]
+W | reportaje | 르포, 보도
+[65:45.40]
+E | Me encantan los reportajes sobre animales. | 나는 동물 르포 프로그램을 정말 좋아한다.
+[65:50.70]
+W | revista | 잡지
+[65:53.20]
+E | Estoy leyendo una revista de ciencias. | 나는 과학 잡지를 읽고 있다.
+[65:57.80]
+W | rueda de prensa | 기자 회견
+[66:01.70]
+E | El presidente del Gobierno ofreció una rueda de prensa al término de su reunión con el líder de la oposición. | 총리는 야당 대표와의 회담을 마치고 기자 회견을 열었다.
+[66:10.40]
+W | serie | 시리즈, 연속극
+[66:15.50]
+E | Empezaron a emitir una serie policial que está dando que hablar. | 화제가 되고 있는 경찰 드라마가 방영되기 시작했다.
+[66:21.90]
+W | telenovela | TV 드라마, 연속극
+[66:24.30]
+E | Mi madre no se perdía por nada del mundo la telenovela de la tarde. | 우리 어머니는 오후 드라마를 무슨 일이 있어도 놓치지 않으셨다.
+[66:32.00]
+W | volumen | 볼륨, 음량
+[66:36.10]
+E | Baja un poco el volumen de la radio. | 라디오 소리를 좀 줄여라.
+
+## Unidad 5. Teléfono, correos · 전화, 우편
+[66:52.70]
+W | apartado de correos | 사서함
+[66:56.00]
+E | Debes enviarme todas las cartas a mi apartado de correos. | 모든 편지는 내 사서함으로 보내야 한다.
+[67:02.30]
+W | batería | 배터리
+[67:05.20]
+E | Dejé encendido el teléfono toda la noche y se agotó la batería. | 밤새 전화기를 켜 두었더니 배터리가 다 닳았다.
+[67:11.60]
+W | buzón | 우체통, 우편함
+[67:14.60]
+E | Si sales, ¿me echas esta carta en el buzón? | 나가는 길에 이 편지 좀 우체통에 넣어 줄래?
+[67:18.70]
+W | cabina de teléfono | 공중전화 부스
+[67:24.00]
+E | Antes era fácil encontrar una cabina de teléfono en la calle. | 예전에는 길에서 공중전화 부스를 쉽게 찾을 수 있었다.
+[67:29.40]
+W | carta | 편지
+[67:33.10]
+E | No has recibido mi carta porque escribí mal tu dirección. | 내가 주소를 잘못 써서 너는 내 편지를 받지 못했다.
+[67:38.20]
+W | certificado, certificada | 등기 우편물, 등기된
+[67:45.40]
+E | ¿Cuánto cuesta mandar a España un paquete por correo certificado? | 스페인에 소포를 등기로 보내려면 얼마인가요?
+[67:51.30]
+W | código postal | 우편 번호
+[67:54.70]
+E | Mi código postal es 26134. | 내 우편 번호는 26134이다.
+[68:00.40]
+W | contestador automático | 자동 응답기
+[68:04.70]
+E | Como nunca está en casa, se ha comprado un contestador automático para saber si alguien lo ha llamado. | 그는 집에 있는 일이 없어서 누가 전화했는지 알려고 자동 응답기를 샀다.
+[68:14.40]
+W | correo | 우편, 우편물
+[68:16.00]
+E | Antes de subir a casa, coge el correo del buzón. | 집에 올라가기 전에 우편함에서 우편물을 꺼내 와라.
+[68:21.20]
+W | destinatario, destinataria | 수취인, 수신인
+[68:25.90]
+E | La carta se la han devuelto porque los datos del destinatario estaban equivocados. | 수취인 정보가 잘못되어 편지가 그에게 반송되었다.
+[68:34.30]
+W | dirección | 주소
+[68:36.90]
+E | Necesito enviarle un paquete, pero no sé su dirección. | 그에게 소포를 보내야 하는데 주소를 모른다.
+[68:42.70]
+W | enviar | 보내다
+[68:45.40]
+E | Envíales una postal a tus padres. | 부모님께 엽서를 보내 드려라.
+[68:50.40]
+W | estar comunicando | 통화 중이다
+[68:53.80]
+E | Llevo toda la tarde llamando, pero no he podido hablar con ella todavía porque el teléfono lleva comunicando todo el día. | 오후 내내 전화하고 있는데, 하루 종일 통화 중이라 아직 그녀와 통화하지 못했다.
+[69:02.30]
+W | gastos de envío | 우송료, 우편 요금
+[69:07.10]
+E | La empresa de transportes nos comunicó los gastos de envío. | 운송 회사가 우리에게 배송비를 알려 주었다.
+[69:13.90]
+W | guía telefónica | 전화번호부
+[69:18.10]
+E | Encontré tu número en la guía telefónica. | 전화번호부에서 네 번호를 찾았다.
+[69:22.50]
+W | llamar por teléfono | 전화하다
+[69:27.10]
+E | En cuanto llegue a casa, te llamaré. | 집에 도착하자마자 너에게 전화할게.
+[69:31.80]
+W | número | 번호
+[69:32.30]
+E | Usted ha llamado a un número equivocado. | 잘못 거셨습니다.
+[69:38.90]
+W | paquete | 소포, 꾸러미
+[69:43.50]
+E | Recogí sus cosas, hice un paquete y se lo envié por correo. | 그의 물건을 챙겨 소포로 싸서 우편으로 보내 주었다.
+[69:49.60]
+W | postal | 엽서
+[69:51.10]
+E | Mi hijo envió unas postales desde Marruecos. | 아들이 모로코에서 엽서 몇 장을 보냈다.
+[69:57.20]
+W | prefijo | 지역 번호, 국가 번호
+[70:01.30]
+E | El prefijo de Seúl es el 02. | 서울의 지역 번호는 02이다.
+[70:07.30]
+W | recado | 메모, 전언
+[70:11.50]
+E | ¿Puedes darle a Antonio un recado de mi parte? | 안토니오에게 내 말 좀 전해 줄 수 있니?
+[70:16.70]
+W | sello | 우표
+[70:19.60]
+E | Pon aquí los sellos. | 여기에 우표를 붙여라.
+[70:23.60]
+W | sobre | 봉투
+[70:26.10]
+E | En el sobre no está escrita la dirección del destinatario. | 봉투에 수신인 주소가 적혀 있지 않다.
+[70:31.70]
+W | tarifa | 요금
+[70:35.20]
+E | De noche se reduce la tarifa telefónica. | 밤에는 전화 요금이 내려간다.
+[70:39.90]
+W | teléfono | 전화, 전화기
+[70:43.40]
+E | Dejaste mal colgado el teléfono. | 너 전화를 제대로 안 끊었어.
+
+## Unidad 6. Internet · 인터넷
+[70:57.70]
+W | adjuntar | 첨부하다
+[71:01.10]
+E | Adjunto mi currículum a la solicitud de beca. | 장학금 신청서에 제 이력서를 첨부합니다.
+[71:07.10]
+W | archivo | 파일
+[71:10.10]
+E | Borré varios archivos de texto del disco duro. | 하드디스크에서 텍스트 파일 몇 개를 지웠다.
+[71:15.60]
+W | arroba | 골뱅이(@)
+[71:19.80]
+E | Mi dirección de correo electrónico es mar@adelaide.com. | 내 이메일 주소는 mar@adelaide.com이다.
+[71:26.90]
+W | base de datos | 데이터베이스
+[71:31.50]
+E | Mis amigos me están enseñando a manejar una base de datos. | 친구들이 내게 데이터베이스 다루는 법을 가르쳐 주고 있다.
+[71:37.90]
+W | buscador | 검색창, 검색 엔진
+[71:41.20]
+E | Escribe la palabra en el buscador de Internet. | 인터넷 검색창에 그 단어를 입력해라.
+[71:46.10]
+W | chatear | 채팅하다
+[71:49.20]
+E | A ella le gusta chatear en Internet. | 그녀는 인터넷에서 채팅하는 것을 좋아한다.
+[71:54.30]
+W | conectarse | 접속하다, 연결하다
+[71:58.90]
+E | Mi ordenador no se puede conectar con tu impresora porque no son compatibles. | 내 컴퓨터는 네 프린터와 호환되지 않아서 연결이 안 된다.
+[72:06.30]
+W | contraseña | 비밀번호, 암호
+[72:10.20]
+E | Olvidé mi contraseña de correo electrónico. | 이메일 비밀번호를 잊어버렸다.
+[72:15.80]
+W | correo electrónico | 이메일, 전자 우편
+[72:20.30]
+E | No tengo tu dirección de correo electrónico. | 나는 네 이메일 주소를 모른다.
+[72:26.30]
+W | descargar | 다운로드하다
+[72:30.10]
+E | Voy a descargar un programa para ver este archivo. | 이 파일을 보려고 프로그램을 하나 내려받을 것이다.
+[72:35.00]
+W | disco duro | 하드디스크
+[72:39.20]
+E | En el disco duro almacenamos programas y datos. | 우리는 하드디스크에 프로그램과 데이터를 저장한다.
+[72:44.20]
+W | instalar un programa | 프로그램을 설치하다
+[72:48.90]
+E | No sé cómo instalar este programa en mi ordenador. | 이 프로그램을 내 컴퓨터에 어떻게 설치하는지 모르겠다.
+[72:55.50]
+W | mensaje | 메시지
+[72:58.90]
+E | Te voy a enviar un mensaje por correo electrónico. | 이메일로 너에게 메시지를 보낼게.
+[73:03.80]
+W | navegar | (인터넷을) 돌아다니다, 웹 서핑하다
+[73:09.90]
+E | Encontró la información que buscaba navegando por la red. | 그는 인터넷을 검색하다가 찾던 정보를 발견했다.
+[73:15.50]
+W | página web | 웹페이지, 홈페이지
+[73:21.10]
+E | Mira en la página web para obtener más información. | 더 많은 정보는 웹페이지에서 확인해라.
+[73:26.50]
+W | pantalla | 모니터, 화면
+[73:30.50]
+E | ¿Por qué no se enciende la pantalla? | 화면이 왜 안 켜지지?
+[73:35.80]
+W | punto | 마침표, 점
+[73:39.50]
+E | Después de punto siempre se escribe mayúscula inicial. | 마침표 다음에는 항상 대문자로 시작한다.
+[73:46.00]
+W | ratón | 마우스
+[73:48.90]
+E | Dale al ratón para mover el cursor por la pantalla. | 마우스를 움직여 화면에서 커서를 옮겨라.
+[73:54.20]
+W | red | 인터넷, 통신망
+[73:58.70]
+E | Tienes que aprender a navegar por la red. | 너는 인터넷 검색하는 법을 배워야 한다.
+[74:04.10]
+W | teclado | 키보드
+[74:06.90]
+E | El teclado del ordenador no me ha costado mucho. | 컴퓨터 키보드는 별로 비싸지 않았다.

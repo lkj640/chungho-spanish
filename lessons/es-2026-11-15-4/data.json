@@ -1,0 +1,6199 @@
+{
+ "id": "es-2026-11-15-4",
+ "lang": "es",
+ "date": "2026-11-15",
+ "title": "스페인어 어휘를 부탁해 ③ — 자연·도시·문화 (6–8장)",
+ "es": "Cuando llegues al semáforo, sigue recto y encontrarás un cruce.",
+ "emoji": "🌍",
+ "level": "A2–B1",
+ "channel": "스페인어 어휘를 부탁해 (MP3)",
+ "videoTitle": "스페인어 어휘를 부탁해 — 3/4편",
+ "audio": "audio.m4a",
+ "duration": "74:30",
+ "speakers": {
+  "W": "표제어",
+  "E": "예문"
+ },
+ "hideCast": true,
+ "summary": "6장 자연(우주·지구·지리, 날씨와 자연 현상, 동물, 식물, 환경), 7장 도시(건물·거리, 교통, 위치 표현), 8장 문화(교육, 언어·문학, 종교·학문, 대중 매체, 전화·우편, 인터넷)의 단어 455개를 다룹니다. 스페인어 표제어 → 한국어 뜻 → 예문 순서로 들으면서 예문을 소리 내어 따라 읽고, 명사는 관사(el/la)와 함께 외우세요. 날씨 표현(hace calor, hace sol…)과 위치 표현(cerca de, enfrente de…)은 통째로 익혀 두면 바로 회화에 쓸 수 있어요.",
+ "topics": [
+  "우주·지구·지리: la Tierra · el mar · la montaña · el norte · la isla",
+  "날씨·자연 현상: hace sol · la lluvia · la niebla · el terremoto · la temperatura",
+  "동물·식물: el perro · el caballo · la abeja · el árbol · la flor · regar",
+  "환경: la contaminación · el cambio climático · reciclar · la basura",
+  "도시·교통: la calle · la plaza · el aeropuerto · el atasco · aparcar",
+  "위치 표현: cerca de · lejos de · enfrente de · encima de · al lado de",
+  "교육·매체·통신: la asignatura · la beca · el periódico · el buzón · la contraseña"
+ ],
+ "grammar": [
+  {
+   "title": "① 날씨 표현 — hacer / estar / hay",
+   "lead": "스페인어에서 날씨는 주로 <b>hace + 명사</b>로 말해요. 기온은 <b>estar a + 숫자 + grados</b>, 눈에 보이는 현상은 <b>hay</b>를 씁니다.",
+   "table": {
+    "head": [
+     "형태",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "hace calor / frío",
+      "덥다 / 춥다",
+      "Hoy no hace ni frío ni calor."
+     ],
+     [
+      "hace sol / viento",
+      "해가 나다 / 바람이 분다",
+      "Ayer hizo mucho viento en el este del país."
+     ],
+     [
+      "hace buen / mal tiempo",
+      "날씨가 좋다 / 나쁘다",
+      "Hoy hace buen tiempo, pero mañana va a llover."
+     ],
+     [
+      "estar a ... grados",
+      "기온이 ~도이다",
+      "Ayer estuvimos a diez grados."
+     ],
+     [
+      "hay niebla / tormenta",
+      "안개가 끼다 / 폭풍우가 있다",
+      "Hay mucha niebla en la carretera."
+     ],
+     [
+      "llover / nevar",
+      "비가 오다 / 눈이 오다",
+      "En todo el sur de la península lloverá mañana."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Este verano no ha hecho mucho calor.",
+     "올여름은 그다지 덥지 않았다."
+    ],
+    [
+     "Hoy estamos a ocho grados bajo cero.",
+     "오늘은 영하 8도이다."
+    ],
+    [
+     "El primer día hacía sol, hacía buen tiempo.",
+     "첫날은 해가 나고 날씨가 좋았다."
+    ]
+   ],
+   "tip": "hacer는 날씨에서 항상 3인칭 단수(hace, hizo, hacía)로만 써요. ‘덥다’를 Es calor라고 하지 않도록 주의!"
+  },
+  {
+   "title": "② 동물의 성 — o/a, 따로 쓰는 단어, macho/hembra",
+   "lead": "동물 명사는 <b>-o → -a</b>로 암수를 나누는 경우가 많지만, 아예 <b>다른 단어</b>를 쓰거나 <b>macho / hembra</b>를 붙이는 경우도 있어요.",
+   "table": {
+    "head": [
+     "수컷",
+     "암컷",
+     "메모"
+    ],
+    "rows": [
+     [
+      "el gato",
+      "la gata",
+      "-o → -a"
+     ],
+     [
+      "el león",
+      "la leona",
+      "자음 + -a"
+     ],
+     [
+      "el elefante",
+      "la elefanta",
+      "-e → -a"
+     ],
+     [
+      "el gallo",
+      "la gallina",
+      "다른 형태"
+     ],
+     [
+      "el toro",
+      "la vaca",
+      "완전히 다른 단어"
+     ],
+     [
+      "la codorniz macho",
+      "la codorniz hembra",
+      "성이 하나뿐인 동물"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "La yegua es la hembra del caballo.",
+     "암말은 말의 암컷이다."
+    ],
+    [
+     "Es una codorniz macho.",
+     "이것은 수컷 메추라기이다."
+    ],
+    [
+     "Los gallos suelen cantar al amanecer.",
+     "수탉은 보통 새벽에 운다."
+    ]
+   ],
+   "tip": "el águila처럼 강세 있는 a-로 시작하는 여성 명사는 단수에서 el을 쓰지만 여전히 여성이에요: el águila blanca, las águilas."
+  },
+  {
+   "title": "③ 위치 표현 — 부사 vs. 부사 + de",
+   "lead": "위치 부사는 혼자 쓰면 ‘~에’, 뒤에 명사가 오면 <b>de</b>를 붙여요. <b>de + el = del</b>로 줄어드는 것에 주의!",
+   "table": {
+    "head": [
+     "혼자",
+     "+ 명사",
+     "예"
+    ],
+    "rows": [
+     [
+      "cerca",
+      "cerca de",
+      "Ahora tengo el trabajo cerca de casa."
+     ],
+     [
+      "lejos",
+      "lejos de",
+      "Australia está muy lejos de España."
+     ],
+     [
+      "delante",
+      "delante de",
+      "Voy delante, junto al conductor."
+     ],
+     [
+      "dentro",
+      "dentro de",
+      "Nos tuvimos que quedar dentro porque llovía."
+     ],
+     [
+      "enfrente",
+      "enfrente de",
+      "El hotel está enfrente del ayuntamiento."
+     ],
+     [
+      "al fondo",
+      "al fondo de",
+      "La salida de emergencia está al fondo."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "La carta está debajo de aquella revista.",
+     "편지는 저 잡지 아래에 있다."
+    ],
+    [
+     "Deja la taza encima de la mesa.",
+     "컵을 탁자 위에 놓아라."
+    ],
+    [
+     "Detrás de esa estantería está lo que buscas.",
+     "네가 찾는 것은 그 책장 뒤에 있다."
+    ]
+   ],
+   "tip": "위치를 말할 때 동사는 estar를 써요: El libro está sobre el sillón. (ser ×)"
+  },
+  {
+   "title": "④ 길 안내 — 명령형 (tú / usted)",
+   "lead": "도시 단원 예문에는 길을 알려 주는 <b>명령형</b>이 자주 나와요. tú는 3인칭 단수 현재형과 같은 모양, usted는 접속법 형태를 씁니다.",
+   "table": {
+    "head": [
+     "동사",
+     "tú",
+     "usted"
+    ],
+    "rows": [
+     [
+      "girar (돌다)",
+      "gira",
+      "gire"
+     ],
+     [
+      "seguir (계속 가다)",
+      "sigue",
+      "siga"
+     ],
+     [
+      "cruzar (건너다)",
+      "cruza",
+      "cruce"
+     ],
+     [
+      "dejar (내려 주다, 두다)",
+      "deja",
+      "deje"
+     ],
+     [
+      "acercarse (다가가다)",
+      "acércate",
+      "acérquese"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Cuando llegues a la glorieta, gira a la derecha.",
+     "로터리에 도착하면 오른쪽으로 돌아라."
+    ],
+    [
+     "Gire en la primera calle a la derecha.",
+     "첫 번째 길에서 오른쪽으로 도세요."
+    ],
+    [
+     "Cruza la calle por el paso de cebra.",
+     "횡단보도로 길을 건너라."
+    ]
+   ],
+   "tip": "‘cuando + 접속법(llegues)’은 ‘~하면(미래)’이라는 뜻이에요. Cuando llegues al semáforo, sigue recto."
+  }
+ ],
+ "phrases": [
+  [
+   "Hoy hace buen tiempo, pero mañana va a llover.",
+   "오늘은 날씨가 좋지만 내일은 비가 올 것이다."
+  ],
+  [
+   "¿Qué temperatura hace hoy?",
+   "오늘 기온이 몇 도니?"
+  ],
+  [
+   "Cuando llegues a la glorieta, gira a la derecha.",
+   "로터리에 도착하면 오른쪽으로 돌아라."
+  ],
+  [
+   "¡Date prisa! Tenemos que facturar el equipaje.",
+   "서둘러! 짐을 부쳐야 해."
+  ],
+  [
+   "Hay que abrocharse el cinturón de seguridad al sentarse.",
+   "자리에 앉으면 안전벨트를 매야 한다."
+  ],
+  [
+   "Déjame la goma de borrar, que me he equivocado.",
+   "지우개 좀 빌려줘, 틀렸어."
+  ],
+  [
+   "Usted ha llamado a un número equivocado.",
+   "잘못 거셨습니다."
+  ],
+  [
+   "Olvidé mi contraseña de correo electrónico.",
+   "이메일 비밀번호를 잊어버렸다."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la Tierra",
+   "ko": "지구, 땅",
+   "ex": "La Tierra es el planeta más cercano al Sol después de Mercurio y Venus.",
+   "exKo": "지구는 수성과 금성 다음으로 태양에 가까운 행성이다."
+  },
+  {
+   "es": "el mar",
+   "ko": "바다",
+   "ex": "El mar Mediterráneo baña el sur de Europa.",
+   "exKo": "지중해는 유럽 남부 해안에 맞닿아 있다."
+  },
+  {
+   "es": "la montaña",
+   "ko": "산",
+   "ex": "Se fue a vivir a la montaña huyendo de la contaminación de la ciudad.",
+   "exKo": "그는 도시의 오염을 피해 산으로 살러 갔다."
+  },
+  {
+   "es": "la isla",
+   "ko": "섬",
+   "ex": "Gran Bretaña es una isla.",
+   "exKo": "그레이트브리튼은 섬이다."
+  },
+  {
+   "es": "el paisaje",
+   "ko": "풍경, 경치",
+   "ex": "Mirábamos el paisaje desde el balcón.",
+   "exKo": "우리는 발코니에서 풍경을 바라보고 있었다."
+  },
+  {
+   "es": "la frontera",
+   "ko": "국경",
+   "ex": "Los Pirineos son una frontera natural entre España y Francia.",
+   "exKo": "피레네 산맥은 스페인과 프랑스 사이의 자연 국경이다."
+  },
+  {
+   "es": "el cielo",
+   "ko": "하늘",
+   "ex": "Esta noche se ven más estrellas en el cielo.",
+   "exKo": "오늘 밤은 하늘에 별이 더 많이 보인다."
+  },
+  {
+   "es": "el clima",
+   "ko": "날씨, 기후",
+   "ex": "La zona tiene un clima frío y seco.",
+   "exKo": "그 지역은 기후가 춥고 건조하다."
+  },
+  {
+   "es": "la lluvia",
+   "ko": "비",
+   "ex": "La lluvia produjo una gran inundación.",
+   "exKo": "비로 큰 홍수가 났다."
+  },
+  {
+   "es": "la niebla",
+   "ko": "안개",
+   "ex": "La niebla provocó el cierre de caminos.",
+   "exKo": "안개 때문에 도로가 폐쇄되었다."
+  },
+  {
+   "es": "la temperatura",
+   "ko": "기온, 온도",
+   "ex": "¿Qué temperatura hace hoy?",
+   "exKo": "오늘 기온이 몇 도니?"
+  },
+  {
+   "es": "el tiempo",
+   "ko": "날씨, 시간",
+   "ex": "Hoy hace buen tiempo, pero mañana va a llover.",
+   "exKo": "오늘은 날씨가 좋지만 내일은 비가 올 것이다."
+  },
+  {
+   "es": "el terremoto",
+   "ko": "지진",
+   "ex": "El terremoto destruyó antiguos edificios de la ciudad.",
+   "exKo": "지진으로 도시의 오래된 건물들이 무너졌다."
+  },
+  {
+   "es": "el animal de compañía",
+   "ko": "반려동물",
+   "ex": "Un animal de compañía es un miembro de la familia.",
+   "exKo": "반려동물은 가족의 일원이다."
+  },
+  {
+   "es": "el pájaro",
+   "ko": "새",
+   "ex": "Los pájaros están volando muy bajo.",
+   "exKo": "새들이 아주 낮게 날고 있다."
+  },
+  {
+   "es": "el pez",
+   "ko": "물고기",
+   "ex": "El tiburón es un tipo de pez.",
+   "exKo": "상어는 물고기의 일종이다."
+  },
+  {
+   "es": "la hoja",
+   "ko": "잎",
+   "ex": "La hoja del pino tiene forma de aguja.",
+   "exKo": "소나무 잎은 바늘 모양이다."
+  },
+  {
+   "es": "regar",
+   "ko": "물을 주다",
+   "ex": "Cuando yo no esté en casa, tú tienes que regar las plantas.",
+   "exKo": "내가 집에 없을 때는 네가 화초에 물을 줘야 한다."
+  },
+  {
+   "es": "la contaminación",
+   "ko": "오염",
+   "ex": "La contaminación atmosférica está destruyendo la capa de ozono.",
+   "exKo": "대기 오염이 오존층을 파괴하고 있다."
+  },
+  {
+   "es": "el cambio climático",
+   "ko": "기후 변화",
+   "ex": "El cambio climático se debe al calentamiento global.",
+   "exKo": "기후 변화는 지구 온난화 때문에 일어난다."
+  },
+  {
+   "es": "el barrio",
+   "ko": "동네, 구역",
+   "ex": "En mi barrio no hay ni una librería.",
+   "exKo": "우리 동네에는 서점이 하나도 없다."
+  },
+  {
+   "es": "el ayuntamiento",
+   "ko": "시청",
+   "ex": "El hotel está enfrente del ayuntamiento.",
+   "exKo": "호텔은 시청 맞은편에 있다."
+  },
+  {
+   "es": "la esquina",
+   "ko": "모퉁이",
+   "ex": "En aquella esquina puedes encontrar un banco.",
+   "exKo": "저 모퉁이에 가면 은행이 있다."
+  },
+  {
+   "es": "el paso de peatones",
+   "ko": "횡단보도",
+   "ex": "Por aquí no veo el paso de peatones.",
+   "exKo": "이 근처에는 횡단보도가 안 보인다."
+  },
+  {
+   "es": "la parada",
+   "ko": "정류장",
+   "ex": "Déjeme allí, cerca de la parada de taxis.",
+   "exKo": "저기 택시 정류장 근처에 내려 주세요."
+  },
+  {
+   "es": "el atasco",
+   "ko": "교통 체증",
+   "ex": "En las horas punta se suelen producir atascos.",
+   "exKo": "출퇴근 시간에는 보통 교통 체증이 생긴다."
+  },
+  {
+   "es": "el billete",
+   "ko": "표, 티켓",
+   "ex": "Compré los billetes en la ventanilla.",
+   "exKo": "매표소에서 표를 샀다."
+  },
+  {
+   "es": "aparcar",
+   "ko": "주차하다",
+   "ex": "Le costó mucho aprender a aparcar el coche.",
+   "exKo": "그는 주차하는 법을 배우느라 무척 애를 먹었다."
+  },
+  {
+   "es": "tardar",
+   "ko": "(시간이) 걸리다",
+   "ex": "No te preocupes, no tardaré mucho en llegar.",
+   "exKo": "걱정하지 마, 곧 도착할 거야."
+  },
+  {
+   "es": "el retraso",
+   "ko": "지연, 연착",
+   "ex": "El retraso de los vuelos se debió a las lluvias.",
+   "exKo": "항공편 지연은 비 때문이었다."
+  },
+  {
+   "es": "cerca de",
+   "ko": "~ 가까이에",
+   "ex": "Ahora tengo el trabajo cerca de casa.",
+   "exKo": "이제 직장이 집 가까이에 있다."
+  },
+  {
+   "es": "enfrente de",
+   "ko": "~ 맞은편에",
+   "ex": "El hotel está enfrente del ayuntamiento.",
+   "exKo": "호텔은 시청 맞은편에 있다."
+  },
+  {
+   "es": "la asignatura",
+   "ko": "과목",
+   "ex": "La geografía es mi asignatura favorita.",
+   "exKo": "지리는 내가 가장 좋아하는 과목이다."
+  },
+  {
+   "es": "la beca",
+   "ko": "장학금",
+   "ex": "Me concedieron una beca para irme a Estados Unidos.",
+   "exKo": "나는 미국에 갈 수 있는 장학금을 받았다."
+  },
+  {
+   "es": "los deberes",
+   "ko": "숙제",
+   "ex": "Puedes salir a jugar después de acabar los deberes.",
+   "exKo": "숙제를 다 하고 나서 나가 놀아도 된다."
+  },
+  {
+   "es": "la lengua",
+   "ko": "언어",
+   "ex": "Mi amiga domina varias lenguas.",
+   "exKo": "내 친구는 여러 언어를 구사한다."
+  },
+  {
+   "es": "el periódico",
+   "ko": "신문",
+   "ex": "Ese periódico fue el primero en publicar la noticia.",
+   "exKo": "그 신문이 처음으로 그 소식을 보도했다."
+  },
+  {
+   "es": "el buzón",
+   "ko": "우체통, 우편함",
+   "ex": "Antes de subir a casa, coge el correo del buzón.",
+   "exKo": "집에 올라가기 전에 우편함에서 우편물을 꺼내 와라."
+  },
+  {
+   "es": "el sello",
+   "ko": "우표",
+   "ex": "Pon aquí los sellos.",
+   "exKo": "여기에 우표를 붙여라."
+  },
+  {
+   "es": "la contraseña",
+   "ko": "비밀번호",
+   "ex": "Olvidé mi contraseña de correo electrónico.",
+   "exKo": "이메일 비밀번호를 잊어버렸다."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "‘무지개’는 스페인어로?",
+   "options": [
+    "el relámpago",
+    "el arcoíris",
+    "el trueno",
+    "la niebla"
+   ],
+   "answer": 1,
+   "explain": "el arcoíris = 무지개. relámpago는 번개, trueno는 천둥, niebla는 안개예요."
+  },
+  {
+   "q": "Hoy no ___ ni frío ni calor. 빈칸에 알맞은 동사는?",
+   "options": [
+    "está",
+    "es",
+    "hace",
+    "hay"
+   ],
+   "answer": 2,
+   "explain": "날씨의 덥고 추움은 hacer로 말해요: Hoy no hace ni frío ni calor."
+  },
+  {
+   "q": "La yegua es la ___ del caballo.",
+   "options": [
+    "macho",
+    "hembra",
+    "cría",
+    "pata"
+   ],
+   "answer": 1,
+   "explain": "yegua(암말)는 말의 암컷(hembra)이에요. 수컷은 macho."
+  },
+  {
+   "q": "‘수탉’에 해당하는 단어는?",
+   "options": [
+    "la gallina",
+    "el gallo",
+    "el pavo",
+    "el pato"
+   ],
+   "answer": 1,
+   "explain": "el gallo = 수탉, la gallina = 암탉."
+  },
+  {
+   "q": "‘물을 주다’는?",
+   "options": [
+    "sembrar",
+    "plantar",
+    "regar",
+    "cultivar"
+   ],
+   "answer": 2,
+   "explain": "regar las plantas = 화초에 물을 주다. sembrar는 씨를 뿌리다, plantar는 심다."
+  },
+  {
+   "q": "El hotel está ___ del ayuntamiento. (시청 맞은편)",
+   "options": [
+    "enfrente",
+    "encima",
+    "debajo",
+    "dentro"
+   ],
+   "answer": 0,
+   "explain": "enfrente de = ~ 맞은편에. de + el → del로 줄어들어요."
+  },
+  {
+   "q": "‘교통 체증’을 뜻하는 단어는?",
+   "options": [
+    "el atasco",
+    "el andén",
+    "el asiento",
+    "el destino"
+   ],
+   "answer": 0,
+   "explain": "el atasco = 교통 체증. andén은 승강장, asiento는 좌석, destino는 목적지예요."
+  },
+  {
+   "q": "공항에서 ‘짐을 부치다’는?",
+   "options": [
+    "bajar el equipaje",
+    "facturar el equipaje",
+    "arreglar el equipaje",
+    "girar el equipaje"
+   ],
+   "answer": 1,
+   "explain": "facturar el equipaje = 수하물을 부치다."
+  },
+  {
+   "q": "‘로터리’는 스페인어로?",
+   "options": [
+    "el cruce",
+    "la glorieta",
+    "la esquina",
+    "la acera"
+   ],
+   "answer": 1,
+   "explain": "la glorieta = 로터리. cruce는 교차로, esquina는 모퉁이, acera는 인도예요."
+  },
+  {
+   "q": "‘장학금’은 스페인어로?",
+   "options": [
+    "la beca",
+    "la nota",
+    "la matrícula",
+    "la tiza"
+   ],
+   "answer": 0,
+   "explain": "la beca = 장학금. nota는 성적, matrícula는 등록, tiza는 분필이에요."
+  },
+  {
+   "q": "전화가 ‘통화 중이다’를 스페인어로?",
+   "options": [
+    "estar llamando",
+    "estar comunicando",
+    "estar colgando",
+    "estar enviando"
+   ],
+   "answer": 1,
+   "explain": "El teléfono está comunicando. = 전화가 통화 중이다."
+  },
+  {
+   "q": "‘비밀번호’에 해당하는 단어는?",
+   "options": [
+    "el buscador",
+    "el archivo",
+    "la contraseña",
+    "el teclado"
+   ],
+   "answer": 2,
+   "explain": "la contraseña = 비밀번호. buscador는 검색 엔진, archivo는 파일, teclado는 키보드."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Capítulo 6 · Unidad 1. Universo, Tierra, Geografía · 우주, 지구, 지리",
+   "lines": [
+    {
+     "t": 28.3,
+     "s": "W",
+     "es": "agua",
+     "ko": "물"
+    },
+    {
+     "t": 31.1,
+     "s": "E",
+     "es": "Es aconsejable beber dos litros de agua por día.",
+     "ko": "하루에 물을 2리터 마시는 것이 좋다."
+    },
+    {
+     "t": 36.6,
+     "s": "W",
+     "es": "arena",
+     "ko": "모래"
+    },
+    {
+     "t": 39.6,
+     "s": "E",
+     "es": "En la playa los niños hacen castillos de arena.",
+     "ko": "해변에서 아이들이 모래성을 쌓는다."
+    },
+    {
+     "t": 45.7,
+     "s": "W",
+     "es": "bosque",
+     "ko": "숲"
+    },
+    {
+     "t": 47.9,
+     "s": "E",
+     "es": "Debemos proteger los bosques por nuestros hijos.",
+     "ko": "우리는 아이들을 위해 숲을 보호해야 한다."
+    },
+    {
+     "t": 53.8,
+     "s": "W",
+     "es": "campo",
+     "ko": "시골, 밭, 논"
+    },
+    {
+     "t": 58.2,
+     "s": "E",
+     "es": "Los domingos siempre paseamos por el campo.",
+     "ko": "일요일마다 우리는 늘 시골길을 산책한다."
+    },
+    {
+     "t": 64.2,
+     "s": "W",
+     "es": "cometa",
+     "ko": "혜성"
+    },
+    {
+     "t": 67.5,
+     "s": "E",
+     "es": "Anoche vimos el cometa Halley.",
+     "ko": "어젯밤 우리는 핼리 혜성을 보았다."
+    },
+    {
+     "t": 72.2,
+     "s": "W",
+     "es": "continente",
+     "ko": "대륙"
+    },
+    {
+     "t": 75.6,
+     "s": "E",
+     "es": "Hay cinco continentes en la Tierra: Eurasia, América, Oceanía, África y la Antártida.",
+     "ko": "지구에는 유라시아, 아메리카, 오세아니아, 아프리카, 남극의 다섯 대륙이 있다."
+    },
+    {
+     "t": 84.4,
+     "s": "W",
+     "es": "costa",
+     "ko": "해안"
+    },
+    {
+     "t": 88.4,
+     "s": "E",
+     "es": "Es necesario mantener limpias las costas.",
+     "ko": "해안을 깨끗하게 유지해야 한다."
+    },
+    {
+     "t": 93.2,
+     "s": "W",
+     "es": "desierto",
+     "ko": "사막"
+    },
+    {
+     "t": 95.6,
+     "s": "E",
+     "es": "El pueblo está cerca del desierto del Sáhara.",
+     "ko": "그 마을은 사하라 사막 근처에 있다."
+    },
+    {
+     "t": 101.4,
+     "s": "W",
+     "es": "ecuador",
+     "ko": "적도"
+    },
+    {
+     "t": 105.1,
+     "s": "E",
+     "es": "En el ecuador hay veces que el sol llega al punto más alto del cielo al mediodía.",
+     "ko": "적도에서는 정오에 해가 하늘의 가장 높은 곳에 이를 때가 있다."
+    },
+    {
+     "t": 111.6,
+     "s": "W",
+     "es": "este",
+     "ko": "동, 동쪽"
+    },
+    {
+     "t": 116.1,
+     "s": "E",
+     "es": "Esta ventana está orientada al este.",
+     "ko": "이 창문은 동쪽을 향해 있다."
+    },
+    {
+     "t": 121.1,
+     "s": "W",
+     "es": "estrecho",
+     "ko": "해협"
+    },
+    {
+     "t": 123.3,
+     "s": "E",
+     "es": "El estrecho de Gibraltar separa el continente europeo del continente africano.",
+     "ko": "지브롤터 해협은 유럽 대륙과 아프리카 대륙을 가른다."
+    },
+    {
+     "t": 131.2,
+     "s": "W",
+     "es": "estrella",
+     "ko": "별"
+    },
+    {
+     "t": 134.0,
+     "s": "E",
+     "es": "Hay muchísimas estrellas en el cielo.",
+     "ko": "하늘에 별이 아주 많다."
+    },
+    {
+     "t": 139.9,
+     "s": "W",
+     "es": "frontera",
+     "ko": "국경"
+    },
+    {
+     "t": 142.8,
+     "s": "E",
+     "es": "Los Pirineos son una frontera natural entre España y Francia.",
+     "ko": "피레네 산맥은 스페인과 프랑스 사이의 자연 국경이다."
+    },
+    {
+     "t": 149.8,
+     "s": "W",
+     "es": "geografía",
+     "ko": "지리"
+    },
+    {
+     "t": 151.7,
+     "s": "E",
+     "es": "En el libro de geografía aparecen todos los ríos y cordilleras del país.",
+     "ko": "지리책에는 그 나라의 모든 강과 산맥이 나온다."
+    },
+    {
+     "t": 160.7,
+     "s": "W",
+     "es": "hemisferio",
+     "ko": "반구"
+    },
+    {
+     "t": 163.8,
+     "s": "E",
+     "es": "El ecuador divide la Tierra en los hemisferios norte y sur.",
+     "ko": "적도는 지구를 북반구와 남반구로 나눈다."
+    },
+    {
+     "t": 170.0,
+     "s": "W",
+     "es": "isla",
+     "ko": "섬"
+    },
+    {
+     "t": 172.3,
+     "s": "E",
+     "es": "Gran Bretaña es una isla.",
+     "ko": "그레이트브리튼은 섬이다."
+    },
+    {
+     "t": 177.8,
+     "s": "W",
+     "es": "lago",
+     "ko": "호수"
+    },
+    {
+     "t": 181.2,
+     "s": "E",
+     "es": "Veo a una persona sobre el lago congelado.",
+     "ko": "얼어붙은 호수 위에 사람이 한 명 보인다."
+    },
+    {
+     "t": 186.6,
+     "s": "W",
+     "es": "luna",
+     "ko": "달, 위성"
+    },
+    {
+     "t": 189.9,
+     "s": "E",
+     "es": "La Luna tarda 28 días en dar la vuelta a la Tierra.",
+     "ko": "달이 지구를 한 바퀴 도는 데 28일이 걸린다."
+    },
+    {
+     "t": 197.1,
+     "s": "W",
+     "es": "mar",
+     "ko": "바다"
+    },
+    {
+     "t": 198.5,
+     "s": "E",
+     "es": "El mar Mediterráneo baña el sur de Europa.",
+     "ko": "지중해는 유럽 남부 해안에 맞닿아 있다."
+    },
+    {
+     "t": 204.7,
+     "s": "W",
+     "es": "montaña",
+     "ko": "산"
+    },
+    {
+     "t": 206.6,
+     "s": "E",
+     "es": "Se fue a vivir a la montaña huyendo de la contaminación de la ciudad.",
+     "ko": "그는 도시의 오염을 피해 산으로 살러 갔다."
+    },
+    {
+     "t": 214.7,
+     "s": "W",
+     "es": "norte",
+     "ko": "북, 북쪽"
+    },
+    {
+     "t": 218.2,
+     "s": "E",
+     "es": "La brújula marca el norte.",
+     "ko": "나침반은 북쪽을 가리킨다."
+    },
+    {
+     "t": 223.7,
+     "s": "W",
+     "es": "océano",
+     "ko": "바다, 대양"
+    },
+    {
+     "t": 227.0,
+     "s": "E",
+     "es": "Los cinco océanos de la Tierra son el Atlántico, el Pacífico, el Índico, el Glacial Ártico y el Glacial Antártico.",
+     "ko": "지구의 5대양은 대서양, 태평양, 인도양, 북극해, 남극해이다."
+    },
+    {
+     "t": 238.3,
+     "s": "W",
+     "es": "oeste",
+     "ko": "서, 서쪽"
+    },
+    {
+     "t": 242.4,
+     "s": "E",
+     "es": "Portugal está en el oeste de la Península Ibérica.",
+     "ko": "포르투갈은 이베리아 반도의 서쪽에 있다."
+    },
+    {
+     "t": 248.4,
+     "s": "W",
+     "es": "ola",
+     "ko": "파도"
+    },
+    {
+     "t": 250.8,
+     "s": "E",
+     "es": "La ola alcanzó los 20 metros de altura.",
+     "ko": "파도가 높이 20미터에 이르렀다."
+    },
+    {
+     "t": 256.3,
+     "s": "W",
+     "es": "orilla",
+     "ko": "강변, 해변"
+    },
+    {
+     "t": 259.8,
+     "s": "E",
+     "es": "Encontramos una botella en la orilla del río.",
+     "ko": "우리는 강가에서 병 하나를 발견했다."
+    },
+    {
+     "t": 265.6,
+     "s": "W",
+     "es": "país",
+     "ko": "나라, 국가"
+    },
+    {
+     "t": 270.2,
+     "s": "E",
+     "es": "Costa Rica es un país muy bonito.",
+     "ko": "코스타리카는 아주 아름다운 나라이다."
+    },
+    {
+     "t": 274.4,
+     "s": "W",
+     "es": "paisaje",
+     "ko": "풍경, 경치"
+    },
+    {
+     "t": 279.5,
+     "s": "E",
+     "es": "Mirábamos el paisaje desde el balcón.",
+     "ko": "우리는 발코니에서 풍경을 바라보고 있었다."
+    },
+    {
+     "t": 283.9,
+     "s": "W",
+     "es": "península",
+     "ko": "반도"
+    },
+    {
+     "t": 286.3,
+     "s": "E",
+     "es": "En todo el sur de la península lloverá mañana.",
+     "ko": "내일 반도 남부 전역에 비가 내리겠다."
+    },
+    {
+     "t": 292.9,
+     "s": "W",
+     "es": "planeta",
+     "ko": "별, 행성, 지구"
+    },
+    {
+     "t": 298.7,
+     "s": "E",
+     "es": "Nuestro sistema solar consta de ocho planetas.",
+     "ko": "우리 태양계는 여덟 개의 행성으로 이루어져 있다."
+    },
+    {
+     "t": 303.9,
+     "s": "W",
+     "es": "playa",
+     "ko": "해변"
+    },
+    {
+     "t": 306.6,
+     "s": "E",
+     "es": "Quiero casarme en una playa de arena blanca.",
+     "ko": "나는 하얀 모래 해변에서 결혼하고 싶다."
+    },
+    {
+     "t": 312.4,
+     "s": "W",
+     "es": "Polo Norte",
+     "ko": "북극"
+    },
+    {
+     "t": 315.7,
+     "s": "E",
+     "es": "Los esquimales habitan en el Polo Norte.",
+     "ko": "에스키모는 북극에 산다."
+    },
+    {
+     "t": 321.2,
+     "s": "W",
+     "es": "región",
+     "ko": "지역, 지방"
+    },
+    {
+     "t": 324.8,
+     "s": "E",
+     "es": "Los polos son las regiones más frías del planeta.",
+     "ko": "극지방은 지구에서 가장 추운 지역이다."
+    },
+    {
+     "t": 331.1,
+     "s": "W",
+     "es": "río",
+     "ko": "강"
+    },
+    {
+     "t": 332.8,
+     "s": "E",
+     "es": "En Seúl hay un río muy grande que se llama Han.",
+     "ko": "서울에는 한강이라는 아주 큰 강이 있다."
+    },
+    {
+     "t": 340.0,
+     "s": "W",
+     "es": "satélite",
+     "ko": "위성"
+    },
+    {
+     "t": 342.2,
+     "s": "E",
+     "es": "La Luna es un satélite de la Tierra.",
+     "ko": "달은 지구의 위성이다."
+    },
+    {
+     "t": 349.2,
+     "s": "W",
+     "es": "sol",
+     "ko": "태양, 해"
+    },
+    {
+     "t": 350.7,
+     "s": "E",
+     "es": "El sol brilla encima de nuestras cabezas.",
+     "ko": "해가 우리 머리 위에서 빛난다."
+    },
+    {
+     "t": 355.4,
+     "s": "W",
+     "es": "sur",
+     "ko": "남, 남쪽"
+    },
+    {
+     "t": 359.7,
+     "s": "E",
+     "es": "Vivo al sur de la ciudad.",
+     "ko": "나는 도시의 남쪽에 산다."
+    },
+    {
+     "t": 363.3,
+     "s": "W",
+     "es": "Tierra",
+     "ko": "지구, 땅"
+    },
+    {
+     "t": 366.5,
+     "s": "E",
+     "es": "La Tierra es el planeta más cercano al Sol después de Mercurio y Venus.",
+     "ko": "지구는 수성과 금성 다음으로 태양에 가까운 행성이다."
+    },
+    {
+     "t": 374.5,
+     "s": "W",
+     "es": "valle",
+     "ko": "계곡, 골짜기"
+    },
+    {
+     "t": 377.5,
+     "s": "E",
+     "es": "Construyeron el pueblo en un valle entre montañas.",
+     "ko": "그들은 산 사이 골짜기에 마을을 세웠다."
+    },
+    {
+     "t": 383.7,
+     "s": "W",
+     "es": "volcán",
+     "ko": "화산"
+    },
+    {
+     "t": 386.0,
+     "s": "E",
+     "es": "Hay un volcán inactivo en su pueblo.",
+     "ko": "그의 마을에는 휴화산이 있다."
+    },
+    {
+     "t": 391.2,
+     "s": "W",
+     "es": "zona",
+     "ko": "지역, 구역"
+    },
+    {
+     "t": 393.1,
+     "s": "E",
+     "es": "Esta zona está poco poblada.",
+     "ko": "이 지역은 인구가 적다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Tiempo, fenómenos naturales · 날씨, 자연 현상",
+   "lines": [
+    {
+     "t": 411.9,
+     "s": "W",
+     "es": "amanecer",
+     "ko": "동틀 녘, 새벽, 동이 트다, 해가 뜨다"
+    },
+    {
+     "t": 420.1,
+     "s": "E",
+     "es": "Llovió un poco al amanecer.",
+     "ko": "새벽에 비가 조금 내렸다."
+    },
+    {
+     "t": 424.6,
+     "s": "W",
+     "es": "anochecer",
+     "ko": "해 질 녘, 석양, 해가 지다"
+    },
+    {
+     "t": 431.1,
+     "s": "E",
+     "es": "Me gusta contemplar los anocheceres desde la playa.",
+     "ko": "나는 해변에서 해 질 녘 풍경을 바라보는 것을 좋아한다."
+    },
+    {
+     "t": 437.1,
+     "s": "W",
+     "es": "arcoíris",
+     "ko": "무지개"
+    },
+    {
+     "t": 440.1,
+     "s": "E",
+     "es": "Después de la lluvia es posible ver el arcoíris.",
+     "ko": "비가 온 뒤에는 무지개를 볼 수 있다."
+    },
+    {
+     "t": 446.0,
+     "s": "W",
+     "es": "atmósfera",
+     "ko": "대기, 분위기"
+    },
+    {
+     "t": 450.3,
+     "s": "E",
+     "es": "La atmósfera se refiere a la capa de aire que rodea la Tierra.",
+     "ko": "대기란 지구를 둘러싼 공기층을 말한다."
+    },
+    {
+     "t": 456.6,
+     "s": "W",
+     "es": "bajo cero",
+     "ko": "영하의"
+    },
+    {
+     "t": 460.7,
+     "s": "E",
+     "es": "Hoy estamos a ocho grados bajo cero.",
+     "ko": "오늘은 영하 8도이다."
+    },
+    {
+     "t": 465.2,
+     "s": "W",
+     "es": "calor",
+     "ko": "더위, 열"
+    },
+    {
+     "t": 468.2,
+     "s": "E",
+     "es": "Este verano no ha hecho mucho calor.",
+     "ko": "올여름은 그다지 덥지 않았다."
+    },
+    {
+     "t": 473.3,
+     "s": "W",
+     "es": "cielo",
+     "ko": "하늘"
+    },
+    {
+     "t": 476.1,
+     "s": "E",
+     "es": "Esta noche se ven más estrellas en el cielo.",
+     "ko": "오늘 밤은 하늘에 별이 더 많이 보인다."
+    },
+    {
+     "t": 481.4,
+     "s": "W",
+     "es": "clima",
+     "ko": "날씨, 기후"
+    },
+    {
+     "t": 484.9,
+     "s": "E",
+     "es": "La zona tiene un clima frío y seco.",
+     "ko": "그 지역은 기후가 춥고 건조하다."
+    },
+    {
+     "t": 489.9,
+     "s": "W",
+     "es": "desastre natural",
+     "ko": "자연재해"
+    },
+    {
+     "t": 494.5,
+     "s": "E",
+     "es": "Los desastres naturales causan muchas muertes cada año.",
+     "ko": "자연재해로 해마다 많은 사람이 목숨을 잃는다."
+    },
+    {
+     "t": 499.9,
+     "s": "W",
+     "es": "fresco, fresca",
+     "ko": "쌀쌀한, 선선한"
+    },
+    {
+     "t": 507.7,
+     "s": "E",
+     "es": "En una noche fresca, mi primo y yo salimos a pasear.",
+     "ko": "선선한 밤에 사촌과 나는 산책을 나갔다."
+    },
+    {
+     "t": 513.3,
+     "s": "W",
+     "es": "frío, fría",
+     "ko": "추위, 냉기, 차가운"
+    },
+    {
+     "t": 520.2,
+     "s": "E",
+     "es": "Hoy no hace ni frío ni calor.",
+     "ko": "오늘은 춥지도 덥지도 않다."
+    },
+    {
+     "t": 524.7,
+     "s": "W",
+     "es": "grado",
+     "ko": "도, 온도"
+    },
+    {
+     "t": 529.1,
+     "s": "E",
+     "es": "Ayer estuvimos a diez grados.",
+     "ko": "어제는 기온이 10도였다."
+    },
+    {
+     "t": 533.5,
+     "s": "W",
+     "es": "hacer sol",
+     "ko": "해가 나다, 화창하다"
+    },
+    {
+     "t": 537.2,
+     "s": "E",
+     "es": "El primer día hacía sol, hacía buen tiempo.",
+     "ko": "첫날은 해가 나고 날씨가 좋았다."
+    },
+    {
+     "t": 542.8,
+     "s": "W",
+     "es": "hielo",
+     "ko": "얼음"
+    },
+    {
+     "t": 546.0,
+     "s": "E",
+     "es": "Necesito hielo para mi bebida.",
+     "ko": "음료에 넣을 얼음이 필요하다."
+    },
+    {
+     "t": 550.8,
+     "s": "W",
+     "es": "húmedo, húmeda",
+     "ko": "습한, 습기가 많은"
+    },
+    {
+     "t": 550.8,
+     "s": "E",
+     "es": "El clima del Caribe es muy húmedo.",
+     "ko": "카리브해의 기후는 매우 습하다."
+    },
+    {
+     "t": 561.5,
+     "s": "W",
+     "es": "inundación",
+     "ko": "홍수"
+    },
+    {
+     "t": 561.5,
+     "s": "E",
+     "es": "La lluvia produjo una gran inundación.",
+     "ko": "비로 큰 홍수가 났다."
+    },
+    {
+     "t": 568.6,
+     "s": "W",
+     "es": "lluvia",
+     "ko": "비"
+    },
+    {
+     "t": 568.6,
+     "s": "E",
+     "es": "La lluvia en primavera es buena para todos los que viven del campo.",
+     "ko": "봄비는 농사를 지으며 사는 모든 이에게 좋다."
+    },
+    {
+     "t": 580.3,
+     "s": "W",
+     "es": "meteorología",
+     "ko": "기상학"
+    },
+    {
+     "t": 580.3,
+     "s": "E",
+     "es": "La meteorología es una parte de la ciencia que estudia los fenómenos naturales de la atmósfera terrestre.",
+     "ko": "기상학은 지구 대기의 자연 현상을 연구하는 과학의 한 분야이다."
+    },
+    {
+     "t": 591.9,
+     "s": "W",
+     "es": "niebla",
+     "ko": "안개"
+    },
+    {
+     "t": 591.9,
+     "s": "E",
+     "es": "La niebla provocó el cierre de caminos.",
+     "ko": "안개 때문에 도로가 폐쇄되었다."
+    },
+    {
+     "t": 600.4,
+     "s": "W",
+     "es": "nieve",
+     "ko": "눈"
+    },
+    {
+     "t": 602.3,
+     "s": "E",
+     "es": "Durante toda la noche cayó mucha nieve en la zona.",
+     "ko": "밤새 그 지역에 눈이 많이 내렸다."
+    },
+    {
+     "t": 609.1,
+     "s": "W",
+     "es": "nube",
+     "ko": "구름"
+    },
+    {
+     "t": 611.6,
+     "s": "E",
+     "es": "Empezaron a llegar unas nubes enormes y negras.",
+     "ko": "거대한 먹구름이 몰려오기 시작했다."
+    },
+    {
+     "t": 618.2,
+     "s": "W",
+     "es": "relámpago",
+     "ko": "번개"
+    },
+    {
+     "t": 620.6,
+     "s": "E",
+     "es": "Después del relámpago viene el trueno.",
+     "ko": "번개가 친 뒤에 천둥이 친다."
+    },
+    {
+     "t": 625.8,
+     "s": "W",
+     "es": "seco, seca",
+     "ko": "마른, 건조한"
+    },
+    {
+     "t": 631.4,
+     "s": "E",
+     "es": "El clima en Andalucía es muy seco.",
+     "ko": "안달루시아의 기후는 매우 건조하다."
+    },
+    {
+     "t": 635.7,
+     "s": "W",
+     "es": "sequía",
+     "ko": "가뭄"
+    },
+    {
+     "t": 639.3,
+     "s": "E",
+     "es": "La sequía en muchas zonas del planeta es consecuencia del cambio climático.",
+     "ko": "지구 곳곳의 가뭄은 기후 변화의 결과이다."
+    },
+    {
+     "t": 646.8,
+     "s": "W",
+     "es": "temperatura",
+     "ko": "기온, 온도"
+    },
+    {
+     "t": 650.4,
+     "s": "E",
+     "es": "¿Qué temperatura hace hoy?",
+     "ko": "오늘 기온이 몇 도니?"
+    },
+    {
+     "t": 655.4,
+     "s": "W",
+     "es": "terremoto",
+     "ko": "지진"
+    },
+    {
+     "t": 658.9,
+     "s": "E",
+     "es": "El terremoto destruyó antiguos edificios de la ciudad.",
+     "ko": "지진으로 도시의 오래된 건물들이 무너졌다."
+    },
+    {
+     "t": 664.4,
+     "s": "W",
+     "es": "tiempo",
+     "ko": "날씨, 시간"
+    },
+    {
+     "t": 669.0,
+     "s": "E",
+     "es": "Hoy hace buen tiempo, pero mañana va a llover.",
+     "ko": "오늘은 날씨가 좋지만 내일은 비가 올 것이다."
+    },
+    {
+     "t": 673.9,
+     "s": "W",
+     "es": "tormenta",
+     "ko": "소나기, 폭풍우"
+    },
+    {
+     "t": 677.9,
+     "s": "E",
+     "es": "En Madrid hace muy mal tiempo, con tormentas y relámpagos.",
+     "ko": "마드리드는 폭풍우와 번개로 날씨가 아주 나쁘다."
+    },
+    {
+     "t": 684.9,
+     "s": "W",
+     "es": "trueno",
+     "ko": "천둥"
+    },
+    {
+     "t": 687.7,
+     "s": "E",
+     "es": "He oído truenos a lo lejos.",
+     "ko": "멀리서 천둥소리를 들었다."
+    },
+    {
+     "t": 692.4,
+     "s": "W",
+     "es": "viento",
+     "ko": "바람"
+    },
+    {
+     "t": 695.1,
+     "s": "E",
+     "es": "Ayer hizo mucho viento en el este del país.",
+     "ko": "어제 그 나라 동부에는 바람이 많이 불었다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Animales · 동물",
+   "lines": [
+    {
+     "t": 710.5,
+     "s": "W",
+     "es": "abeja",
+     "ko": "벌"
+    },
+    {
+     "t": 713.9,
+     "s": "E",
+     "es": "Las abejas obreras producen cera y miel.",
+     "ko": "일벌은 밀랍과 꿀을 만든다."
+    },
+    {
+     "t": 719.8,
+     "s": "W",
+     "es": "acuario",
+     "ko": "수족관, 어항"
+    },
+    {
+     "t": 723.9,
+     "s": "E",
+     "es": "Tengo un acuario con muchos peces.",
+     "ko": "나는 물고기가 많은 어항을 가지고 있다."
+    },
+    {
+     "t": 729.2,
+     "s": "W",
+     "es": "águila",
+     "ko": "독수리"
+    },
+    {
+     "t": 731.9,
+     "s": "E",
+     "es": "El águila come ratones.",
+     "ko": "독수리는 쥐를 먹는다."
+    },
+    {
+     "t": 735.9,
+     "s": "W",
+     "es": "animal de compañía",
+     "ko": "반려동물, 애완동물"
+    },
+    {
+     "t": 742.3,
+     "s": "E",
+     "es": "Un animal de compañía es un miembro de la familia.",
+     "ko": "반려동물은 가족의 일원이다."
+    },
+    {
+     "t": 747.6,
+     "s": "W",
+     "es": "araña",
+     "ko": "거미"
+    },
+    {
+     "t": 750.6,
+     "s": "E",
+     "es": "Las arañas atrapan insectos en su red.",
+     "ko": "거미는 거미줄로 곤충을 잡는다."
+    },
+    {
+     "t": 755.4,
+     "s": "W",
+     "es": "burro, burra",
+     "ko": "당나귀"
+    },
+    {
+     "t": 759.6,
+     "s": "E",
+     "es": "El burro es un animal de carga.",
+     "ko": "당나귀는 짐을 나르는 동물이다."
+    },
+    {
+     "t": 763.6,
+     "s": "W",
+     "es": "caballo",
+     "ko": "말"
+    },
+    {
+     "t": 768.3,
+     "s": "E",
+     "es": "El caballo es un animal veloz.",
+     "ko": "말은 빠른 동물이다."
+    },
+    {
+     "t": 772.6,
+     "s": "W",
+     "es": "cabra",
+     "ko": "염소"
+    },
+    {
+     "t": 775.9,
+     "s": "E",
+     "es": "El ser humano aprovecha la leche, la carne y la piel de la cabra.",
+     "ko": "인간은 염소의 젖과 고기, 가죽을 이용한다."
+    },
+    {
+     "t": 783.1,
+     "s": "W",
+     "es": "cerdo, cerda",
+     "ko": "돼지"
+    },
+    {
+     "t": 786.9,
+     "s": "E",
+     "es": "Los coreanos consumen hasta las orejas del cerdo.",
+     "ko": "한국인은 돼지 귀까지 먹는다."
+    },
+    {
+     "t": 790.9,
+     "s": "W",
+     "es": "conejo, coneja",
+     "ko": "토끼"
+    },
+    {
+     "t": 790.9,
+     "s": "E",
+     "es": "Los conejos dan saltos en el campo.",
+     "ko": "토끼들이 들판에서 깡충깡충 뛴다."
+    },
+    {
+     "t": 800.8,
+     "s": "W",
+     "es": "cucaracha",
+     "ko": "바퀴벌레"
+    },
+    {
+     "t": 800.8,
+     "s": "E",
+     "es": "Me dan mucho miedo las cucarachas.",
+     "ko": "나는 바퀴벌레가 너무 무섭다."
+    },
+    {
+     "t": 809.5,
+     "s": "W",
+     "es": "elefante, elefanta",
+     "ko": "코끼리"
+    },
+    {
+     "t": 809.5,
+     "s": "E",
+     "es": "Un elefante africano es más grande que uno asiático.",
+     "ko": "아프리카코끼리는 아시아코끼리보다 크다."
+    },
+    {
+     "t": 821.0,
+     "s": "W",
+     "es": "gallina",
+     "ko": "암탉"
+    },
+    {
+     "t": 821.0,
+     "s": "E",
+     "es": "Mis gallinas ponen huevos cada mañana.",
+     "ko": "우리 암탉들은 매일 아침 알을 낳는다."
+    },
+    {
+     "t": 828.5,
+     "s": "W",
+     "es": "gallo",
+     "ko": "수탉"
+    },
+    {
+     "t": 828.5,
+     "s": "E",
+     "es": "Los gallos suelen cantar al amanecer.",
+     "ko": "수탉은 보통 새벽에 운다."
+    },
+    {
+     "t": 836.2,
+     "s": "W",
+     "es": "ganado",
+     "ko": "가축"
+    },
+    {
+     "t": 836.2,
+     "s": "E",
+     "es": "Mi ganado está formado por cabras, ovejas y cerdos.",
+     "ko": "내 가축은 염소, 양, 돼지로 이루어져 있다."
+    },
+    {
+     "t": 846.3,
+     "s": "W",
+     "es": "gato, gata",
+     "ko": "고양이"
+    },
+    {
+     "t": 846.3,
+     "s": "E",
+     "es": "Mi gato es muy cariñoso.",
+     "ko": "내 고양이는 아주 다정하다."
+    },
+    {
+     "t": 854.5,
+     "s": "W",
+     "es": "granja",
+     "ko": "농장"
+    },
+    {
+     "t": 854.5,
+     "s": "E",
+     "es": "Los principales productos de esta granja provienen de la ganadería.",
+     "ko": "이 농장의 주요 생산물은 축산에서 나온다."
+    },
+    {
+     "t": 864.2,
+     "s": "W",
+     "es": "hembra",
+     "ko": "암컷"
+    },
+    {
+     "t": 866.4,
+     "s": "E",
+     "es": "La yegua es la hembra del caballo.",
+     "ko": "암말은 말의 암컷이다."
+    },
+    {
+     "t": 871.4,
+     "s": "W",
+     "es": "hormiga",
+     "ko": "개미"
+    },
+    {
+     "t": 873.8,
+     "s": "E",
+     "es": "Este lugar está lleno de pequeñas hormigas rojas.",
+     "ko": "이곳은 작은 붉은 개미로 가득하다."
+    },
+    {
+     "t": 880.5,
+     "s": "W",
+     "es": "insecto",
+     "ko": "곤충"
+    },
+    {
+     "t": 882.9,
+     "s": "E",
+     "es": "Las hormigas y las abejas son insectos sociales.",
+     "ko": "개미와 벌은 사회성 곤충이다."
+    },
+    {
+     "t": 889.8,
+     "s": "W",
+     "es": "jaula",
+     "ko": "우리, 새장"
+    },
+    {
+     "t": 889.8,
+     "s": "E",
+     "es": "Compré una jaula nueva para pájaros.",
+     "ko": "새 새장을 하나 샀다."
+    },
+    {
+     "t": 898.2,
+     "s": "W",
+     "es": "ladrar",
+     "ko": "짖다"
+    },
+    {
+     "t": 898.2,
+     "s": "E",
+     "es": "Anoche un perro ladró mucho en la calle.",
+     "ko": "어젯밤 개 한 마리가 거리에서 많이 짖었다."
+    },
+    {
+     "t": 906.7,
+     "s": "W",
+     "es": "león, leona",
+     "ko": "사자"
+    },
+    {
+     "t": 906.7,
+     "s": "E",
+     "es": "El león es el rey de la selva.",
+     "ko": "사자는 밀림의 왕이다."
+    },
+    {
+     "t": 914.9,
+     "s": "W",
+     "es": "lobo, loba",
+     "ko": "늑대"
+    },
+    {
+     "t": 919.6,
+     "s": "E",
+     "es": "El lobo suele vivir formando grupos familiares.",
+     "ko": "늑대는 보통 가족 무리를 이루어 산다."
+    },
+    {
+     "t": 925.5,
+     "s": "W",
+     "es": "loro, lora",
+     "ko": "앵무새"
+    },
+    {
+     "t": 929.4,
+     "s": "E",
+     "es": "El loro es un animal tropical.",
+     "ko": "앵무새는 열대 동물이다."
+    },
+    {
+     "t": 933.5,
+     "s": "W",
+     "es": "macho",
+     "ko": "수컷"
+    },
+    {
+     "t": 937.4,
+     "s": "E",
+     "es": "Es una codorniz macho.",
+     "ko": "이것은 수컷 메추라기이다."
+    },
+    {
+     "t": 941.9,
+     "s": "W",
+     "es": "mamífero, mamífera",
+     "ko": "포유류, 포유류의"
+    },
+    {
+     "t": 947.4,
+     "s": "E",
+     "es": "Las crías de los mamíferos se alimentan de la leche de sus madres.",
+     "ko": "포유류의 새끼는 어미의 젖을 먹고 자란다."
+    },
+    {
+     "t": 955.5,
+     "s": "W",
+     "es": "mariposa",
+     "ko": "나비"
+    },
+    {
+     "t": 957.3,
+     "s": "E",
+     "es": "En el jardín unas mariposas están volando sobre las flores.",
+     "ko": "정원에서 나비 몇 마리가 꽃 위를 날고 있다."
+    },
+    {
+     "t": 965.0,
+     "s": "W",
+     "es": "mono, mona",
+     "ko": "원숭이"
+    },
+    {
+     "t": 968.3,
+     "s": "E",
+     "es": "Los monos se parecen mucho a los humanos en muchos aspectos.",
+     "ko": "원숭이는 여러 면에서 인간과 많이 닮았다."
+    },
+    {
+     "t": 976.0,
+     "s": "W",
+     "es": "mosca",
+     "ko": "파리"
+    },
+    {
+     "t": 976.0,
+     "s": "E",
+     "es": "Cierra la ventana para que no entren moscas.",
+     "ko": "파리가 들어오지 않게 창문을 닫아라."
+    },
+    {
+     "t": 982.8,
+     "s": "W",
+     "es": "oso, osa",
+     "ko": "곰"
+    },
+    {
+     "t": 982.8,
+     "s": "E",
+     "es": "Los osos se alimentan principalmente de vegetales.",
+     "ko": "곰은 주로 식물을 먹고 산다."
+    },
+    {
+     "t": 992.3,
+     "s": "W",
+     "es": "oveja",
+     "ko": "양"
+    },
+    {
+     "t": 994.9,
+     "s": "E",
+     "es": "Las ovejas siempre andan juntas.",
+     "ko": "양들은 항상 함께 다닌다."
+    },
+    {
+     "t": 1000.2,
+     "s": "W",
+     "es": "pájaro",
+     "ko": "새"
+    },
+    {
+     "t": 1003.5,
+     "s": "E",
+     "es": "El gorrión es un pájaro.",
+     "ko": "참새는 새이다."
+    },
+    {
+     "t": 1008.5,
+     "s": "W",
+     "es": "palomo, paloma",
+     "ko": "비둘기"
+    },
+    {
+     "t": 1012.9,
+     "s": "E",
+     "es": "Mi abuela tenía unas palomas mensajeras en su juventud.",
+     "ko": "우리 할머니는 젊었을 때 전서구를 몇 마리 기르셨다."
+    },
+    {
+     "t": 1017.8,
+     "s": "W",
+     "es": "pata",
+     "ko": "(동물의) 다리, 발"
+    },
+    {
+     "t": 1022.5,
+     "s": "E",
+     "es": "Los cocodrilos tienen cuatro patas.",
+     "ko": "악어는 다리가 네 개다."
+    },
+    {
+     "t": 1028.1,
+     "s": "W",
+     "es": "pato, pata",
+     "ko": "오리"
+    },
+    {
+     "t": 1031.7,
+     "s": "E",
+     "es": "Los patos viven en estado salvaje o bien domesticados.",
+     "ko": "오리는 야생 상태로 살거나 아니면 길들여져 산다."
+    },
+    {
+     "t": 1038.4,
+     "s": "W",
+     "es": "pavo, pava",
+     "ko": "칠면조"
+    },
+    {
+     "t": 1041.7,
+     "s": "E",
+     "es": "Me dejé el pavo en el horno.",
+     "ko": "칠면조를 오븐에 넣어 둔 채 깜빡했다."
+    },
+    {
+     "t": 1046.5,
+     "s": "W",
+     "es": "perro, perra",
+     "ko": "개"
+    },
+    {
+     "t": 1046.5,
+     "s": "E",
+     "es": "El perro se parece mucho al lobo.",
+     "ko": "개는 늑대와 많이 닮았다."
+    },
+    {
+     "t": 1054.8,
+     "s": "W",
+     "es": "pez",
+     "ko": "물고기"
+    },
+    {
+     "t": 1054.8,
+     "s": "E",
+     "es": "El tiburón es un tipo de pez.",
+     "ko": "상어는 물고기의 일종이다."
+    },
+    {
+     "t": 1062.2,
+     "s": "W",
+     "es": "pluma",
+     "ko": "깃털"
+    },
+    {
+     "t": 1062.2,
+     "s": "E",
+     "es": "En la montaña encontré una pluma de pavo real.",
+     "ko": "산에서 공작 깃털을 하나 발견했다."
+    },
+    {
+     "t": 1068.5,
+     "s": "W",
+     "es": "poner huevos",
+     "ko": "알을 낳다"
+    },
+    {
+     "t": 1074.5,
+     "s": "E",
+     "es": "Los peces y las aves ponen huevos.",
+     "ko": "물고기와 새는 알을 낳는다."
+    },
+    {
+     "t": 1074.5,
+     "s": "W",
+     "es": "ratón, ratona",
+     "ko": "쥐"
+    },
+    {
+     "t": 1081.5,
+     "s": "E",
+     "es": "A los ratones les gusta mucho el queso y las cosas dulces.",
+     "ko": "쥐는 치즈와 단것을 아주 좋아한다."
+    },
+    {
+     "t": 1092.0,
+     "s": "W",
+     "es": "salvaje",
+     "ko": "야생의"
+    },
+    {
+     "t": 1092.0,
+     "s": "E",
+     "es": "Allí están los caballos salvajes que protegemos en esta zona.",
+     "ko": "저기에 우리가 이 지역에서 보호하는 야생마들이 있다."
+    },
+    {
+     "t": 1100.0,
+     "s": "W",
+     "es": "serpiente",
+     "ko": "뱀"
+    },
+    {
+     "t": 1100.0,
+     "s": "E",
+     "es": "La serpiente suele identificarse con el diablo en Occidente.",
+     "ko": "서양에서 뱀은 흔히 악마와 동일시된다."
+    },
+    {
+     "t": 1109.8,
+     "s": "W",
+     "es": "tigre",
+     "ko": "호랑이"
+    },
+    {
+     "t": 1109.8,
+     "s": "E",
+     "es": "En el circo tienen tigres de la India amaestrados.",
+     "ko": "서커스단에는 길들인 인도 호랑이들이 있다."
+    },
+    {
+     "t": 1119.1,
+     "s": "W",
+     "es": "toro",
+     "ko": "황소, 수소"
+    },
+    {
+     "t": 1121.8,
+     "s": "E",
+     "es": "Mañana iremos a una corrida de toros.",
+     "ko": "내일 우리는 투우를 보러 갈 것이다."
+    },
+    {
+     "t": 1127.1,
+     "s": "W",
+     "es": "tortuga",
+     "ko": "거북"
+    },
+    {
+     "t": 1129.6,
+     "s": "E",
+     "es": "En el cuento, la tortuga ganó a la liebre en la carrera.",
+     "ko": "동화에서 거북이 경주에서 토끼를 이겼다."
+    },
+    {
+     "t": 1135.9,
+     "s": "W",
+     "es": "vaca",
+     "ko": "암소"
+    },
+    {
+     "t": 1138.6,
+     "s": "E",
+     "es": "Me gusta mucho la carne de vaca.",
+     "ko": "나는 소고기를 아주 좋아한다."
+    },
+    {
+     "t": 1144.2,
+     "s": "W",
+     "es": "volar",
+     "ko": "날다"
+    },
+    {
+     "t": 1147.0,
+     "s": "E",
+     "es": "Los pájaros están volando muy bajo.",
+     "ko": "새들이 아주 낮게 날고 있다."
+    },
+    {
+     "t": 1151.6,
+     "s": "W",
+     "es": "zorro, zorra",
+     "ko": "여우"
+    },
+    {
+     "t": 1156.0,
+     "s": "E",
+     "es": "El zorro tiene fama de ser un animal muy astuto.",
+     "ko": "여우는 아주 교활한 동물로 알려져 있다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Plantas · 식물",
+   "lines": [
+    {
+     "t": 1171.7,
+     "s": "W",
+     "es": "árbol",
+     "ko": "나무"
+    },
+    {
+     "t": 1174.7,
+     "s": "E",
+     "es": "Plantaron árboles junto a la avenida.",
+     "ko": "그들은 대로변에 나무를 심었다."
+    },
+    {
+     "t": 1180.0,
+     "s": "W",
+     "es": "caña de azúcar",
+     "ko": "사탕수수"
+    },
+    {
+     "t": 1184.5,
+     "s": "E",
+     "es": "Se extrae el jugo de la caña de azúcar con una máquina.",
+     "ko": "사탕수수 즙은 기계로 짜낸다."
+    },
+    {
+     "t": 1190.2,
+     "s": "W",
+     "es": "césped",
+     "ko": "잔디"
+    },
+    {
+     "t": 1193.8,
+     "s": "E",
+     "es": "Ayer corté el césped del jardín.",
+     "ko": "어제 정원의 잔디를 깎았다."
+    },
+    {
+     "t": 1197.7,
+     "s": "W",
+     "es": "clavel",
+     "ko": "카네이션"
+    },
+    {
+     "t": 1200.5,
+     "s": "E",
+     "es": "El señor llevaba un clavel blanco en la solapa de su chaqueta.",
+     "ko": "그 신사는 재킷 옷깃에 흰 카네이션을 꽂고 있었다."
+    },
+    {
+     "t": 1207.8,
+     "s": "W",
+     "es": "cultivar",
+     "ko": "경작하다, 재배하다"
+    },
+    {
+     "t": 1213.1,
+     "s": "E",
+     "es": "Los agricultores cultivaron la tierra.",
+     "ko": "농부들이 땅을 경작했다."
+    },
+    {
+     "t": 1218.1,
+     "s": "W",
+     "es": "flor",
+     "ko": "꽃"
+    },
+    {
+     "t": 1221.3,
+     "s": "E",
+     "es": "En la primavera los campos están en flor.",
+     "ko": "봄에는 들판에 꽃이 핀다."
+    },
+    {
+     "t": 1226.2,
+     "s": "W",
+     "es": "frutal",
+     "ko": "과일나무, 과수"
+    },
+    {
+     "t": 1230.7,
+     "s": "E",
+     "es": "El señor García plantó varios frutales en el huerto.",
+     "ko": "가르시아 씨는 과수원에 과일나무를 몇 그루 심었다."
+    },
+    {
+     "t": 1237.2,
+     "s": "W",
+     "es": "girasol",
+     "ko": "해바라기"
+    },
+    {
+     "t": 1241.1,
+     "s": "E",
+     "es": "De las semillas del girasol se obtiene aceite.",
+     "ko": "해바라기 씨에서 기름을 얻는다."
+    },
+    {
+     "t": 1246.4,
+     "s": "W",
+     "es": "hierba",
+     "ko": "풀"
+    },
+    {
+     "t": 1249.5,
+     "s": "E",
+     "es": "Estos animales se alimentan de la hierba del campo.",
+     "ko": "이 동물들은 들판의 풀을 먹고 산다."
+    },
+    {
+     "t": 1254.8,
+     "s": "W",
+     "es": "hoja",
+     "ko": "잎, 잎사귀"
+    },
+    {
+     "t": 1258.0,
+     "s": "E",
+     "es": "La hoja del pino tiene forma de aguja.",
+     "ko": "소나무 잎은 바늘 모양이다."
+    },
+    {
+     "t": 1264.1,
+     "s": "W",
+     "es": "hongo",
+     "ko": "버섯"
+    },
+    {
+     "t": 1267.2,
+     "s": "E",
+     "es": "El champiñón es un hongo.",
+     "ko": "양송이는 버섯의 일종이다."
+    },
+    {
+     "t": 1271.4,
+     "s": "W",
+     "es": "huerta",
+     "ko": "밭, 경작지"
+    },
+    {
+     "t": 1275.4,
+     "s": "E",
+     "es": "Todas estas verduras provienen de una huerta orgánica.",
+     "ko": "이 채소들은 모두 유기농 밭에서 나온 것이다."
+    },
+    {
+     "t": 1282.0,
+     "s": "W",
+     "es": "invernadero",
+     "ko": "온실"
+    },
+    {
+     "t": 1284.9,
+     "s": "E",
+     "es": "Nuestra familia cultiva tomates en el invernadero.",
+     "ko": "우리 가족은 온실에서 토마토를 재배한다."
+    },
+    {
+     "t": 1291.0,
+     "s": "W",
+     "es": "laurel",
+     "ko": "월계수"
+    },
+    {
+     "t": 1293.9,
+     "s": "E",
+     "es": "Las hojas de laurel se usan para dar sabor a la comida.",
+     "ko": "월계수 잎은 음식에 맛을 내는 데 쓰인다."
+    },
+    {
+     "t": 1300.1,
+     "s": "W",
+     "es": "pino",
+     "ko": "소나무"
+    },
+    {
+     "t": 1302.9,
+     "s": "E",
+     "es": "En el parque hay pinos que tienen más de 50 años.",
+     "ko": "공원에는 수령이 50년이 넘은 소나무들이 있다."
+    },
+    {
+     "t": 1309.1,
+     "s": "W",
+     "es": "plantar",
+     "ko": "심다"
+    },
+    {
+     "t": 1311.7,
+     "s": "E",
+     "es": "Plantamos 10 manzanos en la granja.",
+     "ko": "우리는 농장에 사과나무 10그루를 심었다."
+    },
+    {
+     "t": 1317.2,
+     "s": "W",
+     "es": "raíz",
+     "ko": "뿌리"
+    },
+    {
+     "t": 1320.0,
+     "s": "E",
+     "es": "Este árbol crecerá bien porque tiene raíces fuertes.",
+     "ko": "이 나무는 뿌리가 튼튼해서 잘 자랄 것이다."
+    },
+    {
+     "t": 1325.3,
+     "s": "W",
+     "es": "rama",
+     "ko": "가지"
+    },
+    {
+     "t": 1328.7,
+     "s": "E",
+     "es": "Colgaron sus chaquetas de las ramas de un viejo árbol.",
+     "ko": "그들은 오래된 나무의 가지에 재킷을 걸었다."
+    },
+    {
+     "t": 1334.4,
+     "s": "W",
+     "es": "regar",
+     "ko": "물을 주다"
+    },
+    {
+     "t": 1337.9,
+     "s": "E",
+     "es": "Cuando yo no esté en casa, tú tienes que regar las plantas.",
+     "ko": "내가 집에 없을 때는 네가 화초에 물을 줘야 한다."
+    },
+    {
+     "t": 1343.1,
+     "s": "W",
+     "es": "rosa",
+     "ko": "장미"
+    },
+    {
+     "t": 1345.5,
+     "s": "E",
+     "es": "¡Qué bien huelen las rosas!",
+     "ko": "장미 향기가 정말 좋다!"
+    },
+    {
+     "t": 1350.8,
+     "s": "W",
+     "es": "rural",
+     "ko": "시골의, 농촌의"
+    },
+    {
+     "t": 1355.5,
+     "s": "E",
+     "es": "En su pueblo podemos hacer turismo rural.",
+     "ko": "그의 마을에서는 농촌 관광을 할 수 있다."
+    },
+    {
+     "t": 1360.8,
+     "s": "W",
+     "es": "sembrar",
+     "ko": "씨를 뿌리다"
+    },
+    {
+     "t": 1364.3,
+     "s": "E",
+     "es": "Sembró sésamo en sus campos.",
+     "ko": "그는 자기 밭에 참깨를 뿌렸다."
+    },
+    {
+     "t": 1369.7,
+     "s": "W",
+     "es": "semilla",
+     "ko": "씨, 씨앗"
+    },
+    {
+     "t": 1371.8,
+     "s": "E",
+     "es": "Escupí las semillas de la manzana.",
+     "ko": "나는 사과 씨를 뱉었다."
+    },
+    {
+     "t": 1377.6,
+     "s": "W",
+     "es": "tronco",
+     "ko": "(나무의) 몸통, 줄기"
+    },
+    {
+     "t": 1381.7,
+     "s": "E",
+     "es": "El tronco de este pino tiene un metro de diámetro.",
+     "ko": "이 소나무 줄기는 지름이 1미터이다."
+    },
+    {
+     "t": 1387.4,
+     "s": "W",
+     "es": "vid",
+     "ko": "포도나무"
+    },
+    {
+     "t": 1390.2,
+     "s": "E",
+     "es": "Hay vides silvestres en mi huerto.",
+     "ko": "내 과수원에는 야생 포도나무가 있다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 5. Medio ambiente · 환경",
+   "lines": [
+    {
+     "t": 1405.6,
+     "s": "W",
+     "es": "basura",
+     "ko": "쓰레기"
+    },
+    {
+     "t": 1409.2,
+     "s": "E",
+     "es": "Prohibido tirar basura.",
+     "ko": "쓰레기 투기 금지."
+    },
+    {
+     "t": 1412.8,
+     "s": "W",
+     "es": "calentamiento global",
+     "ko": "지구 온난화"
+    },
+    {
+     "t": 1417.7,
+     "s": "E",
+     "es": "El calentamiento global se refiere al fenómeno del aumento de la temperatura media global.",
+     "ko": "지구 온난화는 지구 평균 기온이 올라가는 현상을 말한다."
+    },
+    {
+     "t": 1425.5,
+     "s": "W",
+     "es": "cambio climático",
+     "ko": "기후 변화"
+    },
+    {
+     "t": 1429.2,
+     "s": "E",
+     "es": "El cambio climático se debe al calentamiento global.",
+     "ko": "기후 변화는 지구 온난화 때문에 일어난다."
+    },
+    {
+     "t": 1435.1,
+     "s": "W",
+     "es": "capa de ozono",
+     "ko": "오존층"
+    },
+    {
+     "t": 1439.4,
+     "s": "E",
+     "es": "La contaminación atmosférica está destruyendo la capa de ozono.",
+     "ko": "대기 오염이 오존층을 파괴하고 있다."
+    },
+    {
+     "t": 1446.2,
+     "s": "W",
+     "es": "contaminación",
+     "ko": "오염"
+    },
+    {
+     "t": 1449.9,
+     "s": "E",
+     "es": "La contaminación del aire en las grandes ciudades está disminuyendo poco a poco.",
+     "ko": "대도시의 대기 오염이 조금씩 줄어들고 있다."
+    },
+    {
+     "t": 1457.2,
+     "s": "W",
+     "es": "ecología",
+     "ko": "생태학"
+    },
+    {
+     "t": 1461.2,
+     "s": "E",
+     "es": "Un biólogo especializado en ecología va a venir a dar una conferencia.",
+     "ko": "생태학을 전문으로 하는 생물학자가 강연을 하러 올 것이다."
+    },
+    {
+     "t": 1467.8,
+     "s": "W",
+     "es": "ecosistema",
+     "ko": "생태계"
+    },
+    {
+     "t": 1471.7,
+     "s": "E",
+     "es": "Cada especie desempeña un papel concreto en el ecosistema.",
+     "ko": "각각의 종은 생태계에서 구체적인 역할을 한다."
+    },
+    {
+     "t": 1477.1,
+     "s": "W",
+     "es": "efecto invernadero",
+     "ko": "온실 효과"
+    },
+    {
+     "t": 1480.7,
+     "s": "E",
+     "es": "El deshielo de los polos se debe al efecto invernadero.",
+     "ko": "극지방의 얼음이 녹는 것은 온실 효과 때문이다."
+    },
+    {
+     "t": 1487.8,
+     "s": "W",
+     "es": "energía",
+     "ko": "에너지"
+    },
+    {
+     "t": 1491.0,
+     "s": "E",
+     "es": "Estas máquinas transforman la energía solar en energía eléctrica.",
+     "ko": "이 기계들은 태양 에너지를 전기 에너지로 바꾼다."
+    },
+    {
+     "t": 1497.2,
+     "s": "W",
+     "es": "humo",
+     "ko": "연기"
+    },
+    {
+     "t": 1500.7,
+     "s": "E",
+     "es": "Antes las fábricas echaban humo negro.",
+     "ko": "예전에는 공장들이 검은 연기를 내뿜었다."
+    },
+    {
+     "t": 1505.4,
+     "s": "W",
+     "es": "medio ambiente",
+     "ko": "환경"
+    },
+    {
+     "t": 1509.2,
+     "s": "E",
+     "es": "Proteger el medio ambiente es importante para nosotros mismos.",
+     "ko": "환경을 보호하는 것은 우리 자신에게 중요하다."
+    },
+    {
+     "t": 1514.7,
+     "s": "W",
+     "es": "plástico",
+     "ko": "플라스틱"
+    },
+    {
+     "t": 1518.5,
+     "s": "E",
+     "es": "Desde ahora tenemos que pagar en el supermercado por la bolsa de plástico.",
+     "ko": "이제부터 슈퍼마켓에서 비닐봉지 값을 내야 한다."
+    },
+    {
+     "t": 1525.0,
+     "s": "W",
+     "es": "reciclar",
+     "ko": "재활용하다"
+    },
+    {
+     "t": 1529.3,
+     "s": "E",
+     "es": "Si reciclamos el papel, no habrá que talar tantos árboles.",
+     "ko": "종이를 재활용하면 그렇게 많은 나무를 벨 필요가 없을 것이다."
+    },
+    {
+     "t": 1534.9,
+     "s": "W",
+     "es": "reducir",
+     "ko": "감축하다, 줄이다"
+    },
+    {
+     "t": 1540.3,
+     "s": "E",
+     "es": "Debemos reducir el consumo de gasolina; si no, acabaremos pronto con el petróleo.",
+     "ko": "휘발유 소비를 줄여야 한다. 그러지 않으면 석유가 곧 바닥날 것이다."
+    },
+    {
+     "t": 1548.4,
+     "s": "W",
+     "es": "vidrio",
+     "ko": "유리"
+    },
+    {
+     "t": 1548.4,
+     "s": "E",
+     "es": "Ese es el contenedor en el que debes tirar el vidrio.",
+     "ko": "저것이 유리를 버려야 하는 수거함이다."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 7 · Unidad 1. Edificio, calle · 건물, 거리",
+   "lines": [
+    {
+     "t": 1589.5,
+     "s": "W",
+     "es": "acera",
+     "ko": "인도, 보도"
+    },
+    {
+     "t": 1595.2,
+     "s": "E",
+     "es": "Los niños juegan en la acera frente a su casa.",
+     "ko": "아이들이 집 앞 인도에서 논다."
+    },
+    {
+     "t": 1601.1,
+     "s": "W",
+     "es": "aparcamiento",
+     "ko": "주차장"
+    },
+    {
+     "t": 1603.8,
+     "s": "E",
+     "es": "Dejó su coche en un gran aparcamiento del centro.",
+     "ko": "그는 시내의 큰 주차장에 차를 세웠다."
+    },
+    {
+     "t": 1610.3,
+     "s": "W",
+     "es": "avenida",
+     "ko": "대로, 큰길"
+    },
+    {
+     "t": 1613.9,
+     "s": "E",
+     "es": "Paseamos por la Avenida de Mayo.",
+     "ko": "우리는 마요 대로를 산책했다."
+    },
+    {
+     "t": 1619.5,
+     "s": "W",
+     "es": "ayuntamiento",
+     "ko": "시청, 도청"
+    },
+    {
+     "t": 1623.4,
+     "s": "E",
+     "es": "El Ayuntamiento de Madrid está en la plaza de Cibeles.",
+     "ko": "마드리드 시청은 시벨레스 광장에 있다."
+    },
+    {
+     "t": 1630.2,
+     "s": "W",
+     "es": "banco",
+     "ko": "은행, 벤치"
+    },
+    {
+     "t": 1635.7,
+     "s": "E",
+     "es": "Tenemos que hacer este ingreso en el banco.",
+     "ko": "이 돈을 은행에 입금해야 한다."
+    },
+    {
+     "t": 1641.3,
+     "s": "W",
+     "es": "barrio",
+     "ko": "구역, 지역, 동네"
+    },
+    {
+     "t": 1646.0,
+     "s": "E",
+     "es": "En mi barrio no hay ni una librería.",
+     "ko": "우리 동네에는 서점이 하나도 없다."
+    },
+    {
+     "t": 1651.1,
+     "s": "W",
+     "es": "boca de metro",
+     "ko": "지하철 입구"
+    },
+    {
+     "t": 1655.7,
+     "s": "E",
+     "es": "Te espero en la boca de metro número 3.",
+     "ko": "지하철 3번 출구에서 기다릴게."
+    },
+    {
+     "t": 1660.5,
+     "s": "W",
+     "es": "cajero automático",
+     "ko": "현금 자동 인출기"
+    },
+    {
+     "t": 1666.1,
+     "s": "E",
+     "es": "Voy a sacar dinero en el cajero automático.",
+     "ko": "현금 인출기에서 돈을 뽑을 거다."
+    },
+    {
+     "t": 1673.2,
+     "s": "W",
+     "es": "calle",
+     "ko": "거리, 길"
+    },
+    {
+     "t": 1676.3,
+     "s": "E",
+     "es": "Cruza la calle por el paso de cebra.",
+     "ko": "횡단보도로 길을 건너라."
+    },
+    {
+     "t": 1682.1,
+     "s": "W",
+     "es": "cementerio",
+     "ko": "묘지"
+    },
+    {
+     "t": 1684.9,
+     "s": "E",
+     "es": "El autor de la obra está enterrado en el cementerio de la catedral.",
+     "ko": "그 작품의 작가는 대성당 묘지에 묻혀 있다."
+    },
+    {
+     "t": 1691.0,
+     "s": "W",
+     "es": "centro comercial",
+     "ko": "쇼핑센터, 쇼핑몰"
+    },
+    {
+     "t": 1697.2,
+     "s": "E",
+     "es": "En mi barrio hay un centro comercial con muchas tiendas de todas clases.",
+     "ko": "우리 동네에는 온갖 종류의 가게가 많은 쇼핑센터가 있다."
+    },
+    {
+     "t": 1703.2,
+     "s": "W",
+     "es": "ciudad",
+     "ko": "도시"
+    },
+    {
+     "t": 1705.3,
+     "s": "E",
+     "es": "Muchas ciudades europeas conservan sus centros históricos.",
+     "ko": "많은 유럽 도시가 역사 지구를 보존하고 있다."
+    },
+    {
+     "t": 1712.4,
+     "s": "W",
+     "es": "comisaría",
+     "ko": "경찰서"
+    },
+    {
+     "t": 1716.1,
+     "s": "E",
+     "es": "Voy a la comisaría para denunciar un robo.",
+     "ko": "도난 신고를 하러 경찰서에 간다."
+    },
+    {
+     "t": 1720.8,
+     "s": "W",
+     "es": "cruce",
+     "ko": "교차로, 사거리, 횡단보도"
+    },
+    {
+     "t": 1728.1,
+     "s": "E",
+     "es": "Nos encontramos en un cruce de la calle Pino.",
+     "ko": "우리는 피노 거리의 한 교차로에서 만났다."
+    },
+    {
+     "t": 1733.5,
+     "s": "W",
+     "es": "edificio",
+     "ko": "건물"
+    },
+    {
+     "t": 1735.9,
+     "s": "E",
+     "es": "En los edificios del centro cada vez hay menos viviendas y más oficinas y centros comerciales.",
+     "ko": "도심 건물에는 주택은 점점 줄고 사무실과 상가는 늘고 있다."
+    },
+    {
+     "t": 1745.8,
+     "s": "W",
+     "es": "esquina",
+     "ko": "모퉁이, 코너"
+    },
+    {
+     "t": 1750.0,
+     "s": "E",
+     "es": "En aquella esquina puedes encontrar un banco.",
+     "ko": "저 모퉁이에 가면 은행이 있다."
+    },
+    {
+     "t": 1755.0,
+     "s": "W",
+     "es": "estación",
+     "ko": "역, 정류장"
+    },
+    {
+     "t": 1758.5,
+     "s": "E",
+     "es": "Estamos en la estación de autobuses para ir a Toledo.",
+     "ko": "우리는 톨레도에 가려고 버스 터미널에 와 있다."
+    },
+    {
+     "t": 1763.3,
+     "s": "W",
+     "es": "estatua",
+     "ko": "조각상, 동상"
+    },
+    {
+     "t": 1765.7,
+     "s": "E",
+     "es": "En la plaza hay una estatua de Felipe II.",
+     "ko": "광장에는 펠리페 2세의 동상이 있다."
+    },
+    {
+     "t": 1772.1,
+     "s": "W",
+     "es": "farmacia",
+     "ko": "약국"
+    },
+    {
+     "t": 1775.0,
+     "s": "E",
+     "es": "La farmacia de la esquina está de turno.",
+     "ko": "모퉁이 약국이 당번 약국이다."
+    },
+    {
+     "t": 1779.8,
+     "s": "W",
+     "es": "farol",
+     "ko": "가로등, 등불"
+    },
+    {
+     "t": 1784.7,
+     "s": "E",
+     "es": "Ha puesto un farol en la terraza del chalet.",
+     "ko": "그는 별장 테라스에 등을 달았다."
+    },
+    {
+     "t": 1789.7,
+     "s": "W",
+     "es": "ferrocarril",
+     "ko": "철도"
+    },
+    {
+     "t": 1793.3,
+     "s": "E",
+     "es": "La estación de ferrocarril está llena de gente.",
+     "ko": "기차역이 사람들로 가득하다."
+    },
+    {
+     "t": 1800.3,
+     "s": "W",
+     "es": "fuente",
+     "ko": "분수, 샘"
+    },
+    {
+     "t": 1803.2,
+     "s": "E",
+     "es": "En la fuente de la ciudad las palomas se bañan a menudo.",
+     "ko": "도시의 분수에서 비둘기들이 자주 목욕을 한다."
+    },
+    {
+     "t": 1810.8,
+     "s": "W",
+     "es": "gasolinera",
+     "ko": "주유소"
+    },
+    {
+     "t": 1812.4,
+     "s": "E",
+     "es": "Pararemos en la próxima gasolinera para estirar las piernas.",
+     "ko": "다리 좀 펴게 다음 주유소에서 쉬어 가자."
+    },
+    {
+     "t": 1819.6,
+     "s": "W",
+     "es": "glorieta",
+     "ko": "로터리"
+    },
+    {
+     "t": 1823.5,
+     "s": "E",
+     "es": "Cuando llegues a la glorieta, gira a la derecha.",
+     "ko": "로터리에 도착하면 오른쪽으로 돌아라."
+    },
+    {
+     "t": 1829.4,
+     "s": "W",
+     "es": "gran almacén",
+     "ko": "백화점"
+    },
+    {
+     "t": 1834.3,
+     "s": "E",
+     "es": "Me compré este abrigo en unos grandes almacenes.",
+     "ko": "이 외투는 백화점에서 샀다."
+    },
+    {
+     "t": 1841.0,
+     "s": "W",
+     "es": "habitante",
+     "ko": "주민"
+    },
+    {
+     "t": 1843.1,
+     "s": "E",
+     "es": "En mi pueblo solo quedan 15 habitantes.",
+     "ko": "우리 마을에는 주민이 15명밖에 남지 않았다."
+    },
+    {
+     "t": 1849.3,
+     "s": "W",
+     "es": "iglesia",
+     "ko": "교회, 성당"
+    },
+    {
+     "t": 1853.0,
+     "s": "E",
+     "es": "Hay muchas iglesias antiguas en España.",
+     "ko": "스페인에는 오래된 성당이 많다."
+    },
+    {
+     "t": 1858.7,
+     "s": "W",
+     "es": "librería",
+     "ko": "서점"
+    },
+    {
+     "t": 1861.4,
+     "s": "E",
+     "es": "Cerca de aquí hay una librería especializada en filosofía.",
+     "ko": "이 근처에 철학 전문 서점이 있다."
+    },
+    {
+     "t": 1867.7,
+     "s": "W",
+     "es": "lugar",
+     "ko": "장소"
+    },
+    {
+     "t": 1870.7,
+     "s": "E",
+     "es": "Están buscando un lugar para hacer su nueva casa.",
+     "ko": "그들은 새 집을 지을 장소를 찾고 있다."
+    },
+    {
+     "t": 1875.4,
+     "s": "W",
+     "es": "manzana",
+     "ko": "(도시의) 블록, 구획"
+    },
+    {
+     "t": 1878.9,
+     "s": "E",
+     "es": "El taxi dio una vuelta a la manzana.",
+     "ko": "택시가 블록을 한 바퀴 돌았다."
+    },
+    {
+     "t": 1883.3,
+     "s": "W",
+     "es": "museo",
+     "ko": "박물관, 미술관"
+    },
+    {
+     "t": 1888.3,
+     "s": "E",
+     "es": "Hay una exposición de Salvador Dalí en el Museo de Arte Moderno.",
+     "ko": "현대 미술관에서 살바도르 달리 전시회가 열리고 있다."
+    },
+    {
+     "t": 1894.2,
+     "s": "W",
+     "es": "oficina de correos",
+     "ko": "우체국"
+    },
+    {
+     "t": 1898.3,
+     "s": "E",
+     "es": "Voy a ir a la oficina de correos para enviar este paquete a mi casa.",
+     "ko": "이 소포를 집으로 부치러 우체국에 갈 것이다."
+    },
+    {
+     "t": 1905.7,
+     "s": "W",
+     "es": "palacio",
+     "ko": "궁전"
+    },
+    {
+     "t": 1907.8,
+     "s": "E",
+     "es": "Los reyes de España viven en el Palacio de la Zarzuela.",
+     "ko": "스페인 국왕 부부는 사르수엘라 궁전에 산다."
+    },
+    {
+     "t": 1914.4,
+     "s": "W",
+     "es": "parada",
+     "ko": "정류장"
+    },
+    {
+     "t": 1917.0,
+     "s": "E",
+     "es": "Déjeme allí, cerca de la parada de taxis.",
+     "ko": "저기 택시 정류장 근처에 내려 주세요."
+    },
+    {
+     "t": 1923.0,
+     "s": "W",
+     "es": "parque",
+     "ko": "공원"
+    },
+    {
+     "t": 1925.1,
+     "s": "E",
+     "es": "La ciudad necesita más parques para que la gente pueda descansar.",
+     "ko": "도시에는 사람들이 쉴 수 있도록 공원이 더 필요하다."
+    },
+    {
+     "t": 1931.5,
+     "s": "W",
+     "es": "paso de peatones",
+     "ko": "횡단보도"
+    },
+    {
+     "t": 1936.3,
+     "s": "E",
+     "es": "Por aquí no veo el paso de peatones.",
+     "ko": "이 근처에는 횡단보도가 안 보인다."
+    },
+    {
+     "t": 1941.5,
+     "s": "W",
+     "es": "peluquería",
+     "ko": "미용실"
+    },
+    {
+     "t": 1944.3,
+     "s": "E",
+     "es": "Una vez al mes me corto el pelo en la peluquería.",
+     "ko": "나는 한 달에 한 번 미용실에서 머리를 자른다."
+    },
+    {
+     "t": 1949.2,
+     "s": "W",
+     "es": "plaza",
+     "ko": "광장"
+    },
+    {
+     "t": 1952.5,
+     "s": "E",
+     "es": "Hemos quedado en la Plaza Mayor.",
+     "ko": "우리는 마요르 광장에서 만나기로 했다."
+    },
+    {
+     "t": 1956.6,
+     "s": "W",
+     "es": "pueblo",
+     "ko": "마을, 시골"
+    },
+    {
+     "t": 1963.3,
+     "s": "E",
+     "es": "Mis padres son de un pueblo muy pequeño de la provincia de Ávila.",
+     "ko": "우리 부모님은 아빌라 주의 아주 작은 마을 출신이다."
+    },
+    {
+     "t": 1972.5,
+     "s": "W",
+     "es": "puente",
+     "ko": "다리"
+    },
+    {
+     "t": 1973.2,
+     "s": "E",
+     "es": "Cruzaremos el puente del río.",
+     "ko": "우리는 강 위의 다리를 건널 것이다."
+    },
+    {
+     "t": 1978.1,
+     "s": "W",
+     "es": "quiosco",
+     "ko": "(신문) 가판대"
+    },
+    {
+     "t": 1981.9,
+     "s": "E",
+     "es": "Acércate al quiosco y cómprame el periódico, por favor.",
+     "ko": "가판대에 가서 신문 좀 사다 줘."
+    },
+    {
+     "t": 1986.5,
+     "s": "W",
+     "es": "tienda",
+     "ko": "상점, 가게"
+    },
+    {
+     "t": 1991.5,
+     "s": "E",
+     "es": "Mi tío tiene una tienda de cosméticos.",
+     "ko": "우리 삼촌은 화장품 가게를 한다."
+    },
+    {
+     "t": 1996.2,
+     "s": "W",
+     "es": "tintorería",
+     "ko": "세탁소"
+    },
+    {
+     "t": 1998.5,
+     "s": "E",
+     "es": "Él ya ha llevado la alfombra a la tintorería para guardarla limpia.",
+     "ko": "그는 양탄자를 깨끗하게 보관하려고 이미 세탁소에 맡겼다."
+    },
+    {
+     "t": 2005.3,
+     "s": "W",
+     "es": "torre",
+     "ko": "탑"
+    },
+    {
+     "t": 2008.4,
+     "s": "E",
+     "es": "Subimos a la torre de la iglesia.",
+     "ko": "우리는 성당 탑에 올라갔다."
+    },
+    {
+     "t": 2012.5,
+     "s": "W",
+     "es": "zoo",
+     "ko": "동물원"
+    },
+    {
+     "t": 2015.8,
+     "s": "E",
+     "es": "A los niños les encanta ir al zoo.",
+     "ko": "아이들은 동물원에 가는 것을 정말 좋아한다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Transporte · 교통",
+   "lines": [
+    {
+     "t": 2030.8,
+     "s": "W",
+     "es": "acelerar",
+     "ko": "가속하다, 속도를 내다"
+    },
+    {
+     "t": 2034.6,
+     "s": "E",
+     "es": "¡Acelera, que llegamos tarde!",
+     "ko": "속도 좀 내, 늦겠어!"
+    },
+    {
+     "t": 2038.3,
+     "s": "W",
+     "es": "aeropuerto",
+     "ko": "공항"
+    },
+    {
+     "t": 2042.3,
+     "s": "E",
+     "es": "El aeropuerto de Madrid es el de Barajas.",
+     "ko": "마드리드의 공항은 바라하스 공항이다."
+    },
+    {
+     "t": 2050.0,
+     "s": "W",
+     "es": "andén",
+     "ko": "플랫폼, 승강장"
+    },
+    {
+     "t": 2050.0,
+     "s": "E",
+     "es": "Esperé en el andén a que llegara el próximo tren.",
+     "ko": "나는 승강장에서 다음 기차가 오기를 기다렸다."
+    },
+    {
+     "t": 2053.4,
+     "s": "W",
+     "es": "aparcar",
+     "ko": "주차하다"
+    },
+    {
+     "t": 2053.4,
+     "s": "E",
+     "es": "Le costó mucho aprender a aparcar el coche.",
+     "ko": "그는 주차하는 법을 배우느라 무척 애를 먹었다."
+    },
+    {
+     "t": 2064.4,
+     "s": "W",
+     "es": "a pie",
+     "ko": "걸어서"
+    },
+    {
+     "t": 2064.4,
+     "s": "E",
+     "es": "Iremos a pie al restaurante porque está muy cerca de aquí.",
+     "ko": "식당이 여기서 아주 가까우니 걸어서 갈 것이다."
+    },
+    {
+     "t": 2072.5,
+     "s": "W",
+     "es": "área de servicio",
+     "ko": "휴게소"
+    },
+    {
+     "t": 2072.5,
+     "s": "E",
+     "es": "Vamos a descansar en la primera área de servicio que encontremos.",
+     "ko": "처음 나오는 휴게소에서 쉬어 가자."
+    },
+    {
+     "t": 2083.1,
+     "s": "W",
+     "es": "arreglar",
+     "ko": "고치다, 수선하다, 정돈하다"
+    },
+    {
+     "t": 2089.6,
+     "s": "E",
+     "es": "El técnico arregló mi coche.",
+     "ko": "기술자가 내 차를 고쳤다."
+    },
+    {
+     "t": 2093.9,
+     "s": "W",
+     "es": "asiento",
+     "ko": "좌석"
+    },
+    {
+     "t": 2097.6,
+     "s": "E",
+     "es": "El asiento del conductor está delante.",
+     "ko": "운전석은 앞쪽에 있다."
+    },
+    {
+     "t": 2102.6,
+     "s": "W",
+     "es": "atasco",
+     "ko": "정체, 교통 체증, 막힘"
+    },
+    {
+     "t": 2108.7,
+     "s": "E",
+     "es": "En las horas punta se suelen producir atascos.",
+     "ko": "출퇴근 시간에는 보통 교통 체증이 생긴다."
+    },
+    {
+     "t": 2114.5,
+     "s": "W",
+     "es": "aterrizar",
+     "ko": "착륙하다"
+    },
+    {
+     "t": 2117.6,
+     "s": "E",
+     "es": "El avión aterrizó sin problemas.",
+     "ko": "비행기는 무사히 착륙했다."
+    },
+    {
+     "t": 2123.1,
+     "s": "W",
+     "es": "atropellar",
+     "ko": "(차가) 치다"
+    },
+    {
+     "t": 2125.5,
+     "s": "E",
+     "es": "El coche atropelló al perro.",
+     "ko": "차가 개를 치었다."
+    },
+    {
+     "t": 2130.6,
+     "s": "W",
+     "es": "autobús",
+     "ko": "버스"
+    },
+    {
+     "t": 2133.9,
+     "s": "E",
+     "es": "Cogimos el autobús que va a la plaza de España.",
+     "ko": "우리는 에스파냐 광장으로 가는 버스를 탔다."
+    },
+    {
+     "t": 2141.2,
+     "s": "W",
+     "es": "avión",
+     "ko": "비행기"
+    },
+    {
+     "t": 2143.0,
+     "s": "E",
+     "es": "Viajar en avión es caro, pero es más cómodo y rápido.",
+     "ko": "비행기 여행은 비싸지만 더 편하고 빠르다."
+    },
+    {
+     "t": 2148.6,
+     "s": "W",
+     "es": "azafato, azafata",
+     "ko": "승무원"
+    },
+    {
+     "t": 2152.7,
+     "s": "E",
+     "es": "Una azafata nos ayudó a meter las maletas en el maletero.",
+     "ko": "승무원 한 명이 우리가 가방을 짐칸에 넣는 것을 도와주었다."
+    },
+    {
+     "t": 2159.3,
+     "s": "W",
+     "es": "bajar",
+     "ko": "내리다"
+    },
+    {
+     "t": 2162.2,
+     "s": "E",
+     "es": "Bajamos del tren y nos dirigimos a la salida.",
+     "ko": "우리는 기차에서 내려 출구로 향했다."
+    },
+    {
+     "t": 2167.8,
+     "s": "W",
+     "es": "barco",
+     "ko": "배"
+    },
+    {
+     "t": 2169.5,
+     "s": "E",
+     "es": "A este lugar se puede llegar fácilmente por avión, carretera, ferrocarril o barco.",
+     "ko": "이곳은 비행기, 도로, 철도, 배로 쉽게 올 수 있다."
+    },
+    {
+     "t": 2180.5,
+     "s": "W",
+     "es": "bicicleta",
+     "ko": "자전거"
+    },
+    {
+     "t": 2181.2,
+     "s": "E",
+     "es": "De niña iba a la escuela en bicicleta.",
+     "ko": "어렸을 때 나는 자전거를 타고 학교에 다녔다."
+    },
+    {
+     "t": 2186.7,
+     "s": "W",
+     "es": "billete",
+     "ko": "표, 티켓"
+    },
+    {
+     "t": 2190.7,
+     "s": "E",
+     "es": "Enseña el billete al revisor.",
+     "ko": "검표원에게 표를 보여 줘라."
+    },
+    {
+     "t": 2194.7,
+     "s": "W",
+     "es": "camión",
+     "ko": "트럭"
+    },
+    {
+     "t": 2197.7,
+     "s": "E",
+     "es": "Necesito un camión de mudanzas este jueves.",
+     "ko": "이번 목요일에 이삿짐 트럭이 필요하다."
+    },
+    {
+     "t": 2202.4,
+     "s": "W",
+     "es": "capitán, capitana",
+     "ko": "선장, 대장, 대위, 주장"
+    },
+    {
+     "t": 2211.9,
+     "s": "E",
+     "es": "El capitán de este barco de pasajeros está en la proa.",
+     "ko": "이 여객선의 선장은 뱃머리에 있다."
+    },
+    {
+     "t": 2217.4,
+     "s": "W",
+     "es": "carné de conducir",
+     "ko": "운전면허증"
+    },
+    {
+     "t": 2222.2,
+     "s": "E",
+     "es": "El policía me pidió el carné de conducir.",
+     "ko": "경찰관이 내게 운전면허증을 요구했다."
+    },
+    {
+     "t": 2226.8,
+     "s": "W",
+     "es": "carretera",
+     "ko": "도로, 차도"
+    },
+    {
+     "t": 2230.8,
+     "s": "E",
+     "es": "En carretera el peatón debe circular por la izquierda.",
+     "ko": "차도에서 보행자는 왼쪽으로 다녀야 한다."
+    },
+    {
+     "t": 2237.0,
+     "s": "W",
+     "es": "casco",
+     "ko": "헬멧"
+    },
+    {
+     "t": 2239.7,
+     "s": "E",
+     "es": "Tienes que ponerte el casco cuando vayas en moto.",
+     "ko": "오토바이를 탈 때는 헬멧을 써야 한다."
+    },
+    {
+     "t": 2244.8,
+     "s": "W",
+     "es": "chaleco salvavidas",
+     "ko": "구명조끼"
+    },
+    {
+     "t": 2249.3,
+     "s": "E",
+     "es": "Los supervivientes del naufragio tenían puestos los chalecos salvavidas.",
+     "ko": "난파 사고의 생존자들은 구명조끼를 입고 있었다."
+    },
+    {
+     "t": 2256.2,
+     "s": "W",
+     "es": "chocar",
+     "ko": "부딪치다, 충돌하다"
+    },
+    {
+     "t": 2259.4,
+     "s": "E",
+     "es": "Si giras así, vamos a chocar contra el farol.",
+     "ko": "그렇게 돌면 가로등에 부딪치겠다."
+    },
+    {
+     "t": 2263.8,
+     "s": "W",
+     "es": "cinturón de seguridad",
+     "ko": "안전벨트"
+    },
+    {
+     "t": 2268.2,
+     "s": "E",
+     "es": "Hay que abrocharse el cinturón de seguridad al sentarse.",
+     "ko": "자리에 앉으면 안전벨트를 매야 한다."
+    },
+    {
+     "t": 2274.3,
+     "s": "W",
+     "es": "coche",
+     "ko": "자동차"
+    },
+    {
+     "t": 2277.5,
+     "s": "E",
+     "es": "Voy a comprar un coche de último modelo.",
+     "ko": "최신 모델 자동차를 살 것이다."
+    },
+    {
+     "t": 2282.4,
+     "s": "W",
+     "es": "conducir",
+     "ko": "운전하다"
+    },
+    {
+     "t": 2285.0,
+     "s": "E",
+     "es": "Mi padre conduce el autobús.",
+     "ko": "우리 아버지는 버스를 운전하신다."
+    },
+    {
+     "t": 2290.2,
+     "s": "W",
+     "es": "cristal",
+     "ko": "유리"
+    },
+    {
+     "t": 2292.9,
+     "s": "E",
+     "es": "Tus cristales están sucios. No podrás ver bien.",
+     "ko": "네 유리가 더러워. 잘 안 보일 거야."
+    },
+    {
+     "t": 2298.3,
+     "s": "W",
+     "es": "despegar",
+     "ko": "이륙하다"
+    },
+    {
+     "t": 2300.9,
+     "s": "E",
+     "es": "¡Abróchense los cinturones! El avión va a despegar.",
+     "ko": "안전벨트를 매 주십시오! 비행기가 곧 이륙합니다."
+    },
+    {
+     "t": 2307.6,
+     "s": "W",
+     "es": "destino",
+     "ko": "목적지"
+    },
+    {
+     "t": 2310.6,
+     "s": "E",
+     "es": "El destino de este barco es Incheon.",
+     "ko": "이 배의 목적지는 인천이다."
+    },
+    {
+     "t": 2315.4,
+     "s": "W",
+     "es": "embarque",
+     "ko": "승선, 탑승"
+    },
+    {
+     "t": 2319.5,
+     "s": "E",
+     "es": "Lleven en la mano su tarjeta de embarque.",
+     "ko": "탑승권을 손에 들고 계십시오."
+    },
+    {
+     "t": 2324.6,
+     "s": "W",
+     "es": "entrada",
+     "ko": "입장, 입구"
+    },
+    {
+     "t": 2328.6,
+     "s": "E",
+     "es": "Quedamos en la entrada del edificio.",
+     "ko": "우리는 건물 입구에서 만나기로 했다."
+    },
+    {
+     "t": 2333.3,
+     "s": "W",
+     "es": "facturar el equipaje",
+     "ko": "짐을 부치다, 수하물을 탁송하다"
+    },
+    {
+     "t": 2340.3,
+     "s": "E",
+     "es": "¡Date prisa! Tenemos que facturar el equipaje.",
+     "ko": "서둘러! 짐을 부쳐야 해."
+    },
+    {
+     "t": 2345.5,
+     "s": "W",
+     "es": "frenar",
+     "ko": "멈추다, 브레이크를 밟다"
+    },
+    {
+     "t": 2349.0,
+     "s": "E",
+     "es": "El automóvil frenó delante del semáforo.",
+     "ko": "자동차가 신호등 앞에서 멈췄다."
+    },
+    {
+     "t": 2353.2,
+     "s": "W",
+     "es": "gasolina",
+     "ko": "휘발유"
+    },
+    {
+     "t": 2356.6,
+     "s": "E",
+     "es": "Cada día sube el precio de la gasolina.",
+     "ko": "휘발윳값이 날마다 오른다."
+    },
+    {
+     "t": 2361.7,
+     "s": "W",
+     "es": "girar",
+     "ko": "돌다, 회전하다"
+    },
+    {
+     "t": 2368.5,
+     "s": "E",
+     "es": "Gire en la primera calle a la derecha.",
+     "ko": "첫 번째 길에서 오른쪽으로 도세요."
+    },
+    {
+     "t": 2373.3,
+     "s": "W",
+     "es": "helicóptero",
+     "ko": "헬리콥터"
+    },
+    {
+     "t": 2376.7,
+     "s": "E",
+     "es": "Varios helicópteros rescataron a los náufragos.",
+     "ko": "헬리콥터 여러 대가 조난자들을 구조했다."
+    },
+    {
+     "t": 2382.1,
+     "s": "W",
+     "es": "horario",
+     "ko": "시간표"
+    },
+    {
+     "t": 2384.2,
+     "s": "E",
+     "es": "Los pasajeros deben consultar el nuevo horario de autobuses.",
+     "ko": "승객들은 새 버스 시간표를 확인해야 한다."
+    },
+    {
+     "t": 2391.5,
+     "s": "W",
+     "es": "llegada",
+     "ko": "도착"
+    },
+    {
+     "t": 2394.7,
+     "s": "E",
+     "es": "Esperamos la llegada del avión de París.",
+     "ko": "우리는 파리발 비행기의 도착을 기다린다."
+    },
+    {
+     "t": 2399.6,
+     "s": "W",
+     "es": "maletero",
+     "ko": "(자동차) 트렁크, 짐칸"
+    },
+    {
+     "t": 2404.3,
+     "s": "E",
+     "es": "Este coche tiene un maletero muy amplio.",
+     "ko": "이 차는 트렁크가 아주 넓다."
+    },
+    {
+     "t": 2409.1,
+     "s": "W",
+     "es": "metro",
+     "ko": "지하철"
+    },
+    {
+     "t": 2411.5,
+     "s": "E",
+     "es": "¿Debes tomar el metro para llegar a tiempo?",
+     "ko": "제시간에 도착하려면 지하철을 타야 하니?"
+    },
+    {
+     "t": 2418.3,
+     "s": "W",
+     "es": "motocicleta",
+     "ko": "오토바이"
+    },
+    {
+     "t": 2420.7,
+     "s": "E",
+     "es": "¿Cuál es la ropa adecuada para montar en motocicleta?",
+     "ko": "오토바이를 탈 때 알맞은 옷은 무엇일까?"
+    },
+    {
+     "t": 2427.0,
+     "s": "W",
+     "es": "pasajero, pasajera",
+     "ko": "승객"
+    },
+    {
+     "t": 2430.5,
+     "s": "E",
+     "es": "¡Pasajeros, al tren!",
+     "ko": "승객 여러분, 기차에 타세요!"
+    },
+    {
+     "t": 2434.9,
+     "s": "W",
+     "es": "pasaporte",
+     "ko": "여권"
+    },
+    {
+     "t": 2435.8,
+     "s": "E",
+     "es": "La policía de aduanas revisa los pasaportes de los viajeros.",
+     "ko": "세관 경찰이 여행객들의 여권을 검사한다."
+    },
+    {
+     "t": 2443.9,
+     "s": "W",
+     "es": "piloto",
+     "ko": "조종사"
+    },
+    {
+     "t": 2446.9,
+     "s": "E",
+     "es": "El piloto del avión se comunicó por radio con el aeropuerto.",
+     "ko": "비행기 조종사가 무전으로 공항과 교신했다."
+    },
+    {
+     "t": 2453.3,
+     "s": "W",
+     "es": "puerto",
+     "ko": "항구"
+    },
+    {
+     "t": 2456.1,
+     "s": "E",
+     "es": "¿De qué puerto sale ese barco?",
+     "ko": "그 배는 어느 항구에서 출발하니?"
+    },
+    {
+     "t": 2460.1,
+     "s": "W",
+     "es": "rápido, rápida",
+     "ko": "빠른"
+    },
+    {
+     "t": 2463.0,
+     "s": "E",
+     "es": "Con un movimiento rápido, el coche se alejó de la carretera.",
+     "ko": "빠른 움직임으로 차는 도로에서 멀어졌다."
+    },
+    {
+     "t": 2471.0,
+     "s": "W",
+     "es": "retraso",
+     "ko": "지연, 연착"
+    },
+    {
+     "t": 2472.9,
+     "s": "E",
+     "es": "El retraso de los vuelos se debió a las lluvias.",
+     "ko": "항공편 지연은 비 때문이었다."
+    },
+    {
+     "t": 2479.1,
+     "s": "W",
+     "es": "rueda",
+     "ko": "바퀴"
+    },
+    {
+     "t": 2481.1,
+     "s": "E",
+     "es": "Le voy a cambiar la rueda al coche.",
+     "ko": "차 바퀴를 갈아 끼울 것이다."
+    },
+    {
+     "t": 2486.9,
+     "s": "W",
+     "es": "salida",
+     "ko": "출구, 출발"
+    },
+    {
+     "t": 2489.4,
+     "s": "E",
+     "es": "La salida de la autopista está a 200 metros.",
+     "ko": "고속도로 출구는 200미터 앞에 있다."
+    },
+    {
+     "t": 2496.9,
+     "s": "W",
+     "es": "semáforo",
+     "ko": "신호등"
+    },
+    {
+     "t": 2498.9,
+     "s": "E",
+     "es": "El semáforo está en rojo.",
+     "ko": "신호등이 빨간불이다."
+    },
+    {
+     "t": 2504.0,
+     "s": "W",
+     "es": "tardar",
+     "ko": "(시간이) 걸리다, 늦다"
+    },
+    {
+     "t": 2506.8,
+     "s": "E",
+     "es": "No te preocupes, no tardaré mucho en llegar.",
+     "ko": "걱정하지 마, 곧 도착할 거야."
+    },
+    {
+     "t": 2513.9,
+     "s": "W",
+     "es": "taxi",
+     "ko": "택시"
+    },
+    {
+     "t": 2514.9,
+     "s": "E",
+     "es": "Tomé un taxi en la plaza.",
+     "ko": "광장에서 택시를 탔다."
+    },
+    {
+     "t": 2519.6,
+     "s": "W",
+     "es": "tráfico",
+     "ko": "교통, 교통량"
+    },
+    {
+     "t": 2522.0,
+     "s": "E",
+     "es": "El puerto de Buenos Aires tiene mucho tráfico.",
+     "ko": "부에노스아이레스 항구는 교통량이 많다."
+    },
+    {
+     "t": 2527.2,
+     "s": "W",
+     "es": "tren",
+     "ko": "기차"
+    },
+    {
+     "t": 2530.9,
+     "s": "E",
+     "es": "Fuimos a visitar a sus padres en tren.",
+     "ko": "우리는 기차를 타고 그의 부모님을 뵈러 갔다."
+    },
+    {
+     "t": 2535.4,
+     "s": "W",
+     "es": "vehículo",
+     "ko": "차량, 탈것, 운송 수단"
+    },
+    {
+     "t": 2541.0,
+     "s": "E",
+     "es": "El barco es un vehículo mucho más lento que el avión.",
+     "ko": "배는 비행기보다 훨씬 느린 운송 수단이다."
+    },
+    {
+     "t": 2547.1,
+     "s": "W",
+     "es": "velocidad",
+     "ko": "속도"
+    },
+    {
+     "t": 2550.6,
+     "s": "E",
+     "es": "El automóvil tomó la curva a toda velocidad.",
+     "ko": "자동차가 전속력으로 커브를 돌았다."
+    },
+    {
+     "t": 2556.1,
+     "s": "W",
+     "es": "ventanilla",
+     "ko": "창구, 매표소"
+    },
+    {
+     "t": 2560.8,
+     "s": "E",
+     "es": "Compré los billetes en la ventanilla.",
+     "ko": "매표소에서 표를 샀다."
+    },
+    {
+     "t": 2565.7,
+     "s": "W",
+     "es": "volante",
+     "ko": "(자동차) 핸들"
+    },
+    {
+     "t": 2568.4,
+     "s": "E",
+     "es": "No debes soltar el volante del coche mientras conduces.",
+     "ko": "운전하는 동안 핸들을 놓으면 안 된다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Localización · 위치",
+   "lines": [
+    {
+     "t": 2584.7,
+     "s": "W",
+     "es": "abajo",
+     "ko": "아래로, 아래에"
+    },
+    {
+     "t": 2588.1,
+     "s": "E",
+     "es": "El vaso cayó hacia abajo.",
+     "ko": "컵이 아래로 떨어졌다."
+    },
+    {
+     "t": 2594.2,
+     "s": "W",
+     "es": "adentro",
+     "ko": "안으로, 안에"
+    },
+    {
+     "t": 2597.1,
+     "s": "E",
+     "es": "Vamos adentro del bosque.",
+     "ko": "숲 안으로 들어가자."
+    },
+    {
+     "t": 2601.2,
+     "s": "W",
+     "es": "afuera",
+     "ko": "밖에, 밖으로, 바깥"
+    },
+    {
+     "t": 2605.7,
+     "s": "E",
+     "es": "Mi tío viene de afuera, no vive aquí.",
+     "ko": "우리 삼촌은 외지에서 오는 거라 여기 살지 않는다."
+    },
+    {
+     "t": 2610.4,
+     "s": "W",
+     "es": "ahí",
+     "ko": "거기"
+    },
+    {
+     "t": 2613.7,
+     "s": "E",
+     "es": "Julia, ¿estás ahí?",
+     "ko": "훌리아, 거기 있니?"
+    },
+    {
+     "t": 2617.5,
+     "s": "W",
+     "es": "a la derecha de",
+     "ko": "~의 오른쪽에"
+    },
+    {
+     "t": 2621.1,
+     "s": "E",
+     "es": "Mi casa queda a la derecha.",
+     "ko": "우리 집은 오른쪽에 있다."
+    },
+    {
+     "t": 2625.6,
+     "s": "W",
+     "es": "a la izquierda de",
+     "ko": "~의 왼쪽에"
+    },
+    {
+     "t": 2629.1,
+     "s": "E",
+     "es": "La calle Machado es la tercera a la izquierda.",
+     "ko": "마차도 거리는 왼쪽 세 번째 길이다."
+    },
+    {
+     "t": 2635.2,
+     "s": "W",
+     "es": "al final de",
+     "ko": "~의 끝에"
+    },
+    {
+     "t": 2638.2,
+     "s": "E",
+     "es": "Mi padre me esperaba al final del camino.",
+     "ko": "아버지가 길 끝에서 나를 기다리고 계셨다."
+    },
+    {
+     "t": 2643.3,
+     "s": "W",
+     "es": "al fondo de",
+     "ko": "~의 안쪽에, ~의 맨 끝에"
+    },
+    {
+     "t": 2647.1,
+     "s": "E",
+     "es": "La salida de emergencia está al fondo.",
+     "ko": "비상구는 안쪽 끝에 있다."
+    },
+    {
+     "t": 2651.7,
+     "s": "W",
+     "es": "al lado de",
+     "ko": "~의 옆에"
+    },
+    {
+     "t": 2655.3,
+     "s": "E",
+     "es": "Su casa está al lado de la estación.",
+     "ko": "그의 집은 역 옆에 있다."
+    },
+    {
+     "t": 2659.5,
+     "s": "W",
+     "es": "allí",
+     "ko": "저기"
+    },
+    {
+     "t": 2662.8,
+     "s": "E",
+     "es": "Tu coche estará por allí, entre los autobuses.",
+     "ko": "네 차는 아마 저기 버스들 사이에 있을 거야."
+    },
+    {
+     "t": 2668.1,
+     "s": "W",
+     "es": "aquí",
+     "ko": "여기"
+    },
+    {
+     "t": 2671.2,
+     "s": "E",
+     "es": "Aquí está mi gato durmiendo, ¿lo ves?",
+     "ko": "여기 내 고양이가 자고 있어, 보이니?"
+    },
+    {
+     "t": 2675.4,
+     "s": "W",
+     "es": "arriba",
+     "ko": "위로, 위에"
+    },
+    {
+     "t": 2678.9,
+     "s": "E",
+     "es": "La casa tiene dos pisos y los cuartos están arriba.",
+     "ko": "그 집은 2층이고 방들은 위층에 있다."
+    },
+    {
+     "t": 2685.5,
+     "s": "W",
+     "es": "cerca de",
+     "ko": "~ 가까이에"
+    },
+    {
+     "t": 2688.8,
+     "s": "E",
+     "es": "Ahora tengo el trabajo cerca de casa.",
+     "ko": "이제 직장이 집 가까이에 있다."
+    },
+    {
+     "t": 2693.6,
+     "s": "W",
+     "es": "debajo de",
+     "ko": "~ 아래에"
+    },
+    {
+     "t": 2696.5,
+     "s": "E",
+     "es": "La carta está debajo de aquella revista.",
+     "ko": "편지는 저 잡지 아래에 있다."
+    },
+    {
+     "t": 2702.0,
+     "s": "W",
+     "es": "delante de",
+     "ko": "~ 앞에"
+    },
+    {
+     "t": 2704.8,
+     "s": "E",
+     "es": "Voy delante, junto al conductor.",
+     "ko": "나는 앞자리, 운전사 옆에 탄다."
+    },
+    {
+     "t": 2709.7,
+     "s": "W",
+     "es": "dentro de",
+     "ko": "~ 안에"
+    },
+    {
+     "t": 2713.2,
+     "s": "E",
+     "es": "Nos tuvimos que quedar dentro porque llovía.",
+     "ko": "비가 와서 우리는 안에 있어야 했다."
+    },
+    {
+     "t": 2718.0,
+     "s": "W",
+     "es": "detrás de",
+     "ko": "~ 뒤에"
+    },
+    {
+     "t": 2721.4,
+     "s": "E",
+     "es": "Detrás de esa estantería está lo que buscas.",
+     "ko": "네가 찾는 것은 그 책장 뒤에 있다."
+    },
+    {
+     "t": 2726.1,
+     "s": "W",
+     "es": "encima de",
+     "ko": "~ 위에"
+    },
+    {
+     "t": 2729.4,
+     "s": "E",
+     "es": "Deja la taza encima de la mesa.",
+     "ko": "컵을 탁자 위에 놓아라."
+    },
+    {
+     "t": 2734.0,
+     "s": "W",
+     "es": "en el centro de",
+     "ko": "~의 중심에"
+    },
+    {
+     "t": 2737.9,
+     "s": "E",
+     "es": "Vivo en el centro de Caracas.",
+     "ko": "나는 카라카스 중심가에 산다."
+    },
+    {
+     "t": 2742.1,
+     "s": "W",
+     "es": "enfrente de",
+     "ko": "~ 정면에, ~ 앞에"
+    },
+    {
+     "t": 2747.5,
+     "s": "E",
+     "es": "El hotel está enfrente del ayuntamiento.",
+     "ko": "호텔은 시청 맞은편에 있다."
+    },
+    {
+     "t": 2753.3,
+     "s": "W",
+     "es": "entre",
+     "ko": "~ 사이에"
+    },
+    {
+     "t": 2755.8,
+     "s": "E",
+     "es": "Ella encontró las fotos que buscaba entre las páginas de un libro.",
+     "ko": "그녀는 찾던 사진들을 책갈피 사이에서 발견했다."
+    },
+    {
+     "t": 2761.0,
+     "s": "W",
+     "es": "junto a",
+     "ko": "~의 옆에, ~ 가까이에"
+    },
+    {
+     "t": 2763.6,
+     "s": "E",
+     "es": "Te esperaré junto a tu casa.",
+     "ko": "너희 집 옆에서 기다릴게."
+    },
+    {
+     "t": 2769.3,
+     "s": "W",
+     "es": "lejos de",
+     "ko": "~에서 멀리"
+    },
+    {
+     "t": 2772.2,
+     "s": "E",
+     "es": "Australia está muy lejos de España.",
+     "ko": "호주는 스페인에서 아주 멀다."
+    },
+    {
+     "t": 2778.1,
+     "s": "W",
+     "es": "recto",
+     "ko": "곧장, 똑바로"
+    },
+    {
+     "t": 2781.7,
+     "s": "E",
+     "es": "Cuando llegues al semáforo, sigue recto y encontrarás un cruce.",
+     "ko": "신호등에 도착하면 곧장 가라, 그러면 교차로가 나올 것이다."
+    },
+    {
+     "t": 2788.7,
+     "s": "W",
+     "es": "sobre",
+     "ko": "~ 위에"
+    },
+    {
+     "t": 2792.2,
+     "s": "E",
+     "es": "El libro está sobre el sillón.",
+     "ko": "책은 안락의자 위에 있다."
+    }
+   ]
+  },
+  {
+   "title": "Capítulo 8 · Unidad 1. Educación · 교육",
+   "lines": [
+    {
+     "t": 2828.5,
+     "s": "W",
+     "es": "academia",
+     "ko": "학원"
+    },
+    {
+     "t": 2833.5,
+     "s": "E",
+     "es": "Cada viernes voy a la academia de baile.",
+     "ko": "나는 금요일마다 댄스 학원에 간다."
+    },
+    {
+     "t": 2837.1,
+     "s": "W",
+     "es": "alumno, alumna",
+     "ko": "학생"
+    },
+    {
+     "t": 2841.4,
+     "s": "E",
+     "es": "Mis alumnos hablan mucho en la clase de conversación.",
+     "ko": "내 학생들은 회화 수업에서 말을 많이 한다."
+    },
+    {
+     "t": 2847.3,
+     "s": "W",
+     "es": "aprender",
+     "ko": "배우다, 암기하다"
+    },
+    {
+     "t": 2852.3,
+     "s": "E",
+     "es": "¡Has aprendido muy rápido a nadar!",
+     "ko": "수영을 정말 빨리 배웠구나!"
+    },
+    {
+     "t": 2856.2,
+     "s": "W",
+     "es": "apuntes",
+     "ko": "필기, 수업 내용을 적은 것"
+    },
+    {
+     "t": 2862.6,
+     "s": "E",
+     "es": "Los alumnos tomaron apuntes en clase.",
+     "ko": "학생들은 수업 시간에 필기를 했다."
+    },
+    {
+     "t": 2867.1,
+     "s": "W",
+     "es": "asignatura",
+     "ko": "과목"
+    },
+    {
+     "t": 2870.9,
+     "s": "E",
+     "es": "Aprobé todas las asignaturas el año pasado.",
+     "ko": "나는 작년에 모든 과목을 통과했다."
+    },
+    {
+     "t": 2876.7,
+     "s": "W",
+     "es": "asistir",
+     "ko": "출석하다, 참석하다"
+    },
+    {
+     "t": 2881.8,
+     "s": "E",
+     "es": "De niña asistía a clases todos los días.",
+     "ko": "어렸을 때 나는 매일 수업에 출석했다."
+    },
+    {
+     "t": 2886.7,
+     "s": "W",
+     "es": "aula",
+     "ko": "교실"
+    },
+    {
+     "t": 2890.1,
+     "s": "E",
+     "es": "Daremos la clase en la primera aula.",
+     "ko": "수업은 첫 번째 교실에서 하겠다."
+    },
+    {
+     "t": 2894.4,
+     "s": "W",
+     "es": "beca",
+     "ko": "장학금"
+    },
+    {
+     "t": 2897.1,
+     "s": "E",
+     "es": "Me concedieron una beca para irme a Estados Unidos.",
+     "ko": "나는 미국에 갈 수 있는 장학금을 받았다."
+    },
+    {
+     "t": 2904.5,
+     "s": "W",
+     "es": "biblioteca",
+     "ko": "도서관"
+    },
+    {
+     "t": 2907.6,
+     "s": "E",
+     "es": "En la biblioteca los libros están clasificados por secciones.",
+     "ko": "도서관에서 책들은 분야별로 분류되어 있다."
+    },
+    {
+     "t": 2914.6,
+     "s": "W",
+     "es": "bolígrafo",
+     "ko": "볼펜"
+    },
+    {
+     "t": 2916.8,
+     "s": "E",
+     "es": "¿Me dejas un bolígrafo azul?",
+     "ko": "파란 볼펜 좀 빌려줄래?"
+    },
+    {
+     "t": 2921.3,
+     "s": "W",
+     "es": "carrera",
+     "ko": "전공, 직업, 경력"
+    },
+    {
+     "t": 2926.5,
+     "s": "E",
+     "es": "Mi prima empezó la carrera de arquitectura a los 17 años.",
+     "ko": "내 사촌은 17살에 건축학 공부를 시작했다."
+    },
+    {
+     "t": 2932.4,
+     "s": "W",
+     "es": "clase",
+     "ko": "교실, 수업"
+    },
+    {
+     "t": 2937.1,
+     "s": "E",
+     "es": "En mi clase hay una chica que sabe hablar griego.",
+     "ko": "우리 반에 그리스어를 할 줄 아는 여자아이가 있다."
+    },
+    {
+     "t": 2942.0,
+     "s": "W",
+     "es": "colegio",
+     "ko": "학교"
+    },
+    {
+     "t": 2945.6,
+     "s": "E",
+     "es": "Su hija va a ir a un colegio privado.",
+     "ko": "그의 딸은 사립 학교에 다닐 것이다."
+    },
+    {
+     "t": 2949.9,
+     "s": "W",
+     "es": "compañero, compañera",
+     "ko": "동료, 친구, 짝"
+    },
+    {
+     "t": 2954.6,
+     "s": "E",
+     "es": "Juego al fútbol con los compañeros de colegio.",
+     "ko": "나는 학교 친구들과 축구를 한다."
+    },
+    {
+     "t": 2960.5,
+     "s": "W",
+     "es": "cuaderno",
+     "ko": "공책"
+    },
+    {
+     "t": 2962.6,
+     "s": "E",
+     "es": "Me he comprado un cuaderno para apuntar todo lo que dice la profesora.",
+     "ko": "선생님이 하시는 말씀을 모두 적으려고 공책을 하나 샀다."
+    },
+    {
+     "t": 2968.9,
+     "s": "W",
+     "es": "curso",
+     "ko": "과정, 강좌, 학년"
+    },
+    {
+     "t": 2975.8,
+     "s": "E",
+     "es": "El curso de español fue muy útil.",
+     "ko": "스페인어 강좌는 아주 유익했다."
+    },
+    {
+     "t": 2981.2,
+     "s": "W",
+     "es": "deberes",
+     "ko": "숙제"
+    },
+    {
+     "t": 2983.2,
+     "s": "E",
+     "es": "Puedes salir a jugar después de acabar los deberes.",
+     "ko": "숙제를 다 하고 나서 나가 놀아도 된다."
+    },
+    {
+     "t": 2988.9,
+     "s": "W",
+     "es": "diccionario",
+     "ko": "사전"
+    },
+    {
+     "t": 2990.9,
+     "s": "E",
+     "es": "Cuando no sepas el significado de una palabra, búscala en el diccionario.",
+     "ko": "단어의 뜻을 모를 때는 사전에서 찾아라."
+    },
+    {
+     "t": 2999.5,
+     "s": "W",
+     "es": "doctorado",
+     "ko": "박사 과정, 박사 학위"
+    },
+    {
+     "t": 3004.5,
+     "s": "E",
+     "es": "El doctorado dura cuatro años.",
+     "ko": "박사 과정은 4년이다."
+    },
+    {
+     "t": 3009.4,
+     "s": "W",
+     "es": "educación",
+     "ko": "교육"
+    },
+    {
+     "t": 3010.3,
+     "s": "E",
+     "es": "Los padres se preocupan de dar una buena educación a sus hijos.",
+     "ko": "부모는 자녀에게 좋은 교육을 시키려고 애쓴다."
+    },
+    {
+     "t": 3019.2,
+     "s": "W",
+     "es": "ejercicio",
+     "ko": "연습, 연습 문제"
+    },
+    {
+     "t": 3023.4,
+     "s": "E",
+     "es": "Hacer ejercicios de gramática es muy importante para aprender un idioma.",
+     "ko": "언어를 배우는 데는 문법 연습 문제를 푸는 것이 아주 중요하다."
+    },
+    {
+     "t": 3031.1,
+     "s": "W",
+     "es": "enseñar",
+     "ko": "가르치다"
+    },
+    {
+     "t": 3033.6,
+     "s": "E",
+     "es": "Mi padre me enseñó a montar en bicicleta.",
+     "ko": "아버지가 내게 자전거 타는 법을 가르쳐 주셨다."
+    },
+    {
+     "t": 3038.0,
+     "s": "W",
+     "es": "escuela",
+     "ko": "학교, 학원, 학파"
+    },
+    {
+     "t": 3045.1,
+     "s": "E",
+     "es": "Ella trabaja como profesora de inglés en una escuela.",
+     "ko": "그녀는 한 학교에서 영어 교사로 일한다."
+    },
+    {
+     "t": 3051.0,
+     "s": "W",
+     "es": "especialidad",
+     "ko": "전공"
+    },
+    {
+     "t": 3054.0,
+     "s": "E",
+     "es": "Alfonso escogió la especialidad de Lingüística Comparada.",
+     "ko": "알폰소는 비교언어학을 전공으로 선택했다."
+    },
+    {
+     "t": 3060.6,
+     "s": "W",
+     "es": "examen",
+     "ko": "시험"
+    },
+    {
+     "t": 3062.0,
+     "s": "E",
+     "es": "Hoy tengo examen oral de inglés.",
+     "ko": "오늘 영어 말하기 시험이 있다."
+    },
+    {
+     "t": 3068.0,
+     "s": "W",
+     "es": "formación profesional",
+     "ko": "직업 교육"
+    },
+    {
+     "t": 3072.5,
+     "s": "E",
+     "es": "Está terminando los estudios de formación profesional en peluquería.",
+     "ko": "그는 미용 직업 교육 과정을 마쳐 가고 있다."
+    },
+    {
+     "t": 3078.4,
+     "s": "W",
+     "es": "goma de borrar",
+     "ko": "지우개"
+    },
+    {
+     "t": 3082.0,
+     "s": "E",
+     "es": "Déjame la goma de borrar, que me he equivocado.",
+     "ko": "지우개 좀 빌려줘, 틀렸어."
+    },
+    {
+     "t": 3087.2,
+     "s": "W",
+     "es": "graduarse",
+     "ko": "졸업하다"
+    },
+    {
+     "t": 3090.4,
+     "s": "E",
+     "es": "Se graduó en Filosofía en 2011.",
+     "ko": "그는 2011년에 철학과를 졸업했다."
+    },
+    {
+     "t": 3095.6,
+     "s": "W",
+     "es": "guardería",
+     "ko": "어린이집, 유아원"
+    },
+    {
+     "t": 3098.0,
+     "s": "E",
+     "es": "Su hijo más pequeño va a una guardería desde este verano.",
+     "ko": "그의 막내아들은 올여름부터 어린이집에 다닌다."
+    },
+    {
+     "t": 3105.3,
+     "s": "W",
+     "es": "lápiz",
+     "ko": "연필"
+    },
+    {
+     "t": 3108.2,
+     "s": "E",
+     "es": "Ya no escribimos con lápiz tanto como antes.",
+     "ko": "우리는 이제 예전만큼 연필로 쓰지 않는다."
+    },
+    {
+     "t": 3113.9,
+     "s": "W",
+     "es": "maestro, maestra",
+     "ko": "(초등학교) 선생님, 교사"
+    },
+    {
+     "t": 3117.8,
+     "s": "E",
+     "es": "Es maestra y da clase de matemáticas.",
+     "ko": "그녀는 교사이고 수학을 가르친다."
+    },
+    {
+     "t": 3123.9,
+     "s": "W",
+     "es": "matrícula",
+     "ko": "등록, 수강 신청"
+    },
+    {
+     "t": 3128.1,
+     "s": "E",
+     "es": "En la secretaría del centro puede usted consultar la matrícula para este curso.",
+     "ko": "학교 행정실에서 이번 학년 등록에 대해 문의하실 수 있습니다."
+    },
+    {
+     "t": 3136.3,
+     "s": "W",
+     "es": "nota",
+     "ko": "성적, 메모"
+    },
+    {
+     "t": 3139.4,
+     "s": "E",
+     "es": "El alumno obtuvo la máxima calificación como nota final.",
+     "ko": "그 학생은 최종 성적으로 최고 점수를 받았다."
+    },
+    {
+     "t": 3146.6,
+     "s": "W",
+     "es": "papel",
+     "ko": "종이"
+    },
+    {
+     "t": 3148.3,
+     "s": "E",
+     "es": "Desde ahora voy a usar bolsas de papel en vez de las de plástico.",
+     "ko": "이제부터 비닐봉지 대신 종이봉투를 쓸 것이다."
+    },
+    {
+     "t": 3156.0,
+     "s": "W",
+     "es": "pizarra",
+     "ko": "칠판"
+    },
+    {
+     "t": 3158.6,
+     "s": "E",
+     "es": "La profesora llenó la pizarra de ejercicios.",
+     "ko": "선생님이 칠판을 연습 문제로 가득 채웠다."
+    },
+    {
+     "t": 3163.6,
+     "s": "W",
+     "es": "profesor, profesora",
+     "ko": "선생님, 교수님"
+    },
+    {
+     "t": 3169.8,
+     "s": "E",
+     "es": "Hoy no ha venido la profesora de piano.",
+     "ko": "오늘은 피아노 선생님이 오지 않았다."
+    },
+    {
+     "t": 3174.4,
+     "s": "W",
+     "es": "prueba",
+     "ko": "테스트, 시험"
+    },
+    {
+     "t": 3179.1,
+     "s": "E",
+     "es": "Este fin de semana tengo una prueba de natación.",
+     "ko": "이번 주말에 수영 시험이 있다."
+    },
+    {
+     "t": 3183.9,
+     "s": "W",
+     "es": "título",
+     "ko": "학위, 졸업장"
+    },
+    {
+     "t": 3184.7,
+     "s": "E",
+     "es": "Cuando me gradúe, tendré un título universitario.",
+     "ko": "졸업하면 나는 대학 학위를 갖게 될 것이다."
+    },
+    {
+     "t": 3192.6,
+     "s": "W",
+     "es": "tiza",
+     "ko": "분필"
+    },
+    {
+     "t": 3194.9,
+     "s": "E",
+     "es": "En el instituto utilizamos unas tizas que no dejan polvo.",
+     "ko": "고등학교에서 우리는 가루가 날리지 않는 분필을 쓴다."
+    },
+    {
+     "t": 3203.4,
+     "s": "W",
+     "es": "universidad",
+     "ko": "대학교"
+    },
+    {
+     "t": 3204.5,
+     "s": "E",
+     "es": "Las primeras universidades se crearon en el siglo XIII.",
+     "ko": "최초의 대학들은 13세기에 세워졌다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2. Lengua, literatura · 언어, 문학",
+   "lines": [
+    {
+     "t": 3223.6,
+     "s": "W",
+     "es": "autor, autora",
+     "ko": "작가, 저자"
+    },
+    {
+     "t": 3227.5,
+     "s": "E",
+     "es": "Nunca se supo quién fue el autor de la obra.",
+     "ko": "그 작품의 작가가 누구였는지는 끝내 밝혀지지 않았다."
+    },
+    {
+     "t": 3233.6,
+     "s": "W",
+     "es": "biografía",
+     "ko": "전기"
+    },
+    {
+     "t": 3236.7,
+     "s": "E",
+     "es": "Ella escribió la mejor biografía de García Lorca.",
+     "ko": "그녀는 가르시아 로르카의 가장 훌륭한 전기를 썼다."
+    },
+    {
+     "t": 3241.5,
+     "s": "W",
+     "es": "cómic",
+     "ko": "만화"
+    },
+    {
+     "t": 3245.5,
+     "s": "E",
+     "es": "Me gustan los cómics de superhéroes.",
+     "ko": "나는 슈퍼히어로 만화를 좋아한다."
+    },
+    {
+     "t": 3249.7,
+     "s": "W",
+     "es": "consonante",
+     "ko": "자음"
+    },
+    {
+     "t": 3253.1,
+     "s": "E",
+     "es": "En esta palabra falta una consonante.",
+     "ko": "이 단어에는 자음이 하나 빠져 있다."
+    },
+    {
+     "t": 3258.7,
+     "s": "W",
+     "es": "conversación",
+     "ko": "대화, 회화"
+    },
+    {
+     "t": 3262.6,
+     "s": "E",
+     "es": "Me divierto mucho en la clase de conversación.",
+     "ko": "나는 회화 수업이 아주 재미있다."
+    },
+    {
+     "t": 3268.8,
+     "s": "W",
+     "es": "dialecto",
+     "ko": "방언, 사투리"
+    },
+    {
+     "t": 3272.6,
+     "s": "E",
+     "es": "El andaluz es un dialecto del castellano.",
+     "ko": "안달루시아어는 스페인어의 방언이다."
+    },
+    {
+     "t": 3278.3,
+     "s": "W",
+     "es": "editorial",
+     "ko": "출판사"
+    },
+    {
+     "t": 3281.6,
+     "s": "E",
+     "es": "Este libro es de la editorial universitaria.",
+     "ko": "이 책은 대학 출판사에서 나왔다."
+    },
+    {
+     "t": 3286.8,
+     "s": "W",
+     "es": "género",
+     "ko": "장르"
+    },
+    {
+     "t": 3289.3,
+     "s": "E",
+     "es": "No me gusta ese género de novelas.",
+     "ko": "나는 그런 장르의 소설을 좋아하지 않는다."
+    },
+    {
+     "t": 3294.6,
+     "s": "W",
+     "es": "gramática",
+     "ko": "문법"
+    },
+    {
+     "t": 3297.3,
+     "s": "E",
+     "es": "¿Dónde está el libro de gramática alemana?",
+     "ko": "독일어 문법책은 어디 있니?"
+    },
+    {
+     "t": 3302.3,
+     "s": "W",
+     "es": "lector, lectora",
+     "ko": "독자"
+    },
+    {
+     "t": 3305.5,
+     "s": "E",
+     "es": "En las cartas al director se expresa la opinión de los lectores del diario.",
+     "ko": "독자 투고란에는 신문 독자들의 의견이 실린다."
+    },
+    {
+     "t": 3313.7,
+     "s": "W",
+     "es": "lengua",
+     "ko": "언어"
+    },
+    {
+     "t": 3316.2,
+     "s": "E",
+     "es": "Mi amiga domina varias lenguas.",
+     "ko": "내 친구는 여러 언어를 구사한다."
+    },
+    {
+     "t": 3320.7,
+     "s": "W",
+     "es": "letra",
+     "ko": "문자, 글자"
+    },
+    {
+     "t": 3324.4,
+     "s": "E",
+     "es": "La palabra «mosca» tiene cinco letras.",
+     "ko": "‘mosca’라는 단어는 다섯 글자이다."
+    },
+    {
+     "t": 3331.0,
+     "s": "W",
+     "es": "lingüística",
+     "ko": "언어학"
+    },
+    {
+     "t": 3333.6,
+     "s": "E",
+     "es": "Trabajo en el Departamento de Lingüística de la universidad.",
+     "ko": "나는 대학교 언어학과에서 일한다."
+    },
+    {
+     "t": 3339.5,
+     "s": "W",
+     "es": "novela",
+     "ko": "소설"
+    },
+    {
+     "t": 3342.3,
+     "s": "E",
+     "es": "Don Quijote es la novela de caballerías más famosa del mundo.",
+     "ko": "돈키호테는 세상에서 가장 유명한 기사 소설이다."
+    },
+    {
+     "t": 3349.5,
+     "s": "W",
+     "es": "obra",
+     "ko": "작품"
+    },
+    {
+     "t": 3352.7,
+     "s": "E",
+     "es": "A mi profesor le gustan las obras de Borges.",
+     "ko": "우리 선생님은 보르헤스의 작품을 좋아하신다."
+    },
+    {
+     "t": 3357.4,
+     "s": "W",
+     "es": "palabra",
+     "ko": "단어, 말"
+    },
+    {
+     "t": 3360.8,
+     "s": "E",
+     "es": "Es difícil distinguir algunas palabras del inglés.",
+     "ko": "영어의 어떤 단어들은 구별하기 어렵다."
+    },
+    {
+     "t": 3366.1,
+     "s": "W",
+     "es": "personaje",
+     "ko": "등장인물"
+    },
+    {
+     "t": 3370.0,
+     "s": "E",
+     "es": "La Cenicienta y los tres cerditos son personajes de cuentos infantiles.",
+     "ko": "신데렐라와 아기 돼지 삼 형제는 동화 속 등장인물이다."
+    },
+    {
+     "t": 3376.9,
+     "s": "W",
+     "es": "poema",
+     "ko": "시"
+    },
+    {
+     "t": 3380.2,
+     "s": "E",
+     "es": "Antes mi marido me dedicaba poemas románticos.",
+     "ko": "예전에 남편은 내게 낭만적인 시를 바치곤 했다."
+    },
+    {
+     "t": 3386.3,
+     "s": "W",
+     "es": "pronunciación",
+     "ko": "발음"
+    },
+    {
+     "t": 3389.2,
+     "s": "E",
+     "es": "Tengo buena pronunciación en francés.",
+     "ko": "나는 프랑스어 발음이 좋다."
+    },
+    {
+     "t": 3393.8,
+     "s": "W",
+     "es": "publicar",
+     "ko": "출간하다, 출판하다"
+    },
+    {
+     "t": 3398.2,
+     "s": "E",
+     "es": "Ese periódico fue el primero en publicar la noticia.",
+     "ko": "그 신문이 처음으로 그 소식을 보도했다."
+    },
+    {
+     "t": 3405.5,
+     "s": "W",
+     "es": "significado",
+     "ko": "의미"
+    },
+    {
+     "t": 3408.3,
+     "s": "E",
+     "es": "Desconozco el significado de esa sonrisa.",
+     "ko": "나는 그 미소의 의미를 모르겠다."
+    },
+    {
+     "t": 3413.2,
+     "s": "W",
+     "es": "título",
+     "ko": "제목"
+    },
+    {
+     "t": 3417.7,
+     "s": "E",
+     "es": "En esta estantería los libros están ordenados por título.",
+     "ko": "이 책장에는 책들이 제목순으로 정리되어 있다."
+    },
+    {
+     "t": 3423.6,
+     "s": "W",
+     "es": "traducción",
+     "ko": "번역"
+    },
+    {
+     "t": 3425.8,
+     "s": "E",
+     "es": "Él ganaba un poco de dinero haciendo trabajos de traducción.",
+     "ko": "그는 번역 일을 하며 돈을 조금 벌었다."
+    },
+    {
+     "t": 3432.7,
+     "s": "W",
+     "es": "vocabulario",
+     "ko": "어휘, 어휘집"
+    },
+    {
+     "t": 3436.8,
+     "s": "E",
+     "es": "Su vocabulario es muy amplio.",
+     "ko": "그는 어휘가 아주 풍부하다."
+    },
+    {
+     "t": 3441.4,
+     "s": "W",
+     "es": "vocal",
+     "ko": "모음"
+    },
+    {
+     "t": 3444.8,
+     "s": "E",
+     "es": "El español tiene cinco vocales.",
+     "ko": "스페인어에는 모음이 다섯 개 있다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3. Religión, otros estudios · 종교, 기타 학문",
+   "lines": [
+    {
+     "t": 3462.8,
+     "s": "W",
+     "es": "arquitectura",
+     "ko": "건축, 건축학"
+    },
+    {
+     "t": 3465.8,
+     "s": "E",
+     "es": "A Celia le fascinó la arquitectura árabe.",
+     "ko": "셀리아는 아랍 건축에 매료되었다."
+    },
+    {
+     "t": 3470.7,
+     "s": "W",
+     "es": "bellas artes",
+     "ko": "예술, 미술"
+    },
+    {
+     "t": 3476.3,
+     "s": "E",
+     "es": "Mi padre siempre ha tenido mucho interés en las bellas artes.",
+     "ko": "우리 아버지는 늘 미술에 관심이 많으셨다."
+    },
+    {
+     "t": 3481.9,
+     "s": "W",
+     "es": "Biblia",
+     "ko": "성경"
+    },
+    {
+     "t": 3485.6,
+     "s": "E",
+     "es": "Cada noche leo unas páginas de la Biblia.",
+     "ko": "나는 매일 밤 성경을 몇 쪽씩 읽는다."
+    },
+    {
+     "t": 3489.9,
+     "s": "W",
+     "es": "biología",
+     "ko": "생물, 생물학"
+    },
+    {
+     "t": 3494.1,
+     "s": "E",
+     "es": "La biología es una ciencia que trata de los seres vivos.",
+     "ko": "생물학은 생명체를 다루는 과학이다."
+    },
+    {
+     "t": 3501.2,
+     "s": "W",
+     "es": "budismo",
+     "ko": "불교"
+    },
+    {
+     "t": 3503.8,
+     "s": "E",
+     "es": "El budismo surgió en la India en el siglo VI a. C. y se extendió por gran parte de Asia.",
+     "ko": "불교는 기원전 6세기 인도에서 생겨나 아시아 대부분 지역으로 퍼졌다."
+    },
+    {
+     "t": 3512.0,
+     "s": "W",
+     "es": "católico, católica",
+     "ko": "가톨릭 신자, 가톨릭의"
+    },
+    {
+     "t": 3518.4,
+     "s": "E",
+     "es": "Los católicos, los protestantes y los ortodoxos son cristianos.",
+     "ko": "가톨릭 신자, 개신교 신자, 정교회 신자는 모두 그리스도교인이다."
+    },
+    {
+     "t": 3524.9,
+     "s": "W",
+     "es": "ciencias de la educación",
+     "ko": "교육학"
+    },
+    {
+     "t": 3526.5,
+     "s": "E",
+     "es": "Ella es doctora en Ciencias de la Educación.",
+     "ko": "그녀는 교육학 박사이다."
+    },
+    {
+     "t": 3534.4,
+     "s": "W",
+     "es": "cristianismo",
+     "ko": "그리스도교, 기독교"
+    },
+    {
+     "t": 3536.8,
+     "s": "E",
+     "es": "El cristianismo es la religión mayoritaria de Europa.",
+     "ko": "그리스도교는 유럽에서 신자가 가장 많은 종교이다."
+    },
+    {
+     "t": 3543.0,
+     "s": "W",
+     "es": "derecho",
+     "ko": "법학"
+    },
+    {
+     "t": 3545.8,
+     "s": "E",
+     "es": "Mi hermana está haciendo el doctorado en Derecho Internacional.",
+     "ko": "우리 언니는 국제법 박사 과정을 밟고 있다."
+    },
+    {
+     "t": 3550.9,
+     "s": "W",
+     "es": "Dios",
+     "ko": "신, 하느님"
+    },
+    {
+     "t": 3554.7,
+     "s": "E",
+     "es": "Alá es el nombre de Dios en árabe.",
+     "ko": "알라는 아랍어로 신을 부르는 이름이다."
+    },
+    {
+     "t": 3559.5,
+     "s": "W",
+     "es": "economía",
+     "ko": "경제, 경제학"
+    },
+    {
+     "t": 3561.7,
+     "s": "E",
+     "es": "La economía actual de España está en crisis.",
+     "ko": "현재 스페인 경제는 위기에 처해 있다."
+    },
+    {
+     "t": 3568.1,
+     "s": "W",
+     "es": "filología",
+     "ko": "문헌학, 어문학"
+    },
+    {
+     "t": 3570.7,
+     "s": "E",
+     "es": "Mi especialidad es la filología española.",
+     "ko": "내 전공은 스페인 어문학이다."
+    },
+    {
+     "t": 3576.6,
+     "s": "W",
+     "es": "filosofía",
+     "ko": "철학"
+    },
+    {
+     "t": 3578.0,
+     "s": "E",
+     "es": "La filosofía griega se considera la base del pensamiento occidental.",
+     "ko": "그리스 철학은 서양 사상의 토대로 여겨진다."
+    },
+    {
+     "t": 3585.9,
+     "s": "W",
+     "es": "física",
+     "ko": "물리학"
+    },
+    {
+     "t": 3589.0,
+     "s": "E",
+     "es": "El estudiante suspendió la física en junio.",
+     "ko": "그 학생은 6월에 물리 과목에서 낙제했다."
+    },
+    {
+     "t": 3594.6,
+     "s": "W",
+     "es": "geografía",
+     "ko": "지리학"
+    },
+    {
+     "t": 3596.8,
+     "s": "E",
+     "es": "La geografía es mi asignatura favorita.",
+     "ko": "지리는 내가 가장 좋아하는 과목이다."
+    },
+    {
+     "t": 3602.3,
+     "s": "W",
+     "es": "infierno",
+     "ko": "지옥"
+    },
+    {
+     "t": 3604.0,
+     "s": "E",
+     "es": "Esta oficina se ha convertido en un infierno por los continuos rumores.",
+     "ko": "끊임없는 소문 때문에 이 사무실은 지옥이 되었다."
+    },
+    {
+     "t": 3612.6,
+     "s": "W",
+     "es": "ingeniería",
+     "ko": "공학"
+    },
+    {
+     "t": 3612.6,
+     "s": "E",
+     "es": "La clonación es posible gracias a la ingeniería genética.",
+     "ko": "복제는 유전 공학 덕분에 가능하다."
+    },
+    {
+     "t": 3621.9,
+     "s": "W",
+     "es": "islamismo",
+     "ko": "이슬람교"
+    },
+    {
+     "t": 3625.7,
+     "s": "E",
+     "es": "El Corán es el libro sagrado del islamismo.",
+     "ko": "코란은 이슬람교의 경전이다."
+    },
+    {
+     "t": 3631.0,
+     "s": "W",
+     "es": "matemáticas",
+     "ko": "수학"
+    },
+    {
+     "t": 3634.0,
+     "s": "E",
+     "es": "Voy a clase de matemáticas.",
+     "ko": "나는 수학 수업에 간다."
+    },
+    {
+     "t": 3638.8,
+     "s": "W",
+     "es": "medicina",
+     "ko": "의학, 약"
+    },
+    {
+     "t": 3642.9,
+     "s": "E",
+     "es": "La lucha contra el cáncer ha encontrado muy buenas respuestas en la medicina alternativa.",
+     "ko": "암과의 싸움에서 대체 의학이 아주 좋은 해답을 찾아냈다."
+    },
+    {
+     "t": 3650.7,
+     "s": "W",
+     "es": "periodismo",
+     "ko": "언론, 신문 방송학"
+    },
+    {
+     "t": 3656.2,
+     "s": "E",
+     "es": "Él ya dejó la carrera de periodismo para dedicarse a la literatura.",
+     "ko": "그는 문학에 전념하려고 이미 신문 방송학 공부를 그만두었다."
+    },
+    {
+     "t": 3661.7,
+     "s": "W",
+     "es": "política",
+     "ko": "정치, 정치학"
+    },
+    {
+     "t": 3665.2,
+     "s": "E",
+     "es": "Mi tío se ha metido en política.",
+     "ko": "우리 삼촌은 정치에 뛰어들었다."
+    },
+    {
+     "t": 3669.2,
+     "s": "W",
+     "es": "psicología",
+     "ko": "심리학"
+    },
+    {
+     "t": 3673.1,
+     "s": "E",
+     "es": "La psicología tiene sus raíces en la filosofía.",
+     "ko": "심리학은 철학에 뿌리를 두고 있다."
+    },
+    {
+     "t": 3678.0,
+     "s": "W",
+     "es": "química",
+     "ko": "화학"
+    },
+    {
+     "t": 3681.4,
+     "s": "E",
+     "es": "Si quieres ser farmacéutica, deberás estudiar mucha química.",
+     "ko": "약사가 되고 싶다면 화학을 많이 공부해야 할 것이다."
+    },
+    {
+     "t": 3687.4,
+     "s": "W",
+     "es": "religión",
+     "ko": "종교"
+    },
+    {
+     "t": 3691.2,
+     "s": "E",
+     "es": "La religión acompaña al hombre desde sus orígenes.",
+     "ko": "종교는 인류의 기원부터 인간과 함께해 왔다."
+    },
+    {
+     "t": 3696.2,
+     "s": "W",
+     "es": "sacerdote",
+     "ko": "사제, 승려"
+    },
+    {
+     "t": 3701.1,
+     "s": "E",
+     "es": "Iba con un sacerdote budista en el autobús.",
+     "ko": "나는 버스에서 한 불교 승려와 함께 가고 있었다."
+    },
+    {
+     "t": 3705.7,
+     "s": "W",
+     "es": "sociología",
+     "ko": "사회학"
+    },
+    {
+     "t": 3709.9,
+     "s": "E",
+     "es": "En sociología estudian el porqué del aumento de la xenofobia en todo el mundo.",
+     "ko": "사회학에서는 전 세계적으로 외국인 혐오가 늘어나는 이유를 연구한다."
+    },
+    {
+     "t": 3716.6,
+     "s": "W",
+     "es": "superstición",
+     "ko": "미신"
+    },
+    {
+     "t": 3720.4,
+     "s": "E",
+     "es": "Creer en brujas es pura superstición.",
+     "ko": "마녀를 믿는 것은 순전한 미신이다."
+    },
+    {
+     "t": 3726.0,
+     "s": "W",
+     "es": "templo",
+     "ko": "신전, 사원"
+    },
+    {
+     "t": 3729.8,
+     "s": "E",
+     "es": "La Mezquita de Córdoba fue un templo musulmán.",
+     "ko": "코르도바의 메스키타는 이슬람 사원이었다."
+    },
+    {
+     "t": 3736.2,
+     "s": "W",
+     "es": "teología",
+     "ko": "신학"
+    },
+    {
+     "t": 3738.2,
+     "s": "E",
+     "es": "Estudió teología en los Estados Unidos.",
+     "ko": "그는 미국에서 신학을 공부했다."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 4. Medios de comunicación · 대중 매체",
+   "lines": [
+    {
+     "t": 3755.1,
+     "s": "W",
+     "es": "cadena",
+     "ko": "방송사, 방송국"
+    },
+    {
+     "t": 3760.0,
+     "s": "E",
+     "es": "Es una cadena local y por tanto no llega a toda España.",
+     "ko": "지역 방송국이라서 스페인 전역에 방송되지는 않는다."
+    },
+    {
+     "t": 3765.6,
+     "s": "W",
+     "es": "canal",
+     "ko": "채널"
+    },
+    {
+     "t": 3767.9,
+     "s": "E",
+     "es": "Mi televisor solo tiene cinco canales.",
+     "ko": "우리 텔레비전은 채널이 다섯 개밖에 안 나온다."
+    },
+    {
+     "t": 3774.9,
+     "s": "W",
+     "es": "concurso",
+     "ko": "경연 대회, 퀴즈 프로그램"
+    },
+    {
+     "t": 3778.8,
+     "s": "E",
+     "es": "El concurso de baile fue todo un éxito.",
+     "ko": "춤 경연 대회는 대성공이었다."
+    },
+    {
+     "t": 3784.1,
+     "s": "W",
+     "es": "debate",
+     "ko": "토론"
+    },
+    {
+     "t": 3786.8,
+     "s": "E",
+     "es": "Antes de votar, quiero ver el debate de los candidatos en la televisión.",
+     "ko": "투표하기 전에 텔레비전에서 후보자 토론을 보고 싶다."
+    },
+    {
+     "t": 3795.0,
+     "s": "W",
+     "es": "documental",
+     "ko": "다큐멘터리"
+    },
+    {
+     "t": 3796.8,
+     "s": "E",
+     "es": "Pusieron un documental antes de la película.",
+     "ko": "영화 전에 다큐멘터리를 방영했다."
+    },
+    {
+     "t": 3803.2,
+     "s": "W",
+     "es": "emitir",
+     "ko": "방송하다"
+    },
+    {
+     "t": 3806.1,
+     "s": "E",
+     "es": "Algunas radios emiten durante todo el día.",
+     "ko": "어떤 라디오 방송국은 하루 종일 방송한다."
+    },
+    {
+     "t": 3811.2,
+     "s": "W",
+     "es": "en directo",
+     "ko": "생방송으로"
+    },
+    {
+     "t": 3814.7,
+     "s": "E",
+     "es": "Luis Miguel va a cantar en directo en un programa de esta noche.",
+     "ko": "루이스 미겔이 오늘 밤 한 프로그램에서 라이브로 노래할 것이다."
+    },
+    {
+     "t": 3821.9,
+     "s": "W",
+     "es": "entrevista",
+     "ko": "인터뷰"
+    },
+    {
+     "t": 3821.9,
+     "s": "E",
+     "es": "La cantante actuó con seguridad en la entrevista.",
+     "ko": "그 가수는 인터뷰에서 자신 있게 행동했다."
+    },
+    {
+     "t": 3830.1,
+     "s": "W",
+     "es": "enviado especial, enviada especial",
+     "ko": "특파원"
+    },
+    {
+     "t": 3834.5,
+     "s": "E",
+     "es": "El programa conectó con el enviado especial.",
+     "ko": "프로그램이 특파원을 연결했다."
+    },
+    {
+     "t": 3841.2,
+     "s": "W",
+     "es": "episodio",
+     "ko": "에피소드, (연속극의) 회"
+    },
+    {
+     "t": 3846.7,
+     "s": "E",
+     "es": "Ayer vi el quinto episodio de mi telenovela preferida.",
+     "ko": "어제 내가 가장 좋아하는 드라마의 5회를 봤다."
+    },
+    {
+     "t": 3853.0,
+     "s": "W",
+     "es": "grabación",
+     "ko": "녹음, 녹화"
+    },
+    {
+     "t": 3853.0,
+     "s": "E",
+     "es": "Cortaron la grabación para hacer un descanso.",
+     "ko": "쉬는 시간을 가지려고 녹화를 중단했다."
+    },
+    {
+     "t": 3861.5,
+     "s": "W",
+     "es": "informativo",
+     "ko": "뉴스 (프로그램)"
+    },
+    {
+     "t": 3861.5,
+     "s": "E",
+     "es": "Cada noche a las nueve vemos el informativo.",
+     "ko": "우리는 매일 밤 9시에 뉴스를 본다."
+    },
+    {
+     "t": 3870.5,
+     "s": "W",
+     "es": "locutor, locutora",
+     "ko": "아나운서"
+    },
+    {
+     "t": 3870.5,
+     "s": "E",
+     "es": "Es locutora de los informativos de una emisora de radio.",
+     "ko": "그녀는 한 라디오 방송국의 뉴스 아나운서이다."
+    },
+    {
+     "t": 3877.2,
+     "s": "W",
+     "es": "medio de comunicación de masas",
+     "ko": "대중 매체"
+    },
+    {
+     "t": 3884.8,
+     "s": "E",
+     "es": "Los medios de comunicación nos ayudan a relacionarnos con el mundo.",
+     "ko": "대중 매체는 우리가 세상과 관계를 맺도록 도와준다."
+    },
+    {
+     "t": 3893.6,
+     "s": "W",
+     "es": "micrófono",
+     "ko": "마이크"
+    },
+    {
+     "t": 3893.6,
+     "s": "E",
+     "es": "Acércame más el micrófono.",
+     "ko": "마이크를 좀 더 가까이 대 줘."
+    },
+    {
+     "t": 3900.5,
+     "s": "W",
+     "es": "noticias",
+     "ko": "뉴스, 소식"
+    },
+    {
+     "t": 3900.5,
+     "s": "E",
+     "es": "Mi abuelo siempre pone la radio para escuchar las noticias.",
+     "ko": "우리 할아버지는 늘 뉴스를 들으려고 라디오를 켜신다."
+    },
+    {
+     "t": 3911.3,
+     "s": "W",
+     "es": "periódico",
+     "ko": "신문"
+    },
+    {
+     "t": 3915.1,
+     "s": "E",
+     "es": "Todos los periódicos del país recogen la noticia del accidente.",
+     "ko": "국내 모든 신문이 그 사고 소식을 싣고 있다."
+    },
+    {
+     "t": 3920.5,
+     "s": "W",
+     "es": "presentador, presentadora",
+     "ko": "사회자, 진행자"
+    },
+    {
+     "t": 3925.2,
+     "s": "E",
+     "es": "La presentadora del concurso vestía de rojo.",
+     "ko": "퀴즈 프로그램 진행자는 빨간 옷을 입고 있었다."
+    },
+    {
+     "t": 3930.2,
+     "s": "W",
+     "es": "publicidad",
+     "ko": "광고"
+    },
+    {
+     "t": 3932.9,
+     "s": "E",
+     "es": "Los anuncios de televisión son medios muy utilizados por la publicidad.",
+     "ko": "텔레비전 광고는 광고업계에서 아주 많이 쓰는 매체이다."
+    },
+    {
+     "t": 3940.4,
+     "s": "W",
+     "es": "reportaje",
+     "ko": "르포, 보도"
+    },
+    {
+     "t": 3945.4,
+     "s": "E",
+     "es": "Me encantan los reportajes sobre animales.",
+     "ko": "나는 동물 르포 프로그램을 정말 좋아한다."
+    },
+    {
+     "t": 3950.7,
+     "s": "W",
+     "es": "revista",
+     "ko": "잡지"
+    },
+    {
+     "t": 3953.2,
+     "s": "E",
+     "es": "Estoy leyendo una revista de ciencias.",
+     "ko": "나는 과학 잡지를 읽고 있다."
+    },
+    {
+     "t": 3957.8,
+     "s": "W",
+     "es": "rueda de prensa",
+     "ko": "기자 회견"
+    },
+    {
+     "t": 3961.7,
+     "s": "E",
+     "es": "El presidente del Gobierno ofreció una rueda de prensa al término de su reunión con el líder de la oposición.",
+     "ko": "총리는 야당 대표와의 회담을 마치고 기자 회견을 열었다."
+    },
+    {
+     "t": 3970.4,
+     "s": "W",
+     "es": "serie",
+     "ko": "시리즈, 연속극"
+    },
+    {
+     "t": 3975.5,
+     "s": "E",
+     "es": "Empezaron a emitir una serie policial que está dando que hablar.",
+     "ko": "화제가 되고 있는 경찰 드라마가 방영되기 시작했다."
+    },
+    {
+     "t": 3981.9,
+     "s": "W",
+     "es": "telenovela",
+     "ko": "TV 드라마, 연속극"
+    },
+    {
+     "t": 3984.3,
+     "s": "E",
+     "es": "Mi madre no se perdía por nada del mundo la telenovela de la tarde.",
+     "ko": "우리 어머니는 오후 드라마를 무슨 일이 있어도 놓치지 않으셨다."
+    },
+    {
+     "t": 3992.0,
+     "s": "W",
+     "es": "volumen",
+     "ko": "볼륨, 음량"
+    },
+    {
+     "t": 3996.1,
+     "s": "E",
+     "es": "Baja un poco el volumen de la radio.",
+     "ko": "라디오 소리를 좀 줄여라."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 5. Teléfono, correos · 전화, 우편",
+   "lines": [
+    {
+     "t": 4012.7,
+     "s": "W",
+     "es": "apartado de correos",
+     "ko": "사서함"
+    },
+    {
+     "t": 4016.0,
+     "s": "E",
+     "es": "Debes enviarme todas las cartas a mi apartado de correos.",
+     "ko": "모든 편지는 내 사서함으로 보내야 한다."
+    },
+    {
+     "t": 4022.3,
+     "s": "W",
+     "es": "batería",
+     "ko": "배터리"
+    },
+    {
+     "t": 4025.2,
+     "s": "E",
+     "es": "Dejé encendido el teléfono toda la noche y se agotó la batería.",
+     "ko": "밤새 전화기를 켜 두었더니 배터리가 다 닳았다."
+    },
+    {
+     "t": 4031.6,
+     "s": "W",
+     "es": "buzón",
+     "ko": "우체통, 우편함"
+    },
+    {
+     "t": 4034.6,
+     "s": "E",
+     "es": "Si sales, ¿me echas esta carta en el buzón?",
+     "ko": "나가는 길에 이 편지 좀 우체통에 넣어 줄래?"
+    },
+    {
+     "t": 4038.7,
+     "s": "W",
+     "es": "cabina de teléfono",
+     "ko": "공중전화 부스"
+    },
+    {
+     "t": 4044.0,
+     "s": "E",
+     "es": "Antes era fácil encontrar una cabina de teléfono en la calle.",
+     "ko": "예전에는 길에서 공중전화 부스를 쉽게 찾을 수 있었다."
+    },
+    {
+     "t": 4049.4,
+     "s": "W",
+     "es": "carta",
+     "ko": "편지"
+    },
+    {
+     "t": 4053.1,
+     "s": "E",
+     "es": "No has recibido mi carta porque escribí mal tu dirección.",
+     "ko": "내가 주소를 잘못 써서 너는 내 편지를 받지 못했다."
+    },
+    {
+     "t": 4058.2,
+     "s": "W",
+     "es": "certificado, certificada",
+     "ko": "등기 우편물, 등기된"
+    },
+    {
+     "t": 4065.4,
+     "s": "E",
+     "es": "¿Cuánto cuesta mandar a España un paquete por correo certificado?",
+     "ko": "스페인에 소포를 등기로 보내려면 얼마인가요?"
+    },
+    {
+     "t": 4071.3,
+     "s": "W",
+     "es": "código postal",
+     "ko": "우편 번호"
+    },
+    {
+     "t": 4074.7,
+     "s": "E",
+     "es": "Mi código postal es 26134.",
+     "ko": "내 우편 번호는 26134이다."
+    },
+    {
+     "t": 4080.4,
+     "s": "W",
+     "es": "contestador automático",
+     "ko": "자동 응답기"
+    },
+    {
+     "t": 4084.7,
+     "s": "E",
+     "es": "Como nunca está en casa, se ha comprado un contestador automático para saber si alguien lo ha llamado.",
+     "ko": "그는 집에 있는 일이 없어서 누가 전화했는지 알려고 자동 응답기를 샀다."
+    },
+    {
+     "t": 4094.4,
+     "s": "W",
+     "es": "correo",
+     "ko": "우편, 우편물"
+    },
+    {
+     "t": 4096.0,
+     "s": "E",
+     "es": "Antes de subir a casa, coge el correo del buzón.",
+     "ko": "집에 올라가기 전에 우편함에서 우편물을 꺼내 와라."
+    },
+    {
+     "t": 4101.2,
+     "s": "W",
+     "es": "destinatario, destinataria",
+     "ko": "수취인, 수신인"
+    },
+    {
+     "t": 4105.9,
+     "s": "E",
+     "es": "La carta se la han devuelto porque los datos del destinatario estaban equivocados.",
+     "ko": "수취인 정보가 잘못되어 편지가 그에게 반송되었다."
+    },
+    {
+     "t": 4114.3,
+     "s": "W",
+     "es": "dirección",
+     "ko": "주소"
+    },
+    {
+     "t": 4116.9,
+     "s": "E",
+     "es": "Necesito enviarle un paquete, pero no sé su dirección.",
+     "ko": "그에게 소포를 보내야 하는데 주소를 모른다."
+    },
+    {
+     "t": 4122.7,
+     "s": "W",
+     "es": "enviar",
+     "ko": "보내다"
+    },
+    {
+     "t": 4125.4,
+     "s": "E",
+     "es": "Envíales una postal a tus padres.",
+     "ko": "부모님께 엽서를 보내 드려라."
+    },
+    {
+     "t": 4130.4,
+     "s": "W",
+     "es": "estar comunicando",
+     "ko": "통화 중이다"
+    },
+    {
+     "t": 4133.8,
+     "s": "E",
+     "es": "Llevo toda la tarde llamando, pero no he podido hablar con ella todavía porque el teléfono lleva comunicando todo el día.",
+     "ko": "오후 내내 전화하고 있는데, 하루 종일 통화 중이라 아직 그녀와 통화하지 못했다."
+    },
+    {
+     "t": 4142.3,
+     "s": "W",
+     "es": "gastos de envío",
+     "ko": "우송료, 우편 요금"
+    },
+    {
+     "t": 4147.1,
+     "s": "E",
+     "es": "La empresa de transportes nos comunicó los gastos de envío.",
+     "ko": "운송 회사가 우리에게 배송비를 알려 주었다."
+    },
+    {
+     "t": 4153.9,
+     "s": "W",
+     "es": "guía telefónica",
+     "ko": "전화번호부"
+    },
+    {
+     "t": 4158.1,
+     "s": "E",
+     "es": "Encontré tu número en la guía telefónica.",
+     "ko": "전화번호부에서 네 번호를 찾았다."
+    },
+    {
+     "t": 4162.5,
+     "s": "W",
+     "es": "llamar por teléfono",
+     "ko": "전화하다"
+    },
+    {
+     "t": 4167.1,
+     "s": "E",
+     "es": "En cuanto llegue a casa, te llamaré.",
+     "ko": "집에 도착하자마자 너에게 전화할게."
+    },
+    {
+     "t": 4171.8,
+     "s": "W",
+     "es": "número",
+     "ko": "번호"
+    },
+    {
+     "t": 4172.3,
+     "s": "E",
+     "es": "Usted ha llamado a un número equivocado.",
+     "ko": "잘못 거셨습니다."
+    },
+    {
+     "t": 4178.9,
+     "s": "W",
+     "es": "paquete",
+     "ko": "소포, 꾸러미"
+    },
+    {
+     "t": 4183.5,
+     "s": "E",
+     "es": "Recogí sus cosas, hice un paquete y se lo envié por correo.",
+     "ko": "그의 물건을 챙겨 소포로 싸서 우편으로 보내 주었다."
+    },
+    {
+     "t": 4189.6,
+     "s": "W",
+     "es": "postal",
+     "ko": "엽서"
+    },
+    {
+     "t": 4191.1,
+     "s": "E",
+     "es": "Mi hijo envió unas postales desde Marruecos.",
+     "ko": "아들이 모로코에서 엽서 몇 장을 보냈다."
+    },
+    {
+     "t": 4197.2,
+     "s": "W",
+     "es": "prefijo",
+     "ko": "지역 번호, 국가 번호"
+    },
+    {
+     "t": 4201.3,
+     "s": "E",
+     "es": "El prefijo de Seúl es el 02.",
+     "ko": "서울의 지역 번호는 02이다."
+    },
+    {
+     "t": 4207.3,
+     "s": "W",
+     "es": "recado",
+     "ko": "메모, 전언"
+    },
+    {
+     "t": 4211.5,
+     "s": "E",
+     "es": "¿Puedes darle a Antonio un recado de mi parte?",
+     "ko": "안토니오에게 내 말 좀 전해 줄 수 있니?"
+    },
+    {
+     "t": 4216.7,
+     "s": "W",
+     "es": "sello",
+     "ko": "우표"
+    },
+    {
+     "t": 4219.6,
+     "s": "E",
+     "es": "Pon aquí los sellos.",
+     "ko": "여기에 우표를 붙여라."
+    },
+    {
+     "t": 4223.6,
+     "s": "W",
+     "es": "sobre",
+     "ko": "봉투"
+    },
+    {
+     "t": 4226.1,
+     "s": "E",
+     "es": "En el sobre no está escrita la dirección del destinatario.",
+     "ko": "봉투에 수신인 주소가 적혀 있지 않다."
+    },
+    {
+     "t": 4231.7,
+     "s": "W",
+     "es": "tarifa",
+     "ko": "요금"
+    },
+    {
+     "t": 4235.2,
+     "s": "E",
+     "es": "De noche se reduce la tarifa telefónica.",
+     "ko": "밤에는 전화 요금이 내려간다."
+    },
+    {
+     "t": 4239.9,
+     "s": "W",
+     "es": "teléfono",
+     "ko": "전화, 전화기"
+    },
+    {
+     "t": 4243.4,
+     "s": "E",
+     "es": "Dejaste mal colgado el teléfono.",
+     "ko": "너 전화를 제대로 안 끊었어."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 6. Internet · 인터넷",
+   "lines": [
+    {
+     "t": 4257.7,
+     "s": "W",
+     "es": "adjuntar",
+     "ko": "첨부하다"
+    },
+    {
+     "t": 4261.1,
+     "s": "E",
+     "es": "Adjunto mi currículum a la solicitud de beca.",
+     "ko": "장학금 신청서에 제 이력서를 첨부합니다."
+    },
+    {
+     "t": 4267.1,
+     "s": "W",
+     "es": "archivo",
+     "ko": "파일"
+    },
+    {
+     "t": 4270.1,
+     "s": "E",
+     "es": "Borré varios archivos de texto del disco duro.",
+     "ko": "하드디스크에서 텍스트 파일 몇 개를 지웠다."
+    },
+    {
+     "t": 4275.6,
+     "s": "W",
+     "es": "arroba",
+     "ko": "골뱅이(@)"
+    },
+    {
+     "t": 4279.8,
+     "s": "E",
+     "es": "Mi dirección de correo electrónico es mar@adelaide.com.",
+     "ko": "내 이메일 주소는 mar@adelaide.com이다."
+    },
+    {
+     "t": 4286.9,
+     "s": "W",
+     "es": "base de datos",
+     "ko": "데이터베이스"
+    },
+    {
+     "t": 4291.5,
+     "s": "E",
+     "es": "Mis amigos me están enseñando a manejar una base de datos.",
+     "ko": "친구들이 내게 데이터베이스 다루는 법을 가르쳐 주고 있다."
+    },
+    {
+     "t": 4297.9,
+     "s": "W",
+     "es": "buscador",
+     "ko": "검색창, 검색 엔진"
+    },
+    {
+     "t": 4301.2,
+     "s": "E",
+     "es": "Escribe la palabra en el buscador de Internet.",
+     "ko": "인터넷 검색창에 그 단어를 입력해라."
+    },
+    {
+     "t": 4306.1,
+     "s": "W",
+     "es": "chatear",
+     "ko": "채팅하다"
+    },
+    {
+     "t": 4309.2,
+     "s": "E",
+     "es": "A ella le gusta chatear en Internet.",
+     "ko": "그녀는 인터넷에서 채팅하는 것을 좋아한다."
+    },
+    {
+     "t": 4314.3,
+     "s": "W",
+     "es": "conectarse",
+     "ko": "접속하다, 연결하다"
+    },
+    {
+     "t": 4318.9,
+     "s": "E",
+     "es": "Mi ordenador no se puede conectar con tu impresora porque no son compatibles.",
+     "ko": "내 컴퓨터는 네 프린터와 호환되지 않아서 연결이 안 된다."
+    },
+    {
+     "t": 4326.3,
+     "s": "W",
+     "es": "contraseña",
+     "ko": "비밀번호, 암호"
+    },
+    {
+     "t": 4330.2,
+     "s": "E",
+     "es": "Olvidé mi contraseña de correo electrónico.",
+     "ko": "이메일 비밀번호를 잊어버렸다."
+    },
+    {
+     "t": 4335.8,
+     "s": "W",
+     "es": "correo electrónico",
+     "ko": "이메일, 전자 우편"
+    },
+    {
+     "t": 4340.3,
+     "s": "E",
+     "es": "No tengo tu dirección de correo electrónico.",
+     "ko": "나는 네 이메일 주소를 모른다."
+    },
+    {
+     "t": 4346.3,
+     "s": "W",
+     "es": "descargar",
+     "ko": "다운로드하다"
+    },
+    {
+     "t": 4350.1,
+     "s": "E",
+     "es": "Voy a descargar un programa para ver este archivo.",
+     "ko": "이 파일을 보려고 프로그램을 하나 내려받을 것이다."
+    },
+    {
+     "t": 4355.0,
+     "s": "W",
+     "es": "disco duro",
+     "ko": "하드디스크"
+    },
+    {
+     "t": 4359.2,
+     "s": "E",
+     "es": "En el disco duro almacenamos programas y datos.",
+     "ko": "우리는 하드디스크에 프로그램과 데이터를 저장한다."
+    },
+    {
+     "t": 4364.2,
+     "s": "W",
+     "es": "instalar un programa",
+     "ko": "프로그램을 설치하다"
+    },
+    {
+     "t": 4368.9,
+     "s": "E",
+     "es": "No sé cómo instalar este programa en mi ordenador.",
+     "ko": "이 프로그램을 내 컴퓨터에 어떻게 설치하는지 모르겠다."
+    },
+    {
+     "t": 4375.5,
+     "s": "W",
+     "es": "mensaje",
+     "ko": "메시지"
+    },
+    {
+     "t": 4378.9,
+     "s": "E",
+     "es": "Te voy a enviar un mensaje por correo electrónico.",
+     "ko": "이메일로 너에게 메시지를 보낼게."
+    },
+    {
+     "t": 4383.8,
+     "s": "W",
+     "es": "navegar",
+     "ko": "(인터넷을) 돌아다니다, 웹 서핑하다"
+    },
+    {
+     "t": 4389.9,
+     "s": "E",
+     "es": "Encontró la información que buscaba navegando por la red.",
+     "ko": "그는 인터넷을 검색하다가 찾던 정보를 발견했다."
+    },
+    {
+     "t": 4395.5,
+     "s": "W",
+     "es": "página web",
+     "ko": "웹페이지, 홈페이지"
+    },
+    {
+     "t": 4401.1,
+     "s": "E",
+     "es": "Mira en la página web para obtener más información.",
+     "ko": "더 많은 정보는 웹페이지에서 확인해라."
+    },
+    {
+     "t": 4406.5,
+     "s": "W",
+     "es": "pantalla",
+     "ko": "모니터, 화면"
+    },
+    {
+     "t": 4410.5,
+     "s": "E",
+     "es": "¿Por qué no se enciende la pantalla?",
+     "ko": "화면이 왜 안 켜지지?"
+    },
+    {
+     "t": 4415.8,
+     "s": "W",
+     "es": "punto",
+     "ko": "마침표, 점"
+    },
+    {
+     "t": 4419.5,
+     "s": "E",
+     "es": "Después de punto siempre se escribe mayúscula inicial.",
+     "ko": "마침표 다음에는 항상 대문자로 시작한다."
+    },
+    {
+     "t": 4426.0,
+     "s": "W",
+     "es": "ratón",
+     "ko": "마우스"
+    },
+    {
+     "t": 4428.9,
+     "s": "E",
+     "es": "Dale al ratón para mover el cursor por la pantalla.",
+     "ko": "마우스를 움직여 화면에서 커서를 옮겨라."
+    },
+    {
+     "t": 4434.2,
+     "s": "W",
+     "es": "red",
+     "ko": "인터넷, 통신망"
+    },
+    {
+     "t": 4438.7,
+     "s": "E",
+     "es": "Tienes que aprender a navegar por la red.",
+     "ko": "너는 인터넷 검색하는 법을 배워야 한다."
+    },
+    {
+     "t": 4444.1,
+     "s": "W",
+     "es": "teclado",
+     "ko": "키보드"
+    },
+    {
+     "t": 4446.9,
+     "s": "E",
+     "es": "El teclado del ordenador no me ha costado mucho.",
+     "ko": "컴퓨터 키보드는 별로 비싸지 않았다."
+    }
+   ]
+  }
+ ]
+}

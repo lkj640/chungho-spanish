@@ -1,6 +1,102 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-15-5",
+   "lang": "es",
+   "date": "2026-11-15",
+   "title": "스페인어 어휘를 부탁해 ④ — 여가·국가와 정치·경제와 일 (9–11장)",
+   "es": "¿Puedo pagar en efectivo?",
+   "emoji": "🎭",
+   "level": "A2–B1",
+   "channel": "스페인어 어휘를 부탁해 (MP3)",
+   "youtube": null,
+   "duration": "52:11",
+   "summary": "9장 여가(영화·연극, 미술·음악·무용, 스포츠, 기타 취미, 파티·축하, 여행), 10장 국가·정치와 사법·범죄, 11장 경제·일·쇼핑까지 약 300개 단어를 예문과 함께 들어요. 표제어 → 한국어 뜻 → 예문 순서로 나오니, 예문을 소리 내어 따라 하며 명사는 관사와 함께, 동사는 쓰임(jugar a, dedicarse a 등)과 함께 외워 보세요.",
+   "topics": [
+    "영화·연극: película · entrada · taquilla · estreno · guion",
+    "미술·음악: cuadro · escultura · concierto · tocar · canción",
+    "스포츠: partido · equipo · ganar · empatar · entrenar",
+    "취미·축제: afición · tiempo libre · boda · Navidad · regalo",
+    "여행: reserva · maleta · alojamiento · aduana · temporada alta",
+    "정치·사법: elecciones · votar · gobierno · ley · cárcel",
+    "경제·일·쇼핑: dinero · préstamo · empleo · sueldo · descuento"
+   ],
+   "vocabCount": 40,
+   "lineCount": 619
+  },
+  {
+   "id": "es-2026-11-15-4",
+   "lang": "es",
+   "date": "2026-11-15",
+   "title": "스페인어 어휘를 부탁해 ③ — 자연·도시·문화 (6–8장)",
+   "es": "Cuando llegues al semáforo, sigue recto y encontrarás un cruce.",
+   "emoji": "🌍",
+   "level": "A2–B1",
+   "channel": "스페인어 어휘를 부탁해 (MP3)",
+   "youtube": null,
+   "duration": "74:30",
+   "summary": "6장 자연(우주·지구·지리, 날씨와 자연 현상, 동물, 식물, 환경), 7장 도시(건물·거리, 교통, 위치 표현), 8장 문화(교육, 언어·문학, 종교·학문, 대중 매체, 전화·우편, 인터넷)의 단어 455개를 다룹니다. 스페인어 표제어 → 한국어 뜻 → 예문 순서로 들으면서 예문을 소리 내어 따라 읽고, 명사는 관사(el/la)와 함께 외우세요. 날씨 표현(hace calor, hace sol…)과 위치 표현(cerca de, enfrente de…)은 통째로 익혀 두면 바로 회화에 쓸 수 있어요.",
+   "topics": [
+    "우주·지구·지리: la Tierra · el mar · la montaña · el norte · la isla",
+    "날씨·자연 현상: hace sol · la lluvia · la niebla · el terremoto · la temperatura",
+    "동물·식물: el perro · el caballo · la abeja · el árbol · la flor · regar",
+    "환경: la contaminación · el cambio climático · reciclar · la basura",
+    "도시·교통: la calle · la plaza · el aeropuerto · el atasco · aparcar",
+    "위치 표현: cerca de · lejos de · enfrente de · encima de · al lado de",
+    "교육·매체·통신: la asignatura · la beca · el periódico · el buzón · la contraseña"
+   ],
+   "vocabCount": 40,
+   "lineCount": 910
+  },
+  {
+   "id": "es-2026-11-15-3",
+   "lang": "es",
+   "date": "2026-11-15",
+   "title": "스페인어 어휘를 부탁해 ② — 의류·음식·주거 (3–5장)",
+   "es": "¿Qué tal me queda esta camiseta?",
+   "emoji": "👗",
+   "level": "A2–B1",
+   "channel": "스페인어 어휘를 부탁해 (MP3)",
+   "youtube": null,
+   "duration": "50:46",
+   "summary": "3장 의류(옷, 신발·소품, 스타일·소재, 몸 관리), 4장 음식(식품, 맛·조리법, 상점·식당), 5장 주거(집, 주방·욕실, 침실·거실, 집안일)의 기본 어휘 약 300개를 다뤄요. 단어 → 한국어 뜻 → 예문 순서로 들으면서 예문을 소리 내어 따라 하고, 명사는 관사(el/la)와 함께 외워 보세요.",
+   "topics": [
+    "의류: camisa · falda · pantalones · vestido · probarse · quedar bien",
+    "신발·소품: zapato · bolso · gafas · pendiente · reloj · cinturón",
+    "스타일·소재: de rayas · de cuadros · de lunares · algodón · seda · cuero",
+    "몸 관리: afeitarse · maquillarse · peinarse · jabón · toalla",
+    "식품·맛·조리: pan · carne · pescado · al horno · frito · picante · rico",
+    "상점·식당: carta · cuenta · propina · menú del día · panadería",
+    "집·가구·집안일: piso · dormitorio · nevera · lavadora · barrer · planchar"
+   ],
+   "vocabCount": 40,
+   "lineCount": 615
+  },
+  {
+   "id": "es-2026-11-15-2",
+   "lang": "es",
+   "date": "2026-11-15",
+   "title": "스페인어 어휘를 부탁해 ① — 인간·인간관계와 사회 (1–2장)",
+   "es": "Mi madre siempre se lava las manos antes de cocinar.",
+   "emoji": "🧍",
+   "level": "A2–B1",
+   "channel": "스페인어 어휘를 부탁해 (MP3)",
+   "youtube": null,
+   "duration": "60:10",
+   "summary": "1장 '인간'(신체, 외모, 동작·생리, 성격, 감정, 사고, 건강)과 2장 '인간관계와 사회'(가족, 일생, 인간관계, 일상생활, 직업)의 핵심 단어 약 340개를 다뤄요. 스페인어 표제어 → 한국어 뜻 → 예문 순으로 들으면서, 예문을 따라 읽고 명사는 관사(el/la)와 함께, 형용사는 남성형·여성형을 함께 외워 보세요.",
+   "topics": [
+    "신체: la boca · la mano · la espalda · el pelo",
+    "외모: alto · delgado · moreno · rubio · parecerse",
+    "동작·생리: andar · dormir · reír · tener hambre/sed",
+    "성격·감정: amable · tímido · contento · enfadado · nervioso",
+    "사고·건강: pensar · recordar · fiebre · receta médica",
+    "가족·일생: abuelo · cuñado · casarse · dar a luz",
+    "일상·직업: levantarse · ducharse · abogado · enfermera"
+   ],
+   "vocabCount": 40,
+   "lineCount": 692
+  },
+  {
    "id": "zh-2026-11-14",
    "lang": "zh",
    "date": "2026-11-14",
