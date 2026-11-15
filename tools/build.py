@@ -89,6 +89,7 @@ PHRASES = {
 
 # 위 PHRASES는 pypinyin이 단어를 다르게 자르면 안 먹혀요. 그럴 땐 여기에 넣으면 자동 보정 뒤에 무조건 덮어써요 (한자만, 글자 수 = 병음 수)
 FORCE = {
+    "有点长": "yǒu diǎn cháng", "勇敢地": "yǒng gǎn de",
     "频繁地": "pín fán de", "快速地": "kuài sù de", "字地看": "zì de kàn", "大量地": "dà liàng de", "简单地": "jiǎn dān de", "不长对不对": "bù cháng duì bu duì",
     "盯着": "dīng zhe", "看中文": "kàn zhōng wén", "所以为了": "suǒ yǐ wèi le", "证明了": "zhèng míng le", "这只是": "zhè zhǐ shì", "弹窗": "tán chuāng", "平板当": "píng bǎn dàng", "撇捺": "piě nà", "还是被": "hái shì bèi",
     "不幸地": "bú xìng de", "准确地": "zhǔn què de", "批判性地": "pī pàn xìng de", "完美地": "wán měi de", "真实地": "zhēn shí de", "被动地": "bèi dòng de", "轻松地": "qīng sōng de", "顺畅地": "shùn chàng de",
