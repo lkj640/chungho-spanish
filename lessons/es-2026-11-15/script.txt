@@ -1,0 +1,435 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 화자를 맥락으로 나눴어요. 'Es pequeño bonito'→'pequeño y bonito', 'ajedrz'→ajedrez, 'superdivtida'→superdivertida, 'La ha e hecho de menos'→'La echo de menos', 'de compres'→'de compras', 'Achí'→'¡Achís!', '40 gr'→'40 grados', 'Déjenas'→'Déjennos', 'mi enemigo'→'mi enemiga', 'te gusta ir de compras'는 의문문으로 바로잡았어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 19:26
+
+
+## 인사 — 파티에서 나이를 말해 버린 마테오
+[00:00.56]
+M | Sofía, estoy en una fiesta y una chica me ha preguntado: «¿Cómo te va?» | 소피아, 제가 파티에 있는데 어떤 여자가 «¿Cómo te va?(요즘 어때요?)»라고 물었어요.
+[00:08.05]
+M | Y he respondido: «Tengo 30 años.» | 그래서 저는 «서른 살이에요.»라고 대답했어요.
+[00:11.42]
+S | Ay, Mateo, qué desastre. | 아이고, 마테오, 이런 참사가 있나.
+[00:13.89]
+S | Ella te ha preguntado «How is it going?» y tú has respondido tu edad. | 그분은 «How is it going?» 하고 물었는데, 너는 나이를 대답했잖아.
+[00:20.36]
+S | Hola a todos, bienvenidos a este episodio especial de Easy Spanish Podcast. | 여러분 안녕하세요, 이지 스패니시 팟캐스트 특별 에피소드에 오신 걸 환영해요.
+[00:27.68]
+S | Hoy no vamos a hacer shadowing. | 오늘은 쉐도잉은 하지 않아요.
+[00:30.72]
+S | Hoy vamos a hablar mucho, muy claro y muy divertido para que aprendas a presentarte perfectamente y hablar de toda tu vida. Empezamos. | 오늘은 아주 많이, 또렷하고 재미있게 이야기해서 여러분이 완벽하게 자기소개를 하고 자기 삶 전체를 이야기할 수 있게 할 거예요. 시작해요.
+## 이름·별명·출신
+[00:42.89]
+S | A ver, Mateo, la primera regla para presentarse es el nombre. | 자, 마테오, 자기소개의 첫 번째 규칙은 이름이에요.
+[00:48.12]
+S | ¿Cómo te llamas oficialmente? | 공식적으로 이름이 어떻게 돼요?
+[00:50.48]
+M | Mi nombre completo es Mateo García López, pero por favor, llamadme Mateo. | 제 본명은 마테오 가르시아 로페스지만, 그냥 마테오라고 불러 주세요.
+[00:58.36]
+S | ¿Y tienes un apodo, un nickname? | 별명도 있어요, 닉네임 같은 거?
+[01:01.61]
+M | Sí, mi madre me llama «tesoro», pero mis amigos me llaman «el lento» porque siempre llego tarde. | 네, 어머니는 저를 «보물(tesoro)»이라고 부르는데, 친구들은 항상 늦게 와서 «느림보(el lento)»라고 불러요.
+[01:10.85]
+S | Me gusta «el lento». | «느림보» 마음에 드네요.
+[01:12.85]
+S | Yo soy Sofía y mi nombre significa «sabiduría», aunque a veces no sé ni dónde están mis llaves. | 저는 소피아이고 제 이름은 «지혜»라는 뜻인데, 가끔은 열쇠가 어디 있는지도 몰라요.
+[01:22.12]
+M | Sofía, cuéntanos de dónde eres exactamente, porque hablas un español muy bonito. | 소피아, 정확히 어디 출신인지 말해 줘요, 스페인어를 아주 예쁘게 하니까요.
+[01:29.25]
+S | Gracias. Soy de Ciudad de México. | 고마워요. 저는 멕시코시티 출신이에요.
+[01:32.32]
+S | Es una ciudad enorme y con mucha comida rica. ¿Tú eres de Madrid? | 엄청나게 큰 도시이고 맛있는 음식도 많아요. 마테오는 마드리드 사람이에요?
+[01:38.34]
+M | No, no. Yo soy de Sevilla, en el sur de España. | 아니, 아니에요. 저는 스페인 남부 세비야 출신이에요.
+[01:42.90]
+M | Allí hace mucho calor, por eso soy un poco lento. | 거기는 아주 더워서 제가 좀 느린 거예요.
+[01:45.49]
+M | Soy de Sevilla, pero ahora vivo en Madrid por el trabajo. | 세비야 출신이지만 지금은 일 때문에 마드리드에 살아요.
+## 언어와 나이
+[01:50.41]
+S | ¿Y qué idiomas hablas, Mateo? | 마테오는 어떤 언어를 해요?
+[01:53.00]
+M | Hablo español, por supuesto. También hablo un poco de inglés y sé decir «pizza» en italiano. ¿Y tú? | 스페인어는 당연히 하고요. 영어도 조금 하고, 이탈리아어로 «pizza»라고 말할 줄 알아요. 소피아는요?
+[02:02.02]
+S | Yo hablo español, inglés y estoy aprendiendo francés. | 저는 스페인어와 영어를 하고 프랑스어를 배우는 중이에요.
+[02:07.20]
+M | El francés es muy difícil. | 프랑스어는 정말 어려워요.
+[02:09.94]
+M | Sofía, una pregunta difícil: ¿cuántos años tienes? | 소피아, 어려운 질문 하나: 몇 살이에요?
+[02:15.45]
+S | Uy, qué pregunta. Tengo 28 años. Soy muy joven. ¿Y tú? | 어머, 무슨 질문이람. 저는 스물여덟이에요. 아주 젊죠. 너는?
+[02:23.43]
+S | Pareces de 40. | 마흔 살처럼 보여요.
+[02:26.23]
+M | ¿40? Qué mala eres. Tengo 31 años. Nací en 1995. | 마흔? 못됐네요. 저는 서른한 살이에요. 1995년에 태어났어요.
+[02:34.64]
+S | Es broma, Mateo, estás en la mejor edad. | 농담이에요, 마테오, 가장 좋은 나이예요.
+## 직업
+[02:37.92]
+S | Bueno, ¿y para que la gente te conozca mejor, a qué te dedicas? ¿En qué trabajas? | 자, 그럼 사람들이 너를 더 잘 알도록, 무슨 일을 해요? 어디서 일해요?
+[02:44.67]
+M | Pues ahora mismo soy creador de contenido y profesor. Me encanta explicar cosas. | 지금은 콘텐츠 크리에이터이자 선생님이에요. 뭔가를 설명하는 걸 아주 좋아해요.
+[02:51.88]
+M | Pero hace cinco años trabajaba en un banco. Era muy aburrido. | 하지만 5년 전에는 은행에서 일했어요. 아주 지루했죠.
+[02:57.48]
+S | ¿En un banco? No te imagino con corbata. | 은행에서요? 넥타이 맨 모습은 상상이 안 돼요.
+[03:01.11]
+M | Odiaba la corbata. Ahora trabajo en pijama desde casa. Es mucho mejor. ¿Y tú, Sofía? | 넥타이가 너무 싫었어요. 지금은 집에서 잠옷 차림으로 일해요. 훨씬 낫죠. 소피아는요?
+[03:08.95]
+S | Yo soy diseñadora gráfica. Hago logos y dibujos en mi ordenador. Es un trabajo muy creativo. | 저는 그래픽 디자이너예요. 컴퓨터로 로고와 그림을 만들어요. 아주 창의적인 일이에요.
+## 가족
+[03:17.08]
+M | Hablemos de la familia. ¿Tienes hermanos? | 가족 이야기를 해 봐요. 형제자매가 있어요?
+[03:20.36]
+S | Sí, tengo un hermano mayor y una hermana pequeña. | 네, 오빠 한 명과 여동생 한 명이 있어요.
+[03:24.03]
+S | Mi hermano es médico y mi hermana es estudiante. Somos muy diferentes. ¿Y tú? | 오빠는 의사이고 동생은 학생이에요. 우리는 아주 달라요. 마테오는요?
+[03:29.81]
+M | Yo soy hijo único. No tengo hermanos, por eso soy el favorito de mi abuela. | 저는 외동이에요. 형제가 없어서 할머니가 제일 예뻐하세요.
+[03:35.88]
+S | Ah, qué suerte. Yo tengo cinco tíos y diez primos. | 아, 좋겠네요. 저는 삼촌·이모가 다섯 분에 사촌이 열 명이에요.
+[03:40.36]
+S | Nuestras cenas de Navidad son una locura. | 우리 집 크리스마스 저녁은 정신이 없어요.
+[03:44.12]
+M | Madre mía, yo prefiero el silencio de ser hijo único. | 세상에, 저는 외동의 조용함이 더 좋아요.
+## 취미
+[03:48.11]
+S | Mateo, ¿qué haces en tu tiempo libre? ¿Cuáles son tus hobbies? | 마테오, 쉬는 시간에는 뭐 해요? 취미가 뭐예요?
+[03:52.84]
+M | Me encanta el fútbol, ver series en Netflix y cocinar. | 축구, 넷플릭스로 드라마 보기, 요리를 아주 좋아해요.
+[03:57.18]
+S | Bueno, «cocinar» significa pedir comida por una app. Eso no es cocinar. | 음, 마테오에게 «요리»는 앱으로 음식을 시키는 거잖아요. 그건 요리가 아니에요.
+[04:03.02]
+S | A mí me gusta mucho bailar salsa y caminar por el parque. | 저는 살사 춤추기와 공원 산책을 아주 좋아해요.
+[04:07.54]
+S | También me apasiona leer libros de misterio. | 미스터리 소설 읽는 것도 정말 좋아해요.
+[04:10.77]
+M | ¿Bailar salsa? Tenemos que grabar un video bailando. | 살사를 춘다고요? 춤추는 영상을 찍어야겠어요.
+[04:14.51]
+S | Vale, pero tú eres el lento, así que no sé si podrás seguir el ritmo. | 좋아요, 근데 너는 느림보라서 리듬을 따라올 수 있을지 모르겠네.
+## 성격과 외모
+[04:19.72]
+M | Para terminar con lo básico, ¿cómo te describes? | 기본 질문을 마무리하며, 자신을 어떻게 설명해요?
+[04:23.58]
+S | Pues soy una persona alegre, un poco impaciente y muy curiosa. | 음, 저는 밝고, 조금 성급하고, 호기심이 많은 사람이에요.
+[04:28.54]
+S | Físicamente soy baja, tengo el pelo castaño y los ojos marrones. ¿Y tú? | 외모는 키가 작고, 밤색 머리에 갈색 눈이에요. 너는?
+[04:34.74]
+M | Yo soy alto, un poco tímido al principio, pero muy divertido después. | 저는 키가 크고, 처음엔 약간 수줍지만 나중엔 아주 재미있어요.
+[04:39.47]
+M | Tengo el pelo corto y siempre llevo barba porque me da pereza afeitarme. | 머리는 짧고, 면도하기 귀찮아서 항상 수염을 길러요.
+## 하루 일과
+[04:44.23]
+S | Bueno, Mateo, la gente ya sabe quiénes somos, pero ¿cómo es un día normal en tu vida? | 자, 마테오, 사람들은 이제 우리가 누군지 알아요. 그럼 평범한 하루는 어때요?
+[04:50.44]
+S | ¿A qué hora te levantas? | 몇 시에 일어나요?
+[04:52.40]
+M | Ay, la mañana es mi enemiga. Me levanto a las 9 de la mañana, bebo un café muy grande y enciendo mi ordenador. | 아, 아침은 제 적이에요. 아침 9시에 일어나서 아주 큰 커피를 마시고 컴퓨터를 켜요.
+[05:00.65]
+M | ¿Y tú seguro que te levantas a las 6 para hacer yoga? | 소피아는 분명히 6시에 일어나서 요가를 하겠죠?
+[05:04.88]
+S | Casi. Me levanto a las 7, me ducho, escucho música y preparo un buen desayuno. | 거의요. 7시에 일어나서 샤워하고, 음악을 듣고, 든든한 아침을 차려요.
+[05:12.80]
+S | No puedo funcionar sin desayunar. | 아침을 안 먹으면 아무것도 못 해요.
+[05:15.51]
+M | Yo desayuno muy rápido: una tostada y listo. | 저는 아주 빨리 먹어요. 토스트 하나로 끝.
+[05:19.17]
+M | Después trabajo hasta las 2 de la tarde. | 그다음 오후 2시까지 일해요.
+[05:22.28]
+S | A las 2 como. En México comemos un poco más tarde, pero aquí en España me he acostumbrado. | 2시에 점심을 먹어요. 멕시코에서는 좀 더 늦게 먹는데, 여기 스페인에서는 적응했어요.
+[05:29.15]
+S | Yo trabajo de 9 a 5. | 저는 9시부터 5시까지 일해요.
+[05:31.00]
+S | ¿Y por la noche qué haces? | 밤에는 뭘 해요?
+[05:33.27]
+M | Por la noche ceno a las 9, veo la televisión y me acuesto a las 12. Una rutina muy tranquila. | 밤에는 9시에 저녁을 먹고, TV를 보고, 12시에 자요. 아주 조용한 루틴이죠.
+[05:40.39]
+S | Yo también me acuesto a las 12, pero antes leo un libro. | 저도 12시에 자는데, 그 전에 책을 읽어요.
+[05:44.65]
+S | Nunca veo la televisión en la cama. | 침대에서는 절대 TV를 안 봐요.
+## 음식
+[05:47.62]
+S | Hablando de comer, ¿cuál es tu comida favorita? | 먹는 얘기가 나왔으니, 제일 좋아하는 음식이 뭐예요?
+[05:51.78]
+M | Para mí la decisión es fácil: la pizza. | 저한테는 쉬운 결정이에요. 피자죠.
+[05:56.39]
+S | ¡Qué sorpresa! El rey de la pizza ama la pizza. | 놀랍지도 않네요! 피자의 왕이 피자를 사랑한다니.
+[06:01.56]
+S | Yo prefiero los tacos al pastor, son deliciosos. | 저는 타코 알 파스토르가 더 좋아요, 정말 맛있어요.
+[06:06.72]
+S | Pero en España me encanta la tortilla de patatas. | 하지만 스페인에서는 감자 오믈렛(토르티야 데 파타타스)이 정말 좋아요.
+[06:11.88]
+M | La tortilla es genial. ¿Te gusta cocinar o prefieres ir a restaurantes? | 토르티야는 최고죠. 요리하는 걸 좋아해요, 아니면 식당 가는 걸 더 좋아해요?
+[06:18.30]
+S | Me gusta cocinar los fines de semana. Hago ensaladas, pollo al horno y pasta. | 주말에 요리하는 걸 좋아해요. 샐러드, 오븐 치킨, 파스타를 만들어요.
+[06:25.97]
+S | Como mucha fruta y verdura. ¿Tú comes fruta, Mateo? | 과일과 채소를 많이 먹어요. 마테오는 과일 먹어요?
+[06:31.42]
+M | Eh... el tomate de la pizza es una verdura. | 어… 피자에 들어간 토마토는 채소잖아요.
+[06:36.20]
+S | No, Mateo, por favor, tienes que comer mejor. | 아니야, 마테오, 제발, 더 잘 먹어야 해.
+[06:41.01]
+S | El café y la pizza no son una dieta saludable. | 커피와 피자는 건강한 식단이 아니에요.
+[06:45.75]
+M | Lo sé, lo sé, pero no me gusta el pescado y odio la sopa. Soy un poco difícil para comer. | 알아요, 알아요, 근데 생선이 싫고 수프는 질색이에요. 먹는 게 좀 까다로워요.
+## 집과 반려동물
+[06:53.44]
+S | Cambiando de tema, cuéntame de tu casa. | 주제를 바꿔서, 네 집 이야기를 해 줘요.
+[06:56.86]
+S | ¿Vives en un piso o en una casa con jardín? | 피소에 살아요, 아니면 정원 있는 집에 살아요?
+[07:00.87]
+M | Vivo en un piso en el centro de Madrid. Es pequeño y bonito. | 마드리드 중심가의 피소에 살아요. 작지만 예뻐요.
+[07:06.41]
+M | Tiene un salón, una cocina, un baño y un dormitorio. No tengo balcón. | 거실, 주방, 욕실, 침실이 하나씩 있어요. 발코니는 없어요.
+[07:13.47]
+S | Yo vivo en un piso compartido con una amiga. | 저는 친구와 함께 쓰는 피소에 살아요.
+[07:17.65]
+S | Nuestro piso es grande. Tiene tres habitaciones, dos baños y una terraza preciosa con muchas plantas. | 우리 집은 커요. 방이 세 개, 욕실이 두 개, 식물이 많은 멋진 테라스가 있어요.
+[07:26.98]
+M | ¿Plantas? Yo tuve una planta una vez y murió en una semana. | 식물이요? 저는 한 번 식물을 키웠는데 일주일 만에 죽었어요.
+[07:32.41]
+M | No tengo tiempo para regar las plantas. | 식물에 물 줄 시간이 없어요.
+[07:35.90]
+S | Pobre planta. Mi habitación es mi lugar favorito. | 불쌍한 식물. 제 방이 제일 좋아하는 곳이에요.
+[07:40.34]
+S | Tengo una cama grande, un escritorio para trabajar y un armario para mi ropa. ¿Cómo es tu salón? | 큰 침대, 작업용 책상, 옷장이 있어요. 마테오의 거실은 어때요?
+[07:48.75]
+M | Mi salón es muy simple: un sofá muy cómodo, una televisión gigante y mi consola de videojuegos. Es todo lo que necesito. | 제 거실은 아주 단순해요. 아주 편한 소파, 거대한 TV, 게임 콘솔. 필요한 건 그게 전부예요.
+[07:59.59]
+S | Oye, con tanto tiempo en casa, ¿no tienes ninguna mascota? ¿Un perro, un gato? | 있잖아, 집에 그렇게 오래 있는데 반려동물은 없어요? 개나 고양이는?
+[08:07.19]
+M | Me encantan los perros, pero un perro necesita mucha atención. | 개를 아주 좋아하지만, 개는 관심이 많이 필요해요.
+[08:12.24]
+M | Hay que pasearlo tres veces al día y yo soy el lento. | 하루 세 번 산책시켜야 하는데 저는 느림보잖아요.
+[08:17.13]
+S | Es verdad. Yo tengo un gato, se llama Taco. Es muy gordo y muy perezoso, como tú. | 맞아요. 저는 고양이가 있는데 이름이 타코예요. 아주 뚱뚱하고 아주 게으르죠, 너처럼.
+[08:26.84]
+M | Oye, yo no soy gordo, solo soy relajado. | 이봐요, 저는 뚱뚱한 게 아니라 여유로울 뿐이에요.
+[08:31.37]
+S | Taco duerme mucho. Duerme todo el día. | 타코는 잠이 많아요. 하루 종일 자요.
+[08:35.80]
+S | Solo se levanta para comer y para jugar con mis zapatos. Es mi mejor amigo en Madrid. | 먹고, 제 신발을 가지고 놀 때만 일어나요. 마드리드에서 제 가장 친한 친구예요.
+## 옷 스타일과 주말
+[08:43.60]
+M | Hablando de zapatos, ¿cuál es tu estilo de ropa favorito? | 신발 얘기가 나왔으니, 제일 좋아하는 옷 스타일은 뭐예요?
+[08:48.20]
+M | Cuando te presentas, la ropa también habla por ti. | 자기소개를 할 때는 옷도 너를 대신해서 말해 줘요.
+[08:52.08]
+S | Tienes razón. A mí me gusta la ropa cómoda pero bonita. | 맞는 말이에요. 저는 편하지만 예쁜 옷이 좋아요.
+[08:56.91]
+S | Normalmente llevo vaqueros, una camiseta blanca y zapatillas deportivas. En invierno me encantan los abrigos largos. | 보통 청바지에 흰 티셔츠, 운동화를 신어요. 겨울에는 긴 코트가 정말 좋아요.
+[09:07.11]
+M | Yo soy el rey de la comodidad. En verano llevo pantalones cortos y camisetas de grupos de música. | 저는 편안함의 왕이에요. 여름에는 반바지에 밴드 티셔츠를 입어요.
+[09:14.42]
+M | En invierno, pantalones oscuros y un jersey. Nunca uso traje. | 겨울에는 어두운 바지와 스웨터. 정장은 절대 안 입어요.
+[09:19.65]
+S | Sí. Ya me dijiste que odias las corbatas. Eres un rebelde, Mateo. | 네. 넥타이를 싫어한다고 이미 말했잖아요. 마테오는 반항아예요.
+[09:26.64]
+S | Y cuando no trabajas, ¿qué haces? ¿Cómo es tu fin de semana perfecto? | 일하지 않을 때는 뭘 해요? 완벽한 주말은 어때요?
+[09:31.97]
+M | Mi sábado perfecto empieza durmiendo hasta las 11. | 제 완벽한 토요일은 11시까지 자는 것으로 시작해요.
+[09:35.75]
+M | Luego quedo con mis amigos para tomar un café y dar un paseo. Por la tarde vemos un partido de fútbol. | 그다음 친구들과 만나 커피를 마시고 산책해요. 오후에는 축구 경기를 봐요.
+[09:43.49]
+M | El domingo es el día de la limpieza. | 일요일은 청소하는 날이에요.
+[09:46.48]
+S | Qué aburrido. Mi fin de semana es mucho más activo. | 지루하네요. 제 주말은 훨씬 활동적이에요.
+[09:50.63]
+S | El sábado voy a museos, visito exposiciones o hago excursiones a la montaña. | 토요일에는 박물관에 가고, 전시를 보거나 산으로 소풍을 가요.
+[09:57.00]
+M | Es solo de escucharte, ya estoy cansado. No descansas nunca. | 듣기만 해도 벌써 피곤해요. 절대 안 쉬네요.
+[10:01.48]
+S | El domingo por la tarde sí. Me quedo en casa, preparo la ropa para la semana y escucho música. | 일요일 오후에는 쉬어요. 집에 있으면서 한 주 입을 옷을 챙기고 음악을 들어요.
+## 미래의 꿈과 계절
+[10:08.96]
+M | Bueno, Sofía, la gente ya sabe desde lo que comemos hasta cómo dormimos, pero falta una cosa: un sueño para el futuro. ¿Cuál es el tuyo? | 자, 소피아, 사람들은 우리가 뭘 먹는지부터 어떻게 자는지까지 이미 알아요. 그런데 한 가지가 빠졌어요. 미래의 꿈이요. 소피아의 꿈은 뭐예요?
+[10:20.48]
+S | Mi sueño es tener mi propia agencia de diseño gráfico y quizás vivir cerca de la playa algún día. | 제 꿈은 제 디자인 에이전시를 갖는 것, 그리고 언젠가 해변 가까이에 사는 거예요.
+[10:27.53]
+M | Qué bonito. Mi sueño es viajar a Japón. | 멋지네요. 제 꿈은 일본을 여행하는 거예요.
+[10:30.77]
+M | Me encanta la cultura y quiero probar el sushi real. | 문화를 아주 좋아하고 진짜 초밥을 먹어 보고 싶어요.
+[10:35.16]
+S | Mateo, antes hablamos de que eres de Sevilla y de vivir en la playa. Allí hace mucho calor, ¿verdad? | 마테오, 아까 네가 세비야 출신이라고 했고 해변에 사는 얘기도 했죠. 거기는 아주 덥죠, 그렇죠?
+[10:42.08]
+S | ¿Cuál es tu estación del año favorita? | 제일 좋아하는 계절은 뭐예요?
+[10:45.22]
+M | El invierno, sin duda. En verano en Sevilla hace 40 grados. | 단연 겨울이에요. 세비야의 여름은 40도예요.
+[10:49.76]
+M | Es imposible salir a la calle por la tarde. Tienes que dormir la siesta para sobrevivir. | 오후에는 밖에 나가는 게 불가능해요. 살아남으려면 낮잠을 자야 해요.
+[10:57.42]
+S | Qué exagerado. A mí me encanta el verano. Me gusta el sol, ir a la piscina y tomar helado de chocolate. | 과장도 심하네요. 저는 여름이 정말 좋아요. 햇볕, 수영장, 초콜릿 아이스크림을 좋아해요.
+[11:06.36]
+M | El invierno en Madrid es muy frío, pero en invierno puedes llevar ropa cómoda, estar en casa con una manta y beber chocolate caliente. | 마드리드의 겨울은 아주 춥지만, 겨울에는 편한 옷을 입고 집에서 담요를 덮고 핫초코를 마실 수 있어요.
+[11:15.96]
+S | El otoño también es bonito. Los árboles son amarillos y rojos. | 가을도 예뻐요. 나무가 노랗고 빨갛죠.
+[11:20.54]
+M | El otoño es un poco triste para mí. Llueve mucho. | 가을은 저한테는 좀 슬퍼요. 비가 많이 와요.
+[11:24.93]
+S | Yo prefiero la primavera. Hace buen tiempo. Hay muchas flores y los días son más largos. | 저는 봄이 더 좋아요. 날씨가 좋고, 꽃이 많고, 낮이 더 길어요.
+[11:32.20]
+M | La primavera está bien, pero en primavera tengo alergia. ¡Achís! Siempre estoy estornudando. | 봄도 좋지만 봄에는 알레르기가 있어요. 에취! 항상 재채기를 해요.
+[11:39.80]
+S | Salud. Siempre tienes un problema, Mateo. | 건강하길. 마테오는 항상 문제가 있네요.
+## 교통과 운동
+[11:43.43]
+M | Bueno, cambiando de tema, ¿cómo vas al trabajo, Sofía? Madrid es una ciudad muy grande. | 자, 주제를 바꿔서, 소피아는 어떻게 출근해요? 마드리드는 아주 큰 도시잖아요.
+[11:50.04]
+S | Yo no tengo coche. Normalmente voy en metro. Es rápido, barato y no hay tráfico. | 저는 차가 없어요. 보통 지하철로 가요. 빠르고, 싸고, 교통체증도 없죠.
+[11:57.37]
+S | A veces, si hace buen tiempo, voy en bicicleta. | 가끔 날씨가 좋으면 자전거를 타요.
+[12:01.45]
+M | En bicicleta por Madrid eres muy valiente. Hay muchos coches y autobuses. | 마드리드에서 자전거를 타다니 정말 용감하네요. 차와 버스가 많잖아요.
+[12:07.32]
+M | Yo prefiero ir caminando si el lugar está cerca. | 저는 가까운 곳이면 걸어가는 게 좋아요.
+[12:10.80]
+S | Caminar es muy bueno para la salud, pero ¿y si tienes que ir muy lejos? | 걷기는 건강에 아주 좋지만, 아주 먼 곳에 가야 하면요?
+[12:15.90]
+M | Entonces tomo un taxi o un Uber. No me gusta el metro en hora punta. | 그럼 택시나 우버를 타요. 러시아워의 지하철은 싫어요.
+[12:21.10]
+M | Hay mucha gente, todos están serios y nadie habla. | 사람이 많고, 다들 심각한 얼굴이고 아무도 말을 안 해요.
+[12:24.96]
+S | Es verdad. El metro a las 8 de la mañana es un lugar muy silencioso. | 맞아요. 아침 8시의 지하철은 아주 조용한 곳이에요.
+[12:30.22]
+S | Yo siempre escucho música o leo un libro en el tren. | 저는 열차에서 항상 음악을 듣거나 책을 읽어요.
+[12:34.21]
+M | Yo también escuchaba música en el tren hasta que un día perdí mis auriculares. Fue un día terrible. | 저도 열차에서 음악을 들었는데, 어느 날 이어폰을 잃어버렸어요. 끔찍한 날이었죠.
+[12:41.58]
+S | Antes dijiste que no te gusta el gimnasio, pero hacer deporte es importante. ¿Haces algún ejercicio? | 아까 헬스장이 싫다고 했지만 운동은 중요해요. 운동하는 게 있어요?
+[12:49.87]
+M | Bueno, el ajedrez es un deporte, ¿no? | 음, 체스도 스포츠잖아요, 아닌가요?
+[12:53.50]
+S | No, hablo de mover el cuerpo, sudar. | 아니, 몸을 움직이고 땀 흘리는 걸 말하는 거예요.
+[12:57.37]
+M | Ah, eso... Pues a veces juego al tenis con un amigo los domingos, pero él siempre gana. También nado en la piscina en verano. | 아, 그거요… 음, 가끔 일요일에 친구와 테니스를 치는데 그 친구가 항상 이겨요. 여름에는 수영장에서 수영도 해요.
+[13:08.36]
+S | Eso está mejor. Yo voy al gimnasio tres veces por semana, hago yoga, corro en la cinta y levanto pesas. | 그게 더 낫네요. 저는 일주일에 세 번 헬스장에 가서 요가를 하고, 러닝머신을 달리고, 역기를 들어요.
+[13:16.48]
+S | Me hace sentir fuerte y con energía. | 힘이 나고 활력이 생기는 기분이에요.
+[13:19.34]
+M | Yo intenté correr una vez: corrí 5 minutos y tuve que sentarme en un banco a beber agua. No nací para ser atleta. | 저는 한 번 달려 보려고 했는데, 5분 뛰고 벤치에 앉아 물을 마셔야 했어요. 운동선수로 태어나지 않았나 봐요.
+[13:28.24]
+S | Todo es práctica, Mateo. Si quieres, puedes venir conmigo al gimnasio mañana. | 다 연습이에요, 마테오. 원하면 내일 나랑 헬스장에 가도 돼요.
+[13:34.31]
+M | Eh... mañana tengo que limpiar las ventanas de mi casa. Sí, están muy sucias. Qué pena. | 어… 내일은 집 창문을 닦아야 해요. 네, 아주 더럽거든요. 아쉽네요.
+## 휴대폰과 SNS
+[13:43.35]
+S | Mateo, eres imposible. Seguro que prefieres estar con el teléfono móvil todo el día. ¿Usas muchas redes sociales? | 마테오, 못 말려요. 분명 하루 종일 휴대폰 붙들고 있는 게 더 좋겠죠. SNS 많이 써요?
+[13:52.49]
+M | Soy culpable. Uso mucho Instagram para ver fotos de comida y de viajes. Y TikTok. | 유죄예요. 음식과 여행 사진을 보려고 인스타그램을 많이 써요. 틱톡도요.
+[13:59.59]
+M | TikTok es peligroso. Entro 5 minutos y, cuando miro el reloj, han pasado 2 horas. | 틱톡은 위험해요. 5분만 들어가는데, 시계를 보면 두 시간이 지나 있어요.
+[14:08.60]
+S | A mí también me pasa. Yo uso Instagram para mi trabajo de diseño. Subo mis dibujos. | 저도 그래요. 저는 디자인 일 때문에 인스타그램을 써요. 그림을 올리죠.
+[14:14.94]
+S | También uso WhatsApp todo el día para hablar con mi familia en México. | 멕시코에 있는 가족과 이야기하려고 왓츠앱도 하루 종일 써요.
+[14:20.37]
+M | WhatsApp es fundamental, pero odio los mensajes de audio largos. | 왓츠앱은 필수지만 긴 음성 메시지는 정말 싫어요.
+[14:25.66]
+M | Tengo un amigo que me envía audios de 10 minutos. Es un podcast. | 10분짜리 음성을 보내는 친구가 있어요. 그건 팟캐스트예요.
+[14:31.60]
+S | Yo también lo odio. Si quieres hablar 10 minutos, llámame por teléfono. | 저도 싫어요. 10분 동안 얘기하고 싶으면 전화해요.
+[14:37.53]
+M | Exacto. Yo solo uso el teléfono para llamar a mi madre y para pedir pizza. | 맞아요. 저는 전화를 어머니께 걸 때와 피자 주문할 때만 써요.
+[14:43.50]
+M | La tecnología moderna es maravillosa. | 현대 기술은 정말 훌륭해요.
+## 친구들
+[14:46.44]
+S | Hablando de amigos, ¿cómo es tu mejor amigo? | 친구 이야기가 나왔으니, 가장 친한 친구는 어떤 사람이에요?
+[14:49.64]
+M | Mi mejor amigo se llama Carlos. Nos conocemos desde el colegio, desde que teníamos 6 años. | 제 가장 친한 친구 이름은 카를로스예요. 학교 때부터, 우리가 여섯 살 때부터 알고 지냈어요.
+[14:56.66]
+M | Él es muy diferente a mí. | 그는 저와 아주 달라요.
+[14:58.92]
+S | ¿Diferente? ¿En qué sentido? | 달라요? 어떤 면에서요?
+[15:01.26]
+M | Carlos es muy organizado, muy serio en el trabajo y muy puntual. Nunca llega tarde. | 카를로스는 아주 체계적이고, 일에는 아주 진지하고, 시간을 잘 지켜요. 절대 늦지 않아요.
+[15:08.40]
+M | Yo soy el caos y él es el orden. ¿Y tu mejor amiga? | 저는 혼돈이고 그는 질서예요. 소피아의 가장 친한 친구는요?
+[15:12.75]
+S | Mi mejor amiga se llama Elena. Es superdivertida. Siempre está riendo y habla mucho más que yo. | 제 가장 친한 친구는 엘레나예요. 정말 재미있어요. 항상 웃고 있고 저보다 말이 훨씬 많아요.
+[15:20.87]
+S | Físicamente es alta, rubia y tiene los ojos verdes. | 외모는 키가 크고, 금발이고, 눈이 초록색이에요.
+[15:25.74]
+M | ¿Viven cerca? | 가까이 살아요?
+[15:26.92]
+S | No, por desgracia no. Ella vive en Barcelona, pero hablamos por videollamada casi todos los días. La echo de menos. | 아니요, 안타깝게도요. 그녀는 바르셀로나에 살지만 거의 매일 화상통화를 해요. 그리워요.
+## 음악과 영화
+[15:35.85]
+M | Para alegrarte, vamos a hablar de cosas divertidas. ¿Qué música escuchas cuando estás triste? | 기운 나게 재미있는 이야기를 해 봐요. 슬플 때는 어떤 음악을 들어요?
+[15:42.35]
+S | Escucho música pop o música latina para tener energía y bailar en mi habitación. No me gusta la música triste. ¿Y tú? | 힘을 내고 방에서 춤추려고 팝이나 라틴 음악을 들어요. 슬픈 음악은 싫어요. 너는?
+[15:50.79]
+M | A mí me encanta el rock clásico y un poco de jazz para relajarme por la noche. | 저는 클래식 록이 좋고, 밤에 긴장을 풀려고 재즈도 조금 들어요.
+[15:56.66]
+M | También escucho bandas sonoras de películas. | 영화 사운드트랙도 들어요.
+[16:00.48]
+S | ¿Te gusta ir al cine? | 영화관에 가는 거 좋아해요?
+[16:02.18]
+M | Me encanta. Me gustan las películas de ciencia ficción y las comedias. Voy al cine todos los meses. | 아주 좋아해요. SF 영화와 코미디를 좋아해요. 매달 영화관에 가요.
+[16:09.43]
+M | Me gusta comprar palomitas gigantes y un refresco. | 특대 팝콘과 음료수를 사는 게 좋아요.
+[16:13.40]
+S | Yo prefiero el cine de terror. Me gusta pasar miedo, pero nunca voy sola. Siempre voy con amigos porque después no puedo dormir. | 저는 공포 영화가 더 좋아요. 무서운 게 좋은데 혼자서는 절대 안 가요. 나중에 잠을 못 자서 항상 친구들과 가요.
+[16:23.65]
+M | ¿Películas de terror? Ni loco. Yo cierro los ojos cuando hay sangre o fantasmas. Soy un miedoso. | 공포 영화요? 절대 안 봐요. 피나 유령이 나오면 눈을 감아요. 저는 겁쟁이예요.
+## 쇼핑과 여행 짐
+[16:31.81]
+S | Eres muy miedoso y muy perezoso, pero ¿te gusta ir de compras? A casi todo el mundo le gusta comprar cosas nuevas. | 너는 겁도 많고 아주 게으르지만 쇼핑은 좋아해요? 거의 모든 사람이 새 물건 사는 걸 좋아하죠.
+[16:41.08]
+M | Odio ir a las tiendas de ropa. Hay mucha gente, hace calor, la música está muy alta y probarse la ropa es muy aburrido. Yo compro todo por internet. | 옷 가게에 가는 건 질색이에요. 사람은 많고, 덥고, 음악은 너무 크고, 옷을 입어 보는 건 정말 지루해요. 저는 전부 인터넷으로 사요.
+[16:53.56]
+S | A mí me encanta ir de compras. Ir al centro comercial es mi terapia. | 저는 쇼핑이 정말 좋아요. 쇼핑몰에 가는 게 제 치료예요.
+[16:59.10]
+S | Entrar en las tiendas, tocar las telas, probar vestidos de diferentes colores. | 가게에 들어가고, 옷감을 만져 보고, 여러 색의 원피스를 입어 보는 거죠.
+[17:04.86]
+M | ¿Y cuál es tu color favorito para la ropa? | 옷에서 제일 좋아하는 색은 뭐예요?
+[17:07.86]
+S | El azul y el rojo son colores fuertes y alegres. Y el tuyo? | 파란색과 빨간색은 강렬하고 경쾌한 색이에요. 너는?
+[17:12.76]
+M | El negro, el gris y el blanco. Colores fáciles. Así no tengo que pensar qué ponerme por la mañana. | 검정, 회색, 흰색이요. 쉬운 색이죠. 그러면 아침에 뭘 입을지 생각할 필요가 없어요.
+[17:20.73]
+S | Muy práctico. ¿Y cuánto dinero gastas en ropa al mes? | 아주 실용적이네요. 한 달에 옷에는 돈을 얼마나 써요?
+[17:24.76]
+M | Muy poco, pero gasto mucho dinero en tecnología, videojuegos y en comida, por supuesto. | 아주 조금요. 하지만 기술 제품, 게임, 그리고 당연히 음식에는 돈을 많이 써요.
+[17:32.55]
+M | Antes dijiste que tu sueño es vivir cerca de la playa y el mío, ir a Japón. ¿Qué pones en tu maleta cuando vas de viaje? | 아까 네 꿈은 해변 근처에 사는 거라고 했고 제 꿈은 일본에 가는 거였죠. 여행 갈 때 캐리어에는 뭘 넣어요?
+[17:41.37]
+S | Yo soy un desastre haciendo maletas. Siempre llevo cosas que no necesito. | 저는 짐 싸는 데는 엉망이에요. 항상 필요 없는 것을 가져가요.
+[17:47.40]
+S | Cinco pares de zapatos, diez camisetas, tres pantalones, medicamentos, libros. Mi maleta siempre pesa 20 kg. | 신발 다섯 켤레, 티셔츠 열 장, 바지 세 벌, 약, 책. 제 캐리어는 항상 20kg이에요.
+[17:57.43]
+M | ¡Qué locura! Yo soy muy minimalista para viajar. | 말도 안 돼요! 저는 여행할 때 아주 미니멀리스트예요.
+[18:02.07]
+M | Una mochila pequeña, dos camisetas, un pantalón, ropa interior, el cepillo de dientes y mi cargador del móvil. Listo. | 작은 배낭, 티셔츠 두 장, 바지 한 벌, 속옷, 칫솔, 휴대폰 충전기. 끝.
+[18:12.33]
+S | ¿Y si hace frío? ¿Y si llueve? ¿Y si tienes una cena elegante? | 추우면요? 비가 오면요? 근사한 저녁 식사가 있으면요?
+[18:17.46]
+M | Si hace frío, compro una chaqueta allí. Y yo nunca tengo cenas elegantes. Soy el lento, no James Bond. | 추우면 거기서 재킷을 사요. 그리고 저는 근사한 저녁 식사가 절대 없어요. 저는 느림보지, 제임스 본드가 아니에요.
+[18:27.39]
+S | Eres único, Mateo. Nunca cambies. | 너는 유일무이해요, 마테오. 절대 변하지 마요.
+## 마무리
+[18:31.00]
+M | Bueno, Sofía, creo que ahora sí hemos hablado de nuestra familia, el clima, los transportes, los amigos, la ropa y los viajes. | 자, 소피아, 이제는 정말 우리 가족, 날씨, 교통, 친구, 옷, 여행 이야기를 다 한 것 같아요.
+[18:41.36]
+M | Hemos hablado durante muchísimo tiempo. | 정말 오랫동안 이야기했네요.
+[18:44.87]
+S | Ha sido una clase magistral, una masterclass de español. | 마스터클래스 같은, 스페인어 마스터클래스였어요.
+[18:49.19]
+S | Ahora nuestros oyentes tienen muchísimo vocabulario nuevo. | 이제 청취자분들에게 새 어휘가 정말 많이 생겼어요.
+[18:53.82]
+M | Exactamente. A todos los que están escuchando, gracias por su paciencia. | 맞아요. 듣고 계신 모든 분께, 인내심에 감사드려요.
+[18:59.80]
+M | Esperamos que este episodio largo sea muy útil para su español. | 이 긴 에피소드가 여러분의 스페인어에 큰 도움이 되길 바라요.
+[19:04.23]
+S | Pueden escuchar este episodio en el coche, en el tren o mientras limpian la casa. | 이 에피소드는 차에서, 열차에서, 또는 집을 청소하면서 들어도 좋아요.
+[19:09.60]
+M | Déjennos un comentario largo y cuéntennos: ¿son organizados como Sofía o caóticos como yo? | 긴 댓글을 남겨서 알려 주세요. 소피아처럼 체계적인가요, 아니면 저처럼 혼란스러운가요?
+[19:17.84]
+S | Suscríbanse a Easy Spanish Podcast. Un abrazo a todos y hasta la próxima. | 이지 스패니시 팟캐스트를 구독해 주세요. 모두에게 포옹을 보내며, 다음에 만나요.
+[19:23.25]
+S | Adiós, amigos. | 안녕, 친구들.
+[19:24.23]
+M | Me voy a comer una pizza. | 저는 피자 먹으러 갈게요.

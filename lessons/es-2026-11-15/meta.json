@@ -1,0 +1,709 @@
+{
+  "lang": "es",
+  "date": "2026-11-15",
+  "title": "나를 소개하기 — 이름부터 취미·일상·꿈까지",
+  "es": "Me encanta explicar cosas.",
+  "emoji": "🙋",
+  "level": "A2",
+  "channel": "Easy Spanish Podcast",
+  "videoTitle": "How to Talk about Yourself in Spanish (A2) | Learn español with Podcast | episode 31 | Easy Spanish",
+  "youtube": "pYMxPuJ1_f0",
+  "duration": "19:26",
+  "speakers": {
+    "S": "Sofía",
+    "M": "Mateo"
+  },
+  "hideCast": true,
+  "summary": "파티에서 «¿Cómo te va?»에 나이를 답해 버린 마테오를 위해, 소피아와 마테오가 이름·출신·나이·직업·가족·취미·성격·하루 일과·음식·집·옷·주말·계절·교통·운동·SNS·친구·음악·영화·쇼핑·여행까지 자신을 소개하고 삶을 이야기하는 방법을 A2 수준으로 들려줘요.",
+  "topics": [
+    "자기소개: 이름·별명·출신·나이·직업",
+    "가족과 취미: tener hermanos · me encanta + 동사원형",
+    "외모·성격: ser vs tener + pelo/ojos",
+    "하루 일과: 재귀동사 levantarse · ducharse · acostarse",
+    "음식·집·옷 스타일 말하기",
+    "계절·교통·운동·SNS·여행 어휘"
+  ],
+  "grammar": [
+    {
+      "title": "① 이름·출신·직업 — llamarse, ser de, dedicarse",
+      "lead": "자기소개의 기본 틀은 <b>이름 → 출신 → 나이 → 직업</b>이에요.",
+      "table": {
+        "head": [
+          "질문",
+          "대답 틀",
+          "예"
+        ],
+        "rows": [
+          [
+            "¿Cómo te llamas?",
+            "Me llamo + 이름",
+            "Me llamo Mateo."
+          ],
+          [
+            "¿De dónde eres?",
+            "Soy de + 도시/나라",
+            "Soy de Sevilla."
+          ],
+          [
+            "¿Cuántos años tienes?",
+            "Tengo + 숫자 + años",
+            "Tengo 28 años."
+          ],
+          [
+            "¿A qué te dedicas?",
+            "Soy + 직업",
+            "Soy diseñadora gráfica."
+          ],
+          [
+            "¿Dónde vives?",
+            "Vivo en + 장소",
+            "Vivo en Madrid."
+          ]
+        ]
+      },
+      "tip": "나이는 ser가 아니라 <b>tener</b>를 써요: Tengo 30 años (○) / Soy 30 años (×). 오늘 영상의 웃음 포인트도 이 질문을 오해한 데서 시작해요."
+    },
+    {
+      "title": "② 재귀동사 — 하루 일과 말하기",
+      "lead": "자기 자신에게 하는 행동은 <b>재귀대명사(me, te, se…)</b>와 함께 써요.",
+      "table": {
+        "head": [
+          "동사",
+          "yo",
+          "예"
+        ],
+        "rows": [
+          [
+            "levantarse",
+            "me levanto",
+            "Me levanto a las 7."
+          ],
+          [
+            "ducharse",
+            "me ducho",
+            "Me ducho y escucho música."
+          ],
+          [
+            "acostarse (o→ue)",
+            "me acuesto",
+            "Me acuesto a las 12."
+          ],
+          [
+            "acostumbrarse",
+            "me acostumbro",
+            "Me he acostumbrado."
+          ]
+        ]
+      },
+      "tip": "acostarse는 o→ue 불규칙: me acuesto, te acuestas, se acuesta. 시각은 <b>a las + 숫자</b>(1시만 a la una)."
+    },
+    {
+      "title": "③ 좋아함 표현 — me gusta / me encanta / me apasiona",
+      "lead": "gustar류 동사는 <b>하는 것(동사원형·단수)</b>이면 단수, 복수 명사면 복수형을 써요.",
+      "examples": [
+        [
+          "Me encanta el fútbol.",
+          "축구를 아주 좋아해요."
+        ],
+        [
+          "Me gusta cocinar los fines de semana.",
+          "주말에 요리하는 걸 좋아해요."
+        ],
+        [
+          "Me gustan las películas de ciencia ficción.",
+          "SF 영화를 좋아해요."
+        ],
+        [
+          "Me apasiona leer libros de misterio.",
+          "미스터리 소설 읽기에 푹 빠져 있어요."
+        ]
+      ],
+      "tip": "좋아하는 대상이 복수면 gustan: Me gustan los perros. 싫어함은 <b>odiar</b>(Odio la sopa) 또는 no me gusta."
+    },
+    {
+      "title": "④ 외모 묘사 — ser, tener, llevar",
+      "lead": "키·성격은 <b>ser</b>, 머리·눈은 <b>tener</b>, 수염·옷은 <b>llevar</b>로 말해요.",
+      "examples": [
+        [
+          "Soy baja y tengo el pelo castaño.",
+          "키가 작고 밤색 머리예요."
+        ],
+        [
+          "Tengo los ojos marrones.",
+          "눈은 갈색이에요."
+        ],
+        [
+          "Siempre llevo barba.",
+          "항상 수염을 길러요."
+        ],
+        [
+          "Físicamente es alta, rubia y tiene los ojos verdes.",
+          "외모는 키가 크고 금발이며 눈이 초록색이에요."
+        ]
+      ],
+      "tip": "형용사는 성·수 일치: alto/alta, rubio/rubia. 말하는 사람이 여성이면 baja·alegre처럼 -a형을 써요."
+    },
+    {
+      "title": "⑤ 과거 표현 — 현재완료·불완료과거·부정과거",
+      "lead": "방금 일어난 일은 <b>현재완료</b>, 과거의 습관·배경은 <b>불완료과거</b>, 끝난 사건은 <b>부정과거</b>예요.",
+      "table": {
+        "head": [
+          "시제",
+          "용법",
+          "예"
+        ],
+        "rows": [
+          [
+            "현재완료 (he + 과거분사)",
+            "지금과 연결된 과거",
+            "Una chica me ha preguntado."
+          ],
+          [
+            "불완료과거 (-aba/-ía)",
+            "과거의 습관·상태",
+            "Hace cinco años trabajaba en un banco."
+          ],
+          [
+            "부정과거",
+            "끝난 일",
+            "Perdí mis auriculares."
+          ],
+          [
+            "부정과거",
+            "한 번의 시도",
+            "Intenté correr una vez."
+          ]
+        ]
+      },
+      "tip": "hace + 기간 = '~ 전에': hace cinco años(5년 전에). 불완료과거 -ar → -aba, -er/-ir → -ía."
+    },
+    {
+      "title": "⑥ 비교와 선호 — preferir, más que",
+      "lead": "선호는 <b>preferir(e→ie)</b>, 비교는 <b>más … que</b>로 말해요.",
+      "examples": [
+        [
+          "Yo prefiero los tacos al pastor.",
+          "저는 타코 알 파스토르가 더 좋아요."
+        ],
+        [
+          "Prefiero el silencio de ser hijo único.",
+          "외동의 조용함이 더 좋아요."
+        ],
+        [
+          "Mi fin de semana es mucho más activo.",
+          "제 주말은 훨씬 더 활동적이에요."
+        ],
+        [
+          "Habla mucho más que yo.",
+          "저보다 훨씬 말이 많아요."
+        ]
+      ],
+      "tip": "preferir는 e→ie: prefiero, prefieres, prefiere, preferimos, preferís, prefieren. 비교 대상 앞에는 que."
+    },
+    {
+      "title": "⑦ 날씨와 가정 — hacer, si + 현재",
+      "lead": "날씨는 <b>hace + 명사</b>, 현실적인 조건은 <b>si + 직설법 현재</b>로 말해요.",
+      "examples": [
+        [
+          "Allí hace mucho calor.",
+          "거기는 아주 더워요."
+        ],
+        [
+          "En Sevilla hace 40 grados.",
+          "세비야는 40도예요."
+        ],
+        [
+          "Si hace frío, compro una chaqueta allí.",
+          "추우면 거기서 재킷을 사요."
+        ],
+        [
+          "Si quieres, puedes venir conmigo.",
+          "원하면 나랑 가도 돼요."
+        ]
+      ],
+      "tip": "비가 와요 = llueve(lluevo 아님, o→ue), 눈이 와요 = nieva. hace frío/calor/buen tiempo는 hacer를 써요."
+    }
+  ],
+  "phrases": [
+    [
+      "¿Cómo te llamas oficialmente?",
+      "공식적으로 이름이 어떻게 돼요?"
+    ],
+    [
+      "Llamadme Mateo, por favor.",
+      "그냥 마테오라고 불러 주세요."
+    ],
+    [
+      "¿A qué te dedicas?",
+      "무슨 일을 하세요?"
+    ],
+    [
+      "Me encanta explicar cosas.",
+      "뭔가를 설명하는 걸 아주 좋아해요."
+    ],
+    [
+      "¿Cómo es un día normal en tu vida?",
+      "평범한 하루는 어떤가요?"
+    ],
+    [
+      "Soy un poco difícil para comer.",
+      "먹는 게 좀 까다로워요."
+    ],
+    [
+      "No puedo funcionar sin desayunar.",
+      "아침을 안 먹으면 아무것도 못 해요."
+    ],
+    [
+      "Nunca cambies.",
+      "절대 변하지 마."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "el apodo",
+      "ko": "별명",
+      "ex": "¿Y tienes un apodo?",
+      "exKo": "별명도 있어요?"
+    },
+    {
+      "es": "la sabiduría",
+      "ko": "지혜",
+      "ex": "Mi nombre significa sabiduría.",
+      "exKo": "제 이름은 지혜라는 뜻이에요."
+    },
+    {
+      "es": "exactamente",
+      "ko": "정확히",
+      "ex": "Cuéntanos de dónde eres exactamente.",
+      "exKo": "정확히 어디 출신인지 말해 줘요."
+    },
+    {
+      "es": "la edad",
+      "ko": "나이",
+      "ex": "Tienes que decir tu edad.",
+      "exKo": "나이를 말해야 해요."
+    },
+    {
+      "es": "el creador de contenido",
+      "ko": "콘텐츠 크리에이터",
+      "ex": "Soy creador de contenido y profesor.",
+      "exKo": "저는 콘텐츠 크리에이터이자 선생님이에요."
+    },
+    {
+      "es": "la corbata",
+      "ko": "넥타이",
+      "ex": "Odiaba la corbata.",
+      "exKo": "넥타이가 너무 싫었어요."
+    },
+    {
+      "es": "el pijama",
+      "ko": "잠옷",
+      "ex": "Trabajo en pijama desde casa.",
+      "exKo": "집에서 잠옷 차림으로 일해요."
+    },
+    {
+      "es": "el diseñador gráfico",
+      "ko": "그래픽 디자이너",
+      "ex": "Yo soy diseñadora gráfica.",
+      "exKo": "저는 그래픽 디자이너예요."
+    },
+    {
+      "es": "el hermano mayor",
+      "ko": "형·오빠",
+      "ex": "Tengo un hermano mayor.",
+      "exKo": "오빠가 한 명 있어요."
+    },
+    {
+      "es": "hijo único",
+      "ko": "외동",
+      "ex": "Yo soy hijo único.",
+      "exKo": "저는 외동이에요."
+    },
+    {
+      "es": "el tío / la tía",
+      "ko": "삼촌·이모·고모",
+      "ex": "Tengo cinco tíos y diez primos.",
+      "exKo": "삼촌·이모가 다섯 분에 사촌이 열 명이에요."
+    },
+    {
+      "es": "el tiempo libre",
+      "ko": "여가 시간",
+      "ex": "¿Qué haces en tu tiempo libre?",
+      "exKo": "쉬는 시간에 뭐 해요?"
+    },
+    {
+      "es": "apasionar",
+      "ko": "열광하게 하다",
+      "ex": "Me apasiona leer libros de misterio.",
+      "exKo": "미스터리 소설 읽는 걸 정말 좋아해요."
+    },
+    {
+      "es": "bailar",
+      "ko": "춤추다",
+      "ex": "Me gusta bailar salsa.",
+      "exKo": "살사 추는 걸 좋아해요."
+    },
+    {
+      "es": "alegre",
+      "ko": "밝은, 쾌활한",
+      "ex": "Soy una persona alegre.",
+      "exKo": "저는 밝은 사람이에요."
+    },
+    {
+      "es": "impaciente",
+      "ko": "성급한",
+      "ex": "Soy un poco impaciente.",
+      "exKo": "저는 좀 성급해요."
+    },
+    {
+      "es": "tímido",
+      "ko": "수줍은",
+      "ex": "Soy un poco tímido al principio.",
+      "exKo": "처음엔 좀 수줍어요."
+    },
+    {
+      "es": "castaño",
+      "ko": "밤색의",
+      "ex": "Tengo el pelo castaño.",
+      "exKo": "밤색 머리예요."
+    },
+    {
+      "es": "la barba",
+      "ko": "수염",
+      "ex": "Siempre llevo barba.",
+      "exKo": "항상 수염을 길러요."
+    },
+    {
+      "es": "afeitarse",
+      "ko": "면도하다",
+      "ex": "Me da pereza afeitarme.",
+      "exKo": "면도하기 귀찮아요."
+    },
+    {
+      "es": "levantarse",
+      "ko": "일어나다",
+      "ex": "Me levanto a las 7.",
+      "exKo": "7시에 일어나요."
+    },
+    {
+      "es": "el desayuno",
+      "ko": "아침 식사",
+      "ex": "Preparo un buen desayuno.",
+      "exKo": "든든한 아침을 차려요."
+    },
+    {
+      "es": "acostarse",
+      "ko": "잠자리에 들다",
+      "ex": "Me acuesto a las 12.",
+      "exKo": "12시에 자요."
+    },
+    {
+      "es": "la rutina",
+      "ko": "일상, 루틴",
+      "ex": "Una rutina muy tranquila.",
+      "exKo": "아주 조용한 루틴이에요."
+    },
+    {
+      "es": "la tortilla de patatas",
+      "ko": "감자 오믈렛",
+      "ex": "Me encanta la tortilla de patatas.",
+      "exKo": "감자 오믈렛이 정말 좋아요."
+    },
+    {
+      "es": "el pollo al horno",
+      "ko": "오븐 구이 닭",
+      "ex": "Hago pollo al horno y pasta.",
+      "exKo": "오븐 치킨과 파스타를 만들어요."
+    },
+    {
+      "es": "la verdura",
+      "ko": "채소",
+      "ex": "Como mucha fruta y verdura.",
+      "exKo": "과일과 채소를 많이 먹어요."
+    },
+    {
+      "es": "el pescado",
+      "ko": "생선",
+      "ex": "No me gusta el pescado.",
+      "exKo": "생선을 안 좋아해요."
+    },
+    {
+      "es": "la sopa",
+      "ko": "수프",
+      "ex": "Odio la sopa.",
+      "exKo": "수프는 질색이에요."
+    },
+    {
+      "es": "regar",
+      "ko": "물을 주다",
+      "ex": "No tengo tiempo para regar las plantas.",
+      "exKo": "식물에 물 줄 시간이 없어요."
+    },
+    {
+      "es": "la mascota",
+      "ko": "반려동물",
+      "ex": "¿No tienes ninguna mascota?",
+      "exKo": "반려동물은 없어요?"
+    },
+    {
+      "es": "perezoso",
+      "ko": "게으른",
+      "ex": "Es muy gordo y muy perezoso.",
+      "exKo": "아주 뚱뚱하고 게을러요."
+    },
+    {
+      "es": "los vaqueros",
+      "ko": "청바지",
+      "ex": "Normalmente llevo vaqueros.",
+      "exKo": "보통 청바지를 입어요."
+    },
+    {
+      "es": "el jersey",
+      "ko": "스웨터",
+      "ex": "En invierno, un jersey.",
+      "exKo": "겨울엔 스웨터를 입어요."
+    },
+    {
+      "es": "el traje",
+      "ko": "정장",
+      "ex": "Nunca uso traje.",
+      "exKo": "정장은 절대 안 입어요."
+    },
+    {
+      "es": "quedar con",
+      "ko": "~와 만나기로 하다",
+      "ex": "Quedo con mis amigos para tomar un café.",
+      "exKo": "친구들과 만나 커피를 마셔요."
+    },
+    {
+      "es": "la excursión",
+      "ko": "소풍, 짧은 여행",
+      "ex": "Hago excursiones a la montaña.",
+      "exKo": "산으로 소풍을 가요."
+    },
+    {
+      "es": "la estación del año",
+      "ko": "계절",
+      "ex": "¿Cuál es tu estación del año favorita?",
+      "exKo": "제일 좋아하는 계절이 뭐예요?"
+    },
+    {
+      "es": "la siesta",
+      "ko": "낮잠",
+      "ex": "Tienes que dormir la siesta.",
+      "exKo": "낮잠을 자야 해요."
+    },
+    {
+      "es": "la alergia",
+      "ko": "알레르기",
+      "ex": "En primavera tengo alergia.",
+      "exKo": "봄에는 알레르기가 있어요."
+    },
+    {
+      "es": "estornudar",
+      "ko": "재채기하다",
+      "ex": "Siempre estoy estornudando.",
+      "exKo": "항상 재채기를 해요."
+    },
+    {
+      "es": "la hora punta",
+      "ko": "러시아워",
+      "ex": "No me gusta el metro en hora punta.",
+      "exKo": "러시아워 지하철은 싫어요."
+    },
+    {
+      "es": "los auriculares",
+      "ko": "이어폰",
+      "ex": "Un día perdí mis auriculares.",
+      "exKo": "어느 날 이어폰을 잃어버렸어요."
+    },
+    {
+      "es": "sudar",
+      "ko": "땀 흘리다",
+      "ex": "Hablo de mover el cuerpo, sudar.",
+      "exKo": "몸을 움직이고 땀 흘리는 걸 말해요."
+    },
+    {
+      "es": "levantar pesas",
+      "ko": "역기를 들다",
+      "ex": "Corro en la cinta y levanto pesas.",
+      "exKo": "러닝머신을 달리고 역기를 들어요."
+    },
+    {
+      "es": "las redes sociales",
+      "ko": "SNS",
+      "ex": "¿Usas muchas redes sociales?",
+      "exKo": "SNS 많이 써요?"
+    },
+    {
+      "es": "el mensaje de audio",
+      "ko": "음성 메시지",
+      "ex": "Odio los mensajes de audio largos.",
+      "exKo": "긴 음성 메시지는 싫어요."
+    },
+    {
+      "es": "echar de menos",
+      "ko": "그리워하다",
+      "ex": "La echo de menos.",
+      "exKo": "그녀가 그리워요."
+    },
+    {
+      "es": "la banda sonora",
+      "ko": "영화 음악",
+      "ex": "Escucho bandas sonoras de películas.",
+      "exKo": "영화 사운드트랙을 들어요."
+    },
+    {
+      "es": "las palomitas",
+      "ko": "팝콘",
+      "ex": "Me gusta comprar palomitas gigantes.",
+      "exKo": "특대 팝콘 사는 걸 좋아해요."
+    },
+    {
+      "es": "hacer la maleta",
+      "ko": "짐을 싸다",
+      "ex": "Soy un desastre haciendo maletas.",
+      "exKo": "짐 싸는 데는 엉망이에요."
+    },
+    {
+      "es": "el cargador",
+      "ko": "충전기",
+      "ex": "Mi cargador del móvil.",
+      "exKo": "휴대폰 충전기요."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "¿Qué le preguntó la chica a Mateo en la fiesta?",
+      "options": [
+        "¿Cuántos años tienes?",
+        "¿Cómo te va?",
+        "¿De dónde eres?",
+        "¿Dónde vives?"
+      ],
+      "answer": 1,
+      "explain": "Ella preguntó «¿Cómo te va?», pero Mateo respondió con su edad."
+    },
+    {
+      "q": "¿Cómo llaman los amigos a Mateo?",
+      "options": [
+        "el gordo",
+        "el rey",
+        "el lento",
+        "tesoro"
+      ],
+      "answer": 2,
+      "explain": "Sus amigos lo llaman «el lento» porque siempre llega tarde. «Tesoro» lo dice su madre."
+    },
+    {
+      "q": "¿De dónde es Sofía?",
+      "options": [
+        "Sevilla",
+        "Madrid",
+        "Ciudad de México",
+        "Barcelona"
+      ],
+      "answer": 2,
+      "explain": "Sofía dice: «Soy de Ciudad de México.» Mateo es de Sevilla."
+    },
+    {
+      "q": "¿Qué dice Mateo sobre su trabajo actual?",
+      "options": [
+        "Trabaja en un banco.",
+        "Es creador de contenido y profesor.",
+        "Es médico.",
+        "Es diseñador gráfico."
+      ],
+      "answer": 1,
+      "explain": "Ahora es creador de contenido y profesor; hace cinco años trabajaba en un banco."
+    },
+    {
+      "q": "¿Cuántos hermanos tiene Mateo?",
+      "options": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Ninguno: es hijo único"
+      ],
+      "answer": 3,
+      "explain": "Mateo dice: «Yo soy hijo único.»"
+    },
+    {
+      "q": "¿Qué significa «cocinar» para Mateo, según Sofía?",
+      "options": [
+        "Hacer pasta",
+        "Pedir comida por una app",
+        "Comer en un restaurante",
+        "Ver programas de cocina"
+      ],
+      "answer": 1,
+      "explain": "Sofía bromea: «cocinar significa pedir comida por una app»."
+    },
+    {
+      "q": "¿A qué hora se levanta Mateo?",
+      "options": [
+        "A las 6",
+        "A las 7",
+        "A las 9",
+        "A las 11"
+      ],
+      "answer": 2,
+      "explain": "Mateo: «Me levanto a las 9 de la mañana.» Sofía se levanta a las 7."
+    },
+    {
+      "q": "¿Cómo se llama el gato de Sofía?",
+      "options": [
+        "Pizza",
+        "Taco",
+        "Carlos",
+        "Elena"
+      ],
+      "answer": 1,
+      "explain": "Sofía dice: «Yo tengo un gato, se llama Taco.»"
+    },
+    {
+      "q": "¿Cuál es la estación favorita de Mateo?",
+      "options": [
+        "El verano",
+        "El otoño",
+        "La primavera",
+        "El invierno"
+      ],
+      "answer": 3,
+      "explain": "Mateo prefiere el invierno porque en verano en Sevilla hace 40 grados."
+    },
+    {
+      "q": "¿Por qué no le gusta a Mateo la primavera?",
+      "options": [
+        "Hace mucho calor.",
+        "Tiene alergia.",
+        "Llueve mucho.",
+        "Los días son cortos."
+      ],
+      "answer": 1,
+      "explain": "En primavera tiene alergia y siempre está estornudando."
+    },
+    {
+      "q": "¿Quién es Elena?",
+      "options": [
+        "La hermana de Sofía",
+        "La mejor amiga de Sofía",
+        "La madre de Mateo",
+        "La vecina de Mateo"
+      ],
+      "answer": 1,
+      "explain": "La mejor amiga de Sofía se llama Elena y vive en Barcelona."
+    },
+    {
+      "q": "¿Cuál es el sueño de Mateo?",
+      "options": [
+        "Tener una agencia de diseño",
+        "Vivir cerca de la playa",
+        "Viajar a Japón",
+        "Ser atleta"
+      ],
+      "answer": 2,
+      "explain": "Mateo dice: «Mi sueño es viajar a Japón.» El sueño de Sofía es una agencia de diseño y vivir cerca de la playa."
+    }
+  ]
+}

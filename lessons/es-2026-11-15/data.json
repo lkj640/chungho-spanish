@@ -1,0 +1,2032 @@
+{
+ "id": "es-2026-11-15",
+ "lang": "es",
+ "date": "2026-11-15",
+ "title": "나를 소개하기 — 이름부터 취미·일상·꿈까지",
+ "es": "Me encanta explicar cosas.",
+ "emoji": "🙋",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to Talk about Yourself in Spanish (A2) | Learn español with Podcast | episode 31 | Easy Spanish",
+ "youtube": "pYMxPuJ1_f0",
+ "duration": "19:26",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "파티에서 «¿Cómo te va?»에 나이를 답해 버린 마테오를 위해, 소피아와 마테오가 이름·출신·나이·직업·가족·취미·성격·하루 일과·음식·집·옷·주말·계절·교통·운동·SNS·친구·음악·영화·쇼핑·여행까지 자신을 소개하고 삶을 이야기하는 방법을 A2 수준으로 들려줘요.",
+ "topics": [
+  "자기소개: 이름·별명·출신·나이·직업",
+  "가족과 취미: tener hermanos · me encanta + 동사원형",
+  "외모·성격: ser vs tener + pelo/ojos",
+  "하루 일과: 재귀동사 levantarse · ducharse · acostarse",
+  "음식·집·옷 스타일 말하기",
+  "계절·교통·운동·SNS·여행 어휘"
+ ],
+ "grammar": [
+  {
+   "title": "① 이름·출신·직업 — llamarse, ser de, dedicarse",
+   "lead": "자기소개의 기본 틀은 <b>이름 → 출신 → 나이 → 직업</b>이에요.",
+   "table": {
+    "head": [
+     "질문",
+     "대답 틀",
+     "예"
+    ],
+    "rows": [
+     [
+      "¿Cómo te llamas?",
+      "Me llamo + 이름",
+      "Me llamo Mateo."
+     ],
+     [
+      "¿De dónde eres?",
+      "Soy de + 도시/나라",
+      "Soy de Sevilla."
+     ],
+     [
+      "¿Cuántos años tienes?",
+      "Tengo + 숫자 + años",
+      "Tengo 28 años."
+     ],
+     [
+      "¿A qué te dedicas?",
+      "Soy + 직업",
+      "Soy diseñadora gráfica."
+     ],
+     [
+      "¿Dónde vives?",
+      "Vivo en + 장소",
+      "Vivo en Madrid."
+     ]
+    ]
+   },
+   "tip": "나이는 ser가 아니라 <b>tener</b>를 써요: Tengo 30 años (○) / Soy 30 años (×). 오늘 영상의 웃음 포인트도 이 질문을 오해한 데서 시작해요."
+  },
+  {
+   "title": "② 재귀동사 — 하루 일과 말하기",
+   "lead": "자기 자신에게 하는 행동은 <b>재귀대명사(me, te, se…)</b>와 함께 써요.",
+   "table": {
+    "head": [
+     "동사",
+     "yo",
+     "예"
+    ],
+    "rows": [
+     [
+      "levantarse",
+      "me levanto",
+      "Me levanto a las 7."
+     ],
+     [
+      "ducharse",
+      "me ducho",
+      "Me ducho y escucho música."
+     ],
+     [
+      "acostarse (o→ue)",
+      "me acuesto",
+      "Me acuesto a las 12."
+     ],
+     [
+      "acostumbrarse",
+      "me acostumbro",
+      "Me he acostumbrado."
+     ]
+    ]
+   },
+   "tip": "acostarse는 o→ue 불규칙: me acuesto, te acuestas, se acuesta. 시각은 <b>a las + 숫자</b>(1시만 a la una)."
+  },
+  {
+   "title": "③ 좋아함 표현 — me gusta / me encanta / me apasiona",
+   "lead": "gustar류 동사는 <b>하는 것(동사원형·단수)</b>이면 단수, 복수 명사면 복수형을 써요.",
+   "examples": [
+    [
+     "Me encanta el fútbol.",
+     "축구를 아주 좋아해요."
+    ],
+    [
+     "Me gusta cocinar los fines de semana.",
+     "주말에 요리하는 걸 좋아해요."
+    ],
+    [
+     "Me gustan las películas de ciencia ficción.",
+     "SF 영화를 좋아해요."
+    ],
+    [
+     "Me apasiona leer libros de misterio.",
+     "미스터리 소설 읽기에 푹 빠져 있어요."
+    ]
+   ],
+   "tip": "좋아하는 대상이 복수면 gustan: Me gustan los perros. 싫어함은 <b>odiar</b>(Odio la sopa) 또는 no me gusta."
+  },
+  {
+   "title": "④ 외모 묘사 — ser, tener, llevar",
+   "lead": "키·성격은 <b>ser</b>, 머리·눈은 <b>tener</b>, 수염·옷은 <b>llevar</b>로 말해요.",
+   "examples": [
+    [
+     "Soy baja y tengo el pelo castaño.",
+     "키가 작고 밤색 머리예요."
+    ],
+    [
+     "Tengo los ojos marrones.",
+     "눈은 갈색이에요."
+    ],
+    [
+     "Siempre llevo barba.",
+     "항상 수염을 길러요."
+    ],
+    [
+     "Físicamente es alta, rubia y tiene los ojos verdes.",
+     "외모는 키가 크고 금발이며 눈이 초록색이에요."
+    ]
+   ],
+   "tip": "형용사는 성·수 일치: alto/alta, rubio/rubia. 말하는 사람이 여성이면 baja·alegre처럼 -a형을 써요."
+  },
+  {
+   "title": "⑤ 과거 표현 — 현재완료·불완료과거·부정과거",
+   "lead": "방금 일어난 일은 <b>현재완료</b>, 과거의 습관·배경은 <b>불완료과거</b>, 끝난 사건은 <b>부정과거</b>예요.",
+   "table": {
+    "head": [
+     "시제",
+     "용법",
+     "예"
+    ],
+    "rows": [
+     [
+      "현재완료 (he + 과거분사)",
+      "지금과 연결된 과거",
+      "Una chica me ha preguntado."
+     ],
+     [
+      "불완료과거 (-aba/-ía)",
+      "과거의 습관·상태",
+      "Hace cinco años trabajaba en un banco."
+     ],
+     [
+      "부정과거",
+      "끝난 일",
+      "Perdí mis auriculares."
+     ],
+     [
+      "부정과거",
+      "한 번의 시도",
+      "Intenté correr una vez."
+     ]
+    ]
+   },
+   "tip": "hace + 기간 = '~ 전에': hace cinco años(5년 전에). 불완료과거 -ar → -aba, -er/-ir → -ía."
+  },
+  {
+   "title": "⑥ 비교와 선호 — preferir, más que",
+   "lead": "선호는 <b>preferir(e→ie)</b>, 비교는 <b>más … que</b>로 말해요.",
+   "examples": [
+    [
+     "Yo prefiero los tacos al pastor.",
+     "저는 타코 알 파스토르가 더 좋아요."
+    ],
+    [
+     "Prefiero el silencio de ser hijo único.",
+     "외동의 조용함이 더 좋아요."
+    ],
+    [
+     "Mi fin de semana es mucho más activo.",
+     "제 주말은 훨씬 더 활동적이에요."
+    ],
+    [
+     "Habla mucho más que yo.",
+     "저보다 훨씬 말이 많아요."
+    ]
+   ],
+   "tip": "preferir는 e→ie: prefiero, prefieres, prefiere, preferimos, preferís, prefieren. 비교 대상 앞에는 que."
+  },
+  {
+   "title": "⑦ 날씨와 가정 — hacer, si + 현재",
+   "lead": "날씨는 <b>hace + 명사</b>, 현실적인 조건은 <b>si + 직설법 현재</b>로 말해요.",
+   "examples": [
+    [
+     "Allí hace mucho calor.",
+     "거기는 아주 더워요."
+    ],
+    [
+     "En Sevilla hace 40 grados.",
+     "세비야는 40도예요."
+    ],
+    [
+     "Si hace frío, compro una chaqueta allí.",
+     "추우면 거기서 재킷을 사요."
+    ],
+    [
+     "Si quieres, puedes venir conmigo.",
+     "원하면 나랑 가도 돼요."
+    ]
+   ],
+   "tip": "비가 와요 = llueve(lluevo 아님, o→ue), 눈이 와요 = nieva. hace frío/calor/buen tiempo는 hacer를 써요."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Cómo te llamas oficialmente?",
+   "공식적으로 이름이 어떻게 돼요?"
+  ],
+  [
+   "Llamadme Mateo, por favor.",
+   "그냥 마테오라고 불러 주세요."
+  ],
+  [
+   "¿A qué te dedicas?",
+   "무슨 일을 하세요?"
+  ],
+  [
+   "Me encanta explicar cosas.",
+   "뭔가를 설명하는 걸 아주 좋아해요."
+  ],
+  [
+   "¿Cómo es un día normal en tu vida?",
+   "평범한 하루는 어떤가요?"
+  ],
+  [
+   "Soy un poco difícil para comer.",
+   "먹는 게 좀 까다로워요."
+  ],
+  [
+   "No puedo funcionar sin desayunar.",
+   "아침을 안 먹으면 아무것도 못 해요."
+  ],
+  [
+   "Nunca cambies.",
+   "절대 변하지 마."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el apodo",
+   "ko": "별명",
+   "ex": "¿Y tienes un apodo?",
+   "exKo": "별명도 있어요?"
+  },
+  {
+   "es": "la sabiduría",
+   "ko": "지혜",
+   "ex": "Mi nombre significa sabiduría.",
+   "exKo": "제 이름은 지혜라는 뜻이에요."
+  },
+  {
+   "es": "exactamente",
+   "ko": "정확히",
+   "ex": "Cuéntanos de dónde eres exactamente.",
+   "exKo": "정확히 어디 출신인지 말해 줘요."
+  },
+  {
+   "es": "la edad",
+   "ko": "나이",
+   "ex": "Tienes que decir tu edad.",
+   "exKo": "나이를 말해야 해요."
+  },
+  {
+   "es": "el creador de contenido",
+   "ko": "콘텐츠 크리에이터",
+   "ex": "Soy creador de contenido y profesor.",
+   "exKo": "저는 콘텐츠 크리에이터이자 선생님이에요."
+  },
+  {
+   "es": "la corbata",
+   "ko": "넥타이",
+   "ex": "Odiaba la corbata.",
+   "exKo": "넥타이가 너무 싫었어요."
+  },
+  {
+   "es": "el pijama",
+   "ko": "잠옷",
+   "ex": "Trabajo en pijama desde casa.",
+   "exKo": "집에서 잠옷 차림으로 일해요."
+  },
+  {
+   "es": "el diseñador gráfico",
+   "ko": "그래픽 디자이너",
+   "ex": "Yo soy diseñadora gráfica.",
+   "exKo": "저는 그래픽 디자이너예요."
+  },
+  {
+   "es": "el hermano mayor",
+   "ko": "형·오빠",
+   "ex": "Tengo un hermano mayor.",
+   "exKo": "오빠가 한 명 있어요."
+  },
+  {
+   "es": "hijo único",
+   "ko": "외동",
+   "ex": "Yo soy hijo único.",
+   "exKo": "저는 외동이에요."
+  },
+  {
+   "es": "el tío / la tía",
+   "ko": "삼촌·이모·고모",
+   "ex": "Tengo cinco tíos y diez primos.",
+   "exKo": "삼촌·이모가 다섯 분에 사촌이 열 명이에요."
+  },
+  {
+   "es": "el tiempo libre",
+   "ko": "여가 시간",
+   "ex": "¿Qué haces en tu tiempo libre?",
+   "exKo": "쉬는 시간에 뭐 해요?"
+  },
+  {
+   "es": "apasionar",
+   "ko": "열광하게 하다",
+   "ex": "Me apasiona leer libros de misterio.",
+   "exKo": "미스터리 소설 읽는 걸 정말 좋아해요."
+  },
+  {
+   "es": "bailar",
+   "ko": "춤추다",
+   "ex": "Me gusta bailar salsa.",
+   "exKo": "살사 추는 걸 좋아해요."
+  },
+  {
+   "es": "alegre",
+   "ko": "밝은, 쾌활한",
+   "ex": "Soy una persona alegre.",
+   "exKo": "저는 밝은 사람이에요."
+  },
+  {
+   "es": "impaciente",
+   "ko": "성급한",
+   "ex": "Soy un poco impaciente.",
+   "exKo": "저는 좀 성급해요."
+  },
+  {
+   "es": "tímido",
+   "ko": "수줍은",
+   "ex": "Soy un poco tímido al principio.",
+   "exKo": "처음엔 좀 수줍어요."
+  },
+  {
+   "es": "castaño",
+   "ko": "밤색의",
+   "ex": "Tengo el pelo castaño.",
+   "exKo": "밤색 머리예요."
+  },
+  {
+   "es": "la barba",
+   "ko": "수염",
+   "ex": "Siempre llevo barba.",
+   "exKo": "항상 수염을 길러요."
+  },
+  {
+   "es": "afeitarse",
+   "ko": "면도하다",
+   "ex": "Me da pereza afeitarme.",
+   "exKo": "면도하기 귀찮아요."
+  },
+  {
+   "es": "levantarse",
+   "ko": "일어나다",
+   "ex": "Me levanto a las 7.",
+   "exKo": "7시에 일어나요."
+  },
+  {
+   "es": "el desayuno",
+   "ko": "아침 식사",
+   "ex": "Preparo un buen desayuno.",
+   "exKo": "든든한 아침을 차려요."
+  },
+  {
+   "es": "acostarse",
+   "ko": "잠자리에 들다",
+   "ex": "Me acuesto a las 12.",
+   "exKo": "12시에 자요."
+  },
+  {
+   "es": "la rutina",
+   "ko": "일상, 루틴",
+   "ex": "Una rutina muy tranquila.",
+   "exKo": "아주 조용한 루틴이에요."
+  },
+  {
+   "es": "la tortilla de patatas",
+   "ko": "감자 오믈렛",
+   "ex": "Me encanta la tortilla de patatas.",
+   "exKo": "감자 오믈렛이 정말 좋아요."
+  },
+  {
+   "es": "el pollo al horno",
+   "ko": "오븐 구이 닭",
+   "ex": "Hago pollo al horno y pasta.",
+   "exKo": "오븐 치킨과 파스타를 만들어요."
+  },
+  {
+   "es": "la verdura",
+   "ko": "채소",
+   "ex": "Como mucha fruta y verdura.",
+   "exKo": "과일과 채소를 많이 먹어요."
+  },
+  {
+   "es": "el pescado",
+   "ko": "생선",
+   "ex": "No me gusta el pescado.",
+   "exKo": "생선을 안 좋아해요."
+  },
+  {
+   "es": "la sopa",
+   "ko": "수프",
+   "ex": "Odio la sopa.",
+   "exKo": "수프는 질색이에요."
+  },
+  {
+   "es": "regar",
+   "ko": "물을 주다",
+   "ex": "No tengo tiempo para regar las plantas.",
+   "exKo": "식물에 물 줄 시간이 없어요."
+  },
+  {
+   "es": "la mascota",
+   "ko": "반려동물",
+   "ex": "¿No tienes ninguna mascota?",
+   "exKo": "반려동물은 없어요?"
+  },
+  {
+   "es": "perezoso",
+   "ko": "게으른",
+   "ex": "Es muy gordo y muy perezoso.",
+   "exKo": "아주 뚱뚱하고 게을러요."
+  },
+  {
+   "es": "los vaqueros",
+   "ko": "청바지",
+   "ex": "Normalmente llevo vaqueros.",
+   "exKo": "보통 청바지를 입어요."
+  },
+  {
+   "es": "el jersey",
+   "ko": "스웨터",
+   "ex": "En invierno, un jersey.",
+   "exKo": "겨울엔 스웨터를 입어요."
+  },
+  {
+   "es": "el traje",
+   "ko": "정장",
+   "ex": "Nunca uso traje.",
+   "exKo": "정장은 절대 안 입어요."
+  },
+  {
+   "es": "quedar con",
+   "ko": "~와 만나기로 하다",
+   "ex": "Quedo con mis amigos para tomar un café.",
+   "exKo": "친구들과 만나 커피를 마셔요."
+  },
+  {
+   "es": "la excursión",
+   "ko": "소풍, 짧은 여행",
+   "ex": "Hago excursiones a la montaña.",
+   "exKo": "산으로 소풍을 가요."
+  },
+  {
+   "es": "la estación del año",
+   "ko": "계절",
+   "ex": "¿Cuál es tu estación del año favorita?",
+   "exKo": "제일 좋아하는 계절이 뭐예요?"
+  },
+  {
+   "es": "la siesta",
+   "ko": "낮잠",
+   "ex": "Tienes que dormir la siesta.",
+   "exKo": "낮잠을 자야 해요."
+  },
+  {
+   "es": "la alergia",
+   "ko": "알레르기",
+   "ex": "En primavera tengo alergia.",
+   "exKo": "봄에는 알레르기가 있어요."
+  },
+  {
+   "es": "estornudar",
+   "ko": "재채기하다",
+   "ex": "Siempre estoy estornudando.",
+   "exKo": "항상 재채기를 해요."
+  },
+  {
+   "es": "la hora punta",
+   "ko": "러시아워",
+   "ex": "No me gusta el metro en hora punta.",
+   "exKo": "러시아워 지하철은 싫어요."
+  },
+  {
+   "es": "los auriculares",
+   "ko": "이어폰",
+   "ex": "Un día perdí mis auriculares.",
+   "exKo": "어느 날 이어폰을 잃어버렸어요."
+  },
+  {
+   "es": "sudar",
+   "ko": "땀 흘리다",
+   "ex": "Hablo de mover el cuerpo, sudar.",
+   "exKo": "몸을 움직이고 땀 흘리는 걸 말해요."
+  },
+  {
+   "es": "levantar pesas",
+   "ko": "역기를 들다",
+   "ex": "Corro en la cinta y levanto pesas.",
+   "exKo": "러닝머신을 달리고 역기를 들어요."
+  },
+  {
+   "es": "las redes sociales",
+   "ko": "SNS",
+   "ex": "¿Usas muchas redes sociales?",
+   "exKo": "SNS 많이 써요?"
+  },
+  {
+   "es": "el mensaje de audio",
+   "ko": "음성 메시지",
+   "ex": "Odio los mensajes de audio largos.",
+   "exKo": "긴 음성 메시지는 싫어요."
+  },
+  {
+   "es": "echar de menos",
+   "ko": "그리워하다",
+   "ex": "La echo de menos.",
+   "exKo": "그녀가 그리워요."
+  },
+  {
+   "es": "la banda sonora",
+   "ko": "영화 음악",
+   "ex": "Escucho bandas sonoras de películas.",
+   "exKo": "영화 사운드트랙을 들어요."
+  },
+  {
+   "es": "las palomitas",
+   "ko": "팝콘",
+   "ex": "Me gusta comprar palomitas gigantes.",
+   "exKo": "특대 팝콘 사는 걸 좋아해요."
+  },
+  {
+   "es": "hacer la maleta",
+   "ko": "짐을 싸다",
+   "ex": "Soy un desastre haciendo maletas.",
+   "exKo": "짐 싸는 데는 엉망이에요."
+  },
+  {
+   "es": "el cargador",
+   "ko": "충전기",
+   "ex": "Mi cargador del móvil.",
+   "exKo": "휴대폰 충전기요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué le preguntó la chica a Mateo en la fiesta?",
+   "options": [
+    "¿Cuántos años tienes?",
+    "¿Cómo te va?",
+    "¿De dónde eres?",
+    "¿Dónde vives?"
+   ],
+   "answer": 1,
+   "explain": "Ella preguntó «¿Cómo te va?», pero Mateo respondió con su edad."
+  },
+  {
+   "q": "¿Cómo llaman los amigos a Mateo?",
+   "options": [
+    "el gordo",
+    "el rey",
+    "el lento",
+    "tesoro"
+   ],
+   "answer": 2,
+   "explain": "Sus amigos lo llaman «el lento» porque siempre llega tarde. «Tesoro» lo dice su madre."
+  },
+  {
+   "q": "¿De dónde es Sofía?",
+   "options": [
+    "Sevilla",
+    "Madrid",
+    "Ciudad de México",
+    "Barcelona"
+   ],
+   "answer": 2,
+   "explain": "Sofía dice: «Soy de Ciudad de México.» Mateo es de Sevilla."
+  },
+  {
+   "q": "¿Qué dice Mateo sobre su trabajo actual?",
+   "options": [
+    "Trabaja en un banco.",
+    "Es creador de contenido y profesor.",
+    "Es médico.",
+    "Es diseñador gráfico."
+   ],
+   "answer": 1,
+   "explain": "Ahora es creador de contenido y profesor; hace cinco años trabajaba en un banco."
+  },
+  {
+   "q": "¿Cuántos hermanos tiene Mateo?",
+   "options": [
+    "Uno",
+    "Dos",
+    "Tres",
+    "Ninguno: es hijo único"
+   ],
+   "answer": 3,
+   "explain": "Mateo dice: «Yo soy hijo único.»"
+  },
+  {
+   "q": "¿Qué significa «cocinar» para Mateo, según Sofía?",
+   "options": [
+    "Hacer pasta",
+    "Pedir comida por una app",
+    "Comer en un restaurante",
+    "Ver programas de cocina"
+   ],
+   "answer": 1,
+   "explain": "Sofía bromea: «cocinar significa pedir comida por una app»."
+  },
+  {
+   "q": "¿A qué hora se levanta Mateo?",
+   "options": [
+    "A las 6",
+    "A las 7",
+    "A las 9",
+    "A las 11"
+   ],
+   "answer": 2,
+   "explain": "Mateo: «Me levanto a las 9 de la mañana.» Sofía se levanta a las 7."
+  },
+  {
+   "q": "¿Cómo se llama el gato de Sofía?",
+   "options": [
+    "Pizza",
+    "Taco",
+    "Carlos",
+    "Elena"
+   ],
+   "answer": 1,
+   "explain": "Sofía dice: «Yo tengo un gato, se llama Taco.»"
+  },
+  {
+   "q": "¿Cuál es la estación favorita de Mateo?",
+   "options": [
+    "El verano",
+    "El otoño",
+    "La primavera",
+    "El invierno"
+   ],
+   "answer": 3,
+   "explain": "Mateo prefiere el invierno porque en verano en Sevilla hace 40 grados."
+  },
+  {
+   "q": "¿Por qué no le gusta a Mateo la primavera?",
+   "options": [
+    "Hace mucho calor.",
+    "Tiene alergia.",
+    "Llueve mucho.",
+    "Los días son cortos."
+   ],
+   "answer": 1,
+   "explain": "En primavera tiene alergia y siempre está estornudando."
+  },
+  {
+   "q": "¿Quién es Elena?",
+   "options": [
+    "La hermana de Sofía",
+    "La mejor amiga de Sofía",
+    "La madre de Mateo",
+    "La vecina de Mateo"
+   ],
+   "answer": 1,
+   "explain": "La mejor amiga de Sofía se llama Elena y vive en Barcelona."
+  },
+  {
+   "q": "¿Cuál es el sueño de Mateo?",
+   "options": [
+    "Tener una agencia de diseño",
+    "Vivir cerca de la playa",
+    "Viajar a Japón",
+    "Ser atleta"
+   ],
+   "answer": 2,
+   "explain": "Mateo dice: «Mi sueño es viajar a Japón.» El sueño de Sofía es una agencia de diseño y vivir cerca de la playa."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 파티에서 나이를 말해 버린 마테오",
+   "lines": [
+    {
+     "t": 0.6,
+     "s": "M",
+     "es": "Sofía, estoy en una fiesta y una chica me ha preguntado: «¿Cómo te va?»",
+     "ko": "소피아, 제가 파티에 있는데 어떤 여자가 «¿Cómo te va?(요즘 어때요?)»라고 물었어요."
+    },
+    {
+     "t": 8.1,
+     "s": "M",
+     "es": "Y he respondido: «Tengo 30 años.»",
+     "ko": "그래서 저는 «서른 살이에요.»라고 대답했어요."
+    },
+    {
+     "t": 11.4,
+     "s": "S",
+     "es": "Ay, Mateo, qué desastre.",
+     "ko": "아이고, 마테오, 이런 참사가 있나."
+    },
+    {
+     "t": 13.9,
+     "s": "S",
+     "es": "Ella te ha preguntado «How is it going?» y tú has respondido tu edad.",
+     "ko": "그분은 «How is it going?» 하고 물었는데, 너는 나이를 대답했잖아."
+    },
+    {
+     "t": 20.4,
+     "s": "S",
+     "es": "Hola a todos, bienvenidos a este episodio especial de Easy Spanish Podcast.",
+     "ko": "여러분 안녕하세요, 이지 스패니시 팟캐스트 특별 에피소드에 오신 걸 환영해요."
+    },
+    {
+     "t": 27.7,
+     "s": "S",
+     "es": "Hoy no vamos a hacer shadowing.",
+     "ko": "오늘은 쉐도잉은 하지 않아요."
+    },
+    {
+     "t": 30.7,
+     "s": "S",
+     "es": "Hoy vamos a hablar mucho, muy claro y muy divertido para que aprendas a presentarte perfectamente y hablar de toda tu vida. Empezamos.",
+     "ko": "오늘은 아주 많이, 또렷하고 재미있게 이야기해서 여러분이 완벽하게 자기소개를 하고 자기 삶 전체를 이야기할 수 있게 할 거예요. 시작해요."
+    }
+   ]
+  },
+  {
+   "title": "이름·별명·출신",
+   "lines": [
+    {
+     "t": 42.9,
+     "s": "S",
+     "es": "A ver, Mateo, la primera regla para presentarse es el nombre.",
+     "ko": "자, 마테오, 자기소개의 첫 번째 규칙은 이름이에요."
+    },
+    {
+     "t": 48.1,
+     "s": "S",
+     "es": "¿Cómo te llamas oficialmente?",
+     "ko": "공식적으로 이름이 어떻게 돼요?"
+    },
+    {
+     "t": 50.5,
+     "s": "M",
+     "es": "Mi nombre completo es Mateo García López, pero por favor, llamadme Mateo.",
+     "ko": "제 본명은 마테오 가르시아 로페스지만, 그냥 마테오라고 불러 주세요."
+    },
+    {
+     "t": 58.4,
+     "s": "S",
+     "es": "¿Y tienes un apodo, un nickname?",
+     "ko": "별명도 있어요, 닉네임 같은 거?"
+    },
+    {
+     "t": 61.6,
+     "s": "M",
+     "es": "Sí, mi madre me llama «tesoro», pero mis amigos me llaman «el lento» porque siempre llego tarde.",
+     "ko": "네, 어머니는 저를 «보물(tesoro)»이라고 부르는데, 친구들은 항상 늦게 와서 «느림보(el lento)»라고 불러요."
+    },
+    {
+     "t": 70.8,
+     "s": "S",
+     "es": "Me gusta «el lento».",
+     "ko": "«느림보» 마음에 드네요."
+    },
+    {
+     "t": 72.8,
+     "s": "S",
+     "es": "Yo soy Sofía y mi nombre significa «sabiduría», aunque a veces no sé ni dónde están mis llaves.",
+     "ko": "저는 소피아이고 제 이름은 «지혜»라는 뜻인데, 가끔은 열쇠가 어디 있는지도 몰라요."
+    },
+    {
+     "t": 82.1,
+     "s": "M",
+     "es": "Sofía, cuéntanos de dónde eres exactamente, porque hablas un español muy bonito.",
+     "ko": "소피아, 정확히 어디 출신인지 말해 줘요, 스페인어를 아주 예쁘게 하니까요."
+    },
+    {
+     "t": 89.2,
+     "s": "S",
+     "es": "Gracias. Soy de Ciudad de México.",
+     "ko": "고마워요. 저는 멕시코시티 출신이에요."
+    },
+    {
+     "t": 92.3,
+     "s": "S",
+     "es": "Es una ciudad enorme y con mucha comida rica. ¿Tú eres de Madrid?",
+     "ko": "엄청나게 큰 도시이고 맛있는 음식도 많아요. 마테오는 마드리드 사람이에요?"
+    },
+    {
+     "t": 98.3,
+     "s": "M",
+     "es": "No, no. Yo soy de Sevilla, en el sur de España.",
+     "ko": "아니, 아니에요. 저는 스페인 남부 세비야 출신이에요."
+    },
+    {
+     "t": 102.9,
+     "s": "M",
+     "es": "Allí hace mucho calor, por eso soy un poco lento.",
+     "ko": "거기는 아주 더워서 제가 좀 느린 거예요."
+    },
+    {
+     "t": 105.5,
+     "s": "M",
+     "es": "Soy de Sevilla, pero ahora vivo en Madrid por el trabajo.",
+     "ko": "세비야 출신이지만 지금은 일 때문에 마드리드에 살아요."
+    }
+   ]
+  },
+  {
+   "title": "언어와 나이",
+   "lines": [
+    {
+     "t": 110.4,
+     "s": "S",
+     "es": "¿Y qué idiomas hablas, Mateo?",
+     "ko": "마테오는 어떤 언어를 해요?"
+    },
+    {
+     "t": 113.0,
+     "s": "M",
+     "es": "Hablo español, por supuesto. También hablo un poco de inglés y sé decir «pizza» en italiano. ¿Y tú?",
+     "ko": "스페인어는 당연히 하고요. 영어도 조금 하고, 이탈리아어로 «pizza»라고 말할 줄 알아요. 소피아는요?"
+    },
+    {
+     "t": 122.0,
+     "s": "S",
+     "es": "Yo hablo español, inglés y estoy aprendiendo francés.",
+     "ko": "저는 스페인어와 영어를 하고 프랑스어를 배우는 중이에요."
+    },
+    {
+     "t": 127.2,
+     "s": "M",
+     "es": "El francés es muy difícil.",
+     "ko": "프랑스어는 정말 어려워요."
+    },
+    {
+     "t": 129.9,
+     "s": "M",
+     "es": "Sofía, una pregunta difícil: ¿cuántos años tienes?",
+     "ko": "소피아, 어려운 질문 하나: 몇 살이에요?"
+    },
+    {
+     "t": 135.4,
+     "s": "S",
+     "es": "Uy, qué pregunta. Tengo 28 años. Soy muy joven. ¿Y tú?",
+     "ko": "어머, 무슨 질문이람. 저는 스물여덟이에요. 아주 젊죠. 너는?"
+    },
+    {
+     "t": 143.4,
+     "s": "S",
+     "es": "Pareces de 40.",
+     "ko": "마흔 살처럼 보여요."
+    },
+    {
+     "t": 146.2,
+     "s": "M",
+     "es": "¿40? Qué mala eres. Tengo 31 años. Nací en 1995.",
+     "ko": "마흔? 못됐네요. 저는 서른한 살이에요. 1995년에 태어났어요."
+    },
+    {
+     "t": 154.6,
+     "s": "S",
+     "es": "Es broma, Mateo, estás en la mejor edad.",
+     "ko": "농담이에요, 마테오, 가장 좋은 나이예요."
+    }
+   ]
+  },
+  {
+   "title": "직업",
+   "lines": [
+    {
+     "t": 157.9,
+     "s": "S",
+     "es": "Bueno, ¿y para que la gente te conozca mejor, a qué te dedicas? ¿En qué trabajas?",
+     "ko": "자, 그럼 사람들이 너를 더 잘 알도록, 무슨 일을 해요? 어디서 일해요?"
+    },
+    {
+     "t": 164.7,
+     "s": "M",
+     "es": "Pues ahora mismo soy creador de contenido y profesor. Me encanta explicar cosas.",
+     "ko": "지금은 콘텐츠 크리에이터이자 선생님이에요. 뭔가를 설명하는 걸 아주 좋아해요."
+    },
+    {
+     "t": 171.9,
+     "s": "M",
+     "es": "Pero hace cinco años trabajaba en un banco. Era muy aburrido.",
+     "ko": "하지만 5년 전에는 은행에서 일했어요. 아주 지루했죠."
+    },
+    {
+     "t": 177.5,
+     "s": "S",
+     "es": "¿En un banco? No te imagino con corbata.",
+     "ko": "은행에서요? 넥타이 맨 모습은 상상이 안 돼요."
+    },
+    {
+     "t": 181.1,
+     "s": "M",
+     "es": "Odiaba la corbata. Ahora trabajo en pijama desde casa. Es mucho mejor. ¿Y tú, Sofía?",
+     "ko": "넥타이가 너무 싫었어요. 지금은 집에서 잠옷 차림으로 일해요. 훨씬 낫죠. 소피아는요?"
+    },
+    {
+     "t": 188.9,
+     "s": "S",
+     "es": "Yo soy diseñadora gráfica. Hago logos y dibujos en mi ordenador. Es un trabajo muy creativo.",
+     "ko": "저는 그래픽 디자이너예요. 컴퓨터로 로고와 그림을 만들어요. 아주 창의적인 일이에요."
+    }
+   ]
+  },
+  {
+   "title": "가족",
+   "lines": [
+    {
+     "t": 197.1,
+     "s": "M",
+     "es": "Hablemos de la familia. ¿Tienes hermanos?",
+     "ko": "가족 이야기를 해 봐요. 형제자매가 있어요?"
+    },
+    {
+     "t": 200.4,
+     "s": "S",
+     "es": "Sí, tengo un hermano mayor y una hermana pequeña.",
+     "ko": "네, 오빠 한 명과 여동생 한 명이 있어요."
+    },
+    {
+     "t": 204.0,
+     "s": "S",
+     "es": "Mi hermano es médico y mi hermana es estudiante. Somos muy diferentes. ¿Y tú?",
+     "ko": "오빠는 의사이고 동생은 학생이에요. 우리는 아주 달라요. 마테오는요?"
+    },
+    {
+     "t": 209.8,
+     "s": "M",
+     "es": "Yo soy hijo único. No tengo hermanos, por eso soy el favorito de mi abuela.",
+     "ko": "저는 외동이에요. 형제가 없어서 할머니가 제일 예뻐하세요."
+    },
+    {
+     "t": 215.9,
+     "s": "S",
+     "es": "Ah, qué suerte. Yo tengo cinco tíos y diez primos.",
+     "ko": "아, 좋겠네요. 저는 삼촌·이모가 다섯 분에 사촌이 열 명이에요."
+    },
+    {
+     "t": 220.4,
+     "s": "S",
+     "es": "Nuestras cenas de Navidad son una locura.",
+     "ko": "우리 집 크리스마스 저녁은 정신이 없어요."
+    },
+    {
+     "t": 224.1,
+     "s": "M",
+     "es": "Madre mía, yo prefiero el silencio de ser hijo único.",
+     "ko": "세상에, 저는 외동의 조용함이 더 좋아요."
+    }
+   ]
+  },
+  {
+   "title": "취미",
+   "lines": [
+    {
+     "t": 228.1,
+     "s": "S",
+     "es": "Mateo, ¿qué haces en tu tiempo libre? ¿Cuáles son tus hobbies?",
+     "ko": "마테오, 쉬는 시간에는 뭐 해요? 취미가 뭐예요?"
+    },
+    {
+     "t": 232.8,
+     "s": "M",
+     "es": "Me encanta el fútbol, ver series en Netflix y cocinar.",
+     "ko": "축구, 넷플릭스로 드라마 보기, 요리를 아주 좋아해요."
+    },
+    {
+     "t": 237.2,
+     "s": "S",
+     "es": "Bueno, «cocinar» significa pedir comida por una app. Eso no es cocinar.",
+     "ko": "음, 마테오에게 «요리»는 앱으로 음식을 시키는 거잖아요. 그건 요리가 아니에요."
+    },
+    {
+     "t": 243.0,
+     "s": "S",
+     "es": "A mí me gusta mucho bailar salsa y caminar por el parque.",
+     "ko": "저는 살사 춤추기와 공원 산책을 아주 좋아해요."
+    },
+    {
+     "t": 247.5,
+     "s": "S",
+     "es": "También me apasiona leer libros de misterio.",
+     "ko": "미스터리 소설 읽는 것도 정말 좋아해요."
+    },
+    {
+     "t": 250.8,
+     "s": "M",
+     "es": "¿Bailar salsa? Tenemos que grabar un video bailando.",
+     "ko": "살사를 춘다고요? 춤추는 영상을 찍어야겠어요."
+    },
+    {
+     "t": 254.5,
+     "s": "S",
+     "es": "Vale, pero tú eres el lento, así que no sé si podrás seguir el ritmo.",
+     "ko": "좋아요, 근데 너는 느림보라서 리듬을 따라올 수 있을지 모르겠네."
+    }
+   ]
+  },
+  {
+   "title": "성격과 외모",
+   "lines": [
+    {
+     "t": 259.7,
+     "s": "M",
+     "es": "Para terminar con lo básico, ¿cómo te describes?",
+     "ko": "기본 질문을 마무리하며, 자신을 어떻게 설명해요?"
+    },
+    {
+     "t": 263.6,
+     "s": "S",
+     "es": "Pues soy una persona alegre, un poco impaciente y muy curiosa.",
+     "ko": "음, 저는 밝고, 조금 성급하고, 호기심이 많은 사람이에요."
+    },
+    {
+     "t": 268.5,
+     "s": "S",
+     "es": "Físicamente soy baja, tengo el pelo castaño y los ojos marrones. ¿Y tú?",
+     "ko": "외모는 키가 작고, 밤색 머리에 갈색 눈이에요. 너는?"
+    },
+    {
+     "t": 274.7,
+     "s": "M",
+     "es": "Yo soy alto, un poco tímido al principio, pero muy divertido después.",
+     "ko": "저는 키가 크고, 처음엔 약간 수줍지만 나중엔 아주 재미있어요."
+    },
+    {
+     "t": 279.5,
+     "s": "M",
+     "es": "Tengo el pelo corto y siempre llevo barba porque me da pereza afeitarme.",
+     "ko": "머리는 짧고, 면도하기 귀찮아서 항상 수염을 길러요."
+    }
+   ]
+  },
+  {
+   "title": "하루 일과",
+   "lines": [
+    {
+     "t": 284.2,
+     "s": "S",
+     "es": "Bueno, Mateo, la gente ya sabe quiénes somos, pero ¿cómo es un día normal en tu vida?",
+     "ko": "자, 마테오, 사람들은 이제 우리가 누군지 알아요. 그럼 평범한 하루는 어때요?"
+    },
+    {
+     "t": 290.4,
+     "s": "S",
+     "es": "¿A qué hora te levantas?",
+     "ko": "몇 시에 일어나요?"
+    },
+    {
+     "t": 292.4,
+     "s": "M",
+     "es": "Ay, la mañana es mi enemiga. Me levanto a las 9 de la mañana, bebo un café muy grande y enciendo mi ordenador.",
+     "ko": "아, 아침은 제 적이에요. 아침 9시에 일어나서 아주 큰 커피를 마시고 컴퓨터를 켜요."
+    },
+    {
+     "t": 300.6,
+     "s": "M",
+     "es": "¿Y tú seguro que te levantas a las 6 para hacer yoga?",
+     "ko": "소피아는 분명히 6시에 일어나서 요가를 하겠죠?"
+    },
+    {
+     "t": 304.9,
+     "s": "S",
+     "es": "Casi. Me levanto a las 7, me ducho, escucho música y preparo un buen desayuno.",
+     "ko": "거의요. 7시에 일어나서 샤워하고, 음악을 듣고, 든든한 아침을 차려요."
+    },
+    {
+     "t": 312.8,
+     "s": "S",
+     "es": "No puedo funcionar sin desayunar.",
+     "ko": "아침을 안 먹으면 아무것도 못 해요."
+    },
+    {
+     "t": 315.5,
+     "s": "M",
+     "es": "Yo desayuno muy rápido: una tostada y listo.",
+     "ko": "저는 아주 빨리 먹어요. 토스트 하나로 끝."
+    },
+    {
+     "t": 319.2,
+     "s": "M",
+     "es": "Después trabajo hasta las 2 de la tarde.",
+     "ko": "그다음 오후 2시까지 일해요."
+    },
+    {
+     "t": 322.3,
+     "s": "S",
+     "es": "A las 2 como. En México comemos un poco más tarde, pero aquí en España me he acostumbrado.",
+     "ko": "2시에 점심을 먹어요. 멕시코에서는 좀 더 늦게 먹는데, 여기 스페인에서는 적응했어요."
+    },
+    {
+     "t": 329.1,
+     "s": "S",
+     "es": "Yo trabajo de 9 a 5.",
+     "ko": "저는 9시부터 5시까지 일해요."
+    },
+    {
+     "t": 331.0,
+     "s": "S",
+     "es": "¿Y por la noche qué haces?",
+     "ko": "밤에는 뭘 해요?"
+    },
+    {
+     "t": 333.3,
+     "s": "M",
+     "es": "Por la noche ceno a las 9, veo la televisión y me acuesto a las 12. Una rutina muy tranquila.",
+     "ko": "밤에는 9시에 저녁을 먹고, TV를 보고, 12시에 자요. 아주 조용한 루틴이죠."
+    },
+    {
+     "t": 340.4,
+     "s": "S",
+     "es": "Yo también me acuesto a las 12, pero antes leo un libro.",
+     "ko": "저도 12시에 자는데, 그 전에 책을 읽어요."
+    },
+    {
+     "t": 344.6,
+     "s": "S",
+     "es": "Nunca veo la televisión en la cama.",
+     "ko": "침대에서는 절대 TV를 안 봐요."
+    }
+   ]
+  },
+  {
+   "title": "음식",
+   "lines": [
+    {
+     "t": 347.6,
+     "s": "S",
+     "es": "Hablando de comer, ¿cuál es tu comida favorita?",
+     "ko": "먹는 얘기가 나왔으니, 제일 좋아하는 음식이 뭐예요?"
+    },
+    {
+     "t": 351.8,
+     "s": "M",
+     "es": "Para mí la decisión es fácil: la pizza.",
+     "ko": "저한테는 쉬운 결정이에요. 피자죠."
+    },
+    {
+     "t": 356.4,
+     "s": "S",
+     "es": "¡Qué sorpresa! El rey de la pizza ama la pizza.",
+     "ko": "놀랍지도 않네요! 피자의 왕이 피자를 사랑한다니."
+    },
+    {
+     "t": 361.6,
+     "s": "S",
+     "es": "Yo prefiero los tacos al pastor, son deliciosos.",
+     "ko": "저는 타코 알 파스토르가 더 좋아요, 정말 맛있어요."
+    },
+    {
+     "t": 366.7,
+     "s": "S",
+     "es": "Pero en España me encanta la tortilla de patatas.",
+     "ko": "하지만 스페인에서는 감자 오믈렛(토르티야 데 파타타스)이 정말 좋아요."
+    },
+    {
+     "t": 371.9,
+     "s": "M",
+     "es": "La tortilla es genial. ¿Te gusta cocinar o prefieres ir a restaurantes?",
+     "ko": "토르티야는 최고죠. 요리하는 걸 좋아해요, 아니면 식당 가는 걸 더 좋아해요?"
+    },
+    {
+     "t": 378.3,
+     "s": "S",
+     "es": "Me gusta cocinar los fines de semana. Hago ensaladas, pollo al horno y pasta.",
+     "ko": "주말에 요리하는 걸 좋아해요. 샐러드, 오븐 치킨, 파스타를 만들어요."
+    },
+    {
+     "t": 386.0,
+     "s": "S",
+     "es": "Como mucha fruta y verdura. ¿Tú comes fruta, Mateo?",
+     "ko": "과일과 채소를 많이 먹어요. 마테오는 과일 먹어요?"
+    },
+    {
+     "t": 391.4,
+     "s": "M",
+     "es": "Eh... el tomate de la pizza es una verdura.",
+     "ko": "어… 피자에 들어간 토마토는 채소잖아요."
+    },
+    {
+     "t": 396.2,
+     "s": "S",
+     "es": "No, Mateo, por favor, tienes que comer mejor.",
+     "ko": "아니야, 마테오, 제발, 더 잘 먹어야 해."
+    },
+    {
+     "t": 401.0,
+     "s": "S",
+     "es": "El café y la pizza no son una dieta saludable.",
+     "ko": "커피와 피자는 건강한 식단이 아니에요."
+    },
+    {
+     "t": 405.8,
+     "s": "M",
+     "es": "Lo sé, lo sé, pero no me gusta el pescado y odio la sopa. Soy un poco difícil para comer.",
+     "ko": "알아요, 알아요, 근데 생선이 싫고 수프는 질색이에요. 먹는 게 좀 까다로워요."
+    }
+   ]
+  },
+  {
+   "title": "집과 반려동물",
+   "lines": [
+    {
+     "t": 413.4,
+     "s": "S",
+     "es": "Cambiando de tema, cuéntame de tu casa.",
+     "ko": "주제를 바꿔서, 네 집 이야기를 해 줘요."
+    },
+    {
+     "t": 416.9,
+     "s": "S",
+     "es": "¿Vives en un piso o en una casa con jardín?",
+     "ko": "피소에 살아요, 아니면 정원 있는 집에 살아요?"
+    },
+    {
+     "t": 420.9,
+     "s": "M",
+     "es": "Vivo en un piso en el centro de Madrid. Es pequeño y bonito.",
+     "ko": "마드리드 중심가의 피소에 살아요. 작지만 예뻐요."
+    },
+    {
+     "t": 426.4,
+     "s": "M",
+     "es": "Tiene un salón, una cocina, un baño y un dormitorio. No tengo balcón.",
+     "ko": "거실, 주방, 욕실, 침실이 하나씩 있어요. 발코니는 없어요."
+    },
+    {
+     "t": 433.5,
+     "s": "S",
+     "es": "Yo vivo en un piso compartido con una amiga.",
+     "ko": "저는 친구와 함께 쓰는 피소에 살아요."
+    },
+    {
+     "t": 437.6,
+     "s": "S",
+     "es": "Nuestro piso es grande. Tiene tres habitaciones, dos baños y una terraza preciosa con muchas plantas.",
+     "ko": "우리 집은 커요. 방이 세 개, 욕실이 두 개, 식물이 많은 멋진 테라스가 있어요."
+    },
+    {
+     "t": 447.0,
+     "s": "M",
+     "es": "¿Plantas? Yo tuve una planta una vez y murió en una semana.",
+     "ko": "식물이요? 저는 한 번 식물을 키웠는데 일주일 만에 죽었어요."
+    },
+    {
+     "t": 452.4,
+     "s": "M",
+     "es": "No tengo tiempo para regar las plantas.",
+     "ko": "식물에 물 줄 시간이 없어요."
+    },
+    {
+     "t": 455.9,
+     "s": "S",
+     "es": "Pobre planta. Mi habitación es mi lugar favorito.",
+     "ko": "불쌍한 식물. 제 방이 제일 좋아하는 곳이에요."
+    },
+    {
+     "t": 460.3,
+     "s": "S",
+     "es": "Tengo una cama grande, un escritorio para trabajar y un armario para mi ropa. ¿Cómo es tu salón?",
+     "ko": "큰 침대, 작업용 책상, 옷장이 있어요. 마테오의 거실은 어때요?"
+    },
+    {
+     "t": 468.8,
+     "s": "M",
+     "es": "Mi salón es muy simple: un sofá muy cómodo, una televisión gigante y mi consola de videojuegos. Es todo lo que necesito.",
+     "ko": "제 거실은 아주 단순해요. 아주 편한 소파, 거대한 TV, 게임 콘솔. 필요한 건 그게 전부예요."
+    },
+    {
+     "t": 479.6,
+     "s": "S",
+     "es": "Oye, con tanto tiempo en casa, ¿no tienes ninguna mascota? ¿Un perro, un gato?",
+     "ko": "있잖아, 집에 그렇게 오래 있는데 반려동물은 없어요? 개나 고양이는?"
+    },
+    {
+     "t": 487.2,
+     "s": "M",
+     "es": "Me encantan los perros, pero un perro necesita mucha atención.",
+     "ko": "개를 아주 좋아하지만, 개는 관심이 많이 필요해요."
+    },
+    {
+     "t": 492.2,
+     "s": "M",
+     "es": "Hay que pasearlo tres veces al día y yo soy el lento.",
+     "ko": "하루 세 번 산책시켜야 하는데 저는 느림보잖아요."
+    },
+    {
+     "t": 497.1,
+     "s": "S",
+     "es": "Es verdad. Yo tengo un gato, se llama Taco. Es muy gordo y muy perezoso, como tú.",
+     "ko": "맞아요. 저는 고양이가 있는데 이름이 타코예요. 아주 뚱뚱하고 아주 게으르죠, 너처럼."
+    },
+    {
+     "t": 506.8,
+     "s": "M",
+     "es": "Oye, yo no soy gordo, solo soy relajado.",
+     "ko": "이봐요, 저는 뚱뚱한 게 아니라 여유로울 뿐이에요."
+    },
+    {
+     "t": 511.4,
+     "s": "S",
+     "es": "Taco duerme mucho. Duerme todo el día.",
+     "ko": "타코는 잠이 많아요. 하루 종일 자요."
+    },
+    {
+     "t": 515.8,
+     "s": "S",
+     "es": "Solo se levanta para comer y para jugar con mis zapatos. Es mi mejor amigo en Madrid.",
+     "ko": "먹고, 제 신발을 가지고 놀 때만 일어나요. 마드리드에서 제 가장 친한 친구예요."
+    }
+   ]
+  },
+  {
+   "title": "옷 스타일과 주말",
+   "lines": [
+    {
+     "t": 523.6,
+     "s": "M",
+     "es": "Hablando de zapatos, ¿cuál es tu estilo de ropa favorito?",
+     "ko": "신발 얘기가 나왔으니, 제일 좋아하는 옷 스타일은 뭐예요?"
+    },
+    {
+     "t": 528.2,
+     "s": "M",
+     "es": "Cuando te presentas, la ropa también habla por ti.",
+     "ko": "자기소개를 할 때는 옷도 너를 대신해서 말해 줘요."
+    },
+    {
+     "t": 532.1,
+     "s": "S",
+     "es": "Tienes razón. A mí me gusta la ropa cómoda pero bonita.",
+     "ko": "맞는 말이에요. 저는 편하지만 예쁜 옷이 좋아요."
+    },
+    {
+     "t": 536.9,
+     "s": "S",
+     "es": "Normalmente llevo vaqueros, una camiseta blanca y zapatillas deportivas. En invierno me encantan los abrigos largos.",
+     "ko": "보통 청바지에 흰 티셔츠, 운동화를 신어요. 겨울에는 긴 코트가 정말 좋아요."
+    },
+    {
+     "t": 547.1,
+     "s": "M",
+     "es": "Yo soy el rey de la comodidad. En verano llevo pantalones cortos y camisetas de grupos de música.",
+     "ko": "저는 편안함의 왕이에요. 여름에는 반바지에 밴드 티셔츠를 입어요."
+    },
+    {
+     "t": 554.4,
+     "s": "M",
+     "es": "En invierno, pantalones oscuros y un jersey. Nunca uso traje.",
+     "ko": "겨울에는 어두운 바지와 스웨터. 정장은 절대 안 입어요."
+    },
+    {
+     "t": 559.6,
+     "s": "S",
+     "es": "Sí. Ya me dijiste que odias las corbatas. Eres un rebelde, Mateo.",
+     "ko": "네. 넥타이를 싫어한다고 이미 말했잖아요. 마테오는 반항아예요."
+    },
+    {
+     "t": 566.6,
+     "s": "S",
+     "es": "Y cuando no trabajas, ¿qué haces? ¿Cómo es tu fin de semana perfecto?",
+     "ko": "일하지 않을 때는 뭘 해요? 완벽한 주말은 어때요?"
+    },
+    {
+     "t": 572.0,
+     "s": "M",
+     "es": "Mi sábado perfecto empieza durmiendo hasta las 11.",
+     "ko": "제 완벽한 토요일은 11시까지 자는 것으로 시작해요."
+    },
+    {
+     "t": 575.8,
+     "s": "M",
+     "es": "Luego quedo con mis amigos para tomar un café y dar un paseo. Por la tarde vemos un partido de fútbol.",
+     "ko": "그다음 친구들과 만나 커피를 마시고 산책해요. 오후에는 축구 경기를 봐요."
+    },
+    {
+     "t": 583.5,
+     "s": "M",
+     "es": "El domingo es el día de la limpieza.",
+     "ko": "일요일은 청소하는 날이에요."
+    },
+    {
+     "t": 586.5,
+     "s": "S",
+     "es": "Qué aburrido. Mi fin de semana es mucho más activo.",
+     "ko": "지루하네요. 제 주말은 훨씬 활동적이에요."
+    },
+    {
+     "t": 590.6,
+     "s": "S",
+     "es": "El sábado voy a museos, visito exposiciones o hago excursiones a la montaña.",
+     "ko": "토요일에는 박물관에 가고, 전시를 보거나 산으로 소풍을 가요."
+    },
+    {
+     "t": 597.0,
+     "s": "M",
+     "es": "Es solo de escucharte, ya estoy cansado. No descansas nunca.",
+     "ko": "듣기만 해도 벌써 피곤해요. 절대 안 쉬네요."
+    },
+    {
+     "t": 601.5,
+     "s": "S",
+     "es": "El domingo por la tarde sí. Me quedo en casa, preparo la ropa para la semana y escucho música.",
+     "ko": "일요일 오후에는 쉬어요. 집에 있으면서 한 주 입을 옷을 챙기고 음악을 들어요."
+    }
+   ]
+  },
+  {
+   "title": "미래의 꿈과 계절",
+   "lines": [
+    {
+     "t": 609.0,
+     "s": "M",
+     "es": "Bueno, Sofía, la gente ya sabe desde lo que comemos hasta cómo dormimos, pero falta una cosa: un sueño para el futuro. ¿Cuál es el tuyo?",
+     "ko": "자, 소피아, 사람들은 우리가 뭘 먹는지부터 어떻게 자는지까지 이미 알아요. 그런데 한 가지가 빠졌어요. 미래의 꿈이요. 소피아의 꿈은 뭐예요?"
+    },
+    {
+     "t": 620.5,
+     "s": "S",
+     "es": "Mi sueño es tener mi propia agencia de diseño gráfico y quizás vivir cerca de la playa algún día.",
+     "ko": "제 꿈은 제 디자인 에이전시를 갖는 것, 그리고 언젠가 해변 가까이에 사는 거예요."
+    },
+    {
+     "t": 627.5,
+     "s": "M",
+     "es": "Qué bonito. Mi sueño es viajar a Japón.",
+     "ko": "멋지네요. 제 꿈은 일본을 여행하는 거예요."
+    },
+    {
+     "t": 630.8,
+     "s": "M",
+     "es": "Me encanta la cultura y quiero probar el sushi real.",
+     "ko": "문화를 아주 좋아하고 진짜 초밥을 먹어 보고 싶어요."
+    },
+    {
+     "t": 635.2,
+     "s": "S",
+     "es": "Mateo, antes hablamos de que eres de Sevilla y de vivir en la playa. Allí hace mucho calor, ¿verdad?",
+     "ko": "마테오, 아까 네가 세비야 출신이라고 했고 해변에 사는 얘기도 했죠. 거기는 아주 덥죠, 그렇죠?"
+    },
+    {
+     "t": 642.1,
+     "s": "S",
+     "es": "¿Cuál es tu estación del año favorita?",
+     "ko": "제일 좋아하는 계절은 뭐예요?"
+    },
+    {
+     "t": 645.2,
+     "s": "M",
+     "es": "El invierno, sin duda. En verano en Sevilla hace 40 grados.",
+     "ko": "단연 겨울이에요. 세비야의 여름은 40도예요."
+    },
+    {
+     "t": 649.8,
+     "s": "M",
+     "es": "Es imposible salir a la calle por la tarde. Tienes que dormir la siesta para sobrevivir.",
+     "ko": "오후에는 밖에 나가는 게 불가능해요. 살아남으려면 낮잠을 자야 해요."
+    },
+    {
+     "t": 657.4,
+     "s": "S",
+     "es": "Qué exagerado. A mí me encanta el verano. Me gusta el sol, ir a la piscina y tomar helado de chocolate.",
+     "ko": "과장도 심하네요. 저는 여름이 정말 좋아요. 햇볕, 수영장, 초콜릿 아이스크림을 좋아해요."
+    },
+    {
+     "t": 666.4,
+     "s": "M",
+     "es": "El invierno en Madrid es muy frío, pero en invierno puedes llevar ropa cómoda, estar en casa con una manta y beber chocolate caliente.",
+     "ko": "마드리드의 겨울은 아주 춥지만, 겨울에는 편한 옷을 입고 집에서 담요를 덮고 핫초코를 마실 수 있어요."
+    },
+    {
+     "t": 676.0,
+     "s": "S",
+     "es": "El otoño también es bonito. Los árboles son amarillos y rojos.",
+     "ko": "가을도 예뻐요. 나무가 노랗고 빨갛죠."
+    },
+    {
+     "t": 680.5,
+     "s": "M",
+     "es": "El otoño es un poco triste para mí. Llueve mucho.",
+     "ko": "가을은 저한테는 좀 슬퍼요. 비가 많이 와요."
+    },
+    {
+     "t": 684.9,
+     "s": "S",
+     "es": "Yo prefiero la primavera. Hace buen tiempo. Hay muchas flores y los días son más largos.",
+     "ko": "저는 봄이 더 좋아요. 날씨가 좋고, 꽃이 많고, 낮이 더 길어요."
+    },
+    {
+     "t": 692.2,
+     "s": "M",
+     "es": "La primavera está bien, pero en primavera tengo alergia. ¡Achís! Siempre estoy estornudando.",
+     "ko": "봄도 좋지만 봄에는 알레르기가 있어요. 에취! 항상 재채기를 해요."
+    },
+    {
+     "t": 699.8,
+     "s": "S",
+     "es": "Salud. Siempre tienes un problema, Mateo.",
+     "ko": "건강하길. 마테오는 항상 문제가 있네요."
+    }
+   ]
+  },
+  {
+   "title": "교통과 운동",
+   "lines": [
+    {
+     "t": 703.4,
+     "s": "M",
+     "es": "Bueno, cambiando de tema, ¿cómo vas al trabajo, Sofía? Madrid es una ciudad muy grande.",
+     "ko": "자, 주제를 바꿔서, 소피아는 어떻게 출근해요? 마드리드는 아주 큰 도시잖아요."
+    },
+    {
+     "t": 710.0,
+     "s": "S",
+     "es": "Yo no tengo coche. Normalmente voy en metro. Es rápido, barato y no hay tráfico.",
+     "ko": "저는 차가 없어요. 보통 지하철로 가요. 빠르고, 싸고, 교통체증도 없죠."
+    },
+    {
+     "t": 717.4,
+     "s": "S",
+     "es": "A veces, si hace buen tiempo, voy en bicicleta.",
+     "ko": "가끔 날씨가 좋으면 자전거를 타요."
+    },
+    {
+     "t": 721.5,
+     "s": "M",
+     "es": "En bicicleta por Madrid eres muy valiente. Hay muchos coches y autobuses.",
+     "ko": "마드리드에서 자전거를 타다니 정말 용감하네요. 차와 버스가 많잖아요."
+    },
+    {
+     "t": 727.3,
+     "s": "M",
+     "es": "Yo prefiero ir caminando si el lugar está cerca.",
+     "ko": "저는 가까운 곳이면 걸어가는 게 좋아요."
+    },
+    {
+     "t": 730.8,
+     "s": "S",
+     "es": "Caminar es muy bueno para la salud, pero ¿y si tienes que ir muy lejos?",
+     "ko": "걷기는 건강에 아주 좋지만, 아주 먼 곳에 가야 하면요?"
+    },
+    {
+     "t": 735.9,
+     "s": "M",
+     "es": "Entonces tomo un taxi o un Uber. No me gusta el metro en hora punta.",
+     "ko": "그럼 택시나 우버를 타요. 러시아워의 지하철은 싫어요."
+    },
+    {
+     "t": 741.1,
+     "s": "M",
+     "es": "Hay mucha gente, todos están serios y nadie habla.",
+     "ko": "사람이 많고, 다들 심각한 얼굴이고 아무도 말을 안 해요."
+    },
+    {
+     "t": 745.0,
+     "s": "S",
+     "es": "Es verdad. El metro a las 8 de la mañana es un lugar muy silencioso.",
+     "ko": "맞아요. 아침 8시의 지하철은 아주 조용한 곳이에요."
+    },
+    {
+     "t": 750.2,
+     "s": "S",
+     "es": "Yo siempre escucho música o leo un libro en el tren.",
+     "ko": "저는 열차에서 항상 음악을 듣거나 책을 읽어요."
+    },
+    {
+     "t": 754.2,
+     "s": "M",
+     "es": "Yo también escuchaba música en el tren hasta que un día perdí mis auriculares. Fue un día terrible.",
+     "ko": "저도 열차에서 음악을 들었는데, 어느 날 이어폰을 잃어버렸어요. 끔찍한 날이었죠."
+    },
+    {
+     "t": 761.6,
+     "s": "S",
+     "es": "Antes dijiste que no te gusta el gimnasio, pero hacer deporte es importante. ¿Haces algún ejercicio?",
+     "ko": "아까 헬스장이 싫다고 했지만 운동은 중요해요. 운동하는 게 있어요?"
+    },
+    {
+     "t": 769.9,
+     "s": "M",
+     "es": "Bueno, el ajedrez es un deporte, ¿no?",
+     "ko": "음, 체스도 스포츠잖아요, 아닌가요?"
+    },
+    {
+     "t": 773.5,
+     "s": "S",
+     "es": "No, hablo de mover el cuerpo, sudar.",
+     "ko": "아니, 몸을 움직이고 땀 흘리는 걸 말하는 거예요."
+    },
+    {
+     "t": 777.4,
+     "s": "M",
+     "es": "Ah, eso... Pues a veces juego al tenis con un amigo los domingos, pero él siempre gana. También nado en la piscina en verano.",
+     "ko": "아, 그거요… 음, 가끔 일요일에 친구와 테니스를 치는데 그 친구가 항상 이겨요. 여름에는 수영장에서 수영도 해요."
+    },
+    {
+     "t": 788.4,
+     "s": "S",
+     "es": "Eso está mejor. Yo voy al gimnasio tres veces por semana, hago yoga, corro en la cinta y levanto pesas.",
+     "ko": "그게 더 낫네요. 저는 일주일에 세 번 헬스장에 가서 요가를 하고, 러닝머신을 달리고, 역기를 들어요."
+    },
+    {
+     "t": 796.5,
+     "s": "S",
+     "es": "Me hace sentir fuerte y con energía.",
+     "ko": "힘이 나고 활력이 생기는 기분이에요."
+    },
+    {
+     "t": 799.3,
+     "s": "M",
+     "es": "Yo intenté correr una vez: corrí 5 minutos y tuve que sentarme en un banco a beber agua. No nací para ser atleta.",
+     "ko": "저는 한 번 달려 보려고 했는데, 5분 뛰고 벤치에 앉아 물을 마셔야 했어요. 운동선수로 태어나지 않았나 봐요."
+    },
+    {
+     "t": 808.2,
+     "s": "S",
+     "es": "Todo es práctica, Mateo. Si quieres, puedes venir conmigo al gimnasio mañana.",
+     "ko": "다 연습이에요, 마테오. 원하면 내일 나랑 헬스장에 가도 돼요."
+    },
+    {
+     "t": 814.3,
+     "s": "M",
+     "es": "Eh... mañana tengo que limpiar las ventanas de mi casa. Sí, están muy sucias. Qué pena.",
+     "ko": "어… 내일은 집 창문을 닦아야 해요. 네, 아주 더럽거든요. 아쉽네요."
+    }
+   ]
+  },
+  {
+   "title": "휴대폰과 SNS",
+   "lines": [
+    {
+     "t": 823.4,
+     "s": "S",
+     "es": "Mateo, eres imposible. Seguro que prefieres estar con el teléfono móvil todo el día. ¿Usas muchas redes sociales?",
+     "ko": "마테오, 못 말려요. 분명 하루 종일 휴대폰 붙들고 있는 게 더 좋겠죠. SNS 많이 써요?"
+    },
+    {
+     "t": 832.5,
+     "s": "M",
+     "es": "Soy culpable. Uso mucho Instagram para ver fotos de comida y de viajes. Y TikTok.",
+     "ko": "유죄예요. 음식과 여행 사진을 보려고 인스타그램을 많이 써요. 틱톡도요."
+    },
+    {
+     "t": 839.6,
+     "s": "M",
+     "es": "TikTok es peligroso. Entro 5 minutos y, cuando miro el reloj, han pasado 2 horas.",
+     "ko": "틱톡은 위험해요. 5분만 들어가는데, 시계를 보면 두 시간이 지나 있어요."
+    },
+    {
+     "t": 848.6,
+     "s": "S",
+     "es": "A mí también me pasa. Yo uso Instagram para mi trabajo de diseño. Subo mis dibujos.",
+     "ko": "저도 그래요. 저는 디자인 일 때문에 인스타그램을 써요. 그림을 올리죠."
+    },
+    {
+     "t": 854.9,
+     "s": "S",
+     "es": "También uso WhatsApp todo el día para hablar con mi familia en México.",
+     "ko": "멕시코에 있는 가족과 이야기하려고 왓츠앱도 하루 종일 써요."
+    },
+    {
+     "t": 860.4,
+     "s": "M",
+     "es": "WhatsApp es fundamental, pero odio los mensajes de audio largos.",
+     "ko": "왓츠앱은 필수지만 긴 음성 메시지는 정말 싫어요."
+    },
+    {
+     "t": 865.7,
+     "s": "M",
+     "es": "Tengo un amigo que me envía audios de 10 minutos. Es un podcast.",
+     "ko": "10분짜리 음성을 보내는 친구가 있어요. 그건 팟캐스트예요."
+    },
+    {
+     "t": 871.6,
+     "s": "S",
+     "es": "Yo también lo odio. Si quieres hablar 10 minutos, llámame por teléfono.",
+     "ko": "저도 싫어요. 10분 동안 얘기하고 싶으면 전화해요."
+    },
+    {
+     "t": 877.5,
+     "s": "M",
+     "es": "Exacto. Yo solo uso el teléfono para llamar a mi madre y para pedir pizza.",
+     "ko": "맞아요. 저는 전화를 어머니께 걸 때와 피자 주문할 때만 써요."
+    },
+    {
+     "t": 883.5,
+     "s": "M",
+     "es": "La tecnología moderna es maravillosa.",
+     "ko": "현대 기술은 정말 훌륭해요."
+    }
+   ]
+  },
+  {
+   "title": "친구들",
+   "lines": [
+    {
+     "t": 886.4,
+     "s": "S",
+     "es": "Hablando de amigos, ¿cómo es tu mejor amigo?",
+     "ko": "친구 이야기가 나왔으니, 가장 친한 친구는 어떤 사람이에요?"
+    },
+    {
+     "t": 889.6,
+     "s": "M",
+     "es": "Mi mejor amigo se llama Carlos. Nos conocemos desde el colegio, desde que teníamos 6 años.",
+     "ko": "제 가장 친한 친구 이름은 카를로스예요. 학교 때부터, 우리가 여섯 살 때부터 알고 지냈어요."
+    },
+    {
+     "t": 896.7,
+     "s": "M",
+     "es": "Él es muy diferente a mí.",
+     "ko": "그는 저와 아주 달라요."
+    },
+    {
+     "t": 898.9,
+     "s": "S",
+     "es": "¿Diferente? ¿En qué sentido?",
+     "ko": "달라요? 어떤 면에서요?"
+    },
+    {
+     "t": 901.3,
+     "s": "M",
+     "es": "Carlos es muy organizado, muy serio en el trabajo y muy puntual. Nunca llega tarde.",
+     "ko": "카를로스는 아주 체계적이고, 일에는 아주 진지하고, 시간을 잘 지켜요. 절대 늦지 않아요."
+    },
+    {
+     "t": 908.4,
+     "s": "M",
+     "es": "Yo soy el caos y él es el orden. ¿Y tu mejor amiga?",
+     "ko": "저는 혼돈이고 그는 질서예요. 소피아의 가장 친한 친구는요?"
+    },
+    {
+     "t": 912.8,
+     "s": "S",
+     "es": "Mi mejor amiga se llama Elena. Es superdivertida. Siempre está riendo y habla mucho más que yo.",
+     "ko": "제 가장 친한 친구는 엘레나예요. 정말 재미있어요. 항상 웃고 있고 저보다 말이 훨씬 많아요."
+    },
+    {
+     "t": 920.9,
+     "s": "S",
+     "es": "Físicamente es alta, rubia y tiene los ojos verdes.",
+     "ko": "외모는 키가 크고, 금발이고, 눈이 초록색이에요."
+    },
+    {
+     "t": 925.7,
+     "s": "M",
+     "es": "¿Viven cerca?",
+     "ko": "가까이 살아요?"
+    },
+    {
+     "t": 926.9,
+     "s": "S",
+     "es": "No, por desgracia no. Ella vive en Barcelona, pero hablamos por videollamada casi todos los días. La echo de menos.",
+     "ko": "아니요, 안타깝게도요. 그녀는 바르셀로나에 살지만 거의 매일 화상통화를 해요. 그리워요."
+    }
+   ]
+  },
+  {
+   "title": "음악과 영화",
+   "lines": [
+    {
+     "t": 935.9,
+     "s": "M",
+     "es": "Para alegrarte, vamos a hablar de cosas divertidas. ¿Qué música escuchas cuando estás triste?",
+     "ko": "기운 나게 재미있는 이야기를 해 봐요. 슬플 때는 어떤 음악을 들어요?"
+    },
+    {
+     "t": 942.4,
+     "s": "S",
+     "es": "Escucho música pop o música latina para tener energía y bailar en mi habitación. No me gusta la música triste. ¿Y tú?",
+     "ko": "힘을 내고 방에서 춤추려고 팝이나 라틴 음악을 들어요. 슬픈 음악은 싫어요. 너는?"
+    },
+    {
+     "t": 950.8,
+     "s": "M",
+     "es": "A mí me encanta el rock clásico y un poco de jazz para relajarme por la noche.",
+     "ko": "저는 클래식 록이 좋고, 밤에 긴장을 풀려고 재즈도 조금 들어요."
+    },
+    {
+     "t": 956.7,
+     "s": "M",
+     "es": "También escucho bandas sonoras de películas.",
+     "ko": "영화 사운드트랙도 들어요."
+    },
+    {
+     "t": 960.5,
+     "s": "S",
+     "es": "¿Te gusta ir al cine?",
+     "ko": "영화관에 가는 거 좋아해요?"
+    },
+    {
+     "t": 962.2,
+     "s": "M",
+     "es": "Me encanta. Me gustan las películas de ciencia ficción y las comedias. Voy al cine todos los meses.",
+     "ko": "아주 좋아해요. SF 영화와 코미디를 좋아해요. 매달 영화관에 가요."
+    },
+    {
+     "t": 969.4,
+     "s": "M",
+     "es": "Me gusta comprar palomitas gigantes y un refresco.",
+     "ko": "특대 팝콘과 음료수를 사는 게 좋아요."
+    },
+    {
+     "t": 973.4,
+     "s": "S",
+     "es": "Yo prefiero el cine de terror. Me gusta pasar miedo, pero nunca voy sola. Siempre voy con amigos porque después no puedo dormir.",
+     "ko": "저는 공포 영화가 더 좋아요. 무서운 게 좋은데 혼자서는 절대 안 가요. 나중에 잠을 못 자서 항상 친구들과 가요."
+    },
+    {
+     "t": 983.6,
+     "s": "M",
+     "es": "¿Películas de terror? Ni loco. Yo cierro los ojos cuando hay sangre o fantasmas. Soy un miedoso.",
+     "ko": "공포 영화요? 절대 안 봐요. 피나 유령이 나오면 눈을 감아요. 저는 겁쟁이예요."
+    }
+   ]
+  },
+  {
+   "title": "쇼핑과 여행 짐",
+   "lines": [
+    {
+     "t": 991.8,
+     "s": "S",
+     "es": "Eres muy miedoso y muy perezoso, pero ¿te gusta ir de compras? A casi todo el mundo le gusta comprar cosas nuevas.",
+     "ko": "너는 겁도 많고 아주 게으르지만 쇼핑은 좋아해요? 거의 모든 사람이 새 물건 사는 걸 좋아하죠."
+    },
+    {
+     "t": 1001.1,
+     "s": "M",
+     "es": "Odio ir a las tiendas de ropa. Hay mucha gente, hace calor, la música está muy alta y probarse la ropa es muy aburrido. Yo compro todo por internet.",
+     "ko": "옷 가게에 가는 건 질색이에요. 사람은 많고, 덥고, 음악은 너무 크고, 옷을 입어 보는 건 정말 지루해요. 저는 전부 인터넷으로 사요."
+    },
+    {
+     "t": 1013.6,
+     "s": "S",
+     "es": "A mí me encanta ir de compras. Ir al centro comercial es mi terapia.",
+     "ko": "저는 쇼핑이 정말 좋아요. 쇼핑몰에 가는 게 제 치료예요."
+    },
+    {
+     "t": 1019.1,
+     "s": "S",
+     "es": "Entrar en las tiendas, tocar las telas, probar vestidos de diferentes colores.",
+     "ko": "가게에 들어가고, 옷감을 만져 보고, 여러 색의 원피스를 입어 보는 거죠."
+    },
+    {
+     "t": 1024.9,
+     "s": "M",
+     "es": "¿Y cuál es tu color favorito para la ropa?",
+     "ko": "옷에서 제일 좋아하는 색은 뭐예요?"
+    },
+    {
+     "t": 1027.9,
+     "s": "S",
+     "es": "El azul y el rojo son colores fuertes y alegres. Y el tuyo?",
+     "ko": "파란색과 빨간색은 강렬하고 경쾌한 색이에요. 너는?"
+    },
+    {
+     "t": 1032.8,
+     "s": "M",
+     "es": "El negro, el gris y el blanco. Colores fáciles. Así no tengo que pensar qué ponerme por la mañana.",
+     "ko": "검정, 회색, 흰색이요. 쉬운 색이죠. 그러면 아침에 뭘 입을지 생각할 필요가 없어요."
+    },
+    {
+     "t": 1040.7,
+     "s": "S",
+     "es": "Muy práctico. ¿Y cuánto dinero gastas en ropa al mes?",
+     "ko": "아주 실용적이네요. 한 달에 옷에는 돈을 얼마나 써요?"
+    },
+    {
+     "t": 1044.8,
+     "s": "M",
+     "es": "Muy poco, pero gasto mucho dinero en tecnología, videojuegos y en comida, por supuesto.",
+     "ko": "아주 조금요. 하지만 기술 제품, 게임, 그리고 당연히 음식에는 돈을 많이 써요."
+    },
+    {
+     "t": 1052.5,
+     "s": "M",
+     "es": "Antes dijiste que tu sueño es vivir cerca de la playa y el mío, ir a Japón. ¿Qué pones en tu maleta cuando vas de viaje?",
+     "ko": "아까 네 꿈은 해변 근처에 사는 거라고 했고 제 꿈은 일본에 가는 거였죠. 여행 갈 때 캐리어에는 뭘 넣어요?"
+    },
+    {
+     "t": 1061.4,
+     "s": "S",
+     "es": "Yo soy un desastre haciendo maletas. Siempre llevo cosas que no necesito.",
+     "ko": "저는 짐 싸는 데는 엉망이에요. 항상 필요 없는 것을 가져가요."
+    },
+    {
+     "t": 1067.4,
+     "s": "S",
+     "es": "Cinco pares de zapatos, diez camisetas, tres pantalones, medicamentos, libros. Mi maleta siempre pesa 20 kg.",
+     "ko": "신발 다섯 켤레, 티셔츠 열 장, 바지 세 벌, 약, 책. 제 캐리어는 항상 20kg이에요."
+    },
+    {
+     "t": 1077.4,
+     "s": "M",
+     "es": "¡Qué locura! Yo soy muy minimalista para viajar.",
+     "ko": "말도 안 돼요! 저는 여행할 때 아주 미니멀리스트예요."
+    },
+    {
+     "t": 1082.1,
+     "s": "M",
+     "es": "Una mochila pequeña, dos camisetas, un pantalón, ropa interior, el cepillo de dientes y mi cargador del móvil. Listo.",
+     "ko": "작은 배낭, 티셔츠 두 장, 바지 한 벌, 속옷, 칫솔, 휴대폰 충전기. 끝."
+    },
+    {
+     "t": 1092.3,
+     "s": "S",
+     "es": "¿Y si hace frío? ¿Y si llueve? ¿Y si tienes una cena elegante?",
+     "ko": "추우면요? 비가 오면요? 근사한 저녁 식사가 있으면요?"
+    },
+    {
+     "t": 1097.5,
+     "s": "M",
+     "es": "Si hace frío, compro una chaqueta allí. Y yo nunca tengo cenas elegantes. Soy el lento, no James Bond.",
+     "ko": "추우면 거기서 재킷을 사요. 그리고 저는 근사한 저녁 식사가 절대 없어요. 저는 느림보지, 제임스 본드가 아니에요."
+    },
+    {
+     "t": 1107.4,
+     "s": "S",
+     "es": "Eres único, Mateo. Nunca cambies.",
+     "ko": "너는 유일무이해요, 마테오. 절대 변하지 마요."
+    }
+   ]
+  },
+  {
+   "title": "마무리",
+   "lines": [
+    {
+     "t": 1111.0,
+     "s": "M",
+     "es": "Bueno, Sofía, creo que ahora sí hemos hablado de nuestra familia, el clima, los transportes, los amigos, la ropa y los viajes.",
+     "ko": "자, 소피아, 이제는 정말 우리 가족, 날씨, 교통, 친구, 옷, 여행 이야기를 다 한 것 같아요."
+    },
+    {
+     "t": 1121.4,
+     "s": "M",
+     "es": "Hemos hablado durante muchísimo tiempo.",
+     "ko": "정말 오랫동안 이야기했네요."
+    },
+    {
+     "t": 1124.9,
+     "s": "S",
+     "es": "Ha sido una clase magistral, una masterclass de español.",
+     "ko": "마스터클래스 같은, 스페인어 마스터클래스였어요."
+    },
+    {
+     "t": 1129.2,
+     "s": "S",
+     "es": "Ahora nuestros oyentes tienen muchísimo vocabulario nuevo.",
+     "ko": "이제 청취자분들에게 새 어휘가 정말 많이 생겼어요."
+    },
+    {
+     "t": 1133.8,
+     "s": "M",
+     "es": "Exactamente. A todos los que están escuchando, gracias por su paciencia.",
+     "ko": "맞아요. 듣고 계신 모든 분께, 인내심에 감사드려요."
+    },
+    {
+     "t": 1139.8,
+     "s": "M",
+     "es": "Esperamos que este episodio largo sea muy útil para su español.",
+     "ko": "이 긴 에피소드가 여러분의 스페인어에 큰 도움이 되길 바라요."
+    },
+    {
+     "t": 1144.2,
+     "s": "S",
+     "es": "Pueden escuchar este episodio en el coche, en el tren o mientras limpian la casa.",
+     "ko": "이 에피소드는 차에서, 열차에서, 또는 집을 청소하면서 들어도 좋아요."
+    },
+    {
+     "t": 1149.6,
+     "s": "M",
+     "es": "Déjennos un comentario largo y cuéntennos: ¿son organizados como Sofía o caóticos como yo?",
+     "ko": "긴 댓글을 남겨서 알려 주세요. 소피아처럼 체계적인가요, 아니면 저처럼 혼란스러운가요?"
+    },
+    {
+     "t": 1157.8,
+     "s": "S",
+     "es": "Suscríbanse a Easy Spanish Podcast. Un abrazo a todos y hasta la próxima.",
+     "ko": "이지 스패니시 팟캐스트를 구독해 주세요. 모두에게 포옹을 보내며, 다음에 만나요."
+    },
+    {
+     "t": 1163.2,
+     "s": "S",
+     "es": "Adiós, amigos.",
+     "ko": "안녕, 친구들."
+    },
+    {
+     "t": 1164.2,
+     "s": "M",
+     "es": "Me voy a comer una pizza.",
+     "ko": "저는 피자 먹으러 갈게요."
+    }
+   ]
+  }
+ ]
+}
