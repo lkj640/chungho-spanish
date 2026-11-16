@@ -1,0 +1,651 @@
+{
+  "lang": "es",
+  "date": "2026-11-17",
+  "title": "뇌는 읽도록 태어나지 않았다 — 신경 재활용, 공감, 그리고 스크롤의 시대",
+  "es": "No existe tal cosa como un cerebro lector innato.",
+  "emoji": "📖",
+  "level": "B2–C1",
+  "channel": "딥다이브 팟캐스트 (사용자 오디오)",
+  "videoTitle": "El cerebro no nació para leer",
+  "audio": "audio.m4a",
+  "duration": "22:14",
+  "speakers": {
+    "A": "진행자 A",
+    "B": "진행자 B"
+  },
+  "hideCast": true,
+  "summary": "두 진행자가 BBC의 매리언 울프 독서 뇌 연구를 바탕으로 \"타고난 독서 뇌는 없다\"는 사실을 파고들어요. 뇌가 시각·청각 회로를 끌어다 쓰는 신경 재활용, 수메르 설형문자에서 알파벳까지, 한자와 알파벳을 읽는 뇌의 차이(이중언어 뇌졸중 환자 사례), 깊이 읽기가 전측 섬엽을 통해 공감을 키우는 원리, 그리고 스크롤 시대에 사라지는 주의력과 아이들의 화면 노출 문제까지 다뤄요. 지난번 일본어 강의(読書は脳のハッキングだ)와 같은 주제라 비교하며 들어 보세요.",
+  "topics": [
+    "읽기는 본능이 아니다: cerebro lector innato · aprender a leer",
+    "신경 재활용: reciclaje neuronal · lóbulos · cablear",
+    "문자 체계와 뇌: alfabético · logográfico · hemisferio",
+    "이중언어 뇌졸중 사례: derrame cerebral · ruta neuronal",
+    "깊이 읽기와 공감: ínsula anterior · empatía · simulación",
+    "스크롤의 시대: fricción cognitiva · ojear · dopamina",
+    "아이와 화면: función ejecutiva · lectura profunda en casa"
+  ],
+  "grammar": [
+    {
+      "title": "① 접속법 과거 — como si + 접속법 과거",
+      "lead": "\"마치 ~인 것처럼\"은 <b>como si + 접속법 과거(-ra)</b>로 말해요. 이 에피소드에 비유가 많아서 계속 나와요.",
+      "table": {
+        "head": [
+          "원형",
+          "접속법 과거 (él)",
+          "예문"
+        ],
+        "rows": [
+          [
+            "ser",
+            "fuera",
+            "como si fuera la cosa más natural del mundo"
+          ],
+          [
+            "venir",
+            "viniera",
+            "como si viniera de fábrica"
+          ],
+          [
+            "tener",
+            "tuviera",
+            "como si tuviera dos cerebros"
+          ],
+          [
+            "saber",
+            "supiera",
+            "como si lo supiera todo"
+          ],
+          [
+            "estar",
+            "estuviera",
+            "como si estuviera allí"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Lo hacemos como si fuera la cosa más natural del mundo.",
+          "마치 세상에서 가장 자연스러운 일인 것처럼 그렇게 해요."
+        ],
+        [
+          "Claro, como si viniera de fábrica.",
+          "그렇죠, 마치 공장에서 기본으로 깔려 나오는 것처럼요."
+        ],
+        [
+          "Es como si el cerebro fuera un teléfono inteligente recién salido de la caja.",
+          "마치 뇌가 막 상자에서 꺼낸 스마트폰인 것과 같아요."
+        ]
+      ],
+      "tip": "como si 뒤에는 절대 직설법 현재가 오지 않아요. ✗ como si es → ✓ como si fuera."
+    },
+    {
+      "title": "② 무인칭 se와 수동의 se",
+      "lead": "\"사람들이 ~한다 / ~되다\"는 <b>se + 3인칭 동사</b>로 말해요. 대상이 복수면 동사도 복수예요.",
+      "table": {
+        "head": [
+          "구조",
+          "뜻",
+          "예문"
+        ],
+        "rows": [
+          [
+            "se + 3단",
+            "(일반적으로) ~한다",
+            "Se habla en un entorno así."
+          ],
+          [
+            "se + 3복 + 복수명사",
+            "~가 ~되다",
+            "Se necesitan años de práctica."
+          ],
+          [
+            "verse obligado a",
+            "~하지 않을 수 없게 되다",
+            "El cerebro se vio obligado a mutar."
+          ],
+          [
+            "volverse + 형용사",
+            "~해지다",
+            "Las sociedades se volvieron más complejas."
+          ],
+          [
+            "irse + -ando",
+            "점점 ~해 가다",
+            "Se fueron despojando de su parecido."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Aprende a hablar en un entorno donde se habla.",
+          "말이 오가는 환경에서 말하는 법을 배워요."
+        ],
+        [
+          "El cerebro humano se vio obligado a mutar funcionalmente.",
+          "인간의 뇌는 기능적으로 변이할 수밖에 없었어요."
+        ],
+        [
+          "Nos volvemos más susceptibles a la manipulación.",
+          "우리는 조작에 더 취약해져요."
+        ]
+      ],
+      "tip": "volverse는 성격·상태가 비교적 오래 바뀔 때, ponerse는 일시적인 감정 변화(ponerse nervioso)에 써요."
+    },
+    {
+      "title": "③ 비교·비례 표현 — a mayor…, peor…",
+      "lead": "\"~할수록 더 ~하다\"는 <b>a mayor + 명사, más/peor…</b> 또는 <b>cuanto más…, más…</b>로 말해요.",
+      "table": {
+        "head": [
+          "표현",
+          "뜻",
+          "예문"
+        ],
+        "rows": [
+          [
+            "a mayor + 명사, peor/mejor…",
+            "~이 많을수록 더 나쁜/좋은",
+            "A mayor tiempo de pantalla, peores marcadores."
+          ],
+          [
+            "cuanto más…, más…",
+            "~할수록 더 ~하다",
+            "Cuanto más lees, más empatía tienes."
+          ],
+          [
+            "no es lo mismo A que B",
+            "A와 B는 다르다",
+            "No es lo mismo leer en chino que en inglés."
+          ],
+          [
+            "más allá de",
+            "~을 넘어서",
+            "más allá de nuestra tribu"
+          ],
+          [
+            "en lugar de + 원형",
+            "~하는 대신",
+            "En lugar de escalar una montaña…"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "A mayor cantidad de tiempo, peores eran los marcadores.",
+          "시간이 많을수록 지표가 더 나빴어요."
+        ],
+        [
+          "No es lo mismo el cerebro de alguien que lee en un sistema alfabético.",
+          "알파벳 체계로 읽는 사람의 뇌와는 같지 않아요."
+        ],
+        [
+          "En lugar de escalar una montaña, estamos patinando sobre hielo.",
+          "산을 오르는 대신 얼음 위를 미끄러지고 있어요."
+        ]
+      ],
+      "tip": "cuanto는 뒤 명사의 성·수에 맞춰 cuanta/cuantos/cuantas로 바뀌어요(cuantas más horas…)."
+    },
+    {
+      "title": "④ no es que + 접속법, sino que + 직설법",
+      "lead": "\"~인 게 아니라 ~인 것이다\"라고 오해를 바로잡을 때 쓰는 고급 구조예요. 부정하는 쪽은 <b>접속법</b>, 주장하는 쪽은 <b>직설법</b>이에요.",
+      "table": {
+        "head": [
+          "구조",
+          "법",
+          "예문"
+        ],
+        "rows": [
+          [
+            "no es que + 접속법",
+            "부정되는 내용",
+            "No es que la tecnología nos esté haciendo menos inteligentes,"
+          ],
+          [
+            "es que + 직설법",
+            "실제 이유",
+            "es que estamos perdiendo el tono muscular de la atención."
+          ],
+          [
+            "no A, sino B",
+            "A가 아니라 B",
+            "El problema no es la pantalla, sino el diseño."
+          ],
+          [
+            "no solo…, sino (también)…",
+            "~뿐 아니라 ~도",
+            "No solo decodificamos, sino que sentimos."
+          ],
+          [
+            "no se trata de + 원형",
+            "~하자는 게 아니다",
+            "No se trata de demonizar el cristal templado."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "No es que la tecnología nos esté haciendo menos inteligentes.",
+          "기술이 우리를 덜 똑똑하게 만들고 있는 건 아니에요."
+        ],
+        [
+          "El problema no es la pantalla en sí misma, sino el diseño de la interacción.",
+          "문제는 화면 자체가 아니라 상호작용의 설계예요."
+        ],
+        [
+          "No se trata de demonizar el cristal templado.",
+          "강화유리(화면)를 악마화하자는 게 아니에요."
+        ]
+      ],
+      "tip": "sino 뒤에 동사가 있는 절이 오면 sino que를 써요(no solo…, sino que…)."
+    }
+  ],
+  "phrases": [
+    [
+      "No existe tal cosa como un cerebro lector innato.",
+      "타고난 독서 뇌 같은 건 존재하지 않아요."
+    ],
+    [
+      "Vamos a desempacar esto.",
+      "이걸 하나씩 풀어 볼게요."
+    ],
+    [
+      "Pone todo patas arriba.",
+      "모든 걸 뒤집어 놓아요."
+    ],
+    [
+      "Esa diferencia, cuando te detienes a analizarla, lo cambia todo.",
+      "그 차이는 멈춰서 따져 보면 모든 걸 바꿔 놓아요."
+    ],
+    [
+      "Quiero detenerte ahí.",
+      "거기서 잠깐 멈춰 볼게요."
+    ],
+    [
+      "El problema no es la pantalla en sí misma, sino el diseño.",
+      "문제는 화면 자체가 아니라 설계예요."
+    ],
+    [
+      "Esto nos está pasando factura.",
+      "이게 우리에게 대가를 치르게 하고 있어요."
+    ],
+    [
+      "Es una elección que revalidamos cada día.",
+      "그건 우리가 매일 다시 내리는 선택이에요."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "innato, innata",
+      "ko": "타고난, 선천적인",
+      "ex": "No existe tal cosa como un cerebro lector innato.",
+      "exKo": "타고난 독서 뇌 같은 건 존재하지 않아요."
+    },
+    {
+      "es": "la lectura",
+      "ko": "읽기, 독서",
+      "ex": "La lectura no es natural en absoluto.",
+      "exKo": "읽기는 전혀 자연스러운 것이 아니에요."
+    },
+    {
+      "es": "contraintuitivo, -a",
+      "ko": "직관에 반하는",
+      "ex": "Es supercontraintuitivo.",
+      "exKo": "정말 직관에 반해요."
+    },
+    {
+      "es": "venir de fábrica",
+      "ko": "기본으로 탑재돼 나오다",
+      "ex": "Como si viniera de fábrica.",
+      "exKo": "공장에서 기본으로 깔려 나오는 것처럼요."
+    },
+    {
+      "es": "cablear",
+      "ko": "배선하다, (회로를) 깔다",
+      "ex": "Nace con los circuitos listos y cableados.",
+      "exKo": "회로가 다 깔린 채로 태어나요."
+    },
+    {
+      "es": "desempacar",
+      "ko": "(짐을) 풀다; 하나씩 풀어 설명하다",
+      "ex": "Vamos a desempacar esto.",
+      "exKo": "이걸 하나씩 풀어 볼게요."
+    },
+    {
+      "es": "por ósmosis",
+      "ko": "삼투 작용으로, 저절로 스며들 듯",
+      "ex": "Absorbe el vocabulario por ósmosis.",
+      "exKo": "어휘를 저절로 흡수해요."
+    },
+    {
+      "es": "la fricción cognitiva",
+      "ko": "인지적 마찰, 머리를 써야 하는 수고",
+      "ex": "Requiere una fricción cognitiva tremenda.",
+      "exKo": "엄청난 인지적 수고가 필요해요."
+    },
+    {
+      "es": "recurrir a",
+      "ko": "~에 의존하다, ~을 동원하다",
+      "ex": "El cerebro tuvo que recurrir a una estrategia.",
+      "exKo": "뇌는 한 가지 전략에 기대야 했어요."
+    },
+    {
+      "es": "el reciclaje neuronal",
+      "ko": "신경 재활용",
+      "ex": "Lo llaman reciclaje neuronal.",
+      "exKo": "그걸 신경 재활용이라고 불러요."
+    },
+    {
+      "es": "apropiarse de",
+      "ko": "~을 가로채다, 제 것으로 삼다",
+      "ex": "Se apropió de redes que ya existían.",
+      "exKo": "이미 있던 회로를 가져다 썼어요."
+    },
+    {
+      "es": "el lóbulo",
+      "ko": "(뇌의) 엽",
+      "ex": "Activa los cuatro lóbulos de la corteza.",
+      "exKo": "피질의 네 엽을 모두 활성화해요."
+    },
+    {
+      "es": "la corteza",
+      "ko": "피질; 껍질",
+      "ex": "la corteza prefrontal",
+      "exKo": "전전두피질"
+    },
+    {
+      "es": "empalmar",
+      "ko": "(선을) 이어 붙이다",
+      "ex": "Empalma todos estos cables.",
+      "exKo": "이 선들을 모두 이어 붙여요."
+    },
+    {
+      "es": "secuestrar",
+      "ko": "납치하다; 가로채다",
+      "ex": "Secuestra parte del procesador central.",
+      "exKo": "중앙 처리 장치 일부를 가로채요."
+    },
+    {
+      "es": "rastrear",
+      "ko": "추적하다",
+      "ex": "Podemos rastrear esta adaptación.",
+      "exKo": "이 적응을 추적할 수 있어요."
+    },
+    {
+      "es": "cuneiforme",
+      "ko": "쐐기 모양의 (설형문자)",
+      "ex": "los símbolos cuneiformes sumerios",
+      "exKo": "수메르 설형문자"
+    },
+    {
+      "es": "despojarse de",
+      "ko": "~을 벗어 버리다",
+      "ex": "Se fueron despojando de su parecido con objetos reales.",
+      "exKo": "실제 사물과 닮은 모습을 점점 벗어 버렸어요."
+    },
+    {
+      "es": "esculpir",
+      "ko": "조각하다, 빚어내다",
+      "ex": "El idioma esculpe una arquitectura cerebral distinta.",
+      "exKo": "언어가 서로 다른 뇌 구조를 빚어내요."
+    },
+    {
+      "es": "logográfico, -a",
+      "ko": "표어(表語)문자의",
+      "ex": "un sistema logográfico, como los caracteres chinos",
+      "exKo": "한자 같은 표어문자 체계"
+    },
+    {
+      "es": "el hemisferio",
+      "ko": "(뇌의) 반구",
+      "ex": "El cerebro confía en el hemisferio izquierdo.",
+      "exKo": "뇌는 좌반구에 크게 의존해요."
+    },
+    {
+      "es": "perplejo, perpleja",
+      "ko": "어리둥절한, 당혹한",
+      "ex": "Me dejó completamente perplejo.",
+      "exKo": "완전히 어리둥절하게 만들었어요."
+    },
+    {
+      "es": "el derrame cerebral",
+      "ko": "뇌졸중, 뇌출혈",
+      "ex": "Sufrió un derrame cerebral masivo.",
+      "exKo": "큰 뇌졸중을 겪었어요."
+    },
+    {
+      "es": "los garabatos",
+      "ko": "낙서, 끄적인 선",
+      "ex": "cómo procesamos los garabatos en una página",
+      "exKo": "종이 위의 끄적임을 어떻게 처리하는지"
+    },
+    {
+      "es": "la ínsula anterior",
+      "ko": "전측 섬엽",
+      "ex": "una región llamada la ínsula anterior",
+      "exKo": "전측 섬엽이라는 부위"
+    },
+    {
+      "es": "las náuseas",
+      "ko": "메스꺼움",
+      "ex": "Procesa la sensación física de las náuseas.",
+      "exKo": "메스꺼움의 신체 감각을 처리해요."
+    },
+    {
+      "es": "dar un vuelco",
+      "ko": "(속이) 뒤집히다; 확 바뀌다",
+      "ex": "Tu estómago da un vuelco físico real.",
+      "exKo": "실제로 배 속이 뒤집혀요."
+    },
+    {
+      "es": "la empatía",
+      "ko": "공감",
+      "ex": "el pilar biológico de la empatía",
+      "exKo": "공감의 생물학적 기둥"
+    },
+    {
+      "es": "ensayar",
+      "ko": "연습하다, 리허설하다",
+      "ex": "La lectura obliga a ensayar las emociones de otra persona.",
+      "exKo": "읽기는 다른 사람의 감정을 속으로 연습하게 해요."
+    },
+    {
+      "es": "hacer scrolling",
+      "ko": "스크롤하다",
+      "ex": "Pasamos la vida haciendo scrolling.",
+      "exKo": "스크롤하며 인생을 보내요."
+    },
+    {
+      "es": "ojear",
+      "ko": "훑어보다",
+      "ex": "Empezamos a ojear los textos.",
+      "exKo": "글을 훑어보기 시작해요."
+    },
+    {
+      "es": "despiadado, -a",
+      "ko": "무자비한",
+      "ex": "El cerebro es un ahorrador de energía despiadado.",
+      "exKo": "뇌는 무자비한 에너지 절약가예요."
+    },
+    {
+      "es": "erosionar",
+      "ko": "침식하다, 갉아먹다",
+      "ex": "Si erosionamos esa paciencia…",
+      "exKo": "그 인내심을 갉아먹으면…"
+    },
+    {
+      "es": "susceptible a",
+      "ko": "~에 취약한, 영향받기 쉬운",
+      "ex": "más susceptibles a la manipulación",
+      "exKo": "조작에 더 취약한"
+    },
+    {
+      "es": "pasar factura",
+      "ko": "대가를 치르게 하다, 탈이 나다",
+      "ex": "Esto nos está pasando factura.",
+      "exKo": "이게 우리에게 대가를 치르게 하고 있어요."
+    },
+    {
+      "es": "la función ejecutiva",
+      "ko": "실행 기능",
+      "ex": "la función ejecutiva, el director de orquesta del cerebro",
+      "exKo": "뇌의 지휘자인 실행 기능"
+    },
+    {
+      "es": "amoldarse a",
+      "ko": "~에 맞춰지다",
+      "ex": "El cerebro se amolda al ritmo frenético.",
+      "exKo": "뇌가 정신없는 속도에 맞춰져요."
+    },
+    {
+      "es": "demonizar",
+      "ko": "악마화하다",
+      "ex": "No se trata de demonizar la pantalla.",
+      "exKo": "화면을 악마화하자는 게 아니에요."
+    },
+    {
+      "es": "encarnar",
+      "ko": "구현하다, 몸소 보여 주다",
+      "ex": "Los adultos deben encarnar ese comportamiento.",
+      "exKo": "어른들이 그 행동을 몸소 보여 줘야 해요."
+    },
+    {
+      "es": "maleable",
+      "ko": "유연한, 변형되기 쉬운",
+      "ex": "nuestro cerebro es tan maleable",
+      "exKo": "우리 뇌는 그만큼 유연해요"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "이 에피소드의 핵심 전제는?",
+      "options": [
+        "읽기는 말하기처럼 타고난 능력이다",
+        "타고난 독서 뇌는 존재하지 않는다",
+        "아이는 도서관에만 있으면 읽기를 배운다",
+        "읽기 전용 유전자가 있다"
+      ],
+      "answer": 1,
+      "explain": "\"No existe tal cosa como un cerebro lector innato.\""
+    },
+    {
+      "q": "아기가 말을 배우는 방식은?",
+      "options": [
+        "의도적인 수업으로만",
+        "말이 오가는 환경에 있으면 저절로(por ósmosis)",
+        "글자를 먼저 배우고 나서",
+        "유전자 검사로"
+      ],
+      "answer": 1,
+      "explain": "말하기는 수동적으로 펼쳐지는 생물학적 과정이고, 읽기는 의도적인 노력이 필요해요."
+    },
+    {
+      "q": "뇌가 읽기를 위해 다른 회로를 끌어다 쓰는 것을 뭐라고 하나요?",
+      "options": [
+        "reciclaje neuronal",
+        "derrame cerebral",
+        "función ejecutiva",
+        "ínsula anterior"
+      ],
+      "answer": 0,
+      "explain": "cooptación funcional, 즉 신경 재활용(reciclaje neuronal)이에요."
+    },
+    {
+      "q": "스마트폰 비유에서 \"카메라\"는 무엇을 뜻하나요?",
+      "options": [
+        "청각",
+        "시각",
+        "감정",
+        "기억"
+      ],
+      "answer": 1,
+      "explain": "마이크=청각, 카메라=시각, 중앙 처리 장치 일부=주의·인지 기능이에요."
+    },
+    {
+      "q": "수메르 설형문자 같은 초기 문자는 어떤 성격이었나요?",
+      "options": [
+        "완전히 추상적",
+        "주로 그림 문자(pictográfico)",
+        "소리만 나타냄",
+        "숫자만 기록"
+      ],
+      "answer": 1,
+      "explain": "초기에는 시각 세계를 꽤 직접적으로 그린 그림 문자였고, 점점 추상적인 글자로 변했어요."
+    },
+    {
+      "q": "한자 같은 표어문자를 읽을 때 뇌가 더 끌어오는 곳은?",
+      "options": [
+        "좌반구의 음운 회로만",
+        "우반구의 공간 기억·패턴 인식 영역",
+        "소뇌",
+        "후각 피질"
+      ],
+      "answer": 1,
+      "explain": "\"reclutar agresivamente áreas del hemisferio derecho\""
+    },
+    {
+      "q": "이중언어 뇌졸중 환자에게 일어난 일은?",
+      "options": [
+        "영어와 중국어 모두 못 읽게 됐다",
+        "중국어만 못 읽게 되고 영어는 읽을 수 있었다",
+        "영어만 못 읽게 됐다",
+        "두 언어 모두 더 잘 읽게 됐다"
+      ],
+      "answer": 1,
+      "explain": "두 언어의 읽기가 서로 다른 신경 경로를 쓰기 때문이에요."
+    },
+    {
+      "q": "깊이 읽을 때 공감과 관련해 활성화되는 부위는?",
+      "options": [
+        "ínsula anterior",
+        "lóbulo occipital",
+        "cerebelo",
+        "hipocampo"
+      ],
+      "answer": 0,
+      "explain": "원래 메스꺼움·통증 같은 몸의 불편을 처리하는 전측 섬엽이 등장인물의 고통을 읽을 때도 켜져요."
+    },
+    {
+      "q": "VR 롤러코스터 비유가 보여 주는 것은?",
+      "options": [
+        "뇌는 허구와 현실을 완벽히 구분한다",
+        "뇌는 허구와 몸의 반응 사이 거리를 무너뜨린다",
+        "VR은 해롭다",
+        "소설은 지루하다"
+      ],
+      "answer": 1,
+      "explain": "\"El cerebro colapsa la distancia entre la ficción y la realidad fisiológica.\""
+    },
+    {
+      "q": "스크롤 위주의 디지털 읽기의 특징은?",
+      "options": [
+        "인지적 마찰을 최대화한다",
+        "인지적 마찰을 없애도록 설계됐다",
+        "반드시 종이보다 낫다",
+        "집중력을 기른다"
+      ],
+      "answer": 1,
+      "explain": "\"está diseñado con la intención explícita de eliminar toda fricción cognitiva.\""
+    },
+    {
+      "q": "8세 아이 연구 결과는?",
+      "options": [
+        "화면 시간이 실행 기능을 높인다",
+        "화면 노출 시간이 실행 기능·주의력·성적을 부정적으로 예측한다",
+        "차이가 없다",
+        "종이책이 해롭다"
+      ],
+      "answer": 1,
+      "explain": "\"predice negativamente su función ejecutiva, atencional y su rendimiento escolar.\""
+    },
+    {
+      "q": "에피소드가 강조한 균형 잡힌 관점은?",
+      "options": [
+        "화면은 무조건 금지해야 한다",
+        "문제는 화면 자체가 아니라 상호작용의 설계다",
+        "아이들은 화면을 많이 볼수록 좋다",
+        "읽기는 숙제로만 시켜야 한다"
+      ],
+      "answer": 1,
+      "explain": "\"el problema no es la pantalla en sí misma, sino el diseño de la interacción.\" 그리고 어른이 먼저 읽는 모습을 보여 줘야 해요."
+    }
+  ]
+}

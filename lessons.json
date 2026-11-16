@@ -1,6 +1,30 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-17-3",
+   "lang": "es",
+   "date": "2026-11-17",
+   "title": "뇌는 읽도록 태어나지 않았다 — 신경 재활용, 공감, 그리고 스크롤의 시대",
+   "es": "No existe tal cosa como un cerebro lector innato.",
+   "emoji": "📖",
+   "level": "B2–C1",
+   "channel": "딥다이브 팟캐스트 (사용자 오디오)",
+   "youtube": null,
+   "duration": "22:14",
+   "summary": "두 진행자가 BBC의 매리언 울프 독서 뇌 연구를 바탕으로 \"타고난 독서 뇌는 없다\"는 사실을 파고들어요. 뇌가 시각·청각 회로를 끌어다 쓰는 신경 재활용, 수메르 설형문자에서 알파벳까지, 한자와 알파벳을 읽는 뇌의 차이(이중언어 뇌졸중 환자 사례), 깊이 읽기가 전측 섬엽을 통해 공감을 키우는 원리, 그리고 스크롤 시대에 사라지는 주의력과 아이들의 화면 노출 문제까지 다뤄요. 지난번 일본어 강의(読書は脳のハッキングだ)와 같은 주제라 비교하며 들어 보세요.",
+   "topics": [
+    "읽기는 본능이 아니다: cerebro lector innato · aprender a leer",
+    "신경 재활용: reciclaje neuronal · lóbulos · cablear",
+    "문자 체계와 뇌: alfabético · logográfico · hemisferio",
+    "이중언어 뇌졸중 사례: derrame cerebral · ruta neuronal",
+    "깊이 읽기와 공감: ínsula anterior · empatía · simulación",
+    "스크롤의 시대: fricción cognitiva · ojear · dopamina",
+    "아이와 화면: función ejecutiva · lectura profunda en casa"
+   ],
+   "vocabCount": 40,
+   "lineCount": 297
+  },
+  {
    "id": "es-2026-11-17-2",
    "lang": "es",
    "date": "2026-11-17",
