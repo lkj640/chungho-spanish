@@ -1,0 +1,1223 @@
+{
+ "id": "es-2026-11-16",
+ "lang": "es",
+ "date": "2026-11-16",
+ "title": "하루 일과 말하기 — 알람 세 개의 마테오와 로봇 같은 소피아",
+ "es": "Me levanto, me ducho y desayuno.",
+ "emoji": "⏰",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "español for Beginners : My Daily Routine (A2) | episode 30 | Easy Spanish",
+ "youtube": "LjRMF2-1qjQ",
+ "duration": "7:26",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "알람을 세 번 맞추는 마테오와 알람 소리에 바로 일어나는 소피아가 아침 샤워·아침 식사·열쇠 소동·출근·점심·퇴근 후·잠자리까지 하루를 코믹하게 비교해요. 재귀동사(me levanto · me ducho)와 시각 표현, 현재형을 7분 안에 듣고 따라 말하기 좋은 A2 회화예요.",
+ "topics": [
+  "아침: me levanto · me lavo la cara · me ducho · me peino",
+  "아침 식사: café con leche · pan con tomate · yogur con frutas · té verde",
+  "출근: en bicicleta · tomo el metro · llego a las nueve",
+  "점심과 퇴근 후: fiambrera · gimnasio · me tumbo en el sofá",
+  "밤: me pongo el pijama · leo un poco · miro el móvil",
+  "문법: 재귀동사 · desayunar · 어간 변화 · 시각 · si + 현재형"
+ ],
+ "grammar": [
+  {
+   "title": "① 재귀동사 — me levanto · me ducho · me peino",
+   "lead": "하루 일과 동사는 <b>me</b>가 붙어요. 소피아는 영상에서 \"escuchen el verbo: me levanto\"라고 짚어 줘요.",
+   "table": {
+    "head": [
+     "동사원형",
+     "yo (나는)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "levantarse",
+      "me levanto",
+      "일어나다"
+     ],
+     [
+      "lavarse",
+      "me lavo la cara",
+      "세수하다"
+     ],
+     [
+      "ducharse",
+      "me ducho",
+      "샤워하다"
+     ],
+     [
+      "peinarse",
+      "me peino",
+      "머리를 빗다"
+     ],
+     [
+      "tumbarse",
+      "me tumbo",
+      "눕다"
+     ],
+     [
+      "ponerse",
+      "me pongo el pijama",
+      "(옷을) 입다"
+     ]
+    ]
+   },
+   "tip": "질문할 때는 te: ¿Tú te peinas? ¿Te duchas por la mañana?"
+  },
+  {
+   "title": "② desayunar 현재형 (-ar 동사)",
+   "lead": "-ar 동사의 규칙 변화: <b>-o · -as · -a · -amos · -áis · -an</b>.",
+   "table": {
+    "head": [
+     "주어",
+     "desayunar",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "yo",
+      "desayuno",
+      "나는 아침을 먹어요"
+     ],
+     [
+      "tú",
+      "desayunas",
+      "너는 아침을 먹어"
+     ],
+     [
+      "él/ella",
+      "desayuna",
+      "그는 아침을 먹어요"
+     ],
+     [
+      "nosotros",
+      "desayunamos",
+      "우리는 아침을 먹어요"
+     ],
+     [
+      "ellos",
+      "desayunan",
+      "그들은 아침을 먹어요"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "③ 어간 변화 동사 — perder(e→ie) · sonar(o→ue)",
+   "lead": "어간 모음이 바뀌는 동사예요. nosotros/vosotros만 그대로.",
+   "examples": [
+    [
+     "Siempre pierdo las llaves.",
+     "나는 항상 열쇠를 잃어버려요. (perder: e→ie)"
+    ],
+    [
+     "La segunda alarma suena a las siete y diez.",
+     "두 번째 알람은 7시 10분에 울려요. (sonar: o→ue)"
+    ],
+    [
+     "¿Dónde buscas las llaves?",
+     "열쇠는 어디서 찾아? (buscar는 규칙 변화)"
+    ]
+   ]
+  },
+  {
+   "title": "④ 시각 말하기 — a las … / en punto / y cuarto",
+   "lead": "<b>a las</b> + 시각. 7시 10분은 <b>las siete y diez</b>, 9시 15분은 <b>las nueve y cuarto</b>, 정각은 <b>en punto</b>.",
+   "examples": [
+    [
+     "Mi primera alarma suena a las siete.",
+     "첫 알람은 7시에 울려요."
+    ],
+    [
+     "Llego a las nueve en punto.",
+     "9시 정각에 도착해요."
+    ],
+    [
+     "Llego a las nueve y cuarto.",
+     "9시 15분에 도착해요."
+    ],
+    [
+     "Voy al gimnasio a las seis.",
+     "6시에 헬스장에 가요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ ir a / ir en + 교통수단",
+   "lead": "<b>ir en</b> + 탈것 = ~로 가다, <b>tomar</b> + 탈것 = ~을 타다. 장소는 <b>ir a</b>.",
+   "examples": [
+    [
+     "Voy en bicicleta.",
+     "자전거로 가요."
+    ],
+    [
+     "Yo tomo el metro.",
+     "나는 지하철을 타요."
+    ],
+    [
+     "Voy al gimnasio.",
+     "헬스장에 가요. (a + el = al)"
+    ],
+    [
+     "Primero voy al baño.",
+     "먼저 욕실에 가요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 조건문 si + 현재형",
+   "lead": "<b>Si + 현재형, 현재형</b>: 가능한 조건 — '~하면 ~해요'.",
+   "examples": [
+    [
+     "Si tengo mucho sueño, me ducho por la mañana.",
+     "많이 졸리면 아침에 샤워해요."
+    ],
+    [
+     "Si estoy cansado, prefiero una ducha caliente.",
+     "피곤하면 따뜻한 샤워가 좋아요."
+    ],
+    [
+     "Si encuentro las llaves, voy en bicicleta.",
+     "열쇠를 찾으면 자전거로 가요."
+    ]
+   ],
+   "tip": "조건의 si(만약)에는 악센트가 없고, 대답 sí(응)에는 있어요."
+  },
+  {
+   "title": "⑦ preferir · tener 현재형 — 취향과 소유",
+   "lead": "<b>preferir(e→ie)</b>는 '더 좋아하다', <b>tener</b>는 yo만 불규칙(<b>tengo</b>).",
+   "examples": [
+    [
+     "Yo prefiero algo más ligero.",
+     "나는 좀 더 가벼운 게 좋아요."
+    ],
+    [
+     "Prefiero el aire libre y mi bicicleta.",
+     "야외와 자전거가 더 좋아요."
+    ],
+    [
+     "Tengo un sándwich un poco triste.",
+     "좀 슬픈 샌드위치가 있어요."
+    ],
+    [
+     "Yo tengo una ensalada de quinoa.",
+     "나는 퀴노아 샐러드가 있어요."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "Mi primera alarma suena a las siete.",
+   "내 첫 알람은 7시에 울려요."
+  ],
+  [
+   "Me lavo la cara con agua fría.",
+   "찬물로 세수해요."
+  ],
+  [
+   "Depende del día.",
+   "그날그날 달라요."
+  ],
+  [
+   "Si tengo mucho sueño, me ducho por la mañana para despertar.",
+   "많이 졸리면 깨려고 아침에 샤워해요."
+  ],
+  [
+   "Un café con leche gigante y sin azúcar.",
+   "엄청 큰 카페라테, 설탕은 빼고요."
+  ],
+  [
+   "Si encuentro las llaves, voy en bicicleta.",
+   "열쇠를 찾으면 자전거로 가요."
+  ],
+  [
+   "No me juzgues.",
+   "날 판단하지 마."
+  ],
+  [
+   "Hago ejercicio por una hora.",
+   "한 시간 동안 운동해요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la rutina diaria",
+   "ko": "하루 일과",
+   "ex": "Hoy vamos a hablar de la rutina diaria.",
+   "exKo": "오늘은 하루 일과에 대해 이야기할 거예요."
+  },
+  {
+   "es": "la alarma",
+   "ko": "알람",
+   "ex": "Mi primera alarma suena a las siete.",
+   "exKo": "내 첫 알람은 7시에 울려요."
+  },
+  {
+   "es": "sonar (o→ue)",
+   "ko": "울리다",
+   "ex": "La segunda alarma suena a las siete y diez.",
+   "exKo": "두 번째 알람은 7시 10분에 울려요."
+  },
+  {
+   "es": "levantarse",
+   "ko": "일어나다",
+   "ex": "Finalmente me levanto a las ocho.",
+   "exKo": "마침내 8시에 일어나요."
+  },
+  {
+   "es": "estar de pie",
+   "ko": "서 있다",
+   "ex": "Escucho mi alarma y estoy de pie.",
+   "exKo": "알람을 듣고 바로 일어서요."
+  },
+  {
+   "es": "la cama",
+   "ko": "침대",
+   "ex": "Necesito tiempo antes de salir de la cama.",
+   "exKo": "침대에서 나오기 전에 시간이 필요해요."
+  },
+  {
+   "es": "el baño",
+   "ko": "욕실",
+   "ex": "Primero voy al baño.",
+   "exKo": "먼저 욕실에 가요."
+  },
+  {
+   "es": "lavarse la cara",
+   "ko": "세수하다",
+   "ex": "Me lavo la cara con agua fría.",
+   "exKo": "찬물로 세수해요."
+  },
+  {
+   "es": "el agua fría",
+   "ko": "찬물",
+   "ex": "Me lavo la cara con agua fría.",
+   "exKo": "찬물로 세수해요."
+  },
+  {
+   "es": "ducharse",
+   "ko": "샤워하다",
+   "ex": "Siempre me ducho por la mañana.",
+   "exKo": "나는 항상 아침에 샤워해요."
+  },
+  {
+   "es": "la ducha caliente",
+   "ko": "따뜻한 샤워",
+   "ex": "Prefiero una ducha caliente por la noche.",
+   "exKo": "밤에는 따뜻한 샤워가 좋아요."
+  },
+  {
+   "es": "lavarse los dientes",
+   "ko": "이를 닦다",
+   "ex": "Me lavo los dientes y me peino.",
+   "exKo": "이를 닦고 머리를 빗어요."
+  },
+  {
+   "es": "peinarse",
+   "ko": "머리를 빗다",
+   "ex": "¿Tú te peinas?",
+   "exKo": "너는 머리 빗어?"
+  },
+  {
+   "es": "el peine",
+   "ko": "빗",
+   "ex": "No necesito peine.",
+   "exKo": "빗은 필요 없어요."
+  },
+  {
+   "es": "el pelo",
+   "ko": "머리카락",
+   "ex": "Tengo el pelo como un loco.",
+   "exKo": "머리가 엉망이에요."
+  },
+  {
+   "es": "tener sueño",
+   "ko": "졸리다",
+   "ex": "Si tengo mucho sueño, me ducho por la mañana.",
+   "exKo": "많이 졸리면 아침에 샤워해요."
+  },
+  {
+   "es": "estar cansado",
+   "ko": "피곤하다",
+   "ex": "Si estoy cansado, prefiero una ducha caliente.",
+   "exKo": "피곤하면 따뜻한 샤워가 좋아요."
+  },
+  {
+   "es": "despertar",
+   "ko": "깨우다·깨다",
+   "ex": "Me ducho por la mañana para despertar.",
+   "exKo": "깨려고 아침에 샤워해요."
+  },
+  {
+   "es": "el desayuno",
+   "ko": "아침 식사",
+   "ex": "Mi parte favorita es el desayuno.",
+   "exKo": "내가 제일 좋아하는 부분은 아침 식사예요."
+  },
+  {
+   "es": "desayunar",
+   "ko": "아침을 먹다",
+   "ex": "Yo desayuno. Tú desayunas.",
+   "exKo": "나는 아침을 먹어요. 너는 아침을 먹어."
+  },
+  {
+   "es": "el café con leche",
+   "ko": "카페라테(우유 커피)",
+   "ex": "Un café con leche gigante y sin azúcar.",
+   "exKo": "엄청 큰 카페라테, 설탕은 빼고요."
+  },
+  {
+   "es": "el azúcar",
+   "ko": "설탕",
+   "ex": "Sin azúcar, por favor.",
+   "exKo": "설탕은 빼 주세요."
+  },
+  {
+   "es": "el aceite de oliva",
+   "ko": "올리브유",
+   "ex": "Desayuno pan con tomate y aceite de oliva.",
+   "exKo": "빵에 토마토와 올리브유를 곁들여 먹어요."
+  },
+  {
+   "es": "ligero/a",
+   "ko": "가벼운",
+   "ex": "Prefiero algo más ligero.",
+   "exKo": "좀 더 가벼운 게 좋아요."
+  },
+  {
+   "es": "el yogur",
+   "ko": "요거트",
+   "ex": "Desayuno un yogur con frutas.",
+   "exKo": "과일 요거트를 먹어요."
+  },
+  {
+   "es": "el té verde",
+   "ko": "녹차",
+   "ex": "Bebo té verde.",
+   "exKo": "녹차를 마셔요."
+  },
+  {
+   "es": "la hierba",
+   "ko": "풀",
+   "ex": "Eso sabe a hierba del parque.",
+   "exKo": "그건 공원 풀 맛이에요."
+  },
+  {
+   "es": "salir de casa",
+   "ko": "집을 나서다",
+   "ex": "Ahora hay que salir de casa.",
+   "exKo": "이제 집을 나서야 해요."
+  },
+  {
+   "es": "ir en bicicleta",
+   "ko": "자전거로 가다",
+   "ex": "Voy en bicicleta al trabajo.",
+   "exKo": "자전거로 출근해요."
+  },
+  {
+   "es": "perder (e→ie)",
+   "ko": "잃어버리다",
+   "ex": "Siempre pierdo las llaves.",
+   "exKo": "나는 항상 열쇠를 잃어버려요."
+  },
+  {
+   "es": "las llaves",
+   "ko": "열쇠",
+   "ex": "¿Dónde buscas las llaves?",
+   "exKo": "열쇠는 어디서 찾아?"
+  },
+  {
+   "es": "buscar",
+   "ko": "찾다",
+   "ex": "Las busco en la mesa.",
+   "exKo": "탁자 위에서 찾아요."
+  },
+  {
+   "es": "debajo de",
+   "ko": "~ 아래에",
+   "ex": "Busco debajo del sofá.",
+   "exKo": "소파 밑을 찾아요."
+  },
+  {
+   "es": "la nevera",
+   "ko": "냉장고",
+   "ex": "Incluso dentro de la nevera.",
+   "exKo": "심지어 냉장고 안까지요."
+  },
+  {
+   "es": "al lado de",
+   "ko": "~ 옆에",
+   "ex": "Pongo las llaves al lado del queso.",
+   "exKo": "열쇠를 치즈 옆에 놔요."
+  },
+  {
+   "es": "tomar el metro",
+   "ko": "지하철을 타다",
+   "ex": "Yo tomo el metro.",
+   "exKo": "나는 지하철을 타요."
+  },
+  {
+   "es": "relajante",
+   "ko": "편안하게 하는",
+   "ex": "El metro no es relajante.",
+   "exKo": "지하철은 편안하지 않아요."
+  },
+  {
+   "es": "el aire libre",
+   "ko": "야외",
+   "ex": "Prefiero el aire libre.",
+   "exKo": "나는 야외가 더 좋아요."
+  },
+  {
+   "es": "puntual",
+   "ko": "시간을 잘 지키는",
+   "ex": "Soy muy puntual.",
+   "exKo": "나는 시간을 아주 잘 지켜요."
+  },
+  {
+   "es": "a las nueve en punto",
+   "ko": "9시 정각에",
+   "ex": "Llego a las nueve en punto.",
+   "exKo": "9시 정각에 도착해요."
+  },
+  {
+   "es": "el jefe",
+   "ko": "상사",
+   "ex": "Entro sin que el jefe me vea.",
+   "exKo": "상사가 못 보게 들어가요."
+  },
+  {
+   "es": "encender el ordenador",
+   "ko": "컴퓨터를 켜다",
+   "ex": "Enciendo el ordenador y voy a por otro café.",
+   "exKo": "컴퓨터를 켜고 또 커피를 가지러 가요."
+  },
+  {
+   "es": "el correo electrónico",
+   "ko": "이메일",
+   "ex": "Escribo los correos electrónicos.",
+   "exKo": "이메일을 써요."
+  },
+  {
+   "es": "la reunión",
+   "ko": "회의",
+   "ex": "Organizo mis reuniones.",
+   "exKo": "회의 일정을 정리해요."
+  },
+  {
+   "es": "los compañeros",
+   "ko": "동료들",
+   "ex": "Prefiero hablar con mis compañeros.",
+   "exKo": "동료들과 이야기하는 게 좋아요."
+  },
+  {
+   "es": "la hora de comer",
+   "ko": "점심(식사) 시간",
+   "ex": "Es la hora de comer.",
+   "exKo": "점심 먹을 시간이에요."
+  },
+  {
+   "es": "la fiambrera",
+   "ko": "도시락통",
+   "ex": "¿Qué tienes en tu fiambrera hoy?",
+   "exKo": "오늘 도시락통에 뭐가 있어?"
+  },
+  {
+   "es": "el bocadillo de jamón",
+   "ko": "햄 샌드위치",
+   "ex": "Necesito un bocadillo de jamón.",
+   "exKo": "햄 샌드위치가 필요해요."
+  },
+  {
+   "es": "la siesta",
+   "ko": "낮잠",
+   "ex": "No hay siesta en la oficina.",
+   "exKo": "사무실에는 낮잠이 없어요."
+  },
+  {
+   "es": "hacer ejercicio",
+   "ko": "운동하다",
+   "ex": "Hago ejercicio por una hora.",
+   "exKo": "한 시간 동안 운동해요."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "헬스장",
+   "ex": "A las seis voy al gimnasio.",
+   "exKo": "6시에 헬스장에 가요."
+  },
+  {
+   "es": "tumbarse",
+   "ko": "눕다",
+   "ex": "Vuelvo a casa y me tumbo en el sofá.",
+   "exKo": "집에 와서 소파에 누워요."
+  },
+  {
+   "es": "la cena ligera",
+   "ko": "가벼운 저녁",
+   "ex": "Preparo una cena ligera.",
+   "exKo": "가벼운 저녁을 준비해요."
+  },
+  {
+   "es": "ponerse el pijama",
+   "ko": "잠옷을 입다",
+   "ex": "Me lavo los dientes y me pongo el pijama.",
+   "exKo": "이를 닦고 잠옷을 입어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿A qué hora suena la primera alarma de Mateo?",
+   "options": [
+    "a las seis",
+    "a las siete",
+    "a las ocho",
+    "a las nueve"
+   ],
+   "answer": 1,
+   "explain": "Mi primera alarma suena a las siete."
+  },
+  {
+   "q": "¿A qué hora se levanta Mateo finalmente?",
+   "options": [
+    "a las siete y diez",
+    "a las siete y veinte",
+    "a las ocho",
+    "a las nueve"
+   ],
+   "answer": 2,
+   "explain": "…y finalmente me levanto a las ocho."
+  },
+  {
+   "q": "¿Qué hace Mateo con el agua por la mañana?",
+   "options": [
+    "Se lava la cara con agua fría",
+    "Bebe agua caliente",
+    "No usa agua",
+    "Se baña en la piscina"
+   ],
+   "answer": 0,
+   "explain": "Me lavo la cara con agua fría, mucha agua fría."
+  },
+  {
+   "q": "¿Cuándo se ducha Sofía?",
+   "options": [
+    "Siempre por la noche",
+    "Siempre por la mañana",
+    "Nunca",
+    "Solo los domingos"
+   ],
+   "answer": 1,
+   "explain": "Yo siempre me ducho por la mañana."
+  },
+  {
+   "q": "¿Qué desayuna Mateo?",
+   "options": [
+    "Un yogur con frutas",
+    "Café con leche y pan con tomate",
+    "Solo té verde",
+    "Huevos y beicon"
+   ],
+   "answer": 1,
+   "explain": "Un café con leche gigante… pan con tomate y aceite de oliva."
+  },
+  {
+   "q": "¿Qué bebe Sofía en el desayuno?",
+   "options": [
+    "Café solo",
+    "Zumo de naranja",
+    "Té verde",
+    "Leche fría"
+   ],
+   "answer": 2,
+   "explain": "Desayuno un yogur con frutas y bebo té verde."
+  },
+  {
+   "q": "¿Por qué Mateo no siempre va en bicicleta?",
+   "options": [
+    "Porque llueve",
+    "Porque pierde las llaves",
+    "Porque está lejos",
+    "Porque no tiene bicicleta"
+   ],
+   "answer": 1,
+   "explain": "Si encuentro las llaves, voy en bicicleta, pero siempre las pierdo."
+  },
+  {
+   "q": "¿Dónde busca Mateo las llaves?",
+   "options": [
+    "Solo en el coche",
+    "En todas partes, incluso en la nevera",
+    "Solo en el trabajo",
+    "En el metro"
+   ],
+   "answer": 1,
+   "explain": "En la mesa, debajo del sofá, incluso dentro de la nevera."
+  },
+  {
+   "q": "¿Cómo va Sofía al trabajo?",
+   "options": [
+    "En bicicleta",
+    "En coche",
+    "En metro",
+    "A pie"
+   ],
+   "answer": 2,
+   "explain": "Yo tomo el metro. Es rápido y puedo leer un libro."
+  },
+  {
+   "q": "¿Qué trae Sofía de comida?",
+   "options": [
+    "Un sándwich triste",
+    "Una ensalada de quinoa con verduras y pollo",
+    "Pizza",
+    "Sopa de pescado"
+   ],
+   "answer": 1,
+   "explain": "Yo tengo una ensalada de quinoa con verduras y pollo."
+  },
+  {
+   "q": "¿Qué hace Sofía después del trabajo, a las seis?",
+   "options": [
+    "Va al gimnasio",
+    "Ve series",
+    "Duerme la siesta",
+    "Va al supermercado"
+   ],
+   "answer": 0,
+   "explain": "Después del trabajo, a las seis yo voy al gimnasio."
+  },
+  {
+   "q": "¿Qué hace Mateo antes de dormir?",
+   "options": [
+    "Lee un libro",
+    "Hace ejercicio",
+    "Mira el móvil",
+    "Prepara la cena"
+   ],
+   "answer": 2,
+   "explain": "Yo miro el móvil hasta que mis ojos se cierran solos."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 오늘의 주제는 하루 일과",
+   "lines": [
+    {
+     "t": 0.4,
+     "s": "S",
+     "es": "Bienvenidos a Easy Spanish Podcast.",
+     "ko": "이지 스패니시 팟캐스트에 오신 걸 환영해요."
+    },
+    {
+     "t": 3.5,
+     "s": "M",
+     "es": "No, otra vez no.",
+     "ko": "아, 또 시작이야."
+    },
+    {
+     "t": 10.9,
+     "s": "M",
+     "es": "Socorro. ¿Dónde está el botón? Necesito silencio.",
+     "ko": "살려 줘. 버튼이 어디 있지? 조용함이 필요해."
+    },
+    {
+     "t": 14.9,
+     "s": "S",
+     "es": "Buenos días, Mateo. El sol ya está en el cielo.",
+     "ko": "좋은 아침, 마테오. 해는 벌써 하늘에 떴어."
+    },
+    {
+     "t": 23.4,
+     "s": "S",
+     "es": "¿Estás listo para el mundo real?",
+     "ko": "현실 세계에 나갈 준비 됐어?"
+    },
+    {
+     "t": 26.1,
+     "s": "M",
+     "es": "Listo, Sofía. Mi cuerpo no comprende el concepto de mañana.",
+     "ko": "준비 됐어, 소피아. 내 몸은 '아침'이라는 개념을 이해하지 못해."
+    },
+    {
+     "t": 34.0,
+     "s": "M",
+     "es": "Mi cerebro todavía está en la luna.",
+     "ko": "내 뇌는 아직 달에 있어."
+    },
+    {
+     "t": 36.9,
+     "s": "S",
+     "es": "Hola a todos, bienvenidos. Hoy vamos a hablar de la rutina diaria.",
+     "ko": "여러분 안녕하세요, 환영해요. 오늘은 하루 일과에 대해 이야기할 거예요."
+    },
+    {
+     "t": 43.2,
+     "s": "M",
+     "es": "La rutina diaria. Sin estrés, con mucha risa y muy despacio.",
+     "ko": "하루 일과. 스트레스 없이, 많이 웃으면서, 아주 천천히요."
+    }
+   ]
+  },
+  {
+   "title": "아침 알람과 일어나기",
+   "lines": [
+    {
+     "t": 48.1,
+     "s": "S",
+     "es": "Mateo, sé sincero. ¿A qué hora suena tu primera alarma?",
+     "ko": "마테오, 솔직히 말해 봐. 첫 알람은 몇 시에 울려?"
+    },
+    {
+     "t": 59.1,
+     "s": "M",
+     "es": "Mi primera alarma suena a las siete.",
+     "ko": "내 첫 알람은 7시에 울려."
+    },
+    {
+     "t": 61.8,
+     "s": "S",
+     "es": "Eso es muy temprano.",
+     "ko": "그거 꽤 이르네."
+    },
+    {
+     "t": 63.5,
+     "s": "M",
+     "es": "Sí, pero la segunda suena a las siete y diez, la tercera a las siete y veinte y finalmente me levanto a las ocho.",
+     "ko": "응, 그런데 두 번째는 7시 10분, 세 번째는 7시 20분에 울리고 마침내 8시에 일어나."
+    },
+    {
+     "t": 78.5,
+     "s": "M",
+     "es": "Es un sistema perfecto.",
+     "ko": "완벽한 시스템이지."
+    },
+    {
+     "t": 80.5,
+     "s": "S",
+     "es": "Es un sistema terrible.",
+     "ko": "끔찍한 시스템이야."
+    },
+    {
+     "t": 82.4,
+     "s": "S",
+     "es": "Chicos, escuchen el verbo: me levanto.",
+     "ko": "여러분, 동사를 들어 보세요: me levanto."
+    },
+    {
+     "t": 90.4,
+     "s": "S",
+     "es": "Yo soy diferente. Yo escucho mi alarma y ¡pum!, estoy de pie.",
+     "ko": "나는 달라. 알람을 듣자마자 쾅! 하고 서 있어."
+    },
+    {
+     "t": 95.3,
+     "s": "M",
+     "es": "Qué horror. Eres un robot, Sofía.",
+     "ko": "끔찍해. 넌 로봇이야, 소피아."
+    },
+    {
+     "t": 100.3,
+     "s": "M",
+     "es": "Una persona normal necesita tiempo para pensar en la vida antes de salir de la cama.",
+     "ko": "보통 사람은 침대에서 나오기 전에 인생에 대해 생각할 시간이 필요해."
+    }
+   ]
+  },
+  {
+   "title": "욕실과 샤워",
+   "lines": [
+    {
+     "t": 108.2,
+     "s": "S",
+     "es": "Bueno, después de levantarte, ¿qué haces? ¿Vas directamente a la cocina?",
+     "ko": "그래, 일어난 다음엔 뭘 해? 곧장 부엌에 가?"
+    },
+    {
+     "t": 114.1,
+     "s": "M",
+     "es": "No, primero voy al baño.",
+     "ko": "아니, 먼저 욕실에 가."
+    },
+    {
+     "t": 116.8,
+     "s": "M",
+     "es": "Me lavo la cara con agua fría, mucha agua fría.",
+     "ko": "찬물로 세수해, 아주 차가운 물로."
+    },
+    {
+     "t": 120.7,
+     "s": "S",
+     "es": "¿Y te duchas por la mañana o por la noche?",
+     "ko": "그럼 샤워는 아침에 해, 밤에 해?"
+    },
+    {
+     "t": 124.1,
+     "s": "M",
+     "es": "Mm, depende del día. Si tengo mucho sueño, me ducho por la mañana para despertar.",
+     "ko": "음, 날마다 달라. 많이 졸리면 깨려고 아침에 샤워해."
+    },
+    {
+     "t": 129.7,
+     "s": "M",
+     "es": "Brr. El agua está helada, pero si estoy cansado, prefiero una ducha caliente por la noche.",
+     "ko": "으, 물이 얼음장이야. 하지만 피곤하면 밤에 따뜻한 샤워를 더 좋아해."
+    },
+    {
+     "t": 137.5,
+     "s": "S",
+     "es": "Yo siempre me ducho por la mañana, también me lavo los dientes y me peino.",
+     "ko": "나는 항상 아침에 샤워하고, 이도 닦고 머리도 빗어."
+    },
+    {
+     "t": 143.4,
+     "s": "S",
+     "es": "Me peino. Mateo, ¿tú te peinas?",
+     "ko": "me peino. 마테오, 너는 머리 빗어?"
+    },
+    {
+     "t": 148.1,
+     "s": "M",
+     "es": "Mírame, Sofía. Tengo el pelo como un loco. No necesito peine. Necesito un milagro.",
+     "ko": "날 봐, 소피아. 머리가 미친 사람 같잖아. 빗은 필요 없어. 기적이 필요해."
+    }
+   ]
+  },
+  {
+   "title": "아침 식사",
+   "lines": [
+    {
+     "t": 155.1,
+     "s": "S",
+     "es": "Mi parte favorita, el desayuno.",
+     "ko": "내가 제일 좋아하는 부분은 아침 식사야."
+    },
+    {
+     "t": 157.5,
+     "s": "M",
+     "es": "Sofía, yo no puedo hablar, no puedo caminar y no puedo existir sin café.",
+     "ko": "소피아, 나는 커피 없이는 말도, 걷지도, 존재하지도 못해."
+    },
+    {
+     "t": 163.0,
+     "s": "S",
+     "es": "Lo sabemos, Mateo. Todos lo sabemos.",
+     "ko": "알아, 마테오. 다들 알고 있어."
+    },
+    {
+     "t": 166.0,
+     "s": "S",
+     "es": "¿Tomas café solo o con leche?",
+     "ko": "커피는 블랙으로 마셔, 우유 넣어서 마셔?"
+    },
+    {
+     "t": 168.4,
+     "s": "M",
+     "es": "Un café con leche gigante y sin azúcar.",
+     "ko": "엄청 큰 카페라테, 설탕은 빼고."
+    },
+    {
+     "t": 173.0,
+     "s": "M",
+     "es": "También desayuno pan con tomate y aceite de oliva. Es muy español y muy rico.",
+     "ko": "빵에 토마토와 올리브유를 곁들여 아침도 먹어. 아주 스페인답고 아주 맛있어."
+    },
+    {
+     "t": 179.1,
+     "s": "S",
+     "es": "¡Qué rico! Yo prefiero algo más ligero. Desayuno un yogur con frutas y bebo té verde.",
+     "ko": "맛있겠다! 나는 좀 더 가벼운 게 좋아. 과일을 곁들인 요거트를 먹고 녹차를 마셔."
+    },
+    {
+     "t": 186.1,
+     "s": "M",
+     "es": "¿Té verde? Eso sabe a hierba del parque, Sofía.",
+     "ko": "녹차? 그건 공원 풀 맛이야, 소피아."
+    },
+    {
+     "t": 191.1,
+     "s": "S",
+     "es": "No es verdad.",
+     "ko": "그렇지 않아."
+    },
+    {
+     "t": 192.3,
+     "s": "S",
+     "es": "Chicos, atención al verbo desayunar. Yo desayuno. Tú desayunas. Nosotros desayunamos.",
+     "ko": "여러분, 동사 desayunar에 주목하세요. 나는 아침을 먹어요. 너는 아침을 먹어. 우리는 아침을 먹어요."
+    }
+   ]
+  },
+  {
+   "title": "출근길과 열쇠 소동",
+   "lines": [
+    {
+     "t": 203.1,
+     "s": "S",
+     "es": "Bueno, ya estamos vestidos. Ahora hay que salir de casa.",
+     "ko": "자, 이제 옷도 입었어. 이제 집을 나서야 해."
+    },
+    {
+     "t": 211.0,
+     "s": "S",
+     "es": "Mateo, ¿cómo vas al trabajo?",
+     "ko": "마테오, 직장에는 어떻게 가?"
+    },
+    {
+     "t": 213.4,
+     "s": "M",
+     "es": "Si encuentro las llaves, voy en bicicleta, pero siempre, siempre las pierdo.",
+     "ko": "열쇠를 찾으면 자전거로 가는데, 항상, 항상 잃어버려."
+    },
+    {
+     "t": 221.2,
+     "s": "S",
+     "es": "Chicos, el verbo es perder.",
+     "ko": "여러분, 동사는 perder예요."
+    },
+    {
+     "t": 223.4,
+     "s": "S",
+     "es": "Mateo, ¿dónde buscas las llaves?",
+     "ko": "마테오, 열쇠는 어디서 찾아?"
+    },
+    {
+     "t": 233.3,
+     "s": "M",
+     "es": "En todas partes. Las busco en la mesa, debajo del sofá, incluso dentro de la nevera.",
+     "ko": "여기저기에서. 탁자 위, 소파 밑, 심지어 냉장고 안까지 찾아."
+    },
+    {
+     "t": 240.2,
+     "s": "S",
+     "es": "¿En la nevera?",
+     "ko": "냉장고 안에?"
+    },
+    {
+     "t": 243.9,
+     "s": "M",
+     "es": "A veces pongo las llaves al lado del queso. No me juzgues.",
+     "ko": "가끔 열쇠를 치즈 옆에 놔. 날 판단하지 마."
+    },
+    {
+     "t": 248.6,
+     "s": "S",
+     "es": "Yo tomo el metro. Es rápido y puedo leer un libro.",
+     "ko": "나는 지하철을 타. 빠르고 책도 읽을 수 있어."
+    },
+    {
+     "t": 253.8,
+     "s": "M",
+     "es": "El metro no es relajante, hay mucha gente. Prefiero el aire libre y mi bicicleta.",
+     "ko": "지하철은 편안하지 않아, 사람이 너무 많아. 나는 야외 공기와 내 자전거가 좋아."
+    }
+   ]
+  },
+  {
+   "title": "직장에서",
+   "lines": [
+    {
+     "t": 262.0,
+     "s": "S",
+     "es": "Yo llego a las nueve en punto. Soy muy puntual.",
+     "ko": "나는 9시 정각에 도착해. 아주 시간을 잘 지켜."
+    },
+    {
+     "t": 265.6,
+     "s": "M",
+     "es": "Yo llego a las nueve y cuarto e intento entrar sin que el jefe me vea. Camino muy despacio.",
+     "ko": "나는 9시 15분에 도착해서 상사가 못 보게 들어가려고 해. 아주 천천히 걸어."
+    },
+    {
+     "t": 274.5,
+     "s": "S",
+     "es": "¿Y qué haces al llegar?",
+     "ko": "도착하면 뭘 해?"
+    },
+    {
+     "t": 276.7,
+     "s": "M",
+     "es": "Enciendo el ordenador y voy a por otro café.",
+     "ko": "컴퓨터를 켜고 또 다른 커피를 가지러 가."
+    },
+    {
+     "t": 283.9,
+     "s": "S",
+     "es": "Otro. Yo escribo los correos electrónicos y organizo mis reuniones.",
+     "ko": "또야? 나는 이메일을 쓰고 회의 일정을 정리해."
+    },
+    {
+     "t": 289.4,
+     "s": "M",
+     "es": "Ah, qué aburrido. Yo prefiero hablar con mis compañeros. Socializar es parte de mi rutina.",
+     "ko": "아, 지루해. 나는 동료들과 이야기하는 게 더 좋아. 사람들과 어울리는 건 내 일과의 일부야."
+    }
+   ]
+  },
+  {
+   "title": "점심시간",
+   "lines": [
+    {
+     "t": 301.4,
+     "s": "S",
+     "es": "¿Escuchas eso? Mi estómago tiene hambre. Mucho hambre.",
+     "ko": "저 소리 들려? 내 배가 고파. 엄청 배고파."
+    },
+    {
+     "t": 306.9,
+     "s": "S",
+     "es": "Es la hora de comer. ¿Qué tienes en tu fiambrera hoy?",
+     "ko": "점심 먹을 시간이야. 오늘 도시락통에 뭐가 있어?"
+    },
+    {
+     "t": 311.2,
+     "s": "M",
+     "es": "Tengo un sándwich un poco triste. Olvidé ir al supermercado.",
+     "ko": "좀 슬픈 샌드위치가 있어. 슈퍼에 가는 걸 깜빡했거든."
+    },
+    {
+     "t": 319.8,
+     "s": "S",
+     "es": "Yo tengo una ensalada de quinoa con verduras y pollo. Es equilibrada.",
+     "ko": "나는 채소와 닭고기를 넣은 퀴노아 샐러드야. 균형 잡힌 식사지."
+    },
+    {
+     "t": 327.5,
+     "s": "M",
+     "es": "Quinoa, comida de pájaros. Yo necesito un bocadillo de jamón y después la siesta.",
+     "ko": "퀴노아라니, 새 모이잖아. 나는 햄 샌드위치랑, 그다음에 낮잠이 필요해."
+    },
+    {
+     "t": 337.4,
+     "s": "S",
+     "es": "No hay siesta en la oficina.",
+     "ko": "사무실에는 낮잠이 없어."
+    }
+   ]
+  },
+  {
+   "title": "퇴근 후와 저녁",
+   "lines": [
+    {
+     "t": 339.7,
+     "s": "S",
+     "es": "Después del trabajo, a las seis yo voy al gimnasio. Hago ejercicio por una hora.",
+     "ko": "퇴근 후 6시에 나는 헬스장에 가. 한 시간 동안 운동해."
+    },
+    {
+     "t": 349.7,
+     "s": "M",
+     "es": "¿Ejercicio después de trabajar? Sofía, eres un peligro para la humanidad.",
+     "ko": "일하고 나서 운동이라고? 소피아, 넌 인류에 위협이야."
+    },
+    {
+     "t": 357.9,
+     "s": "M",
+     "es": "Yo vuelvo a casa y me tumbo en el sofá.",
+     "ko": "나는 집에 돌아와서 소파에 누워."
+    },
+    {
+     "t": 361.1,
+     "s": "S",
+     "es": "Me tumbo. Pero Mateo, el ejercicio es bueno para el corazón.",
+     "ko": "me tumbo. 그런데 마테오, 운동은 심장에 좋아."
+    },
+    {
+     "t": 369.8,
+     "s": "M",
+     "es": "Mi corazón es feliz viendo series en la televisión. Esa es mi rutina deportiva.",
+     "ko": "내 심장은 TV로 드라마를 볼 때 행복해. 그게 내 운동 루틴이야."
+    },
+    {
+     "t": 376.2,
+     "s": "S",
+     "es": "Por la noche preparo una cena ligera. Sopa o pescado.",
+     "ko": "밤에는 가벼운 저녁을 준비해. 수프나 생선으로."
+    },
+    {
+     "t": 381.7,
+     "s": "M",
+     "es": "Yo prefiero pizza, pero intento comer sano a veces.",
+     "ko": "나는 피자가 더 좋지만, 가끔은 건강하게 먹으려고 해."
+    }
+   ]
+  },
+  {
+   "title": "잠자리와 마무리",
+   "lines": [
+    {
+     "t": 388.7,
+     "s": "S",
+     "es": "Luego me lavo los dientes y me pongo el pijama.",
+     "ko": "그다음 이를 닦고 잠옷을 입어."
+    },
+    {
+     "t": 392.6,
+     "s": "S",
+     "es": "Yo leo un poco antes de dormir. Me ayuda a relajarme.",
+     "ko": "자기 전에 책을 조금 읽어. 긴장을 푸는 데 도움이 돼."
+    },
+    {
+     "t": 397.2,
+     "s": "M",
+     "es": "Yo miro el móvil hasta que mis ojos se cierran solos.",
+     "ko": "나는 눈이 저절로 감길 때까지 휴대폰을 봐."
+    },
+    {
+     "t": 401.6,
+     "s": "M",
+     "es": "Buenas noches, Sofía.",
+     "ko": "잘 자, 소피아."
+    },
+    {
+     "t": 404.2,
+     "s": "S",
+     "es": "Y así termina un día normal con nosotros.",
+     "ko": "이렇게 우리의 평범한 하루가 끝나요."
+    },
+    {
+     "t": 407.6,
+     "s": "S",
+     "es": "Chicos, hemos aprendido verbos muy importantes: levantarse, desayunar, trabajar y descansar.",
+     "ko": "여러분, 우리는 아주 중요한 동사들을 배웠어요: levantarse, desayunar, trabajar, descansar."
+    },
+    {
+     "t": 417.3,
+     "s": "S",
+     "es": "No olviden practicar estos verbos mañana en su propia rutina. Digan las palabras en voz alta mientras se duchan.",
+     "ko": "내일 여러분의 일과에서 이 동사들을 연습하는 걸 잊지 마세요. 샤워하는 동안 소리 내어 말해 보세요."
+    },
+    {
+     "t": 428.0,
+     "s": "M",
+     "es": "Es un buen consejo.",
+     "ko": "좋은 조언이야."
+    },
+    {
+     "t": 429.6,
+     "s": "S",
+     "es": "Si les ha gustado este episodio de Easy Spanish Podcast, por favor compartan su rutina con nosotros.",
+     "ko": "이지 스패니시 팟캐스트의 이번 에피소드가 마음에 드셨다면 여러분의 일과도 우리와 나눠 주세요."
+    },
+    {
+     "t": 437.9,
+     "s": "S",
+     "es": "Gracias por escucharnos. Adiós a todos. Hasta la próxima.",
+     "ko": "들어 주셔서 감사해요. 모두 안녕. 다음에 만나요."
+    },
+    {
+     "t": 442.7,
+     "s": "M",
+     "es": "Adiós.",
+     "ko": "안녕."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 Me levantó→Me levanto, desañuno→desayuno, Br→Brr, yogurt→yogur, 숫자 시각(7:10 등)→글로 풀어 쓰기, Mm 등을 바로잡았어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 07:26
+
+
+## 인사 — 오늘의 주제는 하루 일과
+[00:00.36]
+S | Bienvenidos a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:03.50]
+M | No, otra vez no. | 아, 또 시작이야.
+[00:10.92]
+M | Socorro. ¿Dónde está el botón? Necesito silencio. | 살려 줘. 버튼이 어디 있지? 조용함이 필요해.
+[00:14.94]
+S | Buenos días, Mateo. El sol ya está en el cielo. | 좋은 아침, 마테오. 해는 벌써 하늘에 떴어.
+[00:23.40]
+S | ¿Estás listo para el mundo real? | 현실 세계에 나갈 준비 됐어?
+[00:26.07]
+M | Listo, Sofía. Mi cuerpo no comprende el concepto de mañana. | 준비 됐어, 소피아. 내 몸은 '아침'이라는 개념을 이해하지 못해.
+[00:34.00]
+M | Mi cerebro todavía está en la luna. | 내 뇌는 아직 달에 있어.
+[00:36.93]
+S | Hola a todos, bienvenidos. Hoy vamos a hablar de la rutina diaria. | 여러분 안녕하세요, 환영해요. 오늘은 하루 일과에 대해 이야기할 거예요.
+[00:43.24]
+M | La rutina diaria. Sin estrés, con mucha risa y muy despacio. | 하루 일과. 스트레스 없이, 많이 웃으면서, 아주 천천히요.
+## 아침 알람과 일어나기
+[00:48.14]
+S | Mateo, sé sincero. ¿A qué hora suena tu primera alarma? | 마테오, 솔직히 말해 봐. 첫 알람은 몇 시에 울려?
+[00:59.15]
+M | Mi primera alarma suena a las siete. | 내 첫 알람은 7시에 울려.
+[01:01.83]
+S | Eso es muy temprano. | 그거 꽤 이르네.
+[01:03.53]
+M | Sí, pero la segunda suena a las siete y diez, la tercera a las siete y veinte y finalmente me levanto a las ocho. | 응, 그런데 두 번째는 7시 10분, 세 번째는 7시 20분에 울리고 마침내 8시에 일어나.
+[01:18.52]
+M | Es un sistema perfecto. | 완벽한 시스템이지.
+[01:20.48]
+S | Es un sistema terrible. | 끔찍한 시스템이야.
+[01:22.44]
+S | Chicos, escuchen el verbo: me levanto. | 여러분, 동사를 들어 보세요: me levanto.
+[01:30.36]
+S | Yo soy diferente. Yo escucho mi alarma y ¡pum!, estoy de pie. | 나는 달라. 알람을 듣자마자 쾅! 하고 서 있어.
+[01:35.26]
+M | Qué horror. Eres un robot, Sofía. | 끔찍해. 넌 로봇이야, 소피아.
+[01:40.29]
+M | Una persona normal necesita tiempo para pensar en la vida antes de salir de la cama. | 보통 사람은 침대에서 나오기 전에 인생에 대해 생각할 시간이 필요해.
+## 욕실과 샤워
+[01:48.24]
+S | Bueno, después de levantarte, ¿qué haces? ¿Vas directamente a la cocina? | 그래, 일어난 다음엔 뭘 해? 곧장 부엌에 가?
+[01:54.10]
+M | No, primero voy al baño. | 아니, 먼저 욕실에 가.
+[01:56.80]
+M | Me lavo la cara con agua fría, mucha agua fría. | 찬물로 세수해, 아주 차가운 물로.
+[02:00.67]
+S | ¿Y te duchas por la mañana o por la noche? | 그럼 샤워는 아침에 해, 밤에 해?
+[02:04.14]
+M | Mm, depende del día. Si tengo mucho sueño, me ducho por la mañana para despertar. | 음, 날마다 달라. 많이 졸리면 깨려고 아침에 샤워해.
+[02:09.72]
+M | Brr. El agua está helada, pero si estoy cansado, prefiero una ducha caliente por la noche. | 으, 물이 얼음장이야. 하지만 피곤하면 밤에 따뜻한 샤워를 더 좋아해.
+[02:17.52]
+S | Yo siempre me ducho por la mañana, también me lavo los dientes y me peino. | 나는 항상 아침에 샤워하고, 이도 닦고 머리도 빗어.
+[02:23.38]
+S | Me peino. Mateo, ¿tú te peinas? | me peino. 마테오, 너는 머리 빗어?
+[02:28.08]
+M | Mírame, Sofía. Tengo el pelo como un loco. No necesito peine. Necesito un milagro. | 날 봐, 소피아. 머리가 미친 사람 같잖아. 빗은 필요 없어. 기적이 필요해.
+## 아침 식사
+[02:35.08]
+S | Mi parte favorita, el desayuno. | 내가 제일 좋아하는 부분은 아침 식사야.
+[02:37.52]
+M | Sofía, yo no puedo hablar, no puedo caminar y no puedo existir sin café. | 소피아, 나는 커피 없이는 말도, 걷지도, 존재하지도 못해.
+[02:43.04]
+S | Lo sabemos, Mateo. Todos lo sabemos. | 알아, 마테오. 다들 알고 있어.
+[02:46.01]
+S | ¿Tomas café solo o con leche? | 커피는 블랙으로 마셔, 우유 넣어서 마셔?
+[02:48.41]
+M | Un café con leche gigante y sin azúcar. | 엄청 큰 카페라테, 설탕은 빼고.
+[02:53.03]
+M | También desayuno pan con tomate y aceite de oliva. Es muy español y muy rico. | 빵에 토마토와 올리브유를 곁들여 아침도 먹어. 아주 스페인답고 아주 맛있어.
+[02:59.12]
+S | ¡Qué rico! Yo prefiero algo más ligero. Desayuno un yogur con frutas y bebo té verde. | 맛있겠다! 나는 좀 더 가벼운 게 좋아. 과일을 곁들인 요거트를 먹고 녹차를 마셔.
+[03:06.12]
+M | ¿Té verde? Eso sabe a hierba del parque, Sofía. | 녹차? 그건 공원 풀 맛이야, 소피아.
+[03:11.14]
+S | No es verdad. | 그렇지 않아.
+[03:12.28]
+S | Chicos, atención al verbo desayunar. Yo desayuno. Tú desayunas. Nosotros desayunamos. | 여러분, 동사 desayunar에 주목하세요. 나는 아침을 먹어요. 너는 아침을 먹어. 우리는 아침을 먹어요.
+## 출근길과 열쇠 소동
+[03:23.10]
+S | Bueno, ya estamos vestidos. Ahora hay que salir de casa. | 자, 이제 옷도 입었어. 이제 집을 나서야 해.
+[03:30.98]
+S | Mateo, ¿cómo vas al trabajo? | 마테오, 직장에는 어떻게 가?
+[03:33.37]
+M | Si encuentro las llaves, voy en bicicleta, pero siempre, siempre las pierdo. | 열쇠를 찾으면 자전거로 가는데, 항상, 항상 잃어버려.
+[03:41.17]
+S | Chicos, el verbo es perder. | 여러분, 동사는 perder예요.
+[03:43.42]
+S | Mateo, ¿dónde buscas las llaves? | 마테오, 열쇠는 어디서 찾아?
+[03:53.28]
+M | En todas partes. Las busco en la mesa, debajo del sofá, incluso dentro de la nevera. | 여기저기에서. 탁자 위, 소파 밑, 심지어 냉장고 안까지 찾아.
+[04:00.17]
+S | ¿En la nevera? | 냉장고 안에?
+[04:03.88]
+M | A veces pongo las llaves al lado del queso. No me juzgues. | 가끔 열쇠를 치즈 옆에 놔. 날 판단하지 마.
+[04:08.61]
+S | Yo tomo el metro. Es rápido y puedo leer un libro. | 나는 지하철을 타. 빠르고 책도 읽을 수 있어.
+[04:13.81]
+M | El metro no es relajante, hay mucha gente. Prefiero el aire libre y mi bicicleta. | 지하철은 편안하지 않아, 사람이 너무 많아. 나는 야외 공기와 내 자전거가 좋아.
+## 직장에서
+[04:22.04]
+S | Yo llego a las nueve en punto. Soy muy puntual. | 나는 9시 정각에 도착해. 아주 시간을 잘 지켜.
+[04:25.60]
+M | Yo llego a las nueve y cuarto e intento entrar sin que el jefe me vea. Camino muy despacio. | 나는 9시 15분에 도착해서 상사가 못 보게 들어가려고 해. 아주 천천히 걸어.
+[04:34.48]
+S | ¿Y qué haces al llegar? | 도착하면 뭘 해?
+[04:36.72]
+M | Enciendo el ordenador y voy a por otro café. | 컴퓨터를 켜고 또 다른 커피를 가지러 가.
+[04:43.92]
+S | Otro. Yo escribo los correos electrónicos y organizo mis reuniones. | 또야? 나는 이메일을 쓰고 회의 일정을 정리해.
+[04:49.41]
+M | Ah, qué aburrido. Yo prefiero hablar con mis compañeros. Socializar es parte de mi rutina. | 아, 지루해. 나는 동료들과 이야기하는 게 더 좋아. 사람들과 어울리는 건 내 일과의 일부야.
+## 점심시간
+[05:01.39]
+S | ¿Escuchas eso? Mi estómago tiene hambre. Mucho hambre. | 저 소리 들려? 내 배가 고파. 엄청 배고파.
+[05:06.86]
+S | Es la hora de comer. ¿Qué tienes en tu fiambrera hoy? | 점심 먹을 시간이야. 오늘 도시락통에 뭐가 있어?
+[05:11.23]
+M | Tengo un sándwich un poco triste. Olvidé ir al supermercado. | 좀 슬픈 샌드위치가 있어. 슈퍼에 가는 걸 깜빡했거든.
+[05:19.79]
+S | Yo tengo una ensalada de quinoa con verduras y pollo. Es equilibrada. | 나는 채소와 닭고기를 넣은 퀴노아 샐러드야. 균형 잡힌 식사지.
+[05:27.49]
+M | Quinoa, comida de pájaros. Yo necesito un bocadillo de jamón y después la siesta. | 퀴노아라니, 새 모이잖아. 나는 햄 샌드위치랑, 그다음에 낮잠이 필요해.
+[05:37.41]
+S | No hay siesta en la oficina. | 사무실에는 낮잠이 없어.
+## 퇴근 후와 저녁
+[05:39.74]
+S | Después del trabajo, a las seis yo voy al gimnasio. Hago ejercicio por una hora. | 퇴근 후 6시에 나는 헬스장에 가. 한 시간 동안 운동해.
+[05:49.71]
+M | ¿Ejercicio después de trabajar? Sofía, eres un peligro para la humanidad. | 일하고 나서 운동이라고? 소피아, 넌 인류에 위협이야.
+[05:57.88]
+M | Yo vuelvo a casa y me tumbo en el sofá. | 나는 집에 돌아와서 소파에 누워.
+[06:01.09]
+S | Me tumbo. Pero Mateo, el ejercicio es bueno para el corazón. | me tumbo. 그런데 마테오, 운동은 심장에 좋아.
+[06:09.76]
+M | Mi corazón es feliz viendo series en la televisión. Esa es mi rutina deportiva. | 내 심장은 TV로 드라마를 볼 때 행복해. 그게 내 운동 루틴이야.
+[06:16.18]
+S | Por la noche preparo una cena ligera. Sopa o pescado. | 밤에는 가벼운 저녁을 준비해. 수프나 생선으로.
+[06:21.73]
+M | Yo prefiero pizza, pero intento comer sano a veces. | 나는 피자가 더 좋지만, 가끔은 건강하게 먹으려고 해.
+## 잠자리와 마무리
+[06:28.68]
+S | Luego me lavo los dientes y me pongo el pijama. | 그다음 이를 닦고 잠옷을 입어.
+[06:32.65]
+S | Yo leo un poco antes de dormir. Me ayuda a relajarme. | 자기 전에 책을 조금 읽어. 긴장을 푸는 데 도움이 돼.
+[06:37.18]
+M | Yo miro el móvil hasta que mis ojos se cierran solos. | 나는 눈이 저절로 감길 때까지 휴대폰을 봐.
+[06:41.56]
+M | Buenas noches, Sofía. | 잘 자, 소피아.
+[06:44.24]
+S | Y así termina un día normal con nosotros. | 이렇게 우리의 평범한 하루가 끝나요.
+[06:47.62]
+S | Chicos, hemos aprendido verbos muy importantes: levantarse, desayunar, trabajar y descansar. | 여러분, 우리는 아주 중요한 동사들을 배웠어요: levantarse, desayunar, trabajar, descansar.
+[06:57.28]
+S | No olviden practicar estos verbos mañana en su propia rutina. Digan las palabras en voz alta mientras se duchan. | 내일 여러분의 일과에서 이 동사들을 연습하는 걸 잊지 마세요. 샤워하는 동안 소리 내어 말해 보세요.
+[07:08.02]
+M | Es un buen consejo. | 좋은 조언이야.
+[07:09.63]
+S | Si les ha gustado este episodio de Easy Spanish Podcast, por favor compartan su rutina con nosotros. | 이지 스패니시 팟캐스트의 이번 에피소드가 마음에 드셨다면 여러분의 일과도 우리와 나눠 주세요.
+[07:17.92]
+S | Gracias por escucharnos. Adiós a todos. Hasta la próxima. | 들어 주셔서 감사해요. 모두 안녕. 다음에 만나요.
+[07:22.72]
+M | Adiós. | 안녕.
