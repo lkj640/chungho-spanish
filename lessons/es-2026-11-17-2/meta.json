@@ -1,0 +1,656 @@
+{
+  "lang": "es",
+  "date": "2026-11-17",
+  "title": "중급 정체기 뚫는 법 — 세 가지 전략과 '다섯 표현' 시스템",
+  "es": "Entender y ser capaz de usarlo son dos cosas completamente diferentes.",
+  "emoji": "🧗",
+  "level": "B1–B2",
+  "channel": "How to Spanish Podcast",
+  "videoTitle": "How to Break Through the Intermediate Plateau in Spanish (3 Strategies That Work) - EP430",
+  "youtube": "rwr17W_-m3c",
+  "duration": "21:34",
+  "speakers": {
+    "D": "David",
+    "A": "Ana"
+  },
+  "hideCast": true,
+  "summary": "멕시코 출신 부부 진행자 다비드와 아나가 \"많이 알아듣는데 말은 단순하게만 나온다\"는 중급 정체기(plateau intermedio)를 다뤄요. 정체는 착각이라는 것, 그리고 ① 피하던 문법과 정면으로 마주하기 ② 수준보다 어려운 인풋과 사람에게 자신을 노출하기 ③ 마음에 드는 표현 최대 5개를 서로 다른 날 3번씩 써 보는 '다섯 표현' 시스템을 소개해요. 멕시코식 구어(órale, aventar, batallar, compu)도 함께 익혀 보세요.",
+  "topics": [
+    "중급 정체기: plateau intermedio · meseta · estancamiento",
+    "정체는 착각: ilusión de estancamiento · avanzar · progresar",
+    "전략 1: dejar de huir · evitar · enfrentar la gramática",
+    "전략 2: input avanzado · zona de confort · exponerse",
+    "전략 3: 다섯 표현 시스템 · usar 3 veces · tachar",
+    "소비 vs 생산: consumir · producir · estudiante pasivo",
+    "멕시코 구어: órale · aventar · batallar · compu · brinquito"
+  ],
+  "grammar": [
+    {
+      "title": "① dejar de / seguir + 동사 — 멈추기와 계속하기",
+      "lead": "<b>dejar de + 동사원형</b>은 \"~을 그만두다\", <b>seguir + 현재분사</b>는 \"계속 ~하다\"예요. 이 에피소드의 핵심 구조예요.",
+      "table": {
+        "head": [
+          "형태",
+          "뜻",
+          "예문"
+        ],
+        "rows": [
+          [
+            "dejar de + 원형",
+            "~을 그만두다",
+            "Deja de huir."
+          ],
+          [
+            "dejar de + 원형 (완료)",
+            "~하지 않게 되었다",
+            "Sientes que has dejado de progresar."
+          ],
+          [
+            "seguir + -ando/-iendo",
+            "계속 ~하다",
+            "Sigues estudiando y dedicando tiempo."
+          ],
+          [
+            "no dejar de + 원형",
+            "끊임없이 ~하다",
+            "Yo no dejo de aprender nunca."
+          ],
+          [
+            "dejar + 명사",
+            "~을 떠나다, 두다",
+            "Dejaste el nivel principiante."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Deja de evitar el tema.",
+          "그 주제를 피하지 마."
+        ],
+        [
+          "A pesar de que sigues estudiando, sientes que no avanzas.",
+          "계속 공부하는데도 늘지 않는다고 느껴."
+        ],
+        [
+          "Muchas personas dejan de aprender español aquí.",
+          "많은 사람이 여기서 스페인어 공부를 그만둬."
+        ]
+      ],
+      "tip": "seguir 뒤에는 동사원형이 아니라 현재분사(-ando/-iendo)가 와요. ✗ sigo estudiar → ✓ sigo estudiando."
+    },
+    {
+      "title": "② 조언하는 명령형 — tú 긍정·부정",
+      "lead": "조언을 줄 때 tú 명령형을 많이 써요. <b>긍정</b>은 3인칭 단수 현재형, <b>부정</b>은 no + 접속법 현재예요.",
+      "table": {
+        "head": [
+          "동사",
+          "긍정 (tú)",
+          "부정 (no + 접속법)"
+        ],
+        "rows": [
+          [
+            "huir",
+            "huye",
+            "no huyas"
+          ],
+          [
+            "atreverse",
+            "atrévete",
+            "no te atrevas"
+          ],
+          [
+            "preocuparse",
+            "preocúpate",
+            "no te preocupes"
+          ],
+          [
+            "usar + la",
+            "úsala",
+            "no la uses"
+          ],
+          [
+            "hacer",
+            "haz",
+            "no hagas"
+          ],
+          [
+            "leer",
+            "lee",
+            "no leas"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Atrévete, porque vale la pena.",
+          "용기를 내, 그럴 가치가 있으니까."
+        ],
+        [
+          "No te preocupes por la vergüenza.",
+          "창피함은 걱정하지 마."
+        ],
+        [
+          "Úsala en una conversación.",
+          "그걸 대화에서 써 봐."
+        ]
+      ],
+      "tip": "긍정 명령에는 대명사가 뒤에 붙고(úsala, atrévete) 강세 부호가 생겨요. 부정 명령에서는 대명사가 동사 앞으로 가요(no la uses)."
+    },
+    {
+      "title": "③ a pesar de que / aunque — 양보 표현",
+      "lead": "\"~인데도\"는 <b>a pesar de que</b>나 <b>aunque</b>로 말해요. 사실을 말하면 직설법, 가정이나 상관없음을 말하면 접속법이에요.",
+      "table": {
+        "head": [
+          "표현",
+          "법",
+          "예문"
+        ],
+        "rows": [
+          [
+            "a pesar de que + 직설법",
+            "사실",
+            "A pesar de que sigues estudiando…"
+          ],
+          [
+            "a pesar de que + 접속법",
+            "가정·무관",
+            "…que no dices a pesar de que las entiendas."
+          ],
+          [
+            "aunque + 직설법",
+            "사실",
+            "Aunque la gente cree que está estancada…"
+          ],
+          [
+            "a pesar de + 명사/원형",
+            "~에도 불구하고",
+            "A pesar del esfuerzo…"
+          ],
+          [
+            "sin que + 접속법",
+            "~하지 않고",
+            "sin que el idioma sea una barrera"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Sientes que has dejado de progresar a pesar de que sigues estudiando.",
+          "계속 공부하는데도 더는 늘지 않는다고 느낀다."
+        ],
+        [
+          "Aunque la gente cree que está ahí, sigue avanzando.",
+          "사람들은 정체됐다고 믿어도 계속 나아가고 있다."
+        ],
+        [
+          "Quiero expresar mis ideas sin que el idioma sea una barrera.",
+          "언어가 장벽이 되지 않게 내 생각을 표현하고 싶다."
+        ]
+      ],
+      "tip": "sin que 뒤에는 항상 접속법이 와요(sin que el idioma sea…)."
+    },
+    {
+      "title": "④ 과거 두 시제 — pretérito vs. imperfecto",
+      "lead": "진행자들이 중급자의 대표 장벽으로 꼽은 게 바로 <b>단순과거(pretérito)</b>와 <b>불완료과거(imperfecto)</b>의 구분이에요.",
+      "table": {
+        "head": [
+          "시제",
+          "쓰임",
+          "예문"
+        ],
+        "rows": [
+          [
+            "pretérito",
+            "한 번에 끝난 일",
+            "Cuando empecé a tocar la guitarra…"
+          ],
+          [
+            "pretérito",
+            "결과·사건",
+            "Me metieron a un grupo."
+          ],
+          [
+            "imperfecto",
+            "과거의 반복·습관",
+            "Avanzabas un montón."
+          ],
+          [
+            "imperfecto",
+            "배경·상태 묘사",
+            "Había muchos chicos que ya tocaban."
+          ],
+          [
+            "함께 쓰기",
+            "배경 + 사건",
+            "Había chicos que tocaban y me dijeron…"
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Obviamente avanzabas un montón.",
+          "당연히 (그때는) 엄청 늘곤 했지."
+        ],
+        [
+          "Me aventaron al ruedo.",
+          "나를 무대에 던져 넣었다."
+        ],
+        [
+          "Había muchos chicos de secundaria que ya tocaban.",
+          "이미 연주하던 중학생이 많았다."
+        ]
+      ],
+      "tip": "\"무슨 일이 일어났나?\" → pretérito, \"그때 어땠나?\" → imperfecto 로 구분해 보세요."
+    }
+  ],
+  "phrases": [
+    [
+      "Entender y ser capaz de usarlo son dos cosas completamente diferentes.",
+      "이해하는 것과 그걸 쓸 수 있는 것은 완전히 다른 두 가지다."
+    ],
+    [
+      "Siento que entiendo mucho, pero me comunico muy simple.",
+      "많이 이해하는 것 같은데, 말은 아주 단순하게 한다."
+    ],
+    [
+      "Deja de huir, deja de evitar el tema.",
+      "도망치지 말고, 그 주제를 피하지 마."
+    ],
+    [
+      "Atrévete, porque vale la pena.",
+      "용기를 내, 그럴 가치가 있으니까."
+    ],
+    [
+      "Se van a olvidar de ti en un día.",
+      "하루면 다들 너를 잊을 거야."
+    ],
+    [
+      "Siempre hay algo de valor.",
+      "언제나 가치 있는 무언가가 있다."
+    ],
+    [
+      "Me encanta cómo suena esta frase.",
+      "이 표현 소리가 정말 좋아."
+    ],
+    [
+      "Tienes que hacer que el español sea algo que se relaciona contigo.",
+      "스페인어를 너와 관련된 것으로 만들어야 해."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "el plateau / la meseta",
+      "ko": "고원; (학습의) 정체기",
+      "ex": "Esto podría traducirse como la meseta intermedia.",
+      "exKo": "이건 '중급의 고원'이라고 옮길 수 있다."
+    },
+    {
+      "es": "el estancamiento",
+      "ko": "정체, 침체",
+      "ex": "Esto es una ilusión de estancamiento.",
+      "exKo": "이건 정체의 착각이다."
+    },
+    {
+      "es": "estancarse",
+      "ko": "정체되다, 고이다",
+      "ex": "La gente cree que está estancada, pero sigue avanzando.",
+      "exKo": "사람들은 정체됐다고 믿지만 계속 나아가고 있다."
+    },
+    {
+      "es": "progresar",
+      "ko": "발전하다, 늘다",
+      "ex": "Sientes que has dejado de progresar.",
+      "exKo": "더는 늘지 않는다고 느낀다."
+    },
+    {
+      "es": "avanzar",
+      "ko": "나아가다, 진도가 나가다",
+      "ex": "Avanzaste muchísimo.",
+      "exKo": "엄청나게 많이 나아갔다."
+    },
+    {
+      "es": "el embudo",
+      "ko": "깔때기",
+      "ex": "Si tú piensas en un embudo…",
+      "exKo": "깔때기를 떠올려 보면…"
+    },
+    {
+      "es": "el filtro",
+      "ko": "필터, 거름망",
+      "ex": "Ya pasaste un gran filtro.",
+      "exKo": "이미 큰 거름망을 통과했다."
+    },
+    {
+      "es": "orgulloso, orgullosa",
+      "ko": "자랑스러워하는",
+      "ex": "Debes sentirte orgulloso.",
+      "exKo": "자랑스러워해야 한다."
+    },
+    {
+      "es": "el matiz",
+      "ko": "뉘앙스, 미묘한 차이",
+      "ex": "Estás siendo más profundo en el tema de matices.",
+      "exKo": "뉘앙스를 더 깊이 파고들고 있다."
+    },
+    {
+      "es": "desilusionarse",
+      "ko": "실망하다, 환멸을 느끼다",
+      "ex": "Muchas personas se desilusionan y dejan de aprender.",
+      "exKo": "많은 사람이 실망해서 공부를 그만둔다."
+    },
+    {
+      "es": "el fracaso",
+      "ko": "실패",
+      "ex": "Tu cerebro lo interpreta como si fuera un fracaso.",
+      "exKo": "뇌는 그걸 실패처럼 해석한다."
+    },
+    {
+      "es": "me cuesta (+ 원형)",
+      "ko": "~하기가 힘들다",
+      "ex": "Me cuesta muchísimo hablar con un nativo.",
+      "exKo": "원어민과 말하는 게 너무 힘들다."
+    },
+    {
+      "es": "puntual",
+      "ko": "구체적인, 딱 집어 말하는",
+      "ex": "Tres cosas muy puntuales y prácticas.",
+      "exKo": "아주 구체적이고 실용적인 세 가지."
+    },
+    {
+      "es": "por ende",
+      "ko": "그러므로, 따라서",
+      "ex": "Alcanzar, por ende, un nivel más avanzado.",
+      "exKo": "따라서 더 높은 수준에 도달한다."
+    },
+    {
+      "es": "drenar",
+      "ko": "(에너지를) 빼앗다, 빼내다",
+      "ex": "Hay un punto que drena tu energía.",
+      "exKo": "에너지를 빨아먹는 지점이 있다."
+    },
+    {
+      "es": "voltear",
+      "ko": "(고개를) 돌리다 〔멕〕",
+      "ex": "Puedes voltear y ver a tu compañero.",
+      "exKo": "고개를 돌려 친구를 볼 수 있다."
+    },
+    {
+      "es": "batallar (con)",
+      "ko": "~로 고생하다, 씨름하다 〔멕〕",
+      "ex": "Él va a batallar con otro tema.",
+      "exKo": "그는 다른 주제로 고생할 것이다."
+    },
+    {
+      "es": "huir",
+      "ko": "도망치다",
+      "ex": "No huyas, porque eso lo hace más complicado.",
+      "exKo": "도망치지 마, 더 복잡해질 뿐이야."
+    },
+    {
+      "es": "evitar",
+      "ko": "피하다",
+      "ex": "Muchos estudiantes se la pasan evitando esta gramática.",
+      "exKo": "많은 학생이 이 문법을 계속 피한다."
+    },
+    {
+      "es": "torpe",
+      "ko": "서툰, 어설픈",
+      "ex": "Me siento torpe porque no lo sé decir bien.",
+      "exKo": "제대로 못 말해서 서툴게 느껴진다."
+    },
+    {
+      "es": "el obstáculo",
+      "ko": "장애물",
+      "ex": "No tienes ese gran obstáculo enfrente.",
+      "exKo": "눈앞에 큰 장애물이 없다."
+    },
+    {
+      "es": "el reto",
+      "ko": "도전, 과제",
+      "ex": "Toma el reto de consumir cosas más avanzadas.",
+      "exKo": "더 어려운 걸 보는 도전을 해."
+    },
+    {
+      "es": "la zona de confort",
+      "ko": "컴포트 존, 안전지대",
+      "ex": "No estás saliendo de tu zona de confort.",
+      "exKo": "컴포트 존을 벗어나지 못하고 있다."
+    },
+    {
+      "es": "exponerse (a)",
+      "ko": "~에 자신을 노출하다",
+      "ex": "Aprendemos exponiéndonos a cosas complejas.",
+      "exKo": "복잡한 것에 노출되며 배운다."
+    },
+    {
+      "es": "sensato, sensata",
+      "ko": "분별 있는, 현명한",
+      "ex": "Hay que ser sensatos.",
+      "exKo": "현명해야 한다."
+    },
+    {
+      "es": "el propósito",
+      "ko": "목적",
+      "ex": "Ese no es el propósito.",
+      "exKo": "그게 목적이 아니다."
+    },
+    {
+      "es": "aventar",
+      "ko": "던지다 〔멕〕",
+      "ex": "Me aventaron al ruedo.",
+      "exKo": "나를 무대에 던져 넣었다."
+    },
+    {
+      "es": "atreverse",
+      "ko": "감히 ~하다, 용기를 내다",
+      "ex": "Atrévete, porque vale la pena.",
+      "exKo": "용기를 내, 그럴 가치가 있어."
+    },
+    {
+      "es": "valer la pena",
+      "ko": "~할 가치가 있다",
+      "ex": "Vale la pena hablar con nativos.",
+      "exKo": "원어민과 이야기할 가치가 있다."
+    },
+    {
+      "es": "la vergüenza",
+      "ko": "창피함, 부끄러움",
+      "ex": "No te preocupes por la vergüenza.",
+      "exKo": "창피함은 걱정하지 마."
+    },
+    {
+      "es": "¡ánimo!",
+      "ko": "힘내!",
+      "ex": "No va a pasar nada, ¡ánimo!",
+      "exKo": "아무 일도 없을 거야, 힘내!"
+    },
+    {
+      "es": "el bache",
+      "ko": "(도로의) 구덩이; 고비, 슬럼프",
+      "ex": "Para pasar estos baches de crecimiento…",
+      "exKo": "이런 성장의 고비를 넘으려면…"
+    },
+    {
+      "es": "emocionar",
+      "ko": "설레게 하다",
+      "ex": "Vocabulario que no te emociona no funciona.",
+      "exKo": "설레지 않는 어휘는 효과가 없다."
+    },
+    {
+      "es": "el arsenal",
+      "ko": "무기고; 잔뜩 갖춘 레퍼토리",
+      "ex": "Tengo un arsenal de expresiones nativas.",
+      "exKo": "원어민 표현을 잔뜩 갖고 있다."
+    },
+    {
+      "es": "¡órale!",
+      "ko": "좋아!, 그래!, 와! 〔멕〕",
+      "ex": "¿Qué significa «órale»?",
+      "exKo": "órale가 무슨 뜻이야?"
+    },
+    {
+      "es": "llamar la atención",
+      "ko": "눈길을 끌다",
+      "ex": "Nota qué frases te llaman la atención.",
+      "exKo": "어떤 표현이 눈길을 끄는지 알아차려."
+    },
+    {
+      "es": "tachar",
+      "ko": "(줄을 그어) 지우다",
+      "ex": "Elimina esa frase o táchala.",
+      "exKo": "그 표현을 지우거나 줄을 그어."
+    },
+    {
+      "es": "la compu",
+      "ko": "컴퓨터 (computadora 줄임) 〔멕〕",
+      "ex": "Puedes usar tu compu o tu teléfono.",
+      "exKo": "컴퓨터나 휴대폰을 써도 된다."
+    },
+    {
+      "es": "fielmente",
+      "ko": "충실하게, 그대로",
+      "ex": "Expresar tus ideas más fielmente a quien eres.",
+      "exKo": "너다운 모습 그대로 생각을 표현하기."
+    },
+    {
+      "es": "el brinquito",
+      "ko": "작은 점프 (brinco의 축소형)",
+      "ex": "Los hizo salir de su zona de confort y dar un brinquito.",
+      "exKo": "컴포트 존에서 나와 한 걸음 뛰어오르게 했다."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "진행자들이 말한 \"중급 정체기\"의 정체는 무엇인가요?",
+      "options": [
+        "실력이 실제로 떨어지는 현상",
+        "정체의 착각(ilusión de estancamiento)",
+        "원어민만 겪는 문제",
+        "초급자에게만 생기는 현상"
+      ],
+      "answer": 1,
+      "explain": "Ana: \"la realidad es que esto es una ilusión de estancamiento\" — 실제로는 계속 나아가고 있어요."
+    },
+    {
+      "q": "다비드에 따르면 초급과 중급의 발전은 어떻게 다른가요?",
+      "options": [
+        "초급은 깊게, 중급은 넓게",
+        "초급은 넓게(수평으로), 중급은 깊게",
+        "둘 다 똑같다",
+        "중급이 더 빠르다"
+      ],
+      "answer": 1,
+      "explain": "초급은 horizontalmente, 중급은 cambios profundos — 깊은 변화는 시간이 더 걸려요."
+    },
+    {
+      "q": "전략 1은 무엇인가요?",
+      "options": [
+        "단어를 많이 외우기",
+        "나를 방해하는 문법을 찾아 피하지 않기",
+        "쉬운 콘텐츠만 보기",
+        "앱을 매일 쓰기"
+      ],
+      "answer": 1,
+      "explain": "\"Deja de huir, deja de evitar el tema.\" 피하던 문법(예: 과거형)과 정면으로 마주하라는 거예요."
+    },
+    {
+      "q": "\"Deja de huir\"의 뜻은?",
+      "options": [
+        "계속 도망쳐",
+        "도망치지 마",
+        "도망치기 시작해",
+        "도망칠 수 있어"
+      ],
+      "answer": 1,
+      "explain": "dejar de + 원형 = ~을 그만두다. \"도망치는 걸 그만둬\" = 도망치지 마."
+    },
+    {
+      "q": "\"Sigues estudiando\"에서 seguir 뒤의 형태는?",
+      "options": [
+        "동사원형",
+        "과거분사",
+        "현재분사(-ando/-iendo)",
+        "접속법"
+      ],
+      "answer": 2,
+      "explain": "seguir + 현재분사 = 계속 ~하다."
+    },
+    {
+      "q": "전략 2에서 아나가 든 피아노 비유의 요점은?",
+      "options": [
+        "쉬운 곡만 연습해야 한다",
+        "쇼팽은 칠 수 없으니 보지 마라",
+        "당장 칠 수 없어도 높은 수준에 노출되면 배우는 게 있다",
+        "피아노가 스페인어보다 쉽다"
+      ],
+      "answer": 2,
+      "explain": "\"estoy expuesta y estoy aprendiendo otras cosas al estar expuesta.\""
+    },
+    {
+      "q": "어려운 콘텐츠를 볼 때 현명한 태도는?",
+      "options": [
+        "모든 단어를 사전으로 찾는다",
+        "이해 못 하면 바로 그만둔다",
+        "단어 하나하나를 다 이해하려 하지 않는다",
+        "자막 없이 열 번 본다"
+      ],
+      "answer": 2,
+      "explain": "\"no voy a intentar entender cada palabra. Ese no es el propósito.\""
+    },
+    {
+      "q": "다비드가 기타를 배울 때 빨리 성장한 이유는?",
+      "options": [
+        "혼자 천천히 연습해서",
+        "자기보다 잘하는 사람들 그룹에 들어가서",
+        "유튜브를 많이 봐서",
+        "선생님이 엄격해서"
+      ],
+      "answer": 1,
+      "explain": "\"me aventaron al ruedo\" — 더 잘하는 사람들이라는 도전과 약간의 사회적 압박이 성장을 빠르게 했어요."
+    },
+    {
+      "q": "'다섯 표현' 시스템에서 각 표현은 몇 번 써야 하나요?",
+      "options": [
+        "하루에 다섯 번",
+        "서로 다른 날 최소 세 번",
+        "한 번이면 충분",
+        "열 번"
+      ],
+      "answer": 1,
+      "explain": "\"Tienes que usar cada una por lo menos tres veces en días diferentes.\""
+    },
+    {
+      "q": "표현을 목록에서 지워도 되는 때는?",
+      "options": [
+        "세 번 읽었을 때",
+        "보지 않고 말할 수 있고 남에게 설명할 수 있을 때",
+        "일주일이 지났을 때",
+        "뜻을 적었을 때"
+      ],
+      "answer": 1,
+      "explain": "보지 않고 말할 수 있고(sin leerla), 다른 학생에게 설명할 수 있으면 tachar하고 새 표현을 추가해요."
+    },
+    {
+      "q": "\"Atrévete\"의 기본형 동사는?",
+      "options": [
+        "atraer",
+        "atreverse",
+        "atravesar",
+        "tratar"
+      ],
+      "answer": 1,
+      "explain": "atreverse(용기를 내다)의 tú 긍정 명령형 + 재귀대명사 te."
+    },
+    {
+      "q": "다비드가 말한 중급 단계에서 가장 발목을 잡는 것은?",
+      "options": [
+        "수동적인 학습자로 남는 것",
+        "너무 많이 말하는 것",
+        "문법책을 읽는 것",
+        "원어민 친구가 많은 것"
+      ],
+      "answer": 0,
+      "explain": "\"ser estudiante pasivo es una de las cosas que más te van a atrapar\" — 소비만 하지 말고 만들어 내세요(producir)."
+    }
+  ]
+}

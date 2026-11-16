@@ -1,0 +1,347 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: D = David, A = Ana. 화자는 대화 맥락으로 나눠서 일부 틀릴 수 있어요. END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자동 자막(단어별 시각). 빠진 고유명사(How to Spanish Podcast, studio.com/howtospanishpodcast)를 채우고, eh·en en en 같은 군말과 반복을 정리하고, plató/plato→plateau, estás como→estas, de siento→(삭제) 등을 바로잡았어요. 섹션은 영상 챕터를 따랐어요.
+END 21:34
+
+
+## 인트로 — 중급 정체기 시리즈를 시작하며
+[00:00.00]
+D | Hola, ¿qué tal? Esto es How to Spanish Podcast. | 안녕하세요, 잘 지내세요? 여기는 How to Spanish Podcast예요.
+[00:02.40]
+D | Yo soy David. | 저는 다비드예요.
+[00:03.40]
+A | Y yo soy Ana. | 그리고 저는 아나예요.
+[00:04.40]
+A | En este episodio vamos a empezar con una serie sobre el plateau intermedio y cómo salir de ahí. | 이번 에피소드에서는 중급 정체기(플래토)와 거기서 빠져나오는 방법에 관한 시리즈를 시작할 거예요.
+[00:25.00]
+A | Nos vemos en la Taquería. | 라 타케리아에서 만나요.
+
+## 중급까지 온 것만으로도 큰 성취
+[00:26.40]
+D | Hola, amigos, bienvenidos a How to Spanish Podcast, y vamos a empezar, como dijo Ana, esta nueva serie, este nuevo grupo de episodios en donde vamos a tratar de ayudarte en esta etapa en la que sabemos que muchos de ustedes pueden estar ahí. | 안녕하세요 여러분, How to Spanish Podcast에 오신 걸 환영해요. 아나가 말한 대로 이 새 시리즈, 새로운 에피소드 묶음을 시작할 텐데요, 여러분 중 많은 분이 지금 머물러 있을 이 단계에서 도움을 드리려고 해요.
+[00:42.60]
+D | Y algo muy importante antes que nada para dejar claro es: si ya estás aquí, ya pasaste una parte muy importante. | 그리고 무엇보다 먼저 분명히 해 둘 아주 중요한 점은, 지금 여기까지 왔다면 이미 아주 중요한 구간을 지나왔다는 거예요.
+[00:52.50]
+D | Dejaste el nivel básico, dejaste el nivel principiante. | 기초 단계를 벗어났고, 초급 단계를 벗어난 거예요.
+[00:56.80]
+D | Y si tú piensas en un embudo, hay muchísimas personas que inician cualquier cosa en modo principiante, claramente, pero especialmente en el aprendizaje de idiomas, y el aprendizaje de español tampoco es la excepción. | 깔때기를 떠올려 보면, 무엇이든 초보 상태로 시작하는 사람은 당연히 아주 많아요. 특히 언어 학습이 그렇고, 스페인어 학습도 예외가 아니에요.
+[01:12.00]
+D | Entonces, que tú estés en el punto intermedio, ya sea un intermedio principiante, un intermedio intermedio o un intermedio avanzado, es que ya pasaste un gran filtro. | 그러니까 여러분이 중급에 있다는 건, 초중급이든 중중급이든 중고급이든, 이미 큰 거름망을 통과했다는 뜻이에요.
+[01:24.20]
+D | Y eso debe de ser motivo de sentirte contento, orgulloso de que avanzaste muchísimo respecto al cien por ciento de la gente que empezó. | 그리고 그건 기뻐하고 자랑스러워할 이유가 돼야 해요. 시작한 사람 전체에 비해 엄청나게 앞으로 나아간 거니까요.
+[01:34.90]
+D | Entonces, dejando eso claro, vamos a empezar a hablar sobre esto. | 자, 그 점을 분명히 했으니 이제 본론을 이야기해 볼게요.
+[01:40.60]
+D | Primero definamos qué es este tema del plateau, que viene del francés, ¿no? | 먼저 '플래토'가 뭔지 정의해 봐요. 프랑스어에서 온 말이죠?
+[01:47.40]
+D | No creas que estoy diciendo «plato». | 제가 '접시(plato)'라고 말하는 줄 알면 안 돼요.
+[01:49.30]
+A | No es un plato. | 접시가 아니에요.
+[01:51.80]
+A | Sí, ¿qué significa? | 맞아요, 그럼 무슨 뜻일까요?
+[01:52.80]
+D | Y bueno, nada más te digo que esto podría traducirse como «la meseta intermedia», pero la mayoría de maestros utilizan esta frase: «plateau intermedio». | 그냥 말씀드리면, 이건 '중급의 고원(meseta intermedia)'이라고 옮길 수도 있지만, 대부분의 선생님들은 '중급 플래토'라는 표현을 써요.
+
+## 중급 정체기란 무엇이고, 왜 많은 학습자가 여기서 그만두나
+[02:07.09]
+A | Y bueno, es esta fase del aprendizaje de idiomas en la que sientes que has dejado de progresar a pesar de que sigues estudiando y dedicando tiempo. | 그러니까 이건 언어 학습에서, 계속 공부하고 시간을 쏟는데도 더는 늘지 않는다고 느끼는 단계예요.
+[02:18.29]
+D | Y esto, otra vez, piensa en tu proceso de principiante. | 그리고 이것도 다시, 초급자 시절을 떠올려 보세요.
+[02:23.69]
+D | Obviamente avanzabas un montón, porque es el momento en donde tienes todo por avanzar, todo por aprender, ¿no? | 당연히 엄청 많이 늘었죠. 나아갈 것도, 배울 것도 전부 남아 있는 시기니까요.
+[02:32.39]
+A | Ajá. | 그렇죠.
+[02:32.79]
+D | Todo el vocabulario es nuevo, los tiempos verbales son nuevos, todo, absolutamente todo es nuevo, y por lo tanto, a nivel progreso, eso te da una sensación de velocidad, ¿no? | 어휘도 전부 새롭고, 시제도 새롭고, 정말 모든 게 새로워요. 그래서 실력 면에서 속도감을 느끼게 되죠.
+[02:45.39]
+D | De «wow, hoy aprendí diez palabras nuevas». | "와, 오늘 새 단어를 열 개나 배웠어!" 하는 식으로요.
+[02:48.69]
+A | Sí, claro, las diez palabras fueron «hola», «adiós», «¿cómo estás?», ¿no? | 그렇죠, 그 열 단어가 '안녕', '잘 가', '어떻게 지내?' 같은 거였지만요.
+[02:52.29]
+D | Cuando eres principiante, claramente avanzas mucho en términos porcentuales. | 초급일 때는 비율로 따지면 분명히 많이 늘어요.
+[02:57.29]
+A | Ajá. | 맞아요.
+[02:57.69]
+D | Pero llegas a un momento en donde cada vez es más difícil, porque ya aprendiste mucho de la base, y ese avance se vuelve como pasitos más pequeños. | 그런데 점점 더 어려워지는 순간이 와요. 기초를 이미 많이 배웠으니까 발전이 점점 더 작은 걸음처럼 되거든요.
+[03:09.79]
+A | Ajá. | 네.
+[03:10.39]
+D | Y mucho más difíciles de medir. | 그리고 측정하기도 훨씬 어려워지고요.
+
+## 수평적 발전 vs. 깊어지는 발전
+[03:12.69]
+D | Y lo más interesante es que muchas veces, aunque la gente cree que está ahí estancada, sigue avanzando, ¿no? | 그리고 가장 흥미로운 건, 사람들이 정체돼 있다고 믿는 경우에도 실제로는 계속 나아가고 있을 때가 많다는 거예요.
+[03:19.39]
+D | A mí me gusta decir que cuando estás en los niveles principiantes avanzas, digamos, más horizontalmente, más anchamente, porque vas dando pasos grandes: de «no sé nada» a «puedo hablar en presente», «medio puedo hablar en pasado», «puedo tener una conversación básica». | 저는 이렇게 말하는 걸 좋아해요. 초급에서는 말하자면 수평으로, 넓게 나아가요. "아무것도 몰라"에서 "현재형으로 말할 수 있어", "과거형도 조금 돼", "기본 대화가 돼"로 큰 걸음을 내딛거든요.
+[03:37.89]
+D | Pero ya en el nivel intermedio son cambios profundos, y los cambios profundos toman más tiempo. | 하지만 중급에서는 깊은 변화가 일어나고, 깊은 변화는 시간이 더 걸려요.
+[03:44.49]
+A | Ajá. | 그렇죠.
+[03:45.39]
+D | Entonces ahí es donde realmente ya estás siendo más profundo en el tema de gramática, de matices: no solamente sé conjugar en pasado, sino que ya estoy entendiendo por qué uso imperfecto, por qué uso pretérito. | 그러니까 바로 그때 문법과 뉘앙스를 더 깊이 파고들게 돼요. 과거형으로 활용할 줄 아는 데서 그치지 않고, 왜 불완료과거를 쓰고 왜 단순과거를 쓰는지 이해하게 되는 거죠.
+[04:00.69]
+D | Ya estás notando estas pequeñas diferencias que realmente son muy importantes en el idioma, pero que un principiante todavía no puede ver, y no puede saber que existen. | 언어에서 정말 중요한 이런 작은 차이들을 알아차리기 시작한 거예요. 초급자는 아직 볼 수 없고, 그런 차이가 있다는 것조차 모르는 것들이죠.
+
+## 정체는 착각이다 — 뇌가 속이고 있다
+[04:12.39]
+A | Y también debemos ser muy claros y muy directos: en este proceso del plateau intermedio es donde muchas personas se desilusionan y dejan de aprender español, porque sienten que no pueden avanzar más. | 그리고 아주 분명하고 솔직하게 말해야 해요. 이 중급 정체기에서 많은 사람이 실망해서 스페인어 공부를 그만둬요. 더는 나아갈 수 없다고 느끼니까요.
+[04:28.19]
+A | Y la verdad es que es muy triste, porque finalmente pusiste esfuerzo inicial, pusiste tiempo, y ya puedes inclusive hablar el idioma, ¿no? | 그건 정말 안타까운 일이에요. 처음에 노력도 들이고 시간도 들였고, 이제 그 언어로 말까지 할 수 있는데 말이에요.
+[04:37.49]
+A | Entonces la realidad es que esto es una ilusión de estancamiento. | 그러니까 사실 이건 정체의 착각이에요.
+[04:42.29]
+A | Tu cerebro interpreta esto de que ya no avanzas tanto como si fuera un fracaso, pero la realidad es que no, porque ya puedes comunicarte en lo básico al menos, si no es que un poco más. | 뇌는 예전만큼 늘지 않는 걸 실패처럼 해석하지만, 실제로는 그렇지 않아요. 적어도 기본적인 의사소통은, 어쩌면 그 이상도 이미 할 수 있으니까요.
+[04:57.29]
+A | Pero a veces sucede que hay una distancia entre lo que entiendes y lo que eres capaz de expresar. | 그런데 가끔은 이해하는 것과 표현할 수 있는 것 사이에 거리가 생겨요.
+[05:03.19]
+D | Y lo sabemos porque un montón de gente que se ha unido a la Taquería nos ha dicho eso: «es que puedo escuchar, entiendo tu podcast, gracias por el podcast y todo esto, pero me cuesta muchísimo cuando tengo que hablar con alguien, cuando tengo que escuchar a un nativo que habla súper rápido». | 우리가 그걸 아는 건, 라 타케리아에 들어온 많은 분이 그렇게 말해 줬기 때문이에요. "들을 수는 있어요, 팟캐스트도 이해해요, 팟캐스트 고마워요. 그런데 누군가와 말해야 할 때, 엄청 빨리 말하는 원어민 말을 들어야 할 때는 너무 힘들어요."
+[05:21.39]
+D | Entonces este tipo de herramientas, como la Taquería, como esta comunidad donde puedes hablar, te ayudan muchísimo a avanzar y salir de esta ilusión de estancamiento. | 그래서 라 타케리아처럼 말할 수 있는 커뮤니티 같은 도구가 이 정체의 착각에서 벗어나 앞으로 나아가는 데 큰 도움이 돼요.
+[05:32.89]
+A | Mhm. | 음.
+[05:33.69]
+D | Y hoy queremos compartir contigo tres cosas muy, muy puntuales y prácticas que puedes pensar, analizar y hacer para justamente salir un poquito más rápido de esta sensación de estancamiento y alcanzar, por ende, más rápido un nivel un poquito más avanzado, ¿no? | 그리고 오늘은 이 정체감에서 조금 더 빨리 벗어나고, 그래서 조금 더 높은 수준에 더 빨리 도달하도록 생각하고 분석하고 실천할 수 있는 아주 구체적이고 실용적인 세 가지를 나누고 싶어요.
+[05:53.19]
+A | Entonces, el problema del que estamos hablando hoy en específico es esto de «siento que entiendo mucho, pero me comunico muy simple». | 그러니까 오늘 구체적으로 이야기하는 문제는 "많이 이해하는 것 같은데, 말은 아주 단순하게 한다"는 거예요.
+[06:04.49]
+A | No sé si te pasa que lees un artículo, escuchas un video o algo y dices: «entendí todo, entendí la idea general», pero cuando quieres hablar sobre ese tema, cuando te quieres expresar, usas formas bien básicas, bien simples. | 기사를 읽거나 영상을 듣고 "다 이해했어, 큰 줄거리는 알겠어" 하는데, 막상 그 주제로 말하고 표현하려고 하면 아주 기초적이고 단순한 표현만 쓰게 되는 경험, 있지 않나요?
+[06:21.30]
+A | Siento que mi vocabulario es como el de un niño de tres años, con mucho respeto, porque tengo un niño de tres años, pero se siente así, ¿no? | 내 어휘가 세 살 아이 수준 같다고 느끼는 거죠. 존중하는 마음으로 하는 말이에요, 저도 세 살 아이가 있으니까요. 그래도 그런 느낌이 들잖아요.
+[06:28.50]
+A | Y lo que dice David es bien frustrante, es esto de: «ah, pero si he estudiado tanto, pero si entiendo, ¿por qué no puedo sonar mejor? ¿Por qué no me puedo expresar mejor?» | 그리고 다비드 말처럼 이게 정말 답답한 거예요. "이렇게 많이 공부했고 이해도 되는데, 왜 더 자연스럽게 말하지 못하지? 왜 더 잘 표현하지 못하지?" 하는 거요.
+
+## 전략 1 — 발목 잡는 문법을 찾아 피하지 말기
+[06:39.19]
+A | Entonces, el punto número uno en el que tenemos que enfocarnos, ¿tú qué dirías que es? | 그럼 우리가 집중해야 할 첫 번째 포인트는 뭐라고 생각해요?
+[06:47.00]
+D | Tiene que ser analizar cuál es la gramática que te está afectando, porque normalmente hay un punto específico que es el que drena tu energía, ¿no? | 나를 방해하고 있는 문법이 무엇인지 분석하는 거예요. 보통 에너지를 빨아먹는 특정한 지점이 있거든요.
+[06:57.19]
+D | Que es el que drena esa emoción de seguir aprendiendo, pero que es una barrera, y pasa en los idiomas y pasa en muchas otras cosas. | 계속 배우고 싶은 의욕을 빼앗는 지점인데, 그게 장벽이 되는 거예요. 언어에서도 그렇고 다른 많은 일에서도 그래요.
+[07:07.69]
+D | Hay ciertas habilidades, o tal vez temas dentro de cualquier área de conocimiento, en donde te encuentras con cosas que son difíciles para ti. | 어떤 분야든 특정한 기술이나 주제에서 나에게 어려운 것들을 만나게 돼요.
+[07:19.00]
+D | Y puedes voltear y ver a tu compañero de al lado, que también está estudiando español y quizá lleva menos tiempo que tú, y ese tema lo aprendió facilísimo, y puede ser aún más frustrante. | 그리고 고개를 돌려 보면 옆자리 친구도 스페인어를 공부하는데, 어쩌면 나보다 공부한 기간이 짧은데도 그 주제를 아주 쉽게 배웠을 수 있어요. 그러면 더 답답하죠.
+[07:30.39]
+D | Pero seguramente él va a batallar con un tema que para ti fue como «ah, claro, esto fue muy sencillo». | 하지만 그 친구도 분명 나에게는 "아, 이건 아주 쉬웠지" 싶었던 주제로 고생하게 될 거예요.
+[07:36.30]
+D | Entonces hay que analizar eso. | 그러니까 그걸 분석해야 해요.
+[07:38.69]
+A | Y, ¿por qué es importante analizarlo? | 그럼 왜 그걸 분석하는 게 중요할까요?
+[07:40.80]
+A | Porque muchos estudiantes se la pasan evitando esta gramática. | 많은 학생이 그 문법을 계속 피하기만 하거든요.
+[07:45.50]
+A | Es como: «no, no me siento seguro del pretérito», por ejemplo, «del imperfecto». | 예를 들면 "아니, 단순과거나 불완료과거는 자신이 없어" 하는 식이죠.
+[07:50.69]
+A | «Entonces intento todo lo que puedo para no hablar en pasado. | "그래서 과거형으로 말하지 않으려고 온갖 방법을 다 써요.
+[07:55.10]
+A | Prefiero solo hablar en presente, en futuro, hasta en subjuntivo, pero no quiero hablar en pasado, porque ya sé que es difícil para mí y tal vez me siento torpe porque no lo sé decir bien». | 현재형이나 미래형, 심지어 접속법으로만 말하는 게 낫고, 과거형으로는 말하기 싫어요. 나한테 어렵다는 걸 알고, 제대로 못 말하니 서툴게 느껴지니까요."
+[08:05.80]
+A | Entonces, punto número uno: deja de huir, deja de evitar el tema. | 그러니까 첫 번째 포인트: 도망치지 말고, 그 주제를 피하지 마세요.
+[08:11.40]
+A | Es lo mejor que puedes hacer: tomar ese tema y aprenderlo con calma, con un maestro, con una app, tú solo, pero no huyas, porque eso solamente lo hace más complicado. | 그 주제를 붙잡고 차분히 배우는 게 최선이에요. 선생님과 함께든, 앱으로든, 혼자서든요. 하지만 도망치지는 마세요. 그러면 더 복잡해질 뿐이에요.
+[08:24.50]
+A | Ya tienes un tema específico en el cual te puedes enfocar, y créeme que cuando lo puedas entender un poco mejor y te sientas más cómodo con la estructura, vas a sentir que estás haciendo más progreso, porque no tienes ese gran obstáculo enfrente de ti todo el tiempo. | 이제 집중할 구체적인 주제가 생긴 거예요. 그걸 조금 더 이해하고 그 구조가 편해지면, 늘 눈앞을 막던 큰 장애물이 사라지니 훨씬 더 발전하고 있다고 느끼게 될 거예요. 믿어 보세요.
+[08:40.80]
+A | Y ya vamos a pasar al punto número dos, pero quiero aprovechar para decirte que a partir de mañana, 17 de noviembre del 2026, va a estar disponible un descuento en nuestra app. | 이제 두 번째 포인트로 넘어갈 텐데, 그 전에 잠깐 알려 드릴게요. 내일 2026년 11월 17일부터 저희 앱 할인이 시작돼요.
+[08:52.90]
+A | Si nunca la has usado, te recomiendo que la revises. | 한 번도 안 써 보셨다면 한번 살펴보시길 추천해요.
+[08:59.10]
+A | Me encanta que puedes personalizarla y decirle a tu coach: «yo quiero practicar el subjuntivo toda la semana, dame ideas para practicarlo, quiero hablar en conversación contigo». | 맞춤 설정을 할 수 있어서 정말 좋아요. 코치에게 "이번 주 내내 접속법을 연습하고 싶어, 연습 아이디어를 줘, 너랑 대화하고 싶어"라고 말할 수 있거든요.
+[09:09.90]
+A | Entonces puedes enfocarla justo en esto, y es una manera con menos presión en la que puedes practicar. | 그러니까 딱 이 부분에 맞춰 쓸 수 있고, 부담을 덜 느끼며 연습할 수 있는 방법이에요.
+[09:17.10]
+A | Así que, si es para ti, puedes ir a studio.com/howtospanishpodcast, y también está en las notas del episodio o en la descripción del video. | 그러니 관심 있으시면 studio.com/howtospanishpodcast로 가 보세요. 에피소드 노트나 영상 설명에도 있어요.
+
+## 전략 2 — 수준보다 어려운 콘텐츠를 두려워하지 말기
+[09:27.70]
+D | Y bueno, vamos al siguiente punto que queremos tocar el día de hoy, que es no tenerle miedo a lo más avanzado. | 자, 오늘 다루고 싶은 다음 포인트로 가 볼게요. 더 어려운 것을 두려워하지 않기예요.
+[09:37.70]
+A | Sí. | 네.
+[09:38.80]
+A | He visto esto muchas veces. | 저는 이런 걸 정말 많이 봤어요.
+[09:40.80]
+A | Le das a un estudiante una historia, un artículo, un video que claramente está un poco más avanzado que su nivel, y luego luego pone un alto y dice: «no, no, es que habla muy rápido», «no, es que estas palabras son muy poéticas, yo no las entiendo, yo no las uso», y de inmediato dice que no. | 학생에게 자기 수준보다 분명히 조금 높은 이야기나 기사, 영상을 주면 곧바로 멈춰 세우고 말해요. "아니, 아니, 너무 빨리 말해요", "아니, 이 단어들은 너무 시적이라 이해도 안 되고 안 써요." 그러고는 바로 거절해요.
+[10:02.30]
+A | ¿Y por qué es importante tener una variedad de input? | 그럼 왜 다양한 인풋이 중요할까요?
+[10:06.90]
+A | Porque está muy bien que consumas cosas que puedes entender al cien por ciento, o cosas que solo son por diversión, una historia muy simple, lo que tú quieras. | 100% 이해할 수 있는 것이나 그냥 재미로 보는 것, 아주 단순한 이야기 등 원하는 걸 보는 건 아주 좋아요.
+[10:15.20]
+A | Pero si no tomas el reto de consumir cosas un poco más avanzadas, más complicadas para ti, no estás saliendo de tu zona de confort, y la manera en que aprendemos cosas más complejas es exponiéndonos a ellas. | 하지만 조금 더 높고 더 복잡한 것에 도전하지 않으면 컴포트 존을 벗어나지 못해요. 우리가 더 복잡한 걸 배우는 방법은 그것에 노출되는 거예요.
+[10:31.10]
+D | Mhm. | 음.
+[10:31.60]
+A | Entonces, por ejemplo, si yo quiero tocar el piano, pero todo el tiempo escucho y veo videos de «Estrellita, ¿dónde estás?» y nunca me pongo a ver un video de Chopin o de Bach o algo así, por supuesto no puedo tocar eso, pero estoy expuesta y estoy aprendiendo otras cosas al estar expuesta. | 예를 들어 제가 피아노를 치고 싶은데 맨날 '반짝반짝 작은 별' 영상만 듣고 보고, 쇼팽이나 바흐 같은 영상은 한 번도 안 본다고 해 봐요. 물론 그런 곡은 칠 수 없지만, 노출되는 것만으로도 다른 것들을 배우게 돼요.
+[10:49.70]
+A | Es como: «ah, existe eso», «ah, mira, movió la mano diferente». | "아, 저런 것도 있구나", "어, 봐, 손을 다르게 움직였네" 하는 식으로요.
+
+## 어려운 인풋이 뇌가 스페인어를 처리하는 방식을 바꾼다
+[10:54.00]
+A | Y lo mismo pasa con las cosas en español. | 스페인어로 된 것들도 마찬가지예요.
+[10:57.25]
+A | Al leer un poema, por ejemplo, a lo mejor no vas a entender todo. | 예를 들어 시를 읽으면 아마 다 이해하지는 못할 거예요.
+[11:00.90]
+A | Es complicado entender un poema a veces en tu propio idioma, pero más en otro idioma. | 시는 모국어로도 이해하기 어려울 때가 있는데, 다른 언어라면 더하죠.
+[11:05.80]
+A | Pero no importa, porque ahí, ¿qué hay? | 하지만 상관없어요. 거기엔 뭐가 있을까요?
+[11:08.10]
+A | Hay pronunciación, hay rimas, hay métrica, hay palabras bonitas, hay cosas interesantes. | 발음이 있고, 각운이 있고, 운율이 있고, 예쁜 단어들과 흥미로운 것들이 있어요.
+[11:14.00]
+A | Entonces, deja de tener miedo a exponerte a eso. | 그러니 그런 것에 노출되는 걸 두려워하지 마세요.
+[11:17.70]
+A | Lee historias más complicadas, pero también hay que ser sensatos y decir: «okay, este cuento, este artículo, este video es más avanzado que mi nivel, por lo tanto no voy a intentar entender cada palabra». | 더 어려운 이야기를 읽으세요. 다만 현명하게, "좋아, 이 이야기·기사·영상은 내 수준보다 높으니까 단어 하나하나를 다 이해하려고 하지는 않을 거야"라고 생각해야 해요.
+[11:32.80]
+A | Ese no es el propósito. | 그게 목적이 아니에요.
+[11:34.30]
+A | El propósito es exponerme, es ver qué puedo entender, intentar que mi cerebro escuche o aprenda español de otra manera, que escuche español más rápido. | 목적은 노출되는 것, 내가 무엇을 이해할 수 있는지 보는 것, 내 뇌가 스페인어를 다른 방식으로 듣고 배우게 하는 것, 더 빠른 스페인어를 듣게 하는 거예요.
+[11:46.00]
+A | Entonces es importante, porque un día vas a ser capaz de entender eso. | 그래서 중요해요. 언젠가는 그걸 이해할 수 있게 될 테니까요.
+[11:50.30]
+A | Tal vez hoy no, pero no es razón para decir: «no, no, no, no puedo porque es demasiado avanzado». | 오늘은 아닐 수도 있지만, 그게 "아니, 아니, 너무 어려워서 못 해"라고 말할 이유는 안 돼요.
+[11:55.50]
+A | Siempre hay algo de valor. | 언제나 가치 있는 무언가가 있어요.
+[11:57.00]
+D | Y esto igual sucede en muchas cosas en la vida, y yo puedo decir que para mí esto fue muy importante en el aprendizaje de la música. | 이건 삶의 많은 일에서도 똑같이 일어나요. 저한테는 음악을 배울 때 이게 아주 중요했어요.
+[12:07.00]
+D | Me acuerdo cuando empecé a tocar la guitarra: me metieron a un grupo en donde había muchos chicos de secundaria que ya tocaban, y me dijeron: «okay, necesitamos más gente». | 기타를 처음 배우기 시작했을 때가 기억나요. 이미 연주를 하던 중학생이 많은 그룹에 저를 넣어 놓고는 "좋아, 사람이 더 필요해"라고 했어요.
+[12:20.00]
+D | Se hizo un pequeño grupo para tocar en algunos lugares de parte de la escuela, y me aventaron al ruedo así, como si yo ya supiera mucho. | 학교를 대표해 여기저기서 연주할 작은 그룹이 만들어졌는데, 제가 이미 많이 아는 것처럼 저를 그냥 무대에 던져 넣었죠.
+[12:29.70]
+D | Y tener ese reto de personas mucho más avanzadas que yo me hizo crecer, me hizo desarrollarme mucho más rápido de lo que lo hubiera hecho a mi nivel calmado, porque finalmente esta presión, un poco social si quieres llamarlo, provoca que nos aventemos más y que el aprendizaje sea más rápido. | 저보다 훨씬 잘하는 사람들이라는 도전이 저를 성장시켰고, 제 느긋한 속도로 했을 때보다 훨씬 빨리 발전하게 했어요. 결국 이런, 굳이 말하자면 약간의 사회적 압박이 우리를 더 과감하게 뛰어들게 하고 학습을 더 빠르게 만들거든요.
+[12:54.00]
+D | Entonces, otra de las cosas que puedes hacer es sí exponerte a cosas más difíciles, más avanzadas, como contenido más difícil, pero también exponerte a relaciones reales avanzadas, ¿no? | 그러니까 할 수 있는 또 하나는 더 어렵고 높은 수준의 것, 예를 들어 더 어려운 콘텐츠에 노출되는 것이지만, 실제로 수준 높은 사람들과의 관계에도 자신을 노출하는 거예요.
+[13:06.10]
+D | Ya sea con personas que hablan un español mucho más avanzado que tú, estudiantes como tú, pero también irte y hablar con el nativo que puedas encontrar en la carnicería, en el supermercado, donde sea. | 나보다 훨씬 스페인어를 잘하는 사람이든, 나 같은 학생이든요. 그리고 정육점이든 슈퍼마켓이든 어디서든 만날 수 있는 원어민에게 가서 말을 걸어 보는 것도요.
+[13:20.50]
+A | Y hemos hablado mucho últimamente de esto: atrévete, atrévete, porque vale la pena. | 그리고 최근에 이 얘기를 많이 했죠. 용기를 내세요, 용기를 내세요, 그럴 가치가 있으니까요.
+[13:25.80]
+A | Y también lo que siempre hemos dicho: no te preocupes por la vergüenza, por cualquiera de estas cosas mentales que tenemos, que son reales. | 그리고 우리가 늘 말해 온 것처럼, 창피함이나 우리가 가진 이런저런 심리적인 것들은 실제로 존재하긴 하지만 걱정하지 마세요.
+[13:34.80]
+A | Se van a olvidar de ti en un día, entonces no va a pasar nada. ¡Ánimo! | 하루만 지나면 다들 잊어버릴 테니 아무 일도 안 일어나요. 힘내세요!
+[13:39.60]
+A | Tú haz ese reto de ir por lo más avanzado. | 더 높은 수준을 향해 가는 그 도전을 해 보세요.
+
+## 전략 3 — 나다운 어휘를 늘리는 '다섯 표현' 시스템
+[13:42.60]
+A | Y nuestro último punto de hoy es oro. | 그리고 오늘의 마지막 포인트는 금 같은 거예요.
+[13:45.70]
+A | Quédate, porque te voy a dar un sistema, así literal, que tú puedes seguir empezando hoy, ¿okay? | 끝까지 들어 주세요. 오늘부터 바로 따라 할 수 있는, 말 그대로 하나의 시스템을 드릴 거예요. 알겠죠?
+[13:52.50]
+A | Pero el tema es: ¿cómo puedo agregar más vocabulario realmente de valor a mi vida? ¿Cómo sé a qué tipo de vocabulario invertirle tiempo? | 주제는 이거예요. 내 삶에 정말 가치 있는 어휘를 어떻게 더 늘릴 수 있을까? 어떤 종류의 어휘에 시간을 투자해야 하는지 어떻게 알까?
+[14:03.90]
+D | Mhm. Y esto es muy, muy importante, porque también, como hemos dicho en otros episodios, recuerda que para que puedas aprender de una mejor manera y pasar estos baches de crecimiento, tienes que hacer que el español sea algo que se relaciona contigo. | 음, 이건 정말 정말 중요해요. 다른 에피소드에서도 말했듯이, 더 잘 배우고 이런 성장의 고비를 넘으려면 스페인어를 나와 관련된 것으로 만들어야 해요.
+[14:21.60]
+D | No va a funcionar si te pones a aprender vocabulario que quizá nunca vas a utilizar, pero sobre todo que no te emociona, ¿no? | 아마 평생 쓰지도 않을, 무엇보다 설레지도 않는 어휘를 공부하면 효과가 없을 거예요.
+[14:29.90]
+D | Aprende, no sé, si te gustan los coches como a mí, aprende sobre mecánica o sobre los nuevos autos, pero en español, ¿no? | 예를 들어 저처럼 자동차를 좋아한다면 정비나 신차에 대해 배우세요. 다만 스페인어로요.
+[14:38.00]
+D | Entonces eso te va a ayudar muchísimo. | 그러면 엄청 도움이 될 거예요.
+[14:41.20]
+D | Pero bueno, entonces, Ana, ¿cuál es este sistema? | 그래서 아나, 그 시스템이 뭐예요?
+[14:43.70]
+D | ¿Cómo le has hecho tú para aprender inglés, que, digamos, es como el idioma más fuerte que tenemos aparte del español? | 우리가 스페인어 다음으로 가장 잘하는 언어라고 할 수 있는 영어를 당신은 어떻게 배웠어요?
+[14:52.90]
+D | ¿Cómo funcionó para ti? ¿Cómo le hiciste? | 당신한테는 어떻게 통했어요? 어떻게 했어요?
+[14:55.40]
+A | Okay, primero te voy a contar un poco mi historia y después te voy a dar el sistema que creé, realmente hasta ahora, como estudiante de idiomas y como maestra de español, entonces estoy segura de que puede funcionar bien. | 좋아요, 먼저 제 이야기를 조금 하고 나서 제가 만든 시스템을 알려 드릴게요. 지금까지 언어 학습자로서, 또 스페인어 교사로서 만든 거라 잘 통할 거라고 확신해요.
+[15:11.90]
+A | Pero la verdad es que, si lo piensas, muchas veces nos pasa que estamos hablando y digo una frase, y personas me han escrito, nativos me han dicho: «¿cómo sabes eso? ¿Cómo sabes decir esa frase?» | 사실 생각해 보면, 대화하다가 제가 어떤 표현을 말하면 사람들이 메시지를 보내거나 원어민들이 "그걸 어떻게 알아요? 그 표현을 어떻게 알아요?" 하고 묻는 일이 자주 있어요.
+[15:24.70]
+A | O David me dice: «¿qué es eso?», y ya le explico, y a veces le digo: «no sé cómo sé esa frase», ¿no? | 아니면 다비드가 "그게 뭐야?" 하고 물으면 설명해 주고, 가끔은 "내가 그 표현을 어떻게 아는지 모르겠어"라고 하죠.
+[15:30.60]
+A | O sea, la verdad es que sí cometo errores y lo que sea, pero sí tengo un arsenal de expresiones y frases muy nativas, digamos, en inglés, ¿no? | 그러니까 실수도 하고 그렇긴 하지만, 영어로 말하자면 아주 원어민스러운 표현과 문장을 무기고처럼 잔뜩 갖고 있어요.
+[15:41.10]
+A | Entonces, la verdad es que ya analizándolo me di cuenta de que yo no dejo de aprender nunca. | 그래서 분석해 보니, 저는 배우기를 절대 멈추지 않는다는 걸 깨달았어요.
+
+## 이해하는 것과 쓸 수 있는 것은 다르다
+[15:49.50]
+A | Un error que cometen los estudiantes intermedios, y sobre todo los avanzados, es que dicen: «ah, ya entendí todo, y listo, no hay más que hacer». | 중급, 특히 고급 학습자들이 저지르는 실수는 "아, 다 이해했어, 끝, 더 할 거 없어"라고 말하는 거예요.
+[15:58.90]
+A | No, siempre va a haber la posibilidad de que entendiste algo, pero entender y ser capaz de usarlo son dos cosas completamente diferentes. | 아니에요. 무언가를 이해했을 수는 있지만, 이해하는 것과 그걸 쓸 수 있는 것은 완전히 다른 두 가지예요.
+[16:07.40]
+A | Porque es posible que escuches algo y entiendas absolutamente todo, pero no eres capaz de usar esa frase específica que alguien dijo. | 무언가를 듣고 전부 다 이해해도, 누군가 말한 그 특정한 표현을 직접 쓰지는 못할 수 있거든요.
+[16:14.90]
+A | Entonces, si yo te digo: ¿qué significa «órale»? | 그럼 제가 "órale가 무슨 뜻이에요?" 하고 물으면요.
+[16:18.40]
+A | Tal vez, si eres intermedio, tú sabes lo que «órale» en español significa, pero ¿lo usas? ¿Lo dices? | 중급이라면 스페인어로 órale가 무슨 뜻인지 알 수도 있어요. 그런데 그걸 쓰나요? 말하나요?
+[16:26.80]
+A | No, muy probablemente no. | 아니요, 아마 안 쓸 거예요.
+[16:29.30]
+A | Entonces, eso es algo sobre lo que tú tienes poder. Tú puedes cambiar eso. | 그런데 그건 여러분이 바꿀 수 있는 거예요. 여러분이 그걸 바꿀 수 있어요.
+[16:34.90]
+A | Cada vez que tengas una conversación con un nativo, escuches algo o leas algo, es importante que notes qué frases te llaman la atención, pero que no dices a pesar de que las entiendas. | 원어민과 대화하거나 무언가를 듣거나 읽을 때마다, 눈길을 끌지만 이해하면서도 직접 말하지는 않는 표현이 무엇인지 알아차리는 게 중요해요.
+[16:49.20]
+A | Y lo importante es tomar esas y decir: «uy, esta frase es maravillosa, me encanta cómo suena, me encanta lo que significa, voy a usarla». | 그리고 그런 표현을 골라서 "와, 이 표현 정말 멋지다, 소리도 좋고 뜻도 좋아, 이걸 써 봐야지" 하는 게 중요해요.
+
+## 시스템은 이렇게 — 단계별로
+[16:58.50]
+D | Perfecto. Entonces, ¿cuál es el sistema? | 좋아요. 그럼 그 시스템은 뭐예요?
+[17:01.50]
+A | Okay. Vas a tener una nota en tu teléfono, o un cuaderno, mejor, porque está probado que cuando escribes la información se retiene de mejor manera, pero puedes usar tu compu o tu teléfono, ¿okay? | 좋아요. 휴대폰에 메모를 하나 만들거나, 더 좋은 건 공책이에요. 손으로 쓰면 정보가 더 잘 기억된다는 게 증명됐거든요. 그래도 컴퓨터나 휴대폰을 써도 돼요.
+[17:14.80]
+A | Vas a tener una nota o un cuaderno específico en donde tu tarea va a ser tener cinco, máximo cinco frases o palabras en español que te interesen mucho, que digas: «suenan muy bonitas», o «me encanta lo que expresa», o «wow, qué palabra tan interesante». | 전용 메모나 공책을 하나 두고, 거기에 정말 관심 가는 스페인어 표현이나 단어를 다섯 개, 최대 다섯 개 적는 게 과제예요. "소리가 참 예쁘다", "표현하는 뜻이 너무 좋다", "와, 정말 흥미로운 단어네" 싶은 것들로요.
+[17:33.90]
+D | Ajá. | 아하.
+[17:35.00]
+A | Y lo que vas a hacer es que en esa lista vas a escribir qué significa, vas a investigar realmente cuándo se usa, cualquier información, toda la información que puedas sobre esa frase o esa palabra. | 그리고 그 목록에 뜻을 적고, 실제로 언제 쓰는지 조사하고, 그 표현이나 단어에 대해 찾을 수 있는 정보를 전부 적는 거예요.
+[17:48.90]
+A | Y el propósito no es nada más escribirlas. No puedes tener más de cinco, ¿okay? Solo cinco, máximo. | 그리고 목적은 그냥 적어 두는 게 아니에요. 다섯 개보다 많으면 안 돼요, 알겠죠? 최대 다섯 개만이에요.
+[17:56.10]
+A | Tienes que usar cada una por lo menos tres veces en días diferentes. | 각각을 서로 다른 날에 최소 세 번씩 써야 해요.
+[18:02.30]
+A | Entonces, puedes escribir un mensaje a un amigo en español usando esta frase. | 예를 들어 그 표현을 써서 친구에게 스페인어로 메시지를 보낼 수 있어요.
+[18:08.40]
+A | Úsala en una de las conversaciones con estudiantes que tenemos en la Taquería, o busca un video de YouTube y escribe un comentario con tu opinión usando esta frase o esta palabra. | 라 타케리아에서 하는 학생들과의 대화에서 써 보거나, 유튜브 영상을 찾아서 그 표현이나 단어를 넣어 의견 댓글을 달아 보세요.
+[18:20.20]
+A | Si ya la usaste tres veces, ahora vas a preguntarte: ¿puedes decir la frase o palabra sin leerla? | 세 번 썼다면 이제 스스로 물어보세요. 보지 않고 그 표현이나 단어를 말할 수 있나?
+[18:26.50]
+A | Sí, okay. | 그렇다면 좋아요.
+[18:28.10]
+A | ¿Y serías capaz de explicarle a alguien, a otro estudiante, cómo se usa, qué significa, etcétera? | 그리고 다른 학생 같은 누군가에게 그게 어떻게 쓰이고 무슨 뜻인지 등을 설명할 수 있나?
+[18:35.60]
+A | ¿Sí? Okay, entonces es momento de eliminar esa frase de tu cuaderno, o tacharla, y agregar una nueva. | 그렇다고요? 좋아요, 그럼 그 표현을 공책에서 지우거나 줄을 긋고 새 표현을 추가할 때예요.
+[18:42.90]
+A | Entonces vas a estar haciendo esto durante un período; haz la prueba durante un mes, dos meses, y vas a ver que si cumples con todos los pasos que yo te dije, vas a ir avanzando tu vocabulario de manera muy grande, pero además de palabras, de frases que suenan como tú. | 이걸 일정 기간 계속하는 거예요. 한 달, 두 달 시험해 보세요. 제가 말한 단계를 다 지키면 어휘가 크게 늘어나는 걸 보게 될 거예요. 게다가 단어뿐 아니라 나다운 표현들로요.
+[19:01.60]
+A | Porque si yo te digo «estudia una lista de animales» y a ti no te gustan los animales, como dijo David, ¿cuál es el punto? | 제가 "동물 목록을 공부해"라고 했는데 동물을 안 좋아한다면, 다비드 말처럼 무슨 의미가 있겠어요?
+[19:08.00]
+A | Está bien saber esas palabras, pero creo que aquí el punto, lo que queremos, es que seas capaz de expresar tus ideas más fielmente a quien eres tú, sin que el idioma sea una barrera. | 그런 단어를 아는 것도 좋지만, 여기서 핵심, 우리가 바라는 건 언어가 장벽이 되지 않고 여러분이 자기 자신에게 더 충실하게 생각을 표현할 수 있게 되는 거예요.
+
+## 소비하기 vs. 만들어 내기
+[19:18.90]
+D | Y esto tiene mucho que ver con esta idea y esta iniciativa que tuvimos durante varios episodios hace unos meses, que tiene que ver con producir. | 이건 몇 달 전 여러 에피소드에 걸쳐 했던 아이디어이자 프로젝트, 즉 '만들어 내기'와 깊은 관련이 있어요.
+[19:28.20]
+D | Recuerda que ser estudiante pasivo es una de las cosas que más te van a atrapar en este punto intermedio, porque sí, es mucho más cómodo consumir, ¿no? | 수동적인 학습자로 머무는 게 이 중급 단계에서 여러분을 가장 붙잡아 두는 것 중 하나라는 걸 기억하세요. 소비하는 게 훨씬 편하니까요.
+[19:41.40]
+D | Leer listas de vocabulario, ver episodios, escuchar podcasts. | 단어 목록을 읽고, 에피소드를 보고, 팟캐스트를 듣는 것 말이에요.
+[19:46.60]
+D | Y esto es mucho lo que a veces hacen las escuelas de idiomas, ¿no?, o en la universidad, o en la preparatoria si tomaste español. | 그리고 이게 어학원이나, 스페인어를 수강했다면 대학이나 고등학교에서 흔히 하는 방식이죠.
+[19:54.90]
+D | Es muy pasivo, ¿no? Y es por eso que es muy frustrante. | 아주 수동적이에요. 그래서 그렇게 답답한 거고요.
+[19:59.50]
+D | Llegas a tener demasiada información sin tener la capacidad de producir con todas estas herramientas que Ana te dio. | 정보는 너무 많아지는데, 아나가 알려 준 이 모든 도구로 무언가를 만들어 낼 능력은 없는 상태가 되는 거죠.
+[20:07.30]
+D | Entonces recuerda que es muy importante producir, así como muchos de ustedes nos hicieron llegar sus videos, sus podcasts, sus reels en Instagram y todo esto. | 그러니 만들어 내는 게 아주 중요하다는 걸 기억하세요. 여러분 중 많은 분이 영상, 팟캐스트, 인스타그램 릴스 같은 걸 보내 주셨던 것처럼요.
+[20:17.20]
+D | Fue genial verlos, porque realmente se dedicaron a hablar de cosas que para ustedes eran importantes, y que los hicieron salir de esta zona de confort y dar un brinquito. | 그걸 보는 게 정말 멋졌어요. 여러분에게 중요한 것들에 대해 정말 열심히 이야기했고, 그게 여러분을 컴포트 존 밖으로 꺼내 한 걸음 뛰어오르게 했으니까요.
+
+## 만든 것을 라 타케리아에서 나누기
+[20:27.51]
+A | Que, por cierto, en la Taquería justamente tenemos un espacio donde puedes publicar este tipo de contenido que están creando los estudiantes. | 그런데 말이 나와서 말인데, 라 타케리아에는 학생들이 만든 이런 콘텐츠를 올릴 수 있는 공간이 마침 있어요.
+[20:35.61]
+D | Así es. | 맞아요.
+[20:36.11]
+D | Así que, si esta información es nueva para ti, te invitamos: crea algo en español y compártelo con nosotros y con otros estudiantes, ¿no? | 그러니 이 이야기가 처음이라면, 스페인어로 무언가를 만들어서 저희와 다른 학생들에게 나눠 주세요.
+[20:44.31]
+D | Puede ser un episodio de podcast que tú crees, un video hablando de algo que te interesa, lo que sea, pero el punto es que uses tu español hablándolo, ¿okay? | 직접 만든 팟캐스트 에피소드도 좋고, 관심 있는 걸 이야기하는 영상도 좋고, 뭐든 괜찮아요. 핵심은 스페인어를 말하면서 쓰는 거예요, 알겠죠?
+[20:55.01]
+A | Bueno, eso es todo por este episodio. | 자, 이번 에피소드는 여기까지예요.
+[20:56.81]
+A | Esperamos que este grupo de episodios te ayude a mejorar, a darte ánimos, a avanzar en tu proceso de aprendizaje de español. | 이 에피소드 시리즈가 여러분이 실력을 키우고, 힘을 얻고, 스페인어 학습에서 앞으로 나아가는 데 도움이 되길 바라요.
+[21:05.81]
+D | Y ya sabes, aprovecha los descuentos de estas semanas de Black Friday, Black November, no sé cómo le digan, pues, en fin, porque son bastante buenos. | 그리고 아시죠, 블랙 프라이데이, 블랙 노벰버, 뭐라고 부르든 이번 몇 주간의 할인을 꼭 활용하세요. 꽤 괜찮거든요.
+[21:15.11]
+D | Y bueno, nos vemos la siguiente semana. | 그럼 다음 주에 만나요.
+[21:16.90]
+A | Adiós. | 안녕히 계세요.
+[21:17.40]
+D | Adiós. | 안녕히 계세요.

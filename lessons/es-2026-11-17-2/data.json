@@ -1,0 +1,1672 @@
+{
+ "id": "es-2026-11-17-2",
+ "lang": "es",
+ "date": "2026-11-17",
+ "title": "중급 정체기 뚫는 법 — 세 가지 전략과 '다섯 표현' 시스템",
+ "es": "Entender y ser capaz de usarlo son dos cosas completamente diferentes.",
+ "emoji": "🧗",
+ "level": "B1–B2",
+ "channel": "How to Spanish Podcast",
+ "videoTitle": "How to Break Through the Intermediate Plateau in Spanish (3 Strategies That Work) - EP430",
+ "youtube": "rwr17W_-m3c",
+ "duration": "21:34",
+ "speakers": {
+  "D": "David",
+  "A": "Ana"
+ },
+ "hideCast": true,
+ "summary": "멕시코 출신 부부 진행자 다비드와 아나가 \"많이 알아듣는데 말은 단순하게만 나온다\"는 중급 정체기(plateau intermedio)를 다뤄요. 정체는 착각이라는 것, 그리고 ① 피하던 문법과 정면으로 마주하기 ② 수준보다 어려운 인풋과 사람에게 자신을 노출하기 ③ 마음에 드는 표현 최대 5개를 서로 다른 날 3번씩 써 보는 '다섯 표현' 시스템을 소개해요. 멕시코식 구어(órale, aventar, batallar, compu)도 함께 익혀 보세요.",
+ "topics": [
+  "중급 정체기: plateau intermedio · meseta · estancamiento",
+  "정체는 착각: ilusión de estancamiento · avanzar · progresar",
+  "전략 1: dejar de huir · evitar · enfrentar la gramática",
+  "전략 2: input avanzado · zona de confort · exponerse",
+  "전략 3: 다섯 표현 시스템 · usar 3 veces · tachar",
+  "소비 vs 생산: consumir · producir · estudiante pasivo",
+  "멕시코 구어: órale · aventar · batallar · compu · brinquito"
+ ],
+ "grammar": [
+  {
+   "title": "① dejar de / seguir + 동사 — 멈추기와 계속하기",
+   "lead": "<b>dejar de + 동사원형</b>은 \"~을 그만두다\", <b>seguir + 현재분사</b>는 \"계속 ~하다\"예요. 이 에피소드의 핵심 구조예요.",
+   "table": {
+    "head": [
+     "형태",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "dejar de + 원형",
+      "~을 그만두다",
+      "Deja de huir."
+     ],
+     [
+      "dejar de + 원형 (완료)",
+      "~하지 않게 되었다",
+      "Sientes que has dejado de progresar."
+     ],
+     [
+      "seguir + -ando/-iendo",
+      "계속 ~하다",
+      "Sigues estudiando y dedicando tiempo."
+     ],
+     [
+      "no dejar de + 원형",
+      "끊임없이 ~하다",
+      "Yo no dejo de aprender nunca."
+     ],
+     [
+      "dejar + 명사",
+      "~을 떠나다, 두다",
+      "Dejaste el nivel principiante."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Deja de evitar el tema.",
+     "그 주제를 피하지 마."
+    ],
+    [
+     "A pesar de que sigues estudiando, sientes que no avanzas.",
+     "계속 공부하는데도 늘지 않는다고 느껴."
+    ],
+    [
+     "Muchas personas dejan de aprender español aquí.",
+     "많은 사람이 여기서 스페인어 공부를 그만둬."
+    ]
+   ],
+   "tip": "seguir 뒤에는 동사원형이 아니라 현재분사(-ando/-iendo)가 와요. ✗ sigo estudiar → ✓ sigo estudiando."
+  },
+  {
+   "title": "② 조언하는 명령형 — tú 긍정·부정",
+   "lead": "조언을 줄 때 tú 명령형을 많이 써요. <b>긍정</b>은 3인칭 단수 현재형, <b>부정</b>은 no + 접속법 현재예요.",
+   "table": {
+    "head": [
+     "동사",
+     "긍정 (tú)",
+     "부정 (no + 접속법)"
+    ],
+    "rows": [
+     [
+      "huir",
+      "huye",
+      "no huyas"
+     ],
+     [
+      "atreverse",
+      "atrévete",
+      "no te atrevas"
+     ],
+     [
+      "preocuparse",
+      "preocúpate",
+      "no te preocupes"
+     ],
+     [
+      "usar + la",
+      "úsala",
+      "no la uses"
+     ],
+     [
+      "hacer",
+      "haz",
+      "no hagas"
+     ],
+     [
+      "leer",
+      "lee",
+      "no leas"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Atrévete, porque vale la pena.",
+     "용기를 내, 그럴 가치가 있으니까."
+    ],
+    [
+     "No te preocupes por la vergüenza.",
+     "창피함은 걱정하지 마."
+    ],
+    [
+     "Úsala en una conversación.",
+     "그걸 대화에서 써 봐."
+    ]
+   ],
+   "tip": "긍정 명령에는 대명사가 뒤에 붙고(úsala, atrévete) 강세 부호가 생겨요. 부정 명령에서는 대명사가 동사 앞으로 가요(no la uses)."
+  },
+  {
+   "title": "③ a pesar de que / aunque — 양보 표현",
+   "lead": "\"~인데도\"는 <b>a pesar de que</b>나 <b>aunque</b>로 말해요. 사실을 말하면 직설법, 가정이나 상관없음을 말하면 접속법이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "법",
+     "예문"
+    ],
+    "rows": [
+     [
+      "a pesar de que + 직설법",
+      "사실",
+      "A pesar de que sigues estudiando…"
+     ],
+     [
+      "a pesar de que + 접속법",
+      "가정·무관",
+      "…que no dices a pesar de que las entiendas."
+     ],
+     [
+      "aunque + 직설법",
+      "사실",
+      "Aunque la gente cree que está estancada…"
+     ],
+     [
+      "a pesar de + 명사/원형",
+      "~에도 불구하고",
+      "A pesar del esfuerzo…"
+     ],
+     [
+      "sin que + 접속법",
+      "~하지 않고",
+      "sin que el idioma sea una barrera"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Sientes que has dejado de progresar a pesar de que sigues estudiando.",
+     "계속 공부하는데도 더는 늘지 않는다고 느낀다."
+    ],
+    [
+     "Aunque la gente cree que está ahí, sigue avanzando.",
+     "사람들은 정체됐다고 믿어도 계속 나아가고 있다."
+    ],
+    [
+     "Quiero expresar mis ideas sin que el idioma sea una barrera.",
+     "언어가 장벽이 되지 않게 내 생각을 표현하고 싶다."
+    ]
+   ],
+   "tip": "sin que 뒤에는 항상 접속법이 와요(sin que el idioma sea…)."
+  },
+  {
+   "title": "④ 과거 두 시제 — pretérito vs. imperfecto",
+   "lead": "진행자들이 중급자의 대표 장벽으로 꼽은 게 바로 <b>단순과거(pretérito)</b>와 <b>불완료과거(imperfecto)</b>의 구분이에요.",
+   "table": {
+    "head": [
+     "시제",
+     "쓰임",
+     "예문"
+    ],
+    "rows": [
+     [
+      "pretérito",
+      "한 번에 끝난 일",
+      "Cuando empecé a tocar la guitarra…"
+     ],
+     [
+      "pretérito",
+      "결과·사건",
+      "Me metieron a un grupo."
+     ],
+     [
+      "imperfecto",
+      "과거의 반복·습관",
+      "Avanzabas un montón."
+     ],
+     [
+      "imperfecto",
+      "배경·상태 묘사",
+      "Había muchos chicos que ya tocaban."
+     ],
+     [
+      "함께 쓰기",
+      "배경 + 사건",
+      "Había chicos que tocaban y me dijeron…"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Obviamente avanzabas un montón.",
+     "당연히 (그때는) 엄청 늘곤 했지."
+    ],
+    [
+     "Me aventaron al ruedo.",
+     "나를 무대에 던져 넣었다."
+    ],
+    [
+     "Había muchos chicos de secundaria que ya tocaban.",
+     "이미 연주하던 중학생이 많았다."
+    ]
+   ],
+   "tip": "\"무슨 일이 일어났나?\" → pretérito, \"그때 어땠나?\" → imperfecto 로 구분해 보세요."
+  }
+ ],
+ "phrases": [
+  [
+   "Entender y ser capaz de usarlo son dos cosas completamente diferentes.",
+   "이해하는 것과 그걸 쓸 수 있는 것은 완전히 다른 두 가지다."
+  ],
+  [
+   "Siento que entiendo mucho, pero me comunico muy simple.",
+   "많이 이해하는 것 같은데, 말은 아주 단순하게 한다."
+  ],
+  [
+   "Deja de huir, deja de evitar el tema.",
+   "도망치지 말고, 그 주제를 피하지 마."
+  ],
+  [
+   "Atrévete, porque vale la pena.",
+   "용기를 내, 그럴 가치가 있으니까."
+  ],
+  [
+   "Se van a olvidar de ti en un día.",
+   "하루면 다들 너를 잊을 거야."
+  ],
+  [
+   "Siempre hay algo de valor.",
+   "언제나 가치 있는 무언가가 있다."
+  ],
+  [
+   "Me encanta cómo suena esta frase.",
+   "이 표현 소리가 정말 좋아."
+  ],
+  [
+   "Tienes que hacer que el español sea algo que se relaciona contigo.",
+   "스페인어를 너와 관련된 것으로 만들어야 해."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el plateau / la meseta",
+   "ko": "고원; (학습의) 정체기",
+   "ex": "Esto podría traducirse como la meseta intermedia.",
+   "exKo": "이건 '중급의 고원'이라고 옮길 수 있다."
+  },
+  {
+   "es": "el estancamiento",
+   "ko": "정체, 침체",
+   "ex": "Esto es una ilusión de estancamiento.",
+   "exKo": "이건 정체의 착각이다."
+  },
+  {
+   "es": "estancarse",
+   "ko": "정체되다, 고이다",
+   "ex": "La gente cree que está estancada, pero sigue avanzando.",
+   "exKo": "사람들은 정체됐다고 믿지만 계속 나아가고 있다."
+  },
+  {
+   "es": "progresar",
+   "ko": "발전하다, 늘다",
+   "ex": "Sientes que has dejado de progresar.",
+   "exKo": "더는 늘지 않는다고 느낀다."
+  },
+  {
+   "es": "avanzar",
+   "ko": "나아가다, 진도가 나가다",
+   "ex": "Avanzaste muchísimo.",
+   "exKo": "엄청나게 많이 나아갔다."
+  },
+  {
+   "es": "el embudo",
+   "ko": "깔때기",
+   "ex": "Si tú piensas en un embudo…",
+   "exKo": "깔때기를 떠올려 보면…"
+  },
+  {
+   "es": "el filtro",
+   "ko": "필터, 거름망",
+   "ex": "Ya pasaste un gran filtro.",
+   "exKo": "이미 큰 거름망을 통과했다."
+  },
+  {
+   "es": "orgulloso, orgullosa",
+   "ko": "자랑스러워하는",
+   "ex": "Debes sentirte orgulloso.",
+   "exKo": "자랑스러워해야 한다."
+  },
+  {
+   "es": "el matiz",
+   "ko": "뉘앙스, 미묘한 차이",
+   "ex": "Estás siendo más profundo en el tema de matices.",
+   "exKo": "뉘앙스를 더 깊이 파고들고 있다."
+  },
+  {
+   "es": "desilusionarse",
+   "ko": "실망하다, 환멸을 느끼다",
+   "ex": "Muchas personas se desilusionan y dejan de aprender.",
+   "exKo": "많은 사람이 실망해서 공부를 그만둔다."
+  },
+  {
+   "es": "el fracaso",
+   "ko": "실패",
+   "ex": "Tu cerebro lo interpreta como si fuera un fracaso.",
+   "exKo": "뇌는 그걸 실패처럼 해석한다."
+  },
+  {
+   "es": "me cuesta (+ 원형)",
+   "ko": "~하기가 힘들다",
+   "ex": "Me cuesta muchísimo hablar con un nativo.",
+   "exKo": "원어민과 말하는 게 너무 힘들다."
+  },
+  {
+   "es": "puntual",
+   "ko": "구체적인, 딱 집어 말하는",
+   "ex": "Tres cosas muy puntuales y prácticas.",
+   "exKo": "아주 구체적이고 실용적인 세 가지."
+  },
+  {
+   "es": "por ende",
+   "ko": "그러므로, 따라서",
+   "ex": "Alcanzar, por ende, un nivel más avanzado.",
+   "exKo": "따라서 더 높은 수준에 도달한다."
+  },
+  {
+   "es": "drenar",
+   "ko": "(에너지를) 빼앗다, 빼내다",
+   "ex": "Hay un punto que drena tu energía.",
+   "exKo": "에너지를 빨아먹는 지점이 있다."
+  },
+  {
+   "es": "voltear",
+   "ko": "(고개를) 돌리다 〔멕〕",
+   "ex": "Puedes voltear y ver a tu compañero.",
+   "exKo": "고개를 돌려 친구를 볼 수 있다."
+  },
+  {
+   "es": "batallar (con)",
+   "ko": "~로 고생하다, 씨름하다 〔멕〕",
+   "ex": "Él va a batallar con otro tema.",
+   "exKo": "그는 다른 주제로 고생할 것이다."
+  },
+  {
+   "es": "huir",
+   "ko": "도망치다",
+   "ex": "No huyas, porque eso lo hace más complicado.",
+   "exKo": "도망치지 마, 더 복잡해질 뿐이야."
+  },
+  {
+   "es": "evitar",
+   "ko": "피하다",
+   "ex": "Muchos estudiantes se la pasan evitando esta gramática.",
+   "exKo": "많은 학생이 이 문법을 계속 피한다."
+  },
+  {
+   "es": "torpe",
+   "ko": "서툰, 어설픈",
+   "ex": "Me siento torpe porque no lo sé decir bien.",
+   "exKo": "제대로 못 말해서 서툴게 느껴진다."
+  },
+  {
+   "es": "el obstáculo",
+   "ko": "장애물",
+   "ex": "No tienes ese gran obstáculo enfrente.",
+   "exKo": "눈앞에 큰 장애물이 없다."
+  },
+  {
+   "es": "el reto",
+   "ko": "도전, 과제",
+   "ex": "Toma el reto de consumir cosas más avanzadas.",
+   "exKo": "더 어려운 걸 보는 도전을 해."
+  },
+  {
+   "es": "la zona de confort",
+   "ko": "컴포트 존, 안전지대",
+   "ex": "No estás saliendo de tu zona de confort.",
+   "exKo": "컴포트 존을 벗어나지 못하고 있다."
+  },
+  {
+   "es": "exponerse (a)",
+   "ko": "~에 자신을 노출하다",
+   "ex": "Aprendemos exponiéndonos a cosas complejas.",
+   "exKo": "복잡한 것에 노출되며 배운다."
+  },
+  {
+   "es": "sensato, sensata",
+   "ko": "분별 있는, 현명한",
+   "ex": "Hay que ser sensatos.",
+   "exKo": "현명해야 한다."
+  },
+  {
+   "es": "el propósito",
+   "ko": "목적",
+   "ex": "Ese no es el propósito.",
+   "exKo": "그게 목적이 아니다."
+  },
+  {
+   "es": "aventar",
+   "ko": "던지다 〔멕〕",
+   "ex": "Me aventaron al ruedo.",
+   "exKo": "나를 무대에 던져 넣었다."
+  },
+  {
+   "es": "atreverse",
+   "ko": "감히 ~하다, 용기를 내다",
+   "ex": "Atrévete, porque vale la pena.",
+   "exKo": "용기를 내, 그럴 가치가 있어."
+  },
+  {
+   "es": "valer la pena",
+   "ko": "~할 가치가 있다",
+   "ex": "Vale la pena hablar con nativos.",
+   "exKo": "원어민과 이야기할 가치가 있다."
+  },
+  {
+   "es": "la vergüenza",
+   "ko": "창피함, 부끄러움",
+   "ex": "No te preocupes por la vergüenza.",
+   "exKo": "창피함은 걱정하지 마."
+  },
+  {
+   "es": "¡ánimo!",
+   "ko": "힘내!",
+   "ex": "No va a pasar nada, ¡ánimo!",
+   "exKo": "아무 일도 없을 거야, 힘내!"
+  },
+  {
+   "es": "el bache",
+   "ko": "(도로의) 구덩이; 고비, 슬럼프",
+   "ex": "Para pasar estos baches de crecimiento…",
+   "exKo": "이런 성장의 고비를 넘으려면…"
+  },
+  {
+   "es": "emocionar",
+   "ko": "설레게 하다",
+   "ex": "Vocabulario que no te emociona no funciona.",
+   "exKo": "설레지 않는 어휘는 효과가 없다."
+  },
+  {
+   "es": "el arsenal",
+   "ko": "무기고; 잔뜩 갖춘 레퍼토리",
+   "ex": "Tengo un arsenal de expresiones nativas.",
+   "exKo": "원어민 표현을 잔뜩 갖고 있다."
+  },
+  {
+   "es": "¡órale!",
+   "ko": "좋아!, 그래!, 와! 〔멕〕",
+   "ex": "¿Qué significa «órale»?",
+   "exKo": "órale가 무슨 뜻이야?"
+  },
+  {
+   "es": "llamar la atención",
+   "ko": "눈길을 끌다",
+   "ex": "Nota qué frases te llaman la atención.",
+   "exKo": "어떤 표현이 눈길을 끄는지 알아차려."
+  },
+  {
+   "es": "tachar",
+   "ko": "(줄을 그어) 지우다",
+   "ex": "Elimina esa frase o táchala.",
+   "exKo": "그 표현을 지우거나 줄을 그어."
+  },
+  {
+   "es": "la compu",
+   "ko": "컴퓨터 (computadora 줄임) 〔멕〕",
+   "ex": "Puedes usar tu compu o tu teléfono.",
+   "exKo": "컴퓨터나 휴대폰을 써도 된다."
+  },
+  {
+   "es": "fielmente",
+   "ko": "충실하게, 그대로",
+   "ex": "Expresar tus ideas más fielmente a quien eres.",
+   "exKo": "너다운 모습 그대로 생각을 표현하기."
+  },
+  {
+   "es": "el brinquito",
+   "ko": "작은 점프 (brinco의 축소형)",
+   "ex": "Los hizo salir de su zona de confort y dar un brinquito.",
+   "exKo": "컴포트 존에서 나와 한 걸음 뛰어오르게 했다."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "진행자들이 말한 \"중급 정체기\"의 정체는 무엇인가요?",
+   "options": [
+    "실력이 실제로 떨어지는 현상",
+    "정체의 착각(ilusión de estancamiento)",
+    "원어민만 겪는 문제",
+    "초급자에게만 생기는 현상"
+   ],
+   "answer": 1,
+   "explain": "Ana: \"la realidad es que esto es una ilusión de estancamiento\" — 실제로는 계속 나아가고 있어요."
+  },
+  {
+   "q": "다비드에 따르면 초급과 중급의 발전은 어떻게 다른가요?",
+   "options": [
+    "초급은 깊게, 중급은 넓게",
+    "초급은 넓게(수평으로), 중급은 깊게",
+    "둘 다 똑같다",
+    "중급이 더 빠르다"
+   ],
+   "answer": 1,
+   "explain": "초급은 horizontalmente, 중급은 cambios profundos — 깊은 변화는 시간이 더 걸려요."
+  },
+  {
+   "q": "전략 1은 무엇인가요?",
+   "options": [
+    "단어를 많이 외우기",
+    "나를 방해하는 문법을 찾아 피하지 않기",
+    "쉬운 콘텐츠만 보기",
+    "앱을 매일 쓰기"
+   ],
+   "answer": 1,
+   "explain": "\"Deja de huir, deja de evitar el tema.\" 피하던 문법(예: 과거형)과 정면으로 마주하라는 거예요."
+  },
+  {
+   "q": "\"Deja de huir\"의 뜻은?",
+   "options": [
+    "계속 도망쳐",
+    "도망치지 마",
+    "도망치기 시작해",
+    "도망칠 수 있어"
+   ],
+   "answer": 1,
+   "explain": "dejar de + 원형 = ~을 그만두다. \"도망치는 걸 그만둬\" = 도망치지 마."
+  },
+  {
+   "q": "\"Sigues estudiando\"에서 seguir 뒤의 형태는?",
+   "options": [
+    "동사원형",
+    "과거분사",
+    "현재분사(-ando/-iendo)",
+    "접속법"
+   ],
+   "answer": 2,
+   "explain": "seguir + 현재분사 = 계속 ~하다."
+  },
+  {
+   "q": "전략 2에서 아나가 든 피아노 비유의 요점은?",
+   "options": [
+    "쉬운 곡만 연습해야 한다",
+    "쇼팽은 칠 수 없으니 보지 마라",
+    "당장 칠 수 없어도 높은 수준에 노출되면 배우는 게 있다",
+    "피아노가 스페인어보다 쉽다"
+   ],
+   "answer": 2,
+   "explain": "\"estoy expuesta y estoy aprendiendo otras cosas al estar expuesta.\""
+  },
+  {
+   "q": "어려운 콘텐츠를 볼 때 현명한 태도는?",
+   "options": [
+    "모든 단어를 사전으로 찾는다",
+    "이해 못 하면 바로 그만둔다",
+    "단어 하나하나를 다 이해하려 하지 않는다",
+    "자막 없이 열 번 본다"
+   ],
+   "answer": 2,
+   "explain": "\"no voy a intentar entender cada palabra. Ese no es el propósito.\""
+  },
+  {
+   "q": "다비드가 기타를 배울 때 빨리 성장한 이유는?",
+   "options": [
+    "혼자 천천히 연습해서",
+    "자기보다 잘하는 사람들 그룹에 들어가서",
+    "유튜브를 많이 봐서",
+    "선생님이 엄격해서"
+   ],
+   "answer": 1,
+   "explain": "\"me aventaron al ruedo\" — 더 잘하는 사람들이라는 도전과 약간의 사회적 압박이 성장을 빠르게 했어요."
+  },
+  {
+   "q": "'다섯 표현' 시스템에서 각 표현은 몇 번 써야 하나요?",
+   "options": [
+    "하루에 다섯 번",
+    "서로 다른 날 최소 세 번",
+    "한 번이면 충분",
+    "열 번"
+   ],
+   "answer": 1,
+   "explain": "\"Tienes que usar cada una por lo menos tres veces en días diferentes.\""
+  },
+  {
+   "q": "표현을 목록에서 지워도 되는 때는?",
+   "options": [
+    "세 번 읽었을 때",
+    "보지 않고 말할 수 있고 남에게 설명할 수 있을 때",
+    "일주일이 지났을 때",
+    "뜻을 적었을 때"
+   ],
+   "answer": 1,
+   "explain": "보지 않고 말할 수 있고(sin leerla), 다른 학생에게 설명할 수 있으면 tachar하고 새 표현을 추가해요."
+  },
+  {
+   "q": "\"Atrévete\"의 기본형 동사는?",
+   "options": [
+    "atraer",
+    "atreverse",
+    "atravesar",
+    "tratar"
+   ],
+   "answer": 1,
+   "explain": "atreverse(용기를 내다)의 tú 긍정 명령형 + 재귀대명사 te."
+  },
+  {
+   "q": "다비드가 말한 중급 단계에서 가장 발목을 잡는 것은?",
+   "options": [
+    "수동적인 학습자로 남는 것",
+    "너무 많이 말하는 것",
+    "문법책을 읽는 것",
+    "원어민 친구가 많은 것"
+   ],
+   "answer": 0,
+   "explain": "\"ser estudiante pasivo es una de las cosas que más te van a atrapar\" — 소비만 하지 말고 만들어 내세요(producir)."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인트로 — 중급 정체기 시리즈를 시작하며",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "D",
+     "es": "Hola, ¿qué tal? Esto es How to Spanish Podcast.",
+     "ko": "안녕하세요, 잘 지내세요? 여기는 How to Spanish Podcast예요."
+    },
+    {
+     "t": 2.4,
+     "s": "D",
+     "es": "Yo soy David.",
+     "ko": "저는 다비드예요."
+    },
+    {
+     "t": 3.4,
+     "s": "A",
+     "es": "Y yo soy Ana.",
+     "ko": "그리고 저는 아나예요."
+    },
+    {
+     "t": 4.4,
+     "s": "A",
+     "es": "En este episodio vamos a empezar con una serie sobre el plateau intermedio y cómo salir de ahí.",
+     "ko": "이번 에피소드에서는 중급 정체기(플래토)와 거기서 빠져나오는 방법에 관한 시리즈를 시작할 거예요."
+    },
+    {
+     "t": 25.0,
+     "s": "A",
+     "es": "Nos vemos en la Taquería.",
+     "ko": "라 타케리아에서 만나요."
+    }
+   ]
+  },
+  {
+   "title": "중급까지 온 것만으로도 큰 성취",
+   "lines": [
+    {
+     "t": 26.4,
+     "s": "D",
+     "es": "Hola, amigos, bienvenidos a How to Spanish Podcast, y vamos a empezar, como dijo Ana, esta nueva serie, este nuevo grupo de episodios en donde vamos a tratar de ayudarte en esta etapa en la que sabemos que muchos de ustedes pueden estar ahí.",
+     "ko": "안녕하세요 여러분, How to Spanish Podcast에 오신 걸 환영해요. 아나가 말한 대로 이 새 시리즈, 새로운 에피소드 묶음을 시작할 텐데요, 여러분 중 많은 분이 지금 머물러 있을 이 단계에서 도움을 드리려고 해요."
+    },
+    {
+     "t": 42.6,
+     "s": "D",
+     "es": "Y algo muy importante antes que nada para dejar claro es: si ya estás aquí, ya pasaste una parte muy importante.",
+     "ko": "그리고 무엇보다 먼저 분명히 해 둘 아주 중요한 점은, 지금 여기까지 왔다면 이미 아주 중요한 구간을 지나왔다는 거예요."
+    },
+    {
+     "t": 52.5,
+     "s": "D",
+     "es": "Dejaste el nivel básico, dejaste el nivel principiante.",
+     "ko": "기초 단계를 벗어났고, 초급 단계를 벗어난 거예요."
+    },
+    {
+     "t": 56.8,
+     "s": "D",
+     "es": "Y si tú piensas en un embudo, hay muchísimas personas que inician cualquier cosa en modo principiante, claramente, pero especialmente en el aprendizaje de idiomas, y el aprendizaje de español tampoco es la excepción.",
+     "ko": "깔때기를 떠올려 보면, 무엇이든 초보 상태로 시작하는 사람은 당연히 아주 많아요. 특히 언어 학습이 그렇고, 스페인어 학습도 예외가 아니에요."
+    },
+    {
+     "t": 72.0,
+     "s": "D",
+     "es": "Entonces, que tú estés en el punto intermedio, ya sea un intermedio principiante, un intermedio intermedio o un intermedio avanzado, es que ya pasaste un gran filtro.",
+     "ko": "그러니까 여러분이 중급에 있다는 건, 초중급이든 중중급이든 중고급이든, 이미 큰 거름망을 통과했다는 뜻이에요."
+    },
+    {
+     "t": 84.2,
+     "s": "D",
+     "es": "Y eso debe de ser motivo de sentirte contento, orgulloso de que avanzaste muchísimo respecto al cien por ciento de la gente que empezó.",
+     "ko": "그리고 그건 기뻐하고 자랑스러워할 이유가 돼야 해요. 시작한 사람 전체에 비해 엄청나게 앞으로 나아간 거니까요."
+    },
+    {
+     "t": 94.9,
+     "s": "D",
+     "es": "Entonces, dejando eso claro, vamos a empezar a hablar sobre esto.",
+     "ko": "자, 그 점을 분명히 했으니 이제 본론을 이야기해 볼게요."
+    },
+    {
+     "t": 100.6,
+     "s": "D",
+     "es": "Primero definamos qué es este tema del plateau, que viene del francés, ¿no?",
+     "ko": "먼저 '플래토'가 뭔지 정의해 봐요. 프랑스어에서 온 말이죠?"
+    },
+    {
+     "t": 107.4,
+     "s": "D",
+     "es": "No creas que estoy diciendo «plato».",
+     "ko": "제가 '접시(plato)'라고 말하는 줄 알면 안 돼요."
+    },
+    {
+     "t": 109.3,
+     "s": "A",
+     "es": "No es un plato.",
+     "ko": "접시가 아니에요."
+    },
+    {
+     "t": 111.8,
+     "s": "A",
+     "es": "Sí, ¿qué significa?",
+     "ko": "맞아요, 그럼 무슨 뜻일까요?"
+    },
+    {
+     "t": 112.8,
+     "s": "D",
+     "es": "Y bueno, nada más te digo que esto podría traducirse como «la meseta intermedia», pero la mayoría de maestros utilizan esta frase: «plateau intermedio».",
+     "ko": "그냥 말씀드리면, 이건 '중급의 고원(meseta intermedia)'이라고 옮길 수도 있지만, 대부분의 선생님들은 '중급 플래토'라는 표현을 써요."
+    }
+   ]
+  },
+  {
+   "title": "중급 정체기란 무엇이고, 왜 많은 학습자가 여기서 그만두나",
+   "lines": [
+    {
+     "t": 127.1,
+     "s": "A",
+     "es": "Y bueno, es esta fase del aprendizaje de idiomas en la que sientes que has dejado de progresar a pesar de que sigues estudiando y dedicando tiempo.",
+     "ko": "그러니까 이건 언어 학습에서, 계속 공부하고 시간을 쏟는데도 더는 늘지 않는다고 느끼는 단계예요."
+    },
+    {
+     "t": 138.3,
+     "s": "D",
+     "es": "Y esto, otra vez, piensa en tu proceso de principiante.",
+     "ko": "그리고 이것도 다시, 초급자 시절을 떠올려 보세요."
+    },
+    {
+     "t": 143.7,
+     "s": "D",
+     "es": "Obviamente avanzabas un montón, porque es el momento en donde tienes todo por avanzar, todo por aprender, ¿no?",
+     "ko": "당연히 엄청 많이 늘었죠. 나아갈 것도, 배울 것도 전부 남아 있는 시기니까요."
+    },
+    {
+     "t": 152.4,
+     "s": "A",
+     "es": "Ajá.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 152.8,
+     "s": "D",
+     "es": "Todo el vocabulario es nuevo, los tiempos verbales son nuevos, todo, absolutamente todo es nuevo, y por lo tanto, a nivel progreso, eso te da una sensación de velocidad, ¿no?",
+     "ko": "어휘도 전부 새롭고, 시제도 새롭고, 정말 모든 게 새로워요. 그래서 실력 면에서 속도감을 느끼게 되죠."
+    },
+    {
+     "t": 165.4,
+     "s": "D",
+     "es": "De «wow, hoy aprendí diez palabras nuevas».",
+     "ko": "\"와, 오늘 새 단어를 열 개나 배웠어!\" 하는 식으로요."
+    },
+    {
+     "t": 168.7,
+     "s": "A",
+     "es": "Sí, claro, las diez palabras fueron «hola», «adiós», «¿cómo estás?», ¿no?",
+     "ko": "그렇죠, 그 열 단어가 '안녕', '잘 가', '어떻게 지내?' 같은 거였지만요."
+    },
+    {
+     "t": 172.3,
+     "s": "D",
+     "es": "Cuando eres principiante, claramente avanzas mucho en términos porcentuales.",
+     "ko": "초급일 때는 비율로 따지면 분명히 많이 늘어요."
+    },
+    {
+     "t": 177.3,
+     "s": "A",
+     "es": "Ajá.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 177.7,
+     "s": "D",
+     "es": "Pero llegas a un momento en donde cada vez es más difícil, porque ya aprendiste mucho de la base, y ese avance se vuelve como pasitos más pequeños.",
+     "ko": "그런데 점점 더 어려워지는 순간이 와요. 기초를 이미 많이 배웠으니까 발전이 점점 더 작은 걸음처럼 되거든요."
+    },
+    {
+     "t": 189.8,
+     "s": "A",
+     "es": "Ajá.",
+     "ko": "네."
+    },
+    {
+     "t": 190.4,
+     "s": "D",
+     "es": "Y mucho más difíciles de medir.",
+     "ko": "그리고 측정하기도 훨씬 어려워지고요."
+    }
+   ]
+  },
+  {
+   "title": "수평적 발전 vs. 깊어지는 발전",
+   "lines": [
+    {
+     "t": 192.7,
+     "s": "D",
+     "es": "Y lo más interesante es que muchas veces, aunque la gente cree que está ahí estancada, sigue avanzando, ¿no?",
+     "ko": "그리고 가장 흥미로운 건, 사람들이 정체돼 있다고 믿는 경우에도 실제로는 계속 나아가고 있을 때가 많다는 거예요."
+    },
+    {
+     "t": 199.4,
+     "s": "D",
+     "es": "A mí me gusta decir que cuando estás en los niveles principiantes avanzas, digamos, más horizontalmente, más anchamente, porque vas dando pasos grandes: de «no sé nada» a «puedo hablar en presente», «medio puedo hablar en pasado», «puedo tener una conversación básica».",
+     "ko": "저는 이렇게 말하는 걸 좋아해요. 초급에서는 말하자면 수평으로, 넓게 나아가요. \"아무것도 몰라\"에서 \"현재형으로 말할 수 있어\", \"과거형도 조금 돼\", \"기본 대화가 돼\"로 큰 걸음을 내딛거든요."
+    },
+    {
+     "t": 217.9,
+     "s": "D",
+     "es": "Pero ya en el nivel intermedio son cambios profundos, y los cambios profundos toman más tiempo.",
+     "ko": "하지만 중급에서는 깊은 변화가 일어나고, 깊은 변화는 시간이 더 걸려요."
+    },
+    {
+     "t": 224.5,
+     "s": "A",
+     "es": "Ajá.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 225.4,
+     "s": "D",
+     "es": "Entonces ahí es donde realmente ya estás siendo más profundo en el tema de gramática, de matices: no solamente sé conjugar en pasado, sino que ya estoy entendiendo por qué uso imperfecto, por qué uso pretérito.",
+     "ko": "그러니까 바로 그때 문법과 뉘앙스를 더 깊이 파고들게 돼요. 과거형으로 활용할 줄 아는 데서 그치지 않고, 왜 불완료과거를 쓰고 왜 단순과거를 쓰는지 이해하게 되는 거죠."
+    },
+    {
+     "t": 240.7,
+     "s": "D",
+     "es": "Ya estás notando estas pequeñas diferencias que realmente son muy importantes en el idioma, pero que un principiante todavía no puede ver, y no puede saber que existen.",
+     "ko": "언어에서 정말 중요한 이런 작은 차이들을 알아차리기 시작한 거예요. 초급자는 아직 볼 수 없고, 그런 차이가 있다는 것조차 모르는 것들이죠."
+    }
+   ]
+  },
+  {
+   "title": "정체는 착각이다 — 뇌가 속이고 있다",
+   "lines": [
+    {
+     "t": 252.4,
+     "s": "A",
+     "es": "Y también debemos ser muy claros y muy directos: en este proceso del plateau intermedio es donde muchas personas se desilusionan y dejan de aprender español, porque sienten que no pueden avanzar más.",
+     "ko": "그리고 아주 분명하고 솔직하게 말해야 해요. 이 중급 정체기에서 많은 사람이 실망해서 스페인어 공부를 그만둬요. 더는 나아갈 수 없다고 느끼니까요."
+    },
+    {
+     "t": 268.2,
+     "s": "A",
+     "es": "Y la verdad es que es muy triste, porque finalmente pusiste esfuerzo inicial, pusiste tiempo, y ya puedes inclusive hablar el idioma, ¿no?",
+     "ko": "그건 정말 안타까운 일이에요. 처음에 노력도 들이고 시간도 들였고, 이제 그 언어로 말까지 할 수 있는데 말이에요."
+    },
+    {
+     "t": 277.5,
+     "s": "A",
+     "es": "Entonces la realidad es que esto es una ilusión de estancamiento.",
+     "ko": "그러니까 사실 이건 정체의 착각이에요."
+    },
+    {
+     "t": 282.3,
+     "s": "A",
+     "es": "Tu cerebro interpreta esto de que ya no avanzas tanto como si fuera un fracaso, pero la realidad es que no, porque ya puedes comunicarte en lo básico al menos, si no es que un poco más.",
+     "ko": "뇌는 예전만큼 늘지 않는 걸 실패처럼 해석하지만, 실제로는 그렇지 않아요. 적어도 기본적인 의사소통은, 어쩌면 그 이상도 이미 할 수 있으니까요."
+    },
+    {
+     "t": 297.3,
+     "s": "A",
+     "es": "Pero a veces sucede que hay una distancia entre lo que entiendes y lo que eres capaz de expresar.",
+     "ko": "그런데 가끔은 이해하는 것과 표현할 수 있는 것 사이에 거리가 생겨요."
+    },
+    {
+     "t": 303.2,
+     "s": "D",
+     "es": "Y lo sabemos porque un montón de gente que se ha unido a la Taquería nos ha dicho eso: «es que puedo escuchar, entiendo tu podcast, gracias por el podcast y todo esto, pero me cuesta muchísimo cuando tengo que hablar con alguien, cuando tengo que escuchar a un nativo que habla súper rápido».",
+     "ko": "우리가 그걸 아는 건, 라 타케리아에 들어온 많은 분이 그렇게 말해 줬기 때문이에요. \"들을 수는 있어요, 팟캐스트도 이해해요, 팟캐스트 고마워요. 그런데 누군가와 말해야 할 때, 엄청 빨리 말하는 원어민 말을 들어야 할 때는 너무 힘들어요.\""
+    },
+    {
+     "t": 321.4,
+     "s": "D",
+     "es": "Entonces este tipo de herramientas, como la Taquería, como esta comunidad donde puedes hablar, te ayudan muchísimo a avanzar y salir de esta ilusión de estancamiento.",
+     "ko": "그래서 라 타케리아처럼 말할 수 있는 커뮤니티 같은 도구가 이 정체의 착각에서 벗어나 앞으로 나아가는 데 큰 도움이 돼요."
+    },
+    {
+     "t": 332.9,
+     "s": "A",
+     "es": "Mhm.",
+     "ko": "음."
+    },
+    {
+     "t": 333.7,
+     "s": "D",
+     "es": "Y hoy queremos compartir contigo tres cosas muy, muy puntuales y prácticas que puedes pensar, analizar y hacer para justamente salir un poquito más rápido de esta sensación de estancamiento y alcanzar, por ende, más rápido un nivel un poquito más avanzado, ¿no?",
+     "ko": "그리고 오늘은 이 정체감에서 조금 더 빨리 벗어나고, 그래서 조금 더 높은 수준에 더 빨리 도달하도록 생각하고 분석하고 실천할 수 있는 아주 구체적이고 실용적인 세 가지를 나누고 싶어요."
+    },
+    {
+     "t": 353.2,
+     "s": "A",
+     "es": "Entonces, el problema del que estamos hablando hoy en específico es esto de «siento que entiendo mucho, pero me comunico muy simple».",
+     "ko": "그러니까 오늘 구체적으로 이야기하는 문제는 \"많이 이해하는 것 같은데, 말은 아주 단순하게 한다\"는 거예요."
+    },
+    {
+     "t": 364.5,
+     "s": "A",
+     "es": "No sé si te pasa que lees un artículo, escuchas un video o algo y dices: «entendí todo, entendí la idea general», pero cuando quieres hablar sobre ese tema, cuando te quieres expresar, usas formas bien básicas, bien simples.",
+     "ko": "기사를 읽거나 영상을 듣고 \"다 이해했어, 큰 줄거리는 알겠어\" 하는데, 막상 그 주제로 말하고 표현하려고 하면 아주 기초적이고 단순한 표현만 쓰게 되는 경험, 있지 않나요?"
+    },
+    {
+     "t": 381.3,
+     "s": "A",
+     "es": "Siento que mi vocabulario es como el de un niño de tres años, con mucho respeto, porque tengo un niño de tres años, pero se siente así, ¿no?",
+     "ko": "내 어휘가 세 살 아이 수준 같다고 느끼는 거죠. 존중하는 마음으로 하는 말이에요, 저도 세 살 아이가 있으니까요. 그래도 그런 느낌이 들잖아요."
+    },
+    {
+     "t": 388.5,
+     "s": "A",
+     "es": "Y lo que dice David es bien frustrante, es esto de: «ah, pero si he estudiado tanto, pero si entiendo, ¿por qué no puedo sonar mejor? ¿Por qué no me puedo expresar mejor?»",
+     "ko": "그리고 다비드 말처럼 이게 정말 답답한 거예요. \"이렇게 많이 공부했고 이해도 되는데, 왜 더 자연스럽게 말하지 못하지? 왜 더 잘 표현하지 못하지?\" 하는 거요."
+    }
+   ]
+  },
+  {
+   "title": "전략 1 — 발목 잡는 문법을 찾아 피하지 말기",
+   "lines": [
+    {
+     "t": 399.2,
+     "s": "A",
+     "es": "Entonces, el punto número uno en el que tenemos que enfocarnos, ¿tú qué dirías que es?",
+     "ko": "그럼 우리가 집중해야 할 첫 번째 포인트는 뭐라고 생각해요?"
+    },
+    {
+     "t": 407.0,
+     "s": "D",
+     "es": "Tiene que ser analizar cuál es la gramática que te está afectando, porque normalmente hay un punto específico que es el que drena tu energía, ¿no?",
+     "ko": "나를 방해하고 있는 문법이 무엇인지 분석하는 거예요. 보통 에너지를 빨아먹는 특정한 지점이 있거든요."
+    },
+    {
+     "t": 417.2,
+     "s": "D",
+     "es": "Que es el que drena esa emoción de seguir aprendiendo, pero que es una barrera, y pasa en los idiomas y pasa en muchas otras cosas.",
+     "ko": "계속 배우고 싶은 의욕을 빼앗는 지점인데, 그게 장벽이 되는 거예요. 언어에서도 그렇고 다른 많은 일에서도 그래요."
+    },
+    {
+     "t": 427.7,
+     "s": "D",
+     "es": "Hay ciertas habilidades, o tal vez temas dentro de cualquier área de conocimiento, en donde te encuentras con cosas que son difíciles para ti.",
+     "ko": "어떤 분야든 특정한 기술이나 주제에서 나에게 어려운 것들을 만나게 돼요."
+    },
+    {
+     "t": 439.0,
+     "s": "D",
+     "es": "Y puedes voltear y ver a tu compañero de al lado, que también está estudiando español y quizá lleva menos tiempo que tú, y ese tema lo aprendió facilísimo, y puede ser aún más frustrante.",
+     "ko": "그리고 고개를 돌려 보면 옆자리 친구도 스페인어를 공부하는데, 어쩌면 나보다 공부한 기간이 짧은데도 그 주제를 아주 쉽게 배웠을 수 있어요. 그러면 더 답답하죠."
+    },
+    {
+     "t": 450.4,
+     "s": "D",
+     "es": "Pero seguramente él va a batallar con un tema que para ti fue como «ah, claro, esto fue muy sencillo».",
+     "ko": "하지만 그 친구도 분명 나에게는 \"아, 이건 아주 쉬웠지\" 싶었던 주제로 고생하게 될 거예요."
+    },
+    {
+     "t": 456.3,
+     "s": "D",
+     "es": "Entonces hay que analizar eso.",
+     "ko": "그러니까 그걸 분석해야 해요."
+    },
+    {
+     "t": 458.7,
+     "s": "A",
+     "es": "Y, ¿por qué es importante analizarlo?",
+     "ko": "그럼 왜 그걸 분석하는 게 중요할까요?"
+    },
+    {
+     "t": 460.8,
+     "s": "A",
+     "es": "Porque muchos estudiantes se la pasan evitando esta gramática.",
+     "ko": "많은 학생이 그 문법을 계속 피하기만 하거든요."
+    },
+    {
+     "t": 465.5,
+     "s": "A",
+     "es": "Es como: «no, no me siento seguro del pretérito», por ejemplo, «del imperfecto».",
+     "ko": "예를 들면 \"아니, 단순과거나 불완료과거는 자신이 없어\" 하는 식이죠."
+    },
+    {
+     "t": 470.7,
+     "s": "A",
+     "es": "«Entonces intento todo lo que puedo para no hablar en pasado.",
+     "ko": "\"그래서 과거형으로 말하지 않으려고 온갖 방법을 다 써요."
+    },
+    {
+     "t": 475.1,
+     "s": "A",
+     "es": "Prefiero solo hablar en presente, en futuro, hasta en subjuntivo, pero no quiero hablar en pasado, porque ya sé que es difícil para mí y tal vez me siento torpe porque no lo sé decir bien».",
+     "ko": "현재형이나 미래형, 심지어 접속법으로만 말하는 게 낫고, 과거형으로는 말하기 싫어요. 나한테 어렵다는 걸 알고, 제대로 못 말하니 서툴게 느껴지니까요.\""
+    },
+    {
+     "t": 485.8,
+     "s": "A",
+     "es": "Entonces, punto número uno: deja de huir, deja de evitar el tema.",
+     "ko": "그러니까 첫 번째 포인트: 도망치지 말고, 그 주제를 피하지 마세요."
+    },
+    {
+     "t": 491.4,
+     "s": "A",
+     "es": "Es lo mejor que puedes hacer: tomar ese tema y aprenderlo con calma, con un maestro, con una app, tú solo, pero no huyas, porque eso solamente lo hace más complicado.",
+     "ko": "그 주제를 붙잡고 차분히 배우는 게 최선이에요. 선생님과 함께든, 앱으로든, 혼자서든요. 하지만 도망치지는 마세요. 그러면 더 복잡해질 뿐이에요."
+    },
+    {
+     "t": 504.5,
+     "s": "A",
+     "es": "Ya tienes un tema específico en el cual te puedes enfocar, y créeme que cuando lo puedas entender un poco mejor y te sientas más cómodo con la estructura, vas a sentir que estás haciendo más progreso, porque no tienes ese gran obstáculo enfrente de ti todo el tiempo.",
+     "ko": "이제 집중할 구체적인 주제가 생긴 거예요. 그걸 조금 더 이해하고 그 구조가 편해지면, 늘 눈앞을 막던 큰 장애물이 사라지니 훨씬 더 발전하고 있다고 느끼게 될 거예요. 믿어 보세요."
+    },
+    {
+     "t": 520.8,
+     "s": "A",
+     "es": "Y ya vamos a pasar al punto número dos, pero quiero aprovechar para decirte que a partir de mañana, 17 de noviembre del 2026, va a estar disponible un descuento en nuestra app.",
+     "ko": "이제 두 번째 포인트로 넘어갈 텐데, 그 전에 잠깐 알려 드릴게요. 내일 2026년 11월 17일부터 저희 앱 할인이 시작돼요."
+    },
+    {
+     "t": 532.9,
+     "s": "A",
+     "es": "Si nunca la has usado, te recomiendo que la revises.",
+     "ko": "한 번도 안 써 보셨다면 한번 살펴보시길 추천해요."
+    },
+    {
+     "t": 539.1,
+     "s": "A",
+     "es": "Me encanta que puedes personalizarla y decirle a tu coach: «yo quiero practicar el subjuntivo toda la semana, dame ideas para practicarlo, quiero hablar en conversación contigo».",
+     "ko": "맞춤 설정을 할 수 있어서 정말 좋아요. 코치에게 \"이번 주 내내 접속법을 연습하고 싶어, 연습 아이디어를 줘, 너랑 대화하고 싶어\"라고 말할 수 있거든요."
+    },
+    {
+     "t": 549.9,
+     "s": "A",
+     "es": "Entonces puedes enfocarla justo en esto, y es una manera con menos presión en la que puedes practicar.",
+     "ko": "그러니까 딱 이 부분에 맞춰 쓸 수 있고, 부담을 덜 느끼며 연습할 수 있는 방법이에요."
+    },
+    {
+     "t": 557.1,
+     "s": "A",
+     "es": "Así que, si es para ti, puedes ir a studio.com/howtospanishpodcast, y también está en las notas del episodio o en la descripción del video.",
+     "ko": "그러니 관심 있으시면 studio.com/howtospanishpodcast로 가 보세요. 에피소드 노트나 영상 설명에도 있어요."
+    }
+   ]
+  },
+  {
+   "title": "전략 2 — 수준보다 어려운 콘텐츠를 두려워하지 말기",
+   "lines": [
+    {
+     "t": 567.7,
+     "s": "D",
+     "es": "Y bueno, vamos al siguiente punto que queremos tocar el día de hoy, que es no tenerle miedo a lo más avanzado.",
+     "ko": "자, 오늘 다루고 싶은 다음 포인트로 가 볼게요. 더 어려운 것을 두려워하지 않기예요."
+    },
+    {
+     "t": 577.7,
+     "s": "A",
+     "es": "Sí.",
+     "ko": "네."
+    },
+    {
+     "t": 578.8,
+     "s": "A",
+     "es": "He visto esto muchas veces.",
+     "ko": "저는 이런 걸 정말 많이 봤어요."
+    },
+    {
+     "t": 580.8,
+     "s": "A",
+     "es": "Le das a un estudiante una historia, un artículo, un video que claramente está un poco más avanzado que su nivel, y luego luego pone un alto y dice: «no, no, es que habla muy rápido», «no, es que estas palabras son muy poéticas, yo no las entiendo, yo no las uso», y de inmediato dice que no.",
+     "ko": "학생에게 자기 수준보다 분명히 조금 높은 이야기나 기사, 영상을 주면 곧바로 멈춰 세우고 말해요. \"아니, 아니, 너무 빨리 말해요\", \"아니, 이 단어들은 너무 시적이라 이해도 안 되고 안 써요.\" 그러고는 바로 거절해요."
+    },
+    {
+     "t": 602.3,
+     "s": "A",
+     "es": "¿Y por qué es importante tener una variedad de input?",
+     "ko": "그럼 왜 다양한 인풋이 중요할까요?"
+    },
+    {
+     "t": 606.9,
+     "s": "A",
+     "es": "Porque está muy bien que consumas cosas que puedes entender al cien por ciento, o cosas que solo son por diversión, una historia muy simple, lo que tú quieras.",
+     "ko": "100% 이해할 수 있는 것이나 그냥 재미로 보는 것, 아주 단순한 이야기 등 원하는 걸 보는 건 아주 좋아요."
+    },
+    {
+     "t": 615.2,
+     "s": "A",
+     "es": "Pero si no tomas el reto de consumir cosas un poco más avanzadas, más complicadas para ti, no estás saliendo de tu zona de confort, y la manera en que aprendemos cosas más complejas es exponiéndonos a ellas.",
+     "ko": "하지만 조금 더 높고 더 복잡한 것에 도전하지 않으면 컴포트 존을 벗어나지 못해요. 우리가 더 복잡한 걸 배우는 방법은 그것에 노출되는 거예요."
+    },
+    {
+     "t": 631.1,
+     "s": "D",
+     "es": "Mhm.",
+     "ko": "음."
+    },
+    {
+     "t": 631.6,
+     "s": "A",
+     "es": "Entonces, por ejemplo, si yo quiero tocar el piano, pero todo el tiempo escucho y veo videos de «Estrellita, ¿dónde estás?» y nunca me pongo a ver un video de Chopin o de Bach o algo así, por supuesto no puedo tocar eso, pero estoy expuesta y estoy aprendiendo otras cosas al estar expuesta.",
+     "ko": "예를 들어 제가 피아노를 치고 싶은데 맨날 '반짝반짝 작은 별' 영상만 듣고 보고, 쇼팽이나 바흐 같은 영상은 한 번도 안 본다고 해 봐요. 물론 그런 곡은 칠 수 없지만, 노출되는 것만으로도 다른 것들을 배우게 돼요."
+    },
+    {
+     "t": 649.7,
+     "s": "A",
+     "es": "Es como: «ah, existe eso», «ah, mira, movió la mano diferente».",
+     "ko": "\"아, 저런 것도 있구나\", \"어, 봐, 손을 다르게 움직였네\" 하는 식으로요."
+    }
+   ]
+  },
+  {
+   "title": "어려운 인풋이 뇌가 스페인어를 처리하는 방식을 바꾼다",
+   "lines": [
+    {
+     "t": 654.0,
+     "s": "A",
+     "es": "Y lo mismo pasa con las cosas en español.",
+     "ko": "스페인어로 된 것들도 마찬가지예요."
+    },
+    {
+     "t": 657.2,
+     "s": "A",
+     "es": "Al leer un poema, por ejemplo, a lo mejor no vas a entender todo.",
+     "ko": "예를 들어 시를 읽으면 아마 다 이해하지는 못할 거예요."
+    },
+    {
+     "t": 660.9,
+     "s": "A",
+     "es": "Es complicado entender un poema a veces en tu propio idioma, pero más en otro idioma.",
+     "ko": "시는 모국어로도 이해하기 어려울 때가 있는데, 다른 언어라면 더하죠."
+    },
+    {
+     "t": 665.8,
+     "s": "A",
+     "es": "Pero no importa, porque ahí, ¿qué hay?",
+     "ko": "하지만 상관없어요. 거기엔 뭐가 있을까요?"
+    },
+    {
+     "t": 668.1,
+     "s": "A",
+     "es": "Hay pronunciación, hay rimas, hay métrica, hay palabras bonitas, hay cosas interesantes.",
+     "ko": "발음이 있고, 각운이 있고, 운율이 있고, 예쁜 단어들과 흥미로운 것들이 있어요."
+    },
+    {
+     "t": 674.0,
+     "s": "A",
+     "es": "Entonces, deja de tener miedo a exponerte a eso.",
+     "ko": "그러니 그런 것에 노출되는 걸 두려워하지 마세요."
+    },
+    {
+     "t": 677.7,
+     "s": "A",
+     "es": "Lee historias más complicadas, pero también hay que ser sensatos y decir: «okay, este cuento, este artículo, este video es más avanzado que mi nivel, por lo tanto no voy a intentar entender cada palabra».",
+     "ko": "더 어려운 이야기를 읽으세요. 다만 현명하게, \"좋아, 이 이야기·기사·영상은 내 수준보다 높으니까 단어 하나하나를 다 이해하려고 하지는 않을 거야\"라고 생각해야 해요."
+    },
+    {
+     "t": 692.8,
+     "s": "A",
+     "es": "Ese no es el propósito.",
+     "ko": "그게 목적이 아니에요."
+    },
+    {
+     "t": 694.3,
+     "s": "A",
+     "es": "El propósito es exponerme, es ver qué puedo entender, intentar que mi cerebro escuche o aprenda español de otra manera, que escuche español más rápido.",
+     "ko": "목적은 노출되는 것, 내가 무엇을 이해할 수 있는지 보는 것, 내 뇌가 스페인어를 다른 방식으로 듣고 배우게 하는 것, 더 빠른 스페인어를 듣게 하는 거예요."
+    },
+    {
+     "t": 706.0,
+     "s": "A",
+     "es": "Entonces es importante, porque un día vas a ser capaz de entender eso.",
+     "ko": "그래서 중요해요. 언젠가는 그걸 이해할 수 있게 될 테니까요."
+    },
+    {
+     "t": 710.3,
+     "s": "A",
+     "es": "Tal vez hoy no, pero no es razón para decir: «no, no, no, no puedo porque es demasiado avanzado».",
+     "ko": "오늘은 아닐 수도 있지만, 그게 \"아니, 아니, 너무 어려워서 못 해\"라고 말할 이유는 안 돼요."
+    },
+    {
+     "t": 715.5,
+     "s": "A",
+     "es": "Siempre hay algo de valor.",
+     "ko": "언제나 가치 있는 무언가가 있어요."
+    },
+    {
+     "t": 717.0,
+     "s": "D",
+     "es": "Y esto igual sucede en muchas cosas en la vida, y yo puedo decir que para mí esto fue muy importante en el aprendizaje de la música.",
+     "ko": "이건 삶의 많은 일에서도 똑같이 일어나요. 저한테는 음악을 배울 때 이게 아주 중요했어요."
+    },
+    {
+     "t": 727.0,
+     "s": "D",
+     "es": "Me acuerdo cuando empecé a tocar la guitarra: me metieron a un grupo en donde había muchos chicos de secundaria que ya tocaban, y me dijeron: «okay, necesitamos más gente».",
+     "ko": "기타를 처음 배우기 시작했을 때가 기억나요. 이미 연주를 하던 중학생이 많은 그룹에 저를 넣어 놓고는 \"좋아, 사람이 더 필요해\"라고 했어요."
+    },
+    {
+     "t": 740.0,
+     "s": "D",
+     "es": "Se hizo un pequeño grupo para tocar en algunos lugares de parte de la escuela, y me aventaron al ruedo así, como si yo ya supiera mucho.",
+     "ko": "학교를 대표해 여기저기서 연주할 작은 그룹이 만들어졌는데, 제가 이미 많이 아는 것처럼 저를 그냥 무대에 던져 넣었죠."
+    },
+    {
+     "t": 749.7,
+     "s": "D",
+     "es": "Y tener ese reto de personas mucho más avanzadas que yo me hizo crecer, me hizo desarrollarme mucho más rápido de lo que lo hubiera hecho a mi nivel calmado, porque finalmente esta presión, un poco social si quieres llamarlo, provoca que nos aventemos más y que el aprendizaje sea más rápido.",
+     "ko": "저보다 훨씬 잘하는 사람들이라는 도전이 저를 성장시켰고, 제 느긋한 속도로 했을 때보다 훨씬 빨리 발전하게 했어요. 결국 이런, 굳이 말하자면 약간의 사회적 압박이 우리를 더 과감하게 뛰어들게 하고 학습을 더 빠르게 만들거든요."
+    },
+    {
+     "t": 774.0,
+     "s": "D",
+     "es": "Entonces, otra de las cosas que puedes hacer es sí exponerte a cosas más difíciles, más avanzadas, como contenido más difícil, pero también exponerte a relaciones reales avanzadas, ¿no?",
+     "ko": "그러니까 할 수 있는 또 하나는 더 어렵고 높은 수준의 것, 예를 들어 더 어려운 콘텐츠에 노출되는 것이지만, 실제로 수준 높은 사람들과의 관계에도 자신을 노출하는 거예요."
+    },
+    {
+     "t": 786.1,
+     "s": "D",
+     "es": "Ya sea con personas que hablan un español mucho más avanzado que tú, estudiantes como tú, pero también irte y hablar con el nativo que puedas encontrar en la carnicería, en el supermercado, donde sea.",
+     "ko": "나보다 훨씬 스페인어를 잘하는 사람이든, 나 같은 학생이든요. 그리고 정육점이든 슈퍼마켓이든 어디서든 만날 수 있는 원어민에게 가서 말을 걸어 보는 것도요."
+    },
+    {
+     "t": 800.5,
+     "s": "A",
+     "es": "Y hemos hablado mucho últimamente de esto: atrévete, atrévete, porque vale la pena.",
+     "ko": "그리고 최근에 이 얘기를 많이 했죠. 용기를 내세요, 용기를 내세요, 그럴 가치가 있으니까요."
+    },
+    {
+     "t": 805.8,
+     "s": "A",
+     "es": "Y también lo que siempre hemos dicho: no te preocupes por la vergüenza, por cualquiera de estas cosas mentales que tenemos, que son reales.",
+     "ko": "그리고 우리가 늘 말해 온 것처럼, 창피함이나 우리가 가진 이런저런 심리적인 것들은 실제로 존재하긴 하지만 걱정하지 마세요."
+    },
+    {
+     "t": 814.8,
+     "s": "A",
+     "es": "Se van a olvidar de ti en un día, entonces no va a pasar nada. ¡Ánimo!",
+     "ko": "하루만 지나면 다들 잊어버릴 테니 아무 일도 안 일어나요. 힘내세요!"
+    },
+    {
+     "t": 819.6,
+     "s": "A",
+     "es": "Tú haz ese reto de ir por lo más avanzado.",
+     "ko": "더 높은 수준을 향해 가는 그 도전을 해 보세요."
+    }
+   ]
+  },
+  {
+   "title": "전략 3 — 나다운 어휘를 늘리는 '다섯 표현' 시스템",
+   "lines": [
+    {
+     "t": 822.6,
+     "s": "A",
+     "es": "Y nuestro último punto de hoy es oro.",
+     "ko": "그리고 오늘의 마지막 포인트는 금 같은 거예요."
+    },
+    {
+     "t": 825.7,
+     "s": "A",
+     "es": "Quédate, porque te voy a dar un sistema, así literal, que tú puedes seguir empezando hoy, ¿okay?",
+     "ko": "끝까지 들어 주세요. 오늘부터 바로 따라 할 수 있는, 말 그대로 하나의 시스템을 드릴 거예요. 알겠죠?"
+    },
+    {
+     "t": 832.5,
+     "s": "A",
+     "es": "Pero el tema es: ¿cómo puedo agregar más vocabulario realmente de valor a mi vida? ¿Cómo sé a qué tipo de vocabulario invertirle tiempo?",
+     "ko": "주제는 이거예요. 내 삶에 정말 가치 있는 어휘를 어떻게 더 늘릴 수 있을까? 어떤 종류의 어휘에 시간을 투자해야 하는지 어떻게 알까?"
+    },
+    {
+     "t": 843.9,
+     "s": "D",
+     "es": "Mhm. Y esto es muy, muy importante, porque también, como hemos dicho en otros episodios, recuerda que para que puedas aprender de una mejor manera y pasar estos baches de crecimiento, tienes que hacer que el español sea algo que se relaciona contigo.",
+     "ko": "음, 이건 정말 정말 중요해요. 다른 에피소드에서도 말했듯이, 더 잘 배우고 이런 성장의 고비를 넘으려면 스페인어를 나와 관련된 것으로 만들어야 해요."
+    },
+    {
+     "t": 861.6,
+     "s": "D",
+     "es": "No va a funcionar si te pones a aprender vocabulario que quizá nunca vas a utilizar, pero sobre todo que no te emociona, ¿no?",
+     "ko": "아마 평생 쓰지도 않을, 무엇보다 설레지도 않는 어휘를 공부하면 효과가 없을 거예요."
+    },
+    {
+     "t": 869.9,
+     "s": "D",
+     "es": "Aprende, no sé, si te gustan los coches como a mí, aprende sobre mecánica o sobre los nuevos autos, pero en español, ¿no?",
+     "ko": "예를 들어 저처럼 자동차를 좋아한다면 정비나 신차에 대해 배우세요. 다만 스페인어로요."
+    },
+    {
+     "t": 878.0,
+     "s": "D",
+     "es": "Entonces eso te va a ayudar muchísimo.",
+     "ko": "그러면 엄청 도움이 될 거예요."
+    },
+    {
+     "t": 881.2,
+     "s": "D",
+     "es": "Pero bueno, entonces, Ana, ¿cuál es este sistema?",
+     "ko": "그래서 아나, 그 시스템이 뭐예요?"
+    },
+    {
+     "t": 883.7,
+     "s": "D",
+     "es": "¿Cómo le has hecho tú para aprender inglés, que, digamos, es como el idioma más fuerte que tenemos aparte del español?",
+     "ko": "우리가 스페인어 다음으로 가장 잘하는 언어라고 할 수 있는 영어를 당신은 어떻게 배웠어요?"
+    },
+    {
+     "t": 892.9,
+     "s": "D",
+     "es": "¿Cómo funcionó para ti? ¿Cómo le hiciste?",
+     "ko": "당신한테는 어떻게 통했어요? 어떻게 했어요?"
+    },
+    {
+     "t": 895.4,
+     "s": "A",
+     "es": "Okay, primero te voy a contar un poco mi historia y después te voy a dar el sistema que creé, realmente hasta ahora, como estudiante de idiomas y como maestra de español, entonces estoy segura de que puede funcionar bien.",
+     "ko": "좋아요, 먼저 제 이야기를 조금 하고 나서 제가 만든 시스템을 알려 드릴게요. 지금까지 언어 학습자로서, 또 스페인어 교사로서 만든 거라 잘 통할 거라고 확신해요."
+    },
+    {
+     "t": 911.9,
+     "s": "A",
+     "es": "Pero la verdad es que, si lo piensas, muchas veces nos pasa que estamos hablando y digo una frase, y personas me han escrito, nativos me han dicho: «¿cómo sabes eso? ¿Cómo sabes decir esa frase?»",
+     "ko": "사실 생각해 보면, 대화하다가 제가 어떤 표현을 말하면 사람들이 메시지를 보내거나 원어민들이 \"그걸 어떻게 알아요? 그 표현을 어떻게 알아요?\" 하고 묻는 일이 자주 있어요."
+    },
+    {
+     "t": 924.7,
+     "s": "A",
+     "es": "O David me dice: «¿qué es eso?», y ya le explico, y a veces le digo: «no sé cómo sé esa frase», ¿no?",
+     "ko": "아니면 다비드가 \"그게 뭐야?\" 하고 물으면 설명해 주고, 가끔은 \"내가 그 표현을 어떻게 아는지 모르겠어\"라고 하죠."
+    },
+    {
+     "t": 930.6,
+     "s": "A",
+     "es": "O sea, la verdad es que sí cometo errores y lo que sea, pero sí tengo un arsenal de expresiones y frases muy nativas, digamos, en inglés, ¿no?",
+     "ko": "그러니까 실수도 하고 그렇긴 하지만, 영어로 말하자면 아주 원어민스러운 표현과 문장을 무기고처럼 잔뜩 갖고 있어요."
+    },
+    {
+     "t": 941.1,
+     "s": "A",
+     "es": "Entonces, la verdad es que ya analizándolo me di cuenta de que yo no dejo de aprender nunca.",
+     "ko": "그래서 분석해 보니, 저는 배우기를 절대 멈추지 않는다는 걸 깨달았어요."
+    }
+   ]
+  },
+  {
+   "title": "이해하는 것과 쓸 수 있는 것은 다르다",
+   "lines": [
+    {
+     "t": 949.5,
+     "s": "A",
+     "es": "Un error que cometen los estudiantes intermedios, y sobre todo los avanzados, es que dicen: «ah, ya entendí todo, y listo, no hay más que hacer».",
+     "ko": "중급, 특히 고급 학습자들이 저지르는 실수는 \"아, 다 이해했어, 끝, 더 할 거 없어\"라고 말하는 거예요."
+    },
+    {
+     "t": 958.9,
+     "s": "A",
+     "es": "No, siempre va a haber la posibilidad de que entendiste algo, pero entender y ser capaz de usarlo son dos cosas completamente diferentes.",
+     "ko": "아니에요. 무언가를 이해했을 수는 있지만, 이해하는 것과 그걸 쓸 수 있는 것은 완전히 다른 두 가지예요."
+    },
+    {
+     "t": 967.4,
+     "s": "A",
+     "es": "Porque es posible que escuches algo y entiendas absolutamente todo, pero no eres capaz de usar esa frase específica que alguien dijo.",
+     "ko": "무언가를 듣고 전부 다 이해해도, 누군가 말한 그 특정한 표현을 직접 쓰지는 못할 수 있거든요."
+    },
+    {
+     "t": 974.9,
+     "s": "A",
+     "es": "Entonces, si yo te digo: ¿qué significa «órale»?",
+     "ko": "그럼 제가 \"órale가 무슨 뜻이에요?\" 하고 물으면요."
+    },
+    {
+     "t": 978.4,
+     "s": "A",
+     "es": "Tal vez, si eres intermedio, tú sabes lo que «órale» en español significa, pero ¿lo usas? ¿Lo dices?",
+     "ko": "중급이라면 스페인어로 órale가 무슨 뜻인지 알 수도 있어요. 그런데 그걸 쓰나요? 말하나요?"
+    },
+    {
+     "t": 986.8,
+     "s": "A",
+     "es": "No, muy probablemente no.",
+     "ko": "아니요, 아마 안 쓸 거예요."
+    },
+    {
+     "t": 989.3,
+     "s": "A",
+     "es": "Entonces, eso es algo sobre lo que tú tienes poder. Tú puedes cambiar eso.",
+     "ko": "그런데 그건 여러분이 바꿀 수 있는 거예요. 여러분이 그걸 바꿀 수 있어요."
+    },
+    {
+     "t": 994.9,
+     "s": "A",
+     "es": "Cada vez que tengas una conversación con un nativo, escuches algo o leas algo, es importante que notes qué frases te llaman la atención, pero que no dices a pesar de que las entiendas.",
+     "ko": "원어민과 대화하거나 무언가를 듣거나 읽을 때마다, 눈길을 끌지만 이해하면서도 직접 말하지는 않는 표현이 무엇인지 알아차리는 게 중요해요."
+    },
+    {
+     "t": 1009.2,
+     "s": "A",
+     "es": "Y lo importante es tomar esas y decir: «uy, esta frase es maravillosa, me encanta cómo suena, me encanta lo que significa, voy a usarla».",
+     "ko": "그리고 그런 표현을 골라서 \"와, 이 표현 정말 멋지다, 소리도 좋고 뜻도 좋아, 이걸 써 봐야지\" 하는 게 중요해요."
+    }
+   ]
+  },
+  {
+   "title": "시스템은 이렇게 — 단계별로",
+   "lines": [
+    {
+     "t": 1018.5,
+     "s": "D",
+     "es": "Perfecto. Entonces, ¿cuál es el sistema?",
+     "ko": "좋아요. 그럼 그 시스템은 뭐예요?"
+    },
+    {
+     "t": 1021.5,
+     "s": "A",
+     "es": "Okay. Vas a tener una nota en tu teléfono, o un cuaderno, mejor, porque está probado que cuando escribes la información se retiene de mejor manera, pero puedes usar tu compu o tu teléfono, ¿okay?",
+     "ko": "좋아요. 휴대폰에 메모를 하나 만들거나, 더 좋은 건 공책이에요. 손으로 쓰면 정보가 더 잘 기억된다는 게 증명됐거든요. 그래도 컴퓨터나 휴대폰을 써도 돼요."
+    },
+    {
+     "t": 1034.8,
+     "s": "A",
+     "es": "Vas a tener una nota o un cuaderno específico en donde tu tarea va a ser tener cinco, máximo cinco frases o palabras en español que te interesen mucho, que digas: «suenan muy bonitas», o «me encanta lo que expresa», o «wow, qué palabra tan interesante».",
+     "ko": "전용 메모나 공책을 하나 두고, 거기에 정말 관심 가는 스페인어 표현이나 단어를 다섯 개, 최대 다섯 개 적는 게 과제예요. \"소리가 참 예쁘다\", \"표현하는 뜻이 너무 좋다\", \"와, 정말 흥미로운 단어네\" 싶은 것들로요."
+    },
+    {
+     "t": 1053.9,
+     "s": "D",
+     "es": "Ajá.",
+     "ko": "아하."
+    },
+    {
+     "t": 1055.0,
+     "s": "A",
+     "es": "Y lo que vas a hacer es que en esa lista vas a escribir qué significa, vas a investigar realmente cuándo se usa, cualquier información, toda la información que puedas sobre esa frase o esa palabra.",
+     "ko": "그리고 그 목록에 뜻을 적고, 실제로 언제 쓰는지 조사하고, 그 표현이나 단어에 대해 찾을 수 있는 정보를 전부 적는 거예요."
+    },
+    {
+     "t": 1068.9,
+     "s": "A",
+     "es": "Y el propósito no es nada más escribirlas. No puedes tener más de cinco, ¿okay? Solo cinco, máximo.",
+     "ko": "그리고 목적은 그냥 적어 두는 게 아니에요. 다섯 개보다 많으면 안 돼요, 알겠죠? 최대 다섯 개만이에요."
+    },
+    {
+     "t": 1076.1,
+     "s": "A",
+     "es": "Tienes que usar cada una por lo menos tres veces en días diferentes.",
+     "ko": "각각을 서로 다른 날에 최소 세 번씩 써야 해요."
+    },
+    {
+     "t": 1082.3,
+     "s": "A",
+     "es": "Entonces, puedes escribir un mensaje a un amigo en español usando esta frase.",
+     "ko": "예를 들어 그 표현을 써서 친구에게 스페인어로 메시지를 보낼 수 있어요."
+    },
+    {
+     "t": 1088.4,
+     "s": "A",
+     "es": "Úsala en una de las conversaciones con estudiantes que tenemos en la Taquería, o busca un video de YouTube y escribe un comentario con tu opinión usando esta frase o esta palabra.",
+     "ko": "라 타케리아에서 하는 학생들과의 대화에서 써 보거나, 유튜브 영상을 찾아서 그 표현이나 단어를 넣어 의견 댓글을 달아 보세요."
+    },
+    {
+     "t": 1100.2,
+     "s": "A",
+     "es": "Si ya la usaste tres veces, ahora vas a preguntarte: ¿puedes decir la frase o palabra sin leerla?",
+     "ko": "세 번 썼다면 이제 스스로 물어보세요. 보지 않고 그 표현이나 단어를 말할 수 있나?"
+    },
+    {
+     "t": 1106.5,
+     "s": "A",
+     "es": "Sí, okay.",
+     "ko": "그렇다면 좋아요."
+    },
+    {
+     "t": 1108.1,
+     "s": "A",
+     "es": "¿Y serías capaz de explicarle a alguien, a otro estudiante, cómo se usa, qué significa, etcétera?",
+     "ko": "그리고 다른 학생 같은 누군가에게 그게 어떻게 쓰이고 무슨 뜻인지 등을 설명할 수 있나?"
+    },
+    {
+     "t": 1115.6,
+     "s": "A",
+     "es": "¿Sí? Okay, entonces es momento de eliminar esa frase de tu cuaderno, o tacharla, y agregar una nueva.",
+     "ko": "그렇다고요? 좋아요, 그럼 그 표현을 공책에서 지우거나 줄을 긋고 새 표현을 추가할 때예요."
+    },
+    {
+     "t": 1122.9,
+     "s": "A",
+     "es": "Entonces vas a estar haciendo esto durante un período; haz la prueba durante un mes, dos meses, y vas a ver que si cumples con todos los pasos que yo te dije, vas a ir avanzando tu vocabulario de manera muy grande, pero además de palabras, de frases que suenan como tú.",
+     "ko": "이걸 일정 기간 계속하는 거예요. 한 달, 두 달 시험해 보세요. 제가 말한 단계를 다 지키면 어휘가 크게 늘어나는 걸 보게 될 거예요. 게다가 단어뿐 아니라 나다운 표현들로요."
+    },
+    {
+     "t": 1141.6,
+     "s": "A",
+     "es": "Porque si yo te digo «estudia una lista de animales» y a ti no te gustan los animales, como dijo David, ¿cuál es el punto?",
+     "ko": "제가 \"동물 목록을 공부해\"라고 했는데 동물을 안 좋아한다면, 다비드 말처럼 무슨 의미가 있겠어요?"
+    },
+    {
+     "t": 1148.0,
+     "s": "A",
+     "es": "Está bien saber esas palabras, pero creo que aquí el punto, lo que queremos, es que seas capaz de expresar tus ideas más fielmente a quien eres tú, sin que el idioma sea una barrera.",
+     "ko": "그런 단어를 아는 것도 좋지만, 여기서 핵심, 우리가 바라는 건 언어가 장벽이 되지 않고 여러분이 자기 자신에게 더 충실하게 생각을 표현할 수 있게 되는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "소비하기 vs. 만들어 내기",
+   "lines": [
+    {
+     "t": 1158.9,
+     "s": "D",
+     "es": "Y esto tiene mucho que ver con esta idea y esta iniciativa que tuvimos durante varios episodios hace unos meses, que tiene que ver con producir.",
+     "ko": "이건 몇 달 전 여러 에피소드에 걸쳐 했던 아이디어이자 프로젝트, 즉 '만들어 내기'와 깊은 관련이 있어요."
+    },
+    {
+     "t": 1168.2,
+     "s": "D",
+     "es": "Recuerda que ser estudiante pasivo es una de las cosas que más te van a atrapar en este punto intermedio, porque sí, es mucho más cómodo consumir, ¿no?",
+     "ko": "수동적인 학습자로 머무는 게 이 중급 단계에서 여러분을 가장 붙잡아 두는 것 중 하나라는 걸 기억하세요. 소비하는 게 훨씬 편하니까요."
+    },
+    {
+     "t": 1181.4,
+     "s": "D",
+     "es": "Leer listas de vocabulario, ver episodios, escuchar podcasts.",
+     "ko": "단어 목록을 읽고, 에피소드를 보고, 팟캐스트를 듣는 것 말이에요."
+    },
+    {
+     "t": 1186.6,
+     "s": "D",
+     "es": "Y esto es mucho lo que a veces hacen las escuelas de idiomas, ¿no?, o en la universidad, o en la preparatoria si tomaste español.",
+     "ko": "그리고 이게 어학원이나, 스페인어를 수강했다면 대학이나 고등학교에서 흔히 하는 방식이죠."
+    },
+    {
+     "t": 1194.9,
+     "s": "D",
+     "es": "Es muy pasivo, ¿no? Y es por eso que es muy frustrante.",
+     "ko": "아주 수동적이에요. 그래서 그렇게 답답한 거고요."
+    },
+    {
+     "t": 1199.5,
+     "s": "D",
+     "es": "Llegas a tener demasiada información sin tener la capacidad de producir con todas estas herramientas que Ana te dio.",
+     "ko": "정보는 너무 많아지는데, 아나가 알려 준 이 모든 도구로 무언가를 만들어 낼 능력은 없는 상태가 되는 거죠."
+    },
+    {
+     "t": 1207.3,
+     "s": "D",
+     "es": "Entonces recuerda que es muy importante producir, así como muchos de ustedes nos hicieron llegar sus videos, sus podcasts, sus reels en Instagram y todo esto.",
+     "ko": "그러니 만들어 내는 게 아주 중요하다는 걸 기억하세요. 여러분 중 많은 분이 영상, 팟캐스트, 인스타그램 릴스 같은 걸 보내 주셨던 것처럼요."
+    },
+    {
+     "t": 1217.2,
+     "s": "D",
+     "es": "Fue genial verlos, porque realmente se dedicaron a hablar de cosas que para ustedes eran importantes, y que los hicieron salir de esta zona de confort y dar un brinquito.",
+     "ko": "그걸 보는 게 정말 멋졌어요. 여러분에게 중요한 것들에 대해 정말 열심히 이야기했고, 그게 여러분을 컴포트 존 밖으로 꺼내 한 걸음 뛰어오르게 했으니까요."
+    }
+   ]
+  },
+  {
+   "title": "만든 것을 라 타케리아에서 나누기",
+   "lines": [
+    {
+     "t": 1227.5,
+     "s": "A",
+     "es": "Que, por cierto, en la Taquería justamente tenemos un espacio donde puedes publicar este tipo de contenido que están creando los estudiantes.",
+     "ko": "그런데 말이 나와서 말인데, 라 타케리아에는 학생들이 만든 이런 콘텐츠를 올릴 수 있는 공간이 마침 있어요."
+    },
+    {
+     "t": 1235.6,
+     "s": "D",
+     "es": "Así es.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 1236.1,
+     "s": "D",
+     "es": "Así que, si esta información es nueva para ti, te invitamos: crea algo en español y compártelo con nosotros y con otros estudiantes, ¿no?",
+     "ko": "그러니 이 이야기가 처음이라면, 스페인어로 무언가를 만들어서 저희와 다른 학생들에게 나눠 주세요."
+    },
+    {
+     "t": 1244.3,
+     "s": "D",
+     "es": "Puede ser un episodio de podcast que tú crees, un video hablando de algo que te interesa, lo que sea, pero el punto es que uses tu español hablándolo, ¿okay?",
+     "ko": "직접 만든 팟캐스트 에피소드도 좋고, 관심 있는 걸 이야기하는 영상도 좋고, 뭐든 괜찮아요. 핵심은 스페인어를 말하면서 쓰는 거예요, 알겠죠?"
+    },
+    {
+     "t": 1255.0,
+     "s": "A",
+     "es": "Bueno, eso es todo por este episodio.",
+     "ko": "자, 이번 에피소드는 여기까지예요."
+    },
+    {
+     "t": 1256.8,
+     "s": "A",
+     "es": "Esperamos que este grupo de episodios te ayude a mejorar, a darte ánimos, a avanzar en tu proceso de aprendizaje de español.",
+     "ko": "이 에피소드 시리즈가 여러분이 실력을 키우고, 힘을 얻고, 스페인어 학습에서 앞으로 나아가는 데 도움이 되길 바라요."
+    },
+    {
+     "t": 1265.8,
+     "s": "D",
+     "es": "Y ya sabes, aprovecha los descuentos de estas semanas de Black Friday, Black November, no sé cómo le digan, pues, en fin, porque son bastante buenos.",
+     "ko": "그리고 아시죠, 블랙 프라이데이, 블랙 노벰버, 뭐라고 부르든 이번 몇 주간의 할인을 꼭 활용하세요. 꽤 괜찮거든요."
+    },
+    {
+     "t": 1275.1,
+     "s": "D",
+     "es": "Y bueno, nos vemos la siguiente semana.",
+     "ko": "그럼 다음 주에 만나요."
+    },
+    {
+     "t": 1276.9,
+     "s": "A",
+     "es": "Adiós.",
+     "ko": "안녕히 계세요."
+    },
+    {
+     "t": 1277.4,
+     "s": "D",
+     "es": "Adiós.",
+     "ko": "안녕히 계세요."
+    }
+   ]
+  }
+ ]
+}
