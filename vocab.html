@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>단어장 · 충호의 어학 열공 사이트</title>
+<meta name="description" content="모든 강의의 단어를 언어별로 모아 간격 반복(SRS)으로 복습하는 통합 단어장">
+<meta name="theme-color" content="#c8102e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📇</text></svg>">
+<link rel="stylesheet" href="assets/style.css?v=16">
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <div class="row"><a class="back" href="./">‹ 홈</a><div class="ttl">📇 통합 단어장 · 복습</div></div>
+  <div class="tabs" role="tablist" id="ltabs"></div>
+</div></div>
+
+<div class="wrap">
+  <div class="vstats" id="vstats"></div>
+  <div class="vtools">
+    <div class="seg" id="mseg"><button data-m="review" aria-pressed="true">🔁 오늘 복습</button><button data-m="list" aria-pressed="false">📋 단어 목록</button></div>
+    <span class="hint" id="scope"></span>
+  </div>
+
+  <section id="pane-review">
+    <div id="rv"></div>
+    <details class="srsopt">
+      <summary>⚙️ 복습 설정</summary>
+      <div class="optgrid">
+        <label>카드 앞면 <select id="oDir"><option value="f">외국어 → 뜻</option><option value="b">뜻 → 외국어</option></select></label>
+        <label>하루 새 단어 <select id="oNew"><option>5</option><option>10</option><option>20</option><option>30</option><option>50</option></select>개</label>
+        <label>새 단어 순서 <select id="oOrd"><option value="new">최근 강의부터</option><option value="old">오래된 강의부터</option></select></label>
+        <label><input type="checkbox" id="oSay"> 답을 볼 때 자동 발음</label>
+      </div>
+      <p class="hint">간격 반복: 맞힌 단어는 1일 → 3일 → 1주 → 3주…처럼 점점 늦게, 틀린 단어는 바로 다시 나와요. 강의 단어장에서 「외웠어요」를 누른 단어는 새 단어에서 빠져요.
+        기록은 이 기기의 브라우저에 저장돼요(아이폰·맥은 따로 기록돼요).</p>
+    </details>
+  </section>
+
+  <section id="pane-list" hidden>
+    <div class="vtools">
+      <input class="search" id="q" type="search" placeholder="단어·뜻·예문으로 찾기" style="flex:1;min-width:160px;margin:0">
+      <div class="seg" id="fseg"><button data-f="all" aria-pressed="true">전체</button><button data-f="new" aria-pressed="false">새 단어</button><button data-f="learn" aria-pressed="false">공부 중</button><button data-f="known" aria-pressed="false">외움</button></div>
+      <label class="opts" style="margin:0"><input type="checkbox" id="optCover"> 뜻 가리기</label>
+    </div>
+    <p class="hint" id="lcount"></p>
+    <div class="vgrid" id="vgrid"></div>
+    <p style="text-align:center"><button class="btn" id="more" hidden>더 보기</button></p>
+  </section>
+  <footer>단어는 각 강의의 단어장에서 모은 거예요. 같은 단어가 여러 강의에 나오면 하나로 합쳤어요.</footer>
+</div>
+<script src="assets/common.js"></script>
+<script src="assets/vocab.js?v=3"></script>
+</body>
+</html>

@@ -346,6 +346,37 @@ def main():
     index.sort(key=lambda x: (x["date"], len(x["id"]), x["id"]), reverse=True)
     (ROOT / "lessons.json").write_text(json.dumps({"lessons": index}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"✓ lessons.json: 총 {len(index)}개 강의")
+    build_vocab(index)
+
+
+def build_vocab(index):
+    """전체 강의의 단어를 언어별로 모아 vocab/<언어>.json 으로 (통합 단어장·복습용)
+    같은 단어가 여러 강의에 나오면 처음 나온 강의 기준으로 하나만 두고, 나온 강의를 모두 적어요.
+    여기 없는 새 강의(vocab/를 커밋하지 않은 경우)는 vocab.html이 그 강의의 meta.json을 직접 읽어 채워요."""
+    out = {}
+    for item in sorted(index, key=lambda x: (x["date"], len(x["id"]), x["id"])):
+        meta = json.loads((LESSONS / item["id"] / "meta.json").read_text(encoding="utf-8"))
+        lang = meta.get("lang") or "es"
+        words = out.setdefault(lang, {})
+        for v in meta.get("vocab", []):
+            w = (v.get("es") or "").strip()
+            if not w:
+                continue
+            if w in words:
+                if item["id"] not in words[w]["l"]:
+                    words[w]["l"].append(item["id"])
+                continue
+            words[w] = {"w": w, "py": v.get("py", ""), "ko": v.get("ko", ""), "ex": v.get("ex", ""),
+                        "exKo": v.get("exKo", ""), "l": [item["id"]], "d": item["date"]}
+    vdir = ROOT / "vocab"
+    vdir.mkdir(exist_ok=True)
+    titles = {i["id"]: i["title"] for i in index}
+    for lang, words in out.items():
+        lst = list(words.values())
+        ids = [i["id"] for i in index if (i.get("lang") or "es") == lang]
+        (vdir / f"{lang}.json").write_text(json.dumps({"lang": lang, "lessons": ids, "titles": {k: titles[k] for w in lst for k in w["l"]},
+                                                       "words": lst}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        print(f"✓ vocab/{lang}.json: 단어 {len(lst)}개")
 
 
 if __name__ == "__main__":

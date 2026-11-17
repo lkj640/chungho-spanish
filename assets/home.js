@@ -22,6 +22,16 @@
   };
   const matCard = code => { const x = MATS[code]; return x ? `<a class="sitecard mat" href="${esc(x.url)}">
       <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>` : ""; };
+  // 통합 단어장 카드: 오늘 복습할 단어 수(이 기기 기록)를 함께 보여줘요
+  const srs = store.get("srs", {});
+  const todayN = (d => Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5))(new Date());
+  const dueN = code => Object.entries(srs).filter(([k, v]) => k.startsWith(code + "|") && v.d <= todayN).length;
+  const vocabCard = code => {
+    if (!byLang(code).length) return "";
+    const due = dueN(code);
+    return `<a class="sitecard mat vocabcard" href="vocab.html?lang=${code}">
+      <span class="em">📇</span><span><b>통합 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">모든 강의 단어를 간격 반복(SRS) 카드로 복습</span></span><span class="go">›</span></a>`;
+  };
   const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">
       <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">↗</span></a>`).join("");
 
@@ -53,6 +63,7 @@
     app.innerHTML = `<p><a class="back" href="./">‹ 홈</a></p>
       <h2 class="langT">${L.flag} ${L.name} <span>${L.native} · 강의 ${list.length}개 · 완료 ${list.filter(l => done[l.id]).length}개</span></h2>
       ${list.length > 4 ? '<input class="search" id="q" type="search" placeholder="제목·표현으로 찾기">' : ""}
+      ${vocabCard(lang)}
       ${matCard(lang)}
       <div id="lst"></div>
       ${siteCards(lang)}`;
@@ -79,7 +90,7 @@
   let html = `<div class="stats">
       <div class="stat"><b>${all.length}</b><span>전체 강의</span></div>
       <div class="stat"><b>${all.filter(l => done[l.id]).length}</b><span>공부 완료</span></div>
-      <div class="stat"><b>${totalWords}</b><span>모은 단어</span></div>
+      <a class="stat" href="vocab.html" style="text-decoration:none;color:inherit"><b>${totalWords}</b><span>모은 단어 · 복습 ›</span></a>
     </div>
     <nav class="langnav">${Object.entries(LANGS).map(([c, L]) => `<a href="#lang-${c}">${L.flag} ${L.name} <b>${byLang(c).length}</b></a>`).join("")}</nav>`;
   for (const [code, L] of Object.entries(LANGS)) {
@@ -88,6 +99,7 @@
       <div class="langhead"><h3>${L.flag} ${L.name} <span>${L.native}</span></h3>
         ${list.length ? `<a href="./?lang=${code}">전체 ${list.length}개 보기 ›</a>` : ""}</div>
       ${list.length ? latestCard(list[0]) : `<div class="card empty">아직 강의가 없어요.<br><span class="hint">유튜브 링크와 transcript를 주시면 이곳에 추가돼요.</span></div>`}
+      ${vocabCard(code)}
       ${matCard(code)}
       ${siteCards(code)}
     </section>`;
