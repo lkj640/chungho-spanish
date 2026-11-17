@@ -1,6 +1,30 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-17-5",
+   "lang": "es",
+   "date": "2026-11-17",
+   "title": "어린 왕자 — 가장 중요한 것은 눈에 보이지 않아",
+   "es": "Lo esencial es invisible a los ojos.",
+   "emoji": "🌹",
+   "level": "A2–B1",
+   "channel": "Smile and Learn - Español",
+   "youtube": "xMdrJknUCQA",
+   "duration": "12:04",
+   "summary": "생텍쥐페리의 『어린 왕자』를 어린이용으로 12분에 담은 애니메이션 동화예요. 사막에 불시착한 비행사가 작은 별에서 온 어린 왕자를 만나고, 왕자가 들려주는 장미 이야기와 왕·허영쟁이·사업가·점등인·지리학자의 별, 그리고 지구에서 만난 여우의 \"길들인다는 것\"까지 따라가요. 또박또박한 스페인 스페인어 내레이션이라 과거 시제(단순과거 vs 불완료과거)와 접속법 기본형을 이야기 속에서 익히기 좋아요.",
+   "topics": [
+    "어린 시절: boa · engullir · sombrero · aviador",
+    "불시착: avioneta · desierto · dunas · despegar",
+    "작은 별: baobab · atardecer · malas hierbas · arrancar",
+    "장미: espinas · vanidosa · perfumar · despedirse",
+    "다섯 별: rey · súbdito · vanidoso · hombre de negocios · farolero · geógrafo",
+    "여우: domesticar · crear vínculos · paciente · lo esencial",
+    "이별: pozo · serpiente · pesadilla · emprender un viaje"
+   ],
+   "vocabCount": 44,
+   "lineCount": 145
+  },
+  {
    "id": "es-2026-11-17-4",
    "lang": "es",
    "date": "2026-11-17",

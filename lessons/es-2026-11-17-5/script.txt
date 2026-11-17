@@ -1,0 +1,310 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 나(비행사·내레이터), P = 어린 왕자, F = 꽃(장미), R = 왕, V = 허영쟁이, H = 사업가, L = 점등인, G = 지리학자, Z = 여우, X = 기타. 화자는 장면 맥락으로 나눴어요. END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자동 자막(단어별 시각). 문장부호·대문자를 넣고, bodas→boas, farol ero→farolero, 'nuestro y→no estoy 같은 인식 오류를 바로잡고, 자막에 빠진 대사(¡Ah, he aquí un súbdito!, ¡Ah, un admirador! 등)를 원작 맥락에 맞게 채웠어요. 섹션은 이야기 장면별로 나눴어요.
+END 12:04
+
+## 어린 시절의 그림 — 아무도 몰라준 '보아뱀'
+[00:08.48]
+N | Una vez, cuando era pequeño, escuché que las boas eran capaces de engullir un elefante entero. | 어릴 적 한번은, 보아뱀이 코끼리 한 마리를 통째로 삼킬 수 있다는 이야기를 들었어요.
+[00:15.29]
+N | Esa imagen rondaba en mi cabeza todo el día, y no dudé en dibujarla. | 그 장면이 하루 종일 머릿속을 맴돌아서, 망설이지 않고 그림으로 그렸죠.
+[00:22.32]
+N | Todos los adultos me decían lo mismo: | 어른들은 모두 똑같은 말을 했어요.
+[00:24.50]
+X | «¡Qué bonito sombrero!» | "모자 참 예쁘구나!"
+[00:27.41]
+N | Ellos no lo entendían. | 어른들은 그걸 이해하지 못했어요.
+[00:28.85]
+N | Solo se limitaban a decirme que hiciera algo de provecho, como estudiar geografía o matemáticas. | 그저 지리나 수학 공부처럼 쓸모 있는 일이나 하라고 말할 뿐이었어요.
+[00:34.82]
+N | Yo hice caso de sus consejos, y por ello me convertí en aviador, una profesión que me permitía viajar por todo el planeta y vivir como siempre me veían: muy serio. | 나는 그 충고를 따랐고, 그래서 비행사가 되었어요. 온 세상을 날아다닐 수 있고, 어른들이 늘 나를 보던 대로 아주 진지하게 살 수 있는 직업이었죠.
+[00:45.62]
+N | Desde hacía años vivía en un mundo de adultos, pero jamás me había sentido cómodo en él. | 몇 년째 어른들의 세상에서 살고 있었지만, 한 번도 그곳이 편했던 적은 없었어요.
+[00:51.02]
+N | Me sentía triste y frustrado. | 슬프고 답답했어요.
+[00:53.32]
+N | Siempre era el raro dentro de un mundo en el que todos eran iguales. | 모두가 똑같은 세상에서 나는 늘 이상한 사람이었죠.
+## 사막에 불시착하다 — 어린 왕자와의 만남
+[01:04.05]
+N | Un día, mientras volaba por el desierto, mi avioneta tuvo un fallo en el motor y cayó al suelo. | 어느 날 사막 위를 날던 중, 내 경비행기의 엔진이 고장 나서 땅에 떨어지고 말았어요.
+[01:14.33]
+N | Solo estábamos las dunas y yo, en un mar lleno de silencio. | 고요함으로 가득한 바다 속에, 모래 언덕들과 나뿐이었어요.
+[01:18.01]
+N | Si no conseguía despegar, no sobreviviría. | 다시 이륙하지 못하면 살아남지 못할 터였죠.
+[01:21.58]
+N | De repente, un pequeño hombrecito de ojos azules apareció ante mis ojos. | 그때 갑자기 파란 눈의 작은 꼬마가 내 눈앞에 나타났어요.
+[01:26.68]
+N | Era el Principito. | 어린 왕자였어요.
+[01:29.95]
+P | ¿Me pintas un cordero? | 양 한 마리 그려 줄래요?
+[01:32.13]
+N | Busqué los rotuladores que llevaba en mi mochila y le dibujé tres corderos, pero ninguno era de su agrado: o era muy viejo, o enfermo, o estaba demasiado delgado. | 배낭에 있던 사인펜을 찾아 양을 세 마리 그려 줬지만, 하나도 마음에 들어 하지 않았어요. 너무 늙었거나, 병들었거나, 너무 말랐거나 했죠.
+[01:44.91]
+N | Cansado de su insistencia, dibujé una caja y le aseguré que el cordero que quería estaba ahí dentro. | 계속 조르는 데 지쳐서, 상자를 하나 그리고는 원하는 양이 그 안에 있다고 말해 줬어요.
+[01:53.04]
+P | ¡Es exactamente lo que quería! | 바로 내가 원하던 거예요!
+## 어린 왕자의 작은 별 — 바오바브와 해 질 녘
+[01:57.73]
+N | El Principito vivía en un planeta lejano y muy pequeño. | 어린 왕자는 멀리 있는 아주 작은 별에 살았어요.
+[02:01.60]
+N | Tenía volcanes y una tierra cubierta de enormes baobabs. | 화산들이 있었고, 땅은 거대한 바오바브나무로 덮여 있었죠.
+[02:05.56]
+N | Al Principito le gustaba mucho ver los atardeceres. | 어린 왕자는 해 지는 모습을 보는 걸 무척 좋아했어요.
+[02:08.94]
+N | Él sí sabía disfrutar de las cosas de la vida. | 그는 삶의 것들을 즐길 줄 알았어요.
+[02:11.88]
+N | Se fijaba en los pequeños detalles y en los momentos que son invisibles a los ojos de los adultos. | 어른들 눈에는 보이지 않는 작은 것들과 순간들에 주의를 기울였죠.
+[02:17.43]
+N | Me contó que había dos tipos de hierbas en todos los planetas: las hierbas buenas y las hierbas malas. | 그는 모든 별에는 두 종류의 풀, 좋은 풀과 나쁜 풀이 있다고 말해 줬어요.
+[02:23.71]
+P | Las malas hierbas hay que arrancarlas de inmediato, porque con sus enormes raíces, al ser el planeta tan pequeño, pueden hacer que estalle. | 나쁜 풀은 바로 뽑아야 해요. 별이 너무 작아서, 그 커다란 뿌리 때문에 별이 터져 버릴 수도 있거든요.
+## 장미의 가시는 왜 있을까 — '중요한 일'이란
+[02:36.54]
+P | ¿Por qué las rosas tienen espinas? | 장미는 왜 가시가 있어요?
+[02:38.50]
+N | me preguntó un día el Principito. | 어느 날 어린 왕자가 내게 물었어요.
+[02:40.65]
+N | Para que no se las coman los animales. | 동물들이 먹지 못하게 하려고.
+[02:43.21]
+P | ¿Pero si aun así se las comen? | 그래도 먹으면요?
+[02:45.75]
+N | Entonces no lo sé. Tengo cosas serias que hacer, no puedo perder el tiempo. | 그럼 모르겠다. 난 중요한 일이 있어서 시간 낭비할 수 없어.
+[02:49.78]
+N | Estamos perdidos en el desierto, y si no reparo mi avioneta, moriremos. | 우린 사막에서 길을 잃었고, 비행기를 못 고치면 죽을 거야.
+[02:53.64]
+P | ¿Cosas serias? Las rosas llevan millones de años teniendo espinas, ¿y no te parece serio preguntarte el porqué? | 중요한 일이요? 장미는 수백만 년 동안 가시를 지니고 있었는데, 그 이유를 궁금해하는 건 중요하지 않아요?
+[03:00.75]
+N | Me acerqué a su lado y le abracé. | 나는 그의 곁으로 다가가 꼭 안아 주었어요.
+[03:03.04]
+N | Tenía razón. | 그의 말이 맞았어요.
+[03:04.39]
+N | En el mundo de los adultos se consideraban cosas serias aspectos como los números o los negocios. | 어른들의 세상에서는 숫자나 사업 같은 것들을 중요한 일로 여겼죠.
+[03:10.18]
+N | Ellos no valoran los pequeños detalles del mundo que nos rodea. | 어른들은 우리를 둘러싼 세상의 작은 것들을 소중히 여기지 않아요.
+## 단 하나의 꽃 — 장미와의 이별
+[03:21.19]
+N | En el planeta del Principito crecían flores únicas que solo tenían un día de vida. | 어린 왕자의 별에는 단 하루만 사는 특별한 꽃들이 피어났어요.
+[03:27.63]
+N | Pero una vez creció en él una flor distinta. | 그런데 한번은 그곳에 다른 꽃 하나가 피어났죠.
+[03:30.39]
+N | Era increíblemente bella, y también un poco egoísta. | 믿을 수 없을 만큼 아름다웠고, 조금 이기적이기도 했어요.
+[03:35.10]
+N | Además, se creía invencible porque tenía cuatro espinas. | 게다가 가시가 네 개 있다고 자기가 무적이라고 생각했죠.
+[03:38.19]
+N | Era vanidosa y siempre precisaba de su atención. | 허영심이 많았고 늘 그의 관심을 필요로 했어요.
+[03:41.81]
+P | Esa flor me perfumaba la vida. Jamás debí haber huido. Pero era demasiado joven para amarla. | 그 꽃은 내 삶을 향기롭게 해 줬어요. 절대 도망치지 말았어야 했는데. 하지만 그때 난 그 꽃을 사랑하기엔 너무 어렸어요.
+[03:48.87]
+N | El Principito se refería al día que se despidió de ella para emprender un viaje alrededor de varios planetas. | 어린 왕자가 말한 건, 여러 별을 돌아보는 여행을 떠나려고 꽃과 작별한 날이었어요.
+[03:54.72]
+F | Te quiero. Has decidido irte, así que hazlo, y procura ser feliz. | 사랑해. 떠나기로 했으니 가. 그리고 행복하도록 해.
+[04:01.08]
+F | Yo estaré bien. Tengo cuatro espinas para defenderme. | 난 괜찮을 거야. 날 지킬 가시가 네 개나 있잖아.
+## 첫 번째 별 — 명령하는 왕
+[04:07.01]
+N | El primer planeta que visitó el Principito estaba habitado por un rey. | 어린 왕자가 처음 찾아간 별에는 왕이 살고 있었어요.
+[04:11.52]
+R | ¡Ah, he aquí un súbdito! | 아, 신하가 하나 왔구나!
+[04:13.64]
+N | exclamó al verle. | 왕은 그를 보자 이렇게 외쳤죠.
+[04:14.93]
+N | El Principito se quedó ensimismado con esta frase. | 어린 왕자는 그 말에 골똘히 생각에 잠겼어요.
+[04:18.17]
+N | El rey le explicó que todo el universo debía obedecerle. | 왕은 온 우주가 자기에게 복종해야 한다고 설명했어요.
+[04:21.73]
+P | ¿Y puede exigir lo que quiera? | 그럼 원하는 건 뭐든 요구할 수 있어요?
+[04:24.38]
+N | preguntó el Principito. | 어린 왕자가 물었어요.
+[04:25.82]
+R | No. Siempre hay que exigir lo que las personas pueden hacer. | 아니다. 언제나 사람들이 할 수 있는 것을 요구해야 하느니라.
+[04:30.31]
+P | Bueno, creo que no tengo nada más que hacer aquí. Tengo que irme. | 음, 여기서 더 할 일은 없는 것 같아요. 가 봐야겠어요.
+[04:34.84]
+N | El rey intentó retener de todas las maneras posibles al Principito; llegó hasta nombrarlo ministro de su reino. | 왕은 온갖 방법으로 어린 왕자를 붙잡으려 했어요. 심지어 자기 왕국의 장관으로 임명하기까지 했죠.
+[04:42.47]
+N | Nada podría convencerle: debía continuar su viaje, y la autoridad del rey no iba a impedirlo. | 아무것도 그를 설득할 수 없었어요. 그는 여행을 계속해야 했고, 왕의 권위로도 그걸 막을 수는 없었죠.
+[04:47.90]
+N | Pensaba todo el rato: «Qué raras son las personas mayores». | 그는 내내 생각했어요. '어른들은 정말 이상해.'
+## 두 번째 별 — 박수받고 싶은 허영쟁이
+[04:54.93]
+N | En el siguiente planeta vivía un vanidoso. | 다음 별에는 허영쟁이가 살았어요.
+[04:58.51]
+V | ¡Ah, un admirador! | 아, 내 팬이 왔군!
+[05:00.35]
+N | dijo el vanidoso. | 허영쟁이가 말했어요.
+[05:02.00]
+V | Aplaude hasta que te diga que pares. | 내가 그만하라고 할 때까지 박수를 쳐.
+[05:07.48]
+N | Después de un rato aplaudiendo, el Principito se había cansado y dejó de aplaudir. | 한동안 박수를 치다가 어린 왕자는 지쳐서 박수를 멈췄어요.
+[05:11.95]
+V | Me admiras mucho, ¿verdad? | 너 날 무척 존경하지, 그렇지?
+[05:14.22]
+P | ¿Qué es admirar? | 존경한다는 게 뭐예요?
+[05:16.02]
+V | Admirar es lo mismo que admitir que soy el más bello, el más inteligente y la mejor persona que habita este planeta. | 존경한다는 건, 내가 이 별에 사는 사람 중에 가장 잘생기고, 가장 똑똑하고, 가장 훌륭한 사람이라고 인정하는 거야.
+[05:24.67]
+P | Pero si eres la única persona que hay en este planeta, ¿para qué sirve que te admiren? | 하지만 이 별에 사는 사람은 당신 하나뿐인데, 존경받는 게 무슨 소용이에요?
+[05:30.39]
+N | Definitivamente, el Principito se daba cuenta de que las personas mayores eran muy raras. | 어린 왕자는 어른들이 정말 이상하다는 걸 확실히 깨달았어요.
+[05:35.11]
+N | Lo que hacían no tenía sentido. | 그들이 하는 일은 말이 되지 않았죠.
+## 세 번째 별 — 별을 세는 사업가
+[05:41.01]
+N | El Principito me contó que el tercer planeta estaba habitado por un hombre de negocios. | 어린 왕자는 세 번째 별에 사업가가 살고 있었다고 말해 줬어요.
+[05:45.11]
+N | Estaba rojo como un tomate y no dejaba de hacer cuentas. | 토마토처럼 얼굴이 빨개진 채 쉬지 않고 계산을 하고 있었대요.
+[05:48.45]
+H | Dos millones… El mes que viene, ganar el doble… | 이백만… 다음 달엔 두 배를 벌어야지…
+[05:51.06]
+P | ¿Dos millones de qué? | 뭐가 이백만이에요?
+[05:52.41]
+H | De estrellas. Tengo dos millones de estrellas. | 별이지. 나는 별을 이백만 개 가지고 있어.
+[05:55.46]
+P | ¿Y qué haces con dos millones de estrellas? | 그럼 별 이백만 개로 뭘 해요?
+[05:58.31]
+H | Las recuento y las meto en el banco. | 다시 세어서 은행에 넣어 두지.
+[06:00.54]
+P | Pero eso no sirve de nada. No eres útil para ellas. | 하지만 그건 아무 소용 없잖아요. 당신은 별들에게 쓸모가 없어요.
+[06:04.32]
+N | El Principito se fue pensando de nuevo que las personas mayores son muy extrañas. | 어린 왕자는 어른들은 참 이상하다고 다시 생각하며 떠났어요.
+## 네 번째 별 — 쉬지 못하는 점등인
+[06:13.54]
+N | El cuarto planeta era pequeño y solo tenía una farola y un farolero. | 네 번째 별은 작았고, 가로등 하나와 점등인 한 사람만 있었어요.
+[06:18.44]
+P | ¿Por qué enciendes y apagas la farola continuamente? | 왜 가로등을 계속 켰다 껐다 해요?
+[06:21.73]
+L | Es mi obligación. Tengo que encender el farol por la noche y apagarlo por la mañana. | 그게 내 의무야. 밤에는 등을 켜고 아침에는 꺼야 하거든.
+[06:26.35]
+L | Pero ahora el planeta es más pequeño y se pone el sol cada cinco minutos. | 그런데 이제 별이 더 작아져서 5분마다 해가 져.
+[06:30.04]
+P | ¿Y no ha cambiado tu labor? | 그런데 당신 일은 바뀌지 않았어요?
+[06:32.04]
+L | No. El planeta ha cambiado, pero mi labor en él es la misma. No puedo descansar, a pesar de que es lo que más me gusta. | 아니. 별은 바뀌었지만 거기서 내 일은 그대로야. 쉬는 게 제일 좋은데도 쉴 수가 없어.
+[06:39.63]
+N | El Principito pensó que el farolero era el menos absurdo de todos. | 어린 왕자는 점등인이 그중 가장 덜 어리석다고 생각했어요.
+[06:43.84]
+N | Tenía un trabajo y se preocupaba de algo distinto a sí mismo. | 일이 있었고, 자기 자신이 아닌 다른 것을 돌봤으니까요.
+[06:47.08]
+N | Aun así, solo pensaba en cumplir con sus obligaciones. | 그래도 그는 의무를 다하는 것만 생각했죠.
+## 다섯 번째 별 — 꽃에 관심 없는 지리학자
+[06:53.92]
+N | El último planeta que visitó el Principito era el más grande y estaba habitado por un anciano. | 어린 왕자가 마지막으로 찾아간 별은 가장 컸고, 한 노인이 살고 있었어요.
+[06:58.92]
+N | Era geógrafo y conocía dónde estaban los océanos, las montañas y los desiertos. | 그는 지리학자여서 바다와 산과 사막이 어디 있는지 알고 있었어요.
+[07:04.15]
+P | ¿Y su planeta tiene muchos mares? | 그럼 할아버지 별에는 바다가 많아요?
+[07:07.60]
+G | No lo sé. Soy geógrafo, no explorador. | 모르지. 나는 지리학자지 탐험가가 아니란다.
+[07:10.54]
+G | Yo espero que los exploradores vengan y me informen de todo lo que ven, para luego escribirlo en mis libros. | 나는 탐험가들이 와서 본 것을 모두 알려 주길 기다렸다가, 그걸 내 책에 적는 거야.
+[07:16.05]
+P | ¿También conoces todas las flores? Son lo más bonito de mi planeta. | 꽃들도 다 알아요? 꽃은 우리 별에서 제일 예쁜 거예요.
+[07:20.40]
+G | No. Las flores no me interesan, porque son efímeras y desaparecen. | 아니. 꽃에는 관심이 없단다. 덧없어서 사라지니까.
+[07:25.21]
+G | Me gustan más las montañas, porque no cambian nunca. | 나는 산이 더 좋아. 절대 변하지 않으니까.
+[07:28.35]
+N | En ese momento, el Principito se arrepintió de haber dejado a su flor. | 그 순간 어린 왕자는 자기 꽃을 두고 온 것을 후회했어요.
+[07:32.68]
+N | Un día, ella también iba a desaparecer. | 언젠가 그 꽃도 사라질 테니까요.
+## 지구에 도착하다 — 장미 정원과 여우
+[07:42.05]
+N | Por fin llegó a la Tierra, un planeta habitado por más de siete mil millones de personas, entre los que se encuentran miles de faroleros, miles de vanidosos, etcétera. | 마침내 그는 지구에 도착했어요. 70억이 넘는 사람이 사는 별로, 그중에는 수천 명의 점등인과 수천 명의 허영쟁이 등이 있었죠.
+[07:53.66]
+N | Cuando el Principito llegó, vio un campo lleno de rosas y se acordó de su flor. | 어린 왕자는 도착하자 장미가 가득 핀 들판을 보고 자기 꽃을 떠올렸어요.
+[07:58.12]
+N | Luego se encontró con un animal muy hermoso. | 그다음 아주 아름다운 동물을 만났어요.
+[08:01.04]
+P | ¿Quién eres? Eres muy bonito. | 너는 누구니? 정말 예쁘구나.
+[08:03.98]
+Z | Soy un zorro. | 나는 여우야.
+[08:05.36]
+P | Ven a jugar conmigo. Estoy muy triste. | 나랑 놀자. 나 너무 슬퍼.
+[08:09.23]
+Z | No puedo: no estoy domesticado. | 그럴 수 없어. 나는 길들여지지 않았거든.
+[08:11.78]
+P | ¿Qué es domesticar? | 길들인다는 게 뭐야?
+[08:13.75]
+Z | Significa crear vínculos. | 관계를 맺는다는 뜻이야.
+[08:15.52]
+Z | Tú, para mí, eres un niño más, y no te necesito para nada. | 지금 너는 나에게 수많은 아이 중 하나일 뿐이고, 나는 네가 전혀 필요 없어.
+[08:19.52]
+Z | Pero si me domesticas, nos tomaremos cariño y tendremos necesidad el uno del otro. | 하지만 네가 나를 길들이면, 우리는 서로 정이 들고 서로를 필요로 하게 될 거야.
+[08:25.15]
+P | Quiero que me domestiques. | 네가 나를 길들여 줬으면 좋겠어.
+[08:26.87]
+Z | Debes ser muy paciente. Al principio te sentirás muy alejado de mí, pero poco a poco te irás acercando más. | 아주 참을성이 있어야 해. 처음엔 나와 아주 멀게 느껴지겠지만, 조금씩 점점 더 가까워질 거야.
+## 길들인다는 것 — 여우의 비밀
+[08:36.55]
+N | El Principito entendió lo que el zorro le decía, y poco a poco fue domesticándolo. | 어린 왕자는 여우가 하는 말을 이해했고, 조금씩 여우를 길들여 갔어요.
+[08:42.03]
+N | Todos los días le visitaba y jugaba con él, hasta que llegó el día de despedirse. | 매일 여우를 찾아가 함께 놀았고, 마침내 작별할 날이 왔어요.
+[08:51.87]
+Z | Voy a llorar. | 나 울 것 같아.
+[08:53.45]
+Z | Antes de marcharte, ve a ver el campo de rosas. Luego vuelve y te contaré un secreto. | 떠나기 전에 장미 들판에 가 봐. 그리고 돌아오면 비밀 하나를 알려 줄게.
+[08:59.04]
+N | El Principito hizo lo que el zorro le dijo, y se dio cuenta de que, a diferencia de las demás, su rosa era única y especial, porque estaba domesticada por él, y él por ella. | 어린 왕자는 여우가 말한 대로 했고, 다른 장미들과 달리 자기 장미는 유일하고 특별하다는 걸 깨달았어요. 그가 그 장미를 길들였고, 장미도 그를 길들였으니까요.
+[09:09.51]
+N | El resto eran hermosas, pero estaban vacías. | 다른 장미들은 아름다웠지만 텅 비어 있었어요.
+[09:14.34]
+Z | Lo esencial es invisible a los ojos. | 가장 중요한 것은 눈에 보이지 않아.
+[09:16.74]
+N | dijo el zorro antes de despedirse. | 여우가 작별 인사 전에 말했어요.
+## 사막의 우물 — 마음으로 마시는 물
+[09:22.47]
+P | Venga, busquemos un pozo. | 자, 우물을 찾으러 가요.
+[09:24.48]
+N | ¿Un pozo? ¡Estamos en el desierto! | 우물? 여긴 사막이야!
+[09:26.97]
+N | Era incansable. Si quería algo, lo conseguía, y era inútil llevarle la contraria. | 그는 지칠 줄 몰랐어요. 뭔가를 원하면 꼭 해냈고, 반대해 봐야 소용없었죠.
+[09:31.88]
+P | Lo que realmente embellece al desierto es el pozo que guarda dentro. | 사막을 정말 아름답게 하는 건 그 안에 숨겨진 우물이에요.
+[09:36.90]
+P | Lo que hace a algo hermoso es invisible a los ojos. | 무언가를 아름답게 만드는 건 눈에 보이지 않아요.
+[09:42.76]
+N | Y descubrí que se había quedado dormido, y yo continué el camino con él en brazos, como si de un tesoro se tratase. | 그러다 그가 잠든 걸 알게 됐고, 나는 마치 보물이라도 되는 듯 그를 품에 안고 계속 걸었어요.
+[09:48.88]
+N | Fue en ese momento cuando encontramos el pozo y pudimos beber. | 바로 그때 우리는 우물을 찾아 물을 마실 수 있었어요.
+[09:53.31]
+N | Aquella agua había nacido de caminar bajo las estrellas y del esfuerzo de mis brazos. | 그 물은 별빛 아래를 걸은 것과 내 두 팔의 수고에서 태어난 것이었어요.
+[09:57.76]
+N | Era un regalo al corazón, como cuando era niño y veía las luces de Navidad. | 어릴 때 크리스마스 불빛을 보던 것처럼, 마음에 주는 선물이었죠.
+## 뱀과 이별 — 어린 왕자, 자기 별로 돌아가다
+[10:07.48]
+N | El Principito estaba cerca del pozo y fui a verlo. | 어린 왕자가 우물 근처에 있어서 그를 보러 갔어요.
+[10:10.65]
+N | Cuando llegué, estaba hablando con una serpiente. | 도착해 보니 그는 뱀과 이야기하고 있었어요.
+[10:13.63]
+N | Era muy peligrosa. | 아주 위험한 뱀이었죠.
+[10:15.43]
+N | Estaba blanco como la nieve. | 그는 눈처럼 하얗게 질려 있었어요.
+[10:17.47]
+N | Me miró y lo comprendí todo. | 그가 나를 바라봤고, 나는 모든 걸 알아차렸어요.
+[10:20.09]
+P | ¿Has reparado tu avioneta? Me alegro. Yo también vuelvo a casa, aunque para mí es un viaje mucho más lejano y complicado. | 비행기 고쳤어요? 다행이에요. 나도 집으로 돌아가요. 나한테는 훨씬 더 멀고 힘든 여행이지만요.
+[10:29.32]
+N | Pese a estar en pleno día y en el desierto, me quedé helado. | 한낮의 사막인데도 나는 얼어붙고 말았어요.
+[10:32.68]
+N | No podía creer que no volvería a escuchar su risa. | 다시는 그의 웃음소리를 듣지 못한다는 게 믿기지 않았어요.
+[10:35.56]
+N | Dime que todo esto es una pesadilla. No quiero que te vayas. | 이게 다 악몽이라고 말해 줘. 네가 떠나는 거 싫어.
+[10:39.27]
+P | Déjame emprender este viaje solo. | 이 여행은 나 혼자 떠나게 해 줘요.
+[10:41.89]
+N | De repente apareció un rayo, y el Principito cayó en la arena del desierto. | 갑자기 번쩍하는 빛이 나타났고, 어린 왕자는 사막의 모래 위로 쓰러졌어요.
+## 에필로그 — 마음 속의 아이를 잊지 마세요
+[10:54.54]
+N | Han pasado ya muchos años de aquello. | 그 일이 있은 지 벌써 여러 해가 지났어요.
+[10:57.35]
+N | Sabía que el Principito había vuelto a su planeta, porque a la mañana siguiente no encontré su pequeño cuerpo. | 어린 왕자가 자기 별로 돌아갔다는 걸 알았어요. 다음 날 아침 그의 작은 몸을 찾을 수 없었으니까요.
+[11:03.83]
+N | El Sáhara es para mí el paisaje más hermoso y más triste del mundo. | 사하라는 나에게 세상에서 가장 아름답고 가장 슬픈 풍경이에요.
+[11:08.02]
+N | Fue ahí donde apareció el Principito, y también donde desapareció. | 바로 그곳에서 어린 왕자가 나타났고, 또 사라졌으니까요.
+[11:12.67]
+N | Si alguna vez pasan por allí, no se apresuren y disfruten de lo que ven. | 혹시 언젠가 그곳을 지나게 되면, 서두르지 말고 보이는 것을 즐기세요.
+[11:18.95]
+N | Nunca hay que olvidar el niño que uno lleva dentro, porque lo realmente hermoso es invisible a los ojos, y solo los niños pueden ver a través de su corazón. | 마음속에 품은 아이를 절대 잊지 마세요. 정말 아름다운 것은 눈에 보이지 않고, 오직 아이들만이 마음으로 볼 수 있으니까요.
+[11:43.00]
+X | ¿Quieres seguir aprendiendo? Suscríbete al canal de Smile and Learn haciendo clic en la foca. | 더 배우고 싶나요? 물개를 클릭해서 Smile and Learn 채널을 구독하세요.
