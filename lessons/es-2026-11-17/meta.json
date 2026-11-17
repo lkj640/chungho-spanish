@@ -1,0 +1,744 @@
+{
+ "lang": "es",
+ "date": "2026-11-17",
+ "title": "하루 일과 말하기 — 7시에 깨는 소피아와 6시에 깨는 마테오",
+ "es": "Me despierto a las siete.",
+ "emoji": "🌅",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "My Great Daily Routine in Spanish (A2) | Learn Spanish with Podcast  episode 29 | Easy Spanish",
+ "youtube": "t8bKqz984U4",
+ "duration": "11:13",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 기상·커피와 차·샤워·아침 식사·출근·점심·헬스장과 소파·저녁·잠자리까지 하루 일과를 시간 순서대로 묻고 답해요. 재귀동사(me despierto · me levanto · me ducho)와 시각 표현, 현재형을 11분 안에 듣고 따라 말하기 좋은 A2 회화이고, 마지막에 핵심 동사와 문장을 따라 하는 복습 코너가 있어요.",
+ "topics": [
+  "아침: me despierto · me levanto · me ducho · me visto",
+  "아침 식사: café con leche · té · tostadas · huevos revueltos",
+  "출근: en autobús · caminando · a las nueve en punto",
+  "점심: comer a las dos · tupper · ensalada y pollo",
+  "퇴근 후: gimnasio · series · cena ligera",
+  "문법: 재귀동사 · 어간 변화 · 시각 · gustar"
+ ],
+ "grammar": [
+  {
+   "title": "① 재귀동사 — me despierto · me levanto · me ducho",
+   "lead": "하루 일과 동사는 <b>me</b>(나를)가 붙어요. 소피아는 <b>despertarse(눈을 뜨다)</b>와 <b>levantarse(몸을 일으키다)</b>가 다르다고 짚어 줘요.",
+   "table": {
+    "head": [
+     "동사원형",
+     "yo (나는)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "despertarse",
+      "me despierto",
+      "(잠에서) 깨다"
+     ],
+     [
+      "levantarse",
+      "me levanto",
+      "일어나다"
+     ],
+     [
+      "ducharse",
+      "me ducho",
+      "샤워하다"
+     ],
+     [
+      "vestirse",
+      "me visto",
+      "옷을 입다"
+     ],
+     [
+      "lavarse",
+      "me lavo los dientes",
+      "(이를) 닦다"
+     ],
+     [
+      "dormirse",
+      "me duermo",
+      "잠들다"
+     ]
+    ]
+   },
+   "tip": "질문할 때는 te: ¿A qué hora te despiertas? ¿Te duchas por la mañana?"
+  },
+  {
+   "title": "② 어간 변화 동사 — despertarse(e→ie) · vestirse(e→i) · dormirse(o→ue)",
+   "lead": "어간 모음이 바뀌는 동사예요. <b>nosotros·vosotros</b>만 그대로예요.",
+   "table": {
+    "head": [
+     "동사",
+     "yo",
+     "tú",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "despertarse",
+      "me despierto",
+      "te despiertas",
+      "깨다 (e→ie)"
+     ],
+     [
+      "empezar",
+      "empiezo",
+      "empiezas",
+      "시작하다 (e→ie)"
+     ],
+     [
+      "vestirse",
+      "me visto",
+      "te vistes",
+      "옷을 입다 (e→i)"
+     ],
+     [
+      "dormirse",
+      "me duermo",
+      "te duermes",
+      "잠들다 (o→ue)"
+     ]
+    ]
+   },
+   "tip": "자막의 'me he visto'는 오류예요. 정확한 문장은 'me visto'."
+  },
+  {
+   "title": "③ 규칙 -ar/-er/-ir 현재형 — tomo · como · vivo",
+   "lead": "일과를 말할 때 가장 많이 쓰는 규칙 변화예요: <b>-o · -as/-es · -a/-e · -amos/-emos · -an/-en</b>.",
+   "table": {
+    "head": [
+     "동사",
+     "yo",
+     "tú",
+     "él/ella"
+    ],
+    "rows": [
+     [
+      "tomar (마시다)",
+      "tomo",
+      "tomas",
+      "toma"
+     ],
+     [
+      "comer (먹다)",
+      "como",
+      "comes",
+      "come"
+     ],
+     [
+      "cenar (저녁 먹다)",
+      "ceno",
+      "cenas",
+      "cena"
+     ],
+     [
+      "trabajar (일하다)",
+      "trabajo",
+      "trabajas",
+      "trabaja"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ 시각 말하기 — a las … / y media / en punto",
+   "lead": "<b>a las</b> + 시각. 1시만 <b>a la una</b>. 30분은 <b>y media</b>, 정각은 <b>en punto</b>.",
+   "examples": [
+    [
+     "Me despierto a las siete.",
+     "7시에 깨요."
+    ],
+    [
+     "Tomo el autobús a las ocho y media.",
+     "8시 30분에 버스를 타요."
+    ],
+    [
+     "Empiezo a las nueve en punto.",
+     "9시 정각에 시작해요."
+    ],
+    [
+     "Yo me duermo a las diez y media.",
+     "나는 10시 30분에 자요."
+    ]
+   ],
+   "tip": "'몇 시에?'는 ¿A qué hora …? — ¿A qué hora cenas?"
+  },
+  {
+   "title": "⑤ ir a / ir en / ir + 현재분사",
+   "lead": "<b>ir a</b> + 장소, <b>ir en</b> + 탈것. 걸어서 갈 때는 <b>ir caminando</b>, 또는 그냥 <b>ir a pie</b>.",
+   "examples": [
+    [
+     "Voy en autobús.",
+     "버스로 가요."
+    ],
+    [
+     "Yo voy caminando.",
+     "나는 걸어서 가요."
+    ],
+    [
+     "Voy al gimnasio.",
+     "헬스장에 가요. (a + el = al)"
+    ],
+    [
+     "Voy tres días a la semana.",
+     "일주일에 사흘 가요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 빈도·시간 표현 — a veces · todos los días · de lunes a viernes",
+   "lead": "일과를 말할 때 쓰는 시간·빈도 표현이에요.",
+   "examples": [
+    [
+     "Sí, todos los días.",
+     "네, 매일이요."
+    ],
+    [
+     "A veces como fruta también.",
+     "가끔은 과일도 먹어요."
+    ],
+    [
+     "Trabajo de lunes a viernes.",
+     "월요일부터 금요일까지 일해요."
+    ],
+    [
+     "Generalmente como tostadas.",
+     "보통 토스트를 먹어요."
+    ],
+    [
+     "Voy tres días a la semana.",
+     "일주일에 사흘 가요."
+    ]
+   ],
+   "tip": "'~마다'는 todos los días(매일) · todas las mañanas(매일 아침)."
+  },
+  {
+   "title": "⑦ gustar — me gusta + 동사원형 / me gustan + 복수",
+   "lead": "<b>me gusta</b> 뒤에는 동사원형이나 단수 명사, <b>me gustan</b> 뒤에는 복수 명사가 와요.",
+   "examples": [
+    [
+     "Me gusta leer antes de dormir.",
+     "자기 전에 책 읽는 걸 좋아해요."
+    ],
+    [
+     "Me gustan los plátanos y las manzanas.",
+     "바나나랑 사과를 좋아해요."
+    ],
+    [
+     "Me gusta caminar por la mañana.",
+     "아침에 걷는 걸 좋아해요."
+    ],
+    [
+     "No me gusta el gimnasio.",
+     "나는 헬스장이 싫어요."
+    ]
+   ],
+   "tip": "'나도 그래요'는 A mí también me gusta. 'A mí también' 뒤에도 me gusta가 와요."
+  }
+ ],
+ "phrases": [
+  [
+   "Me despierto a las siete.",
+   "나는 7시에 깨요."
+  ],
+  [
+   "Me gusta estar en la cama cinco minutos más.",
+   "침대에 5분 더 있는 게 좋아요."
+  ],
+  [
+   "Primero me despierto y después me levanto.",
+   "먼저 깨고 그다음에 일어나요."
+  ],
+  [
+   "Tomo café con leche y un poco de azúcar.",
+   "우유 넣은 커피에 설탕을 조금 넣어요."
+  ],
+  [
+   "Trabajo de lunes a viernes.",
+   "월요일부터 금요일까지 일해요."
+  ],
+  [
+   "Voy al trabajo en autobús.",
+   "버스로 직장에 가요."
+  ],
+  [
+   "Empiezo a las nueve en punto.",
+   "9시 정각에 시작해요."
+  ],
+  [
+   "Me gusta leer antes de dormir.",
+   "자기 전에 책 읽는 걸 좋아해요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la rutina diaria",
+   "ko": "하루 일과",
+   "ex": "Hoy vamos a hablar de la rutina diaria.",
+   "exKo": "오늘은 하루 일과에 대해 이야기할 거예요."
+  },
+  {
+   "es": "despertarse (e→ie)",
+   "ko": "잠에서 깨다",
+   "ex": "Me despierto a las siete.",
+   "exKo": "나는 7시에 깨요."
+  },
+  {
+   "es": "levantarse",
+   "ko": "일어나다",
+   "ex": "Me levanto a las siete y diez.",
+   "exKo": "나는 7시 10분에 일어나요."
+  },
+  {
+   "es": "ducharse",
+   "ko": "샤워하다",
+   "ex": "Después de beber mi té, me ducho.",
+   "exKo": "차를 마신 뒤에 샤워해요."
+  },
+  {
+   "es": "vestirse (e→i)",
+   "ko": "옷을 입다",
+   "ex": "Después me visto.",
+   "exKo": "그다음에 옷을 입어요."
+  },
+  {
+   "es": "ponerse la ropa",
+   "ko": "옷을 입다/걸치다",
+   "ex": "Me pongo la ropa cómoda.",
+   "exKo": "편한 옷을 입어요."
+  },
+  {
+   "es": "lavarse los dientes",
+   "ko": "이를 닦다",
+   "ex": "Me lavo los dientes.",
+   "exKo": "양치를 해요."
+  },
+  {
+   "es": "ponerse el pijama",
+   "ko": "잠옷을 입다",
+   "ex": "Y me pongo el pijama.",
+   "exKo": "그리고 잠옷을 입어요."
+  },
+  {
+   "es": "dormirse (o→ue)",
+   "ko": "잠들다",
+   "ex": "Me duermo a las once.",
+   "exKo": "나는 11시에 잠들어요."
+  },
+  {
+   "es": "la cama",
+   "ko": "침대",
+   "ex": "Me gusta estar en la cama cinco minutos más.",
+   "exKo": "침대에 5분 더 있는 게 좋아요."
+  },
+  {
+   "es": "abrir los ojos",
+   "ko": "눈을 뜨다",
+   "ex": "Primero abro los ojos.",
+   "exKo": "먼저 눈을 떠요."
+  },
+  {
+   "es": "salir de la cama",
+   "ko": "침대에서 나오다",
+   "ex": "Después salgo de la cama.",
+   "exKo": "그다음 침대에서 나와요."
+  },
+  {
+   "es": "el café",
+   "ko": "커피",
+   "ex": "Sí, necesito café.",
+   "exKo": "네, 커피가 필요해요."
+  },
+  {
+   "es": "el azúcar",
+   "ko": "설탕",
+   "ex": "Tomo café con leche y un poco de azúcar.",
+   "exKo": "우유 넣은 커피에 설탕을 조금 넣어요."
+  },
+  {
+   "es": "el té",
+   "ko": "차",
+   "ex": "No, yo tomo té.",
+   "exKo": "아니, 난 차를 마셔요."
+  },
+  {
+   "es": "refrescante",
+   "ko": "상쾌한",
+   "ex": "Sí, es muy refrescante.",
+   "exKo": "네, 정말 상쾌해요."
+  },
+  {
+   "es": "el desayuno",
+   "ko": "아침 식사",
+   "ex": "Me encanta el desayuno.",
+   "exKo": "아침 식사를 정말 좋아해요."
+  },
+  {
+   "es": "las tostadas",
+   "ko": "토스트",
+   "ex": "Generalmente como tostadas.",
+   "exKo": "보통 토스트를 먹어요."
+  },
+  {
+   "es": "la mantequilla",
+   "ko": "버터",
+   "ex": "Pan tostado con mantequilla.",
+   "exKo": "버터 바른 구운 빵이에요."
+  },
+  {
+   "es": "la fruta",
+   "ko": "과일",
+   "ex": "A veces como fruta también.",
+   "exKo": "가끔은 과일도 먹어요."
+  },
+  {
+   "es": "los huevos revueltos",
+   "ko": "스크램블 에그",
+   "ex": "Sí, huevos revueltos y pan.",
+   "exKo": "네, 스크램블 에그와 빵이에요."
+  },
+  {
+   "es": "saludable",
+   "ko": "건강에 좋은",
+   "ex": "Es muy saludable.",
+   "exKo": "아주 건강에 좋아요."
+  },
+  {
+   "es": "tener hambre",
+   "ko": "배고프다",
+   "ex": "Tengo mucha hambre por la mañana.",
+   "exKo": "아침에 배가 많이 고파요."
+  },
+  {
+   "es": "cómodo/a",
+   "ko": "편한",
+   "ex": "Pero en casa, ropa cómoda.",
+   "exKo": "하지만 집에서는 편한 옷이에요."
+  },
+  {
+   "es": "elegante",
+   "ko": "단정한, 우아한",
+   "ex": "Si voy a trabajar, ropa elegante.",
+   "exKo": "일하러 가면 단정한 옷을 입어요."
+  },
+  {
+   "es": "de lunes a viernes",
+   "ko": "월요일부터 금요일까지",
+   "ex": "Trabajo de lunes a viernes.",
+   "exKo": "월요일부터 금요일까지 일해요."
+  },
+  {
+   "es": "el fin de semana",
+   "ko": "주말",
+   "ex": "El fin de semana descanso.",
+   "exKo": "주말에는 쉬어요."
+  },
+  {
+   "es": "la oficina",
+   "ko": "사무실",
+   "ex": "Trabajo en una oficina en el centro.",
+   "exKo": "시내 사무실에서 일해요."
+  },
+  {
+   "es": "el autobús",
+   "ko": "버스",
+   "ex": "Tomo el autobús a las ocho y media.",
+   "exKo": "8시 30분에 버스를 타요."
+  },
+  {
+   "es": "un viaje largo",
+   "ko": "긴 이동",
+   "ex": "Es un viaje largo un poco.",
+   "exKo": "좀 긴 여행이에요."
+  },
+  {
+   "es": "caminando",
+   "ko": "걸어서",
+   "ex": "Yo voy caminando.",
+   "exKo": "나는 걸어서 가요."
+  },
+  {
+   "es": "cerca",
+   "ko": "가까이",
+   "ex": "Mi trabajo está cerca.",
+   "exKo": "내 직장은 가까워요."
+  },
+  {
+   "es": "¡Qué suerte!",
+   "ko": "운이 좋네요!",
+   "ex": "¡Qué suerte!",
+   "exKo": "운이 좋네요!"
+  },
+  {
+   "es": "el ejercicio",
+   "ko": "운동",
+   "ex": "Es buen ejercicio, ¿sí?",
+   "exKo": "좋은 운동이죠, 맞죠?"
+  },
+  {
+   "es": "empezar (e→ie)",
+   "ko": "시작하다",
+   "ex": "Empiezo a las nueve en punto.",
+   "exKo": "9시 정각에 시작해요."
+  },
+  {
+   "es": "en punto",
+   "ko": "정각에",
+   "ex": "Empiezo a las nueve en punto.",
+   "exKo": "9시 정각에 시작해요."
+  },
+  {
+   "es": "el horario",
+   "ko": "시간표, 근무 시간",
+   "ex": "Tenemos el mismo horario.",
+   "exKo": "우리는 같은 근무 시간이에요."
+  },
+  {
+   "es": "a mediodía",
+   "ko": "한낮에",
+   "ex": "Y a mediodía tenemos hambre.",
+   "exKo": "한낮이 되면 배가 고파요."
+  },
+  {
+   "es": "comer",
+   "ko": "점심을 먹다",
+   "ex": "En España, comer es lunch.",
+   "exKo": "스페인에서 comer는 점심 식사예요."
+  },
+  {
+   "es": "llevar la comida",
+   "ko": "음식을 가져가다",
+   "ex": "Como en el trabajo. Llevo mi comida.",
+   "exKo": "직장에서 먹어요. 내 음식을 가져가요."
+  },
+  {
+   "es": "el tupper",
+   "ko": "도시락통",
+   "ex": "Ah, tupper.",
+   "exKo": "아, 도시락통."
+  },
+  {
+   "es": "cocinar",
+   "ko": "요리하다",
+   "ex": "Cocino en casa y lo llevo.",
+   "exKo": "집에서 요리해서 가져가요."
+  },
+  {
+   "es": "preparar",
+   "ko": "준비하다",
+   "ex": "Preparo ensalada y pollo.",
+   "exKo": "샐러드랑 닭고기를 준비해요."
+  },
+  {
+   "es": "sano/a",
+   "ko": "건강한",
+   "ex": "Qué sano.",
+   "exKo": "건강하네요."
+  },
+  {
+   "es": "el pescado",
+   "ko": "생선",
+   "ex": "A veces pasta, a veces pescado.",
+   "exKo": "가끔은 파스타, 가끔은 생선."
+  },
+  {
+   "es": "por fin",
+   "ko": "드디어",
+   "ex": "Sí, hasta las cinco, por fin.",
+   "exKo": "네, 5시까지, 드디어요."
+  },
+  {
+   "es": "hacer deporte",
+   "ko": "운동하다",
+   "ex": "Me gusta hacer deporte.",
+   "exKo": "운동하는 걸 좋아해요."
+  },
+  {
+   "es": "el gimnasio",
+   "ko": "헬스장",
+   "ex": "Sí, voy al gimnasio.",
+   "exKo": "네, 헬스장에 가요."
+  },
+  {
+   "es": "la salud",
+   "ko": "건강",
+   "ex": "Es bueno para la salud.",
+   "exKo": "건강에 좋아요."
+  },
+  {
+   "es": "descansar",
+   "ko": "쉬다",
+   "ex": "Yo vuelvo a casa y descanso.",
+   "exKo": "나는 집에 돌아와서 쉬어요."
+  },
+  {
+   "es": "la serie",
+   "ko": "(TV) 시리즈",
+   "ex": "Sí, veo series o películas.",
+   "exKo": "네, 시리즈나 영화를 봐요."
+  },
+  {
+   "es": "cenar",
+   "ko": "저녁을 먹다",
+   "ex": "Yo ceno a las ocho.",
+   "exKo": "나는 8시에 저녁을 먹어요."
+  },
+  {
+   "es": "la cena ligera",
+   "ko": "가벼운 저녁",
+   "ex": "Sí. Una cena ligera.",
+   "exKo": "네. 가벼운 저녁이에요."
+  },
+  {
+   "es": "tener sueño",
+   "ko": "졸리다",
+   "ex": "Sí, tengo sueño.",
+   "exKo": "네, 졸려요."
+  },
+  {
+   "es": "la repetición",
+   "ko": "반복",
+   "ex": "La repetición es la clave.",
+   "exKo": "반복이 열쇠예요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿A qué hora se despierta Sofía?",
+   "options": [
+    "a las seis",
+    "a las siete",
+    "a las ocho",
+    "a las nueve"
+   ],
+   "answer": 1,
+   "explain": "Me despierto a las siete."
+  },
+  {
+   "q": "¿Cuánto tiempo más le gusta a Sofía estar en la cama?",
+   "options": [
+    "un minuto",
+    "cinco minutos",
+    "diez minutos",
+    "una hora"
+   ],
+   "answer": 1,
+   "explain": "Me gusta estar en la cama cinco minutos más."
+  },
+  {
+   "q": "¿Qué toma Mateo por la mañana?",
+   "options": [
+    "café",
+    "jugo",
+    "té",
+    "agua"
+   ],
+   "answer": 2,
+   "explain": "No, yo tomo té."
+  },
+  {
+   "q": "¿Qué come Sofía de desayuno?",
+   "options": [
+    "huevos",
+    "tostadas con mantequilla",
+    "cereales",
+    "nada"
+   ],
+   "answer": 1,
+   "explain": "Generalmente como tostadas… pan tostado con mantequilla."
+  },
+  {
+   "q": "¿Qué desayuna Mateo?",
+   "options": [
+    "huevos revueltos y pan",
+    "fruta",
+    "yogur",
+    "sopa"
+   ],
+   "answer": 0,
+   "explain": "Yo como huevos… huevos revueltos y pan."
+  },
+  {
+   "q": "¿Cómo va Sofía al trabajo?",
+   "options": [
+    "a pie",
+    "en autobús",
+    "en bicicleta",
+    "en coche"
+   ],
+   "answer": 1,
+   "explain": "Voy en autobús."
+  },
+  {
+   "q": "¿Cuánto camina Mateo hasta el trabajo?",
+   "options": [
+    "cinco minutos",
+    "quince minutos",
+    "treinta minutos",
+    "una hora"
+   ],
+   "answer": 1,
+   "explain": "Sí, camino quince minutos."
+  },
+  {
+   "q": "¿A qué hora come Sofía?",
+   "options": [
+    "a la una",
+    "a las dos",
+    "a las tres",
+    "a las cuatro"
+   ],
+   "answer": 1,
+   "explain": "Yo como a las dos de la tarde."
+  },
+  {
+   "q": "¿Qué lleva Sofía al trabajo para comer?",
+   "options": [
+    "un sándwich",
+    "ensalada y pollo",
+    "pasta",
+    "pizza"
+   ],
+   "answer": 1,
+   "explain": "Preparo ensalada y pollo… y lo llevo."
+  },
+  {
+   "q": "¿Cuántos días a la semana va Sofía al gimnasio?",
+   "options": [
+    "uno",
+    "dos",
+    "tres",
+    "cinco"
+   ],
+   "answer": 2,
+   "explain": "Voy tres días a la semana: lunes, miércoles y viernes."
+  },
+  {
+   "q": "¿A qué hora cena Mateo?",
+   "options": [
+    "a las siete",
+    "a las ocho",
+    "a las nueve",
+    "a las diez"
+   ],
+   "answer": 1,
+   "explain": "Yo ceno a las ocho."
+  },
+  {
+   "q": "¿A qué hora se duerme Mateo?",
+   "options": [
+    "a las diez y media",
+    "a las once",
+    "a las doce",
+    "a las nueve"
+   ],
+   "answer": 0,
+   "explain": "Yo me duermo a las diez y media."
+  }
+ ]
+}
