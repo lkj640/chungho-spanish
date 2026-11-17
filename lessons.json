@@ -1,6 +1,54 @@
 {
  "lessons": [
   {
+   "id": "zh-2026-11-17-2",
+   "lang": "zh",
+   "date": "2026-11-17",
+   "title": "어린 왕자 (중국어판) — 真正重要的东西，用眼睛是看不见的",
+   "es": "真正重要的东西，用眼睛是看不见的。",
+   "emoji": "🌹",
+   "level": "HSK 3–4",
+   "channel": "Smile and Learn 동화 중국어 번역 (사용자 녹음)",
+   "youtube": null,
+   "duration": "13:58",
+   "summary": "스페인어 섹션의 「El Principito」 동화를 중국어(간체)로 옮겨 읽은 오디오예요. 사막에 불시착한 비행사와 어린 왕자의 만남, 다섯 별의 이상한 어른들, 여우의 \"驯服(길들이기)\"까지 145문장을 따라가요. 了·过, 把자문, 被자문 대신 쓰는 \"让/叫\", \"只要…就…\", \"尽管…却…\" 같은 이야기체 구문을 익히기 좋아요. 스페인어판(es-2026-11-17-5)과 같은 문장 순서예요.",
+   "topics": [
+    "童年: 蟒蛇 · 吞 · 帽子 · 怪人",
+    "迫降: 引擎故障 · 沙丘 · 起飞 · 活下去",
+    "小星球: 猴面包树 · 日落 · 坏草 · 拔掉 · 撑爆",
+    "玫瑰: 刺 · 爱虚荣 · 芬芳 · 告别",
+    "五颗星球: 臣民 · 崇拜者 · 商人 · 点灯人 · 地理学家",
+    "狐狸: 驯服 · 建立联系 · 耐心",
+    "告别: 井 · 蛇 · 噩梦 · 浑身发冷"
+   ],
+   "vocabCount": 27,
+   "lineCount": 145
+  },
+  {
+   "id": "ja-2026-11-17-2",
+   "lang": "ja",
+   "date": "2026-11-17",
+   "title": "어린 왕자 (일본어판) — いちばん大切なものは、目に見えない",
+   "es": "いちばん大切なものは、目に見えない。",
+   "emoji": "🌹",
+   "level": "JLPT N3–N2",
+   "channel": "Smile and Learn 동화 일본어 번역 (사용자 녹음)",
+   "youtube": null,
+   "duration": "14:56",
+   "summary": "스페인어 섹션의 「El Principito」 동화를 일본어로 옮겨 읽은 오디오예요. 비행사 「私」의 회상체(～た), 어린 왕자의 반말(～んだ, ～の？), 왕의 노인 말투(～じゃ, ～ねばならん) 등 인물마다 다른 말투를 들어 볼 수 있어요. 스페인어판(es-2026-11-17-5)과 같은 145문장 순서라 비교하며 들을 수 있어요.",
+   "topics": [
+    "子どものころ: ボア・飲み込む・帽子・変わり者",
+    "不時着: 墜落する・砂丘・離陸する・生き延びる",
+    "小さな星: バオバブ・夕日・悪い草・破裂する",
+    "バラ: トゲ・見栄っ張り・わがまま・別れを告げる",
+    "五つの星: 家来・うぬぼれ屋・実業家・点灯人・地理学者",
+    "キツネ: 飼いならす・絆を結ぶ・辛抱強い",
+    "別れ: 井戸・ヘビ・悪い夢・凍りつく"
+   ],
+   "vocabCount": 26,
+   "lineCount": 145
+  },
+  {
    "id": "es-2026-11-17-5",
    "lang": "es",
    "date": "2026-11-17",
@@ -95,6 +143,30 @@
    ],
    "vocabCount": 40,
    "lineCount": 158
+  },
+  {
+   "id": "en-2026-11-17-2",
+   "lang": "en",
+   "date": "2026-11-17",
+   "title": "어린 왕자 (영어판) — What is essential is invisible to the eye",
+   "es": "What is essential is invisible to the eye.",
+   "emoji": "🌹",
+   "level": "A2–B1",
+   "channel": "Smile and Learn 동화 영어 번역 (사용자 녹음)",
+   "youtube": null,
+   "duration": "12:39",
+   "summary": "스페인어 섹션의 「El Principito」 동화를 영어로 옮겨 읽은 오디오예요. 사막에 불시착한 비행사와 어린 왕자의 만남, 다섯 별의 이상한 어른들, 여우의 \"길들인다는 것\"까지 145문장을 쉬운 영어로 따라가요. 과거 시제 이야기체, 과거완료, used to·would 없이 쓰는 묘사, 그리고 tame·grown-up·odd one out 같은 표현을 익히기 좋아요. 스페인어판(es-2026-11-17-5)과 같은 문장 순서라 비교하며 들을 수 있어요.",
+   "topics": [
+    "childhood: boa · swallow · grown-ups · odd one out",
+    "crash: engine failure · dunes · take off · survive",
+    "planet: baobab · sunset · weeds · pull up · burst",
+    "rose: thorns · vain · fragrance · run away",
+    "five planets: subject · admirer · businessman · lamplighter · geographer",
+    "fox: tame · create ties · grow fond of · patient",
+    "farewell: well · snake · nightmare · broad daylight"
+   ],
+   "vocabCount": 28,
+   "lineCount": 145
   },
   {
    "id": "zh-2026-11-17",

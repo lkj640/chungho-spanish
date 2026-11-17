@@ -1,0 +1,309 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = Narrator(비행사), P = The Little Prince, F = The Rose, R = The King, V = The Vain Man, H = The Businessman, L = The Lamplighter, G = The Geographer, Z = The Fox, X = Other. 녹음은 한 사람이 읽었고, 화자 표시는 이야기 속 인물이에요. END = 오디오 끝 시각
+# 원본: 스페인어 강의 es-2026-11-17-5(El Principito)의 번역문을 읽은 사용자 녹음. 시각은 faster-whisper 단어 시각에 맞췄어요.
+END 12:39
+## 어린 시절의 그림 — 아무도 몰라준 '보아뱀'
+[00:00.00]
+N | Once, when I was little, I heard that boas could swallow a whole elephant. | 어릴 적 한번은, 보아뱀이 코끼리 한 마리를 통째로 삼킬 수 있다는 이야기를 들었어요.
+[00:08.67]
+N | That image went round my head all day, and I didn't hesitate to draw it. | 그 장면이 하루 종일 머릿속을 맴돌아서, 망설이지 않고 그림으로 그렸죠.
+[00:16.03]
+N | All the grown-ups told me the same thing: | 어른들은 모두 똑같은 말을 했어요.
+[00:19.75]
+X | "What a nice hat!" | "모자 참 예쁘구나!"
+[00:21.69]
+N | They didn't understand it. | 어른들은 그걸 이해하지 못했어요.
+[00:23.81]
+N | They only told me to do something useful, like studying geography or maths. | 그저 지리나 수학 공부처럼 쓸모 있는 일이나 하라고 말할 뿐이었어요.
+[00:31.19]
+N | I followed their advice, and so I became a pilot — a job that let me travel the whole planet and live the way they always saw me: very serious. | 나는 그 충고를 따랐고, 그래서 비행사가 되었어요. 온 세상을 날아다닐 수 있고, 어른들이 늘 나를 보던 대로 아주 진지하게 살 수 있는 직업이었죠.
+[00:43.59]
+N | For years I had lived in a world of grown-ups, but I had never felt comfortable in it. | 몇 년째 어른들의 세상에서 살고 있었지만, 한 번도 그곳이 편했던 적은 없었어요.
+[00:50.29]
+N | I felt sad and frustrated. | 슬프고 답답했어요.
+[00:54.15]
+N | I was always the odd one out in a world where everyone was the same. | 모두가 똑같은 세상에서 나는 늘 이상한 사람이었죠.
+## 사막에 불시착하다 — 어린 왕자와의 만남
+[01:02.25]
+N | One day, while I was flying over the desert, my little plane had an engine failure and fell to the ground. | 어느 날 사막 위를 날던 중, 내 경비행기의 엔진이 고장 나서 땅에 떨어지고 말았어요.
+[01:10.67]
+N | It was just the dunes and me, in a sea full of silence. | 고요함으로 가득한 바다 속에, 모래 언덕들과 나뿐이었어요.
+[01:16.13]
+N | If I couldn't take off, I wouldn't survive. | 다시 이륙하지 못하면 살아남지 못할 터였죠.
+[01:19.69]
+N | Suddenly, a little fellow with blue eyes appeared before me. | 그때 갑자기 파란 눈의 작은 꼬마가 내 눈앞에 나타났어요.
+[01:24.63]
+N | It was the Little Prince. | 어린 왕자였어요.
+[01:26.93]
+P | Will you draw me a sheep? | 양 한 마리 그려 줄래요?
+[01:29.19]
+N | I found the markers in my backpack and drew him three sheep, but he liked none of them: one was too old, one sick, one too thin. | 배낭에 있던 사인펜을 찾아 양을 세 마리 그려 줬지만, 하나도 마음에 들어 하지 않았어요. 너무 늙었거나, 병들었거나, 너무 말랐거나 했죠.
+[01:40.05]
+N | Tired of his insisting, I drew a box and told him the sheep he wanted was inside. | 계속 조르는 데 지쳐서, 상자를 하나 그리고는 원하는 양이 그 안에 있다고 말해 줬어요.
+[01:46.70]
+P | That's exactly what I wanted! | 바로 내가 원하던 거예요!
+## 어린 왕자의 작은 별 — 바오바브와 해 질 녘
+[01:49.51]
+N | The Little Prince lived on a faraway, very small planet. | 어린 왕자는 멀리 있는 아주 작은 별에 살았어요.
+[01:56.93]
+N | It had volcanoes and ground covered with enormous baobabs. | 화산들이 있었고, 땅은 거대한 바오바브나무로 덮여 있었죠.
+[02:02.71]
+N | The Little Prince loved watching sunsets. | 어린 왕자는 해 지는 모습을 보는 걸 무척 좋아했어요.
+[02:05.81]
+N | He really knew how to enjoy the things in life. | 그는 삶의 것들을 즐길 줄 알았어요.
+[02:09.27]
+N | He noticed the small details and the moments that are invisible to grown-ups' eyes. | 어른들 눈에는 보이지 않는 작은 것들과 순간들에 주의를 기울였죠.
+[02:15.23]
+N | He told me that on every planet there were two kinds of plants: good plants and bad weeds. | 그는 모든 별에는 두 종류의 풀, 좋은 풀과 나쁜 풀이 있다고 말해 줬어요.
+[02:22.53]
+P | You have to pull up the weeds right away, because the planet is so small that their huge roots can make it burst. | 나쁜 풀은 바로 뽑아야 해요. 별이 너무 작아서, 그 커다란 뿌리 때문에 별이 터져 버릴 수도 있거든요.
+## 장미의 가시는 왜 있을까 — '중요한 일'이란
+[02:33.47]
+P | Why do roses have thorns? | 장미는 왜 가시가 있어요?
+[02:35.53]
+N | the Little Prince asked me one day. | 어느 날 어린 왕자가 내게 물었어요.
+[02:37.75]
+N | So that animals don't eat them. | 동물들이 먹지 못하게 하려고.
+[02:40.13]
+P | But what if they eat them anyway? | 그래도 먹으면요?
+[02:42.83]
+N | Then I don't know. I have serious things to do; I can't waste time. | 그럼 모르겠다. 난 중요한 일이 있어서 시간 낭비할 수 없어.
+[02:49.07]
+N | We're lost in the desert, and if I don't fix my plane, we'll die. | 우린 사막에서 길을 잃었고, 비행기를 못 고치면 죽을 거야.
+[02:54.21]
+P | Serious things? Roses have had thorns for millions of years — and you don't think it's serious to wonder why? | 중요한 일이요? 장미는 수백만 년 동안 가시를 지니고 있었는데, 그 이유를 궁금해하는 건 중요하지 않아요?
+[03:03.51]
+N | I went over to him and hugged him. | 나는 그의 곁으로 다가가 꼭 안아 주었어요.
+[03:06.25]
+N | He was right. | 그의 말이 맞았어요.
+[03:07.71]
+N | In the grown-ups' world, things like numbers or business were considered serious. | 어른들의 세상에서는 숫자나 사업 같은 것들을 중요한 일로 여겼죠.
+[03:13.51]
+N | They don't value the small details of the world around us. | 어른들은 우리를 둘러싼 세상의 작은 것들을 소중히 여기지 않아요.
+## 단 하나의 꽃 — 장미와의 이별
+[03:22.11]
+N | On the Little Prince's planet grew unique flowers that lived for only one day. | 어린 왕자의 별에는 단 하루만 사는 특별한 꽃들이 피어났어요.
+[03:27.87]
+N | But once, a different flower grew there. | 그런데 한번은 그곳에 다른 꽃 하나가 피어났죠.
+[03:31.39]
+N | She was incredibly beautiful, and also a little selfish. | 믿을 수 없을 만큼 아름다웠고, 조금 이기적이기도 했어요.
+[03:36.31]
+N | What's more, she thought she was invincible because she had four thorns. | 게다가 가시가 네 개 있다고 자기가 무적이라고 생각했죠.
+[03:41.65]
+N | She was vain and always needed his attention. | 허영심이 많았고 늘 그의 관심을 필요로 했어요.
+[03:45.61]
+P | That flower filled my life with fragrance. I should never have run away. But I was too young to love her. | 그 꽃은 내 삶을 향기롭게 해 줬어요. 절대 도망치지 말았어야 했는데. 하지만 그때 난 그 꽃을 사랑하기엔 너무 어렸어요.
+[03:53.41]
+N | The Little Prince was talking about the day he said goodbye to her to set off on a journey around several planets. | 어린 왕자가 말한 건, 여러 별을 돌아보는 여행을 떠나려고 꽃과 작별한 날이었어요.
+[04:00.07]
+F | I love you. You've decided to go, so go — and try to be happy. | 사랑해. 떠나기로 했으니 가. 그리고 행복하도록 해.
+[04:05.81]
+F | I'll be fine. I have four thorns to defend myself. | 난 괜찮을 거야. 날 지킬 가시가 네 개나 있잖아.
+## 첫 번째 별 — 명령하는 왕
+[04:13.79]
+N | The first planet the Little Prince visited was home to a king. | 어린 왕자가 처음 찾아간 별에는 왕이 살고 있었어요.
+[04:18.13]
+R | Ah, here is a subject! | 아, 신하가 하나 왔구나!
+[04:20.27]
+N | he exclaimed when he saw him. | 왕은 그를 보자 이렇게 외쳤죠.
+[04:22.47]
+N | The Little Prince was lost in thought over those words. | 어린 왕자는 그 말에 골똘히 생각에 잠겼어요.
+[04:25.97]
+N | The king explained that the whole universe had to obey him. | 왕은 온 우주가 자기에게 복종해야 한다고 설명했어요.
+[04:30.03]
+P | And can you demand whatever you want? | 그럼 원하는 건 뭐든 요구할 수 있어요?
+[04:32.75]
+N | asked the Little Prince. | 어린 왕자가 물었어요.
+[04:34.31]
+R | No. One must always demand what people are able to do. | 아니다. 언제나 사람들이 할 수 있는 것을 요구해야 하느니라.
+[04:39.09]
+P | Well, I don't think there's anything more for me to do here. I have to go. | 음, 여기서 더 할 일은 없는 것 같아요. 가 봐야겠어요.
+[04:44.25]
+N | The king tried every possible way to keep the Little Prince; he even named him a minister of his kingdom. | 왕은 온갖 방법으로 어린 왕자를 붙잡으려 했어요. 심지어 자기 왕국의 장관으로 임명하기까지 했죠.
+[04:51.03]
+N | Nothing could persuade him: he had to continue his journey, and the king's authority wasn't going to stop him. | 아무것도 그를 설득할 수 없었어요. 그는 여행을 계속해야 했고, 왕의 권위로도 그걸 막을 수는 없었죠.
+[04:57.87]
+N | He kept thinking: "Grown-ups are so strange." | 그는 내내 생각했어요. '어른들은 정말 이상해.'
+## 두 번째 별 — 박수받고 싶은 허영쟁이
+[05:05.75]
+N | On the next planet lived a vain man. | 다음 별에는 허영쟁이가 살았어요.
+[05:09.05]
+V | Ah, an admirer! | 아, 내 팬이 왔군!
+[05:11.13]
+N | said the vain man. | 허영쟁이가 말했어요.
+[05:12.61]
+V | Clap until I tell you to stop. | 내가 그만하라고 할 때까지 박수를 쳐.
+[05:15.05]
+N | After clapping for a while, the Little Prince got tired and stopped clapping. | 한동안 박수를 치다가 어린 왕자는 지쳐서 박수를 멈췄어요.
+[05:21.37]
+V | You admire me a lot, don't you? | 너 날 무척 존경하지, 그렇지?
+[05:24.19]
+P | What does "admire" mean? | 존경한다는 게 뭐예요?
+[05:27.15]
+V | To admire means to admit that I'm the handsomest, the cleverest and the best person living on this planet. | 존경한다는 건, 내가 이 별에 사는 사람 중에 가장 잘생기고, 가장 똑똑하고, 가장 훌륭한 사람이라고 인정하는 거야.
+[05:35.91]
+P | But if you're the only person on this planet, what's the point of being admired? | 하지만 이 별에 사는 사람은 당신 하나뿐인데, 존경받는 게 무슨 소용이에요?
+[05:42.67]
+N | The Little Prince realized for certain that grown-ups were very strange. | 어린 왕자는 어른들이 정말 이상하다는 걸 확실히 깨달았어요.
+[05:48.05]
+N | What they did made no sense. | 그들이 하는 일은 말이 되지 않았죠.
+## 세 번째 별 — 별을 세는 사업가
+[05:56.31]
+N | The Little Prince told me the third planet was home to a businessman. | 어린 왕자는 세 번째 별에 사업가가 살고 있었다고 말해 줬어요.
+[06:01.05]
+N | He was as red as a tomato and never stopped doing sums. | 토마토처럼 얼굴이 빨개진 채 쉬지 않고 계산을 하고 있었대요.
+[06:06.15]
+H | Two million… Next month, earn double… | 이백만… 다음 달엔 두 배를 벌어야지…
+[06:10.31]
+P | Two million what? | 뭐가 이백만이에요?
+[06:12.07]
+H | Stars. I own two million stars. | 별이지. 나는 별을 이백만 개 가지고 있어.
+[06:16.33]
+P | And what do you do with two million stars? | 그럼 별 이백만 개로 뭘 해요?
+[06:19.71]
+H | I count them again and put them in the bank. | 다시 세어서 은행에 넣어 두지.
+[06:23.31]
+P | But that's no use at all. You're no use to them. | 하지만 그건 아무 소용 없잖아요. 당신은 별들에게 쓸모가 없어요.
+[06:27.51]
+N | The Little Prince left, thinking once again that grown-ups are very strange. | 어린 왕자는 어른들은 참 이상하다고 다시 생각하며 떠났어요.
+## 네 번째 별 — 쉬지 못하는 점등인
+[06:38.11]
+N | The fourth planet was small and had only a streetlamp and a lamplighter. | 네 번째 별은 작았고, 가로등 하나와 점등인 한 사람만 있었어요.
+[06:43.63]
+P | Why do you keep lighting and putting out the lamp? | 왜 가로등을 계속 켰다 껐다 해요?
+[06:46.87]
+L | It's my duty. I have to light the lamp at night and put it out in the morning. | 그게 내 의무야. 밤에는 등을 켜고 아침에는 꺼야 하거든.
+[06:52.59]
+L | But now the planet is smaller and the sun sets every five minutes. | 그런데 이제 별이 더 작아져서 5분마다 해가 져.
+[06:57.67]
+P | And your job hasn't changed? | 그런데 당신 일은 바뀌지 않았어요?
+[06:59.93]
+L | No. The planet has changed, but my job on it is the same. I can't rest, even though that's what I like best. | 아니. 별은 바뀌었지만 거기서 내 일은 그대로야. 쉬는 게 제일 좋은데도 쉴 수가 없어.
+[07:09.53]
+N | The Little Prince thought the lamplighter was the least absurd of them all. | 어린 왕자는 점등인이 그중 가장 덜 어리석다고 생각했어요.
+[07:13.91]
+N | He had a job and cared about something other than himself. | 일이 있었고, 자기 자신이 아닌 다른 것을 돌봤으니까요.
+[07:18.77]
+N | Even so, he thought only of doing his duty. | 그래도 그는 의무를 다하는 것만 생각했죠.
+## 다섯 번째 별 — 꽃에 관심 없는 지리학자
+[07:27.09]
+N | The last planet the Little Prince visited was the biggest, and an old man lived there. | 어린 왕자가 마지막으로 찾아간 별은 가장 컸고, 한 노인이 살고 있었어요.
+[07:33.15]
+N | He was a geographer and knew where the oceans, mountains and deserts were. | 그는 지리학자여서 바다와 산과 사막이 어디 있는지 알고 있었어요.
+[07:38.01]
+P | And does your planet have many seas? | 그럼 할아버지 별에는 바다가 많아요?
+[07:41.37]
+G | I don't know. I'm a geographer, not an explorer. | 모르지. 나는 지리학자지 탐험가가 아니란다.
+[07:45.13]
+G | I wait for explorers to come and tell me everything they see, and then I write it in my books. | 나는 탐험가들이 와서 본 것을 모두 알려 주길 기다렸다가, 그걸 내 책에 적는 거야.
+[07:51.63]
+P | Do you know all the flowers too? They're the prettiest thing on my planet. | 꽃들도 다 알아요? 꽃은 우리 별에서 제일 예쁜 거예요.
+[07:58.53]
+G | No. Flowers don't interest me, because they're short-lived and disappear. | 아니. 꽃에는 관심이 없단다. 덧없어서 사라지니까.
+[08:05.01]
+G | I prefer mountains, because they never change. | 나는 산이 더 좋아. 절대 변하지 않으니까.
+[08:09.35]
+N | At that moment, the Little Prince regretted leaving his flower. | 그 순간 어린 왕자는 자기 꽃을 두고 온 것을 후회했어요.
+[08:13.89]
+N | One day, she too would disappear. | 언젠가 그 꽃도 사라질 테니까요.
+## 지구에 도착하다 — 장미 정원과 여우
+[08:23.69]
+N | At last he reached Earth, a planet with more than seven billion people — among them thousands of lamplighters, thousands of vain men, and so on. | 마침내 그는 지구에 도착했어요. 70억이 넘는 사람이 사는 별로, 그중에는 수천 명의 점등인과 수천 명의 허영쟁이 등이 있었죠.
+[08:35.37]
+N | When he arrived, the Little Prince saw a field full of roses and remembered his flower. | 어린 왕자는 도착하자 장미가 가득 핀 들판을 보고 자기 꽃을 떠올렸어요.
+[08:42.31]
+N | Then he came across a very beautiful animal. | 그다음 아주 아름다운 동물을 만났어요.
+[08:46.33]
+P | Who are you? You're very pretty. | 너는 누구니? 정말 예쁘구나.
+[08:49.93]
+Z | I'm a fox. | 나는 여우야.
+[08:51.73]
+P | Come and play with me. I'm very sad. | 나랑 놀자. 나 너무 슬퍼.
+[08:55.23]
+Z | I can't: I'm not tamed. | 그럴 수 없어. 나는 길들여지지 않았거든.
+[08:58.45]
+P | What does "tame" mean? | 길들인다는 게 뭐야?
+[09:00.99]
+Z | It means to create ties. | 관계를 맺는다는 뜻이야.
+[09:03.67]
+Z | To me, you're just one boy among many, and I don't need you at all. | 지금 너는 나에게 수많은 아이 중 하나일 뿐이고, 나는 네가 전혀 필요 없어.
+[09:09.07]
+Z | But if you tame me, we'll grow fond of each other and we'll need each other. | 하지만 네가 나를 길들이면, 우리는 서로 정이 들고 서로를 필요로 하게 될 거야.
+[09:14.77]
+P | I want you to tame me. | 네가 나를 길들여 줬으면 좋겠어.
+[09:17.03]
+Z | You must be very patient. At first you'll feel far away from me, but little by little you'll come closer. | 아주 참을성이 있어야 해. 처음엔 나와 아주 멀게 느껴지겠지만, 조금씩 점점 더 가까워질 거야.
+## 길들인다는 것 — 여우의 비밀
+[09:29.15]
+N | The Little Prince understood what the fox was telling him, and little by little he tamed him. | 어린 왕자는 여우가 하는 말을 이해했고, 조금씩 여우를 길들여 갔어요.
+[09:35.99]
+N | Every day he visited him and played with him, until the day came to say goodbye. | 매일 여우를 찾아가 함께 놀았고, 마침내 작별할 날이 왔어요.
+[09:41.99]
+Z | I'm going to cry. | 나 울 것 같아.
+[09:44.13]
+Z | Before you leave, go and see the field of roses. Then come back and I'll tell you a secret. | 떠나기 전에 장미 들판에 가 봐. 그리고 돌아오면 비밀 하나를 알려 줄게.
+[09:51.89]
+N | The Little Prince did what the fox said, and realized that, unlike the others, his rose was unique and special, because he had tamed her, and she had tamed him. | 어린 왕자는 여우가 말한 대로 했고, 다른 장미들과 달리 자기 장미는 유일하고 특별하다는 걸 깨달았어요. 그가 그 장미를 길들였고, 장미도 그를 길들였으니까요.
+[10:05.27]
+N | The rest were beautiful, but empty. | 다른 장미들은 아름다웠지만 텅 비어 있었어요.
+[10:08.95]
+Z | What is essential is invisible to the eye. | 가장 중요한 것은 눈에 보이지 않아.
+[10:12.97]
+N | said the fox before saying goodbye. | 여우가 작별 인사 전에 말했어요.
+## 사막의 우물 — 마음으로 마시는 물
+[10:19.37]
+P | Come on, let's look for a well. | 자, 우물을 찾으러 가요.
+[10:22.33]
+N | A well? We're in the desert! | 우물? 여긴 사막이야!
+[10:25.23]
+N | He was tireless. If he wanted something, he got it, and there was no use arguing with him. | 그는 지칠 줄 몰랐어요. 뭔가를 원하면 꼭 해냈고, 반대해 봐야 소용없었죠.
+[10:32.53]
+P | What really makes the desert beautiful is the well it hides inside. | 사막을 정말 아름답게 하는 건 그 안에 숨겨진 우물이에요.
+[10:37.97]
+P | What makes something beautiful is invisible to the eye. | 무언가를 아름답게 만드는 건 눈에 보이지 않아요.
+[10:41.91]
+N | Then I found he had fallen asleep, and I carried on with him in my arms, as if he were a treasure. | 그러다 그가 잠든 걸 알게 됐고, 나는 마치 보물이라도 되는 듯 그를 품에 안고 계속 걸었어요.
+[10:50.25]
+N | It was then that we found the well and were able to drink. | 바로 그때 우리는 우물을 찾아 물을 마실 수 있었어요.
+[10:54.97]
+N | That water was born of walking under the stars and of the effort of my arms. | 그 물은 별빛 아래를 걸은 것과 내 두 팔의 수고에서 태어난 것이었어요.
+[11:01.37]
+N | It was a gift to the heart, like when I was a child looking at the Christmas lights. | 어릴 때 크리스마스 불빛을 보던 것처럼, 마음에 주는 선물이었죠.
+## 뱀과 이별 — 어린 왕자, 자기 별로 돌아가다
+[11:12.93]
+N | The Little Prince was near the well, and I went to see him. | 어린 왕자가 우물 근처에 있어서 그를 보러 갔어요.
+[11:16.95]
+N | When I got there, he was talking to a snake. | 도착해 보니 그는 뱀과 이야기하고 있었어요.
+[11:20.47]
+N | It was very dangerous. | 아주 위험한 뱀이었죠.
+[11:22.39]
+N | He was as white as snow. | 그는 눈처럼 하얗게 질려 있었어요.
+[11:24.71]
+N | He looked at me, and I understood everything. | 그가 나를 바라봤고, 나는 모든 걸 알아차렸어요.
+[11:28.47]
+P | Have you fixed your plane? I'm glad. I'm going home too, though for me it's a much longer and harder journey. | 비행기 고쳤어요? 다행이에요. 나도 집으로 돌아가요. 나한테는 훨씬 더 멀고 힘든 여행이지만요.
+[11:37.61]
+N | Even though it was broad daylight in the desert, I froze. | 한낮의 사막인데도 나는 얼어붙고 말았어요.
+[11:41.93]
+N | I couldn't believe I would never hear his laugh again. | 다시는 그의 웃음소리를 듣지 못한다는 게 믿기지 않았어요.
+[11:45.95]
+N | Tell me this is all a nightmare. I don't want you to go. | 이게 다 악몽이라고 말해 줘. 네가 떠나는 거 싫어.
+[11:50.31]
+P | Let me make this journey alone. | 이 여행은 나 혼자 떠나게 해 줘요.
+[11:52.93]
+N | Suddenly there was a flash, and the Little Prince fell onto the desert sand. | 갑자기 번쩍하는 빛이 나타났고, 어린 왕자는 사막의 모래 위로 쓰러졌어요.
+## 에필로그 — 마음 속의 아이를 잊지 마세요
+[11:58.55]
+N | Many years have passed since then. | 그 일이 있은 지 벌써 여러 해가 지났어요.
+[12:00.93]
+N | I knew the Little Prince had gone back to his planet, because the next morning I couldn't find his little body. | 어린 왕자가 자기 별로 돌아갔다는 걸 알았어요. 다음 날 아침 그의 작은 몸을 찾을 수 없었으니까요.
+[12:08.35]
+N | For me, the Sahara is the most beautiful and the saddest landscape in the world. | 사하라는 나에게 세상에서 가장 아름답고 가장 슬픈 풍경이에요.
+[12:14.29]
+N | It was there that the Little Prince appeared, and also where he disappeared. | 바로 그곳에서 어린 왕자가 나타났고, 또 사라졌으니까요.
+[12:19.15]
+N | If you ever pass that way, don't hurry — enjoy what you see. | 혹시 언젠가 그곳을 지나게 되면, 서두르지 말고 보이는 것을 즐기세요.
+[12:24.09]
+N | We must never forget the child we carry inside, because what is truly beautiful is invisible to the eye, and only children can see with their hearts. | 마음속에 품은 아이를 절대 잊지 마세요. 정말 아름다운 것은 눈에 보이지 않고, 오직 아이들만이 마음으로 볼 수 있으니까요.
+[12:34.67]
+X | Want to keep learning? Subscribe to the Smile and Learn channel by clicking on the seal. | 더 배우고 싶나요? 물개를 클릭해서 Smile and Learn 채널을 구독하세요.

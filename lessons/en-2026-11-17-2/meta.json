@@ -1,0 +1,468 @@
+{
+ "lang": "en",
+ "date": "2026-11-17",
+ "title": "어린 왕자 (영어판) — What is essential is invisible to the eye",
+ "es": "What is essential is invisible to the eye.",
+ "emoji": "🌹",
+ "level": "A2–B1",
+ "channel": "Smile and Learn 동화 영어 번역 (사용자 녹음)",
+ "videoTitle": "The Little Prince — English translation of the Smile and Learn story",
+ "audio": "audio.m4a",
+ "duration": "12:39",
+ "speakers": {
+  "N": "Narrator (pilot)",
+  "P": "The Little Prince",
+  "F": "The Rose",
+  "R": "The King",
+  "V": "The Vain Man",
+  "H": "The Businessman",
+  "L": "The Lamplighter",
+  "G": "The Geographer",
+  "Z": "The Fox",
+  "X": "Other"
+ },
+ "summary": "스페인어 섹션의 「El Principito」 동화를 영어로 옮겨 읽은 오디오예요. 사막에 불시착한 비행사와 어린 왕자의 만남, 다섯 별의 이상한 어른들, 여우의 \"길들인다는 것\"까지 145문장을 쉬운 영어로 따라가요. 과거 시제 이야기체, 과거완료, used to·would 없이 쓰는 묘사, 그리고 tame·grown-up·odd one out 같은 표현을 익히기 좋아요. 스페인어판(es-2026-11-17-5)과 같은 문장 순서라 비교하며 들을 수 있어요.",
+ "topics": [
+  "childhood: boa · swallow · grown-ups · odd one out",
+  "crash: engine failure · dunes · take off · survive",
+  "planet: baobab · sunset · weeds · pull up · burst",
+  "rose: thorns · vain · fragrance · run away",
+  "five planets: subject · admirer · businessman · lamplighter · geographer",
+  "fox: tame · create ties · grow fond of · patient",
+  "farewell: well · snake · nightmare · broad daylight"
+ ],
+ "grammar": [
+  {
+   "title": "① 과거진행 vs 단순과거 — while I was flying, … fell",
+   "lead": "배경(진행 중이던 일)은 <b>was/were + -ing</b>, 끼어든 사건은 <b>단순과거</b>예요. 스페인어의 불완료과거/단순과거 구분과 비슷해요.",
+   "table": {
+    "head": [
+     "형태",
+     "쓰임",
+     "예문"
+    ],
+    "rows": [
+     [
+      "was/were + -ing",
+      "진행 중인 배경",
+      "While I was flying over the desert, …"
+     ],
+     [
+      "단순과거",
+      "끼어든 사건",
+      "… my little plane had an engine failure."
+     ],
+     [
+      "단순과거(상태)",
+      "배경 묘사",
+      "The Little Prince lived on a very small planet."
+     ],
+     [
+      "was talking",
+      "그 순간 하고 있던 일",
+      "When I got there, he was talking to a snake."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "While I was flying over the desert, my plane fell to the ground.",
+     "사막 위를 날던 중 비행기가 땅에 떨어졌다."
+    ],
+    [
+     "When I got there, he was talking to a snake.",
+     "내가 도착했을 때 그는 뱀과 이야기하고 있었다."
+    ]
+   ],
+   "tip": "영어는 상태 동사(live, know, have)는 진행형을 잘 쓰지 않아요: He lived on a planet (✗ was living도 가능하지만 이야기체에선 단순과거가 자연스러워요)."
+  },
+  {
+   "title": "② 과거완료 had + p.p. — 그보다 더 이전",
+   "lead": "이야기 시점(과거)보다 <b>더 앞선 일</b>은 had + 과거분사로 말해요.",
+   "table": {
+    "head": [
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "For years I had lived in a world of grown-ups.",
+      "몇 년째 어른들의 세상에서 살아왔었다"
+     ],
+     [
+      "I had never felt comfortable in it.",
+      "한 번도 편했던 적이 없었다"
+     ],
+     [
+      "I found he had fallen asleep.",
+      "그가 (이미) 잠들어 있었다는 걸 알았다"
+     ],
+     [
+      "The Little Prince had gone back to his planet.",
+      "어린 왕자는 자기 별로 돌아간 뒤였다"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "After clapping for a while, he got tired.",
+     "한동안 박수 치고 나서 그는 지쳤다."
+    ]
+   ],
+   "tip": "should have + p.p. = \"~했어야 했는데\": I should never have run away. (절대 도망치지 말았어야 했어.)"
+  },
+  {
+   "title": "③ want/tell + 사람 + to 동사 — I want you to tame me",
+   "lead": "스페인어 querer que + 접속법이 영어에서는 <b>want + 목적어 + to부정사</b>가 돼요.",
+   "table": {
+    "head": [
+     "구조",
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "want + 사람 + to V",
+      "I want you to tame me.",
+      "네가 나를 길들여 줬으면 해"
+     ],
+     [
+      "don't want + 사람 + to V",
+      "I don't want you to go.",
+      "네가 떠나는 게 싫어"
+     ],
+     [
+      "tell + 사람 + to V",
+      "Clap until I tell you to stop.",
+      "내가 그만하라고 할 때까지 박수 쳐"
+     ],
+     [
+      "let + 사람 + V",
+      "Let me make this journey alone.",
+      "혼자 이 여행을 하게 해 줘"
+     ],
+     [
+      "so that + 절",
+      "So that animals don't eat them.",
+      "동물들이 먹지 못하도록"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "They told me to do something useful.",
+     "그들은 나에게 쓸모 있는 일을 하라고 했다."
+    ]
+   ],
+   "tip": "let 뒤에는 to 없이 동사원형: let me go (✗ let me to go)."
+  }
+ ],
+ "phrases": [
+  [
+   "What is essential is invisible to the eye.",
+   "가장 중요한 것은 눈에 보이지 않아."
+  ],
+  [
+   "Will you draw me a sheep?",
+   "양 한 마리 그려 줄래요?"
+  ],
+  [
+   "Grown-ups are so strange.",
+   "어른들은 정말 이상해."
+  ],
+  [
+   "I have serious things to do.",
+   "나는 중요한 일이 있어."
+  ],
+  [
+   "There was no use arguing with him.",
+   "그와 다퉈 봐야 소용없었다."
+  ],
+  [
+   "We must never forget the child we carry inside.",
+   "마음속에 품은 아이를 절대 잊으면 안 돼요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "swallow",
+   "ko": "삼키다",
+   "ex": "Boas could swallow a whole elephant.",
+   "exKo": "보아뱀은 코끼리를 통째로 삼킬 수 있었다."
+  },
+  {
+   "es": "grown-up",
+   "ko": "어른",
+   "ex": "All the grown-ups told me the same thing.",
+   "exKo": "어른들은 모두 같은 말을 했다."
+  },
+  {
+   "es": "the odd one out",
+   "ko": "혼자만 튀는 사람",
+   "ex": "I was always the odd one out.",
+   "exKo": "나는 늘 혼자 이상한 사람이었다."
+  },
+  {
+   "es": "engine failure",
+   "ko": "엔진 고장",
+   "ex": "My plane had an engine failure.",
+   "exKo": "비행기 엔진이 고장 났다."
+  },
+  {
+   "es": "dune",
+   "ko": "모래 언덕",
+   "ex": "It was just the dunes and me.",
+   "exKo": "모래 언덕들과 나뿐이었다."
+  },
+  {
+   "es": "take off",
+   "ko": "이륙하다",
+   "ex": "If I couldn't take off, I wouldn't survive.",
+   "exKo": "이륙하지 못하면 살아남지 못할 터였다."
+  },
+  {
+   "es": "insist / insisting",
+   "ko": "고집하다, 조르다",
+   "ex": "Tired of his insisting, I drew a box.",
+   "exKo": "계속 조르는 데 지쳐 상자를 그렸다."
+  },
+  {
+   "es": "sunset",
+   "ko": "해 질 녘",
+   "ex": "He loved watching sunsets.",
+   "exKo": "그는 해 지는 걸 보는 걸 좋아했다."
+  },
+  {
+   "es": "weed",
+   "ko": "잡초",
+   "ex": "You have to pull up the weeds right away.",
+   "exKo": "잡초는 바로 뽑아야 한다."
+  },
+  {
+   "es": "burst",
+   "ko": "터지다",
+   "ex": "Their roots can make the planet burst.",
+   "exKo": "그 뿌리가 별을 터뜨릴 수 있다."
+  },
+  {
+   "es": "thorn",
+   "ko": "가시",
+   "ex": "I have four thorns to defend myself.",
+   "exKo": "날 지킬 가시가 네 개 있어."
+  },
+  {
+   "es": "vain",
+   "ko": "허영심 많은",
+   "ex": "She was vain and always needed his attention.",
+   "exKo": "그녀는 허영심이 많았다."
+  },
+  {
+   "es": "fragrance",
+   "ko": "향기",
+   "ex": "That flower filled my life with fragrance.",
+   "exKo": "그 꽃은 내 삶을 향기로 채웠다."
+  },
+  {
+   "es": "set off on a journey",
+   "ko": "여행을 떠나다",
+   "ex": "He set off on a journey around several planets.",
+   "exKo": "여러 별을 도는 여행을 떠났다."
+  },
+  {
+   "es": "subject",
+   "ko": "신하, 백성",
+   "ex": "Ah, here is a subject!",
+   "exKo": "아, 신하가 왔구나!"
+  },
+  {
+   "es": "lost in thought",
+   "ko": "생각에 잠긴",
+   "ex": "He was lost in thought over those words.",
+   "exKo": "그 말에 생각에 잠겼다."
+  },
+  {
+   "es": "admire / admirer",
+   "ko": "존경하다 / 팬",
+   "ex": "Ah, an admirer!",
+   "exKo": "아, 팬이 왔군!"
+  },
+  {
+   "es": "do sums",
+   "ko": "계산하다",
+   "ex": "He never stopped doing sums.",
+   "exKo": "쉬지 않고 계산했다."
+  },
+  {
+   "es": "lamplighter",
+   "ko": "점등인",
+   "ex": "The lamplighter was the least absurd of them all.",
+   "exKo": "점등인이 가장 덜 어리석었다."
+  },
+  {
+   "es": "short-lived",
+   "ko": "덧없는, 오래가지 않는",
+   "ex": "Flowers are short-lived and disappear.",
+   "exKo": "꽃은 덧없고 사라진다."
+  },
+  {
+   "es": "regret",
+   "ko": "후회하다",
+   "ex": "He regretted leaving his flower.",
+   "exKo": "그는 꽃을 두고 온 걸 후회했다."
+  },
+  {
+   "es": "come across",
+   "ko": "우연히 마주치다",
+   "ex": "He came across a very beautiful animal.",
+   "exKo": "아주 아름다운 동물을 만났다."
+  },
+  {
+   "es": "tame",
+   "ko": "길들이다",
+   "ex": "I want you to tame me.",
+   "exKo": "네가 나를 길들여 줬으면 해."
+  },
+  {
+   "es": "ties",
+   "ko": "유대, 관계",
+   "ex": "It means to create ties.",
+   "exKo": "관계를 맺는다는 뜻이야."
+  },
+  {
+   "es": "grow fond of",
+   "ko": "~에 정이 들다",
+   "ex": "We'll grow fond of each other.",
+   "exKo": "우리는 서로 정이 들 거야."
+  },
+  {
+   "es": "tireless",
+   "ko": "지칠 줄 모르는",
+   "ex": "He was tireless.",
+   "exKo": "그는 지칠 줄 몰랐다."
+  },
+  {
+   "es": "in broad daylight",
+   "ko": "대낮에",
+   "ex": "Even though it was broad daylight, I froze.",
+   "exKo": "대낮인데도 나는 얼어붙었다."
+  },
+  {
+   "es": "nightmare",
+   "ko": "악몽",
+   "ex": "Tell me this is all a nightmare.",
+   "exKo": "이게 다 악몽이라고 말해 줘."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What did the grown-ups think the drawing was?",
+   "options": [
+    "An elephant",
+    "A hat",
+    "A snake",
+    "A box"
+   ],
+   "answer": 1,
+   "explain": "\"What a nice hat!\" — 보아뱀 그림을 모자로 봤어요."
+  },
+  {
+   "q": "Which drawing did the Little Prince finally like?",
+   "options": [
+    "An old sheep",
+    "A thin sheep",
+    "A box",
+    "A boa"
+   ],
+   "answer": 2,
+   "explain": "상자 안에 양이 있다고 했죠: \"That's exactly what I wanted!\""
+  },
+  {
+   "q": "While I ___ over the desert, my plane had an engine failure.",
+   "options": [
+    "flew",
+    "was flying",
+    "have flown",
+    "fly"
+   ],
+   "answer": 1,
+   "explain": "진행 중이던 배경 → 과거진행 was flying."
+  },
+  {
+   "q": "Why must weeds be pulled up right away?",
+   "options": [
+    "They look ugly",
+    "Sheep eat them",
+    "Their roots can make the small planet burst",
+    "They hide the rose"
+   ],
+   "answer": 2,
+   "explain": "\"their huge roots can make it burst.\""
+  },
+  {
+   "q": "I should never have ___ away.",
+   "options": [
+    "run",
+    "ran",
+    "running",
+    "to run"
+   ],
+   "answer": 0,
+   "explain": "should have + 과거분사: run(run-ran-run)."
+  },
+  {
+   "q": "What is the king's rule?",
+   "options": [
+    "Demand anything you want",
+    "Demand what people are able to do",
+    "Never demand anything",
+    "Only ministers can give orders"
+   ],
+   "answer": 1,
+   "explain": "\"One must always demand what people are able to do.\""
+  },
+  {
+   "q": "Why can't the lamplighter rest?",
+   "options": [
+    "The sun sets every five minutes but his job is the same",
+    "The lamp is broken",
+    "The king ordered it",
+    "He needs money"
+   ],
+   "answer": 0,
+   "explain": "\"the sun sets every five minutes… my job on it is the same.\""
+  },
+  {
+   "q": "I want you ___ me.",
+   "options": [
+    "tame",
+    "to tame",
+    "taming",
+    "tamed"
+   ],
+   "answer": 1,
+   "explain": "want + 사람 + to부정사."
+  },
+  {
+   "q": "What does \"tame\" mean, according to the fox?",
+   "options": [
+    "To train",
+    "To create ties",
+    "To feed",
+    "To lock up"
+   ],
+   "answer": 1,
+   "explain": "\"It means to create ties.\""
+  },
+  {
+   "q": "What is the fox's secret?",
+   "options": [
+    "All roses are the same",
+    "What is essential is invisible to the eye",
+    "There are no wells in the desert",
+    "Grown-ups are strange"
+   ],
+   "answer": 1,
+   "explain": "\"What is essential is invisible to the eye.\""
+  }
+ ]
+}
