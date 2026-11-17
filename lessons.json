@@ -1,6 +1,30 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-17-4",
+   "lang": "es",
+   "date": "2026-11-17",
+   "title": "스페인어 문법을 부탁해 — 알파벳부터 접속법까지 58과 대화로 훑기",
+   "es": "Espero que tengas un buen viaje.",
+   "emoji": "📘",
+   "level": "A1–B1",
+   "channel": "스페인어 문법을 부탁해 (MP3)",
+   "youtube": null,
+   "duration": "24:31",
+   "summary": "문법책 「스페인어 문법을 부탁해」의 음원이에요. 예비과에서 알파벳 27자의 이름과 발음을 듣고, 15부 58과에 걸쳐 명사·관사부터 현재·과거·미래 시제, 대명사, 명령법, 접속법, 관계사, 비교급, 상황별 표현까지 단원마다 짧은 두 줄 대화로 핵심 문법을 확인해요. 단원 제목을 누르고 대화를 따라 말하며 문법 지도를 머릿속에 그려 보세요.",
+   "topics": [
+    "예비과: 알파벳과 발음 (b=v, c·g·j·ñ·rr)",
+    "명사구·현재: ser · estar · hay · 규칙/불규칙 동사",
+    "한정사·대명사: 소유사 · 지시사 · me/te/lo/le · se · conmigo",
+    "과거: 현재완료 · 완료과거 · 불완료과거 · 과거완료",
+    "미래·명령: 단순미래 · 미래완료 · 조건법 · 긍정/부정 명령",
+    "접속법: esperar que · ojalá · tan pronto como · si hubiera",
+    "관계사·비교·상황별 표현: que · donde · más…que · tan…como · Yo que tú"
+   ],
+   "vocabCount": 40,
+   "lineCount": 218
+  },
+  {
    "id": "es-2026-11-17-3",
    "lang": "es",
    "date": "2026-11-17",

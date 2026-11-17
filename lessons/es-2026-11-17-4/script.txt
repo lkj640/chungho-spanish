@@ -1,0 +1,473 @@
+# 형식: [mm:ss.ss] 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 단원 제목(낭독), A·B = 단원 대화의 두 사람. 예비과는 알파벳 이름과 발음 요령이에요.
+# 원본: 「스페인어 문법을 부탁해」 MP3 (사용자 제공). Whisper로 받아 적고 한국어 단원명은 다시 받아써서 맞췄어요. 사이트에는 m4a로 변환해 올렸어요. END = 오디오 끝 시각
+END 24:31
+
+
+## 예비과 — 알파벳과 발음 (Alfabeto y pronunciación)
+[00:35.80]
+N | Alfabeto y pronunciación | 예비과 알파벳과 발음
+[00:45.20]
+N | A — a | 아 — 항상 [아]
+[00:49.40]
+N | B — be | 베 — b와 v는 똑같이 [ㅂ]
+[00:53.40]
+N | C — ce | 세 — ca·co·cu는 [ㄲ], ce·ci는 [θ](중남미 [s])
+[00:57.40]
+N | D — de | 데 — 단어 끝·모음 사이는 약한 [ð]
+[01:01.50]
+N | E — e | 에
+[01:06.10]
+N | F — efe | 에페 — 윗니를 아랫입술에 대는 [f]
+[01:10.60]
+N | G — ge | 헤 — ga·go·gu는 [ㄱ], ge·gi는 목에서 긁는 [h]
+[01:14.70]
+N | H — hache | 아체 — 소리 나지 않음
+[01:19.00]
+N | I — i | 이
+[01:23.70]
+N | J — jota | 호타 — 목에서 긁는 강한 [h]
+[01:27.10]
+N | K — ka | 까 — 외래어에만
+[01:31.80]
+N | L — ele | 엘레 — [ㄹ]
+[01:35.10]
+N | M — eme | 에메
+[01:39.20]
+N | N — ene | 에네
+[01:43.10]
+N | Ñ — eñe | 에녜 — [냐·녜·뇨]
+[01:47.30]
+N | O — o | 오
+[01:52.00]
+N | P — pe | 뻬 — 된소리에 가까운 [ㅃ]
+[01:55.30]
+N | Q — cu | 꾸 — que·qui로만 써서 [께·끼]
+[01:59.60]
+N | R — erre | 에레 — 낱말 처음과 rr는 혀를 굴리는 떨림소리
+[02:03.50]
+N | S — ese | 에세 — [ㅅ]
+[02:07.90]
+N | T — te | 떼 — 된소리에 가까운 [ㄸ]
+[02:11.90]
+N | U — u | 우
+[02:15.80]
+N | V — uve | 우베 — b와 같은 [ㅂ]
+[02:21.80]
+N | W — uve doble | 우베 도블레 — 외래어에만
+[02:27.30]
+N | X — equis | 에끼스 — [ks], México에서는 [h]
+[02:32.30]
+N | Y — ye (i griega) | 예(이 그리에가) — [y], 단독으로는 [이]
+[02:36.80]
+N | Z — zeta | 세타 — [θ](중남미 [s])
+
+## 1부 명사구 — 명사·관사·형용사
+[02:45.80]
+N | Parte 1. Nombres, artículos, adjetivos | 1부 명사구 — 명사·관사·형용사
+[02:53.30]
+N | Unidad 1. Nombres | 1과 명사
+[02:59.40]
+A | ¡Chico, una canción, por favor! | 얘, 노래 한 곡 불러 줘!
+[03:03.90]
+B | La cucaracha, la cucaracha… | 라 쿠카라차, 라 쿠카라차… (멕시코 민요)
+[03:07.90]
+N | Unidad 2. Artículos | 2과 관사
+[03:17.40]
+A | ¿Qué es esto? | 이건 뭐예요?
+[03:20.60]
+B | Es un lápiz. | 연필이에요.
+[03:27.20]
+N | Unidad 3. Adjetivos | 3과 형용사
+[03:33.40]
+A | El profesor es muy alto y guapo. | 선생님은 키가 아주 크고 잘생겼어요.
+[03:37.30]
+B | Sí, es una persona graciosa también. | 네, 재미있는 분이기도 해요.
+
+## 2부 현재
+[03:47.70]
+N | Parte 2. Presente | 2부 현재
+[03:55.30]
+N | Unidad 4. Pronombres personales de sujeto y verbo ser | 4과 주격 인칭대명사와 ser 동사
+[04:06.90]
+A | ¿De dónde son Mario y Lan? | 마리오와 란은 어디 출신이에요?
+[04:10.50]
+B | Él es de Italia y ella es de China. | 그는 이탈리아, 그녀는 중국 출신이에요.
+[04:18.70]
+N | Unidad 5. Verbo estar y hay | 5과 estar 동사와 hay
+[04:28.10]
+A | ¿Estás bien? | 괜찮아?
+[04:30.30]
+B | No, estoy enfermo. Ahora estoy en casa. | 아니, 아파. 지금 집에 있어.
+[04:35.80]
+N | Unidad 6. Presente de indicativo: verbos regulares | 6과 직설법 현재 — 규칙 동사
+[04:49.30]
+A | ¿Bailas bien? | 춤 잘 춰?
+[04:51.40]
+B | No, no bailo bien, pero canto bastante bien. | 아니, 춤은 잘 못 추지만 노래는 꽤 잘해.
+[05:00.10]
+N | Unidad 7. Presente de indicativo: verbos irregulares | 7과 직설법 현재 — 불규칙 동사
+[05:11.20]
+A | ¿Quieres un café? | 커피 마실래?
+[05:12.90]
+B | No, prefiero un té con leche. | 아니, 밀크티가 더 좋아.
+[05:20.40]
+N | Unidad 8. Conocer vs. saber | 8과 conocer와 saber
+[05:27.10]
+A | Conozco un buen restaurante. Se llama La Vaca Argentina. | 좋은 식당을 하나 알아. 이름이 라 바카 아르헨티나야.
+[05:36.40]
+B | Yo sé dónde está el restaurante. | 나 그 식당 어디 있는지 알아.
+
+## 3부 한정사
+[05:44.50]
+N | Parte 3. Determinantes | 3부 한정사
+[05:51.50]
+N | Unidad 9. Numerales | 9과 수사
+[05:58.20]
+A | ¿Cuál es tu número de teléfono? | 전화번호가 뭐야?
+[06:00.80]
+B | Es el 0-5-0-4-9-8-2-3-1-7-6. | 05049823176이야.
+[06:15.60]
+N | Unidad 10. Posesivos | 10과 소유사
+[06:21.60]
+A | ¿Dónde está mi libro? | 내 책 어디 있어?
+[06:24.40]
+B | Este es mío, el tuyo está ahí. | 이건 내 거고, 네 건 저기 있어.
+[06:32.90]
+N | Unidad 11. Demostrativos | 11과 지시사
+[06:39.80]
+A | ¿De quién es este reloj? | 이 시계 누구 거예요?
+[06:42.20]
+B | Es mío. Gracias. | 제 거예요. 고마워요.
+[06:48.60]
+N | Unidad 12. Indefinidos | 12과 부정어(不定語)
+[06:54.30]
+A | ¿Tienes algo de comer en la nevera? | 냉장고에 먹을 거 좀 있어?
+[06:57.20]
+B | No, no tengo nada de comer. | 아니, 먹을 게 하나도 없어.
+
+## 4부 대명사
+[07:03.60]
+N | Parte 4. Pronombres | 4부 대명사
+[07:14.00]
+N | Unidad 13. Pronombres de complemento directo | 13과 직접목적격 대명사
+[07:23.20]
+A | ¿Me quieres? | 나 사랑해?
+[07:24.70]
+B | Sí, te quiero mucho. | 응, 너를 많이 사랑해.
+[07:31.80]
+N | Unidad 14. Pronombres de complemento indirecto | 14과 간접목적격 대명사
+[07:40.50]
+A | Te doy un regalo. | 너한테 선물 줄게.
+[07:43.90]
+B | Muchas gracias. | 정말 고마워.
+[07:49.80]
+N | Unidad 15. Pronombres reflexivos | 15과 재귀대명사
+[07:57.80]
+A | ¿A qué hora te levantas por la mañana? | 아침에 몇 시에 일어나?
+[08:00.70]
+B | Me levanto a las siete. | 7시에 일어나.
+[08:08.10]
+N | Unidad 16. Pronombres con preposiciones | 16과 전치격 대명사
+[08:16.70]
+A | ¿Vas a ir al cine conmigo? | 나랑 영화 보러 갈래?
+[08:19.10]
+B | Sí, voy contigo. | 응, 너랑 갈게.
+[08:25.90]
+N | Unidad 17. Lo neutro | 17과 중성 lo
+[08:33.60]
+A | Pareces cansada. | 너 피곤해 보여.
+[08:36.10]
+B | Sí, lo estoy ahora. | 응, 지금 피곤해.
+
+## 5부 의문문·부정문·감탄문
+[08:44.70]
+N | Parte 5. Interrogación, negación y exclamación | 5부 의문문·부정문·감탄문
+[08:55.20]
+N | Unidad 18. Interrogación | 18과 의문문
+[09:01.80]
+A | ¿Me dejas tu coche mañana? | 내일 네 차 좀 빌려줄래?
+[09:05.10]
+B | Sí, por supuesto. | 응, 물론이지.
+[09:11.50]
+N | Unidad 19. Negación | 19과 부정문
+[09:17.70]
+A | Yo nunca como carne, soy vegetariana. | 나는 고기를 절대 안 먹어. 채식주의자야.
+[09:21.80]
+B | Al contrario, yo no como verduras nunca. | 나는 반대로 채소를 절대 안 먹어.
+[09:30.70]
+N | Unidad 20. Exclamación | 20과 감탄문
+[09:36.60]
+A | Mi hijo está muy enfermo. Ahora está en el hospital. | 우리 아들이 많이 아파요. 지금 병원에 있어요.
+[09:42.50]
+B | ¡Qué lástima! | 저런, 안됐네요!
+
+## 6부 현재분사·과거분사·현재완료
+[09:48.80]
+N | Parte 6. Gerundio, participio y pretérito perfecto | 6부 현재분사·과거분사·현재완료
+[09:59.80]
+N | Unidad 21. Gerundio | 21과 현재분사
+[10:07.30]
+A | Pareces muy cansado. | 너 엄청 피곤해 보여.
+[10:11.20]
+B | Estos días estoy durmiendo pocas horas. | 요즘 잠을 몇 시간 못 자고 있어.
+[10:19.30]
+N | Unidad 22. Participio | 22과 과거분사
+[10:26.10]
+A | ¿Queda mucho tiempo para la cena? | 저녁 먹으려면 아직 멀었어?
+[10:28.80]
+B | No, ya está preparada la cena. | 아니, 저녁 벌써 다 준비됐어.
+[10:36.40]
+N | Unidad 23. Pretérito perfecto | 23과 현재완료
+[10:44.00]
+A | ¿Has fregado los platos? | 설거지했어?
+[10:46.50]
+B | Sí, los he fregado. | 응, 했어.
+
+## 7부 완료과거·불완료과거·과거완료·과거 시제 종합
+[10:55.10]
+N | Parte 7. Pretéritos: indefinido, imperfecto y pluscuamperfecto | 7부 완료과거·불완료과거·과거완료·과거 시제 종합
+[11:09.80]
+N | Unidad 24. Pretérito indefinido | 24과 완료과거(단순과거)
+[11:17.90]
+A | ¿En qué año naciste tú? | 너는 몇 년에 태어났어?
+[11:20.90]
+B | Nací en 1998. | 1998년에 태어났어.
+[11:30.00]
+N | Unidad 25. Pretérito imperfecto | 25과 불완료과거
+[11:37.30]
+A | ¿Cómo eras tú cuando eras pequeño? | 어렸을 때 너는 어땠어?
+[11:40.60]
+B | De pequeño yo era un niño muy bajo y gordo. | 어릴 때 나는 키가 아주 작고 통통한 아이였어.
+[11:50.80]
+N | Unidad 26. Pretérito indefinido vs. pretérito imperfecto | 26과 완료과거와 불완료과거의 비교
+[12:03.50]
+A | ¿Por qué no vino a clase Mario ayer? | 어제 마리오가 왜 수업에 안 왔어?
+[12:07.90]
+B | Cuando iba a la escuela, tuvo un accidente de tráfico. | 학교에 가다가 교통사고가 났어.
+[12:16.30]
+N | Unidad 27. Pretérito pluscuamperfecto | 27과 과거완료
+[12:27.30]
+A | Ayer llegué tarde a la entrevista. | 어제 면접에 늦었어.
+[12:30.80]
+B | ¡Dios mío! ¿Por qué? | 세상에! 왜?
+[12:32.70]
+A | Porque había perdido el autobús. | 버스를 놓쳤었거든.
+
+## 8부 단순미래·미래완료·가정미래·가정미래완료
+[12:41.40]
+N | Parte 8. Futuro y condicional | 8부 단순미래·미래완료·가정미래·가정미래완료
+[12:55.00]
+N | Unidad 28. Futuro simple | 28과 단순미래
+[13:02.20]
+A | ¿Qué harás después de jubilarte? | 은퇴하고 나서 뭐 할 거야?
+[13:05.20]
+B | Construiré una casa en el campo y viviré allí. | 시골에 집을 지어서 거기서 살 거야.
+[13:14.50]
+N | Unidad 29. Futuro perfecto | 29과 미래완료
+[13:21.60]
+A | El jueves volverá el jefe. | 목요일에 사장님이 돌아오실 거야.
+[13:24.80]
+B | Yo habré terminado el informe el miércoles. | 나는 수요일까지 보고서를 끝내 놓을 거야.
+[13:32.70]
+N | Unidad 30. Condicional | 30과 가정미래(조건법)
+[13:38.40]
+A | ¿Vas a ir al cine conmigo esta noche? | 오늘 밤 나랑 영화 보러 갈래?
+[13:42.20]
+B | Me gustaría salir contigo, pero es que tengo otra cita. | 너랑 나가고 싶은데, 실은 다른 약속이 있어.
+[13:52.40]
+N | Unidad 31. Condicional perfecto | 31과 가정미래완료
+[14:00.50]
+A | ¿Fuiste a la fiesta anoche? | 어젯밤 파티에 갔어?
+[14:02.90]
+B | No, pero habría ido allí. | 아니, 그래도 (사정만 됐으면) 갔을 거야.
+
+## 9부 명령법
+[14:11.60]
+N | Parte 9. Imperativo | 9부 명령법
+[14:19.00]
+N | Unidad 32. Imperativo afirmativo | 32과 긍정 명령
+[14:27.80]
+A | Ya es muy tarde, acuéstate ya. | 벌써 너무 늦었어, 이제 자.
+[14:30.60]
+B | Sí, mamá, apaga la luz, por favor. | 네, 엄마, 불 좀 꺼 주세요.
+[14:39.00]
+N | Unidad 33. Imperativo negativo | 33과 부정 명령
+[14:47.20]
+A | No hables tan alto. | 그렇게 크게 말하지 마.
+[14:49.40]
+B | De acuerdo. | 알았어.
+
+## 10부 접속법
+[14:56.50]
+N | Parte 10. Subjuntivo | 10부 접속법
+[15:03.50]
+N | Unidad 34. Subjuntivo | 34과 접속법
+[15:10.70]
+A | Mamá, me voy de viaje a Hong Kong. | 엄마, 저 홍콩으로 여행 가요.
+[15:14.60]
+B | Espero que tengas un buen viaje. | 즐거운 여행이 되길 바란다.
+[15:22.50]
+N | Unidad 35. Subjuntivo en las oraciones sustantivas | 35과 명사절에 쓰인 접속법
+[15:33.50]
+A | Estoy harto de trabajar tanto. | 이렇게 일만 하는 거 지긋지긋해.
+[15:36.30]
+B | Te recomiendo que te vayas de viaje unos días para descansar. | 며칠 여행 가서 쉬기를 권할게.
+[15:45.80]
+N | Unidad 36. Subjuntivo en las oraciones desiderativas | 36과 소망 구문(ojalá)에 쓰인 접속법
+[15:57.70]
+A | ¡Ojalá que me toque la lotería! | 복권에 당첨되면 좋겠다!
+[16:00.80]
+B | ¡Ojalá que te tocara! | 너한테 당첨되면 좋을 텐데!
+[16:07.30]
+N | Unidad 37. Subjuntivo en las oraciones adverbiales | 37과 부사절에 쓰인 접속법
+[16:18.60]
+A | ¡Cuídate, hijo! | 몸조심해라, 아들아!
+[16:19.80]
+B | Te llamaré tan pronto como llegue allí. | 거기 도착하자마자 전화할게요.
+[16:28.10]
+N | Unidad 38. Subjuntivo en las oraciones condicionales con si | 38과 si 가정 구문에 쓰인 접속법
+[16:39.50]
+A | Me alegro de que hayamos llegado a tiempo. | 제시간에 도착해서 다행이야.
+[16:42.80]
+B | Si nosotros hubiéramos perdido el tren, habríamos llegado tarde. | 기차를 놓쳤더라면 늦었을 거야.
+
+## 11부 간접화법·수동 구문·무인칭 se와 상호 se
+[16:54.00]
+N | Parte 11. Estilo indirecto, construcciones pasivas, se impersonal y se recíproco | 11부 간접화법·수동 구문·무인칭 se와 상호 se
+[17:06.20]
+N | Unidad 39. Estilo indirecto | 39과 간접화법
+[17:13.40]
+A | ¿Qué te dijo tu novio? | 남자 친구가 뭐래?
+[17:15.60]
+B | Me dijo que iría a México como estudiante de intercambio este verano. | 이번 여름에 교환학생으로 멕시코에 갈 거래.
+[17:26.20]
+N | Unidad 40. Construcciones pasivas | 40과 수동 구문
+[17:33.60]
+A | ¿Cuántas veces se repiten las preguntas? | 질문은 몇 번 반복돼요?
+[17:37.60]
+B | Se repiten dos veces. | 두 번 반복돼요.
+[17:44.40]
+N | Unidad 41. Se impersonal y se recíproco | 41과 무인칭 se와 상호 se
+[17:55.60]
+A | Nos vemos mañana en la reunión. | 내일 회의에서 봐요.
+[17:58.80]
+B | Sí, nos vemos mañana. | 네, 내일 봐요.
+
+## 12부 관계사
+[18:01.40]
+N | Parte 12. Relativos | 12부 관계사
+[18:10.80]
+N | Unidad 42. Pronombres relativos | 42과 관계대명사
+[18:22.80]
+A | ¿Dónde está la leche que compraste ayer? | 어제 산 우유 어디 있어?
+[18:26.20]
+B | Está en la nevera. | 냉장고에 있어.
+[18:33.50]
+N | Unidad 43. Adverbios relativos | 43과 관계부사
+[18:41.30]
+A | ¿Cómo era la casa donde vivías antes? | 전에 살던 집은 어땠어?
+[18:45.00]
+B | Era una casa de dos pisos. | 2층집이었어.
+[18:52.00]
+N | Unidad 44. Subjuntivo en las oraciones relativas | 44과 관계절에 쓰인 접속법
+[19:02.90]
+A | ¿Qué tipo de sofá quieres comprar? | 어떤 소파를 사고 싶어?
+[19:06.20]
+B | No sé, pero quiero un sofá que sea cómodo. | 잘 모르겠지만 편한 소파였으면 좋겠어.
+
+## 13부 전치사와 접속사
+[19:16.60]
+N | Parte 13. Preposiciones y conjunciones | 13부 전치사와 접속사
+[19:24.70]
+N | Unidad 45. Preposiciones | 45과 전치사
+[19:31.00]
+A | ¿Para cuándo es la tarea? | 숙제는 언제까지야?
+[19:34.30]
+B | Para esta mañana. Por eso anoche trabajé en casa por tres horas. | 오늘 아침까지야. 그래서 어젯밤 집에서 세 시간 동안 했어.
+[19:44.60]
+N | Unidad 46. Conjunciones | 46과 접속사
+[19:51.70]
+A | ¿Puedes casarte conmigo? | 나랑 결혼해 줄래?
+[19:54.10]
+B | Sí, me caso contigo, porque no puedo vivir sin ti. | 응, 너랑 결혼할게. 너 없이는 못 사니까.
+
+## 14부 비교급과 최상급, 부사
+[20:05.30]
+N | Parte 14. Comparativos, superlativos y adverbios | 14부 비교급과 최상급, 부사
+[20:13.90]
+N | Unidad 47. Comparativos de superioridad e inferioridad | 47과 우등 비교급·열등 비교급
+[20:26.70]
+A | Juan es más alto que Antonio. | 후안은 안토니오보다 키가 커.
+[20:30.30]
+B | Sí, Antonio es menos alto que Juan. | 응, 안토니오는 후안보다 키가 작아.
+[20:39.50]
+N | Unidad 48. Comparativos de igualdad | 48과 동등 비교급
+[20:48.00]
+A | Marisa es tan alta como Julia. | 마리사는 훌리아만큼 키가 커.
+[20:51.40]
+B | Sí, pero Marisa no es tan gorda como Julia. | 응, 그런데 마리사는 훌리아만큼 통통하지는 않아.
+[21:00.00]
+N | Unidad 49. Superlativos | 49과 최상급
+[21:07.00]
+A | Felipe mide más de dos metros. Es el jugador más alto. | 펠리페는 키가 2미터가 넘어. 가장 키 큰 선수야.
+[21:13.70]
+B | Sí, es verdad, es altísimo. | 응, 맞아, 정말 엄청 커.
+[21:22.20]
+N | Unidad 50. Adverbios | 50과 부사
+[21:27.90]
+A | ¿Te ayudo a hacer los deberes? | 숙제하는 거 도와줄까?
+[21:31.00]
+B | No, gracias. Puedo hacerlos yo perfectamente. | 아니, 괜찮아. 나 혼자서도 충분히 할 수 있어.
+
+## 15부 상황별 표현
+[21:41.20]
+N | Parte 15. Expresiones según la situación | 15부 상황별 표현
+[21:48.90]
+N | Unidad 51. La hora | 51과 시각
+[21:54.10]
+A | ¿A qué hora es el concierto? | 콘서트 몇 시야?
+[21:58.60]
+B | Es a las dos en punto. | 두 시 정각이야.
+[22:05.80]
+N | Unidad 52. Tiempo y estados físicos y anímicos | 52과 날씨와 신체·심리 상태 표현
+[22:17.50]
+A | ¡Hoy hace mucho calor! | 오늘 정말 덥다!
+[22:19.50]
+B | Sí, es verdad. Tengo mucho calor ahora. | 응, 맞아. 나 지금 너무 더워.
+[22:29.40]
+N | Unidad 53. Obligaciones | 53과 의무
+[22:35.10]
+A | No me encuentro bien estos días. Tengo tos. | 요즘 몸이 안 좋아. 기침이 나.
+[22:40.60]
+B | Tienes que dejar de fumar. | 담배를 끊어야 해.
+[22:48.60]
+N | Unidad 54. Afición y gusto | 54과 취미와 기호
+[22:56.10]
+A | ¿Qué deporte te gusta? | 무슨 운동 좋아해?
+[22:58.70]
+B | Me gusta mucho el fútbol. Me encanta. | 축구를 아주 좋아해. 정말 좋아해.
+[23:06.60]
+N | Unidad 55. Petición y favor | 55과 요청과 부탁
+[23:15.80]
+A | ¿Podrías pasarme la sal? | 소금 좀 건네줄래?
+[23:18.00]
+B | Sí, toma, aquí está. | 응, 여기 있어.
+[23:25.30]
+N | Unidad 56. Plan y deseo | 56과 계획과 소망
+[23:35.00]
+A | ¿Qué piensas hacer este verano? | 이번 여름에 뭐 할 생각이야?
+[23:37.10]
+B | Pienso aprender chino. | 중국어를 배울 생각이야.
+[23:44.80]
+N | Unidad 57. Opiniones | 57과 의견 나누기
+[23:52.10]
+A | ¿Qué te parece si vamos a la playa? | 바닷가에 가는 거 어때?
+[23:54.80]
+B | Estupendo, me parece muy bien. | 좋아, 아주 좋은 생각이야.
+[24:02.50]
+N | Unidad 58. Consejos | 58과 충고하기
+[24:08.60]
+A | Este año me gradúo de la universidad, pero no sé qué hacer. | 올해 대학을 졸업하는데 뭘 해야 할지 모르겠어.
+[24:14.10]
+B | Yo que tú, intentaría encontrar un trabajo. | 내가 너라면 일자리를 찾아보겠어.

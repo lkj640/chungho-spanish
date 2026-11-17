@@ -1,0 +1,662 @@
+{
+  "lang": "es",
+  "date": "2026-11-17",
+  "title": "스페인어 문법을 부탁해 — 알파벳부터 접속법까지 58과 대화로 훑기",
+  "es": "Espero que tengas un buen viaje.",
+  "emoji": "📘",
+  "level": "A1–B1",
+  "channel": "스페인어 문법을 부탁해 (MP3)",
+  "videoTitle": "스페인어 문법을 부탁해",
+  "audio": "audio.m4a",
+  "duration": "24:31",
+  "speakers": {
+    "N": "단원 제목",
+    "A": "A",
+    "B": "B"
+  },
+  "hideCast": true,
+  "summary": "문법책 「스페인어 문법을 부탁해」의 음원이에요. 예비과에서 알파벳 27자의 이름과 발음을 듣고, 15부 58과에 걸쳐 명사·관사부터 현재·과거·미래 시제, 대명사, 명령법, 접속법, 관계사, 비교급, 상황별 표현까지 단원마다 짧은 두 줄 대화로 핵심 문법을 확인해요. 단원 제목을 누르고 대화를 따라 말하며 문법 지도를 머릿속에 그려 보세요.",
+  "topics": [
+    "예비과: 알파벳과 발음 (b=v, c·g·j·ñ·rr)",
+    "명사구·현재: ser · estar · hay · 규칙/불규칙 동사",
+    "한정사·대명사: 소유사 · 지시사 · me/te/lo/le · se · conmigo",
+    "과거: 현재완료 · 완료과거 · 불완료과거 · 과거완료",
+    "미래·명령: 단순미래 · 미래완료 · 조건법 · 긍정/부정 명령",
+    "접속법: esperar que · ojalá · tan pronto como · si hubiera",
+    "관계사·비교·상황별 표현: que · donde · más…que · tan…como · Yo que tú"
+  ],
+  "grammar": [
+    {
+      "title": "① ser · estar · hay — \"이다/있다\" 세 가지",
+      "lead": "<b>ser</b>는 정체·출신·성격, <b>estar</b>는 상태·위치, <b>hay</b>는 \"(어디에 무엇이) 있다\"는 존재를 말해요. (4·5과)",
+      "table": {
+        "head": [
+          "동사",
+          "쓰임",
+          "예문"
+        ],
+        "rows": [
+          [
+            "ser",
+            "출신·국적",
+            "Él es de Italia y ella es de China."
+          ],
+          [
+            "ser",
+            "성격·외모",
+            "El profesor es muy alto y guapo."
+          ],
+          [
+            "estar",
+            "일시적 상태",
+            "No, estoy enfermo."
+          ],
+          [
+            "estar",
+            "위치(정해진 것)",
+            "Ahora estoy en casa. / Está en la nevera."
+          ],
+          [
+            "hay",
+            "불특정한 것의 존재",
+            "Hay un restaurante cerca."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "¿De dónde son Mario y Lan?",
+          "마리오와 란은 어디 출신이에요?"
+        ],
+        [
+          "¿Estás bien? — No, estoy enfermo.",
+          "괜찮아? — 아니, 아파."
+        ],
+        [
+          "Mi hijo está muy enfermo. Ahora está en el hospital.",
+          "아들이 많이 아파요. 지금 병원에 있어요."
+        ]
+      ],
+      "tip": "\"그 식당은 어디 있어?\"처럼 특정한 것의 위치는 estar(¿Dónde está el restaurante?), \"근처에 식당 있어?\"처럼 불특정한 것은 hay를 써요."
+    },
+    {
+      "title": "② 목적격·재귀 대명사의 자리",
+      "lead": "목적격 대명사(me, te, lo/la, le…)와 재귀대명사(me, te, se…)는 <b>활용된 동사 바로 앞</b>에 와요. 동사원형·현재분사·긍정명령에는 <b>뒤에 붙여요</b>. (13–16과, 32과)",
+      "table": {
+        "head": [
+          "종류",
+          "형태",
+          "예문"
+        ],
+        "rows": [
+          [
+            "직접목적격",
+            "me te lo/la nos os los/las",
+            "¿Me quieres? — Sí, te quiero mucho."
+          ],
+          [
+            "간접목적격",
+            "me te le nos os les",
+            "Te doy un regalo."
+          ],
+          [
+            "재귀",
+            "me te se nos os se",
+            "Me levanto a las siete."
+          ],
+          [
+            "전치격",
+            "mí, ti (conmigo, contigo)",
+            "Sí, voy contigo."
+          ],
+          [
+            "원형·명령에 붙이기",
+            "hacerlos, acuéstate",
+            "Puedo hacerlos yo perfectamente."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Sí, los he fregado.",
+          "응, 그것들(접시) 다 씻었어."
+        ],
+        [
+          "¿A qué hora te levantas?",
+          "몇 시에 일어나?"
+        ],
+        [
+          "Ya es muy tarde, acuéstate ya.",
+          "너무 늦었어, 이제 자."
+        ]
+      ],
+      "tip": "con + mí/ti는 conmigo, contigo라는 특별한 형태가 돼요. ✗ con mí → ✓ conmigo."
+    },
+    {
+      "title": "③ 과거 시제 한눈에 — 현재완료·완료과거·불완료과거·과거완료",
+      "lead": "일어난 <b>사건</b>은 완료과거, 과거의 <b>배경·습관·묘사</b>는 불완료과거, 과거보다 <b>더 먼저</b> 일어난 일은 과거완료예요. (23–27과)",
+      "table": {
+        "head": [
+          "시제",
+          "형태",
+          "예문"
+        ],
+        "rows": [
+          [
+            "현재완료",
+            "haber 현재 + 과거분사",
+            "¿Has fregado los platos?"
+          ],
+          [
+            "완료과거",
+            "nací, llegué, tuvo",
+            "Nací en 1998."
+          ],
+          [
+            "불완료과거",
+            "era, iba, vivías",
+            "De pequeño yo era un niño muy bajo."
+          ],
+          [
+            "비교",
+            "배경(불완료) + 사건(완료)",
+            "Cuando iba a la escuela, tuvo un accidente."
+          ],
+          [
+            "과거완료",
+            "había + 과거분사",
+            "Porque había perdido el autobús."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Ayer llegué tarde a la entrevista.",
+          "어제 면접에 늦었어."
+        ],
+        [
+          "¿Cómo eras tú cuando eras pequeño?",
+          "어렸을 때 넌 어땠어?"
+        ],
+        [
+          "Porque había perdido el autobús.",
+          "버스를 (그 전에) 놓쳤었거든."
+        ]
+      ],
+      "tip": "\"~하던 중에(배경) ~이 일어났다(사건)\" 문장에서 두 시제를 함께 써 보세요: Cuando iba…, tuvo…."
+    },
+    {
+      "title": "④ 접속법이 나오는 자리",
+      "lead": "바람·권유·감정·미래의 때·가정처럼 <b>아직 사실이 아닌 것</b>을 말할 때 종속절에 접속법을 써요. (34–38과, 44과)",
+      "table": {
+        "head": [
+          "자리",
+          "신호",
+          "예문"
+        ],
+        "rows": [
+          [
+            "바람",
+            "esperar que",
+            "Espero que tengas un buen viaje."
+          ],
+          [
+            "권유",
+            "recomendar que",
+            "Te recomiendo que te vayas de viaje."
+          ],
+          [
+            "소망",
+            "ojalá (que)",
+            "¡Ojalá que me toque la lotería!"
+          ],
+          [
+            "미래의 때",
+            "tan pronto como, cuando",
+            "Te llamaré tan pronto como llegue allí."
+          ],
+          [
+            "감정",
+            "alegrarse de que",
+            "Me alegro de que hayamos llegado a tiempo."
+          ],
+          [
+            "과거 사실 반대 가정",
+            "si + hubiera …, habría …",
+            "Si hubiéramos perdido el tren, habríamos llegado tarde."
+          ],
+          [
+            "정해지지 않은 대상",
+            "un … que + 접속법",
+            "Quiero un sofá que sea cómodo."
+          ]
+        ]
+      },
+      "examples": [
+        [
+          "Espero que tengas un buen viaje.",
+          "즐거운 여행이 되길 바라."
+        ],
+        [
+          "Te llamaré tan pronto como llegue allí.",
+          "도착하자마자 전화할게."
+        ],
+        [
+          "Quiero un sofá que sea cómodo.",
+          "편한 소파면 좋겠어."
+        ]
+      ],
+      "tip": "ojalá 뒤 접속법 현재(toque)는 \"그랬으면 좋겠다\", 접속법 과거(tocara)는 \"그럴 리 없겠지만 그러면 좋을 텐데\"라는 느낌이에요."
+    }
+  ],
+  "phrases": [
+    [
+      "¿Qué es esto? — Es un lápiz.",
+      "이건 뭐예요? — 연필이에요."
+    ],
+    [
+      "Me gustaría salir contigo, pero es que tengo otra cita.",
+      "너랑 나가고 싶은데, 실은 다른 약속이 있어."
+    ],
+    [
+      "¿Podrías pasarme la sal?",
+      "소금 좀 건네줄래?"
+    ],
+    [
+      "¿Qué te parece si vamos a la playa?",
+      "바닷가에 가는 거 어때?"
+    ],
+    [
+      "Yo que tú, intentaría encontrar un trabajo.",
+      "내가 너라면 일자리를 찾아보겠어."
+    ],
+    [
+      "Tienes que dejar de fumar.",
+      "담배를 끊어야 해."
+    ],
+    [
+      "Estoy harto de trabajar tanto.",
+      "이렇게 일만 하는 거 지긋지긋해."
+    ],
+    [
+      "No me encuentro bien estos días.",
+      "요즘 몸이 안 좋아."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "el lápiz",
+      "ko": "연필",
+      "ex": "Es un lápiz.",
+      "exKo": "연필이에요."
+    },
+    {
+      "es": "gracioso, graciosa",
+      "ko": "재미있는, 웃긴",
+      "ex": "Es una persona graciosa también.",
+      "exKo": "재미있는 분이기도 해요."
+    },
+    {
+      "es": "enfermo, enferma",
+      "ko": "아픈",
+      "ex": "No, estoy enfermo.",
+      "exKo": "아니, 아파."
+    },
+    {
+      "es": "bastante",
+      "ko": "꽤, 상당히",
+      "ex": "Canto bastante bien.",
+      "exKo": "노래는 꽤 잘해."
+    },
+    {
+      "es": "preferir",
+      "ko": "더 좋아하다",
+      "ex": "Prefiero un té con leche.",
+      "exKo": "밀크티가 더 좋아."
+    },
+    {
+      "es": "conocer",
+      "ko": "(사람·장소를) 알다, 경험으로 알다",
+      "ex": "Conozco un buen restaurante.",
+      "exKo": "좋은 식당을 하나 알아."
+    },
+    {
+      "es": "saber",
+      "ko": "(정보를) 알다; ~할 줄 알다",
+      "ex": "Yo sé dónde está el restaurante.",
+      "exKo": "그 식당이 어디 있는지 알아."
+    },
+    {
+      "es": "el reloj",
+      "ko": "시계",
+      "ex": "¿De quién es este reloj?",
+      "exKo": "이 시계 누구 거예요?"
+    },
+    {
+      "es": "la nevera",
+      "ko": "냉장고",
+      "ex": "¿Tienes algo de comer en la nevera?",
+      "exKo": "냉장고에 먹을 거 있어?"
+    },
+    {
+      "es": "nada",
+      "ko": "아무것도 (~않다)",
+      "ex": "No tengo nada de comer.",
+      "exKo": "먹을 게 하나도 없어."
+    },
+    {
+      "es": "el regalo",
+      "ko": "선물",
+      "ex": "Te doy un regalo.",
+      "exKo": "너한테 선물 줄게."
+    },
+    {
+      "es": "levantarse",
+      "ko": "일어나다",
+      "ex": "Me levanto a las siete.",
+      "exKo": "7시에 일어나."
+    },
+    {
+      "es": "el cine",
+      "ko": "영화관",
+      "ex": "¿Vas a ir al cine conmigo?",
+      "exKo": "나랑 영화 보러 갈래?"
+    },
+    {
+      "es": "cansado, cansada",
+      "ko": "피곤한",
+      "ex": "Pareces muy cansado.",
+      "exKo": "엄청 피곤해 보여."
+    },
+    {
+      "es": "dejar",
+      "ko": "빌려주다; 두다",
+      "ex": "¿Me dejas tu coche mañana?",
+      "exKo": "내일 네 차 빌려줄래?"
+    },
+    {
+      "es": "vegetariano, -a",
+      "ko": "채식주의자",
+      "ex": "Soy vegetariana.",
+      "exKo": "나는 채식주의자야."
+    },
+    {
+      "es": "al contrario",
+      "ko": "반대로",
+      "ex": "Al contrario, yo no como verduras nunca.",
+      "exKo": "나는 반대로 채소를 절대 안 먹어."
+    },
+    {
+      "es": "¡Qué lástima!",
+      "ko": "저런, 안됐다!",
+      "ex": "Ahora está en el hospital. — ¡Qué lástima!",
+      "exKo": "지금 병원에 있어요. — 저런, 안됐네요!"
+    },
+    {
+      "es": "fregar los platos",
+      "ko": "설거지하다",
+      "ex": "¿Has fregado los platos?",
+      "exKo": "설거지했어?"
+    },
+    {
+      "es": "nacer",
+      "ko": "태어나다",
+      "ex": "Nací en 1998.",
+      "exKo": "1998년에 태어났어."
+    },
+    {
+      "es": "el accidente de tráfico",
+      "ko": "교통사고",
+      "ex": "Tuvo un accidente de tráfico.",
+      "exKo": "교통사고가 났어."
+    },
+    {
+      "es": "la entrevista",
+      "ko": "면접, 인터뷰",
+      "ex": "Ayer llegué tarde a la entrevista.",
+      "exKo": "어제 면접에 늦었어."
+    },
+    {
+      "es": "jubilarse",
+      "ko": "은퇴하다",
+      "ex": "¿Qué harás después de jubilarte?",
+      "exKo": "은퇴하고 나서 뭐 할 거야?"
+    },
+    {
+      "es": "el informe",
+      "ko": "보고서",
+      "ex": "Habré terminado el informe el miércoles.",
+      "exKo": "수요일까지 보고서를 끝내 놓을 거야."
+    },
+    {
+      "es": "la cita",
+      "ko": "약속, 데이트",
+      "ex": "Tengo otra cita.",
+      "exKo": "다른 약속이 있어."
+    },
+    {
+      "es": "acostarse",
+      "ko": "잠자리에 들다",
+      "ex": "Acuéstate ya.",
+      "exKo": "이제 자."
+    },
+    {
+      "es": "estar harto de",
+      "ko": "~에 질리다, 지긋지긋하다",
+      "ex": "Estoy harto de trabajar tanto.",
+      "exKo": "일만 하는 거 지긋지긋해."
+    },
+    {
+      "es": "tocar (la lotería)",
+      "ko": "(복권이) 당첨되다",
+      "ex": "¡Ojalá que me toque la lotería!",
+      "exKo": "복권에 당첨되면 좋겠다!"
+    },
+    {
+      "es": "tan pronto como",
+      "ko": "~하자마자",
+      "ex": "Te llamaré tan pronto como llegue.",
+      "exKo": "도착하자마자 전화할게."
+    },
+    {
+      "es": "alegrarse de",
+      "ko": "~해서 기쁘다",
+      "ex": "Me alegro de que hayamos llegado a tiempo.",
+      "exKo": "제시간에 도착해서 다행이야."
+    },
+    {
+      "es": "el estudiante de intercambio",
+      "ko": "교환학생",
+      "ex": "Iría a México como estudiante de intercambio.",
+      "exKo": "교환학생으로 멕시코에 갈 거래."
+    },
+    {
+      "es": "repetirse",
+      "ko": "반복되다",
+      "ex": "Se repiten dos veces.",
+      "exKo": "두 번 반복돼요."
+    },
+    {
+      "es": "la reunión",
+      "ko": "회의, 모임",
+      "ex": "Nos vemos mañana en la reunión.",
+      "exKo": "내일 회의에서 봐요."
+    },
+    {
+      "es": "la tarea",
+      "ko": "숙제, 과제",
+      "ex": "¿Para cuándo es la tarea?",
+      "exKo": "숙제는 언제까지야?"
+    },
+    {
+      "es": "casarse con",
+      "ko": "~와 결혼하다",
+      "ex": "¿Puedes casarte conmigo?",
+      "exKo": "나랑 결혼해 줄래?"
+    },
+    {
+      "es": "medir",
+      "ko": "(키·길이가) ~이다, 재다",
+      "ex": "Felipe mide más de dos metros.",
+      "exKo": "펠리페는 키가 2미터가 넘어."
+    },
+    {
+      "es": "los deberes",
+      "ko": "숙제",
+      "ex": "¿Te ayudo a hacer los deberes?",
+      "exKo": "숙제하는 거 도와줄까?"
+    },
+    {
+      "es": "en punto",
+      "ko": "정각",
+      "ex": "Es a las dos en punto.",
+      "exKo": "두 시 정각이야."
+    },
+    {
+      "es": "la tos",
+      "ko": "기침",
+      "ex": "Tengo tos.",
+      "exKo": "기침이 나."
+    },
+    {
+      "es": "graduarse",
+      "ko": "졸업하다",
+      "ex": "Este año me gradúo de la universidad.",
+      "exKo": "올해 대학을 졸업해."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "\"그는 이탈리아 출신이에요\"에 맞는 동사는?",
+      "options": [
+        "Él está de Italia.",
+        "Él es de Italia.",
+        "Él hay de Italia.",
+        "Él tiene de Italia."
+      ],
+      "answer": 1,
+      "explain": "출신은 ser de + 나라예요."
+    },
+    {
+      "q": "\"냉장고에 있어\"의 올바른 문장은?",
+      "options": [
+        "Es en la nevera.",
+        "Hay en la nevera.",
+        "Está en la nevera.",
+        "Tiene en la nevera."
+      ],
+      "answer": 2,
+      "explain": "특정한 것(어제 산 우유)의 위치는 estar."
+    },
+    {
+      "q": "conocer와 saber 중 빈칸에 알맞은 것: \"Yo ___ dónde está el restaurante.\"",
+      "options": [
+        "conozco",
+        "sé",
+        "soy",
+        "estoy"
+      ],
+      "answer": 1,
+      "explain": "\"어디에 있는지\"라는 정보를 아는 건 saber."
+    },
+    {
+      "q": "\"Sí, voy ___.\" (응, 너랑 갈게)",
+      "options": [
+        "con ti",
+        "contigo",
+        "con tú",
+        "contigos"
+      ],
+      "answer": 1,
+      "explain": "con + ti → contigo."
+    },
+    {
+      "q": "\"¿Has fregado los platos?\"의 시제는?",
+      "options": [
+        "완료과거",
+        "현재완료",
+        "불완료과거",
+        "과거완료"
+      ],
+      "answer": 1,
+      "explain": "haber 현재(has) + 과거분사(fregado) = 현재완료."
+    },
+    {
+      "q": "\"Cuando iba a la escuela, tuvo un accidente.\"에서 iba와 tuvo의 역할은?",
+      "options": [
+        "둘 다 사건",
+        "iba는 배경, tuvo는 사건",
+        "iba는 사건, tuvo는 배경",
+        "둘 다 습관"
+      ],
+      "answer": 1,
+      "explain": "불완료과거는 배경, 완료과거는 그 위에 일어난 사건이에요."
+    },
+    {
+      "q": "\"Porque había perdido el autobús.\"는 어떤 시제인가요?",
+      "options": [
+        "과거완료",
+        "미래완료",
+        "현재완료",
+        "가정미래"
+      ],
+      "answer": 0,
+      "explain": "había + 과거분사 = 과거완료. 늦게 도착한 것보다 더 먼저 일어난 일이에요."
+    },
+    {
+      "q": "\"Yo habré terminado el informe el miércoles.\"의 뜻은?",
+      "options": [
+        "수요일에 보고서를 끝냈다",
+        "수요일까지 보고서를 끝내 놓을 것이다",
+        "수요일에 보고서를 시작한다",
+        "수요일에 보고서를 끝냈어야 했다"
+      ],
+      "answer": 1,
+      "explain": "미래완료: 미래의 어느 시점까지 완료돼 있을 일."
+    },
+    {
+      "q": "\"그렇게 크게 말하지 마.\"",
+      "options": [
+        "No habla tan alto.",
+        "No hablas tan alto.",
+        "No hables tan alto.",
+        "No hablar tan alto."
+      ],
+      "answer": 2,
+      "explain": "tú 부정 명령 = no + 접속법 현재(hables)."
+    },
+    {
+      "q": "\"Espero que ___ un buen viaje.\" 빈칸은?",
+      "options": [
+        "tienes",
+        "tengas",
+        "tener",
+        "tendrás"
+      ],
+      "answer": 1,
+      "explain": "esperar que + 접속법."
+    },
+    {
+      "q": "\"Te llamaré tan pronto como ___ allí.\"",
+      "options": [
+        "llego",
+        "llegue",
+        "llegaré",
+        "llegar"
+      ],
+      "answer": 1,
+      "explain": "미래의 때를 나타내는 tan pronto como 뒤에는 접속법."
+    },
+    {
+      "q": "\"Yo que tú, intentaría encontrar un trabajo.\"는 무엇을 하는 표현인가요?",
+      "options": [
+        "요청하기",
+        "충고하기",
+        "의무 말하기",
+        "계획 말하기"
+      ],
+      "answer": 1,
+      "explain": "Yo que tú + 조건법 = \"내가 너라면 ~하겠어\" (58과 충고하기)."
+    }
+  ]
+}
