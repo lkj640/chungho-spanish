@@ -1,0 +1,209 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 쉐도잉 에피소드라 같은 문장이 천천히 → 음절별 → 보통 속도로 3~4번 반복되는데, 강의에서는 문장마다 한 번만 싣고 시각은 그 문장 연습이 시작되는 지점으로 잡았어요. 'Es toy buscando do un trao'→'Estoy buscando un trabajo', 'Es tu di medina'→'Estudié medicina', 'La compre aer'→'La compré ayer', 'Me es cu chas'→'¿Me escuchas?', 'Te qui ro cho'→'Te quiero mucho', 'Nos in ta Ron'→'Nos invitaron', 'No lo saí a'→'No lo sabía' 같은 음절 쪼개기 자막, 'Mucha suerte y a vosotros'의 끊김을 바로잡고, 'Frase uno~treinta' 안내와 마테오의 한마디 농담은 화자를 나눴어요.
+# 시각은 자막 구간 시각을 글자 위치 비율로 나눠 구한 추정값이라 앞뒤로 1~3초쯤 어긋날 수 있어요(음절 반복 구간은 자막이 비어 있어서 더 그래요).
+END 13:40
+
+
+## 대화 시작 — 바쁜 마테오와 직업 어휘 연습
+[00:00.28]
+S | Bienvenido a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:05.72]
+M | Hola, Sofía, no puedo hablar. Tengo una entrevista, tengo que enviar correos, estoy muy ocupado. | 안녕, 소피아, 얘기할 시간이 없어. 면접이 있고, 메일도 보내야 해서 너무 바빠.
+[00:14.00]
+S | Tranquilo, Mateo, respira. Vamos a practicar el vocabulario de trabajo y los pronombres. Te va a ayudar en tu entrevista. | 진정해, 마테오, 숨 쉬어. 일 관련 어휘와 대명사를 연습해 보자. 면접에 도움이 될 거야.
+[00:23.00]
+M | Es verdad, tú siempre tienes razón. | 맞아, 넌 항상 옳아.
+[00:26.00]
+S | Empezamos. | 시작해요.
+## 쉐도잉 1~8 — 구직·면접·월급·직업
+[00:27.88]
+S | Frase uno. | 문장 1.
+[00:30.00]
+S | Estoy buscando un trabajo a tiempo completo. | 저는 풀타임 일자리를 찾고 있어요.
+[01:01.30]
+M | Soy muy trabajador. | 난 아주 부지런해.
+[01:03.40]
+S | Frase dos. | 문장 2.
+[01:04.80]
+S | Tengo una entrevista de trabajo mañana. | 저는 내일 면접이 있어요.
+[01:33.00]
+M | ¡Qué nervios! | 아, 떨려!
+[01:35.32]
+S | Frase tres. | 문장 3.
+[01:37.00]
+S | Mi jefe me ha subido el sueldo. | 사장님이 제 월급을 올려 주셨어요.
+[01:58.00]
+M | Soy rico. | 난 부자야.
+[02:00.50]
+S | Frase cuatro. | 문장 4.
+[02:04.00]
+S | ¿A qué te dedicas? | 무슨 일을 하세요?
+[02:17.00]
+S | Frase cinco. | 문장 5.
+[02:19.50]
+S | Trabajo como ingeniero en una empresa grande. | 저는 큰 회사에서 엔지니어로 일해요.
+[02:48.50]
+S | Frase seis. Tilde en «currículum». | 문장 6. «currículum»에는 악센트 부호가 있어요.
+[02:55.00]
+S | Necesito enviar mi currículum. | 이력서를 보내야 해요.
+[03:12.00]
+M | Necesito enviar mi currículum antes de las cinco. | 5시 전에 이력서를 보내야 해요.
+[03:17.50]
+S | Frase siete. | 문장 7.
+[03:20.00]
+S | El horario de trabajo es flexible. | 근무 시간이 유연해요.
+[03:42.00]
+M | Me gusta. | 마음에 들어.
+[03:45.00]
+S | Frase ocho. | 문장 8.
+[03:50.00]
+S | Estudié medicina en la universidad. | 저는 대학에서 의학을 공부했어요.
+[04:18.50]
+M | Soy doctor Mateo. | 난 마테오 박사야.
+## 쉐도잉 9~15 — 발표·동료·스페인어·경력·실업·컴퓨터 과정
+[04:22.00]
+S | Frase nueve. | 문장 9.
+[04:25.00]
+S | Tengo que preparar una presentación. | 발표를 준비해야 해요.
+[04:48.50]
+M | PowerPoint. | 파워포인트.
+[04:51.00]
+S | Frase diez. | 문장 10.
+[04:53.00]
+S | Mis compañeros de trabajo son muy amables. | 제 직장 동료들은 아주 친절해요.
+[05:20.00]
+M | Buenos amigos. | 좋은 친구들이지.
+[05:23.00]
+S | Frase once. | 문장 11.
+[05:26.50]
+S | Quiero mejorar mi español para mi trabajo. | 일 때문에 스페인어 실력을 키우고 싶어요.
+[05:56.50]
+M | Es importante. | 중요하니까.
+[05:59.50]
+S | Frase doce. | 문장 12.
+[06:02.50]
+S | ¿Cuántos años de experiencia tienes? | 경력이 몇 년이에요?
+[06:35.00]
+M | Muchos. | 아주 많아.
+[06:37.50]
+S | Frase trece. | 문장 13.
+[06:40.00]
+S | Estoy desempleado en este momento. | 저는 지금 실직 상태예요.
+[07:04.00]
+M | Pero busco trabajo. | 하지만 일자리를 찾고 있어.
+[07:07.50]
+S | Frase catorce. | 문장 14.
+[07:10.00]
+S | Hice un curso de informática el año pasado. | 저는 작년에 컴퓨터 과정을 들었어요.
+[07:44.00]
+M | Soy hacker. | 난 해커야.
+[07:47.00]
+S | Frase quince. | 문장 15.
+[07:50.00]
+S | Es un trabajo muy estresante. | 스트레스가 매우 심한 일이에요.
+## 쉐도잉 16~22 — 목적격 대명사 me·te·lo·la·le·nos
+[08:02.00]
+M | Ah, muy bien. | 아, 좋아.
+[08:04.70]
+S | Ahora, gramática. Los pronombres me, te, lo… Atento, Mateo. | 이제 문법이에요. 대명사 me, te, lo… 집중해, 마테오.
+[08:10.50]
+M | Te escucho, Sofía. Estoy listo. | 듣고 있어, 소피아. 준비됐어.
+[08:16.50]
+S | Frase dieciséis. | 문장 16.
+[08:18.50]
+S | La compré ayer. | 그걸 어제 샀어요.
+[08:29.00]
+M | Una camisa nueva. | 새 셔츠야.
+[08:33.28]
+S | Frase diecisiete. | 문장 17.
+[08:35.00]
+S | Lo vi en el parque. | 공원에서 그를 봤어요.
+[08:50.00]
+S | Frase dieciocho. | 문장 18.
+[08:52.60]
+S | ¿Me escuchas? | 내 말 들려요?
+[09:05.00]
+M | Hola. Hola. | 여보세요. 여보세요.
+[09:10.70]
+S | Frase diecinueve. | 문장 19.
+[09:13.00]
+S | Te quiero mucho. | 많이 사랑해요.
+[09:22.00]
+M | Te quiero mucho, mi amor. | 많이 사랑해, 내 사랑.
+[09:26.00]
+S | Frase veinte. | 문장 20.
+[09:28.50]
+S | Le di el regalo a mi madre. | 저는 어머니께 선물을 드렸어요.
+[09:43.44]
+M | Le encantó. | 무척 좋아하셨어.
+[09:45.00]
+S | Frase veintiuno. | 문장 21.
+[09:48.00]
+S | Nos invitaron a la fiesta. | 우리는 파티에 초대받았어요.
+[10:12.00]
+M | Vamos a bailar. | 춤추러 가자.
+[10:13.50]
+S | Frase veintidós. | 문장 22.
+[10:16.00]
+S | No lo entiendo. | 저는 그걸 이해 못 하겠어요.
+## 쉐도잉 23~30 — 대명사 결합·악센트·미래·부정 명령·과거
+[10:25.00]
+M | Es muy complicado. | 너무 복잡해.
+[10:28.50]
+S | Frase veintitrés. Acento en «dámelo». | 문장 23. «dámelo»에는 악센트가 있어요.
+[10:35.50]
+S | Dámelo, por favor. | 그거 나 줘, 제발.
+[10:47.00]
+M | Dámelo, por favor, es mío. | 그거 줘, 제발, 내 거야.
+[10:52.50]
+S | Frase veinticuatro. | 문장 24.
+[10:56.00]
+S | Se lo dije ayer. | 그에게 어제 그 얘기를 했어요.
+[11:13.50]
+M | Es un secreto. | 비밀이야.
+[11:16.50]
+S | Frase veinticinco. | 문장 25.
+[11:18.00]
+S | Las has visto. | 너 그것들을 봤구나.
+[11:33.50]
+M | Mis llaves. | 내 열쇠들.
+[11:37.00]
+S | Frase veintiséis. | 문장 26.
+[11:42.00]
+S | Me duele la cabeza. | 머리가 아파요.
+[11:54.48]
+M | Demasiada gramática. | 문법이 너무 많아.
+[11:57.50]
+S | Frase veintisiete. | 문장 27.
+[12:01.50]
+S | Te llamaré mañana. | 내일 전화할게.
+[12:16.90]
+M | Te llamaré mañana, lo prometo. | 내일 전화할게, 약속해.
+[12:22.00]
+S | Frase veintiocho. | 문장 28.
+[12:25.00]
+S | Quiero verla. | 그녀를(그것을) 보고 싶어요.
+[12:37.20]
+M | La película. | 영화 말이야.
+[12:41.50]
+S | Frase veintinueve. | 문장 29.
+[12:44.00]
+S | No les digas nada. | 그들에게 아무 말도 하지 마.
+[13:02.00]
+M | Shh. | 쉿.
+[13:04.50]
+S | Frase treinta. | 문장 30.
+[13:07.00]
+S | Lo siento, no lo sabía. | 미안해요, 몰랐어요.
+[13:21.00]
+M | Perdón. | 미안.
+## 마무리 — 면접 잘 보길!
+[13:22.00]
+S | Excelente trabajo, Mateo. ¿Ya estás listo para tu entrevista? | 훌륭해요, 마테오. 이제 면접 볼 준비 됐어요?
+[13:27.50]
+M | Sí, gracias, Sofía. Voy a conseguir el trabajo. | 응, 고마워, 소피아. 나 이 일자리 따낼 거야.
+[13:31.00]
+S | Mucha suerte. | 행운을 빌어요.
+[13:32.12]
+S | Y a vosotros, nos vemos en el próximo episodio de Easy Spanish Podcast. ¡Adiós! | 그리고 여러분도요, 다음 에피소드 이지 스패니시 팟캐스트에서 만나요. 안녕!

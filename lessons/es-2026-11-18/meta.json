@@ -1,0 +1,765 @@
+{
+ "lang": "es",
+ "date": "2026-11-18",
+ "title": "일 이야기와 대명사 쉐도잉 — 면접을 앞둔 마테오",
+ "es": "Tengo una entrevista de trabajo mañana.",
+ "emoji": "💼",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "Learn Spanish Quickly with Shadowing (A2) | Learn Spanish with Podcast | episode 28 | Easy Spanish",
+ "youtube": "U-hQYHJpuUU",
+ "duration": "13:40",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "면접을 앞두고 바쁜 마테오를 위해 소피아가 일·직업 어휘 15문장과 대명사(me·te·lo·la·le·nos…) 문장 15개를 하나씩 쉐도잉으로 연습시켜 줘요. 문장마다 천천히 → 음절별 → 보통 속도로 따라 말할 수 있고, 마테오의 한마디 농담(Soy rico, Soy hacker…)이 재미를 더해요. A2 수준의 짧은 문장이라 입에 붙이기 좋아요.",
+ "topics": [
+  "구직·면접: buscar trabajo · entrevista · currículum",
+  "회사 생활: jefe · sueldo · horario · compañeros",
+  "직업과 경력: dedicarse · ingeniero · experiencia · desempleado",
+  "목적격 대명사 lo·la·los·las / me·te·le·nos·les",
+  "대명사 두 개: se lo dije · dámelo",
+  "미래와 의무: voy a · te llamaré · tengo que"
+ ],
+ "grammar": [
+  {
+   "title": "① 직접목적격 대명사 lo·la·los·las",
+   "lead": "이미 말한 사물·사람을 받는 <b>직접목적격 대명사</b>는 <b>동사 앞</b>에 놓고, 받는 명사의 성·수에 맞춰요.",
+   "table": {
+    "head": [
+     "대명사",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "lo",
+      "그를 / 그것을(남성)",
+      "Lo vi en el parque."
+     ],
+     [
+      "la",
+      "그녀를 / 그것을(여성)",
+      "La compré ayer."
+     ],
+     [
+      "los",
+      "그들을 / 그것들을(남성·복수)",
+      "Los vi ayer."
+     ],
+     [
+      "las",
+      "그녀들을 / 그것들을(여성·복수)",
+      "Las has visto."
+     ]
+    ]
+   },
+   "tip": "la camisa → <b>La</b> compré, el libro → <b>Lo</b> compré처럼, 앞서 말한 명사의 성·수를 따라가요."
+  },
+  {
+   "title": "② 간접목적격 대명사 me·te·le·nos·les",
+   "lead": "누구에게(~에게) 하는지를 나타내요. 직접목적격과 모양이 같은 me·te·nos는 문맥으로 구분해요.",
+   "table": {
+    "head": [
+     "대명사",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "me",
+      "나에게/나를",
+      "¿Me escuchas?"
+     ],
+     [
+      "te",
+      "너에게/너를",
+      "Te quiero mucho. / Te llamaré mañana."
+     ],
+     [
+      "le",
+      "그/그녀/당신에게",
+      "Le di el regalo a mi madre."
+     ],
+     [
+      "nos",
+      "우리에게/우리를",
+      "Nos invitaron a la fiesta."
+     ],
+     [
+      "les",
+      "그들/당신들에게",
+      "No les digas nada."
+     ]
+    ]
+   },
+   "tip": "le는 <b>a mi madre</b>처럼 누구인지 덧붙여 분명히 하는 경우가 많아요: Le di el regalo <b>a mi madre</b>."
+  },
+  {
+   "title": "③ 대명사 두 개 — 간접 + 직접, le → se",
+   "lead": "간접·직접목적격이 함께 오면 <b>간접 → 직접</b> 순서예요. 그리고 <b>le/les + lo/la/los/las</b>는 <b>se lo/se la…</b>로 바뀌어요.",
+   "table": {
+    "head": [
+     "원래 문장",
+     "바뀐 형태",
+     "의미"
+    ],
+    "rows": [
+     [
+      "Le dije el secreto",
+      "Se lo dije",
+      "그에게 그걸 말했다"
+     ],
+     [
+      "Le di el regalo",
+      "Se lo di",
+      "그에게 그걸 줬다"
+     ],
+     [
+      "Me das la llave",
+      "Me la das",
+      "내게 그걸 준다"
+     ],
+     [
+      "Dame lo",
+      "Dámelo",
+      "그걸 나한테 줘"
+     ]
+    ]
+   },
+   "tip": "Le lo dije (✗) → <b>Se lo dije</b> (○). 'l'로 시작하는 두 대명사가 연달아 오는 걸 피하려는 규칙이에요."
+  },
+  {
+   "title": "④ 명령법과 대명사 — 뒤에 붙이고 악센트",
+   "lead": "긍정 명령은 대명사를 <b>동사 뒤에 붙이고</b>, 강세 위치를 지키려고 <b>악센트 부호</b>를 찍어요. 부정 명령은 <b>동사 앞</b>에 둬요.",
+   "table": {
+    "head": [
+     "형태",
+     "예문",
+     "설명"
+    ],
+    "rows": [
+     [
+      "긍정 명령",
+      "Dámelo, por favor.",
+      "da + me + lo → dámelo"
+     ],
+     [
+      "부정 명령",
+      "No me lo des.",
+      "대명사는 동사 앞"
+     ],
+     [
+      "부정 명령",
+      "No les digas nada.",
+      "decir → no digas"
+     ],
+     [
+      "긍정 명령",
+      "Dime la verdad.",
+      "di + me → dime"
+     ]
+    ]
+   },
+   "tip": "긍정은 <b>붙여 쓰고 악센트</b>, 부정은 <b>떼어서 동사 앞</b> — 이 대조를 기억하세요."
+  },
+  {
+   "title": "⑤ 현재완료와 단순과거 — 이미 끝난 일",
+   "lead": "이 에피소드에는 두 과거가 나와요. <b>현재완료(haber + 과거분사)</b>는 지금과 이어지는 느낌, <b>단순과거</b>는 끝난 시점이 분명한 일이에요.",
+   "table": {
+    "head": [
+     "시제",
+     "예문",
+     "설명"
+    ],
+    "rows": [
+     [
+      "현재완료",
+      "Mi jefe me ha subido el sueldo.",
+      "(최근) 월급을 올려 줬다"
+     ],
+     [
+      "단순과거",
+      "La compré ayer.",
+      "어제(분명한 때) 샀다"
+     ],
+     [
+      "단순과거",
+      "Estudié medicina en la universidad.",
+      "대학 때 공부했다"
+     ],
+     [
+      "단순과거",
+      "Hice un curso el año pasado.",
+      "작년에 들었다"
+     ]
+    ]
+   },
+   "tip": "<b>ayer, el año pasado</b>처럼 끝난 때가 분명하면 단순과거를 쓰는 게 자연스러워요."
+  },
+  {
+   "title": "⑥ 미래 표현 — ir a + 동사원형 vs 단순미래",
+   "lead": "가까운 미래·계획은 <b>ir a + 동사원형</b>, 약속·예측은 <b>-é, -ás, -á…</b> 단순미래로 말해요.",
+   "table": {
+    "head": [
+     "형태",
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "ir a + 동사원형",
+      "Voy a conseguir el trabajo.",
+      "(곧) 얻을 거예요"
+     ],
+     [
+      "ir a + 동사원형",
+      "Vamos a bailar.",
+      "춤추러 가요"
+     ],
+     [
+      "단순미래",
+      "Te llamaré mañana.",
+      "내일 전화할게요"
+     ],
+     [
+      "ir a + 동사원형",
+      "Vamos a practicar el vocabulario.",
+      "어휘를 연습해 봐요"
+     ]
+    ]
+   },
+   "tip": "구어에서는 <b>ir a</b>가 가장 흔해요. Te llamaré는 약속(lo prometo)처럼 다짐할 때 잘 어울려요."
+  },
+  {
+   "title": "⑦ tener que / necesitar / querer + 동사원형",
+   "lead": "해야 하는 일·필요·바람은 <b>동사 하나 + 동사원형</b>으로 간단히 말할 수 있어요.",
+   "table": {
+    "head": [
+     "표현",
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "tener que + 원형",
+      "Tengo que enviar correos.",
+      "보내야 해요"
+     ],
+     [
+      "tener que + 원형",
+      "Tengo que preparar una presentación.",
+      "준비해야 해요"
+     ],
+     [
+      "necesitar + 원형",
+      "Necesito enviar mi currículum.",
+      "보내야 해요(필요)"
+     ],
+     [
+      "querer + 원형",
+      "Quiero mejorar mi español.",
+      "향상시키고 싶어요"
+     ]
+    ]
+   },
+   "tip": "tener que는 의무, necesitar는 필요, querer는 바람 — 뒤에는 항상 <b>동사원형</b>이에요."
+  }
+ ],
+ "phrases": [
+  [
+   "Estoy buscando un trabajo a tiempo completo.",
+   "저는 풀타임 일자리를 찾고 있어요."
+  ],
+  [
+   "Tengo una entrevista de trabajo mañana.",
+   "저는 내일 면접이 있어요."
+  ],
+  [
+   "¿A qué te dedicas?",
+   "무슨 일을 하세요?"
+  ],
+  [
+   "Necesito enviar mi currículum antes de las cinco.",
+   "5시 전에 이력서를 보내야 해요."
+  ],
+  [
+   "Quiero mejorar mi español para mi trabajo.",
+   "일 때문에 스페인어 실력을 키우고 싶어요."
+  ],
+  [
+   "¿Cuántos años de experiencia tienes?",
+   "경력이 몇 년이에요?"
+  ],
+  [
+   "Dámelo, por favor.",
+   "그거 나 줘, 제발."
+  ],
+  [
+   "Lo siento, no lo sabía.",
+   "미안해요, 몰랐어요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "buscar un trabajo",
+   "ko": "일자리를 구하다",
+   "ex": "Estoy buscando un trabajo a tiempo completo.",
+   "exKo": "저는 풀타임 일자리를 찾고 있어요."
+  },
+  {
+   "es": "a tiempo completo",
+   "ko": "풀타임으로",
+   "ex": "Busco un trabajo a tiempo completo.",
+   "exKo": "풀타임 일자리를 찾아요."
+  },
+  {
+   "es": "la entrevista de trabajo",
+   "ko": "면접",
+   "ex": "Tengo una entrevista de trabajo mañana.",
+   "exKo": "내일 면접이 있어요."
+  },
+  {
+   "es": "el jefe / la jefa",
+   "ko": "상사, 사장",
+   "ex": "Mi jefe me ha subido el sueldo.",
+   "exKo": "사장님이 월급을 올려 주셨어요."
+  },
+  {
+   "es": "el sueldo",
+   "ko": "월급",
+   "ex": "El sueldo es bueno.",
+   "exKo": "월급이 좋아요."
+  },
+  {
+   "es": "subir el sueldo",
+   "ko": "월급을 올리다",
+   "ex": "Me han subido el sueldo.",
+   "exKo": "월급이 올랐어요."
+  },
+  {
+   "es": "dedicarse a",
+   "ko": "~을 직업으로 하다",
+   "ex": "¿A qué te dedicas?",
+   "exKo": "무슨 일을 하세요?"
+  },
+  {
+   "es": "la empresa",
+   "ko": "회사",
+   "ex": "Trabajo en una empresa grande.",
+   "exKo": "큰 회사에서 일해요."
+  },
+  {
+   "es": "el ingeniero",
+   "ko": "엔지니어",
+   "ex": "Trabajo como ingeniero.",
+   "exKo": "엔지니어로 일해요."
+  },
+  {
+   "es": "el currículum",
+   "ko": "이력서",
+   "ex": "Necesito enviar mi currículum.",
+   "exKo": "이력서를 보내야 해요."
+  },
+  {
+   "es": "enviar",
+   "ko": "보내다",
+   "ex": "Tengo que enviar correos.",
+   "exKo": "메일을 보내야 해요."
+  },
+  {
+   "es": "el correo",
+   "ko": "이메일, 우편",
+   "ex": "Envío un correo a mi jefe.",
+   "exKo": "상사에게 메일을 보내요."
+  },
+  {
+   "es": "el horario",
+   "ko": "시간표, 근무 시간",
+   "ex": "El horario de trabajo es flexible.",
+   "exKo": "근무 시간이 유연해요."
+  },
+  {
+   "es": "flexible",
+   "ko": "유연한",
+   "ex": "Es un trabajo flexible.",
+   "exKo": "유연한 직업이에요."
+  },
+  {
+   "es": "estudiar medicina",
+   "ko": "의학을 공부하다",
+   "ex": "Estudié medicina en la universidad.",
+   "exKo": "대학에서 의학을 공부했어요."
+  },
+  {
+   "es": "la universidad",
+   "ko": "대학교",
+   "ex": "Estudié en la universidad.",
+   "exKo": "대학에서 공부했어요."
+  },
+  {
+   "es": "preparar",
+   "ko": "준비하다",
+   "ex": "Tengo que preparar una presentación.",
+   "exKo": "발표를 준비해야 해요."
+  },
+  {
+   "es": "la presentación",
+   "ko": "발표, 프레젠테이션",
+   "ex": "La presentación es mañana.",
+   "exKo": "발표는 내일이에요."
+  },
+  {
+   "es": "los compañeros de trabajo",
+   "ko": "직장 동료들",
+   "ex": "Mis compañeros de trabajo son amables.",
+   "exKo": "제 동료들은 친절해요."
+  },
+  {
+   "es": "amable",
+   "ko": "친절한",
+   "ex": "Mi jefa es muy amable.",
+   "exKo": "제 상사는 아주 친절해요."
+  },
+  {
+   "es": "mejorar",
+   "ko": "향상시키다",
+   "ex": "Quiero mejorar mi español.",
+   "exKo": "스페인어 실력을 키우고 싶어요."
+  },
+  {
+   "es": "la experiencia",
+   "ko": "경력, 경험",
+   "ex": "¿Cuántos años de experiencia tienes?",
+   "exKo": "경력이 몇 년이에요?"
+  },
+  {
+   "es": "desempleado",
+   "ko": "실직한",
+   "ex": "Estoy desempleado en este momento.",
+   "exKo": "지금 실직 상태예요."
+  },
+  {
+   "es": "el curso de informática",
+   "ko": "컴퓨터 과정",
+   "ex": "Hice un curso de informática.",
+   "exKo": "컴퓨터 과정을 들었어요."
+  },
+  {
+   "es": "el año pasado",
+   "ko": "작년",
+   "ex": "Lo hice el año pasado.",
+   "exKo": "작년에 했어요."
+  },
+  {
+   "es": "estresante",
+   "ko": "스트레스가 심한",
+   "ex": "Es un trabajo muy estresante.",
+   "exKo": "스트레스가 아주 심한 일이에요."
+  },
+  {
+   "es": "el pronombre",
+   "ko": "대명사",
+   "ex": "Practicamos los pronombres.",
+   "exKo": "대명사를 연습해요."
+  },
+  {
+   "es": "comprar",
+   "ko": "사다",
+   "ex": "La compré ayer.",
+   "exKo": "어제 그걸 샀어요."
+  },
+  {
+   "es": "ayer",
+   "ko": "어제",
+   "ex": "Se lo dije ayer.",
+   "exKo": "어제 말했어요."
+  },
+  {
+   "es": "la camisa",
+   "ko": "셔츠",
+   "ex": "Una camisa nueva.",
+   "exKo": "새 셔츠예요."
+  },
+  {
+   "es": "el parque",
+   "ko": "공원",
+   "ex": "Lo vi en el parque.",
+   "exKo": "공원에서 그를 봤어요."
+  },
+  {
+   "es": "escuchar",
+   "ko": "듣다",
+   "ex": "¿Me escuchas?",
+   "exKo": "내 말 들려요?"
+  },
+  {
+   "es": "querer (a alguien)",
+   "ko": "사랑하다, 좋아하다",
+   "ex": "Te quiero mucho.",
+   "exKo": "많이 사랑해요."
+  },
+  {
+   "es": "el regalo",
+   "ko": "선물",
+   "ex": "Le di el regalo a mi madre.",
+   "exKo": "어머니께 선물을 드렸어요."
+  },
+  {
+   "es": "encantar",
+   "ko": "아주 마음에 들다",
+   "ex": "Le encantó.",
+   "exKo": "그분이 무척 좋아하셨어요."
+  },
+  {
+   "es": "invitar",
+   "ko": "초대하다",
+   "ex": "Nos invitaron a la fiesta.",
+   "exKo": "우리는 파티에 초대받았어요."
+  },
+  {
+   "es": "la fiesta",
+   "ko": "파티",
+   "ex": "La fiesta es el sábado.",
+   "exKo": "파티는 토요일이에요."
+  },
+  {
+   "es": "bailar",
+   "ko": "춤추다",
+   "ex": "Vamos a bailar.",
+   "exKo": "춤추러 가요."
+  },
+  {
+   "es": "entender",
+   "ko": "이해하다",
+   "ex": "No lo entiendo.",
+   "exKo": "이해가 안 돼요."
+  },
+  {
+   "es": "complicado",
+   "ko": "복잡한",
+   "ex": "Es muy complicado.",
+   "exKo": "너무 복잡해요."
+  },
+  {
+   "es": "dar",
+   "ko": "주다",
+   "ex": "Dámelo, por favor.",
+   "exKo": "그것 좀 줘요."
+  },
+  {
+   "es": "decir",
+   "ko": "말하다",
+   "ex": "Se lo dije ayer.",
+   "exKo": "어제 그에게 말했어요."
+  },
+  {
+   "es": "el secreto",
+   "ko": "비밀",
+   "ex": "Es un secreto.",
+   "exKo": "비밀이에요."
+  },
+  {
+   "es": "la llave",
+   "ko": "열쇠",
+   "ex": "Mis llaves.",
+   "exKo": "제 열쇠요."
+  },
+  {
+   "es": "doler",
+   "ko": "아프다",
+   "ex": "Me duele la cabeza.",
+   "exKo": "머리가 아파요."
+  },
+  {
+   "es": "la cabeza",
+   "ko": "머리",
+   "ex": "Me duele la cabeza.",
+   "exKo": "머리가 아파요."
+  },
+  {
+   "es": "llamar",
+   "ko": "전화하다",
+   "ex": "Te llamaré mañana.",
+   "exKo": "내일 전화할게요."
+  },
+  {
+   "es": "prometer",
+   "ko": "약속하다",
+   "ex": "Lo prometo.",
+   "exKo": "약속해요."
+  },
+  {
+   "es": "la película",
+   "ko": "영화",
+   "ex": "Quiero ver la película.",
+   "exKo": "그 영화를 보고 싶어요."
+  },
+  {
+   "es": "no decir nada",
+   "ko": "아무 말도 하지 않다",
+   "ex": "No les digas nada.",
+   "exKo": "그들에게 아무 말도 하지 마."
+  },
+  {
+   "es": "sentir / lo siento",
+   "ko": "미안하다",
+   "ex": "Lo siento, no lo sabía.",
+   "exKo": "미안해요, 몰랐어요."
+  },
+  {
+   "es": "saber",
+   "ko": "알다",
+   "ex": "No lo sabía.",
+   "exKo": "몰랐어요."
+  },
+  {
+   "es": "conseguir un trabajo",
+   "ko": "일자리를 얻다",
+   "ex": "Voy a conseguir el trabajo.",
+   "exKo": "이 일자리를 따낼 거예요."
+  },
+  {
+   "es": "¡Mucha suerte!",
+   "ko": "행운을 빌어요!",
+   "ex": "Mucha suerte en tu entrevista.",
+   "exKo": "면접 행운을 빌어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué tipo de trabajo busca Mateo en la primera frase?",
+   "options": [
+    "Un trabajo a tiempo completo",
+    "Un trabajo de verano",
+    "Un trabajo en casa",
+    "Un trabajo sin horario"
+   ],
+   "answer": 0,
+   "explain": "\"Estoy buscando un trabajo a tiempo completo.\" — 풀타임 일자리를 찾고 있어요."
+  },
+  {
+   "q": "'Mi jefe me ha subido el sueldo'에서 'el sueldo'의 뜻은?",
+   "options": [
+    "휴가",
+    "월급",
+    "승진",
+    "명함"
+   ],
+   "answer": 1,
+   "explain": "el sueldo = 월급. subir el sueldo는 월급을 올려 주다예요."
+  },
+  {
+   "q": "Completa: «Necesito enviar mi ___ antes de las cinco.»",
+   "options": [
+    "currículum",
+    "medicina",
+    "presentación",
+    "horario"
+   ],
+   "answer": 0,
+   "explain": "이력서 = currículum. 소피아가 악센트(tilde)를 짚어 줘요."
+  },
+  {
+   "q": "'El horario de trabajo es flexible'에서 마테오의 반응은?",
+   "options": [
+    "No me gusta.",
+    "Me gusta.",
+    "Es difícil.",
+    "Qué nervios."
+   ],
+   "answer": 1,
+   "explain": "소피아가 문장을 읽은 뒤 마테오가 \"Me gusta.\"라고 해요."
+  },
+  {
+   "q": "Mateo는 대학에서 무엇을 공부했다고 하나요?",
+   "options": [
+    "Informática",
+    "Ingeniería",
+    "Medicina",
+    "Español"
+   ],
+   "answer": 2,
+   "explain": "\"Estudié medicina en la universidad.\" — 그래서 \"Soy doctor Mateo.\"라고 농담해요."
+  },
+  {
+   "q": "«La compré ayer.»에서 'la'가 가리키는 것은?",
+   "options": [
+    "una camisa(여성 명사)",
+    "un libro(남성 명사)",
+    "un parque",
+    "unas llaves"
+   ],
+   "answer": 0,
+   "explain": "la는 여성 단수를 받아요. 마테오가 \"Una camisa nueva.\"라고 덧붙여요."
+  },
+  {
+   "q": "«Le di el regalo a mi madre.»에서 'le'는 누구인가요?",
+   "options": [
+    "Mi madre",
+    "Yo",
+    "El regalo",
+    "Mateo"
+   ],
+   "answer": 0,
+   "explain": "le = a mi madre(어머니께). 간접목적격 대명사예요."
+  },
+  {
+   "q": "«Dámelo»를 풀어 쓰면?",
+   "options": [
+    "da + me + lo",
+    "dar + me + lo",
+    "di + me + lo",
+    "des + me + lo"
+   ],
+   "answer": 0,
+   "explain": "긍정 명령: da + me + lo → 붙여 쓰고 강세를 지키려 악센트를 찍어요."
+  },
+  {
+   "q": "'그에게 그걸 어제 말했어요'를 스페인어로?",
+   "options": [
+    "Le lo dije ayer.",
+    "Se lo dije ayer.",
+    "Lo se dije ayer.",
+    "Me lo dije ayer."
+   ],
+   "answer": 1,
+   "explain": "le/les + lo/la → se lo/se la. 'Le lo'는 쓰지 않아요."
+  },
+  {
+   "q": "«No les digas nada.»의 뜻은?",
+   "options": [
+    "그들에게 다 말해.",
+    "그들에게 아무 말도 하지 마.",
+    "그들에게 전화해.",
+    "그들을 초대해."
+   ],
+   "answer": 1,
+   "explain": "부정 명령(no digas) + 간접목적격 les. decir의 부정 명령형은 digas예요."
+  },
+  {
+   "q": "«Te llamaré mañana, lo prometo.»에서 'llamaré'의 시제는?",
+   "options": [
+    "현재",
+    "단순과거",
+    "단순미래",
+    "접속법"
+   ],
+   "answer": 2,
+   "explain": "-é로 끝나는 llamaré는 단순미래(llamar → llamaré)예요."
+  },
+  {
+   "q": "연습이 끝난 뒤 소피아가 마테오에게 한 말은?",
+   "options": [
+    "Excelente trabajo, Mateo.",
+    "Mucha suerte en el examen.",
+    "Tienes que descansar.",
+    "Llegas tarde."
+   ],
+   "answer": 0,
+   "explain": "\"Excelente trabajo, Mateo. ¿Ya estás listo para tu entrevista?\" 하고 칭찬하며 면접 준비를 물어요."
+  }
+ ]
+}
