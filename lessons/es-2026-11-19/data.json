@@ -1,0 +1,1528 @@
+{
+ "id": "es-2026-11-19",
+ "lang": "es",
+ "date": "2026-11-19",
+ "title": "쉐도잉 — 아플 때 말하기와 현재완료",
+ "es": "No me encuentro bien hoy.",
+ "emoji": "🤒",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "Learn Spanish Quickly with Shadowing (A2) | Learn Spanish with Podcast | episode 27",
+ "youtube": "rrR5aX7cYDw",
+ "duration": "18:43",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "감기에 걸려 드라마틱하게 앓는 마테오와 함께, 소피아가 아플 때 쓰는 말 15문장, 약속 잡기·거절 10문장, 현재완료(pretérito perfecto) 15문장을 하나씩 쉐도잉으로 연습시켜 줘요. 문장마다 천천히 → 음절별 → 보통 속도로 따라 말할 수 있고, 마테오의 농담(Demasiados tacos, Un Ferrari seguro…)이 재미를 더해요.",
+ "topics": [
+  "증상 말하기: tener fiebre · me duele · estoy mareado",
+  "병원·약국: pedir cita · algo para el dolor",
+  "약속 잡기: ¿Te apetece…? · quedamos a las siete",
+  "거절과 이유: no puedo ir · tengo que estudiar",
+  "현재완료: he desayunado · has visto · hemos visitado",
+  "경험 묻기: ¿alguna vez has…? · nunca he…"
+ ],
+ "grammar": [
+  {
+   "title": "① 현재완료 pretérito perfecto = haber + 과거분사",
+   "lead": "<b>haber</b>(현재형) + <b>과거분사</b>로 만들어요. 오늘·이번 주처럼 <b>지금과 이어지는 가까운 과거</b>를 말할 때 써요.",
+   "table": {
+    "head": [
+     "주어",
+     "haber",
+     "예문"
+    ],
+    "rows": [
+     [
+      "yo",
+      "he",
+      "Hoy he desayunado café."
+     ],
+     [
+      "tú",
+      "has",
+      "¿Has hablado con Juan?"
+     ],
+     [
+      "él/ella",
+      "ha",
+      "Ella ha comprado un coche."
+     ],
+     [
+      "nosotros",
+      "hemos",
+      "Hemos visitado el Prado."
+     ],
+     [
+      "ellos",
+      "han",
+      "Mis padres han venido."
+     ]
+    ]
+   },
+   "tip": "haber 뒤의 과거분사는 <b>성·수가 변하지 않아요</b>: he comprado, ha comprado (○) / ha comprada (✕)."
+  },
+  {
+   "title": "② 과거분사 만들기 -ar → -ado, -er/-ir → -ido",
+   "lead": "동사 어미를 떼고 <b>-ar는 -ado, -er/-ir는 -ido</b>를 붙여요.",
+   "table": {
+    "head": [
+     "원형",
+     "과거분사",
+     "예문"
+    ],
+    "rows": [
+     [
+      "desayunar",
+      "desayunado",
+      "He desayunado café con leche."
+     ],
+     [
+      "comer",
+      "comido",
+      "Nunca he comido sushi."
+     ],
+     [
+      "leer",
+      "leído",
+      "He leído un libro."
+     ],
+     [
+      "venir",
+      "venido",
+      "Han venido de visita."
+     ]
+    ]
+   },
+   "tip": "leer처럼 모음 뒤에 오는 -ido는 악센트가 붙어요: <b>leído</b>, creído, oído."
+  },
+  {
+   "title": "③ 불규칙 과거분사 hecho · dicho · visto",
+   "lead": "자주 쓰는 동사는 모양이 달라요. 통째로 외워 두면 편해요.",
+   "table": {
+    "head": [
+     "원형",
+     "과거분사",
+     "예문"
+    ],
+    "rows": [
+     [
+      "hacer",
+      "hecho",
+      "¿Qué has hecho hoy?"
+     ],
+     [
+      "decir",
+      "dicho",
+      "¿Qué ha dicho?"
+     ],
+     [
+      "ver",
+      "visto",
+      "¿Has visto la película?"
+     ],
+     [
+      "volver",
+      "vuelto",
+      "He vuelto pronto."
+     ],
+     [
+      "escribir",
+      "escrito",
+      "He escrito un correo."
+     ]
+    ]
+   },
+   "tip": "hacer → hecho, decir → dicho, ver → visto 세 개만 먼저 입에 붙이세요."
+  },
+  {
+   "title": "④ 현재완료와 함께 쓰는 말 — nunca, todavía no, ya, alguna vez",
+   "lead": "<b>부정어·부사는 haber 앞</b>에 놓고, 과거분사는 haber에 붙여 두어요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "nunca he…",
+      "한 번도 ~한 적 없다",
+      "Nunca he comido sushi."
+     ],
+     [
+      "todavía no he…",
+      "아직 ~하지 않았다",
+      "Todavía no he terminado."
+     ],
+     [
+      "ya hemos…",
+      "이미 ~했다",
+      "Ya hemos cenado."
+     ],
+     [
+      "¿alguna vez has…?",
+      "~해 본 적 있어요?",
+      "¿Alguna vez has estado en España?"
+     ]
+    ]
+   },
+   "tip": "No he terminado처럼 부정은 <b>no + haber + 과거분사</b>예요. 사이에 다른 말을 끼우지 않아요."
+  },
+  {
+   "title": "⑤ 아플 때 쓰는 표현 — tener / doler / estar",
+   "lead": "증상은 <b>tener + 명사</b>, 아픈 부위는 <b>doler</b>(me duele + 단수 / me duelen + 복수), 상태는 <b>estar</b>로 말해요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "tener fiebre / tos / gripe",
+      "열·기침·독감이 있다",
+      "Tengo fiebre y tos."
+     ],
+     [
+      "me duele + 단수",
+      "~이/가 아프다",
+      "Me duele la espalda."
+     ],
+     [
+      "me duelen + 복수",
+      "~들이 아프다",
+      "Me duelen los pies."
+     ],
+     [
+      "estar mareado",
+      "어지럽다",
+      "Estoy mareado."
+     ]
+    ]
+   },
+   "tip": "doler는 gustar처럼 <b>아픈 부위가 주어</b>예요. 머리가 하나면 me duele, 발이 둘이면 me duelen."
+  },
+  {
+   "title": "⑥ 가까운 미래 ir a + 동사원형과 약속 표현",
+   "lead": "<b>ir a + 동사원형</b>은 곧 할 일·계획을 말해요. 약속을 제안할 땐 <b>¿Te apetece…?</b>, 약속을 정할 땐 <b>quedar</b>를 써요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "voy a + inf.",
+      "~할 거예요",
+      "Voy a visitar a mis padres."
+     ],
+     [
+      "¿Te apetece + inf.?",
+      "~하고 싶어요?",
+      "¿Te apetece ir al cine?"
+     ],
+     [
+      "quedamos a las…",
+      "~시에 만나요",
+      "Quedamos a las siete en la plaza."
+     ],
+     [
+      "¿Qué vas a hacer…?",
+      "뭐 할 거예요?",
+      "¿Qué vas a hacer este fin de semana?"
+     ]
+    ]
+   },
+   "tip": "<b>Nos vemos</b>(우리 만나요/또 봐요)와 <b>Quedamos</b>(만나기로 해요)는 헤어질 때·약속 정할 때 자주 쓰는 한 쌍이에요."
+  },
+  {
+   "title": "⑦ 의무·조언·바람 — tener que / deber / espero que",
+   "lead": "<b>tener que + 동사원형</b>은 해야 하는 일, <b>deber</b>는 조언, <b>Espero que + 접속법</b>은 바람을 나타내요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "tengo que + inf.",
+      "~해야 해요",
+      "Tengo que estudiar para un examen."
+     ],
+     [
+      "debes + inf.",
+      "~하는 게 좋아요",
+      "Debes descansar unos días."
+     ],
+     [
+      "es importante + inf.",
+      "~하는 게 중요해요",
+      "Es importante beber mucha agua."
+     ],
+     [
+      "espero que + 접속법",
+      "~하기를 바라요",
+      "Espero que te mejores pronto."
+     ]
+    ]
+   },
+   "tip": "<b>Espero que te mejores</b>의 mejores는 접속법이에요. 사람을 격려하는 인사말이니 통째로 외우면 돼요."
+  }
+ ],
+ "phrases": [
+  {
+   "es": "No me encuentro bien.",
+   "ko": "몸이 안 좋아요.",
+   "ex": "No me encuentro bien hoy.",
+   "exKo": "오늘은 몸이 안 좋아요."
+  },
+  {
+   "es": "Necesito pedir cita con el médico.",
+   "ko": "병원 예약을 해야 해요.",
+   "ex": "Necesito pedir cita con el médico.",
+   "exKo": "병원 진료 예약을 해야 해요."
+  },
+  {
+   "es": "¿Tiene algo para…?",
+   "ko": "~에 먹을 것(약) 있나요?",
+   "ex": "¿Tiene algo para el dolor de cabeza?",
+   "exKo": "두통에 먹을 약 있나요?"
+  },
+  {
+   "es": "Espero que te mejores pronto.",
+   "ko": "빨리 나으세요.",
+   "ex": "Espero que te mejores pronto.",
+   "exKo": "빨리 나으면 좋겠어요."
+  },
+  {
+   "es": "¿Te apetece…?",
+   "ko": "~하고 싶어요?",
+   "ex": "¿Te apetece ir al cine?",
+   "exKo": "영화 보러 갈래요?"
+  },
+  {
+   "es": "Quedamos a las siete.",
+   "ko": "7시에 만나요.",
+   "ex": "Quedamos a las siete en la plaza.",
+   "exKo": "7시에 광장에서 만나요."
+  },
+  {
+   "es": "Lo siento, no puedo ir.",
+   "ko": "미안해요, 못 가요.",
+   "ex": "Lo siento, no puedo ir.",
+   "exKo": "미안해요, 못 가요."
+  },
+  {
+   "es": "Nos vemos entonces.",
+   "ko": "그럼 그때 봐요.",
+   "ex": "Nos vemos entonces.",
+   "exKo": "그럼 그때 봐요."
+  }
+ ],
+ "vocab": [
+  {
+   "es": "la fiebre",
+   "ko": "열",
+   "ex": "Tengo fiebre y tos.",
+   "exKo": "열이 나고 기침이 나요."
+  },
+  {
+   "es": "la tos",
+   "ko": "기침",
+   "ex": "Tengo fiebre y tos.",
+   "exKo": "열이 나고 기침이 나요."
+  },
+  {
+   "es": "la espalda",
+   "ko": "등·허리",
+   "ex": "Me duele la espalda.",
+   "exKo": "허리가 아파요."
+  },
+  {
+   "es": "la gripe",
+   "ko": "독감",
+   "ex": "Creo que tengo gripe.",
+   "exKo": "독감에 걸린 것 같아요."
+  },
+  {
+   "es": "el resfriado",
+   "ko": "감기",
+   "ex": "Solo es un resfriado.",
+   "exKo": "그냥 감기야."
+  },
+  {
+   "es": "el médico",
+   "ko": "의사",
+   "ex": "Necesito pedir cita con el médico.",
+   "exKo": "병원 진료 예약을 해야 해요."
+  },
+  {
+   "es": "la cita",
+   "ko": "예약·약속",
+   "ex": "Necesito pedir cita con el médico.",
+   "exKo": "병원 예약을 해야 해요."
+  },
+  {
+   "es": "el tobillo",
+   "ko": "발목",
+   "ex": "Me torcí el tobillo.",
+   "exKo": "발목을 삐었어요."
+  },
+  {
+   "es": "torcerse",
+   "ko": "(발목 등을) 삐다",
+   "ex": "Me torcí el tobillo.",
+   "exKo": "발목을 삐었어요."
+  },
+  {
+   "es": "el dolor",
+   "ko": "통증",
+   "ex": "Tengo dolor de estómago.",
+   "exKo": "배가 아파요."
+  },
+  {
+   "es": "el estómago",
+   "ko": "위·배",
+   "ex": "Tengo dolor de estómago.",
+   "exKo": "배가 아파요."
+  },
+  {
+   "es": "mareado",
+   "ko": "어지러운",
+   "ex": "Estoy mareado.",
+   "exKo": "어지러워요."
+  },
+  {
+   "es": "el dolor de cabeza",
+   "ko": "두통",
+   "ex": "¿Tiene algo para el dolor de cabeza?",
+   "exKo": "두통에 먹을 약 있나요?"
+  },
+  {
+   "es": "descansar",
+   "ko": "쉬다",
+   "ex": "Debes descansar unos días.",
+   "exKo": "며칠 쉬어야 해요."
+  },
+  {
+   "es": "la alergia",
+   "ko": "알레르기",
+   "ex": "Tengo una alergia.",
+   "exKo": "알레르기가 있어요."
+  },
+  {
+   "es": "quemarse",
+   "ko": "데다",
+   "ex": "Me quemé la mano cocinando.",
+   "exKo": "요리하다가 손을 데었어요."
+  },
+  {
+   "es": "la mano",
+   "ko": "손",
+   "ex": "Me quemé la mano cocinando.",
+   "exKo": "요리하다가 손을 데었어요."
+  },
+  {
+   "es": "cocinar",
+   "ko": "요리하다",
+   "ex": "Me quemé la mano cocinando.",
+   "exKo": "요리하다가 손을 데었어요."
+  },
+  {
+   "es": "la farmacia",
+   "ko": "약국",
+   "ex": "Voy a la farmacia.",
+   "exKo": "약국에 갈 거예요."
+  },
+  {
+   "es": "mejorarse",
+   "ko": "나아지다",
+   "ex": "Espero que te mejores pronto.",
+   "exKo": "빨리 나으면 좋겠어요."
+  },
+  {
+   "es": "beber",
+   "ko": "마시다",
+   "ex": "Es importante beber mucha agua.",
+   "exKo": "물을 많이 마시는 게 중요해요."
+  },
+  {
+   "es": "el agua",
+   "ko": "물",
+   "ex": "Es importante beber mucha agua.",
+   "exKo": "물을 많이 마시는 게 중요해요."
+  },
+  {
+   "es": "el cine",
+   "ko": "영화관",
+   "ex": "¿Te apetece ir al cine?",
+   "exKo": "영화 보러 갈래요?"
+  },
+  {
+   "es": "las palomitas",
+   "ko": "팝콘",
+   "ex": "Hay palomitas.",
+   "exKo": "팝콘도 있어."
+  },
+  {
+   "es": "quedar",
+   "ko": "만나기로 하다",
+   "ex": "Quedamos a las siete en la plaza.",
+   "exKo": "7시에 광장에서 만나요."
+  },
+  {
+   "es": "la plaza",
+   "ko": "광장",
+   "ex": "Quedamos a las siete en la plaza.",
+   "exKo": "7시에 광장에서 만나요."
+  },
+  {
+   "es": "llegar tarde",
+   "ko": "늦게 도착하다",
+   "ex": "No llegues tarde.",
+   "exKo": "늦지 마요."
+  },
+  {
+   "es": "el examen",
+   "ko": "시험",
+   "ex": "Tengo que estudiar para un examen.",
+   "exKo": "시험공부를 해야 해요."
+  },
+  {
+   "es": "estudiar",
+   "ko": "공부하다",
+   "ex": "Tengo que estudiar para un examen.",
+   "exKo": "시험공부를 해야 해요."
+  },
+  {
+   "es": "el fin de semana",
+   "ko": "주말",
+   "ex": "¿Qué vas a hacer este fin de semana?",
+   "exKo": "이번 주말에 뭐 할 거예요?"
+  },
+  {
+   "es": "cenar",
+   "ko": "저녁 먹다",
+   "ex": "Podemos cenar juntos mañana.",
+   "exKo": "내일 같이 저녁 먹을 수 있어요."
+  },
+  {
+   "es": "juntos",
+   "ko": "함께",
+   "ex": "Podemos cenar juntos mañana.",
+   "exKo": "내일 같이 저녁 먹을 수 있어요."
+  },
+  {
+   "es": "visitar",
+   "ko": "방문하다",
+   "ex": "Voy a visitar a mis padres.",
+   "exKo": "부모님을 뵈러 갈 거예요."
+  },
+  {
+   "es": "los padres",
+   "ko": "부모님",
+   "ex": "Mis padres han venido de visita.",
+   "exKo": "부모님이 방문하러 오셨어요."
+  },
+  {
+   "es": "simpático",
+   "ko": "친절한·호감 가는",
+   "ex": "Son muy simpáticos.",
+   "exKo": "아주 친절한 분들이야."
+  },
+  {
+   "es": "invitar",
+   "ko": "초대하다·대접하다",
+   "ex": "Te invito a un café.",
+   "exKo": "커피 한잔 살게요."
+  },
+  {
+   "es": "pagar",
+   "ko": "지불하다",
+   "ex": "Yo pago.",
+   "exKo": "내가 낼게."
+  },
+  {
+   "es": "libre",
+   "ko": "한가한",
+   "ex": "¿Estás libre el sábado?",
+   "exKo": "토요일에 시간 돼요?"
+  },
+  {
+   "es": "desayunar",
+   "ko": "아침을 먹다",
+   "ex": "Hoy he desayunado café con leche.",
+   "exKo": "오늘 아침으로 카페 콘 레체를 마셨어요."
+  },
+  {
+   "es": "el café con leche",
+   "ko": "우유 탄 커피",
+   "ex": "Hoy he desayunado café con leche.",
+   "exKo": "오늘 아침으로 카페 콘 레체를 마셨어요."
+  },
+  {
+   "es": "el churro",
+   "ko": "추로스",
+   "ex": "Hoy he desayunado café con leche y churros.",
+   "exKo": "오늘 카페 콘 레체와 추로스를 먹었어요."
+  },
+  {
+   "es": "el sueño",
+   "ko": "꿈",
+   "ex": "Es mi sueño.",
+   "exKo": "내 꿈이야."
+  },
+  {
+   "es": "las vacaciones",
+   "ko": "휴가",
+   "ex": "Necesito vacaciones.",
+   "exKo": "휴가가 필요해."
+  },
+  {
+   "es": "los deberes",
+   "ko": "숙제",
+   "ex": "Todavía no he terminado mis deberes.",
+   "exKo": "아직 숙제를 다 못 끝냈어요."
+  },
+  {
+   "es": "terminar",
+   "ko": "끝내다",
+   "ex": "Todavía no he terminado mis deberes.",
+   "exKo": "아직 숙제를 다 못 끝냈어요."
+  },
+  {
+   "es": "el museo",
+   "ko": "박물관",
+   "ex": "Hemos visitado el Museo del Prado.",
+   "exKo": "우리는 프라도 미술관에 가 봤어요."
+  },
+  {
+   "es": "la película",
+   "ko": "영화",
+   "ex": "¿Has visto la nueva película de Almodóvar?",
+   "exKo": "알모도바르의 새 영화 봤어요?"
+  },
+  {
+   "es": "la cartera",
+   "ko": "지갑",
+   "ex": "He perdido mi cartera.",
+   "exKo": "지갑을 잃어버렸어요."
+  },
+  {
+   "es": "el dinero",
+   "ko": "돈",
+   "ex": "Mi dinero.",
+   "exKo": "내 돈!"
+  },
+  {
+   "es": "el piano",
+   "ko": "피아노",
+   "ex": "Siempre he querido aprender a tocar el piano.",
+   "exKo": "저는 늘 피아노를 배우고 싶었어요."
+  },
+  {
+   "es": "culto",
+   "ko": "교양 있는",
+   "ex": "Soy muy culto.",
+   "exKo": "난 교양이 넘치지."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué le pasa a Mateo al principio del episodio?",
+   "options": [
+    "Tiene un resfriado",
+    "Perdió su cartera",
+    "Tiene un examen",
+    "Se quemó la mano"
+   ],
+   "answer": 0,
+   "explain": "Sofía dice \"Solo es un resfriado.\" — 마테오는 감기에 걸렸어요."
+  },
+  {
+   "q": "¿Qué le duele a Mateo en la frase tres?",
+   "options": [
+    "La cabeza",
+    "La espalda",
+    "El estómago",
+    "El tobillo"
+   ],
+   "answer": 1,
+   "explain": "\"Me duele la espalda.\" — 허리(등)가 아파요."
+  },
+  {
+   "q": "¿Qué se torció Mateo?",
+   "options": [
+    "La mano",
+    "La pierna",
+    "El tobillo",
+    "El brazo"
+   ],
+   "answer": 2,
+   "explain": "\"Me torcí el tobillo.\" — 발목을 삐었어요."
+  },
+  {
+   "q": "¿Cómo se dice \"두통에 먹을 약 있나요?\"",
+   "options": [
+    "¿Tiene algo para el dolor de cabeza?",
+    "¿Tiene fiebre en la cabeza?",
+    "¿Duele la cabeza hoy?",
+    "¿Hay un médico para la cabeza?"
+   ],
+   "answer": 0,
+   "explain": "¿Tiene algo para + 증상? 은 약국에서 쓰는 표현이에요."
+  },
+  {
+   "q": "¿Qué debe hacer la persona en la frase diez?",
+   "options": [
+    "Correr mucho",
+    "Descansar unos días",
+    "Estudiar más",
+    "Ir al cine"
+   ],
+   "answer": 1,
+   "explain": "\"Debes descansar unos días.\" — 며칠 쉬어야 해요."
+  },
+  {
+   "q": "Completa: \"Espero que te ___ pronto.\"",
+   "options": [
+    "mejoras",
+    "mejores",
+    "mejorar",
+    "mejorado"
+   ],
+   "answer": 1,
+   "explain": "Espero que 뒤에는 접속법 mejores를 써요."
+  },
+  {
+   "q": "¿Dónde quedan a las siete?",
+   "options": [
+    "En el cine",
+    "En la plaza",
+    "En casa",
+    "En el museo"
+   ],
+   "answer": 1,
+   "explain": "\"Quedamos a las siete en la plaza.\""
+  },
+  {
+   "q": "¿Por qué no puede ir la persona en la frase dieciocho?",
+   "options": [
+    "Está enferma",
+    "Tiene fútbol",
+    "Va a la farmacia",
+    "No tiene dinero"
+   ],
+   "answer": 1,
+   "explain": "Lo siento, no puedo ir. 다음에 마테오가 \"Tengo fútbol.\"이라고 해요."
+  },
+  {
+   "q": "Completa: \"Hoy ___ desayunado café con leche.\"",
+   "options": [
+    "he",
+    "soy",
+    "tengo",
+    "voy"
+   ],
+   "answer": 0,
+   "explain": "현재완료는 haber + 과거분사: he desayunado."
+  },
+  {
+   "q": "¿Cuál es el participio de \"hacer\"?",
+   "options": [
+    "hacido",
+    "hecho",
+    "hacado",
+    "hagido"
+   ],
+   "answer": 1,
+   "explain": "hacer → hecho (불규칙 과거분사)."
+  },
+  {
+   "q": "\"Nunca he comido sushi\" significa…",
+   "options": [
+    "저는 스시를 자주 먹어요",
+    "저는 스시를 먹어 본 적이 없어요",
+    "저는 스시를 먹을 거예요",
+    "저는 스시를 요리해요"
+   ],
+   "answer": 1,
+   "explain": "nunca he + 과거분사 = 한 번도 ~한 적 없다."
+  },
+  {
+   "q": "¿Qué ha perdido en la frase treinta y seis?",
+   "options": [
+    "Su móvil",
+    "Su cartera",
+    "Su coche",
+    "Sus llaves"
+   ],
+   "answer": 1,
+   "explain": "\"He perdido mi cartera, no la encuentro.\""
+  }
+ ],
+ "sections": [
+  {
+   "title": "대화 시작 — 감기에 걸린 마테오",
+   "lines": [
+    {
+     "t": 0.3,
+     "s": "S",
+     "es": "Bienvenido a Easy Spanish Podcast.",
+     "ko": "이지 스패니시 팟캐스트에 오신 걸 환영해요."
+    },
+    {
+     "t": 3.0,
+     "s": "M",
+     "es": "Ay, Sofía, me muero. Adiós, mundo cruel.",
+     "ko": "아, 소피아, 나 죽겠어. 안녕, 잔인한 세상아."
+    },
+    {
+     "t": 11.0,
+     "s": "S",
+     "es": "Mateo, no seas dramático. Solo es un resfriado.",
+     "ko": "마테오, 오버하지 마. 그냥 감기야."
+    },
+    {
+     "t": 16.0,
+     "s": "S",
+     "es": "Hoy vamos a aprender a hablar de salud, hacer planes y usar el pretérito perfecto. El pasado.",
+     "ko": "오늘은 건강 이야기, 약속 잡기, 그리고 현재완료(pretérito perfecto)를 배울 거예요. 과거 말이에요."
+    },
+    {
+     "t": 26.0,
+     "s": "M",
+     "es": "Me encanta el pasado.",
+     "ko": "난 과거가 좋아."
+    },
+    {
+     "t": 28.5,
+     "s": "S",
+     "es": "Empezamos.",
+     "ko": "시작해요."
+    }
+   ]
+  },
+  {
+   "title": "쉐도잉 1~15 — 아플 때 쓰는 말",
+   "lines": [
+    {
+     "t": 30.0,
+     "s": "S",
+     "es": "Frase uno.",
+     "ko": "문장 1."
+    },
+    {
+     "t": 32.0,
+     "s": "S",
+     "es": "No me encuentro bien hoy.",
+     "ko": "오늘은 몸이 안 좋아요."
+    },
+    {
+     "t": 47.0,
+     "s": "S",
+     "es": "Frase dos.",
+     "ko": "문장 2."
+    },
+    {
+     "t": 50.6,
+     "s": "S",
+     "es": "Tengo fiebre y tos.",
+     "ko": "열이 나고 기침이 나요."
+    },
+    {
+     "t": 69.5,
+     "s": "S",
+     "es": "Frase tres.",
+     "ko": "문장 3."
+    },
+    {
+     "t": 71.5,
+     "s": "S",
+     "es": "Me duele la espalda.",
+     "ko": "허리(등)가 아파요."
+    },
+    {
+     "t": 87.5,
+     "s": "M",
+     "es": "Ay, mi espalda.",
+     "ko": "아, 내 허리."
+    },
+    {
+     "t": 90.0,
+     "s": "S",
+     "es": "Frase cuatro.",
+     "ko": "문장 4."
+    },
+    {
+     "t": 91.5,
+     "s": "S",
+     "es": "Creo que tengo gripe.",
+     "ko": "독감에 걸린 것 같아요."
+    },
+    {
+     "t": 110.5,
+     "s": "M",
+     "es": "Es grave.",
+     "ko": "심각해."
+    },
+    {
+     "t": 113.0,
+     "s": "S",
+     "es": "Frase cinco.",
+     "ko": "문장 5."
+    },
+    {
+     "t": 114.5,
+     "s": "S",
+     "es": "Necesito pedir cita con el médico.",
+     "ko": "병원 진료 예약을 해야 해요."
+    },
+    {
+     "t": 130.0,
+     "s": "S",
+     "es": "Ahora, frase seis.",
+     "ko": "이제 문장 6."
+    },
+    {
+     "t": 132.5,
+     "s": "S",
+     "es": "Me torcí el tobillo.",
+     "ko": "발목을 삐었어요."
+    },
+    {
+     "t": 150.0,
+     "s": "M",
+     "es": "Auch.",
+     "ko": "아야."
+    },
+    {
+     "t": 152.0,
+     "s": "S",
+     "es": "Frase siete.",
+     "ko": "문장 7."
+    },
+    {
+     "t": 154.0,
+     "s": "S",
+     "es": "Tengo dolor de estómago.",
+     "ko": "배가 아파요."
+    },
+    {
+     "t": 172.0,
+     "s": "M",
+     "es": "Demasiados tacos.",
+     "ko": "타코를 너무 많이 먹었어."
+    },
+    {
+     "t": 174.0,
+     "s": "S",
+     "es": "Frase ocho.",
+     "ko": "문장 8."
+    },
+    {
+     "t": 183.0,
+     "s": "S",
+     "es": "Estoy mareado.",
+     "ko": "어지러워요."
+    },
+    {
+     "t": 192.0,
+     "s": "M",
+     "es": "Todo gira.",
+     "ko": "다 빙빙 돌아."
+    },
+    {
+     "t": 195.0,
+     "s": "S",
+     "es": "Frase nueve.",
+     "ko": "문장 9."
+    },
+    {
+     "t": 216.4,
+     "s": "S",
+     "es": "¿Tiene algo para el dolor de cabeza?",
+     "ko": "두통에 먹을 약 있나요?"
+    },
+    {
+     "t": 229.0,
+     "s": "M",
+     "es": "Por favor.",
+     "ko": "부탁드려요."
+    },
+    {
+     "t": 231.5,
+     "s": "S",
+     "es": "Frase diez.",
+     "ko": "문장 10."
+    },
+    {
+     "t": 238.0,
+     "s": "S",
+     "es": "Debes descansar unos días.",
+     "ko": "며칠 쉬어야 해요."
+    },
+    {
+     "t": 253.0,
+     "s": "S",
+     "es": "Frase once.",
+     "ko": "문장 11."
+    },
+    {
+     "t": 267.5,
+     "s": "S",
+     "es": "Tengo una alergia.",
+     "ko": "알레르기가 있어요."
+    },
+    {
+     "t": 272.8,
+     "s": "M",
+     "es": "Achís.",
+     "ko": "에취."
+    },
+    {
+     "t": 277.0,
+     "s": "S",
+     "es": "Frase doce.",
+     "ko": "문장 12."
+    },
+    {
+     "t": 286.0,
+     "s": "S",
+     "es": "Me quemé la mano cocinando.",
+     "ko": "요리하다가 손을 데었어요."
+    },
+    {
+     "t": 303.0,
+     "s": "M",
+     "es": "Quema.",
+     "ko": "뜨거워."
+    },
+    {
+     "t": 305.0,
+     "s": "S",
+     "es": "Frase trece.",
+     "ko": "문장 13."
+    },
+    {
+     "t": 307.0,
+     "s": "S",
+     "es": "Voy a la farmacia.",
+     "ko": "약국에 갈 거예요."
+    },
+    {
+     "t": 326.0,
+     "s": "M",
+     "es": "Vuelvo pronto.",
+     "ko": "금방 올게."
+    },
+    {
+     "t": 328.5,
+     "s": "S",
+     "es": "Frase catorce.",
+     "ko": "문장 14."
+    },
+    {
+     "t": 339.0,
+     "s": "S",
+     "es": "Es importante beber mucha agua.",
+     "ko": "물을 많이 마시는 게 중요해요."
+    },
+    {
+     "t": 354.0,
+     "s": "S",
+     "es": "Frase quince.",
+     "ko": "문장 15."
+    },
+    {
+     "t": 363.0,
+     "s": "S",
+     "es": "Espero que te mejores pronto.",
+     "ko": "빨리 나으면 좋겠어요."
+    }
+   ]
+  },
+  {
+   "title": "쉐도잉 16~25 — 약속 잡기와 거절",
+   "lines": [
+    {
+     "t": 379.0,
+     "s": "M",
+     "es": "Hola, Sofía. ¿Ya estoy bien? ¿Hacemos planes?",
+     "ko": "안녕, 소피아. 나 이제 괜찮지? 우리 약속 잡을까?"
+    },
+    {
+     "t": 383.0,
+     "s": "S",
+     "es": "Claro que sí. Vamos a practicar.",
+     "ko": "물론이죠. 연습해 봐요."
+    },
+    {
+     "t": 386.0,
+     "s": "S",
+     "es": "Frase dieciséis.",
+     "ko": "문장 16."
+    },
+    {
+     "t": 402.0,
+     "s": "S",
+     "es": "¿Te apetece ir al cine?",
+     "ko": "영화 보러 갈래요?"
+    },
+    {
+     "t": 418.0,
+     "s": "M",
+     "es": "Hay palomitas.",
+     "ko": "팝콘도 있어."
+    },
+    {
+     "t": 419.5,
+     "s": "S",
+     "es": "Frase diecisiete.",
+     "ko": "문장 17."
+    },
+    {
+     "t": 431.0,
+     "s": "S",
+     "es": "Quedamos a las siete en la plaza.",
+     "ko": "7시에 광장에서 만나요."
+    },
+    {
+     "t": 444.5,
+     "s": "S",
+     "es": "No llegues tarde.",
+     "ko": "늦지 마요."
+    },
+    {
+     "t": 447.0,
+     "s": "S",
+     "es": "Frase dieciocho.",
+     "ko": "문장 18."
+    },
+    {
+     "t": 461.0,
+     "s": "S",
+     "es": "Lo siento, no puedo ir.",
+     "ko": "미안해요, 못 가요."
+    },
+    {
+     "t": 470.5,
+     "s": "M",
+     "es": "Tengo fútbol.",
+     "ko": "축구가 있어."
+    },
+    {
+     "t": 474.0,
+     "s": "S",
+     "es": "Frase diecinueve.",
+     "ko": "문장 19."
+    },
+    {
+     "t": 490.0,
+     "s": "S",
+     "es": "Tengo que estudiar para un examen.",
+     "ko": "시험공부를 해야 해요."
+    },
+    {
+     "t": 511.0,
+     "s": "M",
+     "es": "Es difícil.",
+     "ko": "어려워."
+    },
+    {
+     "t": 513.0,
+     "s": "S",
+     "es": "Frase veinte.",
+     "ko": "문장 20."
+    },
+    {
+     "t": 515.5,
+     "s": "S",
+     "es": "¿Qué vas a hacer este fin de semana?",
+     "ko": "이번 주말에 뭐 할 거예요?"
+    },
+    {
+     "t": 537.5,
+     "s": "M",
+     "es": "Fiesta.",
+     "ko": "파티!"
+    },
+    {
+     "t": 539.5,
+     "s": "S",
+     "es": "Frase veintiuno.",
+     "ko": "문장 21."
+    },
+    {
+     "t": 553.0,
+     "s": "S",
+     "es": "Podemos cenar juntos mañana.",
+     "ko": "내일 같이 저녁 먹을 수 있어요."
+    },
+    {
+     "t": 571.5,
+     "s": "S",
+     "es": "Frase veintidós.",
+     "ko": "문장 22."
+    },
+    {
+     "t": 575.0,
+     "s": "S",
+     "es": "Voy a visitar a mis padres.",
+     "ko": "부모님을 뵈러 갈 거예요."
+    },
+    {
+     "t": 597.0,
+     "s": "M",
+     "es": "Son muy simpáticos.",
+     "ko": "아주 친절한 분들이야."
+    },
+    {
+     "t": 600.0,
+     "s": "S",
+     "es": "Frase veintitrés.",
+     "ko": "문장 23."
+    },
+    {
+     "t": 609.0,
+     "s": "S",
+     "es": "Te invito a un café.",
+     "ko": "커피 한잔 살게요."
+    },
+    {
+     "t": 625.0,
+     "s": "M",
+     "es": "Yo pago.",
+     "ko": "내가 낼게."
+    },
+    {
+     "t": 627.0,
+     "s": "S",
+     "es": "Frase veinticuatro.",
+     "ko": "문장 24."
+    },
+    {
+     "t": 633.0,
+     "s": "S",
+     "es": "¿Estás libre el sábado?",
+     "ko": "토요일에 시간 돼요?"
+    },
+    {
+     "t": 646.0,
+     "s": "S",
+     "es": "Frase veinticinco.",
+     "ko": "문장 25."
+    },
+    {
+     "t": 653.0,
+     "s": "S",
+     "es": "Nos vemos entonces.",
+     "ko": "그럼 그때 봐요."
+    }
+   ]
+  },
+  {
+   "title": "쉐도잉 26~40 — 현재완료 (pretérito perfecto)",
+   "lines": [
+    {
+     "t": 661.0,
+     "s": "S",
+     "es": "Y ahora el pasado reciente.",
+     "ko": "이제 가까운 과거를 연습해요."
+    },
+    {
+     "t": 664.8,
+     "s": "S",
+     "es": "¿Qué has hecho hoy, Mateo?",
+     "ko": "마테오, 오늘 뭐 했어요?"
+    },
+    {
+     "t": 668.0,
+     "s": "M",
+     "es": "He hecho muchas cosas.",
+     "ko": "나 많은 걸 했어."
+    },
+    {
+     "t": 670.5,
+     "s": "S",
+     "es": "Escucha.",
+     "ko": "들어 봐요."
+    },
+    {
+     "t": 671.5,
+     "s": "S",
+     "es": "Frase veintiséis.",
+     "ko": "문장 26."
+    },
+    {
+     "t": 674.0,
+     "s": "S",
+     "es": "Hoy he desayunado café con leche.",
+     "ko": "오늘 아침으로 카페 콘 레체를 마셨어요."
+    },
+    {
+     "t": 693.0,
+     "s": "M",
+     "es": "Y churros.",
+     "ko": "그리고 추로스도."
+    },
+    {
+     "t": 695.0,
+     "s": "S",
+     "es": "Frase veintisiete.",
+     "ko": "문장 27."
+    },
+    {
+     "t": 714.8,
+     "s": "S",
+     "es": "¿Alguna vez has estado en España?",
+     "ko": "스페인에 가 본 적 있어요?"
+    },
+    {
+     "t": 726.0,
+     "s": "M",
+     "es": "Es mi sueño.",
+     "ko": "내 꿈이야."
+    },
+    {
+     "t": 728.5,
+     "s": "S",
+     "es": "Frase veintiocho.",
+     "ko": "문장 28."
+    },
+    {
+     "t": 743.0,
+     "s": "S",
+     "es": "Esta semana he trabajado mucho.",
+     "ko": "이번 주에 일을 많이 했어요."
+    },
+    {
+     "t": 756.0,
+     "s": "M",
+     "es": "Necesito vacaciones.",
+     "ko": "휴가가 필요해."
+    },
+    {
+     "t": 759.0,
+     "s": "S",
+     "es": "Frase veintinueve.",
+     "ko": "문장 29."
+    },
+    {
+     "t": 781.6,
+     "s": "S",
+     "es": "Todavía no he terminado mis deberes.",
+     "ko": "아직 숙제를 다 못 끝냈어요."
+    },
+    {
+     "t": 791.0,
+     "s": "S",
+     "es": "Frase treinta.",
+     "ko": "문장 30."
+    },
+    {
+     "t": 812.0,
+     "s": "S",
+     "es": "Hemos visitado el Museo del Prado.",
+     "ko": "우리는 프라도 미술관에 가 봤어요."
+    },
+    {
+     "t": 826.0,
+     "s": "M",
+     "es": "Es arte puro.",
+     "ko": "순수한 예술이야."
+    },
+    {
+     "t": 828.5,
+     "s": "S",
+     "es": "Frase treinta y uno.",
+     "ko": "문장 31."
+    },
+    {
+     "t": 841.0,
+     "s": "S",
+     "es": "¿Has visto la nueva película de Almodóvar?",
+     "ko": "알모도바르의 새 영화 봤어요?"
+    },
+    {
+     "t": 864.5,
+     "s": "S",
+     "es": "Frase treinta y dos.",
+     "ko": "문장 32."
+    },
+    {
+     "t": 873.0,
+     "s": "S",
+     "es": "Nunca he comido sushi.",
+     "ko": "저는 스시를 먹어 본 적이 없어요."
+    },
+    {
+     "t": 884.5,
+     "s": "M",
+     "es": "Está bueno.",
+     "ko": "맛있어."
+    },
+    {
+     "t": 886.5,
+     "s": "S",
+     "es": "Frase treinta y tres.",
+     "ko": "문장 33."
+    },
+    {
+     "t": 903.0,
+     "s": "S",
+     "es": "Ella ha comprado un coche nuevo.",
+     "ko": "그녀는 새 차를 샀어요."
+    },
+    {
+     "t": 916.0,
+     "s": "M",
+     "es": "Un Ferrari seguro.",
+     "ko": "분명 페라리일걸."
+    },
+    {
+     "t": 918.0,
+     "s": "S",
+     "es": "Frase treinta y cuatro.",
+     "ko": "문장 34."
+    },
+    {
+     "t": 929.5,
+     "s": "S",
+     "es": "Mis padres han venido de visita.",
+     "ko": "부모님이 방문하러 오셨어요."
+    },
+    {
+     "t": 941.5,
+     "s": "S",
+     "es": "Frase treinta y cinco.",
+     "ko": "문장 35."
+    },
+    {
+     "t": 949.5,
+     "s": "S",
+     "es": "¿Has hablado con Juan hoy?",
+     "ko": "오늘 후안과 얘기했어요?"
+    },
+    {
+     "t": 963.0,
+     "s": "M",
+     "es": "¿Qué ha dicho?",
+     "ko": "뭐라고 했어?"
+    },
+    {
+     "t": 965.5,
+     "s": "S",
+     "es": "Frase treinta y seis.",
+     "ko": "문장 36."
+    },
+    {
+     "t": 982.6,
+     "s": "S",
+     "es": "He perdido mi cartera, no la encuentro.",
+     "ko": "지갑을 잃어버렸어요, 못 찾겠어요."
+    },
+    {
+     "t": 998.5,
+     "s": "M",
+     "es": "Mi dinero.",
+     "ko": "내 돈!"
+    },
+    {
+     "t": 1000.5,
+     "s": "S",
+     "es": "Frase treinta y siete.",
+     "ko": "문장 37."
+    },
+    {
+     "t": 1005.0,
+     "s": "S",
+     "es": "Ya hemos cenado.",
+     "ko": "우리는 벌써 저녁을 먹었어요."
+    },
+    {
+     "t": 1015.5,
+     "s": "S",
+     "es": "Frase treinta y ocho.",
+     "ko": "문장 38."
+    },
+    {
+     "t": 1018.0,
+     "s": "S",
+     "es": "¿Qué has hecho este fin de semana?",
+     "ko": "이번 주말에 뭐 했어요?"
+    },
+    {
+     "t": 1038.0,
+     "s": "S",
+     "es": "Frase treinta y nueve.",
+     "ko": "문장 39."
+    },
+    {
+     "t": 1056.0,
+     "s": "S",
+     "es": "He leído un libro muy interesante.",
+     "ko": "아주 흥미로운 책을 읽었어요."
+    },
+    {
+     "t": 1070.0,
+     "s": "M",
+     "es": "Soy muy culto.",
+     "ko": "난 교양이 넘치지."
+    },
+    {
+     "t": 1073.5,
+     "s": "S",
+     "es": "Frase cuarenta.",
+     "ko": "문장 40."
+    },
+    {
+     "t": 1086.0,
+     "s": "S",
+     "es": "Siempre he querido aprender a tocar el piano.",
+     "ko": "저는 늘 피아노를 배우고 싶었어요."
+    },
+    {
+     "t": 1100.5,
+     "s": "M",
+     "es": "Do, re, mi.",
+     "ko": "도, 레, 미."
+    }
+   ]
+  },
+  {
+   "title": "마무리",
+   "lines": [
+    {
+     "t": 1103.0,
+     "s": "S",
+     "es": "Muy bien, Mateo. ¿Has trabajado mucho hoy?",
+     "ko": "잘했어요, 마테오. 오늘 열심히 했어요?"
+    },
+    {
+     "t": 1108.0,
+     "s": "M",
+     "es": "Sí, he aprendido mucho y ya no me duele la cabeza.",
+     "ko": "응, 많이 배웠고 이제 머리도 안 아파."
+    },
+    {
+     "t": 1112.5,
+     "s": "S",
+     "es": "Excelente. Nos vemos en el próximo episodio de Easy Spanish Podcast.",
+     "ko": "훌륭해요. 다음 이지 스패니시 팟캐스트 에피소드에서 만나요."
+    },
+    {
+     "t": 1118.0,
+     "s": "M",
+     "es": "Adiós, amigos, hasta la próxima.",
+     "ko": "안녕, 친구들, 다음에 또 만나요."
+    }
+   ]
+  }
+ ]
+}

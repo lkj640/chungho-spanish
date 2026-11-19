@@ -1,0 +1,256 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 쉐도잉 에피소드라 같은 문장이 천천히 → 음절별 → 보통 속도로 3~4번 반복되는데, 강의에서는 문장마다 한 번만 싣고 시각은 그 문장의 첫 보통 속도 발화 지점으로 잡았어요. 'Es toy. Ma re. A do'→'Estoy mareado', 'Debes canar u nos dias as'→'Debes descansar unos días', 'Me que me la ma no co nan do'→'Me quemé la mano cocinando', 'Voy a viitar'→'Voy a visitar', 'Almodobar'→'Almodóvar', '¿Qué? Damos a las 7'→'Quedamos a las siete', 'E perdid do mi cartera'→'He perdido mi cartera' 같은 음절 쪼개기·오인식 자막을 바로잡고, 'Frase 1~40' 안내와 마테오의 한마디 농담(Demasiados tacos, Es arte puro, Un Ferrari seguro…)은 화자를 나눴어요.
+# 시각은 자막 구간 시각을 글자 위치 비율로 나눠 구한 추정값이라 앞뒤로 1~3초쯤 어긋날 수 있어요(음절 반복 구간은 자막이 비어 있어서 더 그래요).
+END 18:43
+
+
+## 대화 시작 — 감기에 걸린 마테오
+[00:00.32]
+S | Bienvenido a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:03.00]
+M | Ay, Sofía, me muero. Adiós, mundo cruel. | 아, 소피아, 나 죽겠어. 안녕, 잔인한 세상아.
+[00:11.00]
+S | Mateo, no seas dramático. Solo es un resfriado. | 마테오, 오버하지 마. 그냥 감기야.
+[00:16.00]
+S | Hoy vamos a aprender a hablar de salud, hacer planes y usar el pretérito perfecto. El pasado. | 오늘은 건강 이야기, 약속 잡기, 그리고 현재완료(pretérito perfecto)를 배울 거예요. 과거 말이에요.
+[00:26.00]
+M | Me encanta el pasado. | 난 과거가 좋아.
+[00:28.50]
+S | Empezamos. | 시작해요.
+## 쉐도잉 1~15 — 아플 때 쓰는 말
+[00:30.00]
+S | Frase uno. | 문장 1.
+[00:32.00]
+S | No me encuentro bien hoy. | 오늘은 몸이 안 좋아요.
+[00:47.00]
+S | Frase dos. | 문장 2.
+[00:50.64]
+S | Tengo fiebre y tos. | 열이 나고 기침이 나요.
+[01:09.48]
+S | Frase tres. | 문장 3.
+[01:11.50]
+S | Me duele la espalda. | 허리(등)가 아파요.
+[01:27.50]
+M | Ay, mi espalda. | 아, 내 허리.
+[01:30.00]
+S | Frase cuatro. | 문장 4.
+[01:31.50]
+S | Creo que tengo gripe. | 독감에 걸린 것 같아요.
+[01:50.50]
+M | Es grave. | 심각해.
+[01:53.00]
+S | Frase cinco. | 문장 5.
+[01:54.50]
+S | Necesito pedir cita con el médico. | 병원 진료 예약을 해야 해요.
+[02:10.00]
+S | Ahora, frase seis. | 이제 문장 6.
+[02:12.50]
+S | Me torcí el tobillo. | 발목을 삐었어요.
+[02:30.00]
+M | Auch. | 아야.
+[02:32.00]
+S | Frase siete. | 문장 7.
+[02:34.00]
+S | Tengo dolor de estómago. | 배가 아파요.
+[02:52.00]
+M | Demasiados tacos. | 타코를 너무 많이 먹었어.
+[02:54.00]
+S | Frase ocho. | 문장 8.
+[03:03.00]
+S | Estoy mareado. | 어지러워요.
+[03:12.00]
+M | Todo gira. | 다 빙빙 돌아.
+[03:15.00]
+S | Frase nueve. | 문장 9.
+[03:36.40]
+S | ¿Tiene algo para el dolor de cabeza? | 두통에 먹을 약 있나요?
+[03:49.00]
+M | Por favor. | 부탁드려요.
+[03:51.50]
+S | Frase diez. | 문장 10.
+[03:58.00]
+S | Debes descansar unos días. | 며칠 쉬어야 해요.
+[04:13.00]
+S | Frase once. | 문장 11.
+[04:27.50]
+S | Tengo una alergia. | 알레르기가 있어요.
+[04:32.80]
+M | Achís. | 에취.
+[04:37.00]
+S | Frase doce. | 문장 12.
+[04:46.00]
+S | Me quemé la mano cocinando. | 요리하다가 손을 데었어요.
+[05:03.00]
+M | Quema. | 뜨거워.
+[05:05.00]
+S | Frase trece. | 문장 13.
+[05:07.00]
+S | Voy a la farmacia. | 약국에 갈 거예요.
+[05:26.00]
+M | Vuelvo pronto. | 금방 올게.
+[05:28.50]
+S | Frase catorce. | 문장 14.
+[05:39.00]
+S | Es importante beber mucha agua. | 물을 많이 마시는 게 중요해요.
+[05:54.00]
+S | Frase quince. | 문장 15.
+[06:03.00]
+S | Espero que te mejores pronto. | 빨리 나으면 좋겠어요.
+## 쉐도잉 16~25 — 약속 잡기와 거절
+[06:19.00]
+M | Hola, Sofía. ¿Ya estoy bien? ¿Hacemos planes? | 안녕, 소피아. 나 이제 괜찮지? 우리 약속 잡을까?
+[06:23.00]
+S | Claro que sí. Vamos a practicar. | 물론이죠. 연습해 봐요.
+[06:26.00]
+S | Frase dieciséis. | 문장 16.
+[06:42.00]
+S | ¿Te apetece ir al cine? | 영화 보러 갈래요?
+[06:58.00]
+M | Hay palomitas. | 팝콘도 있어.
+[06:59.50]
+S | Frase diecisiete. | 문장 17.
+[07:11.00]
+S | Quedamos a las siete en la plaza. | 7시에 광장에서 만나요.
+[07:24.50]
+S | No llegues tarde. | 늦지 마요.
+[07:27.00]
+S | Frase dieciocho. | 문장 18.
+[07:41.00]
+S | Lo siento, no puedo ir. | 미안해요, 못 가요.
+[07:50.50]
+M | Tengo fútbol. | 축구가 있어.
+[07:54.00]
+S | Frase diecinueve. | 문장 19.
+[08:10.00]
+S | Tengo que estudiar para un examen. | 시험공부를 해야 해요.
+[08:31.00]
+M | Es difícil. | 어려워.
+[08:33.00]
+S | Frase veinte. | 문장 20.
+[08:35.50]
+S | ¿Qué vas a hacer este fin de semana? | 이번 주말에 뭐 할 거예요?
+[08:57.50]
+M | Fiesta. | 파티!
+[08:59.50]
+S | Frase veintiuno. | 문장 21.
+[09:13.00]
+S | Podemos cenar juntos mañana. | 내일 같이 저녁 먹을 수 있어요.
+[09:31.50]
+S | Frase veintidós. | 문장 22.
+[09:35.00]
+S | Voy a visitar a mis padres. | 부모님을 뵈러 갈 거예요.
+[09:57.00]
+M | Son muy simpáticos. | 아주 친절한 분들이야.
+[10:00.00]
+S | Frase veintitrés. | 문장 23.
+[10:09.00]
+S | Te invito a un café. | 커피 한잔 살게요.
+[10:25.00]
+M | Yo pago. | 내가 낼게.
+[10:27.00]
+S | Frase veinticuatro. | 문장 24.
+[10:33.00]
+S | ¿Estás libre el sábado? | 토요일에 시간 돼요?
+[10:46.00]
+S | Frase veinticinco. | 문장 25.
+[10:53.00]
+S | Nos vemos entonces. | 그럼 그때 봐요.
+## 쉐도잉 26~40 — 현재완료 (pretérito perfecto)
+[11:01.00]
+S | Y ahora el pasado reciente. | 이제 가까운 과거를 연습해요.
+[11:04.84]
+S | ¿Qué has hecho hoy, Mateo? | 마테오, 오늘 뭐 했어요?
+[11:08.00]
+M | He hecho muchas cosas. | 나 많은 걸 했어.
+[11:10.50]
+S | Escucha. | 들어 봐요.
+[11:11.50]
+S | Frase veintiséis. | 문장 26.
+[11:14.00]
+S | Hoy he desayunado café con leche. | 오늘 아침으로 카페 콘 레체를 마셨어요.
+[11:33.00]
+M | Y churros. | 그리고 추로스도.
+[11:35.00]
+S | Frase veintisiete. | 문장 27.
+[11:54.84]
+S | ¿Alguna vez has estado en España? | 스페인에 가 본 적 있어요?
+[12:06.00]
+M | Es mi sueño. | 내 꿈이야.
+[12:08.50]
+S | Frase veintiocho. | 문장 28.
+[12:23.00]
+S | Esta semana he trabajado mucho. | 이번 주에 일을 많이 했어요.
+[12:36.00]
+M | Necesito vacaciones. | 휴가가 필요해.
+[12:39.00]
+S | Frase veintinueve. | 문장 29.
+[13:01.60]
+S | Todavía no he terminado mis deberes. | 아직 숙제를 다 못 끝냈어요.
+[13:11.00]
+S | Frase treinta. | 문장 30.
+[13:32.00]
+S | Hemos visitado el Museo del Prado. | 우리는 프라도 미술관에 가 봤어요.
+[13:46.00]
+M | Es arte puro. | 순수한 예술이야.
+[13:48.50]
+S | Frase treinta y uno. | 문장 31.
+[14:01.00]
+S | ¿Has visto la nueva película de Almodóvar? | 알모도바르의 새 영화 봤어요?
+[14:24.50]
+S | Frase treinta y dos. | 문장 32.
+[14:33.00]
+S | Nunca he comido sushi. | 저는 스시를 먹어 본 적이 없어요.
+[14:44.50]
+M | Está bueno. | 맛있어.
+[14:46.50]
+S | Frase treinta y tres. | 문장 33.
+[15:03.00]
+S | Ella ha comprado un coche nuevo. | 그녀는 새 차를 샀어요.
+[15:16.00]
+M | Un Ferrari seguro. | 분명 페라리일걸.
+[15:18.00]
+S | Frase treinta y cuatro. | 문장 34.
+[15:29.50]
+S | Mis padres han venido de visita. | 부모님이 방문하러 오셨어요.
+[15:41.50]
+S | Frase treinta y cinco. | 문장 35.
+[15:49.50]
+S | ¿Has hablado con Juan hoy? | 오늘 후안과 얘기했어요?
+[16:03.00]
+M | ¿Qué ha dicho? | 뭐라고 했어?
+[16:05.50]
+S | Frase treinta y seis. | 문장 36.
+[16:22.60]
+S | He perdido mi cartera, no la encuentro. | 지갑을 잃어버렸어요, 못 찾겠어요.
+[16:38.50]
+M | Mi dinero. | 내 돈!
+[16:40.50]
+S | Frase treinta y siete. | 문장 37.
+[16:45.00]
+S | Ya hemos cenado. | 우리는 벌써 저녁을 먹었어요.
+[16:55.50]
+S | Frase treinta y ocho. | 문장 38.
+[16:58.00]
+S | ¿Qué has hecho este fin de semana? | 이번 주말에 뭐 했어요?
+[17:18.00]
+S | Frase treinta y nueve. | 문장 39.
+[17:36.00]
+S | He leído un libro muy interesante. | 아주 흥미로운 책을 읽었어요.
+[17:50.00]
+M | Soy muy culto. | 난 교양이 넘치지.
+[17:53.50]
+S | Frase cuarenta. | 문장 40.
+[18:06.00]
+S | Siempre he querido aprender a tocar el piano. | 저는 늘 피아노를 배우고 싶었어요.
+[18:20.50]
+M | Do, re, mi. | 도, 레, 미.
+## 마무리
+[18:23.00]
+S | Muy bien, Mateo. ¿Has trabajado mucho hoy? | 잘했어요, 마테오. 오늘 열심히 했어요?
+[18:28.00]
+M | Sí, he aprendido mucho y ya no me duele la cabeza. | 응, 많이 배웠고 이제 머리도 안 아파.
+[18:32.50]
+S | Excelente. Nos vemos en el próximo episodio de Easy Spanish Podcast. | 훌륭해요. 다음 이지 스패니시 팟캐스트 에피소드에서 만나요.
+[18:38.00]
+M | Adiós, amigos, hasta la próxima. | 안녕, 친구들, 다음에 또 만나요.
