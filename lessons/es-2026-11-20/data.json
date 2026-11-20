@@ -280,54 +280,38 @@
   }
  ],
  "phrases": [
-  {
-   "es": "Me quito los zapatos.",
-   "ko": "신발을 벗어요.",
-   "ex": "Yo me quito los zapatos.",
-   "exKo": "나는 신발을 벗어요."
-  },
-  {
-   "es": "Me pongo ropa cómoda.",
-   "ko": "편한 옷을 입어요.",
-   "ex": "Me pongo ropa cómoda.",
-   "exKo": "편한 옷을 입어요."
-  },
-  {
-   "es": "Quiero cocinar algo rápido y ligero.",
-   "ko": "빠르고 가벼운 걸 요리하고 싶어요.",
-   "ex": "Quiero cocinar algo rápido y ligero.",
-   "exKo": "빠르고 가벼운 걸 요리하고 싶어요."
-  },
-  {
-   "es": "Pongo la mesa.",
-   "ko": "식탁을 차려요.",
-   "ex": "Ahora pongo la mesa.",
-   "exKo": "이제 식탁을 차려요."
-  },
-  {
-   "es": "¿Qué haces para desconectar?",
-   "ko": "머리를 식히려고 뭘 해요?",
-   "ex": "¿Qué haces para desconectar, Elena?",
-   "exKo": "엘레나, 머리를 식히려고 뭘 해?"
-  },
-  {
-   "es": "Me lavo los dientes.",
-   "ko": "양치를 해요.",
-   "ex": "Me cepillo los dientes o me lavo los dientes.",
-   "exKo": "양치를 해요."
-  },
-  {
-   "es": "Tengo que poner el despertador.",
-   "ko": "알람을 맞춰야 해요.",
-   "ex": "Tengo que poner el despertador.",
-   "exKo": "알람을 맞춰야 해요."
-  },
-  {
-   "es": "Estoy lista para dormir.",
-   "ko": "잘 준비가 됐어요.",
-   "ex": "Me he metido en la cama y estoy lista para dormir.",
-   "exKo": "침대에 들어갔고 잘 준비가 됐어요."
-  }
+  [
+   "Me quito los zapatos.",
+   "신발을 벗어요."
+  ],
+  [
+   "Me pongo ropa cómoda.",
+   "편한 옷을 입어요."
+  ],
+  [
+   "Quiero cocinar algo rápido y ligero.",
+   "빠르고 가벼운 걸 요리하고 싶어요."
+  ],
+  [
+   "Pongo la mesa.",
+   "식탁을 차려요."
+  ],
+  [
+   "¿Qué haces para desconectar?",
+   "머리를 식히려고 뭘 해요?"
+  ],
+  [
+   "Me lavo los dientes.",
+   "양치를 해요."
+  ],
+  [
+   "Tengo que poner el despertador.",
+   "알람을 맞춰야 해요."
+  ],
+  [
+   "Estoy lista para dormir.",
+   "잘 준비가 됐어요."
+  ]
  ],
  "vocab": [
   {

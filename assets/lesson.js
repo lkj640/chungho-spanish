@@ -240,6 +240,7 @@
   // ---------- 정리 (문법·표현) ----------
   // 예문은 [원문, 한국어] 또는 [원문, 병음, 한국어]
   const exRow = r => {
+    if (!Array.isArray(r)) r = r && typeof r === "object" ? [r.es || r.text || "", r.ko || ""] : [String(r || ""), ""];
     const [src, a, b] = r, py = r.length > 2 ? a : "", ko = r.length > 2 ? b : a;
     return `<div class="ex">${py ? `<div class="py">${esc(py)}</div>` : ""}<div class="es" lang="${esc(lang)}">${esc(src)} ${sayBtn(src)}</div><div class="ko">${esc(ko)}</div></div>`;
   };
@@ -257,7 +258,7 @@
     if (c.table) g += `<div class="tblwrap"><table class="tbl"><thead><tr>${c.table.head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>
       <tbody>${c.table.rows.map(r => `<tr>${r.map(x => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
     if (c.examples) g += c.examples.map(exRow).join("");
-    if (c.tip) g += `<div class="tip">💡 ${esc(c.tip)}</div>`;
+    if (c.tip) g += `<div class="tip">💡 ${c.tip}</div>`;
     g += `</section>`;
   }
   if (L.phrases && L.phrases.length) {

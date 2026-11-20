@@ -274,54 +274,38 @@
   }
  ],
  "phrases": [
-  {
-   "es": "No me encuentro bien.",
-   "ko": "몸이 안 좋아요.",
-   "ex": "No me encuentro bien hoy.",
-   "exKo": "오늘은 몸이 안 좋아요."
-  },
-  {
-   "es": "Necesito pedir cita con el médico.",
-   "ko": "병원 예약을 해야 해요.",
-   "ex": "Necesito pedir cita con el médico.",
-   "exKo": "병원 진료 예약을 해야 해요."
-  },
-  {
-   "es": "¿Tiene algo para…?",
-   "ko": "~에 먹을 것(약) 있나요?",
-   "ex": "¿Tiene algo para el dolor de cabeza?",
-   "exKo": "두통에 먹을 약 있나요?"
-  },
-  {
-   "es": "Espero que te mejores pronto.",
-   "ko": "빨리 나으세요.",
-   "ex": "Espero que te mejores pronto.",
-   "exKo": "빨리 나으면 좋겠어요."
-  },
-  {
-   "es": "¿Te apetece…?",
-   "ko": "~하고 싶어요?",
-   "ex": "¿Te apetece ir al cine?",
-   "exKo": "영화 보러 갈래요?"
-  },
-  {
-   "es": "Quedamos a las siete.",
-   "ko": "7시에 만나요.",
-   "ex": "Quedamos a las siete en la plaza.",
-   "exKo": "7시에 광장에서 만나요."
-  },
-  {
-   "es": "Lo siento, no puedo ir.",
-   "ko": "미안해요, 못 가요.",
-   "ex": "Lo siento, no puedo ir.",
-   "exKo": "미안해요, 못 가요."
-  },
-  {
-   "es": "Nos vemos entonces.",
-   "ko": "그럼 그때 봐요.",
-   "ex": "Nos vemos entonces.",
-   "exKo": "그럼 그때 봐요."
-  }
+  [
+   "No me encuentro bien.",
+   "몸이 안 좋아요."
+  ],
+  [
+   "Necesito pedir cita con el médico.",
+   "병원 예약을 해야 해요."
+  ],
+  [
+   "¿Tiene algo para el dolor de cabeza?",
+   "두통에 먹을 약 있나요?"
+  ],
+  [
+   "Espero que te mejores pronto.",
+   "빨리 나으세요."
+  ],
+  [
+   "¿Te apetece ir al cine?",
+   "영화 보러 갈래요?"
+  ],
+  [
+   "Quedamos a las siete.",
+   "7시에 만나요."
+  ],
+  [
+   "Lo siento, no puedo ir.",
+   "미안해요, 못 가요."
+  ],
+  [
+   "Nos vemos entonces.",
+   "그럼 그때 봐요."
+  ]
  ],
  "vocab": [
   {
