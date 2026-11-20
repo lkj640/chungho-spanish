@@ -1,0 +1,2889 @@
+{
+ "id": "en-2026-11-20",
+ "lang": "en",
+ "date": "2026-11-20",
+ "title": "저축은 자유를 산다 — 영어 딥 다이브",
+ "es": "Saving buys freedom.",
+ "emoji": "💰",
+ "level": "B2–C1",
+ "channel": "Deep Dive 오디오",
+ "videoTitle": "How Saving Money Buys Your Freedom",
+ "audio": "audio.m4a",
+ "duration": "21:13",
+ "speakers": {
+  "A": "Host A",
+  "B": "Host B"
+ },
+ "hideCast": true,
+ "summary": "스페인어 섹션의 Easy Spanish Podcast 65화 「저축 vs 삶 즐기기」(es-2026-11-20-2)를 자료로, 두 진행자가 영어로 깊이 파고드는 오디오예요. 잔고 0원으로 길가에 멈춘 차에서 시작해, 다 쓰는 소피아와 한 푼도 안 쓰는 마테오가 결국 같은 결과(자율성 상실)에 이른다는 점, 50·30·20 규칙의 \"나에게 먼저 지불하기\", 상대적 박탈감, 사기 전 10초 멈춤, 마이크로 지출(보이지 않는 백그라운드 앱), 결정 피로와 밀프렙, 쾌락 적응으로 보는 \"물건보다 경험\", 스트레스 사이클과 리테일 테라피까지 다뤄요. 구어체 강조 표현과 경제·심리 어휘가 풍부한 B2–C1 듣기 자료예요.",
+ "topics": [
+  "wake-up call: a balance of exactly zero · swallow your pride · breaking point",
+  "two extremes: the classic spender · stingy · hoard cash · lose your autonomy",
+  "the system: 50-30-20 rule · pay yourself first · guilt-free spending",
+  "pressure: relative deprivation · highlight reel · smoke and mirrors",
+  "small leaks: the power of the pause · micro-spending · decision fatigue · meal prep",
+  "freedom: hedonic adaptation · experiences over things · living paycheck to paycheck · retail therapy",
+  "문법: by -ing · if 조건문 · not A but B · 동명사 주어 · whereas/while · 진행자 표현 · 돈 관용구"
+ ],
+ "grammar": [
+  {
+   "title": "① by + -ing — \"~함으로써\"",
+   "lead": "방법·수단을 말할 때 <b>by + 동명사</b>를 써요. 이 오디오의 핵심 논리가 대부분 이 형태예요.",
+   "table": {
+    "head": [
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "By making that 20% untouchable, you are securing your own stability.",
+      "그 20%를 손댈 수 없게 만듦으로써 자기 안정을 확보한다"
+     ],
+     [
+      "By pre-deciding on Sunday, Sofia makes the cheap choice the easiest choice.",
+      "일요일에 미리 정해 둠으로써 싼 선택을 가장 쉬운 선택으로 만든다"
+     ],
+     [
+      "By inserting a ten-second delay, you force your prefrontal cortex to step in.",
+      "10초 틈을 둠으로써 전전두엽이 나서게 만든다"
+     ],
+     [
+      "By going to a store and making a purchase, you assert your autonomy.",
+      "가게에 가서 무언가를 삼으로써 자율성을 확인한다"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "By explicitly defining what portion is for fun, it removes the guilt.",
+     "즐기는 몫을 분명히 정함으로써 죄책감이 사라진다."
+    ]
+   ],
+   "tip": "by + 명사는 \"~로(수단)\", by + -ing는 \"~함으로써\". 반대로 without + -ing는 \"~하지 않고\": without suffocating (숨 막히지 않고)."
+  },
+  {
+   "title": "② If 조건문 — 현실 조건(1형)과 일반적 사실(0형)",
+   "lead": "일반적 사실·습관은 <b>If + 현재, 현재</b>(0형), 실제로 있을 법한 미래는 <b>If + 현재, will</b>(1형).",
+   "table": {
+    "head": [
+     "형",
+     "예문",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "0형",
+      "If you never exhale, eventually you pass out.",
+      "숨을 내쉬지 않으면 결국 기절한다"
+     ],
+     [
+      "0형",
+      "If you hyperventilate, you also pass out.",
+      "과호흡해도 기절한다"
+     ],
+     [
+      "1형",
+      "If you haven't pre-made the cheap choice, your brain will default to the path of least resistance.",
+      "싼 선택을 미리 만들어 두지 않으면 뇌는 가장 쉬운 길로 갈 것이다"
+     ],
+     [
+      "0형",
+      "If you make coffee at home today, you're already succeeding.",
+      "오늘 집에서 커피를 내리면 이미 성공하고 있는 것이다"
+     ],
+     [
+      "가정",
+      "If money is time, what is your spending costing you?",
+      "돈이 시간이라면, 당신의 소비는 무엇을 치르게 하는가?"
+     ]
+    ]
+   },
+   "tip": "if절에는 will을 쓰지 않아요: ✗ If you will make coffee → ✓ If you make coffee."
+  },
+  {
+   "title": "③ not A but B / A, not B — 바로잡아 다시 말하기",
+   "lead": "관점을 바꿀 때 쓰는 핵심 구조예요. <b>not because A, but because B</b>처럼 이유에도 써요.",
+   "examples": [
+    [
+     "Money has to be viewed as a tool, not the ultimate goal itself.",
+     "돈은 궁극적인 목표가 아니라 도구로 봐야 한다."
+    ],
+    [
+     "You feel poor, not because you don't have enough, but because of what you perceive everyone else has.",
+     "부족해서가 아니라, 남들이 가진 것처럼 보이는 것 때문에 가난하다고 느낀다."
+    ],
+    [
+     "It isn't a dollar locked away in a prison. It is a tiny piece of future freedom.",
+     "감옥에 갇힌 1달러가 아니라 미래의 자유 한 조각이다."
+    ],
+    [
+     "These aren't just good lifestyle choices. They are massive financial strategies.",
+     "그냥 좋은 생활 습관이 아니라 엄청난 재정 전략이다."
+    ],
+    [
+     "We judge a purchase by its immediate cost, not its annualized cost.",
+     "1년 치 비용이 아니라 당장의 비용으로 구매를 판단한다."
+    ]
+   ],
+   "tip": "rather than도 같은 역할: ...rather than being trapped living paycheck to paycheck (갇혀 사는 대신)."
+  },
+  {
+   "title": "④ 동명사 주어 · 강조 구문 — 생각을 명사처럼 다루기",
+   "lead": "<b>-ing가 주어</b>가 되면 \"~하는 것은\"이에요. 설명·주장하는 영어에서 아주 많이 써요.",
+   "examples": [
+    [
+     "Having options is the truest form of wealth.",
+     "선택지가 있다는 것이 가장 진정한 형태의 부다."
+    ],
+    [
+     "Relying purely on willpower is a losing game.",
+     "의지력에만 기대는 건 지는 게임이다."
+    ],
+    [
+     "Reframing savings from deprivation to buying your own freedom is profound.",
+     "저축을 결핍에서 자유를 사는 것으로 다시 보는 건 의미가 깊다."
+    ],
+    [
+     "Breaking that cycle requires addressing the root causes.",
+     "그 고리를 끊으려면 근본 원인을 다뤄야 한다."
+    ],
+    [
+     "Seeing that constant stream of consumption creates a sense of relative deprivation.",
+     "끊임없는 소비의 흐름을 보는 것이 상대적 박탈감을 만든다."
+    ]
+   ],
+   "tip": "동명사 주어는 단수 취급: Having options is… (✗ are)."
+  },
+  {
+   "title": "⑤ 비교·대조 — whereas / while / the opposite",
+   "lead": "두 가지를 맞세울 때 <b>whereas · while</b>(반면에)를 써요.",
+   "examples": [
+    [
+     "The memory appreciates in value while the phone depreciates.",
+     "추억은 가치가 오르는 반면 휴대폰은 가치가 떨어진다."
+    ],
+    [
+     "You are building your identity with an experience, whereas buying a phone is just acquiring a tool.",
+     "경험으로는 정체성을 쌓지만, 휴대폰을 사는 건 도구를 얻을 뿐이다."
+    ],
+    [
+     "The physical activity is clearing the biological ledger, whereas the shopping is just a distraction.",
+     "운동은 생물학적 장부를 정리하지만 쇼핑은 딴짓일 뿐이다."
+    ],
+    [
+     "Actually, it's the exact opposite mechanism at play.",
+     "사실은 정반대의 메커니즘이 작동한다."
+    ]
+   ],
+   "tip": "appreciate는 \"감사하다\" 외에 \"(가치가) 오르다\", depreciate는 \"(가치가) 떨어지다\"."
+  },
+  {
+   "title": "⑥ 설명하는 사람의 말버릇 — 대화를 이어 가는 표현",
+   "lead": "팟캐스트 진행자들이 논리를 이어 가며 쓰는 표현이에요. 말하기에 바로 쓸 수 있어요.",
+   "table": {
+    "head": [
+     "표현",
+     "쓰임",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "Let's unpack this.",
+      "주제 꺼내기",
+      "하나씩 풀어 보자"
+     ],
+     [
+      "What's fascinating here is that…",
+      "핵심 짚기",
+      "여기서 흥미로운 건 ~라는 거야"
+     ],
+     [
+      "I need to push back right off the top.",
+      "반론",
+      "처음부터 반론을 좀 해야겠어"
+     ],
+     [
+      "Here's where it gets really interesting.",
+      "전환",
+      "여기서부터 정말 흥미로워져"
+     ],
+     [
+      "Break that down for us.",
+      "설명 요청",
+      "그거 좀 풀어서 설명해 줘"
+     ],
+     [
+      "If we connect this to the bigger picture…",
+      "확장",
+      "더 큰 그림과 연결해 보면"
+     ],
+     [
+      "How do we tie a bow on this?",
+      "정리",
+      "이걸 어떻게 깔끔하게 마무리할까?"
+     ]
+    ]
+   },
+   "tip": "Notice the mechanism there, though. (그런데 거기 있는 메커니즘에 주목해 봐) 처럼 Notice/Think about으로 듣는 사람의 주의를 끌어요."
+  },
+  {
+   "title": "⑦ 돈에 관한 관용 표현",
+   "lead": "오디오에 나온 돈·생활 관련 관용구예요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "swallow your pride",
+      "자존심을 굽히다"
+     ],
+     [
+      "live paycheck to paycheck",
+      "월급으로 겨우 한 달 한 달 살다"
+     ],
+     [
+      "financial breathing room",
+      "재정적 숨 쉴 틈(여유)"
+     ],
+     [
+      "smoke and mirrors",
+      "눈속임, 허상"
+     ],
+     [
+      "a highlight reel",
+      "(남의) 좋은 장면만 모은 영상"
+     ],
+     [
+      "vanish into thin air",
+      "감쪽같이 사라지다"
+     ],
+     [
+      "sneak up on you",
+      "모르는 새 슬금슬금 다가오다"
+     ],
+     [
+      "lose the plot",
+      "본질을 잃다, 갈피를 못 잡다"
+     ],
+     [
+      "the path of least resistance",
+      "가장 쉬운 길"
+     ],
+     [
+      "Health is wealth.",
+      "건강이 재산이다"
+     ]
+    ]
+   },
+   "tip": "best-laid plans (아무리 잘 짠 계획도)은 \"The best-laid plans often go wrong\"이라는 속담에서 온 표현이에요."
+  }
+ ],
+ "phrases": [
+  [
+   "Saving buys freedom.",
+   "저축은 자유를 산다."
+  ],
+  [
+   "Money has to be viewed as a tool.",
+   "돈은 도구로 봐야 한다."
+  ],
+  [
+   "Pay yourself first.",
+   "나에게 먼저 지불하라."
+  ],
+  [
+   "Do I really need this to be happy?",
+   "행복해지려면 이게 정말 필요한가?"
+  ],
+  [
+   "Perfection is the enemy of consistency.",
+   "완벽함은 꾸준함의 적이다."
+  ],
+  [
+   "A burger you eat once a month is a celebration.",
+   "한 달에 한 번 먹는 버거는 축하다."
+  ],
+  [
+   "Having options is the truest form of wealth.",
+   "선택지가 있다는 게 가장 진정한 부다."
+  ],
+  [
+   "It is a tiny piece of future freedom.",
+   "그건 미래의 자유 한 조각이다."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "sputter",
+   "ko": "(엔진이) 털털거리다",
+   "ex": "Suddenly the engine just sputters.",
+   "exKo": "갑자기 엔진이 털털거린다."
+  },
+  {
+   "es": "balance",
+   "ko": "잔고",
+   "ex": "You are staring at a balance of exactly zero.",
+   "exKo": "잔고가 딱 0이다."
+  },
+  {
+   "es": "swallow your pride",
+   "ko": "자존심을 굽히다",
+   "ex": "You have to swallow your pride and call your parents.",
+   "exKo": "자존심을 굽히고 부모님께 전화해야 한다."
+  },
+  {
+   "es": "powerlessness",
+   "ko": "무력감",
+   "ex": "That feeling of complete powerlessness.",
+   "exKo": "그 완전한 무력감."
+  },
+  {
+   "es": "breaking point",
+   "ko": "한계점",
+   "ex": "until they hit that kind of breaking point",
+   "exKo": "그런 한계점에 부딪힐 때까지"
+  },
+  {
+   "es": "tug of war",
+   "ko": "줄다리기",
+   "ex": "a brutal tug of war between saving and enjoying life",
+   "exKo": "저축과 즐기기 사이의 치열한 줄다리기"
+  },
+  {
+   "es": "unpack",
+   "ko": "(내용을) 하나씩 풀다",
+   "ex": "Okay, let's unpack this.",
+   "exKo": "자, 하나씩 풀어 보자."
+  },
+  {
+   "es": "guilt-inducing",
+   "ko": "죄책감을 주는",
+   "ex": "a dry, guilt-inducing lecture on skipping lattes",
+   "exKo": "라테를 끊으라는 건조하고 죄책감 드는 잔소리"
+  },
+  {
+   "es": "wake-up call",
+   "ko": "경종, 정신이 번쩍 드는 일",
+   "ex": "It usually requires a pretty harsh wake-up call.",
+   "exKo": "보통 꽤 혹독한 경종이 필요하다."
+  },
+  {
+   "es": "stingy",
+   "ko": "인색한",
+   "ex": "He described his former self as stingy.",
+   "exKo": "그는 예전의 자신을 인색했다고 표현했다."
+  },
+  {
+   "es": "understatement",
+   "ko": "절제된 표현, 과소평가",
+   "ex": "That almost feels like an understatement.",
+   "exKo": "그 말도 약하게 느껴질 정도다."
+  },
+  {
+   "es": "turn down",
+   "ko": "거절하다",
+   "ex": "He was constantly turning down his friends.",
+   "exKo": "친구들의 제안을 계속 거절했다."
+  },
+  {
+   "es": "take a toll",
+   "ko": "큰 대가를 치르게 하다",
+   "ex": "And that takes a huge toll.",
+   "exKo": "그건 큰 대가를 치르게 한다."
+  },
+  {
+   "es": "hoard",
+   "ko": "(돈을) 쌓아 두다",
+   "ex": "ruining his current life just to hoard cash",
+   "exKo": "돈을 쌓아 두느라 현재의 삶을 망치는"
+  },
+  {
+   "es": "dictate",
+   "ko": "좌우하다, 지시하다",
+   "ex": "A broken car dictates your life.",
+   "exKo": "고장 난 차가 삶을 좌우한다."
+  },
+  {
+   "es": "buffer",
+   "ko": "완충 장치, 여유분",
+   "ex": "Because you have no buffer.",
+   "exKo": "완충 장치가 없으니까."
+  },
+  {
+   "es": "autonomy",
+   "ko": "자율성",
+   "ex": "You completely lose your autonomy.",
+   "exKo": "자율성을 완전히 잃는다."
+  },
+  {
+   "es": "hyperventilate",
+   "ko": "과호흡하다",
+   "ex": "If you hyperventilate, you also pass out.",
+   "exKo": "과호흡해도 기절한다."
+  },
+  {
+   "es": "suffocate",
+   "ko": "숨이 막히다",
+   "ex": "How do we find that rhythm without suffocating?",
+   "exKo": "숨 막히지 않고 그 리듬을 어떻게 찾을까?"
+  },
+  {
+   "es": "essentials",
+   "ko": "필수품, 필수 비용",
+   "ex": "50% goes to unavoidable essentials like rent.",
+   "exKo": "50%는 월세 같은 피할 수 없는 필수 비용에 간다."
+  },
+  {
+   "es": "push back",
+   "ko": "반론하다",
+   "ex": "I need to push back right off the top.",
+   "exKo": "처음부터 반론을 해야겠다."
+  },
+  {
+   "es": "intimidating",
+   "ko": "겁나게 하는, 위압적인",
+   "ex": "It does sound intimidating at first.",
+   "exKo": "처음엔 겁이 나게 들린다."
+  },
+  {
+   "es": "afterthought",
+   "ko": "뒷전, 나중에 덧붙인 생각",
+   "ex": "You are treating your own future as an afterthought.",
+   "exKo": "자신의 미래를 뒷전으로 취급하고 있다."
+  },
+  {
+   "es": "untouchable",
+   "ko": "손댈 수 없는",
+   "ex": "making that 20% untouchable",
+   "exKo": "그 20%를 손댈 수 없게 만들기"
+  },
+  {
+   "es": "deprived",
+   "ko": "결핍감을 느끼는",
+   "ex": "Does she not feel super deprived?",
+   "exKo": "엄청 결핍감을 느끼지 않을까?"
+  },
+  {
+   "es": "account for",
+   "ko": "(미리) 계산에 넣다",
+   "ex": "Because it's already accounted for.",
+   "exKo": "이미 계산에 들어가 있으니까."
+  },
+  {
+   "es": "nagging",
+   "ko": "계속 신경 쓰이는, 찜찜한",
+   "ex": "that nagging anxiety whispering in her ear",
+   "exKo": "귀에 속삭이는 그 찜찜한 불안"
+  },
+  {
+   "es": "relative deprivation",
+   "ko": "상대적 박탈감",
+   "ex": "It creates a sense of relative deprivation.",
+   "exKo": "상대적 박탈감을 만든다."
+  },
+  {
+   "es": "curated",
+   "ko": "잘 골라 꾸민",
+   "ex": "that curated online life",
+   "exKo": "잘 꾸며진 온라인 속 삶"
+  },
+  {
+   "es": "crippling debt",
+   "ko": "감당 못 할 빚",
+   "ex": "It's fueled by hidden, crippling debt.",
+   "exKo": "숨겨진 감당 못 할 빚으로 굴러간다."
+  },
+  {
+   "es": "highlight reel",
+   "ko": "하이라이트 영상(좋은 장면만)",
+   "ex": "someone else's heavily financed highlight reel",
+   "exKo": "빚으로 만든 남의 하이라이트 영상"
+  },
+  {
+   "es": "emulate",
+   "ko": "따라 하다, 모방하다",
+   "ex": "The pressure to emulate them begins to evaporate.",
+   "exKo": "그들을 따라 하려는 압박이 사라지기 시작한다."
+  },
+  {
+   "es": "prefrontal cortex",
+   "ko": "전전두엽",
+   "ex": "You force your prefrontal cortex to step in.",
+   "exKo": "전전두엽이 나서게 만든다."
+  },
+  {
+   "es": "override",
+   "ko": "무시하고 덮어쓰다, 누르다",
+   "ex": "override that primitive impulse",
+   "exKo": "그 원초적인 충동을 누르다"
+  },
+  {
+   "es": "micro-spending",
+   "ko": "마이크로 지출(작고 잦은 지출)",
+   "ex": "They talk about micro-spending.",
+   "exKo": "그들은 마이크로 지출 이야기를 한다."
+  },
+  {
+   "es": "sneak up on",
+   "ko": "모르는 새 다가오다",
+   "ex": "It sneaks up on you so fast.",
+   "exKo": "정말 순식간에 슬금슬금 불어난다."
+  },
+  {
+   "es": "recurring",
+   "ko": "반복되는",
+   "ex": "a small, recurring three-euro charge",
+   "exKo": "반복되는 3유로짜리 작은 결제"
+  },
+  {
+   "es": "vanish into thin air",
+   "ko": "감쪽같이 사라지다",
+   "ex": "Over a thousand euros a year is vanishing into thin air.",
+   "exKo": "1년에 1000유로 넘게 허공으로 사라진다."
+  },
+  {
+   "es": "willpower",
+   "ko": "의지력",
+   "ex": "Willpower runs out.",
+   "exKo": "의지력은 바닥난다."
+  },
+  {
+   "es": "deplete",
+   "ko": "고갈시키다, 줄어들다",
+   "ex": "It depletes throughout the day.",
+   "exKo": "하루 동안 점점 고갈된다."
+  },
+  {
+   "es": "meal prep",
+   "ko": "밀프렙(미리 음식 준비)",
+   "ex": "She does Sunday afternoon meal prep.",
+   "exKo": "그녀는 일요일 오후에 밀프렙을 한다."
+  },
+  {
+   "es": "decision fatigue",
+   "ko": "결정 피로",
+   "ex": "Decision fatigue is a biological reality.",
+   "exKo": "결정 피로는 생물학적 현실이다."
+  },
+  {
+   "es": "grueling",
+   "ko": "고된, 녹초가 되게 하는",
+   "ex": "after a grueling week",
+   "exKo": "고된 한 주를 보낸 뒤"
+  },
+  {
+   "es": "sustenance",
+   "ko": "끼니, 생명을 유지하는 음식",
+   "ex": "A burger you eat every day is just sustenance.",
+   "exKo": "매일 먹는 버거는 그냥 끼니다."
+  },
+  {
+   "es": "hedonic adaptation",
+   "ko": "쾌락 적응",
+   "ex": "a psychological mechanism called hedonic adaptation",
+   "exKo": "쾌락 적응이라는 심리 메커니즘"
+  },
+  {
+   "es": "appreciate / depreciate",
+   "ko": "가치가 오르다 / 떨어지다",
+   "ex": "The memory appreciates in value while the phone depreciates.",
+   "exKo": "추억은 가치가 오르고 휴대폰은 떨어진다."
+  },
+  {
+   "es": "trade-off",
+   "ko": "맞바꿈, 기회비용",
+   "ex": "He sees the trade-off.",
+   "exKo": "그는 맞바꾸는 것을 본다."
+  },
+  {
+   "es": "paycheck to paycheck",
+   "ko": "월급날만 바라보며",
+   "ex": "trapped living paycheck to paycheck",
+   "exKo": "월급날만 바라보며 사는 처지에 갇힌"
+  },
+  {
+   "es": "derail",
+   "ko": "탈선시키다, 틀어지게 하다",
+   "ex": "Our best-laid plans often get derailed.",
+   "exKo": "철저한 계획도 종종 틀어진다."
+  },
+  {
+   "es": "retail therapy",
+   "ko": "쇼핑으로 기분 풀기",
+   "ex": "We call it retail therapy.",
+   "exKo": "그걸 리테일 테라피라고 한다."
+  },
+  {
+   "es": "coping mechanism",
+   "ko": "대처 방식",
+   "ex": "It's a coping mechanism.",
+   "exKo": "그건 대처 방식이다."
+  },
+  {
+   "es": "vent",
+   "ko": "(감정을) 털어놓다",
+   "ex": "calling a friend to vent",
+   "exKo": "친구에게 전화해서 털어놓기"
+  },
+  {
+   "es": "silo",
+   "ko": "칸막이, 따로 떨어진 영역",
+   "ex": "Your health and your bank account are not separate silos.",
+   "exKo": "건강과 통장은 따로 떨어진 칸막이가 아니다."
+  },
+  {
+   "es": "vicious cycle",
+   "ko": "악순환",
+   "ex": "It's a vicious cycle.",
+   "exKo": "악순환이다."
+  },
+  {
+   "es": "mull over",
+   "ko": "곰곰이 생각하다",
+   "ex": "one final lingering thought to mull over",
+   "exKo": "곱씹어 볼 마지막 생각 하나"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How does the episode begin?",
+   "options": [
+    "With a job interview",
+    "With a broken-down car and a balance of zero",
+    "With a shopping trip",
+    "With a vacation"
+   ],
+   "answer": 1,
+   "explain": "엔진이 멈추고 은행 앱의 잔고가 0인 장면으로 시작해요."
+  },
+  {
+   "q": "What was Mateo's problem before?",
+   "options": [
+    "He spent everything",
+    "He was so stingy that he became isolated and bored",
+    "He had huge debts",
+    "He lost his job"
+   ],
+   "answer": 1,
+   "explain": "친구들의 초대를 늘 거절하다가 고립되고 지루해졌어요."
+  },
+  {
+   "q": "According to the hosts, both extremes lead to…",
+   "options": [
+    "wealth",
+    "losing your autonomy",
+    "more friends",
+    "better health"
+   ],
+   "answer": 1,
+   "explain": "\"In both scenarios you end up miserable and you completely lose your autonomy.\""
+  },
+  {
+   "q": "In the 50-30-20 rule, what is the 20% for?",
+   "options": [
+    "Rent",
+    "Fun",
+    "Savings",
+    "Food"
+   ],
+   "answer": 2,
+   "explain": "50% 필수 비용, 30% 즐기기, 20% 저축."
+  },
+  {
+   "q": "What does \"paying yourself first\" mean?",
+   "options": [
+    "Buying yourself a gift",
+    "Saving before paying anyone else",
+    "Getting paid early",
+    "Paying with cash"
+   ],
+   "answer": 1,
+   "explain": "월급을 받는 순간 저축분을 먼저 떼어 두는 것이에요."
+  },
+  {
+   "q": "Why does Sofia not feel guilty spending her 30%?",
+   "options": [
+    "Because it is already accounted for",
+    "Because she earns a lot",
+    "Because her parents pay",
+    "Because she spends little"
+   ],
+   "answer": 0,
+   "explain": "\"Oh, because it's already accounted for.\" 이미 저축은 해 두었으니까요."
+  },
+  {
+   "q": "You feel poor, not because you don't have enough, ___ because of what others seem to have.",
+   "options": [
+    "and",
+    "but",
+    "so",
+    "or"
+   ],
+   "answer": 1,
+   "explain": "not because A, but because B = A 때문이 아니라 B 때문에."
+  },
+  {
+   "q": "What question does Mateo ask before buying?",
+   "options": [
+    "Is it on sale?",
+    "Do I really need this to be happy?",
+    "Do my friends have it?",
+    "Can I return it?"
+   ],
+   "answer": 1,
+   "explain": "\"Do I really need this to be happy?\""
+  },
+  {
+   "q": "Micro-spending is compared to…",
+   "options": [
+    "a broken car",
+    "invisible background apps draining your battery",
+    "a prison",
+    "a highlight reel"
+   ],
+   "answer": 1,
+   "explain": "보이지 않는 백그라운드 앱이 배터리를 다 써 버리는 것과 같아요."
+  },
+  {
+   "q": "___ that 20% untouchable, you secure your own stability.",
+   "options": [
+    "By making",
+    "To make",
+    "Make",
+    "Made"
+   ],
+   "answer": 0,
+   "explain": "by + -ing = ~함으로써."
+  },
+  {
+   "q": "Why do experiences last longer than things?",
+   "options": [
+    "They are cheaper",
+    "Because of hedonic adaptation: we get used to objects we see every day",
+    "Because phones break",
+    "Because they are shared online"
+   ],
+   "answer": 1,
+   "explain": "물건은 매일 보니까 금방 익숙해지고(쾌락 적응), 경험은 정체성의 일부가 돼요."
+  },
+  {
+   "q": "Why does exercise help more than buying a dress?",
+   "options": [
+    "It is cheaper",
+    "It completes the biological stress cycle",
+    "It is more fun",
+    "It takes less time"
+   ],
+   "answer": 1,
+   "explain": "몸을 움직이면 코르티솔·아드레날린 같은 스트레스 호르몬이 씻겨 나가요."
+  }
+ ],
+ "sections": [
+  {
+   "title": "도입 — 잔고 0원, 길가에 멈춘 차",
+   "lines": [
+    {
+     "t": 0.0,
+     "s": "A",
+     "es": "Imagine this, right?",
+     "ko": "이런 상황을 상상해 보세요."
+    },
+    {
+     "t": 1.2,
+     "s": "A",
+     "es": "You're driving home after a super long day and suddenly the engine just sputters.",
+     "ko": "엄청 긴 하루를 보내고 차를 몰고 집에 가는데, 갑자기 엔진이 털털거려요."
+    },
+    {
+     "t": 6.3,
+     "s": "B",
+     "es": "Oh no.",
+     "ko": "아, 안 돼."
+    },
+    {
+     "t": 7.3,
+     "s": "A",
+     "es": "Yeah, and your car just completely dies right on the side of the road.",
+     "ko": "네, 그리고 차가 길가에서 완전히 멈춰 버려요."
+    },
+    {
+     "t": 10.3,
+     "s": "A",
+     "es": "So you pull out your phone, you open your banking app and you are staring at a balance of exactly zero.",
+     "ko": "그래서 휴대폰을 꺼내 은행 앱을 열었는데, 잔고가 딱 0이에요."
+    },
+    {
+     "t": 17.2,
+     "s": "B",
+     "es": "That is just the worst feeling.",
+     "ko": "그건 정말 최악의 기분이죠."
+    },
+    {
+     "t": 19.1,
+     "s": "A",
+     "es": "It really is.",
+     "ko": "정말 그래요."
+    },
+    {
+     "t": 20.0,
+     "s": "A",
+     "es": "The sheer crushing panic that washes over you when you realize you have to swallow your pride, call your parents and basically beg for a loan just to get the car fixed.",
+     "ko": "자존심을 굽히고 부모님께 전화해서 차를 고치려고 거의 돈을 빌려 달라고 빌어야 한다는 걸 깨달을 때 밀려오는, 숨이 막힐 듯한 공황감이요."
+    },
+    {
+     "t": 30.3,
+     "s": "B",
+     "es": "Just so you can make it to work on Monday, right?",
+     "ko": "그냥 월요일에 출근하려고요, 그렇죠?"
+    },
+    {
+     "t": 31.8,
+     "s": "A",
+     "es": "Exactly. And that feeling of complete powerlessness, that is exactly where our story begins today.",
+     "ko": "바로 그거예요. 그리고 그 완전한 무력감, 거기서 오늘 우리 이야기가 시작돼요."
+    },
+    {
+     "t": 37.7,
+     "s": "B",
+     "es": "Because it's a terrifying place to be.",
+     "ko": "정말 무서운 처지니까요."
+    },
+    {
+     "t": 39.6,
+     "s": "B",
+     "es": "And, you know, unfortunately it's a reality for a lot of people until they hit that kind of breaking point, the kind that forces a massive change.",
+     "ko": "그리고 안타깝게도 많은 사람에게는 그런 한계점, 큰 변화를 강요하는 그런 지점에 부딪히기 전까지 이게 현실이에요."
+    },
+    {
+     "t": 47.7,
+     "s": "A",
+     "es": "Right. And we are looking right at you, the listener, today.",
+     "ko": "맞아요. 그리고 오늘은 바로 청취자 여러분을 보고 있어요."
+    },
+    {
+     "t": 51.8,
+     "s": "A",
+     "es": "If you've ever felt caught in a brutal tug of war between, you know, saving for tomorrow and actually trying to enjoy your life right now, we are unpacking this specifically for you.",
+     "ko": "내일을 위해 저축하는 것과 지금 삶을 즐기려는 것 사이의 치열한 줄다리기에 끼어 있다고 느낀 적이 있다면, 바로 당신을 위해 이걸 풀어 볼게요."
+    },
+    {
+     "t": 62.9,
+     "s": "B",
+     "es": "It's a huge struggle for so many of us.",
+     "ko": "정말 많은 사람에게 큰 고민이죠."
+    },
+    {
+     "t": 65.5,
+     "s": "A",
+     "es": "Oh, totally.",
+     "ko": "아, 완전히요."
+    }
+   ]
+  },
+  {
+   "title": "오늘의 자료 — Easy Spanish Podcast 65화",
+   "lines": [
+    {
+     "t": 66.7,
+     "s": "B",
+     "es": "We're taking a deep dive into this really fascinating conversation from episode 65 of the Easy Spanish Podcast.",
+     "ko": "오늘은 Easy Spanish Podcast 65화의 아주 흥미로운 대화를 깊이 파고들어요."
+    },
+    {
+     "t": 74.0,
+     "s": "A",
+     "es": "We're following these two people, Mateo and Sofia.",
+     "ko": "마테오와 소피아라는 두 사람을 따라가 볼 거예요."
+    },
+    {
+     "t": 76.5,
+     "s": "B",
+     "es": "Yeah, their stories are great.",
+     "ko": "네, 두 사람 이야기가 정말 좋아요."
+    },
+    {
+     "t": 77.6,
+     "s": "A",
+     "es": "They really share their incredibly messy, like, very real evolutions with money.",
+     "ko": "돈과 관련해 엄청 엉망진창이었던, 정말 현실적인 변화 과정을 털어놓거든요."
+    },
+    {
+     "t": 83.0,
+     "s": "A",
+     "es": "And I want to be clear, our mission today isn't to give you some dry, guilt-inducing lecture on skipping lattes.",
+     "ko": "그리고 분명히 해 두고 싶은 건, 오늘의 목표가 라테를 끊으라는 건조하고 죄책감 드는 잔소리를 하는 게 아니라는 거예요."
+    },
+    {
+     "t": 89.1,
+     "s": "B",
+     "es": "No, nobody wants that.",
+     "ko": "그럼요, 그런 건 아무도 원하지 않죠."
+    },
+    {
+     "t": 90.3,
+     "s": "A",
+     "es": "Nobody. We are talking about how to literally buy your own freedom.",
+     "ko": "아무도요. 우리는 말 그대로 자신의 자유를 사는 법에 대해 이야기할 거예요."
+    },
+    {
+     "t": 94.7,
+     "s": "B",
+     "es": "I love that framing.",
+     "ko": "그 관점 정말 좋네요."
+    },
+    {
+     "t": 95.5,
+     "s": "B",
+     "es": "And getting to that freedom, well, it usually requires a pretty harsh wake-up call, much like the one you just described with the broken-down car.",
+     "ko": "그리고 그 자유에 이르려면 보통 꽤 혹독한 경종이 필요하죠. 방금 말한 고장 난 차처럼요."
+    }
+   ]
+  },
+  {
+   "title": "극단 ① 소피아 — 다 써 버리는 사람",
+   "lines": [
+    {
+     "t": 103.5,
+     "s": "A",
+     "es": "Okay, let's unpack this, because Sofia's story is basically the perfect example of the classic spender.",
+     "ko": "자, 하나씩 풀어 보죠. 소피아의 이야기는 전형적인 '쓰는 사람'의 완벽한 예거든요."
+    },
+    {
+     "t": 108.8,
+     "s": "B",
+     "es": "Oh, absolutely.",
+     "ko": "아, 물론이죠."
+    },
+    {
+     "t": 109.8,
+     "s": "A",
+     "es": "Like, before her car engine died, money would hit her account and just vanish.",
+     "ko": "차 엔진이 망가지기 전에는 돈이 계좌에 들어오면 그냥 사라졌대요."
+    },
+    {
+     "t": 114.9,
+     "s": "A",
+     "es": "Clothes, coffee, electronics, literally whatever caught her eye.",
+     "ko": "옷, 커피, 전자 제품, 말 그대로 눈에 띄는 건 뭐든지요."
+    },
+    {
+     "t": 117.8,
+     "s": "B",
+     "es": "She was just living completely in the moment.",
+     "ko": "완전히 그 순간만 보고 살았던 거죠."
+    },
+    {
+     "t": 120.1,
+     "s": "A",
+     "es": "Exactly. She entirely ignored the future until the future literally came crashing through her windshield.",
+     "ko": "맞아요. 미래가 말 그대로 앞 유리를 뚫고 들이닥칠 때까지 미래를 완전히 무시했죠."
+    }
+   ]
+  },
+  {
+   "title": "극단 ② 마테오 — 한 푼도 안 쓰는 사람",
+   "lines": [
+    {
+     "t": 125.8,
+     "s": "A",
+     "es": "But then, on the complete flip side, you have Mateo.",
+     "ko": "그런데 완전히 반대편에는 마테오가 있어요."
+    },
+    {
+     "t": 128.4,
+     "s": "B",
+     "es": "Right, Mateo was fascinating.",
+     "ko": "맞아요, 마테오는 정말 흥미로웠어요."
+    },
+    {
+     "t": 130.2,
+     "s": "A",
+     "es": "Yeah, he was living on the total opposite end of the spectrum.",
+     "ko": "네, 그는 스펙트럼의 정반대 끝에서 살고 있었어요."
+    },
+    {
+     "t": 133.4,
+     "s": "B",
+     "es": "I mean, he described his former self as stingy, which honestly almost feels like an understatement when you look at what his habits actually were.",
+     "ko": "그는 예전의 자신을 '인색했다'고 표현했는데, 실제 습관을 보면 솔직히 그 말도 약하게 느껴질 정도예요."
+    },
+    {
+     "t": 140.0,
+     "s": "A",
+     "es": "Oh, way beyond stingy.",
+     "ko": "아, 인색한 정도를 훨씬 넘었죠."
+    },
+    {
+     "t": 142.0,
+     "s": "A",
+     "es": "He was so terrified of spending a single cent that he was constantly turning down his friends.",
+     "ko": "단 1센트 쓰는 것도 너무 두려워서 친구들의 제안을 계속 거절했어요."
+    },
+    {
+     "t": 146.8,
+     "s": "A",
+     "es": "Like, whenever they invited him out for drinks or any social event, he just said no.",
+     "ko": "한잔하러 가자거나 어떤 모임에 초대해도 그냥 거절했대요."
+    },
+    {
+     "t": 151.0,
+     "s": "B",
+     "es": "And that takes a huge toll.",
+     "ko": "그건 큰 대가를 치르게 하죠."
+    },
+    {
+     "t": 152.4,
+     "s": "A",
+     "es": "It does. His breaking point wasn't a massive mechanical failure like Sofia's.",
+     "ko": "그래요. 그의 한계점은 소피아처럼 큰 기계 고장이 아니었어요."
+    },
+    {
+     "t": 157.6,
+     "s": "A",
+     "es": "He was sitting completely alone in his apartment, realizing he was totally isolated.",
+     "ko": "아파트에 완전히 혼자 앉아 있다가, 자신이 완전히 고립되어 있다는 걸 깨달은 거예요."
+    },
+    {
+     "t": 163.0,
+     "s": "B",
+     "es": "Just intensely bored, I imagine.",
+     "ko": "엄청 지루하기도 했겠네요."
+    },
+    {
+     "t": 164.8,
+     "s": "A",
+     "es": "So bored, and essentially ruining his current life just to hoard cash for some distant, undefined future.",
+     "ko": "너무 지루했고, 막연하고 먼 미래를 위해 돈을 쌓아 두느라 사실상 현재의 삶을 망치고 있었죠."
+    }
+   ]
+  },
+  {
+   "title": "두 극단은 같은 결과 — 돈은 도구, 호흡처럼",
+   "lines": [
+    {
+     "t": 172.4,
+     "s": "B",
+     "es": "What's fascinating here is that both of these extremes, they actually lead to the exact same outcome.",
+     "ko": "여기서 흥미로운 건 이 두 극단이 사실 똑같은 결과로 이어진다는 거예요."
+    },
+    {
+     "t": 177.9,
+     "s": "B",
+     "es": "Wait, really? How so?",
+     "ko": "잠깐, 정말요? 어떻게요?"
+    },
+    {
+     "t": 180.0,
+     "s": "B",
+     "es": "Well, think about it.",
+     "ko": "생각해 보세요."
+    },
+    {
+     "t": 181.2,
+     "s": "A",
+     "es": "Okay.",
+     "ko": "네."
+    },
+    {
+     "t": 181.6,
+     "s": "B",
+     "es": "When you have absolutely no control over your spending, like Sofia, a broken car dictates your life.",
+     "ko": "소피아처럼 지출을 전혀 통제하지 못하면, 고장 난 차가 삶을 좌우해요."
+    },
+    {
+     "t": 187.0,
+     "s": "A",
+     "es": "Oh, right. Because you have no buffer.",
+     "ko": "아, 그렇죠. 완충 장치가 없으니까요."
+    },
+    {
+     "t": 189.6,
+     "s": "B",
+     "es": "Exactly. But when you have too much rigid, obsessive control, like Mateo, your own fear dictates your life.",
+     "ko": "맞아요. 하지만 마테오처럼 너무 경직되고 집착적으로 통제하면, 자신의 두려움이 삶을 좌우하죠."
+    },
+    {
+     "t": 197.4,
+     "s": "A",
+     "es": "Ah, I see what you mean.",
+     "ko": "아, 무슨 말인지 알겠어요."
+    },
+    {
+     "t": 198.9,
+     "s": "B",
+     "es": "Yeah. In both scenarios you end up miserable and you completely lose your autonomy.",
+     "ko": "네. 두 경우 모두 결국 비참해지고 자율성을 완전히 잃어요."
+    },
+    {
+     "t": 204.1,
+     "s": "B",
+     "es": "Money has to be viewed as a tool.",
+     "ko": "돈은 도구로 봐야 해요."
+    },
+    {
+     "t": 206.5,
+     "s": "A",
+     "es": "A tool, not, like, the ultimate goal itself.",
+     "ko": "도구지, 궁극적인 목표 그 자체가 아니라는 거죠."
+    },
+    {
+     "t": 208.8,
+     "s": "B",
+     "es": "Right. When hoarding the money becomes the sole objective, you just lose the plot of your own life.",
+     "ko": "맞아요. 돈을 쌓아 두는 게 유일한 목표가 되면 자기 인생의 줄거리를 잃어버려요."
+    },
+    {
+     "t": 216.0,
+     "s": "B",
+     "es": "It makes me think of breathing, honestly.",
+     "ko": "솔직히 호흡이 생각나네요."
+    },
+    {
+     "t": 218.4,
+     "s": "B",
+     "es": "Breathing? How so?",
+     "ko": "호흡이요? 어떻게요?"
+    },
+    {
+     "t": 219.5,
+     "s": "A",
+     "es": "Well, if you never exhale, which is like saving every single penny and never spending, eventually you pass out.",
+     "ko": "숨을 절대 내쉬지 않으면, 그러니까 한 푼도 빠짐없이 모으고 전혀 쓰지 않으면, 결국 기절하잖아요."
+    },
+    {
+     "t": 224.7,
+     "s": "B",
+     "es": "Oh, that's a great way to put it.",
+     "ko": "아, 아주 좋은 표현이네요."
+    },
+    {
+     "t": 225.6,
+     "s": "A",
+     "es": "Right. But if you hyperventilate, like just spending instantly the second money comes in, you also pass out.",
+     "ko": "그렇죠. 하지만 과호흡하면, 그러니까 돈이 들어오자마자 바로 써 버리면, 그것도 기절해요."
+    },
+    {
+     "t": 232.0,
+     "s": "A",
+     "es": "You need a rhythm.",
+     "ko": "리듬이 필요해요."
+    },
+    {
+     "t": 232.9,
+     "s": "B",
+     "es": "You really do.",
+     "ko": "정말 그래요."
+    },
+    {
+     "t": 234.3,
+     "s": "A",
+     "es": "But I mean, I'm looking at these extremes and I have to ask you, how do we actually find that rhythm without suffocating?",
+     "ko": "그런데 이 극단들을 보고 있자니 묻지 않을 수 없네요. 숨 막히지 않으면서 그 리듬을 실제로 어떻게 찾죠?"
+    },
+    {
+     "t": 239.7,
+     "s": "B",
+     "es": "You find it by building a system.",
+     "ko": "시스템을 만들어서 찾아요."
+    },
+    {
+     "t": 241.7,
+     "s": "B",
+     "es": "A system that makes the decisions for you, so you're removing the emotion from those moment-to-moment choices.",
+     "ko": "나 대신 결정을 내려 주는 시스템이요. 그러면 순간순간의 선택에서 감정을 빼낼 수 있죠."
+    }
+   ]
+  },
+  {
+   "title": "50·30·20 규칙 — 나에게 먼저 지불하기",
+   "lines": [
+    {
+     "t": 247.8,
+     "s": "A",
+     "es": "Okay. Which brings us perfectly to how Sofia actually fixed her chaotic situation.",
+     "ko": "좋아요. 그게 바로 소피아가 엉망인 상황을 어떻게 바로잡았는지로 이어지네요."
+    },
+    {
+     "t": 252.9,
+     "s": "A",
+     "es": "She started using the 50-30-20 monthly budget rule.",
+     "ko": "그녀는 50·30·20 월 예산 규칙을 쓰기 시작했어요."
+    },
+    {
+     "t": 256.8,
+     "s": "B",
+     "es": "Yes. Very classic, very effective strategy.",
+     "ko": "네. 아주 고전적이고 아주 효과적인 전략이죠."
+    },
+    {
+     "t": 260.3,
+     "s": "A",
+     "es": "Super straightforward breakdown.",
+     "ko": "아주 단순하게 나눠요."
+    },
+    {
+     "t": 262.3,
+     "s": "A",
+     "es": "So 50% goes to unavoidable essentials like rent, bills, groceries.",
+     "ko": "50%는 월세, 각종 요금, 장보기 같은 피할 수 없는 필수 비용에 가요."
+    },
+    {
+     "t": 267.3,
+     "s": "B",
+     "es": "Then 30% is for enjoyment, like eating out, going to the movies, travel, stuff like that.",
+     "ko": "그리고 30%는 외식, 영화, 여행 같은 즐기는 데 써요."
+    },
+    {
+     "t": 272.6,
+     "s": "A",
+     "es": "Exactly. And the final 20% is for savings.",
+     "ko": "맞아요. 그리고 마지막 20%는 저축이에요."
+    },
+    {
+     "t": 276.1,
+     "s": "B",
+     "es": "But wait, I need to push back right off the top.",
+     "ko": "그런데 잠깐, 처음부터 반론을 좀 해야겠어요."
+    },
+    {
+     "t": 283.2,
+     "s": "A",
+     "es": "I mean, for someone who's already struggling to pay rent, or who is just used to spending everything immediately like Sofia was, locking away a fifth of their income right away sounds completely impossible.",
+     "ko": "이미 월세 내기도 빠듯한 사람이나, 예전의 소피아처럼 다 바로 써 버리는 데 익숙한 사람에게 수입의 5분의 1을 곧바로 묶어 두는 건 완전히 불가능하게 들려요."
+    },
+    {
+     "t": 294.5,
+     "s": "B",
+     "es": "It does sound intimidating at first.",
+     "ko": "처음엔 겁이 나게 들리긴 하죠."
+    },
+    {
+     "t": 296.4,
+     "s": "B",
+     "es": "How does she actually justify that to herself?",
+     "ko": "그녀는 그걸 스스로 어떻게 납득했을까요?"
+    },
+    {
+     "t": 299.0,
+     "s": "B",
+     "es": "Well, it feels impossible if you view it as a sacrifice.",
+     "ko": "희생으로 보면 불가능하게 느껴져요."
+    },
+    {
+     "t": 302.0,
+     "s": "B",
+     "es": "But in financial planning we call this paying yourself first.",
+     "ko": "하지만 재무 설계에서는 이걸 '나에게 먼저 지불하기'라고 불러요."
+    },
+    {
+     "t": 305.3,
+     "s": "A",
+     "es": "Paying yourself first.",
+     "ko": "나에게 먼저 지불하기."
+    },
+    {
+     "t": 306.5,
+     "s": "B",
+     "es": "Yeah.",
+     "ko": "네."
+    },
+    {
+     "t": 306.9,
+     "s": "A",
+     "es": "Okay.",
+     "ko": "그렇군요."
+    },
+    {
+     "t": 307.4,
+     "s": "B",
+     "es": "Yeah, the psychology here is so critical.",
+     "ko": "네, 여기 담긴 심리가 정말 중요해요."
+    },
+    {
+     "t": 309.5,
+     "s": "B",
+     "es": "If you pay your landlord, your utility company and the local restaurants first, you are treating your own future as an afterthought.",
+     "ko": "집주인, 공과금 회사, 동네 식당에 먼저 돈을 내면, 자신의 미래를 뒷전으로 취급하는 거예요."
+    },
+    {
+     "t": 317.1,
+     "s": "A",
+     "es": "Oh, wow. I never thought about it like that.",
+     "ko": "와, 그렇게는 생각해 본 적이 없어요."
+    },
+    {
+     "t": 320.1,
+     "s": "B",
+     "es": "Right. By making that 20% untouchable the very second you get paid, you are securing your own stability before you fund anyone else's business.",
+     "ko": "그렇죠. 월급을 받는 그 순간 20%를 손댈 수 없게 만들면, 남의 사업에 돈을 대기 전에 자기 안정을 먼저 확보하는 거예요."
+    },
+    {
+     "t": 330.4,
+     "s": "A",
+     "es": "Okay, I see. So she secures the future first.",
+     "ko": "아, 알겠어요. 그러니까 미래를 먼저 지키는 거네요."
+    },
+    {
+     "t": 334.2,
+     "s": "A",
+     "es": "Then she pays the baseline survival bills with that 50% bucket.",
+     "ko": "그다음 50% 몫으로 기본 생존 비용을 내고요."
+    },
+    {
+     "t": 337.6,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "맞아요."
+    }
+   ]
+  },
+  {
+   "title": "30%는 즐기는 돈 — 죄책감 없이 쓰기",
+   "lines": [
+    {
+     "t": 338.7,
+     "s": "A",
+     "es": "But I want to zero in on that 30% bucket for enjoyment, because Sofia actually says that if that 30% runs out by mid-month, she just stays home.",
+     "ko": "그런데 즐기기 위한 30% 몫을 좀 짚어 보고 싶어요. 소피아는 그 30%가 월 중순에 바닥나면 그냥 집에 있는대요."
+    },
+    {
+     "t": 348.2,
+     "s": "B",
+     "es": "Yep. She sets a hard limit.",
+     "ko": "네. 확실한 한도를 정한 거죠."
+    },
+    {
+     "t": 350.1,
+     "s": "A",
+     "es": "She just cooks, watches movies on the couch and waits for the next month.",
+     "ko": "그냥 요리하고 소파에서 영화 보면서 다음 달을 기다린대요."
+    },
+    {
+     "t": 353.9,
+     "s": "B",
+     "es": "Does she not feel super deprived doing that?",
+     "ko": "그러면 엄청 결핍감을 느끼지 않을까요?"
+    },
+    {
+     "t": 356.2,
+     "s": "B",
+     "es": "Actually, it's the exact opposite mechanism at play.",
+     "ko": "사실은 정반대의 메커니즘이 작동해요."
+    },
+    {
+     "t": 359.3,
+     "s": "A",
+     "es": "Really?",
+     "ko": "정말요?"
+    },
+    {
+     "t": 359.8,
+     "s": "B",
+     "es": "Yeah. Because by explicitly defining what portion of her income is meant for fun, it entirely removes the guilt from spending it.",
+     "ko": "네. 수입 중 얼마가 즐기기 위한 돈인지 분명히 정해 두면, 그 돈을 쓰는 데서 죄책감이 완전히 사라지거든요."
+    },
+    {
+     "t": 368.4,
+     "s": "A",
+     "es": "Oh, because it's already accounted for.",
+     "ko": "아, 이미 계산에 들어가 있으니까요."
+    },
+    {
+     "t": 370.6,
+     "s": "B",
+     "es": "Precisely. When she buys a movie ticket or has a nice dinner out of that 30%, she doesn't have that nagging anxiety whispering in her ear, like, \"I should be saving this money.\"",
+     "ko": "바로 그거예요. 그 30%로 영화표를 사거나 근사한 저녁을 먹을 때, '이 돈 모아야 하는데' 하고 귀에 속삭이는 찜찜한 불안이 없어요."
+    },
+    {
+     "t": 380.2,
+     "s": "A",
+     "es": "She already did save it.",
+     "ko": "이미 저축은 했으니까요."
+    },
+    {
+     "t": 381.5,
+     "s": "B",
+     "es": "Exactly. The 20% is already gone.",
+     "ko": "맞아요. 20%는 이미 떼어 놨어요."
+    },
+    {
+     "t": 383.5,
+     "s": "B",
+     "es": "Exactly. The system is doing its job.",
+     "ko": "그렇죠. 시스템이 제 역할을 하고 있는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "SNS의 압박 — 남의 하이라이트 영상",
+   "lines": [
+    {
+     "t": 386.0,
+     "s": "A",
+     "es": "But let's be real. On behalf of you, the listener, it's great to have a rule on a spreadsheet, right?",
+     "ko": "하지만 솔직해져 봐요. 청취자 여러분을 대신해 말하자면, 스프레드시트에 규칙이 있는 건 좋죠?"
+    },
+    {
+     "t": 392.1,
+     "s": "A",
+     "es": "But what happens when you are standing in a store holding something you really, really want?",
+     "ko": "그런데 정말 정말 갖고 싶은 걸 들고 가게에 서 있을 때는 어떻게 될까요?"
+    },
+    {
+     "t": 397.7,
+     "s": "B",
+     "es": "That is the ultimate test.",
+     "ko": "그게 진짜 시험이죠."
+    },
+    {
+     "t": 399.7,
+     "s": "A",
+     "es": "Or, you know, you're scrolling on your phone and you see influencers traveling to these exotic places or wearing luxury brands.",
+     "ko": "아니면 휴대폰을 넘기다가 인플루언서들이 이국적인 곳을 여행하거나 명품을 입은 걸 볼 때요."
+    },
+    {
+     "t": 406.0,
+     "s": "B",
+     "es": "Yeah. Social media makes this so much harder.",
+     "ko": "네. SNS가 이걸 훨씬 더 어렵게 만들어요."
+    },
+    {
+     "t": 408.4,
+     "s": "A",
+     "es": "It creates this immense, almost gravitational pressure to keep up.",
+     "ko": "따라가야 한다는 엄청난, 거의 중력 같은 압박을 만들어요."
+    },
+    {
+     "t": 412.7,
+     "s": "A",
+     "es": "It makes you feel like you are failing if you aren't spending to match that exact lifestyle.",
+     "ko": "그 생활 방식에 맞춰 돈을 쓰지 않으면 실패하고 있는 것처럼 느끼게 하죠."
+    },
+    {
+     "t": 417.6,
+     "s": "B",
+     "es": "That is the modern obstacle, for sure.",
+     "ko": "그게 분명 현대의 장애물이에요."
+    },
+    {
+     "t": 420.7,
+     "s": "B",
+     "es": "The environmental design of our digital world is actively working against us here.",
+     "ko": "디지털 세상의 환경 설계가 여기서 적극적으로 우리에게 불리하게 작동하고 있어요."
+    },
+    {
+     "t": 424.7,
+     "s": "A",
+     "es": "Totally.",
+     "ko": "완전히요."
+    },
+    {
+     "t": 425.0,
+     "s": "B",
+     "es": "Seeing that constant stream of consumption creates a sense of relative deprivation.",
+     "ko": "끊임없는 소비의 흐름을 보다 보면 상대적 박탈감이 생겨요."
+    },
+    {
+     "t": 429.6,
+     "s": "A",
+     "es": "Relative deprivation.",
+     "ko": "상대적 박탈감."
+    },
+    {
+     "t": 430.8,
+     "s": "B",
+     "es": "Yeah. Basically you feel poor, not because you don't have enough, but because of what you perceive everyone else has.",
+     "ko": "네. 쉽게 말해, 가진 게 부족해서가 아니라 다른 사람들이 가진 것처럼 보이는 것 때문에 가난하다고 느끼는 거예요."
+    },
+    {
+     "t": 437.0,
+     "s": "A",
+     "es": "It's all smoke and mirrors, though.",
+     "ko": "그런데 그건 다 눈속임이잖아요."
+    },
+    {
+     "t": 438.5,
+     "s": "A",
+     "es": "Sofia talks about feeling this immense pressure, but then also having this realization that much of that curated online life is entirely fake.",
+     "ko": "소피아는 이 엄청난 압박을 느꼈지만, 잘 꾸며진 온라인 속 삶의 상당 부분이 완전히 가짜라는 걸 깨달았다고 해요."
+    },
+    {
+     "t": 446.8,
+     "s": "A",
+     "es": "Oh, absolutely. Or even worse, it's fueled by hidden, crippling debt.",
+     "ko": "아, 물론이죠. 더 심하면 숨겨진 감당 못 할 빚으로 굴러가고 있고요."
+    },
+    {
+     "t": 450.5,
+     "s": "A",
+     "es": "Completely.",
+     "ko": "완전히요."
+    },
+    {
+     "t": 451.0,
+     "s": "B",
+     "es": "Completely. And if we connect this to the bigger picture, we are constantly comparing our boring, behind-the-scenes financial reality to someone else's heavily financed highlight reel.",
+     "ko": "완전히요. 더 큰 그림과 연결해 보면, 우리는 늘 지루한 무대 뒤의 내 재정 현실을, 빚으로 잔뜩 만든 남의 하이라이트 영상과 비교하고 있어요."
+    },
+    {
+     "t": 462.0,
+     "s": "A",
+     "es": "Such a good point.",
+     "ko": "정말 좋은 지적이에요."
+    },
+    {
+     "t": 462.9,
+     "s": "B",
+     "es": "A solid bank account and actual peace of mind in real life are infinitely more valuable than a fabricated, wealthy persona online.",
+     "ko": "현실의 튼튼한 통장과 진짜 마음의 평화가 온라인 속 꾸며 낸 부자 이미지보다 훨씬 더 가치 있어요."
+    },
+    {
+     "t": 470.9,
+     "s": "A",
+     "es": "When you realize the person in the designer clothes might be drowning in credit card debt, the pressure to emulate them kind of just begins to evaporate.",
+     "ko": "명품 옷을 입은 그 사람이 카드 빚에 허덕이고 있을지도 모른다는 걸 깨달으면, 그들을 따라 하려는 압박이 증발하기 시작해요."
+    },
+    {
+     "t": 478.4,
+     "s": "B",
+     "es": "It really does lose its shine.",
+     "ko": "정말 빛이 바래죠."
+    }
+   ]
+  },
+  {
+   "title": "멈춤의 힘 — 행복해지려면 정말 필요한가?",
+   "lines": [
+    {
+     "t": 480.6,
+     "s": "A",
+     "es": "Practically speaking, though, how do we stop the money from leaking out when we face those tiny everyday temptations?",
+     "ko": "그런데 실제로는, 매일의 작은 유혹을 마주할 때 돈이 새 나가는 걸 어떻게 막을까요?"
+    },
+    {
+     "t": 487.3,
+     "s": "B",
+     "es": "Well, Mateo uses a great minimalism tactic for this.",
+     "ko": "마테오가 여기에 좋은 미니멀리즘 전략을 써요."
+    },
+    {
+     "t": 490.6,
+     "s": "A",
+     "es": "Oh, right, the pausing thing?",
+     "ko": "아, 맞다, 멈추는 거요?"
+    },
+    {
+     "t": 491.7,
+     "s": "B",
+     "es": "Yeah, it centers entirely on just pausing before a purchase.",
+     "ko": "네, 사기 전에 그냥 멈추는 데 전부 집중해요."
+    },
+    {
+     "t": 495.7,
+     "s": "B",
+     "es": "He gives this example of standing in a bookstore. He sees a new book, he wants it, the dopamine is kicking in.",
+     "ko": "서점에 서 있는 예를 들어요. 새 책을 보고, 갖고 싶어지고, 도파민이 솟구치죠."
+    },
+    {
+     "t": 500.7,
+     "s": "A",
+     "es": "We've all been there.",
+     "ko": "다들 겪어 봤죠."
+    },
+    {
+     "t": 501.7,
+     "s": "B",
+     "es": "Right, but he forces a pause.",
+     "ko": "맞아요, 그런데 그는 억지로라도 멈춰요."
+    },
+    {
+     "t": 503.5,
+     "s": "B",
+     "es": "He realizes he already has, like, ten unread books at home.",
+     "ko": "집에 이미 안 읽은 책이 열 권쯤 있다는 걸 떠올려요."
+    },
+    {
+     "t": 506.9,
+     "s": "A",
+     "es": "And he asks himself that crucial question.",
+     "ko": "그리고 그 결정적인 질문을 스스로에게 던지죠."
+    },
+    {
+     "t": 508.7,
+     "s": "A",
+     "es": "Yes. \"Do I really need this to be happy?\"",
+     "ko": "네. '행복해지려면 이게 정말 필요한가?'"
+    },
+    {
+     "t": 511.5,
+     "s": "B",
+     "es": "And usually, I'm guessing, the answer is no.",
+     "ko": "그리고 대개는 대답이 '아니'겠죠."
+    },
+    {
+     "t": 513.8,
+     "s": "B",
+     "es": "Almost always. The pause interrupts the automated dopamine loop.",
+     "ko": "거의 항상요. 멈춤이 자동으로 돌아가는 도파민 고리를 끊어 줘요."
+    },
+    {
+     "t": 519.0,
+     "s": "A",
+     "es": "So your brain is basically anticipating the reward of buying the thing.",
+     "ko": "그러니까 뇌는 그걸 샀을 때의 보상을 미리 기대하고 있는 거네요."
+    },
+    {
+     "t": 522.7,
+     "s": "B",
+     "es": "Exactly. But by inserting even a ten-second delay and asking that question, you force your prefrontal cortex, which is the logical, forward-thinking part of your brain, to step in and override that primitive impulse.",
+     "ko": "맞아요. 그런데 10초만이라도 틈을 두고 그 질문을 하면, 뇌에서 논리적이고 앞을 내다보는 부분인 전전두엽이 나서서 그 원초적인 충동을 누르게 만들어요."
+    },
+    {
+     "t": 535.0,
+     "s": "A",
+     "es": "And the excitement of buying a new item fades in mere hours anyway.",
+     "ko": "그리고 새 물건을 산 설렘은 어차피 몇 시간이면 사라져요."
+    }
+   ]
+  },
+  {
+   "title": "마이크로 지출 — 보이지 않는 백그라운드 앱",
+   "lines": [
+    {
+     "t": 538.9,
+     "s": "A",
+     "es": "But, you know, I don't think the biggest danger is the new book or even, like, a big TV.",
+     "ko": "그런데 저는 가장 큰 위험이 새 책이나 큰 TV 같은 건 아니라고 봐요."
+    },
+    {
+     "t": 543.7,
+     "s": "B",
+     "es": "No? What do you think it is?",
+     "ko": "아니요? 뭐라고 생각해요?"
+    },
+    {
+     "t": 545.1,
+     "s": "A",
+     "es": "It's the tiny stuff. They talk about micro-spending.",
+     "ko": "작은 것들이요. 두 사람은 마이크로 지출 이야기를 해요."
+    },
+    {
+     "t": 548.2,
+     "s": "B",
+     "es": "Oh, micro-spending is brutal.",
+     "ko": "아, 마이크로 지출은 정말 무섭죠."
+    },
+    {
+     "t": 550.2,
+     "s": "A",
+     "es": "It really is. Let's say you spend three euros a day on a coffee.",
+     "ko": "정말 그래요. 하루에 커피로 3유로를 쓴다고 해 봐요."
+    },
+    {
+     "t": 553.7,
+     "s": "A",
+     "es": "In the moment, three euros feels like literally nothing.",
+     "ko": "그 순간엔 3유로가 말 그대로 아무것도 아닌 것 같아요."
+    },
+    {
+     "t": 556.8,
+     "s": "A",
+     "es": "It doesn't trigger any alarm bells in your head.",
+     "ko": "머릿속에서 아무 경보도 울리지 않죠."
+    },
+    {
+     "t": 558.8,
+     "s": "B",
+     "es": "Right. It feels harmless.",
+     "ko": "맞아요. 별일 아닌 것 같죠."
+    },
+    {
+     "t": 560.1,
+     "s": "A",
+     "es": "But that's about 60 euros a month.",
+     "ko": "그런데 그게 한 달에 60유로쯤이에요."
+    },
+    {
+     "t": 562.4,
+     "s": "A",
+     "es": "And then if you add a croissant or some fries on the way home, suddenly you're looking at over 100 euros a month.",
+     "ko": "그리고 집에 오는 길에 크루아상이나 감자튀김을 더하면, 어느새 한 달에 100유로가 넘어요."
+    },
+    {
+     "t": 569.6,
+     "s": "B",
+     "es": "It sneaks up on you so fast.",
+     "ko": "정말 순식간에 슬금슬금 불어나요."
+    },
+    {
+     "t": 571.3,
+     "s": "A",
+     "es": "It's like having a dozen invisible background apps running on your phone.",
+     "ko": "휴대폰에서 보이지 않는 백그라운드 앱 열두 개가 돌아가는 것과 같아요."
+    },
+    {
+     "t": 575.9,
+     "s": "A",
+     "es": "You don't see them. You aren't actively using them.",
+     "ko": "보이지도 않고, 실제로 쓰고 있지도 않죠."
+    },
+    {
+     "t": 578.7,
+     "s": "A",
+     "es": "But by 2 p.m. your battery is completely dead and you have no idea why.",
+     "ko": "그런데 오후 2시쯤이면 배터리가 완전히 나가 있고, 왜 그런지 전혀 모르는 거예요."
+    },
+    {
+     "t": 582.7,
+     "s": "B",
+     "es": "That is the perfect way to look at it.",
+     "ko": "딱 맞는 비유네요."
+    },
+    {
+     "t": 585.0,
+     "s": "B",
+     "es": "The human brain's threat detection system is designed to alert you to large, immediate dangers.",
+     "ko": "인간 뇌의 위협 감지 시스템은 크고 즉각적인 위험을 알리도록 설계되어 있어요."
+    },
+    {
+     "t": 589.9,
+     "s": "A",
+     "es": "Like a massive car repair bill.",
+     "ko": "엄청난 차 수리비 같은 거요."
+    },
+    {
+     "t": 591.7,
+     "s": "B",
+     "es": "Exactly. But it completely ignores a small, recurring three-euro charge.",
+     "ko": "맞아요. 하지만 반복되는 3유로짜리 작은 결제는 완전히 무시해요."
+    },
+    {
+     "t": 596.7,
+     "s": "B",
+     "es": "We judge the impact of a purchase by its immediate cost, not its annualized cost.",
+     "ko": "우리는 구매의 영향을 1년 치 비용이 아니라 당장의 비용으로 판단하거든요."
+    },
+    {
+     "t": 601.3,
+     "s": "A",
+     "es": "So over a thousand euros a year is just vanishing into thin air.",
+     "ko": "그러니까 1년에 1000유로가 넘는 돈이 그냥 허공으로 사라지는 거네요."
+    },
+    {
+     "t": 604.3,
+     "s": "B",
+     "es": "Yep. And it's not even meaningfully improving your baseline quality of life.",
+     "ko": "네. 게다가 기본적인 삶의 질을 의미 있게 높여 주지도 않아요."
+    },
+    {
+     "t": 607.8,
+     "s": "A",
+     "es": "And Mateo points out that 100 euros a month is enough to fund a substantial part of an amazing weekend trip.",
+     "ko": "그리고 마테오는 한 달 100유로면 멋진 주말여행 비용의 상당 부분을 댈 수 있다고 지적해요."
+    },
+    {
+     "t": 613.8,
+     "s": "B",
+     "es": "Which is huge.",
+     "ko": "그건 큰돈이죠."
+    }
+   ]
+  },
+  {
+   "title": "의지력 대신 의식 — 보온병 커피와 일요일 밀프렙",
+   "lines": [
+    {
+     "t": 614.4,
+     "s": "A",
+     "es": "So how do we close those background apps?",
+     "ko": "그럼 그 백그라운드 앱은 어떻게 끌까요?"
+    },
+    {
+     "t": 616.4,
+     "s": "A",
+     "es": "Like, how do we actually stop the micro-spending in daily life?",
+     "ko": "일상에서 마이크로 지출을 실제로 어떻게 멈추죠?"
+    },
+    {
+     "t": 619.5,
+     "s": "B",
+     "es": "Well, Mateo talks about buying high-quality beans, making coffee at home and bringing it to work in a thermos.",
+     "ko": "마테오는 좋은 원두를 사서 집에서 커피를 내리고 보온병에 담아 회사에 가져간대요."
+    },
+    {
+     "t": 625.8,
+     "s": "A",
+     "es": "Oh, and he says it actually becomes a peaceful morning ritual for him.",
+     "ko": "아, 그리고 그게 오히려 평화로운 아침 의식이 됐대요."
+    },
+    {
+     "t": 629.3,
+     "s": "B",
+     "es": "Notice the mechanism there, though.",
+     "ko": "그런데 거기 있는 메커니즘에 주목해 보세요."
+    },
+    {
+     "t": 631.1,
+     "s": "B",
+     "es": "He isn't just relying on willpower to say no to the coffee shop every single morning.",
+     "ko": "그는 매일 아침 카페를 거절하려고 의지력에만 기대는 게 아니에요."
+    },
+    {
+     "t": 636.1,
+     "s": "B",
+     "es": "Because willpower runs out, right?",
+     "ko": "의지력은 바닥나니까요, 그렇죠?"
+    },
+    {
+     "t": 638.8,
+     "s": "B",
+     "es": "Exactly. Relying purely on willpower is a losing game because it depletes throughout the day.",
+     "ko": "맞아요. 의지력에만 기대는 건 지는 게임이에요. 하루 동안 점점 고갈되니까요."
+    },
+    {
+     "t": 643.2,
+     "s": "B",
+     "es": "Instead, he is replacing a thoughtless, expensive habit with an intentional, cheaper ritual.",
+     "ko": "대신 그는 생각 없이 하던 비싼 습관을 의도적이고 더 싼 의식으로 바꾸고 있어요."
+    },
+    {
+     "t": 649.8,
+     "s": "A",
+     "es": "Which completely explains Sofia's solution for dinner.",
+     "ko": "그게 소피아의 저녁 해결법을 완벽히 설명해 주네요."
+    },
+    {
+     "t": 652.5,
+     "s": "A",
+     "es": "She mentions she hates cooking every night, so she does Sunday afternoon meal prep.",
+     "ko": "매일 밤 요리하는 게 싫어서 일요일 오후에 밀프렙을 한대요."
+    },
+    {
+     "t": 656.5,
+     "s": "B",
+     "es": "A lifesaver.",
+     "ko": "구세주죠."
+    },
+    {
+     "t": 657.8,
+     "s": "A",
+     "es": "Truly. When she comes home exhausted from work on a Tuesday, dinner is already sitting right there in the fridge.",
+     "ko": "정말로요. 화요일에 일하고 녹초가 되어 돌아오면 저녁이 이미 냉장고에 있어요."
+    },
+    {
+     "t": 662.8,
+     "s": "A",
+     "es": "All she has to do is heat it up.",
+     "ko": "데우기만 하면 돼요."
+    },
+    {
+     "t": 663.8,
+     "s": "B",
+     "es": "It removes the friction.",
+     "ko": "마찰을 없애 주죠."
+    },
+    {
+     "t": 665.6,
+     "s": "A",
+     "es": "Yeah, it completely prevents that urge to order expensive delivery just because she's too tired to chop an onion.",
+     "ko": "네, 양파 하나 썰기도 귀찮아서 비싼 배달을 시키고 싶은 충동을 완전히 막아 줘요."
+    },
+    {
+     "t": 670.4,
+     "s": "B",
+     "es": "This is a defense mechanism against future fatigue.",
+     "ko": "이건 미래의 피로에 대한 방어 장치예요."
+    },
+    {
+     "t": 673.2,
+     "s": "B",
+     "es": "I mean, decision fatigue is a biological reality.",
+     "ko": "결정 피로는 생물학적인 현실이거든요."
+    },
+    {
+     "t": 677.1,
+     "s": "A",
+     "es": "So by the end of the day, your brain is just fried.",
+     "ko": "그러니까 하루가 끝날 때쯤 뇌는 완전히 과열돼 있죠."
+    },
+    {
+     "t": 679.6,
+     "s": "B",
+     "es": "Completely. By 6 p.m., your prefrontal cortex is exhausted from making choices all day at work.",
+     "ko": "완전히요. 저녁 6시쯤이면 전전두엽은 하루 종일 회사에서 선택하느라 지쳐 있어요."
+    },
+    {
+     "t": 684.7,
+     "s": "B",
+     "es": "If you haven't pre-made the healthy, cheap choice, your brain will inevitably default to the path of least resistance.",
+     "ko": "건강하고 싼 선택을 미리 만들어 두지 않으면, 뇌는 어쩔 수 없이 가장 저항이 적은 길로 가 버려요."
+    },
+    {
+     "t": 690.6,
+     "s": "A",
+     "es": "Which is usually the most expensive convenience choice.",
+     "ko": "그건 보통 가장 비싼 편리함이고요."
+    },
+    {
+     "t": 693.5,
+     "s": "B",
+     "es": "Always. By pre-deciding on Sunday, Sofia makes the cheap choice the easiest choice.",
+     "ko": "언제나요. 일요일에 미리 정해 두면서 소피아는 싼 선택을 가장 쉬운 선택으로 만드는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "완벽할 필요는 없다 — 가끔의 버거",
+   "lines": [
+    {
+     "t": 698.5,
+     "s": "A",
+     "es": "I want to pause here, though, because I'm looking at Mateo's strategy and wondering, does this mean he just never eats a burger again?",
+     "ko": "그런데 여기서 잠깐 멈추고 싶어요. 마테오의 전략을 보니, 그럼 그는 다시는 버거를 안 먹는다는 걸까요?"
+    },
+    {
+     "t": 705.2,
+     "s": "B",
+     "es": "Like, he has to be perfect all the time?",
+     "ko": "늘 완벽해야 한다는 거예요?"
+    },
+    {
+     "t": 707.0,
+     "s": "A",
+     "es": "Yeah.",
+     "ko": "네."
+    },
+    {
+     "t": 707.6,
+     "s": "B",
+     "es": "Are we aiming for absolute robotic perfection here? Because that sounds miserable in its own way.",
+     "ko": "로봇 같은 완벽함을 목표로 하는 건가요? 그것도 나름대로 비참하게 들리거든요."
+    },
+    {
+     "t": 712.6,
+     "s": "B",
+     "es": "Not at all. Perfection is honestly the enemy of consistency.",
+     "ko": "전혀요. 솔직히 완벽함은 꾸준함의 적이에요."
+    },
+    {
+     "t": 716.8,
+     "s": "B",
+     "es": "Mateo actually admits he just ordered a giant burger with extra fries after a grueling week.",
+     "ko": "마테오는 고된 한 주를 보낸 뒤 감자튀김을 추가한 거대한 버거를 시켰다고 털어놓아요."
+    },
+    {
+     "t": 721.1,
+     "s": "A",
+     "es": "Oh, thank goodness.",
+     "ko": "아, 다행이다."
+    },
+    {
+     "t": 722.0,
+     "s": "B",
+     "es": "Right. But the key distinction is that it was a rare treat.",
+     "ko": "그렇죠. 하지만 중요한 차이는 그게 드문 보상이었다는 거예요."
+    },
+    {
+     "t": 725.6,
+     "s": "B",
+     "es": "When you limit a behavior, it regains its power to actually reward you.",
+     "ko": "어떤 행동을 제한하면, 그 행동이 다시 진짜 보상이 되는 힘을 되찾아요."
+    },
+    {
+     "t": 729.4,
+     "s": "A",
+     "es": "Oh, that makes a lot of sense.",
+     "ko": "아, 정말 말이 되네요."
+    },
+    {
+     "t": 731.2,
+     "s": "B",
+     "es": "A burger you eat every day is just sustenance, and an expensive one at that.",
+     "ko": "매일 먹는 버거는 그냥 끼니예요. 그것도 비싼 끼니요."
+    },
+    {
+     "t": 735.6,
+     "s": "B",
+     "es": "A burger you eat once a month is a celebration.",
+     "ko": "한 달에 한 번 먹는 버거는 축하예요."
+    }
+   ]
+  },
+  {
+   "title": "전환점 — 물건보다 경험",
+   "lines": [
+    {
+     "t": 738.4,
+     "s": "A",
+     "es": "Here's where it gets really interesting.",
+     "ko": "여기서부터 정말 흥미로워져요."
+    },
+    {
+     "t": 740.2,
+     "s": "A",
+     "es": "When you start controlling those impulses and allowing for those rare treats, you shift your entire mindset.",
+     "ko": "그런 충동을 조절하고 가끔의 보상을 허락하기 시작하면, 사고방식 전체가 바뀌어요."
+    },
+    {
+     "t": 746.8,
+     "s": "B",
+     "es": "It's a fundamental shift.",
+     "ko": "근본적인 전환이죠."
+    },
+    {
+     "t": 748.3,
+     "s": "A",
+     "es": "You stop focusing on what you are giving up and you start focusing on why you are saving.",
+     "ko": "무엇을 포기하는지가 아니라 왜 모으는지에 집중하기 시작해요."
+    },
+    {
+     "t": 754.0,
+     "s": "A",
+     "es": "This brings us to a massive theme in their discussion.",
+     "ko": "이게 두 사람 대화의 큰 주제로 이어져요."
+    },
+    {
+     "t": 756.7,
+     "s": "B",
+     "es": "Yes. Prioritizing experiences over things.",
+     "ko": "네. 물건보다 경험을 우선하는 것."
+    },
+    {
+     "t": 759.7,
+     "s": "A",
+     "es": "Exactly. And understanding the true value of savings.",
+     "ko": "맞아요. 그리고 저축의 진짜 가치를 이해하는 것."
+    },
+    {
+     "t": 763.2,
+     "s": "B",
+     "es": "This is the turning point where financial management goes from feeling like a chore, you know, to feeling like an actual strategy for happiness.",
+     "ko": "이게 돈 관리가 귀찮은 일처럼 느껴지던 것에서 진짜 행복 전략처럼 느껴지게 바뀌는 전환점이에요."
+    },
+    {
+     "t": 770.6,
+     "s": "A",
+     "es": "They talk about how budget travel is vastly superior to buying material goods.",
+     "ko": "두 사람은 알뜰 여행이 물건을 사는 것보다 훨씬 낫다고 이야기해요."
+    },
+    {
+     "t": 775.7,
+     "s": "A",
+     "es": "The argument is that memories last forever.",
+     "ko": "추억은 영원히 남는다는 게 그 논리예요."
+    },
+    {
+     "t": 778.2,
+     "s": "A",
+     "es": "Whereas physical things break, they get old, or they just end up shoved in the closet.",
+     "ko": "반면 물건은 망가지거나 낡거나 그냥 옷장에 처박히죠."
+    },
+    {
+     "t": 783.3,
+     "s": "B",
+     "es": "It's so true.",
+     "ko": "정말 그래요."
+    }
+   ]
+  },
+  {
+   "title": "쾌락 적응 — 왜 추억은 남고 물건은 바랠까",
+   "lines": [
+    {
+     "t": 784.4,
+     "s": "B",
+     "es": "But I have to admit, I'm a little stuck on this concept.",
+     "ko": "그런데 솔직히 이 개념이 좀 걸려요."
+    },
+    {
+     "t": 786.9,
+     "s": "B",
+     "es": "Why is that?",
+     "ko": "왜요?"
+    },
+    {
+     "t": 787.8,
+     "s": "A",
+     "es": "Well, why wouldn't the memory of a trip fade just as fast as the excitement of a new phone?",
+     "ko": "여행의 추억도 새 휴대폰의 설렘만큼 빨리 바래지 않을 이유가 뭐예요?"
+    },
+    {
+     "t": 793.7,
+     "s": "A",
+     "es": "Aren't they both just temporary dopamine hits?",
+     "ko": "둘 다 그냥 일시적인 도파민 자극 아닌가요?"
+    },
+    {
+     "t": 796.4,
+     "s": "A",
+     "es": "Like, why does one last and the other doesn't?",
+     "ko": "왜 하나는 남고 다른 하나는 안 남죠?"
+    },
+    {
+     "t": 798.9,
+     "s": "B",
+     "es": "It's a fantastic question.",
+     "ko": "아주 좋은 질문이에요."
+    },
+    {
+     "t": 801.1,
+     "s": "B",
+     "es": "And the difference basically comes down to a psychological mechanism called hedonic adaptation.",
+     "ko": "그 차이는 결국 '쾌락 적응'이라는 심리 메커니즘으로 설명돼요."
+    },
+    {
+     "t": 806.2,
+     "s": "A",
+     "es": "Okay, break that down for us. What exactly is hedonic adaptation?",
+     "ko": "좋아요, 풀어서 설명해 주세요. 쾌락 적응이 정확히 뭐예요?"
+    },
+    {
+     "t": 810.0,
+     "s": "B",
+     "es": "It's our tendency to quickly return to a relatively stable level of happiness despite major positive or negative events.",
+     "ko": "크게 좋은 일이나 나쁜 일이 있어도 금방 비교적 일정한 행복 수준으로 돌아가는 경향이에요."
+    },
+    {
+     "t": 817.6,
+     "s": "A",
+     "es": "So we just get used to things.",
+     "ko": "그러니까 그냥 익숙해지는 거네요."
+    },
+    {
+     "t": 819.0,
+     "s": "B",
+     "es": "Exactly. When you buy a physical object, it occupies physical space in your daily life.",
+     "ko": "맞아요. 물건을 사면 그게 일상 속 물리적 공간을 차지해요."
+    },
+    {
+     "t": 823.7,
+     "s": "B",
+     "es": "You see it every day. Your brain gets used to it very quickly.",
+     "ko": "매일 보니까 뇌가 아주 빨리 익숙해지죠."
+    },
+    {
+     "t": 827.9,
+     "s": "B",
+     "es": "So it stops being special.",
+     "ko": "그래서 특별하지 않게 되고요."
+    },
+    {
+     "t": 829.2,
+     "s": "B",
+     "es": "Right. A month after buying a new smartphone, it's no longer a magical piece of technology.",
+     "ko": "맞아요. 새 스마트폰을 산 지 한 달이 지나면 더 이상 마법 같은 기술이 아니에요."
+    },
+    {
+     "t": 833.4,
+     "s": "B",
+     "es": "It's just the glowing rectangle you use to check your email.",
+     "ko": "그냥 이메일 확인할 때 쓰는 빛나는 네모일 뿐이죠."
+    },
+    {
+     "t": 836.7,
+     "s": "B",
+     "es": "Your baseline of happiness just returns to normal.",
+     "ko": "행복의 기준선은 그냥 원래대로 돌아와요."
+    },
+    {
+     "t": 840.0,
+     "s": "A",
+     "es": "Okay. So the physical presence of the object actually works against it, because it's always there. It becomes boring.",
+     "ko": "아. 그러니까 물건이 늘 눈앞에 있다는 게 오히려 불리하게 작용하는 거네요. 지루해지니까요."
+    },
+    {
+     "t": 846.5,
+     "s": "B",
+     "es": "Precisely. But an experience, like navigating a new city or trying a strange food in a local market, it doesn't sit on a shelf.",
+     "ko": "바로 그거예요. 그런데 낯선 도시를 돌아다니거나 현지 시장에서 낯선 음식을 먹어 보는 경험은 선반 위에 놓여 있지 않아요."
+    },
+    {
+     "t": 854.8,
+     "s": "A",
+     "es": "It's not just a thing.",
+     "ko": "그냥 물건이 아니죠."
+    },
+    {
+     "t": 856.4,
+     "s": "B",
+     "es": "No, it becomes integrated into your sense of self.",
+     "ko": "네, 자아의 일부로 녹아들어요."
+    },
+    {
+     "t": 859.3,
+     "s": "B",
+     "es": "We are the sum of our experiences.",
+     "ko": "우리는 경험의 총합이에요."
+    },
+    {
+     "t": 861.1,
+     "s": "B",
+     "es": "That's deep.",
+     "ko": "깊네요."
+    },
+    {
+     "t": 862.5,
+     "s": "B",
+     "es": "Well, you can recall a memory from a trip ten years ago and actually feel a mild replication of the joy you felt in that moment.",
+     "ko": "10년 전 여행의 추억을 떠올리면 그때 느낀 기쁨이 살짝 되살아나는 걸 실제로 느낄 수 있잖아요."
+    },
+    {
+     "t": 869.6,
+     "s": "B",
+     "es": "Memory is reconstructive.",
+     "ko": "기억은 재구성되는 거예요."
+    },
+    {
+     "t": 871.8,
+     "s": "A",
+     "es": "So it actually gets better over time.",
+     "ko": "그러니까 시간이 갈수록 오히려 좋아지는 거네요."
+    },
+    {
+     "t": 873.8,
+     "s": "B",
+     "es": "Often, yes. Experiences get rosier over time in our brain, while things become outdated.",
+     "ko": "종종 그래요. 경험은 뇌 속에서 시간이 갈수록 장밋빛이 되고, 물건은 구식이 되죠."
+    },
+    {
+     "t": 882.3,
+     "s": "B",
+     "es": "You are actively building your identity with an experience, whereas buying a phone is just acquiring a tool.",
+     "ko": "경험으로는 정체성을 적극적으로 쌓아 가지만, 휴대폰을 사는 건 그냥 도구를 얻는 거예요."
+    },
+    {
+     "t": 888.5,
+     "s": "A",
+     "es": "That makes so much sense.",
+     "ko": "정말 말이 되네요."
+    },
+    {
+     "t": 889.7,
+     "s": "A",
+     "es": "The memory appreciates in value while the phone depreciates.",
+     "ko": "추억은 가치가 오르고 휴대폰은 가치가 떨어지는 거죠."
+    },
+    {
+     "t": 893.0,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "맞아요."
+    }
+   ]
+  },
+  {
+   "title": "알뜰 여행과 분명한 목표 — 휴대폰 = 페루 한 달",
+   "lines": [
+    {
+     "t": 893.6,
+     "s": "A",
+     "es": "And the budget travel tips they give make these experiences really accessible.",
+     "ko": "그리고 두 사람이 주는 알뜰 여행 팁이 이런 경험을 정말 쉽게 만들어 줘요."
+    },
+    {
+     "t": 897.9,
+     "s": "A",
+     "es": "Booking flights months ahead, staying in local apartments instead of pricey hotels, cooking some meals instead of eating out three times a day, and exploring local markets.",
+     "ko": "몇 달 전에 항공권 예약하기, 비싼 호텔 대신 현지 아파트에 묵기, 하루 세 끼 사 먹는 대신 몇 끼는 요리하기, 그리고 현지 시장 둘러보기."
+    },
+    {
+     "t": 907.3,
+     "s": "A",
+     "es": "It's brilliant. You get a richer cultural experience and it saves a ton of money.",
+     "ko": "훌륭해요. 더 풍부한 문화 경험도 하고 돈도 엄청 아끼죠."
+    },
+    {
+     "t": 911.5,
+     "s": "B",
+     "es": "It lowers the barrier to entry for these life-changing experiences.",
+     "ko": "삶을 바꾸는 경험의 문턱을 낮춰 줘요."
+    },
+    {
+     "t": 915.4,
+     "s": "B",
+     "es": "You realize you don't need luxury accommodations to have a profound time.",
+     "ko": "깊이 있는 시간을 보내는 데 호화 숙소가 필요 없다는 걸 깨닫게 되죠."
+    },
+    {
+     "t": 919.4,
+     "s": "A",
+     "es": "This all comes back to having clear goals.",
+     "ko": "이게 다 분명한 목표를 갖는 것으로 돌아와요."
+    },
+    {
+     "t": 921.9,
+     "s": "A",
+     "es": "Like, Sofia wants a quiet little house close to nature.",
+     "ko": "소피아는 자연 가까이에 조용한 작은 집을 원해요."
+    },
+    {
+     "t": 925.1,
+     "s": "A",
+     "es": "Mateo is planning a gap year to travel across South America at his own pace.",
+     "ko": "마테오는 자기 속도로 남미를 여행하는 갭이어를 계획하고 있고요."
+    },
+    {
+     "t": 929.4,
+     "s": "B",
+     "es": "Having those visions is so crucial.",
+     "ko": "그런 비전을 갖는 게 정말 중요해요."
+    },
+    {
+     "t": 931.9,
+     "s": "A",
+     "es": "It really creates this incredibly powerful filter for daily choices.",
+     "ko": "매일의 선택에 엄청나게 강력한 필터가 생기거든요."
+    },
+    {
+     "t": 936.8,
+     "s": "A",
+     "es": "Like Mateo says, he looks at a shiny new smartphone in a store window and he doesn't just see the price tag anymore.",
+     "ko": "마테오 말처럼, 진열장의 반짝이는 새 스마트폰을 봐도 이제 가격표만 보이는 게 아니에요."
+    },
+    {
+     "t": 943.3,
+     "s": "B",
+     "es": "He sees the trade-off.",
+     "ko": "맞바꾸는 걸 보는 거죠."
+    },
+    {
+     "t": 944.3,
+     "s": "A",
+     "es": "Yeah, he realizes the price of this phone equals one month of traveling in Peru.",
+     "ko": "네, 이 휴대폰 값이 페루 여행 한 달과 같다는 걸 깨닫는 거예요."
+    },
+    {
+     "t": 949.5,
+     "s": "B",
+     "es": "That is the mental shift that changes everything.",
+     "ko": "그게 모든 걸 바꾸는 생각의 전환이에요."
+    },
+    {
+     "t": 952.0,
+     "s": "A",
+     "es": "Suddenly, the phone doesn't look appealing at all.",
+     "ko": "갑자기 휴대폰이 전혀 끌리지 않게 되죠."
+    }
+   ]
+  },
+  {
+   "title": "저축은 자유를 산다",
+   "lines": [
+    {
+     "t": 954.9,
+     "s": "A",
+     "es": "The core philosophy here is that saving isn't about leading some sad, boring life just so you can buy a big item later.",
+     "ko": "여기서 핵심 철학은, 저축이 나중에 큰 물건을 사려고 슬프고 지루한 삶을 사는 게 아니라는 거예요."
+    },
+    {
+     "t": 961.7,
+     "s": "B",
+     "es": "Not at all.",
+     "ko": "전혀 아니죠."
+    },
+    {
+     "t": 963.1,
+     "s": "A",
+     "es": "Saving buys freedom.",
+     "ko": "저축은 자유를 사요."
+    },
+    {
+     "t": 964.7,
+     "s": "A",
+     "es": "It buys the ability to quit a job you hate because you have financial breathing room, rather than being trapped living paycheck to paycheck, forced to accept whatever miserable situation you're in.",
+     "ko": "월급날만 기다리며 하루 벌어 하루 사는 처지에 갇혀 어떤 비참한 상황이든 받아들여야 하는 대신, 재정적 숨 쉴 틈이 있으니 싫은 일을 그만둘 수 있는 능력을 사는 거예요."
+    },
+    {
+     "t": 974.5,
+     "s": "B",
+     "es": "Reframing savings from deprivation to buying your own freedom is profound.",
+     "ko": "저축을 '결핍'에서 '내 자유를 사는 것'으로 다시 보는 건 정말 의미가 깊어요."
+    },
+    {
+     "t": 979.1,
+     "s": "B",
+     "es": "It really is. If you can internalize this, you are no longer restricting your current self.",
+     "ko": "정말 그래요. 이걸 내면화하면 더는 현재의 나를 제한하는 게 아니에요."
+    },
+    {
+     "t": 983.8,
+     "s": "B",
+     "es": "You are actively empowering your future self.",
+     "ko": "미래의 나에게 적극적으로 힘을 주는 거죠."
+    },
+    {
+     "t": 986.8,
+     "s": "B",
+     "es": "Having options is the truest form of wealth.",
+     "ko": "선택지가 있다는 게 가장 진정한 형태의 부예요."
+    }
+   ]
+  },
+  {
+   "title": "스트레스 소비 — 리테일 테라피의 함정",
+   "lines": [
+    {
+     "t": 989.2,
+     "s": "A",
+     "es": "But our best-laid plans often get derailed by one massive factor.",
+     "ko": "그런데 우리의 철저한 계획은 종종 한 가지 큰 요인 때문에 틀어져요."
+    },
+    {
+     "t": 993.7,
+     "s": "B",
+     "es": "Oh, I know where this is going. Stress.",
+     "ko": "아, 무슨 얘기인지 알겠어요. 스트레스죠."
+    },
+    {
+     "t": 996.7,
+     "s": "A",
+     "es": "Stress. Mateo and Sofia get incredibly real about stress spending.",
+     "ko": "스트레스요. 마테오와 소피아는 스트레스 소비에 대해 아주 솔직하게 이야기해요."
+    },
+    {
+     "t": 1001.4,
+     "s": "A",
+     "es": "Having a terrible day at work, and on the way home you buy a new dress or a gadget just to reward yourself.",
+     "ko": "회사에서 끔찍한 하루를 보내고, 집에 가는 길에 자신에게 보상하려고 새 원피스나 기기를 사는 거예요."
+    },
+    {
+     "t": 1007.3,
+     "s": "B",
+     "es": "You tell yourself, \"I survived today. I deserve this.\"",
+     "ko": "'오늘 버텼어. 이 정도는 누릴 자격 있어' 하고 스스로에게 말하죠."
+    },
+    {
+     "t": 1010.9,
+     "s": "A",
+     "es": "We call it retail therapy.",
+     "ko": "그걸 리테일 테라피라고 해요."
+    },
+    {
+     "t": 1012.7,
+     "s": "B",
+     "es": "Right.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 1013.0,
+     "s": "B",
+     "es": "It's a coping mechanism designed to manufacture a feeling of control.",
+     "ko": "통제하고 있다는 느낌을 만들어 내려는 대처 방식이에요."
+    },
+    {
+     "t": 1016.8,
+     "s": "B",
+     "es": "When you have a bad day at work, you feel powerless.",
+     "ko": "회사에서 힘든 하루를 보내면 무력감을 느끼잖아요."
+    },
+    {
+     "t": 1019.9,
+     "s": "A",
+     "es": "So buying something fixes that?",
+     "ko": "그러니까 뭔가를 사면 그게 해결된다고요?"
+    },
+    {
+     "t": 1021.3,
+     "s": "B",
+     "es": "Well, by going to a store and making a purchase, you assert your autonomy.",
+     "ko": "가게에 가서 뭔가를 사면 자신의 자율성을 확인하게 돼요."
+    },
+    {
+     "t": 1025.9,
+     "s": "B",
+     "es": "The transaction delivers a quick dopamine spike.",
+     "ko": "결제가 순간적인 도파민 상승을 주죠."
+    },
+    {
+     "t": 1028.6,
+     "s": "A",
+     "es": "But the cold truth they point out is that the next morning the work stress is still there.",
+     "ko": "하지만 두 사람이 짚는 냉정한 진실은, 다음 날 아침에도 일 스트레스는 그대로라는 거예요."
+    },
+    {
+     "t": 1033.8,
+     "s": "B",
+     "es": "Always.",
+     "ko": "언제나요."
+    },
+    {
+     "t": 1034.6,
+     "s": "A",
+     "es": "The dress is just hanging in the closet, and now your bank account is lower.",
+     "ko": "원피스는 옷장에 걸려 있고, 이제 통장 잔고는 줄었죠."
+    },
+    {
+     "t": 1039.7,
+     "s": "B",
+     "es": "The core problem wasn't solved. It was just covered up with a Band-Aid for a few hours.",
+     "ko": "핵심 문제는 해결되지 않았어요. 몇 시간 동안 반창고로 가렸을 뿐이죠."
+    },
+    {
+     "t": 1043.7,
+     "s": "A",
+     "es": "Exactly. So how do we actually fix this without spending money?",
+     "ko": "맞아요. 그럼 돈을 쓰지 않고 실제로 어떻게 해결하죠?"
+    },
+    {
+     "t": 1048.3,
+     "s": "B",
+     "es": "You have to recognize that you are trying to solve an emotional, biological problem with a financial transaction.",
+     "ko": "감정적이고 생물학적인 문제를 금전 거래로 해결하려 하고 있다는 걸 알아차려야 해요."
+    },
+    {
+     "t": 1054.9,
+     "s": "B",
+     "es": "It never works.",
+     "ko": "그건 절대 통하지 않아요."
+    }
+   ]
+  },
+  {
+   "title": "스트레스 사이클 끝내기 — 몸·마음·통장은 하나",
+   "lines": [
+    {
+     "t": 1056.2,
+     "s": "A",
+     "es": "Okay. So they suggest completely free alternatives.",
+     "ko": "그렇군요. 그래서 두 사람은 완전히 무료인 대안을 제안해요."
+    },
+    {
+     "t": 1059.3,
+     "s": "A",
+     "es": "Walking in the park, listening to music in your room, taking a warm bath, calling a friend to vent, or going to the gym.",
+     "ko": "공원 산책, 방에서 음악 듣기, 따뜻한 목욕, 친구에게 전화해서 털어놓기, 아니면 헬스장 가기."
+    },
+    {
+     "t": 1066.2,
+     "s": "B",
+     "es": "All excellent options.",
+     "ko": "모두 훌륭한 방법이에요."
+    },
+    {
+     "t": 1067.8,
+     "s": "B",
+     "es": "But I want to dig into the why here.",
+     "ko": "그런데 여기서 '왜'를 파고들고 싶어요."
+    },
+    {
+     "t": 1069.7,
+     "s": "A",
+     "es": "How do these activities actually solve the problem better than buying a dress?",
+     "ko": "이런 활동이 어떻게 원피스를 사는 것보다 문제를 더 잘 해결하죠?"
+    },
+    {
+     "t": 1073.8,
+     "s": "A",
+     "es": "I mean, the bad day at work still happened, right?",
+     "ko": "회사에서의 힘든 하루는 여전히 있었던 일이잖아요?"
+    },
+    {
+     "t": 1077.0,
+     "s": "B",
+     "es": "They solve it because those specific activities actually complete the biological stress cycle.",
+     "ko": "그런 활동들이 실제로 생물학적 스트레스 사이클을 끝내 주기 때문이에요."
+    },
+    {
+     "t": 1082.5,
+     "s": "A",
+     "es": "The biological stress cycle.",
+     "ko": "생물학적 스트레스 사이클."
+    },
+    {
+     "t": 1084.6,
+     "s": "B",
+     "es": "Yeah. When you are stressed at work, your body is flooded with cortisol and adrenaline.",
+     "ko": "네. 회사에서 스트레스를 받으면 몸이 코르티솔과 아드레날린으로 가득 차요."
+    },
+    {
+     "t": 1089.5,
+     "s": "B",
+     "es": "It's preparing you to fight or flee.",
+     "ko": "싸우거나 도망치도록 준비시키는 거죠."
+    },
+    {
+     "t": 1092.7,
+     "s": "A",
+     "es": "Right.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 1093.2,
+     "s": "B",
+     "es": "Buying a dress distracts your conscious brain, but it does absolutely nothing to process those chemicals in your bloodstream.",
+     "ko": "원피스를 사면 의식하는 뇌의 주의는 딴 데로 돌릴 수 있지만, 핏속의 그 화학 물질을 처리하는 데는 아무 도움이 안 돼요."
+    },
+    {
+     "t": 1098.8,
+     "s": "A",
+     "es": "Oh, wow. I never realized that.",
+     "ko": "와, 그건 몰랐어요."
+    },
+    {
+     "t": 1100.4,
+     "s": "B",
+     "es": "Yeah. Physical movement, deep social connection or active relaxation literally flush those stress hormones right out of your nervous system.",
+     "ko": "네. 몸을 움직이거나, 깊이 사람들과 교류하거나, 적극적으로 쉬면 말 그대로 스트레스 호르몬이 신경계에서 씻겨 나가요."
+    },
+    {
+     "t": 1108.9,
+     "s": "A",
+     "es": "That is fascinating.",
+     "ko": "정말 흥미롭네요."
+    },
+    {
+     "t": 1110.4,
+     "s": "A",
+     "es": "The physical activity is literally clearing the biological ledger, whereas the shopping is just a distraction.",
+     "ko": "운동은 말 그대로 생물학적 장부를 정리하는 거고, 쇼핑은 그냥 딴짓이네요."
+    },
+    {
+     "t": 1115.9,
+     "s": "B",
+     "es": "Exactly.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 1117.1,
+     "s": "A",
+     "es": "Which leads to the ultimate financial hack they discuss: taking care of your physical and mental health.",
+     "ko": "그게 두 사람이 말하는 궁극의 재테크 비법으로 이어져요. 몸과 마음의 건강을 챙기는 것."
+    },
+    {
+     "t": 1123.2,
+     "s": "B",
+     "es": "Yes. Health is wealth.",
+     "ko": "네. 건강이 재산이죠."
+    },
+    {
+     "t": 1124.8,
+     "s": "A",
+     "es": "Literally. Eating well, staying active, these aren't just good lifestyle choices. They are massive financial strategies.",
+     "ko": "말 그대로요. 잘 먹고 활동적으로 지내는 건 그냥 좋은 생활 습관이 아니에요. 엄청난 재정 전략이에요."
+    },
+    {
+     "t": 1132.1,
+     "s": "A",
+     "es": "Prevention is free.",
+     "ko": "예방은 공짜고요."
+    },
+    {
+     "t": 1133.9,
+     "s": "A",
+     "es": "It really is. But if you ignore your health, you are setting yourself up for incredibly expensive medical treatments, doctor visits and medications down the line.",
+     "ko": "정말 그래요. 하지만 건강을 무시하면 나중에 엄청나게 비싼 치료비, 병원비, 약값을 치를 준비를 하는 셈이에요."
+    },
+    {
+     "t": 1142.6,
+     "s": "B",
+     "es": "If we look at the entire picture, your physical health, your mental well-being, your stress levels and your bank account are not separate silos.",
+     "ko": "전체 그림을 보면 몸의 건강, 마음의 건강, 스트레스 수준, 그리고 통장은 따로 떨어진 칸막이가 아니에요."
+    },
+    {
+     "t": 1151.0,
+     "s": "A",
+     "es": "They're all connected.",
+     "ko": "모두 연결되어 있죠."
+    },
+    {
+     "t": 1151.7,
+     "s": "B",
+     "es": "They are one continuous ecosystem.",
+     "ko": "하나로 이어진 생태계예요."
+    },
+    {
+     "t": 1153.9,
+     "s": "B",
+     "es": "A stressful job leads to stress spending, which drains your savings, which creates anxiety, which spikes your blood pressure and ruins your health.",
+     "ko": "스트레스 많은 일은 스트레스 소비로, 그건 저축을 바닥내고, 그건 불안을 만들고, 그건 혈압을 높이고 건강을 망쳐요."
+    },
+    {
+     "t": 1162.1,
+     "s": "A",
+     "es": "It's a vicious cycle.",
+     "ko": "악순환이네요."
+    },
+    {
+     "t": 1163.4,
+     "s": "B",
+     "es": "Breaking that cycle requires addressing the root causes, not just treating the symptoms with retail therapy.",
+     "ko": "그 고리를 끊으려면 리테일 테라피로 증상만 다스릴 게 아니라 근본 원인을 해결해야 해요."
+    }
+   ]
+  },
+  {
+   "title": "정리 — 아낀 1달러는 미래의 자유 한 조각",
+   "lines": [
+    {
+     "t": 1169.3,
+     "s": "B",
+     "es": "So what does this all mean?",
+     "ko": "그럼 이게 다 무슨 의미일까요?"
+    },
+    {
+     "t": 1171.2,
+     "s": "A",
+     "es": "How do we tie a bow on this so our listener can walk away and actually apply this today, right after the audio ends?",
+     "ko": "청취자가 이 오디오가 끝나자마자 오늘 바로 실천할 수 있게 어떻게 정리하면 좋을까요?"
+    },
+    {
+     "t": 1176.8,
+     "s": "B",
+     "es": "Well, we've covered an incredible amount of ground.",
+     "ko": "오늘 정말 많은 걸 다뤘어요."
+    },
+    {
+     "t": 1179.2,
+     "s": "A",
+     "es": "We really have.",
+     "ko": "정말 그래요."
+    },
+    {
+     "t": 1180.3,
+     "s": "A",
+     "es": "We started by moving away from the miserable extremes of chaotic spending and rigid hoarding.",
+     "ko": "엉망인 소비와 경직된 쌓아 두기라는 비참한 양극단에서 벗어나는 것부터 시작했죠."
+    },
+    {
+     "t": 1185.8,
+     "s": "A",
+     "es": "We unpacked the 50-30-20 rule to pay yourself first, securing your future so you can spend your fun money without an ounce of guilt.",
+     "ko": "나에게 먼저 지불하는 50·30·20 규칙을 풀어 봤어요. 미래를 먼저 지켜 두면 즐기는 돈을 조금의 죄책감도 없이 쓸 수 있죠."
+    },
+    {
+     "t": 1194.0,
+     "s": "B",
+     "es": "And we discussed the power of the pause before a purchase, closing those invisible background apps of micro-spending, and finding joy in the friction, like with Sunday meal prep.",
+     "ko": "그리고 사기 전 멈춤의 힘, 마이크로 지출이라는 보이지 않는 백그라운드 앱 끄기, 일요일 밀프렙처럼 마찰 속에서 기쁨 찾기도 이야기했어요."
+    },
+    {
+     "t": 1204.0,
+     "s": "A",
+     "es": "And above all, we reframed every single dollar saved.",
+     "ko": "그리고 무엇보다 아낀 1달러 하나하나를 다시 봤어요."
+    },
+    {
+     "t": 1207.5,
+     "s": "A",
+     "es": "It isn't a dollar locked away in a prison. It is a tiny piece of future freedom.",
+     "ko": "감옥에 갇힌 1달러가 아니라 미래의 자유 한 조각이에요."
+    },
+    {
+     "t": 1211.9,
+     "s": "B",
+     "es": "Beautifully said.",
+     "ko": "아름다운 표현이네요."
+    },
+    {
+     "t": 1212.6,
+     "s": "A",
+     "es": "We learned to choose identity-building experiences over material objects that just fade into the background.",
+     "ko": "그냥 배경으로 사라지는 물건보다 정체성을 쌓는 경험을 고르는 법도 배웠어요."
+    },
+    {
+     "t": 1218.8,
+     "s": "A",
+     "es": "And to you, the listener, we want to remind you that this is a gradual process.",
+     "ko": "그리고 청취자 여러분, 이건 천천히 가는 과정이라는 걸 다시 말씀드리고 싶어요."
+    },
+    {
+     "t": 1222.3,
+     "s": "A",
+     "es": "Nobody fixes this overnight.",
+     "ko": "하룻밤 사이에 고치는 사람은 없어요."
+    },
+    {
+     "t": 1224.2,
+     "s": "B",
+     "es": "Small steps matter immensely.",
+     "ko": "작은 걸음이 엄청나게 중요해요."
+    },
+    {
+     "t": 1226.2,
+     "s": "A",
+     "es": "They really do. If you make coffee at home today instead of buying it, you're already succeeding.",
+     "ko": "정말 그래요. 오늘 커피를 사 먹는 대신 집에서 내렸다면 이미 성공하고 있는 거예요."
+    },
+    {
+     "t": 1231.0,
+     "s": "A",
+     "es": "You are on the path.",
+     "ko": "이미 길 위에 있는 거죠."
+    }
+   ]
+  },
+  {
+   "title": "마무리 — 충동구매로 정말 산 것은?",
+   "lines": [
+    {
+     "t": 1232.7,
+     "s": "B",
+     "es": "As we wrap up, I want to leave you with one final lingering thought to mull over.",
+     "ko": "마무리하면서 곱씹어 볼 마지막 생각 하나를 남기고 싶어요."
+    },
+    {
+     "t": 1237.3,
+     "s": "A",
+     "es": "Okay, let's hear it.",
+     "ko": "좋아요, 들어 볼게요."
+    },
+    {
+     "t": 1238.5,
+     "s": "B",
+     "es": "Think about the last thing you bought on impulse. Really picture it.",
+     "ko": "마지막으로 충동구매한 물건을 떠올려 보세요. 생생하게 그려 보세요."
+    },
+    {
+     "t": 1242.2,
+     "s": "B",
+     "es": "Did you actually buy that item?",
+     "ko": "정말 그 물건을 산 건가요?"
+    },
+    {
+     "t": 1244.9,
+     "s": "B",
+     "es": "Or were you just trying to buy a momentary distraction from a lack of freedom in your daily schedule?",
+     "ko": "아니면 자유가 없는 일상에서 잠깐 벗어날 딴짓을 사려고 했던 건가요?"
+    },
+    {
+     "t": 1249.8,
+     "s": "B",
+     "es": "Oh, wow.",
+     "ko": "와."
+    },
+    {
+     "t": 1251.3,
+     "s": "B",
+     "es": "If money is time, what is your spending actually costing you in hours of your life?",
+     "ko": "돈이 시간이라면, 당신의 소비는 실제로 당신 인생의 몇 시간을 대가로 치르게 하고 있을까요?"
+    },
+    {
+     "t": 1257.0,
+     "s": "A",
+     "es": "That is a powerful question to sit with.",
+     "ko": "오래 곱씹어 볼 강력한 질문이네요."
+    },
+    {
+     "t": 1260.1,
+     "s": "A",
+     "es": "Thank you so much for joining us for this deep dive.",
+     "ko": "이번 딥 다이브에 함께해 주셔서 정말 감사해요."
+    },
+    {
+     "t": 1262.2,
+     "s": "A",
+     "es": "We encourage you to reflect on whether you lean toward being a saver or a spender, and how you can start building that perfect rhythm for yourself.",
+     "ko": "자신이 모으는 쪽인지 쓰는 쪽인지, 그리고 자신만의 완벽한 리듬을 어떻게 만들어 갈 수 있을지 생각해 보세요."
+    },
+    {
+     "t": 1270.0,
+     "s": "A",
+     "es": "Have a great week of learning and we'll catch you next time.",
+     "ko": "즐겁게 배우는 한 주 보내시고, 다음에 또 만나요."
+    }
+   ]
+  }
+ ]
+}
