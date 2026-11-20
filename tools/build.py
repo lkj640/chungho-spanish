@@ -96,6 +96,7 @@ FORCE = {
     "不幸地": "bú xìng de", "准确地": "zhǔn què de", "批判性地": "pī pàn xìng de", "完美地": "wán měi de", "真实地": "zhēn shí de", "被动地": "bèi dòng de", "轻松地": "qīng sōng de", "顺畅地": "shùn chàng de",
     "单纯地": "dān chún de", "整齐地": "zhěng qí de", "熟练地": "shú liàn de", "一整只": "yì zhěng zhī", "米饭和面条": "mǐ fàn hé miàn tiáo",
     "最长的": "zuì cháng de", "玩着": "wán zhe", "看着": "kàn zhe",
+    "习惯性地": "xí guàn xìng de", "更深地": "gèng shēn de", "猛地": "měng de", "死死地": "sǐ sǐ de", "孤零零地": "gū líng líng de", "避免地": "bì miǎn de", "自然而然地": "zì rán ér rán de", "必须得": "bì xū děi", "得深挖": "děi shēn wā", "不得不": "bù dé bù", "得出": "dé chū",
     "为什么": "wèi shén me", "害怕”得哭": "hài pà ” de kū",
     "长时间": "cháng shí jiān", "太长": "tài cháng", "更长": "gèng cháng", "时间长": "shí jiān cháng",
     "得不到": "dé bu dào", "不动地": "bú dòng de", "很好地": "hěn hǎo de",
