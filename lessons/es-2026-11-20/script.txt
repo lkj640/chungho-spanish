@@ -1,0 +1,236 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: E = Elena, C = Carlos.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 'A lo estudiante'→'A los estudiantes', 'John, es hora de ir al baño'→'Elena, es hora de ir al baño', 'lavabajillas'→'lavavajillas', 'chandal'→'chándal', 'Cepillo, tientes, pijama'→'Cepillo, dientes, pijama', 'E participio'→'he más participio', '1900·21·07'→'19:00·21:00·07:00' 같은 오인식·표기를 바로잡았어요. 'para el dentista'는 맥락상 'los dientes'로 고쳤고, 'pretérito indefinido'는 엘레나의 'leí'에 붙은 카를로스식 설명이라 줄표로 표시했어요. 자막이 한 덩어리로 붙은 곳은 화자를 대화 맥락으로 나눴어요.
+# 시각은 자막 구간 시각을 글자 위치 비율로 나눠 구한 추정값이라 앞뒤로 1~2초쯤 어긋날 수 있어요.
+END 13:48
+
+
+## 집에 도착 — 오늘의 주제
+[00:00.52]
+E | Ah, por fin estoy en casa. | 아, 드디어 집이야.
+[00:03.48]
+E | Hola a todos, soy Elena y estoy muy cansada hoy. | 안녕하세요 여러분, 저는 엘레나예요. 오늘 정말 피곤해요.
+[00:08.43]
+C | Hola, Elena, bienvenida a casa. | 안녕, 엘레나, 집에 온 걸 환영해.
+[00:10.66]
+C | Hola a todos y a todas y bienvenidos a nuestro podcast. Soy Carlos. | 모두 안녕하세요, 우리 팟캐스트에 오신 걸 환영해요. 저는 카를로스예요.
+[00:16.32]
+E | Hola, Carlos. Hoy ha sido un día largo. Ahora solo quiero descansar. | 안녕, 카를로스. 오늘은 긴 하루였어. 이제 그냥 쉬고 싶어.
+[00:21.46]
+E | Quiero hablar de mi momento favorito del día, la noche. | 하루 중 내가 제일 좋아하는 시간, 밤에 대해 이야기하고 싶어.
+[00:25.68]
+C | Es un tema perfecto, Elena. | 완벽한 주제야, 엘레나.
+[00:27.76]
+C | Hoy vamos a hablar de la rutina de noche o la rutina vespertina. | 오늘은 저녁 루틴, 밤 루틴에 대해 이야기할 거예요.
+[00:33.21]
+C | Vamos a aprender qué hacemos desde que llegamos a casa hasta que cerramos los ojos. | 집에 도착해서 눈을 감을 때까지 무엇을 하는지 배워 볼 거예요.
+[00:39.80]
+C | Vamos a practicar los verbos reflexivos. Es una lección A2 muy completa, muy relajante y muy útil. | 재귀동사를 연습할 거예요. 아주 알찬, 아주 편안하고 아주 유용한 A2 수업이에요.
+[00:49.14]
+E | Me encanta dormir, pero antes de dormir hay muchas cosas que hacer. | 난 자는 걸 정말 좋아하지만, 자기 전에 할 일이 많아.
+[00:54.64]
+C | Exacto. Una buena noche empieza con una buena preparación. | 맞아. 좋은 밤은 좋은 준비에서 시작돼.
+## 집에 들어와서 — 신발·옷 갈아입기
+[00:58.54]
+C | Empecemos por el principio. Acabas de entrar en casa. ¿Qué es lo primero que haces, Elena? | 처음부터 시작해 볼까. 막 집에 들어왔어. 제일 먼저 뭘 해, 엘레나?
+[01:05.66]
+C | Imagina la escena. Son las 7 de la tarde, las 19:00. Entras en casa, cierras la puerta. ¿Qué haces con tu ropa? | 장면을 상상해 봐요. 저녁 7시, 19시예요. 집에 들어와서 문을 닫아요. 옷은 어떻게 해?
+[01:16.06]
+E | Bueno, lo primero es lo más importante. Yo me quito los zapatos. Odio llevar zapatos en casa. | 음, 첫 번째가 제일 중요하지. 나는 신발을 벗어. 집에서 신발 신는 게 정말 싫어.
+[01:23.62]
+C | Muy bien. El verbo es quitarse. Tú te quitas los zapatos. | 좋아요. 동사는 quitarse(벗다)예요. 너는 신발을 벗어.
+[01:29.16]
+E | Yo me quito los zapatos. | 나는 신발을 벗어.
+[01:30.95]
+C | ¿Y qué te pones en los pies? | 그럼 발에는 뭘 신어?
+[01:33.45]
+E | Me pongo las zapatillas de casa. Son suaves y cómodas. | 실내화를 신어. 부드럽고 편해.
+[01:37.26]
+C | Las zapatillas de casa. Y después te quedas con la ropa del trabajo. ¿Te quedas con los vaqueros y la camisa? | 실내화. 그리고 그다음엔 출근복 그대로 있어? 청바지에 셔츠 차림으로?
+[01:46.20]
+E | No, nunca. Eso es incómodo. Yo voy a mi habitación. Yo me cambio de ropa. | 아니, 절대. 그건 불편해. 난 내 방에 가서 옷을 갈아입어.
+[01:53.10]
+C | Reflexivo. Cambiarse. ¿Y qué te pones? ¿Te pones el pijama inmediatamente? | 재귀동사네요. cambiarse(갈아입다). 그럼 뭘 입어? 바로 잠옷을 입어?
+[01:58.51]
+E | No, todavía no. Es muy pronto para el pijama. Me pongo ropa cómoda. Por ejemplo, un pantalón de chándal y una camiseta vieja. | 아니, 아직 아니야. 잠옷은 너무 일러. 편한 옷을 입어. 예를 들면 트레이닝 바지와 낡은 티셔츠.
+[02:08.59]
+C | Repitamos la secuencia. Elena llega a casa. Elena se quita los zapatos. Elena se pone las zapatillas. Elena se cambia de ropa. | 순서를 다시 반복해 봐요. 엘레나가 집에 도착해요. 신발을 벗어요. 실내화를 신어요. 옷을 갈아입어요.
+[02:18.68]
+C | ¿Y ustedes? ¿Qué hacen cuando llegan a casa? ¿Se cambian de ropa? | 여러분은요? 집에 도착하면 뭘 하세요? 옷을 갈아입나요?
+[02:23.95]
+C | Es un momento de transición. Dejas el estrés del trabajo fuera. Ahora estás en tu refugio. | 전환의 순간이에요. 일의 스트레스를 밖에 두고 오는 거예요. 이제 당신만의 안식처에 있어요.
+[02:30.99]
+C | Elena, ¿te has quitado el abrigo? Pretérito perfecto. | 엘레나, 외투는 벗었어? 현재완료예요.
+[02:34.62]
+E | Sí, me he quitado el abrigo. Lo he colgado en el perchero. | 응, 외투를 벗었어. 옷걸이에 걸어 놨어.
+## 저녁 식사 준비
+[02:40.52]
+C | Ya estamos cómodos. Pero ahora el estómago hace ruido. Tenemos hambre. Es la hora de la cena. | 이제 편안해졌어요. 하지만 이제 배에서 소리가 나요. 배가 고파요. 저녁 먹을 시간이에요.
+[02:49.94]
+C | En España cenamos tarde, pero para esta lección cenaremos a las 8. | 스페인에서는 저녁을 늦게 먹지만, 이 수업에서는 8시에 먹을 거예요.
+[02:56.97]
+E | Me gusta cenar, pero no me gusta cocinar mucho por la noche. Estoy cansada. Quiero cocinar algo rápido y ligero. | 저녁 먹는 건 좋은데, 밤에 요리를 많이 하는 건 싫어. 피곤하거든. 빠르고 가벼운 걸 요리하고 싶어.
+[03:08.66]
+C | Atención, ligero es lo contrario de pesado. Por la noche es mejor comer ligero para dormir bien. | 주목하세요, ligero(가벼운)는 pesado(무거운)의 반대예요. 밤에는 잘 자기 위해 가볍게 먹는 게 좋아요.
+[03:18.20]
+C | ¿Qué vas a preparar hoy, Elena? | 오늘은 뭘 만들 거야, 엘레나?
+[03:21.14]
+E | Hoy voy a preparar una ensalada y una tortilla francesa. | 오늘은 샐러드와 프랑스식 오믈렛(tortilla francesa)을 만들 거야.
+[03:27.24]
+C | Suena delicioso. Vamos a la cocina. ¿Qué necesitas? | 맛있겠다. 부엌으로 가자. 뭐가 필요해?
+[03:33.07]
+E | Necesito huevos. Necesito lechuga, necesito tomates y necesito aceite de oliva. | 달걀이 필요해. 상추, 토마토, 올리브유도 필요해.
+[03:41.95]
+C | Describe tus acciones, Elena. Usa el presente. | 네 행동을 설명해 봐, 엘레나. 현재형을 써서.
+[03:47.11]
+E | Primero lavo la lechuga y los tomates. Es importante lavar la verdura. | 먼저 상추와 토마토를 씻어. 채소를 씻는 건 중요해.
+[03:55.24]
+E | Después corto el tomate con un cuchillo. Luego bato los huevos en un plato y finalmente cocino la tortilla en la sartén. | 그다음 칼로 토마토를 썰어. 그러고 나서 접시에 달걀을 풀고, 마지막으로 프라이팬에 오믈렛을 부쳐.
+[04:09.31]
+C | Lavar, cortar, batir, cocinar. A los estudiantes, repitan conmigo. | 씻다, 썰다, 풀다, 요리하다. 학생 여러분, 저를 따라 해 보세요.
+[04:16.27]
+C | Yo lavo, yo corto, yo cocino. | 나는 씻고, 나는 썰고, 나는 요리해요.
+## 저녁 식사와 정리
+[04:20.53]
+E | Ya está lista la cena. Ahora pongo la mesa, pongo el plato, el tenedor, el cuchillo y el vaso. | 저녁이 다 됐어. 이제 식탁을 차려, 접시와 포크, 나이프, 컵을 놓아.
+[04:33.06]
+C | Y te sientas a cenar. ¿Ves la televisión mientras cenas? | 그리고 앉아서 저녁을 먹지. 먹는 동안 TV를 봐?
+[04:38.97]
+E | Sí, a veces veo las noticias o escucho un podcast, pero intento cenar tranquila. | 응, 가끔 뉴스를 보거나 팟캐스트를 듣지만, 조용히 먹으려고 해.
+[04:46.64]
+C | ¿Y cuando terminas de cenar, qué haces? ¿Dejas los platos sucios en la mesa? | 그럼 저녁을 다 먹고 나면 뭘 해? 더러운 접시를 식탁에 그냥 둬?
+[04:54.09]
+E | No soy ordenada. Yo recojo la mesa y meto los platos en el lavavajillas o lavo los platos a mano. | 나는 정리를 잘하는 편은 아니야. 그래도 식탁을 치우고 접시를 식기세척기에 넣거나 손으로 설거지해.
+[05:04.79]
+C | La cena ha terminado. La cocina está limpia. | 저녁 식사가 끝났어요. 부엌은 깨끗해요.
+## 자유 시간 — TV, 휴대폰, 독서
+[05:09.12]
+C | Son las 9 de la noche, las 21:00. Es tu tiempo libre, tu tiempo de relax. ¿Qué haces para desconectar, Elena? | 밤 9시, 21시예요. 자유 시간, 휴식 시간이에요. 머리를 식히려고 뭘 해, 엘레나?
+[05:19.40]
+E | Me gusta ir al salón. Me siento en el sofá, a veces veo una serie en Netflix. | 거실에 가는 걸 좋아해. 소파에 앉아서 가끔 넷플릭스 시리즈를 봐.
+[05:27.56]
+C | ¿Qué tipo de series te gustan? | 어떤 종류의 시리즈를 좋아해?
+[05:30.48]
+E | Me gustan las comedias. No quiero dramas por la noche. Quiero reírme. | 코미디가 좋아. 밤에는 드라마는 싫어. 웃고 싶거든.
+[05:36.34]
+C | Es una buena estrategia, pero Elena, ¿usas tu teléfono móvil? | 좋은 전략이야. 그런데 엘레나, 휴대폰은 써?
+[05:42.18]
+E | Sí, a veces paso mucho tiempo en Instagram. Hago scroll durante 30 minutos. | 응, 가끔 인스타그램에서 시간을 많이 보내. 30분 동안 스크롤해.
+[05:49.51]
+C | Eso no es bueno, Elena. La luz del teléfono es mala para el sueño. La luz azul despierta tu cerebro. Te recomiendo leer un libro. | 그건 좋지 않아, 엘레나. 휴대폰 불빛은 수면에 나빠. 블루라이트는 뇌를 깨워. 책 읽기를 추천해.
+[06:02.52]
+E | Tienes razón, Carlos. Leer es mejor. Me relaja más. | 맞아, 카를로스. 책 읽는 게 더 좋아. 마음이 더 편해져.
+[06:07.61]
+E | Ayer, por ejemplo, leí —pretérito indefinido— un capítulo de una novela y me entraron ganas de dormir. | 어제는 예를 들어 소설 한 챕터를 읽었는데(leí, 단순과거) 졸음이 몰려왔어.
+[06:18.01]
+C | Vocabulario de relax: ver la televisión, leer un libro, escuchar música, estar en el sofá. | 휴식 어휘: TV 보기, 책 읽기, 음악 듣기, 소파에 있기.
+[06:27.40]
+C | ¿A qué hora apagas el móvil? | 몇 시에 휴대폰을 꺼?
+[06:30.22]
+E | Voy a apagar el móvil a las 9:30. | 9시 30분에 휴대폰을 끌 거야.
+[06:34.44]
+C | ¿Qué haces antes de dormir? | 자기 전에는 뭘 해?
+[06:36.91]
+E | Antes de dormir leo un libro. No miro el móvil antes de dormir. Bueno, ya estoy cansada. Empiezo a bostezar. | 자기 전에는 책을 읽어. 자기 전에 휴대폰은 안 봐. 음, 이제 피곤해. 하품이 나기 시작해.
+## 욕실 루틴 — 샤워와 양치
+[06:48.83]
+C | Elena, es hora de ir al baño. Esta es la parte más importante de la rutina para el vocabulario A2. | 엘레나, 욕실에 갈 시간이야. A2 어휘를 위해 루틴에서 가장 중요한 부분이에요.
+[06:58.35]
+C | Las acciones del baño son casi todas reflexivas. Entras en el baño, ¿qué haces? | 욕실 동작은 거의 다 재귀동사예요. 욕실에 들어가면 뭘 해?
+[07:07.08]
+E | Primero me miro en el espejo. Qué cara de sueño tengo. Luego me ducho. Me gusta ducharme por la noche con agua caliente. Me relaja. | 먼저 거울을 봐. 졸린 얼굴이네. 그다음 샤워해. 밤에 따뜻한 물로 샤워하는 걸 좋아해. 마음이 편해져.
+[07:19.03]
+C | Yo me ducho. Tú te duchas. Ella se ducha. ¿Qué usas en la ducha? | 나는 샤워해요. 너는 샤워해. 그녀는 샤워해요. 샤워할 때 뭘 써?
+[07:26.88]
+E | Uso jabón para el cuerpo y uso champú para el pelo. El agua caliente cae sobre mis hombros. Es fantástico. | 몸에는 비누, 머리에는 샴푸를 써. 따뜻한 물이 어깨 위로 떨어져. 정말 좋아.
+[07:37.38]
+C | Y cuando terminas, sales de la ducha, estás mojada. ¿Qué haces? | 그리고 끝나면 샤워실에서 나오는데, 젖어 있어. 뭘 해?
+[07:44.08]
+E | Me seco con una toalla. | 수건으로 몸을 닦아.
+[07:47.21]
+C | Reflexivo. Secarse. | 재귀동사예요. secarse(몸을 닦다).
+[07:48.60]
+E | Me seco bien. | 잘 닦아.
+[07:50.68]
+C | Muy bien. Estás limpia y seca. Ahora el cuidado de la cara. | 좋아. 깨끗하고 보송보송해졌어. 이제 얼굴 관리야.
+[07:58.61]
+E | Sí, me lavo la cara y me pongo crema hidratante para tener la piel suave. | 응, 세수하고 피부를 부드럽게 하려고 보습 크림을 발라.
+[08:06.20]
+C | Y lo más importante, los dientes. | 그리고 제일 중요한 건 치아예요.
+[08:09.97]
+E | Sí, me cepillo los dientes o me lavo los dientes. Cojo el cepillo de dientes, pongo la pasta de dientes y cepillo arriba, abajo, izquierda, derecha. | 응, 양치를 해(me cepillo los dientes / me lavo los dientes). 칫솔을 잡고 치약을 짜서 위, 아래, 왼쪽, 오른쪽으로 닦아.
+[08:26.22]
+C | ¿Durante cuánto tiempo? | 얼마 동안?
+[08:28.16]
+E | Durante 2 minutos. Después me enjuago la boca con agua y sonrío en el espejo. Mis dientes están limpios. | 2분 동안. 그다음 물로 입을 헹구고 거울 보며 웃어. 내 이가 깨끗해.
+[08:39.24]
+C | Repasemos los objetos del baño. El espejo, la ducha, la toalla, el jabón, el cepillo de dientes, la pasta de dientes. | 욕실 물건을 복습해요. 거울, 샤워기, 수건, 비누, 칫솔, 치약.
+[08:53.48]
+C | Elena, ¿te lavas la cara? | 엘레나, 세수해?
+[08:56.54]
+E | Sí, me lavo la cara. | 응, 세수해.
+[08:59.59]
+C | Nosotros nos lavamos los dientes. | 우리는 양치를 해요.
+[09:02.87]
+E | Sí, nosotros nos lavamos los dientes. | 응, 우리는 양치를 해요.
+## 침실 — 알람 맞추고 잠자리에 들기
+[09:06.88]
+C | Ya estás en pijama. Hueles a jabón y menta. Vas a tu dormitorio o habitación. El ambiente debe ser tranquilo. | 이제 잠옷을 입었어요. 비누와 민트 향이 나요. 침실로 가요. 분위기는 조용해야 해요.
+[09:20.95]
+E | Sí. Entro en la habitación, bajo la persiana. | 응. 방에 들어가서 블라인드를 내려.
+[09:26.86]
+E | En España tenemos persianas para que no entre luz. Quiero oscuridad total. | 스페인에는 빛이 안 들어오게 하는 롤 블라인드(persiana)가 있어. 완전한 어둠이 좋아.
+[09:35.76]
+C | Y la cama. | 그리고 침대는?
+[09:37.82]
+E | Preparo la cama, quito los cojines decorativos, abro las sábanas. | 침대를 정리하고, 장식 쿠션을 치우고, 시트를 펼쳐.
+[09:44.67]
+C | Hay una cosa importante para mañana. Mañana trabajas. ¿Qué necesitas para despertarte? | 내일을 위해 중요한 게 하나 있어요. 내일 일하죠. 일어나려면 뭐가 필요해?
+[09:56.71]
+E | El despertador o la alarma del móvil. Tengo que poner el despertador. ¿A qué hora pongo el despertador, Carlos? | 알람 시계나 휴대폰 알람. 알람을 맞춰야 해. 몇 시에 맞출까, 카를로스?
+[10:08.50]
+C | Ponlo a las 7 de la mañana, las 07:00. Así tienes tiempo para desayunar. | 아침 7시, 07:00에 맞춰. 그러면 아침 먹을 시간이 있어.
+[10:18.06]
+E | Vale. Cojo el móvil. Reloj. Alarma 07:00. Guardar. Ya está. El despertador está puesto. | 알았어. 휴대폰을 집어. 시계, 알람 07:00, 저장. 됐어. 알람이 맞춰졌어.
+[10:29.80]
+C | Ahora el momento final. Te metes en la cama, te tapas con las sábanas y la manta. | 이제 마지막 순간이에요. 침대에 들어가서 시트와 담요를 덮어요.
+[10:41.07]
+E | Sí, hace un poco de frío. Me tapo hasta el cuello. La almohada es suave. Estoy muy cómoda. | 응, 좀 추워. 목까지 덮어. 베개가 부드러워. 아주 편안해.
+[10:50.93]
+C | ¿Apagas la luz? | 불은 꺼?
+[10:52.80]
+E | Sí. Tengo una lámpara pequeña en la mesita de noche. Alargo la mano y apago la luz. Clic. Ahora todo está oscuro. | 응. 침대 옆 탁자에 작은 램프가 있어. 손을 뻗어 불을 꺼. 딸깍. 이제 모든 게 어두워.
+## 현재완료로 하루 돌아보기
+[11:06.99]
+C | Elena está en la cama. Pero antes de dormir vamos a hacer un repaso mental. | 엘레나는 침대에 누워 있어요. 하지만 자기 전에 머릿속으로 복습해 봐요.
+[11:17.50]
+C | Vamos a usar el pretérito perfecto, he más participio, para recordar qué hemos hecho. | 우리가 무엇을 했는지 떠올리려고 현재완료(he + 과거분사)를 쓸 거예요.
+[11:27.24]
+C | Elena, sin dormirte todavía, ¿qué has hecho esta noche? | 엘레나, 아직 잠들지 말고, 오늘 밤 뭘 했어?
+[11:34.30]
+E | Mm, déjame pensar. Primero he llegado a casa y me he quitado los zapatos. Me he puesto ropa cómoda. | 음, 생각해 볼게. 먼저 집에 도착해서 신발을 벗었어. 편한 옷을 입었어.
+[11:45.80]
+C | Muy bien. | 아주 좋아.
+[11:47.06]
+E | Y después he cocinado una tortilla y he cenado. He recogido la cocina y en el baño me he duchado con agua caliente, me he lavado los dientes y me he puesto el pijama. | 그러고 나서 오믈렛을 만들어 저녁을 먹었어. 부엌을 정리했고, 욕실에서 따뜻한 물로 샤워하고 이를 닦고 잠옷을 입었어.
+[12:07.73]
+E | Y ahora me he metido en la cama y he apagado la luz. Estoy lista para dormir. | 그리고 이제 침대에 들어가서 불을 껐어. 잘 준비가 됐어.
+[12:16.60]
+C | El pretérito perfecto es muy útil para resumir acciones recientes. He cenado, me he duchado, he apagado la luz. | 현재완료는 최근 행동을 요약하는 데 아주 유용해요. 저녁을 먹었다, 샤워했다, 불을 껐다.
+[12:29.09]
+C | ¿Ustedes han cenado ya? ¿Se han lavado los dientes? | 여러분은 벌써 저녁을 드셨나요? 양치는 하셨나요?
+## 잘 자요
+[12:35.87]
+E | Ah, Carlos, tengo mucho sueño. Mis ojos se cierran. El verbo es dormirse. Me estoy durmiendo. | 아, 카를로스, 너무 졸려. 눈이 감겨. 동사는 dormirse(잠들다)야. 나 잠들고 있어.
+[12:47.49]
+C | Lo sé, Elena. Has tenido un día productivo. Es hora de descansar. | 알아, 엘레나. 생산적인 하루를 보냈지. 이제 쉴 시간이야.
+[12:55.20]
+C | El sueño es importante para aprender español. Tu cerebro consolida el vocabulario mientras duermes. | 수면은 스페인어를 배우는 데 중요해요. 자는 동안 뇌가 어휘를 굳혀 줘요.
+[13:02.88]
+E | Eso es bueno, aprender mientras duermo. Buenas noches, Carlos. Buenas noches a todos. | 좋네, 자면서 배우다니. 잘 자, 카를로스. 모두 잘 자요.
+[13:11.27]
+C | Buenas noches, Elena. Que sueñes con los angelitos. | 잘 자, 엘레나. 천사들 꿈 꿔.
+[13:15.30]
+C | Y a ustedes, queridos oyentes, gracias por pasar esta noche con nosotros. Espero que ahora sepan cómo describir su rutina. Cepillo, dientes, pijama. | 그리고 사랑하는 청취자 여러분, 오늘 밤을 함께해 주셔서 감사해요. 이제 여러분의 루틴을 말할 수 있길 바라요. 칫솔, 이, 잠옷.
+[13:37.92]
+C | Elena ya está dormida. No hagamos ruido. Nos vemos en el próximo episodio. Hasta mañana. Adiós. | 엘레나는 벌써 잠들었어요. 조용히 해요. 다음 에피소드에서 만나요. 내일 봐요. 안녕.

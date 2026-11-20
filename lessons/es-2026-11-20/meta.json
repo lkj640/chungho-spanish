@@ -1,0 +1,773 @@
+{
+ "lang": "es",
+ "date": "2026-11-20",
+ "title": "나의 저녁 루틴 — 재귀동사와 현재완료로 하루 마무리하기",
+ "es": "Hoy ha sido un día largo. Ahora solo quiero descansar.",
+ "emoji": "🌙",
+ "level": "A2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "My Evening Routine in Spanish | Learn Spanish with Podcast | episode 26 | Easy Spanish",
+ "youtube": "j8FTGGT_gbI",
+ "duration": "13:47",
+ "speakers": {
+  "E": "Elena",
+  "C": "Carlos"
+ },
+ "hideCast": true,
+ "summary": "긴 하루를 마치고 집에 돌아온 엘레나가 카를로스와 함께 신발 벗기, 저녁 요리, 휴식, 샤워와 양치, 알람 맞추기, 잠들기까지 저녁 루틴을 순서대로 이야기해요. 재귀동사(me quito, me ducho, me lavo)와 현재완료(me he duchado), 순서 표현이 자연스럽게 반복돼요.",
+ "topics": [
+  "귀가 후 옷 갈아입기: quitarse · ponerse · cambiarse",
+  "저녁 요리: lavar · cortar · batir · cocinar",
+  "휴식 시간: ver una serie · leer un libro",
+  "욕실 루틴: ducharse · secarse · lavarse los dientes",
+  "잠자리: poner el despertador · taparse",
+  "현재완료로 하루 돌아보기: me he duchado · he cenado"
+ ],
+ "grammar": [
+  {
+   "title": "① 재귀동사 — 주어와 같은 대상에게 하는 행동",
+   "lead": "동사 앞에 <b>재귀대명사(me, te, se, nos, os, se)</b>를 붙여요. 몸·옷·일과 같은 <b>내가 나에게 하는 일상 동작</b>에 많이 써요.",
+   "table": {
+    "head": [
+     "주어",
+     "대명사",
+     "예문"
+    ],
+    "rows": [
+     [
+      "yo",
+      "me",
+      "Me quito los zapatos."
+     ],
+     [
+      "tú",
+      "te",
+      "Te quitas los zapatos."
+     ],
+     [
+      "él/ella",
+      "se",
+      "Ella se ducha."
+     ],
+     [
+      "nosotros",
+      "nos",
+      "Nos lavamos los dientes."
+     ],
+     [
+      "ellos",
+      "se",
+      "Se cambian de ropa."
+     ]
+    ]
+   },
+   "tip": "원형은 <b>quitarse, ducharse, lavarse</b>처럼 끝에 -se가 붙어 있어요. 활용할 때는 대명사를 동사 앞으로 보내요."
+  },
+  {
+   "title": "② 하루 루틴에 쓰는 재귀동사",
+   "lead": "자기 전까지의 동작을 순서대로 말할 때 아래 동사들이 단골이에요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "quitarse",
+      "(옷·신발을) 벗다",
+      "Me quito los zapatos."
+     ],
+     [
+      "ponerse",
+      "(옷을) 입다",
+      "Me pongo las zapatillas."
+     ],
+     [
+      "cambiarse",
+      "갈아입다",
+      "Me cambio de ropa."
+     ],
+     [
+      "ducharse",
+      "샤워하다",
+      "Me ducho con agua caliente."
+     ],
+     [
+      "secarse",
+      "몸을 닦다",
+      "Me seco con una toalla."
+     ],
+     [
+      "dormirse",
+      "잠들다",
+      "Me estoy durmiendo."
+     ]
+    ]
+   },
+   "tip": "<b>lavarse la cara / los dientes</b>처럼 몸 부위에는 소유격(mi) 대신 <b>정관사(la, los)</b>를 써요."
+  },
+  {
+   "title": "③ 현재완료 haber + 과거분사",
+   "lead": "<b>he, has, ha, hemos, han + 과거분사</b>로 오늘 있었던 일, 방금 끝난 일을 요약해요. 재귀동사와 만나면 대명사가 haber 앞에 와요.",
+   "table": {
+    "head": [
+     "주어",
+     "표현",
+     "예문"
+    ],
+    "rows": [
+     [
+      "yo",
+      "me he quitado",
+      "Me he quitado el abrigo."
+     ],
+     [
+      "yo",
+      "he cenado",
+      "He cenado una tortilla."
+     ],
+     [
+      "tú",
+      "¿te has lavado?",
+      "¿Te has lavado los dientes?"
+     ],
+     [
+      "ellos",
+      "¿han cenado?",
+      "¿Ustedes han cenado ya?"
+     ]
+    ]
+   },
+   "tip": "<b>-ar → -ado, -er/-ir → -ido</b>: cocinar → cocinado, meter → metido. 대명사는 <b>me he duchado</b>처럼 haber 바로 앞!"
+  },
+  {
+   "title": "④ 순서를 나타내는 말",
+   "lead": "루틴을 설명할 때 순서를 이어 주는 단어들이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "primero",
+      "먼저",
+      "Primero lavo la lechuga."
+     ],
+     [
+      "después / luego",
+      "그다음",
+      "Luego bato los huevos."
+     ],
+     [
+      "finalmente",
+      "마지막으로",
+      "Finalmente cocino la tortilla."
+     ],
+     [
+      "antes de + 동사원형",
+      "~하기 전에",
+      "Antes de dormir leo un libro."
+     ],
+     [
+      "cuando + 현재",
+      "~할 때",
+      "Cuando termino de cenar, recojo la mesa."
+     ]
+    ]
+   },
+   "tip": "<b>antes de</b> 뒤에는 동사원형을 써요: antes de dormir (○) / antes de duermo (✕)."
+  },
+  {
+   "title": "⑤ 현재형으로 행동 설명하기",
+   "lead": "레시피나 루틴은 <b>1인칭 현재형</b>으로 말하면 가장 자연스러워요.",
+   "table": {
+    "head": [
+     "원형",
+     "yo 형태",
+     "예문"
+    ],
+    "rows": [
+     [
+      "lavar",
+      "lavo",
+      "Lavo los tomates."
+     ],
+     [
+      "cortar",
+      "corto",
+      "Corto el tomate."
+     ],
+     [
+      "batir",
+      "bato",
+      "Bato los huevos."
+     ],
+     [
+      "poner",
+      "pongo",
+      "Pongo la mesa."
+     ],
+     [
+      "coger",
+      "cojo",
+      "Cojo el cepillo de dientes."
+     ]
+    ]
+   },
+   "tip": "<b>poner → pongo, coger → cojo</b>처럼 yo 형태만 불규칙한 동사에 주의하세요."
+  },
+  {
+   "title": "⑥ ir a + 동사원형 — 가까운 미래",
+   "lead": "<b>voy a + 동사원형</b>은 이미 마음먹은 계획을 말할 때 써요.",
+   "table": {
+    "head": [
+     "주어",
+     "ir a",
+     "예문"
+    ],
+    "rows": [
+     [
+      "yo",
+      "voy a",
+      "Voy a preparar una ensalada."
+     ],
+     [
+      "yo",
+      "voy a",
+      "Voy a apagar el móvil a las 9:30."
+     ],
+     [
+      "nosotros",
+      "vamos a",
+      "Vamos a practicar los verbos reflexivos."
+     ]
+    ]
+   },
+   "tip": "시간은 <b>a las + 시각</b>: a las nueve y media, a las siete de la mañana."
+  },
+  {
+   "title": "⑦ tener que + 동사원형 / ponlo (명령형)",
+   "lead": "<b>tener que</b>는 해야 하는 일, <b>ponlo</b>는 tú 명령형 + 목적대명사예요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "tengo que + 원형",
+      "~해야 한다",
+      "Tengo que poner el despertador."
+     ],
+     [
+      "ponlo",
+      "그걸 맞춰/놔",
+      "Ponlo a las siete."
+     ],
+     [
+      "necesito + 명사",
+      "~이 필요하다",
+      "Necesito huevos y lechuga."
+     ]
+    ]
+   },
+   "tip": "긍정 명령형에서는 대명사가 <b>동사 뒤에 붙어요</b>: pon + lo = ponlo."
+  }
+ ],
+ "phrases": [
+  {
+   "es": "Me quito los zapatos.",
+   "ko": "신발을 벗어요.",
+   "ex": "Yo me quito los zapatos.",
+   "exKo": "나는 신발을 벗어요."
+  },
+  {
+   "es": "Me pongo ropa cómoda.",
+   "ko": "편한 옷을 입어요.",
+   "ex": "Me pongo ropa cómoda.",
+   "exKo": "편한 옷을 입어요."
+  },
+  {
+   "es": "Quiero cocinar algo rápido y ligero.",
+   "ko": "빠르고 가벼운 걸 요리하고 싶어요.",
+   "ex": "Quiero cocinar algo rápido y ligero.",
+   "exKo": "빠르고 가벼운 걸 요리하고 싶어요."
+  },
+  {
+   "es": "Pongo la mesa.",
+   "ko": "식탁을 차려요.",
+   "ex": "Ahora pongo la mesa.",
+   "exKo": "이제 식탁을 차려요."
+  },
+  {
+   "es": "¿Qué haces para desconectar?",
+   "ko": "머리를 식히려고 뭘 해요?",
+   "ex": "¿Qué haces para desconectar, Elena?",
+   "exKo": "엘레나, 머리를 식히려고 뭘 해?"
+  },
+  {
+   "es": "Me lavo los dientes.",
+   "ko": "양치를 해요.",
+   "ex": "Me cepillo los dientes o me lavo los dientes.",
+   "exKo": "양치를 해요."
+  },
+  {
+   "es": "Tengo que poner el despertador.",
+   "ko": "알람을 맞춰야 해요.",
+   "ex": "Tengo que poner el despertador.",
+   "exKo": "알람을 맞춰야 해요."
+  },
+  {
+   "es": "Estoy lista para dormir.",
+   "ko": "잘 준비가 됐어요.",
+   "ex": "Me he metido en la cama y estoy lista para dormir.",
+   "exKo": "침대에 들어갔고 잘 준비가 됐어요."
+  }
+ ],
+ "vocab": [
+  {
+   "es": "quitarse",
+   "ko": "(옷·신발을) 벗다",
+   "ex": "Me quito los zapatos.",
+   "exKo": "신발을 벗어요."
+  },
+  {
+   "es": "ponerse",
+   "ko": "(옷을) 입다, 신다",
+   "ex": "Me pongo las zapatillas.",
+   "exKo": "실내화를 신어요."
+  },
+  {
+   "es": "las zapatillas de casa",
+   "ko": "실내화",
+   "ex": "Me pongo las zapatillas de casa.",
+   "exKo": "실내화를 신어."
+  },
+  {
+   "es": "cambiarse de ropa",
+   "ko": "옷을 갈아입다",
+   "ex": "Yo me cambio de ropa.",
+   "exKo": "아니, 절대. 그건 불편해. 난 내 방에 가서 옷을 갈아입어."
+  },
+  {
+   "es": "el pijama",
+   "ko": "잠옷",
+   "ex": "¿Te pones el pijama inmediatamente?",
+   "exKo": "바로 잠옷을 입어?"
+  },
+  {
+   "es": "el abrigo",
+   "ko": "외투",
+   "ex": "Me he quitado el abrigo.",
+   "exKo": "외투를 벗었어요."
+  },
+  {
+   "es": "el perchero",
+   "ko": "옷걸이",
+   "ex": "Lo he colgado en el perchero.",
+   "exKo": "옷걸이에 걸어 놨어."
+  },
+  {
+   "es": "colgar",
+   "ko": "걸다",
+   "ex": "Lo he colgado en el perchero.",
+   "exKo": "옷걸이에 걸어 놨어."
+  },
+  {
+   "es": "la cena",
+   "ko": "저녁 식사",
+   "ex": "Es la hora de la cena.",
+   "exKo": "저녁 먹을 시간이에요."
+  },
+  {
+   "es": "cenar",
+   "ko": "저녁을 먹다",
+   "ex": "Me gusta cenar.",
+   "exKo": "저녁 먹는 걸 좋아해요."
+  },
+  {
+   "es": "ligero",
+   "ko": "가벼운",
+   "ex": "Quiero cocinar algo ligero.",
+   "exKo": "가벼운 걸 요리하고 싶어요."
+  },
+  {
+   "es": "pesado",
+   "ko": "무거운, 부담스러운",
+   "ex": "Ligero es lo contrario de pesado.",
+   "exKo": "ligero는 pesado의 반대예요."
+  },
+  {
+   "es": "la ensalada",
+   "ko": "샐러드",
+   "ex": "Voy a preparar una ensalada.",
+   "exKo": "샐러드를 만들 거예요."
+  },
+  {
+   "es": "la tortilla francesa",
+   "ko": "프랑스식 오믈렛",
+   "ex": "Hoy voy a preparar una tortilla francesa.",
+   "exKo": "오늘은 프랑스식 오믈렛을 만들 거예요."
+  },
+  {
+   "es": "el huevo",
+   "ko": "달걀",
+   "ex": "Necesito huevos.",
+   "exKo": "달걀이 필요해."
+  },
+  {
+   "es": "la lechuga",
+   "ko": "상추",
+   "ex": "Necesito lechuga.",
+   "exKo": "상추가 필요해요."
+  },
+  {
+   "es": "el tomate",
+   "ko": "토마토",
+   "ex": "Corto el tomate.",
+   "exKo": "토마토를 썰어요."
+  },
+  {
+   "es": "el aceite de oliva",
+   "ko": "올리브유",
+   "ex": "Necesito aceite de oliva.",
+   "exKo": "올리브유가 필요해요."
+  },
+  {
+   "es": "lavar",
+   "ko": "씻다",
+   "ex": "Primero lavo la lechuga.",
+   "exKo": "먼저 상추를 씻어요."
+  },
+  {
+   "es": "cortar",
+   "ko": "썰다",
+   "ex": "Corto el tomate con un cuchillo.",
+   "exKo": "칼로 토마토를 썰어요."
+  },
+  {
+   "es": "batir",
+   "ko": "(달걀을) 풀다",
+   "ex": "Bato los huevos en un plato.",
+   "exKo": "접시에 달걀을 풀어요."
+  },
+  {
+   "es": "la sartén",
+   "ko": "프라이팬",
+   "ex": "Cocino la tortilla en la sartén.",
+   "exKo": "프라이팬에 오믈렛을 부쳐요."
+  },
+  {
+   "es": "poner la mesa",
+   "ko": "식탁을 차리다",
+   "ex": "Ahora pongo la mesa.",
+   "exKo": "이제 식탁을 차려요."
+  },
+  {
+   "es": "el tenedor",
+   "ko": "포크",
+   "ex": "Pongo el tenedor.",
+   "exKo": "포크를 놓아요."
+  },
+  {
+   "es": "el cuchillo",
+   "ko": "칼, 나이프",
+   "ex": "Pongo el cuchillo.",
+   "exKo": "나이프를 놓아요."
+  },
+  {
+   "es": "el lavavajillas",
+   "ko": "식기세척기",
+   "ex": "Meto los platos en el lavavajillas.",
+   "exKo": "접시를 식기세척기에 넣어요."
+  },
+  {
+   "es": "recoger la mesa",
+   "ko": "식탁을 치우다",
+   "ex": "Yo recojo la mesa.",
+   "exKo": "나는 식탁을 치워요."
+  },
+  {
+   "es": "ordenado",
+   "ko": "정리를 잘하는",
+   "ex": "No soy ordenada.",
+   "exKo": "나는 정리를 잘하는 편은 아니야."
+  },
+  {
+   "es": "el salón",
+   "ko": "거실",
+   "ex": "Me gusta ir al salón.",
+   "exKo": "거실에 가는 걸 좋아해."
+  },
+  {
+   "es": "el sofá",
+   "ko": "소파",
+   "ex": "Me siento en el sofá.",
+   "exKo": "소파에 앉아요."
+  },
+  {
+   "es": "la serie",
+   "ko": "시리즈, 드라마",
+   "ex": "A veces veo una serie en Netflix.",
+   "exKo": "가끔 넷플릭스 시리즈를 봐요."
+  },
+  {
+   "es": "la luz azul",
+   "ko": "블루라이트",
+   "ex": "La luz azul despierta tu cerebro.",
+   "exKo": "블루라이트는 뇌를 깨워."
+  },
+  {
+   "es": "el sueño",
+   "ko": "잠, 졸음",
+   "ex": "La luz del teléfono es mala para el sueño.",
+   "exKo": "휴대폰 불빛은 수면에 나빠."
+  },
+  {
+   "es": "bostezar",
+   "ko": "하품하다",
+   "ex": "Empiezo a bostezar.",
+   "exKo": "하품이 나기 시작해."
+  },
+  {
+   "es": "el espejo",
+   "ko": "거울",
+   "ex": "Me miro en el espejo.",
+   "exKo": "거울을 봐요."
+  },
+  {
+   "es": "ducharse",
+   "ko": "샤워하다",
+   "ex": "Me gusta ducharme por la noche.",
+   "exKo": "밤에 샤워하는 걸 좋아해요."
+  },
+  {
+   "es": "el jabón",
+   "ko": "비누",
+   "ex": "Uso jabón para el cuerpo.",
+   "exKo": "몸에는 비누를 써요."
+  },
+  {
+   "es": "el champú",
+   "ko": "샴푸",
+   "ex": "Uso champú para el pelo.",
+   "exKo": "머리에는 샴푸를 써요."
+  },
+  {
+   "es": "la toalla",
+   "ko": "수건",
+   "ex": "Me seco con una toalla.",
+   "exKo": "수건으로 몸을 닦아."
+  },
+  {
+   "es": "secarse",
+   "ko": "몸을 닦다",
+   "ex": "Me seco bien.",
+   "exKo": "잘 닦아."
+  },
+  {
+   "es": "la crema hidratante",
+   "ko": "보습 크림",
+   "ex": "Me pongo crema hidratante.",
+   "exKo": "보습 크림을 발라요."
+  },
+  {
+   "es": "el cepillo de dientes",
+   "ko": "칫솔",
+   "ex": "Cojo el cepillo de dientes.",
+   "exKo": "칫솔을 잡아요."
+  },
+  {
+   "es": "la pasta de dientes",
+   "ko": "치약",
+   "ex": "Pongo la pasta de dientes.",
+   "exKo": "치약을 짜요."
+  },
+  {
+   "es": "enjuagarse la boca",
+   "ko": "입을 헹구다",
+   "ex": "Me enjuago la boca con agua.",
+   "exKo": "물로 입을 헹궈요."
+  },
+  {
+   "es": "la persiana",
+   "ko": "롤 블라인드",
+   "ex": "Bajo la persiana.",
+   "exKo": "블라인드를 내려요."
+  },
+  {
+   "es": "la sábana",
+   "ko": "시트",
+   "ex": "Abro las sábanas.",
+   "exKo": "시트를 펼쳐요."
+  },
+  {
+   "es": "la almohada",
+   "ko": "베개",
+   "ex": "La almohada es suave.",
+   "exKo": "베개가 부드러워."
+  },
+  {
+   "es": "el despertador",
+   "ko": "알람 시계",
+   "ex": "Tengo que poner el despertador.",
+   "exKo": "알람을 맞춰야 해."
+  },
+  {
+   "es": "taparse",
+   "ko": "(이불을) 덮다",
+   "ex": "Me tapo hasta el cuello.",
+   "exKo": "목까지 덮어."
+  },
+  {
+   "es": "la mesita de noche",
+   "ko": "침대 옆 탁자",
+   "ex": "Tengo una lámpara en la mesita de noche.",
+   "exKo": "침대 옆 탁자에 램프가 있어요."
+  },
+  {
+   "es": "dormirse",
+   "ko": "잠들다",
+   "ex": "Me estoy durmiendo.",
+   "exKo": "나 잠들고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuál es el tema del episodio?",
+   "options": [
+    "La rutina de noche",
+    "Un viaje a Madrid",
+    "La comida española",
+    "El trabajo en la oficina"
+   ],
+   "answer": 0,
+   "explain": "\"Vamos a hablar de la rutina de noche\" — 저녁·밤 루틴이 주제예요."
+  },
+  {
+   "q": "¿Qué es lo primero que hace Elena al llegar a casa?",
+   "options": [
+    "Cena",
+    "Se quita los zapatos",
+    "Se ducha",
+    "Lee un libro"
+   ],
+   "answer": 1,
+   "explain": "\"Yo me quito los zapatos.\" — 먼저 신발을 벗어요."
+  },
+  {
+   "q": "¿Qué se pone Elena en los pies?",
+   "options": [
+    "Calcetines de lana",
+    "Sandalias",
+    "Las zapatillas de casa",
+    "Nada"
+   ],
+   "answer": 2,
+   "explain": "\"Me pongo las zapatillas de casa.\""
+  },
+  {
+   "q": "¿Qué significa «ligero» en la cena?",
+   "options": [
+    "Muy caliente",
+    "Muy caro",
+    "Muy grande",
+    "Lo contrario de pesado"
+   ],
+   "answer": 3,
+   "explain": "\"Ligero es lo contrario de pesado.\" — 가벼운 음식을 뜻해요."
+  },
+  {
+   "q": "¿Qué prepara Elena para cenar?",
+   "options": [
+    "Una ensalada y una tortilla francesa",
+    "Pasta y pizza",
+    "Sopa y pescado",
+    "Arroz y pollo"
+   ],
+   "answer": 0,
+   "explain": "\"Voy a preparar una ensalada y una tortilla francesa.\""
+  },
+  {
+   "q": "Después de cenar, Elena...",
+   "options": [
+    "deja los platos sucios",
+    "recoge la mesa y lava o mete los platos en el lavavajillas",
+    "sale a correr",
+    "llama a sus padres"
+   ],
+   "answer": 1,
+   "explain": "\"Yo recojo la mesa y meto los platos en el lavavajillas o lavo los platos a mano.\""
+  },
+  {
+   "q": "¿Por qué Carlos dice que el móvil es malo antes de dormir?",
+   "options": [
+    "Es muy caro",
+    "Hace mucho ruido",
+    "La luz azul despierta el cerebro",
+    "Gasta batería"
+   ],
+   "answer": 2,
+   "explain": "\"La luz azul despierta tu cerebro.\""
+  },
+  {
+   "q": "¿Qué le recomienda Carlos a Elena?",
+   "options": [
+    "Ver más series",
+    "Cenar más tarde",
+    "Hacer scroll",
+    "Leer un libro"
+   ],
+   "answer": 3,
+   "explain": "\"Te recomiendo leer un libro.\""
+  },
+  {
+   "q": "Completa: «Yo ___ los dientes».",
+   "options": [
+    "me lavo",
+    "lavo me",
+    "se lavo",
+    "nos lavo"
+   ],
+   "answer": 0,
+   "explain": "재귀대명사 me가 동사 앞에 와요: me lavo los dientes."
+  },
+  {
+   "q": "¿A qué hora pone Elena el despertador?",
+   "options": [
+    "A las 6 de la mañana",
+    "A las 7 de la mañana",
+    "A las 9 de la noche",
+    "A las 8 de la tarde"
+   ],
+   "answer": 1,
+   "explain": "\"Ponlo a las 7 de la mañana.\""
+  },
+  {
+   "q": "¿Para qué sirve la persiana en España, según Elena?",
+   "options": [
+    "Para tener más aire",
+    "Para escuchar música",
+    "Para que no entre luz",
+    "Para ver mejor"
+   ],
+   "answer": 2,
+   "explain": "\"En España tenemos persianas para que no entre luz.\""
+  },
+  {
+   "q": "Completa: «Esta noche me ___ duchado con agua caliente».",
+   "options": [
+    "hemos",
+    "han",
+    "ha",
+    "he"
+   ],
+   "answer": 3,
+   "explain": "현재완료: me he duchado (yo → he)."
+  }
+ ]
+}
