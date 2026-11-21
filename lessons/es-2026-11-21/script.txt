@@ -1,0 +1,551 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자동 자막(es). 붙어 버린 문장을 나누고, 화자는 대화 맥락으로 나눴어요. 자막 오류 ¿Te referir→¿Te refieres, de vida→de la vida, importante es→Lo importante es 등을 바로잡고 구두점·대소문자를 정리했어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 23:38
+
+## 오프닝 — 소파에서 쉬는데 머리가 쉬지 않아요
+[00:00.20]
+S | Mateo. | 마테오.
+[00:02.00]
+S | Ayer me senté en el sofá para descansar. | 어제 쉬려고 소파에 앉았어.
+[00:07.20]
+S | Pero después de 10 minutos me sentía todavía más cansada. | 그런데 10분 뒤에는 오히려 더 피곤하게 느껴졌어.
+[00:14.20]
+M | ¿Qué pasó? | 무슨 일이야?
+[00:15.60]
+M | ¿Tu sofá es tan incómodo? | 네 소파가 그렇게 불편해?
+[00:18.70]
+S | No, el sofá está bien. | 아니, 소파는 괜찮아.
+[00:20.90]
+S | El problema es mi cabeza. | 문제는 내 머리야.
+[00:24.20]
+S | No puedo dejar de pensar. | 생각을 멈출 수가 없어.
+[00:26.70]
+M | ¿En qué estabas pensando? | 무슨 생각을 하고 있었는데?
+[00:29.70]
+S | En el trabajo, en mis problemas, en el futuro y en todas las cosas que tengo que hacer. | 일, 내 문제들, 미래, 그리고 해야 하는 모든 일들.
+[00:38.10]
+M | Vaya. | 아이고.
+[00:40.80]
+M | Parece que tu cabeza tiene más trabajo que tú. | 네 머리가 너보다 일이 더 많은 것 같네.
+[00:45.10]
+S | Exactamente. Mi cuerpo estaba descansando, pero mi mente seguía trabajando. | 맞아. 몸은 쉬고 있었는데 마음은 계속 일하고 있었어.
+[00:51.20]
+M | Entonces necesitamos hablar de algo importante. | 그럼 중요한 이야기를 해야겠네.
+[00:57.70]
+M | ¿Cómo podemos cuidar mejor nuestra salud mental? | 우리 정신 건강을 어떻게 더 잘 돌볼 수 있을까?
+[01:02.20]
+S | Buena pregunta. | 좋은 질문이야.
+## 인사 — 오늘의 주제는 정신 건강
+[01:05.70]
+S | Hola, Mateo, y hola a todos nuestros amigos que nos escuchan. | 안녕, 마테오, 그리고 우리 이야기를 들어 주시는 모든 친구 여러분도 안녕하세요.
+[01:11.60]
+M | Hola, Sofía. Bienvenidos a Easy Spanish Podcast. | 안녕, 소피아. 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[01:17.60]
+S | Hoy tenemos una conversación muy especial. | 오늘은 아주 특별한 대화를 나눌 거예요.
+[01:22.20]
+S | Vamos a hablar de nuestra salud mental, del estrés y de las pequeñas cosas que pueden ayudarnos. | 우리의 정신 건강, 스트레스, 그리고 도움이 될 수 있는 작은 것들에 대해 이야기할 거예요.
+[01:30.10]
+S | Porque todos tenemos días difíciles y todos necesitamos descansar algunas veces. | 누구나 힘든 날이 있고 가끔은 모두 쉬어야 하니까요.
+[01:41.00]
+S | Mateo, ¿tú crees que estar bien significa estar feliz todos los días? | 마테오, 잘 지낸다는 게 매일 행복하다는 뜻이라고 생각해?
+## 괜찮지 않은 날도 괜찮아요
+[01:46.60]
+S | No, claro que no. | 아니, 당연히 아니지.
+[01:52.10]
+M | A veces estoy triste, preocupado o cansado. | 가끔은 슬프고, 걱정되고, 피곤해.
+[01:57.10]
+M | Y eso también forma parte de la vida. | 그것도 삶의 일부야.
+[02:00.50]
+S | Me alegra escucharlo. | 그렇게 말해 주니 기뻐.
+[02:03.39]
+S | A veces pienso que debería estar contenta todo el tiempo. | 가끔 나는 늘 기뻐해야 한다고 생각해.
+[02:09.39]
+S | Pero nadie está feliz siempre. | 하지만 항상 행복한 사람은 아무도 없어.
+[02:12.50]
+S | Incluso las personas más alegres tienen días complicados. | 가장 밝은 사람들도 힘든 날이 있어.
+[02:18.00]
+M | Tienes razón. | 맞아.
+[02:20.49]
+M | Creo que cuidar nuestra salud mental también significa aceptar cómo nos sentimos. | 정신 건강을 돌보는 건 우리가 느끼는 감정을 받아들이는 것이기도 하다고 생각해.
+[02:26.69]
+S | Exactamente. | 맞아.
+[02:30.39]
+S | Y entender que podemos pedir ayuda cuando las cosas se vuelven demasiado difíciles. | 그리고 상황이 너무 힘들어지면 도움을 청할 수 있다는 걸 이해하는 것도.
+## 할 일 목록이 끝나지 않아요
+[02:36.69]
+S | Últimamente siento que tengo demasiadas responsabilidades. | 요즘 나는 책임질 일이 너무 많다고 느껴.
+[02:45.09]
+S | Trabajo, estudio, respondo mensajes y organizo mi casa. | 일하고, 공부하고, 메시지에 답하고, 집을 정리해.
+[02:51.50]
+M | ¿Y cuándo tienes tiempo para ti? | 그럼 너를 위한 시간은 언제 있어?
+[02:56.79]
+S | Ese es el problema. | 그게 문제야.
+[02:58.80]
+S | Siempre encuentro algo más que hacer. | 항상 할 일이 더 눈에 띄어.
+[03:03.49]
+S | Mi lista de tareas nunca termina. | 내 할 일 목록은 끝나질 않아.
+[03:06.80]
+M | Quizás tu lista necesita unas vacaciones. | 어쩌면 네 목록에 휴가가 필요한지도 몰라.
+[03:11.50]
+S | Y yo también. | 나도 마찬가지고.
+[03:14.79]
+S | Pero cuando intento descansar empiezo a pensar en todas mis tareas. | 그런데 쉬려고 하면 모든 할 일을 생각하기 시작해.
+[03:21.19]
+M | Eso me pasaba antes. | 나도 예전에 그랬어.
+[03:23.50]
+M | Sentía que cada minuto debía servir para hacer algo útil. | 매 순간이 뭔가 쓸모 있는 일을 하는 데 쓰여야 한다고 느꼈어.
+[03:27.29]
+S | Exactamente. | 맞아.
+[03:29.50]
+S | Si veo una película pienso que podría estar estudiando o trabajando. | 영화를 보면 공부나 일을 하고 있을 수도 있었다고 생각해.
+[03:36.89]
+M | Pero descansar también es importante. | 하지만 쉬는 것도 중요해.
+[03:42.79]
+M | No podemos estar ocupados desde la mañana hasta la noche. | 아침부터 밤까지 바쁘게만 지낼 수는 없어.
+[03:47.79]
+S | Lo sé. | 알아.
+[03:49.50]
+S | Pero a veces es difícil recordar eso cuando tengo mucho trabajo. | 하지만 일이 많을 땐 그걸 기억하기가 가끔 어려워.
+## 친구에게 하듯 나에게도
+[03:54.50]
+M | ¿Te puedo hacer una pregunta? | 질문 하나 해도 될까?
+[03:56.79]
+M | ¿Le dirías a una amiga cansada que debe seguir trabajando sin parar? | 피곤한 친구에게 쉬지 말고 계속 일해야 한다고 말하겠어?
+[04:03.99]
+S | No. Le diría que necesita descansar un poco y cuidar de sí misma. | 아니. 좀 쉬고 자기 자신을 돌봐야 한다고 말할 거야.
+[04:11.19]
+M | Entonces, ¿por qué no puedes decirte lo mismo? | 그럼 왜 너 자신에게는 같은 말을 못 해?
+[04:16.09]
+S | Buena pregunta, Mateo. | 좋은 질문이야, 마테오.
+[04:18.00]
+S | Creo que soy mucho más exigente conmigo misma que con mis amigos. | 나는 친구들보다 나 자신에게 훨씬 더 엄격한 것 같아.
+[04:22.29]
+M | A muchas personas les pasa eso. | 많은 사람들이 그래.
+[04:28.99]
+M | A veces somos nuestros críticos más duros. | 우리는 때때로 가장 혹독한 비평가가 되지.
+## 미래에 대한 걱정 — 적어 보기
+[04:33.49]
+S | Y hay otra cosa que me preocupa. | 그리고 또 걱정되는 게 있어.
+[04:36.50]
+S | Pienso demasiado en el futuro. | 미래를 너무 많이 생각해.
+[04:40.39]
+M | ¿En cosas que pueden pasar dentro de varios meses? | 몇 달 뒤에 일어날 수 있는 일들 말이야?
+[04:45.19]
+S | Sí. Me pregunto si tendré suficiente dinero, si haré bien mi trabajo o si tomaré buenas decisiones. | 응. 돈이 충분할지, 일을 잘할지, 좋은 결정을 내릴지 궁금해져.
+[04:56.49]
+M | Entiendo. Pero no puedes conocer todas las respuestas hoy. | 이해해. 하지만 오늘 모든 답을 알 수는 없잖아.
+[05:01.59]
+S | Es verdad. | 맞아.
+[05:05.69]
+S | A veces paso horas pensando en problemas que todavía no existen. | 가끔은 아직 존재하지도 않는 문제를 생각하며 몇 시간을 보내.
+[05:12.29]
+M | A mí me ayuda escribir mis preocupaciones. | 나는 걱정거리를 적어 보는 게 도움이 돼.
+[05:16.69]
+M | Así puedo ver cuáles necesitan una solución ahora. | 그러면 어떤 게 지금 해결책이 필요한지 볼 수 있거든.
+[05:21.09]
+S | Y, ¿qué haces con las cosas que no puedes controlar? | 그럼 통제할 수 없는 일들은 어떻게 해?
+[05:26.39]
+M | Intento dejarlas para otro momento. | 다른 때로 미뤄 두려고 해.
+[05:29.50]
+M | No siempre funciona, pero me ayuda a pensar con más calma. | 항상 되는 건 아니지만 좀 더 차분히 생각하는 데 도움이 돼.
+[05:36.00]
+S | Me gusta esa idea. | 그 생각 마음에 들어.
+[05:39.29]
+S | No tengo que resolver toda mi vida esta tarde. | 오늘 오후에 내 인생 전체를 해결할 필요는 없잖아.
+[05:43.99]
+M | Exactamente. | 맞아.
+[05:45.50]
+M | Y tampoco necesitas tener un plan perfecto para los próximos 10 años. | 그리고 앞으로 10년의 완벽한 계획이 있을 필요도 없고.
+[05:51.50]
+S | Menos mal, porque todavía no sé qué voy a cocinar mañana. | 다행이다, 아직 내일 뭘 요리할지도 모르거든.
+[05:59.29]
+M | Yo tampoco, aunque probablemente voy a preparar pasta, como siempre. | 나도 몰라, 아마 늘 그랬듯 파스타를 만들 것 같지만.
+[06:05.60]
+S | Mateo, podrías comer pasta todos los días. | 마테오, 너는 파스타를 매일 먹을 수도 있겠다.
+[06:11.19]
+M | Es una decisión importante para mi felicidad. | 그건 내 행복에 중요한 결정이야.
+## SNS와 비교하기
+[06:16.39]
+S | Hablando de felicidad, creo que las redes sociales también pueden cambiar cómo vemos nuestra vida. | 행복 얘기가 나왔으니 말인데, SNS도 우리가 삶을 보는 방식을 바꿀 수 있다고 생각해.
+[06:25.00]
+M | ¿Te refieres a comparar nuestra vida con la de otras personas? | 우리 삶을 다른 사람들의 삶과 비교하는 걸 말하는 거야?
+[06:29.19]
+S | Sí. | 응.
+[06:32.69]
+S | Ayer vi fotos de una amiga de vacaciones en una playa preciosa. | 어제 친구가 아름다운 해변에서 휴가를 보내는 사진을 봤어.
+[06:40.19]
+M | ¿Y tú estabas en casa trabajando? | 그리고 너는 집에서 일하고 있었고?
+[06:43.50]
+S | Exactamente. | 맞아.
+[06:46.69]
+S | Después vi a otra amiga con un coche nuevo y a otra celebrando un trabajo fantástico. | 그다음엔 새 차를 가진 다른 친구와, 멋진 일자리를 얻어 축하하는 또 다른 친구를 봤어.
+[06:56.50]
+M | Y empezaste a pensar que todos tenían una vida mejor que la tuya. | 그래서 다들 너보다 나은 삶을 산다고 생각하기 시작했구나.
+[07:03.00]
+S | Sí. Durante unos minutos olvidé todas las cosas buenas que tengo en mi vida. | 응. 몇 분 동안 내 삶의 좋은 것들을 모두 잊어버렸어.
+[07:11.50]
+M | Pero recuerda algo. | 하지만 이건 기억해.
+[07:14.60]
+M | Las fotos muestran momentos especiales, no todos los problemas de una persona. | 사진은 특별한 순간을 보여 줄 뿐, 한 사람의 모든 문제를 보여 주진 않아.
+[07:22.89]
+S | Es verdad. | 맞아.
+[07:24.20]
+S | Yo tampoco publico fotos cuando estoy cansada y limpiando la cocina. | 나도 피곤한 채로 부엌을 청소할 때는 사진을 올리지 않아.
+[07:29.50]
+M | Pues deberías hacerlo. Sería una foto muy original. | 그럼 올려야지. 아주 독창적인 사진이 될 텐데.
+[07:34.80]
+S | Gracias, Mateo. Seguro que miles de personas quieren ver mi cocina desordenada. | 고마워, 마테오. 분명 수천 명이 내 어질러진 부엌을 보고 싶어 할 거야.
+[07:44.30]
+M | Fuera de bromas, las redes sociales también tienen cosas buenas. | 농담은 그만하고, SNS에는 좋은 점도 있어.
+[07:49.80]
+M | Podemos aprender y hablar con personas lejanas. | 배울 수도 있고 멀리 있는 사람들과 이야기할 수도 있지.
+[07:53.80]
+S | Estoy de acuerdo. No quiero dejar de usarlas. | 동의해. 쓰는 걸 그만두고 싶진 않아.
+[07:59.00]
+S | Solo quiero evitar compararme continuamente con los demás. | 그저 다른 사람들과 끊임없이 나를 비교하는 걸 피하고 싶을 뿐이야.
+[08:04.80]
+M | Quizás puedes seguir cuentas que te enseñen algo interesante y dejar de seguir las que te hacen sentir mal. | 흥미로운 걸 알려 주는 계정은 팔로우하고, 기분 나쁘게 만드는 계정은 팔로우를 끊으면 어떨까.
+[08:14.00]
+S | Es una buena idea. | 좋은 생각이야.
+[08:16.00]
+S | Y también podría pasar menos tiempo mirando el móvil sin pensar. | 그리고 생각 없이 휴대폰을 보는 시간도 줄일 수 있겠지.
+## 휴대폰 알림과 수면
+[08:20.60]
+M | Yo hice algo parecido. | 나도 비슷한 걸 했어.
+[08:26.70]
+M | Quité algunas notificaciones porque me interrumpían constantemente. | 계속 방해가 돼서 알림 몇 개를 껐어.
+[08:32.80]
+S | ¿Y ahora puedes concentrarte mejor cuando trabajas? | 그래서 이제 일할 때 더 잘 집중돼?
+[08:38.30]
+M | Muchas veces, sí. | 많은 경우엔 그래.
+[08:40.50]
+M | Antes intentaba estudiar 30 minutos y miraba el móvil cada cinco. | 예전에는 30분 공부하려고 하면 5분마다 휴대폰을 봤어.
+[08:47.00]
+S | Eso me pasa también. | 나도 그래.
+[08:48.50]
+S | Empiezo con un mensaje y termino viendo videos de animales. | 메시지 하나로 시작해서 동물 영상을 보다가 끝나.
+[08:56.60]
+S | Ayer descubrí un perro que sabe abrir la nevera. | 어제 냉장고를 열 줄 아는 개를 발견했어.
+[09:02.50]
+M | Increíble. Tu móvil te enseña cosas muy necesarias. | 대단하네. 네 휴대폰은 아주 꼭 필요한 걸 가르쳐 주는구나.
+[09:09.50]
+S | Exactamente. Pero también me quita tiempo cuando lo uso sin una razón clara. | 맞아. 하지만 뚜렷한 이유 없이 쓰면 시간을 빼앗기기도 해.
+[09:17.50]
+S | Y cuando paso demasiado tiempo con el móvil por la noche, me acuesto más tarde. | 그리고 밤에 휴대폰을 너무 오래 보면 더 늦게 자게 돼.
+[09:24.60]
+M | Dormir bien es importante. | 잘 자는 건 중요해.
+[09:27.50]
+M | Yo intento tener una hora parecida para acostarme cada noche. | 나는 매일 밤 비슷한 시간에 잠자리에 들려고 해.
+[09:34.00]
+M | ¿Y qué haces antes de dormir? | 너는 자기 전에 뭘 해?
+[09:38.70]
+M | A veces leo un libro o escucho música tranquila. | 가끔 책을 읽거나 조용한 음악을 들어.
+[09:42.50]
+M | Intento dejar el móvil a un lado. | 휴대폰은 한쪽에 치워 두려고 해.
+[09:46.50]
+M | Yo necesito mejorar eso. | 나는 그걸 고쳐야 해.
+[09:52.00]
+M | Muchas noches digo que voy a dormir, pero sigo mirando videos. | 많은 밤에 자러 간다고 말하고선 계속 영상을 봐.
+[09:58.60]
+S | Podrías probar una noche diferente. | 다른 방식으로 한 번 해 볼 수도 있어.
+[10:01.50]
+S | No necesitas cambiar todas tus costumbres inmediatamente. | 모든 습관을 당장 바꿀 필요는 없어.
+[10:04.30]
+M | Me gusta empezar poco a poco. | 조금씩 시작하는 게 좋아.
+[10:11.40]
+M | Los cambios demasiado grandes me parecen difíciles de mantener. | 너무 큰 변화는 유지하기 어려워 보여.
+[10:18.40]
+S | A mí también. | 나도 그래.
+[10:19.50]
+S | Por eso prefiero elegir una pequeña cosa y probarla durante varios días. | 그래서 작은 것 하나를 골라 며칠 동안 해 보는 걸 선호해.
+## 걷기와 몸 움직이기
+[10:24.30]
+S | ¿Sabes qué otra cosa me ayuda cuando tengo un día complicado? | 힘든 날 또 뭐가 도움이 되는지 알아?
+[10:29.50]
+S | Salir a caminar. | 산책하러 나가는 거야.
+[10:35.70]
+M | A mí también. | 나도.
+[10:37.50]
+M | Aunque debo confesar que a veces prefiero quedarme en el sofá. | 솔직히 가끔은 소파에 있는 게 더 좋긴 하지만.
+[10:40.70]
+S | No hace falta correr 10 km. | 10km를 뛸 필요는 없어.
+[10:44.00]
+S | Una pequeña caminata por el barrio puede ser agradable. | 동네를 조금 걷는 것만으로도 기분 좋을 수 있어.
+[10:52.90]
+M | Exactamente. Me gusta caminar por el parque y observar lo que pasa a mi alrededor. | 맞아. 공원을 걸으며 주변에서 일어나는 일을 관찰하는 게 좋아.
+[11:00.50]
+M | El sábado pasado hice eso. | 지난 토요일에 그렇게 했어.
+[11:03.00]
+M | Estaba preocupada por una conversación difícil en el trabajo. | 직장에서의 어려운 대화 때문에 걱정하고 있었거든.
+[11:10.40]
+S | Y, ¿caminar te ayudó a resolver el problema? | 그래서 걷는 게 문제를 해결하는 데 도움이 됐어?
+[11:15.30]
+M | No lo resolvió, pero pude pensar con más tranquilidad. | 해결해 주진 않았지만 더 차분히 생각할 수 있었어.
+[11:20.90]
+M | Después hablé con mi compañera. | 그러고 나서 동료와 이야기했어.
+[11:23.50]
+S | Eso es importante. | 그건 중요해.
+[11:26.00]
+S | Una caminata no elimina los problemas, pero puede darnos un momento de calma. | 산책이 문제를 없애 주진 않지만 평온한 순간을 줄 수 있지.
+[11:33.70]
+M | Además, me gusta estar al aire libre. | 게다가 나는 야외에 있는 게 좋아.
+[11:37.00]
+M | Escuchar los pájaros y ver los árboles me resulta agradable. | 새소리를 듣고 나무를 보는 게 내겐 기분 좋아.
+[11:42.00]
+S | Yo disfruto montando en bicicleta. | 나는 자전거 타는 걸 즐겨.
+[11:46.00]
+S | Aunque mi bicicleta necesita una pequeña reparación. | 내 자전거는 약간의 수리가 필요하지만.
+[11:55.80]
+M | Entonces, mientras tanto, puedes bailar en casa. | 그럼 그동안은 집에서 춤을 추면 되겠네.
+[12:02.00]
+S | Eso sería peligroso para mis vecinos. | 그건 이웃들에게 위험할 거야.
+[12:04.50]
+S | No soy precisamente un buen bailarín. | 나는 딱히 춤을 잘 추는 사람이 아니거든.
+[12:08.00]
+M | No tienes que bailar bien. | 잘 출 필요는 없어.
+[12:13.50]
+M | Lo importante es disfrutar de la actividad. | 중요한 건 그 활동을 즐기는 거야.
+[12:18.10]
+S | Tienes razón. | 맞아.
+[12:19.50]
+S | Y hay muchas formas de moverse sin hacer ejercicio intenso. | 그리고 격한 운동 없이 몸을 움직이는 방법도 많아.
+## 죄책감 없이 쉬는 법
+[12:25.00]
+S | Otra cosa que estoy aprendiendo es descansar sin sentirme culpable. | 내가 배우고 있는 또 다른 건 죄책감 없이 쉬는 거야.
+[12:33.00]
+M | ¿Todavía piensas en tus tareas cuando te sientas a descansar? | 쉬려고 앉아도 아직 할 일을 생각해?
+[12:39.30]
+S | A veces. | 가끔.
+[12:41.00]
+S | Incluso he escrito cosas como "descansar 20 minutos" en mi lista de tareas. | 심지어 할 일 목록에 "20분 쉬기"라고 적은 적도 있어.
+[12:46.50]
+M | Increíble. | 세상에.
+[12:50.80]
+M | Hasta tu descanso tiene una cita en el calendario. | 쉬는 시간조차 달력에 약속이 잡혀 있네.
+[12:55.70]
+S | Ya lo sé. | 나도 알아.
+[12:57.00]
+S | Parece divertido, pero realmente me cuesta dejar de hacer cosas. | 웃기게 들리지만 뭔가 하는 걸 멈추는 게 정말 힘들어.
+[13:04.50]
+M | Descansar no significa ser una persona perezosa. | 쉰다는 건 게으른 사람이 된다는 뜻이 아니야.
+[13:10.40]
+M | Todos tenemos límites y necesidades diferentes. | 우리 모두 한계와 필요가 다르니까.
+[13:15.10]
+S | Y, ¿cómo sabes cuándo necesitas hacer una pausa? | 그럼 쉬어야 할 때를 어떻게 알아?
+[13:21.00]
+M | Cuando noto que estoy muy cansado o que me cuesta concentrarme, intento parar un momento. | 많이 피곤하거나 집중하기 어려워지면 잠깐 멈추려고 해.
+[13:27.20]
+S | Yo suelo esperar hasta terminar todo, pero casi nunca termino absolutamente todas mis tareas. | 나는 보통 모든 걸 끝낼 때까지 기다리는데, 정작 모든 일을 다 끝내는 경우는 거의 없어.
+[13:41.80]
+M | Entonces, quizás puedes hacer pequeñas pausas antes de llegar a ese punto. | 그럼 그 지점에 닿기 전에 짧게 자주 쉬어 보면 어때.
+[13:47.10]
+S | Es verdad. | 맞아.
+## 힘든 날엔 누군가와 이야기하기
+[13:51.60]
+S | También me ayuda hablar con alguien cuando tengo un día difícil. | 힘든 날 누군가와 이야기하는 것도 도움이 돼.
+[13:57.40]
+M | A mí me pasó algo parecido la semana pasada. | 나도 지난주에 비슷한 일이 있었어.
+[14:01.10]
+M | Estaba preocupado por un problema familiar. | 가족 문제로 걱정하고 있었어.
+[14:04.50]
+S | ¿Hablaste con alguien sobre lo que estaba pasando? | 무슨 일이 일어나고 있는지 누군가와 이야기했어?
+[14:08.60]
+M | Sí. Llamé a mi hermano. | 응. 형에게 전화했어.
+[14:12.60]
+M | No podía solucionar el problema, pero me escuchó con mucha atención. | 문제를 해결해 줄 순 없었지만 아주 집중해서 들어 줬어.
+[14:19.90]
+S | A veces necesitamos precisamente eso. | 때로는 정확히 그게 필요하지.
+[14:23.00]
+S | Una persona que nos escuche sin intentar cambiarlo todo. | 모든 걸 바꾸려 하지 않고 그저 들어 주는 사람.
+[14:28.10]
+M | Exactamente. | 맞아.
+[14:32.30]
+M | Después de hablar me sentí menos solo y pude pensar con más claridad. | 이야기하고 나니 덜 외롭고 더 또렷하게 생각할 수 있었어.
+[14:39.30]
+S | Yo también llamo a mi mejor amiga cuando necesito compartir algo importante. | 나도 중요한 걸 나누고 싶을 때 가장 친한 친구에게 전화해.
+[14:46.30]
+S | Y también es válido pedir ayuda profesional cuando los problemas emocionales continúan o afectan nuestra vida diaria. | 그리고 정서적인 문제가 계속되거나 일상에 영향을 줄 때 전문가의 도움을 청하는 것도 당연히 괜찮아.
+[14:56.10]
+M | Claro. Hablar con un médico o un profesional de salud mental puede ser importante en esas situaciones. | 그럼. 그런 상황에서는 의사나 정신 건강 전문가와 이야기하는 게 중요할 수 있어.
+[15:05.70]
+S | Los amigos pueden apoyarnos, pero no siempre tienen las respuestas o la ayuda que necesitamos. | 친구들이 우리를 지지해 줄 수는 있지만 필요한 답이나 도움을 항상 갖고 있진 않아.
+[15:14.50]
+M | Estoy de acuerdo y pedir ayuda no debería ser motivo de vergüenza. | 동의해. 그리고 도움을 청하는 게 부끄러운 일이 되어선 안 돼.
+## 나를 기분 좋게 하는 작은 것들
+[15:23.10]
+S | Exactamente. Ahora quiero preguntarte algo diferente. | 맞아. 이제 좀 다른 걸 물어볼게.
+[15:29.40]
+S | ¿Qué pequeñas cosas te hacen sentir bien? | 어떤 작은 것들이 너를 기분 좋게 해?
+[15:33.30]
+M | Preparar un café, leer junto a la ventana y cocinar con mi madre los domingos. | 커피를 내리는 것, 창가에서 책을 읽는 것, 그리고 일요일마다 엄마와 요리하는 것.
+[15:41.50]
+S | Qué bonito. | 참 좋다.
+[15:45.30]
+S | A mí me encanta desayunar tranquilamente y escuchar música mientras preparo la comida. | 나는 여유롭게 아침을 먹고 음식을 준비하면서 음악 듣는 걸 정말 좋아해.
+[15:52.20]
+M | ¿Siempre tienes tiempo para hacer esas cosas? | 그런 걸 할 시간이 항상 있어?
+[15:57.00]
+S | No siempre, pero intento encontrar pequeños momentos durante la semana. | 항상은 아니지만 한 주 동안 작은 순간들을 찾으려고 해.
+[16:05.50]
+M | Creo que a veces esperamos grandes vacaciones o acontecimientos especiales para disfrutar de la vida. | 우리는 가끔 삶을 즐기려고 큰 휴가나 특별한 일을 기다리는 것 같아.
+[16:14.00]
+M | Y olvidamos que un paseo o una conversación agradable también pueden ser momentos importantes. | 그리고 산책이나 즐거운 대화도 중요한 순간이 될 수 있다는 걸 잊어버리지.
+[16:23.90]
+S | Exactamente. | 맞아.
+[16:25.50]
+S | No necesitamos gastar mucho dinero para disfrutar de una tarde tranquila. | 평온한 오후를 즐기려고 많은 돈을 쓸 필요는 없어.
+[16:30.40]
+S | Aunque un buen helado durante el paseo tampoco estaría mal. | 산책하며 먹는 맛있는 아이스크림도 나쁘진 않겠지만.
+[16:38.20]
+M | Siempre encuentras una forma de hablar de comida. | 너는 늘 음식 얘기로 끌고 가는 방법을 찾아.
+[16:42.00]
+S | Es uno de mis pequeños placeres. | 그건 나의 작은 즐거움 중 하나야.
+## 실수 하나를 곱씹은 이야기
+[16:50.40]
+M | Pero ahora quiero escuchar tu historia del trabajo. | 하지만 이제 네 직장 이야기를 듣고 싶어.
+[16:54.70]
+S | ¿Recuerdas que te dije que estaba preocupada por una conversación con una compañera? | 동료와의 대화 때문에 걱정된다고 했던 거 기억나?
+[17:01.00]
+S | Sí. | 응.
+[17:04.00]
+M | ¿Había pasado algo importante entre vosotras? | 너희 사이에 뭔가 중요한 일이 있었어?
+[17:07.70]
+S | Había cometido un pequeño error en un documento. | 문서에서 작은 실수를 했었어.
+[17:13.60]
+S | Mi compañera tuvo que corregirlo. | 동료가 그걸 고쳐야 했지.
+[17:16.50]
+M | Entiendo. | 이해해.
+[17:18.60]
+M | ¿Y cómo reaccionó ella? | 그래서 그 사람은 어떻게 반응했어?
+[17:21.00]
+S | Me dijo que no pasaba nada, pero yo seguí pensando en ese error durante horas. | 괜찮다고 했지만 나는 그 실수를 몇 시간 동안 계속 생각했어.
+[17:29.40]
+M | ¿Y qué le dirías tú a una amiga que cometiera el mismo error? | 그럼 같은 실수를 한 친구에게는 뭐라고 말하겠어?
+[17:35.90]
+S | Le diría que todos cometemos errores y que puede aprender de lo que pasó. | 누구나 실수를 하고 일어난 일에서 배울 수 있다고 말해 줄 거야.
+[17:43.30]
+M | Entonces, quizás también podrías hablarte de esa manera. | 그럼 너 자신에게도 그렇게 말해 줄 수 있겠네.
+[17:50.00]
+S | Tienes razón. No necesito ser perfecta para hacer bien mi trabajo. | 맞아. 일을 잘하려고 완벽할 필요는 없어.
+[17:53.90]
+M | Exactamente. | 맞아.
+[17:55.50]
+M | Podemos aprender, mejorar y aceptar que algunas cosas no salen como esperamos. | 배우고, 나아지고, 어떤 일은 기대한 대로 되지 않는다는 걸 받아들일 수 있지.
+## 너무 많이 바꾸려 했던 한 주
+[18:05.80]
+S | Eso me recuerda la semana pasada. | 그러고 보니 지난주가 생각나.
+[18:12.00]
+S | Fue una de las semanas más ocupadas de este mes. | 이번 달에서 가장 바쁜 주 중 하나였어.
+[18:17.50]
+M | ¿Qué ocurrió? | 무슨 일이 있었어?
+[18:19.00]
+M | Recuerdo que casi no tenías tiempo para hablar. | 네가 거의 얘기할 시간이 없었던 게 기억나.
+[18:22.00]
+S | Tenía mucho trabajo. Dormía poco y miraba continuamente el móvil. | 일이 많았어. 잠은 적게 자고 휴대폰은 계속 들여다봤지.
+[18:30.50]
+S | Me sentía cansada desde la mañana. | 아침부터 피곤했어.
+[18:34.70]
+M | Parece que necesitabas descansar, pero tus responsabilidades seguían creciendo. | 쉬어야 했는데 책임은 계속 늘어났던 것 같네.
+[18:45.50]
+S | Exactamente. El miércoles decidí cambiar todo. | 맞아. 수요일에 모든 걸 바꾸기로 했어.
+[18:50.00]
+S | Dormir más, hacer ejercicio, cocinar y leer cada día. | 더 자고, 운동하고, 요리하고, 매일 책을 읽기로.
+[18:59.00]
+M | Eso parece un programa completo para empezar una vida nueva. | 새 삶을 시작하기 위한 완벽한 프로그램 같네.
+[19:05.00]
+S | Sí, y el jueves ya estaba cansada de mi nuevo programa. | 응, 그런데 목요일엔 벌써 내 새 프로그램에 지쳐 있었어.
+[19:09.80]
+M | Quizás intentaste hacer demasiados cambios al mismo tiempo. | 아마 한꺼번에 너무 많은 변화를 시도했나 보다.
+[19:16.00]
+S | Eso pensé. | 나도 그렇게 생각했어.
+[19:19.80]
+S | Entonces elegí solamente una cosa. | 그래서 딱 한 가지만 골랐어.
+[19:23.50]
+S | Caminar 15 minutos después del trabajo. | 퇴근 후 15분 걷기.
+[19:29.10]
+M | ¿Y pudiste hacerlo durante los siguientes días? | 그리고 다음 며칠 동안 할 수 있었어?
+[19:33.70]
+S | Algunos días sí. | 어떤 날은 했어.
+[19:36.50]
+S | Otros días no tenía tiempo, pero no quise abandonar la idea. | 다른 날은 시간이 없었지만 그 생각을 포기하고 싶진 않았어.
+[19:42.50]
+M | ¿Notaste alguna diferencia después de esas caminatas? | 그렇게 걷고 나서 뭔가 달라진 걸 느꼈어?
+[19:48.00]
+S | Me gustaba tener un momento sin trabajo ni mensajes. | 일도 메시지도 없는 순간이 있어서 좋았어.
+[19:52.30]
+S | Volvía a casa un poco más tranquila. | 집에 돌아올 땐 조금 더 차분해져 있었어.
+[19:57.70]
+M | Me parece una experiencia muy realista. | 아주 현실적인 경험 같아.
+[20:00.50]
+M | No cambiaste toda tu vida, pero encontraste algo útil. | 인생 전체를 바꾸진 않았지만 쓸모 있는 걸 찾았잖아.
+[20:03.80]
+S | Exactamente. | 맞아.
+[20:08.80]
+S | Todavía tengo días complicados, pero ahora intento escuchar mejor lo que necesito. | 아직도 힘든 날이 있지만 이제는 내게 필요한 게 뭔지 더 잘 들으려고 해.
+[20:15.00]
+M | Y cuando una idea no funciona, siempre puedes probar otra. | 그리고 어떤 방법이 안 맞으면 언제든 다른 걸 시도해 볼 수 있어.
+## 마무리 — 완벽한 목록이 아니라 현실적인 돌봄
+[20:20.60]
+M | Cada persona tiene una situación diferente. | 사람마다 처한 상황이 달라.
+[20:25.70]
+M | Por eso, creo que cuidar nuestra salud mental no significa seguir una lista perfecta todos los días. | 그래서 정신 건강을 돌보는 건 매일 완벽한 목록을 따르는 게 아니라고 생각해.
+[20:36.01]
+M | Significa prestar atención a cómo nos sentimos y buscar formas realistas de cuidarnos. | 우리가 어떻게 느끼는지에 주의를 기울이고 현실적인 돌봄 방법을 찾는 거야.
+[20:47.31]
+S | Y recordar que tener un día difícil no significa que estamos haciendo algo mal. | 그리고 힘든 날을 보낸다고 해서 우리가 뭔가 잘못하고 있다는 뜻은 아니란 걸 기억하는 것.
+[20:55.61]
+M | Exactamente. | 맞아.
+[20:57.00]
+M | Incluso las personas tranquilas y organizadas pueden sentirse estresadas algunas veces. | 차분하고 체계적인 사람들도 가끔은 스트레스를 받을 수 있어.
+[21:05.31]
+S | Y tú que nos escuchas, ¿qué haces cuando tienes un día difícil? | 그리고 우리 이야기를 듣고 계신 여러분은 힘든 날 무엇을 하나요?
+[21:12.00]
+S | ¿Prefieres caminar, escuchar música, hablar con alguien o descansar tranquilamente en casa? | 걷기, 음악 듣기, 누군가와 이야기하기, 집에서 조용히 쉬기 중 어떤 걸 선호하나요?
+[21:24.11]
+M | Esta semana puedes elegir una pequeña acción que tenga sentido para ti. | 이번 주에는 여러분에게 의미 있는 작은 행동 하나를 골라 보세요.
+[21:31.50]
+M | Tal vez dar un paseo corto, preparar una cena tranquila o llamar a un buen amigo. | 짧게 산책하거나, 조용한 저녁을 준비하거나, 좋은 친구에게 전화해 볼 수 있겠죠.
+[21:38.00]
+S | Yo voy a intentar descansar sin sentir que siempre tengo que estar haciendo algo. | 나는 늘 뭔가 하고 있어야 한다는 느낌 없이 쉬어 보려고 해.
+[21:49.01]
+M | Excelente. Y yo voy a intentar no mirar el móvil durante todas mis comidas. | 좋아. 나는 식사 내내 휴대폰을 보지 않으려고 해 볼게.
+[21:54.11]
+S | ¿Incluso cuando estás comiendo tu pasta favorita? | 제일 좋아하는 파스타를 먹을 때도?
+[22:00.01]
+M | Especialmente entonces. | 특히 그때가 그래.
+[22:03.31]
+M | Mi pasta merece toda mi atención. | 내 파스타는 내 모든 관심을 받을 자격이 있어.
+[22:08.81]
+S | ¿Sabes, Mateo? Al principio de nuestra conversación dije que mi cabeza necesitaba vacaciones. | 있잖아, 마테오? 대화 처음에 내 머리가 휴가가 필요하다고 말했었는데.
+[22:18.40]
+M | Y ahora sabes que quizás no necesita vacaciones enormes, sino algunos momentos de descanso durante la semana. | 이제는 어쩌면 큰 휴가가 아니라 한 주 동안의 몇 번의 쉼이 필요하다는 걸 알겠지.
+[22:25.81]
+S | Exactamente. | 맞아.
+[22:31.61]
+S | No tengo que solucionar todos mis problemas hoy ni sentirme feliz a cada momento. | 오늘 모든 문제를 해결할 필요도, 매 순간 행복해야 할 필요도 없어.
+[22:38.50]
+S | Lo importante es cuidar de nosotros mismos, aceptar los días difíciles y buscar ayuda cuando la necesitamos. | 중요한 건 우리 자신을 돌보고, 힘든 날을 받아들이고, 필요할 때 도움을 구하는 거야.
+[22:49.91]
+M | Gracias por compartir este momento con nosotros. | 이 시간을 우리와 함께해 주셔서 감사해요.
+[22:54.71]
+M | Cuéntanos en los comentarios qué pequeña cosa te ayuda a sentirte mejor. | 기분이 나아지게 하는 작은 것이 무엇인지 댓글로 알려 주세요.
+[23:01.51]
+S | Y recuerda que cada persona es diferente. | 그리고 사람마다 다르다는 걸 기억하세요.
+[23:06.71]
+S | Puedes empezar con algo pequeño y avanzar a tu propio ritmo. | 작은 것으로 시작해서 자신만의 속도로 나아가면 돼요.
+[23:12.01]
+M | Gracias por escucharnos. | 들어 주셔서 감사합니다.
+[23:14.50]
+M | Nos vemos muy pronto en otro episodio de Easy Spanish Podcast. | 곧 이지 스패니시 팟캐스트의 다른 에피소드에서 만나요.
+[23:23.00]
+M | Hasta pronto, Sofía. | 곧 보자, 소피아.
+[23:25.21]
+M | Y no olvides darle unas vacaciones a tu lista de tareas. | 그리고 네 할 일 목록에도 휴가를 주는 걸 잊지 마.
+[23:30.41]
+S | Prometido, Mateo. | 약속할게, 마테오.
+[23:33.00]
+S | Esta tarde voy a descansar un poco. | 오늘 오후엔 좀 쉴 거야.
+[23:36.01]
+S | Hasta pronto a todos. | 모두 곧 만나요.

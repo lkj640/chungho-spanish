@@ -1,0 +1,735 @@
+{
+  "lang": "es",
+  "date": "2026-11-21",
+  "title": "정신적으로 건강해지는 법 — 소피아와 마테오의 마음 돌봄 대화",
+  "es": "Cuidar nuestra salud mental no significa seguir una lista perfecta.",
+  "emoji": "🧘",
+  "level": "B1-B2",
+  "channel": "Easy Spanish Podcast",
+  "videoTitle": "How to Be Mentally Healthy (B1-B2) | Learn Spanish Podcast | Spanish Listening Practice | Ep. 75",
+  "youtube": "wvM0HctQgwg",
+  "duration": "23:38",
+  "speakers": {
+    "S": "Sofía",
+    "M": "Mateo"
+  },
+  "hideCast": true,
+  "summary": "소파에 앉아도 머리가 쉬지 못한 소피아의 이야기로 시작해, 할 일 목록 스트레스, 나에게도 친구처럼 대하기, 미래 걱정 적어 보기, SNS 비교, 휴대폰 알림과 수면, 산책과 몸 움직이기, 죄책감 없이 쉬기, 대화와 전문가 도움, 작은 즐거움, 한 번에 하나씩만 바꾸기까지 정신 건강을 돌보는 현실적인 방법을 나누는 B1-B2 대화예요. 불완료과거, 미래형, 조건법 조언 표현을 듣고 따라 말하기 좋아요.",
+  "topics": [
+    "오프닝: mi mente seguía trabajando · no puedo dejar de pensar",
+    "괜찮지 않은 날도 괜찮아요: nadie está feliz siempre · pedir ayuda",
+    "할 일 목록과 자기 비판: mi lista de tareas nunca termina · exigente conmigo misma",
+    "미래 걱정: me pregunto si tendré… · escribir mis preocupaciones",
+    "SNS 비교와 휴대폰: compararme con los demás · quitar notificaciones",
+    "잠과 산책: me acuesto más tarde · salir a caminar",
+    "죄책감 없이 쉬기·도움 구하기: hacer una pausa · hablar con alguien · ayuda profesional",
+    "작은 즐거움과 한 가지만 바꾸기: caminar 15 minutos · avanzar a tu propio ritmo"
+  ],
+  "grammar": [
+    {
+      "title": "① 과거의 배경·진행 상태: 불완료과거 (estaba pensando / me sentía)",
+      "lead": "과거에 <b>계속되던 상태·감정·배경</b>은 <b>불완료과거(-aba, -ía)</b>로 말해요. 진행 중이던 일은 <b>estaba + -ando/-iendo</b>.",
+      "table": {
+        "head": [
+          "표현",
+          "예문",
+          "뜻"
+        ],
+        "rows": [
+          [
+            "estar 불완료과거 + 현재분사",
+            "¿En qué estabas pensando?",
+            "무슨 생각을 하고 있었어?"
+          ],
+          [
+            "sentirse → me sentía",
+            "Me sentía todavía más cansada.",
+            "더 피곤하게 느껴졌어요."
+          ],
+          [
+            "intentar → intentaba",
+            "Antes intentaba estudiar 30 minutos.",
+            "예전에는 30분 공부하려 했어요."
+          ],
+          [
+            "mirar → miraba",
+            "Miraba el móvil cada cinco.",
+            "5분마다 휴대폰을 봤어요."
+          ]
+        ]
+      },
+      "tip": "-ar 동사: -aba/-abas/-aba, -er/-ir 동사: -ía/-ías/-ía. 'antes(예전에)'와 자주 같이 써요."
+    },
+    {
+      "title": "② 미래 시제 — tendré · haré · tomaré",
+      "lead": "막연한 미래의 걱정이나 추측은 <b>미래형(-é, -ás, -á…)</b>으로 말해요. 불규칙: tener→tendr-, hacer→har-.",
+      "examples": [
+        [
+          "Me pregunto si tendré suficiente dinero.",
+          "돈이 충분할지 궁금해요."
+        ],
+        [
+          "Me pregunto si haré bien mi trabajo.",
+          "일을 잘할지 궁금해요."
+        ],
+        [
+          "Me pregunto si tomaré buenas decisiones.",
+          "좋은 결정을 내릴지 궁금해요."
+        ],
+        [
+          "Probablemente voy a preparar pasta.",
+          "아마 파스타를 만들 거예요. (ir a + 동사원형)"
+        ]
+      ]
+    },
+    {
+      "title": "③ 조건법 — deberías · podrías · diría",
+      "lead": "조언·가정은 <b>조건법(-ría)</b>으로 부드럽게 말해요.",
+      "table": {
+        "head": [
+          "동사",
+          "조건법",
+          "뜻"
+        ],
+        "rows": [
+          [
+            "decir",
+            "Le diría que necesita descansar.",
+            "그에게 쉬어야 한다고 말할 거예요."
+          ],
+          [
+            "poder",
+            "Podrías probar una noche diferente.",
+            "다른 방식으로 해 볼 수도 있어."
+          ],
+          [
+            "deber",
+            "Debería estar contenta todo el tiempo.",
+            "늘 기뻐해야 할 것 같아요."
+          ],
+          [
+            "ser",
+            "Sería una foto muy original.",
+            "아주 독창적인 사진이 될 거예요."
+          ]
+        ]
+      },
+      "tip": "'Si + 불완료과거 접속법…'이 없어도 조언은 podrías / deberías 로 충분해요."
+    },
+    {
+      "title": "④ 재귀동사로 말하는 일상 — acostarse · sentirse · compararse",
+      "lead": "감정과 습관에는 재귀대명사(me, te, se)가 자주 붙어요.",
+      "examples": [
+        [
+          "Me acuesto más tarde.",
+          "더 늦게 자요."
+        ],
+        [
+          "Me siento menos solo.",
+          "덜 외롭게 느껴요."
+        ],
+        [
+          "Quiero evitar compararme con los demás.",
+          "다른 사람과 나를 비교하는 걸 피하고 싶어요. (동사원형 뒤에 붙음)"
+        ],
+        [
+          "No necesitas cambiar todas tus costumbres.",
+          "모든 습관을 바꿀 필요는 없어요."
+        ]
+      ]
+    },
+    {
+      "title": "⑤ pasar / pasarle algo a alguien — ‘~에게 일이 생기다’",
+      "lead": "<b>me/te/le + pasa(ba)</b> 로 일어난 일을 말해요.",
+      "examples": [
+        [
+          "¿Qué pasó?",
+          "무슨 일이야?"
+        ],
+        [
+          "Eso me pasaba antes.",
+          "나도 예전에 그랬어요."
+        ],
+        [
+          "A muchas personas les pasa eso.",
+          "많은 사람들이 그래요."
+        ],
+        [
+          "A mí me pasó algo parecido.",
+          "나도 비슷한 일이 있었어요."
+        ]
+      ]
+    },
+    {
+      "title": "⑥ 'hace falta · no hace falta' 와 'tener que'",
+      "lead": "필요하다는 표현을 구분해요.",
+      "table": {
+        "head": [
+          "표현",
+          "예문",
+          "뜻"
+        ],
+        "rows": [
+          [
+            "no hace falta + 동사원형",
+            "No hace falta correr 10 km.",
+            "10km를 뛸 필요는 없어요."
+          ],
+          [
+            "necesitar + 동사원형",
+            "No necesitas ser perfecta.",
+            "완벽할 필요는 없어요."
+          ],
+          [
+            "tener que + 동사원형",
+            "Todo lo que tengo que hacer.",
+            "내가 해야 하는 모든 일."
+          ],
+          [
+            "deber + 동사원형",
+            "Debe seguir trabajando.",
+            "계속 일해야 한다."
+          ]
+        ]
+      }
+    },
+    {
+      "title": "⑦ 감정을 말할 때 — me ayuda + 동사원형 / me cuesta + 동사원형",
+      "lead": "<b>me ayuda</b> = 도움이 된다, <b>me cuesta</b> = 하기 힘들다, <b>me resulta agradable</b> = 내겐 기분 좋다.",
+      "examples": [
+        [
+          "Me ayuda escribir mis preocupaciones.",
+          "걱정거리를 적는 게 도움이 돼요."
+        ],
+        [
+          "Me cuesta dejar de hacer cosas.",
+          "뭔가 하는 걸 멈추기가 힘들어요."
+        ],
+        [
+          "Me resulta agradable escuchar los pájaros.",
+          "새소리를 듣는 게 내겐 기분 좋아요."
+        ],
+        [
+          "Me gusta caminar por el parque.",
+          "공원을 걷는 게 좋아요."
+        ]
+      ]
+    }
+  ],
+  "phrases": [
+    [
+      "Mi cuerpo estaba descansando, pero mi mente seguía trabajando.",
+      "몸은 쉬고 있었는데 마음은 계속 일하고 있었어요."
+    ],
+    [
+      "Nadie está feliz siempre.",
+      "항상 행복한 사람은 아무도 없어요."
+    ],
+    [
+      "Cuidar nuestra salud mental también significa aceptar cómo nos sentimos.",
+      "정신 건강을 돌보는 건 우리의 감정을 받아들이는 것이기도 해요."
+    ],
+    [
+      "Mi lista de tareas nunca termina.",
+      "내 할 일 목록은 끝나지 않아요."
+    ],
+    [
+      "¿Por qué no puedes decirte lo mismo?",
+      "왜 너 자신에게는 같은 말을 못 해?"
+    ],
+    [
+      "Paso horas pensando en problemas que todavía no existen.",
+      "아직 존재하지 않는 문제를 생각하며 몇 시간을 보내요."
+    ],
+    [
+      "No tengo que resolver toda mi vida esta tarde.",
+      "오늘 오후에 내 인생 전체를 해결할 필요는 없어요."
+    ],
+    [
+      "Las fotos muestran momentos especiales, no todos los problemas de una persona.",
+      "사진은 특별한 순간을 보여 줄 뿐 한 사람의 모든 문제를 보여 주진 않아요."
+    ],
+    [
+      "Descansar no significa ser una persona perezosa.",
+      "쉰다는 건 게으른 사람이 된다는 뜻이 아니에요."
+    ],
+    [
+      "Pedir ayuda no debería ser motivo de vergüenza.",
+      "도움을 청하는 게 부끄러운 일이어선 안 돼요."
+    ],
+    [
+      "Tener un día difícil no significa que estamos haciendo algo mal.",
+      "힘든 날을 보낸다고 해서 뭔가 잘못하고 있다는 뜻은 아니에요."
+    ],
+    [
+      "Puedes empezar con algo pequeño y avanzar a tu propio ritmo.",
+      "작은 것으로 시작해서 자신만의 속도로 나아가면 돼요."
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "la salud mental",
+      "ko": "정신 건강",
+      "ex": "Vamos a hablar de nuestra salud mental.",
+      "exKo": "우리의 정신 건강에 대해 이야기할 거예요."
+    },
+    {
+      "es": "el estrés",
+      "ko": "스트레스",
+      "ex": "Podemos hablar del estrés y de las pequeñas cosas que ayudan.",
+      "exKo": "스트레스와 도움이 되는 작은 것들에 대해 이야기할 수 있어요."
+    },
+    {
+      "es": "descansar",
+      "ko": "쉬다",
+      "ex": "Me senté en el sofá para descansar.",
+      "exKo": "쉬려고 소파에 앉았어요."
+    },
+    {
+      "es": "cansado/a",
+      "ko": "피곤한",
+      "ex": "Me sentía todavía más cansada.",
+      "exKo": "더 피곤하게 느껴졌어요."
+    },
+    {
+      "es": "incómodo/a",
+      "ko": "불편한",
+      "ex": "¿Tu sofá es tan incómodo?",
+      "exKo": "네 소파가 그렇게 불편해?"
+    },
+    {
+      "es": "la mente",
+      "ko": "마음, 정신",
+      "ex": "Mi mente seguía trabajando.",
+      "exKo": "내 마음은 계속 일하고 있었어요."
+    },
+    {
+      "es": "preocupado/a",
+      "ko": "걱정하는",
+      "ex": "A veces estoy triste, preocupado o cansado.",
+      "exKo": "가끔은 슬프고 걱정되고 피곤해요."
+    },
+    {
+      "es": "aceptar",
+      "ko": "받아들이다",
+      "ex": "Cuidarnos significa aceptar cómo nos sentimos.",
+      "exKo": "돌본다는 건 우리의 감정을 받아들이는 것이에요."
+    },
+    {
+      "es": "pedir ayuda",
+      "ko": "도움을 청하다",
+      "ex": "Podemos pedir ayuda cuando las cosas se vuelven difíciles.",
+      "exKo": "상황이 힘들어지면 도움을 청할 수 있어요."
+    },
+    {
+      "es": "la responsabilidad",
+      "ko": "책임",
+      "ex": "Tengo demasiadas responsabilidades.",
+      "exKo": "책임질 일이 너무 많아요."
+    },
+    {
+      "es": "la lista de tareas",
+      "ko": "할 일 목록",
+      "ex": "Mi lista de tareas nunca termina.",
+      "exKo": "내 할 일 목록은 끝나지 않아요."
+    },
+    {
+      "es": "las vacaciones",
+      "ko": "휴가",
+      "ex": "Quizás tu lista necesita unas vacaciones.",
+      "exKo": "어쩌면 네 목록에 휴가가 필요한지도 몰라."
+    },
+    {
+      "es": "útil",
+      "ko": "쓸모 있는",
+      "ex": "Cada minuto debía servir para algo útil.",
+      "exKo": "매 순간이 쓸모 있는 일에 쓰여야 했어요."
+    },
+    {
+      "es": "ocupado/a",
+      "ko": "바쁜",
+      "ex": "No podemos estar ocupados desde la mañana hasta la noche.",
+      "exKo": "아침부터 밤까지 바쁘게만 지낼 수는 없어요."
+    },
+    {
+      "es": "sin parar",
+      "ko": "쉬지 않고",
+      "ex": "¿Debe seguir trabajando sin parar?",
+      "exKo": "쉬지 않고 계속 일해야 하나요?"
+    },
+    {
+      "es": "exigente",
+      "ko": "엄격한, 요구가 많은",
+      "ex": "Soy más exigente conmigo misma que con mis amigos.",
+      "exKo": "나는 친구들보다 나 자신에게 더 엄격해요."
+    },
+    {
+      "es": "el crítico",
+      "ko": "비평가",
+      "ex": "A veces somos nuestros críticos más duros.",
+      "exKo": "때로는 우리가 가장 혹독한 비평가예요."
+    },
+    {
+      "es": "el futuro",
+      "ko": "미래",
+      "ex": "Pienso demasiado en el futuro.",
+      "exKo": "미래를 너무 많이 생각해요."
+    },
+    {
+      "es": "tomar una decisión",
+      "ko": "결정을 내리다",
+      "ex": "Me pregunto si tomaré buenas decisiones.",
+      "exKo": "좋은 결정을 내릴지 궁금해요."
+    },
+    {
+      "es": "la preocupación",
+      "ko": "걱정거리",
+      "ex": "Me ayuda escribir mis preocupaciones.",
+      "exKo": "걱정거리를 적는 게 도움이 돼요."
+    },
+    {
+      "es": "la solución",
+      "ko": "해결책",
+      "ex": "Veo cuáles necesitan una solución ahora.",
+      "exKo": "어떤 게 지금 해결책이 필요한지 알 수 있어요."
+    },
+    {
+      "es": "controlar",
+      "ko": "통제하다",
+      "ex": "¿Qué haces con lo que no puedes controlar?",
+      "exKo": "통제할 수 없는 일은 어떻게 해요?"
+    },
+    {
+      "es": "con calma",
+      "ko": "차분히",
+      "ex": "Puedo pensar con más calma.",
+      "exKo": "더 차분히 생각할 수 있어요."
+    },
+    {
+      "es": "perfecto/a",
+      "ko": "완벽한",
+      "ex": "No necesitas un plan perfecto.",
+      "exKo": "완벽한 계획이 필요한 건 아니에요."
+    },
+    {
+      "es": "las redes sociales",
+      "ko": "SNS",
+      "ex": "Las redes sociales cambian cómo vemos nuestra vida.",
+      "exKo": "SNS는 우리가 삶을 보는 방식을 바꿔요."
+    },
+    {
+      "es": "compararse",
+      "ko": "(자신을) 비교하다",
+      "ex": "Quiero evitar compararme con los demás.",
+      "exKo": "다른 사람과 나를 비교하는 걸 피하고 싶어요."
+    },
+    {
+      "es": "la playa",
+      "ko": "해변",
+      "ex": "Vi fotos de una amiga en una playa preciosa.",
+      "exKo": "아름다운 해변에 있는 친구 사진을 봤어요."
+    },
+    {
+      "es": "celebrar",
+      "ko": "축하하다",
+      "ex": "Otra amiga celebraba un trabajo fantástico.",
+      "exKo": "다른 친구는 멋진 일자리를 축하하고 있었어요."
+    },
+    {
+      "es": "desordenado/a",
+      "ko": "어질러진",
+      "ex": "Quieren ver mi cocina desordenada.",
+      "exKo": "내 어질러진 부엌을 보고 싶어 해요."
+    },
+    {
+      "es": "fuera de bromas",
+      "ko": "농담은 그만하고",
+      "ex": "Fuera de bromas, las redes también tienen cosas buenas.",
+      "exKo": "농담은 그만하고, SNS에도 좋은 점이 있어요."
+    },
+    {
+      "es": "seguir una cuenta",
+      "ko": "계정을 팔로우하다",
+      "ex": "Puedes seguir cuentas que te enseñen algo.",
+      "exKo": "뭔가 가르쳐 주는 계정을 팔로우할 수 있어요."
+    },
+    {
+      "es": "la notificación",
+      "ko": "알림",
+      "ex": "Quité algunas notificaciones.",
+      "exKo": "알림 몇 개를 껐어요."
+    },
+    {
+      "es": "interrumpir",
+      "ko": "방해하다",
+      "ex": "Me interrumpían constantemente.",
+      "exKo": "계속 나를 방해했어요."
+    },
+    {
+      "es": "concentrarse",
+      "ko": "집중하다",
+      "ex": "¿Puedes concentrarte mejor cuando trabajas?",
+      "exKo": "일할 때 더 잘 집중돼요?"
+    },
+    {
+      "es": "quitar tiempo",
+      "ko": "시간을 빼앗다",
+      "ex": "El móvil me quita tiempo.",
+      "exKo": "휴대폰이 내 시간을 빼앗아요."
+    },
+    {
+      "es": "acostarse tarde",
+      "ko": "늦게 자다",
+      "ex": "Me acuesto más tarde.",
+      "exKo": "더 늦게 자요."
+    },
+    {
+      "es": "poco a poco",
+      "ko": "조금씩",
+      "ex": "Me gusta empezar poco a poco.",
+      "exKo": "조금씩 시작하는 게 좋아요."
+    },
+    {
+      "es": "las costumbres",
+      "ko": "습관",
+      "ex": "No necesitas cambiar todas tus costumbres.",
+      "exKo": "모든 습관을 바꿀 필요는 없어요."
+    },
+    {
+      "es": "mantener",
+      "ko": "유지하다",
+      "ex": "Los cambios grandes son difíciles de mantener.",
+      "exKo": "큰 변화는 유지하기 어려워요."
+    },
+    {
+      "es": "salir a caminar",
+      "ko": "산책하러 나가다",
+      "ex": "Salir a caminar me ayuda.",
+      "exKo": "산책하러 나가는 게 도움이 돼요."
+    },
+    {
+      "es": "la caminata",
+      "ko": "걷기, 산책",
+      "ex": "Una pequeña caminata puede ser agradable.",
+      "exKo": "짧은 산책은 기분 좋을 수 있어요."
+    },
+    {
+      "es": "el barrio",
+      "ko": "동네",
+      "ex": "Una caminata por el barrio es agradable.",
+      "exKo": "동네 산책은 기분 좋아요."
+    },
+    {
+      "es": "al aire libre",
+      "ko": "야외에서",
+      "ex": "Me gusta estar al aire libre.",
+      "exKo": "야외에 있는 게 좋아요."
+    },
+    {
+      "es": "agradable",
+      "ko": "기분 좋은",
+      "ex": "Escuchar los pájaros me resulta agradable.",
+      "exKo": "새소리를 듣는 게 기분 좋아요."
+    },
+    {
+      "es": "la reparación",
+      "ko": "수리",
+      "ex": "Mi bicicleta necesita una pequeña reparación.",
+      "exKo": "내 자전거는 약간의 수리가 필요해요."
+    },
+    {
+      "es": "sentirse culpable",
+      "ko": "죄책감을 느끼다",
+      "ex": "Estoy aprendiendo a descansar sin sentirme culpable.",
+      "exKo": "죄책감 없이 쉬는 법을 배우고 있어요."
+    },
+    {
+      "es": "perezoso/a",
+      "ko": "게으른",
+      "ex": "Descansar no significa ser perezoso.",
+      "exKo": "쉰다는 건 게으르다는 뜻이 아니에요."
+    },
+    {
+      "es": "el límite",
+      "ko": "한계",
+      "ex": "Todos tenemos límites diferentes.",
+      "exKo": "우리 모두 한계가 달라요."
+    },
+    {
+      "es": "hacer una pausa",
+      "ko": "잠깐 쉬다",
+      "ex": "¿Cómo sabes cuándo necesitas hacer una pausa?",
+      "exKo": "언제 쉬어야 하는지 어떻게 알아요?"
+    },
+    {
+      "es": "escuchar con atención",
+      "ko": "주의 깊게 듣다",
+      "ex": "Mi hermano me escuchó con mucha atención.",
+      "exKo": "형이 아주 집중해서 들어 줬어요."
+    },
+    {
+      "es": "la vergüenza",
+      "ko": "부끄러움",
+      "ex": "Pedir ayuda no debería ser motivo de vergüenza.",
+      "exKo": "도움을 청하는 게 부끄러운 일이어선 안 돼요."
+    },
+    {
+      "es": "el error",
+      "ko": "실수",
+      "ex": "Había cometido un pequeño error en un documento.",
+      "exKo": "문서에서 작은 실수를 했었어요."
+    },
+    {
+      "es": "corregir",
+      "ko": "고치다, 정정하다",
+      "ex": "Mi compañera tuvo que corregirlo.",
+      "exKo": "동료가 그걸 고쳐야 했어요."
+    },
+    {
+      "es": "realista",
+      "ko": "현실적인",
+      "ex": "Buscamos formas realistas de cuidarnos.",
+      "exKo": "현실적인 돌봄 방법을 찾아요."
+    },
+    {
+      "es": "el ritmo",
+      "ko": "속도, 리듬",
+      "ex": "Avanza a tu propio ritmo.",
+      "exKo": "자신만의 속도로 나아가세요."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "¿Por qué Sofía se sentía más cansada después de descansar en el sofá?",
+      "options": [
+        "Porque el sofá era incómodo",
+        "Porque su mente seguía trabajando",
+        "Porque no durmió bien",
+        "Porque tenía hambre"
+      ],
+      "answer": 1,
+      "explain": "Mi cuerpo estaba descansando, pero mi mente seguía trabajando."
+    },
+    {
+      "q": "Según Mateo, ¿estar bien significa estar feliz todos los días?",
+      "options": [
+        "Sí, siempre",
+        "No, a veces está triste o cansado",
+        "Solo los fines de semana",
+        "No lo menciona"
+      ],
+      "answer": 1,
+      "explain": "No, claro que no. A veces estoy triste, preocupado o cansado."
+    },
+    {
+      "q": "¿Qué le preguntó Mateo a Sofía sobre una amiga cansada?",
+      "options": [
+        "Si debe salir de viaje",
+        "Si debe seguir trabajando sin parar",
+        "Si debe llamar a un médico",
+        "Si debe cambiar de trabajo"
+      ],
+      "answer": 1,
+      "explain": "¿Le dirías a una amiga cansada que debe seguir trabajando sin parar?"
+    },
+    {
+      "q": "¿Qué le ayuda a Sofía con sus preocupaciones sobre el futuro?",
+      "options": [
+        "Dormir más",
+        "Escribir sus preocupaciones",
+        "Ver series",
+        "Comer pasta"
+      ],
+      "answer": 1,
+      "explain": "A mí me ayuda escribir mis preocupaciones."
+    },
+    {
+      "q": "¿Qué suele cocinar probablemente Mateo mañana?",
+      "options": [
+        "Pizza",
+        "Sopa",
+        "Pasta",
+        "Ensalada"
+      ],
+      "answer": 2,
+      "explain": "Probablemente voy a preparar pasta, como siempre."
+    },
+    {
+      "q": "¿Qué ocurre cuando Sofía ve fotos de sus amigas en las redes sociales?",
+      "options": [
+        "Se alegra siempre",
+        "Piensa que otros tienen una vida mejor",
+        "Deja de usar el móvil",
+        "Les escribe enseguida"
+      ],
+      "answer": 1,
+      "explain": "Empezó a pensar que todos tenían una vida mejor que la suya."
+    },
+    {
+      "q": "¿Qué hizo Mateo para concentrarse mejor?",
+      "options": [
+        "Compró otro móvil",
+        "Quitó algunas notificaciones",
+        "Dejó de trabajar",
+        "Usó más redes sociales"
+      ],
+      "answer": 1,
+      "explain": "Quité algunas notificaciones porque me interrumpían constantemente."
+    },
+    {
+      "q": "¿Cuál es el efecto de usar demasiado el móvil por la noche?",
+      "options": [
+        "Se despierta temprano",
+        "Se acuesta más tarde",
+        "Come menos",
+        "Camina más"
+      ],
+      "answer": 1,
+      "explain": "Cuando paso demasiado tiempo con el móvil por la noche, me acuesto más tarde."
+    },
+    {
+      "q": "¿Qué le pasó a Sofía el sábado pasado en el parque?",
+      "options": [
+        "Perdió el móvil",
+        "Caminó y pensó con más tranquilidad",
+        "Corrió 10 km",
+        "Se encontró con su jefe"
+      ],
+      "answer": 1,
+      "explain": "No lo resolvió, pero pude pensar con más tranquilidad."
+    },
+    {
+      "q": "¿A quién llamó Mateo cuando estaba preocupado por un problema familiar?",
+      "options": [
+        "A su madre",
+        "A su mejor amiga",
+        "A su hermano",
+        "A un médico"
+      ],
+      "answer": 2,
+      "explain": "Llamé a mi hermano."
+    },
+    {
+      "q": "¿Qué error cometió Sofía en el trabajo?",
+      "options": [
+        "Llegó tarde",
+        "Un pequeño error en un documento",
+        "Perdió una reunión",
+        "Olvidó una llamada"
+      ],
+      "answer": 1,
+      "explain": "Había cometido un pequeño error en un documento."
+    },
+    {
+      "q": "¿Qué cambio eligió finalmente Sofía después de intentar demasiados cambios?",
+      "options": [
+        "Dormir 10 horas",
+        "Caminar 15 minutos después del trabajo",
+        "Dejar el trabajo",
+        "Cocinar cada día"
+      ],
+      "answer": 1,
+      "explain": "Entonces elegí solamente una cosa. Caminar 15 minutos después del trabajo."
+    }
+  ]
+}
