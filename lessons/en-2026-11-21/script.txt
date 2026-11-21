@@ -1,0 +1,489 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: A = Host A, B = Host B. 화자 구분은 대화 맥락에 맞춰 나눴어요. END = 오디오 끝 시각
+# 원본: 사용자 오디오를 Whisper로 받아쓰기. 인식 오류(descent→dissent, smooth sold shoes→smooth-soled shoes, star contrast→stark contrast, tone police→tone-policed 등)는 바로잡았어요.
+# 시각은 Whisper 단어 시각으로 구한 문장별 시작 시각이에요.
+END 21:01
+
+## 도입 — 착하게 굴면 보상받지만, 역사는 그러지 않은 사람을 기억한다
+[00:00.00]
+A | What if, um, what if the exact trait that gets you a promotion, right, or makes you popular at dinner parties and just generally keeps your life running smoothly… | 만약에, 음, 만약 승진하게 해 주고, 저녁 파티에서 인기 있게 해 주고, 대체로 삶을 순탄하게 굴러가게 해 주는 바로 그 특성이…
+[00:10.44]
+A | what if that is the exact same trait that is holding human progress back? | 바로 그 특성이 인류의 진보를 막고 있다면요?
+[00:16.14]
+B | That is quite the hook. | 꽤 강렬한 시작이네요.
+[00:18.08]
+A | I mean, it's true, though. | 그래도 사실이에요.
+[00:19.36]
+A | Today, we are looking at why society rewards you for playing nice, but history only really remembers the people who didn't. | 오늘은 사회는 착하게 구는 사람에게 보상하는데, 왜 역사는 그러지 않은 사람들만 기억하는지 살펴볼 거예요.
+[00:26.12]
+B | Because, you know, from the moment we step into a kindergarten classroom, there's this primary directive handed down to us. | 유치원 교실에 발을 들이는 순간부터 우리에게 내려오는 최우선 지시가 있잖아요.
+[00:31.82]
+B | Do not rock the boat. | 평지풍파를 일으키지 마라.
+[00:33.62]
+A | Right, just fit in. | 맞아요, 그냥 어울려라.
+[00:34.68]
+B | Exactly. We are basically conditioned to be these smooth, frictionless little components in this giant societal structure. | 바로 그거예요. 우리는 거대한 사회 구조 속의 매끄럽고 마찰 없는 작은 부품이 되도록 길들여져요.
+[00:41.44]
+B | I mean, think about it. We give gold stars to the kids who sit quietly, and we give the corner office to the employees who just agree with the boss. | 생각해 보세요. 조용히 앉아 있는 아이에게 금색 별 스티커를 주고, 상사 말에 그냥 동의하는 직원에게 전망 좋은 구석 사무실을 주잖아요.
+[00:47.88]
+A | Yeah, we really have collectively elevated agreeableness to be like the ultimate virtue. | 네, 우리는 정말 다 함께 친화성을 최고의 미덕처럼 떠받들어 왔어요.
+[00:53.48]
+A | And if you look at it in the context of psychology, especially frameworks like the Big Five personality traits, | 그리고 심리학의 맥락에서, 특히 빅 파이브 성격 특성 같은 틀로 보면,
+[00:59.18]
+A | agreeableness encompasses empathy, cooperation, a really strong desire to avoid conflict. | 친화성에는 공감, 협력, 갈등을 피하려는 아주 강한 욕구가 들어 있어요.
+[01:04.24]
+B | Which all sound great, right? | 다 좋게 들리죠?
+[01:05.62]
+A | They do. They sound like universally positive things. | 그렇죠. 누구에게나 긍정적인 것처럼 들려요.
+[01:08.40]
+A | And honestly, society functions because most of us abide by these unwritten rules of civility. | 그리고 솔직히 사회가 돌아가는 건 대부분이 예의라는 이 불문율을 지키기 때문이에요.
+[01:13.70]
+A | We prioritize harmony over getting our own way every single time. | 매번 자기 뜻대로 하는 것보다 조화를 우선하죠.
+[01:16.86]
+B | Right. | 맞아요.
+[01:17.52]
+A | We literally equate being an agreeable person with just being a good person. | 우리는 말 그대로 친화적인 사람을 그냥 좋은 사람과 같다고 여겨요.
+[01:21.46]
+B | But today, for you listening, we are taking a deep dive into some source material that turns that entire worldview completely upside down. | 그런데 오늘 청취자 여러분을 위해, 그 세계관을 완전히 뒤집어 놓는 자료를 깊이 파고들 거예요.
+[01:28.98]
+A | It really does. | 정말 그래요.
+[01:29.62]
+B | Yeah, we have this transcript from BBC Ideas featuring Malcolm Gladwell, and it's provocatively titled "Why the World Needs Disagreeable People." | 네, 말콤 글래드웰이 나오는 BBC Ideas의 대본인데, 제목이 도발적이에요. '세상은 왜 비친화적인 사람이 필요한가.'
+[01:38.78]
+B | So our mission for this deep dive is to figure out if our societal obsession with agreeableness, you know, this desperate need for everyone to just get along, is actually a massive barrier to innovation. | 그래서 이번 딥다이브의 임무는 친화성에 대한 사회의 집착, 그러니까 모두가 그냥 잘 지내야 한다는 절박한 욕구가 사실 혁신을 막는 거대한 장벽인지 알아보는 거예요.
+[01:49.52]
+B | But even more importantly, and I think this is the heavy part, we are going to uncover the hidden double standards regarding who is actually allowed to be difficult in the first place, and who gets punished for it. | 하지만 더 중요한 건, 그리고 이게 무거운 부분인데요, 애초에 누가 까다롭게 굴어도 되는지, 그리고 누가 그 때문에 벌을 받는지에 관한 숨은 이중 잣대를 밝혀낼 거예요.
+[02:02.02]
+A | Yeah, because moving from looking at agreeableness as this pure virtue to examining it as a potential roadblock, that's a really profound shift in perspective. | 네, 친화성을 순수한 미덕으로 보다가 잠재적인 걸림돌로 살펴보는 건 정말 깊은 관점의 전환이에요.
+[02:11.30]
+A | Gladwell is essentially asking us to evaluate the hidden costs of all that comfort. | 글래드웰은 사실상 그 모든 편안함의 숨은 비용을 따져 보라고 하는 거예요.
+## 현 상태로 충분한가 — 단일 작물 같은 사회
+[02:16.62]
+B | Okay, let's unpack those. | 좋아요, 그걸 풀어 봐요.
+[02:18.56]
+B | Gladwell starts by throwing down this massive challenge about the status quo. | 글래드웰은 현 상태에 대한 거대한 도전장을 던지면서 시작해요.
+[02:22.76]
+B | He basically asks, you know, are things just good enough? | 기본적으로 이렇게 물어요. 지금 이대로 충분히 괜찮은가?
+[02:26.66]
+B | Like, is our society satisfactory enough that we can all just sit back, privilege agreeableness, abide by those rules of civility you just mentioned, and trust that everything will just magically improve on its own? | 그러니까 우리 사회가 충분히 만족스러워서, 다들 편히 앉아 친화성을 우대하고, 방금 말한 예의의 규칙을 지키면서, 모든 게 저절로 마법처럼 나아질 거라고 믿어도 되느냐는 거죠.
+[02:38.10]
+A | He's highlighting a really fundamental tension there, | 거기서 아주 근본적인 긴장을 짚고 있어요.
+[02:41.34]
+A | because there is a very real conflict between the desire for a quiet, polite, predictable life and the messy, unpredictable reality of how progress actually happens. | 조용하고 예의 바르고 예측 가능한 삶을 바라는 마음과, 진보가 실제로 일어나는 지저분하고 예측 불가능한 현실 사이에는 아주 실제적인 충돌이 있거든요.
+[02:53.12]
+B | Yeah, progress is rarely polite. | 네, 진보는 좀처럼 예의 바르지 않죠.
+[02:55.02]
+A | Exactly. | 바로 그거예요.
+[02:55.86]
+A | To understand why we might actually need disagreeable people, we have to honestly evaluate the alternative. | 우리에게 왜 비친화적인 사람이 필요할 수 있는지 이해하려면, 그 반대 경우를 솔직하게 따져 봐야 해요.
+[03:01.66]
+A | Like, what actually happens when a society, or even just a company, completely prioritizes civility above everything else? | 사회나, 아니면 회사 하나라도, 예의를 다른 무엇보다 완전히 우선하면 실제로 어떻게 될까요?
+[03:09.64]
+B | Well, I was thinking about this, and rather than using that old cliché of society being like a well-oiled machine, | 음, 이걸 생각해 봤는데요, 사회가 기름칠 잘된 기계 같다는 낡은 표현 대신,
+[03:16.94]
+B | an entirely agreeable society feels more to me like a monoculture crop. | 완전히 친화적인 사회는 저한테는 단일 작물 밭 같아요.
+[03:22.20]
+A | Oh, interesting. | 오, 흥미롭네요.
+[03:23.02]
+B | Yeah, like in farming. | 네, 농사에서처럼요.
+[03:24.22]
+A | Yeah. | 네.
+[03:24.70]
+B | Think about a massive field where every single plant is genetically identical. | 모든 식물이 유전적으로 똑같은 거대한 밭을 생각해 보세요.
+[03:29.00]
+B | Now, on the surface, it looks perfect. | 겉으로는 완벽해 보여요.
+[03:30.38]
+A | Right, it's uniform. | 맞아요, 균일하죠.
+[03:31.28]
+B | Exactly. It's highly efficient, it's super easy to manage, and it yields a very consistent result. | 바로 그거예요. 아주 효율적이고, 관리하기도 쉽고, 아주 일정한 수확을 내요.
+[03:36.26]
+B | But because there is zero genetic friction, you know, zero variation, it is incredibly fragile. | 그런데 유전적 마찰이, 그러니까 변이가 전혀 없어서, 엄청나게 취약해요.
+[03:42.92]
+A | I see where you're going. | 무슨 말인지 알겠어요.
+[03:44.18]
+B | Right. Like, a single new disease or a sudden change in the climate can wipe out the entire field overnight, because it completely lacks the diversity needed to adapt. | 맞아요. 새로운 병 하나나 갑작스러운 기후 변화 하나가 하룻밤 사이에 밭 전체를 쓸어버릴 수 있어요. 적응하는 데 필요한 다양성이 전혀 없으니까요.
+[03:52.88]
+A | That makes a lot of sense. | 정말 말이 되네요.
+[03:53.94]
+B | So a society where everyone just agrees with each other endlessly, it just produces the exact same ideas forever, | 그러니까 모두가 끝없이 서로 동의하기만 하는 사회는 영원히 똑같은 생각만 만들어 내요.
+[03:59.80]
+B | because no one ever stops to say, "Hey, this isn't working. Maybe we should build something else." | 아무도 멈춰서 '저기, 이거 안 되는데요. 다른 걸 만들어야 할지도 몰라요'라고 말하지 않으니까요.
+[04:04.98]
+A | That monoculture analogy captures the danger perfectly. | 그 단일 작물 비유가 위험을 완벽하게 담아내네요.
+[04:08.48]
+A | I mean, it is highly efficient at maintaining its current state, but it is entirely incapable of evolution. | 현재 상태를 유지하는 데는 아주 효율적이지만, 진화는 전혀 할 수 없어요.
+[04:15.58]
+A | Without variation or dissent, you have total vulnerability to changing circumstances. | 변이나 반대 의견이 없으면, 변하는 환경에 완전히 무방비가 돼요.
+## 마찰의 물리학 — 매끄러운 얼음 위에서는 나아갈 수 없다
+[04:21.58]
+A | And Gladwell acknowledges that, you know, things do not go smoothly around disagreeable people. | 그리고 글래드웰도 비친화적인 사람 주변에서는 일이 순탄하게 흘러가지 않는다는 걸 인정해요.
+[04:26.34]
+A | They are the genetic variation in that field. They shake things up. | 그들이 그 밭의 유전적 변이예요. 판을 흔들죠.
+[04:31.04]
+A | And this brings us to his concept of introducing an element of friction into the way we behave. | 그리고 이게 우리가 행동하는 방식에 마찰이라는 요소를 들여온다는 그의 개념으로 이어져요.
+[04:37.32]
+B | But I have to push back on this a little bit. | 그런데 여기엔 조금 반박해야겠어요.
+[04:39.80]
+A | Okay, go for it. | 좋아요, 해 보세요.
+[04:40.62]
+B | Because let's be real. We all know that person in a meeting who just will not let a minor point go. | 솔직히 말해서, 회의에서 사소한 점 하나를 절대 안 놓아주는 사람, 다들 알잖아요.
+[04:45.68]
+B | The one who plays devil's advocate just to hear their own voice. | 자기 목소리 듣고 싶어서 일부러 반대 의견을 내는 사람이요.
+[04:48.64]
+A | No, absolutely. | 아뇨, 맞아요.
+[04:49.52]
+B | Right. We all know one. | 그렇죠. 다들 한 명쯤 알아요.
+[04:51.40]
+B | And isn't it just absolutely exhausting when things do not go smoothly? | 그리고 일이 순탄하게 안 흘러가면 정말 완전히 지치지 않아요?
+[04:56.38]
+B | It can feel like they are just setting fire to that crop for no good reason. | 아무 이유 없이 그 밭에 불을 지르는 것처럼 느껴질 수 있어요.
+[04:59.94]
+B | I mean, how is this theoretical friction different from just being a jerk? | 그러니까 이 이론적인 마찰이 그냥 재수 없게 구는 거랑 뭐가 다르죠?
+[05:05.44]
+A | Well, it is absolutely exhausting, but that exhaustion is kind of the price of admission for progress. | 음, 정말 지치죠. 하지만 그 피로가 진보의 입장료 같은 거예요.
+[05:10.42]
+A | To understand the difference between just being a jerk and providing valuable friction, we should look at the actual physics of friction. | 그냥 재수 없게 구는 것과 가치 있는 마찰을 주는 것의 차이를 이해하려면, 실제 마찰의 물리학을 봐야 해요.
+[05:18.22]
+B | Okay, physics. Let's do it. | 좋아요, 물리학. 해 봐요.
+[05:19.54]
+A | In physics, friction is the resistance that one surface or object encounters when moving over another. | 물리학에서 마찰은 한 표면이나 물체가 다른 것 위를 움직일 때 만나는 저항이에요.
+[05:25.42]
+A | It is literally the definition of things not going smoothly. | 말 그대로 일이 순탄하지 않다는 것의 정의죠.
+[05:29.88]
+A | However, friction is also the sole mechanism that allows for traction. | 하지만 마찰은 또한 접지력을 만들어 주는 유일한 메커니즘이에요.
+[05:34.18]
+B | Oh, like, like trying to walk across a frozen lake in smooth-soled shoes. | 아, 바닥이 매끈한 신발을 신고 얼어붙은 호수를 건너려는 것처럼요.
+[05:38.96]
+A | Exactly. On perfectly smooth ice, there is zero friction. It is a completely frictionless environment. | 바로 그거예요. 완벽하게 매끄러운 얼음 위에는 마찰이 전혀 없어요. 완전히 마찰 없는 환경이죠.
+[05:46.12]
+A | And because of that total lack of resistance, you cannot move forward. You just flail around. | 그리고 저항이 전혀 없어서 앞으로 나아갈 수가 없어요. 그냥 허우적대죠.
+[05:50.90]
+B | Right. | 맞아요.
+[05:51.48]
+A | You expend a huge amount of energy slipping, sliding, and ultimately you stay in the exact same place. | 미끄러지고 헛디디느라 엄청난 에너지를 쓰고, 결국 바로 그 자리에 그대로 있어요.
+[05:57.12]
+A | If you want movement, if you want forward momentum, you need a surface with some bite. You need resistance. | 움직이고 싶다면, 앞으로 나가는 추진력을 원한다면, 좀 걸리는 맛이 있는 표면이 필요해요. 저항이 필요하죠.
+[06:03.50]
+B | That makes total sense. | 완전히 이해돼요.
+[06:04.94]
+B | So the disagreeable people, the ones willing to actually challenge the consensus, they are the friction that allows society's tires to actually grip the road. | 그러니까 비친화적인 사람들, 기꺼이 합의에 도전하는 사람들이 사회의 타이어가 실제로 도로를 움켜쥐게 해 주는 마찰이네요.
+[06:13.54]
+A | What's fascinating here is the binary choice Gladwell presents to us. | 흥미로운 건 글래드웰이 우리에게 내미는 양자택일이에요.
+[06:17.14]
+A | I mean, you can choose the "satisfactory enough" status quo, where we prioritize civility, everyone feels comfortable, and we just slide around on the ice making zero progress. | 예의를 우선하고, 모두가 편하고, 얼음 위를 미끄러지며 아무 진전도 없는 '충분히 만족스러운' 현 상태를 고를 수도 있고,
+[06:26.42]
+A | Or you can choose the messy, uncomfortable, socially awkward gains of shaking things up. | 아니면 판을 흔들어서 얻는, 지저분하고 불편하고 사회적으로 어색한 성과를 고를 수도 있어요.
+[06:32.82]
+A | You can't really have both. | 둘 다 가질 수는 없어요.
+[06:34.38]
+A | Innovation and progress are inherently disruptive, and disruption is, by definition, not agreeable. | 혁신과 진보는 본질적으로 파괴적이고, 파괴는 정의상 친화적이지 않으니까요.
+[06:40.74]
+B | No, it really isn't. | 네, 정말 그렇지 않죠.
+## 직장 — 나이트클럽 경비원 같은 관리자
+[06:41.88]
+B | And here's where it gets really interesting, because if we accept that friction is this incredibly vital engine for societal progress, we have to look at the systems we've actually built. | 그리고 여기서 정말 흥미로워져요. 마찰이 사회 진보의 아주 중요한 엔진이라는 걸 받아들인다면, 우리가 실제로 만든 시스템을 들여다봐야 하거든요.
+[06:53.60]
+A | And they are definitely not built for friction. | 그리고 그 시스템은 절대 마찰을 위해 만들어지지 않았죠.
+[06:56.12]
+B | Not at all. When we look closely, we see that we actively try to eradicate friction in our daily lives. | 전혀요. 자세히 보면, 우리는 일상에서 마찰을 적극적으로 없애려고 해요.
+[07:02.42]
+A | If you want to see where friction is systematically destroyed, look no further than the modern corporate workplace. | 마찰이 체계적으로 파괴되는 곳을 보고 싶다면, 현대 기업의 일터만 보면 돼요.
+[07:08.24]
+B | Oh, for sure. | 아, 확실히요.
+[07:09.40]
+A | Gladwell asks how we can make dissent, deviation, and disagreement more palatable at work. | 글래드웰은 직장에서 반대, 일탈, 의견 충돌을 어떻게 하면 더 받아들일 만하게 만들 수 있는지 물어요.
+[07:15.34]
+A | And to answer that, he points a massive spotlight right at middle and upper management. | 그리고 그 답을 찾으려고 중간 관리자와 고위 관리자에게 커다란 스포트라이트를 비춰요.
+[07:20.26]
+B | Yeah, the source material suggests a lot of managers actually try very, very hard to obliterate dissent. | 네, 자료에 따르면 많은 관리자들이 실제로 반대 의견을 없애려고 정말 애를 써요.
+[07:26.12]
+B | They genuinely believe that a lack of friction is how their success ought to be measured, you know? | 마찰이 없는 게 자기 성공을 재는 기준이어야 한다고 진심으로 믿거든요.
+[07:31.80]
+B | They look at their team and they think, "Okay, everyone is quiet. No one is arguing with my directives. We all get along great at the company retreat. Therefore, I am a fantastic leader." | 팀을 보면서 이렇게 생각하죠. '좋아, 다들 조용하네. 아무도 내 지시에 토 달지 않고. 회사 워크숍에서 다 같이 잘 지내고. 그러니까 나는 훌륭한 리더야.'
+[07:40.62]
+A | Which is such a trap. | 그게 바로 함정이에요.
+[07:42.04]
+B | It totally is. | 완전히 그렇죠.
+[07:43.02]
+B | It feels like modern corporate culture, especially heavily influenced by certain HR philosophies that prioritize culture fit, treats managers like nightclub bouncers. | 현대 기업 문화는, 특히 '문화 적합성'을 우선하는 인사 철학의 영향을 많이 받은 곳은, 관리자를 나이트클럽 경비원처럼 대하는 것 같아요.
+[07:52.68]
+A | Nightclub bouncers. | 나이트클럽 경비원.
+[07:53.92]
+B | Yeah. Like, their whole job is to stand at the door with a clipboard, look at any strange, disruptive or challenging idea and say, "Nope, not on the list. You're going to ruin the vibe in here. Keep the trouble out." | 네. 그들의 일은 명단을 들고 문 앞에 서서, 이상하거나 판을 흔들거나 도전적인 아이디어를 보면 '안 돼, 명단에 없어. 여기 분위기 망칠 거야. 말썽은 밖에 둬'라고 하는 거죠.
+[08:03.10]
+A | That is a great way to put it. | 아주 좋은 표현이에요.
+[08:04.90]
+A | And that bouncer mentality is incredibly common because it feels safe. | 그리고 그 경비원 사고방식은 안전하게 느껴지니까 엄청 흔해요.
+[08:08.64]
+A | And frankly, it's usually what the corporate structure rewards in the short term. | 솔직히 기업 구조가 단기적으로 보상하는 것도 대개 그거고요.
+[08:12.80]
+A | I mean, harmony looks really good on a quarterly review. | 조화는 분기 평가에서 정말 보기 좋잖아요.
+[08:15.30]
+B | It does. Nobody wants to report that their team is arguing all day. | 그렇죠. 자기 팀이 하루 종일 싸운다고 보고하고 싶은 사람은 없어요.
+[08:18.62]
+A | Exactly. But Gladwell suggests a complete reimagining of that managerial role. | 바로 그거예요. 그런데 글래드웰은 그 관리자 역할을 완전히 새로 그려 보자고 해요.
+[08:23.62]
+A | Instead of a bouncer guarding the status quo, a manager needs to be someone who actively welcomes strange new data. | 현 상태를 지키는 경비원 대신, 관리자는 이상하고 새로운 데이터를 적극적으로 반기는 사람이어야 한다고요.
+[08:30.84]
+A | He argues that the people who ought to be in management positions are the ones with the thickest skins. | 관리직에 있어야 할 사람은 낯이 가장 두꺼운, 즉 비판에 가장 덜 상처받는 사람이라고 주장해요.
+## 견디기 vs. 안전한 자리 만들기 — 실험실의 과학자처럼
+[08:35.90]
+B | But wait, where is the line between a thick-skinned manager who welcomes new data and a manager who just enables a completely toxic workplace? | 잠깐만요, 새로운 데이터를 반기는 낯 두꺼운 관리자와, 그냥 완전히 해로운 일터를 방치하는 관리자의 경계는 어디예요?
+[08:44.18]
+A | That's a fair question. | 정당한 질문이에요.
+[08:45.34]
+B | Because if I am running a team, I cannot just let people scream at each other or insult their colleagues in the name of productive friction, right? | 제가 팀을 이끈다면, 생산적인 마찰이라는 이름으로 사람들이 서로 소리 지르거나 동료를 모욕하게 둘 수는 없잖아요?
+[08:52.10]
+B | At some point, the work still has to get done. | 어느 시점에는 일도 끝내야 하고요.
+[08:54.56]
+A | Well, that is the critical distinction. | 음, 그게 결정적인 구분이에요.
+[08:56.82]
+A | Productive friction is about challenging ideas, processes and assumptions. Toxic behavior is about attacking individuals. | 생산적인 마찰은 아이디어, 절차, 가정에 도전하는 거예요. 해로운 행동은 개인을 공격하는 거고요.
+[09:04.68]
+B | Right. Attacking the person versus the idea. | 맞아요. 사람을 공격하느냐, 아이디어를 공격하느냐.
+[09:07.66]
+A | Exactly. A thick-skinned manager does not take a dissenting opinion about a project as a personal attack on their leadership. | 바로 그거예요. 낯이 두꺼운 관리자는 프로젝트에 대한 반대 의견을 자기 리더십에 대한 인신공격으로 받아들이지 않아요.
+[09:14.84]
+A | They are comfortable with a degree of intellectual friction from those under their control. | 자기 밑에 있는 사람들이 주는 어느 정도의 지적 마찰을 편안하게 받아들여요.
+[09:18.76]
+A | But there is a very subtle nuance in Gladwell's argument here that we really need to highlight. | 그런데 여기서 글래드웰의 주장에 꼭 짚어야 할 아주 미묘한 뉘앙스가 있어요.
+[09:23.34]
+B | What's that? | 뭔데요?
+[09:24.18]
+A | There is a massive operational difference between a manager who merely tolerates dissent and a manager who actively creates a safe place for it. | 반대 의견을 그저 참아 주는 관리자와, 반대 의견을 위한 안전한 자리를 적극적으로 만드는 관리자는 실제 운영에서 엄청난 차이가 있어요.
+[09:32.72]
+B | Oh, I see. Because if you are just tolerating it, you are still silently wishing it would go away. | 아, 알겠어요. 그냥 참고만 있다면, 여전히 속으로는 그게 사라지길 바라고 있는 거니까요.
+[09:38.20]
+A | Right. | 맞아요.
+[09:38.52]
+B | You are grinning and bearing it while that one difficult employee points out a major flaw in the product design, but in your head, you are just counting the seconds until they stop talking. | 까다로운 직원 하나가 제품 설계의 큰 결함을 지적하는 동안 웃으며 참고 있지만, 머릿속으로는 그 사람이 말을 멈출 때까지 초를 세고 있는 거죠.
+[09:47.18]
+A | Precisely. While finding a safe place for it means you are actively cultivating an environment where that pushback is expected. It's utilized. | 정확해요. 반면 안전한 자리를 마련한다는 건, 그런 반발이 당연히 기대되고 활용되는 환경을 적극적으로 가꾼다는 뜻이에요.
+[09:55.40]
+A | You are bringing those disagreements out into the open, putting them right on the table, and figuring out what can actually be built from them. | 그런 의견 충돌을 밖으로 꺼내서 바로 테이블 위에 올려놓고, 거기서 실제로 무엇을 지을 수 있는지 알아내는 거죠.
+[10:02.52]
+B | That makes sense. | 말이 되네요.
+[10:03.84]
+A | You basically transition from being a bouncer keeping trouble out to being a scientist in a laboratory who is absolutely thrilled to discover an anomaly in the data, because the anomaly is where the new discovery hides. | 말썽을 막는 경비원에서, 데이터에서 이상값을 발견하면 신나서 어쩔 줄 모르는 실험실의 과학자로 바뀌는 거예요. 새로운 발견은 바로 그 이상값 속에 숨어 있으니까요.
+[10:16.08]
+B | That is such a huge shift. | 엄청난 전환이네요.
+[10:18.66]
+A | Making that transition, you know, from obliterating dissent to providing a safe laboratory for it, that requires a profound rewiring of how we even measure professional success. | 반대 의견을 없애는 데서 그걸 위한 안전한 실험실을 마련하는 데로 바뀌려면, 직업적 성공을 재는 방식 자체를 깊이 바꿔야 해요.
+[10:28.92]
+B | It really does. | 정말 그래요.
+[10:30.02]
+A | It would mean HR departments rewarding managers not for the silence and compliance of their teams, but for the actual quality of the debates they generate. | 인사 부서가 관리자에게 팀의 침묵과 순종이 아니라, 그 팀이 만들어 내는 토론의 실제 질로 보상한다는 뜻이 되겠죠.
+[10:39.04]
+A | It would upend most traditional corporate hierarchies completely. | 그러면 대부분의 전통적인 기업 위계가 완전히 뒤집힐 거예요.
+## 교육 — 질문하는 아이는 교장실로
+[10:42.76]
+B | Which brings up a really crucial point, because if managers are struggling so much to handle dissent in adults, where do those adults learn to suppress their disagreements in the first place? | 그게 아주 중요한 점을 끄집어내요. 관리자들이 어른들의 반대 의견을 다루는 데 그렇게 애를 먹는다면, 그 어른들은 애초에 어디서 의견을 억누르는 법을 배웠을까요?
+[10:53.24]
+A | Yes, the origin of the problem. | 네, 문제의 근원이죠.
+[10:56.18]
+B | Right, because we are not magically born as obedient, agreeable corporate drones. | 맞아요. 우리는 순종적이고 친화적인 회사 일벌로 마법처럼 태어나는 게 아니니까요.
+[11:01.40]
+B | These attitudes, this deep-seated fear of causing friction, it's ingrained in us. It starts on day one of kindergarten. | 이런 태도, 마찰을 일으키는 데 대한 뿌리 깊은 두려움은 우리 안에 새겨진 거예요. 유치원 첫날부터 시작되죠.
+[11:07.80]
+A | It really does. | 정말 그래요.
+[11:09.00]
+A | Gladwell brings up this point about how we structure childhood education, and whether children are taught that it is okay sometimes to be rebellious or questioning or skeptical. | 글래드웰은 어린 시절 교육을 어떻게 짜는지, 그리고 아이들이 가끔은 반항하거나 질문하거나 의심해도 괜찮다고 배우는지에 대한 문제를 꺼내요.
+[11:18.56]
+A | Because education is the root of the entire behavioral system. | 교육이 행동 체계 전체의 뿌리니까요.
+[11:21.68]
+A | It is literally the manufacturing plant for the agreeable society. | 말 그대로 친화적인 사회를 찍어 내는 공장이에요.
+[11:25.40]
+B | Right. So as someone looking at the mechanics of this, how do you actually structure education to teach a kid to be skeptical without it just being labeled as bad behavior by the teacher? | 맞아요. 그럼 이 구조를 들여다보는 입장에서, 선생님이 그냥 나쁜 행동으로 낙인찍지 않게 하면서 아이에게 의심하는 법을 가르치려면 교육을 실제로 어떻게 짜야 할까요?
+[11:35.88]
+A | It's incredibly difficult. | 엄청 어려워요.
+[11:37.16]
+B | Because in my experience, a kid questioning the rules in a classroom is rarely celebrated as some future innovator. | 제 경험상, 교실에서 규칙에 의문을 던지는 아이가 미래의 혁신가로 칭찬받는 일은 드물거든요.
+[11:43.06]
+B | They are not told they're providing valuable friction. They are sent straight to the principal's office. | 가치 있는 마찰을 주고 있다는 말을 듣지 않아요. 곧장 교장실로 보내지죠.
+[11:49.02]
+A | That is the pivotal question. | 그게 핵심 질문이에요.
+[11:50.98]
+A | And it is where Gladwell's analysis takes a very sharp, very necessary turn into the reality of how society actually functions. | 그리고 바로 여기서 글래드웰의 분석은 사회가 실제로 어떻게 돌아가는지라는 현실로 아주 날카롭고 꼭 필요한 방향 전환을 해요.
+[11:58.44]
+A | Because it is not just about the curriculum or the structure of the education. It is about who the teacher is looking at. | 교육과정이나 교육 구조만의 문제가 아니라, 선생님이 누구를 보고 있느냐의 문제거든요.
+## 이중 잣대 — 누가 까다롭게 굴어도 되는가
+[12:05.02]
+B | Okay, tell me more about that. | 좋아요, 더 말해 주세요.
+[12:07.04]
+A | Gladwell points out that society's willingness to tolerate disruptive behavior is highly conditional. | 글래드웰은 판을 흔드는 행동을 참아 주려는 사회의 의지가 아주 조건적이라고 짚어요.
+[12:13.06]
+B | Conditional based on what? | 무엇에 따라 조건적인데요?
+[12:14.28]
+A | Conditional based on identity and power. | 정체성과 권력에 따라서요.
+[12:16.64]
+A | The source notes that we have a far greater willingness to tolerate disruptive, disagreeable behavior in people of our own kind, which in a broader societal context usually means the dominant majority. | 자료는 우리가 판을 흔드는 비친화적 행동을 '우리 쪽' 사람에게서 훨씬 더 잘 참아 준다고 해요. 더 넓은 사회적 맥락에서 그건 대개 지배적 다수를 뜻하죠.
+[12:29.76]
+B | Right. | 맞아요.
+[12:30.40]
+A | We tolerate it in them far more than we do in minorities or those who are historically powerless. | 소수자나 역사적으로 힘이 없던 사람들보다 그들에게서 훨씬 더 잘 참아 줘요.
+[12:35.94]
+B | Wow. Let's slow down and really look at the mechanics of this, | 와. 천천히 이 구조를 제대로 들여다봐요.
+[12:40.04]
+B | because when a kid from a privileged majority group challenges a teacher or refuses to do an assignment because they think it's stupid, it is often reframed, isn't it? | 특권을 가진 다수 집단의 아이가 선생님에게 맞서거나, 과제가 멍청하다고 생각해서 안 하겠다고 하면, 그게 종종 다르게 포장되잖아요?
+[12:50.70]
+A | Oh, absolutely. | 아, 물론이죠.
+[12:51.42]
+B | People say, "Oh, look at him. He's a free thinker. He's a little disruptor. He is showing leadership potential. He just needs to be challenged more." | 사람들은 '어머, 저 애 좀 봐. 자유로운 사고를 하네. 작은 혁신가야. 리더십 잠재력이 보여. 그냥 더 어려운 걸 줘야 해'라고 하죠.
+[12:58.70]
+A | Yep, they get the benefit of the doubt. | 네, 좋은 쪽으로 해석해 주는 거죠.
+[13:00.04]
+B | But when a minority kid, or a kid from a disadvantaged background, does the exact same behavior, it is immediately perceived as a threat. | 그런데 소수자 아이나 불리한 배경의 아이가 똑같은 행동을 하면, 곧바로 위협으로 받아들여져요.
+[13:08.16]
+B | It is labeled as insubordination, defiance, or just a strict disciplinary issue. | 불복종, 반항, 아니면 그냥 엄한 징계 문제로 낙인찍히죠.
+[13:14.10]
+A | To understand why this happens, we really have to look at implicit bias and systemic expectations. | 이런 일이 왜 일어나는지 이해하려면 암묵적 편견과 구조적 기대를 꼭 봐야 해요.
+[13:20.00]
+A | Historically, power structures have permitted certain demographics to push boundaries while demanding strict compliance from others. | 역사적으로 권력 구조는 특정 집단에는 선을 넘는 걸 허락하면서, 다른 집단에는 엄격한 순종을 요구해 왔어요.
+[13:26.98]
+A | A teacher, who is often operating under the immense stress of managing a massive classroom, relies on subconscious mental shortcuts to maintain order. | 큰 학급을 관리하느라 엄청난 스트레스 속에서 일하는 선생님은 질서를 유지하려고 무의식적인 정신적 지름길에 기대요.
+[13:34.82]
+B | Which makes sense. You're just trying to survive the day. | 이해돼요. 그날 하루를 버티려는 거니까요.
+[13:37.30]
+A | Exactly. But when a child from a historically empowered group questions a rule, the subconscious shortcut interprets it as quirky intelligence. | 바로 그거예요. 그런데 역사적으로 힘을 가진 집단의 아이가 규칙에 의문을 던지면, 그 무의식적 지름길은 그걸 독특한 지성으로 해석해요.
+[13:45.94]
+A | When a child from a marginalized group does it, the shortcut interprets it as danger. | 소외된 집단의 아이가 그러면, 그 지름길은 그걸 위험으로 해석하고요.
+[13:51.30]
+A | The exact same friction produces two entirely different societal reactions. | 똑같은 마찰이 완전히 다른 두 가지 사회적 반응을 낳는 거예요.
+[13:55.66]
+B | So if we connect this to the bigger picture, we are looking at a deeply embedded systemic double standard. | 그러니까 이걸 더 큰 그림과 연결하면, 깊이 박힌 구조적 이중 잣대를 보고 있는 거네요.
+[14:02.20]
+B | We claim, you know, in all our business books and our inspirational quotes on LinkedIn, that we want friction and innovation. | 우리는 온갖 비즈니스 책이랑 링크드인의 감동적인 명언에서 마찰과 혁신을 원한다고 말하잖아요.
+[14:08.66]
+A | Right. Move fast and break things. | 맞아요. 빠르게 움직이고 깨부숴라.
+[14:10.48]
+B | Exactly. But in reality, we only accept that friction from a very specific, privileged demographic. | 바로 그거예요. 하지만 실제로는 아주 특정한 특권층에게서만 그 마찰을 받아들여요.
+[14:17.16]
+B | We want rebels, but only if they look a certain way. | 반항아를 원하긴 하는데, 특정한 모습일 때만이죠.
+[14:19.76]
+A | And Gladwell outlines the devastating consequences of this double standard. | 그리고 글래드웰은 이 이중 잣대의 참담한 결과를 설명해요.
+[14:23.90]
+A | It leads directly to significantly higher levels of punitive action towards people in disadvantaged groups. | 불리한 집단 사람들에게 훨씬 더 많은 처벌로 곧장 이어지죠.
+[14:29.88]
+A | They are punished. They're suspended, or they're fired for the exact same behavior that might be celebrated as out-of-the-box thinking in someone with more societal power. | 그들은 벌을 받아요. 사회적 힘이 더 있는 사람이 하면 틀을 깨는 사고로 칭찬받을 바로 그 행동 때문에 정학을 당하거나 해고돼요.
+[14:38.66]
+B | And when you are constantly punished for something, you adapt. You learn the rules of the game if you want to survive. | 그리고 뭔가로 계속 벌을 받으면 적응하게 돼요. 살아남고 싶으면 게임의 규칙을 배우죠.
+[14:44.64]
+A | You have to. | 그래야만 하죠.
+[14:45.68]
+A | The source specifically notes that disadvantaged groups end up changing their behavior to meet those different, far stricter norms. | 자료는 불리한 집단이 결국 그 다른, 훨씬 엄격한 기준에 맞추려고 행동을 바꾸게 된다고 분명히 말해요.
+[14:54.00]
+A | They learn very early on that they simply cannot afford the luxury of being disagreeable. | 아주 일찍부터 비친화적으로 구는 사치를 누릴 형편이 안 된다는 걸 배워요.
+[14:59.32]
+B | The luxury of being disagreeable. That's a heavy thought. | 비친화적으로 구는 사치. 무거운 생각이네요.
+[15:04.22]
+A | The cost of providing that societal friction is simply too high for them to bear. | 그 사회적 마찰을 주는 대가가 그들이 감당하기엔 너무 큰 거예요.
+## 두 육상 선수 — 행동이냐, 성과냐
+[15:09.50]
+B | This brings up what I honestly found to be the most heartbreaking part of the source material, because the double standard doesn't just affect the individual in the moment. | 이게 솔직히 제가 자료에서 가장 가슴 아팠던 부분으로 이어져요. 이중 잣대는 그 순간의 개인에게만 영향을 주는 게 아니거든요.
+[15:17.40]
+A | Right. | 맞아요.
+[15:17.52]
+B | It creates this massive ripple effect that alters the entire trajectory of how families have to raise their children. | 가족이 아이를 키워야 하는 방식의 궤적 전체를 바꿔 놓는 거대한 파급 효과를 만들어요.
+[15:24.68]
+A | Gladwell contrasts the parenting styles that are essentially forced upon different groups because of this inequity. | 글래드웰은 이 불평등 때문에 서로 다른 집단에 사실상 강요되는 양육 방식을 대조해요.
+[15:30.18]
+A | He uses the example of African American parents in this country, who privilege good behavior in their children as the primary endpoint of childhood. | 이 나라(미국)의 아프리카계 미국인 부모의 예를 드는데, 그들은 아이의 바른 행동을 어린 시절의 가장 중요한 목표로 둬요.
+[15:37.80]
+A | The goal is to raise a child who is perfectly compliant, while in stark contrast, parents who are in the majority will privilege achievement and good performance as the primary endpoint for their children. | 완벽하게 순종적인 아이로 키우는 게 목표죠. 그와 극명하게 대조적으로, 다수 집단의 부모는 성취와 좋은 성과를 아이의 가장 중요한 목표로 둬요.
+[15:48.92]
+B | So what does this all mean? | 그럼 이게 다 무슨 뜻일까요?
+[15:50.70]
+B | Let me try to put this into an analogy to really clarify the sheer weight and the mental load of what we are talking about here. | 우리가 말하는 것의 무게와 정신적 부담을 제대로 보여 주려고 비유를 하나 들어 볼게요.
+[15:57.60]
+A | Okay, let's hear it. | 좋아요, 들어 봐요.
+[15:59.16]
+B | Imagine putting two runners on a track for a really high-stakes race. | 아주 중요한 경주를 위해 트랙에 선수 두 명을 세운다고 상상해 보세요.
+[16:02.04]
+B | One runner, representing the minority or disadvantaged child, has to focus entirely on having absolutely perfect, polite, flawless running form. | 소수자나 불리한 배경의 아이를 나타내는 한 선수는 완벽하고 공손하고 흠 없는 달리기 자세에만 온 신경을 써야 해요.
+[16:11.56]
+B | They have to make sure their elbows are tucked, their strides are perfectly measured, and they never step even a millimeter on the white line. | 팔꿈치를 몸에 붙이고, 보폭을 정확히 맞추고, 흰 선을 1밀리미터도 밟지 않도록 해야 하죠.
+[16:17.56]
+B | Their entire mental capacity is focused on not breaking a single rule, just to avoid being immediately disqualified by the judges. | 심판에게 바로 실격당하지 않으려고, 규칙을 하나도 어기지 않는 데 정신을 전부 쏟아요.
+[16:24.94]
+A | Because their primary goal isn't even to win. Their goal is just to not be thrown off the track entirely. | 그들의 첫째 목표는 이기는 것조차 아니니까요. 그냥 트랙에서 쫓겨나지 않는 게 목표예요.
+[16:30.18]
+B | Exactly. Now, the other runner, the child from the majority, is allowed to flail their arms, sprint wildly, weave in and out of the lane, bump into the hurdles, and run as messily as they want. | 바로 그거예요. 그런데 다른 선수, 다수 집단의 아이는 팔을 마구 휘젓고, 정신없이 질주하고, 레인을 들락날락하고, 허들에 부딪히고, 원하는 만큼 엉망으로 달려도 돼요.
+[16:40.82]
+A | Just total freedom. | 그냥 완전한 자유네요.
+[16:41.74]
+B | Total freedom. Their only focus is on running as fast as possible and winning the race. | 완전한 자유요. 그들은 최대한 빨리 달려서 경주에서 이기는 데만 집중해요.
+[16:46.40]
+B | The judges do not care about their messy form. They only care about their speed and their final time. | 심판은 그들의 엉망인 자세는 신경 쓰지 않아요. 속도와 최종 기록만 신경 쓰죠.
+[16:51.30]
+B | How can that first runner ever hope to compete, when all their energy is spent just trying to look agreeable to the judges? | 첫 번째 선수가 심판에게 친화적으로 보이려고 모든 에너지를 쓰는데, 어떻게 경쟁할 희망을 품을 수 있겠어요?
+[16:57.42]
+A | That track analogy perfectly captures the structural inequity Gladwell is highlighting. | 그 트랙 비유가 글래드웰이 짚는 구조적 불평등을 완벽하게 담아내요.
+[17:02.40]
+A | It is exhausting just to survive under those conditions. | 그런 조건에서는 살아남는 것만으로도 지쳐요.
+[17:07.02]
+A | And this leads directly to his ultimate conclusion, which is: you only get to privilege performance over behavior if you are in the group that is allowed to behave in unusual, disruptive, disagreeable ways. | 그리고 이게 곧장 그의 최종 결론으로 이어져요. 특이하고, 판을 흔들고, 비친화적으로 행동해도 되는 집단에 속해 있을 때만 행동보다 성과를 우선할 수 있다는 거예요.
+[17:19.50]
+B | The privilege of performance. That is such a heavy, powerful phrase. | 성과의 특권. 정말 무겁고 강력한 표현이에요.
+[17:23.66]
+B | I mean, it means you are granted the grace to be judged by the results you produce, rather than how politely or quietly you produce them. | 그러니까 얼마나 공손하게, 조용하게 해냈느냐가 아니라 내가 낸 결과로 평가받는 은혜를 받는다는 뜻이죠.
+[17:30.70]
+A | And if you do not have that privilege, your results, your intelligence, your innovation, your speed on that track, they almost do not matter if your behavior is not perfectly compliant with the rules of civility. | 그리고 그 특권이 없다면, 당신의 결과, 지성, 혁신, 트랙 위의 속도는 행동이 예의의 규칙에 완벽하게 맞지 않는 한 거의 중요하지 않아요.
+[17:43.70]
+B | Right. | 맞아요.
+[17:44.70]
+A | This raises an important question, and it is really the core thesis Gladwell leaves us to grapple with. | 이게 중요한 질문을 던져요. 그리고 그게 글래드웰이 우리에게 씨름하라고 남긴 핵심 주장이에요.
+[17:50.90]
+A | This double standard is a massive, unacknowledged source of inequity in modern life. | 이 이중 잣대는 현대 생활에서 인정받지 못한 거대한 불평등의 원천이에요.
+[17:56.52]
+A | We literally operate with these completely different rule books for people on the inside of the power structure versus people on the outside. | 우리는 말 그대로 권력 구조 안에 있는 사람과 밖에 있는 사람에게 완전히 다른 규칙집을 적용하며 살아요.
+[18:04.02]
+B | People on the inside get to be the brilliant, difficult, rule-breaking innovators. | 안에 있는 사람은 똑똑하고, 까다롭고, 규칙을 깨는 혁신가가 될 수 있어요.
+[18:09.46]
+B | They get to be the friction that actually moves the world forward, while people on the outside just have to survive by being agreeable, by trying not to make any sudden movements on that frictionless ice we talked about. | 세상을 실제로 앞으로 움직이는 마찰이 될 수 있죠. 반면 밖에 있는 사람은 친화적으로 굴면서, 아까 말한 그 마찰 없는 얼음 위에서 갑작스러운 움직임을 하지 않으려 애쓰며 그저 버텨야 해요.
+[18:21.48]
+A | It forces us to realize that being agreeable isn't always a personal choice or just some inherent personality trait. | 친화적이라는 게 늘 개인의 선택이거나 타고난 성격 특성인 건 아니라는 걸 깨닫게 해요.
+[18:29.05]
+A | For millions of people, it is a forced survival mechanism, demanded by a system that adamantly refuses to tolerate their friction. | 수백만 명에게 그건 그들의 마찰을 단호히 용납하지 않는 시스템이 요구하는, 강요된 생존 방식이에요.
+## 정리와 마지막 질문 — 누가 까다로워도 되는지 둘러보세요
+[18:36.84]
+B | Well, this has been quite the journey today. | 음, 오늘 정말 긴 여정이었네요.
+[18:40.16]
+B | We started out by recognizing the hidden, essential value of friction. | 마찰의 숨은, 꼭 필요한 가치를 알아보는 데서 시작했어요.
+[18:44.08]
+B | We looked at that vast monoculture crop and realized that a society obsessed with perfect civility is actually incredibly fragile and incapable of real progress. | 거대한 단일 작물 밭을 보면서, 완벽한 예의에 집착하는 사회는 사실 엄청나게 취약하고 진짜 진보를 할 수 없다는 걸 깨달았죠.
+[18:54.58]
+A | We did. And then we explored the modern workplace and talked about how we desperately need thick-skinned managers who don't act like nightclub bouncers, | 그랬죠. 그리고 현대의 일터를 살펴보면서, 나이트클럽 경비원처럼 굴지 않는 낯 두꺼운 관리자가 절실히 필요하다고 이야기했어요.
+[19:02.94]
+A | but instead operate like scientists, you know, creating safe laboratories for the messy, uncomfortable work of dissent. | 대신 과학자처럼, 반대 의견이라는 지저분하고 불편한 작업을 위한 안전한 실험실을 만드는 관리자요.
+[19:10.20]
+B | We basically established the baseline that disagreeableness is a necessary engine for societal and technological progress. | 우리는 비친화성이 사회와 기술 진보에 꼭 필요한 엔진이라는 기본 전제를 세웠어요.
+[19:17.26]
+B | Without it, we just stagnate. | 그게 없으면 그냥 정체되죠.
+[19:19.30]
+A | But then we uncovered this profound systemic inequity. | 그런데 그다음 깊은 구조적 불평등을 밝혀냈어요.
+[19:23.74]
+A | We realized that while society desperately needs this friction to survive and evolve, it actively punishes the powerless for providing it. | 사회는 살아남고 진화하려고 이 마찰을 절실히 필요로 하면서도, 그걸 주는 힘없는 사람들을 적극적으로 벌한다는 걸 깨달았죠.
+[19:31.70]
+B | We force disadvantaged groups to prioritize basic survival through good behavior, while handing a select majority the exclusive privilege of focusing on high performance, rule-breaking and disruptive innovation. | 불리한 집단에게는 바른 행동을 통한 기본적인 생존을 우선하라고 강요하고, 선택된 다수에게는 높은 성과, 규칙 깨기, 파괴적 혁신에 집중할 독점적 특권을 쥐여 주는 거예요.
+[19:42.98]
+A | It is an insight that completely reframes how we view workplace dynamics, how we judge classroom discipline, and even how we understand the vastly different priorities and parenting styles across different demographics. | 그건 직장의 역학을 보는 방식, 교실 징계를 판단하는 방식, 그리고 집단마다 크게 다른 우선순위와 양육 방식을 이해하는 방식까지 완전히 다시 보게 하는 통찰이에요.
+[19:54.28]
+B | It really does change the lens on everything. | 정말 모든 걸 보는 렌즈를 바꿔 놓네요.
+[19:56.82]
+A | So for you listening, I want to leave you with a challenge for your daily life. | 그래서 청취자 여러분께 일상을 위한 도전 과제를 하나 남기고 싶어요.
+[20:00.48]
+A | Next time you are in a boardroom, or a classroom, or even a community town hall, take a step back and really look around. | 다음에 회의실이나 교실, 아니면 동네 주민 회의에 있을 때, 한 발 물러서서 주위를 잘 둘러보세요.
+[20:07.62]
+A | Look closely at who is actually allowed to be difficult. | 실제로 누가 까다롭게 굴어도 되는지 자세히 보세요.
+[20:11.48]
+A | Who gets to push back on the boss, argue with the teacher, and be disagreeable without losing their standing or their job? | 누가 지위나 일자리를 잃지 않고 상사에게 반박하고, 선생님과 논쟁하고, 비친화적으로 굴 수 있나요?
+[20:18.48]
+A | And conversely, who is immediately punished, shushed, tone-policed, or labeled as a problem the very moment they stop being perfectly agreeable? | 그리고 반대로, 완벽하게 친화적이기를 멈추는 순간 누가 바로 벌을 받고, 입을 다물라는 말을 듣고, 말투를 지적당하고, 문제아로 낙인찍히나요?
+[20:27.44]
+B | And as you reflect on those dynamics in your own life, consider this final thought. | 그리고 여러분의 삶에서 그런 역학을 돌아보면서, 이 마지막 생각을 해 보세요.
+[20:31.04]
+B | If society's progress, our technological leaps and our cultural evolution, truly rely on the friction created by disagreeable people, | 만약 사회의 진보, 기술의 도약과 문화의 진화가 정말로 비친화적인 사람들이 만드는 마찰에 달려 있는데,
+[20:40.06]
+B | but our system only permits a specific, privileged majority to safely express that dissent, are we systematically locking away our greatest potential sources of innovation? | 우리 시스템이 특정한 특권층 다수에게만 그 반대 의견을 안전하게 표현하도록 허락한다면, 우리는 가장 큰 혁신의 원천들을 체계적으로 가둬 두고 있는 건 아닐까요?
+[20:50.00]
+B | If we force half the world to act as perfectly smooth, compliant cogs just to survive, we might be keeping the machine running, but we will never know what it was truly capable of building. | 세상의 절반에게 살아남으려면 완벽하게 매끄럽고 순종적인 톱니바퀴처럼 굴라고 강요한다면, 기계는 계속 돌아가겠지만 그 기계가 정말로 무엇을 지을 수 있었는지는 영영 모를 거예요.
