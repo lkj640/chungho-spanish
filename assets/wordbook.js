@@ -1,6 +1,6 @@
 // 스페인어 단어장(엑셀에서 옮김): wordbook/es.json
 // 단어 = [성별 관사, 스페인어, 영어 뜻, 품사, 레벨, (동사) 활용 20칸]
-// 활용 20칸: 현재분사, 과거분사, 현재 6, 단순과거 6, 불완료과거 6
+// 활용 32칸: 현재분사, 과거분사, 현재 6, 단순과거 6, 불완료과거 6, 현재완료 6, 단순미래 6
 (async () => {
   const { esc, store, say } = U;
   const $ = id => document.getElementById(id);
@@ -72,9 +72,9 @@
   const PER = ["yo", "tú", "él/ella/usted", "nosotros", "vosotros", "ellos/ustedes"];
   const conjTable = w => {
     const c = w.cj;
-    return `<div class="conj"><table lang="es"><tr><th></th><th>현재</th><th>단순과거</th><th>불완료과거</th></tr>
-      ${PER.map((p, j) => `<tr><th>${p}</th><td>${esc(c[2 + j])}</td><td>${esc(c[8 + j])}</td><td>${esc(c[14 + j])}</td></tr>`).join("")}
-      </table><p class="np">현재분사 <b lang="es">${esc(c[0])}</b> · 과거분사 <b lang="es">${esc(c[1])}</b></p></div>`;
+    return `<div class="conj"><table lang="es"><tr><th></th><th>현재</th><th>현재완료</th><th>단순과거</th><th>불완료과거</th><th>단순미래</th></tr>
+      ${PER.map((p, j) => `<tr><th>${p}</th><td>${esc(c[2 + j])}</td><td>${esc(c[20 + j] || "")}</td><td>${esc(c[8 + j])}</td><td>${esc(c[14 + j])}</td><td>${esc(c[26 + j] || "")}</td></tr>`).join("")}
+      </table><p class="np">현재분사 <b lang="es">${esc(c[0])}</b> · 과거분사 <b lang="es">${esc(c[1])}</b><span class="swipe"> · 표는 옆으로 밀면 더 보여요 →</span></p></div>`;
   };
   const tags = w => `<span class="tags">${w.pos.map(p => `<span class="chip">${esc(p)}</span>`).join("")}${w.lvl ? `<span class="chip yel"${w.est ? ' title="원본에 레벨이 없어 추정해 넣었어요"' : ""}>${esc(w.lvl)}${w.est ? " (추정)" : ""}</span>` : ""}</span>`;
 
