@@ -10,6 +10,7 @@
 
   const plain = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const W = D.words.map((a, i) => ({ i, g: a[0], w: a[1], en: a[2], pos: a[3] ? a[3].split(",") : [], lvl: a[4], cj: a[5] || null, ko: (D.ko || [])[i] || "" }));
+  for (const i of D.autoLvl || []) W[i].est = true; // 원본에 레벨이 없어서 추정해 넣은 단어
   W.forEach(w => { w.s = plain(`${w.w} ${w.en} ${w.ko}`); w.k = `${w.w}|${w.en}`; });
 
   const KK = "wb_es_known";
@@ -29,8 +30,9 @@
   const lvCount = l => W.filter(w => w.lvl === l).length;
   function drawLv() {
     $("lvls").innerHTML = `<button data-l="*" aria-pressed="${!selLv.size}">모든 레벨</button>` +
-      LV.map(l => `<button data-l="${l}" aria-pressed="${selLv.has(l)}">${lvName(l)} <small>${lvCount(l)}</small></button>`).join("");
+      LV.filter(l => lvCount(l)).map(l => `<button data-l="${l}" aria-pressed="${selLv.has(l)}">${lvName(l)} <small>${lvCount(l)}</small></button>`).join("");
   }
+  for (const l of [...selLv]) if (!lvCount(l)) selLv.delete(l);
   drawLv();
   $("lvls").onclick = e => {
     const b = e.target.closest("button"); if (!b) return;
@@ -74,7 +76,7 @@
       ${PER.map((p, j) => `<tr><th>${p}</th><td>${esc(c[2 + j])}</td><td>${esc(c[8 + j])}</td><td>${esc(c[14 + j])}</td></tr>`).join("")}
       </table><p class="np">현재분사 <b lang="es">${esc(c[0])}</b> · 과거분사 <b lang="es">${esc(c[1])}</b></p></div>`;
   };
-  const tags = w => `<span class="tags">${w.pos.map(p => `<span class="chip">${esc(p)}</span>`).join("")}${w.lvl ? `<span class="chip yel">${esc(w.lvl)}</span>` : ""}</span>`;
+  const tags = w => `<span class="tags">${w.pos.map(p => `<span class="chip">${esc(p)}</span>`).join("")}${w.lvl ? `<span class="chip yel"${w.est ? ' title="원본에 레벨이 없어 추정해 넣었어요"' : ""}>${esc(w.lvl)}${w.est ? " (추정)" : ""}</span>` : ""}</span>`;
 
   // ---------- 목록 ----------
   let limit = 100, open = new Set(), cur = [];
