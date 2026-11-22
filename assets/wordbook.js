@@ -9,8 +9,8 @@
   catch { $("lcount").textContent = "단어장을 불러오지 못했어요. 새로고침해 주세요."; return; }
 
   const plain = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-  const W = D.words.map((a, i) => ({ i, g: a[0], w: a[1], en: a[2], pos: a[3] ? a[3].split(",") : [], lvl: a[4], cj: a[5] || null }));
-  W.forEach(w => { w.s = plain(`${w.w} ${w.en}`); w.k = `${w.w}|${w.en}`; });
+  const W = D.words.map((a, i) => ({ i, g: a[0], w: a[1], en: a[2], pos: a[3] ? a[3].split(",") : [], lvl: a[4], cj: a[5] || null, ko: (D.ko || [])[i] || "" }));
+  W.forEach(w => { w.s = plain(`${w.w} ${w.en} ${w.ko}`); w.k = `${w.w}|${w.en}`; });
 
   const KK = "wb_es_known";
   const known = store.get(KK, {});
@@ -84,7 +84,7 @@
     $("vgrid").innerHTML = cur.length ? cur.slice(0, limit).map(w => `<div class="vcard${isKnown(w) ? " known" : ""}${open.has(w.i) ? " open" : ""}" data-i="${w.i}">
         <div><span class="w" lang="es">${art(w)}${esc(w.w)}</span>
           <button class="say" data-say="${w.i}" aria-label="발음 듣기">🔊</button>${tags(w)}
-          <div class="m">${esc(w.en)}</div></div>
+          <div class="m">${esc(w.ko || w.en)}</div>${w.ko ? `<div class="en">${esc(w.en)}</div>` : ""}</div>
         <div class="acts">${w.cj ? `<button class="k cj" data-cj="${w.i}">활용 ${open.has(w.i) ? "▴" : "▾"}</button>` : ""}
           <button class="k" data-k="${w.i}">${isKnown(w) ? "✓ 외움" : "외웠어요"}</button></div>
         ${w.cj && open.has(w.i) ? conjTable(w) : ""}
@@ -121,7 +121,7 @@
   }
   function nextCard() { card = deck.shift() || null; shown = false; showCard(); }
   const fword = w => `<div class="fw" lang="es">${art(w)}${esc(w.w)}</div>`;
-  const fmean = w => `<div class="fk">${esc(w.en)}</div>`;
+  const fmean = w => `<div class="fk">${esc(w.ko || w.en)}</div>${w.ko ? `<div class="en">${esc(w.en)}</div>` : ""}`;
   function showCard() {
     const cv = $("cv");
     if (!card) {

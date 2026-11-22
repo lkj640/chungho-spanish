@@ -23,6 +23,8 @@
   .conj th, .conj td { border: 1px solid var(--line); padding: 3px 8px; text-align: left; white-space: nowrap; }
   .conj th { background: var(--zebra); font-weight: 600; color: var(--mut); }
   .conj .np { margin: 4px 0 0; font-size: 13px; color: var(--mut); }
+  .vcard .en, .wbcard .en { color: var(--mut); font-size: 13px; }
+  body.cover .vcard:not(.open) .en { filter: blur(6px); }
   .wbcard { text-align: center; }
   .wbcard .fw .art { color: var(--mut); font-weight: 400; }
   .wbcard .meta { margin-top: 6px; }
@@ -41,7 +43,7 @@
 <div class="wrap">
   <div class="vstats" id="vstats"></div>
 
-  <input class="search" id="q" type="search" placeholder="스페인어·영어 뜻으로 찾기 (악센트 없이 써도 돼요)" style="margin:6px 0">
+  <input class="search" id="q" type="search" placeholder="스페인어·한국어·영어 뜻으로 찾기 (악센트 없이 써도 돼요)" style="margin:6px 0">
   <div class="wbf">
     <div class="lvls" id="lvls"></div>
   </div>
@@ -79,9 +81,9 @@
     </details>
   </section>
 
-  <footer>충호의 스페인어 단어장(엑셀, 4,389개)을 옮긴 거예요. 뜻은 원본의 영어 뜻 그대로예요. 🔊는 브라우저 음성으로 읽어요.</footer>
+  <footer>충호의 스페인어 단어장(엑셀, 4,389개)을 옮긴 거예요. 한국어 뜻은 스페인어 단어를 기준으로 새로 달았고, 영어 뜻은 원본 그대로예요. 🔊는 브라우저 음성으로 읽어요.</footer>
 </div>
 <script src="assets/common.js"></script>
-<script src="assets/wordbook.js?v=1"></script>
+<script src="assets/wordbook.js?v=2"></script>
 </body>
 </html>

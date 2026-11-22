@@ -22,7 +22,7 @@
   };
   // 언어별 단어장 (엑셀에서 옮긴 것)
   const BOOKS = {
-    es: { emoji: "📗", title: "스페인어 단어장 4,389개", desc: "A1~C2 레벨·품사별 찾기 · 동사 활용표 · 카드로 외우기", url: "wordbook.html" },
+    es: { emoji: "📗", title: "스페인어 단어장 4,389개", desc: "A1~C2 레벨·품사별 찾기 · 한국어·영어 뜻 · 동사 활용표 · 카드로 외우기", url: "wordbook.html" },
   };
   const card1 = x => `<a class="sitecard mat" href="${esc(x.url)}">
       <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>`;
