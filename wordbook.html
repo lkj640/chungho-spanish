@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>스페인어 단어장 · 충호의 어학 열공 사이트</title>
+<meta name="description" content="스페인어 단어 4,389개를 레벨·품사별로 찾아보고, 동사 활용표와 카드로 공부하는 단어장">
+<meta name="theme-color" content="#c8102e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📗</text></svg>">
+<link rel="stylesheet" href="assets/style.css?v=16">
+<style>
+  .wbf { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 8px 0; }
+  .wbf select { padding: 5px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); font-size: 13px; }
+  .lvls { display: flex; flex-wrap: wrap; gap: 4px; }
+  .lvls button { border: 1px solid var(--line); background: var(--bg); color: var(--fg); border-radius: 999px; padding: 3px 11px; font-size: 13px; cursor: pointer; }
+  .lvls button[aria-pressed="true"] { background: var(--hc); border-color: var(--hc); color: #fff; }
+  .vcard .art { color: var(--mut); font-weight: 400; margin-right: 4px; }
+  .vcard .tags { margin-left: 4px; }
+  .vcard .tags .chip { margin-right: 3px; }
+  .vcard .k.cj { margin-right: 0; }
+  .conj { grid-column: 1 / -1; overflow-x: auto; margin: 6px 0 4px; }
+  .conj table { border-collapse: collapse; font-size: 13.5px; min-width: 100%; }
+  .conj th, .conj td { border: 1px solid var(--line); padding: 3px 8px; text-align: left; white-space: nowrap; }
+  .conj th { background: var(--zebra); font-weight: 600; color: var(--mut); }
+  .conj .np { margin: 4px 0 0; font-size: 13px; color: var(--mut); }
+  .wbcard { text-align: center; }
+  .wbcard .fw .art { color: var(--mut); font-weight: 400; }
+  .wbcard .meta { margin-top: 6px; }
+  .wbcard .conj { text-align: left; }
+  .wbcard .rate2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; }
+  .wbcard .rate2 button { padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); font-size: 15px; cursor: pointer; }
+  .wbcard .rate2 .yes { border-color: var(--ok); color: var(--ok); }
+  .wbcard .rate2 .no { border-color: var(--yc); color: var(--yc); }
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <div class="row"><a class="back" href="./?lang=es">‹ 스페인어</a><div class="ttl">📗 스페인어 단어장</div></div>
+</div></div>
+
+<div class="wrap">
+  <div class="vstats" id="vstats"></div>
+
+  <input class="search" id="q" type="search" placeholder="스페인어·영어 뜻으로 찾기 (악센트 없이 써도 돼요)" style="margin:6px 0">
+  <div class="wbf">
+    <div class="lvls" id="lvls"></div>
+  </div>
+  <div class="wbf">
+    <select id="pos" aria-label="품사"></select>
+    <select id="st" aria-label="외운 단어">
+      <option value="all">전체</option><option value="new">아직 못 외운 단어</option><option value="known">외운 단어</option>
+    </select>
+    <select id="ord" aria-label="순서">
+      <option value="orig">원래 순서</option><option value="abc">알파벳순</option><option value="rnd">섞기</option>
+    </select>
+  </div>
+
+  <div class="vtools">
+    <div class="seg" id="mseg"><button data-m="list" aria-pressed="true">📋 단어 목록</button><button data-m="card" aria-pressed="false">🃏 카드로 외우기</button></div>
+    <label class="opts" style="margin:0" id="coverL"><input type="checkbox" id="optCover"> 뜻 가리기</label>
+  </div>
+  <p class="hint" id="lcount"></p>
+
+  <section id="pane-list">
+    <div class="vgrid" id="vgrid"></div>
+    <p style="text-align:center"><button class="btn" id="more" hidden>더 보기</button></p>
+  </section>
+
+  <section id="pane-card" hidden>
+    <div id="cv"></div>
+    <details class="srsopt">
+      <summary>⚙️ 카드 설정</summary>
+      <div class="optgrid">
+        <label>카드 앞면 <select id="oDir"><option value="f">스페인어 → 뜻</option><option value="b">뜻 → 스페인어</option></select></label>
+        <label><input type="checkbox" id="oSay"> 답을 볼 때 자동 발음</label>
+      </div>
+      <p class="hint">위에서 고른 레벨·품사·검색 조건에 맞는 단어만 카드로 나와요. 「알아요」를 누른 단어는 외운 단어로 표시되고, 「몰라요」는 몇 장 뒤에 다시 나와요.
+        기록은 이 기기의 브라우저에 저장돼요.</p>
+    </details>
+  </section>
+
+  <footer>충호의 스페인어 단어장(엑셀, 4,389개)을 옮긴 거예요. 뜻은 원본의 영어 뜻 그대로예요. 🔊는 브라우저 음성으로 읽어요.</footer>
+</div>
+<script src="assets/common.js"></script>
+<script src="assets/wordbook.js?v=1"></script>
+</body>
+</html>

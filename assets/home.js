@@ -20,8 +20,13 @@
     zh: { emoji: "📂", title: "원어민 중국어 회화 공부 자료실", desc: "2025년 10월부터 모은 대화문·대본·녹음 38회 · 병음으로 읽기 · 유튜브 영상", url: "materials.html" },
     es: { emoji: "📂", title: "스페인어 공부 자료실", desc: "유튜브 팟캐스트 대본 40편 · A1 · A2 · B1 레벨별 · 원본 영상", url: "materials.html?lang=es" },
   };
-  const matCard = code => { const x = MATS[code]; return x ? `<a class="sitecard mat" href="${esc(x.url)}">
-      <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>` : ""; };
+  // 언어별 단어장 (엑셀에서 옮긴 것)
+  const BOOKS = {
+    es: { emoji: "📗", title: "스페인어 단어장 4,389개", desc: "A1~C2 레벨·품사별 찾기 · 동사 활용표 · 카드로 외우기", url: "wordbook.html" },
+  };
+  const card1 = x => `<a class="sitecard mat" href="${esc(x.url)}">
+      <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>`;
+  const matCard = code => (BOOKS[code] ? card1(BOOKS[code]) : "") + (MATS[code] ? card1(MATS[code]) : "");
   // 통합 단어장 카드: 오늘 복습할 단어 수(이 기기 기록)를 함께 보여줘요
   const srs = store.get("srs", {});
   const todayN = (d => Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5))(new Date());
