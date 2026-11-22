@@ -364,7 +364,9 @@ def main():
 def build_vocab(index):
     """전체 강의의 단어를 언어별로 모아 vocab/<언어>.json 으로 (통합 단어장·복습용)
     같은 단어가 여러 강의에 나오면 처음 나온 강의 기준으로 하나만 두고, 나온 강의를 모두 적어요.
-    여기 없는 새 강의(vocab/를 커밋하지 않은 경우)는 vocab.html이 그 강의의 meta.json을 직접 읽어 채워요."""
+    여기 없는 새 강의(vocab/를 커밋하지 않은 경우)는 vocab.html이 그 강의의 meta.json을 직접 읽어 채워요.
+    스페인어는 wordbook.html(엑셀 단어장 wordbook/es.json)이 vocab/es.json과 새 강의 meta.json을 읽어
+    엑셀 단어와 합치고(같은 단어면 예문·강의 연결), 없는 단어는 「강의」 단어로 넣어요 — 새 강의 단어가 자동으로 들어가요."""
     out = {}
     for item in sorted(index, key=lambda x: (x["date"], len(x["id"]), x["id"])):
         meta = json.loads((LESSONS / item["id"] / "meta.json").read_text(encoding="utf-8"))

@@ -27,6 +27,7 @@
   .conj .np { margin: 4px 0 0; font-size: 13px; color: var(--mut); }
   .vcard .en, .wbcard .en { color: var(--mut); font-size: 13px; }
   body.cover .vcard:not(.open) .en { filter: blur(6px); }
+  .vcard .x a { color: inherit; }
   .wbcard { text-align: center; }
   .wbcard .fw .art { color: var(--mut); font-weight: 400; }
   .wbcard .meta { margin-top: 6px; }
@@ -51,16 +52,20 @@
   </div>
   <div class="wbf">
     <select id="pos" aria-label="품사"></select>
+    <select id="src" aria-label="출처">
+      <option value="all">모든 단어</option><option value="lesson">강의에 나온 단어</option><option value="book">엑셀 단어장 단어</option>
+    </select>
     <select id="st" aria-label="외운 단어">
       <option value="all">전체</option><option value="new">아직 못 외운 단어</option><option value="known">외운 단어</option>
     </select>
     <select id="ord" aria-label="순서">
-      <option value="orig">원래 순서</option><option value="abc">알파벳순</option><option value="rnd">섞기</option>
+      <option value="orig">원래 순서</option><option value="recent">최근 강의 단어부터</option><option value="abc">알파벳순</option><option value="rnd">섞기</option>
     </select>
   </div>
+  <p class="hint" id="scope"></p>
 
   <div class="vtools">
-    <div class="seg" id="mseg"><button data-m="list" aria-pressed="true">📋 단어 목록</button><button data-m="card" aria-pressed="false">🃏 카드로 외우기</button></div>
+    <div class="seg" id="mseg"><button data-m="review" aria-pressed="false">🔁 오늘 복습</button><button data-m="list" aria-pressed="true">📋 단어 목록</button></div>
     <label class="opts" style="margin:0" id="coverL"><input type="checkbox" id="optCover"> 뜻 가리기</label>
   </div>
   <p class="hint" id="lcount"></p>
@@ -70,22 +75,25 @@
     <p style="text-align:center"><button class="btn" id="more" hidden>더 보기</button></p>
   </section>
 
-  <section id="pane-card" hidden>
-    <div id="cv"></div>
+  <section id="pane-review" hidden>
+    <div id="rv"></div>
     <details class="srsopt">
-      <summary>⚙️ 카드 설정</summary>
+      <summary>⚙️ 복습 설정</summary>
       <div class="optgrid">
         <label>카드 앞면 <select id="oDir"><option value="f">스페인어 → 뜻</option><option value="b">뜻 → 스페인어</option></select></label>
+        <label>하루 새 단어 <select id="oNew"><option>5</option><option>10</option><option>20</option><option>30</option><option>50</option></select>개</label>
+        <label>새 단어 순서 <select id="oOrd"><option value="new">최근 강의 단어부터</option><option value="old">오래된 강의 단어부터</option><option value="book">단어장 순서대로</option></select></label>
         <label><input type="checkbox" id="oSay"> 답을 볼 때 자동 발음</label>
       </div>
-      <p class="hint">위에서 고른 레벨·품사·검색 조건에 맞는 단어만 카드로 나와요. 「알아요」를 누른 단어는 외운 단어로 표시되고, 「몰라요」는 몇 장 뒤에 다시 나와요.
-        기록은 이 기기의 브라우저에 저장돼요.</p>
+      <p class="hint">간격 반복: 맞힌 단어는 1일 → 3일 → 1주 → 3주…처럼 점점 늦게, 틀린 단어는 바로 다시 나와요.
+        복습할 단어는 조건과 상관없이 모두 나오고, 새 단어는 위에서 고른 레벨·품사·출처·검색 조건에 맞는 단어에서 나와요(강의 단어 먼저).
+        「외웠어요」를 누른 단어는 새 단어에서 빠져요. 기록은 이 기기의 브라우저에 저장돼요(아이폰·맥은 따로 기록돼요).</p>
     </details>
   </section>
 
-  <footer>충호의 스페인어 단어장(엑셀, 4,389개)을 옮긴 거예요. 한국어 뜻은 스페인어 단어를 기준으로 새로 달았고, 영어 뜻은 원본 그대로예요. 「(추정)」 레벨은 원본에 레벨이 없던 147개 단어에 새로 정한 거예요. 🔊는 브라우저 음성으로 읽어요.</footer>
+  <footer>충호의 스페인어 단어장(엑셀, 4,389개)에 강의 단어장의 단어를 합친 거예요. 새 강의를 올리면 그 강의 단어가 자동으로 들어와요. 한국어 뜻은 스페인어 단어를 기준으로 새로 달았고, 영어 뜻은 원본 그대로예요. 「(추정)」 레벨은 원본에 레벨이 없던 147개 단어에 새로 정한 거예요. 🔊는 브라우저 음성으로 읽어요.</footer>
 </div>
 <script src="assets/common.js"></script>
-<script src="assets/wordbook.js?v=4"></script>
+<script src="assets/wordbook.js?v=6"></script>
 </body>
 </html>
