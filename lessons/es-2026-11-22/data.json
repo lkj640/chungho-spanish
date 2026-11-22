@@ -1,0 +1,2004 @@
+{
+ "id": "es-2026-11-22",
+ "lang": "es",
+ "date": "2026-11-22",
+ "title": "행복의 심리학 — 행복은 목적지가 아니라 키워 가는 습관",
+ "es": "La felicidad no es un destino, es un camino.",
+ "emoji": "😊",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "The Psychology of Happiness (B1) | Learn español with Podcast | episode 74",
+ "youtube": "YgiABjwxyMo",
+ "duration": "19:10",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 〈행복의 지도〉라는 이름으로 행복의 심리학을 이야기해요. 행복은 끊임없는 들뜸이 아니라 삶의 만족과 긍정 감정의 빈도라는 정의, 돈과 소유·타고난 성격에 대한 오해, 셀리그먼의 50-10-40 공식, 그리고 감사·마음챙김·관계·삶의 목적·베풀기·몰입 같은 40% 의도적 활동과 부정적 감정·회복탄력성까지 B1 수준의 추상 어휘를 듣고 따라 말하기 좋은 대화예요.",
+ "topics": [
+  "행복의 정의: satisfacción con la vida · emociones positivas · bienestar subjetivo",
+  "흔한 오해: el dinero da la felicidad · tenerlo todo · un rasgo fijo",
+  "행복 공식: 50% genética · 10% circunstancias · 40% actividades intencionales",
+  "실천법: gratitud · atención plena · relaciones sociales · propósito · ayudar a los demás",
+  "부정적 감정과 resiliencia · el estado de flujo (flow)",
+  "문법: 접속법 현재(sea, esté) · 수동의 se · tener que + 동사원형 · una vez que · 비교 표현"
+ ],
+ "grammar": [
+  {
+   "title": "① ser vs estar — 행복은 ‘상태’ (estar feliz) vs ‘성격·본질’ (ser)",
+   "lead": "<b>estar</b>는 일시적 상태·기분, <b>ser</b>는 정의와 본질에 써요. 행복에 대해 말할 때 두 동사가 계속 나와요.",
+   "examples": [
+    [
+     "La felicidad no es solo un estado de euforia constante.",
+     "행복은 끊임없는 들뜸 상태만이 아니에요. (정의 → ser)"
+    ],
+    [
+     "Es una trampa.",
+     "그건 함정이에요. (본질 → ser)"
+    ],
+    [
+     "No siempre debemos estar sonriendo.",
+     "우리는 항상 웃고 있어야 하는 건 아니에요. (estar + 현재분사)"
+    ],
+    [
+     "Cuando me siento aislado, mi estado de ánimo decae.",
+     "고립감을 느끼면 기분이 가라앉아요."
+    ]
+   ],
+   "tip": "estar feliz = 지금 행복하다 / ser feliz = 행복한 사람이다(성향). 둘 다 ‘feliz’지만 뉘앙스가 달라요."
+  },
+  {
+   "title": "② 현재분사 estar + -ando/-iendo — 진행 중인 동작",
+   "lead": "<b>-ar → -ando</b>, <b>-er/-ir → -iendo</b>. 지금 진행 중이거나 계속되는 동작을 나타내요.",
+   "table": {
+    "head": [
+     "동사원형",
+     "현재분사",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "sonreír",
+      "sonriendo",
+      "웃으면서"
+     ],
+     [
+      "pintar",
+      "pintando",
+      "그리면서"
+     ],
+     [
+      "tocar",
+      "tocando",
+      "연주하면서"
+     ],
+     [
+      "leer",
+      "leyendo",
+      "읽으면서"
+     ],
+     [
+      "hacer",
+      "haciendo",
+      "하면서"
+     ],
+     [
+      "pensar",
+      "pensando",
+      "생각하면서"
+     ],
+     [
+      "preocuparse",
+      "preocupándose",
+      "걱정하면서"
+     ]
+    ]
+   },
+   "tip": "Mi mente tiende a divagar pensando en el pasado — 현재분사는 ‘~하면서’ 처럼 동시 동작에도 써요."
+  },
+  {
+   "title": "③ 접속법 현재 — 가능성·희망·감정·의견 부정 뒤",
+   "lead": "<b>no creo que</b>, <b>es importante que</b>, <b>espero que</b> 뒤에는 접속법이 와요. -ar 동사는 <b>-e</b>, -er/-ir 동사는 <b>-a</b> 어미.",
+   "examples": [
+    [
+     "No creo que sea el factor determinante.",
+     "그것이 결정적인 요인이라고는 생각하지 않아요. (ser → sea)"
+    ],
+    [
+     "Espero que nuestros oyentes también se sientan inspirados.",
+     "청취자 여러분도 영감을 받으셨으면 좋겠어요. (sentirse → sientan)"
+    ],
+    [
+     "Es importante que uses las redes con moderación.",
+     "SNS를 적당히 쓰는 것이 중요해요. (usar → uses)"
+    ],
+    [
+     "Cuando sientes que tu vida tiene un propósito…",
+     "삶에 목적이 있다고 느낄 때… (확실한 사실이라 직설법)"
+    ]
+   ],
+   "tip": "‘생각한다’(creo que)는 직설법, ‘생각하지 않는다’(no creo que)는 접속법이에요."
+  },
+  {
+   "title": "④ 수동의 se — 행위자를 말하지 않을 때",
+   "lead": "<b>se + 3인칭 동사</b>로 ‘~된다/~해진다’를 표현해요. 주어가 복수면 동사도 복수.",
+   "examples": [
+    [
+     "Se nos vende la idea de que siempre debemos sonreír.",
+     "우리는 항상 웃어야 한다는 생각을 강요받아요."
+    ],
+    [
+     "Se activa el circuito de recompensa en el cerebro.",
+     "뇌의 보상 회로가 활성화돼요."
+    ],
+    [
+     "Eso se aprende y se desarrolla.",
+     "그건 배우고 발달시키는 거예요."
+    ],
+    [
+     "Se trata de observar tus pensamientos.",
+     "생각을 관찰하는 것이 핵심이에요. (se trata de = ~이 중요하다/~에 관한 것이다)"
+    ]
+   ],
+   "tip": "¿Se aprende o se nace con ella? — ‘배우는 건가, 타고나는 건가’처럼 일반론을 말할 때 아주 자주 써요."
+  },
+  {
+   "title": "⑤ 비교 표현 — más … que / menos … que / tanto … como",
+   "lead": "<b>más/menos + 형용사·명사 + que</b>로 비교해요. 같은 정도는 <b>tan … como</b>, <b>tanto … como</b>.",
+   "examples": [
+    [
+     "Mucho más un estado interno que una colección de cosas.",
+     "물건의 모음이라기보다 훨씬 더 내면의 상태예요."
+    ],
+    [
+     "Personas con fuertes lazos sociales son más felices y viven más tiempo.",
+     "사회적 유대가 강한 사람이 더 행복하고 더 오래 살아요."
+    ],
+    [
+     "No parecen ser más felices que otras con menos.",
+     "덜 가진 사람보다 더 행복해 보이지 않아요."
+    ],
+    [
+     "¿Realmente tiene un impacto tan grande?",
+     "정말 그렇게 큰 영향이 있나요? (tan + 형용사)"
+    ]
+   ],
+   "tip": "mejor/peor, mayor/menor는 불규칙 비교급이에요."
+  },
+  {
+   "title": "⑥ 접속·연결 표현 — 논리를 이어 주는 말",
+   "lead": "생각을 매끄럽게 이어 주는 연결어를 익혀 두면 B1에서 B2로 넘어갈 때 큰 도움이 돼요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "sin embargo",
+      "그럼에도, 하지만",
+      "…lo tienen todo y, sin embargo, no parecen ser más felices."
+     ],
+     [
+      "de hecho",
+      "사실, 실제로",
+      "De hecho, son vitales para nuestro crecimiento."
+     ],
+     [
+      "es más bien",
+      "오히려 ~이다",
+      "Es más bien una combinación de satisfacción…"
+     ],
+     [
+      "por un lado… por otro",
+      "한편으로는… 다른 한편으로는",
+      "Por un lado, el componente afectivo…"
+     ],
+     [
+      "a medida que",
+      "~함에 따라",
+      "…a medida que ocurren."
+     ],
+     [
+      "una vez que",
+      "일단 ~하면",
+      "Una vez que tus necesidades básicas están cubiertas…"
+     ],
+     [
+      "a partir de",
+      "~부터",
+      "un umbral a partir del cual más dinero no te hace más feliz"
+     ]
+    ]
+   },
+   "tip": "sin embargo는 문장 중간에 콤마 사이에 끼워 넣을 수도 있어요."
+  },
+  {
+   "title": "⑦ 비율·퍼센트 말하기 — un 50% de …",
+   "lead": "<b>un + 숫자 + por ciento (%) + de + 명사</b>. 영어와 달리 앞에 관사 un을 붙이는 경우가 많아요. 동사는 뒤 명사 수에 일치시켜도 돼요.",
+   "examples": [
+    [
+     "Un 50% de genética, un 10% de circunstancias y un 40% de actividades intencionales.",
+     "유전 50%, 환경 10%, 의도적 활동 40%."
+    ],
+    [
+     "El 40% de nuestra felicidad proviene de actividades intencionales.",
+     "우리 행복의 40%는 의도적인 활동에서 나와요."
+    ],
+    [
+     "La mayor parte de nuestra felicidad está bajo nuestro control.",
+     "우리 행복의 대부분은 우리 통제 아래에 있어요."
+    ],
+    [
+     "Hay varias prácticas respaldadas por la investigación.",
+     "연구로 뒷받침되는 여러 실천이 있어요."
+    ]
+   ],
+   "tip": "la mayor parte de(대부분), la mitad de(절반), una minoría de(소수) 같은 표현도 같이 외워 두세요."
+  }
+ ],
+ "phrases": [
+  [
+   "La felicidad no es un destino, es un camino.",
+   "행복은 목적지가 아니라 여정이에요."
+  ],
+  [
+   "La vida tiene altibajos.",
+   "삶에는 기복이 있어요."
+  ],
+  [
+   "El dinero no da la felicidad.",
+   "돈이 행복을 주는 건 아니에요."
+  ],
+  [
+   "Eso me resuena mucho.",
+   "그 말에 정말 공감해요."
+  ],
+  [
+   "No tiene que ser un cambio drástico de la noche a la mañana.",
+   "하룻밤 사이에 극적으로 바뀔 필요는 없어요."
+  ],
+  [
+   "Es una espada de doble filo.",
+   "그건 양날의 검이에요."
+  ],
+  [
+   "Se trata de observar tus pensamientos tal como son.",
+   "생각을 있는 그대로 관찰하는 게 핵심이에요."
+  ],
+  [
+   "Empieza pequeño y da pequeños pasos consistentes.",
+   "작게 시작하고 꾸준히 작은 걸음을 내딛어요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la felicidad",
+   "ko": "행복",
+   "ex": "La felicidad es un camino, no un destino.",
+   "exKo": "행복은 목적지가 아니라 길이에요."
+  },
+  {
+   "es": "el bienestar",
+   "ko": "안녕감, 복지",
+   "ex": "El bienestar duradero requiere práctica.",
+   "exKo": "오래가는 안녕감에는 연습이 필요해요."
+  },
+  {
+   "es": "elusivo",
+   "ko": "잡기 어려운, 모호한",
+   "ex": "A menudo pensamos en la felicidad como algo elusivo.",
+   "exKo": "우리는 행복을 잡기 어려운 것으로 생각하곤 해요."
+  },
+  {
+   "es": "el destino",
+   "ko": "목적지, 운명",
+   "ex": "Muchos ven la felicidad como un destino.",
+   "exKo": "많은 사람이 행복을 목적지로 봐요."
+  },
+  {
+   "es": "la euforia",
+   "ko": "도취, 극도의 흥분",
+   "ex": "La felicidad no es una euforia constante.",
+   "exKo": "행복은 끊임없는 도취가 아니에요."
+  },
+  {
+   "es": "la satisfacción",
+   "ko": "만족",
+   "ex": "Hay satisfacción con la vida en general.",
+   "exKo": "삶 전반에 대한 만족이 있어요."
+  },
+  {
+   "es": "duradero/a",
+   "ko": "오래가는",
+   "ex": "Buscamos una alegría duradera.",
+   "exKo": "우리는 오래가는 기쁨을 찾아요."
+  },
+  {
+   "es": "el componente",
+   "ko": "구성 요소",
+   "ex": "Hay dos componentes principales.",
+   "exKo": "두 가지 주요 요소가 있어요."
+  },
+  {
+   "es": "subjetivo/a",
+   "ko": "주관적인",
+   "ex": "El bienestar subjetivo tiene dos partes.",
+   "exKo": "주관적 안녕감에는 두 부분이 있어요."
+  },
+  {
+   "es": "la ausencia",
+   "ko": "없음, 부재",
+   "ex": "La felicidad no es la ausencia de tristeza.",
+   "exKo": "행복은 슬픔이 없는 게 아니에요."
+  },
+  {
+   "es": "la evaluación",
+   "ko": "평가",
+   "ex": "Es la evaluación de nuestra propia vida.",
+   "exKo": "우리 삶에 대한 평가예요."
+  },
+  {
+   "es": "superar",
+   "ko": "극복하다",
+   "ex": "Debemos superar los desafíos.",
+   "exKo": "우리는 어려움을 극복해야 해요."
+  },
+  {
+   "es": "el desafío",
+   "ko": "도전, 어려움",
+   "ex": "Cada desafío te hace más fuerte.",
+   "exKo": "모든 어려움이 너를 더 강하게 해요."
+  },
+  {
+   "es": "la culpa",
+   "ko": "죄책감",
+   "ex": "La presión genera culpa.",
+   "exKo": "압박은 죄책감을 낳아요."
+  },
+  {
+   "es": "el obstáculo",
+   "ko": "장애물",
+   "ex": "Esa expectativa es un obstáculo.",
+   "exKo": "그 기대는 걸림돌이에요."
+  },
+  {
+   "es": "el mito",
+   "ko": "미신, 오해",
+   "ex": "Hablemos de los mitos sobre la felicidad.",
+   "exKo": "행복에 대한 오해를 이야기해 봐요."
+  },
+  {
+   "es": "erróneo/a",
+   "ko": "잘못된",
+   "ex": "Hay creencias erróneas muy comunes.",
+   "exKo": "아주 흔한 잘못된 믿음이 있어요."
+  },
+  {
+   "es": "la comodidad",
+   "ko": "편안함",
+   "ex": "El dinero compra comodidad y seguridad.",
+   "exKo": "돈은 편안함과 안정을 사요."
+  },
+  {
+   "es": "el factor determinante",
+   "ko": "결정적 요인",
+   "ex": "El dinero no es el factor determinante.",
+   "exKo": "돈이 결정적인 요인은 아니에요."
+  },
+  {
+   "es": "la necesidad básica",
+   "ko": "기본 욕구",
+   "ex": "Tus necesidades básicas están cubiertas.",
+   "exKo": "기본 욕구가 채워져 있어요."
+  },
+  {
+   "es": "los ingresos",
+   "ko": "소득, 수입",
+   "ex": "Un aumento en los ingresos tiene poco impacto.",
+   "exKo": "소득 증가는 영향이 작아요."
+  },
+  {
+   "es": "decreciente",
+   "ko": "줄어드는",
+   "ex": "El impacto es decreciente.",
+   "exKo": "영향이 점점 줄어들어요."
+  },
+  {
+   "es": "el umbral",
+   "ko": "문턱, 기준선",
+   "ex": "Hay un umbral a partir del cual más dinero no ayuda.",
+   "exKo": "그 이상은 돈이 더 있어도 도움이 안 되는 문턱이 있어요."
+  },
+  {
+   "es": "acumular",
+   "ko": "쌓다, 모으다",
+   "ex": "Mucha gente quiere acumular más y más.",
+   "exKo": "많은 사람이 더 많이 모으려고 해요."
+  },
+  {
+   "es": "la plenitud",
+   "ko": "충만함",
+   "ex": "Piensan que así encontrarán la plenitud.",
+   "exKo": "그러면 충만함을 찾을 거라 생각해요."
+  },
+  {
+   "es": "la cinta de correr",
+   "ko": "러닝머신",
+   "ex": "La cinta de correr edónica nunca para.",
+   "exKo": "쾌락의 쳇바퀴는 멈추지 않아요."
+  },
+  {
+   "es": "adaptarse",
+   "ko": "적응하다",
+   "ex": "Te adaptas a tu nuevo nivel de ingresos.",
+   "exKo": "새 소득 수준에 적응해요."
+  },
+  {
+   "es": "la posesión",
+   "ko": "소유물",
+   "ex": "La felicidad no se basa en posesiones.",
+   "exKo": "행복은 소유물에 바탕을 두지 않아요."
+  },
+  {
+   "es": "el logro",
+   "ko": "성취",
+   "ex": "Los logros externos no bastan.",
+   "exKo": "외적 성취만으로는 부족해요."
+  },
+  {
+   "es": "agudo/a",
+   "ko": "예리한",
+   "ex": "Es una observación muy aguda.",
+   "exKo": "아주 예리한 관찰이에요."
+  },
+  {
+   "es": "el rasgo",
+   "ko": "특성",
+   "ex": "No es un rasgo de personalidad fijo.",
+   "exKo": "고정된 성격 특성이 아니에요."
+  },
+  {
+   "es": "la predisposición",
+   "ko": "성향, 소질",
+   "ex": "Hay una predisposición genética.",
+   "exKo": "유전적 성향이 있어요."
+  },
+  {
+   "es": "predestinado/a",
+   "ko": "운명 지어진",
+   "ex": "No estamos predestinados a ser infelices.",
+   "exKo": "우리는 불행하도록 운명 지어져 있지 않아요."
+  },
+  {
+   "es": "intencional",
+   "ko": "의도적인",
+   "ex": "El 40% son actividades intencionales.",
+   "exKo": "40%는 의도적인 활동이에요."
+  },
+  {
+   "es": "cultivar",
+   "ko": "키우다, 가꾸다",
+   "ex": "Podemos cultivar la felicidad.",
+   "exKo": "우리는 행복을 키울 수 있어요."
+  },
+  {
+   "es": "respaldado/a",
+   "ko": "뒷받침되는",
+   "ex": "Son prácticas respaldadas por la investigación.",
+   "exKo": "연구로 뒷받침되는 실천이에요."
+  },
+  {
+   "es": "la gratitud",
+   "ko": "감사",
+   "ex": "La gratitud cambia tu perspectiva.",
+   "exKo": "감사는 관점을 바꿔요."
+  },
+  {
+   "es": "agradecido/a",
+   "ko": "고마워하는",
+   "ex": "Piensa en cosas por las que estás agradecido.",
+   "exKo": "고마운 일들을 떠올려 보세요."
+  },
+  {
+   "es": "la atención plena",
+   "ko": "마음챙김",
+   "ex": "La atención plena reduce el estrés.",
+   "exKo": "마음챙김은 스트레스를 줄여요."
+  },
+  {
+   "es": "juzgar",
+   "ko": "판단하다",
+   "ex": "Observa tus pensamientos sin juzgar.",
+   "exKo": "판단하지 말고 생각을 관찰하세요."
+  },
+  {
+   "es": "divagar",
+   "ko": "딴 데로 흐르다",
+   "ex": "Mi mente tiende a divagar.",
+   "exKo": "제 마음은 딴 데로 흐르는 경향이 있어요."
+  },
+  {
+   "es": "saborear",
+   "ko": "음미하다",
+   "ex": "Es como saborear cada momento.",
+   "exKo": "순간순간을 음미하는 거예요."
+  },
+  {
+   "es": "el lazo",
+   "ko": "유대, 끈",
+   "ex": "Las personas con fuertes lazos sociales son más felices.",
+   "exKo": "유대가 강한 사람이 더 행복해요."
+  },
+  {
+   "es": "la espada de doble filo",
+   "ko": "양날의 검",
+   "ex": "Las redes sociales son una espada de doble filo.",
+   "exKo": "SNS는 양날의 검이에요."
+  },
+  {
+   "es": "el propósito",
+   "ko": "목적",
+   "ex": "Encontrar un propósito da sentido a la vida.",
+   "exKo": "목적을 찾으면 삶에 의미가 생겨요."
+  },
+  {
+   "es": "manejable",
+   "ko": "감당할 수 있는",
+   "ex": "Los desafíos se vuelven más manejables.",
+   "exKo": "어려움이 더 감당할 만해져요."
+  },
+  {
+   "es": "el faro",
+   "ko": "등대",
+   "ex": "Es como tener un faro que te guía.",
+   "exKo": "길을 안내하는 등대 같아요."
+  },
+  {
+   "es": "la recompensa",
+   "ko": "보상",
+   "ex": "Se activa el circuito de recompensa.",
+   "exKo": "보상 회로가 활성화돼요."
+  },
+  {
+   "es": "suprimir",
+   "ko": "억누르다",
+   "ex": "Intentar suprimir las emociones es contraproducente.",
+   "exKo": "감정을 억누르려는 건 역효과예요."
+  },
+  {
+   "es": "contraproducente",
+   "ko": "역효과를 내는",
+   "ex": "Ignorarlas es contraproducente.",
+   "exKo": "무시하는 건 역효과예요."
+  },
+  {
+   "es": "la ira",
+   "ko": "분노",
+   "ex": "La ira señala que se cruzó un límite.",
+   "exKo": "분노는 경계가 침범당했음을 알려요."
+  },
+  {
+   "es": "la resiliencia",
+   "ko": "회복탄력성",
+   "ex": "La resiliencia es como un músculo.",
+   "exKo": "회복탄력성은 근육 같아요."
+  },
+  {
+   "es": "el contratiempo",
+   "ko": "차질, 낭패",
+   "ex": "Se recupera de los contratiempos.",
+   "exKo": "차질에서 회복해요."
+  },
+  {
+   "es": "el estado de flujo",
+   "ko": "몰입 상태(플로)",
+   "ex": "El estado de flujo da gran satisfacción.",
+   "exKo": "몰입 상태는 큰 만족을 줘요."
+  },
+  {
+   "es": "inmerso/a",
+   "ko": "몰입한",
+   "ex": "Está completamente inmerso en una actividad.",
+   "exKo": "한 활동에 완전히 몰입해 있어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Según Sofía, desde la psicología, ¿qué es la felicidad?",
+   "options": [
+    "Un estado de euforia constante",
+    "Una combinación de satisfacción con la vida y emociones positivas",
+    "Tener mucho dinero",
+    "Una meta que se alcanza al final"
+   ],
+   "answer": 1,
+   "explain": "la felicidad es más bien una combinación de satisfacción con la vida en general y la frecuencia de experiencias emocionales positivas."
+  },
+  {
+   "q": "¿Cuáles son los dos componentes del bienestar subjetivo?",
+   "options": [
+    "Físico y mental",
+    "Afectivo y cognitivo",
+    "Social y económico",
+    "Genético y ambiental"
+   ],
+   "answer": 1,
+   "explain": "el componente afectivo (emociones) y el componente cognitivo (evaluación de la vida)."
+  },
+  {
+   "q": "¿Qué dicen las investigaciones sobre el dinero?",
+   "options": [
+    "Más dinero siempre da más felicidad",
+    "Después de cubrir las necesidades básicas, más ingresos tienen un impacto decreciente",
+    "El dinero destruye la felicidad",
+    "Solo los ricos son felices"
+   ],
+   "answer": 1,
+   "explain": "una vez que tus necesidades básicas están cubiertas, un aumento en los ingresos tiene un impacto decreciente."
+  },
+  {
+   "q": "¿Qué es la «cinta de correr edónica»?",
+   "options": [
+    "Una máquina de gimnasio",
+    "Adaptarse a un nivel más alto y necesitar más para sentir el mismo placer",
+    "Un tipo de meditación",
+    "Una forma de ahorrar dinero"
+   ],
+   "answer": 1,
+   "explain": "te adaptas a tu nuevo nivel de ingresos o posesiones y pronto necesitas más para sentir el mismo placer."
+  },
+  {
+   "q": "Según Martin Seligman, ¿qué porcentaje de la felicidad corresponde a las actividades intencionales?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "50%"
+   ],
+   "answer": 2,
+   "explain": "50% genética, 10% circunstancias de vida y 40% actividades intencionales."
+  },
+  {
+   "q": "¿Cuál NO es una de las estrategias mencionadas para aumentar la felicidad?",
+   "options": [
+    "La gratitud",
+    "La atención plena",
+    "Comparar tu vida en redes sociales",
+    "Encontrar un propósito"
+   ],
+   "answer": 2,
+   "explain": "las redes sociales pueden generar comparaciones poco saludables; no se recomiendan como estrategia."
+  },
+  {
+   "q": "¿Qué sugiere Sofía para practicar la gratitud?",
+   "options": [
+    "Comprar regalos",
+    "Llevar un diario de gratitud",
+    "Evitar a los amigos",
+    "Trabajar más horas"
+   ],
+   "answer": 1,
+   "explain": "practicar la gratitud con un diario o unos minutos cada día para pensar en lo que agradeces."
+  },
+  {
+   "q": "¿En qué consiste la atención plena (mindfulness)?",
+   "options": [
+    "En planificar el futuro",
+    "En prestar atención al momento presente sin juzgar",
+    "En ignorar las emociones",
+    "En dormir más"
+   ],
+   "answer": 1,
+   "explain": "consiste en prestar atención al momento presente sin juzgar."
+  },
+  {
+   "q": "¿Por qué las relaciones sociales son importantes para la felicidad?",
+   "options": [
+    "Porque dan más dinero",
+    "Porque los seres humanos somos sociales y las personas con lazos fuertes son más felices y viven más",
+    "Porque eliminan las emociones negativas",
+    "Porque reemplazan el trabajo"
+   ],
+   "answer": 1,
+   "explain": "las personas con fuertes lazos sociales tienden a ser más felices y vivir más tiempo."
+  },
+  {
+   "q": "Según el podcast, las emociones negativas…",
+   "options": [
+    "Hay que suprimirlas siempre",
+    "Son una parte natural y vital de la vida",
+    "Son una señal de fracaso",
+    "No tienen función"
+   ],
+   "answer": 1,
+   "explain": "son una parte natural e inevitable de la vida; suprimirlas es contraproducente."
+  },
+  {
+   "q": "¿Cómo se desarrolla la resiliencia?",
+   "options": [
+    "Se nace con ella y no cambia",
+    "Se aprende y se fortalece cada vez que superas un desafío",
+    "Solo con dinero",
+    "Evitando los problemas"
+   ],
+   "answer": 1,
+   "explain": "se aprende y se desarrolla; es como un músculo que crece con el ejercicio."
+  },
+  {
+   "q": "¿Qué es el estado de flujo (flow)?",
+   "options": [
+    "Un estado de sueño profundo",
+    "Estar completamente inmerso en una actividad con total concentración y disfrute",
+    "Un estado de tristeza",
+    "Una técnica para ahorrar tiempo"
+   ],
+   "answer": 1,
+   "explain": "es un estado mental en el que una persona está completamente inmersa en una actividad."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 행복의 심리학",
+   "lines": [
+    {
+     "t": 0.4,
+     "s": "S",
+     "es": "Bienvenidos a Easy Spanish Podcast.",
+     "ko": "이지 스패니시 팟캐스트에 오신 걸 환영해요."
+    },
+    {
+     "t": 4.2,
+     "s": "S",
+     "es": "Hola a todos y bienvenidos a El mapa de la felicidad.",
+     "ko": "여러분 안녕하세요, 〈행복의 지도〉에 오신 걸 환영해요."
+    },
+    {
+     "t": 10.2,
+     "s": "S",
+     "es": "Soy Sofía y estoy superemocionada de sumergirme hoy en un tema que nos concierne a todos, la psicología de la felicidad.",
+     "ko": "저는 소피아예요. 오늘 우리 모두와 관련된 주제, 행복의 심리학에 푹 빠져 볼 생각에 너무 설레요."
+    },
+    {
+     "t": 19.4,
+     "s": "M",
+     "es": "Y yo soy Mateo.",
+     "ko": "저는 마테오예요."
+    },
+    {
+     "t": 20.7,
+     "s": "M",
+     "es": "Me parece un tema fascinante, Sofía, porque a menudo pensamos en la felicidad como algo elusivo, ¿verdad?",
+     "ko": "정말 흥미로운 주제예요, 소피아. 우리는 흔히 행복을 잡히지 않는 무언가처럼 생각하잖아요, 그렇죠?"
+    },
+    {
+     "t": 28.5,
+     "s": "M",
+     "es": "Como si fuera una meta lejana en lugar de un camino.",
+     "ko": "길이 아니라 먼 목표인 것처럼요."
+    },
+    {
+     "t": 32.2,
+     "s": "S",
+     "es": "Exactamente, Mateo.",
+     "ko": "맞아요, 마테오."
+    },
+    {
+     "t": 33.7,
+     "s": "S",
+     "es": "Muchas personas la ven como un destino, algo que alcanzarán cuando tengan cierto trabajo o cierta cantidad de dinero o una pareja perfecta.",
+     "ko": "많은 사람이 행복을 목적지로 봐요. 어떤 직장이나 일정 금액의 돈, 완벽한 연인이 생기면 이룰 수 있는 것으로요."
+    },
+    {
+     "t": 45.6,
+     "s": "M",
+     "es": "Sí. Y eso nos lleva a la primera gran pregunta.",
+     "ko": "네. 그게 첫 번째 큰 질문으로 이어지죠."
+    },
+    {
+     "t": 49.6,
+     "s": "M",
+     "es": "¿Qué es realmente la felicidad?",
+     "ko": "행복이란 정말 무엇일까요?"
+    },
+    {
+     "t": 52.1,
+     "s": "M",
+     "es": "Porque su significado parece variar mucho de persona a persona.",
+     "ko": "그 의미가 사람마다 많이 다른 것 같으니까요."
+    }
+   ]
+  },
+  {
+   "title": "행복이란 무엇인가 — 주관적 안녕감",
+   "lines": [
+    {
+     "t": 57.4,
+     "s": "S",
+     "es": "Tienes toda la razón.",
+     "ko": "맞는 말이에요."
+    },
+    {
+     "t": 59.1,
+     "s": "S",
+     "es": "Desde una perspectiva psicológica, la felicidad no es solo un estado de euforia constante, es más bien una combinación de satisfacción con la vida en general y la frecuencia de experiencias emocionales positivas.",
+     "ko": "심리학적으로 행복은 끊임없는 들뜬 상태만이 아니에요. 오히려 삶 전반에 대한 만족과 긍정적인 감정 경험의 빈도가 합쳐진 거예요."
+    },
+    {
+     "t": 75.4,
+     "s": "M",
+     "es": "Ah, entonces no es estar eufórico todo el tiempo, sino una sensación más duradera de bienestar y alegría general.",
+     "ko": "아, 그러니까 늘 들떠 있는 게 아니라 더 오래가는 안녕감과 전반적인 기쁨이라는 거네요."
+    },
+    {
+     "t": 84.7,
+     "s": "M",
+     "es": "¿Es así?",
+     "ko": "그런가요?"
+    },
+    {
+     "t": 85.3,
+     "s": "S",
+     "es": "Justo.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 85.8,
+     "s": "S",
+     "es": "Los psicólogos a menudo hablan de dos componentes principales del bienestar subjetivo.",
+     "ko": "심리학자들은 흔히 주관적 안녕감의 두 가지 주요 요소를 이야기해요."
+    },
+    {
+     "t": 92.6,
+     "s": "S",
+     "es": "Por un lado, tenemos el componente afectivo, que se refiere a las emociones positivas como la alegría, el placer y el entusiasmo, y la ausencia de emociones negativas.",
+     "ko": "한편으로는 정서적 요소가 있는데, 기쁨·즐거움·열정 같은 긍정적인 감정과 부정적인 감정이 없는 상태를 가리켜요."
+    },
+    {
+     "t": 107.9,
+     "s": "S",
+     "es": "Y el otro es el componente cognitivo.",
+     "ko": "다른 하나는 인지적 요소예요."
+    },
+    {
+     "t": 113.1,
+     "s": "S",
+     "es": "Este se refiere a la evaluación de nuestra propia vida, nuestra satisfacción general con cómo van las cosas, nuestras relaciones, nuestro trabajo, nuestra salud, etcétera.",
+     "ko": "이는 자기 삶에 대한 평가, 즉 일이 돌아가는 방식과 인간관계, 일, 건강 등에 대한 전반적인 만족을 말해요."
+    },
+    {
+     "t": 127.0,
+     "s": "S",
+     "es": "Así que una persona puede tener momentos difíciles y aun así considerarse feliz si su evaluación general de la vida es positiva.",
+     "ko": "그래서 어려운 순간이 있어도 삶에 대한 전반적인 평가가 긍정적이라면 스스로 행복하다고 여길 수 있어요."
+    },
+    {
+     "t": 138.3,
+     "s": "M",
+     "es": "Eso tiene mucho sentido.",
+     "ko": "그거 아주 일리가 있네요."
+    },
+    {
+     "t": 140.3,
+     "s": "S",
+     "es": "Absolutamente.",
+     "ko": "그렇고말고요."
+    },
+    {
+     "t": 141.5,
+     "s": "S",
+     "es": "Es crucial entender que la felicidad no significa la ausencia de tristeza o de momentos difíciles.",
+     "ko": "행복이 슬픔이나 어려운 순간이 없다는 뜻이 아님을 이해하는 게 중요해요."
+    },
+    {
+     "t": 149.4,
+     "s": "S",
+     "es": "De hecho, la capacidad de procesar y superar desafíos es parte fundamental de un bienestar duradero.",
+     "ko": "사실 어려움을 소화하고 이겨내는 능력은 오래가는 안녕감의 핵심 부분이에요."
+    },
+    {
+     "t": 156.9,
+     "s": "M",
+     "es": "Es un buen punto.",
+     "ko": "좋은 지적이에요."
+    },
+    {
+     "t": 158.3,
+     "s": "M",
+     "es": "A menudo se nos vende la idea de que siempre debemos estar sonriendo, y eso puede generar mucha presión y culpa cuando no lo estamos.",
+     "ko": "우리는 항상 웃고 있어야 한다는 생각을 강요받곤 하는데, 그렇지 못할 때 큰 압박과 죄책감이 생길 수 있죠."
+    },
+    {
+     "t": 169.9,
+     "s": "S",
+     "es": "Sí, y es una trampa.",
+     "ko": "네, 그건 함정이에요."
+    },
+    {
+     "t": 171.7,
+     "s": "S",
+     "es": "Esa expectativa irreal puede ser un obstáculo para la verdadera felicidad.",
+     "ko": "그런 비현실적인 기대는 진짜 행복의 걸림돌이 될 수 있어요."
+    },
+    {
+     "t": 177.5,
+     "s": "S",
+     "es": "La vida tiene altibajos.",
+     "ko": "삶에는 기복이 있어요."
+    },
+    {
+     "t": 179.4,
+     "s": "S",
+     "es": "Y aceptar eso es el primer paso.",
+     "ko": "그걸 받아들이는 게 첫걸음이에요."
+    }
+   ]
+  },
+  {
+   "title": "행복에 대한 흔한 오해들",
+   "lines": [
+    {
+     "t": 182.4,
+     "s": "M",
+     "es": "Hablemos de los mitos, Sofía.",
+     "ko": "오해에 대해 이야기해 봐요, 소피아."
+    },
+    {
+     "t": 184.9,
+     "s": "M",
+     "es": "¿Cuáles son algunas de las creencias erróneas más comunes sobre la felicidad?",
+     "ko": "행복에 대한 가장 흔한 잘못된 믿음에는 어떤 것들이 있을까요?"
+    },
+    {
+     "t": 192.1,
+     "s": "S",
+     "es": "Me encanta esa pregunta.",
+     "ko": "그 질문 정말 좋아요."
+    },
+    {
+     "t": 194.4,
+     "s": "S",
+     "es": "El mito número uno, y creo que es el más grande, es que el dinero da la felicidad.",
+     "ko": "첫 번째 오해, 그리고 가장 크다고 생각하는 건 돈이 행복을 준다는 거예요."
+    },
+    {
+     "t": 202.4,
+     "s": "S",
+     "es": "¿Qué piensas tú, Mateo?",
+     "ko": "마테오는 어떻게 생각해요?"
+    },
+    {
+     "t": 204.6,
+     "s": "M",
+     "es": "Bueno, creo que el dinero puede comprar comodidad y seguridad, lo cual definitivamente reduce el estrés y puede contribuir a la felicidad, pero no creo que sea el factor determinante.",
+     "ko": "글쎄요, 돈으로 편안함과 안정을 살 수 있고 그게 분명히 스트레스를 줄여 행복에 보탬이 될 수는 있지만, 결정적인 요인은 아니라고 생각해요."
+    },
+    {
+     "t": 220.5,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 221.2,
+     "s": "S",
+     "es": "Las investigaciones muestran que una vez que tus necesidades básicas están cubiertas, vivienda, comida, seguridad, un aumento significativo en los ingresos tiene un impacto decreciente en tu nivel de felicidad.",
+     "ko": "연구에 따르면 주거·음식·안전 같은 기본 욕구가 채워지고 나면, 소득이 크게 늘어도 행복 수준에 미치는 영향은 점점 줄어들어요."
+    },
+    {
+     "t": 235.4,
+     "s": "S",
+     "es": "Hay un umbral a partir del cual más dinero no te hace significativamente más feliz.",
+     "ko": "그 선을 넘으면 돈이 더 많아도 눈에 띄게 더 행복해지지는 않는 문턱이 있어요."
+    },
+    {
+     "t": 243.0,
+     "s": "M",
+     "es": "Eso es interesante.",
+     "ko": "흥미롭네요."
+    },
+    {
+     "t": 245.3,
+     "s": "M",
+     "es": "Mucha gente se esfuerza incansablemente por acumular más y más, pensando que así encontrarán la plenitud.",
+     "ko": "많은 사람이 그러면 충만함을 찾을 거라 생각하며 쉬지 않고 더 많이 모으려 애쓰죠."
+    },
+    {
+     "t": 256.9,
+     "s": "S",
+     "es": "Y esa es la trampa.",
+     "ko": "그게 바로 함정이에요."
+    },
+    {
+     "t": 258.8,
+     "s": "S",
+     "es": "Se meten en la cinta de correr edónica, como la llaman los psicólogos.",
+     "ko": "심리학자들이 말하는 '쾌락의 쳇바퀴'에 빠져 버리는 거예요."
+    },
+    {
+     "t": 264.6,
+     "s": "S",
+     "es": "Te adaptas a tu nuevo nivel de ingresos o posesiones y pronto necesitas más para sentir el mismo nivel de placer.",
+     "ko": "새로운 소득이나 소유 수준에 적응하고 나면, 같은 수준의 즐거움을 느끼려고 곧 더 많은 것이 필요해져요."
+    },
+    {
+     "t": 274.3,
+     "s": "M",
+     "es": "Cinta de correr edónica.",
+     "ko": "쾌락의 쳇바퀴."
+    },
+    {
+     "t": 276.7,
+     "s": "M",
+     "es": "Me gusta esa expresión.",
+     "ko": "그 표현 마음에 들어요."
+    },
+    {
+     "t": 278.7,
+     "s": "M",
+     "es": "Siempre corriendo, pero sin avanzar realmente en términos de felicidad.",
+     "ko": "늘 달리지만 행복 면에서는 실제로 나아가지 못하는 거네요."
+    },
+    {
+     "t": 284.9,
+     "s": "S",
+     "es": "Precisamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 286.1,
+     "s": "S",
+     "es": "Otro mito es que la felicidad viene de tenerlo todo: la casa perfecta, el coche de lujo, el cuerpo ideal.",
+     "ko": "또 다른 오해는 행복이 모든 것을 가지는 데서 온다는 거예요. 완벽한 집, 고급 차, 이상적인 몸매 같은 것들요."
+    },
+    {
+     "t": 295.1,
+     "s": "S",
+     "es": "La realidad es que la felicidad duradera no se basa en posesiones materiales o logros externos.",
+     "ko": "사실 오래가는 행복은 물질적 소유나 외적 성취에 바탕을 두지 않아요."
+    },
+    {
+     "t": 302.8,
+     "s": "M",
+     "es": "Eso me resuena mucho.",
+     "ko": "그 말에 정말 공감해요."
+    },
+    {
+     "t": 304.7,
+     "s": "M",
+     "es": "He conocido a personas que lo tienen todo según los estándares sociales y, sin embargo, no parecen ser más felices que otras con menos.",
+     "ko": "사회적 기준으로는 다 가졌는데도 덜 가진 사람들보다 더 행복해 보이지 않는 사람들을 본 적이 있어요."
+    },
+    {
+     "t": 315.6,
+     "s": "S",
+     "es": "Es una observación muy aguda.",
+     "ko": "아주 예리한 관찰이에요."
+    },
+    {
+     "t": 317.8,
+     "s": "S",
+     "es": "La felicidad es mucho más un estado interno y una forma de interactuar con el mundo que una colección de cosas.",
+     "ko": "행복은 물건의 모음이라기보다 내면의 상태이자 세상과 관계 맺는 방식이에요."
+    },
+    {
+     "t": 326.2,
+     "s": "S",
+     "es": "Está más relacionada con nuestras actitudes y nuestras relaciones.",
+     "ko": "우리의 태도와 인간관계와 더 관련이 깊어요."
+    },
+    {
+     "t": 331.1,
+     "s": "M",
+     "es": "¿Y qué hay de la creencia de que la felicidad es algo que simplemente tienes o no tienes, como un rasgo de personalidad fijo?",
+     "ko": "그럼 행복은 그냥 타고나거나 아니거나 하는, 고정된 성격 특성이라는 믿음은 어떤가요?"
+    },
+    {
+     "t": 341.1,
+     "s": "S",
+     "es": "Ese es otro gran mito.",
+     "ko": "그것도 또 하나의 큰 오해예요."
+    },
+    {
+     "t": 343.1,
+     "s": "S",
+     "es": "Si bien es cierto que hay un componente genético en nuestra predisposición a la felicidad, algunas personas tienen un termostato de felicidad más alto, naturalmente, la mayor parte de nuestra felicidad está bajo nuestro control.",
+     "ko": "행복 성향에 유전적 요소가 있고 어떤 사람은 행복 온도 조절기가 태생적으로 더 높게 맞춰져 있는 건 사실이지만, 우리 행복의 대부분은 우리가 통제할 수 있어요."
+    },
+    {
+     "t": 359.9,
+     "s": "M",
+     "es": "Eso es una buena noticia porque significa que podemos trabajar en ello, ¿verdad?",
+     "ko": "그건 좋은 소식이네요, 우리가 노력할 수 있다는 뜻이니까요. 그렇죠?"
+    },
+    {
+     "t": 367.1,
+     "s": "M",
+     "es": "Que no estamos predestinados a ser infelices.",
+     "ko": "불행하도록 운명 지어져 있지 않다는 거니까요."
+    },
+    {
+     "t": 371.5,
+     "s": "S",
+     "es": "Exactamente.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 372.7,
+     "s": "S",
+     "es": "Martin Seligman, uno de los padres de la psicología positiva, habla de la fórmula de la felicidad.",
+     "ko": "긍정심리학의 아버지 중 한 명인 마틴 셀리그먼은 행복의 공식을 이야기해요."
+    },
+    {
+     "t": 380.3,
+     "s": "S",
+     "es": "Dice que nuestra felicidad está compuesta por un 50% de genética, un 10% de circunstancias de vida y un 40% de actividades intencionales.",
+     "ko": "우리 행복은 유전 50%, 삶의 환경 10%, 의도적인 활동 40%로 이루어져 있다고 해요."
+    },
+    {
+     "t": 394.8,
+     "s": "M",
+     "es": "Vaya, un 40% de actividades intencionales, eso es enorme.",
+     "ko": "와, 의도적인 활동이 40%라니, 엄청나네요."
+    },
+    {
+     "t": 401.9,
+     "s": "M",
+     "es": "Significa que nuestras acciones y decisiones diarias tienen un impacto masivo.",
+     "ko": "우리의 일상적인 행동과 결정이 엄청난 영향을 준다는 뜻이잖아요."
+    },
+    {
+     "t": 409.4,
+     "s": "S",
+     "es": "Un impacto gigantesco.",
+     "ko": "어마어마한 영향이죠."
+    },
+    {
+     "t": 411.3,
+     "s": "S",
+     "es": "Esto nos da mucho poder sobre nuestro propio bienestar.",
+     "ko": "이건 우리 자신의 안녕에 대해 큰 힘을 줘요."
+    },
+    {
+     "t": 416.1,
+     "s": "S",
+     "es": "No somos víctimas de nuestra genética o de nuestras circunstancias.",
+     "ko": "우리는 유전이나 환경의 희생자가 아니에요."
+    }
+   ]
+  },
+  {
+   "title": "행복을 키우는 의도적 활동",
+   "lines": [
+    {
+     "t": 422.2,
+     "s": "M",
+     "es": "Entonces, si el 40% son actividades intencionales, ¿cuáles son esas actividades?",
+     "ko": "그럼 40%가 의도적인 활동이라면, 그 활동은 어떤 것들일까요?"
+    },
+    {
+     "t": 429.3,
+     "s": "M",
+     "es": "¿Cómo podemos empezar a cultivar ese 40%?",
+     "ko": "그 40%를 어떻게 키워 나가기 시작할 수 있을까요?"
+    },
+    {
+     "t": 433.2,
+     "s": "S",
+     "es": "Ahí es donde se pone interesante.",
+     "ko": "거기서부터 흥미로워져요."
+    },
+    {
+     "t": 435.5,
+     "s": "S",
+     "es": "Hay varias prácticas respaldadas por la investigación que pueden aumentar nuestra felicidad.",
+     "ko": "연구로 뒷받침되는, 우리 행복을 높일 수 있는 여러 실천이 있어요."
+    },
+    {
+     "t": 442.9,
+     "s": "S",
+     "es": "Una de las más poderosas es la gratitud.",
+     "ko": "가장 강력한 것 중 하나는 감사예요."
+    },
+    {
+     "t": 445.7,
+     "s": "M",
+     "es": "La gratitud.",
+     "ko": "감사요."
+    },
+    {
+     "t": 448.0,
+     "s": "M",
+     "es": "Lo he escuchado mucho, pero a veces parece un concepto tan simple.",
+     "ko": "많이 들어 봤지만 가끔은 너무 단순한 개념처럼 보여요."
+    },
+    {
+     "t": 453.8,
+     "s": "M",
+     "es": "¿Realmente tiene un impacto tan grande?",
+     "ko": "정말 그렇게 큰 영향이 있나요?"
+    },
+    {
+     "t": 457.2,
+     "s": "S",
+     "es": "Absolutamente.",
+     "ko": "물론이에요."
+    },
+    {
+     "t": 458.4,
+     "s": "S",
+     "es": "Practicar la gratitud de forma regular, como llevar un diario de gratitud o simplemente tomarte unos minutos cada día para pensar en las cosas por las que estás agradecido, puede cambiar tu perspectiva y aumentar significativamente tu bienestar.",
+     "ko": "감사 일기를 쓰거나 매일 몇 분간 고마운 일을 떠올리는 식으로 꾸준히 감사를 실천하면 관점이 바뀌고 안녕감이 크게 높아질 수 있어요."
+    },
+    {
+     "t": 476.9,
+     "s": "M",
+     "es": "Me gusta la idea del diario de gratitud.",
+     "ko": "감사 일기라는 아이디어가 마음에 들어요."
+    },
+    {
+     "t": 480.7,
+     "s": "M",
+     "es": "Escribir las cosas te obliga a detenerte y reflexionar de verdad.",
+     "ko": "글로 쓰면 멈춰서 진짜로 되돌아보게 되죠."
+    },
+    {
+     "t": 487.1,
+     "s": "S",
+     "es": "Sí.",
+     "ko": "네."
+    },
+    {
+     "t": 487.4,
+     "s": "S",
+     "es": "Y no tienen que ser cosas enormes.",
+     "ko": "그리고 대단한 일일 필요는 없어요."
+    },
+    {
+     "t": 490.3,
+     "s": "S",
+     "es": "Puede ser el café de la mañana, un mensaje de un amigo, un día soleado.",
+     "ko": "아침 커피, 친구의 메시지, 화창한 날 같은 것이면 돼요."
+    },
+    {
+     "t": 496.3,
+     "s": "S",
+     "es": "Entrenas tu cerebro para buscar lo positivo.",
+     "ko": "뇌가 긍정적인 것을 찾도록 훈련하는 거예요."
+    },
+    {
+     "t": 500.2,
+     "s": "S",
+     "es": "Es como reeducar tu mente para enfocarse en lo bueno.",
+     "ko": "마음이 좋은 것에 집중하도록 다시 가르치는 셈이에요."
+    },
+    {
+     "t": 505.0,
+     "s": "M",
+     "es": "¿Y qué otras estrategias hay?",
+     "ko": "그럼 다른 전략으로는 어떤 게 있어요?"
+    },
+    {
+     "t": 507.8,
+     "s": "S",
+     "es": "Otra muy importante es la atención plena o mindfulness.",
+     "ko": "또 하나 아주 중요한 건 마음챙김, 즉 마인드풀니스예요."
+    },
+    {
+     "t": 513.1,
+     "s": "S",
+     "es": "Consiste en prestar atención al momento presente sin juzgar.",
+     "ko": "판단 없이 현재 순간에 주의를 기울이는 거예요."
+    },
+    {
+     "t": 517.4,
+     "s": "S",
+     "es": "Se trata de observar tus pensamientos, tus sensaciones y tu entorno tal como son, sin dejarte llevar por ellos.",
+     "ko": "생각과 감각, 주변 환경을 있는 그대로 관찰하되 거기에 휩쓸리지 않는 거예요."
+    },
+    {
+     "t": 526.2,
+     "s": "M",
+     "es": "Eso es algo que me cuesta.",
+     "ko": "그건 저한테 어려운 일이에요."
+    },
+    {
+     "t": 528.3,
+     "s": "M",
+     "es": "Mi mente tiende a divagar pensando en el pasado o preocupándose por el futuro.",
+     "ko": "제 마음은 과거를 생각하거나 미래를 걱정하며 딴 데로 흘러가는 경향이 있어요."
+    },
+    {
+     "t": 534.5,
+     "s": "S",
+     "es": "Es algo común para muchos, pero con práctica se puede mejorar.",
+     "ko": "많은 사람에게 흔한 일이고, 연습하면 나아질 수 있어요."
+    },
+    {
+     "t": 540.8,
+     "s": "S",
+     "es": "La meditación mindfulness es una herramienta excelente para esto.",
+     "ko": "마인드풀니스 명상은 이를 위한 훌륭한 도구예요."
+    },
+    {
+     "t": 545.8,
+     "s": "S",
+     "es": "Hay muchas aplicaciones y recursos gratuitos para empezar.",
+     "ko": "시작할 수 있는 앱과 무료 자료가 많아요."
+    },
+    {
+     "t": 550.5,
+     "s": "M",
+     "es": "¿Y cómo ayuda eso a la felicidad?",
+     "ko": "그게 행복에 어떻게 도움이 되나요?"
+    },
+    {
+     "t": 553.2,
+     "s": "M",
+     "es": "Simplemente estar más presente.",
+     "ko": "그냥 더 현재에 머무는 것만으로요?"
+    },
+    {
+     "t": 555.8,
+     "s": "S",
+     "es": "Al estar más presente reduces el estrés y la ansiedad porque no te quedas atrapado en el pasado o en el futuro.",
+     "ko": "더 현재에 머물면 과거나 미래에 갇히지 않아서 스트레스와 불안이 줄어요."
+    },
+    {
+     "t": 564.2,
+     "s": "S",
+     "es": "También te permite apreciar más plenamente las experiencias positivas de tu vida a medida que ocurren.",
+     "ko": "또 삶의 긍정적인 경험을 일어나는 대로 더 온전히 음미할 수 있게 해 줘요."
+    },
+    {
+     "t": 573.0,
+     "s": "M",
+     "es": "Es como saborear cada momento en lugar de dejar que se te escape.",
+     "ko": "순간순간을 놓쳐 버리지 않고 음미하는 것과 같네요."
+    },
+    {
+     "t": 578.7,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 579.3,
+     "s": "S",
+     "es": "La tercera estrategia clave son las relaciones sociales.",
+     "ko": "세 번째 핵심 전략은 사회적 관계예요."
+    },
+    {
+     "t": 584.2,
+     "s": "S",
+     "es": "Los seres humanos somos criaturas sociales y la conexión con otros es fundamental para nuestra felicidad.",
+     "ko": "인간은 사회적 존재라서 다른 사람과의 연결이 우리 행복에 필수적이에요."
+    },
+    {
+     "t": 592.4,
+     "s": "M",
+     "es": "Eso es algo que he experimentado personalmente.",
+     "ko": "그건 제가 직접 겪은 일이에요."
+    },
+    {
+     "t": 596.2,
+     "s": "M",
+     "es": "Cuando me siento aislado, mi estado de ánimo decae rápidamente.",
+     "ko": "고립감을 느끼면 기분이 금세 가라앉아요."
+    },
+    {
+     "t": 601.4,
+     "s": "S",
+     "es": "Las investigaciones lo confirman una y otra vez.",
+     "ko": "연구들이 거듭 그걸 확인해 줘요."
+    },
+    {
+     "t": 605.6,
+     "s": "S",
+     "es": "Las personas con fuertes lazos sociales tienden a ser más felices y viven más tiempo.",
+     "ko": "사회적 유대가 강한 사람들은 더 행복하고 더 오래 사는 경향이 있어요."
+    },
+    {
+     "t": 612.2,
+     "s": "S",
+     "es": "Invierte tiempo y energía en tus relaciones con amigos y familiares.",
+     "ko": "친구와 가족과의 관계에 시간과 에너지를 투자하세요."
+    },
+    {
+     "t": 617.6,
+     "s": "M",
+     "es": "Y no solo las relaciones profundas, sino también las interacciones más superficiales, como hablar con el barista o el tendero.",
+     "ko": "깊은 관계뿐 아니라 바리스타나 가게 주인과 이야기하는 것 같은 가벼운 교류도요."
+    },
+    {
+     "t": 629.0,
+     "s": "S",
+     "es": "Sí, incluso esas microinteracciones pueden tener un impacto positivo en tu día.",
+     "ko": "네, 그런 작은 교류조차 하루에 긍정적인 영향을 줄 수 있어요."
+    },
+    {
+     "t": 635.3,
+     "s": "S",
+     "es": "Nos recuerdan que somos parte de una comunidad, pero las relaciones profundas basadas en la confianza y el apoyo son las que realmente nutren el alma.",
+     "ko": "그런 교류는 우리가 공동체의 일부임을 일깨워 주지만, 영혼을 진짜로 채워 주는 건 신뢰와 지지에 바탕을 둔 깊은 관계예요."
+    },
+    {
+     "t": 647.0,
+     "s": "M",
+     "es": "Eso es algo a lo que a veces no le damos la importancia que merece en la vida moderna, con tanta gente enfocada en el trabajo y las redes sociales.",
+     "ko": "현대 생활에서는 일과 SNS에 집중하는 사람이 많아서, 그 중요성을 마땅한 만큼 두지 않을 때가 있어요."
+    },
+    {
+     "t": 656.5,
+     "s": "S",
+     "es": "Las redes sociales pueden ser una espada de doble filo.",
+     "ko": "SNS는 양날의 검일 수 있어요."
+    },
+    {
+     "t": 662.9,
+     "s": "S",
+     "es": "Pueden conectar, pero también pueden generar comparaciones poco saludables y sentimientos de insuficiencia.",
+     "ko": "사람들을 이어 줄 수도 있지만, 건강하지 못한 비교와 부족하다는 느낌을 낳을 수도 있어요."
+    },
+    {
+     "t": 671.0,
+     "s": "S",
+     "es": "Es importante usarlas con moderación y conciencia.",
+     "ko": "적당히, 그리고 의식하면서 쓰는 게 중요해요."
+    },
+    {
+     "t": 674.9,
+     "s": "M",
+     "es": "Muy cierto.",
+     "ko": "맞는 말이에요."
+    },
+    {
+     "t": 675.8,
+     "s": "M",
+     "es": "¿Hay alguna otra estrategia importante que debamos mencionar?",
+     "ko": "언급해야 할 다른 중요한 전략이 또 있을까요?"
+    },
+    {
+     "t": 680.8,
+     "s": "S",
+     "es": "Sí, otra muy poderosa es encontrar un propósito o significado en la vida.",
+     "ko": "네, 또 하나 아주 강력한 건 삶의 목적이나 의미를 찾는 거예요."
+    },
+    {
+     "t": 687.4,
+     "s": "S",
+     "es": "Esto no tiene que ser algo grandioso como salvar el mundo.",
+     "ko": "세상을 구하는 것처럼 거창할 필요는 없어요."
+    },
+    {
+     "t": 692.0,
+     "s": "S",
+     "es": "Puede ser algo tan simple como ser un buen padre, un buen amigo o contribuir a tu comunidad de alguna manera.",
+     "ko": "좋은 부모나 좋은 친구가 되는 것, 어떤 식으로든 공동체에 기여하는 것처럼 단순해도 돼요."
+    },
+    {
+     "t": 700.7,
+     "s": "M",
+     "es": "Entonces, es tener algo más grande que uno mismo por lo que vivir, algo que te dé dirección y sentido.",
+     "ko": "그러니까 나 자신보다 더 큰, 살아갈 이유가 되고 방향과 의미를 주는 무언가를 갖는 거군요."
+    },
+    {
+     "t": 709.9,
+     "s": "S",
+     "es": "Sí, exactamente.",
+     "ko": "네, 맞아요."
+    },
+    {
+     "t": 711.3,
+     "s": "S",
+     "es": "Cuando sientes que tu vida tiene un propósito, incluso los desafíos se vuelven más manejables porque los ves como parte de un camino más grande.",
+     "ko": "삶에 목적이 있다고 느끼면 어려움조차 더 감당할 만해져요. 더 큰 길의 일부로 보게 되니까요."
+    },
+    {
+     "t": 722.1,
+     "s": "S",
+     "es": "Te da resiliencia.",
+     "ko": "회복탄력성을 줘요."
+    },
+    {
+     "t": 723.8,
+     "s": "S",
+     "es": "Es como tener un faro que te guía.",
+     "ko": "길을 안내해 주는 등대가 있는 것과 같아요."
+    },
+    {
+     "t": 726.9,
+     "s": "M",
+     "es": "Y supongo que esto se relaciona con la contribución a los demás, ¿no?",
+     "ko": "그리고 이건 다른 사람들에 대한 기여와도 관련이 있겠죠?"
+    },
+    {
+     "t": 733.1,
+     "s": "S",
+     "es": "Perfectamente.",
+     "ko": "그럼요."
+    },
+    {
+     "t": 734.4,
+     "s": "S",
+     "es": "Ayudar a los demás, dar algo de ti, es una de las vías más directas hacia la felicidad.",
+     "ko": "다른 사람을 돕고 자신의 무언가를 내어 주는 것은 행복으로 가는 가장 직접적인 길 중 하나예요."
+    },
+    {
+     "t": 742.0,
+     "s": "S",
+     "es": "Se activa el circuito de recompensa en el cerebro.",
+     "ko": "뇌의 보상 회로가 활성화돼요."
+    },
+    {
+     "t": 742.9,
+     "s": "M",
+     "es": "El circuito de recompensa.",
+     "ko": "보상 회로요."
+    },
+    {
+     "t": 748.8,
+     "s": "M",
+     "es": "Así que nuestro cerebro nos recompensa por ser amables.",
+     "ko": "그러니까 우리 뇌가 친절하게 행동하면 보상을 주는 거네요."
+    },
+    {
+     "t": 753.7,
+     "s": "S",
+     "es": "Así es.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 754.4,
+     "s": "S",
+     "es": "Libera neurotransmisores como la dopamina, haciéndonos sentir bien.",
+     "ko": "도파민 같은 신경전달물질이 분비되어 기분이 좋아져요."
+    },
+    {
+     "t": 760.3,
+     "s": "S",
+     "es": "Es una prueba científica de que ser generoso es bueno para ti.",
+     "ko": "너그러운 것이 나에게도 좋다는 과학적 증거예요."
+    },
+    {
+     "t": 766.5,
+     "s": "M",
+     "es": "Qué maravilla.",
+     "ko": "멋지네요."
+    },
+    {
+     "t": 768.0,
+     "s": "M",
+     "es": "Entonces, la felicidad no es solo un sentimiento, sino un proceso activo que podemos cultivar con nuestras acciones diarias.",
+     "ko": "그러니까 행복은 단순한 감정이 아니라 일상의 행동으로 키울 수 있는 능동적인 과정이네요."
+    }
+   ]
+  },
+  {
+   "title": "부정적인 감정, 회복탄력성, 몰입",
+   "lines": [
+    {
+     "t": 778.8,
+     "s": "S",
+     "es": "Precisamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 779.7,
+     "s": "S",
+     "es": "Y es importante hablar de un concepto que a menudo se malinterpreta, la relación entre las emociones negativas y la felicidad.",
+     "ko": "그리고 자주 오해받는 개념, 곧 부정적인 감정과 행복의 관계를 이야기하는 것도 중요해요."
+    },
+    {
+     "t": 789.6,
+     "s": "M",
+     "es": "Ah, sí.",
+     "ko": "아, 그렇죠."
+    },
+    {
+     "t": 790.1,
+     "s": "M",
+     "es": "Como dijimos al principio, la felicidad no es la ausencia de tristeza.",
+     "ko": "처음에 말했듯이 행복은 슬픔이 없는 게 아니죠."
+    },
+    {
+     "t": 796.0,
+     "s": "M",
+     "es": "¿Cómo encajan las emociones negativas en este panorama?",
+     "ko": "부정적인 감정은 이 그림에서 어떻게 들어맞나요?"
+    },
+    {
+     "t": 797.0,
+     "s": "S",
+     "es": "Las emociones negativas son una parte natural e inevitable de la vida.",
+     "ko": "부정적인 감정은 삶의 자연스럽고 피할 수 없는 부분이에요."
+    },
+    {
+     "t": 806.7,
+     "s": "S",
+     "es": "Intentar suprimirlas o ignorarlas es contraproducente.",
+     "ko": "억누르거나 무시하려 하면 오히려 역효과가 나요."
+    },
+    {
+     "t": 811.4,
+     "s": "S",
+     "es": "De hecho, son vitales para nuestro crecimiento y bienestar.",
+     "ko": "사실 그것은 우리의 성장과 안녕에 꼭 필요해요."
+    },
+    {
+     "t": 816.8,
+     "s": "M",
+     "es": "Vitales. ¿En qué sentido?",
+     "ko": "꼭 필요하다고요? 어떤 의미에서요?"
+    },
+    {
+     "t": 819.1,
+     "s": "S",
+     "es": "La tristeza, por ejemplo, puede ayudarnos a procesar pérdidas y a buscar apoyo.",
+     "ko": "예를 들어 슬픔은 상실을 받아들이고 도움을 구하도록 해 줄 수 있어요."
+    },
+    {
+     "t": 825.6,
+     "s": "S",
+     "es": "La ira puede señalarnos que se han cruzado nuestros límites o que hay una injusticia.",
+     "ko": "분노는 우리의 경계가 침범당했거나 부당한 일이 있음을 알려 줄 수 있어요."
+    },
+    {
+     "t": 832.9,
+     "s": "S",
+     "es": "El miedo nos protege del peligro.",
+     "ko": "두려움은 우리를 위험에서 지켜 줘요."
+    },
+    {
+     "t": 836.4,
+     "s": "M",
+     "es": "Así que son como señales, como un sistema de alerta.",
+     "ko": "그러니까 신호, 경보 시스템 같은 거네요."
+    },
+    {
+     "t": 841.2,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 841.8,
+     "s": "S",
+     "es": "La clave no es eliminarlas, sino aprender a gestionarlas de forma saludable.",
+     "ko": "핵심은 없애는 게 아니라 건강하게 다루는 법을 배우는 거예요."
+    },
+    {
+     "t": 848.3,
+     "s": "S",
+     "es": "Esto implica reconocerlas, permitirnos sentirlas y luego buscar formas constructivas de responder a ellas.",
+     "ko": "그러려면 감정을 알아차리고, 느끼도록 허용한 다음, 건설적으로 대응할 방법을 찾아야 해요."
+    },
+    {
+     "t": 856.6,
+     "s": "M",
+     "es": "Y supongo que la atención plena que mencionamos antes ayuda en esto, ¿no?",
+     "ko": "그리고 앞서 말한 마음챙김이 여기에도 도움이 되겠죠?"
+    },
+    {
+     "t": 862.4,
+     "s": "S",
+     "es": "A observar la emoción sin juzgarla ni dejarse arrastrar por ella completamente.",
+     "ko": "감정을 판단하지 않고 관찰하며, 그것에 완전히 끌려가지 않게 해 줘요."
+    },
+    {
+     "t": 869.4,
+     "s": "S",
+     "es": "Es una habilidad crucial.",
+     "ko": "아주 중요한 기술이에요."
+    },
+    {
+     "t": 871.5,
+     "s": "S",
+     "es": "También es importante desarrollar la resiliencia, la capacidad de recuperarse de los contratiempos.",
+     "ko": "실패와 차질에서 회복하는 능력인 회복탄력성을 기르는 것도 중요해요."
+    },
+    {
+     "t": 879.2,
+     "s": "M",
+     "es": "La resiliencia, ¿eso se aprende o se nace con ella?",
+     "ko": "회복탄력성은 배우는 건가요, 타고나는 건가요?"
+    },
+    {
+     "t": 886.1,
+     "s": "S",
+     "es": "Se aprende y se desarrolla.",
+     "ko": "배우고 발달시키는 거예요."
+    },
+    {
+     "t": 890.0,
+     "s": "S",
+     "es": "Cada vez que superas un desafío, fortaleces tu resiliencia.",
+     "ko": "어려움을 이겨낼 때마다 회복탄력성이 강해져요."
+    },
+    {
+     "t": 894.5,
+     "s": "S",
+     "es": "Es como un músculo que crece con el ejercicio.",
+     "ko": "운동하면 자라는 근육과 같아요."
+    },
+    {
+     "t": 898.4,
+     "s": "M",
+     "es": "Eso es alentador.",
+     "ko": "힘이 나는 말이네요."
+    },
+    {
+     "t": 900.0,
+     "s": "M",
+     "es": "Significa que los momentos difíciles, aunque dolorosos, nos hacen más fuertes y, a la larga, más capaces de experimentar una felicidad más profunda.",
+     "ko": "힘든 순간이 고통스럽더라도 우리를 더 강하게 만들고, 길게 보면 더 깊은 행복을 경험할 수 있게 해 준다는 뜻이네요."
+    },
+    {
+     "t": 913.0,
+     "s": "S",
+     "es": "Precisamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 914.3,
+     "s": "S",
+     "es": "Y hay otro concepto interesante que me gustaría mencionar: el estado de flujo o flow.",
+     "ko": "그리고 소개하고 싶은 흥미로운 개념이 하나 더 있는데, 바로 몰입 상태, 즉 플로예요."
+    },
+    {
+     "t": 920.5,
+     "s": "M",
+     "es": "Estado de flujo.",
+     "ko": "몰입 상태요."
+    },
+    {
+     "t": 924.4,
+     "s": "M",
+     "es": "¿Qué es eso?",
+     "ko": "그게 뭐예요?"
+    },
+    {
+     "t": 925.4,
+     "s": "S",
+     "es": "Es un estado mental en el que una persona está completamente inmersa en una actividad, sintiendo un disfrute y una concentración total.",
+     "ko": "한 사람이 어떤 활동에 완전히 빠져서 즐거움과 완전한 집중을 느끼는 정신 상태예요."
+    },
+    {
+     "t": 938.3,
+     "s": "S",
+     "es": "El tiempo parece volar y te sientes completamente absorbido por lo que estás haciendo.",
+     "ko": "시간이 날아가는 듯하고 하고 있는 일에 완전히 빨려 들어간 느낌이 들어요."
+    },
+    {
+     "t": 945.1,
+     "s": "M",
+     "es": "Ah, creo que es a lo que te refieres, como cuando estás pintando o tocando un instrumento y te olvidas de todo lo demás.",
+     "ko": "아, 무슨 말인지 알 것 같아요. 그림을 그리거나 악기를 연주하면서 다른 모든 걸 잊어버릴 때처럼요."
+    },
+    {
+     "t": 955.6,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 956.3,
+     "s": "S",
+     "es": "O cuando estás leyendo un libro fascinante, un proyecto que te apasiona o incluso haciendo ejercicio.",
+     "ko": "아니면 매혹적인 책을 읽을 때, 열정을 쏟는 프로젝트를 할 때, 심지어 운동할 때도요."
+    },
+    {
+     "t": 963.9,
+     "s": "S",
+     "es": "En ese estado no hay espacio para la preocupación o la autoconciencia.",
+     "ko": "그 상태에서는 걱정이나 자의식이 들어설 자리가 없어요."
+    },
+    {
+     "t": 970.0,
+     "s": "M",
+     "es": "Y supongo que encontrar actividades que nos pongan en ese estado de flujo ayuda a aumentar la felicidad, ¿verdad?",
+     "ko": "그리고 그런 몰입 상태로 이끄는 활동을 찾으면 행복이 커지는 데 도움이 되겠죠, 그렇죠?"
+    },
+    {
+     "t": 978.1,
+     "s": "S",
+     "es": "Sí, es una fuente de gran satisfacción y bienestar.",
+     "ko": "네, 큰 만족과 안녕의 원천이에요."
+    },
+    {
+     "t": 982.5,
+     "s": "S",
+     "es": "Identifica qué actividades te llevan a ese estado y dedícales tiempo regularmente.",
+     "ko": "어떤 활동이 그 상태로 이끄는지 찾아서 꾸준히 시간을 들이세요."
+    },
+    {
+     "t": 989.3,
+     "s": "S",
+     "es": "Es una forma de encontrar alegría en el proceso, no solo en el resultado.",
+     "ko": "결과뿐 아니라 과정에서 기쁨을 찾는 방법이에요."
+    },
+    {
+     "t": 995.2,
+     "s": "M",
+     "es": "Es un buen recordatorio para buscar pasiones y dedicarles tiempo, no solo a las obligaciones.",
+     "ko": "의무에만이 아니라 열정을 찾아 거기에 시간을 쓰라는 좋은 일깨움이네요."
+    },
+    {
+     "t": 1003.4,
+     "s": "S",
+     "es": "Totalmente.",
+     "ko": "완전히요."
+    },
+    {
+     "t": 1004.6,
+     "s": "S",
+     "es": "La felicidad no es solo un sentimiento, es una habilidad que se cultiva.",
+     "ko": "행복은 단순한 감정이 아니라 키워 가는 기술이에요."
+    },
+    {
+     "t": 1011.8,
+     "s": "S",
+     "es": "Requiere práctica diaria, elección consciente.",
+     "ko": "매일의 연습과 의식적인 선택이 필요해요."
+    }
+   ]
+  },
+  {
+   "title": "정리와 마무리",
+   "lines": [
+    {
+     "t": 1015.0,
+     "s": "M",
+     "es": "Entonces, para recapitular lo que hemos aprendido hoy, la felicidad es una combinación de bienestar general y emociones positivas, no una euforia constante.",
+     "ko": "그럼 오늘 배운 것을 정리하면, 행복은 전반적인 안녕과 긍정적인 감정의 결합이지 끊임없는 들뜸이 아니에요."
+    },
+    {
+     "t": 1027.7,
+     "s": "M",
+     "es": "El dinero ayuda hasta cierto punto, pero no es la clave.",
+     "ko": "돈은 어느 정도까지는 도움이 되지만 열쇠는 아니에요."
+    },
+    {
+     "t": 1033.0,
+     "s": "M",
+     "es": "Y lo más importante, el 40% de nuestra felicidad proviene de nuestras actividades intencionales.",
+     "ko": "그리고 가장 중요한 건, 우리 행복의 40%가 의도적인 활동에서 나온다는 거예요."
+    },
+    {
+     "t": 1041.4,
+     "s": "S",
+     "es": "Un resumen excelente.",
+     "ko": "훌륭한 요약이에요."
+    },
+    {
+     "t": 1043.4,
+     "s": "S",
+     "es": "Y esas actividades incluyen la gratitud, la atención plena, las relaciones sociales, encontrar un propósito y dar a los demás.",
+     "ko": "그 활동에는 감사, 마음챙김, 사회적 관계, 삶의 목적 찾기, 남에게 베풀기가 있죠."
+    },
+    {
+     "t": 1055.0,
+     "s": "M",
+     "es": "También que las emociones negativas son normales y necesarias, que aprender a gestionarlas y desarrollar la resiliencia es fundamental y buscar el estado de flujo en nuestras actividades.",
+     "ko": "또 부정적인 감정은 정상적이고 필요하며, 이를 다루는 법을 배우고 회복탄력성을 기르는 것이 중요하고, 활동에서 몰입 상태를 찾아야 한다는 것도요."
+    },
+    {
+     "t": 1071.1,
+     "s": "S",
+     "es": "Perfecto.",
+     "ko": "완벽해요."
+    },
+    {
+     "t": 1072.0,
+     "s": "S",
+     "es": "Es mucho que procesar, pero lo más importante es empezar pequeño.",
+     "ko": "소화할 게 많지만 가장 중요한 건 작게 시작하는 거예요."
+    },
+    {
+     "t": 1077.5,
+     "s": "S",
+     "es": "Elige una de estas prácticas, la que más te resuene, y empieza a incorporarla en tu vida diaria.",
+     "ko": "이 실천 중 가장 와닿는 하나를 골라 일상에 들이기 시작하세요."
+    },
+    {
+     "t": 1085.1,
+     "s": "M",
+     "es": "Sí, no tiene que ser un cambio drástico de la noche a la mañana.",
+     "ko": "네, 하룻밤 사이에 극적으로 바뀔 필요는 없어요."
+    },
+    {
+     "t": 1090.5,
+     "s": "M",
+     "es": "Pequeños pasos consistentes.",
+     "ko": "꾸준한 작은 발걸음이면 돼요."
+    },
+    {
+     "t": 1093.8,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 1094.6,
+     "s": "S",
+     "es": "Y recuerda, este es un viaje, no un destino.",
+     "ko": "그리고 기억하세요, 이건 여정이지 목적지가 아니에요."
+    },
+    {
+     "t": 1099.6,
+     "s": "S",
+     "es": "Habrá días buenos y días no tan buenos.",
+     "ko": "좋은 날도, 그리 좋지 않은 날도 있을 거예요."
+    },
+    {
+     "t": 1103.0,
+     "s": "S",
+     "es": "Lo importante es la dirección general y el compromiso con tu propio bienestar.",
+     "ko": "중요한 건 전체적인 방향과 자신의 안녕에 대한 다짐이에요."
+    },
+    {
+     "t": 1109.4,
+     "s": "M",
+     "es": "Me ha encantado esta conversación, Sofía.",
+     "ko": "이 대화 정말 좋았어요, 소피아."
+    },
+    {
+     "t": 1112.7,
+     "s": "M",
+     "es": "Me llevo muchas ideas y herramientas prácticas.",
+     "ko": "많은 아이디어와 실용적인 도구를 얻어 가요."
+    },
+    {
+     "t": 1116.6,
+     "s": "S",
+     "es": "A mí también, Mateo.",
+     "ko": "저도요, 마테오."
+    },
+    {
+     "t": 1118.1,
+     "s": "S",
+     "es": "Espero que nuestros oyentes también se sientan inspirados a explorar su propio mapa de la felicidad.",
+     "ko": "청취자 여러분도 각자의 행복 지도를 탐험해 보도록 영감을 받으셨으면 좋겠어요."
+    },
+    {
+     "t": 1126.1,
+     "s": "M",
+     "es": "Seguro que sí.",
+     "ko": "분명 그럴 거예요."
+    },
+    {
+     "t": 1127.3,
+     "s": "M",
+     "es": "Gracias, Sofía, por compartir tu conocimiento.",
+     "ko": "지식을 나눠 줘서 고마워요, 소피아."
+    },
+    {
+     "t": 1130.8,
+     "s": "S",
+     "es": "Gracias a ti, Mateo, por esta conversación tan enriquecedora.",
+     "ko": "이렇게 알찬 대화를 해 줘서 고마워요, 마테오."
+    },
+    {
+     "t": 1135.6,
+     "s": "S",
+     "es": "Y a todos ustedes, gracias por escucharnos en El mapa de la felicidad.",
+     "ko": "그리고 여러분 모두, 〈행복의 지도〉를 들어 주셔서 감사해요."
+    },
+    {
+     "t": 1144.8,
+     "s": "S",
+     "es": "Hasta la próxima.",
+     "ko": "다음에 만나요."
+    },
+    {
+     "t": 1147.4,
+     "s": "M",
+     "es": "Hasta la próxima.",
+     "ko": "다음에 만나요."
+    }
+   ]
+  }
+ ]
+}

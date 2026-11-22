@@ -1,0 +1,427 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각 (프로그램 이름: El mapa de la felicidad)
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 Bienvenida→Bienvenidos, Martin Selman→Martin Seligman, creo que sea→creo que es, en lugar dejar→en lugar de dejar, 군더더기 "¿Entendido?"(자막 오류) 삭제, 끊긴 문장 이어 붙이기 등을 바로잡았어요.
+# 시각은 자막 구간 시각을 단어 위치(글자 수 비례)로 나눠 구한 문장별 시작 시각이에요.
+END 19:10
+
+## 인사 — 행복의 심리학
+[00:00.36]
+S | Bienvenidos a Easy Spanish Podcast. | 이지 스패니시 팟캐스트에 오신 걸 환영해요.
+[00:04.22]
+S | Hola a todos y bienvenidos a El mapa de la felicidad. | 여러분 안녕하세요, 〈행복의 지도〉에 오신 걸 환영해요.
+[00:10.23]
+S | Soy Sofía y estoy superemocionada de sumergirme hoy en un tema que nos concierne a todos, la psicología de la felicidad. | 저는 소피아예요. 오늘 우리 모두와 관련된 주제, 행복의 심리학에 푹 빠져 볼 생각에 너무 설레요.
+[00:19.44]
+M | Y yo soy Mateo. | 저는 마테오예요.
+[00:20.74]
+M | Me parece un tema fascinante, Sofía, porque a menudo pensamos en la felicidad como algo elusivo, ¿verdad? | 정말 흥미로운 주제예요, 소피아. 우리는 흔히 행복을 잡히지 않는 무언가처럼 생각하잖아요, 그렇죠?
+[00:28.50]
+M | Como si fuera una meta lejana en lugar de un camino. | 길이 아니라 먼 목표인 것처럼요.
+[00:32.24]
+S | Exactamente, Mateo. | 맞아요, 마테오.
+[00:33.74]
+S | Muchas personas la ven como un destino, algo que alcanzarán cuando tengan cierto trabajo o cierta cantidad de dinero o una pareja perfecta. | 많은 사람이 행복을 목적지로 봐요. 어떤 직장이나 일정 금액의 돈, 완벽한 연인이 생기면 이룰 수 있는 것으로요.
+[00:45.64]
+M | Sí. Y eso nos lleva a la primera gran pregunta. | 네. 그게 첫 번째 큰 질문으로 이어지죠.
+[00:49.60]
+M | ¿Qué es realmente la felicidad? | 행복이란 정말 무엇일까요?
+[00:52.13]
+M | Porque su significado parece variar mucho de persona a persona. | 그 의미가 사람마다 많이 다른 것 같으니까요.
+
+## 행복이란 무엇인가 — 주관적 안녕감
+[00:57.35]
+S | Tienes toda la razón. | 맞는 말이에요.
+[00:59.06]
+S | Desde una perspectiva psicológica, la felicidad no es solo un estado de euforia constante, es más bien una combinación de satisfacción con la vida en general y la frecuencia de experiencias emocionales positivas. | 심리학적으로 행복은 끊임없는 들뜬 상태만이 아니에요. 오히려 삶 전반에 대한 만족과 긍정적인 감정 경험의 빈도가 합쳐진 거예요.
+[01:15.44]
+M | Ah, entonces no es estar eufórico todo el tiempo, sino una sensación más duradera de bienestar y alegría general. | 아, 그러니까 늘 들떠 있는 게 아니라 더 오래가는 안녕감과 전반적인 기쁨이라는 거네요.
+[01:24.73]
+M | ¿Es así? | 그런가요?
+[01:25.32]
+S | Justo. | 바로 그거예요.
+[01:25.80]
+S | Los psicólogos a menudo hablan de dos componentes principales del bienestar subjetivo. | 심리학자들은 흔히 주관적 안녕감의 두 가지 주요 요소를 이야기해요.
+[01:32.60]
+S | Por un lado, tenemos el componente afectivo, que se refiere a las emociones positivas como la alegría, el placer y el entusiasmo, y la ausencia de emociones negativas. | 한편으로는 정서적 요소가 있는데, 기쁨·즐거움·열정 같은 긍정적인 감정과 부정적인 감정이 없는 상태를 가리켜요.
+[01:47.88]
+S | Y el otro es el componente cognitivo. | 다른 하나는 인지적 요소예요.
+[01:53.12]
+S | Este se refiere a la evaluación de nuestra propia vida, nuestra satisfacción general con cómo van las cosas, nuestras relaciones, nuestro trabajo, nuestra salud, etcétera. | 이는 자기 삶에 대한 평가, 즉 일이 돌아가는 방식과 인간관계, 일, 건강 등에 대한 전반적인 만족을 말해요.
+[02:07.02]
+S | Así que una persona puede tener momentos difíciles y aun así considerarse feliz si su evaluación general de la vida es positiva. | 그래서 어려운 순간이 있어도 삶에 대한 전반적인 평가가 긍정적이라면 스스로 행복하다고 여길 수 있어요.
+[02:18.34]
+M | Eso tiene mucho sentido. | 그거 아주 일리가 있네요.
+[02:20.34]
+S | Absolutamente. | 그렇고말고요.
+[02:21.48]
+S | Es crucial entender que la felicidad no significa la ausencia de tristeza o de momentos difíciles. | 행복이 슬픔이나 어려운 순간이 없다는 뜻이 아님을 이해하는 게 중요해요.
+[02:29.37]
+S | De hecho, la capacidad de procesar y superar desafíos es parte fundamental de un bienestar duradero. | 사실 어려움을 소화하고 이겨내는 능력은 오래가는 안녕감의 핵심 부분이에요.
+[02:36.93]
+M | Es un buen punto. | 좋은 지적이에요.
+[02:38.30]
+M | A menudo se nos vende la idea de que siempre debemos estar sonriendo, y eso puede generar mucha presión y culpa cuando no lo estamos. | 우리는 항상 웃고 있어야 한다는 생각을 강요받곤 하는데, 그렇지 못할 때 큰 압박과 죄책감이 생길 수 있죠.
+[02:49.94]
+S | Sí, y es una trampa. | 네, 그건 함정이에요.
+[02:51.72]
+S | Esa expectativa irreal puede ser un obstáculo para la verdadera felicidad. | 그런 비현실적인 기대는 진짜 행복의 걸림돌이 될 수 있어요.
+[02:57.52]
+S | La vida tiene altibajos. | 삶에는 기복이 있어요.
+[02:59.40]
+S | Y aceptar eso es el primer paso. | 그걸 받아들이는 게 첫걸음이에요.
+
+## 행복에 대한 흔한 오해들
+[03:02.36]
+M | Hablemos de los mitos, Sofía. | 오해에 대해 이야기해 봐요, 소피아.
+[03:04.95]
+M | ¿Cuáles son algunas de las creencias erróneas más comunes sobre la felicidad? | 행복에 대한 가장 흔한 잘못된 믿음에는 어떤 것들이 있을까요?
+[03:12.08]
+S | Me encanta esa pregunta. | 그 질문 정말 좋아요.
+[03:14.36]
+S | El mito número uno, y creo que es el más grande, es que el dinero da la felicidad. | 첫 번째 오해, 그리고 가장 크다고 생각하는 건 돈이 행복을 준다는 거예요.
+[03:22.44]
+S | ¿Qué piensas tú, Mateo? | 마테오는 어떻게 생각해요?
+[03:24.60]
+M | Bueno, creo que el dinero puede comprar comodidad y seguridad, lo cual definitivamente reduce el estrés y puede contribuir a la felicidad, pero no creo que sea el factor determinante. | 글쎄요, 돈으로 편안함과 안정을 살 수 있고 그게 분명히 스트레스를 줄여 행복에 보탬이 될 수는 있지만, 결정적인 요인은 아니라고 생각해요.
+[03:40.50]
+S | Exacto. | 맞아요.
+[03:41.16]
+S | Las investigaciones muestran que una vez que tus necesidades básicas están cubiertas, vivienda, comida, seguridad, un aumento significativo en los ingresos tiene un impacto decreciente en tu nivel de felicidad. | 연구에 따르면 주거·음식·안전 같은 기본 욕구가 채워지고 나면, 소득이 크게 늘어도 행복 수준에 미치는 영향은 점점 줄어들어요.
+[03:55.43]
+S | Hay un umbral a partir del cual más dinero no te hace significativamente más feliz. | 그 선을 넘으면 돈이 더 많아도 눈에 띄게 더 행복해지지는 않는 문턱이 있어요.
+[04:03.00]
+M | Eso es interesante. | 흥미롭네요.
+[04:05.33]
+M | Mucha gente se esfuerza incansablemente por acumular más y más, pensando que así encontrarán la plenitud. | 많은 사람이 그러면 충만함을 찾을 거라 생각하며 쉬지 않고 더 많이 모으려 애쓰죠.
+[04:16.95]
+S | Y esa es la trampa. | 그게 바로 함정이에요.
+[04:18.76]
+S | Se meten en la cinta de correr edónica, como la llaman los psicólogos. | 심리학자들이 말하는 '쾌락의 쳇바퀴'에 빠져 버리는 거예요.
+[04:24.61]
+S | Te adaptas a tu nuevo nivel de ingresos o posesiones y pronto necesitas más para sentir el mismo nivel de placer. | 새로운 소득이나 소유 수준에 적응하고 나면, 같은 수준의 즐거움을 느끼려고 곧 더 많은 것이 필요해져요.
+[04:34.33]
+M | Cinta de correr edónica. | 쾌락의 쳇바퀴.
+[04:36.72]
+M | Me gusta esa expresión. | 그 표현 마음에 들어요.
+[04:38.74]
+M | Siempre corriendo, pero sin avanzar realmente en términos de felicidad. | 늘 달리지만 행복 면에서는 실제로 나아가지 못하는 거네요.
+[04:44.88]
+S | Precisamente. | 바로 그거예요.
+[04:46.08]
+S | Otro mito es que la felicidad viene de tenerlo todo: la casa perfecta, el coche de lujo, el cuerpo ideal. | 또 다른 오해는 행복이 모든 것을 가지는 데서 온다는 거예요. 완벽한 집, 고급 차, 이상적인 몸매 같은 것들요.
+[04:55.07]
+S | La realidad es que la felicidad duradera no se basa en posesiones materiales o logros externos. | 사실 오래가는 행복은 물질적 소유나 외적 성취에 바탕을 두지 않아요.
+[05:02.81]
+M | Eso me resuena mucho. | 그 말에 정말 공감해요.
+[05:04.68]
+M | He conocido a personas que lo tienen todo según los estándares sociales y, sin embargo, no parecen ser más felices que otras con menos. | 사회적 기준으로는 다 가졌는데도 덜 가진 사람들보다 더 행복해 보이지 않는 사람들을 본 적이 있어요.
+[05:15.56]
+S | Es una observación muy aguda. | 아주 예리한 관찰이에요.
+[05:17.82]
+S | La felicidad es mucho más un estado interno y una forma de interactuar con el mundo que una colección de cosas. | 행복은 물건의 모음이라기보다 내면의 상태이자 세상과 관계 맺는 방식이에요.
+[05:26.22]
+S | Está más relacionada con nuestras actitudes y nuestras relaciones. | 우리의 태도와 인간관계와 더 관련이 깊어요.
+[05:31.06]
+M | ¿Y qué hay de la creencia de que la felicidad es algo que simplemente tienes o no tienes, como un rasgo de personalidad fijo? | 그럼 행복은 그냥 타고나거나 아니거나 하는, 고정된 성격 특성이라는 믿음은 어떤가요?
+[05:41.14]
+S | Ese es otro gran mito. | 그것도 또 하나의 큰 오해예요.
+[05:43.10]
+S | Si bien es cierto que hay un componente genético en nuestra predisposición a la felicidad, algunas personas tienen un termostato de felicidad más alto, naturalmente, la mayor parte de nuestra felicidad está bajo nuestro control. | 행복 성향에 유전적 요소가 있고 어떤 사람은 행복 온도 조절기가 태생적으로 더 높게 맞춰져 있는 건 사실이지만, 우리 행복의 대부분은 우리가 통제할 수 있어요.
+[05:59.94]
+M | Eso es una buena noticia porque significa que podemos trabajar en ello, ¿verdad? | 그건 좋은 소식이네요, 우리가 노력할 수 있다는 뜻이니까요. 그렇죠?
+[06:07.08]
+M | Que no estamos predestinados a ser infelices. | 불행하도록 운명 지어져 있지 않다는 거니까요.
+[06:11.54]
+S | Exactamente. | 맞아요.
+[06:12.73]
+S | Martin Seligman, uno de los padres de la psicología positiva, habla de la fórmula de la felicidad. | 긍정심리학의 아버지 중 한 명인 마틴 셀리그먼은 행복의 공식을 이야기해요.
+[06:20.32]
+S | Dice que nuestra felicidad está compuesta por un 50% de genética, un 10% de circunstancias de vida y un 40% de actividades intencionales. | 우리 행복은 유전 50%, 삶의 환경 10%, 의도적인 활동 40%로 이루어져 있다고 해요.
+[06:34.84]
+M | Vaya, un 40% de actividades intencionales, eso es enorme. | 와, 의도적인 활동이 40%라니, 엄청나네요.
+[06:41.87]
+M | Significa que nuestras acciones y decisiones diarias tienen un impacto masivo. | 우리의 일상적인 행동과 결정이 엄청난 영향을 준다는 뜻이잖아요.
+[06:49.40]
+S | Un impacto gigantesco. | 어마어마한 영향이죠.
+[06:51.33]
+S | Esto nos da mucho poder sobre nuestro propio bienestar. | 이건 우리 자신의 안녕에 대해 큰 힘을 줘요.
+[06:56.14]
+S | No somos víctimas de nuestra genética o de nuestras circunstancias. | 우리는 유전이나 환경의 희생자가 아니에요.
+
+## 행복을 키우는 의도적 활동
+[07:02.16]
+M | Entonces, si el 40% son actividades intencionales, ¿cuáles son esas actividades? | 그럼 40%가 의도적인 활동이라면, 그 활동은 어떤 것들일까요?
+[07:09.33]
+M | ¿Cómo podemos empezar a cultivar ese 40%? | 그 40%를 어떻게 키워 나가기 시작할 수 있을까요?
+[07:13.24]
+S | Ahí es donde se pone interesante. | 거기서부터 흥미로워져요.
+[07:15.49]
+S | Hay varias prácticas respaldadas por la investigación que pueden aumentar nuestra felicidad. | 연구로 뒷받침되는, 우리 행복을 높일 수 있는 여러 실천이 있어요.
+[07:22.91]
+S | Una de las más poderosas es la gratitud. | 가장 강력한 것 중 하나는 감사예요.
+[07:25.67]
+M | La gratitud. | 감사요.
+[07:28.04]
+M | Lo he escuchado mucho, pero a veces parece un concepto tan simple. | 많이 들어 봤지만 가끔은 너무 단순한 개념처럼 보여요.
+[07:33.83]
+M | ¿Realmente tiene un impacto tan grande? | 정말 그렇게 큰 영향이 있나요?
+[07:37.20]
+S | Absolutamente. | 물론이에요.
+[07:38.44]
+S | Practicar la gratitud de forma regular, como llevar un diario de gratitud o simplemente tomarte unos minutos cada día para pensar en las cosas por las que estás agradecido, puede cambiar tu perspectiva y aumentar significativamente tu bienestar. | 감사 일기를 쓰거나 매일 몇 분간 고마운 일을 떠올리는 식으로 꾸준히 감사를 실천하면 관점이 바뀌고 안녕감이 크게 높아질 수 있어요.
+[07:56.90]
+M | Me gusta la idea del diario de gratitud. | 감사 일기라는 아이디어가 마음에 들어요.
+[08:00.68]
+M | Escribir las cosas te obliga a detenerte y reflexionar de verdad. | 글로 쓰면 멈춰서 진짜로 되돌아보게 되죠.
+[08:07.07]
+S | Sí. | 네.
+[08:07.36]
+S | Y no tienen que ser cosas enormes. | 그리고 대단한 일일 필요는 없어요.
+[08:10.31]
+S | Puede ser el café de la mañana, un mensaje de un amigo, un día soleado. | 아침 커피, 친구의 메시지, 화창한 날 같은 것이면 돼요.
+[08:16.33]
+S | Entrenas tu cerebro para buscar lo positivo. | 뇌가 긍정적인 것을 찾도록 훈련하는 거예요.
+[08:20.24]
+S | Es como reeducar tu mente para enfocarse en lo bueno. | 마음이 좋은 것에 집중하도록 다시 가르치는 셈이에요.
+[08:25.04]
+M | ¿Y qué otras estrategias hay? | 그럼 다른 전략으로는 어떤 게 있어요?
+[08:27.75]
+S | Otra muy importante es la atención plena o mindfulness. | 또 하나 아주 중요한 건 마음챙김, 즉 마인드풀니스예요.
+[08:33.08]
+S | Consiste en prestar atención al momento presente sin juzgar. | 판단 없이 현재 순간에 주의를 기울이는 거예요.
+[08:37.44]
+S | Se trata de observar tus pensamientos, tus sensaciones y tu entorno tal como son, sin dejarte llevar por ellos. | 생각과 감각, 주변 환경을 있는 그대로 관찰하되 거기에 휩쓸리지 않는 거예요.
+[08:46.22]
+M | Eso es algo que me cuesta. | 그건 저한테 어려운 일이에요.
+[08:48.30]
+M | Mi mente tiende a divagar pensando en el pasado o preocupándose por el futuro. | 제 마음은 과거를 생각하거나 미래를 걱정하며 딴 데로 흘러가는 경향이 있어요.
+[08:54.47]
+S | Es algo común para muchos, pero con práctica se puede mejorar. | 많은 사람에게 흔한 일이고, 연습하면 나아질 수 있어요.
+[09:00.76]
+S | La meditación mindfulness es una herramienta excelente para esto. | 마인드풀니스 명상은 이를 위한 훌륭한 도구예요.
+[09:05.82]
+S | Hay muchas aplicaciones y recursos gratuitos para empezar. | 시작할 수 있는 앱과 무료 자료가 많아요.
+[09:10.52]
+M | ¿Y cómo ayuda eso a la felicidad? | 그게 행복에 어떻게 도움이 되나요?
+[09:13.20]
+M | Simplemente estar más presente. | 그냥 더 현재에 머무는 것만으로요?
+[09:15.80]
+S | Al estar más presente reduces el estrés y la ansiedad porque no te quedas atrapado en el pasado o en el futuro. | 더 현재에 머물면 과거나 미래에 갇히지 않아서 스트레스와 불안이 줄어요.
+[09:24.16]
+S | También te permite apreciar más plenamente las experiencias positivas de tu vida a medida que ocurren. | 또 삶의 긍정적인 경험을 일어나는 대로 더 온전히 음미할 수 있게 해 줘요.
+[09:33.04]
+M | Es como saborear cada momento en lugar de dejar que se te escape. | 순간순간을 놓쳐 버리지 않고 음미하는 것과 같네요.
+[09:38.67]
+S | Exacto. | 맞아요.
+[09:39.29]
+S | La tercera estrategia clave son las relaciones sociales. | 세 번째 핵심 전략은 사회적 관계예요.
+[09:44.19]
+S | Los seres humanos somos criaturas sociales y la conexión con otros es fundamental para nuestra felicidad. | 인간은 사회적 존재라서 다른 사람과의 연결이 우리 행복에 필수적이에요.
+[09:52.36]
+M | Eso es algo que he experimentado personalmente. | 그건 제가 직접 겪은 일이에요.
+[09:56.20]
+M | Cuando me siento aislado, mi estado de ánimo decae rápidamente. | 고립감을 느끼면 기분이 금세 가라앉아요.
+[10:01.43]
+S | Las investigaciones lo confirman una y otra vez. | 연구들이 거듭 그걸 확인해 줘요.
+[10:05.56]
+S | Las personas con fuertes lazos sociales tienden a ser más felices y viven más tiempo. | 사회적 유대가 강한 사람들은 더 행복하고 더 오래 사는 경향이 있어요.
+[10:12.18]
+S | Invierte tiempo y energía en tus relaciones con amigos y familiares. | 친구와 가족과의 관계에 시간과 에너지를 투자하세요.
+[10:17.63]
+M | Y no solo las relaciones profundas, sino también las interacciones más superficiales, como hablar con el barista o el tendero. | 깊은 관계뿐 아니라 바리스타나 가게 주인과 이야기하는 것 같은 가벼운 교류도요.
+[10:29.03]
+S | Sí, incluso esas microinteracciones pueden tener un impacto positivo en tu día. | 네, 그런 작은 교류조차 하루에 긍정적인 영향을 줄 수 있어요.
+[10:35.32]
+S | Nos recuerdan que somos parte de una comunidad, pero las relaciones profundas basadas en la confianza y el apoyo son las que realmente nutren el alma. | 그런 교류는 우리가 공동체의 일부임을 일깨워 주지만, 영혼을 진짜로 채워 주는 건 신뢰와 지지에 바탕을 둔 깊은 관계예요.
+[10:47.05]
+M | Eso es algo a lo que a veces no le damos la importancia que merece en la vida moderna, con tanta gente enfocada en el trabajo y las redes sociales. | 현대 생활에서는 일과 SNS에 집중하는 사람이 많아서, 그 중요성을 마땅한 만큼 두지 않을 때가 있어요.
+[10:56.53]
+S | Las redes sociales pueden ser una espada de doble filo. | SNS는 양날의 검일 수 있어요.
+[11:02.91]
+S | Pueden conectar, pero también pueden generar comparaciones poco saludables y sentimientos de insuficiencia. | 사람들을 이어 줄 수도 있지만, 건강하지 못한 비교와 부족하다는 느낌을 낳을 수도 있어요.
+[11:11.00]
+S | Es importante usarlas con moderación y conciencia. | 적당히, 그리고 의식하면서 쓰는 게 중요해요.
+[11:14.94]
+M | Muy cierto. | 맞는 말이에요.
+[11:15.84]
+M | ¿Hay alguna otra estrategia importante que debamos mencionar? | 언급해야 할 다른 중요한 전략이 또 있을까요?
+[11:20.83]
+S | Sí, otra muy poderosa es encontrar un propósito o significado en la vida. | 네, 또 하나 아주 강력한 건 삶의 목적이나 의미를 찾는 거예요.
+[11:27.40]
+S | Esto no tiene que ser algo grandioso como salvar el mundo. | 세상을 구하는 것처럼 거창할 필요는 없어요.
+[11:32.03]
+S | Puede ser algo tan simple como ser un buen padre, un buen amigo o contribuir a tu comunidad de alguna manera. | 좋은 부모나 좋은 친구가 되는 것, 어떤 식으로든 공동체에 기여하는 것처럼 단순해도 돼요.
+[11:40.73]
+M | Entonces, es tener algo más grande que uno mismo por lo que vivir, algo que te dé dirección y sentido. | 그러니까 나 자신보다 더 큰, 살아갈 이유가 되고 방향과 의미를 주는 무언가를 갖는 거군요.
+[11:49.87]
+S | Sí, exactamente. | 네, 맞아요.
+[11:51.32]
+S | Cuando sientes que tu vida tiene un propósito, incluso los desafíos se vuelven más manejables porque los ves como parte de un camino más grande. | 삶에 목적이 있다고 느끼면 어려움조차 더 감당할 만해져요. 더 큰 길의 일부로 보게 되니까요.
+[12:02.11]
+S | Te da resiliencia. | 회복탄력성을 줘요.
+[12:03.78]
+S | Es como tener un faro que te guía. | 길을 안내해 주는 등대가 있는 것과 같아요.
+[12:06.94]
+M | Y supongo que esto se relaciona con la contribución a los demás, ¿no? | 그리고 이건 다른 사람들에 대한 기여와도 관련이 있겠죠?
+[12:13.08]
+S | Perfectamente. | 그럼요.
+[12:14.36]
+S | Ayudar a los demás, dar algo de ti, es una de las vías más directas hacia la felicidad. | 다른 사람을 돕고 자신의 무언가를 내어 주는 것은 행복으로 가는 가장 직접적인 길 중 하나예요.
+[12:21.97]
+S | Se activa el circuito de recompensa en el cerebro. | 뇌의 보상 회로가 활성화돼요.
+[12:22.86]
+M | El circuito de recompensa. | 보상 회로요.
+[12:28.76]
+M | Así que nuestro cerebro nos recompensa por ser amables. | 그러니까 우리 뇌가 친절하게 행동하면 보상을 주는 거네요.
+[12:33.72]
+S | Así es. | 그렇죠.
+[12:34.36]
+S | Libera neurotransmisores como la dopamina, haciéndonos sentir bien. | 도파민 같은 신경전달물질이 분비되어 기분이 좋아져요.
+[12:40.33]
+S | Es una prueba científica de que ser generoso es bueno para ti. | 너그러운 것이 나에게도 좋다는 과학적 증거예요.
+[12:46.53]
+M | Qué maravilla. | 멋지네요.
+[12:47.97]
+M | Entonces, la felicidad no es solo un sentimiento, sino un proceso activo que podemos cultivar con nuestras acciones diarias. | 그러니까 행복은 단순한 감정이 아니라 일상의 행동으로 키울 수 있는 능동적인 과정이네요.
+
+## 부정적인 감정, 회복탄력성, 몰입
+[12:58.84]
+S | Precisamente. | 바로 그거예요.
+[12:59.72]
+S | Y es importante hablar de un concepto que a menudo se malinterpreta, la relación entre las emociones negativas y la felicidad. | 그리고 자주 오해받는 개념, 곧 부정적인 감정과 행복의 관계를 이야기하는 것도 중요해요.
+[13:09.60]
+M | Ah, sí. | 아, 그렇죠.
+[13:10.15]
+M | Como dijimos al principio, la felicidad no es la ausencia de tristeza. | 처음에 말했듯이 행복은 슬픔이 없는 게 아니죠.
+[13:15.96]
+M | ¿Cómo encajan las emociones negativas en este panorama? | 부정적인 감정은 이 그림에서 어떻게 들어맞나요?
+[13:16.99]
+S | Las emociones negativas son una parte natural e inevitable de la vida. | 부정적인 감정은 삶의 자연스럽고 피할 수 없는 부분이에요.
+[13:26.72]
+S | Intentar suprimirlas o ignorarlas es contraproducente. | 억누르거나 무시하려 하면 오히려 역효과가 나요.
+[13:31.39]
+S | De hecho, son vitales para nuestro crecimiento y bienestar. | 사실 그것은 우리의 성장과 안녕에 꼭 필요해요.
+[13:36.83]
+M | Vitales. ¿En qué sentido? | 꼭 필요하다고요? 어떤 의미에서요?
+[13:39.09]
+S | La tristeza, por ejemplo, puede ayudarnos a procesar pérdidas y a buscar apoyo. | 예를 들어 슬픔은 상실을 받아들이고 도움을 구하도록 해 줄 수 있어요.
+[13:45.57]
+S | La ira puede señalarnos que se han cruzado nuestros límites o que hay una injusticia. | 분노는 우리의 경계가 침범당했거나 부당한 일이 있음을 알려 줄 수 있어요.
+[13:52.92]
+S | El miedo nos protege del peligro. | 두려움은 우리를 위험에서 지켜 줘요.
+[13:56.36]
+M | Así que son como señales, como un sistema de alerta. | 그러니까 신호, 경보 시스템 같은 거네요.
+[14:01.23]
+S | Exacto. | 맞아요.
+[14:01.84]
+S | La clave no es eliminarlas, sino aprender a gestionarlas de forma saludable. | 핵심은 없애는 게 아니라 건강하게 다루는 법을 배우는 거예요.
+[14:08.31]
+S | Esto implica reconocerlas, permitirnos sentirlas y luego buscar formas constructivas de responder a ellas. | 그러려면 감정을 알아차리고, 느끼도록 허용한 다음, 건설적으로 대응할 방법을 찾아야 해요.
+[14:16.63]
+M | Y supongo que la atención plena que mencionamos antes ayuda en esto, ¿no? | 그리고 앞서 말한 마음챙김이 여기에도 도움이 되겠죠?
+[14:22.40]
+S | A observar la emoción sin juzgarla ni dejarse arrastrar por ella completamente. | 감정을 판단하지 않고 관찰하며, 그것에 완전히 끌려가지 않게 해 줘요.
+[14:29.41]
+S | Es una habilidad crucial. | 아주 중요한 기술이에요.
+[14:31.47]
+S | También es importante desarrollar la resiliencia, la capacidad de recuperarse de los contratiempos. | 실패와 차질에서 회복하는 능력인 회복탄력성을 기르는 것도 중요해요.
+[14:39.22]
+M | La resiliencia, ¿eso se aprende o se nace con ella? | 회복탄력성은 배우는 건가요, 타고나는 건가요?
+[14:46.14]
+S | Se aprende y se desarrolla. | 배우고 발달시키는 거예요.
+[14:49.96]
+S | Cada vez que superas un desafío, fortaleces tu resiliencia. | 어려움을 이겨낼 때마다 회복탄력성이 강해져요.
+[14:54.55]
+S | Es como un músculo que crece con el ejercicio. | 운동하면 자라는 근육과 같아요.
+[14:58.42]
+M | Eso es alentador. | 힘이 나는 말이네요.
+[14:59.99]
+M | Significa que los momentos difíciles, aunque dolorosos, nos hacen más fuertes y, a la larga, más capaces de experimentar una felicidad más profunda. | 힘든 순간이 고통스럽더라도 우리를 더 강하게 만들고, 길게 보면 더 깊은 행복을 경험할 수 있게 해 준다는 뜻이네요.
+[15:13.00]
+S | Precisamente. | 바로 그거예요.
+[15:14.32]
+S | Y hay otro concepto interesante que me gustaría mencionar: el estado de flujo o flow. | 그리고 소개하고 싶은 흥미로운 개념이 하나 더 있는데, 바로 몰입 상태, 즉 플로예요.
+[15:20.51]
+M | Estado de flujo. | 몰입 상태요.
+[15:24.37]
+M | ¿Qué es eso? | 그게 뭐예요?
+[15:25.43]
+S | Es un estado mental en el que una persona está completamente inmersa en una actividad, sintiendo un disfrute y una concentración total. | 한 사람이 어떤 활동에 완전히 빠져서 즐거움과 완전한 집중을 느끼는 정신 상태예요.
+[15:38.34]
+S | El tiempo parece volar y te sientes completamente absorbido por lo que estás haciendo. | 시간이 날아가는 듯하고 하고 있는 일에 완전히 빨려 들어간 느낌이 들어요.
+[15:45.12]
+M | Ah, creo que es a lo que te refieres, como cuando estás pintando o tocando un instrumento y te olvidas de todo lo demás. | 아, 무슨 말인지 알 것 같아요. 그림을 그리거나 악기를 연주하면서 다른 모든 걸 잊어버릴 때처럼요.
+[15:55.63]
+S | Exacto. | 맞아요.
+[15:56.28]
+S | O cuando estás leyendo un libro fascinante, un proyecto que te apasiona o incluso haciendo ejercicio. | 아니면 매혹적인 책을 읽을 때, 열정을 쏟는 프로젝트를 할 때, 심지어 운동할 때도요.
+[16:03.88]
+S | En ese estado no hay espacio para la preocupación o la autoconciencia. | 그 상태에서는 걱정이나 자의식이 들어설 자리가 없어요.
+[16:10.00]
+M | Y supongo que encontrar actividades que nos pongan en ese estado de flujo ayuda a aumentar la felicidad, ¿verdad? | 그리고 그런 몰입 상태로 이끄는 활동을 찾으면 행복이 커지는 데 도움이 되겠죠, 그렇죠?
+[16:18.10]
+S | Sí, es una fuente de gran satisfacción y bienestar. | 네, 큰 만족과 안녕의 원천이에요.
+[16:22.49]
+S | Identifica qué actividades te llevan a ese estado y dedícales tiempo regularmente. | 어떤 활동이 그 상태로 이끄는지 찾아서 꾸준히 시간을 들이세요.
+[16:29.34]
+S | Es una forma de encontrar alegría en el proceso, no solo en el resultado. | 결과뿐 아니라 과정에서 기쁨을 찾는 방법이에요.
+[16:35.25]
+M | Es un buen recordatorio para buscar pasiones y dedicarles tiempo, no solo a las obligaciones. | 의무에만이 아니라 열정을 찾아 거기에 시간을 쓰라는 좋은 일깨움이네요.
+[16:43.41]
+S | Totalmente. | 완전히요.
+[16:44.59]
+S | La felicidad no es solo un sentimiento, es una habilidad que se cultiva. | 행복은 단순한 감정이 아니라 키워 가는 기술이에요.
+[16:51.84]
+S | Requiere práctica diaria, elección consciente. | 매일의 연습과 의식적인 선택이 필요해요.
+
+## 정리와 마무리
+[16:55.04]
+M | Entonces, para recapitular lo que hemos aprendido hoy, la felicidad es una combinación de bienestar general y emociones positivas, no una euforia constante. | 그럼 오늘 배운 것을 정리하면, 행복은 전반적인 안녕과 긍정적인 감정의 결합이지 끊임없는 들뜸이 아니에요.
+[17:07.73]
+M | El dinero ayuda hasta cierto punto, pero no es la clave. | 돈은 어느 정도까지는 도움이 되지만 열쇠는 아니에요.
+[17:13.04]
+M | Y lo más importante, el 40% de nuestra felicidad proviene de nuestras actividades intencionales. | 그리고 가장 중요한 건, 우리 행복의 40%가 의도적인 활동에서 나온다는 거예요.
+[17:21.42]
+S | Un resumen excelente. | 훌륭한 요약이에요.
+[17:23.38]
+S | Y esas actividades incluyen la gratitud, la atención plena, las relaciones sociales, encontrar un propósito y dar a los demás. | 그 활동에는 감사, 마음챙김, 사회적 관계, 삶의 목적 찾기, 남에게 베풀기가 있죠.
+[17:34.99]
+M | También que las emociones negativas son normales y necesarias, que aprender a gestionarlas y desarrollar la resiliencia es fundamental y buscar el estado de flujo en nuestras actividades. | 또 부정적인 감정은 정상적이고 필요하며, 이를 다루는 법을 배우고 회복탄력성을 기르는 것이 중요하고, 활동에서 몰입 상태를 찾아야 한다는 것도요.
+[17:51.13]
+S | Perfecto. | 완벽해요.
+[17:51.97]
+S | Es mucho que procesar, pero lo más importante es empezar pequeño. | 소화할 게 많지만 가장 중요한 건 작게 시작하는 거예요.
+[17:57.51]
+S | Elige una de estas prácticas, la que más te resuene, y empieza a incorporarla en tu vida diaria. | 이 실천 중 가장 와닿는 하나를 골라 일상에 들이기 시작하세요.
+[18:05.09]
+M | Sí, no tiene que ser un cambio drástico de la noche a la mañana. | 네, 하룻밤 사이에 극적으로 바뀔 필요는 없어요.
+[18:10.50]
+M | Pequeños pasos consistentes. | 꾸준한 작은 발걸음이면 돼요.
+[18:13.81]
+S | Exacto. | 맞아요.
+[18:14.64]
+S | Y recuerda, este es un viaje, no un destino. | 그리고 기억하세요, 이건 여정이지 목적지가 아니에요.
+[18:19.61]
+S | Habrá días buenos y días no tan buenos. | 좋은 날도, 그리 좋지 않은 날도 있을 거예요.
+[18:23.03]
+S | Lo importante es la dirección general y el compromiso con tu propio bienestar. | 중요한 건 전체적인 방향과 자신의 안녕에 대한 다짐이에요.
+[18:29.42]
+M | Me ha encantado esta conversación, Sofía. | 이 대화 정말 좋았어요, 소피아.
+[18:32.71]
+M | Me llevo muchas ideas y herramientas prácticas. | 많은 아이디어와 실용적인 도구를 얻어 가요.
+[18:36.56]
+S | A mí también, Mateo. | 저도요, 마테오.
+[18:38.09]
+S | Espero que nuestros oyentes también se sientan inspirados a explorar su propio mapa de la felicidad. | 청취자 여러분도 각자의 행복 지도를 탐험해 보도록 영감을 받으셨으면 좋겠어요.
+[18:46.14]
+M | Seguro que sí. | 분명 그럴 거예요.
+[18:47.27]
+M | Gracias, Sofía, por compartir tu conocimiento. | 지식을 나눠 줘서 고마워요, 소피아.
+[18:50.82]
+S | Gracias a ti, Mateo, por esta conversación tan enriquecedora. | 이렇게 알찬 대화를 해 줘서 고마워요, 마테오.
+[18:55.62]
+S | Y a todos ustedes, gracias por escucharnos en El mapa de la felicidad. | 그리고 여러분 모두, 〈행복의 지도〉를 들어 주셔서 감사해요.
+[19:04.83]
+S | Hasta la próxima. | 다음에 만나요.
+[19:07.42]
+M | Hasta la próxima. | 다음에 만나요.
