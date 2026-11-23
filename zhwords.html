@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>중국어 단어장 · 충호의 어학 열공 사이트</title>
+<meta name="description" content="HSK 1~5급 중국어 단어 2,506개를 급수·품사별로 찾아보고, 카드 복습과 퀴즈로 공부하는 단어장">
+<meta name="theme-color" content="#c8102e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📕</text></svg>">
+<link rel="stylesheet" href="assets/style.css?v=16">
+<style>
+  .zf { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 8px 0; }
+  .zf select { padding: 5px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); font-size: 13px; }
+  .lvls { display: flex; flex-wrap: wrap; gap: 4px; }
+  .lvls button { border: 1px solid var(--line); background: var(--bg); color: var(--fg); border-radius: 999px; padding: 3px 11px; font-size: 13px; cursor: pointer; }
+  .lvls button[aria-pressed="true"] { background: var(--hc); border-color: var(--hc); color: #fff; }
+  .vcard .hz { font-size: calc(21px * var(--z)); font-weight: 600; margin-right: 6px; }
+  .vcard .pyw { color: var(--mut); font-size: calc(14.5px * var(--z)); margin-right: 4px; }
+  .vcard .tags .chip { margin-right: 3px; }
+  body.hidepy .vcard:not(.open) .pyw { filter: blur(5px); cursor: pointer; }
+  .fcard .fw.hz { font-size: calc(44px * var(--z)); }
+  .fcard .pyb { font-size: calc(19px * var(--z)); color: var(--mut); }
+  .qz .qhz { font-size: calc(40px * var(--z)); font-weight: 700; text-align: center; margin: 16px 0 4px; }
+  .qz .qko { font-size: calc(22px * var(--z)); font-weight: 600; color: var(--hc); text-align: center; margin: 16px 0 4px; }
+  .qz .qpy { text-align: center; color: var(--mut); min-height: 1.4em; }
+  .qz .opt .py { color: var(--mut); font-size: 13px; margin-left: 6px; }
+  .qz .opt.hzopt { font-size: calc(20px * var(--z)); }
+  .qz .score { font-size: 28px; font-weight: 700; text-align: center; margin: 14px 0 4px; }
+  .qz .wrongs { text-align: left; margin: 10px 0; }
+  .qz .wrongs li { margin: 3px 0; }
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <div class="row"><a class="back" href="./?lang=zh">‹ 중국어</a><div class="ttl">📕 중국어 단어장</div></div>
+</div></div>
+
+<div class="wrap">
+  <div class="vstats" id="vstats"></div>
+
+  <input class="search" id="q" type="search" placeholder="한자·병음·한국어 뜻으로 찾기 (병음은 성조 없이 써도 돼요: nihao, lv)" style="margin:6px 0">
+  <div class="zf"><div class="lvls" id="lvls"></div></div>
+  <div class="zf">
+    <select id="pos" aria-label="품사"></select>
+    <select id="st" aria-label="외운 단어">
+      <option value="all">전체</option><option value="new">아직 못 외운 단어</option><option value="known">외운 단어</option>
+    </select>
+    <select id="ord" aria-label="순서">
+      <option value="orig">원래 순서</option><option value="py">병음순</option><option value="rnd">섞기</option>
+    </select>
+  </div>
+
+  <div class="vtools">
+    <div class="seg" id="mseg"><button data-m="list">📋 단어 목록</button><button data-m="review">🔁 카드 복습</button><button data-m="quiz">✏️ 퀴즈</button></div>
+    <span class="opts" id="listOpts" style="margin:0">
+      <label><input type="checkbox" id="optCover"> 뜻 가리기</label>
+      <label><input type="checkbox" id="optPy"> 병음 가리기</label>
+    </span>
+  </div>
+  <p class="hint" id="lcount"></p>
+
+  <section id="pane-list">
+    <div class="vgrid" id="vgrid"></div>
+    <p style="text-align:center"><button class="btn" id="more" hidden>더 보기</button></p>
+  </section>
+
+  <section id="pane-review" hidden>
+    <div id="rv"></div>
+    <details class="srsopt">
+      <summary>⚙️ 복습 설정</summary>
+      <div class="optgrid">
+        <label>카드 앞면 <select id="oDir"><option value="f">한자 → 병음·뜻</option><option value="b">뜻 → 한자</option></select></label>
+        <label>하루 새 단어 <select id="oNew"><option>5</option><option>10</option><option>20</option><option>30</option><option>50</option></select>개</label>
+        <label><input type="checkbox" id="oSay"> 답을 볼 때 자동 발음</label>
+      </div>
+      <p class="hint">간격 반복: 맞힌 단어는 1일 → 4일 → 열흘 → 한 달…처럼 점점 늦게, 틀린 단어는 바로 다시 나와요.
+        복습할 단어는 조건과 상관없이 모두 나오고, 새 단어는 위에서 고른 급수·품사·검색 조건에 맞는 단어에서 단어장 순서대로 나와요.
+        「외웠어요」를 누른 단어는 새 단어에서 빠져요. 기록은 이 기기의 브라우저에 저장돼요.</p>
+    </details>
+  </section>
+
+  <section id="pane-quiz" hidden>
+    <div id="qz" class="qz"></div>
+    <details class="srsopt">
+      <summary>⚙️ 퀴즈 설정</summary>
+      <div class="optgrid">
+        <label>문제 <select id="qDir"><option value="f">한자 → 뜻 고르기</option><option value="b">뜻 → 한자 고르기</option><option value="l">발음 듣고 뜻 고르기</option></select></label>
+        <label>한 번에 <select id="qN"><option>10</option><option>20</option><option>30</option></select>문제</label>
+      </div>
+      <p class="hint">문제는 위에서 고른 급수·품사·검색·외운 단어 조건에 맞는 단어에서 나와요. 보기는 같은 품사 단어에서 골라요.</p>
+    </details>
+  </section>
+
+  <footer>충호의 중국어 단어장(엑셀 「중국어 단어 8」)을 그대로 옮긴 거예요. HSK 1–3급 599개 · 4급 596개 · 5급 1,265개 · 급수 표시 없음 46개. 🔊는 브라우저 음성으로 읽어요.</footer>
+</div>
+<script src="assets/common.js"></script>
+<script src="assets/zhwords.js?v=1"></script>
+</body>
+</html>

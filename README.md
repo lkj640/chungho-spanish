@@ -48,6 +48,14 @@ python3 tools/make_lesson.py 파일.m4a --lang en --hide-cast --push            
 4. `python3 tools/build.py` 실행 → `data.json`과 `lessons.json`이 만들어져요.
 5. commit하고 push하면 GitHub Pages에 반영돼요.
 
+## 중국어 단어장 (`zhwords.html`)
+
+엑셀 단어장(拼音 · 汉字 · 意思 · 词类 · HSK級)을 바꾸면 다시 만들어요.
+
+```bash
+python3 tools/build_zh_wordbook.py "…/중국어 공부/중국어 단어 8.xlsx"   # → wordbook/zh.json
+```
+
 ## 내 컴퓨터에서 미리 보기
 
 ```bash

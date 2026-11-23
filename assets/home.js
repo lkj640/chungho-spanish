@@ -32,7 +32,9 @@
     const due = dueN(code);
     if (code === "es") return `<a class="sitecard mat vocabcard" href="wordbook.html#review">
       <span class="em">📗</span><span><b>스페인어 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">엑셀 단어장 4,389개 + 강의 단어 · 한국어 뜻 · 동사 활용표 · 간격 반복(SRS) 복습</span></span><span class="go">›</span></a>`;
-    return `<a class="sitecard mat vocabcard" href="vocab.html?lang=${code}">
+    const zhBook = code === "zh" ? `<a class="sitecard mat vocabcard" href="zhwords.html">
+      <span class="em">📕</span><span><b>중국어 단어장 · HSK 1~5급 2,506개</b><span class="d">엑셀 단어장 · 급수·품사별 찾기 · 병음 검색 · 카드 복습 · 4지선다 퀴즈</span></span><span class="go">›</span></a>` : "";
+    return zhBook + `<a class="sitecard mat vocabcard" href="vocab.html?lang=${code}">
       <span class="em">📇</span><span><b>통합 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">모든 강의 단어를 간격 반복(SRS) 카드로 복습</span></span><span class="go">›</span></a>`;
   };
   const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">
