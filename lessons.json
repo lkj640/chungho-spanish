@@ -1,6 +1,28 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-23-2",
+   "lang": "es",
+   "date": "2026-11-23",
+   "title": "몸과 외모, 몸으로 하는 동작 — 스페인어 어휘 1장 (1–3과)",
+   "es": "Esa historia no tiene ni pies ni cabeza.",
+   "emoji": "🧍",
+   "level": "A1–A2",
+   "channel": "스페인어 어휘 교재 오디오",
+   "youtube": null,
+   "duration": "14:27",
+   "summary": "스페인어 어휘 교재 1장의 1~3과 오디오 세 개를 하나로 이었어요. 1과는 머리부터 발끝까지 몸의 부위(pelo, ojo, muela, codo, tobillo…), 2과는 외모를 묘사하는 표현(ser alto, tener canas, tener buen tipo, parecerse a…), 3과는 몸으로 하는 동작(despertarse, afeitarse, sonarse, madrugar, fallecer…)이에요. 단어 다음에 바로 예문이 나와서, 문장을 눌러 듣고 따라 말하며 외우기 좋아요. 'de oreja a oreja', 'ni pies ni cabeza', 'talón de Aquiles' 같은 관용 표현도 함께 나와요.",
+   "topics": [
+    "1과 몸: pelo · ojo · nariz · muela · cuello · codo · muñeca · rodilla · tobillo …",
+    "2과 외모: ser alto · estar calvo · tener canas · tener los ojos claros · tener buen tipo",
+    "3과 동작: despertarse · levantarse · afeitarse · sonarse · madrugar · fallecer",
+    "관용 표현: de oreja a oreja · ni pies ni cabeza · el talón de Aquiles",
+    "문법: me duele(n) · tener + 신체 + 형용사 · ser/estar/tener · 재귀동사"
+   ],
+   "vocabCount": 52,
+   "lineCount": 215
+  },
+  {
    "id": "zh-2026-11-23",
    "lang": "zh",
    "date": "2026-11-23",

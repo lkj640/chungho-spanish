@@ -1,0 +1,442 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 낭독. 단어 → 예문 순서로 읽는 어휘 교재 오디오예요. END = 오디오 끝 시각
+# 원본: 사용자 제공 오디오 01-01(1과) · 01-02(2과) · 01-03(3과)을 순서대로 이어 붙이고 Whisper(medium)로 받아쓰기. 인식 오류(Junaquim→Yuna Kim, Muy bien→Huele muy bien, Unidad / Dos→Unidad 2)는 다시 들어서 바로잡았어요.
+# 시각은 Whisper 단어 시각으로 구한 문장별 시작 시각이에요.
+END 14:27
+
+## Unidad 1 — 몸 ① 얼굴과 머리
+[00:06.26]
+N | Capítulo 1. Unidad 1. | 1장. 1과.
+[00:16.00]
+N | Pelo | 머리카락
+[00:17.40]
+N | Quiero cortarme el pelo. | 머리를 자르고 싶어요.
+[00:22.98]
+N | Oreja | 귀 (바깥귀)
+[00:24.38]
+N | Ana siempre tiene una sonrisa de oreja a oreja. | 아나는 늘 입이 귀에 걸리게 웃어요.
+[00:31.86]
+N | Ojo | 눈
+[00:33.00]
+N | Mi novia tiene los ojos muy grandes. | 내 여자 친구는 눈이 아주 커요.
+[00:39.60]
+N | Nariz | 코
+[00:41.00]
+N | Tengo la nariz tapada por el resfriado. | 감기 때문에 코가 막혔어요.
+[00:46.52]
+N | Boca | 입
+[00:47.54]
+N | No hables con la boca llena. | 입에 음식을 넣은 채로 말하지 마.
+[00:52.76]
+N | Mano | 손
+[00:54.16]
+N | Este collar está hecho a mano. | 이 목걸이는 손으로 만든 거예요.
+[00:59.98]
+N | Cara | 얼굴
+[01:01.12]
+N | ¿Qué cara tiene tu jefe? | 네 상사는 어떻게 생겼어?
+[01:05.56]
+N | Cabeza | 머리
+[01:07.04]
+N | Me duele mucho la cabeza. | 머리가 많이 아파요.
+[01:12.14]
+N | Ceja | 눈썹
+[01:13.20]
+N | José tiene las cejas muy pobladas. | 호세는 눈썹이 아주 짙어요.
+[01:20.12]
+N | Oído | 귀 (청각), 속귀
+[01:21.12]
+N | Miguel toca el piano de oído. | 미겔은 악보 없이 귀로 듣고 피아노를 쳐요.
+[01:27.94]
+N | Labio | 입술
+[01:29.22]
+N | Tengo los labios secos en invierno. | 겨울엔 입술이 건조해요.
+[01:35.20]
+N | Diente | 이, 치아
+[01:37.20]
+N | Ya me lavo los dientes, mamá. | 지금 이 닦을게요, 엄마.
+[01:41.88]
+N | Muela | 어금니
+[01:43.00]
+N | Tengo que sacarme la muela del juicio. | 사랑니를 뽑아야 해요.
+[01:51.12]
+N | Lengua | 혀
+[01:52.24]
+N | Mamá, Luis me ha sacado la lengua. | 엄마, 루이스가 나한테 혀를 내밀었어요.
+## Unidad 1 — 몸 ② 목, 팔, 몸통
+[01:59.14]
+N | Cuello | 목
+[02:00.26]
+N | Siento algo en el cuello. | 목에 뭔가 느껴져요.
+[02:05.30]
+N | Garganta | 목구멍
+[02:06.36]
+N | Me duele la garganta. | 목이 아파요.
+[02:11.62]
+N | Corazón | 심장, 마음
+[02:12.70]
+N | No me gustan las revistas del corazón. | 연예·가십 잡지는 안 좋아해요.
+[02:19.34]
+N | Brazo | 팔
+[02:20.42]
+N | Tengo los brazos fofos, así que voy a hacer ejercicio. | 팔이 물렁해서 운동을 할 거예요.
+[02:28.60]
+N | Codo | 팔꿈치
+[02:29.68]
+N | Ana me dio con el codo. | 아나가 팔꿈치로 나를 쳤어요.
+[02:35.42]
+N | Muñeca | 손목
+[02:36.82]
+N | Me duele la muñeca al coger el ratón. | 마우스를 잡으면 손목이 아파요.
+[02:43.24]
+N | Dedo | 손가락
+[02:44.02]
+N | Tienes los dedos finos. | 너는 손가락이 가늘구나.
+[02:49.66]
+N | Estómago | 위, 배
+[02:50.70]
+N | Me duele el estómago desde ayer. | 어제부터 배가 아파요.
+[02:57.64]
+N | Espalda | 등
+[02:58.52]
+N | Siento algo en la espalda. | 등에 뭔가 느껴져요.
+[03:04.28]
+N | Cintura | 허리
+[03:05.60]
+N | Mi hermana mayor tiene una cintura de avispa. | 우리 언니는 개미허리예요.
+[03:13.40]
+N | Culo | 엉덩이 (구어)
+[03:14.06]
+N | Me duele el culo de tanto estar sentado. | 너무 오래 앉아 있어서 엉덩이가 아파요.
+[03:21.56]
+N | Pierna | 다리
+[03:22.88]
+N | Tengo una cicatriz en la pierna derecha. | 오른쪽 다리에 흉터가 있어요.
+[03:29.44]
+N | Rodilla | 무릎
+[03:30.48]
+N | Siempre me duele la rodilla derecha después de jugar al fútbol. | 축구를 하고 나면 늘 오른쪽 무릎이 아파요.
+[03:39.08]
+N | Pie | 발
+[03:40.88]
+N | Esa historia no tiene ni pies ni cabeza. | 그 이야기는 앞뒤가 하나도 안 맞아요.
+[03:47.02]
+N | Cuerpo | 몸, 시체
+[03:48.06]
+N | La policía dijo que el cuerpo estaba debajo del puente. | 경찰은 시신이 다리 밑에 있었다고 했어요.
+## Unidad 1 — 몸 ③ 더 자세한 부위
+[03:57.58]
+N | Frente | 이마
+[03:58.40]
+N | Me ha salido un grano en la frente. | 이마에 여드름이 났어요.
+[04:05.54]
+N | Pestaña | 속눈썹
+[04:06.64]
+N | Mi sobrina tiene las pestañas muy largas. | 내 조카딸은 속눈썹이 아주 길어요.
+[04:13.86]
+N | Mejilla | 뺨
+[04:14.98]
+N | Los españoles se dan un beso en cada mejilla para saludarse y despedirse. | 스페인 사람들은 만나고 헤어질 때 양 뺨에 입맞춤을 해요.
+[04:25.56]
+N | Piel | 피부
+[04:26.84]
+N | Yuna Kim tiene la piel de porcelana. | 김연아는 도자기 같은 피부를 가졌어요.
+[04:33.44]
+N | Hombro | 어깨
+[04:34.72]
+N | Alejandro tiene los hombros anchos. | 알레한드로는 어깨가 넓어요.
+[04:40.68]
+N | Pecho | 가슴
+[04:41.82]
+N | Siento un dolor agudo en el pecho. | 가슴에 날카로운 통증이 느껴져요.
+[04:48.74]
+N | Pulmón | 폐
+[04:49.98]
+N | Raúl tuvo un problema grave en el pulmón. | 라울은 폐에 심각한 문제가 있었어요.
+[04:56.58]
+N | Barriga | 배 (구어), 뱃살
+[04:57.56]
+N | Mi padre tiene mucha barriga. | 우리 아빠는 배가 많이 나왔어요.
+[05:03.46]
+N | Vientre | 배 (복부)
+[05:04.70]
+N | ¿Sabes bailar la danza del vientre? | 벨리 댄스 출 줄 알아?
+[05:10.92]
+N | Ombligo | 배꼽
+[05:12.04]
+N | Quiero hacerme un piercing en el ombligo. | 배꼽 피어싱을 하고 싶어요.
+[05:17.86]
+N | Nalga | 엉덩이 (한쪽)
+[05:18.98]
+N | Tengo un lunar en la nalga derecha. | 오른쪽 엉덩이에 점이 있어요.
+[05:25.22]
+N | Palma | 손바닥
+[05:27.04]
+N | Ana sabe leer la palma de la mano. | 아나는 손금을 볼 줄 알아요.
+[05:32.54]
+N | Uña | 손톱, 발톱
+[05:33.26]
+N | No te muerdas las uñas. | 손톱 물어뜯지 마.
+[05:38.90]
+N | Tobillo | 발목
+[05:39.86]
+N | Me he hecho daño en el tobillo derecho. | 오른쪽 발목을 다쳤어요.
+[05:46.24]
+N | Talón | 발뒤꿈치
+[05:47.20]
+N | El talón de Aquiles de Ana es el chocolate. | 아나의 아킬레스건(약점)은 초콜릿이에요.
+[05:53.78]
+N | Hueso | 뼈
+[05:55.26]
+N | Me rompí un hueso al caer de un árbol. | 나무에서 떨어져서 뼈가 부러졌어요.
+[06:00.98]
+N | Músculo | 근육
+[06:06.80]
+N | No tengo músculos. | 나는 근육이 없어요.
+## Unidad 2 — 외모 묘사하기
+[06:09.64]
+N | Unidad 2 | 2과
+[06:13.80]
+N | Ser alto | 키가 크다
+[06:16.80]
+N | Mi hermana menor es más alta que yo. | 내 여동생은 나보다 키가 커요.
+[06:23.42]
+N | Estar calvo | 대머리이다
+[06:26.18]
+N | José está calvo. | 호세는 대머리예요.
+[06:30.90]
+N | Tener barba | 턱수염이 있다
+[06:33.80]
+N | No tengo mucha barba, ¿no? | 나 수염 별로 없지?
+[06:38.88]
+N | Tener el pelo negro | 머리가 검다
+[06:42.80]
+N | Tengo el pelo negro y quiero teñirme de castaño. | 머리가 검은데 갈색으로 염색하고 싶어요.
+[06:49.66]
+N | Tener los ojos claros | 눈 색이 밝다 (파랑·초록 등)
+[06:52.96]
+N | Quiero tener los ojos claros y por eso llevo lentillas. | 밝은 눈 색을 갖고 싶어서 컬러 렌즈를 껴요.
+[07:01.14]
+N | Tener los ojos marrones | 눈이 갈색이다
+[07:04.96]
+N | Mi madre tiene los ojos marrones. | 우리 엄마는 눈이 갈색이에요.
+[07:10.48]
+N | Tener los ojos grandes | 눈이 크다
+[07:13.88]
+N | La actriz tiene los ojos grandes. | 그 여배우는 눈이 커요.
+[07:20.78]
+N | Tener el pelo rizado | 곱슬머리이다
+[07:24.02]
+N | Mi sobrina tiene el pelo muy rizado. | 내 조카딸은 머리가 아주 곱슬곱슬해요.
+[07:31.00]
+N | Tener el pelo ondulado | 머리가 웨이브졌다
+[07:33.58]
+N | Mi sobrina tiene el pelo ondulado. | 내 조카딸은 머리가 웨이브졌어요.
+[07:39.82]
+N | Tener canas | 흰머리가 있다
+[07:42.32]
+N | Mi padre ya tiene canas. | 우리 아빠는 벌써 흰머리가 있어요.
+[07:46.68]
+N | Ser moreno de piel | 피부가 까무잡잡하다
+[07:50.04]
+N | José es moreno de piel, pero tiene los ojos claros. | 호세는 피부가 까무잡잡하지만 눈 색은 밝아요.
+[07:57.76]
+N | Tener los ojos rasgados | 눈꼬리가 길게 째졌다
+[08:01.24]
+N | El actor tiene los ojos rasgados. | 그 배우는 눈꼬리가 길어요.
+[08:07.80]
+N | Tener la piel suave | 피부가 부드럽다
+[08:10.20]
+N | Tengo la piel suave. | 나는 피부가 부드러워요.
+[08:14.46]
+N | Tener la piel seca | 피부가 건조하다
+[08:18.46]
+N | Tengo la piel seca. | 나는 피부가 건조해요.
+[08:22.20]
+N | Tener buen tipo | 몸매가 좋다
+[08:25.59]
+N | Ana hace mucho ejercicio y por eso tiene buen tipo. | 아나는 운동을 많이 해서 몸매가 좋아요.
+[08:32.96]
+N | Tener buena presencia | 인상이 좋다, 외모가 단정하다
+[08:36.20]
+N | Es importante tener buena presencia en una entrevista de trabajo. | 면접에서는 단정한 인상을 주는 게 중요해요.
+[08:44.62]
+N | Parecerse a alguien | 누구와 닮다
+[08:47.66]
+N | No me parezco nada a mi madre. | 나는 엄마를 하나도 안 닮았어요.
+## Unidad 3 — 몸으로 하는 동작 ① 감각과 하루 일과
+[08:58.40]
+N | Unidad 3 | 3과
+[09:02.84]
+N | Vivir | 살다
+[09:04.78]
+N | Me gustaría vivir en el extranjero en un futuro cercano. | 가까운 미래에 외국에서 살고 싶어요.
+[09:11.34]
+N | Ver | 보다
+[09:13.74]
+N | ¿Has visto a Gema últimamente? | 요즘 헤마 본 적 있어?
+[09:18.68]
+N | Oír | 듣다, 들리다
+[09:19.56]
+N | ¿Me oyes? | 내 말 들려?
+[09:24.34]
+N | Escuchar | (귀 기울여) 듣다
+[09:25.20]
+N | Dime, yo te escucho. | 말해 봐, 듣고 있어.
+[09:30.76]
+N | Mirar | 바라보다
+[09:31.88]
+N | Mírame a los ojos. | 내 눈을 봐.
+[09:36.54]
+N | Tocar | 만지다
+[09:37.30]
+N | No me toques. | 나 만지지 마.
+[09:42.10]
+N | Dormir | 자다
+[09:43.50]
+N | ¿Dormiste algo anoche? | 어젯밤에 좀 잤어?
+[09:47.90]
+N | Acostarse | 잠자리에 들다
+[09:49.30]
+N | Me acuesto sobre las once. | 11시쯤 잠자리에 들어요.
+[09:54.88]
+N | Despertarse | 잠에서 깨다
+[09:56.28]
+N | Gema se despierta fácilmente con cualquier ruido. | 헤마는 작은 소리에도 쉽게 깨요.
+[10:03.70]
+N | Levantarse | 일어나다
+[10:05.40]
+N | Ana siempre se levanta a las cinco de la madrugada. | 아나는 늘 새벽 5시에 일어나요.
+[10:14.88]
+N | Afeitarse | 면도하다
+[10:15.92]
+N | No me gusta afeitarme todos los días, es muy pesado. | 매일 면도하는 건 싫어요, 너무 귀찮아요.
+[10:24.96]
+N | Peinarse | 머리를 빗다
+[10:26.00]
+N | Yo no sé peinarme. | 나는 머리를 빗을(손질할) 줄 몰라요.
+[10:30.94]
+N | Sentarse | 앉다
+[10:31.98]
+N | ¿Nos sentamos aquí? | 여기 앉을까?
+[10:36.56]
+N | Caminar | 걷다
+[10:38.43]
+N | Le gusta caminar sin rumbo. | 그는 정처 없이 걷는 걸 좋아해요.
+[10:43.82]
+N | Andar | 걷다; (상태로) 지내다
+[10:45.43]
+N | Estos últimos días ando mal de dinero. | 요 며칠 돈이 궁해요.
+[10:51.42]
+N | Pasear | 산책하다
+[10:53.57]
+N | Quiero pasear un rato. ¿Te vienes conmigo? | 잠깐 산책하고 싶어. 같이 갈래?
+[11:00.06]
+N | Correr | 달리다
+[11:01.26]
+N | Me gusta correr por el paseo marítimo. | 해변 산책로를 달리는 걸 좋아해요.
+[11:07.54]
+N | Hacer deporte | 운동하다
+[11:09.74]
+N | ¿Cuántas veces a la semana haces deporte? | 일주일에 몇 번 운동해?
+[11:15.66]
+N | Ducharse | 샤워하다
+[11:17.50]
+N | Me ducho con agua fría en verano. | 여름엔 찬물로 샤워해요.
+[11:23.14]
+N | Subir | 올리다, 올라가다
+[11:23.74]
+N | Voy a subir las maletas. | 여행 가방을 올려 놓을게요.
+[11:29.28]
+N | Bajar | 내리다, 내려가다
+[11:30.36]
+N | Voy a bajar la basura. | 쓰레기 내다 버릴게요.
+## Unidad 3 — 몸으로 하는 동작 ② 삶과 몸의 표현
+[11:36.34]
+N | Nacer | 태어나다
+[11:37.66]
+N | Mi sobrino nació el tres de enero. | 내 조카는 1월 3일에 태어났어요.
+[11:44.76]
+N | Crecer | 자라다
+[11:46.50]
+N | ¿Cómo ha crecido mi pequeño? | 우리 아기 많이 컸네!
+[11:51.36]
+N | Oler | 냄새가 나다, 냄새를 맡다
+[11:53.74]
+N | Huele muy bien. ¿Te has echado perfume o algo? | 냄새 정말 좋다. 향수라도 뿌렸어?
+[11:59.38]
+N | Sonarse | 코를 풀다
+[12:01.42]
+N | ¿Es de mala educación sonarse en público? | 사람들 앞에서 코 푸는 건 예의 없는 거야?
+[12:07.76]
+N | Respirar | 숨 쉬다
+[12:09.34]
+N | Mi jefe no me deja ni respirar. | 상사가 숨 돌릴 틈도 안 줘요.
+[12:15.26]
+N | Besar | 입 맞추다
+[12:16.26]
+N | Juan me besó la mano. | 후안이 내 손에 입을 맞췄어요.
+[12:22.16]
+N | Abrazar | 껴안다
+[12:23.36]
+N | Quiero abrazarte. | 널 안아 주고 싶어.
+[12:27.90]
+N | Estar sentado | 앉아 있다
+[12:29.82]
+N | Yo estoy sentada cerca de la puerta. | 나는 문 가까이에 앉아 있어요.
+[12:36.14]
+N | Estar de pie | 서 있다
+[12:37.68]
+N | No me gusta estar de pie en el metro. | 지하철에서 서 있는 건 싫어요.
+[12:44.26]
+N | Estar embarazada | 임신 중이다
+[12:46.34]
+N | Ana está embarazada de cinco meses. | 아나는 임신 5개월이에요.
+[12:54.40]
+N | Esperar un niño | 아기를 기다리다 (임신 중이다)
+[12:56.08]
+N | Ana está esperando un niño. | 아나는 아기를 가졌어요.
+[13:03.40]
+N | Dar un paseo | 산책하다
+[13:05.70]
+N | Vamos a dar un paseo después de cenar. | 저녁 먹고 산책하자.
+[13:12.30]
+N | Levantar la mano | 손을 들다
+[13:14.00]
+N | Levanté la mano para hacer una pregunta al profesor. | 선생님께 질문하려고 손을 들었어요.
+[13:22.80]
+N | Hacer gimnasia | 체조하다
+[13:24.92]
+N | Haz un poco de gimnasia cada mañana y te sentirás mucho mejor. | 매일 아침 체조를 조금 하면 훨씬 좋아질 거예요.
+[13:33.56]
+N | Madrugar | 일찍 일어나다
+[13:34.62]
+N | No me gusta madrugar. | 일찍 일어나는 건 싫어요.
+[13:39.86]
+N | Morir | 죽다
+[13:40.99]
+N | Mi perro murió hace cinco años. | 우리 개는 5년 전에 죽었어요.
+[13:47.15]
+N | Fallecer | 돌아가시다, 사망하다
+[13:48.95]
+N | Mi abuelo falleció por un cáncer. | 할아버지는 암으로 돌아가셨어요.
+[13:54.73]
+N | Moverse | (몸을) 움직이다
+[13:56.25]
+N | ¿Me muevo un poco? | 내가 좀 비켜 줄까?
+[14:00.17]
+N | Mover | (물건을) 옮기다
+[14:02.15]
+N | ¿Puedo mover tu mochila? | 네 배낭 좀 옮겨도 돼?
+[14:06.65]
+N | Saltar | 뛰다, 점프하다
+[14:08.39]
+N | Cuando era pequeña, me gustaba saltar a la comba. | 어릴 때 줄넘기를 좋아했어요.
+[14:15.51]
+N | Soltar | 놓다, 풀어 주다
+[14:16.65]
+N | Suéltame. | 나 좀 놔.
+[14:19.55]
+N | Tener la regla | 생리 중이다
+[14:22.45]
+N | Tengo la regla y por eso me siento regular. | 생리 중이라 컨디션이 그저 그래요.

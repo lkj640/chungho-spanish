@@ -1,0 +1,2049 @@
+{
+ "id": "es-2026-11-23-2",
+ "lang": "es",
+ "date": "2026-11-23",
+ "title": "몸과 외모, 몸으로 하는 동작 — 스페인어 어휘 1장 (1–3과)",
+ "es": "Esa historia no tiene ni pies ni cabeza.",
+ "emoji": "🧍",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 1 · Unidad 1–3 (01-01 · 01-02 · 01-03)",
+ "audio": "audio.m4a",
+ "duration": "14:27",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 1장의 1~3과 오디오 세 개를 하나로 이었어요. 1과는 머리부터 발끝까지 몸의 부위(pelo, ojo, muela, codo, tobillo…), 2과는 외모를 묘사하는 표현(ser alto, tener canas, tener buen tipo, parecerse a…), 3과는 몸으로 하는 동작(despertarse, afeitarse, sonarse, madrugar, fallecer…)이에요. 단어 다음에 바로 예문이 나와서, 문장을 눌러 듣고 따라 말하며 외우기 좋아요. 'de oreja a oreja', 'ni pies ni cabeza', 'talón de Aquiles' 같은 관용 표현도 함께 나와요.",
+ "topics": [
+  "1과 몸: pelo · ojo · nariz · muela · cuello · codo · muñeca · rodilla · tobillo …",
+  "2과 외모: ser alto · estar calvo · tener canas · tener los ojos claros · tener buen tipo",
+  "3과 동작: despertarse · levantarse · afeitarse · sonarse · madrugar · fallecer",
+  "관용 표현: de oreja a oreja · ni pies ni cabeza · el talón de Aquiles",
+  "문법: me duele(n) · tener + 신체 + 형용사 · ser/estar/tener · 재귀동사"
+ ],
+ "grammar": [
+  {
+   "title": "① 아플 때 — Me duele + 단수 / Me duelen + 복수",
+   "lead": "doler는 gustar처럼 아픈 부위가 주어예요. 정관사(el/la)를 붙이고, 부위가 복수면 duelen.",
+   "examples": [
+    [
+     "Me duele mucho la cabeza.",
+     "머리가 많이 아파요."
+    ],
+    [
+     "Me duele la garganta.",
+     "목이 아파요."
+    ],
+    [
+     "Me duele el estómago desde ayer.",
+     "어제부터 배가 아파요."
+    ],
+    [
+     "Me duele la muñeca al coger el ratón.",
+     "마우스를 잡으면 손목이 아파요. (al + 동사원형 = ~할 때)"
+    ]
+   ],
+   "tip": "복수 예: Me duelen los pies. (발이 아파요) — 소유격 mi 대신 정관사를 써요."
+  },
+  {
+   "title": "② tener + 정관사 + 신체 + 형용사 — 생김새 말하기",
+   "lead": "스페인어는 '내 눈은 커' 대신 '나는 큰 눈을 가졌다'처럼 말해요. 형용사는 신체 명사에 성·수를 맞춰요.",
+   "examples": [
+    [
+     "Mi novia tiene los ojos muy grandes.",
+     "내 여자 친구는 눈이 아주 커요."
+    ],
+    [
+     "José tiene las cejas muy pobladas.",
+     "호세는 눈썹이 아주 짙어요."
+    ],
+    [
+     "Tengo los labios secos en invierno.",
+     "겨울엔 입술이 건조해요."
+    ],
+    [
+     "Alejandro tiene los hombros anchos.",
+     "알레한드로는 어깨가 넓어요."
+    ]
+   ]
+  },
+  {
+   "title": "③ ser · estar · tener — 외모를 말하는 세 동사",
+   "lead": "타고난 특징은 <b>ser</b>, 변한 상태는 <b>estar</b>, 가진 것(머리·눈·수염)은 <b>tener</b>.",
+   "table": {
+    "head": [
+     "동사",
+     "표현",
+     "예문"
+    ],
+    "rows": [
+     [
+      "ser",
+      "ser alto / ser moreno de piel",
+      "Mi hermana menor es más alta que yo."
+     ],
+     [
+      "estar",
+      "estar calvo / estar embarazada",
+      "José está calvo."
+     ],
+     [
+      "tener",
+      "tener barba / tener canas / tener el pelo rizado",
+      "Mi padre ya tiene canas."
+     ],
+     [
+      "tener",
+      "tener buen tipo / tener buena presencia",
+      "Ana hace mucho ejercicio y por eso tiene buen tipo."
+     ],
+     [
+      "parecerse a",
+      "누구와 닮다 (재귀동사)",
+      "No me parezco nada a mi madre."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ 재귀동사 — 내 몸에 하는 동작",
+   "lead": "동작이 자기 자신에게 돌아오면 me/te/se를 붙여요. 신체 부위 앞에는 소유격 대신 정관사를 써요.",
+   "examples": [
+    [
+     "Quiero cortarme el pelo.",
+     "머리를 자르고 싶어요. (cortarse el pelo)"
+    ],
+    [
+     "Ya me lavo los dientes, mamá.",
+     "지금 이 닦을게요, 엄마. (lavarse los dientes)"
+    ],
+    [
+     "Gema se despierta fácilmente con cualquier ruido.",
+     "헤마는 작은 소리에도 쉽게 깨요."
+    ],
+    [
+     "No me gusta afeitarme todos los días, es muy pesado.",
+     "매일 면도하는 건 싫어요, 너무 귀찮아요."
+    ]
+   ],
+   "tip": "moverse(몸을 움직이다) vs mover(물건을 옮기다): ¿Me muevo un poco? / ¿Puedo mover tu mochila?"
+  },
+  {
+   "title": "⑤ 비슷하지만 다른 단어 쌍",
+   "lead": "교재가 일부러 짝지어 넣은 단어들이에요. 차이를 기억해 두세요.",
+   "table": {
+    "head": [
+     "단어",
+     "차이",
+     "예문"
+    ],
+    "rows": [
+     [
+      "oreja / oído",
+      "바깥귀 / 청각·속귀",
+      "toca el piano de oído (귀로 듣고 치다)"
+     ],
+     [
+      "diente / muela",
+      "이 / 어금니",
+      "la muela del juicio (사랑니)"
+     ],
+     [
+      "oír / escuchar",
+      "들리다 / 귀 기울여 듣다",
+      "¿Me oyes? / Dime, yo te escucho."
+     ],
+     [
+      "ver / mirar",
+      "보이다 / 바라보다",
+      "¿Has visto a Gema? / Mírame a los ojos."
+     ],
+     [
+      "caminar / andar / pasear",
+      "걷다 / 걷다·지내다 / 산책하다",
+      "ando mal de dinero (돈이 궁하다)"
+     ],
+     [
+      "morir / fallecer",
+      "죽다 / 돌아가시다 (격식)",
+      "Mi abuelo falleció por un cáncer."
+     ],
+     [
+      "barriga / vientre",
+      "배·뱃살 (구어) / 복부",
+      "la danza del vientre (벨리 댄스)"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 몸으로 만든 관용 표현",
+   "lead": "예문 속에 숨어 있는 관용구예요. 그대로 외워 두면 바로 쓸 수 있어요.",
+   "examples": [
+    [
+     "Ana siempre tiene una sonrisa de oreja a oreja.",
+     "아나는 늘 입이 귀에 걸리게 웃어요. (de oreja a oreja = 귀에서 귀까지)"
+    ],
+    [
+     "Esa historia no tiene ni pies ni cabeza.",
+     "그 이야기는 앞뒤가 하나도 안 맞아요. (발도 머리도 없다)"
+    ],
+    [
+     "El talón de Aquiles de Ana es el chocolate.",
+     "아나의 약점은 초콜릿이에요. (아킬레스건)"
+    ],
+    [
+     "Mi hermana mayor tiene una cintura de avispa.",
+     "우리 언니는 개미허리예요. (말벌 허리)"
+    ],
+    [
+     "Mi jefe no me deja ni respirar.",
+     "상사가 숨 돌릴 틈도 안 줘요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 스페인(스페인 본토) 단어",
+   "lead": "이 교재는 스페인식 표현을 써요. 중남미와 다른 단어가 있어요.",
+   "table": {
+    "head": [
+     "스페인",
+     "뜻",
+     "중남미에서 흔한 말"
+    ],
+    "rows": [
+     [
+      "coger",
+      "잡다",
+      "agarrar / tomar"
+     ],
+     [
+      "el ratón",
+      "(컴퓨터) 마우스",
+      "el mouse"
+     ],
+     [
+      "las lentillas",
+      "콘택트렌즈",
+      "los lentes de contacto"
+     ],
+     [
+      "el metro",
+      "지하철",
+      "el subte (아르헨티나) 등"
+     ],
+     [
+      "saltar a la comba",
+      "줄넘기하다",
+      "saltar la cuerda"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Me duele mucho la cabeza.",
+   "머리가 많이 아파요."
+  ],
+  [
+   "Tengo la nariz tapada por el resfriado.",
+   "감기 때문에 코가 막혔어요."
+  ],
+  [
+   "No hables con la boca llena.",
+   "입에 음식을 넣은 채로 말하지 마."
+  ],
+  [
+   "Esa historia no tiene ni pies ni cabeza.",
+   "그 이야기는 앞뒤가 하나도 안 맞아요."
+  ],
+  [
+   "No me parezco nada a mi madre.",
+   "나는 엄마를 하나도 안 닮았어요."
+  ],
+  [
+   "Dime, yo te escucho.",
+   "말해 봐, 듣고 있어."
+  ],
+  [
+   "Quiero pasear un rato. ¿Te vienes conmigo?",
+   "잠깐 산책하고 싶어. 같이 갈래?"
+  ],
+  [
+   "Vamos a dar un paseo después de cenar.",
+   "저녁 먹고 산책하자."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el pelo",
+   "ko": "머리카락",
+   "ex": "Quiero cortarme el pelo.",
+   "exKo": "머리를 자르고 싶어요."
+  },
+  {
+   "es": "la oreja",
+   "ko": "귀 (바깥귀)",
+   "ex": "una sonrisa de oreja a oreja",
+   "exKo": "귀에 걸린 미소"
+  },
+  {
+   "es": "el ojo",
+   "ko": "눈",
+   "ex": "Mi novia tiene los ojos muy grandes.",
+   "exKo": "내 여자 친구는 눈이 아주 커요."
+  },
+  {
+   "es": "la nariz",
+   "ko": "코",
+   "ex": "Tengo la nariz tapada por el resfriado.",
+   "exKo": "감기 때문에 코가 막혔어요."
+  },
+  {
+   "es": "la boca",
+   "ko": "입",
+   "ex": "No hables con la boca llena.",
+   "exKo": "입에 음식을 넣은 채로 말하지 마."
+  },
+  {
+   "es": "la mano",
+   "ko": "손",
+   "ex": "Este collar está hecho a mano.",
+   "exKo": "이 목걸이는 손으로 만든 거예요."
+  },
+  {
+   "es": "la cara",
+   "ko": "얼굴",
+   "ex": "¿Qué cara tiene tu jefe?",
+   "exKo": "네 상사는 어떻게 생겼어?"
+  },
+  {
+   "es": "la cabeza",
+   "ko": "머리",
+   "ex": "Me duele mucho la cabeza.",
+   "exKo": "머리가 많이 아파요."
+  },
+  {
+   "es": "la ceja",
+   "ko": "눈썹",
+   "ex": "José tiene las cejas muy pobladas.",
+   "exKo": "호세는 눈썹이 아주 짙어요."
+  },
+  {
+   "es": "el oído",
+   "ko": "청각, 속귀",
+   "ex": "Miguel toca el piano de oído.",
+   "exKo": "미겔은 귀로 듣고 피아노를 쳐요."
+  },
+  {
+   "es": "el labio",
+   "ko": "입술",
+   "ex": "Tengo los labios secos en invierno.",
+   "exKo": "겨울엔 입술이 건조해요."
+  },
+  {
+   "es": "el diente",
+   "ko": "이, 치아",
+   "ex": "Ya me lavo los dientes, mamá.",
+   "exKo": "지금 이 닦을게요, 엄마."
+  },
+  {
+   "es": "la muela",
+   "ko": "어금니",
+   "ex": "Tengo que sacarme la muela del juicio.",
+   "exKo": "사랑니를 뽑아야 해요."
+  },
+  {
+   "es": "la lengua",
+   "ko": "혀",
+   "ex": "Luis me ha sacado la lengua.",
+   "exKo": "루이스가 나한테 혀를 내밀었어요."
+  },
+  {
+   "es": "el cuello",
+   "ko": "목",
+   "ex": "Siento algo en el cuello.",
+   "exKo": "목에 뭔가 느껴져요."
+  },
+  {
+   "es": "la garganta",
+   "ko": "목구멍",
+   "ex": "Me duele la garganta.",
+   "exKo": "목이 아파요."
+  },
+  {
+   "es": "el brazo",
+   "ko": "팔",
+   "ex": "Tengo los brazos fofos.",
+   "exKo": "팔이 물렁해요."
+  },
+  {
+   "es": "el codo",
+   "ko": "팔꿈치",
+   "ex": "Ana me dio con el codo.",
+   "exKo": "아나가 팔꿈치로 나를 쳤어요."
+  },
+  {
+   "es": "la muñeca",
+   "ko": "손목 (인형이라는 뜻도 있어요)",
+   "ex": "Me duele la muñeca al coger el ratón.",
+   "exKo": "마우스를 잡으면 손목이 아파요."
+  },
+  {
+   "es": "el dedo",
+   "ko": "손가락",
+   "ex": "Tienes los dedos finos.",
+   "exKo": "손가락이 가늘구나."
+  },
+  {
+   "es": "la espalda",
+   "ko": "등",
+   "ex": "Siento algo en la espalda.",
+   "exKo": "등에 뭔가 느껴져요."
+  },
+  {
+   "es": "la cintura",
+   "ko": "허리",
+   "ex": "una cintura de avispa",
+   "exKo": "개미허리"
+  },
+  {
+   "es": "la pierna",
+   "ko": "다리",
+   "ex": "Tengo una cicatriz en la pierna derecha.",
+   "exKo": "오른쪽 다리에 흉터가 있어요."
+  },
+  {
+   "es": "la rodilla",
+   "ko": "무릎",
+   "ex": "Siempre me duele la rodilla derecha.",
+   "exKo": "늘 오른쪽 무릎이 아파요."
+  },
+  {
+   "es": "el pie",
+   "ko": "발",
+   "ex": "no tiene ni pies ni cabeza",
+   "exKo": "앞뒤가 안 맞다"
+  },
+  {
+   "es": "la frente",
+   "ko": "이마",
+   "ex": "Me ha salido un grano en la frente.",
+   "exKo": "이마에 여드름이 났어요."
+  },
+  {
+   "es": "la pestaña",
+   "ko": "속눈썹",
+   "ex": "Mi sobrina tiene las pestañas muy largas.",
+   "exKo": "조카딸은 속눈썹이 아주 길어요."
+  },
+  {
+   "es": "la mejilla",
+   "ko": "뺨",
+   "ex": "Se dan un beso en cada mejilla.",
+   "exKo": "양 뺨에 입맞춤을 해요."
+  },
+  {
+   "es": "la piel",
+   "ko": "피부",
+   "ex": "Yuna Kim tiene la piel de porcelana.",
+   "exKo": "김연아는 도자기 같은 피부를 가졌어요."
+  },
+  {
+   "es": "el hombro",
+   "ko": "어깨",
+   "ex": "Alejandro tiene los hombros anchos.",
+   "exKo": "알레한드로는 어깨가 넓어요."
+  },
+  {
+   "es": "el pecho",
+   "ko": "가슴",
+   "ex": "Siento un dolor agudo en el pecho.",
+   "exKo": "가슴에 날카로운 통증이 느껴져요."
+  },
+  {
+   "es": "el ombligo",
+   "ko": "배꼽",
+   "ex": "Quiero hacerme un piercing en el ombligo.",
+   "exKo": "배꼽 피어싱을 하고 싶어요."
+  },
+  {
+   "es": "la uña",
+   "ko": "손톱, 발톱",
+   "ex": "No te muerdas las uñas.",
+   "exKo": "손톱 물어뜯지 마."
+  },
+  {
+   "es": "el tobillo",
+   "ko": "발목",
+   "ex": "Me he hecho daño en el tobillo derecho.",
+   "exKo": "오른쪽 발목을 다쳤어요."
+  },
+  {
+   "es": "el talón",
+   "ko": "발뒤꿈치",
+   "ex": "El talón de Aquiles de Ana es el chocolate.",
+   "exKo": "아나의 약점은 초콜릿이에요."
+  },
+  {
+   "es": "el hueso",
+   "ko": "뼈",
+   "ex": "Me rompí un hueso al caer de un árbol.",
+   "exKo": "나무에서 떨어져 뼈가 부러졌어요."
+  },
+  {
+   "es": "estar calvo",
+   "ko": "대머리이다",
+   "ex": "José está calvo.",
+   "exKo": "호세는 대머리예요."
+  },
+  {
+   "es": "tener canas",
+   "ko": "흰머리가 있다",
+   "ex": "Mi padre ya tiene canas.",
+   "exKo": "아빠는 벌써 흰머리가 있어요."
+  },
+  {
+   "es": "teñirse",
+   "ko": "염색하다",
+   "ex": "Quiero teñirme de castaño.",
+   "exKo": "갈색으로 염색하고 싶어요."
+  },
+  {
+   "es": "las lentillas",
+   "ko": "콘택트렌즈 (스페인)",
+   "ex": "Por eso llevo lentillas.",
+   "exKo": "그래서 렌즈를 껴요."
+  },
+  {
+   "es": "rizado",
+   "ko": "곱슬곱슬한",
+   "ex": "Mi sobrina tiene el pelo muy rizado.",
+   "exKo": "조카딸은 머리가 아주 곱슬곱슬해요."
+  },
+  {
+   "es": "tener buen tipo",
+   "ko": "몸매가 좋다",
+   "ex": "Ana tiene buen tipo.",
+   "exKo": "아나는 몸매가 좋아요."
+  },
+  {
+   "es": "parecerse a",
+   "ko": "~와 닮다",
+   "ex": "No me parezco nada a mi madre.",
+   "exKo": "엄마를 하나도 안 닮았어요."
+  },
+  {
+   "es": "despertarse",
+   "ko": "잠에서 깨다",
+   "ex": "Gema se despierta fácilmente.",
+   "exKo": "헤마는 쉽게 깨요."
+  },
+  {
+   "es": "afeitarse",
+   "ko": "면도하다",
+   "ex": "No me gusta afeitarme todos los días.",
+   "exKo": "매일 면도하는 건 싫어요."
+  },
+  {
+   "es": "sin rumbo",
+   "ko": "정처 없이",
+   "ex": "Le gusta caminar sin rumbo.",
+   "exKo": "정처 없이 걷는 걸 좋아해요."
+  },
+  {
+   "es": "el paseo marítimo",
+   "ko": "해변 산책로",
+   "ex": "Me gusta correr por el paseo marítimo.",
+   "exKo": "해변 산책로를 달리는 걸 좋아해요."
+  },
+  {
+   "es": "sonarse",
+   "ko": "코를 풀다",
+   "ex": "¿Es de mala educación sonarse en público?",
+   "exKo": "사람들 앞에서 코 푸는 건 예의 없어요?"
+  },
+  {
+   "es": "madrugar",
+   "ko": "일찍 일어나다",
+   "ex": "No me gusta madrugar.",
+   "exKo": "일찍 일어나는 건 싫어요."
+  },
+  {
+   "es": "fallecer",
+   "ko": "돌아가시다",
+   "ex": "Mi abuelo falleció por un cáncer.",
+   "exKo": "할아버지는 암으로 돌아가셨어요."
+  },
+  {
+   "es": "saltar a la comba",
+   "ko": "줄넘기하다 (스페인)",
+   "ex": "Me gustaba saltar a la comba.",
+   "exKo": "줄넘기를 좋아했어요."
+  },
+  {
+   "es": "soltar",
+   "ko": "놓다, 풀어 주다",
+   "ex": "Suéltame.",
+   "exKo": "나 좀 놔."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'머리가 많이 아파요'를 스페인어로 하면?",
+   "options": [
+    "Me duele mucho la cabeza.",
+    "Tengo mucho la cabeza.",
+    "Me duelo la cabeza.",
+    "Estoy cabeza mucho."
+   ],
+   "answer": 0,
+   "explain": "doler는 아픈 부위가 주어 — Me duele la cabeza."
+  },
+  {
+   "q": "'la muela del juicio'는 무엇일까요?",
+   "options": [
+    "앞니",
+    "사랑니",
+    "송곳니",
+    "젖니"
+   ],
+   "answer": 1,
+   "explain": "Tengo que sacarme la muela del juicio. = 사랑니를 뽑아야 해요."
+  },
+  {
+   "q": "'Esa historia no tiene ni pies ni cabeza.'의 뜻은?",
+   "options": [
+    "그 이야기는 아주 길어요.",
+    "그 이야기는 앞뒤가 하나도 안 맞아요.",
+    "그 이야기는 무서워요.",
+    "그 이야기는 끝이 없어요."
+   ],
+   "answer": 1,
+   "explain": "발도 머리도 없다 = 엉터리다, 앞뒤가 안 맞다."
+  },
+  {
+   "q": "Miguel toca el piano ___ oído. (귀로 듣고 치다)",
+   "options": [
+    "de",
+    "en",
+    "con",
+    "por"
+   ],
+   "answer": 0,
+   "explain": "tocar de oído = 악보 없이 귀로 듣고 연주하다."
+  },
+  {
+   "q": "'José ___ calvo.' 빈칸에 알맞은 동사는?",
+   "options": [
+    "es",
+    "está",
+    "tiene",
+    "hace"
+   ],
+   "answer": 1,
+   "explain": "estar calvo — 교재 표현 그대로 estar를 써요."
+  },
+  {
+   "q": "'흰머리가 있다'는 스페인어로?",
+   "options": [
+    "ser canas",
+    "estar canas",
+    "tener canas",
+    "hacer canas"
+   ],
+   "answer": 2,
+   "explain": "Mi padre ya tiene canas."
+  },
+  {
+   "q": "'No me parezco nada a mi madre.'의 뜻은?",
+   "options": [
+    "엄마가 보고 싶지 않아요.",
+    "나는 엄마를 하나도 안 닮았어요.",
+    "엄마는 나를 이해 못 해요.",
+    "엄마랑 같이 안 살아요."
+   ],
+   "answer": 1,
+   "explain": "parecerse a alguien = 누구와 닮다."
+  },
+  {
+   "q": "'코를 풀다'에 해당하는 동사는?",
+   "options": [
+    "sonarse",
+    "soltar",
+    "oler",
+    "respirar"
+   ],
+   "answer": 0,
+   "explain": "¿Es de mala educación sonarse en público?"
+  },
+  {
+   "q": "'Mi jefe no me deja ni respirar.'의 뜻은?",
+   "options": [
+    "상사는 담배를 못 피우게 해요.",
+    "상사가 숨 돌릴 틈도 안 줘요.",
+    "상사는 아파요.",
+    "상사가 나를 칭찬해요."
+   ],
+   "answer": 1,
+   "explain": "숨 쉬는 것조차 허락하지 않는다 = 쉴 틈을 안 준다."
+  },
+  {
+   "q": "'Ana está esperando un niño.'와 같은 뜻의 문장은?",
+   "options": [
+    "Ana está sentada.",
+    "Ana está embarazada.",
+    "Ana está de pie.",
+    "Ana está calva."
+   ],
+   "answer": 1,
+   "explain": "esperar un niño = estar embarazada (임신 중이다)."
+  },
+  {
+   "q": "'¿Puedo ___ tu mochila?' (배낭을 옮겨도 돼?)",
+   "options": [
+    "moverme",
+    "mover",
+    "moverse",
+    "muevo"
+   ],
+   "answer": 1,
+   "explain": "물건을 옮길 때는 mover, 내 몸을 움직일 때는 moverse."
+  },
+  {
+   "q": "'madrugar'의 뜻은?",
+   "options": [
+    "늦잠 자다",
+    "일찍 일어나다",
+    "낮잠 자다",
+    "산책하다"
+   ],
+   "answer": 1,
+   "explain": "No me gusta madrugar. = 일찍 일어나는 건 싫어요."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Unidad 1 — 몸 ① 얼굴과 머리",
+   "lines": [
+    {
+     "t": 6.3,
+     "s": "N",
+     "es": "Capítulo 1. Unidad 1.",
+     "ko": "1장. 1과."
+    },
+    {
+     "t": 16.0,
+     "s": "N",
+     "es": "Pelo",
+     "ko": "머리카락"
+    },
+    {
+     "t": 17.4,
+     "s": "N",
+     "es": "Quiero cortarme el pelo.",
+     "ko": "머리를 자르고 싶어요."
+    },
+    {
+     "t": 23.0,
+     "s": "N",
+     "es": "Oreja",
+     "ko": "귀 (바깥귀)"
+    },
+    {
+     "t": 24.4,
+     "s": "N",
+     "es": "Ana siempre tiene una sonrisa de oreja a oreja.",
+     "ko": "아나는 늘 입이 귀에 걸리게 웃어요."
+    },
+    {
+     "t": 31.9,
+     "s": "N",
+     "es": "Ojo",
+     "ko": "눈"
+    },
+    {
+     "t": 33.0,
+     "s": "N",
+     "es": "Mi novia tiene los ojos muy grandes.",
+     "ko": "내 여자 친구는 눈이 아주 커요."
+    },
+    {
+     "t": 39.6,
+     "s": "N",
+     "es": "Nariz",
+     "ko": "코"
+    },
+    {
+     "t": 41.0,
+     "s": "N",
+     "es": "Tengo la nariz tapada por el resfriado.",
+     "ko": "감기 때문에 코가 막혔어요."
+    },
+    {
+     "t": 46.5,
+     "s": "N",
+     "es": "Boca",
+     "ko": "입"
+    },
+    {
+     "t": 47.5,
+     "s": "N",
+     "es": "No hables con la boca llena.",
+     "ko": "입에 음식을 넣은 채로 말하지 마."
+    },
+    {
+     "t": 52.8,
+     "s": "N",
+     "es": "Mano",
+     "ko": "손"
+    },
+    {
+     "t": 54.2,
+     "s": "N",
+     "es": "Este collar está hecho a mano.",
+     "ko": "이 목걸이는 손으로 만든 거예요."
+    },
+    {
+     "t": 60.0,
+     "s": "N",
+     "es": "Cara",
+     "ko": "얼굴"
+    },
+    {
+     "t": 61.1,
+     "s": "N",
+     "es": "¿Qué cara tiene tu jefe?",
+     "ko": "네 상사는 어떻게 생겼어?"
+    },
+    {
+     "t": 65.6,
+     "s": "N",
+     "es": "Cabeza",
+     "ko": "머리"
+    },
+    {
+     "t": 67.0,
+     "s": "N",
+     "es": "Me duele mucho la cabeza.",
+     "ko": "머리가 많이 아파요."
+    },
+    {
+     "t": 72.1,
+     "s": "N",
+     "es": "Ceja",
+     "ko": "눈썹"
+    },
+    {
+     "t": 73.2,
+     "s": "N",
+     "es": "José tiene las cejas muy pobladas.",
+     "ko": "호세는 눈썹이 아주 짙어요."
+    },
+    {
+     "t": 80.1,
+     "s": "N",
+     "es": "Oído",
+     "ko": "귀 (청각), 속귀"
+    },
+    {
+     "t": 81.1,
+     "s": "N",
+     "es": "Miguel toca el piano de oído.",
+     "ko": "미겔은 악보 없이 귀로 듣고 피아노를 쳐요."
+    },
+    {
+     "t": 87.9,
+     "s": "N",
+     "es": "Labio",
+     "ko": "입술"
+    },
+    {
+     "t": 89.2,
+     "s": "N",
+     "es": "Tengo los labios secos en invierno.",
+     "ko": "겨울엔 입술이 건조해요."
+    },
+    {
+     "t": 95.2,
+     "s": "N",
+     "es": "Diente",
+     "ko": "이, 치아"
+    },
+    {
+     "t": 97.2,
+     "s": "N",
+     "es": "Ya me lavo los dientes, mamá.",
+     "ko": "지금 이 닦을게요, 엄마."
+    },
+    {
+     "t": 101.9,
+     "s": "N",
+     "es": "Muela",
+     "ko": "어금니"
+    },
+    {
+     "t": 103.0,
+     "s": "N",
+     "es": "Tengo que sacarme la muela del juicio.",
+     "ko": "사랑니를 뽑아야 해요."
+    },
+    {
+     "t": 111.1,
+     "s": "N",
+     "es": "Lengua",
+     "ko": "혀"
+    },
+    {
+     "t": 112.2,
+     "s": "N",
+     "es": "Mamá, Luis me ha sacado la lengua.",
+     "ko": "엄마, 루이스가 나한테 혀를 내밀었어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 1 — 몸 ② 목, 팔, 몸통",
+   "lines": [
+    {
+     "t": 119.1,
+     "s": "N",
+     "es": "Cuello",
+     "ko": "목"
+    },
+    {
+     "t": 120.3,
+     "s": "N",
+     "es": "Siento algo en el cuello.",
+     "ko": "목에 뭔가 느껴져요."
+    },
+    {
+     "t": 125.3,
+     "s": "N",
+     "es": "Garganta",
+     "ko": "목구멍"
+    },
+    {
+     "t": 126.4,
+     "s": "N",
+     "es": "Me duele la garganta.",
+     "ko": "목이 아파요."
+    },
+    {
+     "t": 131.6,
+     "s": "N",
+     "es": "Corazón",
+     "ko": "심장, 마음"
+    },
+    {
+     "t": 132.7,
+     "s": "N",
+     "es": "No me gustan las revistas del corazón.",
+     "ko": "연예·가십 잡지는 안 좋아해요."
+    },
+    {
+     "t": 139.3,
+     "s": "N",
+     "es": "Brazo",
+     "ko": "팔"
+    },
+    {
+     "t": 140.4,
+     "s": "N",
+     "es": "Tengo los brazos fofos, así que voy a hacer ejercicio.",
+     "ko": "팔이 물렁해서 운동을 할 거예요."
+    },
+    {
+     "t": 148.6,
+     "s": "N",
+     "es": "Codo",
+     "ko": "팔꿈치"
+    },
+    {
+     "t": 149.7,
+     "s": "N",
+     "es": "Ana me dio con el codo.",
+     "ko": "아나가 팔꿈치로 나를 쳤어요."
+    },
+    {
+     "t": 155.4,
+     "s": "N",
+     "es": "Muñeca",
+     "ko": "손목"
+    },
+    {
+     "t": 156.8,
+     "s": "N",
+     "es": "Me duele la muñeca al coger el ratón.",
+     "ko": "마우스를 잡으면 손목이 아파요."
+    },
+    {
+     "t": 163.2,
+     "s": "N",
+     "es": "Dedo",
+     "ko": "손가락"
+    },
+    {
+     "t": 164.0,
+     "s": "N",
+     "es": "Tienes los dedos finos.",
+     "ko": "너는 손가락이 가늘구나."
+    },
+    {
+     "t": 169.7,
+     "s": "N",
+     "es": "Estómago",
+     "ko": "위, 배"
+    },
+    {
+     "t": 170.7,
+     "s": "N",
+     "es": "Me duele el estómago desde ayer.",
+     "ko": "어제부터 배가 아파요."
+    },
+    {
+     "t": 177.6,
+     "s": "N",
+     "es": "Espalda",
+     "ko": "등"
+    },
+    {
+     "t": 178.5,
+     "s": "N",
+     "es": "Siento algo en la espalda.",
+     "ko": "등에 뭔가 느껴져요."
+    },
+    {
+     "t": 184.3,
+     "s": "N",
+     "es": "Cintura",
+     "ko": "허리"
+    },
+    {
+     "t": 185.6,
+     "s": "N",
+     "es": "Mi hermana mayor tiene una cintura de avispa.",
+     "ko": "우리 언니는 개미허리예요."
+    },
+    {
+     "t": 193.4,
+     "s": "N",
+     "es": "Culo",
+     "ko": "엉덩이 (구어)"
+    },
+    {
+     "t": 194.1,
+     "s": "N",
+     "es": "Me duele el culo de tanto estar sentado.",
+     "ko": "너무 오래 앉아 있어서 엉덩이가 아파요."
+    },
+    {
+     "t": 201.6,
+     "s": "N",
+     "es": "Pierna",
+     "ko": "다리"
+    },
+    {
+     "t": 202.9,
+     "s": "N",
+     "es": "Tengo una cicatriz en la pierna derecha.",
+     "ko": "오른쪽 다리에 흉터가 있어요."
+    },
+    {
+     "t": 209.4,
+     "s": "N",
+     "es": "Rodilla",
+     "ko": "무릎"
+    },
+    {
+     "t": 210.5,
+     "s": "N",
+     "es": "Siempre me duele la rodilla derecha después de jugar al fútbol.",
+     "ko": "축구를 하고 나면 늘 오른쪽 무릎이 아파요."
+    },
+    {
+     "t": 219.1,
+     "s": "N",
+     "es": "Pie",
+     "ko": "발"
+    },
+    {
+     "t": 220.9,
+     "s": "N",
+     "es": "Esa historia no tiene ni pies ni cabeza.",
+     "ko": "그 이야기는 앞뒤가 하나도 안 맞아요."
+    },
+    {
+     "t": 227.0,
+     "s": "N",
+     "es": "Cuerpo",
+     "ko": "몸, 시체"
+    },
+    {
+     "t": 228.1,
+     "s": "N",
+     "es": "La policía dijo que el cuerpo estaba debajo del puente.",
+     "ko": "경찰은 시신이 다리 밑에 있었다고 했어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 1 — 몸 ③ 더 자세한 부위",
+   "lines": [
+    {
+     "t": 237.6,
+     "s": "N",
+     "es": "Frente",
+     "ko": "이마"
+    },
+    {
+     "t": 238.4,
+     "s": "N",
+     "es": "Me ha salido un grano en la frente.",
+     "ko": "이마에 여드름이 났어요."
+    },
+    {
+     "t": 245.5,
+     "s": "N",
+     "es": "Pestaña",
+     "ko": "속눈썹"
+    },
+    {
+     "t": 246.6,
+     "s": "N",
+     "es": "Mi sobrina tiene las pestañas muy largas.",
+     "ko": "내 조카딸은 속눈썹이 아주 길어요."
+    },
+    {
+     "t": 253.9,
+     "s": "N",
+     "es": "Mejilla",
+     "ko": "뺨"
+    },
+    {
+     "t": 255.0,
+     "s": "N",
+     "es": "Los españoles se dan un beso en cada mejilla para saludarse y despedirse.",
+     "ko": "스페인 사람들은 만나고 헤어질 때 양 뺨에 입맞춤을 해요."
+    },
+    {
+     "t": 265.6,
+     "s": "N",
+     "es": "Piel",
+     "ko": "피부"
+    },
+    {
+     "t": 266.8,
+     "s": "N",
+     "es": "Yuna Kim tiene la piel de porcelana.",
+     "ko": "김연아는 도자기 같은 피부를 가졌어요."
+    },
+    {
+     "t": 273.4,
+     "s": "N",
+     "es": "Hombro",
+     "ko": "어깨"
+    },
+    {
+     "t": 274.7,
+     "s": "N",
+     "es": "Alejandro tiene los hombros anchos.",
+     "ko": "알레한드로는 어깨가 넓어요."
+    },
+    {
+     "t": 280.7,
+     "s": "N",
+     "es": "Pecho",
+     "ko": "가슴"
+    },
+    {
+     "t": 281.8,
+     "s": "N",
+     "es": "Siento un dolor agudo en el pecho.",
+     "ko": "가슴에 날카로운 통증이 느껴져요."
+    },
+    {
+     "t": 288.7,
+     "s": "N",
+     "es": "Pulmón",
+     "ko": "폐"
+    },
+    {
+     "t": 290.0,
+     "s": "N",
+     "es": "Raúl tuvo un problema grave en el pulmón.",
+     "ko": "라울은 폐에 심각한 문제가 있었어요."
+    },
+    {
+     "t": 296.6,
+     "s": "N",
+     "es": "Barriga",
+     "ko": "배 (구어), 뱃살"
+    },
+    {
+     "t": 297.6,
+     "s": "N",
+     "es": "Mi padre tiene mucha barriga.",
+     "ko": "우리 아빠는 배가 많이 나왔어요."
+    },
+    {
+     "t": 303.5,
+     "s": "N",
+     "es": "Vientre",
+     "ko": "배 (복부)"
+    },
+    {
+     "t": 304.7,
+     "s": "N",
+     "es": "¿Sabes bailar la danza del vientre?",
+     "ko": "벨리 댄스 출 줄 알아?"
+    },
+    {
+     "t": 310.9,
+     "s": "N",
+     "es": "Ombligo",
+     "ko": "배꼽"
+    },
+    {
+     "t": 312.0,
+     "s": "N",
+     "es": "Quiero hacerme un piercing en el ombligo.",
+     "ko": "배꼽 피어싱을 하고 싶어요."
+    },
+    {
+     "t": 317.9,
+     "s": "N",
+     "es": "Nalga",
+     "ko": "엉덩이 (한쪽)"
+    },
+    {
+     "t": 319.0,
+     "s": "N",
+     "es": "Tengo un lunar en la nalga derecha.",
+     "ko": "오른쪽 엉덩이에 점이 있어요."
+    },
+    {
+     "t": 325.2,
+     "s": "N",
+     "es": "Palma",
+     "ko": "손바닥"
+    },
+    {
+     "t": 327.0,
+     "s": "N",
+     "es": "Ana sabe leer la palma de la mano.",
+     "ko": "아나는 손금을 볼 줄 알아요."
+    },
+    {
+     "t": 332.5,
+     "s": "N",
+     "es": "Uña",
+     "ko": "손톱, 발톱"
+    },
+    {
+     "t": 333.3,
+     "s": "N",
+     "es": "No te muerdas las uñas.",
+     "ko": "손톱 물어뜯지 마."
+    },
+    {
+     "t": 338.9,
+     "s": "N",
+     "es": "Tobillo",
+     "ko": "발목"
+    },
+    {
+     "t": 339.9,
+     "s": "N",
+     "es": "Me he hecho daño en el tobillo derecho.",
+     "ko": "오른쪽 발목을 다쳤어요."
+    },
+    {
+     "t": 346.2,
+     "s": "N",
+     "es": "Talón",
+     "ko": "발뒤꿈치"
+    },
+    {
+     "t": 347.2,
+     "s": "N",
+     "es": "El talón de Aquiles de Ana es el chocolate.",
+     "ko": "아나의 아킬레스건(약점)은 초콜릿이에요."
+    },
+    {
+     "t": 353.8,
+     "s": "N",
+     "es": "Hueso",
+     "ko": "뼈"
+    },
+    {
+     "t": 355.3,
+     "s": "N",
+     "es": "Me rompí un hueso al caer de un árbol.",
+     "ko": "나무에서 떨어져서 뼈가 부러졌어요."
+    },
+    {
+     "t": 361.0,
+     "s": "N",
+     "es": "Músculo",
+     "ko": "근육"
+    },
+    {
+     "t": 366.8,
+     "s": "N",
+     "es": "No tengo músculos.",
+     "ko": "나는 근육이 없어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2 — 외모 묘사하기",
+   "lines": [
+    {
+     "t": 369.6,
+     "s": "N",
+     "es": "Unidad 2",
+     "ko": "2과"
+    },
+    {
+     "t": 373.8,
+     "s": "N",
+     "es": "Ser alto",
+     "ko": "키가 크다"
+    },
+    {
+     "t": 376.8,
+     "s": "N",
+     "es": "Mi hermana menor es más alta que yo.",
+     "ko": "내 여동생은 나보다 키가 커요."
+    },
+    {
+     "t": 383.4,
+     "s": "N",
+     "es": "Estar calvo",
+     "ko": "대머리이다"
+    },
+    {
+     "t": 386.2,
+     "s": "N",
+     "es": "José está calvo.",
+     "ko": "호세는 대머리예요."
+    },
+    {
+     "t": 390.9,
+     "s": "N",
+     "es": "Tener barba",
+     "ko": "턱수염이 있다"
+    },
+    {
+     "t": 393.8,
+     "s": "N",
+     "es": "No tengo mucha barba, ¿no?",
+     "ko": "나 수염 별로 없지?"
+    },
+    {
+     "t": 398.9,
+     "s": "N",
+     "es": "Tener el pelo negro",
+     "ko": "머리가 검다"
+    },
+    {
+     "t": 402.8,
+     "s": "N",
+     "es": "Tengo el pelo negro y quiero teñirme de castaño.",
+     "ko": "머리가 검은데 갈색으로 염색하고 싶어요."
+    },
+    {
+     "t": 409.7,
+     "s": "N",
+     "es": "Tener los ojos claros",
+     "ko": "눈 색이 밝다 (파랑·초록 등)"
+    },
+    {
+     "t": 413.0,
+     "s": "N",
+     "es": "Quiero tener los ojos claros y por eso llevo lentillas.",
+     "ko": "밝은 눈 색을 갖고 싶어서 컬러 렌즈를 껴요."
+    },
+    {
+     "t": 421.1,
+     "s": "N",
+     "es": "Tener los ojos marrones",
+     "ko": "눈이 갈색이다"
+    },
+    {
+     "t": 425.0,
+     "s": "N",
+     "es": "Mi madre tiene los ojos marrones.",
+     "ko": "우리 엄마는 눈이 갈색이에요."
+    },
+    {
+     "t": 430.5,
+     "s": "N",
+     "es": "Tener los ojos grandes",
+     "ko": "눈이 크다"
+    },
+    {
+     "t": 433.9,
+     "s": "N",
+     "es": "La actriz tiene los ojos grandes.",
+     "ko": "그 여배우는 눈이 커요."
+    },
+    {
+     "t": 440.8,
+     "s": "N",
+     "es": "Tener el pelo rizado",
+     "ko": "곱슬머리이다"
+    },
+    {
+     "t": 444.0,
+     "s": "N",
+     "es": "Mi sobrina tiene el pelo muy rizado.",
+     "ko": "내 조카딸은 머리가 아주 곱슬곱슬해요."
+    },
+    {
+     "t": 451.0,
+     "s": "N",
+     "es": "Tener el pelo ondulado",
+     "ko": "머리가 웨이브졌다"
+    },
+    {
+     "t": 453.6,
+     "s": "N",
+     "es": "Mi sobrina tiene el pelo ondulado.",
+     "ko": "내 조카딸은 머리가 웨이브졌어요."
+    },
+    {
+     "t": 459.8,
+     "s": "N",
+     "es": "Tener canas",
+     "ko": "흰머리가 있다"
+    },
+    {
+     "t": 462.3,
+     "s": "N",
+     "es": "Mi padre ya tiene canas.",
+     "ko": "우리 아빠는 벌써 흰머리가 있어요."
+    },
+    {
+     "t": 466.7,
+     "s": "N",
+     "es": "Ser moreno de piel",
+     "ko": "피부가 까무잡잡하다"
+    },
+    {
+     "t": 470.0,
+     "s": "N",
+     "es": "José es moreno de piel, pero tiene los ojos claros.",
+     "ko": "호세는 피부가 까무잡잡하지만 눈 색은 밝아요."
+    },
+    {
+     "t": 477.8,
+     "s": "N",
+     "es": "Tener los ojos rasgados",
+     "ko": "눈꼬리가 길게 째졌다"
+    },
+    {
+     "t": 481.2,
+     "s": "N",
+     "es": "El actor tiene los ojos rasgados.",
+     "ko": "그 배우는 눈꼬리가 길어요."
+    },
+    {
+     "t": 487.8,
+     "s": "N",
+     "es": "Tener la piel suave",
+     "ko": "피부가 부드럽다"
+    },
+    {
+     "t": 490.2,
+     "s": "N",
+     "es": "Tengo la piel suave.",
+     "ko": "나는 피부가 부드러워요."
+    },
+    {
+     "t": 494.5,
+     "s": "N",
+     "es": "Tener la piel seca",
+     "ko": "피부가 건조하다"
+    },
+    {
+     "t": 498.5,
+     "s": "N",
+     "es": "Tengo la piel seca.",
+     "ko": "나는 피부가 건조해요."
+    },
+    {
+     "t": 502.2,
+     "s": "N",
+     "es": "Tener buen tipo",
+     "ko": "몸매가 좋다"
+    },
+    {
+     "t": 505.6,
+     "s": "N",
+     "es": "Ana hace mucho ejercicio y por eso tiene buen tipo.",
+     "ko": "아나는 운동을 많이 해서 몸매가 좋아요."
+    },
+    {
+     "t": 513.0,
+     "s": "N",
+     "es": "Tener buena presencia",
+     "ko": "인상이 좋다, 외모가 단정하다"
+    },
+    {
+     "t": 516.2,
+     "s": "N",
+     "es": "Es importante tener buena presencia en una entrevista de trabajo.",
+     "ko": "면접에서는 단정한 인상을 주는 게 중요해요."
+    },
+    {
+     "t": 524.6,
+     "s": "N",
+     "es": "Parecerse a alguien",
+     "ko": "누구와 닮다"
+    },
+    {
+     "t": 527.7,
+     "s": "N",
+     "es": "No me parezco nada a mi madre.",
+     "ko": "나는 엄마를 하나도 안 닮았어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3 — 몸으로 하는 동작 ① 감각과 하루 일과",
+   "lines": [
+    {
+     "t": 538.4,
+     "s": "N",
+     "es": "Unidad 3",
+     "ko": "3과"
+    },
+    {
+     "t": 542.8,
+     "s": "N",
+     "es": "Vivir",
+     "ko": "살다"
+    },
+    {
+     "t": 544.8,
+     "s": "N",
+     "es": "Me gustaría vivir en el extranjero en un futuro cercano.",
+     "ko": "가까운 미래에 외국에서 살고 싶어요."
+    },
+    {
+     "t": 551.3,
+     "s": "N",
+     "es": "Ver",
+     "ko": "보다"
+    },
+    {
+     "t": 553.7,
+     "s": "N",
+     "es": "¿Has visto a Gema últimamente?",
+     "ko": "요즘 헤마 본 적 있어?"
+    },
+    {
+     "t": 558.7,
+     "s": "N",
+     "es": "Oír",
+     "ko": "듣다, 들리다"
+    },
+    {
+     "t": 559.6,
+     "s": "N",
+     "es": "¿Me oyes?",
+     "ko": "내 말 들려?"
+    },
+    {
+     "t": 564.3,
+     "s": "N",
+     "es": "Escuchar",
+     "ko": "(귀 기울여) 듣다"
+    },
+    {
+     "t": 565.2,
+     "s": "N",
+     "es": "Dime, yo te escucho.",
+     "ko": "말해 봐, 듣고 있어."
+    },
+    {
+     "t": 570.8,
+     "s": "N",
+     "es": "Mirar",
+     "ko": "바라보다"
+    },
+    {
+     "t": 571.9,
+     "s": "N",
+     "es": "Mírame a los ojos.",
+     "ko": "내 눈을 봐."
+    },
+    {
+     "t": 576.5,
+     "s": "N",
+     "es": "Tocar",
+     "ko": "만지다"
+    },
+    {
+     "t": 577.3,
+     "s": "N",
+     "es": "No me toques.",
+     "ko": "나 만지지 마."
+    },
+    {
+     "t": 582.1,
+     "s": "N",
+     "es": "Dormir",
+     "ko": "자다"
+    },
+    {
+     "t": 583.5,
+     "s": "N",
+     "es": "¿Dormiste algo anoche?",
+     "ko": "어젯밤에 좀 잤어?"
+    },
+    {
+     "t": 587.9,
+     "s": "N",
+     "es": "Acostarse",
+     "ko": "잠자리에 들다"
+    },
+    {
+     "t": 589.3,
+     "s": "N",
+     "es": "Me acuesto sobre las once.",
+     "ko": "11시쯤 잠자리에 들어요."
+    },
+    {
+     "t": 594.9,
+     "s": "N",
+     "es": "Despertarse",
+     "ko": "잠에서 깨다"
+    },
+    {
+     "t": 596.3,
+     "s": "N",
+     "es": "Gema se despierta fácilmente con cualquier ruido.",
+     "ko": "헤마는 작은 소리에도 쉽게 깨요."
+    },
+    {
+     "t": 603.7,
+     "s": "N",
+     "es": "Levantarse",
+     "ko": "일어나다"
+    },
+    {
+     "t": 605.4,
+     "s": "N",
+     "es": "Ana siempre se levanta a las cinco de la madrugada.",
+     "ko": "아나는 늘 새벽 5시에 일어나요."
+    },
+    {
+     "t": 614.9,
+     "s": "N",
+     "es": "Afeitarse",
+     "ko": "면도하다"
+    },
+    {
+     "t": 615.9,
+     "s": "N",
+     "es": "No me gusta afeitarme todos los días, es muy pesado.",
+     "ko": "매일 면도하는 건 싫어요, 너무 귀찮아요."
+    },
+    {
+     "t": 625.0,
+     "s": "N",
+     "es": "Peinarse",
+     "ko": "머리를 빗다"
+    },
+    {
+     "t": 626.0,
+     "s": "N",
+     "es": "Yo no sé peinarme.",
+     "ko": "나는 머리를 빗을(손질할) 줄 몰라요."
+    },
+    {
+     "t": 630.9,
+     "s": "N",
+     "es": "Sentarse",
+     "ko": "앉다"
+    },
+    {
+     "t": 632.0,
+     "s": "N",
+     "es": "¿Nos sentamos aquí?",
+     "ko": "여기 앉을까?"
+    },
+    {
+     "t": 636.6,
+     "s": "N",
+     "es": "Caminar",
+     "ko": "걷다"
+    },
+    {
+     "t": 638.4,
+     "s": "N",
+     "es": "Le gusta caminar sin rumbo.",
+     "ko": "그는 정처 없이 걷는 걸 좋아해요."
+    },
+    {
+     "t": 643.8,
+     "s": "N",
+     "es": "Andar",
+     "ko": "걷다; (상태로) 지내다"
+    },
+    {
+     "t": 645.4,
+     "s": "N",
+     "es": "Estos últimos días ando mal de dinero.",
+     "ko": "요 며칠 돈이 궁해요."
+    },
+    {
+     "t": 651.4,
+     "s": "N",
+     "es": "Pasear",
+     "ko": "산책하다"
+    },
+    {
+     "t": 653.6,
+     "s": "N",
+     "es": "Quiero pasear un rato. ¿Te vienes conmigo?",
+     "ko": "잠깐 산책하고 싶어. 같이 갈래?"
+    },
+    {
+     "t": 660.1,
+     "s": "N",
+     "es": "Correr",
+     "ko": "달리다"
+    },
+    {
+     "t": 661.3,
+     "s": "N",
+     "es": "Me gusta correr por el paseo marítimo.",
+     "ko": "해변 산책로를 달리는 걸 좋아해요."
+    },
+    {
+     "t": 667.5,
+     "s": "N",
+     "es": "Hacer deporte",
+     "ko": "운동하다"
+    },
+    {
+     "t": 669.7,
+     "s": "N",
+     "es": "¿Cuántas veces a la semana haces deporte?",
+     "ko": "일주일에 몇 번 운동해?"
+    },
+    {
+     "t": 675.7,
+     "s": "N",
+     "es": "Ducharse",
+     "ko": "샤워하다"
+    },
+    {
+     "t": 677.5,
+     "s": "N",
+     "es": "Me ducho con agua fría en verano.",
+     "ko": "여름엔 찬물로 샤워해요."
+    },
+    {
+     "t": 683.1,
+     "s": "N",
+     "es": "Subir",
+     "ko": "올리다, 올라가다"
+    },
+    {
+     "t": 683.7,
+     "s": "N",
+     "es": "Voy a subir las maletas.",
+     "ko": "여행 가방을 올려 놓을게요."
+    },
+    {
+     "t": 689.3,
+     "s": "N",
+     "es": "Bajar",
+     "ko": "내리다, 내려가다"
+    },
+    {
+     "t": 690.4,
+     "s": "N",
+     "es": "Voy a bajar la basura.",
+     "ko": "쓰레기 내다 버릴게요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3 — 몸으로 하는 동작 ② 삶과 몸의 표현",
+   "lines": [
+    {
+     "t": 696.3,
+     "s": "N",
+     "es": "Nacer",
+     "ko": "태어나다"
+    },
+    {
+     "t": 697.7,
+     "s": "N",
+     "es": "Mi sobrino nació el tres de enero.",
+     "ko": "내 조카는 1월 3일에 태어났어요."
+    },
+    {
+     "t": 704.8,
+     "s": "N",
+     "es": "Crecer",
+     "ko": "자라다"
+    },
+    {
+     "t": 706.5,
+     "s": "N",
+     "es": "¿Cómo ha crecido mi pequeño?",
+     "ko": "우리 아기 많이 컸네!"
+    },
+    {
+     "t": 711.4,
+     "s": "N",
+     "es": "Oler",
+     "ko": "냄새가 나다, 냄새를 맡다"
+    },
+    {
+     "t": 713.7,
+     "s": "N",
+     "es": "Huele muy bien. ¿Te has echado perfume o algo?",
+     "ko": "냄새 정말 좋다. 향수라도 뿌렸어?"
+    },
+    {
+     "t": 719.4,
+     "s": "N",
+     "es": "Sonarse",
+     "ko": "코를 풀다"
+    },
+    {
+     "t": 721.4,
+     "s": "N",
+     "es": "¿Es de mala educación sonarse en público?",
+     "ko": "사람들 앞에서 코 푸는 건 예의 없는 거야?"
+    },
+    {
+     "t": 727.8,
+     "s": "N",
+     "es": "Respirar",
+     "ko": "숨 쉬다"
+    },
+    {
+     "t": 729.3,
+     "s": "N",
+     "es": "Mi jefe no me deja ni respirar.",
+     "ko": "상사가 숨 돌릴 틈도 안 줘요."
+    },
+    {
+     "t": 735.3,
+     "s": "N",
+     "es": "Besar",
+     "ko": "입 맞추다"
+    },
+    {
+     "t": 736.3,
+     "s": "N",
+     "es": "Juan me besó la mano.",
+     "ko": "후안이 내 손에 입을 맞췄어요."
+    },
+    {
+     "t": 742.2,
+     "s": "N",
+     "es": "Abrazar",
+     "ko": "껴안다"
+    },
+    {
+     "t": 743.4,
+     "s": "N",
+     "es": "Quiero abrazarte.",
+     "ko": "널 안아 주고 싶어."
+    },
+    {
+     "t": 747.9,
+     "s": "N",
+     "es": "Estar sentado",
+     "ko": "앉아 있다"
+    },
+    {
+     "t": 749.8,
+     "s": "N",
+     "es": "Yo estoy sentada cerca de la puerta.",
+     "ko": "나는 문 가까이에 앉아 있어요."
+    },
+    {
+     "t": 756.1,
+     "s": "N",
+     "es": "Estar de pie",
+     "ko": "서 있다"
+    },
+    {
+     "t": 757.7,
+     "s": "N",
+     "es": "No me gusta estar de pie en el metro.",
+     "ko": "지하철에서 서 있는 건 싫어요."
+    },
+    {
+     "t": 764.3,
+     "s": "N",
+     "es": "Estar embarazada",
+     "ko": "임신 중이다"
+    },
+    {
+     "t": 766.3,
+     "s": "N",
+     "es": "Ana está embarazada de cinco meses.",
+     "ko": "아나는 임신 5개월이에요."
+    },
+    {
+     "t": 774.4,
+     "s": "N",
+     "es": "Esperar un niño",
+     "ko": "아기를 기다리다 (임신 중이다)"
+    },
+    {
+     "t": 776.1,
+     "s": "N",
+     "es": "Ana está esperando un niño.",
+     "ko": "아나는 아기를 가졌어요."
+    },
+    {
+     "t": 783.4,
+     "s": "N",
+     "es": "Dar un paseo",
+     "ko": "산책하다"
+    },
+    {
+     "t": 785.7,
+     "s": "N",
+     "es": "Vamos a dar un paseo después de cenar.",
+     "ko": "저녁 먹고 산책하자."
+    },
+    {
+     "t": 792.3,
+     "s": "N",
+     "es": "Levantar la mano",
+     "ko": "손을 들다"
+    },
+    {
+     "t": 794.0,
+     "s": "N",
+     "es": "Levanté la mano para hacer una pregunta al profesor.",
+     "ko": "선생님께 질문하려고 손을 들었어요."
+    },
+    {
+     "t": 802.8,
+     "s": "N",
+     "es": "Hacer gimnasia",
+     "ko": "체조하다"
+    },
+    {
+     "t": 804.9,
+     "s": "N",
+     "es": "Haz un poco de gimnasia cada mañana y te sentirás mucho mejor.",
+     "ko": "매일 아침 체조를 조금 하면 훨씬 좋아질 거예요."
+    },
+    {
+     "t": 813.6,
+     "s": "N",
+     "es": "Madrugar",
+     "ko": "일찍 일어나다"
+    },
+    {
+     "t": 814.6,
+     "s": "N",
+     "es": "No me gusta madrugar.",
+     "ko": "일찍 일어나는 건 싫어요."
+    },
+    {
+     "t": 819.9,
+     "s": "N",
+     "es": "Morir",
+     "ko": "죽다"
+    },
+    {
+     "t": 821.0,
+     "s": "N",
+     "es": "Mi perro murió hace cinco años.",
+     "ko": "우리 개는 5년 전에 죽었어요."
+    },
+    {
+     "t": 827.1,
+     "s": "N",
+     "es": "Fallecer",
+     "ko": "돌아가시다, 사망하다"
+    },
+    {
+     "t": 829.0,
+     "s": "N",
+     "es": "Mi abuelo falleció por un cáncer.",
+     "ko": "할아버지는 암으로 돌아가셨어요."
+    },
+    {
+     "t": 834.7,
+     "s": "N",
+     "es": "Moverse",
+     "ko": "(몸을) 움직이다"
+    },
+    {
+     "t": 836.2,
+     "s": "N",
+     "es": "¿Me muevo un poco?",
+     "ko": "내가 좀 비켜 줄까?"
+    },
+    {
+     "t": 840.2,
+     "s": "N",
+     "es": "Mover",
+     "ko": "(물건을) 옮기다"
+    },
+    {
+     "t": 842.1,
+     "s": "N",
+     "es": "¿Puedo mover tu mochila?",
+     "ko": "네 배낭 좀 옮겨도 돼?"
+    },
+    {
+     "t": 846.6,
+     "s": "N",
+     "es": "Saltar",
+     "ko": "뛰다, 점프하다"
+    },
+    {
+     "t": 848.4,
+     "s": "N",
+     "es": "Cuando era pequeña, me gustaba saltar a la comba.",
+     "ko": "어릴 때 줄넘기를 좋아했어요."
+    },
+    {
+     "t": 855.5,
+     "s": "N",
+     "es": "Soltar",
+     "ko": "놓다, 풀어 주다"
+    },
+    {
+     "t": 856.6,
+     "s": "N",
+     "es": "Suéltame.",
+     "ko": "나 좀 놔."
+    },
+    {
+     "t": 859.5,
+     "s": "N",
+     "es": "Tener la regla",
+     "ko": "생리 중이다"
+    },
+    {
+     "t": 862.5,
+     "s": "N",
+     "es": "Tengo la regla y por eso me siento regular.",
+     "ko": "생리 중이라 컨디션이 그저 그래요."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "lang": "es",
+ "date": "2026-11-23",
+ "title": "몸과 외모, 몸으로 하는 동작 — 스페인어 어휘 1장 (1–3과)",
+ "es": "Esa historia no tiene ni pies ni cabeza.",
+ "emoji": "🧍",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 1 · Unidad 1–3 (01-01 · 01-02 · 01-03)",
+ "audio": "audio.m4a",
+ "duration": "14:27",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 1장의 1~3과 오디오 세 개를 하나로 이었어요. 1과는 머리부터 발끝까지 몸의 부위(pelo, ojo, muela, codo, tobillo…), 2과는 외모를 묘사하는 표현(ser alto, tener canas, tener buen tipo, parecerse a…), 3과는 몸으로 하는 동작(despertarse, afeitarse, sonarse, madrugar, fallecer…)이에요. 단어 다음에 바로 예문이 나와서, 문장을 눌러 듣고 따라 말하며 외우기 좋아요. 'de oreja a oreja', 'ni pies ni cabeza', 'talón de Aquiles' 같은 관용 표현도 함께 나와요.",
+ "topics": [
+  "1과 몸: pelo · ojo · nariz · muela · cuello · codo · muñeca · rodilla · tobillo …",
+  "2과 외모: ser alto · estar calvo · tener canas · tener los ojos claros · tener buen tipo",
+  "3과 동작: despertarse · levantarse · afeitarse · sonarse · madrugar · fallecer",
+  "관용 표현: de oreja a oreja · ni pies ni cabeza · el talón de Aquiles",
+  "문법: me duele(n) · tener + 신체 + 형용사 · ser/estar/tener · 재귀동사"
+ ],
+ "grammar": [
+  {
+   "title": "① 아플 때 — Me duele + 단수 / Me duelen + 복수",
+   "lead": "doler는 gustar처럼 아픈 부위가 주어예요. 정관사(el/la)를 붙이고, 부위가 복수면 duelen.",
+   "examples": [
+    [
+     "Me duele mucho la cabeza.",
+     "머리가 많이 아파요."
+    ],
+    [
+     "Me duele la garganta.",
+     "목이 아파요."
+    ],
+    [
+     "Me duele el estómago desde ayer.",
+     "어제부터 배가 아파요."
+    ],
+    [
+     "Me duele la muñeca al coger el ratón.",
+     "마우스를 잡으면 손목이 아파요. (al + 동사원형 = ~할 때)"
+    ]
+   ],
+   "tip": "복수 예: Me duelen los pies. (발이 아파요) — 소유격 mi 대신 정관사를 써요."
+  },
+  {
+   "title": "② tener + 정관사 + 신체 + 형용사 — 생김새 말하기",
+   "lead": "스페인어는 '내 눈은 커' 대신 '나는 큰 눈을 가졌다'처럼 말해요. 형용사는 신체 명사에 성·수를 맞춰요.",
+   "examples": [
+    [
+     "Mi novia tiene los ojos muy grandes.",
+     "내 여자 친구는 눈이 아주 커요."
+    ],
+    [
+     "José tiene las cejas muy pobladas.",
+     "호세는 눈썹이 아주 짙어요."
+    ],
+    [
+     "Tengo los labios secos en invierno.",
+     "겨울엔 입술이 건조해요."
+    ],
+    [
+     "Alejandro tiene los hombros anchos.",
+     "알레한드로는 어깨가 넓어요."
+    ]
+   ]
+  },
+  {
+   "title": "③ ser · estar · tener — 외모를 말하는 세 동사",
+   "lead": "타고난 특징은 <b>ser</b>, 변한 상태는 <b>estar</b>, 가진 것(머리·눈·수염)은 <b>tener</b>.",
+   "table": {
+    "head": [
+     "동사",
+     "표현",
+     "예문"
+    ],
+    "rows": [
+     [
+      "ser",
+      "ser alto / ser moreno de piel",
+      "Mi hermana menor es más alta que yo."
+     ],
+     [
+      "estar",
+      "estar calvo / estar embarazada",
+      "José está calvo."
+     ],
+     [
+      "tener",
+      "tener barba / tener canas / tener el pelo rizado",
+      "Mi padre ya tiene canas."
+     ],
+     [
+      "tener",
+      "tener buen tipo / tener buena presencia",
+      "Ana hace mucho ejercicio y por eso tiene buen tipo."
+     ],
+     [
+      "parecerse a",
+      "누구와 닮다 (재귀동사)",
+      "No me parezco nada a mi madre."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ 재귀동사 — 내 몸에 하는 동작",
+   "lead": "동작이 자기 자신에게 돌아오면 me/te/se를 붙여요. 신체 부위 앞에는 소유격 대신 정관사를 써요.",
+   "examples": [
+    [
+     "Quiero cortarme el pelo.",
+     "머리를 자르고 싶어요. (cortarse el pelo)"
+    ],
+    [
+     "Ya me lavo los dientes, mamá.",
+     "지금 이 닦을게요, 엄마. (lavarse los dientes)"
+    ],
+    [
+     "Gema se despierta fácilmente con cualquier ruido.",
+     "헤마는 작은 소리에도 쉽게 깨요."
+    ],
+    [
+     "No me gusta afeitarme todos los días, es muy pesado.",
+     "매일 면도하는 건 싫어요, 너무 귀찮아요."
+    ]
+   ],
+   "tip": "moverse(몸을 움직이다) vs mover(물건을 옮기다): ¿Me muevo un poco? / ¿Puedo mover tu mochila?"
+  },
+  {
+   "title": "⑤ 비슷하지만 다른 단어 쌍",
+   "lead": "교재가 일부러 짝지어 넣은 단어들이에요. 차이를 기억해 두세요.",
+   "table": {
+    "head": [
+     "단어",
+     "차이",
+     "예문"
+    ],
+    "rows": [
+     [
+      "oreja / oído",
+      "바깥귀 / 청각·속귀",
+      "toca el piano de oído (귀로 듣고 치다)"
+     ],
+     [
+      "diente / muela",
+      "이 / 어금니",
+      "la muela del juicio (사랑니)"
+     ],
+     [
+      "oír / escuchar",
+      "들리다 / 귀 기울여 듣다",
+      "¿Me oyes? / Dime, yo te escucho."
+     ],
+     [
+      "ver / mirar",
+      "보이다 / 바라보다",
+      "¿Has visto a Gema? / Mírame a los ojos."
+     ],
+     [
+      "caminar / andar / pasear",
+      "걷다 / 걷다·지내다 / 산책하다",
+      "ando mal de dinero (돈이 궁하다)"
+     ],
+     [
+      "morir / fallecer",
+      "죽다 / 돌아가시다 (격식)",
+      "Mi abuelo falleció por un cáncer."
+     ],
+     [
+      "barriga / vientre",
+      "배·뱃살 (구어) / 복부",
+      "la danza del vientre (벨리 댄스)"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ 몸으로 만든 관용 표현",
+   "lead": "예문 속에 숨어 있는 관용구예요. 그대로 외워 두면 바로 쓸 수 있어요.",
+   "examples": [
+    [
+     "Ana siempre tiene una sonrisa de oreja a oreja.",
+     "아나는 늘 입이 귀에 걸리게 웃어요. (de oreja a oreja = 귀에서 귀까지)"
+    ],
+    [
+     "Esa historia no tiene ni pies ni cabeza.",
+     "그 이야기는 앞뒤가 하나도 안 맞아요. (발도 머리도 없다)"
+    ],
+    [
+     "El talón de Aquiles de Ana es el chocolate.",
+     "아나의 약점은 초콜릿이에요. (아킬레스건)"
+    ],
+    [
+     "Mi hermana mayor tiene una cintura de avispa.",
+     "우리 언니는 개미허리예요. (말벌 허리)"
+    ],
+    [
+     "Mi jefe no me deja ni respirar.",
+     "상사가 숨 돌릴 틈도 안 줘요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 스페인(스페인 본토) 단어",
+   "lead": "이 교재는 스페인식 표현을 써요. 중남미와 다른 단어가 있어요.",
+   "table": {
+    "head": [
+     "스페인",
+     "뜻",
+     "중남미에서 흔한 말"
+    ],
+    "rows": [
+     [
+      "coger",
+      "잡다",
+      "agarrar / tomar"
+     ],
+     [
+      "el ratón",
+      "(컴퓨터) 마우스",
+      "el mouse"
+     ],
+     [
+      "las lentillas",
+      "콘택트렌즈",
+      "los lentes de contacto"
+     ],
+     [
+      "el metro",
+      "지하철",
+      "el subte (아르헨티나) 등"
+     ],
+     [
+      "saltar a la comba",
+      "줄넘기하다",
+      "saltar la cuerda"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Me duele mucho la cabeza.",
+   "머리가 많이 아파요."
+  ],
+  [
+   "Tengo la nariz tapada por el resfriado.",
+   "감기 때문에 코가 막혔어요."
+  ],
+  [
+   "No hables con la boca llena.",
+   "입에 음식을 넣은 채로 말하지 마."
+  ],
+  [
+   "Esa historia no tiene ni pies ni cabeza.",
+   "그 이야기는 앞뒤가 하나도 안 맞아요."
+  ],
+  [
+   "No me parezco nada a mi madre.",
+   "나는 엄마를 하나도 안 닮았어요."
+  ],
+  [
+   "Dime, yo te escucho.",
+   "말해 봐, 듣고 있어."
+  ],
+  [
+   "Quiero pasear un rato. ¿Te vienes conmigo?",
+   "잠깐 산책하고 싶어. 같이 갈래?"
+  ],
+  [
+   "Vamos a dar un paseo después de cenar.",
+   "저녁 먹고 산책하자."
+  ]
+ ],
+ "vocab": [
+  { "es": "el pelo", "ko": "머리카락", "ex": "Quiero cortarme el pelo.", "exKo": "머리를 자르고 싶어요." },
+  { "es": "la oreja", "ko": "귀 (바깥귀)", "ex": "una sonrisa de oreja a oreja", "exKo": "귀에 걸린 미소" },
+  { "es": "el ojo", "ko": "눈", "ex": "Mi novia tiene los ojos muy grandes.", "exKo": "내 여자 친구는 눈이 아주 커요." },
+  { "es": "la nariz", "ko": "코", "ex": "Tengo la nariz tapada por el resfriado.", "exKo": "감기 때문에 코가 막혔어요." },
+  { "es": "la boca", "ko": "입", "ex": "No hables con la boca llena.", "exKo": "입에 음식을 넣은 채로 말하지 마." },
+  { "es": "la mano", "ko": "손", "ex": "Este collar está hecho a mano.", "exKo": "이 목걸이는 손으로 만든 거예요." },
+  { "es": "la cara", "ko": "얼굴", "ex": "¿Qué cara tiene tu jefe?", "exKo": "네 상사는 어떻게 생겼어?" },
+  { "es": "la cabeza", "ko": "머리", "ex": "Me duele mucho la cabeza.", "exKo": "머리가 많이 아파요." },
+  { "es": "la ceja", "ko": "눈썹", "ex": "José tiene las cejas muy pobladas.", "exKo": "호세는 눈썹이 아주 짙어요." },
+  { "es": "el oído", "ko": "청각, 속귀", "ex": "Miguel toca el piano de oído.", "exKo": "미겔은 귀로 듣고 피아노를 쳐요." },
+  { "es": "el labio", "ko": "입술", "ex": "Tengo los labios secos en invierno.", "exKo": "겨울엔 입술이 건조해요." },
+  { "es": "el diente", "ko": "이, 치아", "ex": "Ya me lavo los dientes, mamá.", "exKo": "지금 이 닦을게요, 엄마." },
+  { "es": "la muela", "ko": "어금니", "ex": "Tengo que sacarme la muela del juicio.", "exKo": "사랑니를 뽑아야 해요." },
+  { "es": "la lengua", "ko": "혀", "ex": "Luis me ha sacado la lengua.", "exKo": "루이스가 나한테 혀를 내밀었어요." },
+  { "es": "el cuello", "ko": "목", "ex": "Siento algo en el cuello.", "exKo": "목에 뭔가 느껴져요." },
+  { "es": "la garganta", "ko": "목구멍", "ex": "Me duele la garganta.", "exKo": "목이 아파요." },
+  { "es": "el brazo", "ko": "팔", "ex": "Tengo los brazos fofos.", "exKo": "팔이 물렁해요." },
+  { "es": "el codo", "ko": "팔꿈치", "ex": "Ana me dio con el codo.", "exKo": "아나가 팔꿈치로 나를 쳤어요." },
+  { "es": "la muñeca", "ko": "손목 (인형이라는 뜻도 있어요)", "ex": "Me duele la muñeca al coger el ratón.", "exKo": "마우스를 잡으면 손목이 아파요." },
+  { "es": "el dedo", "ko": "손가락", "ex": "Tienes los dedos finos.", "exKo": "손가락이 가늘구나." },
+  { "es": "la espalda", "ko": "등", "ex": "Siento algo en la espalda.", "exKo": "등에 뭔가 느껴져요." },
+  { "es": "la cintura", "ko": "허리", "ex": "una cintura de avispa", "exKo": "개미허리" },
+  { "es": "la pierna", "ko": "다리", "ex": "Tengo una cicatriz en la pierna derecha.", "exKo": "오른쪽 다리에 흉터가 있어요." },
+  { "es": "la rodilla", "ko": "무릎", "ex": "Siempre me duele la rodilla derecha.", "exKo": "늘 오른쪽 무릎이 아파요." },
+  { "es": "el pie", "ko": "발", "ex": "no tiene ni pies ni cabeza", "exKo": "앞뒤가 안 맞다" },
+  { "es": "la frente", "ko": "이마", "ex": "Me ha salido un grano en la frente.", "exKo": "이마에 여드름이 났어요." },
+  { "es": "la pestaña", "ko": "속눈썹", "ex": "Mi sobrina tiene las pestañas muy largas.", "exKo": "조카딸은 속눈썹이 아주 길어요." },
+  { "es": "la mejilla", "ko": "뺨", "ex": "Se dan un beso en cada mejilla.", "exKo": "양 뺨에 입맞춤을 해요." },
+  { "es": "la piel", "ko": "피부", "ex": "Yuna Kim tiene la piel de porcelana.", "exKo": "김연아는 도자기 같은 피부를 가졌어요." },
+  { "es": "el hombro", "ko": "어깨", "ex": "Alejandro tiene los hombros anchos.", "exKo": "알레한드로는 어깨가 넓어요." },
+  { "es": "el pecho", "ko": "가슴", "ex": "Siento un dolor agudo en el pecho.", "exKo": "가슴에 날카로운 통증이 느껴져요." },
+  { "es": "el ombligo", "ko": "배꼽", "ex": "Quiero hacerme un piercing en el ombligo.", "exKo": "배꼽 피어싱을 하고 싶어요." },
+  { "es": "la uña", "ko": "손톱, 발톱", "ex": "No te muerdas las uñas.", "exKo": "손톱 물어뜯지 마." },
+  { "es": "el tobillo", "ko": "발목", "ex": "Me he hecho daño en el tobillo derecho.", "exKo": "오른쪽 발목을 다쳤어요." },
+  { "es": "el talón", "ko": "발뒤꿈치", "ex": "El talón de Aquiles de Ana es el chocolate.", "exKo": "아나의 약점은 초콜릿이에요." },
+  { "es": "el hueso", "ko": "뼈", "ex": "Me rompí un hueso al caer de un árbol.", "exKo": "나무에서 떨어져 뼈가 부러졌어요." },
+  { "es": "estar calvo", "ko": "대머리이다", "ex": "José está calvo.", "exKo": "호세는 대머리예요." },
+  { "es": "tener canas", "ko": "흰머리가 있다", "ex": "Mi padre ya tiene canas.", "exKo": "아빠는 벌써 흰머리가 있어요." },
+  { "es": "teñirse", "ko": "염색하다", "ex": "Quiero teñirme de castaño.", "exKo": "갈색으로 염색하고 싶어요." },
+  { "es": "las lentillas", "ko": "콘택트렌즈 (스페인)", "ex": "Por eso llevo lentillas.", "exKo": "그래서 렌즈를 껴요." },
+  { "es": "rizado", "ko": "곱슬곱슬한", "ex": "Mi sobrina tiene el pelo muy rizado.", "exKo": "조카딸은 머리가 아주 곱슬곱슬해요." },
+  { "es": "tener buen tipo", "ko": "몸매가 좋다", "ex": "Ana tiene buen tipo.", "exKo": "아나는 몸매가 좋아요." },
+  { "es": "parecerse a", "ko": "~와 닮다", "ex": "No me parezco nada a mi madre.", "exKo": "엄마를 하나도 안 닮았어요." },
+  { "es": "despertarse", "ko": "잠에서 깨다", "ex": "Gema se despierta fácilmente.", "exKo": "헤마는 쉽게 깨요." },
+  { "es": "afeitarse", "ko": "면도하다", "ex": "No me gusta afeitarme todos los días.", "exKo": "매일 면도하는 건 싫어요." },
+  { "es": "sin rumbo", "ko": "정처 없이", "ex": "Le gusta caminar sin rumbo.", "exKo": "정처 없이 걷는 걸 좋아해요." },
+  { "es": "el paseo marítimo", "ko": "해변 산책로", "ex": "Me gusta correr por el paseo marítimo.", "exKo": "해변 산책로를 달리는 걸 좋아해요." },
+  { "es": "sonarse", "ko": "코를 풀다", "ex": "¿Es de mala educación sonarse en público?", "exKo": "사람들 앞에서 코 푸는 건 예의 없어요?" },
+  { "es": "madrugar", "ko": "일찍 일어나다", "ex": "No me gusta madrugar.", "exKo": "일찍 일어나는 건 싫어요." },
+  { "es": "fallecer", "ko": "돌아가시다", "ex": "Mi abuelo falleció por un cáncer.", "exKo": "할아버지는 암으로 돌아가셨어요." },
+  { "es": "saltar a la comba", "ko": "줄넘기하다 (스페인)", "ex": "Me gustaba saltar a la comba.", "exKo": "줄넘기를 좋아했어요." },
+  { "es": "soltar", "ko": "놓다, 풀어 주다", "ex": "Suéltame.", "exKo": "나 좀 놔." }
+ ],
+ "quiz": [
+  {
+   "q": "'머리가 많이 아파요'를 스페인어로 하면?",
+   "options": ["Me duele mucho la cabeza.", "Tengo mucho la cabeza.", "Me duelo la cabeza.", "Estoy cabeza mucho."],
+   "answer": 0,
+   "explain": "doler는 아픈 부위가 주어 — Me duele la cabeza."
+  },
+  {
+   "q": "'la muela del juicio'는 무엇일까요?",
+   "options": ["앞니", "사랑니", "송곳니", "젖니"],
+   "answer": 1,
+   "explain": "Tengo que sacarme la muela del juicio. = 사랑니를 뽑아야 해요."
+  },
+  {
+   "q": "'Esa historia no tiene ni pies ni cabeza.'의 뜻은?",
+   "options": ["그 이야기는 아주 길어요.", "그 이야기는 앞뒤가 하나도 안 맞아요.", "그 이야기는 무서워요.", "그 이야기는 끝이 없어요."],
+   "answer": 1,
+   "explain": "발도 머리도 없다 = 엉터리다, 앞뒤가 안 맞다."
+  },
+  {
+   "q": "Miguel toca el piano ___ oído. (귀로 듣고 치다)",
+   "options": ["de", "en", "con", "por"],
+   "answer": 0,
+   "explain": "tocar de oído = 악보 없이 귀로 듣고 연주하다."
+  },
+  {
+   "q": "'José ___ calvo.' 빈칸에 알맞은 동사는?",
+   "options": ["es", "está", "tiene", "hace"],
+   "answer": 1,
+   "explain": "estar calvo — 교재 표현 그대로 estar를 써요."
+  },
+  {
+   "q": "'흰머리가 있다'는 스페인어로?",
+   "options": ["ser canas", "estar canas", "tener canas", "hacer canas"],
+   "answer": 2,
+   "explain": "Mi padre ya tiene canas."
+  },
+  {
+   "q": "'No me parezco nada a mi madre.'의 뜻은?",
+   "options": ["엄마가 보고 싶지 않아요.", "나는 엄마를 하나도 안 닮았어요.", "엄마는 나를 이해 못 해요.", "엄마랑 같이 안 살아요."],
+   "answer": 1,
+   "explain": "parecerse a alguien = 누구와 닮다."
+  },
+  {
+   "q": "'코를 풀다'에 해당하는 동사는?",
+   "options": ["sonarse", "soltar", "oler", "respirar"],
+   "answer": 0,
+   "explain": "¿Es de mala educación sonarse en público?"
+  },
+  {
+   "q": "'Mi jefe no me deja ni respirar.'의 뜻은?",
+   "options": ["상사는 담배를 못 피우게 해요.", "상사가 숨 돌릴 틈도 안 줘요.", "상사는 아파요.", "상사가 나를 칭찬해요."],
+   "answer": 1,
+   "explain": "숨 쉬는 것조차 허락하지 않는다 = 쉴 틈을 안 준다."
+  },
+  {
+   "q": "'Ana está esperando un niño.'와 같은 뜻의 문장은?",
+   "options": ["Ana está sentada.", "Ana está embarazada.", "Ana está de pie.", "Ana está calva."],
+   "answer": 1,
+   "explain": "esperar un niño = estar embarazada (임신 중이다)."
+  },
+  {
+   "q": "'¿Puedo ___ tu mochila?' (배낭을 옮겨도 돼?)",
+   "options": ["moverme", "mover", "moverse", "muevo"],
+   "answer": 1,
+   "explain": "물건을 옮길 때는 mover, 내 몸을 움직일 때는 moverse."
+  },
+  {
+   "q": "'madrugar'의 뜻은?",
+   "options": ["늦잠 자다", "일찍 일어나다", "낮잠 자다", "산책하다"],
+   "answer": 1,
+   "explain": "No me gusta madrugar. = 일찍 일어나는 건 싫어요."
+  }
+ ]
+}
