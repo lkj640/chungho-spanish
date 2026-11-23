@@ -47,6 +47,8 @@
       }
     }
   } catch {}
+  // 「내가 추가한 단어」(wordbook/added-<언어>.json · assets/addword.js)도 강의 단어처럼 합쳐요
+  try { const have = new Set(lessonWords.map(v => v.w)); for (const v of await AW.load(lang)) if (!have.has(v.w)) lessonWords.push(v); titles.added = AW.TITLE; } catch {}
   const guessPos = w => {
     const t = plain(w).replace(/\(.*?\)/g, "").trim();
     if (ART.test(t)) return "명사";
@@ -173,7 +175,7 @@
       </table><p class="np">현재분사 <b lang="es">${esc(c[0])}</b> · 과거분사 <b lang="es">${esc(c[1])}</b><span class="swipe"> · 표는 옆으로 밀면 더 보여요 →</span></p></div>`;
   };
   const tags = w => `<span class="tags">${w.pos.map(p => `<span class="chip">${esc(p)}</span>`).join("")}${w.lvl ? `<span class="chip yel"${w.est ? ` title="${w.est === "추정" ? "원본에 레벨이 없어 추정해 넣었어요" : "이 단어가 나온 강의의 수준이에요"}"` : ""}>${esc(w.lvl)}${w.est ? ` (${w.est})` : ""}</span>` : ""}${!w.book ? '<span class="chip red">강의</span>' : ""}</span>`;
-  const lessonLinks = w => w.l.map(id => `<a href="lesson.html?d=${esc(id)}#vocab">${esc(titles[id] || id)}</a>`).join(" · ");
+  const lessonLinks = w => w.l.map(id => AW.link(id, titles)).join(" · ");
   const exBlock = w => w.ex ? `<div class="x"><div lang="es">${esc(w.ex)} <button class="say" data-sayx="${w.i}" aria-label="예문 듣기">🔊</button></div><div class="ko">${esc(w.exKo || "")}</div>${w.l.length ? `<div class="src">📗 ${lessonLinks(w)}</div>` : ""}</div>`
     : w.l.length ? `<div class="x"><div class="src">📗 ${lessonLinks(w)}</div></div>` : "";
   const meanHtml = (w, cls) => `<div class="${cls}">${esc(w.ko || w.en)}</div>${w.ko && w.en ? `<div class="en">${esc(w.en)}</div>` : ""}`;

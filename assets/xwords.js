@@ -60,6 +60,8 @@
       seen.set(w, x); lessonWords.push(x);
     }
   } catch {}
+  // 「내가 추가한 단어」(wordbook/added-<언어>.json · assets/addword.js)도 강의 단어처럼 합쳐요
+  try { const have = new Set(lessonWords.map(v => v.w)); for (const v of await AW.load(lang)) if (!have.has(v.w)) lessonWords.push(v); titles.added = AW.TITLE; } catch {}
   // 엑셀 단어 찾기: 표제어, 일본어는 다른 한자 표기(괄호 있고 없고)까지. 같은 글자가 여럿이면(长 cháng/zhǎng) 읽기가 맞는 쪽
   const byForm = new Map();
   const addForm = (f, w) => { f = (f || "").trim(); if (!f) return; if (!byForm.has(f)) byForm.set(f, []); if (!byForm.get(f).includes(w)) byForm.get(f).push(w); };
@@ -160,7 +162,7 @@
   // ---------- 화면 조각 ----------
   const tags = w => `<span class="tags">${w.pos ? `<span class="chip">${esc(posName(w.pos))}</span>` : ""}<span class="chip yel">${esc(lvName(w.lvl))}</span></span>`;
   const sayBtn = w => `<button class="say" data-say="${w.i}" aria-label="발음 듣기">🔊</button>`;
-  const lessonLinks = w => w.l.map(id => `<a href="lesson.html?d=${esc(id)}#vocab">${esc(titles[id] || id)}</a>`).join(" · ");
+  const lessonLinks = w => w.l.map(id => AW.link(id, titles)).join(" · ");
   const exBlock = w => w.ex || w.l.length ? `<div class="x">${w.ex ? `<div lang="${C.tag}">${esc(w.ex)} <button class="say" data-sayx="${w.i}" aria-label="예문 듣기">🔊</button></div><div class="ko">${esc(w.exKo)}</div>` : ""}${w.l.length ? `<div class="src">📗 ${lessonLinks(w)}</div>` : ""}</div>` : "";
   const ivl = i => i === 0 ? "곧 다시" : i < 30 ? `${i}일` : i < 365 ? `${Math.round(i / 30)}달` : `${(i / 365).toFixed(1)}년`;
 

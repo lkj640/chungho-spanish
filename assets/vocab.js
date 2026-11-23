@@ -40,6 +40,9 @@
     }
   } catch {}
 
+  // 「내가 추가한 단어」(wordbook/added-<언어>.json · assets/addword.js)
+  try { const have = new Set(D.words.map(v => v.w)); for (const v of await AW.load(lang)) if (!have.has(v.w)) D.words.push(v); D.titles.added = AW.TITLE; } catch {}
+
   // ---------- 날짜(기기 시간 기준 하루 단위) ----------
   const dayOf = t => { const d = new Date(t); return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5); };
   const today = dayOf(Date.now());
@@ -126,7 +129,7 @@
   const front = w => opt.dir === "f"
     ? `<div class="fw" lang="${lang}">${esc(w.w)}</div>`
     : `<div class="fk">${esc(w.ko)}</div>`;
-  const lessonLinks = w => w.l.map(id => `<a href="lesson.html?d=${esc(id)}#vocab">${esc(D.titles[id] || id)}</a>`).join(" · ");
+  const lessonLinks = w => w.l.map(id => AW.link(id, D.titles)).join(" · ");
 
   function show() {
     const rv = $("rv");

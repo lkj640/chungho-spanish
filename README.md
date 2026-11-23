@@ -65,3 +65,14 @@ python3 tools/build_ja_wordbook.py "…/일본어 어휘의 달인/일본어 단
 python3 -m http.server 8765
 ```
 그다음 http://localhost:8765 를 열어요.
+
+## 단어장에 단어 직접 추가하기
+
+스페인어·중국어·일본어·영어 단어장에서 단어를 검색했는데 결과가 없으면 **「＋ 단어장에 추가」** 버튼이 나와요
+(검색창 아래 **＋ 단어 추가** 로 언제든 넣을 수도 있어요). 뜻·예문은 비워 둬도 돼요.
+
+- 저장 위치: `wordbook/added-<언어>.json` (es · zh · ja · en). 단어장 페이지가 이 파일을 함께 읽어서 「✍️ 내가 추가한 단어」로 보여 줘요.
+- **⚙️ 저장 설정**에 GitHub 개인 토큰(Fine-grained, 이 저장소만, Contents: Read and write)을 한 번 넣어 두면
+  추가할 때마다 저장소에 바로 저장돼서 모든 기기에서 보여요. 토큰이 없으면 그 기기에만 저장해 두고, 토큰을 넣은 뒤 다시 올려요.
+- 뜻을 비워 둔 단어(`"auto": true`)는 매일 자동 작업이 `python3 tools/fill_added.py list` 로 찾아서
+  한국어 뜻·예문(중국어 병음·일본어 읽기)을 채운 뒤 `python3 tools/fill_added.py apply fills.json` 으로 저장해요.
