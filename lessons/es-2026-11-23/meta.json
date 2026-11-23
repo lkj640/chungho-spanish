@@ -1,0 +1,731 @@
+{
+ "lang": "es",
+ "date": "2026-11-23",
+ "title": "습관의 심리학 — 좋은 습관 만들고 나쁜 습관 끊기",
+ "es": "Somos la suma de nuestros hábitos.",
+ "emoji": "🔁",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "The Psychology of Habits (B1) | Learn español with Podcast | episode 73 | Easy Spanish",
+ "youtube": "8S9nppDZN-s",
+ "duration": "16:34",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 습관이 무엇이고 왜 중요한지, 신호·루틴·보상으로 이루어진 습관 고리, 좋은 습관을 만드는 네 가지 원칙(눈에 띄게·매력적으로·쉽게·만족스럽게), 원자 습관과 습관 쌓기, 그리고 나쁜 습관을 거꾸로 끊는 법과 마무리 조언까지 이야기해요. 비교 구문 cuanto más…, 명령형 조언, 미래형 공식을 듣고 따라 말하기 좋은 B1 팟캐스트예요.",
+ "topics": [
+  "습관의 정의: una conducta que se repite · automática · sin deliberación",
+  "습관 고리: la señal · la rutina · la recompensa",
+  "좋은 습관 4원칙: obvio · atractivo · fácil · satisfactorio",
+  "원자 습관과 habit stacking: Después de…, haré…",
+  "나쁜 습관 끊기: invisible · poco atractivo · difícil · insatisfactorio",
+  "문법: cuanto más…, más… · tú 명령형 · 접속법 · 미래형 · consiste en"
+ ],
+ "grammar": [
+  {
+   "title": "① 비교급 — cuanto más…, más… (~할수록 더 ~)",
+   "lead": "<b>cuanto más / menos A, más / menos B</b> 는 '더 A할수록 더 B하다'는 비례 표현이에요.",
+   "examples": [
+    [
+     "Cuanto más repetimos este bucle, más arraigado se vuelve el hábito.",
+     "이 고리를 반복할수록 습관은 더 뿌리 깊어져요."
+    ],
+    [
+     "Cuanto menos esfuerzo inicial requiera, mejor.",
+     "처음에 필요한 노력이 적을수록 좋아요."
+    ],
+    [
+     "Cuanto más esfuerzo tengas que hacer, menos probable será que lo hagas.",
+     "노력이 더 들수록 할 가능성은 줄어요."
+    ]
+   ],
+   "tip": "뒤쪽은 más/menos + 형용사 또는 mejor/peor 로도 끝낼 수 있어요."
+  },
+  {
+   "title": "② 명령형 — 조언할 때 (tú)",
+   "lead": "청취자에게 조언할 때는 <b>tú 명령형</b>을 써요. 긍정 명령은 3인칭 현재와 같고, 대명사는 동사 뒤에 붙어요.",
+   "table": {
+    "head": [
+     "원형",
+     "tú 명령형",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "dejar",
+      "deja un libro",
+      "책을 두세요"
+     ],
+     [
+      "asociar",
+      "asocia el hábito",
+      "연결하세요"
+     ],
+     [
+      "reducir",
+      "reduce la fricción",
+      "줄이세요"
+     ],
+     [
+      "preparar",
+      "prepara tu ropa",
+      "준비하세요"
+     ],
+     [
+      "borrar",
+      "borra las aplicaciones",
+      "지우세요"
+     ],
+     [
+      "dar",
+      "date un premio (da + te)",
+      "스스로에게 상을 주세요"
+     ],
+     [
+      "llevar",
+      "lleva un diario",
+      "일기를 쓰세요"
+     ]
+    ]
+   },
+   "tip": "부정 명령은 접속법: No intentes cambiar tu vida / No te castigues."
+  },
+  {
+   "title": "③ 접속법 현재 — si 가 아닌 소망·가능성 표현",
+   "lead": "<b>es probable que / espero que / para que + 접속법</b>. 확실하지 않거나 바라는 내용에는 접속법을 써요.",
+   "examples": [
+    [
+     "Es probable que experimente más estrés.",
+     "스트레스를 더 느낄 가능성이 커요."
+    ],
+    [
+     "Espero que nuestros oyentes se sientan inspirados.",
+     "청취자분들이 영감을 받으셨으면 해요."
+    ],
+    [
+     "Menos probable será que lo hagas.",
+     "그걸 할 가능성은 더 줄어요."
+    ],
+    [
+     "Estrategia para que el cerebro adopte una versión más saludable.",
+     "뇌가 더 건강한 버전을 받아들이게 하는 전략이에요."
+    ]
+   ],
+   "tip": "-ar 동사는 -e, -er/-ir 동사는 -a 어미: experimente, sientan, adopte."
+  },
+  {
+   "title": "④ 미래형 — haré, leeré, hablaremos",
+   "lead": "습관 쌓기 공식 <b>Después de A, haré B</b>처럼 계획·다짐은 미래형으로 말해요. 원형에 -é, -ás, -á, -emos, -án.",
+   "table": {
+    "head": [
+     "원형",
+     "yo / nosotros",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "hacer",
+      "haré / haremos",
+      "하다 (불규칙)"
+     ],
+     [
+      "leer",
+      "leeré / leeremos",
+      "읽다"
+     ],
+     [
+      "hablar",
+      "hablaré / hablaremos",
+      "말하다"
+     ],
+     [
+      "tener",
+      "tendré / tendremos",
+      "가지다 (불규칙)"
+     ],
+     [
+      "poder",
+      "podré / podremos",
+      "할 수 있다 (불규칙)"
+     ]
+    ]
+   },
+   "tip": "hacer→har-, tener→tendr-, poder→podr- 같은 불규칙 어간을 외워 두세요."
+  },
+  {
+   "title": "⑤ 동사원형으로 쓰는 표현 — consiste en · tender a · llevar a",
+   "lead": "특정 전치사와 짝을 이루는 동사 표현은 뒤에 동사원형이 와요.",
+   "examples": [
+    [
+     "Habit stacking consiste en vincular un nuevo hábito a uno establecido.",
+     "습관 쌓기는 새 습관을 기존 습관에 연결하는 거예요."
+    ],
+    [
+     "Un hábito tiende a ocurrir de forma automática.",
+     "습관은 자동으로 일어나는 경향이 있어요."
+    ],
+    [
+     "Pequeños cambios pueden llevar a resultados extraordinarios.",
+     "작은 변화가 놀라운 결과로 이어질 수 있어요."
+    ],
+    [
+     "Vale la pena recordar este bucle.",
+     "이 고리를 기억해 둘 가치가 있어요."
+    ]
+   ],
+   "tip": "consistir en · tender a · llevar a · valer la pena 는 통째로 외우면 편해요."
+  },
+  {
+   "title": "⑥ 재귀·수동의 se — se forman, se repite",
+   "lead": "<b>se + 3인칭</b>은 '(저절로) ~되다 / 일반적으로 ~한다'는 뜻이에요. 주어가 사물이면 복수에 맞춰요.",
+   "examples": [
+    [
+     "¿Cómo se forman estos hábitos?",
+     "이 습관들은 어떻게 만들어져요?"
+    ],
+    [
+     "Un hábito es una conducta que se repite regularmente.",
+     "습관은 규칙적으로 반복되는 행동이에요."
+    ],
+    [
+     "Esa conexión se vuelve más fuerte.",
+     "그 연결은 더 강해져요. (volverse = 되다)"
+    ]
+   ],
+   "tip": "se vuelve / se convierte en + 명사·형용사 = '~이(가) 되다'."
+  },
+  {
+   "title": "⑦ 반대 표현 — mientras que · en lugar de · aunque",
+   "lead": "대조와 양보를 이어 주는 연결어예요.",
+   "examples": [
+    [
+     "Los buenos nos impulsan, mientras que los malos nos frenan.",
+     "좋은 습관은 밀어 주고, 반면 나쁜 습관은 막아요."
+    ],
+    [
+     "En lugar de «quiero comer más sano», di «quiero comer una porción de verduras».",
+     "'더 건강하게 먹고 싶다' 대신 '채소 한 접시 먹고 싶다'라고 하세요."
+    ],
+    [
+     "Aunque los hábitos son automáticos, no somos sus esclavos.",
+     "습관이 자동적이긴 해도 우리가 노예는 아니에요."
+    ]
+   ],
+   "tip": "en lugar de + 동사원형/명사 = '~ 대신에'."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Qué son exactamente los hábitos?",
+   "습관이란 정확히 뭐예요?"
+  ],
+  [
+   "Cuanto más repetimos este bucle, más arraigado se vuelve el hábito.",
+   "이 고리를 반복할수록 습관은 더 뿌리 깊어져요."
+  ],
+  [
+   "Somos la suma de nuestros hábitos.",
+   "우리는 습관의 합이에요."
+  ],
+  [
+   "No somos esclavos de nuestros hábitos.",
+   "우리는 습관의 노예가 아니에요."
+  ],
+  [
+   "Es mejor hacer un poco cada día que mucho un día y luego nada.",
+   "하루 많이 하고 나머지 날 아무것도 안 하는 것보다 매일 조금씩 하는 게 나아요."
+  ],
+  [
+   "Después de tomar mi café, leeré una página de un libro.",
+   "커피를 마신 뒤에 책을 한 페이지 읽겠어요."
+  ],
+  [
+   "Esa es la pregunta del millón.",
+   "그게 바로 백만 불짜리 질문이에요."
+  ],
+  [
+   "Un desliz, no una caída.",
+   "미끄러진 것일 뿐 넘어진 게 아니에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "el hábito",
+   "ko": "습관",
+   "ex": "Un hábito es una conducta que se repite regularmente.",
+   "exKo": "습관은 규칙적으로 반복되는 행동이에요."
+  },
+  {
+   "es": "la conducta",
+   "ko": "행동, 품행",
+   "ex": "Un hábito es una conducta que se repite.",
+   "exKo": "습관은 반복되는 행동이에요."
+  },
+  {
+   "es": "automático/a",
+   "ko": "자동적인",
+   "ex": "Los hábitos tienden a ocurrir de forma automática.",
+   "exKo": "습관은 자동으로 일어나는 경향이 있어요."
+  },
+  {
+   "es": "la deliberación",
+   "ko": "숙고",
+   "ex": "Lo hacemos sin mucha deliberación consciente.",
+   "exKo": "우리는 의식적인 숙고 없이 그걸 해요."
+  },
+  {
+   "es": "sumergirse",
+   "ko": "깊이 빠져들다",
+   "ex": "Hoy vamos a sumergirnos en un tema fascinante.",
+   "exKo": "오늘은 흥미로운 주제에 푹 빠져 볼 거예요."
+  },
+  {
+   "es": "pasar por alto",
+   "ko": "간과하다, 지나치다",
+   "ex": "A menudo pasamos por alto nuestros hábitos.",
+   "exKo": "우리는 종종 자기 습관을 지나쳐요."
+  },
+  {
+   "es": "darse cuenta de",
+   "ko": "알아차리다",
+   "ex": "A veces actuamos sin darnos cuenta.",
+   "exKo": "우리는 때로 알아차리지도 못한 채 행동해요."
+  },
+  {
+   "es": "el motor",
+   "ko": "엔진, 원동력",
+   "ex": "Los hábitos son el motor silencioso de nuestras vidas.",
+   "exKo": "습관은 삶의 조용한 엔진이에요."
+  },
+  {
+   "es": "el bucle",
+   "ko": "고리, 루프",
+   "ex": "El bucle del hábito tiene tres partes.",
+   "exKo": "습관 고리는 세 부분으로 되어 있어요."
+  },
+  {
+   "es": "la señal",
+   "ko": "신호",
+   "ex": "La señal indica a tu cerebro que inicie un comportamiento.",
+   "exKo": "신호는 뇌에게 행동을 시작하라고 알려 줘요."
+  },
+  {
+   "es": "la rutina",
+   "ko": "루틴, 일과",
+   "ex": "La rutina es la acción que realizas.",
+   "exKo": "루틴은 당신이 하는 행동이에요."
+  },
+  {
+   "es": "la recompensa",
+   "ko": "보상",
+   "ex": "La recompensa es el beneficio al completar la rutina.",
+   "exKo": "보상은 루틴을 마쳤을 때의 이득이에요."
+  },
+  {
+   "es": "el detonante",
+   "ko": "방아쇠, 유발 요인",
+   "ex": "La señal es el detonante del comportamiento.",
+   "exKo": "신호는 행동의 방아쇠예요."
+  },
+  {
+   "es": "ahorrar energía",
+   "ko": "에너지를 아끼다",
+   "ex": "El cerebro forma hábitos para ahorrar energía.",
+   "exKo": "뇌는 에너지를 아끼려고 습관을 만들어요."
+  },
+  {
+   "es": "arraigado/a",
+   "ko": "뿌리 깊은",
+   "ex": "Cuanto más repetimos, más arraigado se vuelve el hábito.",
+   "exKo": "반복할수록 습관은 더 뿌리 깊어져요."
+  },
+  {
+   "es": "gobernar",
+   "ko": "지배하다",
+   "ex": "Muchos días están gobernados por estos bucles.",
+   "exKo": "많은 날들이 이런 고리에 지배돼요."
+  },
+  {
+   "es": "tomar las riendas",
+   "ko": "고삐를 쥐다, 주도권을 잡다",
+   "ex": "Entender los hábitos nos permite tomar las riendas.",
+   "exKo": "습관을 이해하면 주도권을 잡을 수 있어요."
+  },
+  {
+   "es": "arrastrar",
+   "ko": "끌고 가다",
+   "ex": "No queremos ser arrastrados por acciones automáticas.",
+   "exKo": "자동적인 행동에 끌려다니고 싶지 않아요."
+  },
+  {
+   "es": "los cimientos",
+   "ko": "토대, 기초",
+   "ex": "Los hábitos son los cimientos de nuestra vida diaria.",
+   "exKo": "습관은 우리 일상의 토대예요."
+  },
+  {
+   "es": "procrastinar",
+   "ko": "미루다",
+   "ex": "Quien procrastina suele sentir más estrés.",
+   "exKo": "미루는 사람은 대개 스트레스를 더 느껴요."
+  },
+  {
+   "es": "la productividad",
+   "ko": "생산성",
+   "ex": "Procrastinar reduce la productividad.",
+   "exKo": "미루면 생산성이 떨어져요."
+  },
+  {
+   "es": "la frustración",
+   "ko": "좌절감",
+   "ex": "Procrastinar puede causar frustración.",
+   "exKo": "미루면 좌절감이 생길 수 있어요."
+  },
+  {
+   "es": "impulsar",
+   "ko": "추진하다, 밀어 주다",
+   "ex": "Los hábitos buenos nos impulsan hacia adelante.",
+   "exKo": "좋은 습관은 우리를 앞으로 밀어 줘요."
+  },
+  {
+   "es": "frenar",
+   "ko": "제동을 걸다",
+   "ex": "Los hábitos malos nos frenan.",
+   "exKo": "나쁜 습관은 우리를 막아요."
+  },
+  {
+   "es": "la suma",
+   "ko": "합, 총합",
+   "ex": "Somos la suma de nuestros hábitos.",
+   "exKo": "우리는 습관의 합이에요."
+  },
+  {
+   "es": "el incentivo",
+   "ko": "동기, 유인책",
+   "ex": "Tengo un gran incentivo para tener buenos hábitos.",
+   "exKo": "좋은 습관을 가질 큰 동기가 있어요."
+  },
+  {
+   "es": "el esclavo",
+   "ko": "노예",
+   "ex": "No somos esclavos de nuestros hábitos.",
+   "exKo": "우리는 습관의 노예가 아니에요."
+  },
+  {
+   "es": "obvio/a",
+   "ko": "분명한, 눈에 띄는",
+   "ex": "El primer principio es hacer el hábito obvio.",
+   "exKo": "첫 번째 원칙은 습관을 눈에 띄게 하는 거예요."
+  },
+  {
+   "es": "atractivo/a",
+   "ko": "매력적인",
+   "ex": "El segundo principio es hacerlo atractivo.",
+   "exKo": "두 번째 원칙은 매력적으로 만드는 거예요."
+  },
+  {
+   "es": "la fricción",
+   "ko": "마찰",
+   "ex": "Reduce la fricción al mínimo.",
+   "exKo": "마찰을 최소로 줄이세요."
+  },
+  {
+   "es": "la almohada",
+   "ko": "베개",
+   "ex": "Deja un libro en tu almohada.",
+   "exKo": "베개 위에 책을 놓아 두세요."
+  },
+  {
+   "es": "la ropa de deporte",
+   "ko": "운동복",
+   "ex": "Prepara tu ropa de deporte la noche anterior.",
+   "exKo": "전날 밤에 운동복을 준비하세요."
+  },
+  {
+   "es": "la excusa",
+   "ko": "핑계",
+   "ex": "Así tienes menos excusas para no hacerlo.",
+   "exKo": "그러면 하지 않을 핑계가 줄어요."
+  },
+  {
+   "es": "satisfactorio/a",
+   "ko": "만족스러운",
+   "ex": "El cuarto principio es hacerlo satisfactorio.",
+   "exKo": "네 번째 원칙은 만족스럽게 만드는 거예요."
+  },
+  {
+   "es": "la gratificación",
+   "ko": "만족감, 보상감",
+   "ex": "A nuestro cerebro le encanta la gratificación instantánea.",
+   "exKo": "우리 뇌는 즉각적인 만족을 좋아해요."
+  },
+  {
+   "es": "el premio",
+   "ko": "상, 보상",
+   "ex": "Después de limpiar, date un pequeño premio.",
+   "exKo": "청소 후에 작은 상을 주세요."
+  },
+  {
+   "es": "accionable",
+   "ko": "실행 가능한",
+   "ex": "Son principios claros y accionables.",
+   "exKo": "명확하고 실행 가능한 원칙이에요."
+  },
+  {
+   "es": "de la noche a la mañana",
+   "ko": "하룻밤 사이에",
+   "ex": "No intentes cambiar tu vida de la noche a la mañana.",
+   "exKo": "하룻밤 사이에 삶을 바꾸려 하지 마세요."
+  },
+  {
+   "es": "a largo plazo",
+   "ko": "장기적으로",
+   "ex": "Una pequeña mejora suma mucho a largo plazo.",
+   "exKo": "작은 개선이 장기적으로 크게 쌓여요."
+  },
+  {
+   "es": "el apilamiento",
+   "ko": "쌓기",
+   "ex": "El apilamiento de hábitos vincula uno nuevo a otro establecido.",
+   "exKo": "습관 쌓기는 새 습관을 기존 습관에 연결해요."
+  },
+  {
+   "es": "vincular",
+   "ko": "연결하다",
+   "ex": "Vincula un hábito nuevo a uno que ya tienes.",
+   "exKo": "새 습관을 이미 있는 습관에 연결하세요."
+  },
+  {
+   "es": "establecido/a",
+   "ko": "자리 잡은, 확립된",
+   "ex": "Es un hábito ya establecido.",
+   "exKo": "이미 자리 잡은 습관이에요."
+  },
+  {
+   "es": "la sentadilla",
+   "ko": "스쿼트",
+   "ex": "Después de cepillarme los dientes, haré diez sentadillas.",
+   "exKo": "이를 닦은 뒤 스쿼트를 열 번 할 거예요."
+  },
+  {
+   "es": "encadenar",
+   "ko": "사슬처럼 잇다",
+   "ex": "Es como encadenar comportamientos.",
+   "exKo": "행동을 사슬처럼 엮는 거예요."
+  },
+  {
+   "es": "la perseverancia",
+   "ko": "끈기",
+   "ex": "La perseverancia a largo plazo es importante.",
+   "exKo": "장기적인 끈기가 중요해요."
+  },
+  {
+   "es": "la racha",
+   "ko": "연속 기록",
+   "ex": "Me motiva ver mi racha de días.",
+   "exKo": "연속 일수를 보면 동기가 생겨요."
+  },
+  {
+   "es": "llevar un registro",
+   "ko": "기록을 하다",
+   "ex": "Lleva un registro de tu progreso.",
+   "exKo": "진행 상황을 기록하세요."
+  },
+  {
+   "es": "romper un hábito",
+   "ko": "습관을 끊다",
+   "ex": "¿Cómo podemos romper los malos hábitos?",
+   "exKo": "나쁜 습관을 어떻게 끊을 수 있을까요?"
+  },
+  {
+   "es": "la rendición de cuentas",
+   "ko": "책무성, 결과 보고",
+   "ex": "La rendición de cuentas puede ser muy efectiva.",
+   "exKo": "책무성은 아주 효과적일 수 있어요."
+  },
+  {
+   "es": "sustituir",
+   "ko": "대체하다",
+   "ex": "Puedes sustituir el dulce por una caminata.",
+   "exKo": "단것을 산책으로 대체할 수 있어요."
+  },
+  {
+   "es": "la recaída",
+   "ko": "재발, 다시 빠짐",
+   "ex": "Habrá recaídas, pero hay que volver a intentarlo.",
+   "exKo": "재발도 있겠지만 다시 시도해야 해요."
+  },
+  {
+   "es": "la autocompasión",
+   "ko": "자기 연민",
+   "ex": "La autocompasión es clave.",
+   "exKo": "자기 연민이 핵심이에요."
+  },
+  {
+   "es": "el desliz",
+   "ko": "실수, 미끄러짐",
+   "ex": "Un desliz no es una caída.",
+   "exKo": "한 번 미끄러진 건 넘어진 게 아니에요."
+  },
+  {
+   "es": "la meta",
+   "ko": "목표",
+   "ex": "Sé específico con tus metas.",
+   "exKo": "목표를 구체적으로 정하세요."
+  },
+  {
+   "es": "castigarse",
+   "ko": "자신을 벌주다",
+   "ex": "No te castigues por los errores.",
+   "exKo": "실수했다고 자신을 벌주지 마세요."
+  },
+  {
+   "es": "la mentalidad",
+   "ko": "마음가짐",
+   "ex": "Esa es una mentalidad muy importante.",
+   "exKo": "아주 중요한 마음가짐이에요."
+  },
+  {
+   "es": "la acumulación",
+   "ko": "축적",
+   "ex": "El poder de los hábitos reside en su acumulación.",
+   "exKo": "습관의 힘은 축적에 있어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué es un hábito según Sofía?",
+   "options": [
+    "Una conducta que se repite y tiende a ser automática",
+    "Una decisión que se toma con mucha deliberación",
+    "Una emoción muy fuerte",
+    "Un plan para el futuro"
+   ],
+   "answer": 0,
+   "explain": "Un hábito es una conducta que se repite regularmente y tiende a ocurrir de forma automática."
+  },
+  {
+   "q": "¿Por qué el cerebro forma hábitos?",
+   "options": [
+    "Para sentir más estrés",
+    "Para ahorrar energía y liberar espacio mental",
+    "Para dormir más",
+    "Para olvidar cosas"
+   ],
+   "answer": 1,
+   "explain": "Formar hábitos es la manera del cerebro de ahorrar energía y liberar espacio mental."
+  },
+  {
+   "q": "¿Cuáles son las tres partes del bucle del hábito?",
+   "options": [
+    "Meta, esfuerzo y premio",
+    "Señal, rutina y recompensa",
+    "Inicio, medio y final",
+    "Idea, plan y acción"
+   ],
+   "answer": 1,
+   "explain": "Charles Duhigg propone: la señal, la rutina y la recompensa."
+  },
+  {
+   "q": "En el ejemplo del teléfono, ¿cuál es la señal?",
+   "options": [
+    "Ver el teléfono en la mesa",
+    "Revisar las redes sociales",
+    "La diversión que sientes",
+    "Apagar la televisión"
+   ],
+   "answer": 0,
+   "explain": "Ver tu teléfono en la mesa es la señal; revisar las redes es la rutina."
+  },
+  {
+   "q": "¿Qué significa «Somos la suma de nuestros hábitos»?",
+   "options": [
+    "Los hábitos se pueden sumar y restar",
+    "Solo los malos hábitos cuentan",
+    "Con el tiempo, los hábitos definen quiénes somos",
+    "Tenemos muchos hábitos"
+   ],
+   "answer": 2,
+   "explain": "Los hábitos no solo definen lo que hacemos, sino con el tiempo quiénes somos."
+  },
+  {
+   "q": "¿Cuál es el primer principio para formar un buen hábito?",
+   "options": [
+    "Hacerlo caro",
+    "Hacerlo difícil",
+    "Hacerlo invisible",
+    "Hacerlo obvio"
+   ],
+   "answer": 3,
+   "explain": "El primero es hacer el hábito obvio; la señal debe ser muy clara."
+  },
+  {
+   "q": "Si no te gusta hacer ejercicio, ¿qué sugiere Sofía?",
+   "options": [
+    "Hacerlo solo los domingos",
+    "Comprar ropa nueva cada semana",
+    "Dejar de hacerlo",
+    "Escuchar tu podcast favorito solo mientras haces ejercicio"
+   ],
+   "answer": 3,
+   "explain": "Hacer el hábito atractivo: asociarlo con algo que ya disfrutas."
+  },
+  {
+   "q": "¿Qué significa «reducir la fricción»?",
+   "options": [
+    "Hacer que empezar requiera menos esfuerzo",
+    "Pelearse con alguien",
+    "Hacer más ruido",
+    "Ir más rápido"
+   ],
+   "answer": 0,
+   "explain": "Hacerlo fácil: por ejemplo, preparar la ropa de deporte la noche anterior."
+  },
+  {
+   "q": "¿Cuál es la fórmula del apilamiento de hábitos?",
+   "options": [
+    "Cada día haré más",
+    "Después de [hábito actual], haré [hábito nuevo]",
+    "Si quiero, lo haré",
+    "Antes de dormir, haré todo"
+   ],
+   "answer": 1,
+   "explain": "Se vincula un hábito nuevo a uno que ya está establecido."
+  },
+  {
+   "q": "Para romper un mal hábito, ¿qué recomienda Sofía como primer paso?",
+   "options": [
+    "Hacerlo invisible",
+    "Hacerlo más fácil",
+    "Contárselo a todos",
+    "Esperar un año"
+   ],
+   "answer": 0,
+   "explain": "Los principios son los mismos pero a la inversa: hacerlo invisible, poco atractivo, difícil e insatisfactorio."
+  },
+  {
+   "q": "Si comes dulces por estrés, ¿qué puedes hacer?",
+   "options": [
+    "Ignorar el estrés",
+    "Comprar dulces más caros",
+    "Reemplazar el dulce con una caminata o meditación",
+    "Comer más dulces"
+   ],
+   "answer": 2,
+   "explain": "La necesidad real es manejar el estrés; se sustituye la rutina pero se mantiene la recompensa."
+  },
+  {
+   "q": "Si fallas un día, ¿qué recomienda Sofía?",
+   "options": [
+    "Abandonar el hábito",
+    "Castigarte duramente",
+    "Volver a empezar al día siguiente sin castigarte",
+    "Cambiar todas tus metas"
+   ],
+   "answer": 2,
+   "explain": "«Un desliz, no una caída»: simplemente vuelve a empezar al día siguiente."
+  }
+ ]
+}
