@@ -1,0 +1,754 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: A = Host A, B = Host B. 화자 구분은 대화 맥락에 맞춰 나눴어요. END = 오디오 끝 시각
+# 원본: 사용자 오디오를 Whisper로 받아쓰기. 인식 오류(bootle his lever Dora→first his lover Dora, gets par→Gaspar, paid for cars→paved for cars, donkey hote→Don Quixote, ericio polo→Hercule Poirot, haunting whales→wails, reason apes→risen apes, to moscos→Tomás goes, train→terrain 등)와 인물·지명 표기(Yann Martel, Eusébio Lozora, Bragança, Tuizelo)를 바로잡았어요.
+# 시각은 Whisper 단어 시각으로 구한 문장별 시작 시각이에요.
+END 37:35
+
+## 도입 — 뒤로 걷는 남자, 유령과 토론하는 의사, 침팬지와 떠난 상원의원
+[00:00.00]
+A | Imagine walking entirely backward through the cobblestone streets of 1904 Lisbon. | 1904년 리스본의 자갈길을 완전히 뒤로 걷는다고 상상해 보세요.
+[00:06.42]
+B | Which is just a wildly dangerous thing to do, by the way, right? | 그건 그렇고, 엄청 위험한 짓이죠?
+[00:10.40]
+A | You are dodging early motor cars. You're bumping into confused pedestrians, and just stubbornly, I mean aggressively, refusing to face the direction you are moving. | 초창기 자동차를 피하고, 어리둥절한 행인들과 부딪히면서, 고집스럽게, 아니 공격적으로, 가는 방향을 보지 않으려 하는 거예요.
+[00:19.00]
+A | So hold that image for a second. | 그 장면을 잠깐 붙잡고 계세요.
+[00:20.84]
+B | Okay. I have it now. | 좋아요. 떠올렸어요.
+[00:22.08]
+A | Jump forward a few decades. | 이제 몇십 년 뒤로 건너뛰어요.
+[00:23.88]
+A | Picture a grieving pathologist on New Year's Eve. | 섣달그믐날 밤, 슬픔에 잠긴 병리학자를 떠올려 보세요.
+[00:26.72]
+A | He's sitting in this super sterile office, having a deeply earnest, highly theological debate with the ghost of his dead wife… | 아주 소독된 듯한 사무실에 앉아서, 죽은 아내의 유령과 아주 진지하고 신학적인 토론을 하고 있어요…
+[00:33.28]
+B | As one does on New Year's Eve. | 섣달그믐날 밤에 다들 하는 일이죠.
+[00:35.32]
+A | Exactly. And the topic of this ghost debate? Agatha Christie murder mysteries, naturally. | 바로 그거예요. 그리고 이 유령 토론의 주제는? 당연히 애거사 크리스티 살인 미스터리예요.
+[00:42.26]
+A | And finally, jump forward one more time. | 그리고 마지막으로 한 번 더 건너뛰어요.
+[00:44.86]
+A | A distinguished Canadian politician suddenly abandons his entire Senate career, packs his bags and moves to a tiny, dusty Portuguese village, | 저명한 캐나다 정치인이 갑자기 상원 경력을 통째로 버리고, 짐을 싸서, 작고 먼지 날리는 포르투갈 마을로 이사해요.
+[00:55.18]
+A | taking exactly one companion with him, and that companion is a live chimpanzee. | 딱 한 명의 동반자만 데리고요. 그 동반자는 살아 있는 침팬지예요.
+[01:00.32]
+B | I mean, on the surface, if you just pitch those three scenarios, it sounds like the setup to some kind of surreal, maybe slightly unhinged joke. | 겉으로 보면, 그 세 장면만 늘어놓으면 무슨 초현실적인, 어쩌면 좀 정신 나간 농담의 도입부 같아요.
+[01:09.54]
+A | Yeah, it really sounds like madness. | 네, 정말 미친 소리처럼 들리죠.
+[01:11.08]
+A | But as we've been combing through the sources for today's deep dive, and we've got publisher reading guides, critical reviews from places like The Guardian, some really meticulous book club reports and even interviews with the author himself, | 그런데 오늘 딥다이브 자료를 샅샅이 살펴보니, 출판사 독서 가이드, 가디언 같은 곳의 비평, 아주 꼼꼼한 독서 모임 보고서, 작가 인터뷰까지 있는데,
+[01:23.78]
+A | we realized that these aren't just quirky setups. | 이게 그냥 별난 설정이 아니라는 걸 깨달았어요.
+[01:26.76]
+B | Not at all. They are actually these intricate blueprints, blueprints for how human beings attempt to survive things that are just, you know, fundamentally unsurvivable. | 전혀 아니죠. 사실 정교한 설계도예요. 인간이 근본적으로 견딜 수 없는 일을 어떻게든 견뎌 내려는 방법의 설계도요.
+[01:36.68]
+A | Which brings us to the actual topic today. | 그게 오늘의 진짜 주제로 이어져요.
+[01:39.98]
+A | Welcome to the deep dive. We are jumping into the brilliant, bizarre and just profoundly moving world of Yann Martel's novel, The High Mountains of Portugal. | 딥다이브에 오신 걸 환영해요. 얀 마텔의 소설 『포르투갈의 높은 산』의 눈부시고, 기이하고, 깊이 감동적인 세계로 뛰어들어요.
+[01:49.90]
+B | And for anyone who only knows Martel from his Booker Prize-winning book Life of Pi, you are definitely going to recognize a lot of his creative DNA here. | 마텔을 부커상 수상작 『파이 이야기』로만 아는 분이라면, 여기서 그의 창작 DNA를 많이 알아보실 거예요.
+[01:58.66]
+A | Oh, totally. He is tackling those same massive, sweeping themes, right? | 오, 완전히요. 같은 거대하고 폭넓은 주제들을 다루고 있죠.
+[02:03.68]
+A | The mechanics of faith, the immense power of storytelling, and our sort of primal connection to the animal kingdom. | 믿음의 작동 원리, 이야기의 엄청난 힘, 그리고 동물 세계와 우리의 원초적인 연결이요.
+[02:11.44]
+B | But in this novel, he's forcing all of those concepts through the incredibly distorting, devastating lens of human grief. | 그런데 이 소설에서는 그 모든 개념을 인간의 슬픔이라는, 엄청나게 일그러지고 참담한 렌즈로 통과시켜요.
+[02:19.42]
+A | Which is exactly our mission for today. | 그게 바로 오늘 우리의 임무예요.
+[02:21.62]
+A | Our goal is to walk you through the intricate plot summaries of the novel's three distinct parts, | 우리의 목표는 소설의 뚜렷이 다른 세 부분의 복잡한 줄거리를 차근차근 안내하는 거예요.
+[02:26.46]
+A | because to really decode what Martel is trying to say about the human condition, we have to look closely at the three men. | 마텔이 인간의 조건에 대해 하려는 말을 제대로 해독하려면, 세 남자를 자세히 봐야 하거든요.
+[02:32.68]
+B | And we're trying to answer a really heavy question today. When your life is completely shattered, how do you keep living? | 그리고 오늘은 아주 무거운 질문에 답해 보려고 해요. 삶이 완전히 산산조각 났을 때, 어떻게 계속 살아가나요?
+[02:39.46]
+B | Do you run from it? Do you dissect it? Or do you just have to become something else entirely? | 거기서 도망치나요? 해부하나요? 아니면 완전히 다른 무언가가 되어야 하나요?
+## 1부 「집 잃은」 — 뒤로 걷는 토마스의 항의
+[02:46.08]
+A | So let's unpack this. Let's start with running from it. | 그럼 풀어 봐요. 도망치는 것부터 시작하죠.
+[02:49.00]
+A | Part one of the novel is titled "Homeless," and it drops us into Lisbon in 1904. | 소설의 1부 제목은 '집 잃은(Homeless)'이고, 1904년 리스본으로 우리를 데려가요.
+[02:54.72]
+B | Right. So we meet a young man named Tomás. | 맞아요. 토마스라는 젊은 남자를 만나요.
+[02:57.62]
+A | Yeah, Tomás. He works as an assistant at the National Museum of Ancient Art, but his job is really secondary to his psychological state. | 네, 토마스. 국립 고대미술관에서 조수로 일하지만, 일은 그의 심리 상태에 비하면 부차적이에요.
+[03:05.32]
+B | Tomás is a man who is absolutely drowning, because in a terrifyingly short span of time, he has suffered a catastrophic series of losses. | 토마스는 완전히 가라앉고 있는 사람이에요. 끔찍할 만큼 짧은 사이에 참담한 상실을 연달아 겪었거든요.
+[03:16.14]
+A | It's just brutal. His lover Dora dies, then their young son Gaspar dies, and then his father passes away. | 정말 잔인해요. 연인 도라가 죽고, 이어서 어린 아들 가스파르가 죽고, 그다음엔 아버지마저 세상을 떠나요.
+[03:23.10]
+B | He has essentially been stripped of every emotional anchor he had in the world. | 세상에서 붙들고 있던 감정의 닻을 사실상 전부 빼앗긴 거죠.
+[03:28.42]
+A | And what's fascinating is how Martel chooses to depict this. He doesn't just write these long interior monologues about how sad Tomás is. | 그리고 흥미로운 건 마텔이 이걸 그리는 방식이에요. 토마스가 얼마나 슬픈지 긴 내면 독백으로 쓰지 않아요.
+[03:36.66]
+A | He manifests that grief in a profoundly physical, highly disruptive way. | 그 슬픔을 아주 신체적이고 아주 요란한 방식으로 드러내요.
+[03:40.76]
+B | The backward walking. | 뒤로 걷기죠.
+[03:41.92]
+A | Exactly, the backward walking. After losing his family, Tomás makes a conscious decision that he will no longer walk forward. | 바로 그거예요, 뒤로 걷기. 가족을 잃은 뒤 토마스는 더 이상 앞으로 걷지 않겠다고 의식적으로 결심해요.
+[03:49.86]
+A | He walks everywhere backward, through the bustling streets of Lisbon, into his workplace at the museum, just navigating his own home. | 어디든 뒤로 걸어요. 북적이는 리스본 거리를 지나, 박물관 일터로, 자기 집 안에서도요.
+[03:58.28]
+B | It's such a bizarre coping mechanism. | 정말 기이한 대처 방식이에요.
+[04:00.62]
+A | It really is. | 정말 그래요.
+[04:01.96]
+B | When I was initially reading the summaries of this, my first instinct was to compare it to, like, a glitching internal compass. | 처음 줄거리를 읽었을 때, 제 첫 직감은 고장 난 내면의 나침반 같다는 거였어요.
+[04:10.22]
+A | Oh, that's an interesting way to look at it. | 오, 흥미로운 시각이네요.
+[04:12.10]
+B | Yeah. Like, if you've ever experienced sudden, shocking loss, you know that your brain can literally short-circuit. | 네. 갑작스럽고 충격적인 상실을 겪어 본 사람은 뇌가 말 그대로 합선될 수 있다는 걸 알잖아요.
+[04:20.04]
+B | It felt to me like Tomás was so traumatized, his brain simply refused to move forward into a timeline that didn't include his son and his partner. | 토마스는 너무 큰 충격을 받아서, 뇌가 아들과 연인이 없는 시간 속으로 나아가기를 그냥 거부한 것 같았어요.
+[04:31.46]
+B | Because moving forward means leaving them behind in the past, right? So his system just glitches and he reverses. | 앞으로 간다는 건 그들을 과거에 두고 떠난다는 뜻이니까요. 그래서 시스템이 고장 나서 거꾸로 가는 거죠.
+[04:38.26]
+A | I see the logic there, and the idea of a neurological glitch totally makes sense for trauma. | 그 논리는 이해돼요. 신경학적 고장이라는 생각은 트라우마에 딱 맞아요.
+[04:43.74]
+A | But looking at the critical analyses in our sources, and what Martel explicitly states in the text, it's actually much more deliberate than a glitch. | 그런데 자료의 비평 분석과 마텔이 본문에서 분명히 쓴 걸 보면, 사실 고장보다 훨씬 의도적이에요.
+[04:51.88]
+B | Wait, really? Deliberate how? | 잠깐, 정말요? 어떻게 의도적이라는 거죠?
+[04:54.56]
+A | Well, Martel writes that Tomás walks with, quote, "his back to the world, his back to God." And then he says, he is objecting. | 마텔은 토마스가 '세상에 등을 돌리고, 신에게 등을 돌리고' 걷는다고 써요. 그리고 그가 항의하고 있다고 말해요.
+[05:04.32]
+B | He is objecting. Wow, okay. So it's not just a passive short circuit, it's an active protest. | 항의하고 있다. 와, 그렇군요. 그러니까 수동적인 합선이 아니라 적극적인 항의네요.
+[05:10.40]
+A | It is a physical filibuster against the forward march of time. | 시간의 전진에 맞서는 몸으로 하는 필리버스터예요.
+[05:13.80]
+A | By turning his back on the direction he is traveling, he is staging a one-man rebellion against a universe that he feels has been just unutterably cruel to him. | 가는 방향에 등을 돌림으로써, 자기에게 말로 다 할 수 없이 잔인했다고 느끼는 우주에 맞서 1인 반란을 벌이는 거예요.
+[05:24.80]
+A | He is looking at the past, because the present and future are intolerable. | 현재와 미래를 견딜 수 없어서 과거를 보고 있는 거죠.
+[05:28.80]
+B | That makes it so much more tragic, honestly. It's an act of defiance, but it's completely futile. | 솔직히 그래서 훨씬 더 비극적이에요. 저항의 행동이지만 완전히 헛된 거죠.
+[05:34.80]
+A | Because time is dragging him forward anyway. | 어차피 시간은 그를 앞으로 끌고 가니까요.
+[05:36.90]
+B | Exactly. Time doesn't care if you're looking at it or not. | 바로 그거예요. 시간은 당신이 보든 말든 상관하지 않아요.
+## 십자가를 찾아 — 1904년의 자동차 여행
+[05:39.42]
+A | But he isn't just wandering aimlessly, right? There is a catalyst that gives his grief a terrifying focus. | 그런데 그냥 목적 없이 헤매는 건 아니죠? 그의 슬픔에 무서운 초점을 주는 계기가 있어요.
+[05:45.50]
+B | The diary. | 일기요.
+[05:46.38]
+A | Yes. Through his work at the museum, Tomás discovers this diary. It belonged to a priest named Father Ulisses, an African missionary living centuries earlier. | 네. 박물관 일을 하다가 토마스는 이 일기를 발견해요. 몇 세기 전에 살았던 아프리카 선교사, 울리세스 신부의 일기예요.
+[05:56.74]
+B | And this diary is bleak. | 그리고 이 일기는 암울해요.
+[05:58.60]
+A | Super bleak. Father Ulisses essentially abandoned his religion after witnessing the unspeakable horrors of the slave trade. | 엄청 암울하죠. 울리세스 신부는 노예 무역의 말로 다 할 수 없는 참상을 목격하고 사실상 신앙을 버렸어요.
+[06:05.24]
+A | But before he completely lost his faith, he carved a very specific, highly unusual crucifix. | 하지만 신앙을 완전히 잃기 전에, 아주 특별하고 아주 특이한 십자가상을 조각했어요.
+[06:11.86]
+A | And this crucifix, according to the diary, is allegedly so radical in its depiction of Christ that it has the power to redefine faith for whoever looks at it. | 일기에 따르면 이 십자가상은 그리스도를 너무나 급진적으로 묘사해서, 보는 사람의 믿음을 다시 정의할 힘이 있다고 해요.
+[06:22.16]
+B | So for a priest who witnessed the absolute worst of human depravity, this carving was his final attempt to reconcile God with human suffering, right? | 그러니까 인간 타락의 최악을 목격한 신부에게, 이 조각은 신과 인간의 고통을 화해시키려는 마지막 시도였던 거죠?
+[06:30.92]
+A | And Tomás reads this, and something just snaps into place for him. | 그리고 토마스가 이걸 읽자, 뭔가가 딱 맞아떨어져요.
+[06:36.64]
+A | A man who has literally turned his back on God suddenly becomes obsessed with finding this religious artifact. | 말 그대로 신에게 등을 돌린 남자가 갑자기 이 종교 유물을 찾는 데 집착하게 돼요.
+[06:42.80]
+A | He believes it is located somewhere in the High Mountains of Portugal. | 그는 그게 포르투갈의 높은 산 어딘가에 있다고 믿어요.
+[06:46.28]
+B | So what does he do? | 그래서 어떻게 해요?
+[06:47.66]
+A | He goes to his wealthy uncle Martim and borrows his automobile. | 부유한 삼촌 마르팅에게 가서 자동차를 빌려요.
+[06:51.32]
+B | Which is a huge deal. | 그건 엄청난 일이죠.
+[06:52.84]
+A | A massive deal. Keep in mind, the year here is 1904. This is one of the very first motor cars in all of Europe, right? | 엄청난 일이에요. 기억하세요, 지금은 1904년이에요. 유럽 전체에서도 거의 최초의 자동차 중 하나예요.
+[06:59.18]
+A | Tomás doesn't even really know how to drive. The roads outside of Lisbon aren't paved for cars. They're made for carts and livestock. | 토마스는 운전도 제대로 할 줄 몰라요. 리스본 밖의 길은 자동차용으로 포장되지 않았어요. 수레와 가축이 다니는 길이죠.
+[07:06.46]
+A | And he just takes off on this frantic, chaotic road trip to find this wooden cross. | 그리고 그는 이 나무 십자가를 찾아 미친 듯이 혼란스러운 자동차 여행을 떠나요.
+[07:11.64]
+B | The introduction of the automobile here is such a brilliant narrative lever by Martel. | 여기서 자동차를 등장시킨 건 마텔의 아주 훌륭한 서사 장치예요.
+[07:17.46]
+B | I mean, think about what Tomás has been doing up to this point. | 토마스가 지금까지 뭘 해 왔는지 생각해 보세요.
+[07:20.58]
+A | Walking backward. | 뒤로 걷기요.
+[07:21.48]
+B | Exactly. He has been walking backward, moving slowly, constantly keeping his eyes fixed on the path he just took. | 바로 그거예요. 뒤로, 천천히 걸으면서, 방금 지나온 길에만 늘 눈을 고정하고 있었죠.
+[07:28.94]
+B | And then suddenly, he places himself behind the wheel of this loud, fast, forward-propelling machine. | 그런데 갑자기, 시끄럽고 빠르고 앞으로 내달리는 이 기계의 운전대를 잡아요.
+[07:35.54]
+A | Oh, wow. I didn't even think about the physical posture of driving. | 오, 와. 운전하는 몸의 자세는 생각도 못 했어요.
+[07:38.34]
+B | Yeah. The architecture of a car forces him to look forward, literally, through the windshield. | 네. 자동차의 구조가 그를 말 그대로 앞 유리 너머 앞을 보게 만들어요.
+[07:44.22]
+B | It is a violent mechanical contrast to his emotional coping mechanism. He's trapped facing forward. | 그의 감정적 대처 방식과 격렬하게 대비되는 기계죠. 앞을 보는 자세에 갇힌 거예요.
+[07:50.38]
+A | And the journey itself is a mess. It is fraught with minor disasters, mechanical breakdowns, absurd misunderstandings with rural locals who've literally never seen a car before. | 그리고 여정 자체가 엉망이에요. 작은 사고, 기계 고장, 자동차를 한 번도 본 적 없는 시골 사람들과의 황당한 오해로 가득해요.
+[08:00.24]
+B | It almost lulls you into a sense of dark comedy. | 거의 블랙코미디인 것처럼 마음을 놓게 만들어요.
+[08:03.00]
+A | It does. It has a very Don Quixote vibe for a minute, but then the narrative hits a wall. | 그렇죠. 잠깐은 돈키호테 같은 분위기인데, 그러다 이야기가 벽에 부딪혀요.
+## 마을에서 생긴 일 — 감정을 상자에 넣어 버린 남자
+[08:09.42]
+B | There is a moment that completely shatters the tone, and we need to slow down and really look at this, because it's the defining moment of part one. | 분위기를 완전히 산산조각 내는 순간이 있어요. 1부를 규정하는 순간이라 천천히 제대로 봐야 해요.
+[08:16.50]
+A | The incident in the village. | 마을에서의 사고요.
+[08:18.36]
+B | Yes. During this frantic, reckless drive through a small village, Tomás loses control. He accidentally runs over and kills a small child. | 네. 작은 마을을 미친 듯이 무모하게 달리다가 토마스가 통제를 잃어요. 그리고 실수로 어린아이를 치어 죽여요.
+[08:27.55]
+A | It is an incredibly dark, jarring pivot in the text. | 본문에서 엄청나게 어둡고 충격적인 전환이에요.
+[08:30.98]
+B | And this is where I struggled, and where a lot of the reviewers in our sources really struggled. It's his reaction, or I guess his lack of one. | 그리고 여기서 저도, 자료 속 많은 비평가들도 정말 힘들어했어요. 그의 반응, 아니 반응이 없다는 것 때문에요.
+[08:39.76]
+A | Yeah, the numbness. | 네, 그 무감각이요.
+[08:41.16]
+B | He has just killed a child. He, a man whose entire life was destroyed by the death of his own child, has just inflicted that exact same unimaginable horror on another family. | 그는 방금 아이를 죽였어요. 자기 아이의 죽음으로 삶 전체가 무너진 남자가, 다른 가족에게 똑같은 상상할 수 없는 공포를 안긴 거예요.
+[08:52.96]
+B | But he doesn't fall apart. He doesn't confess. He just keeps going. | 그런데 무너지지 않아요. 자백하지도 않아요. 그냥 계속 가요.
+[08:57.52]
+A | Which is horrifying to read. The review from The Guardian actually excoriates this scene. | 읽기에 끔찍하죠. 가디언 리뷰는 이 장면을 혹독하게 비판해요.
+[09:03.20]
+A | They call Tomás's reaction flat, arguing that the writing strains and fails to evoke feeling. | 토마스의 반응이 밋밋하다면서, 글이 억지스럽고 감정을 불러일으키지 못한다고 주장해요.
+[09:09.82]
+A | The critic points out a specific line from the book, and it says, "He churns with horror. Then a hand seizes that horror and stuffs it in a box and closes the lid." | 비평가는 책의 한 구절을 짚어요. '그는 공포로 휘몰아친다. 그러자 한 손이 그 공포를 붙잡아 상자에 쑤셔 넣고 뚜껑을 닫는다.'
+[09:20.66]
+B | Right. They really hated that description. They felt that this was a massive failure of the narrative, like a sort of emotional cop-out by Martel. | 맞아요. 그 묘사를 정말 싫어했죠. 서사의 큰 실패, 마텔의 감정적 회피라고 느꼈어요.
+[09:28.20]
+A | That is a very common critique of this section, for sure. And The Guardian isn't wrong to point out how jarring it feels to read. | 확실히 이 부분에 대한 아주 흔한 비판이에요. 그리고 읽기에 얼마나 충격적인지 지적한 가디언이 틀린 것도 아니에요.
+[09:35.84]
+A | But if we look at the psychological landscape Martel is painting, I would strongly argue against it being a failure of writing. | 하지만 마텔이 그리는 심리적 풍경을 보면, 저는 그게 글쓰기의 실패라는 데 강하게 반대하고 싶어요.
+[09:42.72]
+B | So you don't think it's a cop-out? | 그러니까 회피가 아니라고 생각하는 거예요?
+[09:45.02]
+A | No, I think it is a highly intentional, deeply disturbing psychological reality. | 네, 아주 의도적이고 깊이 불편한 심리적 현실이라고 생각해요.
+[09:50.84]
+B | You're saying the flatness is the point. | 그 밋밋함이 바로 핵심이라는 거군요.
+[09:52.92]
+A | I am. Tomás is a man whose emotional capacity has been entirely maxed out. His circuit board is already fried. | 그래요. 토마스는 감정의 용량이 완전히 꽉 찬 사람이에요. 회로 기판이 이미 타 버렸죠.
+[09:59.52]
+A | He is already walking backward through life just to avoid the agonizing reality of his own son's death. | 자기 아들의 죽음이라는 고통스러운 현실을 피하려고 이미 삶을 뒤로 걷고 있잖아요.
+[10:05.70]
+B | So there's just no room for more grief. | 그러니까 더 이상 슬픔이 들어갈 자리가 없는 거네요.
+[10:07.48]
+A | Exactly. When he accidentally kills another child, his psyche simply cannot process it without completely disintegrating. | 바로 그거예요. 실수로 다른 아이를 죽였을 때, 그의 정신은 완전히 무너지지 않고는 그걸 처리할 수가 없어요.
+[10:14.64]
+A | He is so utterly consumed by his own trauma that he literally stuffs this new, unbearable horror into a mental box, just to survive the next five minutes. | 자기 트라우마에 너무 완전히 사로잡혀서, 다음 5분을 버티려고 이 새롭고 견딜 수 없는 공포를 말 그대로 마음속 상자에 쑤셔 넣는 거예요.
+[10:23.34]
+B | So it's an extreme form of compartmentalization. | 그러니까 극단적인 형태의 감정 칸막이네요.
+[10:25.98]
+A | It is. Martel isn't failing to write emotion. He is illustrating the isolating, numbing and, yes, sometimes monstrous nature of profound grief. | 그래요. 마텔은 감정을 못 쓰는 게 아니에요. 깊은 슬픔의 고립시키고, 마비시키고, 그래요, 때로는 괴물 같은 본성을 보여 주는 거예요.
+[10:35.56]
+B | That's heavy. Grief doesn't always make us empathetic. Sometimes it makes us unrecognizable to ourselves. | 무겁네요. 슬픔이 늘 우리를 공감하게 만드는 건 아니죠. 때로는 스스로도 알아볼 수 없게 만들어요.
+[10:41.28]
+A | It makes us so fiercely protective of our own pain that we become blind to the pain we cause others. Tomás has to box it up or he dies. | 자기 고통을 너무 맹렬히 지키느라 남에게 주는 고통에는 눈이 멀게 하죠. 토마스는 그걸 상자에 넣지 않으면 죽어요.
+[10:50.22]
+B | That completely reframes the entire road trip for me. It's not just a frantic quest. It's a man operating with a blown fuse. | 그러니까 자동차 여행 전체가 완전히 다르게 보이네요. 그냥 미친 듯한 탐색이 아니라, 퓨즈가 나간 채로 움직이는 남자예요.
+[10:58.36]
+B | The system shut down to prevent a fire, and he is just running on some dark, mechanical momentum. | 불이 나지 않게 시스템이 꺼졌고, 그는 어둡고 기계적인 관성으로만 달리고 있는 거죠.
+## 텅 빈 결말 — "아버지, 당신이 필요해요"
+[11:03.96]
+A | And that momentum does carry him to his goal eventually. | 그리고 그 관성이 결국 그를 목적지까지 데려가요.
+[11:07.42]
+B | Yeah, he makes it to the High Mountains of Portugal. He finds the remote, dusty church mentioned in the diary, and against all odds, he finds the crucifix Father Ulisses carved. | 네, 그는 포르투갈의 높은 산에 도착해요. 일기에 나온 외딴 먼지투성이 교회를 찾고, 모든 예상을 뒤엎고 울리세스 신부가 조각한 십자가상을 찾아내요.
+[11:18.03]
+A | But the resolution to this quest is where the tragedy really solidifies, because it's completely hollow. | 하지만 이 탐색의 결말에서 비극이 정말로 굳어져요. 완전히 텅 비어 있거든요.
+[11:22.80]
+B | Total anticlimax. He finds this artifact he thought would change everything, the thing he literally compromised his own soul and ran over a child to get to, and it doesn't fix him. | 완전한 용두사미예요. 모든 걸 바꿔 줄 거라 믿었던 유물, 자기 영혼을 팔고 아이를 치면서까지 찾아간 그것을 찾았는데, 그를 고쳐 주지 못해요.
+[11:35.20]
+A | Nope. He looks at it, and the spiritual epiphany just doesn't come. Instead, he just breaks down and cries out, "Father, I need you." | 네. 그걸 바라보지만 영적인 깨달음은 오지 않아요. 대신 그냥 무너져서 외쳐요. '아버지, 당신이 필요해요.'
+[11:42.70]
+B | Which is a deeply layered line, if you think about it. The book club notes highlight the double meaning here, between his real father and God. | 생각해 보면 아주 여러 겹의 대사예요. 독서 모임 노트도 실제 아버지와 신 사이의 이중 의미를 짚어요.
+[11:49.24]
+A | Yeah. He is crying out to his deceased biological father, the man he lost back in Lisbon. | 네. 리스본에서 잃은, 세상을 떠난 친아버지에게 외치는 거예요.
+[11:54.76]
+A | But he is also crying out to God, the Holy Father he actively turned his back on by walking backward. | 하지만 뒤로 걸으며 적극적으로 등을 돌렸던 하늘의 아버지, 신에게도 외치는 거죠.
+[12:00.06]
+B | But neither father answers. | 하지만 어느 아버지도 대답하지 않아요.
+[12:02.18]
+A | So what is the takeaway from part one? Why end Tomás's story on such an unresolved, hollow note? What is Martel trying to tell us here? | 그럼 1부에서 얻을 건 뭘까요? 왜 토마스의 이야기를 이렇게 해결되지 않은 텅 빈 음으로 끝낼까요? 마텔은 여기서 뭘 말하려는 걸까요?
+[12:11.60]
+B | Well, Martel is basically establishing the baseline of how not to survive grief. | 음, 마텔은 기본적으로 슬픔을 견디지 '못하는' 방법의 기준선을 세우는 거예요.
+[12:16.86]
+B | You cannot outrun grief in a motor car. A physical quest for a historical artifact cannot cure a spiritual and emotional void. | 자동차로 슬픔을 따돌릴 수는 없어요. 역사 유물을 찾는 물리적 여정이 영적이고 감정적인 공허를 치료할 수는 없죠.
+[12:25.82]
+A | Because he's looking for an external fix. | 외부에서 해결책을 찾고 있으니까요.
+[12:27.44]
+B | Exactly. Tomás went looking for an external solution to an internal shattering, because he hasn't actually processed his loss. | 바로 그거예요. 토마스는 내면이 산산조각 난 문제에 외부의 해결책을 찾으러 갔어요. 상실을 실제로 소화하지 못했으니까요.
+[12:34.90]
+A | Because he is still emotionally homeless, which is the title of the section. | 그는 여전히 감정적으로 집이 없으니까요. 그게 이 부분의 제목이고요.
+[12:39.74]
+B | The artifact is utterly useless to him. A piece of carved wood can't do the heavy lifting of mourning. | 그 유물은 그에게 전혀 쓸모가 없어요. 조각된 나무 한 조각이 애도라는 무거운 일을 대신할 수는 없죠.
+[12:45.26]
+A | No. Tomás remains homeless in his soul. He went to the ends of the earth and realized he packed his own haunting in the trunk. | 그렇죠. 토마스는 영혼 속에서 계속 집이 없어요. 세상 끝까지 갔는데, 자기를 괴롭히는 유령을 트렁크에 싣고 왔다는 걸 깨달은 거예요.
+[12:53.04]
+B | It's devastating. | 참담하네요.
+## 2부 「집을 향해」 — 섣달그믐 밤, 아내의 유령과 애거사 크리스티
+[12:55.26]
+A | And that unresolved energy, that ripple of unprocessed trauma, sets the stage for the second part of our deep dive. | 그리고 그 해결되지 않은 에너지, 소화되지 않은 트라우마의 파문이 우리 딥다이브의 두 번째 부분의 무대를 깔아요.
+[13:02.54]
+B | Right, because Martel jumps the timeline forward 35 years, to 1938. | 맞아요. 마텔은 시간을 35년 건너뛰어 1938년으로 가요.
+[13:08.40]
+A | And if Tomás tried to process grief through physical escape, our next protagonist tries to handle it in a much, much more literal, clinical way. | 그리고 토마스가 물리적인 도피로 슬픔을 처리하려 했다면, 다음 주인공은 훨씬 더 문자 그대로, 임상적인 방식으로 다루려고 해요.
+[13:17.10]
+B | Yes, we move to the section titled "Homeward," and the tonal shift here is just whiplash-inducing. | 네, '집을 향해(Homeward)'라는 부분으로 넘어가는데, 분위기 전환이 목이 꺾일 정도예요.
+[13:23.92]
+A | It really is. We are no longer on the dusty, chaotic roads of the Portuguese countryside. | 정말 그래요. 이제 포르투갈 시골의 먼지 날리는 혼란스러운 길이 아니에요.
+[13:28.86]
+A | We are in a sterile, quiet hospital office in the town of Bragança. It's New Year's Eve. | 브라간사라는 마을의 소독된 듯 조용한 병원 사무실이에요. 섣달그믐날 밤이고요.
+[13:34.58]
+B | And we meet Doctor Eusébio Lozora. He is a pathologist, and just like Tomás, he is a widower. He is mourning the loss of his wife, Maria. | 그리고 에우제비우 로조라 박사를 만나요. 병리학자이고, 토마스처럼 홀아비예요. 아내 마리아를 잃은 슬픔에 잠겨 있죠.
+[13:44.20]
+A | But they are very different characters, right? | 하지만 둘은 아주 다른 인물이죠?
+[13:46.58]
+B | Very. By all accounts, Maria was this vibrant, deeply talkative, highly spiritual woman who filled a room. Eusébio is analytical, quiet, grounded in science and reason. | 아주 달라요. 누구 말을 들어도 마리아는 활기차고, 말이 아주 많고, 영성이 깊어서 방을 가득 채우는 여자였어요. 에우제비우는 분석적이고, 조용하고, 과학과 이성에 발 딛고 있어요.
+[13:58.94]
+A | So on New Year's Eve, instead of celebrating, he is alone in his office, working. But he isn't alone for long. | 그래서 섣달그믐날 밤, 축하하는 대신 사무실에서 혼자 일하고 있어요. 하지만 오래 혼자 있지는 않아요.
+[14:05.62]
+B | And this is where Martel introduces a completely new genre into the novel. Magical realism. | 그리고 여기서 마텔은 소설에 완전히 새로운 장르를 들여와요. 마술적 사실주의죠.
+[14:10.96]
+A | Boom, right into it. The ghost of his dead wife Maria just strolls right into his pathology office. | 쾅, 바로 들어가요. 죽은 아내 마리아의 유령이 그의 병리학 사무실로 그냥 걸어 들어와요.
+[14:18.40]
+B | But she doesn't come with spooky premonitions, rattling chains or haunting wails. She comes in, sits down and initiates a debate. | 그런데 으스스한 예언이나 덜그럭거리는 쇠사슬, 소름 끼치는 울음소리와 함께 오지 않아요. 들어와 앉아서 토론을 시작해요.
+[14:27.04]
+A | A very specific debate. | 아주 특별한 토론이요.
+[14:29.02]
+B | Yes. They engage in this deep, incredibly complex and surprisingly humorous theological discussion. | 네. 깊고, 엄청나게 복잡하고, 의외로 유머러스한 신학 토론을 벌여요.
+[14:36.24]
+A | And this is the part I really need to map out, because it sounds absurd on its face. The ghost of a pathologist's wife wants to talk about Agatha Christie murder mysteries. Why? | 그리고 이 부분은 꼭 짚어 봐야 해요. 겉보기엔 터무니없거든요. 병리학자 아내의 유령이 애거사 크리스티 살인 미스터리 얘기를 하고 싶어 해요. 왜죠?
+[14:46.28]
+B | It is brilliant. It's honestly one of the most inventive literary devices I've seen in modern fiction. | 기발해요. 솔직히 현대 소설에서 본 가장 창의적인 문학 장치 중 하나예요.
+[14:51.80]
+B | What Maria does, or, you know, what Martel is doing through her, is delivering a thesis that directly compares the structure of an Agatha Christie whodunit to the structure of the Gospels in the Bible. | 마리아가, 아니 마리아를 통해 마텔이 하는 건, 애거사 크리스티 추리 소설의 구조를 성경 복음서의 구조와 직접 비교하는 주장을 펼치는 거예요.
+## 추리 소설과 복음서 — 진리는 왜 이야기의 도구를 쓸까
+[15:03.88]
+A | Okay, let me try to reason this out with you, because when I first read this in the publisher's guide, I thought it was just a quirky joke. | 좋아요, 같이 따져 볼게요. 출판사 가이드에서 처음 읽었을 땐 그냥 별난 농담인 줄 알았거든요.
+[15:10.78]
+A | But if you think about how an Agatha Christie novel works, it always starts with an idyllic setting, right? A country manor or a luxury train. | 그런데 애거사 크리스티 소설이 어떻게 굴러가는지 생각해 보면, 늘 목가적인 배경으로 시작하죠? 시골 저택이나 호화 열차요.
+[15:18.98]
+B | Exactly. And then a terrible event occurs, a murder. | 바로 그거예요. 그리고 끔찍한 사건, 살인이 일어나요.
+[15:22.80]
+A | The murder introduces chaos. It breaks the rules of the universe and creates a profound sense of wrongness. | 살인은 혼돈을 들여와요. 우주의 규칙을 깨고 깊은 어긋남을 만들어요.
+[15:29.96]
+A | Everyone is a suspect. No one can be trusted. The world is plunged into darkness and confusion. | 모두가 용의자고, 아무도 믿을 수 없어요. 세상은 어둠과 혼란에 빠지죠.
+[15:35.76]
+B | And then the detective arrives. | 그리고 탐정이 도착해요.
+[15:38.02]
+A | Yeah, Hercule Poirot or Miss Marple, someone who operates on a slightly higher plane of understanding than the local police. | 네, 에르퀼 푸아로나 미스 마플. 동네 경찰보다 한 차원 높은 이해력으로 움직이는 사람이요.
+[15:44.62]
+B | They walk into the chaos. They survey the scene. | 그들은 혼돈 속으로 걸어 들어가요. 현장을 살펴보고,
+[15:47.92]
+A | Yeah, they sift through the seemingly meaningless details. They listen to the lies and the parables of the suspects. | 네, 의미 없어 보이는 세부 사항을 걸러 내고, 용의자들의 거짓말과 비유 같은 이야기를 들어요.
+[15:54.62]
+A | And ultimately, they gather everyone in the drawing room and reveal the truth. | 그리고 결국 모두를 응접실에 모아 놓고 진실을 밝혀요.
+[15:59.68]
+B | They identify the killer, remove them from society and essentially restore moral order to the universe. | 범인을 지목해서 사회에서 떼어 내고, 사실상 우주에 도덕적 질서를 되돌려 놓죠.
+[16:05.88]
+A | That is the exact architecture. Now map that onto the Gospels. | 그게 정확한 구조예요. 이제 그걸 복음서에 겹쳐 보세요.
+[16:10.28]
+B | Okay. So in the biblical narrative, the world is broken by original sin and the constant presence of death. | 좋아요. 성경 이야기에서 세상은 원죄와 끊임없는 죽음으로 망가져 있어요.
+[16:17.44]
+B | The world is in chaos. The moral order is corrupted. Then Jesus arrives. | 세상은 혼돈에 빠져 있고, 도덕적 질서는 타락했어요. 그때 예수가 와요.
+[16:23.02]
+A | The ultimate investigator. | 궁극의 수사관이죠.
+[16:25.46]
+B | He is the ultimate investigator. But instead of investigating a physical crime scene, he is investigating the human heart. | 궁극의 수사관이에요. 하지만 물리적인 범죄 현장 대신 인간의 마음을 수사해요.
+[16:31.68]
+A | And how does he communicate during this investigation? He speaks in parables. | 그리고 이 수사 중에 어떻게 소통하죠? 비유로 말해요.
+[16:36.64]
+B | He tells stories about mustard seeds, prodigal sons and lost coins, stories that require decoding, much like clues in a mystery novel. | 겨자씨, 돌아온 탕자, 잃어버린 동전 이야기를 해요. 추리 소설의 단서처럼 해독이 필요한 이야기들이죠.
+[16:44.42]
+A | Exactly. And ultimately, his death and resurrection provide the final solution, the grand reveal that defeats the ultimate murderer, which is death itself. | 바로 그거예요. 그리고 결국 그의 죽음과 부활이 최종 해답, 궁극의 살인자인 죽음 그 자체를 물리치는 대반전을 내놓아요.
+[16:54.56]
+B | He restores order to the universe. It is a stunning parallel when you break it down like that. | 우주에 질서를 되돌려 놓죠. 그렇게 풀어 보면 놀라운 평행이에요.
+[16:59.38]
+A | The publisher's reading guide even points out a piece of wordplay Martel uses to cement this connection. | 출판사 독서 가이드는 마텔이 이 연결을 굳히려고 쓴 말장난까지 짚어요.
+[17:05.18]
+B | Oh, right, the name. The author's name, Agatha Christie. It literally contains the word "Christ." | 아, 맞다, 이름이요. 작가 이름 애거사 크리스티(Christie)에 말 그대로 '그리스도(Christ)'라는 단어가 들어 있어요.
+[17:11.26]
+A | The book club members from our sources absolutely loved that detail. They felt it validated the entire surreal debate. | 자료 속 독서 모임 사람들은 그 디테일을 정말 좋아했어요. 그게 초현실적인 토론 전체를 정당화해 준다고 느꼈죠.
+[17:16.86]
+B | It is so clever. | 정말 영리하죠.
+[17:18.64]
+A | But Maria pushes the debate even further, and this is where it gets really philosophically dense. | 그런데 마리아는 토론을 더 밀고 나가요. 여기서 정말 철학적으로 빽빽해지죠.
+[17:24.40]
+A | She asks Eusébio a critical question. She says, "Why would truth use the tools of fiction?" | 그녀는 에우제비우에게 결정적인 질문을 해요. '진리는 왜 허구의 도구를 쓸까요?'
+[17:32.06]
+B | Which is the big question of the book, really, right? | 그게 사실 이 책의 큰 질문이죠?
+[17:34.66]
+A | Meaning, if the teachings of Jesus are the ultimate divine truth of the universe, why did he teach using made-up stories? Why not just hand down a list of scientific facts? Why use parables? | 그러니까 예수의 가르침이 우주의 궁극적인 신성한 진리라면, 왜 지어낸 이야기로 가르쳤을까요? 왜 과학적 사실 목록을 그냥 건네주지 않았죠? 왜 비유를 썼을까요?
+[17:46.62]
+B | Which is the core question Martel is asking his readers too. Why did Martel write a novel about grief instead of a clinical psychology paper? | 그게 마텔이 독자에게 던지는 핵심 질문이기도 해요. 마텔은 왜 임상 심리학 논문 대신 슬픔에 관한 소설을 썼을까요?
+[17:55.40]
+A | Wait, is Martel trying to justify his own use of magical realism here? | 잠깐, 마텔이 여기서 자기의 마술적 사실주의를 정당화하려는 거예요?
+[17:58.78]
+A | Like, is he saying that cold, hard facts, the kind of pathology reports Eusébio deals with, are actually less truthful, or at least less useful, than a made-up story when it comes to human suffering? | 그러니까 에우제비우가 다루는 병리 보고서 같은 냉정한 사실이, 인간의 고통에 관해서는 지어낸 이야기보다 덜 진실하거나, 적어도 덜 쓸모 있다는 말인가요?
+[18:11.04]
+B | That is the exact bullseye. Martel is suggesting that human beings are fundamentally, neurologically wired for narrative, not facts. | 정확히 과녁 한가운데예요. 마텔은 인간이 근본적으로, 신경학적으로 사실이 아니라 이야기에 맞춰져 있다고 말하는 거예요.
+[18:19.98]
+B | No. Cold, hard facts don't change hearts, and they certainly don't heal grief. | 그래요. 냉정한 사실은 마음을 바꾸지 못하고, 슬픔을 치유하지도 못해요.
+[18:24.96]
+A | When your child dies, knowing the biological mechanism of their heart failure doesn't give you peace. It doesn't put the pieces back together. | 아이가 죽었을 때 심부전의 생물학적 메커니즘을 안다고 평화가 오지는 않아요. 조각난 걸 다시 맞춰 주지 않죠.
+[18:32.48]
+B | Exactly. Fiction, storytelling, allegory, these are the tools we use to build meaning out of chaos. | 바로 그거예요. 허구, 이야기, 우화, 이런 것들이 혼돈에서 의미를 짓는 도구예요.
+[18:40.16]
+B | We need stories to understand the great, terrifying mysteries of life, death and faith. | 삶과 죽음과 믿음이라는 거대하고 무서운 신비를 이해하려면 이야기가 필요해요.
+[18:45.46]
+A | As the underlying theme suggests, we need stories to survive the truth. | 밑바탕의 주제가 말하듯, 우리는 진실을 견디기 위해 이야기가 필요해요.
+[18:50.52]
+B | We need stories to survive the truth. That is a massive insight. | 진실을 견디기 위해 이야기가 필요하다. 엄청난 통찰이에요.
+## 가방 속의 남편 — "어떻게 살았는지 보여 주세요"
+[18:55.22]
+A | And Eusébio, the man of science and facts, is about to have his worldview aggressively tested by this exact concept, because the ghost vanishes, right? | 그리고 과학과 사실의 사람 에우제비우는 바로 이 개념으로 세계관을 거세게 시험받게 돼요. 유령이 사라지거든요?
+[19:05.74]
+B | Yes. Shortly after his ghost wife finishes this debate and vanishes, a real, living woman arrives at his office late on New Year's Eve. | 네. 유령 아내가 토론을 마치고 사라진 직후, 섣달그믐 늦은 밤에 진짜 살아 있는 여자가 그의 사무실에 와요.
+[19:14.06]
+A | Her name is also Maria. Maria Castro. | 그녀의 이름도 마리아예요. 마리아 카스트루.
+[19:17.50]
+B | She is a peasant woman from the high mountain region, and she comes dragging a heavy suitcase. | 높은 산 지역에서 온 농부 여자인데, 무거운 여행 가방을 끌고 와요.
+[19:22.64]
+A | And inside that suitcase is the dead body of her husband, Rafael. | 그리고 그 가방 안에는 남편 하파엘의 시신이 들어 있어요.
+[19:26.52]
+B | She unloads her dead husband onto the pathologist's cold steel table and demands an autopsy. | 그녀는 죽은 남편을 병리학자의 차가운 강철 테이블 위에 내려놓고 부검을 요구해요.
+[19:32.88]
+A | But Eusébio is immediately confused, because she already knows the cause of death. | 그런데 에우제비우는 바로 어리둥절해져요. 그녀가 이미 사인을 알고 있거든요.
+[19:37.88]
+B | She knows how he died, but she doesn't care about that. | 남편이 어떻게 죽었는지 알지만, 그건 상관없어요.
+[19:41.32]
+A | No. She says something that completely flips the script of Eusébio's entire profession. | 네. 그녀는 에우제비우의 직업 전체를 완전히 뒤집는 말을 해요.
+[19:46.76]
+A | She tells him she doesn't want to know how he died. She wants Eusébio to cut him open and show her how he lived. | 남편이 어떻게 죽었는지는 알고 싶지 않대요. 에우제비우가 그를 열어서 그가 어떻게 살았는지 보여 주길 원해요.
+[19:54.38]
+B | This is the moment the narrative transitions from a philosophical debate into full-blown, visceral magical realism. | 이 순간 이야기는 철학적 토론에서 완전한, 몸으로 느껴지는 마술적 사실주의로 넘어가요.
+[20:00.14]
+A | And it's a moment we really need to contextualize for you, because if you aren't familiar with how magical realism functions, this scene can just feel absurd or grotesque. | 그리고 이 순간은 꼭 맥락을 짚어 드려야 해요. 마술적 사실주의가 어떻게 작동하는지 모르면 이 장면이 그냥 터무니없거나 기괴하게 느껴질 수 있거든요.
+[20:09.24]
+B | It certainly felt grotesque to some readers. The Guardian review explicitly called this autopsy scene nauseating. | 어떤 독자들에겐 확실히 기괴했어요. 가디언 리뷰는 이 부검 장면을 대놓고 '메스껍다'고 했죠.
+[20:16.06]
+A | Yeah, they didn't hold back. And reading the summary, it is incredibly intense and physical. | 네, 사정없었어요. 줄거리만 읽어도 엄청나게 강렬하고 신체적이에요.
+[20:21.16]
+B | Eusébio begins the autopsy, but Maria Castro insists he start at the foot, which is entirely against standard medical procedure. | 에우제비우가 부검을 시작하는데, 마리아 카스트루는 발부터 시작하라고 고집해요. 표준 의료 절차와 완전히 반대죠.
+[20:27.94]
+A | Right. Normally, you start at the chest. | 맞아요. 보통은 가슴부터 시작하죠.
+[20:29.64]
+B | Exactly. It grounds the whole surreal experience in the undeniable physical reality of the body, the calluses, the dirt, the wear and tear of a life lived walking on the earth. | 바로 그거예요. 그게 초현실적인 경험 전체를 부정할 수 없는 몸의 현실에 단단히 붙여 놓아요. 굳은살, 흙, 땅 위를 걸으며 산 삶이 남긴 닳음이요.
+## 가슴 속의 침팬지와 곰 — 마술적 사실주의 읽는 법
+[20:40.72]
+A | But the real shock comes when Eusébio finally takes his tools and opens Rafael's chest cavity, because he expects biology. He expects to see lungs, a heart, a liver. | 그런데 진짜 충격은 에우제비우가 마침내 도구를 들고 하파엘의 흉강을 열 때 와요. 그는 생물학을 기대해요. 폐, 심장, 간을 볼 거라고요.
+[20:50.76]
+B | But he doesn't find normal organs. | 그런데 정상적인 장기를 찾지 못해요.
+[20:52.36]
+A | No. No, he finds a landscape of symbols. | 네. 그 대신 상징들의 풍경을 발견해요.
+[20:55.10]
+B | He looks inside the chest cavity and finds an old, dusty chimpanzee just sitting there. He finds a young bear cub. He finds a flute, a piece of a radio. | 흉강 안을 들여다보니 늙고 먼지투성이인 침팬지가 그냥 앉아 있어요. 어린 새끼 곰도 있고, 피리, 라디오 조각도 있어요.
+[21:05.04]
+A | These surreal, impossible artifacts of Rafael's life, just nestled amongst the tissue and bone. | 하파엘 삶의 이런 초현실적이고 불가능한 유물들이 조직과 뼈 사이에 포근히 자리 잡고 있어요.
+[21:10.48]
+B | It's just wild imagery. And the climax of this scene is jaw-dropping. | 정말 어마어마한 이미지예요. 그리고 이 장면의 절정은 입이 떡 벌어져요.
+[21:15.14]
+A | After witnessing this impossible anatomy, Maria Castro, the grieving widow, physically climbs inside her dead husband's open chest cavity, | 이 불가능한 해부를 목격한 뒤, 슬픔에 잠긴 과부 마리아 카스트루는 죽은 남편의 열린 흉강 안으로 몸소 기어 들어가요.
+[21:23.98]
+A | curls up amongst the bear cub and the ape, and declares, "This is home." | 새끼 곰과 유인원 사이에 몸을 웅크리고 선언해요. '여기가 집이야.'
+[21:29.36]
+B | It is an incredibly challenging image. | 엄청나게 받아들이기 어려운 이미지예요.
+[21:31.48]
+A | It really is. It pushes the reader right to the edge of comfort. | 정말 그래요. 독자를 편안함의 경계 끝까지 밀어붙여요.
+[21:34.18]
+B | So explain the mechanics of this magical realism to me. How are we supposed to read this? Because if I read this literally, it's a horror movie. | 그럼 이 마술적 사실주의의 원리를 설명해 주세요. 이걸 어떻게 읽어야 하죠? 문자 그대로 읽으면 공포 영화거든요.
+[21:42.02]
+A | Oh, absolutely. You have to read it the way you read a dream. | 아, 물론이죠. 꿈을 읽듯이 읽어야 해요.
+[21:45.66]
+A | Magical realism operates by taking internal emotional truths and manifesting them as physical realities in the world. | 마술적 사실주의는 내면의 감정적 진실을 세상 속의 물리적 현실로 드러내는 방식으로 작동해요.
+[21:52.96]
+B | Okay. | 네.
+[21:53.48]
+A | It forces the reader to stop treating the text as a historical document and start treating it as a psychological landscape. | 독자가 글을 역사 기록이 아니라 심리적 풍경으로 대하게 만들어요.
+[21:59.88]
+A | Which, if you think about it, is exactly what grief feels like. Grief makes the world feel surreal. | 생각해 보면 그게 바로 슬픔의 느낌이에요. 슬픔은 세상을 초현실적으로 느끼게 하죠.
+[22:06.48]
+B | Okay, so the autopsy is a spiritual dissection, not a medical one. | 그러니까 그 부검은 의학적 해부가 아니라 영적인 해부네요.
+[22:10.22]
+A | Yes. Martel is unpacking what it actually means to be a human being. We are quite literally vessels. We contain everything we have ever experienced. | 네. 마텔은 인간이라는 게 실제로 무슨 뜻인지 풀어 보이는 거예요. 우리는 말 그대로 그릇이에요. 겪은 모든 걸 담고 있죠.
+[22:18.80]
+A | We hold our memories, our loves, the music we listen to, the animals we connected with. | 기억, 사랑, 듣던 음악, 교감했던 동물들을 품고 있어요.
+[22:23.76]
+A | The idea here is that these experiences don't just happen to us. They take up residence inside us. They become our internal anatomy. | 여기서의 생각은 이런 경험이 그냥 우리에게 일어나는 게 아니라, 우리 안에 자리 잡고 산다는 거예요. 우리의 내부 해부도가 되는 거죠.
+[22:31.84]
+B | I was trying to think of an analogy for this, and the closest I could get was thinking about the rings of a tree. | 이걸 비유할 걸 생각해 봤는데, 가장 가까운 건 나무의 나이테였어요.
+[22:36.48]
+A | Oh, I like that. | 오, 좋네요.
+[22:37.62]
+B | A tree doesn't just grow taller. It traps the history of every drought, every fire, every rainy season inside its trunk. | 나무는 그냥 키만 크는 게 아니에요. 모든 가뭄, 모든 화재, 모든 장마철의 역사를 줄기 속에 가둬 놓아요.
+[22:44.10]
+B | If you cut it open, you don't just see wood. You see the story of its environment. | 잘라 보면 그냥 나무가 아니라, 그 나무가 살아온 환경의 이야기가 보이죠.
+[22:48.84]
+A | Yeah, exactly. | 네, 바로 그거예요.
+[22:50.26]
+B | Or maybe it's like a psychological hoarder's attic. We just pack all these formative experiences inside our ribs and we carry them around. | 아니면 심리적인 저장 강박자의 다락방 같은 거죠. 우리를 만든 경험들을 갈비뼈 안에 다 쌓아 두고 들고 다니는 거예요.
+[22:57.58]
+B | The bear cub and the ape inside Rafael's chest, they represent his deep, formative connections to the natural world. | 하파엘의 가슴속 새끼 곰과 유인원은 그가 자연 세계와 맺은 깊고 근본적인 연결을 나타내요.
+[23:03.48]
+A | That's a beautiful way to frame it. And the concept of "the body keeps the score" is highly relevant here. Trauma, love, memory, they leave physical imprints. | 아름다운 해석이에요. 그리고 '몸은 기억한다'는 개념이 여기에 아주 들어맞아요. 트라우마, 사랑, 기억은 몸에 흔적을 남기죠.
+## 거리 두기 vs. 뛰어들기 — 에우제비우와 마리아 카스트루
+[23:14.10]
+A | But Martel is also using this grotesque scene to draw a sharp, final contrast between our two characters' approaches to grief. | 하지만 마텔은 이 기괴한 장면으로 두 인물의 슬픔에 대한 태도를 날카롭게 대비시키기도 해요.
+[23:20.94]
+B | Between Eusébio and Maria Castro, right? | 에우제비우와 마리아 카스트루 사이에서요?
+[23:23.70]
+A | Eusébio, the scientist, approaches death with clinical detachment. He wants to weigh the liver, measure the heart and file a factual report. He wants to maintain his distance. | 과학자 에우제비우는 임상적인 거리 두기로 죽음에 다가가요. 간 무게를 재고, 심장을 측정하고, 사실에 입각한 보고서를 내고 싶어 해요. 거리를 유지하고 싶은 거죠.
+[23:32.70]
+B | But Maria Castro does the exact opposite. | 그런데 마리아 카스트루는 정반대로 해요.
+[23:34.98]
+A | Exactly. She approaches death with raw, physical, emotional immersion. | 바로 그거예요. 그녀는 날것의, 몸과 감정을 다 던지는 몰입으로 죽음에 다가가요.
+[23:39.72]
+A | By climbing inside the body and saying "this is home," she is accepting the absolute totality of her husband's life and death. | 시신 안으로 기어 들어가 '여기가 집이야'라고 말함으로써, 남편의 삶과 죽음 전체를 완전히 받아들이는 거예요.
+[23:47.64]
+B | She is entirely consumed by her grief. | 슬픔에 완전히 삼켜졌네요.
+[23:49.52]
+A | Yes, but she is also finding a bizarre kind of refuge in it. | 네, 하지만 그 안에서 기이한 종류의 피난처를 찾고 있기도 해요.
+[23:53.42]
+B | It's the total inverse of Tomás in part one. | 1부의 토마스와 완전히 반대예요.
+[23:56.56]
+A | Tomás tried to run away from the grief, walking backward, driving a car across the country, rejecting the reality of it. | 토마스는 슬픔에서 도망치려 했어요. 뒤로 걷고, 차를 몰고 나라를 가로지르며, 그 현실을 거부했죠.
+[24:04.46]
+B | Maria Castro dives literally into the center of the wound. | 마리아 카스트루는 말 그대로 상처의 한가운데로 뛰어들어요.
+[24:07.58]
+A | Precisely. Tomás remained homeless because he rejected his loss. | 정확해요. 토마스는 상실을 거부해서 집 없는 채로 남았어요.
+[24:13.18]
+A | Maria Castro finds a home, albeit a tragic, surreal and deeply uncomfortable one, because she completely immerses herself in the reality of what her husband was. | 마리아 카스트루는 집을 찾아요. 비극적이고, 초현실적이고, 깊이 불편한 집이긴 하지만요. 남편이 어떤 사람이었는지라는 현실에 완전히 몸을 담갔기 때문이에요.
+[24:23.72]
+B | And Eusébio is just left standing in the middle. | 그리고 에우제비우는 그 가운데 그냥 서 있게 되죠.
+[24:26.42]
+A | He is the witness. His scientific worldview has been shattered by the undeniable proof that the human soul is vastly more complicated than biology. | 그는 목격자예요. 인간의 영혼이 생물학보다 훨씬 복잡하다는 부정할 수 없는 증거 앞에서 그의 과학적 세계관은 산산조각 났어요.
+[24:35.90]
+A | He realizes that the stories of the dead, the parables of their lives, like Maria was talking about, are just as important as the physical cause of their death. | 마리아가 말했던 것처럼, 죽은 이들의 이야기, 그들 삶의 비유가 죽음의 물리적 원인만큼 중요하다는 걸 깨닫죠.
+[24:44.48]
+B | It's an incredible thematic bridge. It really ties the first two parts together. | 놀라운 주제의 다리예요. 앞의 두 부분을 정말로 이어 줘요.
+[24:48.54]
+B | Part one showed us that you can't outrun grief physically. Part two shows us that you can't distance yourself from it intellectually. | 1부는 슬픔을 몸으로 따돌릴 수 없다는 걸 보여 줬고, 2부는 머리로 거리를 둘 수도 없다는 걸 보여 줘요.
+[24:54.88]
+A | And that diving into the center of it is agonizing. | 그리고 그 한가운데로 뛰어드는 건 고통스럽다는 것도요.
+## 3부 「집」 — 상원의원 피터와 침팬지 오도
+[24:58.62]
+B | Which brings us to part three, the final act. Martel titles this section "Home." | 그게 마지막 막인 3부로 이어져요. 마텔은 이 부분에 '집(Home)'이라는 제목을 붙였어요.
+[25:04.22]
+A | And this is where it feels like he is finally going to offer a functional, lasting solution to the pain these characters have been carrying for 75 years of narrative time. | 그리고 여기서야 이 인물들이 이야기 속 시간으로 75년 동안 짊어져 온 고통에 마침내 실제로 통하는, 오래가는 해결책을 내놓으려는 것 같아요.
+[25:12.92]
+B | Yes. The narrative shifts for the final time, bringing us much closer to the present day. The year is 1981. | 네. 이야기는 마지막으로 시간을 옮겨 현재에 훨씬 가까워져요. 1981년이에요.
+[25:20.10]
+A | And we meet our final protagonist, Peter Tovy. Peter is a Canadian senator living in Ottawa. On paper, he is the most successful man in the book. | 그리고 마지막 주인공 피터 토비를 만나요. 오타와에 사는 캐나다 상원의원이에요. 서류상으로는 책에서 가장 성공한 남자죠.
+[25:29.38]
+B | But internally, he is a ghost. | 하지만 속은 유령이에요.
+[25:32.02]
+A | Just like the others. Just like Tomás and Eusébio, his life is defined by a massive, hollow absence. His wife Clara has recently died after a long illness. | 다른 사람들처럼요. 토마스와 에우제비우처럼 그의 삶도 거대하고 텅 빈 부재로 규정돼요. 아내 클라라가 오랜 투병 끝에 최근 세상을 떠났어요.
+[25:42.34]
+B | But Peter's grief hasn't just isolated him. It has caused massive collateral damage. He is completely estranged from his son, Ben. | 그런데 피터의 슬픔은 그를 고립시킨 것만이 아니라, 엄청난 부수적 피해를 냈어요. 아들 벤과 완전히 멀어졌죠.
+[25:50.42]
+A | His granddaughter Rachel has moved away to Vancouver. | 손녀 레이철은 밴쿠버로 이사 갔고요.
+[25:53.14]
+B | So he's completely alone. | 그러니까 완전히 혼자네요.
+[25:54.54]
+A | Peter is a powerful man in the halls of the Senate, but in his own life, he is entirely alone. He is experiencing the hollow echo of success. | 피터는 상원 회의장에서는 힘 있는 사람이지만, 자기 삶에서는 완전히 혼자예요. 성공의 공허한 메아리를 겪고 있는 거죠.
+[26:03.24]
+B | He has the prestigious job, the societal standing, the money, but without his family to share it with, it means absolutely nothing. | 명망 있는 직업, 사회적 지위, 돈이 있지만, 함께 나눌 가족이 없으니 전혀 의미가 없어요.
+[26:11.78]
+A | He is paralyzed by his sorrow. The intellect that made him a great politician is now just a machine for generating regrets about the past and anxieties about his lonely future. | 그는 슬픔에 마비돼 있어요. 그를 훌륭한 정치인으로 만든 지성이 이제는 과거에 대한 후회와 외로운 미래에 대한 불안을 만들어 내는 기계일 뿐이에요.
+[26:21.58]
+B | Right. He is stuck in his own head. | 맞아요. 자기 머릿속에 갇혀 있죠.
+[26:24.45]
+A | So a colleague suggests he take a diplomatic trip to Oklahoma, just to change his environment and clear his head. | 그래서 동료가 환경도 바꾸고 머리도 식힐 겸 오클라호마로 외교 출장을 가 보라고 권해요.
+[26:31.40]
+B | Seems reasonable. | 합리적이네요.
+[26:32.42]
+A | And while he is there, almost by accident, he visits a primate research institute, and this visit is the catalyst for the entire final act of the book. | 그리고 거기 있는 동안 거의 우연히 영장류 연구소를 방문하는데, 이 방문이 책의 마지막 막 전체의 계기가 돼요.
+[26:43.30]
+B | At this institute, Peter is introduced to a chimpanzee named Odo. | 이 연구소에서 피터는 오도라는 침팬지를 소개받아요.
+[26:47.88]
+A | Okay, here we go. | 좋아요, 시작이네요.
+[26:48.62]
+B | They lock eyes through the glass, and something just, you know, snaps into place for Peter. It's an immediate, profound recognition. | 둘은 유리 너머로 눈이 마주치고, 피터에게 뭔가가 딱 맞아떨어져요. 즉각적이고 깊은 알아봄이에요.
+[26:57.42]
+A | He makes a radical, completely irrational decision. He adopts Odo. He resigns from the Canadian Senate. He sells his house. | 그는 급진적이고 완전히 비이성적인 결정을 내려요. 오도를 입양하고, 캐나다 상원에서 사임하고, 집을 팔아요.
+[27:08.38]
+A | And he moves across the Atlantic Ocean to his ancestral village, a place called Tuizelo, which happens to be located in the High Mountains of Portugal. | 그리고 대서양을 건너 조상의 마을로 이사해요. 투이젤루라는 곳인데, 마침 포르투갈의 높은 산에 있어요.
+[27:16.30]
+B | So he trades the halls of global power for a dusty, forgotten village, and he trades his political colleagues for a chimpanzee. | 그러니까 세계 권력의 회의장을 먼지 쌓인 잊힌 마을과 맞바꾸고, 정치 동료들을 침팬지와 맞바꾼 거예요.
+## 왜 하필 유인원인가 — "우리는 타락한 천사가 아니라 일어선 유인원"
+[27:25.56]
+A | Okay, this is where I have to push back a little bit on the book, and maybe you can help me out. | 좋아요, 여기서는 책에 조금 반박해야겠어요. 도와주실 수 있을지도 모르겠네요.
+[27:29.48]
+A | When I was reading this part of the summary, my immediate reaction was, is Martel just giving this grieving politician a really exotic, high-maintenance emotional support animal? | 이 부분 줄거리를 읽을 때 제 첫 반응은, 마텔이 슬픔에 잠긴 정치인에게 아주 이국적이고 손 많이 가는 정서 지원 동물을 준 것뿐인가 하는 거였어요.
+[27:40.26]
+B | It does sound like that at first, right? | 처음엔 정말 그렇게 들리죠?
+[27:42.52]
+A | What is the obsession with apes in this novel? We have Father Ulisses in Africa in part one. We have the actual ape inside the chest cavity in part two, and now a live ape in part three. | 이 소설은 왜 유인원에 집착할까요? 1부엔 아프리카의 울리세스 신부, 2부엔 흉강 속의 진짜 유인원, 그리고 3부엔 살아 있는 유인원까지요.
+[27:52.32]
+A | Why not just give him a golden retriever? Why an ape? | 그냥 골든 리트리버를 주면 안 되나요? 왜 유인원이죠?
+[27:55.24]
+B | That is the exact right question to ask, and it's one the publisher's reading guide highlights as a central discussion point. | 딱 맞는 질문이에요. 출판사 독서 가이드도 핵심 토론 거리로 짚는 질문이고요.
+[28:01.06]
+B | Even Peter's son Ben visits him in Portugal and asks the exact same thing. He literally says, "What's with all the apes?" | 피터의 아들 벤도 포르투갈에 찾아와서 똑같이 물어요. 말 그대로 '대체 웬 유인원들이에요?'라고요.
+[28:07.46]
+A | Validation. | 제 말이 맞았네요.
+[28:07.84]
+B | Right. If we connect this to the bigger picture, we have to look at what Yann Martel himself has said about his philosophical framework. | 맞아요. 이걸 더 큰 그림과 연결하려면, 얀 마텔 자신이 자기 철학적 틀에 대해 한 말을 봐야 해요.
+[28:15.20]
+B | In interviews, particularly a very revealing one with CTV News, Martel explains his intense fascination with primates. | 인터뷰에서, 특히 CTV 뉴스와의 아주 속 깊은 인터뷰에서, 마텔은 영장류에 대한 강한 매혹을 설명해요.
+[28:22.22]
+B | He uses this specific phrase to describe humanity. He says, "We are risen apes, not fallen angels." | 인류를 묘사하려고 이런 표현을 써요. '우리는 타락한 천사가 아니라 일어선 유인원이다.'
+[28:28.64]
+A | Oh, wow. Risen apes, not fallen angels. That completely flips the religious script we were just talking about in part two. | 오, 와. 타락한 천사가 아니라 일어선 유인원. 방금 2부에서 얘기한 종교적 각본을 완전히 뒤집네요.
+[28:36.94]
+B | Completely. The dominant cultural narrative in the West is that we are divine beings, angels who have fallen from grace, burdened by our earthly bodies. | 완전히요. 서양의 지배적인 문화적 이야기는 우리가 신성한 존재, 은총에서 떨어져 땅의 몸에 짓눌린 천사라는 거예요.
+[28:46.10]
+B | But Martel is suggesting the evolutionary opposite. We started as animals. | 하지만 마텔은 진화론적으로 그 반대를 말해요. 우리는 동물로 시작했어요.
+[28:49.90]
+B | We are animals who have acquired this heavy, incredibly complicated burden called higher consciousness. | 우리는 고차원 의식이라는 무겁고 엄청나게 복잡한 짐을 얻게 된 동물이에요.
+[28:56.22]
+A | And that higher consciousness, our intellect, our ability to project into the future, our capacity to regret the past, is exactly what makes grief so unbearable. | 그리고 그 고차원 의식, 우리의 지성, 미래를 내다보는 능력, 과거를 후회하는 능력이 바로 슬픔을 그토록 견딜 수 없게 만드는 거네요.
+[29:05.56]
+B | Oh, I see. Because a dog or a chimpanzee doesn't mourn what they might have been doing ten years from now. | 아, 알겠어요. 개나 침팬지는 10년 뒤에 뭘 하고 있었을지를 애도하지 않으니까요.
+[29:11.50]
+A | Exactly. They don't have existential dread about the legacy of their dead partner. Only humans do that. | 바로 그거예요. 죽은 짝이 남긴 것에 대한 실존적 두려움도 없어요. 그런 건 인간만 하죠.
+[29:17.02]
+B | Exactly. Ursula K. Le Guin, the legendary sci-fi and fantasy author, actually wrote a review of this book for The Guardian, and she focused heavily on this exact element. | 바로 그거예요. 전설적인 SF·판타지 작가 어슐러 K. 르 귄이 가디언에 이 책의 서평을 썼는데, 바로 이 요소에 크게 초점을 맞췄어요.
+[29:26.58]
+B | She praised the novel as a profound meditation on, quote, "the unbridgeable gap and the unbreakable bond between human and animal, our impossible self-alienation from our world." | 그녀는 이 소설을 '인간과 동물 사이의 메울 수 없는 간극과 끊을 수 없는 유대, 우리가 사는 세계로부터의 불가능한 자기 소외'에 대한 깊은 성찰이라고 칭찬했어요.
+[29:38.38]
+A | Self-alienation. We are alienated from the peace of the natural world because we think too much. Our intellect is the engine of our suffering. | 자기 소외. 우리는 너무 많이 생각해서 자연 세계의 평화로부터 멀어져 있어요. 지성이 고통의 엔진인 거죠.
+## 현재에 머무는 법 — 오도가 준 '축복받은 초연함'
+[29:47.46]
+A | So how does living with Odo the chimpanzee solve this for Peter? I mean, how does a monkey fix an existential crisis? | 그럼 침팬지 오도와 사는 게 피터에게 이걸 어떻게 해결해 주죠? 원숭이가 어떻게 실존적 위기를 고쳐요?
+[29:54.10]
+B | Because apes in Martel's literary universe represent the bridge back across that alienation. Peter finds peace because Odo forces him out of his human intellect. | 마텔의 문학 세계에서 유인원은 그 소외를 건너 돌아가는 다리를 나타내니까요. 오도가 피터를 인간의 지성 밖으로 끌어내서 피터는 평화를 찾아요.
+[30:04.42]
+A | You can't overthink things with a chimp around. | 침팬지가 옆에 있으면 생각을 너무 많이 할 수가 없죠.
+[30:06.28]
+B | You cannot sit around intellectualizing your regrets when you are living with a chimpanzee. A chimpanzee demands absolute, immediate presence. | 침팬지와 살면 앉아서 후회를 이리저리 따지고 있을 수가 없어요. 침팬지는 절대적이고 즉각적인 '지금 여기'를 요구해요.
+[30:14.82]
+B | Odo wants to eat now. He wants to groom now. He reacts to a bird outside the window now. | 오도는 지금 먹고 싶어 해요. 지금 털 손질을 하고 싶어 하고, 지금 창밖의 새에 반응해요.
+[30:20.34]
+A | Odo lives entirely in the present tense. He has no concept of yesterday and no anxiety about tomorrow. | 오도는 완전히 현재 시제로 살아요. 어제라는 개념도, 내일에 대한 불안도 없어요.
+[30:26.18]
+B | And he certainly doesn't care that Peter used to be a powerful senator. | 그리고 피터가 예전에 힘 있는 상원의원이었다는 것도 전혀 신경 쓰지 않죠.
+[30:29.22]
+A | Not at all. He doesn't care about Peter's past mistakes as a father to Ben. He just cares about who Peter is in this exact second. | 전혀요. 벤의 아버지로서 피터가 저지른 과거의 실수도 신경 쓰지 않아요. 그냥 바로 이 순간의 피터가 누구인지만 신경 써요.
+[30:35.66]
+B | Right. And by forcing Peter to constantly engage with the present moment, Odo effectively cures Peter's grief. | 맞아요. 그리고 피터가 끊임없이 현재 순간에 참여하게 만들어서, 오도는 사실상 피터의 슬픔을 치유해요.
+[30:42.62]
+A | Cures it. Wow. | 치유한다. 와.
+[30:44.24]
+B | Think about the mechanics of grief. It lives almost entirely in the past, mourning what is gone, and in the future, fearing a life that will never happen. | 슬픔의 작동 방식을 생각해 보세요. 슬픔은 거의 전적으로 과거, 사라진 걸 애도하는 데에, 그리고 미래, 결코 오지 않을 삶을 두려워하는 데에 살아요.
+[30:52.12]
+B | By anchoring Peter in the immediate, visceral present, Odo provides what Martel describes as a state of blessed detachment. | 피터를 즉각적이고 생생한 현재에 붙들어 매서, 오도는 마텔이 '축복받은 초연함'이라고 부르는 상태를 줘요.
+[31:00.00]
+A | Blessed detachment. Peter stops trying to reason his way out of pain, which is what Eusébio the pathologist tried to do. | 축복받은 초연함. 피터는 이성으로 고통에서 빠져나오려는 걸 그만둬요. 병리학자 에우제비우가 하려던 거죠.
+[31:06.66]
+A | And he stops trying to physically run from it, which is what Tomás tried to do with the motor car. | 그리고 몸으로 도망치려는 것도 그만둬요. 토마스가 자동차로 하려던 거고요.
+[31:11.96]
+B | Peter just is. He just exists. | 피터는 그냥 존재해요. 그냥 있는 거예요.
+[31:14.56]
+A | And there's a beautiful, quiet symmetry there. | 그리고 거기엔 아름답고 조용한 대칭이 있어요.
+[31:17.80]
+A | Peter rebuilt his life by stepping away from human vanity, the Senate, the politics, the desperate need to be important and remembered, and reconnects with the most fundamental animal part of himself. | 피터는 인간의 허영, 상원, 정치, 중요한 사람으로 기억되고 싶은 절박함에서 물러나 삶을 다시 짓고, 자기 안의 가장 근본적인 동물적인 부분과 다시 이어져요.
+[31:30.04]
+B | It's fitting that the title of this section is "Home." He finally finds a home, not in a geographical place, but in a state of acceptance. | 이 부분 제목이 '집'인 게 잘 어울려요. 그는 마침내 집을 찾아요. 지리적인 장소가 아니라 받아들임의 상태 속에서요.
+[31:38.48]
+A | And that is Martel's ultimate message about grief across all three stories. We cannot outthink our pain, and we cannot outrun it. | 그리고 그게 세 이야기 전체를 관통하는 슬픔에 대한 마텔의 최종 메시지예요. 우리는 고통을 생각으로 이길 수도, 달려서 따돌릴 수도 없어요.
+[31:46.42]
+A | But we can learn to carry it, by grounding ourselves in the present, by recognizing our fundamental bond with the natural world, and by letting go of the vanity of our own intellect. | 하지만 그걸 지고 가는 법은 배울 수 있어요. 현재에 발을 딛고, 자연 세계와의 근본적인 유대를 알아보고, 자기 지성의 허영을 내려놓음으로써요.
+[31:56.50]
+B | It's an incredibly moving resolution to all this pain we've witnessed. | 우리가 지켜본 이 모든 고통에 대한 엄청나게 감동적인 결말이네요.
+## 포르투갈에는 높은 산이 없다 — 마음속의 산
+[32:00.30]
+A | But as we synthesize all of this, there is one detail from the sources that I found both hilarious and deeply profound, and it ties this whole theme of human vanity together perfectly. | 그런데 이걸 다 종합하면서, 자료에서 웃기면서도 깊이 심오한 디테일을 하나 발견했어요. 인간의 허영이라는 주제를 완벽하게 묶어 줘요.
+[32:10.84]
+B | The mountains. | 산이요.
+[32:12.26]
+A | Yes. The title of the book is The High Mountains of Portugal. Tomás goes looking for them in 1904. Eusébio lives near them in 1938. Peter moves to them in 1981. | 네. 책 제목이 『포르투갈의 높은 산』이에요. 토마스는 1904년에 그 산을 찾아가고, 에우제비우는 1938년에 그 근처에 살고, 피터는 1981년에 그곳으로 이사해요.
+[32:23.96]
+A | But if you actually look at a topographical map of Portugal, there are no high mountains in Portugal. | 그런데 실제로 포르투갈 지형도를 보면, 포르투갈에는 높은 산이 없어요.
+[32:29.38]
+B | There are no mountains. It's a geographical myth. The highest peak in continental Portugal is barely a hill compared to the Alps or the Rockies. | 산이 없어요. 지리적인 신화예요. 포르투갈 본토의 가장 높은 봉우리도 알프스나 로키산맥에 비하면 언덕 수준이에요.
+[32:37.00]
+A | And Martel addresses this paradox directly. | 그리고 마텔은 이 역설을 직접 다뤄요.
+[32:39.76]
+B | He does. Yeah. In the publisher's reading guide interview, he is asked about this title, and he calls the naming of the region an act of national vanity. | 그렇죠. 출판사 독서 가이드 인터뷰에서 제목에 대해 질문을 받고, 그 지역 이름을 국가적 허영의 행위라고 불러요.
+[32:49.04]
+A | It is a brilliant paradox that recontextualizes the entire novel. | 소설 전체를 다시 보게 하는 기발한 역설이에요.
+[32:53.88]
+A | Martel says, "The high mountains in my novel are a place of heightened being. They are mountains in the mind." | 마텔은 말해요. '내 소설 속 높은 산은 고양된 존재의 장소다. 마음속의 산이다.'
+[33:00.48]
+B | Tomás wants to climb a mountain to conquer it, out of pride. Dr. Lozora has faith that there are mountains. Peter quite contentedly lives on a mountain. | 토마스는 자존심 때문에 산을 정복하려고 올라가고 싶어 해요. 로조라 박사는 산이 있다고 믿고요. 피터는 꽤 만족스럽게 산 위에서 살아요.
+[33:10.94]
+A | The mountains represent the emotional peaks and valleys these characters have to navigate to process their sorrow. | 산은 이 인물들이 슬픔을 소화하려고 지나가야 하는 감정의 봉우리와 골짜기를 나타내요.
+[33:16.14]
+A | They aren't physical places on a map. They are psychological landscapes. | 지도 위의 물리적인 장소가 아니라 심리적 풍경이에요.
+[33:20.70]
+B | Which means the journey was never about geography. It was always about the internal landscape of grief. | 그러니까 여정은 처음부터 지리에 관한 게 아니었네요. 늘 슬픔이라는 내면의 풍경에 관한 거였어요.
+[33:27.44]
+A | The terrain they were fighting wasn't Portugal. It was their own broken hearts. | 그들이 싸우던 지형은 포르투갈이 아니라 자기의 부서진 마음이었어요.
+## 독자들의 엇갈린 평가
+[33:32.04]
+B | Which brings us to how actual readers reacted to this journey, because the reception was incredibly divided. | 그게 실제 독자들이 이 여정에 어떻게 반응했는지로 이어져요. 반응이 엄청나게 갈렸거든요.
+[33:37.52]
+A | Looking at our sources, we have a very wide, very polarized spectrum of opinions. It is a demanding, often frustrating book, without a doubt. | 자료를 보면, 아주 넓고 아주 양극화된 의견의 스펙트럼이 있어요. 의심할 여지 없이 까다롭고 종종 답답한 책이에요.
+[33:46.02]
+B | On one side, we have readers who absolutely adored it. The book club report we looked at noted that out of eleven members, the average rating was an 8.75 out of 10. | 한쪽엔 이 책을 정말 사랑한 독자들이 있어요. 우리가 본 독서 모임 보고서에 따르면 회원 열한 명의 평균 점수가 10점 만점에 8.75점이었어요.
+[33:56.12]
+A | That's pretty high. | 꽤 높네요.
+[33:57.58]
+B | They loved the intricate historical research, the details about the antique cars, the dark history of the slave trade. | 정교한 역사 조사, 옛날 자동차에 대한 디테일, 노예 무역의 어두운 역사를 좋아했어요.
+[34:04.50]
+B | They felt the magical realism enhanced the mystery of life, and they praised the sparkling humor woven into the tragedy. They compared it very favorably to Life of Pi. | 마술적 사실주의가 삶의 신비를 더해 준다고 느꼈고, 비극 속에 엮인 반짝이는 유머를 칭찬했어요. 『파이 이야기』와 비교해도 아주 좋게 평가했고요.
+[34:13.66]
+A | And as you mentioned earlier, heavy hitters in the literary world like Ursula K. Le Guin praised its philosophical depth. | 그리고 아까 말했듯이 어슐러 K. 르 귄 같은 문학계 거물들도 철학적 깊이를 칭찬했죠.
+[34:19.54]
+B | But that enthusiasm was certainly not universal, and the friction in the narrative threw a lot of people off. | 하지만 그 열광이 모두의 것은 아니었고, 서사 속의 마찰이 많은 사람을 튕겨 냈어요.
+[34:26.12]
+A | Even in that same glowing book club report, three people noted that they simply could not finish the book. | 그 칭찬 일색의 독서 모임 보고서에서도 세 명은 책을 끝까지 읽지 못했다고 적었어요.
+[34:31.86]
+B | And when we look at the library comments and professional reviews, you see the exact points of friction. The magical realism isn't for everyone. | 그리고 도서관 댓글과 전문가 리뷰를 보면 정확히 어디서 마찰이 생겼는지 보여요. 마술적 사실주의는 모두를 위한 게 아니에요.
+[34:39.60]
+B | Some readers found the three-part structure disjointed, feeling like three separate short stories mashed together. | 어떤 독자들은 3부 구조가 따로 논다고, 세 개의 단편을 억지로 붙인 것 같다고 느꼈어요.
+[34:45.48]
+A | One reader specifically commented that the first half was intriguing, but then the theological debates made it preachy and unreadable. | 한 독자는 전반부는 흥미로웠는데 신학 토론 때문에 설교조가 되고 읽을 수 없게 됐다고 썼어요.
+[34:52.44]
+B | And we spent a lot of time discussing The Guardian's critique earlier. They felt the emotional reaction in part one was flat, and they found the autopsy in part two nauseating. | 그리고 아까 가디언의 비판을 오래 얘기했죠. 1부의 감정 반응은 밋밋하고, 2부의 부검은 메스껍다고 느꼈어요.
+[35:03.08]
+A | Their core argument was that in the absence of traditional plot causality, where A leads to B leads to C, the surrealism just became too much to bear. | 그들의 핵심 주장은 A가 B로, B가 C로 이어지는 전통적인 줄거리의 인과가 없으니 초현실성을 견디기 너무 버거워졌다는 거였어요.
+[35:12.06]
+B | And honestly, it's a fair critique. If you pick up this book expecting a traditional plot-driven mystery where the detective solves a crime, | 솔직히 정당한 비판이에요. 탐정이 범죄를 해결하는 전통적인 줄거리 중심 미스터리를 기대하고 이 책을 집어 든다면,
+[35:19.18]
+B | having a woman climb inside a dead body filled with a bear cub is going to throw you right out of the book. It requires a massive suspension of disbelief. | 새끼 곰이 든 시신 안으로 여자가 기어 들어가는 장면에서 책 밖으로 바로 튕겨 나갈 거예요. 엄청난 불신의 유예가 필요하죠.
+[35:27.62]
+A | But whether you love or hate the magical realism, whether you find it charming or nauseating, what Martel undeniably achieves is forcing the reader to confront the mechanics of survival. | 하지만 마술적 사실주의를 사랑하든 싫어하든, 매력적이라고 느끼든 메스껍다고 느끼든, 마텔이 부정할 수 없이 해낸 건 독자가 생존의 작동 방식과 마주하게 만든 거예요.
+[35:37.88]
+B | Yes. He forces us to look at how we tell stories, to ourselves, to each other, to our gods, to survive the worst, most unspeakable moments of our lives. | 네. 삶의 가장 끔찍하고 말할 수 없는 순간을 견디려고 우리가 스스로에게, 서로에게, 신에게 어떻게 이야기를 하는지 보게 만들죠.
+[35:47.52]
+A | Stories as survival gear. I love that phrasing. | 생존 장비로서의 이야기. 그 표현 정말 좋아요.
+## 정리와 마지막 질문 — 내 삶을 '영적으로 부검'한다면
+[35:51.24]
+B | And that brings us right back to you, the listener. We spent this deep dive looking at three very different men in three different eras. | 그리고 그게 청취자 여러분에게로 바로 돌아와요. 이번 딥다이브에서 서로 다른 시대의 아주 다른 세 남자를 살펴봤어요.
+[35:58.78]
+A | We watched a man walk backward to protest the cruel universe. | 잔인한 우주에 항의하려고 뒤로 걷는 남자를 봤고,
+[36:02.62]
+B | We listened to a ghost use Agatha Christie to explain the mechanics of the Bible. | 애거사 크리스티로 성경의 원리를 설명하는 유령의 말을 들었고,
+[36:06.86]
+A | And we saw a powerful politician give up his entire ego to find peace living in the present tense with a chimpanzee. | 힘 있는 정치인이 자아를 통째로 내려놓고 침팬지와 현재 시제로 살며 평화를 찾는 걸 봤어요.
+[36:13.94]
+B | Three wild, surreal stories, all serving the exact same purpose: processing the heavy, suffocating weight of grief. | 엉뚱하고 초현실적인 세 이야기가 모두 똑같은 목적을 위해 있어요. 슬픔의 무겁고 숨 막히는 무게를 소화하는 거죠.
+[36:21.10]
+A | It shows us that there is no normal, clinical way to navigate profound loss. The landscape of grief is weird. It is surreal, and it is deeply, painfully personal. | 깊은 상실을 지나가는 정상적이고 임상적인 방법은 없다는 걸 보여 줘요. 슬픔의 풍경은 이상해요. 초현실적이고, 깊이, 아프도록 개인적이에요.
+[36:32.06]
+B | Exactly. And it leaves us with one final, provocative thought for you to mull over today. It's a thought inspired directly by Maria Castro in part two. | 바로 그거예요. 그리고 오늘 곱씹어 볼 마지막 도발적인 생각을 하나 남겨요. 2부의 마리아 카스트루에게서 바로 영감을 받은 생각이에요.
+[36:41.50]
+A | Imagine for a moment that someone were to perform an autopsy on your life. | 잠깐, 누군가 당신의 삶을 부검한다고 상상해 보세요.
+[36:46.22]
+B | Not a medical one, right? | 의학적인 부검은 아니죠?
+[36:47.58]
+A | Not a medical autopsy to see how your physical heart stopped beating, but a spiritual autopsy to see exactly how you lived. | 심장이 어떻게 멈췄는지 보는 의학적 부검이 아니라, 당신이 정확히 어떻게 살았는지 보는 영적인 부검이요.
+[36:56.22]
+A | If someone opened you up right now, what objects, what memories, what formative connections, or what animals would they find inside you? | 누군가 지금 당신을 열어 본다면, 어떤 물건, 어떤 기억, 어떤 근본적인 관계, 어떤 동물을 당신 안에서 발견할까요?
+[37:05.46]
+A | What is the story that the contents of your life would tell? | 당신 삶에 담긴 것들은 어떤 이야기를 들려줄까요?
+[37:09.48]
+B | It's a beautiful, terrifying question. It asks us to deeply consider what we are allowing to take up permanent residence inside of us. | 아름답고도 무서운 질문이에요. 우리 안에 무엇이 영영 자리 잡고 살도록 허락하고 있는지 깊이 생각해 보게 하죠.
+[37:17.70]
+A | It really does. Thank you so much for guiding us through this incredibly layered, difficult, but ultimately beautiful story. | 정말 그래요. 이 엄청나게 겹겹이 쌓인, 어렵지만 결국 아름다운 이야기를 안내해 주셔서 정말 고마워요.
+[37:26.00]
+B | And to you listening, thank you for joining us on this deep dive into The High Mountains of Portugal. | 그리고 들어 주신 여러분, 『포르투갈의 높은 산』 딥다이브에 함께해 주셔서 감사해요.
+[37:31.26]
+B | Keep looking closely at the stories around you, and we'll catch you on the next one. | 주변의 이야기들을 계속 자세히 들여다보세요. 다음 편에서 만나요.
