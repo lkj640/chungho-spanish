@@ -17,6 +17,7 @@
   .vcard .hz { font-size: calc(21px * var(--z)); font-weight: 600; margin-right: 6px; }
   .vcard .pyw { color: var(--mut); font-size: calc(14.5px * var(--z)); margin-right: 4px; }
   .vcard .tags .chip { margin-right: 3px; }
+  .vcard .x a { color: inherit; }
   .vcard .alt, .fcard .alt { color: var(--mut); font-size: 13px; margin: 0 4px; }
   body.hidepy .vcard:not(.open) .pyw { filter: blur(5px); cursor: pointer; }
   .fcard .fw.hz { font-size: calc(44px * var(--z)); }
@@ -43,11 +44,14 @@
   <div class="zf"><div class="lvls" id="lvls"></div></div>
   <div class="zf">
     <select id="pos" aria-label="품사"></select>
+    <select id="src" aria-label="출처">
+      <option value="all">모든 단어</option><option value="lesson">강의에 나온 단어</option><option value="book">엑셀 단어장 단어</option>
+    </select>
     <select id="st" aria-label="외운 단어">
       <option value="all">전체</option><option value="new">아직 못 외운 단어</option><option value="known">외운 단어</option>
     </select>
     <select id="ord" aria-label="순서">
-      <option value="orig">원래 순서</option><option value="py">병음순</option><option value="rnd">섞기</option>
+      <option value="orig">원래 순서</option><option value="py">병음순</option><option value="recent">최근 강의순</option><option value="rnd">섞기</option>
     </select>
   </div>
 
@@ -58,6 +62,7 @@
       <label><input type="checkbox" id="optPy"> 병음 가리기</label>
     </span>
   </div>
+  <p class="hint" id="scope"></p>
   <p class="hint" id="lcount"></p>
 
   <section id="pane-list">
@@ -92,9 +97,9 @@
     </details>
   </section>
 
-  <footer>충호의 중국어 단어장(엑셀 「중국어 단어 8」)을 그대로 옮긴 거예요. HSK 1–3급 599개 · 4급 596개 · 5급 1,265개 · 급수 표시 없음 46개. 🔊는 브라우저 음성으로 읽어요.</footer>
+  <footer>충호의 중국어 단어장(엑셀 「중국어 단어 8」)을 그대로 옮긴 거예요. HSK 1–3급 599개 · 4급 596개 · 5급 1,265개 · 급수 표시 없음 46개. 🔊는 브라우저 음성으로 읽어요. 강의에 나온 단어도 함께 들어 있어요(엑셀에 있는 단어는 예문·강의가 붙고, 없는 단어는 「📗 강의 단어」). 예전 통합 단어장의 복습 기록은 그대로 이어져요.</footer>
 </div>
 <script src="assets/common.js"></script>
-<script src="assets/xwords.js?v=2"></script>
+<script src="assets/xwords.js?v=3"></script>
 </body>
 </html>

@@ -32,11 +32,17 @@
     const due = dueN(code);
     if (code === "es") return `<a class="sitecard mat vocabcard" href="wordbook.html#review">
       <span class="em">📗</span><span><b>스페인어 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">엑셀 단어장 4,389개 + 강의 단어 · 한국어 뜻 · 동사 활용표 · 간격 반복(SRS) 복습</span></span><span class="go">›</span></a>`;
-    const zhBook = code === "zh" ? `<a class="sitecard mat vocabcard" href="zhwords.html">
-      <span class="em">📕</span><span><b>중국어 단어장 · HSK 1~5급 2,506개</b><span class="d">엑셀 단어장 · 급수·품사별 찾기 · 병음 검색 · 카드 복습 · 4지선다 퀴즈</span></span><span class="go">›</span></a>`
-      : code === "ja" ? `<a class="sitecard mat vocabcard" href="jawords.html">
-      <span class="em">📘</span><span><b>일본어 단어장 · 초급·중급 2,382개</b><span class="d">엑셀 단어장 · 레벨·품사별 찾기 · 가나로 검색 · 카드 복습 · 4지선다 퀴즈</span></span><span class="go">›</span></a>` : "";
-    return zhBook + `<a class="sitecard mat vocabcard" href="vocab.html?lang=${code}">
+    // 중국어·일본어는 엑셀 단어장 + 강의 단어를 합친 단어장 하나로 복습해요 (예전 통합 단어장 기록은 단어장을 처음 열 때 옮겨져요)
+    const XB = {
+      zh: { pre: "zw_", url: "zhwords.html", em: "📕", t: "중국어 단어장", d: "HSK 1~5급 2,506개 + 강의 단어 · 급수·품사별 찾기 · 병음 검색 · 카드 복습(SRS) · 4지선다 퀴즈" },
+      ja: { pre: "jw_", url: "jawords.html", em: "📘", t: "일본어 단어장", d: "초급·중급 2,382개 + 강의 단어 · 레벨·품사별 찾기 · 가나로 검색 · 카드 복습(SRS) · 4지선다 퀴즈" },
+    }[code];
+    if (XB) {
+      const n = Object.values(store.get(XB.pre + "srs", {})).filter(v => v.d <= todayN).length + (store.get(XB.pre + "mig", 0) ? 0 : due);
+      return `<a class="sitecard mat vocabcard" href="${XB.url}${n ? "#review" : ""}">
+      <span class="em">${XB.em}</span><span><b>${XB.t} · 오늘 복습${n ? ` <span class="chip red">${n}개</span>` : ""}</b><span class="d">${XB.d}</span></span><span class="go">›</span></a>`;
+    }
+    return `<a class="sitecard mat vocabcard" href="vocab.html?lang=${code}">
       <span class="em">📇</span><span><b>통합 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">모든 강의 단어를 간격 반복(SRS) 카드로 복습</span></span><span class="go">›</span></a>`;
   };
   const siteCards = code => (SITES[code] || []).map(x => `<a class="sitecard" href="${esc(x.url)}" target="_blank" rel="noopener">

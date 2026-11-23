@@ -51,6 +51,8 @@ python3 tools/make_lesson.py 파일.m4a --lang en --hide-cast --push            
 ## 중국어·일본어 단어장 (`zhwords.html` · `jawords.html`)
 
 엑셀 단어장을 바꾸면 다시 만들어요. 두 페이지는 `assets/xwords.js`를 함께 써요.
+강의 단어(`vocab/zh.json` · `vocab/ja.json`, 새 강의는 `meta.json`)도 화면에서 합쳐져요. 엑셀에 있는 단어는 예문·강의가 붙고, 없는 단어는 「📗 강의 단어」로 들어가요.
+예전 통합 단어장(`vocab.html?lang=zh|ja`)은 이 단어장으로 넘어가고, 복습 기록은 단어장을 처음 열 때 옮겨져요.
 
 ```bash
 python3 tools/build_zh_wordbook.py "…/중국어 공부/중국어 단어 8.xlsx"        # 拼音·汉字·意思·词类·HSK級 → wordbook/zh.json

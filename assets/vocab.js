@@ -8,6 +8,8 @@
   const only = P.get("lesson");
   // 스페인어는 스페인어 단어장(엑셀 단어장 + 강의 단어)으로 옮겼어요 — 복습 기록은 그대로 이어져요
   if (lang === "es") { location.replace(`wordbook.html${only ? "?lesson=" + encodeURIComponent(only) : ""}#${location.hash === "#list" ? "list" : "review"}`); return; }
+  // 중국어·일본어도 각 단어장(엑셀 단어장 + 강의 단어)으로 옮겼어요 — 복습 기록은 단어장에서 이어져요
+  if (lang === "zh" || lang === "ja") { location.replace(`${lang}words.html${only ? "?lesson=" + encodeURIComponent(only) : ""}#${location.hash === "#list" ? "list" : "review"}`); return; }
   store.set("vocab_lang", lang);
   document.title = `${LANGS[lang].name} 단어장 · 충호의 어학 열공 사이트`;
 

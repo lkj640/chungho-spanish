@@ -276,7 +276,7 @@
       <div class="seg" id="vseg"><button data-f="all" aria-pressed="true">전체</button><button data-f="todo" aria-pressed="false">못 외운 것</button><button data-f="known" aria-pressed="false">외운 것</button></div>
       <label class="opts" style="margin:0"><input type="checkbox" id="optCover"> 뜻 가리기</label>
       <span class="hint" id="vcount"></span>
-      <a class="btn" style="padding:4px 12px;font-size:13px" href="vocab.html?lang=${esc(lang)}&lesson=${esc(L.id)}">🔁 이 단어들 카드로 복습</a>
+      <a class="btn" style="padding:4px 12px;font-size:13px" href="${lang === "es" ? "wordbook.html?" : lang === "zh" || lang === "ja" ? lang + "words.html?" : "vocab.html?lang=" + esc(lang) + "&"}lesson=${esc(L.id)}#review">🔁 이 단어들 카드로 복습</a>
     </div><div class="vgrid" id="vgrid"></div>`;
   function renderVocab() {
     const rows = vocab.filter(v => vfilter === "all" || (vfilter === "known") === !!known[kkey(v)]);

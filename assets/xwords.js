@@ -1,7 +1,8 @@
 // 엑셀 단어장 페이지 (중국어 zhwords.html · 일본어 jawords.html 이 함께 써요). <body data-lang="zh|ja">
 // 중국어 wordbook/zh.json (tools/build_zh_wordbook.py) 단어 = [병음, 한자, 한국어 뜻, 품사, 급수("1-3" | "4" | "5" | "")]
 // 일본어 wordbook/ja.json (tools/build_ja_wordbook.py) 단어 = [읽기, 표제어, 원래 표기(여러 한자), 한국어 뜻, 품사, 레벨("初級" | "中級" | "")]
-// 주소: #list · #review(카드 복습) · #quiz
+// 강의 단어(vocab/<언어>.json · 새 강의는 meta.json)도 합쳐요: 엑셀 단어와 같으면 예문·강의를 붙이고, 없으면 「강의 단어」로 넣어요
+// 주소: #list · #review(카드 복습) · #quiz · ?lesson=<강의id> 그 강의 단어만
 // 기록은 다른 단어장과 따로 저장해요 (중국어 zw_, 일본어 jw_ 로 시작하는 열쇠)
 (async () => {
   const { esc, store, say } = U;
@@ -15,8 +16,8 @@
       row: ([py, hz, ko, pos, lvl]) => ({ py, hz, alt: "", ko, pos, lvl, tts: hz }),
       POS_KO: { 名词: "명사", 动词: "동사", 形容词: "형용사", 副词: "부사", 连接词: "접속사", 量词: "양사", 代词: "대명사",
         前置词: "개사", 数词: "수사", 助词: "조사", 助动词: "조동사", 感叹词: "감탄사" },
-      LV: ["1-3", "4", "5", ""],
-      lvName: l => l ? `HSK ${l.replace("-", "–")}급` : "급수 없음",
+      LV: ["1-3", "4", "5", "강의", ""],
+      lvName: l => l === "강의" ? "📗 강의 단어" : l ? `HSK ${l.replace("-", "–")}급` : "급수 없음",
     },
     ja: {
       pre: "jw_", tag: "ja", lvAll: "모든 레벨",
@@ -24,8 +25,8 @@
       // 한자 없는 단어는 표제어가 곧 읽기라서 읽기를 따로 보여 주지 않아요. 발음은 읽기(가나)로 들려줘요
       row: ([rd, hz, alt, ko, pos, lvl]) => ({ py: rd === hz ? "" : rd, hz, alt, ko, pos, lvl, tts: rd || hz }),
       POS_KO: { 名詞: "명사", 動詞: "동사", 形容詞: "형용사", 副詞: "부사", 接続詞: "접속사", 擬声語: "의성어·의태어" },
-      LV: ["初級", "中級", ""],
-      lvName: l => ({ 初級: "초급", 中級: "중급" })[l] || "레벨 없음",
+      LV: ["初級", "中級", "강의", ""],
+      lvName: l => ({ 初級: "초급", 中級: "중급", 강의: "📗 강의 단어" })[l] || "레벨 없음",
     },
   };
   const lang = document.body.dataset.lang;
@@ -35,7 +36,52 @@
   catch { $("lcount").textContent = "단어장을 불러오지 못했어요. 새로고침해 주세요."; return; }
 
   const { flat, POS_KO, LV, lvName, pre } = C;
-  const W = D.words.map((a, i) => { const w = C.row(a); return { i, ...w, k: `${w.hz}|${w.py}|${w.ko}`, fp: flat(w.py || w.hz) }; });
+  const mk = (i, w) => ({ i, ex: "", exKo: "", l: [], lw: [], d: "", ...w, k: `${w.hz}|${w.py}|${w.ko}`, fp: flat(w.py || w.hz) });
+  const W = D.words.map((a, i) => mk(i, { ...C.row(a), book: true }));
+
+  // ---------- 강의 단어 합치기 ----------
+  const only = new URLSearchParams(location.search).get("lesson");
+  const titles = {};
+  let LX = { words: [], titles: {} }, idx = [];
+  try { LX = await fetch(`vocab/${lang}.json`, { cache: "no-cache" }).then(r => r.json()); } catch {}
+  try { idx = (await U.loadIndex()).lessons.filter(l => l.lang === lang); } catch {}
+  Object.assign(titles, LX.titles || {});
+  for (const l of idx) titles[l.id] = l.title;
+  const lessonWords = [...(LX.words || [])];
+  try { // vocab/<언어>.json 이후에 올라온 강의는 meta.json에서 단어를 바로 가져와요
+    const have = new Set(LX.lessons || []);
+    const extra = idx.filter(l => !have.has(l.id) && l.vocabCount).sort((a, b) => (a.date + a.id < b.date + b.id ? -1 : 1));
+    const seen = new Map(lessonWords.map(v => [v.w, v]));
+    await Promise.all(extra.map(async l => { l.m = await fetch(`lessons/${l.id}/meta.json`, { cache: "no-cache" }).then(r => r.json()).catch(() => null); }));
+    for (const l of extra) for (const v of (l.m && l.m.vocab) || []) {
+      const w = (v.es || "").trim(); if (!w) continue;
+      if (seen.has(w)) { const x = seen.get(w); if (!x.l.includes(l.id)) x.l.push(l.id); continue; }
+      const x = { w, py: v.py || "", ko: v.ko || "", ex: v.ex || "", exKo: v.exKo || "", l: [l.id], d: l.date };
+      seen.set(w, x); lessonWords.push(x);
+    }
+  } catch {}
+  // 엑셀 단어 찾기: 표제어, 일본어는 다른 한자 표기(괄호 있고 없고)까지. 같은 글자가 여럿이면(长 cháng/zhǎng) 읽기가 맞는 쪽
+  const byForm = new Map();
+  const addForm = (f, w) => { f = (f || "").trim(); if (!f) return; if (!byForm.has(f)) byForm.set(f, []); if (!byForm.get(f).includes(w)) byForm.get(f).push(w); };
+  for (const w of W) {
+    addForm(w.hz, w);
+    for (const a of w.alt.split("·")) { addForm(a.replace(/[()（）]/g, ""), w); addForm(a.replace(/[(（][^)）]*[)）]/g, ""), w); }
+  }
+  for (const v of lessonWords) {
+    const cand = byForm.get(v.w.replace(/\s+/g, "")) || byForm.get(v.w);
+    const hit = cand && (cand.find(w => v.py && flat(w.py || w.hz) === flat(v.py)) || cand[0]);
+    if (hit) {
+      hit.lw.push(v.w);
+      for (const id of v.l) if (!hit.l.includes(id)) hit.l.push(id);
+      if (!hit.ex && v.ex) { hit.ex = v.ex; hit.exKo = v.exKo || ""; }
+      if (v.d > hit.d) hit.d = v.d;
+      continue;
+    }
+    const py = v.py && v.py !== v.w ? v.py : "";
+    const x = mk(W.length, { py, hz: v.w, alt: "", ko: v.ko || "", pos: "", lvl: "강의", tts: lang === "ja" ? py || v.w : v.w,
+      ex: v.ex || "", exKo: v.exKo || "", l: [...v.l], lw: [v.w], d: v.d || "", book: false });
+    W.push(x); addForm(v.w, x);
+  }
   const posName = p => p ? `${p} ${POS_KO[p] || ""}`.trim() : "품사 없음";
 
   // ---------- 기록 ----------
@@ -44,9 +90,20 @@
   const SRS = store.get(pre + "srs", {});   // 열쇠 → {i 간격(일), e 쉬움 배수, d 다음 복습일, r 맞힌 횟수, x 틀린 횟수}
   const known = store.get(pre + "known", {});
   const LOG = store.get(pre + "log", {});   // 날짜 → {n 새 단어, r 복습}
+  const lknown = store.get("known", {});    // 강의 화면 단어장의 「외웠어요」: "강의id|단어"
+  // 예전 통합 단어장(vocab.html)의 복습 기록·공부 날짜를 한 번 옮겨 와요 (예전 기록은 지우지 않아요)
+  if (!store.get(pre + "mig", 0)) {
+    const OLD = store.get("srs", {}), OL = store.get("srs_log", {});
+    for (const w of W) for (const x of w.lw) { const o = OLD[lang + "|" + x]; if (o && (!SRS[w.k] || o.d > SRS[w.k].d)) SRS[w.k] = { ...o }; }
+    for (const [d, v] of Object.entries(OL)) if (v && v[lang] && (v[lang].n || v[lang].r)) {
+      const t = LOG[d] || (LOG[d] = { n: 0, r: 0 }); t.n += v[lang].n || 0; t.r += v[lang].r || 0;
+    }
+    store.set(pre + "srs", SRS); store.set(pre + "log", LOG); store.set(pre + "mig", 1);
+  }
   const log = LOG[today] = LOG[today] || { n: 0, r: 0 };
   const save = () => { store.set(pre + "srs", SRS); store.set(pre + "known", known); store.set(pre + "log", LOG); };
-  const status = w => { const s = SRS[w.k]; if (s) return s.i >= 21 ? "known" : "learn"; return known[w.k] ? "known" : "new"; };
+  const markedKnown = w => !!known[w.k] || w.l.some(id => w.lw.some(x => lknown[id + "|" + x]));
+  const status = w => { const s = SRS[w.k]; if (s) return s.i >= 21 ? "known" : "learn"; return markedKnown(w) ? "known" : "new"; };
   const isKnown = w => status(w) === "known";
 
   // ---------- 필터 ----------
@@ -55,7 +112,8 @@
   const POS = [...new Set(W.map(w => w.pos))].sort((a, b) => W.filter(w => w.pos === b).length - W.filter(w => w.pos === a).length);
   $("pos").innerHTML = `<option value="*">모든 품사</option>` + POS.map(p => `<option value="${esc(p)}">${esc(posName(p))} (${W.filter(w => w.pos === p).length})</option>`).join("");
   const setSel = (id, k, def) => { const v = store.get(k, def); $(id).value = v; if ($(id).value !== v) $(id).value = def; };
-  setSel("pos", pre + "pos", "*"); setSel("st", pre + "st", "all"); setSel("ord", pre + "ord", "orig");
+  setSel("pos", pre + "pos", "*"); setSel("src", pre + "src", "all"); setSel("st", pre + "st", "all"); setSel("ord", pre + "ord", "orig");
+  if (only) $("scope").innerHTML = `이 강의 단어만: <b>${esc(titles[only] || only)}</b> · <a href="${location.pathname}">전체 보기</a>`;
   function drawLv() {
     $("lvls").innerHTML = `<button data-l="*" aria-pressed="${!selLv.size}">${C.lvAll}</button>` +
       LV.filter(lvCount).map(l => `<button data-l="${l}" aria-pressed="${selLv.has(l)}">${lvName(l)} <small>${lvCount(l)}</small></button>`).join("");
@@ -70,14 +128,16 @@
   let rnd = new Map();
   function filtered({ useStatus = true } = {}) {
     const raw = $("q").value.trim(), f = raw.toLowerCase(), fp = flat(raw);
-    const pos = $("pos").value, st = $("st").value, ord = $("ord").value;
-    let rows = W.filter(w => (!selLv.size || selLv.has(w.lvl)) && (pos === "*" || w.pos === pos)
+    const pos = $("pos").value, st = $("st").value, ord = $("ord").value, src = $("src").value;
+    let rows = W.filter(w => (!only || w.l.includes(only)) && (!selLv.size || selLv.has(w.lvl)) && (pos === "*" || w.pos === pos)
+      && (src === "all" || (src === "lesson" ? w.l.length > 0 : w.book))
       && (!useStatus || st === "all" || (st === "known") === isKnown(w))
       && (!raw || w.hz.includes(raw) || w.ko.includes(raw) || w.alt.includes(raw) || (fp && w.fp.includes(fp)) || w.py.toLowerCase().includes(f)));
     if (raw) {
       const r = w => w.hz === raw || w.fp === fp ? 0 : w.hz.startsWith(raw) || w.fp.startsWith(fp) ? 1 : 2;
       rows.sort((a, b) => r(a) - r(b) || a.i - b.i);
     } else if (ord === "py") rows.sort((a, b) => a.fp.localeCompare(b.fp, lang) || a.i - b.i);
+    else if (ord === "recent") rows = [...rows.filter(w => w.l.length).sort((a, b) => (b.d > a.d) - (b.d < a.d) || a.i - b.i), ...rows.filter(w => !w.l.length)];
     else if (ord === "rnd") { rows.forEach(w => { if (!rnd.has(w.i)) rnd.set(w.i, Math.random()); }); rows.sort((a, b) => rnd.get(a.i) - rnd.get(b.i)); }
     return rows;
   }
@@ -100,6 +160,8 @@
   // ---------- 화면 조각 ----------
   const tags = w => `<span class="tags">${w.pos ? `<span class="chip">${esc(posName(w.pos))}</span>` : ""}<span class="chip yel">${esc(lvName(w.lvl))}</span></span>`;
   const sayBtn = w => `<button class="say" data-say="${w.i}" aria-label="발음 듣기">🔊</button>`;
+  const lessonLinks = w => w.l.map(id => `<a href="lesson.html?d=${esc(id)}#vocab">${esc(titles[id] || id)}</a>`).join(" · ");
+  const exBlock = w => w.ex || w.l.length ? `<div class="x">${w.ex ? `<div lang="${C.tag}">${esc(w.ex)} <button class="say" data-sayx="${w.i}" aria-label="예문 듣기">🔊</button></div><div class="ko">${esc(w.exKo)}</div>` : ""}${w.l.length ? `<div class="src">📗 ${lessonLinks(w)}</div>` : ""}</div>` : "";
   const ivl = i => i === 0 ? "곧 다시" : i < 30 ? `${i}일` : i < 365 ? `${Math.round(i / 30)}달` : `${(i / 365).toFixed(1)}년`;
 
   // ---------- 목록 ----------
@@ -114,18 +176,27 @@
         <div><span class="hz" lang="${C.tag}">${esc(w.hz)}</span><span class="pyw">${esc(w.py)}</span>${sayBtn(w)}${w.alt ? `<span class="alt" lang="${C.tag}">${esc(w.alt)}</span>` : ""}${tags(w)}${srsTag}
           <div class="m">${esc(w.ko)}</div></div>
         <div class="acts"><button class="k" data-k="${w.i}">${st === "known" ? "✓ 외움" : "외웠어요"}</button></div>
+        ${exBlock(w)}
       </div>`;
     }).join("") : `<p class="hint" style="padding:12px">조건에 맞는 단어가 없어요.</p>`;
     $("more").hidden = cur.length <= limit;
   }
   $("more").onclick = () => { limit += 200; renderList(); };
-  const sayClick = e => { const s = e.target.closest("[data-say]"); if (s) { say(W[+s.dataset.say].tts, lang); return true; } return false; };
+  const sayClick = e => {
+    const s = e.target.closest("[data-say]"); if (s) { say(W[+s.dataset.say].tts, lang); return true; }
+    const x = e.target.closest("[data-sayx]"); if (x) { say(W[+x.dataset.sayx].ex, lang); return true; }
+    return false;
+  };
   $("vgrid").addEventListener("click", e => {
     if (sayClick(e)) return;
     const k = e.target.closest("[data-k]");
     if (k) {
       const w = W[+k.dataset.k];
-      if (isKnown(w)) { delete known[w.k]; if (SRS[w.k] && SRS[w.k].i >= 21) delete SRS[w.k]; }
+      if (isKnown(w)) {
+        delete known[w.k]; if (SRS[w.k] && SRS[w.k].i >= 21) delete SRS[w.k];
+        for (const id of w.l) for (const x of w.lw) delete lknown[id + "|" + x];
+        store.set("known", lknown);
+      }
       else known[w.k] = 1;
       save(); stats(); renderList(); return;
     }
@@ -180,7 +251,7 @@
     rv.innerHTML = `<div class="fcard${shown ? " open" : ""}">
       <div class="chips"><span class="chip ${isNew ? "red" : ""}">${isNew ? "새 단어" : "복습"}</span><span class="chip">남은 카드 ${queue.length + 1}</span>${tags(w)}</div>
       ${opt.dir === "f" ? front(w) : meaning(w)}
-      ${shown ? `<div class="fback">${opt.dir === "f" ? "" : front(w)}<div class="pyb">${esc(w.py)} ${sayBtn(w)}</div>${w.alt ? `<div class="alt" lang="${C.tag}">${esc(w.alt)}</div>` : ""}${opt.dir === "f" ? meaning(w) : ""}</div>
+      ${shown ? `<div class="fback">${opt.dir === "f" ? "" : front(w)}<div class="pyb">${esc(w.py)} ${sayBtn(w)}</div>${w.alt ? `<div class="alt" lang="${C.tag}">${esc(w.alt)}</div>` : ""}${opt.dir === "f" ? meaning(w) : ""}${exBlock(w)}</div>
         <div class="rate">
           <button data-q="0" class="q0">다시<small>${prev(0)}</small></button>
           <button data-q="1" class="q1">어려움<small>${prev(1)}</small></button>
@@ -297,7 +368,7 @@
   }
   let tmr;
   $("q").oninput = () => { clearTimeout(tmr); tmr = setTimeout(refresh, 200); };
-  for (const [id, k] of [["pos", pre + "pos"], ["st", pre + "st"]]) $(id).onchange = e => { store.set(k, e.target.value); refresh(); };
+  for (const [id, k] of [["pos", pre + "pos"], ["src", pre + "src"], ["st", pre + "st"]]) $(id).onchange = e => { store.set(k, e.target.value); refresh(); };
   $("ord").onchange = e => { store.set(pre + "ord", e.target.value); rnd = new Map(); refresh(); };
   stats();
   setMode(mode);
