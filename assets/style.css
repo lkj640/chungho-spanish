@@ -151,6 +151,7 @@ body.hide-es .line .es:hover { filter: none; }
 .ctrl { display: flex; align-items: center; gap: 6px; }
 .ib { border: 0; background: none; color: var(--fg); border-radius: 999px; width: 28px; height: 28px; padding: 0; font-size: 13px; line-height: 1; cursor: pointer; flex: 0 0 auto; }
 .ib.play { background: var(--hc); color: #fff; width: 30px; height: 30px; font-size: 13px; }
+.ib.goback { border: 1px solid var(--line); font-size: 15px; margin-right: 2px; }
 .time { font-size: 12px; font-variant-numeric: tabular-nums; color: var(--mut); flex: 0 0 auto; }
 .ctrl input[type=range] { flex: 1; min-width: 0; accent-color: var(--hc); height: 16px; margin: 0; }
 .bar select.rate { padding: 1px 4px; font-size: 12px; }

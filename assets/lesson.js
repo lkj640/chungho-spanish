@@ -20,6 +20,12 @@
   document.documentElement.dataset.lang = lang;
   $("backLink").href = `./?lang=${lang}`;
   $("backLink").textContent = `‹ ${LG.flag} ${LG.name}`;
+  // 재생 바의 ↩: 이 사이트의 다른 페이지에서 왔으면 그 페이지로, 아니면(링크로 바로 열었을 때) 언어별 강의 목록으로
+  $("goBack").onclick = () => {
+    let same = false;
+    try { same = !!document.referrer && new URL(document.referrer).origin === location.origin; } catch {}
+    if (same && history.length > 1) history.back(); else location.href = $("backLink").href;
+  };
   const who = L.speakers || {};
   document.title = `${L.title} · ${fmtDate(L.date)} · 충호의 어학 열공 사이트`;
   $("ttl").textContent = `${LG.name} · ${fmtDate(L.date)} · ${L.channel || ""}`;
