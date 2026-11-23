@@ -1,44 +1,63 @@
-// 중국어 단어장 = 엑셀 「중국어 단어 8」(wordbook/zh.json, tools/build_zh_wordbook.py로 만들어요)
-// 단어 = [병음, 한자, 한국어 뜻, 품사, 급수("1-3" | "4" | "5" | "")]
-// 주소: zhwords.html#list · #review(카드 복습) · #quiz
-// 기록은 다른 단어장과 따로 저장해요 (zw_ 로 시작하는 열쇠)
+// 엑셀 단어장 페이지 (중국어 zhwords.html · 일본어 jawords.html 이 함께 써요). <body data-lang="zh|ja">
+// 중국어 wordbook/zh.json (tools/build_zh_wordbook.py) 단어 = [병음, 한자, 한국어 뜻, 품사, 급수("1-3" | "4" | "5" | "")]
+// 일본어 wordbook/ja.json (tools/build_ja_wordbook.py) 단어 = [읽기, 표제어, 원래 표기(여러 한자), 한국어 뜻, 품사, 레벨("初級" | "中級" | "")]
+// 주소: #list · #review(카드 복습) · #quiz
+// 기록은 다른 단어장과 따로 저장해요 (중국어 zw_, 일본어 jw_ 로 시작하는 열쇠)
 (async () => {
   const { esc, store, say } = U;
   const $ = id => document.getElementById(id);
+  const kata2hira = s => s.replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
+  const CFG = {
+    zh: {
+      pre: "zw_", tag: "zh-CN", lvAll: "모든 급수",
+      // 병음 검색용: 성조·띄어쓰기·경성 점(‧)·격음 부호(’)를 빼요. ü는 u나 v로 찾을 수 있어요
+      flat: s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[\s‧·’'\-]/g, "").replace(/v/g, "u"),
+      row: ([py, hz, ko, pos, lvl]) => ({ py, hz, alt: "", ko, pos, lvl, tts: hz }),
+      POS_KO: { 名词: "명사", 动词: "동사", 形容词: "형용사", 副词: "부사", 连接词: "접속사", 量词: "양사", 代词: "대명사",
+        前置词: "개사", 数词: "수사", 助词: "조사", 助动词: "조동사", 感叹词: "감탄사" },
+      LV: ["1-3", "4", "5", ""],
+      lvName: l => l ? `HSK ${l.replace("-", "–")}급` : "급수 없음",
+    },
+    ja: {
+      pre: "jw_", tag: "ja", lvAll: "모든 레벨",
+      flat: s => kata2hira((s || "").normalize("NFKC")).toLowerCase().replace(/[\s·・\-()（）]/g, ""),
+      // 한자 없는 단어는 표제어가 곧 읽기라서 읽기를 따로 보여 주지 않아요. 발음은 읽기(가나)로 들려줘요
+      row: ([rd, hz, alt, ko, pos, lvl]) => ({ py: rd === hz ? "" : rd, hz, alt, ko, pos, lvl, tts: rd || hz }),
+      POS_KO: { 名詞: "명사", 動詞: "동사", 形容詞: "형용사", 副詞: "부사", 接続詞: "접속사", 擬声語: "의성어·의태어" },
+      LV: ["初級", "中級", ""],
+      lvName: l => ({ 初級: "초급", 中級: "중급" })[l] || "레벨 없음",
+    },
+  };
+  const lang = document.body.dataset.lang;
+  const C = CFG[lang];
   let D;
-  try { D = await fetch("wordbook/zh.json", { cache: "no-cache" }).then(r => r.json()); }
+  try { D = await fetch(`wordbook/${lang}.json`, { cache: "no-cache" }).then(r => r.json()); }
   catch { $("lcount").textContent = "단어장을 불러오지 못했어요. 새로고침해 주세요."; return; }
 
-  // 병음 검색용: 성조·띄어쓰기·경성 점(‧)·격음 부호(’)를 빼요. ü는 u나 v로 찾을 수 있어요
-  const flat = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[\s‧·’'\-]/g, "");
-  const W = D.words.map(([py, hz, ko, pos, lvl], i) => ({ i, py, hz, ko, pos, lvl, k: `${hz}|${py}|${ko}`, fp: flat(py) }));
-
-  const POS_KO = { 名词: "명사", 动词: "동사", 形容词: "형용사", 副词: "부사", 连接词: "접속사", 量词: "양사", 代词: "대명사",
-    前置词: "개사", 数词: "수사", 助词: "조사", 助动词: "조동사", 感叹词: "감탄사" };
+  const { flat, POS_KO, LV, lvName, pre } = C;
+  const W = D.words.map((a, i) => { const w = C.row(a); return { i, ...w, k: `${w.hz}|${w.py}|${w.ko}`, fp: flat(w.py || w.hz) }; });
   const posName = p => p ? `${p} ${POS_KO[p] || ""}`.trim() : "품사 없음";
-  const LV = ["1-3", "4", "5", ""];
-  const lvName = l => l ? `HSK ${l.replace("-", "–")}급` : "급수 없음";
 
   // ---------- 기록 ----------
   const dayOf = t => { const d = new Date(t); return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5); };
   const today = dayOf(Date.now());
-  const SRS = store.get("zw_srs", {});   // 열쇠 → {i 간격(일), e 쉬움 배수, d 다음 복습일, r 맞힌 횟수, x 틀린 횟수}
-  const known = store.get("zw_known", {});
-  const LOG = store.get("zw_log", {});   // 날짜 → {n 새 단어, r 복습}
+  const SRS = store.get(pre + "srs", {});   // 열쇠 → {i 간격(일), e 쉬움 배수, d 다음 복습일, r 맞힌 횟수, x 틀린 횟수}
+  const known = store.get(pre + "known", {});
+  const LOG = store.get(pre + "log", {});   // 날짜 → {n 새 단어, r 복습}
   const log = LOG[today] = LOG[today] || { n: 0, r: 0 };
-  const save = () => { store.set("zw_srs", SRS); store.set("zw_known", known); store.set("zw_log", LOG); };
+  const save = () => { store.set(pre + "srs", SRS); store.set(pre + "known", known); store.set(pre + "log", LOG); };
   const status = w => { const s = SRS[w.k]; if (s) return s.i >= 21 ? "known" : "learn"; return known[w.k] ? "known" : "new"; };
   const isKnown = w => status(w) === "known";
 
   // ---------- 필터 ----------
-  const selLv = new Set(store.get("zw_lv", []));
+  const selLv = new Set(store.get(pre + "lv", []));
   const lvCount = l => W.filter(w => w.lvl === l).length;
   const POS = [...new Set(W.map(w => w.pos))].sort((a, b) => W.filter(w => w.pos === b).length - W.filter(w => w.pos === a).length);
   $("pos").innerHTML = `<option value="*">모든 품사</option>` + POS.map(p => `<option value="${esc(p)}">${esc(posName(p))} (${W.filter(w => w.pos === p).length})</option>`).join("");
   const setSel = (id, k, def) => { const v = store.get(k, def); $(id).value = v; if ($(id).value !== v) $(id).value = def; };
-  setSel("pos", "zw_pos", "*"); setSel("st", "zw_st", "all"); setSel("ord", "zw_ord", "orig");
+  setSel("pos", pre + "pos", "*"); setSel("st", pre + "st", "all"); setSel("ord", pre + "ord", "orig");
   function drawLv() {
-    $("lvls").innerHTML = `<button data-l="*" aria-pressed="${!selLv.size}">모든 급수</button>` +
+    $("lvls").innerHTML = `<button data-l="*" aria-pressed="${!selLv.size}">${C.lvAll}</button>` +
       LV.filter(lvCount).map(l => `<button data-l="${l}" aria-pressed="${selLv.has(l)}">${lvName(l)} <small>${lvCount(l)}</small></button>`).join("");
   }
   drawLv();
@@ -46,19 +65,19 @@
     const b = e.target.closest("button"); if (!b) return;
     const l = b.dataset.l;
     if (l === "*") selLv.clear(); else selLv.has(l) ? selLv.delete(l) : selLv.add(l);
-    store.set("zw_lv", [...selLv]); drawLv(); refresh();
+    store.set(pre + "lv", [...selLv]); drawLv(); refresh();
   };
   let rnd = new Map();
   function filtered({ useStatus = true } = {}) {
-    const raw = $("q").value.trim(), f = raw.toLowerCase(), fp = flat(raw).replace(/v/g, "u");
+    const raw = $("q").value.trim(), f = raw.toLowerCase(), fp = flat(raw);
     const pos = $("pos").value, st = $("st").value, ord = $("ord").value;
     let rows = W.filter(w => (!selLv.size || selLv.has(w.lvl)) && (pos === "*" || w.pos === pos)
       && (!useStatus || st === "all" || (st === "known") === isKnown(w))
-      && (!raw || w.hz.includes(raw) || w.ko.includes(raw) || (fp && w.fp.replace(/ü/g, "u").includes(fp)) || w.py.toLowerCase().includes(f)));
+      && (!raw || w.hz.includes(raw) || w.ko.includes(raw) || w.alt.includes(raw) || (fp && w.fp.includes(fp)) || w.py.toLowerCase().includes(f)));
     if (raw) {
       const r = w => w.hz === raw || w.fp === fp ? 0 : w.hz.startsWith(raw) || w.fp.startsWith(fp) ? 1 : 2;
       rows.sort((a, b) => r(a) - r(b) || a.i - b.i);
-    } else if (ord === "py") rows.sort((a, b) => a.fp.localeCompare(b.fp) || a.i - b.i);
+    } else if (ord === "py") rows.sort((a, b) => a.fp.localeCompare(b.fp, lang) || a.i - b.i);
     else if (ord === "rnd") { rows.forEach(w => { if (!rnd.has(w.i)) rnd.set(w.i, Math.random()); }); rows.sort((a, b) => rnd.get(a.i) - rnd.get(b.i)); }
     return rows;
   }
@@ -69,7 +88,7 @@
     for (const w of W) { const s = SRS[w.k], st = status(w); if (st !== "new") c[st]++; if (s && s.d <= today) c.due++; }
     let streak = 0;
     for (let d = today - (log.n || log.r ? 0 : 1); LOG[d] && (LOG[d].n || LOG[d].r); d--) streak++;
-    const byLv = LV.slice(0, 3).map(l => { const t = W.filter(w => w.lvl === l); return `${lvName(l)} ${t.filter(isKnown).length}/${t.length}`; }).join(" · ");
+    const byLv = LV.filter(Boolean).map(l => { const t = W.filter(w => w.lvl === l); return `${lvName(l)} ${t.filter(isKnown).length}/${t.length}`; }).join(" · ");
     $("vstats").innerHTML = `<div class="stats four">
       <div class="stat"><b>${W.length.toLocaleString()}</b><span>전체 단어</span></div>
       <div class="stat"><b>${c.due}</b><span>오늘 복습</span></div>
@@ -92,7 +111,7 @@
       const s = SRS[w.k], st = status(w);
       const srsTag = st === "learn" ? `<span class="chip">${s.d <= today ? "오늘 복습" : ivl(s.d - today) + " 뒤 복습"}</span>` : "";
       return `<div class="vcard${st === "known" ? " known" : ""}" data-i="${w.i}">
-        <div><span class="hz" lang="zh-CN">${esc(w.hz)}</span><span class="pyw">${esc(w.py)}</span>${sayBtn(w)}${tags(w)}${srsTag}
+        <div><span class="hz" lang="${C.tag}">${esc(w.hz)}</span><span class="pyw">${esc(w.py)}</span>${sayBtn(w)}${w.alt ? `<span class="alt" lang="${C.tag}">${esc(w.alt)}</span>` : ""}${tags(w)}${srsTag}
           <div class="m">${esc(w.ko)}</div></div>
         <div class="acts"><button class="k" data-k="${w.i}">${st === "known" ? "✓ 외움" : "외웠어요"}</button></div>
       </div>`;
@@ -100,7 +119,7 @@
     $("more").hidden = cur.length <= limit;
   }
   $("more").onclick = () => { limit += 200; renderList(); };
-  const sayClick = e => { const s = e.target.closest("[data-say]"); if (s) { say(W[+s.dataset.say].hz, "zh"); return true; } return false; };
+  const sayClick = e => { const s = e.target.closest("[data-say]"); if (s) { say(W[+s.dataset.say].tts, lang); return true; } return false; };
   $("vgrid").addEventListener("click", e => {
     if (sayClick(e)) return;
     const k = e.target.closest("[data-k]");
@@ -113,18 +132,18 @@
     const card = e.target.closest(".vcard");
     if (card && document.body.matches(".cover, .hidepy")) card.classList.toggle("open");
   });
-  for (const [id, cls, key] of [["optCover", "cover", "zw_cover"], ["optPy", "hidepy", "zw_hidepy"]]) {
+  for (const [id, cls, key] of [["optCover", "cover", pre + "cover"], ["optPy", "hidepy", pre + "hidepy"]]) {
     $(id).checked = store.get(key, false);
     document.body.classList.toggle(cls, $(id).checked);
     $(id).onchange = () => { store.set(key, $(id).checked); document.body.classList.toggle(cls, $(id).checked); };
   }
 
   // ---------- 카드 복습 (간격 반복) ----------
-  const opt = { dir: store.get("zw_dir", "f"), nnew: store.get("zw_new", 10), say: store.get("zw_say", true) };
+  const opt = { dir: store.get(pre + "dir", "f"), nnew: store.get(pre + "new", 10), say: store.get(pre + "say", true) };
   $("oDir").value = opt.dir; $("oNew").value = opt.nnew; $("oSay").checked = opt.say;
-  $("oDir").onchange = e => { opt.dir = e.target.value; store.set("zw_dir", opt.dir); show(); };
-  $("oNew").onchange = e => { opt.nnew = +e.target.value; store.set("zw_new", opt.nnew); start(); };
-  $("oSay").onchange = e => { opt.say = e.target.checked; store.set("zw_say", opt.say); };
+  $("oDir").onchange = e => { opt.dir = e.target.value; store.set(pre + "dir", opt.dir); show(); };
+  $("oNew").onchange = e => { opt.nnew = +e.target.value; store.set(pre + "new", opt.nnew); start(); };
+  $("oSay").onchange = e => { opt.say = e.target.checked; store.set(pre + "say", opt.say); };
   function next(s, q) { // q: 0 다시 · 1 어려움 · 2 알맞음 · 3 쉬움
     s = s ? { ...s } : { i: 0, e: 2.5, r: 0, x: 0 };
     if (q === 0) { if (s.i > 0) s.x++; s.e = Math.max(1.3, s.e - 0.2); s.i = 0; }
@@ -144,7 +163,7 @@
     card = null; nextCard();
   }
   function nextCard() { card = queue.shift() || null; shown = false; show(); stats(); }
-  const front = w => `<div class="fw hz" lang="zh-CN">${esc(w.hz)}</div>`;
+  const front = w => `<div class="fw hz" lang="${C.tag}">${esc(w.hz)}</div>`;
   const meaning = w => `<div class="fk">${esc(w.ko)}</div>`;
   function show() {
     const rv = $("rv");
@@ -161,7 +180,7 @@
     rv.innerHTML = `<div class="fcard${shown ? " open" : ""}">
       <div class="chips"><span class="chip ${isNew ? "red" : ""}">${isNew ? "새 단어" : "복습"}</span><span class="chip">남은 카드 ${queue.length + 1}</span>${tags(w)}</div>
       ${opt.dir === "f" ? front(w) : meaning(w)}
-      ${shown ? `<div class="fback">${opt.dir === "f" ? "" : front(w)}<div class="pyb">${esc(w.py)} ${sayBtn(w)}</div>${opt.dir === "f" ? meaning(w) : ""}</div>
+      ${shown ? `<div class="fback">${opt.dir === "f" ? "" : front(w)}<div class="pyb">${esc(w.py)} ${sayBtn(w)}</div>${w.alt ? `<div class="alt" lang="${C.tag}">${esc(w.alt)}</div>` : ""}${opt.dir === "f" ? meaning(w) : ""}</div>
         <div class="rate">
           <button data-q="0" class="q0">다시<small>${prev(0)}</small></button>
           <button data-q="1" class="q1">어려움<small>${prev(1)}</small></button>
@@ -171,7 +190,7 @@
       : `<div class="btns"><button class="btn primary" id="reveal">답 보기</button>${opt.dir === "f" ? sayBtn(w) : ""}</div>`}
       <p class="hint keys">키보드: 스페이스 = 답 보기 · 1 다시 · 2 어려움 · 3 알맞음 · 4 쉬움</p></div>`;
   }
-  function reveal() { if (!card || shown) return; shown = true; show(); if (opt.say) say(card.hz, "zh"); }
+  function reveal() { if (!card || shown) return; shown = true; show(); if (opt.say) say(card.tts, lang); }
   function rate(q) {
     if (!card || !shown) return;
     if (SRS[card.k]) log.r++; else log.n++;
@@ -187,10 +206,10 @@
   });
 
   // ---------- 퀴즈 (4지선다) ----------
-  const qo = { dir: store.get("zw_qdir", "f"), n: store.get("zw_qn", 10) };
+  const qo = { dir: store.get(pre + "qdir", "f"), n: store.get(pre + "qn", 10) };
   $("qDir").value = qo.dir; $("qN").value = qo.n;
-  $("qDir").onchange = e => { qo.dir = e.target.value; store.set("zw_qdir", qo.dir); quiz(); };
-  $("qN").onchange = e => { qo.n = +e.target.value; store.set("zw_qn", qo.n); quiz(); };
+  $("qDir").onchange = e => { qo.dir = e.target.value; store.set(pre + "qdir", qo.dir); quiz(); };
+  $("qN").onchange = e => { qo.n = +e.target.value; store.set(pre + "qn", qo.n); quiz(); };
   const shuffle = a => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
   let Q = [], qi = 0, right = 0, wrong = [], answered = false;
   function makeQ(w) {
@@ -211,7 +230,7 @@
     if (qi >= Q.length) {
       el.innerHTML = `<div class="fcard done"><div class="score">${right} / ${Q.length}</div>
         <p class="hint">${right === Q.length ? "🎉 모두 맞혔어요!" : "틀린 단어를 한 번 더 보고 가요."}</p>
-        ${wrong.length ? `<ul class="wrongs">${wrong.map(w => `<li><b lang="zh-CN">${esc(w.hz)}</b> ${esc(w.py)} ${sayBtn(w)} — ${esc(w.ko)}</li>`).join("")}</ul>` : ""}
+        ${wrong.length ? `<ul class="wrongs">${wrong.map(w => `<li><b lang="${C.tag}">${esc(w.hz)}</b> ${esc(w.py)} ${sayBtn(w)} — ${esc(w.ko)}</li>`).join("")}</ul>` : ""}
         <div class="btns">${wrong.length ? `<button class="btn primary" id="qWrong">틀린 단어만 다시</button>` : ""}<button class="btn${wrong.length ? "" : " primary"}" id="qAgain">새 문제 ${qo.n}개</button></div></div>`;
       if (wrong.length) $("qWrong").onclick = () => quiz(wrong);
       $("qAgain").onclick = () => quiz();
@@ -219,15 +238,15 @@
     }
     const { w, opts } = Q[qi];
     const head = qo.dir === "b" ? `<div class="qko">${esc(w.ko)}</div><div class="qpy"></div>`
-      : qo.dir === "l" ? `<div class="qhz"><button class="btn primary" data-say="${w.i}">🔊 다시 듣기</button></div><div class="qpy">${answered ? `<b lang="zh-CN">${esc(w.hz)}</b> ${esc(w.py)}` : ""}</div>`
-      : `<div class="qhz" lang="zh-CN">${esc(w.hz)}</div><div class="qpy">${answered ? esc(w.py) : ""}</div>`;
+      : qo.dir === "l" ? `<div class="qhz"><button class="btn primary" data-say="${w.i}">🔊 다시 듣기</button></div><div class="qpy">${answered ? `<b lang="${C.tag}">${esc(w.hz)}</b> ${esc(w.py)}` : ""}</div>`
+      : `<div class="qhz" lang="${C.tag}">${esc(w.hz)}</div><div class="qpy">${answered ? esc(w.py) : ""}</div>`;
     el.innerHTML = `<div class="fcard open" style="text-align:left">
       <div class="chips"><span class="chip">문제 ${qi + 1} / ${Q.length}</span><span class="chip green">맞힘 ${right}</span>${tags(w)}</div>
       ${head}
-      ${opts.map((o, j) => `<button class="opt${qo.dir === "b" ? " hzopt" : ""}" data-o="${j}">${qo.dir === "b" ? `<span lang="zh-CN">${esc(o.hz)}</span>${answered ? `<span class="py">${esc(o.py)}</span>` : ""}` : esc(o.ko)}</button>`).join("")}
+      ${opts.map((o, j) => `<button class="opt${qo.dir === "b" ? " hzopt" : ""}" data-o="${j}">${qo.dir === "b" ? `<span lang="${C.tag}">${esc(o.hz)}</span>${answered ? `<span class="py">${esc(o.py)}</span>` : ""}` : esc(o.ko)}</button>`).join("")}
       ${answered ? `<div class="btns"><button class="btn primary" id="qNext">${qi + 1 < Q.length ? "다음 문제" : "결과 보기"}</button></div>` : ""}
       <p class="hint keys">키보드: 1~4 = 보기 고르기 · 스페이스 = 다음</p></div>`;
-    if (qo.dir === "l" && !answered) say(w.hz, "zh");
+    if (qo.dir === "l" && !answered) say(w.tts, lang);
   }
   function answer(j) {
     if (answered || qi >= Q.length) return;
@@ -237,7 +256,7 @@
     drawQ();
     const bs = $("qz").querySelectorAll(".opt");
     opts.forEach((o, k) => { if (o === w) bs[k].classList.add("right"); else if (k === j) bs[k].classList.add("wrong"); });
-    if (qo.dir !== "l") say(w.hz, "zh");
+    if (qo.dir !== "l") say(w.tts, lang);
   }
   function qNext() { if (!answered) return; qi++; answered = false; drawQ(); }
   $("qz").addEventListener("click", e => {
@@ -259,9 +278,9 @@
 
   // ---------- 모드 · 새로고침 ----------
   const MODES = ["list", "review", "quiz"];
-  let mode = MODES.includes(location.hash.slice(1)) ? location.hash.slice(1) : store.get("zw_mode", "list");
+  let mode = MODES.includes(location.hash.slice(1)) ? location.hash.slice(1) : store.get(pre + "mode", "list");
   function setMode(m) {
-    mode = m; store.set("zw_mode", m);
+    mode = m; store.set(pre + "mode", m);
     $("mseg").querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b.dataset.m === m));
     for (const x of MODES) $("pane-" + x).hidden = x !== m;
     $("listOpts").hidden = m !== "list";
@@ -278,8 +297,8 @@
   }
   let tmr;
   $("q").oninput = () => { clearTimeout(tmr); tmr = setTimeout(refresh, 200); };
-  for (const [id, k] of [["pos", "zw_pos"], ["st", "zw_st"]]) $(id).onchange = e => { store.set(k, e.target.value); refresh(); };
-  $("ord").onchange = e => { store.set("zw_ord", e.target.value); rnd = new Map(); refresh(); };
+  for (const [id, k] of [["pos", pre + "pos"], ["st", pre + "st"]]) $(id).onchange = e => { store.set(k, e.target.value); refresh(); };
+  $("ord").onchange = e => { store.set(pre + "ord", e.target.value); rnd = new Map(); refresh(); };
   stats();
   setMode(mode);
 })();
