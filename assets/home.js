@@ -30,7 +30,7 @@
   const vocabCard = code => {
     if (!byLang(code).length) return "";
     const due = dueN(code);
-    if (code === "es") return `<a class="sitecard mat vocabcard" href="wordbook.html#review">
+    if (code === "es") return `<a class="sitecard mat vocabcard" href="wordbook.html#list">
       <span class="em">📗</span><span><b>스페인어 단어장 · 오늘 복습${due ? ` <span class="chip red">${due}개</span>` : ""}</b><span class="d">엑셀 단어장 4,389개 + 강의 단어 · 한국어 뜻 · 동사 활용표 · 간격 반복(SRS) 복습</span></span><span class="go">›</span></a>`;
     // 중국어·일본어는 엑셀 단어장 + 강의 단어를 합친 단어장 하나로 복습해요 (예전 통합 단어장 기록은 단어장을 처음 열 때 옮겨져요)
     const XB = {

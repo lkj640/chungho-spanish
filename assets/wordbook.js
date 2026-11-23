@@ -1,7 +1,7 @@
 // 스페인어 단어장 = 엑셀 단어장(wordbook/es.json) + 강의 단어(vocab/es.json · 새 강의는 meta.json) + 간격 반복(SRS) 복습
 // 엑셀 단어 = [성별 관사, 스페인어, 영어 뜻, 품사, 레벨, (동사) 활용 32칸]
 // 활용 32칸: 현재분사, 과거분사, 현재 6, 단순과거 6, 불완료과거 6, 현재완료 6, 단순미래 6
-// 주소: wordbook.html#review(오늘 복습) · #list(목록) · ?lesson=<강의id> 그 강의 단어만
+// 주소: wordbook.html(처음엔 단어 목록) · #review(오늘 복습) · #list(목록) · ?lesson=<강의id> 그 강의 단어만
 (async () => {
   const { esc, store, say, loadIndex } = U;
   const $ = id => document.getElementById(id);
@@ -316,7 +316,7 @@
   });
 
   // ---------- 모드 · 새로고침 ----------
-  let mode = location.hash === "#list" ? "list" : location.hash === "#review" ? "review" : store.get("wb_mode", "review");
+  let mode = location.hash === "#list" ? "list" : location.hash === "#review" ? "review" : "list"; // 주소에 #review가 없으면 단어 목록부터
   function setMode(m) {
     mode = m; store.set("wb_mode", m);
     $("mseg").querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b.dataset.m === m));
