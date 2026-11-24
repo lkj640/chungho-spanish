@@ -235,5 +235,5 @@
   $("mseg").onclick = e => { const b = e.target.closest("button"); if (b) mode(b.dataset.m); };
 
   start();
-  mode(location.hash === "#list" ? "list" : "review");
+  mode(location.hash === "#review" ? "review" : "list"); // 주소에 #review가 없으면 단어 목록부터
 })();
