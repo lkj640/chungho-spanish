@@ -1,0 +1,679 @@
+{
+ "lang": "es",
+ "date": "2026-11-24",
+ "title": "책 읽기의 중요성 — 지식·공감·집중력, 그리고 독서 습관",
+ "es": "La lectura es una inversión en nosotros mismos.",
+ "emoji": "📚",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "The Importance of Reading Books (B1) | Learn español with Podcast | episode 72 | Easy Spanish",
+ "youtube": "x_AqpjquPVs",
+ "duration": "15:07",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 책 읽기가 왜 중요한지 이야기해요. 지식과 어휘 확장, 두뇌 건강, 소설이 키워 주는 공감 능력과 자기 인식, 비판적 사고, 집중력과 스트레스 해소까지 장점을 짚고, 조금씩 시작하기·시간표 정하기·수준에 맞는 책 고르기·종이책/전자책/오디오북 같은 독서 습관 팁을 나눠요. 스페인어 학습자에게 읽기가 어휘와 문법에 어떻게 도움 되는지도 들을 수 있는 B1 대화예요.",
+ "topics": [
+  "지식의 원천: una fuente inagotable de información",
+  "어휘·문법: un gimnasio para el cerebro · inmersión pasiva",
+  "공감: meterse en la piel de los personajes",
+  "비판적 사고: evaluar argumentos · identificar sesgos",
+  "집중력·스트레스: una meditación activa · escapismo saludable",
+  "습관: empezar poco a poco · establecer un horario · lecturas graduadas",
+  "문법: 현재완료 · 접속법 권유 · no solo … sino · No hay nada más … que"
+ ],
+ "grammar": [
+  {
+   "title": "① 현재완료 — he leído / he notado",
+   "lead": "<b>haber(he·has·ha) + 과거분사</b>. 지금과 이어지는 경험·최근 일을 말해요.",
+   "examples": [
+    [
+     "He leído estudios que sugieren eso.",
+     "그렇게 시사하는 연구를 읽은 적이 있어요."
+    ],
+    [
+     "He notado que me siento más tranquila.",
+     "더 평온해진다는 걸 느꼈어요."
+    ],
+    [
+     "¿Has sentido eso, Sofía?",
+     "그런 걸 느껴 봤어요, 소피아?"
+    ]
+   ],
+   "tip": "-ar → -ado (notar→notado), -er/-ir → -ido (leer→leído, sentir→sentido)."
+  },
+  {
+   "title": "② Recuerdo + haber + 과거분사 — ~했던 게 기억나요",
+   "lead": "과거의 일을 기억할 때 <b>recordar + 동사원형(haber + 과거분사)</b>를 써요.",
+   "examples": [
+    [
+     "Recuerdo haber leído un libro sobre psicología.",
+     "심리학 책을 읽었던 게 기억나요."
+    ],
+    [
+     "Recuerdo haber visto esa película.",
+     "그 영화를 봤던 게 기억나요."
+    ]
+   ]
+  },
+  {
+   "title": "③ 접속법 현재 — 권유·소망 (que cojáis / abridlo)",
+   "lead": "권유할 때는 <b>animar a que + 접속법</b>. vosotros 명령형은 -ad/-ed/-id.",
+   "examples": [
+    [
+     "Os animamos a que cojáis un libro hoy mismo.",
+     "오늘 당장 책 한 권 집어 들기를 권해요."
+    ],
+    [
+     "Abridlo y dejad que las palabras os lleven.",
+     "펼치고 말들이 여러분을 데려가게 두세요."
+    ],
+    [
+     "Contadnos qué libros estáis leyendo.",
+     "어떤 책을 읽는지 알려 주세요."
+    ]
+   ],
+   "tip": "스페인(vosotros) 표현이에요. 중남미에서는 cojan / ábranlo / cuéntennos."
+  },
+  {
+   "title": "④ no solo … sino (también) … — ~뿐 아니라 …도",
+   "lead": "두 가지를 함께 말할 때 쓰는 표현이에요.",
+   "examples": [
+    [
+     "No solo adquieres datos, sino conocimiento acumulado.",
+     "정보뿐 아니라 축적된 지식을 얻어요."
+    ],
+    [
+     "No solo el vocabulario, sino también la gramática.",
+     "어휘뿐 아니라 문법도요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 부정 + más … que — ~만큼 …한 건 없다",
+   "lead": "<b>No hay nada más + 형용사 + que + 동사원형</b>.",
+   "examples": [
+    [
+     "No hay nada más desmotivador que buscar cada palabra.",
+     "단어마다 찾는 것만큼 의욕을 꺾는 건 없어요."
+    ],
+    [
+     "No hay nada mejor que leer antes de dormir.",
+     "자기 전에 읽는 것보다 좋은 건 없어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ Si + 직설법 현재, 명령형 / 미래",
+   "lead": "가능한 조건은 <b>si + 현재</b>. 결과는 현재·명령형·미래.",
+   "examples": [
+    [
+     "Si el tema te atrae, la lectura se siente como un placer.",
+     "주제가 끌리면 독서가 즐거움으로 느껴져요."
+    ],
+    [
+     "Si te divierte la ciencia ficción, adelante.",
+     "SF가 재밌다면 얼마든지 읽으세요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 재귀·수동 느낌의 se / forzarse·sentirse",
+   "lead": "<b>se</b>가 붙는 동사는 감정·상태·자기 자신에게 하는 동작을 나타내요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "sentirse culpable",
+      "죄책감을 느끼다",
+      "No te sientas culpable."
+     ],
+     [
+      "forzarse a + 동사원형",
+      "억지로 ~하다",
+      "No te fuerces a terminarlo."
+     ],
+     [
+      "sentirse presionado",
+      "압박을 느끼다",
+      "No hay que sentirse presionado."
+     ],
+     [
+      "perderse en",
+      "~에 빠져들다",
+      "Te pierdes en sus páginas."
+     ],
+     [
+      "ponerse en silencio",
+      "무음으로 하다",
+      "Ponlo en silencio."
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "No importa el tema que te interese.",
+   "어떤 주제에 관심이 있든 상관없어요."
+  ],
+  [
+   "Es una inversión a largo plazo en nuestra salud cerebral.",
+   "우리 뇌 건강에 대한 장기 투자예요."
+  ],
+  [
+   "Te metes en la piel de los personajes.",
+   "등장인물의 입장이 되어 봐요."
+  ],
+  [
+   "La vida es demasiado corta para leer libros aburridos.",
+   "인생은 지루한 책을 읽기엔 너무 짧아요."
+  ],
+  [
+   "Lo importante es encontrar aquello que te enganche.",
+   "중요한 건 나를 사로잡는 걸 찾는 거예요."
+  ],
+  [
+   "La consistencia es clave.",
+   "꾸준함이 핵심이에요."
+  ],
+  [
+   "La clave es encontrar tu nicho y disfrutar del proceso.",
+   "핵심은 나만의 분야를 찾아 과정을 즐기는 거예요."
+  ],
+  [
+   "Os animamos a que cojáis un libro hoy mismo.",
+   "오늘 당장 책 한 권을 집어 들어 보세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la lectura",
+   "ko": "독서, 읽기",
+   "ex": "Hoy vamos a hablar de la lectura.",
+   "exKo": "오늘은 독서에 대해 이야기할 거예요."
+  },
+  {
+   "es": "apasionar",
+   "ko": "열광하게 하다",
+   "ex": "Es un tema que nos apasiona.",
+   "exKo": "우리가 열광하는 주제예요."
+  },
+  {
+   "es": "sumergirse",
+   "ko": "푹 빠지다",
+   "ex": "Vamos a sumergirnos en el mundo de la lectura.",
+   "exKo": "독서의 세계에 푹 빠져 볼 거예요."
+  },
+  {
+   "es": "enriquecedor/a",
+   "ko": "풍요롭게 하는",
+   "ex": "Leer es una actividad muy enriquecedora.",
+   "exKo": "읽기는 아주 풍요로운 활동이에요."
+  },
+  {
+   "es": "ajetreado/a",
+   "ko": "분주한, 바쁜",
+   "ex": "Tengo un día a día muy ajetreado.",
+   "exKo": "저는 일상이 매우 바빠요."
+  },
+  {
+   "es": "la distracción",
+   "ko": "방해 요소, 주의 산만",
+   "ex": "Hay demasiadas distracciones.",
+   "exKo": "방해 요소가 너무 많아요."
+  },
+  {
+   "es": "incalculable",
+   "ko": "헤아릴 수 없는",
+   "ex": "Tiene un valor incalculable.",
+   "exKo": "헤아릴 수 없는 가치가 있어요."
+  },
+  {
+   "es": "el conocimiento",
+   "ko": "지식",
+   "ex": "Los libros dan conocimiento.",
+   "exKo": "책은 지식을 줘요."
+  },
+  {
+   "es": "inagotable",
+   "ko": "마르지 않는, 무궁무진한",
+   "ex": "Es una fuente inagotable de información.",
+   "exKo": "마르지 않는 정보의 원천이에요."
+  },
+  {
+   "es": "la visión",
+   "ko": "시각, 관점",
+   "ex": "Te ofrece una visión profunda.",
+   "exKo": "깊은 시각을 줘요."
+  },
+  {
+   "es": "acumulado/a",
+   "ko": "축적된",
+   "ex": "Es el conocimiento acumulado de años.",
+   "exKo": "수년간 축적된 지식이에요."
+  },
+  {
+   "es": "accesible",
+   "ko": "접근하기 쉬운",
+   "ex": "Lo explica de forma accesible.",
+   "exKo": "쉽게 이해되도록 설명해요."
+  },
+  {
+   "es": "a tu disposición",
+   "ko": "네가 쓸 수 있게",
+   "ex": "Tienes un experto a tu disposición.",
+   "exKo": "전문가가 곁에서 도와줘요."
+  },
+  {
+   "es": "complejo/a",
+   "ko": "복잡한",
+   "ex": "Explica conceptos complejos.",
+   "exKo": "복잡한 개념을 설명해요."
+  },
+  {
+   "es": "denso/a",
+   "ko": "빽빽한, 어려운",
+   "ex": "Al principio me pareció un tema denso.",
+   "exKo": "처음엔 어려운 주제처럼 보였어요."
+  },
+  {
+   "es": "abrir los ojos",
+   "ko": "눈을 뜨게 하다",
+   "ex": "El libro me abrió los ojos.",
+   "exKo": "그 책이 저의 눈을 뜨게 해 줬어요."
+  },
+  {
+   "es": "tomar decisiones",
+   "ko": "결정을 내리다",
+   "ex": "Cómo tomamos decisiones es fascinante.",
+   "exKo": "우리가 어떻게 결정하는지는 흥미로워요."
+  },
+  {
+   "es": "reaccionar",
+   "ko": "반응하다",
+   "ex": "¿Por qué reaccionamos así?",
+   "exKo": "우리는 왜 그렇게 반응할까요?"
+  },
+  {
+   "es": "el léxico",
+   "ko": "어휘",
+   "ex": "Leer enriquece tu léxico.",
+   "exKo": "읽기는 어휘를 풍부하게 해요."
+  },
+  {
+   "es": "el vocabulario",
+   "ko": "어휘",
+   "ex": "Quiero ampliar mi vocabulario.",
+   "exKo": "어휘를 늘리고 싶어요."
+  },
+  {
+   "es": "el contexto",
+   "ko": "문맥",
+   "ex": "Es más fácil entenderlo en contexto.",
+   "exKo": "문맥 속에서 이해하기가 더 쉬워요."
+  },
+  {
+   "es": "inconscientemente",
+   "ko": "무의식적으로",
+   "ex": "El cerebro aprende inconscientemente.",
+   "exKo": "뇌는 무의식적으로 배워요."
+  },
+  {
+   "es": "la inmersión",
+   "ko": "몰입",
+   "ex": "Es una inmersión pasiva.",
+   "exKo": "수동적인 몰입이에요."
+  },
+  {
+   "es": "la agilidad mental",
+   "ko": "정신 민첩성",
+   "ex": "Leer mantiene la agilidad mental.",
+   "exKo": "읽기는 정신 민첩성을 유지해 줘요."
+  },
+  {
+   "es": "prevenir",
+   "ko": "예방하다",
+   "ex": "Puede ayudar a prevenir enfermedades.",
+   "exKo": "질병 예방에 도움이 될 수 있어요."
+  },
+  {
+   "es": "a largo plazo",
+   "ko": "장기적으로",
+   "ex": "Es una inversión a largo plazo.",
+   "exKo": "장기적인 투자예요."
+  },
+  {
+   "es": "la empatía",
+   "ko": "공감",
+   "ex": "La lectura mejora la empatía.",
+   "exKo": "독서는 공감 능력을 높여요."
+  },
+  {
+   "es": "la inteligencia emocional",
+   "ko": "감성 지능",
+   "ex": "Desarrolla la inteligencia emocional.",
+   "exKo": "감성 지능을 키워요."
+  },
+  {
+   "es": "meterse en la piel de",
+   "ko": "~의 입장이 되어 보다",
+   "ex": "Te metes en la piel de los personajes.",
+   "exKo": "등장인물의 입장이 되어 보게 돼요."
+  },
+  {
+   "es": "la perspectiva",
+   "ko": "관점",
+   "ex": "Ves el mundo desde otra perspectiva.",
+   "exKo": "다른 관점에서 세상을 봐요."
+  },
+  {
+   "es": "compasivo/a",
+   "ko": "연민 어린, 따뜻한",
+   "ex": "Leer te hace más compasivo.",
+   "exKo": "읽기는 너를 더 따뜻하게 해요."
+  },
+  {
+   "es": "el matiz",
+   "ko": "뉘앙스, 미묘한 차이",
+   "ex": "Entiendo mejor los matices.",
+   "exKo": "미묘한 차이를 더 잘 이해해요."
+  },
+  {
+   "es": "ambientado/a en",
+   "ko": "~을 배경으로 한",
+   "ex": "Una novela ambientada en otra cultura.",
+   "exKo": "다른 문화를 배경으로 한 소설이에요."
+  },
+  {
+   "es": "la costumbre",
+   "ko": "관습, 습관",
+   "ex": "Aprendes sobre sus costumbres.",
+   "exKo": "그들의 관습을 배워요."
+  },
+  {
+   "es": "la autoconciencia",
+   "ko": "자기 인식",
+   "ex": "La lectura contribuye a la autoconciencia.",
+   "exKo": "독서는 자기 인식에 기여해요."
+  },
+  {
+   "es": "lidiar con",
+   "ko": "~와 씨름하다, 대처하다",
+   "ex": "El personaje lidia con un problema.",
+   "exKo": "등장인물이 문제와 씨름해요."
+  },
+  {
+   "es": "resonar",
+   "ko": "공감을 일으키다, 울림이 있다",
+   "ex": "Es un conflicto que me resuena.",
+   "exKo": "저에게 울림이 있는 갈등이에요."
+  },
+  {
+   "es": "la adolescencia",
+   "ko": "청소년기",
+   "ex": "Es valioso en la adolescencia.",
+   "exKo": "청소년기에 값져요."
+  },
+  {
+   "es": "el pensamiento crítico",
+   "ko": "비판적 사고",
+   "ex": "Fomenta el pensamiento crítico.",
+   "exKo": "비판적 사고를 키워 줘요."
+  },
+  {
+   "es": "el sesgo",
+   "ko": "편향",
+   "ex": "Aprendes a identificar sesgos.",
+   "exKo": "편향을 찾아내는 법을 배워요."
+  },
+  {
+   "es": "discernir",
+   "ko": "분별하다",
+   "ex": "La lectura te entrena para discernir.",
+   "exKo": "독서는 분별하도록 훈련시켜요."
+  },
+  {
+   "es": "la trama",
+   "ko": "줄거리",
+   "ex": "Es una novela con una trama intrincada.",
+   "exKo": "줄거리가 얽히고설킨 소설이에요."
+  },
+  {
+   "es": "sintetizar",
+   "ko": "종합하다",
+   "ex": "Debes sintetizar la información.",
+   "exKo": "정보를 종합해야 해요."
+  },
+  {
+   "es": "cuestionar",
+   "ko": "의문을 제기하다",
+   "ex": "Hay que cuestionar lo que lees.",
+   "exKo": "읽는 것에 의문을 가져야 해요."
+  },
+  {
+   "es": "la concentración",
+   "ko": "집중력",
+   "ex": "Mejora la concentración.",
+   "exKo": "집중력을 높여요."
+  },
+  {
+   "es": "la rebelión",
+   "ko": "반항",
+   "ex": "Leer es casi un acto de rebelión.",
+   "exKo": "읽기는 거의 반항 행위예요."
+  },
+  {
+   "es": "desconectar",
+   "ko": "단절하다, 접속을 끊다",
+   "ex": "Necesito desconectar del ruido.",
+   "exKo": "소음에서 벗어나야 해요."
+  },
+  {
+   "es": "el escapismo",
+   "ko": "현실 도피",
+   "ex": "Es un escapismo saludable.",
+   "exKo": "건강한 현실 도피예요."
+  },
+  {
+   "es": "el bálsamo",
+   "ko": "향유, 위안",
+   "ex": "Es un bálsamo para el alma.",
+   "exKo": "영혼의 위안이에요."
+  },
+  {
+   "es": "ávido/a",
+   "ko": "열렬한, 탐욕스러운",
+   "ex": "No soy un lector ávido.",
+   "exKo": "저는 열렬한 독서가는 아니에요."
+  },
+  {
+   "es": "dejar a medias",
+   "ko": "하다 말다",
+   "ex": "No te sientas culpable por dejarlo a medias.",
+   "exKo": "중간에 그만뒀다고 죄책감 갖지 마세요."
+  },
+  {
+   "es": "enganchar",
+   "ko": "사로잡다, 빠져들게 하다",
+   "ex": "Busca un libro que te enganche.",
+   "exKo": "너를 사로잡는 책을 찾아봐."
+  },
+  {
+   "es": "propicio/a",
+   "ko": "알맞은, 적합한",
+   "ex": "Crea un ambiente propicio.",
+   "exKo": "알맞은 환경을 만들어요."
+  },
+  {
+   "es": "la lectura graduada",
+   "ko": "단계별 읽기 자료",
+   "ex": "Hay lecturas graduadas para B1.",
+   "exKo": "B1용 단계별 읽기 자료가 있어요."
+  },
+  {
+   "es": "desmotivador/a",
+   "ko": "의욕을 꺾는",
+   "ex": "Es muy desmotivador.",
+   "exKo": "의욕을 많이 꺾어요."
+  },
+  {
+   "es": "imbatible",
+   "ko": "무적의",
+   "ex": "Los e-readers son imbatibles.",
+   "exKo": "전자책 단말기는 무적이에요."
+  },
+  {
+   "es": "el audiolibro",
+   "ko": "오디오북",
+   "ex": "Los audiolibros son una bendición.",
+   "exKo": "오디오북은 축복이에요."
+  },
+  {
+   "es": "el nicho",
+   "ko": "틈새, 나만의 분야",
+   "ex": "Encuentra tu nicho.",
+   "exKo": "나만의 분야를 찾아봐."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuál es el tema principal del episodio?",
+   "options": [
+    "la cocina",
+    "la importancia de la lectura",
+    "los viajes",
+    "el deporte"
+   ],
+   "answer": 1,
+   "explain": "Hoy vamos a sumergirnos en el fascinante mundo de la lectura."
+  },
+  {
+   "q": "Según Mateo, ¿qué son los libros?",
+   "options": [
+    "una fuente inagotable de información",
+    "una pérdida de tiempo",
+    "un lujo caro",
+    "solo para niños"
+   ],
+   "answer": 0,
+   "explain": "Es evidente que los libros son una fuente inagotable de información."
+  },
+  {
+   "q": "¿Sobre qué tipo de libro habla Sofía que le abrió los ojos?",
+   "options": [
+    "cocina",
+    "psicología cognitiva",
+    "historia del arte",
+    "viajes"
+   ],
+   "answer": 1,
+   "explain": "Recuerdo haber leído un libro sobre psicología cognitiva."
+  },
+  {
+   "q": "¿Cómo describen la lectura para el cerebro?",
+   "options": [
+    "una distracción",
+    "un gimnasio para el cerebro",
+    "un castigo",
+    "un juego"
+   ],
+   "answer": 1,
+   "explain": "Es un gimnasio para el cerebro, ¿verdad?"
+  },
+  {
+   "q": "¿Qué significa «meterse en la piel de los personajes»?",
+   "options": [
+    "tocar a los personajes",
+    "ponerse en su lugar",
+    "olvidar la historia",
+    "criticarlos"
+   ],
+   "answer": 1,
+   "explain": "Te metes en la piel de los personajes: vives sus alegrías y tristezas."
+  },
+  {
+   "q": "¿Con qué compara Sofía la lectura de ficción?",
+   "options": [
+    "una brújula",
+    "un espejo",
+    "un reloj",
+    "una ventana cerrada"
+   ],
+   "answer": 1,
+   "explain": "Exacto. Es como un espejo."
+  },
+  {
+   "q": "¿Qué beneficio tiene comparar dos libros sobre el mismo evento?",
+   "options": [
+    "pensamiento crítico",
+    "más cansancio",
+    "menos vocabulario",
+    "olvidar la historia"
+   ],
+   "answer": 0,
+   "explain": "Te ves obligado a comparar, a cuestionar y a sintetizar: pensamiento crítico en acción."
+  },
+  {
+   "q": "¿Cómo llaman a leer durante mucho tiempo en un mundo de notificaciones?",
+   "options": [
+    "un acto de rebelión",
+    "una obligación",
+    "un error",
+    "un juego"
+   ],
+   "answer": 0,
+   "explain": "Sentarse a leer un libro es casi un acto de rebelión."
+  },
+  {
+   "q": "¿Cuál es el primer consejo de Sofía?",
+   "options": [
+    "leer mil páginas",
+    "empezar poco a poco",
+    "comprar muchos libros",
+    "leer solo clásicos"
+   ],
+   "answer": 1,
+   "explain": "El primer consejo es empezar poco a poco."
+  },
+  {
+   "q": "¿Cuánto tiempo al día sugiere para establecer un horario?",
+   "options": [
+    "diez o quince minutos",
+    "cinco horas",
+    "tres horas",
+    "un minuto"
+   ],
+   "answer": 0,
+   "explain": "Podrían ser solo diez o quince minutos al día."
+  },
+  {
+   "q": "¿Qué dice Mateo sobre los e-readers?",
+   "options": [
+    "son imbatibles en practicidad",
+    "no sirven",
+    "son más pesados",
+    "dan más estrés"
+   ],
+   "answer": 0,
+   "explain": "Para la practicidad los e-readers son imbatibles."
+  },
+  {
+   "q": "¿Qué piden los presentadores al final a los oyentes?",
+   "options": [
+    "que dejen de leer",
+    "que cuenten en los comentarios qué libros leen",
+    "que compren un e-reader",
+    "que escriban un libro"
+   ],
+   "answer": 1,
+   "explain": "Contadnos en los comentarios qué libros estáis leyendo ahora mismo."
+  }
+ ]
+}

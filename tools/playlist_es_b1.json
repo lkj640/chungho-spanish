@@ -1,383 +1,383 @@
 {
-  "playlist": "PLOfKr-QFX3fDL4Fj6aR6B0XgHU8VNrSqd",
-  "channel": "Easy Spanish Podcast",
-  "name": "(B1-B2) Spanish Podcast",
-  "note": "하루에 하나씩 위에서부터 순서대로(재생목록 순서: 에피소드 75부터) 스페인어 강의로 만들어요. 만든 영상은 done에 강의 폴더 이름을 적어요.",
-  "videos": [
-    {
-      "id": "wvM0HctQgwg",
-      "title": "정신적으로 건강해지는 법 (B1-B2) | 스페인어 학습 팟캐스트 | 스페인어 듣기 연습 | 에피소드 75",
-      "done": "es-2026-11-21"
-    },
-    {
-      "id": "YgiABjwxyMo",
-      "title": "행복의 심리학 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 73",
-      "done": "es-2026-11-22"
-    },
-    {
-      "id": "8S9nppDZN-s",
-      "title": "습관의 심리학 (B1) | 스페인어 배우기 | 에피소드 72",
-      "done": "es-2026-11-23"
-    },
-    {
-      "id": "x_AqpjquPVs",
-      "title": "책 읽기의 중요성 (B1) | 스페인어 배우기 | 에피소드 71",
-      "done": null
-    },
-    {
-      "id": "tphmZwZF96k",
-      "title": "의사소통 기술에 대해 이야기하기 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 70 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "I7eFjsnhTHU",
-      "title": "개인 재무 관리를 마스터하는 방법 (B1) | 스페인어 배우기 | 에피소드 70",
-      "done": null
-    },
-    {
-      "id": "llZxFAf_XKc",
-      "title": "기억력을 향상시키는 방법 | 스페인어 배우기 | 에피소드 69",
-      "done": null
-    },
-    {
-      "id": "4qvTt_H_I2E",
-      "title": "시간 관리의 중요성 | 스페인어 배우기 | 에피소드 68",
-      "done": null
-    },
-    {
-      "id": "DHynWb0dyDA",
-      "title": "소셜 미디어가 사회에 미치는 영향 (B1) | 스페인어 배우기 | 에피소드 67",
-      "done": null
-    },
-    {
-      "id": "ec6144_TdzY",
-      "title": "소셜 미디어 중독에 대해 이야기하기 (B1) | 스페인어 배우기 | 에피소드 66",
-      "done": null
-    },
-    {
-      "id": "qI1M2B6Yio0",
-      "title": "저축 vs 삶 즐기기 | 스페인어 배우기 | 에피소드 65",
-      "done": "es-2026-11-20-2"
-    },
-    {
-      "id": "3W4-cZC1pBI",
-      "title": "미루는 습관을 고치는 방법 (B1) | 스페인어 배우기 | 에피소드 64",
-      "done": null
-    },
-    {
-      "id": "pg0deX4syug",
-      "title": "실패에 대처하는 방법 (B1) | 스페인어 배우기 | 에피소드 63",
-      "done": null
-    },
-    {
-      "id": "KhlykLLDg9g",
-      "title": "스페인어로 자신의 감정을 표현하는 방법 (B1) | 스페인어 배우기 | 에피소드 62",
-      "done": null
-    },
-    {
-      "id": "DcwRVwojED8",
-      "title": "바디 랭귀지 기초 (B1) | 스페인어 배우기 | 에피소드 61",
-      "done": null
-    },
-    {
-      "id": "ou10ES6Oh94",
-      "title": "작은 성공 축하하기 (B1) | 스페인어 배우기 | 에피소드 60",
-      "done": null
-    },
-    {
-      "id": "bxIS96oXos4",
-      "title": "백만장자의 마인드셋 (B1) | 스페인어 배우기 | 에피소드 59",
-      "done": null
-    },
-    {
-      "id": "9Z8AT9UhPZo",
-      "title": "자유 vs 책임감 (B1) | 스페인어 배우기 | 에피소드 58",
-      "done": null
-    },
-    {
-      "id": "alElxRiePlc",
-      "title": "요즘 왜 이렇게 빨리 잊어버릴까? (B1) | 스페인어 배우기 | 에피소드 57",
-      "done": null
-    },
-    {
-      "id": "lTCI7Oero9U",
-      "title": "AI: 위협인가 기회인가? (B1) | 스페인어 배우기 | 에피소드 56",
-      "done": null
-    },
-    {
-      "id": "1o0UppnNUlk",
-      "title": "질투: 정상인가 독인가? (B1) | 스페인어 배우기 | 에피소드 55",
-      "done": null
-    },
-    {
-      "id": "yaN8fWOTxPA",
-      "title": "우리는 왜 거절을 두려워할까? (B1) | 스페인어 배우기 | 에피소드 54",
-      "done": null
-    },
-    {
-      "id": "xMojTCVbM6s",
-      "title": "멀티태스킹: 좋은 것인가 나쁜 것인가? (B1) | 스페인어 배우기 | 에피소드 53",
-      "done": null
-    },
-    {
-      "id": "n6Z7V0P38EQ",
-      "title": "성공의 심리학 (B1) | 스페인어 배우기 | 에피소드 52",
-      "done": null
-    },
-    {
-      "id": "sYvmU0omIFA",
-      "title": "프리랜서 vs 풀타임 직장 | 스페인어 배우기 | 에피소드 51",
-      "done": null
-    },
-    {
-      "id": "UQshpVBL2Ik",
-      "title": "딥 워크 vs 얕은 작업 (B1) | 스페인어 배우기 | 에피소드 50",
-      "done": null
-    },
-    {
-      "id": "0ptI16P2lsQ",
-      "title": "습관이 당신의 정체성을 형성하는 방법 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 49 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "kZKF6PIgzEk",
-      "title": "강한 우정을 쌓는 방법? (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 48 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "M6kU3QwqZ1w",
-      "title": "게으름의 순환을 끊는 방법? (B1) | 학습자를 위한 스페인어 팟캐스트 | 에피소드 47",
-      "done": null
-    },
-    {
-      "id": "XJDpOpIlbFI",
-      "title": "성공하는 데 비용은 얼마입니까? | 팟캐스트로 스페인어 배우기 | 에피소드 46",
-      "done": null
-    },
-    {
-      "id": "zqbOHdGVugM",
-      "title": "열정인가 돈인가 | 팟캐스트로 스페인어 배우기 | 에피소드 45 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "VJ8toyfKzA0",
-      "title": "편안함 vs 성장 | 팟캐스트로 스페인어 배우기 | 에피소드 44 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "zbpeHcw2tBk",
-      "title": "대부분의 사람들이 평범한 삶을 사는 이유? | 팟캐스트로 스페인어 배우기 | 에피소드 43 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "HeOm-TwRLH8",
-      "title": "왜 항상 피곤함을 느끼나요? | 팟캐스트로 스페인어 배우기 | 에피소드 42 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "xOR-y9MTYZM",
-      "title": "열심히 일하기 vs 현명하게 일하기 | 팟캐스트로 스페인어 배우기 | 에피소드 41 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "2-XSh9dOEys",
-      "title": "미루는 습관을 멈추는 방법 (B1) ? | 팟캐스트로 스페인어 배우기 | 에피소드 40 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "VOuSsY8NjFo",
-      "title": "온라인 근무의 장단점 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 39 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "HG9H9VY7TXI",
-      "title": "온라인에서 자신을 다른 사람과 비교하기 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 38 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "1p0fIJEJn5o",
-      "title": "현대 세계의 외로움 | 팟캐스트로 스페인어 배우기 | 에피소드 37 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "ZD9-vPI1SUQ",
-      "title": "온라인으로 돈 버는 방법 | 팟캐스트로 스페인어 배우기 | 에피소드 36 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "JhxIZEwR4Vs",
-      "title": "현대 사랑 vs 전통 사랑 | 팟캐스트로 스페인어 배우기 | 에피소드 35 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "s6Vh9ueGPPk",
-      "title": "20대에 재정적 실수를 피하는 방법 | 팟캐스트로 스페인어 배우기 에피소드 34 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "0bMFnqcV_9I",
-      "title": "나이를 낭비하지 않는 방법 | 팟캐스트로 스페인어 배우기 | 에피소드 33 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "fN5p43czDYY",
-      "title": "내 드림 잡은 뭘까? 💖 팟캐스트로 스페인어 공부! (EP. 32) Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "-VfbmMmiuZ8",
-      "title": "2025년에 길을 잃고 성취하지 못한 이유? | 팟캐스트로 스페인어 배우기 | 에피소드 31",
-      "done": null
-    },
-    {
-      "id": "DlmhBfiEtkE",
-      "title": "How to change your life in 2026 | Learn Spanish with Podcast | episode 30 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "XsT2SSxQETw",
-      "title": "the importance of sleep and How to fix it | Learn Spanish with Podcast |   episode 29 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "JVOZRtwkWWk",
-      "title": "How to Boost Your Daily Energy | Learn Spanish with Podcast | episode 28 |  Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "N8Un0ER8DQ0",
-      "title": "How to Eliminate Distractions and Focus | Learn Spanish with Podcast |  episode 27 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "6VwHSMqHrCg",
-      "title": "Your Thoughts Are Destroying Your Body? | Spanish Podcast for Beginners | Episode 26",
-      "done": null
-    },
-    {
-      "id": "-uefGxCqPIM",
-      "title": "Travel Rewires Your Personality | Spanish Listening Practice | Episode 25",
-      "done": null
-    },
-    {
-      "id": "rLqmVBCjDbI",
-      "title": "How to Build a Reading Habit | Learn Spanish with Podcast | episode 24 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "FkczmDt0T6A",
-      "title": "How to a Strong and Balanced Personality | Learn Spanish with Podcast |   episode 23 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "yxqveKV7c-4",
-      "title": "How to Boost Your Self Esteem | Learn Spanish with Podcast | episode 22 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "X78J-zYd5j8",
-      "title": "Dealing with Toxic People | Learn Spanish with Podcast | episode 21 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "GvRwLeME7sI",
-      "title": "여행에 대해 이야기하기 | 팟캐스트로 스페인어 배우기 | 에피소드 20 | 쉬운 스페인어",
-      "done": null
-    },
-    {
-      "id": "jkB-vfq3aOE",
-      "title": "How to stop living in the Past | Learn Spanish with Podcast | episode 18 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "ZdM9UsOw7oc",
-      "title": "The Power of Silence | Learn Spanish with Podcast | episode 17 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "-Q-x2n2PXz4",
-      "title": "How to overcome Overthinking | Learn Spanish with Podcast | episode 16 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "OA5bnRroaIU",
-      "title": "How to overcome laziness | Learn Spanish with Podcast | episode 15 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "3hR7x-jJv4A",
-      "title": "The importance of gratitude | Learn Spanish with Podcast | episode 14 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "T_XdMweVWds",
-      "title": "The importance of Positive thinking | Learn Spanish with Podcast | episode 13 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "Q3edNaS6mf8",
-      "title": "How to deal with Disappointment | Learn Spanish with Podcast | episode 12 |Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "lbErnClggIQ",
-      "title": "How to quit phone addiction | Learn Spanish with Podcast | episode 11| Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "Gq3PP9YD6e8",
-      "title": "the importance of walking daily | Learn Spanish with Podcast | episode 11 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "Qs9eOeHjwvY",
-      "title": "Does Money Bring Happiness ? Learn Spanish with Podcast | episode 10 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "VvDZu9F8i_E",
-      "title": "Talking about Communication Skills | Learn Spanish with Podcast | episode 9 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "2CsfQR2iZDs",
-      "title": "How to Organize Your Day Effectively | Learn Spanish with Podcast | episode 8 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "P3dYmajt6Gg",
-      "title": "How to Eliminate Bad Habits | Learn Spanish with Podcast | episode 7 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "FnckeMKLJCo",
-      "title": "How to Manage Your Time effectively | Learn Spanish with Podcast | episode 6 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "IwbVkVnAxDs",
-      "title": "The Importance of Good Sleep | Learn Spanish with Podcast | episode 5 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "CifZJQb8jeo",
-      "title": "The Harms of Social Media | Learn Spanish with Podcast | episode 4 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "GjHxTxcE3Ck",
-      "title": "Procrastination and Achievement | Learn Spanish with Podcast | episode 3 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "l0m3YL8J9oA",
-      "title": "How to introduce yourself in Spanish | Learn Spanish with Podcast | episode 2 | Easy Spanish",
-      "done": null
-    },
-    {
-      "id": "_uhkuo0l-X0",
-      "title": "Spanish Podcast | Spanish Listening Practice B1 | My Daily Routine in Spanish | Ep. 01",
-      "done": null
-    }
-  ]
+ "playlist": "PLOfKr-QFX3fDL4Fj6aR6B0XgHU8VNrSqd",
+ "channel": "Easy Spanish Podcast",
+ "name": "(B1-B2) Spanish Podcast",
+ "note": "하루에 하나씩 위에서부터 순서대로(재생목록 순서: 에피소드 75부터) 스페인어 강의로 만들어요. 만든 영상은 done에 강의 폴더 이름을 적어요.",
+ "videos": [
+  {
+   "id": "wvM0HctQgwg",
+   "title": "정신적으로 건강해지는 법 (B1-B2) | 스페인어 학습 팟캐스트 | 스페인어 듣기 연습 | 에피소드 75",
+   "done": "es-2026-11-21"
+  },
+  {
+   "id": "YgiABjwxyMo",
+   "title": "행복의 심리학 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 73",
+   "done": "es-2026-11-22"
+  },
+  {
+   "id": "8S9nppDZN-s",
+   "title": "습관의 심리학 (B1) | 스페인어 배우기 | 에피소드 72",
+   "done": "es-2026-11-23"
+  },
+  {
+   "id": "x_AqpjquPVs",
+   "title": "책 읽기의 중요성 (B1) | 스페인어 배우기 | 에피소드 71",
+   "done": "es-2026-11-24"
+  },
+  {
+   "id": "tphmZwZF96k",
+   "title": "의사소통 기술에 대해 이야기하기 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 70 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "I7eFjsnhTHU",
+   "title": "개인 재무 관리를 마스터하는 방법 (B1) | 스페인어 배우기 | 에피소드 70",
+   "done": null
+  },
+  {
+   "id": "llZxFAf_XKc",
+   "title": "기억력을 향상시키는 방법 | 스페인어 배우기 | 에피소드 69",
+   "done": null
+  },
+  {
+   "id": "4qvTt_H_I2E",
+   "title": "시간 관리의 중요성 | 스페인어 배우기 | 에피소드 68",
+   "done": null
+  },
+  {
+   "id": "DHynWb0dyDA",
+   "title": "소셜 미디어가 사회에 미치는 영향 (B1) | 스페인어 배우기 | 에피소드 67",
+   "done": null
+  },
+  {
+   "id": "ec6144_TdzY",
+   "title": "소셜 미디어 중독에 대해 이야기하기 (B1) | 스페인어 배우기 | 에피소드 66",
+   "done": null
+  },
+  {
+   "id": "qI1M2B6Yio0",
+   "title": "저축 vs 삶 즐기기 | 스페인어 배우기 | 에피소드 65",
+   "done": "es-2026-11-20-2"
+  },
+  {
+   "id": "3W4-cZC1pBI",
+   "title": "미루는 습관을 고치는 방법 (B1) | 스페인어 배우기 | 에피소드 64",
+   "done": null
+  },
+  {
+   "id": "pg0deX4syug",
+   "title": "실패에 대처하는 방법 (B1) | 스페인어 배우기 | 에피소드 63",
+   "done": null
+  },
+  {
+   "id": "KhlykLLDg9g",
+   "title": "스페인어로 자신의 감정을 표현하는 방법 (B1) | 스페인어 배우기 | 에피소드 62",
+   "done": null
+  },
+  {
+   "id": "DcwRVwojED8",
+   "title": "바디 랭귀지 기초 (B1) | 스페인어 배우기 | 에피소드 61",
+   "done": null
+  },
+  {
+   "id": "ou10ES6Oh94",
+   "title": "작은 성공 축하하기 (B1) | 스페인어 배우기 | 에피소드 60",
+   "done": null
+  },
+  {
+   "id": "bxIS96oXos4",
+   "title": "백만장자의 마인드셋 (B1) | 스페인어 배우기 | 에피소드 59",
+   "done": null
+  },
+  {
+   "id": "9Z8AT9UhPZo",
+   "title": "자유 vs 책임감 (B1) | 스페인어 배우기 | 에피소드 58",
+   "done": null
+  },
+  {
+   "id": "alElxRiePlc",
+   "title": "요즘 왜 이렇게 빨리 잊어버릴까? (B1) | 스페인어 배우기 | 에피소드 57",
+   "done": null
+  },
+  {
+   "id": "lTCI7Oero9U",
+   "title": "AI: 위협인가 기회인가? (B1) | 스페인어 배우기 | 에피소드 56",
+   "done": null
+  },
+  {
+   "id": "1o0UppnNUlk",
+   "title": "질투: 정상인가 독인가? (B1) | 스페인어 배우기 | 에피소드 55",
+   "done": null
+  },
+  {
+   "id": "yaN8fWOTxPA",
+   "title": "우리는 왜 거절을 두려워할까? (B1) | 스페인어 배우기 | 에피소드 54",
+   "done": null
+  },
+  {
+   "id": "xMojTCVbM6s",
+   "title": "멀티태스킹: 좋은 것인가 나쁜 것인가? (B1) | 스페인어 배우기 | 에피소드 53",
+   "done": null
+  },
+  {
+   "id": "n6Z7V0P38EQ",
+   "title": "성공의 심리학 (B1) | 스페인어 배우기 | 에피소드 52",
+   "done": null
+  },
+  {
+   "id": "sYvmU0omIFA",
+   "title": "프리랜서 vs 풀타임 직장 | 스페인어 배우기 | 에피소드 51",
+   "done": null
+  },
+  {
+   "id": "UQshpVBL2Ik",
+   "title": "딥 워크 vs 얕은 작업 (B1) | 스페인어 배우기 | 에피소드 50",
+   "done": null
+  },
+  {
+   "id": "0ptI16P2lsQ",
+   "title": "습관이 당신의 정체성을 형성하는 방법 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 49 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "kZKF6PIgzEk",
+   "title": "강한 우정을 쌓는 방법? (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 48 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "M6kU3QwqZ1w",
+   "title": "게으름의 순환을 끊는 방법? (B1) | 학습자를 위한 스페인어 팟캐스트 | 에피소드 47",
+   "done": null
+  },
+  {
+   "id": "XJDpOpIlbFI",
+   "title": "성공하는 데 비용은 얼마입니까? | 팟캐스트로 스페인어 배우기 | 에피소드 46",
+   "done": null
+  },
+  {
+   "id": "zqbOHdGVugM",
+   "title": "열정인가 돈인가 | 팟캐스트로 스페인어 배우기 | 에피소드 45 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "VJ8toyfKzA0",
+   "title": "편안함 vs 성장 | 팟캐스트로 스페인어 배우기 | 에피소드 44 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "zbpeHcw2tBk",
+   "title": "대부분의 사람들이 평범한 삶을 사는 이유? | 팟캐스트로 스페인어 배우기 | 에피소드 43 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "HeOm-TwRLH8",
+   "title": "왜 항상 피곤함을 느끼나요? | 팟캐스트로 스페인어 배우기 | 에피소드 42 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "xOR-y9MTYZM",
+   "title": "열심히 일하기 vs 현명하게 일하기 | 팟캐스트로 스페인어 배우기 | 에피소드 41 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "2-XSh9dOEys",
+   "title": "미루는 습관을 멈추는 방법 (B1) ? | 팟캐스트로 스페인어 배우기 | 에피소드 40 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "VOuSsY8NjFo",
+   "title": "온라인 근무의 장단점 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 39 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "HG9H9VY7TXI",
+   "title": "온라인에서 자신을 다른 사람과 비교하기 (B1) | 팟캐스트로 스페인어 배우기 | 에피소드 38 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "1p0fIJEJn5o",
+   "title": "현대 세계의 외로움 | 팟캐스트로 스페인어 배우기 | 에피소드 37 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "ZD9-vPI1SUQ",
+   "title": "온라인으로 돈 버는 방법 | 팟캐스트로 스페인어 배우기 | 에피소드 36 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "JhxIZEwR4Vs",
+   "title": "현대 사랑 vs 전통 사랑 | 팟캐스트로 스페인어 배우기 | 에피소드 35 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "s6Vh9ueGPPk",
+   "title": "20대에 재정적 실수를 피하는 방법 | 팟캐스트로 스페인어 배우기 에피소드 34 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "0bMFnqcV_9I",
+   "title": "나이를 낭비하지 않는 방법 | 팟캐스트로 스페인어 배우기 | 에피소드 33 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "fN5p43czDYY",
+   "title": "내 드림 잡은 뭘까? 💖 팟캐스트로 스페인어 공부! (EP. 32) Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "-VfbmMmiuZ8",
+   "title": "2025년에 길을 잃고 성취하지 못한 이유? | 팟캐스트로 스페인어 배우기 | 에피소드 31",
+   "done": null
+  },
+  {
+   "id": "DlmhBfiEtkE",
+   "title": "How to change your life in 2026 | Learn Spanish with Podcast | episode 30 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "XsT2SSxQETw",
+   "title": "the importance of sleep and How to fix it | Learn Spanish with Podcast |   episode 29 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "JVOZRtwkWWk",
+   "title": "How to Boost Your Daily Energy | Learn Spanish with Podcast | episode 28 |  Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "N8Un0ER8DQ0",
+   "title": "How to Eliminate Distractions and Focus | Learn Spanish with Podcast |  episode 27 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "6VwHSMqHrCg",
+   "title": "Your Thoughts Are Destroying Your Body? | Spanish Podcast for Beginners | Episode 26",
+   "done": null
+  },
+  {
+   "id": "-uefGxCqPIM",
+   "title": "Travel Rewires Your Personality | Spanish Listening Practice | Episode 25",
+   "done": null
+  },
+  {
+   "id": "rLqmVBCjDbI",
+   "title": "How to Build a Reading Habit | Learn Spanish with Podcast | episode 24 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "FkczmDt0T6A",
+   "title": "How to a Strong and Balanced Personality | Learn Spanish with Podcast |   episode 23 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "yxqveKV7c-4",
+   "title": "How to Boost Your Self Esteem | Learn Spanish with Podcast | episode 22 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "X78J-zYd5j8",
+   "title": "Dealing with Toxic People | Learn Spanish with Podcast | episode 21 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "GvRwLeME7sI",
+   "title": "여행에 대해 이야기하기 | 팟캐스트로 스페인어 배우기 | 에피소드 20 | 쉬운 스페인어",
+   "done": null
+  },
+  {
+   "id": "jkB-vfq3aOE",
+   "title": "How to stop living in the Past | Learn Spanish with Podcast | episode 18 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "ZdM9UsOw7oc",
+   "title": "The Power of Silence | Learn Spanish with Podcast | episode 17 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "-Q-x2n2PXz4",
+   "title": "How to overcome Overthinking | Learn Spanish with Podcast | episode 16 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "OA5bnRroaIU",
+   "title": "How to overcome laziness | Learn Spanish with Podcast | episode 15 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "3hR7x-jJv4A",
+   "title": "The importance of gratitude | Learn Spanish with Podcast | episode 14 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "T_XdMweVWds",
+   "title": "The importance of Positive thinking | Learn Spanish with Podcast | episode 13 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "Q3edNaS6mf8",
+   "title": "How to deal with Disappointment | Learn Spanish with Podcast | episode 12 |Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "lbErnClggIQ",
+   "title": "How to quit phone addiction | Learn Spanish with Podcast | episode 11| Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "Gq3PP9YD6e8",
+   "title": "the importance of walking daily | Learn Spanish with Podcast | episode 11 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "Qs9eOeHjwvY",
+   "title": "Does Money Bring Happiness ? Learn Spanish with Podcast | episode 10 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "VvDZu9F8i_E",
+   "title": "Talking about Communication Skills | Learn Spanish with Podcast | episode 9 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "2CsfQR2iZDs",
+   "title": "How to Organize Your Day Effectively | Learn Spanish with Podcast | episode 8 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "P3dYmajt6Gg",
+   "title": "How to Eliminate Bad Habits | Learn Spanish with Podcast | episode 7 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "FnckeMKLJCo",
+   "title": "How to Manage Your Time effectively | Learn Spanish with Podcast | episode 6 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "IwbVkVnAxDs",
+   "title": "The Importance of Good Sleep | Learn Spanish with Podcast | episode 5 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "CifZJQb8jeo",
+   "title": "The Harms of Social Media | Learn Spanish with Podcast | episode 4 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "GjHxTxcE3Ck",
+   "title": "Procrastination and Achievement | Learn Spanish with Podcast | episode 3 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "l0m3YL8J9oA",
+   "title": "How to introduce yourself in Spanish | Learn Spanish with Podcast | episode 2 | Easy Spanish",
+   "done": null
+  },
+  {
+   "id": "_uhkuo0l-X0",
+   "title": "Spanish Podcast | Spanish Listening Practice B1 | My Daily Routine in Spanish | Ep. 01",
+   "done": null
+  }
+ ]
 }
