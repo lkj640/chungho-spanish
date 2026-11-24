@@ -15,14 +15,6 @@
     es: [{ emoji: "🥕", title: "당근 스페인어 스터디", desc: "매주 일요일 오전 10시 · 팟캐스트 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_spanish/" }],
     zh: [{ emoji: "🥕", title: "당근 중국어 스터디", desc: "매주 목요일 저녁 · 중국어 회화 듣기와 학습 교재", url: "https://lkj640.github.io/carrot_chinese/" }],
   };
-  // 언어별 자료실 (같은 사이트 안의 페이지)
-  const MATS = {
-    zh: { emoji: "📂", title: "원어민 중국어 회화 공부 자료실", desc: "2025년 10월부터 모은 대화문·대본·녹음 38회 · 병음으로 읽기 · 유튜브 영상", url: "materials.html" },
-    es: { emoji: "📂", title: "스페인어 공부 자료실", desc: "유튜브 팟캐스트 대본 40편 · A1 · A2 · B1 레벨별 · 원본 영상", url: "materials.html?lang=es" },
-  };
-  const card1 = x => `<a class="sitecard mat" href="${esc(x.url)}">
-      <span class="em">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><span class="d">${esc(x.desc)}</span></span><span class="go">›</span></a>`;
-  const matCard = code => (MATS[code] ? card1(MATS[code]) : "");
   // 통합 단어장 카드: 오늘 복습할 단어 수(이 기기 기록)를 함께 보여줘요
   const srs = store.get("srs", {});
   const todayN = (d => Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5))(new Date());
@@ -77,7 +69,6 @@
       <h2 class="langT">${L.flag} ${L.name} <span>${L.native} · 강의 ${list.length}개 · 완료 ${list.filter(l => done[l.id]).length}개</span></h2>
       ${list.length > 4 ? '<input class="search" id="q" type="search" placeholder="제목·표현으로 찾기">' : ""}
       ${vocabCard(lang)}
-      ${matCard(lang)}
       <div id="lst"></div>
       ${siteCards(lang)}`;
     const render = (f = "") => {
@@ -113,7 +104,6 @@
         ${list.length ? `<a href="./?lang=${code}">전체 ${list.length}개 보기 ›</a>` : ""}</div>
       ${list.length ? latestCard(list[0]) : `<div class="card empty">아직 강의가 없어요.<br><span class="hint">유튜브 링크와 transcript를 주시면 이곳에 추가돼요.</span></div>`}
       ${vocabCard(code)}
-      ${matCard(code)}
       ${siteCards(code)}
     </section>`;
   }
