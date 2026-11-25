@@ -1,0 +1,402 @@
+{
+ "lang": "es",
+ "date": "2026-11-25",
+ "title": "개인 정보·결혼·소지품 — 스페인어 어휘 3장 (1–3과)",
+ "es": "¿Cuál es tu nombre completo?",
+ "emoji": "🪪",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 3 · Unidad 1–3 (03-01 · 03-02 · 03-03)",
+ "audio": "audio.m4a",
+ "duration": "9:08",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 3장의 1~3과 오디오 세 개를 하나로 이었어요(1장 11/23, 2장 11/25). 1과는 이름·성·이메일·주소·국적·나이 같은 개인 정보와 사람을 부르는 말(bebé, adolescente, anciano, varón…), 2과는 결혼과 가족 상태(soltero, casado, separado, divorciado, pareja de hecho, viudo), 3과는 소지품과 액세서리(cartera, bolso, gafas, paraguas, pendiente, pulsera)예요. 서류를 쓰거나 자기소개할 때 바로 쓰는 단어들이에요.",
+ "topics": [
+  "1과 개인 정보: apellido · nombre · correo electrónico · dirección · nacionalidad · edad",
+  "1과 사람: bebé · niño · joven · adolescente · anciano · persona mayor · varón",
+  "2과 결혼: estado civil · soltero · casado · separado · divorciado · viudo",
+  "3과 소지품: llave · cartera · bolso · gafas · paraguas · agenda · joya",
+  "문법: ¿Cuál es tu/su…? · tener + 숫자 + años · estar casado/soltero · casarse con · ser de + 재료"
+ ],
+ "grammar": [
+  {
+   "title": "① 개인 정보 묻기 — ¿Cuál es tu/su …?",
+   "lead": "이름·번호·주소처럼 '정해진 하나'를 물을 때는 <b>¿Cuál es…?</b>를 써요. 친구에게는 tu, 존댓말은 su.",
+   "examples": [
+    [
+     "¿Cuál es tu primer apellido?",
+     "네 첫 번째 성은 뭐야?"
+    ],
+    [
+     "¿Cuál es tu nombre completo?",
+     "네 이름 전체가 뭐야?"
+    ],
+    [
+     "¿Cuál es su número de teléfono?",
+     "전화번호가 어떻게 되세요? (존댓말)"
+    ],
+    [
+     "¿Cuál es su fecha de nacimiento?",
+     "생년월일이 어떻게 되세요?"
+    ]
+   ],
+   "tip": "스페인 사람은 성이 두 개예요: Ana Pérez Ramos → 이름 Ana, 첫 번째 성 Pérez(아버지), 두 번째 성 Ramos(어머니)."
+  },
+  {
+   "title": "② 나이 — tener + 숫자 + años",
+   "lead": "나이는 ser가 아니라 <b>tener</b>로 말해요. 물을 때는 ¿Cuántos años tienes? 또는 ¿Qué edad tienes?",
+   "examples": [
+    [
+     "¿Qué edad tienes?",
+     "몇 살이야?"
+    ],
+    [
+     "Tengo veinte años.",
+     "스무 살이에요."
+    ],
+    [
+     "Mis padres son muy viejos.",
+     "부모님은 연세가 아주 많으세요. (나이가 든 상태는 ser viejo)"
+    ]
+   ]
+  },
+  {
+   "title": "③ 이메일·전화번호 읽기",
+   "lead": "이메일 기호와 번호를 스페인어로 읽는 법이에요.",
+   "table": {
+    "head": [
+     "기호·표현",
+     "읽기",
+     "예"
+    ],
+    "rows": [
+     [
+      "@",
+      "arroba",
+      "estrella@siwon.com → estrella arroba siwon punto com"
+     ],
+     [
+      ".",
+      "punto",
+      "punto com"
+     ],
+     [
+      "-",
+      "guion",
+      "ana-perez → ana guion perez"
+     ],
+     [
+      "_",
+      "guion bajo",
+      "ana_perez"
+     ],
+     [
+      "el prefijo",
+      "국가·지역 번호",
+      "El prefijo de Corea es el número 82."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ 사람을 부르는 말 — 나이대별",
+   "lead": "아기부터 어르신까지 나이대에 따라 쓰는 단어예요. 정중하게는 viejo 대신 persona mayor.",
+   "table": {
+    "head": [
+     "단어",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "el recién nacido",
+      "신생아",
+      "Los recién nacidos necesitan una atención especial."
+     ],
+     [
+      "el bebé",
+      "아기",
+      "El bebé está llorando."
+     ],
+     [
+      "el niño / la niña",
+      "어린이",
+      "¿Dónde están los niños?"
+     ],
+     [
+      "el/la adolescente",
+      "청소년",
+      "Los adolescentes suelen ser sensibles."
+     ],
+     [
+      "el/la joven",
+      "젊은이",
+      "Los jóvenes viajan mucho al extranjero."
+     ],
+     [
+      "la persona mayor / el anciano",
+      "어르신 / 노인",
+      "actividades dirigidas a personas mayores"
+     ],
+     [
+      "el varón / la hembra · el macho",
+      "남성 / (동물) 암컷·수컷",
+      "Mi mascota es macho."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑤ 혼인 여부 — estar + 형용사 / 재귀동사",
+   "lead": "지금의 혼인 상태는 보통 <b>estar</b>로 말해요(ser도 써요). 그 상태가 '되는' 순간은 재귀동사(casarse, separarse, divorciarse).",
+   "examples": [
+    [
+     "Ana está soltera.",
+     "아나는 미혼이에요."
+    ],
+    [
+     "Está casado con una colombiana.",
+     "그는 콜롬비아 여자와 결혼했어요. (casado con + 사람)"
+    ],
+    [
+     "Nos casamos el año pasado.",
+     "우리는 작년에 결혼했어요."
+    ],
+    [
+     "Rocío y Juan decidieron separarse.",
+     "로시오와 후안은 헤어지기로 했어요."
+    ],
+    [
+     "Juan se quedó viudo hace cinco años.",
+     "후안은 5년 전에 아내를 여의었어요. (quedarse + 형용사 = ~하게 되다)"
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 결혼에 관한 표현",
+   "lead": "스페인 사회에서 자주 쓰는 결혼·동거 표현이에요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "casarse por lo civil",
+      "법적 혼인(구청 결혼식)을 하다",
+      "Se casaron por lo civil."
+     ],
+     [
+      "casarse por la iglesia",
+      "성당에서 결혼하다",
+      "Me gustaría casarme por la iglesia."
+     ],
+     [
+      "la pareja de hecho",
+      "사실혼(등록 동거) 커플",
+      "Nos inscribimos como pareja de hecho."
+     ],
+     [
+      "el estado civil",
+      "혼인 여부 (서류 항목)",
+      "Usted tiene que indicar el estado civil."
+     ],
+     [
+      "el matrimonio",
+      "결혼, 부부",
+      "Para un matrimonio feliz hay que intentar entenderse."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ ser de + 재료 · llevar / ponerse",
+   "lead": "물건의 재료는 <b>ser de</b>. 몸에 '차고 있다'는 <b>llevar</b>, '착용하다(동작)'는 <b>ponerse</b>.",
+   "examples": [
+    [
+     "Mi cartera es de cuero.",
+     "내 지갑은 가죽이에요."
+    ],
+    [
+     "Tengo dos anillos de plata y uno de oro.",
+     "은반지 두 개와 금반지 하나가 있어요."
+    ],
+    [
+     "No me gusta llevar reloj.",
+     "시계 차고 다니는 걸 안 좋아해요."
+    ],
+    [
+     "Voy a ponerme gafas de sol.",
+     "선글라스를 쓸게요."
+    ]
+   ],
+   "tip": "paraguas(우산)·gafas(안경)는 늘 -s로 끝나요: el paraguas / los paraguas, las gafas."
+  }
+ ],
+ "phrases": [
+  [
+   "¿Cuál es tu nombre completo?",
+   "네 이름 전체가 뭐야?"
+  ],
+  [
+   "Me llamo Ana Pérez Muñoz.",
+   "제 이름은 아나 페레스 무뇨스예요."
+  ],
+  [
+   "Señor Serrano, puede pasar.",
+   "세라노 씨, 들어오세요."
+  ],
+  [
+   "¿Cuál es su número de teléfono?",
+   "전화번호가 어떻게 되세요?"
+  ],
+  [
+   "Tengo veinte años.",
+   "스무 살이에요."
+  ],
+  [
+   "Voy a presentarme.",
+   "제 소개를 할게요."
+  ],
+  [
+   "Nos casamos el año pasado.",
+   "우리는 작년에 결혼했어요."
+  ],
+  [
+   "No sé dónde está mi llave.",
+   "내 열쇠가 어디 있는지 모르겠어요."
+  ]
+ ],
+ "vocab": [
+  { "es": "el apellido", "ko": "성", "ex": "¿Cuál es tu primer apellido?", "exKo": "첫 번째 성은 뭐야?" },
+  { "es": "el nombre", "ko": "이름", "ex": "¿Cuál es tu nombre completo?", "exKo": "이름 전체가 뭐야?" },
+  { "es": "llamarse", "ko": "이름이 ~이다", "ex": "Me llamo Ana Pérez Muñoz.", "exKo": "제 이름은 아나 페레스 무뇨스예요." },
+  { "es": "el señor", "ko": "~씨(남성), 신사", "ex": "Señor Serrano, puede pasar.", "exKo": "세라노 씨, 들어오세요." },
+  { "es": "la señora", "ko": "~씨(여성), 부인", "ex": "Nos va a visitar la señora Pérez.", "exKo": "페레스 부인이 방문할 거예요." },
+  { "es": "el correo electrónico", "ko": "이메일", "ex": "Mi correo electrónico es estrella@siwon.com.", "exKo": "제 이메일은 estrella@siwon.com이에요." },
+  { "es": "la arroba", "ko": "@ (골뱅이)", "ex": "estrella arroba siwon punto com", "exKo": "estrella@siwon.com" },
+  { "es": "la dirección", "ko": "주소", "ex": "Aquí está la dirección de mi casa.", "exKo": "여기 우리 집 주소가 있어요." },
+  { "es": "el número de teléfono", "ko": "전화번호", "ex": "¿Cuál es su número de teléfono?", "exKo": "전화번호가 어떻게 되세요?" },
+  { "es": "la nacionalidad", "ko": "국적", "ex": "Tengo nacionalidad española.", "exKo": "저는 스페인 국적이에요." },
+  { "es": "el extranjero", "ko": "외국인; 외국", "ex": "Hay muchos extranjeros en España.", "exKo": "스페인에는 외국인이 많아요." },
+  { "es": "la edad", "ko": "나이", "ex": "¿Qué edad tienes?", "exKo": "몇 살이야?" },
+  { "es": "tener … años", "ko": "~살이다", "ex": "Tengo veinte años.", "exKo": "스무 살이에요." },
+  { "es": "el bebé", "ko": "아기", "ex": "El bebé está llorando.", "exKo": "아기가 울고 있어요." },
+  { "es": "el chico", "ko": "남자아이, 청년", "ex": "Ese chico es muy guapo.", "exKo": "저 남자애 정말 잘생겼다." },
+  { "es": "el/la joven", "ko": "젊은이", "ex": "Los jóvenes viajan mucho al extranjero.", "exKo": "젊은이들은 해외여행을 많이 해요." },
+  { "es": "responsable", "ko": "책임감 있는", "ex": "Juan es un hombre responsable.", "exKo": "후안은 책임감 있는 남자예요." },
+  { "es": "valiente", "ko": "용감한", "ex": "Gema es una mujer valiente.", "exKo": "헤마는 용감한 여자예요." },
+  { "es": "viejo/a", "ko": "나이 든, 낡은", "ex": "Mis padres son muy viejos.", "exKo": "부모님은 연세가 많으세요." },
+  { "es": "el/la adolescente", "ko": "청소년", "ex": "Los adolescentes suelen ser sensibles.", "exKo": "청소년은 대개 예민해요." },
+  { "es": "soler + 동사원형", "ko": "흔히 ~하다", "ex": "Los adolescentes suelen ser sensibles.", "exKo": "청소년은 대개 예민해요." },
+  { "es": "el lugar de nacimiento", "ko": "출생지", "ex": "Málaga fue el lugar de nacimiento de Picasso.", "exKo": "말라가는 피카소의 출생지예요." },
+  { "es": "la fecha de nacimiento", "ko": "생년월일", "ex": "¿Cuál es su fecha de nacimiento?", "exKo": "생년월일이 어떻게 되세요?" },
+  { "es": "presentarse", "ko": "자기소개하다", "ex": "Voy a presentarme.", "exKo": "제 소개를 할게요." },
+  { "es": "firmar", "ko": "서명하다", "ex": "Hoy voy a firmar el contrato.", "exKo": "오늘 계약서에 서명해요." },
+  { "es": "el prefijo", "ko": "국가·지역 번호", "ex": "El prefijo de Corea es el número 82.", "exKo": "한국 국가 번호는 82예요." },
+  { "es": "el recién nacido", "ko": "신생아", "ex": "Los recién nacidos necesitan una atención especial.", "exKo": "신생아는 특별한 보살핌이 필요해요." },
+  { "es": "el varón", "ko": "남자, 남성", "ex": "Ambos son varones.", "exKo": "둘 다 아들이에요." },
+  { "es": "el anciano", "ko": "노인", "ex": "El anciano recoge a su nieta cada día.", "exKo": "노인은 매일 손녀를 데리러 가요." },
+  { "es": "la persona mayor", "ko": "어르신", "ex": "actividades dirigidas a personas mayores", "exKo": "어르신을 위한 활동" },
+  { "es": "la hembra / el macho", "ko": "(동물) 암컷 / 수컷", "ex": "La hembra del toro es la vaca.", "exKo": "황소의 암컷은 암소예요." },
+  { "es": "la mascota", "ko": "반려동물", "ex": "Mi mascota es macho.", "exKo": "우리 반려동물은 수컷이에요." },
+  { "es": "el marido", "ko": "남편", "ex": "Mi marido trabaja en una empresa alemana.", "exKo": "남편은 독일 회사에서 일해요." },
+  { "es": "la esposa", "ko": "아내", "ex": "Mi esposa trabaja en una compañía de publicidad.", "exKo": "아내는 광고 회사에서 일해요." },
+  { "es": "el estado civil", "ko": "혼인 여부", "ex": "Tiene que indicar el estado civil.", "exKo": "혼인 여부를 표시해야 해요." },
+  { "es": "soltero/a", "ko": "미혼의", "ex": "Ana está soltera.", "exKo": "아나는 미혼이에요." },
+  { "es": "casado/a", "ko": "결혼한", "ex": "Está casado con una colombiana.", "exKo": "콜롬비아 여자와 결혼했어요." },
+  { "es": "casarse", "ko": "결혼하다", "ex": "Nos casamos el año pasado.", "exKo": "작년에 결혼했어요." },
+  { "es": "separado/a", "ko": "별거 중인", "ex": "Los padres de Paula están separados.", "exKo": "파울라 부모님은 별거 중이에요." },
+  { "es": "divorciarse", "ko": "이혼하다", "ex": "Se divorcian cada vez más parejas.", "exKo": "이혼하는 부부가 늘고 있어요." },
+  { "es": "la pareja de hecho", "ko": "사실혼 커플", "ex": "Nos inscribimos como pareja de hecho.", "exKo": "사실혼 커플로 등록했어요." },
+  { "es": "viudo/a", "ko": "배우자를 잃은", "ex": "Juan se quedó viudo hace cinco años.", "exKo": "후안은 5년 전 아내를 여의었어요." },
+  { "es": "la llave", "ko": "열쇠", "ex": "No sé dónde está mi llave.", "exKo": "열쇠가 어디 있는지 모르겠어요." },
+  { "es": "la cartera", "ko": "지갑", "ex": "Mi cartera es de cuero.", "exKo": "내 지갑은 가죽이에요." },
+  { "es": "el bolso", "ko": "가방, 핸드백", "ex": "¿Cuántos bolsos tienes?", "exKo": "가방이 몇 개 있어?" },
+  { "es": "las gafas", "ko": "안경", "ex": "Voy a ponerme gafas de sol.", "exKo": "선글라스를 쓸게요." },
+  { "es": "el paraguas", "ko": "우산", "ex": "No tengo paraguas en casa.", "exKo": "집에 우산이 없어요." },
+  { "es": "apuntar", "ko": "적어 두다", "ex": "Me gusta apuntar todo en mi agenda.", "exKo": "수첩에 다 적어 두는 걸 좋아해요." },
+  { "es": "la tarjeta de visita", "ko": "명함", "ex": "Se necesita una tarjeta de visita.", "exKo": "명함이 필요해요." },
+  { "es": "el maletín", "ko": "서류 가방", "ex": "Mi padre me regaló un maletín.", "exKo": "아빠가 서류 가방을 선물해 주셨어요." },
+  { "es": "el pendiente", "ko": "귀걸이", "ex": "Los pendientes de Zara son muy bonitos.", "exKo": "사라의 귀걸이는 아주 예뻐요." },
+  { "es": "la pulsera", "ko": "팔찌", "ex": "En verano me gusta llevar pulseras de cuero.", "exKo": "여름엔 가죽 팔찌를 즐겨 차요." }
+ ],
+ "quiz": [
+  {
+   "q": "'Ana Pérez Ramos'에서 첫 번째 성(primer apellido)은?",
+   "options": ["Ana", "Pérez", "Ramos", "Ana Pérez"],
+   "answer": 1,
+   "explain": "스페인 이름: 이름 + 첫 번째 성(아버지) + 두 번째 성(어머니)."
+  },
+  {
+   "q": "이메일의 '@'를 스페인어로 읽으면?",
+   "options": ["punto", "arroba", "guion", "barra"],
+   "answer": 1,
+   "explain": "estrella@siwon.com → estrella arroba siwon punto com."
+  },
+  {
+   "q": "'스무 살이에요'는?",
+   "options": ["Soy veinte años.", "Estoy veinte años.", "Tengo veinte años.", "Hago veinte años."],
+   "answer": 2,
+   "explain": "나이는 tener + 숫자 + años."
+  },
+  {
+   "q": "'¿Cuál es su fecha de nacimiento?'는 무엇을 묻는 말일까요?",
+   "options": ["출생지", "생년월일", "국적", "주소"],
+   "answer": 1,
+   "explain": "fecha de nacimiento = 생년월일. 출생지는 lugar de nacimiento."
+  },
+  {
+   "q": "'El prefijo de Corea es el número 82.'에서 prefijo는?",
+   "options": ["우편번호", "국가 번호", "주민번호", "전화번호"],
+   "answer": 1,
+   "explain": "prefijo = 국가·지역 번호."
+  },
+  {
+   "q": "'La hembra del toro es la vaca.'의 뜻은?",
+   "options": ["황소의 암컷은 암소예요.", "황소는 소보다 커요.", "암소는 우유를 줘요.", "황소는 암컷이에요."],
+   "answer": 0,
+   "explain": "hembra = (동물의) 암컷, macho = 수컷."
+  },
+  {
+   "q": "'그는 콜롬비아 여자와 결혼했어요'에 맞는 전치사는? 'Está casado ___ una colombiana.'",
+   "options": ["a", "de", "con", "por"],
+   "answer": 2,
+   "explain": "casado con + 사람 / casarse con + 사람."
+  },
+  {
+   "q": "'Juan se quedó viudo hace cinco años.'의 뜻은?",
+   "options": ["후안은 5년 전에 결혼했어요.", "후안은 5년 전에 아내를 여의었어요.", "후안은 5년 동안 혼자 살았어요.", "후안은 5년 전에 이혼했어요."],
+   "answer": 1,
+   "explain": "viudo = 배우자를 잃은 사람. quedarse viudo = 홀아비가 되다."
+  },
+  {
+   "q": "'pareja de hecho'는 무엇일까요?",
+   "options": ["약혼한 커플", "사실혼(등록 동거) 커플", "신혼부부", "이혼한 부부"],
+   "answer": 1,
+   "explain": "Nos inscribimos como pareja de hecho. = 사실혼 커플로 등록했어요."
+  },
+  {
+   "q": "'Mi cartera es ___ cuero.' (가죽으로 된)",
+   "options": ["de", "con", "en", "por"],
+   "answer": 0,
+   "explain": "재료는 ser de: Mi cartera es de cuero."
+  },
+  {
+   "q": "'tarjeta de visita'는?",
+   "options": ["방문 카드", "명함", "신분증", "초대장"],
+   "answer": 1,
+   "explain": "tarjeta de visita = 명함."
+  },
+  {
+   "q": "'pendiente'의 뜻은?",
+   "options": ["팔찌", "반지", "귀걸이", "목걸이"],
+   "answer": 2,
+   "explain": "pendiente = 귀걸이, pulsera = 팔찌, anillo = 반지, collar = 목걸이."
+  }
+ ]
+}
