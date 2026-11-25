@@ -1,0 +1,1557 @@
+{
+ "id": "es-2026-11-25-4",
+ "lang": "es",
+ "date": "2026-11-25",
+ "title": "가족·연애·파티 — 스페인어 어휘 4장 (1–3과)",
+ "es": "Gemma y yo nos llevamos muy bien.",
+ "emoji": "👨‍👩‍👧",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 4 · Unidad 1–3 (04-01 · 04-02 · 04-03)",
+ "audio": "audio.m4a",
+ "duration": "10:47",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 4장의 1~3과 오디오 세 개를 하나로 이었어요(1~3장은 11/23·11/25 강의). 1과는 가족 구성원과 함께 살기·자라기(hijo único, primo, vivir juntos, llevar años viviendo juntos), 2과는 친구·연애·태도(llevarse bien, caer bien, salir con alguien, romper con alguien, portarse bien), 3과는 파티·선물·결혼식(fiesta de cumpleaños, regalar, irse de luna de miel, despedida de soltero)이에요. 사람 사이를 말하는 핵심 동사들을 예문으로 익혀요.",
+ "topics": [
+  "1과 가족: padres · hijo único · hermanos gemelos · tío · sobrino · primo · nieto",
+  "1과 생활: vivir juntos · padre soltero · adoptar un niño · crecer sano",
+  "2과 관계: llevarse bien · caer bien · salir con alguien · romper con alguien · ligar",
+  "3과 파티: fiesta de cumpleaños · regalar · boda · luna de miel · despedida de soltero",
+  "문법: llevarse bien vs caer bien · llevar + 기간 + -ndo · desde hace · 상호 재귀동사 · al + 동사원형"
+ ],
+ "grammar": [
+  {
+   "title": "① 가족 단어 — 남성 복수는 '남녀 모두'를 가리켜요",
+   "lead": "스페인어 남성 복수형은 남녀가 섞인 무리도 뜻해요. padres = 부모님, hermanos = 형제자매.",
+   "table": {
+    "head": [
+     "단수 (남/여)",
+     "복수",
+     "예문"
+    ],
+    "rows": [
+     [
+      "padre / madre",
+      "padres = 부모님",
+      "Mis padres viven en Madrid."
+     ],
+     [
+      "hijo / hija",
+      "hijos = 자녀",
+      "Soy hijo único. (외아들)"
+     ],
+     [
+      "hermano / hermana",
+      "hermanos = 형제자매",
+      "Juan y Luis son hermanos gemelos."
+     ],
+     [
+      "tío / tía",
+      "tíos = 삼촌·이모들",
+      "Mi tío está casado con una coreana."
+     ],
+     [
+      "primo / prima · sobrino / sobrina",
+      "primos = 사촌들 · sobrinos = 조카들",
+      "Tengo dos sobrinos."
+     ],
+     [
+      "abuelo / abuela · nieto / nieta",
+      "abuelos = 조부모 · nietos = 손주들",
+      "Juan tiene dos nietos y una nieta."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "② 기간 말하기 — desde hace + 기간 / llevar + 기간 + -ndo",
+   "lead": "'~한 지 얼마나 됐다'를 말하는 두 가지 방법이에요.",
+   "examples": [
+    [
+     "Vivimos juntos desde hace dos años.",
+     "우리는 2년 전부터 같이 살아요. (desde hace = ~ 전부터)"
+    ],
+    [
+     "Llevamos dos años viviendo juntos.",
+     "우리는 같이 산 지 2년 됐어요. (llevar + 기간 + 현재분사)"
+    ]
+   ],
+   "tip": "현재분사: vivir → viviendo, trabajar → trabajando, estudiar → estudiando."
+  },
+  {
+   "title": "③ llevarse bien vs caer bien — 사이가 좋다 vs 마음에 들다",
+   "lead": "<b>llevarse bien</b>은 서로 사이가 좋은 것, <b>caer bien</b>은 gustar처럼 '그 사람이 내 마음에 든다'예요.",
+   "examples": [
+    [
+     "Gemma y yo nos llevamos muy bien.",
+     "헤마와 나는 아주 사이가 좋아요. (llevarse = 재귀동사)"
+    ],
+    [
+     "Me cae bien Gemma.",
+     "나는 헤마가 마음에 들어요. (헤마가 나에게 좋게 떨어진다)"
+    ]
+   ],
+   "tip": "반대말: llevarse mal (사이가 나쁘다), caer mal (마음에 안 들다)."
+  },
+  {
+   "title": "④ 서로 ~하다 — 상호 재귀동사 (se + 복수 동사)",
+   "lead": "두 사람이 '서로' 하는 동작은 nos/se + 복수 동사로 말해요.",
+   "examples": [
+    [
+     "Los dos se abrazaron para despedirse.",
+     "두 사람은 작별하며 서로 껴안았어요."
+    ],
+    [
+     "Los dos se besaron apasionadamente.",
+     "두 사람은 열정적으로 키스했어요."
+    ],
+    [
+     "Gemma y yo nos llevamos muy bien.",
+     "헤마와 나는 서로 사이가 좋아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 연애 표현 — salir con · romper con · tener una aventura",
+   "lead": "연애의 시작부터 끝까지 쓰는 표현이에요. 상대 앞에는 <b>con</b>.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "ligar con",
+      "작업을 걸다 (구어)",
+      "A Juan le gusta ligar con chicas rubias."
+     ],
+     [
+      "salir con alguien",
+      "~와 사귀다",
+      "Raúl está saliendo con Gemma."
+     ],
+     [
+      "tener novio/a",
+      "애인이 있다",
+      "¿Tienes novio?"
+     ],
+     [
+      "tener una aventura",
+      "바람을 피우다",
+      "Juan está teniendo una aventura."
+     ],
+     [
+      "romper con alguien",
+      "~와 헤어지다",
+      "Gemma ha roto con Raúl. (romper → roto)"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑥ al + 동사원형 · 명령형으로 부탁하기",
+   "lead": "<b>al + 동사원형</b> = ~할 때. 가까운 사이엔 tú 명령형, 가게에선 ¿Me lo puede…?로 공손하게.",
+   "examples": [
+    [
+     "Al empezar una relación, es muy importante confiar en la otra persona.",
+     "관계를 시작할 때는 상대를 믿는 게 아주 중요해요."
+    ],
+    [
+     "Me pongo nervioso al abrir un regalo.",
+     "선물을 열 때면 설레요."
+    ],
+    [
+     "Pórtate bien con tus abuelos.",
+     "할머니 할아버지께 얌전히 굴어. (portarse → pórtate)"
+    ],
+    [
+     "¿Me lo puede envolver para regalo?",
+     "선물용으로 포장해 주시겠어요?"
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 파티와 행사 이름",
+   "lead": "fiesta는 '파티'도 되고 '축제'도 돼요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "fiesta de cumpleaños",
+      "생일 파티",
+      "Estás invitado a mi fiesta de cumpleaños."
+     ],
+     [
+      "fiesta de fin de curso",
+      "종강 파티",
+      "Mañana tenemos la fiesta de fin de curso."
+     ],
+     [
+      "fiesta popular / tradicional",
+      "지역 축제 / 전통 축제",
+      "La Tomatina de Buñol es una fiesta popular de España."
+     ],
+     [
+      "fiesta de disfraces",
+      "코스튬 파티",
+      "Me encantan las fiestas de disfraces."
+     ],
+     [
+      "comida de Navidad",
+      "크리스마스 식사 모임",
+      "Tengo una comida de Navidad con mis compañeros."
+     ],
+     [
+      "despedida de soltero/a",
+      "총각·처녀 파티",
+      "¿Cuándo le organizamos la despedida de soltero a Gabriel?"
+     ],
+     [
+      "irse / estar de luna de miel",
+      "신혼여행을 떠나다 / 신혼여행 중이다",
+      "Se van de luna de miel a España."
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "En mi familia somos tres personas.",
+   "우리 가족은 세 명이에요."
+  ],
+  [
+   "Soy hijo único.",
+   "저는 외아들이에요."
+  ],
+  [
+   "Llevamos dos años viviendo juntos.",
+   "우리는 같이 산 지 2년 됐어요."
+  ],
+  [
+   "Juan y yo somos amigos de toda la vida.",
+   "후안과 나는 평생 친구예요."
+  ],
+  [
+   "Me cae bien Gemma.",
+   "나는 헤마가 마음에 들어요."
+  ],
+  [
+   "¿Tienes novio?",
+   "남자 친구 있어?"
+  ],
+  [
+   "¿Qué me vas a regalar por mi cumpleaños?",
+   "내 생일에 뭐 선물해 줄 거야?"
+  ],
+  [
+   "¿Me lo puede envolver para regalo?",
+   "선물용으로 포장해 주시겠어요?"
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la familia",
+   "ko": "가족",
+   "ex": "En mi familia somos tres personas.",
+   "exKo": "우리 가족은 세 명이에요."
+  },
+  {
+   "es": "los padres",
+   "ko": "부모님",
+   "ex": "Mis padres viven en Madrid.",
+   "exKo": "부모님은 마드리드에 사세요."
+  },
+  {
+   "es": "hijo único",
+   "ko": "외아들",
+   "ex": "Soy hijo único.",
+   "exKo": "저는 외아들이에요."
+  },
+  {
+   "es": "hermanos gemelos",
+   "ko": "쌍둥이 형제",
+   "ex": "Juan y Luis son hermanos gemelos.",
+   "exKo": "후안과 루이스는 쌍둥이 형제예요."
+  },
+  {
+   "es": "el tío / la tía",
+   "ko": "삼촌·이모부 / 이모·고모",
+   "ex": "Mi tío está casado con una coreana.",
+   "exKo": "삼촌은 한국 여자와 결혼했어요."
+  },
+  {
+   "es": "el sobrino",
+   "ko": "조카",
+   "ex": "Tengo dos sobrinos.",
+   "exKo": "조카가 둘 있어요."
+  },
+  {
+   "es": "el primo",
+   "ko": "사촌",
+   "ex": "Todos mis primos viven en el extranjero.",
+   "exKo": "사촌들은 모두 외국에 살아요."
+  },
+  {
+   "es": "apoyar",
+   "ko": "응원하다, 지지하다",
+   "ex": "Mi abuelo me apoya en todo lo que hago.",
+   "exKo": "할아버지는 내가 하는 모든 일을 응원해 주세요."
+  },
+  {
+   "es": "el nieto",
+   "ko": "손자",
+   "ex": "Juan tiene dos nietos y una nieta.",
+   "exKo": "후안은 손자 둘과 손녀 하나가 있어요."
+  },
+  {
+   "es": "la pareja",
+   "ko": "커플, 짝, 배우자",
+   "ex": "Ana y Luis hacen una pareja preciosa.",
+   "exKo": "아나와 루이스는 잘 어울리는 커플이에요."
+  },
+  {
+   "es": "el novio",
+   "ko": "남자 친구",
+   "ex": "Mi novio es alto y guapo.",
+   "exKo": "남자 친구는 키 크고 잘생겼어요."
+  },
+  {
+   "es": "el exmarido",
+   "ko": "전 남편",
+   "ex": "El exmarido de Ana está saliendo con una actriz.",
+   "exKo": "아나의 전 남편은 여배우와 사귀어요."
+  },
+  {
+   "es": "vivir juntos",
+   "ko": "함께 살다",
+   "ex": "Vivimos juntos desde hace dos años.",
+   "exKo": "2년 전부터 같이 살아요."
+  },
+  {
+   "es": "padre soltero",
+   "ko": "싱글 대디",
+   "ex": "Jorge es padre soltero.",
+   "exKo": "호르헤는 싱글 대디예요."
+  },
+  {
+   "es": "adoptar",
+   "ko": "입양하다",
+   "ex": "Queremos adoptar un niño en el futuro.",
+   "exKo": "나중에 아이를 입양하고 싶어요."
+  },
+  {
+   "es": "obedecer",
+   "ko": "복종하다, 말을 듣다",
+   "ex": "Juan obedece mucho a sus padres.",
+   "exKo": "후안은 부모님 말씀을 잘 들어요."
+  },
+  {
+   "es": "discutir",
+   "ko": "말다툼하다, 토론하다",
+   "ex": "No me gusta discutir con mis padres.",
+   "exKo": "부모님과 다투는 건 싫어요."
+  },
+  {
+   "es": "crecer sano",
+   "ko": "건강하게 자라다",
+   "ex": "Mis hijos crecieron muy sanos.",
+   "exKo": "아이들은 아주 건강하게 자랐어요."
+  },
+  {
+   "es": "amigos de toda la vida",
+   "ko": "평생 친구",
+   "ex": "Juan y yo somos amigos de toda la vida.",
+   "exKo": "후안과 나는 평생 친구예요."
+  },
+  {
+   "es": "el vecino",
+   "ko": "이웃",
+   "ex": "Juan es mi vecino.",
+   "exKo": "후안은 우리 이웃이에요."
+  },
+  {
+   "es": "el socio",
+   "ko": "회원; 동업자",
+   "ex": "Soy socio de un club de lectura.",
+   "exKo": "독서 모임 회원이에요."
+  },
+  {
+   "es": "la reunión",
+   "ko": "모임, 회의",
+   "ex": "Mañana tengo una reunión familiar.",
+   "exKo": "내일 가족 모임이 있어요."
+  },
+  {
+   "es": "la cita",
+   "ko": "약속, 데이트",
+   "ex": "Mañana tengo una cita.",
+   "exKo": "내일 데이트가 있어요."
+  },
+  {
+   "es": "la exposición",
+   "ko": "전시회",
+   "ex": "Me gusta visitar exposiciones de fotografía.",
+   "exKo": "사진전 보러 다니는 걸 좋아해요."
+  },
+  {
+   "es": "amigo de la infancia",
+   "ko": "어릴 적 친구",
+   "ex": "Luis es uno de mis amigos de la infancia.",
+   "exKo": "루이스는 어릴 적 친구예요."
+  },
+  {
+   "es": "llevarse bien",
+   "ko": "사이가 좋다",
+   "ex": "Gemma y yo nos llevamos muy bien.",
+   "exKo": "헤마와 나는 사이가 아주 좋아요."
+  },
+  {
+   "es": "caer bien",
+   "ko": "마음에 들다, 호감 가다",
+   "ex": "Me cae bien Gemma.",
+   "exKo": "헤마가 마음에 들어요."
+  },
+  {
+   "es": "dar un abrazo",
+   "ko": "안아 주다",
+   "ex": "Te doy un abrazo antes de irme.",
+   "exKo": "가기 전에 안아 줄게."
+  },
+  {
+   "es": "despedirse",
+   "ko": "작별 인사하다",
+   "ex": "Los dos se abrazaron para despedirse.",
+   "exKo": "둘은 작별하며 껴안았어요."
+  },
+  {
+   "es": "salir con alguien",
+   "ko": "~와 사귀다",
+   "ex": "Raúl está saliendo con Gemma.",
+   "exKo": "라울은 헤마와 사귀고 있어요."
+  },
+  {
+   "es": "confiar en",
+   "ko": "~을 믿다",
+   "ex": "Es importante confiar en la otra persona.",
+   "exKo": "상대를 믿는 게 중요해요."
+  },
+  {
+   "es": "tener una aventura",
+   "ko": "바람을 피우다",
+   "ex": "Juan está teniendo una aventura.",
+   "exKo": "후안은 바람을 피우고 있어요."
+  },
+  {
+   "es": "romper con alguien",
+   "ko": "~와 헤어지다",
+   "ex": "Gemma ha roto con Raúl.",
+   "exKo": "헤마는 라울과 헤어졌어요."
+  },
+  {
+   "es": "dar un beso",
+   "ko": "입맞춤하다",
+   "ex": "¿Me das un besito?",
+   "exKo": "뽀뽀해 줄래?"
+  },
+  {
+   "es": "apasionadamente",
+   "ko": "열정적으로",
+   "ex": "Los dos se besaron apasionadamente.",
+   "exKo": "둘은 열정적으로 키스했어요."
+  },
+  {
+   "es": "ligar",
+   "ko": "작업을 걸다 (구어)",
+   "ex": "A Juan le gusta ligar con chicas rubias.",
+   "exKo": "후안은 금발 여자에게 작업 거는 걸 좋아해요."
+  },
+  {
+   "es": "la actitud",
+   "ko": "태도",
+   "ex": "Es importante tener una actitud positiva.",
+   "exKo": "긍정적인 태도가 중요해요."
+  },
+  {
+   "es": "portarse bien",
+   "ko": "얌전히 굴다",
+   "ex": "Pórtate bien con tus abuelos.",
+   "exKo": "할머니 할아버지께 얌전히 굴어."
+  },
+  {
+   "es": "tratar bien",
+   "ko": "잘 대해 주다",
+   "ex": "En el trabajo todo el mundo me trata bien.",
+   "exKo": "직장에서 다들 나를 잘 대해 줘요."
+  },
+  {
+   "es": "la fiesta",
+   "ko": "파티, 축제",
+   "ex": "Quiero hacer una fiesta este fin de semana.",
+   "exKo": "이번 주말에 파티를 열고 싶어요."
+  },
+  {
+   "es": "estar invitado",
+   "ko": "초대받다",
+   "ex": "Estás invitado a mi fiesta de cumpleaños.",
+   "exKo": "내 생일 파티에 초대할게."
+  },
+  {
+   "es": "el fin de curso",
+   "ko": "학기 말, 종강",
+   "ex": "Mañana tenemos la fiesta de fin de curso.",
+   "exKo": "내일 종강 파티가 있어요."
+  },
+  {
+   "es": "el regalo",
+   "ko": "선물",
+   "ex": "Tengo que comprar un regalo para Gemma.",
+   "exKo": "헤마 선물을 사야 해요."
+  },
+  {
+   "es": "regalar",
+   "ko": "선물하다",
+   "ex": "¿Qué me vas a regalar por mi cumpleaños?",
+   "exKo": "내 생일에 뭐 선물해 줄 거야?"
+  },
+  {
+   "es": "la boda",
+   "ko": "결혼식",
+   "ex": "Su boda será en un hotel de lujo.",
+   "exKo": "결혼식은 고급 호텔에서 열려요."
+  },
+  {
+   "es": "la luna de miel",
+   "ko": "신혼여행",
+   "ex": "Se van de luna de miel a España.",
+   "exKo": "스페인으로 신혼여행을 가요."
+  },
+  {
+   "es": "felicitar",
+   "ko": "축하하다",
+   "ex": "Gracias por felicitarme.",
+   "exKo": "축하해 줘서 고마워."
+  },
+  {
+   "es": "envolver",
+   "ko": "포장하다",
+   "ex": "¿Me lo puede envolver para regalo?",
+   "exKo": "선물용으로 포장해 주시겠어요?"
+  },
+  {
+   "es": "apreciar",
+   "ko": "소중히 여기다, 감상하다",
+   "ex": "Deberíamos apreciar más nuestras fiestas tradicionales.",
+   "exKo": "전통 축제를 더 소중히 여겨야 해요."
+  },
+  {
+   "es": "el disfraz",
+   "ko": "변장, 코스튬",
+   "ex": "Me encantan las fiestas de disfraces.",
+   "exKo": "코스튬 파티를 정말 좋아해요."
+  },
+  {
+   "es": "la despedida de soltero",
+   "ko": "총각 파티",
+   "ex": "¿Cuándo le organizamos la despedida de soltero a Gabriel?",
+   "exKo": "가브리엘 총각 파티는 언제 열어 줄까?"
+  },
+  {
+   "es": "invitar",
+   "ko": "초대하다",
+   "ex": "Pepe me ha invitado a su fiesta de cumpleaños.",
+   "exKo": "페페가 생일 파티에 초대했어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'Soy hijo único.'의 뜻은?",
+   "options": [
+    "저는 첫째예요.",
+    "저는 외아들이에요.",
+    "저는 쌍둥이예요.",
+    "저는 막내예요."
+   ],
+   "answer": 1,
+   "explain": "hijo único = 외아들 (외동딸은 hija única)."
+  },
+  {
+   "q": "'Mis padres'가 가리키는 사람은?",
+   "options": [
+    "우리 아버지들",
+    "우리 부모님",
+    "우리 할아버지",
+    "우리 삼촌들"
+   ],
+   "answer": 1,
+   "explain": "padres = 아버지와 어머니, 즉 부모님."
+  },
+  {
+   "q": "'우리는 같이 산 지 2년 됐어요'는? 'Llevamos dos años ___ juntos.'",
+   "options": [
+    "vivir",
+    "vivido",
+    "viviendo",
+    "vivimos"
+   ],
+   "answer": 2,
+   "explain": "llevar + 기간 + 현재분사(-ndo)."
+  },
+  {
+   "q": "'Vivimos juntos ___ hace dos años.'",
+   "options": [
+    "desde",
+    "hasta",
+    "por",
+    "para"
+   ],
+   "answer": 0,
+   "explain": "desde hace + 기간 = ~ 전부터."
+  },
+  {
+   "q": "'Gemma y yo nos llevamos muy bien.'의 뜻은?",
+   "options": [
+    "헤마와 나는 함께 살아요.",
+    "헤마와 나는 아주 사이가 좋아요.",
+    "헤마와 나는 함께 일해요.",
+    "헤마가 나를 데려가요."
+   ],
+   "answer": 1,
+   "explain": "llevarse bien = 사이가 좋다."
+  },
+  {
+   "q": "'나는 헤마가 마음에 들어요'에 맞는 문장은?",
+   "options": [
+    "Me cae bien Gemma.",
+    "Me llevo bien Gemma.",
+    "Caigo bien a Gemma.",
+    "Gemma me lleva bien."
+   ],
+   "answer": 0,
+   "explain": "caer bien은 gustar처럼: Me cae bien Gemma."
+  },
+  {
+   "q": "'Raúl está saliendo con Gemma.'의 뜻은?",
+   "options": [
+    "라울은 헤마와 외출 중이에요.",
+    "라울은 헤마와 사귀고 있어요.",
+    "라울은 헤마를 떠났어요.",
+    "라울은 헤마를 기다려요."
+   ],
+   "answer": 1,
+   "explain": "salir con alguien = ~와 사귀다."
+  },
+  {
+   "q": "'Gemma ha roto con Raúl.'의 뜻은?",
+   "options": [
+    "헤마가 라울의 물건을 깼어요.",
+    "헤마는 라울과 헤어졌어요.",
+    "헤마는 라울과 결혼했어요.",
+    "헤마는 라울을 만났어요."
+   ],
+   "answer": 1,
+   "explain": "romper con alguien = ~와 헤어지다."
+  },
+  {
+   "q": "'Pórtate bien con tus abuelos.'의 뜻은?",
+   "options": [
+    "할머니 할아버지를 모셔 와.",
+    "할머니 할아버지께 얌전히 굴어.",
+    "할머니 할아버지께 전화해.",
+    "할머니 할아버지와 놀아."
+   ],
+   "answer": 1,
+   "explain": "portarse bien = 얌전히(예의 바르게) 행동하다."
+  },
+  {
+   "q": "'신혼여행 중이다'는?",
+   "options": [
+    "irse de luna de miel",
+    "estar de luna de miel",
+    "hacer luna de miel",
+    "tener luna de miel"
+   ],
+   "answer": 1,
+   "explain": "estar de luna de miel = 신혼여행 중, irse de luna de miel = 신혼여행을 떠나다."
+  },
+  {
+   "q": "가게에서 '선물용으로 포장해 주시겠어요?'는?",
+   "options": [
+    "¿Me lo puede envolver para regalo?",
+    "¿Me lo puede regalar?",
+    "¿Puedo abrir el regalo?",
+    "¿Me lo puede felicitar?"
+   ],
+   "answer": 0,
+   "explain": "envolver = 포장하다."
+  },
+  {
+   "q": "'despedida de soltero'는 무엇일까요?",
+   "options": [
+    "이혼 파티",
+    "총각 파티",
+    "송별회",
+    "졸업 파티"
+   ],
+   "answer": 1,
+   "explain": "결혼 전 친구들이 열어 주는 총각 파티(여자는 despedida de soltera)."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Unidad 1 — 가족 ① 가족 구성원",
+   "lines": [
+    {
+     "t": 7.2,
+     "s": "N",
+     "es": "Capítulo 4. Unidad 1.",
+     "ko": "4장. 1과."
+    },
+    {
+     "t": 18.2,
+     "s": "N",
+     "es": "Familia",
+     "ko": "가족"
+    },
+    {
+     "t": 19.6,
+     "s": "N",
+     "es": "En mi familia somos tres personas.",
+     "ko": "우리 가족은 세 명이에요."
+    },
+    {
+     "t": 26.5,
+     "s": "N",
+     "es": "Padres",
+     "ko": "부모님"
+    },
+    {
+     "t": 27.9,
+     "s": "N",
+     "es": "Mis padres viven en Madrid.",
+     "ko": "우리 부모님은 마드리드에 사세요."
+    },
+    {
+     "t": 34.0,
+     "s": "N",
+     "es": "Padre",
+     "ko": "아버지"
+    },
+    {
+     "t": 35.6,
+     "s": "N",
+     "es": "Mi padre trabaja en una empresa de automóviles.",
+     "ko": "아버지는 자동차 회사에서 일하세요."
+    },
+    {
+     "t": 43.6,
+     "s": "N",
+     "es": "Hijo",
+     "ko": "아들, 자식"
+    },
+    {
+     "t": 44.8,
+     "s": "N",
+     "es": "Soy hijo único.",
+     "ko": "저는 외아들이에요."
+    },
+    {
+     "t": 50.2,
+     "s": "N",
+     "es": "Hermano",
+     "ko": "형제"
+    },
+    {
+     "t": 51.6,
+     "s": "N",
+     "es": "Juan y Luis son hermanos gemelos.",
+     "ko": "후안과 루이스는 쌍둥이 형제예요."
+    },
+    {
+     "t": 60.3,
+     "s": "N",
+     "es": "Tío",
+     "ko": "삼촌, 이모부·고모부"
+    },
+    {
+     "t": 61.7,
+     "s": "N",
+     "es": "Mi tío está casado con una coreana.",
+     "ko": "삼촌은 한국 여자와 결혼했어요."
+    },
+    {
+     "t": 68.9,
+     "s": "N",
+     "es": "Sobrino",
+     "ko": "조카"
+    },
+    {
+     "t": 70.3,
+     "s": "N",
+     "es": "Tengo dos sobrinos.",
+     "ko": "조카가 둘 있어요."
+    },
+    {
+     "t": 75.7,
+     "s": "N",
+     "es": "Primo",
+     "ko": "사촌"
+    },
+    {
+     "t": 77.1,
+     "s": "N",
+     "es": "Todos mis primos viven en el extranjero.",
+     "ko": "내 사촌들은 모두 외국에 살아요."
+    },
+    {
+     "t": 85.2,
+     "s": "N",
+     "es": "Abuelo",
+     "ko": "할아버지"
+    },
+    {
+     "t": 86.9,
+     "s": "N",
+     "es": "Mi abuelo me apoya en todo lo que hago.",
+     "ko": "할아버지는 내가 하는 모든 일을 응원해 주세요."
+    },
+    {
+     "t": 94.8,
+     "s": "N",
+     "es": "Nieto",
+     "ko": "손자"
+    },
+    {
+     "t": 96.2,
+     "s": "N",
+     "es": "Juan tiene dos nietos y una nieta.",
+     "ko": "후안은 손자 둘과 손녀 하나가 있어요."
+    },
+    {
+     "t": 103.5,
+     "s": "N",
+     "es": "Pareja",
+     "ko": "커플, 짝, 배우자"
+    },
+    {
+     "t": 104.9,
+     "s": "N",
+     "es": "Ana y Luis hacen una pareja preciosa.",
+     "ko": "아나와 루이스는 아주 잘 어울리는 커플이에요."
+    },
+    {
+     "t": 112.3,
+     "s": "N",
+     "es": "Novio",
+     "ko": "남자 친구"
+    },
+    {
+     "t": 113.1,
+     "s": "N",
+     "es": "Mi novio es alto y guapo.",
+     "ko": "내 남자 친구는 키 크고 잘생겼어요."
+    },
+    {
+     "t": 120.6,
+     "s": "N",
+     "es": "Papá",
+     "ko": "아빠"
+    },
+    {
+     "t": 122.0,
+     "s": "N",
+     "es": "Papá, ¿dónde está mamá?",
+     "ko": "아빠, 엄마 어디 있어요?"
+    },
+    {
+     "t": 127.7,
+     "s": "N",
+     "es": "Exmarido",
+     "ko": "전 남편"
+    },
+    {
+     "t": 129.1,
+     "s": "N",
+     "es": "El exmarido de Ana está saliendo con una actriz.",
+     "ko": "아나의 전 남편은 여배우와 사귀고 있어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 1 — 가족 ② 함께 살기와 자라기",
+   "lines": [
+    {
+     "t": 138.4,
+     "s": "N",
+     "es": "Vivir juntos",
+     "ko": "함께 살다"
+    },
+    {
+     "t": 141.3,
+     "s": "N",
+     "es": "Vivimos juntos desde hace dos años.",
+     "ko": "우리는 2년 전부터 같이 살아요."
+    },
+    {
+     "t": 149.2,
+     "s": "N",
+     "es": "Vivir con la pareja",
+     "ko": "연인·배우자와 살다"
+    },
+    {
+     "t": 152.7,
+     "s": "N",
+     "es": "¿Te gustaría vivir con tu pareja en el futuro?",
+     "ko": "나중에 연인과 같이 살고 싶어?"
+    },
+    {
+     "t": 160.4,
+     "s": "N",
+     "es": "Padre soltero",
+     "ko": "싱글 대디"
+    },
+    {
+     "t": 163.2,
+     "s": "N",
+     "es": "Jorge es padre soltero.",
+     "ko": "호르헤는 싱글 대디예요."
+    },
+    {
+     "t": 167.3,
+     "s": "N",
+     "es": "Adoptar un niño",
+     "ko": "아이를 입양하다"
+    },
+    {
+     "t": 171.3,
+     "s": "N",
+     "es": "Queremos adoptar un niño en el futuro.",
+     "ko": "우리는 나중에 아이를 입양하고 싶어요."
+    },
+    {
+     "t": 177.4,
+     "s": "N",
+     "es": "Llevar años viviendo juntos",
+     "ko": "함께 산 지 몇 년 되다"
+    },
+    {
+     "t": 182.3,
+     "s": "N",
+     "es": "Llevamos dos años viviendo juntos.",
+     "ko": "우리는 같이 산 지 2년 됐어요."
+    },
+    {
+     "t": 189.1,
+     "s": "N",
+     "es": "Obedecer a los padres",
+     "ko": "부모님 말씀을 따르다"
+    },
+    {
+     "t": 192.3,
+     "s": "N",
+     "es": "Juan obedece mucho a sus padres.",
+     "ko": "후안은 부모님 말씀을 잘 들어요."
+    },
+    {
+     "t": 198.0,
+     "s": "N",
+     "es": "Discutir con los padres",
+     "ko": "부모님과 말다툼하다"
+    },
+    {
+     "t": 201.8,
+     "s": "N",
+     "es": "No me gusta discutir con mis padres.",
+     "ko": "부모님과 다투는 건 싫어요."
+    },
+    {
+     "t": 207.9,
+     "s": "N",
+     "es": "Crecer feliz",
+     "ko": "행복하게 자라다"
+    },
+    {
+     "t": 210.3,
+     "s": "N",
+     "es": "Los niños deberían crecer felices.",
+     "ko": "아이들은 행복하게 자라야 해요."
+    },
+    {
+     "t": 216.6,
+     "s": "N",
+     "es": "Crecer sano",
+     "ko": "건강하게 자라다"
+    },
+    {
+     "t": 219.3,
+     "s": "N",
+     "es": "Mis hijos crecieron muy sanos.",
+     "ko": "우리 아이들은 아주 건강하게 자랐어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2 — 사람 사이 ① 친구와 만남",
+   "lines": [
+    {
+     "t": 229.2,
+     "s": "N",
+     "es": "Unidad 2",
+     "ko": "2과"
+    },
+    {
+     "t": 233.1,
+     "s": "N",
+     "es": "Amigo",
+     "ko": "친구"
+    },
+    {
+     "t": 235.3,
+     "s": "N",
+     "es": "Juan y yo somos amigos de toda la vida.",
+     "ko": "후안과 나는 평생 친구예요."
+    },
+    {
+     "t": 243.0,
+     "s": "N",
+     "es": "Vecino",
+     "ko": "이웃"
+    },
+    {
+     "t": 245.0,
+     "s": "N",
+     "es": "Juan es mi vecino.",
+     "ko": "후안은 우리 이웃이에요."
+    },
+    {
+     "t": 249.8,
+     "s": "N",
+     "es": "Socio",
+     "ko": "회원; 동업자"
+    },
+    {
+     "t": 250.8,
+     "s": "N",
+     "es": "Soy socio de un club de lectura.",
+     "ko": "나는 독서 모임 회원이에요."
+    },
+    {
+     "t": 258.4,
+     "s": "N",
+     "es": "Reunión",
+     "ko": "모임, 회의"
+    },
+    {
+     "t": 259.8,
+     "s": "N",
+     "es": "Mañana tengo una reunión familiar.",
+     "ko": "내일 가족 모임이 있어요."
+    },
+    {
+     "t": 266.4,
+     "s": "N",
+     "es": "Cita",
+     "ko": "약속, 데이트; (병원) 예약"
+    },
+    {
+     "t": 268.2,
+     "s": "N",
+     "es": "Mañana tengo una cita.",
+     "ko": "내일 데이트가 있어요."
+    },
+    {
+     "t": 273.3,
+     "s": "N",
+     "es": "Visitar",
+     "ko": "방문하다, 구경하다"
+    },
+    {
+     "t": 275.3,
+     "s": "N",
+     "es": "Me gusta visitar exposiciones de fotografía.",
+     "ko": "사진전 보러 다니는 걸 좋아해요."
+    },
+    {
+     "t": 282.7,
+     "s": "N",
+     "es": "Amigo de la infancia",
+     "ko": "어릴 적 친구"
+    },
+    {
+     "t": 285.7,
+     "s": "N",
+     "es": "Luis es uno de mis amigos de la infancia.",
+     "ko": "루이스는 내 어릴 적 친구 중 한 명이에요."
+    },
+    {
+     "t": 293.2,
+     "s": "N",
+     "es": "Amigo de la universidad",
+     "ko": "대학 친구"
+    },
+    {
+     "t": 296.7,
+     "s": "N",
+     "es": "Ana y yo somos amigos de la universidad.",
+     "ko": "아나와 나는 대학 친구예요."
+    },
+    {
+     "t": 303.9,
+     "s": "N",
+     "es": "Llevarse bien",
+     "ko": "사이가 좋다"
+    },
+    {
+     "t": 306.6,
+     "s": "N",
+     "es": "Gemma y yo nos llevamos muy bien.",
+     "ko": "헤마와 나는 아주 사이가 좋아요."
+    },
+    {
+     "t": 312.0,
+     "s": "N",
+     "es": "Caer bien",
+     "ko": "(사람이) 마음에 들다, 호감이 가다"
+    },
+    {
+     "t": 314.6,
+     "s": "N",
+     "es": "Me cae bien Gemma.",
+     "ko": "나는 헤마가 마음에 들어요."
+    },
+    {
+     "t": 319.3,
+     "s": "N",
+     "es": "Dar un abrazo",
+     "ko": "안아 주다"
+    },
+    {
+     "t": 322.0,
+     "s": "N",
+     "es": "Te doy un abrazo antes de irme.",
+     "ko": "가기 전에 한번 안아 줄게."
+    },
+    {
+     "t": 328.2,
+     "s": "N",
+     "es": "Abrazar",
+     "ko": "껴안다"
+    },
+    {
+     "t": 329.6,
+     "s": "N",
+     "es": "Los dos se abrazaron para despedirse.",
+     "ko": "두 사람은 작별하며 서로 껴안았어요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2 — 사람 사이 ② 연애와 태도",
+   "lines": [
+    {
+     "t": 336.8,
+     "s": "N",
+     "es": "Salir con alguien",
+     "ko": "~와 사귀다"
+    },
+    {
+     "t": 339.9,
+     "s": "N",
+     "es": "Raúl está saliendo con Gemma.",
+     "ko": "라울은 헤마와 사귀고 있어요."
+    },
+    {
+     "t": 345.9,
+     "s": "N",
+     "es": "Tener novio",
+     "ko": "남자 친구가 있다"
+    },
+    {
+     "t": 348.4,
+     "s": "N",
+     "es": "¿Tienes novio?",
+     "ko": "남자 친구 있어?"
+    },
+    {
+     "t": 352.5,
+     "s": "N",
+     "es": "Empezar una relación",
+     "ko": "관계를 시작하다"
+    },
+    {
+     "t": 356.7,
+     "s": "N",
+     "es": "Al empezar una relación, es muy importante confiar en la otra persona.",
+     "ko": "관계를 시작할 때는 상대를 믿는 게 아주 중요해요."
+    },
+    {
+     "t": 366.4,
+     "s": "N",
+     "es": "Tener una aventura",
+     "ko": "바람을 피우다"
+    },
+    {
+     "t": 370.5,
+     "s": "N",
+     "es": "Juan está teniendo una aventura.",
+     "ko": "후안은 바람을 피우고 있어요."
+    },
+    {
+     "t": 376.7,
+     "s": "N",
+     "es": "Romper con alguien",
+     "ko": "~와 헤어지다"
+    },
+    {
+     "t": 379.0,
+     "s": "N",
+     "es": "Gemma ha roto con Raúl.",
+     "ko": "헤마는 라울과 헤어졌어요."
+    },
+    {
+     "t": 385.2,
+     "s": "N",
+     "es": "Dar un beso",
+     "ko": "입맞춤하다, 뽀뽀하다"
+    },
+    {
+     "t": 388.1,
+     "s": "N",
+     "es": "¿Me das un besito?",
+     "ko": "뽀뽀해 줄래?"
+    },
+    {
+     "t": 393.9,
+     "s": "N",
+     "es": "Besar",
+     "ko": "입 맞추다"
+    },
+    {
+     "t": 395.3,
+     "s": "N",
+     "es": "Los dos se besaron apasionadamente.",
+     "ko": "두 사람은 열정적으로 키스했어요."
+    },
+    {
+     "t": 401.6,
+     "s": "N",
+     "es": "Ligar",
+     "ko": "이성에게 작업을 걸다 (구어)"
+    },
+    {
+     "t": 403.0,
+     "s": "N",
+     "es": "A Juan le gusta ligar con chicas rubias.",
+     "ko": "후안은 금발 여자들에게 작업 거는 걸 좋아해요."
+    },
+    {
+     "t": 410.2,
+     "s": "N",
+     "es": "Tener una actitud positiva",
+     "ko": "긍정적인 태도를 가지다"
+    },
+    {
+     "t": 414.3,
+     "s": "N",
+     "es": "Es importante tener una actitud positiva en una entrevista de trabajo.",
+     "ko": "면접에서는 긍정적인 태도가 중요해요."
+    },
+    {
+     "t": 423.7,
+     "s": "N",
+     "es": "Tener una buena actitud",
+     "ko": "태도가 좋다"
+    },
+    {
+     "t": 427.3,
+     "s": "N",
+     "es": "Enrique siempre tiene una buena actitud, haga lo que haga.",
+     "ko": "엔리케는 무엇을 하든 늘 태도가 좋아요."
+    },
+    {
+     "t": 435.8,
+     "s": "N",
+     "es": "Portarse bien",
+     "ko": "얌전히 굴다, 예의 바르게 행동하다"
+    },
+    {
+     "t": 438.5,
+     "s": "N",
+     "es": "Pórtate bien con tus abuelos.",
+     "ko": "할머니 할아버지께 얌전히 굴어."
+    },
+    {
+     "t": 443.8,
+     "s": "N",
+     "es": "Tratar bien a alguien",
+     "ko": "~를 잘 대해 주다"
+    },
+    {
+     "t": 447.2,
+     "s": "N",
+     "es": "En el trabajo todo el mundo me trata bien.",
+     "ko": "직장에서 모두가 나를 잘 대해 줘요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3 — 파티·선물·결혼식",
+   "lines": [
+    {
+     "t": 456.9,
+     "s": "N",
+     "es": "Unidad 3",
+     "ko": "3과"
+    },
+    {
+     "t": 460.7,
+     "s": "N",
+     "es": "Fiesta",
+     "ko": "파티, 축제"
+    },
+    {
+     "t": 462.9,
+     "s": "N",
+     "es": "Quiero hacer una fiesta este fin de semana.",
+     "ko": "이번 주말에 파티를 열고 싶어요."
+    },
+    {
+     "t": 470.5,
+     "s": "N",
+     "es": "Fiesta de cumpleaños",
+     "ko": "생일 파티"
+    },
+    {
+     "t": 473.9,
+     "s": "N",
+     "es": "Estás invitado a mi fiesta de cumpleaños.",
+     "ko": "내 생일 파티에 초대할게."
+    },
+    {
+     "t": 481.1,
+     "s": "N",
+     "es": "Fiesta de fin de curso",
+     "ko": "종강 파티"
+    },
+    {
+     "t": 484.9,
+     "s": "N",
+     "es": "Mañana tenemos la fiesta de fin de curso.",
+     "ko": "내일 종강 파티가 있어요."
+    },
+    {
+     "t": 492.0,
+     "s": "N",
+     "es": "Regalo",
+     "ko": "선물"
+    },
+    {
+     "t": 493.4,
+     "s": "N",
+     "es": "Tengo que comprar un regalo para Gemma.",
+     "ko": "헤마에게 줄 선물을 사야 해요."
+    },
+    {
+     "t": 500.2,
+     "s": "N",
+     "es": "Regalar",
+     "ko": "선물하다"
+    },
+    {
+     "t": 502.2,
+     "s": "N",
+     "es": "¿Qué me vas a regalar por mi cumpleaños?",
+     "ko": "내 생일에 뭐 선물해 줄 거야?"
+    },
+    {
+     "t": 508.4,
+     "s": "N",
+     "es": "Hacer un regalo",
+     "ko": "선물을 하다"
+    },
+    {
+     "t": 511.4,
+     "s": "N",
+     "es": "Hacer un regalo original es difícil.",
+     "ko": "독창적인 선물을 하는 건 어려워요."
+    },
+    {
+     "t": 518.5,
+     "s": "N",
+     "es": "Boda",
+     "ko": "결혼식"
+    },
+    {
+     "t": 519.3,
+     "s": "N",
+     "es": "Su boda será en un hotel de lujo.",
+     "ko": "그들의 결혼식은 고급 호텔에서 열릴 거예요."
+    },
+    {
+     "t": 525.3,
+     "s": "N",
+     "es": "Irse de luna de miel",
+     "ko": "신혼여행을 떠나다"
+    },
+    {
+     "t": 528.2,
+     "s": "N",
+     "es": "Se van de luna de miel a España.",
+     "ko": "그들은 스페인으로 신혼여행을 가요."
+    },
+    {
+     "t": 533.9,
+     "s": "N",
+     "es": "Estar de luna de miel",
+     "ko": "신혼여행 중이다"
+    },
+    {
+     "t": 537.6,
+     "s": "N",
+     "es": "Están de luna de miel en España.",
+     "ko": "그들은 스페인에서 신혼여행 중이에요."
+    },
+    {
+     "t": 543.6,
+     "s": "N",
+     "es": "Felicitar",
+     "ko": "축하하다"
+    },
+    {
+     "t": 545.4,
+     "s": "N",
+     "es": "Gracias por felicitarme.",
+     "ko": "축하해 줘서 고마워."
+    },
+    {
+     "t": 550.3,
+     "s": "N",
+     "es": "Envolver",
+     "ko": "포장하다"
+    },
+    {
+     "t": 552.4,
+     "s": "N",
+     "es": "¿Me lo puede envolver para regalo?",
+     "ko": "선물용으로 포장해 주시겠어요?"
+    },
+    {
+     "t": 557.9,
+     "s": "N",
+     "es": "Abrir un regalo",
+     "ko": "선물을 열다"
+    },
+    {
+     "t": 561.2,
+     "s": "N",
+     "es": "Me pongo nervioso al abrir un regalo.",
+     "ko": "선물을 열 때면 설레요."
+    },
+    {
+     "t": 567.7,
+     "s": "N",
+     "es": "Fiesta tradicional",
+     "ko": "전통 축제"
+    },
+    {
+     "t": 570.5,
+     "s": "N",
+     "es": "Deberíamos apreciar más nuestras fiestas tradicionales.",
+     "ko": "우리 전통 축제를 더 소중히 여겨야 해요."
+    },
+    {
+     "t": 578.1,
+     "s": "N",
+     "es": "Fiesta popular",
+     "ko": "민속 축제, 지역 축제"
+    },
+    {
+     "t": 580.5,
+     "s": "N",
+     "es": "La Tomatina de Buñol es una fiesta popular de España.",
+     "ko": "부뇰의 토마티나는 스페인의 지역 축제예요."
+    },
+    {
+     "t": 588.9,
+     "s": "N",
+     "es": "Fiesta de disfraces",
+     "ko": "가장무도회, 코스튬 파티"
+    },
+    {
+     "t": 591.0,
+     "s": "N",
+     "es": "A mí me encantan las fiestas de disfraces.",
+     "ko": "나는 코스튬 파티를 정말 좋아해요."
+    },
+    {
+     "t": 597.5,
+     "s": "N",
+     "es": "Fiesta formal",
+     "ko": "격식 있는 파티"
+    },
+    {
+     "t": 600.7,
+     "s": "N",
+     "es": "Necesito comprarme un vestido de fiesta formal.",
+     "ko": "격식 있는 파티용 드레스를 사야 해요."
+    },
+    {
+     "t": 607.8,
+     "s": "N",
+     "es": "Reunión",
+     "ko": "모임"
+    },
+    {
+     "t": 609.0,
+     "s": "N",
+     "es": "Me cansan mucho las reuniones formales.",
+     "ko": "격식 차린 모임은 너무 피곤해요."
+    },
+    {
+     "t": 616.3,
+     "s": "N",
+     "es": "Comida de Navidad",
+     "ko": "크리스마스 식사 모임"
+    },
+    {
+     "t": 618.1,
+     "s": "N",
+     "es": "Esta noche tengo una comida de Navidad con mis compañeros de trabajo.",
+     "ko": "오늘 밤 직장 동료들과 크리스마스 식사 모임이 있어요."
+    },
+    {
+     "t": 627.1,
+     "s": "N",
+     "es": "Despedida de soltero",
+     "ko": "총각 파티"
+    },
+    {
+     "t": 630.3,
+     "s": "N",
+     "es": "¿Cuándo le organizamos la despedida de soltero a Gabriel?",
+     "ko": "가브리엘 총각 파티는 언제 열어 줄까?"
+    },
+    {
+     "t": 637.6,
+     "s": "N",
+     "es": "Invitar a alguien a una fiesta",
+     "ko": "누군가를 파티에 초대하다"
+    },
+    {
+     "t": 641.7,
+     "s": "N",
+     "es": "Pepe me ha invitado a su fiesta de cumpleaños.",
+     "ko": "페페가 자기 생일 파티에 나를 초대했어요."
+    }
+   ]
+  }
+ ]
+}

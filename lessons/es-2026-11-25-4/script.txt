@@ -1,0 +1,285 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 낭독. 단어 → 예문 순서로 읽는 어휘 교재 오디오예요 (1장 es-2026-11-23-2 · 2장 es-2026-11-25-2 · 3장 es-2026-11-25-3). END = 오디오 끝 시각
+# 원본: 사용자 제공 오디오 04-01(1과) · 04-02(2과) · 04-03(3과)을 순서대로 이어 붙이고 Whisper(medium)로 받아쓰기. 문장부호와 고유명사(La Tomatina de Buñol)를 다듬었어요.
+# 시각은 Whisper 단어 시각으로 구한 문장별 시작 시각이에요.
+END 10:47
+
+## Unidad 1 — 가족 ① 가족 구성원
+[00:07.20]
+N | Capítulo 4. Unidad 1. | 4장. 1과.
+[00:18.22]
+N | Familia | 가족
+[00:19.62]
+N | En mi familia somos tres personas. | 우리 가족은 세 명이에요.
+[00:26.48]
+N | Padres | 부모님
+[00:27.88]
+N | Mis padres viven en Madrid. | 우리 부모님은 마드리드에 사세요.
+[00:33.96]
+N | Padre | 아버지
+[00:35.60]
+N | Mi padre trabaja en una empresa de automóviles. | 아버지는 자동차 회사에서 일하세요.
+[00:43.58]
+N | Hijo | 아들, 자식
+[00:44.82]
+N | Soy hijo único. | 저는 외아들이에요.
+[00:50.18]
+N | Hermano | 형제
+[00:51.58]
+N | Juan y Luis son hermanos gemelos. | 후안과 루이스는 쌍둥이 형제예요.
+[01:00.26]
+N | Tío | 삼촌, 이모부·고모부
+[01:01.66]
+N | Mi tío está casado con una coreana. | 삼촌은 한국 여자와 결혼했어요.
+[01:08.88]
+N | Sobrino | 조카
+[01:10.28]
+N | Tengo dos sobrinos. | 조카가 둘 있어요.
+[01:15.70]
+N | Primo | 사촌
+[01:17.08]
+N | Todos mis primos viven en el extranjero. | 내 사촌들은 모두 외국에 살아요.
+[01:25.16]
+N | Abuelo | 할아버지
+[01:26.88]
+N | Mi abuelo me apoya en todo lo que hago. | 할아버지는 내가 하는 모든 일을 응원해 주세요.
+[01:34.76]
+N | Nieto | 손자
+[01:36.16]
+N | Juan tiene dos nietos y una nieta. | 후안은 손자 둘과 손녀 하나가 있어요.
+[01:43.46]
+N | Pareja | 커플, 짝, 배우자
+[01:44.86]
+N | Ana y Luis hacen una pareja preciosa. | 아나와 루이스는 아주 잘 어울리는 커플이에요.
+[01:52.28]
+N | Novio | 남자 친구
+[01:53.14]
+N | Mi novio es alto y guapo. | 내 남자 친구는 키 크고 잘생겼어요.
+[02:00.64]
+N | Papá | 아빠
+[02:02.04]
+N | Papá, ¿dónde está mamá? | 아빠, 엄마 어디 있어요?
+[02:07.70]
+N | Exmarido | 전 남편
+[02:09.10]
+N | El exmarido de Ana está saliendo con una actriz. | 아나의 전 남편은 여배우와 사귀고 있어요.
+## Unidad 1 — 가족 ② 함께 살기와 자라기
+[02:18.36]
+N | Vivir juntos | 함께 살다
+[02:21.28]
+N | Vivimos juntos desde hace dos años. | 우리는 2년 전부터 같이 살아요.
+[02:29.18]
+N | Vivir con la pareja | 연인·배우자와 살다
+[02:32.70]
+N | ¿Te gustaría vivir con tu pareja en el futuro? | 나중에 연인과 같이 살고 싶어?
+[02:40.38]
+N | Padre soltero | 싱글 대디
+[02:43.18]
+N | Jorge es padre soltero. | 호르헤는 싱글 대디예요.
+[02:47.28]
+N | Adoptar un niño | 아이를 입양하다
+[02:51.28]
+N | Queremos adoptar un niño en el futuro. | 우리는 나중에 아이를 입양하고 싶어요.
+[02:57.38]
+N | Llevar años viviendo juntos | 함께 산 지 몇 년 되다
+[03:02.28]
+N | Llevamos dos años viviendo juntos. | 우리는 같이 산 지 2년 됐어요.
+[03:09.06]
+N | Obedecer a los padres | 부모님 말씀을 따르다
+[03:12.28]
+N | Juan obedece mucho a sus padres. | 후안은 부모님 말씀을 잘 들어요.
+[03:18.00]
+N | Discutir con los padres | 부모님과 말다툼하다
+[03:21.82]
+N | No me gusta discutir con mis padres. | 부모님과 다투는 건 싫어요.
+[03:27.90]
+N | Crecer feliz | 행복하게 자라다
+[03:30.28]
+N | Los niños deberían crecer felices. | 아이들은 행복하게 자라야 해요.
+[03:36.64]
+N | Crecer sano | 건강하게 자라다
+[03:39.28]
+N | Mis hijos crecieron muy sanos. | 우리 아이들은 아주 건강하게 자랐어요.
+## Unidad 2 — 사람 사이 ① 친구와 만남
+[03:49.24]
+N | Unidad 2 | 2과
+[03:53.10]
+N | Amigo | 친구
+[03:55.28]
+N | Juan y yo somos amigos de toda la vida. | 후안과 나는 평생 친구예요.
+[04:03.02]
+N | Vecino | 이웃
+[04:05.04]
+N | Juan es mi vecino. | 후안은 우리 이웃이에요.
+[04:09.76]
+N | Socio | 회원; 동업자
+[04:10.80]
+N | Soy socio de un club de lectura. | 나는 독서 모임 회원이에요.
+[04:18.44]
+N | Reunión | 모임, 회의
+[04:19.84]
+N | Mañana tengo una reunión familiar. | 내일 가족 모임이 있어요.
+[04:26.40]
+N | Cita | 약속, 데이트; (병원) 예약
+[04:28.22]
+N | Mañana tengo una cita. | 내일 데이트가 있어요.
+[04:33.34]
+N | Visitar | 방문하다, 구경하다
+[04:35.26]
+N | Me gusta visitar exposiciones de fotografía. | 사진전 보러 다니는 걸 좋아해요.
+[04:42.72]
+N | Amigo de la infancia | 어릴 적 친구
+[04:45.74]
+N | Luis es uno de mis amigos de la infancia. | 루이스는 내 어릴 적 친구 중 한 명이에요.
+[04:53.16]
+N | Amigo de la universidad | 대학 친구
+[04:56.74]
+N | Ana y yo somos amigos de la universidad. | 아나와 나는 대학 친구예요.
+[05:03.92]
+N | Llevarse bien | 사이가 좋다
+[05:06.62]
+N | Gemma y yo nos llevamos muy bien. | 헤마와 나는 아주 사이가 좋아요.
+[05:12.04]
+N | Caer bien | (사람이) 마음에 들다, 호감이 가다
+[05:14.62]
+N | Me cae bien Gemma. | 나는 헤마가 마음에 들어요.
+[05:19.30]
+N | Dar un abrazo | 안아 주다
+[05:21.98]
+N | Te doy un abrazo antes de irme. | 가기 전에 한번 안아 줄게.
+[05:28.22]
+N | Abrazar | 껴안다
+[05:29.62]
+N | Los dos se abrazaron para despedirse. | 두 사람은 작별하며 서로 껴안았어요.
+## Unidad 2 — 사람 사이 ② 연애와 태도
+[05:36.80]
+N | Salir con alguien | ~와 사귀다
+[05:39.86]
+N | Raúl está saliendo con Gemma. | 라울은 헤마와 사귀고 있어요.
+[05:45.88]
+N | Tener novio | 남자 친구가 있다
+[05:48.36]
+N | ¿Tienes novio? | 남자 친구 있어?
+[05:52.54]
+N | Empezar una relación | 관계를 시작하다
+[05:56.66]
+N | Al empezar una relación, es muy importante confiar en la otra persona. | 관계를 시작할 때는 상대를 믿는 게 아주 중요해요.
+[06:06.44]
+N | Tener una aventura | 바람을 피우다
+[06:10.54]
+N | Juan está teniendo una aventura. | 후안은 바람을 피우고 있어요.
+[06:16.70]
+N | Romper con alguien | ~와 헤어지다
+[06:18.98]
+N | Gemma ha roto con Raúl. | 헤마는 라울과 헤어졌어요.
+[06:25.24]
+N | Dar un beso | 입맞춤하다, 뽀뽀하다
+[06:28.06]
+N | ¿Me das un besito? | 뽀뽀해 줄래?
+[06:33.88]
+N | Besar | 입 맞추다
+[06:35.28]
+N | Los dos se besaron apasionadamente. | 두 사람은 열정적으로 키스했어요.
+[06:41.56]
+N | Ligar | 이성에게 작업을 걸다 (구어)
+[06:42.96]
+N | A Juan le gusta ligar con chicas rubias. | 후안은 금발 여자들에게 작업 거는 걸 좋아해요.
+[06:50.18]
+N | Tener una actitud positiva | 긍정적인 태도를 가지다
+[06:54.26]
+N | Es importante tener una actitud positiva en una entrevista de trabajo. | 면접에서는 긍정적인 태도가 중요해요.
+[07:03.70]
+N | Tener una buena actitud | 태도가 좋다
+[07:07.32]
+N | Enrique siempre tiene una buena actitud, haga lo que haga. | 엔리케는 무엇을 하든 늘 태도가 좋아요.
+[07:15.76]
+N | Portarse bien | 얌전히 굴다, 예의 바르게 행동하다
+[07:18.54]
+N | Pórtate bien con tus abuelos. | 할머니 할아버지께 얌전히 굴어.
+[07:23.76]
+N | Tratar bien a alguien | ~를 잘 대해 주다
+[07:27.22]
+N | En el trabajo todo el mundo me trata bien. | 직장에서 모두가 나를 잘 대해 줘요.
+## Unidad 3 — 파티·선물·결혼식
+[07:36.88]
+N | Unidad 3 | 3과
+[07:40.74]
+N | Fiesta | 파티, 축제
+[07:42.86]
+N | Quiero hacer una fiesta este fin de semana. | 이번 주말에 파티를 열고 싶어요.
+[07:50.52]
+N | Fiesta de cumpleaños | 생일 파티
+[07:53.86]
+N | Estás invitado a mi fiesta de cumpleaños. | 내 생일 파티에 초대할게.
+[08:01.14]
+N | Fiesta de fin de curso | 종강 파티
+[08:04.86]
+N | Mañana tenemos la fiesta de fin de curso. | 내일 종강 파티가 있어요.
+[08:12.02]
+N | Regalo | 선물
+[08:13.42]
+N | Tengo que comprar un regalo para Gemma. | 헤마에게 줄 선물을 사야 해요.
+[08:20.16]
+N | Regalar | 선물하다
+[08:22.24]
+N | ¿Qué me vas a regalar por mi cumpleaños? | 내 생일에 뭐 선물해 줄 거야?
+[08:28.44]
+N | Hacer un regalo | 선물을 하다
+[08:31.38]
+N | Hacer un regalo original es difícil. | 독창적인 선물을 하는 건 어려워요.
+[08:38.48]
+N | Boda | 결혼식
+[08:39.34]
+N | Su boda será en un hotel de lujo. | 그들의 결혼식은 고급 호텔에서 열릴 거예요.
+[08:45.28]
+N | Irse de luna de miel | 신혼여행을 떠나다
+[08:48.18]
+N | Se van de luna de miel a España. | 그들은 스페인으로 신혼여행을 가요.
+[08:53.94]
+N | Estar de luna de miel | 신혼여행 중이다
+[08:57.64]
+N | Están de luna de miel en España. | 그들은 스페인에서 신혼여행 중이에요.
+[09:03.56]
+N | Felicitar | 축하하다
+[09:05.42]
+N | Gracias por felicitarme. | 축하해 줘서 고마워.
+[09:10.30]
+N | Envolver | 포장하다
+[09:12.36]
+N | ¿Me lo puede envolver para regalo? | 선물용으로 포장해 주시겠어요?
+[09:17.90]
+N | Abrir un regalo | 선물을 열다
+[09:21.16]
+N | Me pongo nervioso al abrir un regalo. | 선물을 열 때면 설레요.
+[09:27.68]
+N | Fiesta tradicional | 전통 축제
+[09:30.48]
+N | Deberíamos apreciar más nuestras fiestas tradicionales. | 우리 전통 축제를 더 소중히 여겨야 해요.
+[09:38.12]
+N | Fiesta popular | 민속 축제, 지역 축제
+[09:40.48]
+N | La Tomatina de Buñol es una fiesta popular de España. | 부뇰의 토마티나는 스페인의 지역 축제예요.
+[09:48.86]
+N | Fiesta de disfraces | 가장무도회, 코스튬 파티
+[09:51.04]
+N | A mí me encantan las fiestas de disfraces. | 나는 코스튬 파티를 정말 좋아해요.
+[09:57.54]
+N | Fiesta formal | 격식 있는 파티
+[10:00.70]
+N | Necesito comprarme un vestido de fiesta formal. | 격식 있는 파티용 드레스를 사야 해요.
+[10:07.84]
+N | Reunión | 모임
+[10:08.96]
+N | Me cansan mucho las reuniones formales. | 격식 차린 모임은 너무 피곤해요.
+[10:16.28]
+N | Comida de Navidad | 크리스마스 식사 모임
+[10:18.06]
+N | Esta noche tengo una comida de Navidad con mis compañeros de trabajo. | 오늘 밤 직장 동료들과 크리스마스 식사 모임이 있어요.
+[10:27.06]
+N | Despedida de soltero | 총각 파티
+[10:30.32]
+N | ¿Cuándo le organizamos la despedida de soltero a Gabriel? | 가브리엘 총각 파티는 언제 열어 줄까?
+[10:37.56]
+N | Invitar a alguien a una fiesta | 누군가를 파티에 초대하다
+[10:41.68]
+N | Pepe me ha invitado a su fiesta de cumpleaños. | 페페가 자기 생일 파티에 나를 초대했어요.
