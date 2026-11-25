@@ -1,0 +1,341 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: N = 낭독. 단어 → 예문 순서로 읽는 어휘 교재 오디오예요 (1장은 es-2026-11-23-2). END = 오디오 끝 시각
+# 원본: 사용자 제공 오디오 02-01(1과) · 02-02(2과) · 02-03(3과)을 순서대로 이어 붙이고 Whisper(medium)로 받아쓰기. 문장부호(¿Qué pesada eres? → ¡Qué pesada eres!)를 다듬었어요.
+# 시각은 Whisper 단어 시각으로 구한 문장별 시작 시각이에요.
+END 10:46
+
+## Unidad 1 — 성격 ① 기본 성격 형용사
+[00:06.16]
+N | Capítulo 2. Unidad 1. | 2장. 1과.
+[00:15.52]
+N | Amable | 친절한
+[00:19.18]
+N | Ana es amable con todo el mundo. | 아나는 모든 사람에게 친절해요.
+[00:25.80]
+N | Inteligente | 똑똑한, 지적인
+[00:27.38]
+N | José es un niño muy inteligente. | 호세는 아주 똑똑한 아이예요.
+[00:32.66]
+N | Sociable | 사교적인
+[00:34.98]
+N | Necesitas ser más sociable. | 너는 좀 더 사교적일 필요가 있어.
+[00:39.48]
+N | Trabajador | 부지런한, 일 잘하는
+[00:42.04]
+N | Buscamos una persona trabajadora. | 부지런한 사람을 찾고 있어요.
+[00:47.84]
+N | Serio | 진지한, 무뚝뚝한
+[00:48.92]
+N | Mi padre es una persona seria. No le gusta gastar bromas. | 우리 아빠는 진지한 사람이에요. 농담하는 걸 안 좋아해요.
+[00:56.36]
+N | Tímido | 수줍은
+[00:58.44]
+N | Luis no es tímido. | 루이스는 수줍음이 없어요.
+[01:02.40]
+N | Tonto | 바보 같은, 어리석은
+[01:04.36]
+N | ¡Qué tonto eres! | 너 정말 바보구나!
+[01:08.00]
+N | Cariñoso | 다정한, 애정 표현이 많은
+[01:10.10]
+N | Mi novia es muy cariñosa. | 내 여자 친구는 아주 다정해요.
+[01:14.76]
+N | Egoísta | 이기적인
+[01:16.76]
+N | No seas tan egoísta. | 그렇게 이기적으로 굴지 마.
+[01:21.04]
+N | Optimista | 낙천적인
+[01:22.98]
+N | Hay que ser optimista. | 낙천적이어야 해요.
+[01:28.32]
+N | Estricto | 엄격한
+[01:30.36]
+N | Soy bastante estricto con mis alumnos. | 나는 학생들에게 꽤 엄격해요.
+[01:36.48]
+N | Abierto | 개방적인, 마음이 열린
+[01:37.88]
+N | Mis padres son abiertos. | 우리 부모님은 개방적이세요.
+[01:43.08]
+N | Tranquilo | 차분한, 침착한
+[01:45.44]
+N | Tranquilo, no pasa nada. | 진정해, 아무 일 없어.
+[01:49.42]
+N | Arrogante | 거만한
+[01:51.82]
+N | No seas arrogante. | 거만하게 굴지 마.
+[01:55.46]
+N | Reservado | 말수가 적은, 속을 잘 안 드러내는
+[01:57.78]
+N | Es un hombre reservado y no le gusta compartir sus ideas. | 그는 속을 잘 안 드러내는 사람이라 자기 생각을 나누는 걸 안 좋아해요.
+## Unidad 1 — 성격 ② 일상에서 자주 쓰는 표현
+[02:04.68]
+N | Cabezota | 고집 센 (구어)
+[02:07.36]
+N | Mi hermano mayor es cabezota. | 우리 형(오빠)은 고집이 세요.
+[02:12.40]
+N | Conservador | 보수적인
+[02:14.64]
+N | Mi abuelo es bastante conservador. | 할아버지는 꽤 보수적이세요.
+[02:19.64]
+N | Despistado | 덜렁대는, 정신없는
+[02:22.46]
+N | ¿Por qué eres tan despistado? | 너는 왜 그렇게 덜렁대?
+[02:27.14]
+N | Educado | 예의 바른
+[02:28.54]
+N | Me gustan las personas educadas. | 예의 바른 사람이 좋아요.
+[02:34.02]
+N | Gracioso | 재미있는, 웃기는
+[02:36.30]
+N | José es muy gracioso. | 호세는 아주 재미있어요.
+[02:40.34]
+N | Hablador | 수다스러운
+[02:42.30]
+N | Mi novio es muy hablador. | 내 남자 친구는 아주 수다스러워요.
+[02:46.16]
+N | Introvertido | 내성적인
+[02:48.82]
+N | Susana es un poco introvertida. | 수사나는 좀 내성적이에요.
+[02:53.88]
+N | Listo | 영리한, 똑똑한
+[02:55.16]
+N | Ese niño es más listo que el hambre. | 그 아이는 정말 영리해요. (배고픔보다 영리하다)
+[03:01.02]
+N | Majo | 착하고 호감 가는 (스페인 구어)
+[03:02.60]
+N | Ese chico es muy majo. | 그 남자애 정말 괜찮아요.
+[03:06.78]
+N | Mentiroso | 거짓말쟁이의
+[03:09.02]
+N | No me gustan las personas mentirosas. | 거짓말하는 사람은 싫어요.
+[03:14.02]
+N | Nervioso | 신경질적인, 예민한
+[03:16.68]
+N | Mi hija es muy nerviosa. | 우리 딸은 아주 예민해요.
+[03:22.34]
+N | Orgulloso | 자존심 센, 거만한
+[03:23.62]
+N | No seas tan orgulloso conmigo. | 나한테 그렇게 자존심 세우지 마.
+[03:28.76]
+N | Paciente | 참을성 있는
+[03:31.18]
+N | Tienes que ser más paciente. | 너는 좀 더 참을성이 있어야 해.
+[03:35.30]
+N | Perezoso | 게으른
+[03:37.98]
+N | Mi hermano menor es perezoso. | 내 남동생은 게을러요.
+[03:42.46]
+N | Pesado | 귀찮게 구는, 지겨운
+[03:44.76]
+N | ¡Qué pesada eres! | 너 정말 귀찮게 군다!
+[03:48.08]
+N | Presumido | 잘난 척하는, 멋 부리는
+[03:50.38]
+N | Algunas amigas mías son muy presumidas. | 내 친구 몇 명은 아주 잘난 척해요.
+[03:57.12]
+N | Raro | 이상한
+[03:58.76]
+N | Ese hombre es muy raro. | 그 남자는 아주 이상해요.
+[04:04.16]
+N | Respetuoso | 공손한, 존중하는
+[04:05.34]
+N | Hay que ser respetuoso con los mayores. | 어른들께는 공손해야 해요.
+[04:11.38]
+N | Salado | 재치 있는, 귀여운 (스페인 구어)
+[04:13.04]
+N | Mi abuelo es muy salado. | 우리 할아버지는 아주 재치 있으세요.
+[04:17.36]
+N | Seguro | 자신감 있는, 확신하는
+[04:19.32]
+N | Juan se siente muy seguro de sí mismo. | 후안은 자신감이 아주 넘쳐요.
+[04:24.72]
+N | Sincero | 솔직한
+[04:26.44]
+N | Sé sincero conmigo. | 나한테 솔직하게 말해.
+[04:30.62]
+N | Tacaño | 인색한, 짠돌이의
+[04:32.28]
+N | Él es muy tacaño. Nunca invita a nadie a nada. | 그는 아주 짠돌이예요. 누구에게도 뭘 사는 법이 없어요.
+[04:39.00]
+N | Travieso | 장난꾸러기의
+[04:41.70]
+N | Los niños de esa edad son traviesos. | 그 나이 아이들은 장난꾸러기예요.
+[04:47.28]
+N | Tener sentido del humor | 유머 감각이 있다
+[04:50.94]
+N | Me gustan las personas que tienen sentido del humor. | 유머 감각이 있는 사람이 좋아요.
+[04:56.40]
+N | Tener mucho carácter | 개성이 강하다, 기가 세다
+[05:00.52]
+N | Mi hermana mayor tiene mucho carácter. | 우리 언니(누나)는 기가 세요.
+[05:06.04]
+N | Tener un carácter fuerte | 성격이 세다, 다혈질이다
+[05:09.40]
+N | El casero tiene un carácter fuerte. | 집주인은 성격이 세요.
+## Unidad 2 — 감정 ① 기쁨·슬픔·짜증
+[05:18.30]
+N | Unidad 2 | 2과
+[05:22.74]
+N | Alegre | 기쁜, 명랑한
+[05:24.10]
+N | Ana está alegre porque mañana se va de vacaciones. | 아나는 내일 휴가를 떠나서 기분이 좋아요.
+[05:30.80]
+N | Feliz | 행복한
+[05:32.72]
+N | Me siento feliz porque estás aquí. | 네가 여기 있어서 행복해.
+[05:38.64]
+N | Cansado | 피곤한
+[05:39.88]
+N | Estoy muy cansado porque he trabajado todo el día. | 하루 종일 일해서 아주 피곤해요.
+[05:46.04]
+N | Contento | 만족한, 기쁜
+[05:48.58]
+N | He aprobado todas las asignaturas. Estoy muy contenta. | 모든 과목을 통과했어요. 정말 기뻐요.
+[05:55.26]
+N | Gustar | 좋아하다 (~이 마음에 들다)
+[05:57.38]
+N | Me gusta el cine español. | 나는 스페인 영화를 좋아해요.
+[06:02.30]
+N | Encantar | 아주 좋아하다
+[06:03.34]
+N | Me encanta tomar el sol. | 햇볕 쬐는 걸 정말 좋아해요.
+[06:07.72]
+N | Odiar | 미워하다, 아주 싫어하다
+[06:10.04]
+N | Creo que el profesor de inglés me odia. | 영어 선생님이 나를 싫어하는 것 같아요.
+[06:15.00]
+N | Triste | 슬픈
+[06:17.00]
+N | Estoy triste porque mi mejor amiga se fue a su país. | 가장 친한 친구가 자기 나라로 돌아가서 슬퍼요.
+[06:22.98]
+N | Llorar | 울다
+[06:24.76]
+N | A veces lloro de alegría. | 가끔 기뻐서 울어요.
+[06:29.68]
+N | Gritar | 소리 지르다
+[06:30.76]
+N | Ana me gritó en plena calle. | 아나가 길 한복판에서 나한테 소리를 질렀어요.
+[06:36.18]
+N | Nervioso | 긴장한, 초조한
+[06:38.90]
+N | Estoy nervioso porque mañana tengo una entrevista. | 내일 면접이 있어서 긴장돼요.
+[06:44.98]
+N | Aburrido | 지루한, 심심한
+[06:47.04]
+N | No hay nadie en casa y estoy aburrido. | 집에 아무도 없어서 심심해요.
+[06:53.28]
+N | Preocupado | 걱정하는
+[06:54.36]
+N | Mis padres están preocupados por mi hermano mayor. | 부모님은 형(오빠) 때문에 걱정하세요.
+[07:00.54]
+N | Enfadado | 화난
+[07:02.84]
+N | No estoy enfadado, sino molesto. | 화난 게 아니라 언짢은 거예요.
+[07:07.78]
+N | Sentimiento | 감정
+[07:10.24]
+N | No se puede jugar con los sentimientos de las personas. | 사람의 감정을 가지고 장난치면 안 돼요.
+[07:17.80]
+N | Amistad | 우정
+[07:19.26]
+N | Nuestra amistad empezó cuando teníamos diez años. | 우리 우정은 열 살 때 시작됐어요.
+[07:25.60]
+N | Amor | 사랑; (호칭) 자기야
+[07:27.54]
+N | ¿Qué película te apetece, mi amor? | 무슨 영화 보고 싶어, 자기야?
+## Unidad 2 — 감정 ② 기분이 바뀔 때
+[07:32.86]
+N | Divertirse | 즐겁게 지내다
+[07:35.10]
+N | Que te diviertas mucho esta noche. | 오늘 밤 즐거운 시간 보내.
+[07:39.52]
+N | Estar de buen humor | 기분이 좋다
+[07:42.92]
+N | Hoy el jefe está de buen humor. | 오늘 상사가 기분이 좋아요.
+[07:47.86]
+N | Ponerse de buen humor | 기분이 좋아지다
+[07:51.32]
+N | Me pongo de buen humor cuando pienso en las vacaciones. | 휴가 생각을 하면 기분이 좋아져요.
+[07:58.38]
+N | Ponerse contento | 기뻐하다
+[08:01.16]
+N | Se ha puesto contento porque ha aprobado el examen de inglés. | 영어 시험에 붙어서 기뻐했어요.
+[08:08.22]
+N | Enamorado | 사랑에 빠진
+[08:09.62]
+N | Miguel está enamorado de una chica de su clase. | 미겔은 같은 반 여자애를 좋아해요.
+[08:15.94]
+N | Enamorarse | 사랑에 빠지다
+[08:18.92]
+N | Nos enamoramos a primera vista. | 우리는 첫눈에 반했어요.
+[08:23.62]
+N | Motivado | 의욕이 생긴
+[08:26.18]
+N | Está bastante motivado después de aprobar el examen. | 시험에 붙고 나서 꽤 의욕이 넘쳐요.
+[08:33.76]
+N | Asustado | 겁먹은
+[08:36.06]
+N | Está asustado por la noticia. | 그 소식에 겁을 먹었어요.
+[08:40.46]
+N | Enfadarse | 화내다
+[08:42.80]
+N | No te enfades conmigo. | 나한테 화내지 마.
+[08:47.14]
+N | Dar lástima | 안타깝다, 아쉽다
+[08:49.98]
+N | Me da lástima no poder quedar contigo. | 너랑 못 만나서 아쉬워.
+[08:54.80]
+N | Dar miedo | 무섭게 하다
+[08:57.92]
+N | Me da miedo la oscuridad. | 나는 어둠이 무서워요.
+[09:02.48]
+N | Tener miedo | 무서워하다
+[09:04.92]
+N | No tengo miedo a morir. | 죽는 게 무섭지 않아요.
+[09:09.14]
+N | Deprimido | 우울한
+[09:11.58]
+N | Estoy deprimido desde que rompí con mi novia. | 여자 친구와 헤어진 뒤로 우울해요.
+[09:17.20]
+N | Deprimirse | 우울해지다
+[09:19.66]
+N | Me deprimo mucho cuando hace mal tiempo. | 날씨가 나쁘면 많이 우울해져요.
+[09:24.32]
+N | Harto | 질린, 지긋지긋한
+[09:26.98]
+N | Estoy harto de trabajar aquí. | 여기서 일하는 게 지긋지긋해요.
+[09:31.46]
+N | Ponerse triste | 슬퍼지다
+[09:34.42]
+N | No te pongas triste, voy a volver pronto. | 슬퍼하지 마, 금방 돌아올게.
+## Unidad 3 — 몸 상태 (tener + 명사)
+[09:42.92]
+N | Unidad 3 | 3과
+[09:45.72]
+N | Tener calor | 덥다
+[09:49.38]
+N | ¿No tienes calor? | 덥지 않아?
+[09:54.02]
+N | Tener frío | 춥다
+[09:57.04]
+N | Por favor, cierra la ventana, que tengo frío. | 창문 좀 닫아 줘, 추워.
+[10:03.94]
+N | Tener hambre | 배고프다
+[10:06.56]
+N | Si tienes hambre, podemos picar algo. | 배고프면 뭐 좀 간단히 먹자.
+[10:11.80]
+N | Tener sed | 목마르다
+[10:14.46]
+N | Voy a comprar una botella de agua, que tengo sed. | 목이 말라서 물 한 병 사 올게.
+[10:21.10]
+N | Tener sueño | 졸리다
+[10:23.66]
+N | Tengo muchísimo sueño porque no he pegado ojo en toda la noche. | 밤새 한숨도 못 자서 엄청 졸려요.
+[10:30.56]
+N | Tener dolor de cabeza | 머리가 아프다
+[10:34.82]
+N | Ana tiene dolor de cabeza desde ayer. | 아나는 어제부터 머리가 아파요.
+[10:40.10]
+N | Soportar | 참다, 견디다
+[10:42.34]
+N | No soporto a los niños mimados. | 버릇없는 아이들은 못 참겠어요.

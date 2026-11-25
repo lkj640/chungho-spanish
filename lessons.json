@@ -1,6 +1,28 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-25-2",
+   "lang": "es",
+   "date": "2026-11-25",
+   "title": "성격과 감정, 몸 상태 — 스페인어 어휘 2장 (1–3과)",
+   "es": "Ese niño es más listo que el hambre.",
+   "emoji": "😊",
+   "level": "A1–A2",
+   "channel": "스페인어 어휘 교재 오디오",
+   "youtube": null,
+   "duration": "10:46",
+   "summary": "스페인어 어휘 교재 2장의 1~3과 오디오 세 개를 하나로 이었어요(1장은 11/23 강의). 1과는 사람의 성격(amable, cabezota, despistado, majo, tacaño…), 2과는 감정과 기분 변화(alegre, harto, enfadarse, ponerse de buen humor, dar miedo…), 3과는 tener로 말하는 몸 상태(tener calor·frío·hambre·sed·sueño)예요. 성격은 ser, 지금의 기분은 estar로 말한다는 차이를 예문으로 익히기 좋아요.",
+   "topics": [
+    "1과 성격: amable · sociable · tímido · cabezota · despistado · majo · tacaño",
+    "2과 감정: alegre · triste · nervioso · harto · enfadarse · enamorarse",
+    "3과 몸 상태: tener calor · frío · hambre · sed · sueño",
+    "관용 표현: más listo que el hambre · no pegar ojo · a primera vista",
+    "문법: ser vs estar · ponerse + 형용사 · me da miedo/lástima · tener + 명사 · No seas…"
+   ],
+   "vocabCount": 52,
+   "lineCount": 165
+  },
+  {
    "id": "zh-2026-11-25",
    "lang": "zh",
    "date": "2026-11-25",

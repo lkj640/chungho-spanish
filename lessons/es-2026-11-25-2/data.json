@@ -1,0 +1,1746 @@
+{
+ "id": "es-2026-11-25-2",
+ "lang": "es",
+ "date": "2026-11-25",
+ "title": "성격과 감정, 몸 상태 — 스페인어 어휘 2장 (1–3과)",
+ "es": "Ese niño es más listo que el hambre.",
+ "emoji": "😊",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 2 · Unidad 1–3 (02-01 · 02-02 · 02-03)",
+ "audio": "audio.m4a",
+ "duration": "10:46",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 2장의 1~3과 오디오 세 개를 하나로 이었어요(1장은 11/23 강의). 1과는 사람의 성격(amable, cabezota, despistado, majo, tacaño…), 2과는 감정과 기분 변화(alegre, harto, enfadarse, ponerse de buen humor, dar miedo…), 3과는 tener로 말하는 몸 상태(tener calor·frío·hambre·sed·sueño)예요. 성격은 ser, 지금의 기분은 estar로 말한다는 차이를 예문으로 익히기 좋아요.",
+ "topics": [
+  "1과 성격: amable · sociable · tímido · cabezota · despistado · majo · tacaño",
+  "2과 감정: alegre · triste · nervioso · harto · enfadarse · enamorarse",
+  "3과 몸 상태: tener calor · frío · hambre · sed · sueño",
+  "관용 표현: más listo que el hambre · no pegar ojo · a primera vista",
+  "문법: ser vs estar · ponerse + 형용사 · me da miedo/lástima · tener + 명사 · No seas…"
+ ],
+ "grammar": [
+  {
+   "title": "① ser + 성격 vs estar + 지금의 기분",
+   "lead": "타고난 성격·특징은 <b>ser</b>, 지금 그 순간의 감정·상태는 <b>estar</b>. 같은 형용사도 뜻이 달라져요.",
+   "table": {
+    "head": [
+     "형용사",
+     "ser (성격)",
+     "estar (지금 상태)"
+    ],
+    "rows": [
+     [
+      "nervioso",
+      "Mi hija es muy nerviosa. (예민한 성격)",
+      "Estoy nervioso porque mañana tengo una entrevista. (긴장한)"
+     ],
+     [
+      "aburrido",
+      "Es aburrido. (지루한 사람)",
+      "Estoy aburrido. (심심한)"
+     ],
+     [
+      "alegre",
+      "Es alegre. (명랑한 성격)",
+      "Ana está alegre porque se va de vacaciones. (기분 좋은)"
+     ],
+     [
+      "tranquilo",
+      "Es tranquilo. (차분한 성격)",
+      "Tranquilo, no pasa nada. (진정해)"
+     ]
+    ]
+   },
+   "tip": "feliz는 보통 ser/sentirse와 써요: Me siento feliz porque estás aquí."
+  },
+  {
+   "title": "② No seas + 형용사 — ~하게 굴지 마",
+   "lead": "ser의 부정 명령형은 <b>no seas</b>. 긍정 명령은 <b>sé</b>예요.",
+   "examples": [
+    [
+     "No seas tan egoísta.",
+     "그렇게 이기적으로 굴지 마."
+    ],
+    [
+     "No seas arrogante.",
+     "거만하게 굴지 마."
+    ],
+    [
+     "No seas tan orgulloso conmigo.",
+     "나한테 그렇게 자존심 세우지 마."
+    ],
+    [
+     "Sé sincero conmigo.",
+     "나한테 솔직하게 말해. (sé = ser의 긍정 명령)"
+    ]
+   ]
+  },
+  {
+   "title": "③ ponerse + 형용사 / 재귀동사 — 기분이 ~해지다",
+   "lead": "감정이 '변하는' 순간은 <b>ponerse</b>나 재귀동사(enfadarse, deprimirse, enamorarse)로 말해요.",
+   "examples": [
+    [
+     "Me pongo de buen humor cuando pienso en las vacaciones.",
+     "휴가 생각을 하면 기분이 좋아져요."
+    ],
+    [
+     "Se ha puesto contento porque ha aprobado el examen de inglés.",
+     "영어 시험에 붙어서 기뻐했어요."
+    ],
+    [
+     "No te pongas triste, voy a volver pronto.",
+     "슬퍼하지 마, 금방 돌아올게. (no te pongas = 부정 명령)"
+    ],
+    [
+     "No te enfades conmigo.",
+     "나한테 화내지 마."
+    ],
+    [
+     "Me deprimo mucho cuando hace mal tiempo.",
+     "날씨가 나쁘면 많이 우울해져요."
+    ]
+   ]
+  },
+  {
+   "title": "④ me gusta · me encanta · me da miedo · me da lástima",
+   "lead": "이 동사들은 좋아하는 대상·무서운 대상이 주어예요. 나에게 → <b>me</b>.",
+   "examples": [
+    [
+     "Me gusta el cine español.",
+     "스페인 영화를 좋아해요."
+    ],
+    [
+     "Me encanta tomar el sol.",
+     "햇볕 쬐는 걸 정말 좋아해요."
+    ],
+    [
+     "Me da miedo la oscuridad.",
+     "어둠이 무서워요. (어둠이 나에게 두려움을 준다)"
+    ],
+    [
+     "Me da lástima no poder quedar contigo.",
+     "너랑 못 만나서 아쉬워."
+    ]
+   ],
+   "tip": "tener miedo a ~ = ~을 무서워하다: No tengo miedo a morir."
+  },
+  {
+   "title": "⑤ tener + 명사 — 몸 상태 말하기",
+   "lead": "한국어 '덥다·배고프다'는 스페인어로 '더위·배고픔을 가지다'예요. <b>mucho/a</b>로 정도를 더해요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "tener calor",
+      "덥다",
+      "¿No tienes calor?"
+     ],
+     [
+      "tener frío",
+      "춥다",
+      "Cierra la ventana, que tengo frío."
+     ],
+     [
+      "tener hambre",
+      "배고프다",
+      "Si tienes hambre, podemos picar algo."
+     ],
+     [
+      "tener sed",
+      "목마르다",
+      "Voy a comprar una botella de agua, que tengo sed."
+     ],
+     [
+      "tener sueño",
+      "졸리다",
+      "Tengo muchísimo sueño."
+     ],
+     [
+      "tener dolor de cabeza",
+      "머리가 아프다",
+      "Ana tiene dolor de cabeza desde ayer."
+     ],
+     [
+      "tener miedo",
+      "무섭다",
+      "No tengo miedo a morir."
+     ]
+    ]
+   },
+   "tip": "문장 끝 '…, que tengo frío'의 que는 '~니까'라는 이유를 덧붙이는 구어 표현이에요."
+  },
+  {
+   "title": "⑥ porque · sino · desde que — 감정의 이유와 대비",
+   "lead": "감정을 말할 때 이유와 대비를 붙이는 연결어예요.",
+   "examples": [
+    [
+     "Estoy muy cansado porque he trabajado todo el día.",
+     "하루 종일 일해서 아주 피곤해요. (porque = ~ 때문에)"
+    ],
+    [
+     "No estoy enfadado, sino molesto.",
+     "화난 게 아니라 언짢은 거예요. (no A sino B = A가 아니라 B)"
+    ],
+    [
+     "Estoy deprimido desde que rompí con mi novia.",
+     "여자 친구와 헤어진 뒤로 우울해요. (desde que = ~한 뒤로)"
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 스페인 구어와 관용 표현",
+   "lead": "교재에 나온 스페인식 표현이에요. 일상 대화에서 자주 들려요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "majo / maja",
+      "착하고 호감 가는",
+      "Ese chico es muy majo."
+     ],
+     [
+      "salado / salada",
+      "재치 있는, 귀여운",
+      "Mi abuelo es muy salado."
+     ],
+     [
+      "cabezota",
+      "고집 센",
+      "Mi hermano mayor es cabezota."
+     ],
+     [
+      "más listo que el hambre",
+      "아주 영리한",
+      "Ese niño es más listo que el hambre."
+     ],
+     [
+      "no pegar ojo",
+      "한숨도 못 자다",
+      "No he pegado ojo en toda la noche."
+     ],
+     [
+      "a primera vista",
+      "첫눈에",
+      "Nos enamoramos a primera vista."
+     ],
+     [
+      "picar algo",
+      "간단히 뭘 먹다",
+      "Podemos picar algo."
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Tranquilo, no pasa nada.",
+   "진정해, 아무 일 없어."
+  ],
+  [
+   "¡Qué tonto eres!",
+   "너 정말 바보구나!"
+  ],
+  [
+   "Sé sincero conmigo.",
+   "나한테 솔직하게 말해."
+  ],
+  [
+   "Que te diviertas mucho esta noche.",
+   "오늘 밤 즐거운 시간 보내."
+  ],
+  [
+   "No te enfades conmigo.",
+   "나한테 화내지 마."
+  ],
+  [
+   "Estoy harto de trabajar aquí.",
+   "여기서 일하는 게 지긋지긋해요."
+  ],
+  [
+   "No te pongas triste, voy a volver pronto.",
+   "슬퍼하지 마, 금방 돌아올게."
+  ],
+  [
+   "Si tienes hambre, podemos picar algo.",
+   "배고프면 뭐 좀 간단히 먹자."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "amable",
+   "ko": "친절한",
+   "ex": "Ana es amable con todo el mundo.",
+   "exKo": "아나는 모두에게 친절해요."
+  },
+  {
+   "es": "sociable",
+   "ko": "사교적인",
+   "ex": "Necesitas ser más sociable.",
+   "exKo": "좀 더 사교적일 필요가 있어."
+  },
+  {
+   "es": "trabajador/a",
+   "ko": "부지런한",
+   "ex": "Buscamos una persona trabajadora.",
+   "exKo": "부지런한 사람을 찾고 있어요."
+  },
+  {
+   "es": "serio/a",
+   "ko": "진지한, 무뚝뚝한",
+   "ex": "Mi padre es una persona seria.",
+   "exKo": "아빠는 진지한 사람이에요."
+  },
+  {
+   "es": "gastar bromas",
+   "ko": "농담하다, 장난치다",
+   "ex": "No le gusta gastar bromas.",
+   "exKo": "농담하는 걸 안 좋아해요."
+  },
+  {
+   "es": "tímido/a",
+   "ko": "수줍은",
+   "ex": "Luis no es tímido.",
+   "exKo": "루이스는 수줍음이 없어요."
+  },
+  {
+   "es": "cariñoso/a",
+   "ko": "다정한",
+   "ex": "Mi novia es muy cariñosa.",
+   "exKo": "여자 친구는 아주 다정해요."
+  },
+  {
+   "es": "egoísta",
+   "ko": "이기적인",
+   "ex": "No seas tan egoísta.",
+   "exKo": "그렇게 이기적으로 굴지 마."
+  },
+  {
+   "es": "estricto/a",
+   "ko": "엄격한",
+   "ex": "Soy bastante estricto con mis alumnos.",
+   "exKo": "학생들에게 꽤 엄격해요."
+  },
+  {
+   "es": "arrogante",
+   "ko": "거만한",
+   "ex": "No seas arrogante.",
+   "exKo": "거만하게 굴지 마."
+  },
+  {
+   "es": "reservado/a",
+   "ko": "속을 잘 안 드러내는",
+   "ex": "Es un hombre reservado.",
+   "exKo": "속을 잘 안 드러내는 사람이에요."
+  },
+  {
+   "es": "cabezota",
+   "ko": "고집 센 (구어)",
+   "ex": "Mi hermano mayor es cabezota.",
+   "exKo": "형은 고집이 세요."
+  },
+  {
+   "es": "despistado/a",
+   "ko": "덜렁대는",
+   "ex": "¿Por qué eres tan despistado?",
+   "exKo": "왜 그렇게 덜렁대?"
+  },
+  {
+   "es": "educado/a",
+   "ko": "예의 바른",
+   "ex": "Me gustan las personas educadas.",
+   "exKo": "예의 바른 사람이 좋아요."
+  },
+  {
+   "es": "gracioso/a",
+   "ko": "재미있는, 웃기는",
+   "ex": "José es muy gracioso.",
+   "exKo": "호세는 아주 재미있어요."
+  },
+  {
+   "es": "hablador/a",
+   "ko": "수다스러운",
+   "ex": "Mi novio es muy hablador.",
+   "exKo": "남자 친구는 아주 수다스러워요."
+  },
+  {
+   "es": "introvertido/a",
+   "ko": "내성적인",
+   "ex": "Susana es un poco introvertida.",
+   "exKo": "수사나는 좀 내성적이에요."
+  },
+  {
+   "es": "listo/a",
+   "ko": "영리한",
+   "ex": "Ese niño es más listo que el hambre.",
+   "exKo": "그 아이는 정말 영리해요."
+  },
+  {
+   "es": "majo/a",
+   "ko": "착하고 호감 가는 (스페인)",
+   "ex": "Ese chico es muy majo.",
+   "exKo": "그 남자애 정말 괜찮아요."
+  },
+  {
+   "es": "mentiroso/a",
+   "ko": "거짓말하는",
+   "ex": "No me gustan las personas mentirosas.",
+   "exKo": "거짓말하는 사람은 싫어요."
+  },
+  {
+   "es": "orgulloso/a",
+   "ko": "자존심 센",
+   "ex": "No seas tan orgulloso conmigo.",
+   "exKo": "나한테 그렇게 자존심 세우지 마."
+  },
+  {
+   "es": "paciente",
+   "ko": "참을성 있는",
+   "ex": "Tienes que ser más paciente.",
+   "exKo": "좀 더 참을성이 있어야 해."
+  },
+  {
+   "es": "perezoso/a",
+   "ko": "게으른",
+   "ex": "Mi hermano menor es perezoso.",
+   "exKo": "남동생은 게을러요."
+  },
+  {
+   "es": "pesado/a",
+   "ko": "귀찮게 구는",
+   "ex": "¡Qué pesada eres!",
+   "exKo": "너 정말 귀찮게 군다!"
+  },
+  {
+   "es": "presumido/a",
+   "ko": "잘난 척하는, 멋 부리는",
+   "ex": "Algunas amigas mías son muy presumidas.",
+   "exKo": "몇몇 친구는 아주 잘난 척해요."
+  },
+  {
+   "es": "respetuoso/a",
+   "ko": "공손한, 존중하는",
+   "ex": "Hay que ser respetuoso con los mayores.",
+   "exKo": "어른들께 공손해야 해요."
+  },
+  {
+   "es": "salado/a",
+   "ko": "재치 있는 (스페인 구어)",
+   "ex": "Mi abuelo es muy salado.",
+   "exKo": "할아버지는 아주 재치 있으세요."
+  },
+  {
+   "es": "seguro de sí mismo",
+   "ko": "자신감 있는",
+   "ex": "Juan se siente muy seguro de sí mismo.",
+   "exKo": "후안은 자신감이 넘쳐요."
+  },
+  {
+   "es": "tacaño/a",
+   "ko": "인색한, 짠돌이의",
+   "ex": "Él es muy tacaño.",
+   "exKo": "그는 아주 짠돌이예요."
+  },
+  {
+   "es": "travieso/a",
+   "ko": "장난꾸러기의",
+   "ex": "Los niños de esa edad son traviesos.",
+   "exKo": "그 나이 아이들은 장난꾸러기예요."
+  },
+  {
+   "es": "tener sentido del humor",
+   "ko": "유머 감각이 있다",
+   "ex": "Me gustan las personas que tienen sentido del humor.",
+   "exKo": "유머 감각 있는 사람이 좋아요."
+  },
+  {
+   "es": "el casero",
+   "ko": "집주인",
+   "ex": "El casero tiene un carácter fuerte.",
+   "exKo": "집주인은 성격이 세요."
+  },
+  {
+   "es": "alegre",
+   "ko": "기쁜, 명랑한",
+   "ex": "Ana está alegre porque mañana se va de vacaciones.",
+   "exKo": "아나는 내일 휴가라 기분이 좋아요."
+  },
+  {
+   "es": "aprobar",
+   "ko": "(시험에) 합격하다",
+   "ex": "He aprobado todas las asignaturas.",
+   "exKo": "모든 과목을 통과했어요."
+  },
+  {
+   "es": "tomar el sol",
+   "ko": "햇볕을 쬐다",
+   "ex": "Me encanta tomar el sol.",
+   "exKo": "햇볕 쬐는 걸 정말 좋아해요."
+  },
+  {
+   "es": "odiar",
+   "ko": "미워하다",
+   "ex": "Creo que el profesor de inglés me odia.",
+   "exKo": "영어 선생님이 나를 싫어하는 것 같아요."
+  },
+  {
+   "es": "llorar",
+   "ko": "울다",
+   "ex": "A veces lloro de alegría.",
+   "exKo": "가끔 기뻐서 울어요."
+  },
+  {
+   "es": "en plena calle",
+   "ko": "길 한복판에서",
+   "ex": "Ana me gritó en plena calle.",
+   "exKo": "아나가 길 한복판에서 소리를 질렀어요."
+  },
+  {
+   "es": "preocupado/a",
+   "ko": "걱정하는",
+   "ex": "Mis padres están preocupados.",
+   "exKo": "부모님이 걱정하세요."
+  },
+  {
+   "es": "molesto/a",
+   "ko": "언짢은, 짜증 난",
+   "ex": "No estoy enfadado, sino molesto.",
+   "exKo": "화난 게 아니라 언짢아요."
+  },
+  {
+   "es": "apetecer",
+   "ko": "~하고 싶다, 당기다",
+   "ex": "¿Qué película te apetece, mi amor?",
+   "exKo": "무슨 영화 보고 싶어, 자기야?"
+  },
+  {
+   "es": "divertirse",
+   "ko": "즐겁게 지내다",
+   "ex": "Que te diviertas mucho esta noche.",
+   "exKo": "오늘 밤 즐거운 시간 보내."
+  },
+  {
+   "es": "estar de buen humor",
+   "ko": "기분이 좋다",
+   "ex": "Hoy el jefe está de buen humor.",
+   "exKo": "오늘 상사가 기분이 좋아요."
+  },
+  {
+   "es": "enamorarse",
+   "ko": "사랑에 빠지다",
+   "ex": "Nos enamoramos a primera vista.",
+   "exKo": "우리는 첫눈에 반했어요."
+  },
+  {
+   "es": "asustado/a",
+   "ko": "겁먹은",
+   "ex": "Está asustado por la noticia.",
+   "exKo": "그 소식에 겁먹었어요."
+  },
+  {
+   "es": "dar lástima",
+   "ko": "안타깝다, 아쉽다",
+   "ex": "Me da lástima no poder quedar contigo.",
+   "exKo": "너랑 못 만나서 아쉬워."
+  },
+  {
+   "es": "quedar con",
+   "ko": "~와 만나기로 하다",
+   "ex": "no poder quedar contigo",
+   "exKo": "너와 만날 수 없는 것"
+  },
+  {
+   "es": "harto/a",
+   "ko": "질린, 지긋지긋한",
+   "ex": "Estoy harto de trabajar aquí.",
+   "exKo": "여기서 일하는 게 지긋지긋해요."
+  },
+  {
+   "es": "picar algo",
+   "ko": "간단히 뭘 먹다",
+   "ex": "Si tienes hambre, podemos picar algo.",
+   "exKo": "배고프면 간단히 뭘 먹자."
+  },
+  {
+   "es": "no pegar ojo",
+   "ko": "한숨도 못 자다",
+   "ex": "No he pegado ojo en toda la noche.",
+   "exKo": "밤새 한숨도 못 잤어요."
+  },
+  {
+   "es": "soportar",
+   "ko": "참다, 견디다",
+   "ex": "No soporto a los niños mimados.",
+   "exKo": "버릇없는 아이들은 못 참겠어요."
+  },
+  {
+   "es": "mimado/a",
+   "ko": "버릇없는, 응석받이의",
+   "ex": "los niños mimados",
+   "exKo": "버릇없는 아이들"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "'cabezota'의 뜻은?",
+   "options": [
+    "머리가 큰",
+    "고집 센",
+    "똑똑한",
+    "수줍은"
+   ],
+   "answer": 1,
+   "explain": "Mi hermano mayor es cabezota. = 형은 고집이 세요."
+  },
+  {
+   "q": "'Ese niño es más listo que el hambre.'의 뜻은?",
+   "options": [
+    "그 아이는 늘 배가 고파요.",
+    "그 아이는 정말 영리해요.",
+    "그 아이는 많이 먹어요.",
+    "그 아이는 말랐어요."
+   ],
+   "answer": 1,
+   "explain": "más listo que el hambre = 아주 영리하다 (관용 표현)."
+  },
+  {
+   "q": "'Él es muy tacaño. Nunca invita a nadie a nada.'에서 tacaño는?",
+   "options": [
+    "너그러운",
+    "인색한",
+    "부지런한",
+    "재미있는"
+   ],
+   "answer": 1,
+   "explain": "아무에게도 아무것도 사지 않는다 = 인색하다."
+  },
+  {
+   "q": "내일 면접이 있어서 '긴장돼요'는?",
+   "options": [
+    "Soy nervioso.",
+    "Estoy nervioso.",
+    "Tengo nervioso.",
+    "Me pongo nervios."
+   ],
+   "answer": 1,
+   "explain": "지금의 상태는 estar: Estoy nervioso porque mañana tengo una entrevista."
+  },
+  {
+   "q": "'No estoy enfadado, ___ molesto.' (화난 게 아니라 언짢아요)",
+   "options": [
+    "pero",
+    "sino",
+    "porque",
+    "aunque"
+   ],
+   "answer": 1,
+   "explain": "no A sino B = A가 아니라 B."
+  },
+  {
+   "q": "'그렇게 이기적으로 굴지 마'는?",
+   "options": [
+    "No eres tan egoísta.",
+    "No seas tan egoísta.",
+    "No estés tan egoísta.",
+    "No sé tan egoísta."
+   ],
+   "answer": 1,
+   "explain": "ser의 부정 명령: no seas."
+  },
+  {
+   "q": "'Me da miedo la oscuridad.'와 비슷한 뜻은?",
+   "options": [
+    "Tengo miedo a la oscuridad.",
+    "Me gusta la oscuridad.",
+    "Estoy oscuro.",
+    "La oscuridad tiene miedo."
+   ],
+   "answer": 0,
+   "explain": "me da miedo ~ = tengo miedo a ~ (~이 무섭다)."
+  },
+  {
+   "q": "'휴가 생각을 하면 기분이 좋아져요'에 들어갈 동사는? 'Me ___ de buen humor cuando pienso en las vacaciones.'",
+   "options": [
+    "pongo",
+    "soy",
+    "tengo",
+    "hago"
+   ],
+   "answer": 0,
+   "explain": "ponerse de buen humor = 기분이 좋아지다."
+  },
+  {
+   "q": "'Nos enamoramos a primera vista.'의 뜻은?",
+   "options": [
+    "우리는 처음 만났어요.",
+    "우리는 첫눈에 반했어요.",
+    "우리는 먼저 봤어요.",
+    "우리는 헤어졌어요."
+   ],
+   "answer": 1,
+   "explain": "a primera vista = 첫눈에."
+  },
+  {
+   "q": "'춥다'는 스페인어로?",
+   "options": [
+    "estar frío",
+    "ser frío",
+    "tener frío",
+    "hacer frío (나에게)"
+   ],
+   "answer": 2,
+   "explain": "몸 상태는 tener + 명사: tengo frío."
+  },
+  {
+   "q": "'No he pegado ojo en toda la noche.'의 뜻은?",
+   "options": [
+    "밤새 눈이 아팠어요.",
+    "밤새 한숨도 못 잤어요.",
+    "밤새 TV를 봤어요.",
+    "눈을 감았어요."
+   ],
+   "answer": 1,
+   "explain": "no pegar ojo = 한숨도 못 자다."
+  },
+  {
+   "q": "'Ese chico es muy majo.'에서 majo는?",
+   "options": [
+    "착하고 호감 가는",
+    "키가 큰",
+    "게으른",
+    "거만한"
+   ],
+   "answer": 0,
+   "explain": "majo = 스페인 구어로 '착하고 괜찮은 사람'."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Unidad 1 — 성격 ① 기본 성격 형용사",
+   "lines": [
+    {
+     "t": 6.2,
+     "s": "N",
+     "es": "Capítulo 2. Unidad 1.",
+     "ko": "2장. 1과."
+    },
+    {
+     "t": 15.5,
+     "s": "N",
+     "es": "Amable",
+     "ko": "친절한"
+    },
+    {
+     "t": 19.2,
+     "s": "N",
+     "es": "Ana es amable con todo el mundo.",
+     "ko": "아나는 모든 사람에게 친절해요."
+    },
+    {
+     "t": 25.8,
+     "s": "N",
+     "es": "Inteligente",
+     "ko": "똑똑한, 지적인"
+    },
+    {
+     "t": 27.4,
+     "s": "N",
+     "es": "José es un niño muy inteligente.",
+     "ko": "호세는 아주 똑똑한 아이예요."
+    },
+    {
+     "t": 32.7,
+     "s": "N",
+     "es": "Sociable",
+     "ko": "사교적인"
+    },
+    {
+     "t": 35.0,
+     "s": "N",
+     "es": "Necesitas ser más sociable.",
+     "ko": "너는 좀 더 사교적일 필요가 있어."
+    },
+    {
+     "t": 39.5,
+     "s": "N",
+     "es": "Trabajador",
+     "ko": "부지런한, 일 잘하는"
+    },
+    {
+     "t": 42.0,
+     "s": "N",
+     "es": "Buscamos una persona trabajadora.",
+     "ko": "부지런한 사람을 찾고 있어요."
+    },
+    {
+     "t": 47.8,
+     "s": "N",
+     "es": "Serio",
+     "ko": "진지한, 무뚝뚝한"
+    },
+    {
+     "t": 48.9,
+     "s": "N",
+     "es": "Mi padre es una persona seria. No le gusta gastar bromas.",
+     "ko": "우리 아빠는 진지한 사람이에요. 농담하는 걸 안 좋아해요."
+    },
+    {
+     "t": 56.4,
+     "s": "N",
+     "es": "Tímido",
+     "ko": "수줍은"
+    },
+    {
+     "t": 58.4,
+     "s": "N",
+     "es": "Luis no es tímido.",
+     "ko": "루이스는 수줍음이 없어요."
+    },
+    {
+     "t": 62.4,
+     "s": "N",
+     "es": "Tonto",
+     "ko": "바보 같은, 어리석은"
+    },
+    {
+     "t": 64.4,
+     "s": "N",
+     "es": "¡Qué tonto eres!",
+     "ko": "너 정말 바보구나!"
+    },
+    {
+     "t": 68.0,
+     "s": "N",
+     "es": "Cariñoso",
+     "ko": "다정한, 애정 표현이 많은"
+    },
+    {
+     "t": 70.1,
+     "s": "N",
+     "es": "Mi novia es muy cariñosa.",
+     "ko": "내 여자 친구는 아주 다정해요."
+    },
+    {
+     "t": 74.8,
+     "s": "N",
+     "es": "Egoísta",
+     "ko": "이기적인"
+    },
+    {
+     "t": 76.8,
+     "s": "N",
+     "es": "No seas tan egoísta.",
+     "ko": "그렇게 이기적으로 굴지 마."
+    },
+    {
+     "t": 81.0,
+     "s": "N",
+     "es": "Optimista",
+     "ko": "낙천적인"
+    },
+    {
+     "t": 83.0,
+     "s": "N",
+     "es": "Hay que ser optimista.",
+     "ko": "낙천적이어야 해요."
+    },
+    {
+     "t": 88.3,
+     "s": "N",
+     "es": "Estricto",
+     "ko": "엄격한"
+    },
+    {
+     "t": 90.4,
+     "s": "N",
+     "es": "Soy bastante estricto con mis alumnos.",
+     "ko": "나는 학생들에게 꽤 엄격해요."
+    },
+    {
+     "t": 96.5,
+     "s": "N",
+     "es": "Abierto",
+     "ko": "개방적인, 마음이 열린"
+    },
+    {
+     "t": 97.9,
+     "s": "N",
+     "es": "Mis padres son abiertos.",
+     "ko": "우리 부모님은 개방적이세요."
+    },
+    {
+     "t": 103.1,
+     "s": "N",
+     "es": "Tranquilo",
+     "ko": "차분한, 침착한"
+    },
+    {
+     "t": 105.4,
+     "s": "N",
+     "es": "Tranquilo, no pasa nada.",
+     "ko": "진정해, 아무 일 없어."
+    },
+    {
+     "t": 109.4,
+     "s": "N",
+     "es": "Arrogante",
+     "ko": "거만한"
+    },
+    {
+     "t": 111.8,
+     "s": "N",
+     "es": "No seas arrogante.",
+     "ko": "거만하게 굴지 마."
+    },
+    {
+     "t": 115.5,
+     "s": "N",
+     "es": "Reservado",
+     "ko": "말수가 적은, 속을 잘 안 드러내는"
+    },
+    {
+     "t": 117.8,
+     "s": "N",
+     "es": "Es un hombre reservado y no le gusta compartir sus ideas.",
+     "ko": "그는 속을 잘 안 드러내는 사람이라 자기 생각을 나누는 걸 안 좋아해요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 1 — 성격 ② 일상에서 자주 쓰는 표현",
+   "lines": [
+    {
+     "t": 124.7,
+     "s": "N",
+     "es": "Cabezota",
+     "ko": "고집 센 (구어)"
+    },
+    {
+     "t": 127.4,
+     "s": "N",
+     "es": "Mi hermano mayor es cabezota.",
+     "ko": "우리 형(오빠)은 고집이 세요."
+    },
+    {
+     "t": 132.4,
+     "s": "N",
+     "es": "Conservador",
+     "ko": "보수적인"
+    },
+    {
+     "t": 134.6,
+     "s": "N",
+     "es": "Mi abuelo es bastante conservador.",
+     "ko": "할아버지는 꽤 보수적이세요."
+    },
+    {
+     "t": 139.6,
+     "s": "N",
+     "es": "Despistado",
+     "ko": "덜렁대는, 정신없는"
+    },
+    {
+     "t": 142.5,
+     "s": "N",
+     "es": "¿Por qué eres tan despistado?",
+     "ko": "너는 왜 그렇게 덜렁대?"
+    },
+    {
+     "t": 147.1,
+     "s": "N",
+     "es": "Educado",
+     "ko": "예의 바른"
+    },
+    {
+     "t": 148.5,
+     "s": "N",
+     "es": "Me gustan las personas educadas.",
+     "ko": "예의 바른 사람이 좋아요."
+    },
+    {
+     "t": 154.0,
+     "s": "N",
+     "es": "Gracioso",
+     "ko": "재미있는, 웃기는"
+    },
+    {
+     "t": 156.3,
+     "s": "N",
+     "es": "José es muy gracioso.",
+     "ko": "호세는 아주 재미있어요."
+    },
+    {
+     "t": 160.3,
+     "s": "N",
+     "es": "Hablador",
+     "ko": "수다스러운"
+    },
+    {
+     "t": 162.3,
+     "s": "N",
+     "es": "Mi novio es muy hablador.",
+     "ko": "내 남자 친구는 아주 수다스러워요."
+    },
+    {
+     "t": 166.2,
+     "s": "N",
+     "es": "Introvertido",
+     "ko": "내성적인"
+    },
+    {
+     "t": 168.8,
+     "s": "N",
+     "es": "Susana es un poco introvertida.",
+     "ko": "수사나는 좀 내성적이에요."
+    },
+    {
+     "t": 173.9,
+     "s": "N",
+     "es": "Listo",
+     "ko": "영리한, 똑똑한"
+    },
+    {
+     "t": 175.2,
+     "s": "N",
+     "es": "Ese niño es más listo que el hambre.",
+     "ko": "그 아이는 정말 영리해요. (배고픔보다 영리하다)"
+    },
+    {
+     "t": 181.0,
+     "s": "N",
+     "es": "Majo",
+     "ko": "착하고 호감 가는 (스페인 구어)"
+    },
+    {
+     "t": 182.6,
+     "s": "N",
+     "es": "Ese chico es muy majo.",
+     "ko": "그 남자애 정말 괜찮아요."
+    },
+    {
+     "t": 186.8,
+     "s": "N",
+     "es": "Mentiroso",
+     "ko": "거짓말쟁이의"
+    },
+    {
+     "t": 189.0,
+     "s": "N",
+     "es": "No me gustan las personas mentirosas.",
+     "ko": "거짓말하는 사람은 싫어요."
+    },
+    {
+     "t": 194.0,
+     "s": "N",
+     "es": "Nervioso",
+     "ko": "신경질적인, 예민한"
+    },
+    {
+     "t": 196.7,
+     "s": "N",
+     "es": "Mi hija es muy nerviosa.",
+     "ko": "우리 딸은 아주 예민해요."
+    },
+    {
+     "t": 202.3,
+     "s": "N",
+     "es": "Orgulloso",
+     "ko": "자존심 센, 거만한"
+    },
+    {
+     "t": 203.6,
+     "s": "N",
+     "es": "No seas tan orgulloso conmigo.",
+     "ko": "나한테 그렇게 자존심 세우지 마."
+    },
+    {
+     "t": 208.8,
+     "s": "N",
+     "es": "Paciente",
+     "ko": "참을성 있는"
+    },
+    {
+     "t": 211.2,
+     "s": "N",
+     "es": "Tienes que ser más paciente.",
+     "ko": "너는 좀 더 참을성이 있어야 해."
+    },
+    {
+     "t": 215.3,
+     "s": "N",
+     "es": "Perezoso",
+     "ko": "게으른"
+    },
+    {
+     "t": 218.0,
+     "s": "N",
+     "es": "Mi hermano menor es perezoso.",
+     "ko": "내 남동생은 게을러요."
+    },
+    {
+     "t": 222.5,
+     "s": "N",
+     "es": "Pesado",
+     "ko": "귀찮게 구는, 지겨운"
+    },
+    {
+     "t": 224.8,
+     "s": "N",
+     "es": "¡Qué pesada eres!",
+     "ko": "너 정말 귀찮게 군다!"
+    },
+    {
+     "t": 228.1,
+     "s": "N",
+     "es": "Presumido",
+     "ko": "잘난 척하는, 멋 부리는"
+    },
+    {
+     "t": 230.4,
+     "s": "N",
+     "es": "Algunas amigas mías son muy presumidas.",
+     "ko": "내 친구 몇 명은 아주 잘난 척해요."
+    },
+    {
+     "t": 237.1,
+     "s": "N",
+     "es": "Raro",
+     "ko": "이상한"
+    },
+    {
+     "t": 238.8,
+     "s": "N",
+     "es": "Ese hombre es muy raro.",
+     "ko": "그 남자는 아주 이상해요."
+    },
+    {
+     "t": 244.2,
+     "s": "N",
+     "es": "Respetuoso",
+     "ko": "공손한, 존중하는"
+    },
+    {
+     "t": 245.3,
+     "s": "N",
+     "es": "Hay que ser respetuoso con los mayores.",
+     "ko": "어른들께는 공손해야 해요."
+    },
+    {
+     "t": 251.4,
+     "s": "N",
+     "es": "Salado",
+     "ko": "재치 있는, 귀여운 (스페인 구어)"
+    },
+    {
+     "t": 253.0,
+     "s": "N",
+     "es": "Mi abuelo es muy salado.",
+     "ko": "우리 할아버지는 아주 재치 있으세요."
+    },
+    {
+     "t": 257.4,
+     "s": "N",
+     "es": "Seguro",
+     "ko": "자신감 있는, 확신하는"
+    },
+    {
+     "t": 259.3,
+     "s": "N",
+     "es": "Juan se siente muy seguro de sí mismo.",
+     "ko": "후안은 자신감이 아주 넘쳐요."
+    },
+    {
+     "t": 264.7,
+     "s": "N",
+     "es": "Sincero",
+     "ko": "솔직한"
+    },
+    {
+     "t": 266.4,
+     "s": "N",
+     "es": "Sé sincero conmigo.",
+     "ko": "나한테 솔직하게 말해."
+    },
+    {
+     "t": 270.6,
+     "s": "N",
+     "es": "Tacaño",
+     "ko": "인색한, 짠돌이의"
+    },
+    {
+     "t": 272.3,
+     "s": "N",
+     "es": "Él es muy tacaño. Nunca invita a nadie a nada.",
+     "ko": "그는 아주 짠돌이예요. 누구에게도 뭘 사는 법이 없어요."
+    },
+    {
+     "t": 279.0,
+     "s": "N",
+     "es": "Travieso",
+     "ko": "장난꾸러기의"
+    },
+    {
+     "t": 281.7,
+     "s": "N",
+     "es": "Los niños de esa edad son traviesos.",
+     "ko": "그 나이 아이들은 장난꾸러기예요."
+    },
+    {
+     "t": 287.3,
+     "s": "N",
+     "es": "Tener sentido del humor",
+     "ko": "유머 감각이 있다"
+    },
+    {
+     "t": 290.9,
+     "s": "N",
+     "es": "Me gustan las personas que tienen sentido del humor.",
+     "ko": "유머 감각이 있는 사람이 좋아요."
+    },
+    {
+     "t": 296.4,
+     "s": "N",
+     "es": "Tener mucho carácter",
+     "ko": "개성이 강하다, 기가 세다"
+    },
+    {
+     "t": 300.5,
+     "s": "N",
+     "es": "Mi hermana mayor tiene mucho carácter.",
+     "ko": "우리 언니(누나)는 기가 세요."
+    },
+    {
+     "t": 306.0,
+     "s": "N",
+     "es": "Tener un carácter fuerte",
+     "ko": "성격이 세다, 다혈질이다"
+    },
+    {
+     "t": 309.4,
+     "s": "N",
+     "es": "El casero tiene un carácter fuerte.",
+     "ko": "집주인은 성격이 세요."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2 — 감정 ① 기쁨·슬픔·짜증",
+   "lines": [
+    {
+     "t": 318.3,
+     "s": "N",
+     "es": "Unidad 2",
+     "ko": "2과"
+    },
+    {
+     "t": 322.7,
+     "s": "N",
+     "es": "Alegre",
+     "ko": "기쁜, 명랑한"
+    },
+    {
+     "t": 324.1,
+     "s": "N",
+     "es": "Ana está alegre porque mañana se va de vacaciones.",
+     "ko": "아나는 내일 휴가를 떠나서 기분이 좋아요."
+    },
+    {
+     "t": 330.8,
+     "s": "N",
+     "es": "Feliz",
+     "ko": "행복한"
+    },
+    {
+     "t": 332.7,
+     "s": "N",
+     "es": "Me siento feliz porque estás aquí.",
+     "ko": "네가 여기 있어서 행복해."
+    },
+    {
+     "t": 338.6,
+     "s": "N",
+     "es": "Cansado",
+     "ko": "피곤한"
+    },
+    {
+     "t": 339.9,
+     "s": "N",
+     "es": "Estoy muy cansado porque he trabajado todo el día.",
+     "ko": "하루 종일 일해서 아주 피곤해요."
+    },
+    {
+     "t": 346.0,
+     "s": "N",
+     "es": "Contento",
+     "ko": "만족한, 기쁜"
+    },
+    {
+     "t": 348.6,
+     "s": "N",
+     "es": "He aprobado todas las asignaturas. Estoy muy contenta.",
+     "ko": "모든 과목을 통과했어요. 정말 기뻐요."
+    },
+    {
+     "t": 355.3,
+     "s": "N",
+     "es": "Gustar",
+     "ko": "좋아하다 (~이 마음에 들다)"
+    },
+    {
+     "t": 357.4,
+     "s": "N",
+     "es": "Me gusta el cine español.",
+     "ko": "나는 스페인 영화를 좋아해요."
+    },
+    {
+     "t": 362.3,
+     "s": "N",
+     "es": "Encantar",
+     "ko": "아주 좋아하다"
+    },
+    {
+     "t": 363.3,
+     "s": "N",
+     "es": "Me encanta tomar el sol.",
+     "ko": "햇볕 쬐는 걸 정말 좋아해요."
+    },
+    {
+     "t": 367.7,
+     "s": "N",
+     "es": "Odiar",
+     "ko": "미워하다, 아주 싫어하다"
+    },
+    {
+     "t": 370.0,
+     "s": "N",
+     "es": "Creo que el profesor de inglés me odia.",
+     "ko": "영어 선생님이 나를 싫어하는 것 같아요."
+    },
+    {
+     "t": 375.0,
+     "s": "N",
+     "es": "Triste",
+     "ko": "슬픈"
+    },
+    {
+     "t": 377.0,
+     "s": "N",
+     "es": "Estoy triste porque mi mejor amiga se fue a su país.",
+     "ko": "가장 친한 친구가 자기 나라로 돌아가서 슬퍼요."
+    },
+    {
+     "t": 383.0,
+     "s": "N",
+     "es": "Llorar",
+     "ko": "울다"
+    },
+    {
+     "t": 384.8,
+     "s": "N",
+     "es": "A veces lloro de alegría.",
+     "ko": "가끔 기뻐서 울어요."
+    },
+    {
+     "t": 389.7,
+     "s": "N",
+     "es": "Gritar",
+     "ko": "소리 지르다"
+    },
+    {
+     "t": 390.8,
+     "s": "N",
+     "es": "Ana me gritó en plena calle.",
+     "ko": "아나가 길 한복판에서 나한테 소리를 질렀어요."
+    },
+    {
+     "t": 396.2,
+     "s": "N",
+     "es": "Nervioso",
+     "ko": "긴장한, 초조한"
+    },
+    {
+     "t": 398.9,
+     "s": "N",
+     "es": "Estoy nervioso porque mañana tengo una entrevista.",
+     "ko": "내일 면접이 있어서 긴장돼요."
+    },
+    {
+     "t": 405.0,
+     "s": "N",
+     "es": "Aburrido",
+     "ko": "지루한, 심심한"
+    },
+    {
+     "t": 407.0,
+     "s": "N",
+     "es": "No hay nadie en casa y estoy aburrido.",
+     "ko": "집에 아무도 없어서 심심해요."
+    },
+    {
+     "t": 413.3,
+     "s": "N",
+     "es": "Preocupado",
+     "ko": "걱정하는"
+    },
+    {
+     "t": 414.4,
+     "s": "N",
+     "es": "Mis padres están preocupados por mi hermano mayor.",
+     "ko": "부모님은 형(오빠) 때문에 걱정하세요."
+    },
+    {
+     "t": 420.5,
+     "s": "N",
+     "es": "Enfadado",
+     "ko": "화난"
+    },
+    {
+     "t": 422.8,
+     "s": "N",
+     "es": "No estoy enfadado, sino molesto.",
+     "ko": "화난 게 아니라 언짢은 거예요."
+    },
+    {
+     "t": 427.8,
+     "s": "N",
+     "es": "Sentimiento",
+     "ko": "감정"
+    },
+    {
+     "t": 430.2,
+     "s": "N",
+     "es": "No se puede jugar con los sentimientos de las personas.",
+     "ko": "사람의 감정을 가지고 장난치면 안 돼요."
+    },
+    {
+     "t": 437.8,
+     "s": "N",
+     "es": "Amistad",
+     "ko": "우정"
+    },
+    {
+     "t": 439.3,
+     "s": "N",
+     "es": "Nuestra amistad empezó cuando teníamos diez años.",
+     "ko": "우리 우정은 열 살 때 시작됐어요."
+    },
+    {
+     "t": 445.6,
+     "s": "N",
+     "es": "Amor",
+     "ko": "사랑; (호칭) 자기야"
+    },
+    {
+     "t": 447.5,
+     "s": "N",
+     "es": "¿Qué película te apetece, mi amor?",
+     "ko": "무슨 영화 보고 싶어, 자기야?"
+    }
+   ]
+  },
+  {
+   "title": "Unidad 2 — 감정 ② 기분이 바뀔 때",
+   "lines": [
+    {
+     "t": 452.9,
+     "s": "N",
+     "es": "Divertirse",
+     "ko": "즐겁게 지내다"
+    },
+    {
+     "t": 455.1,
+     "s": "N",
+     "es": "Que te diviertas mucho esta noche.",
+     "ko": "오늘 밤 즐거운 시간 보내."
+    },
+    {
+     "t": 459.5,
+     "s": "N",
+     "es": "Estar de buen humor",
+     "ko": "기분이 좋다"
+    },
+    {
+     "t": 462.9,
+     "s": "N",
+     "es": "Hoy el jefe está de buen humor.",
+     "ko": "오늘 상사가 기분이 좋아요."
+    },
+    {
+     "t": 467.9,
+     "s": "N",
+     "es": "Ponerse de buen humor",
+     "ko": "기분이 좋아지다"
+    },
+    {
+     "t": 471.3,
+     "s": "N",
+     "es": "Me pongo de buen humor cuando pienso en las vacaciones.",
+     "ko": "휴가 생각을 하면 기분이 좋아져요."
+    },
+    {
+     "t": 478.4,
+     "s": "N",
+     "es": "Ponerse contento",
+     "ko": "기뻐하다"
+    },
+    {
+     "t": 481.2,
+     "s": "N",
+     "es": "Se ha puesto contento porque ha aprobado el examen de inglés.",
+     "ko": "영어 시험에 붙어서 기뻐했어요."
+    },
+    {
+     "t": 488.2,
+     "s": "N",
+     "es": "Enamorado",
+     "ko": "사랑에 빠진"
+    },
+    {
+     "t": 489.6,
+     "s": "N",
+     "es": "Miguel está enamorado de una chica de su clase.",
+     "ko": "미겔은 같은 반 여자애를 좋아해요."
+    },
+    {
+     "t": 495.9,
+     "s": "N",
+     "es": "Enamorarse",
+     "ko": "사랑에 빠지다"
+    },
+    {
+     "t": 498.9,
+     "s": "N",
+     "es": "Nos enamoramos a primera vista.",
+     "ko": "우리는 첫눈에 반했어요."
+    },
+    {
+     "t": 503.6,
+     "s": "N",
+     "es": "Motivado",
+     "ko": "의욕이 생긴"
+    },
+    {
+     "t": 506.2,
+     "s": "N",
+     "es": "Está bastante motivado después de aprobar el examen.",
+     "ko": "시험에 붙고 나서 꽤 의욕이 넘쳐요."
+    },
+    {
+     "t": 513.8,
+     "s": "N",
+     "es": "Asustado",
+     "ko": "겁먹은"
+    },
+    {
+     "t": 516.1,
+     "s": "N",
+     "es": "Está asustado por la noticia.",
+     "ko": "그 소식에 겁을 먹었어요."
+    },
+    {
+     "t": 520.5,
+     "s": "N",
+     "es": "Enfadarse",
+     "ko": "화내다"
+    },
+    {
+     "t": 522.8,
+     "s": "N",
+     "es": "No te enfades conmigo.",
+     "ko": "나한테 화내지 마."
+    },
+    {
+     "t": 527.1,
+     "s": "N",
+     "es": "Dar lástima",
+     "ko": "안타깝다, 아쉽다"
+    },
+    {
+     "t": 530.0,
+     "s": "N",
+     "es": "Me da lástima no poder quedar contigo.",
+     "ko": "너랑 못 만나서 아쉬워."
+    },
+    {
+     "t": 534.8,
+     "s": "N",
+     "es": "Dar miedo",
+     "ko": "무섭게 하다"
+    },
+    {
+     "t": 537.9,
+     "s": "N",
+     "es": "Me da miedo la oscuridad.",
+     "ko": "나는 어둠이 무서워요."
+    },
+    {
+     "t": 542.5,
+     "s": "N",
+     "es": "Tener miedo",
+     "ko": "무서워하다"
+    },
+    {
+     "t": 544.9,
+     "s": "N",
+     "es": "No tengo miedo a morir.",
+     "ko": "죽는 게 무섭지 않아요."
+    },
+    {
+     "t": 549.1,
+     "s": "N",
+     "es": "Deprimido",
+     "ko": "우울한"
+    },
+    {
+     "t": 551.6,
+     "s": "N",
+     "es": "Estoy deprimido desde que rompí con mi novia.",
+     "ko": "여자 친구와 헤어진 뒤로 우울해요."
+    },
+    {
+     "t": 557.2,
+     "s": "N",
+     "es": "Deprimirse",
+     "ko": "우울해지다"
+    },
+    {
+     "t": 559.7,
+     "s": "N",
+     "es": "Me deprimo mucho cuando hace mal tiempo.",
+     "ko": "날씨가 나쁘면 많이 우울해져요."
+    },
+    {
+     "t": 564.3,
+     "s": "N",
+     "es": "Harto",
+     "ko": "질린, 지긋지긋한"
+    },
+    {
+     "t": 567.0,
+     "s": "N",
+     "es": "Estoy harto de trabajar aquí.",
+     "ko": "여기서 일하는 게 지긋지긋해요."
+    },
+    {
+     "t": 571.5,
+     "s": "N",
+     "es": "Ponerse triste",
+     "ko": "슬퍼지다"
+    },
+    {
+     "t": 574.4,
+     "s": "N",
+     "es": "No te pongas triste, voy a volver pronto.",
+     "ko": "슬퍼하지 마, 금방 돌아올게."
+    }
+   ]
+  },
+  {
+   "title": "Unidad 3 — 몸 상태 (tener + 명사)",
+   "lines": [
+    {
+     "t": 582.9,
+     "s": "N",
+     "es": "Unidad 3",
+     "ko": "3과"
+    },
+    {
+     "t": 585.7,
+     "s": "N",
+     "es": "Tener calor",
+     "ko": "덥다"
+    },
+    {
+     "t": 589.4,
+     "s": "N",
+     "es": "¿No tienes calor?",
+     "ko": "덥지 않아?"
+    },
+    {
+     "t": 594.0,
+     "s": "N",
+     "es": "Tener frío",
+     "ko": "춥다"
+    },
+    {
+     "t": 597.0,
+     "s": "N",
+     "es": "Por favor, cierra la ventana, que tengo frío.",
+     "ko": "창문 좀 닫아 줘, 추워."
+    },
+    {
+     "t": 603.9,
+     "s": "N",
+     "es": "Tener hambre",
+     "ko": "배고프다"
+    },
+    {
+     "t": 606.6,
+     "s": "N",
+     "es": "Si tienes hambre, podemos picar algo.",
+     "ko": "배고프면 뭐 좀 간단히 먹자."
+    },
+    {
+     "t": 611.8,
+     "s": "N",
+     "es": "Tener sed",
+     "ko": "목마르다"
+    },
+    {
+     "t": 614.5,
+     "s": "N",
+     "es": "Voy a comprar una botella de agua, que tengo sed.",
+     "ko": "목이 말라서 물 한 병 사 올게."
+    },
+    {
+     "t": 621.1,
+     "s": "N",
+     "es": "Tener sueño",
+     "ko": "졸리다"
+    },
+    {
+     "t": 623.7,
+     "s": "N",
+     "es": "Tengo muchísimo sueño porque no he pegado ojo en toda la noche.",
+     "ko": "밤새 한숨도 못 자서 엄청 졸려요."
+    },
+    {
+     "t": 630.6,
+     "s": "N",
+     "es": "Tener dolor de cabeza",
+     "ko": "머리가 아프다"
+    },
+    {
+     "t": 634.8,
+     "s": "N",
+     "es": "Ana tiene dolor de cabeza desde ayer.",
+     "ko": "아나는 어제부터 머리가 아파요."
+    },
+    {
+     "t": 640.1,
+     "s": "N",
+     "es": "Soportar",
+     "ko": "참다, 견디다"
+    },
+    {
+     "t": 642.3,
+     "s": "N",
+     "es": "No soporto a los niños mimados.",
+     "ko": "버릇없는 아이들은 못 참겠어요."
+    }
+   ]
+  }
+ ]
+}
