@@ -1,0 +1,714 @@
+{
+ "lang": "es",
+ "date": "2026-11-25",
+ "title": "의사소통 기술 — 듣기·표현·공감·갈등 다루기",
+ "es": "Escuchar activamente construye confianza.",
+ "emoji": "🗣️",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "Talking about Communications skills (B1) | Learn español with Podcast | episode 71 | Easy Spanish",
+ "youtube": "tphmZwZF96k",
+ "duration": "17:04",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 좋은 의사소통의 다섯 축을 이야기해요. 적극적 경청(눈 맞춤·끼어들지 않기·바꿔 말하기), 명확하고 간결한 표현, 비언어적 소통(자세·표정·목소리 톤), 공감(열린 질문·감정 인정), 그리고 '나 전달법'으로 갈등 다루기와 디지털 소통까지. 조언 표현과 접속법을 B1 수준으로 듣고 따라 하기 좋아요.",
+ "topics": [
+  "적극적 경청: hacer contacto visual · evitar interrumpir · parafrasear",
+  "명확한 표현: organizar tus pensamientos · ve al grano · usa un lenguaje sencillo",
+  "비언어적 소통: postura · gestos · tono de voz · ritmo",
+  "공감: ponerse en los zapatos del otro · preguntas abiertas · validar sentimientos",
+  "갈등 다루기: mensajes «yo» · reconocer la validez de su punto de vista",
+  "디지털 소통: mensajes de texto · correos · videollamadas",
+  "문법: ya sea que + 접속법 · 부정/긍정 명령 · si + 접속법 과거 · no solo… sino también"
+ ],
+ "grammar": [
+  {
+   "title": "① 현재 접속법 — Ya sea que estés… (~이든)",
+   "lead": "<b>ya sea que + 접속법</b>은 '~이든(어떤 경우든)'이라는 양보 표현이에요. 여러 상황을 나열할 때 써요.",
+   "examples": [
+    [
+     "Ya sea que estés en una entrevista de trabajo, la forma en que te comunicas importa.",
+     "면접 자리에 있든, 소통하는 방식은 중요해요."
+    ],
+    [
+     "Ya sea que hables con un amigo o pidas café, sé claro.",
+     "친구와 이야기하든 커피를 주문하든 분명하게 말하세요."
+    ]
+   ],
+   "tip": "estés는 estar의 tú 접속법 현재(estar → estés). 나열할 때는 현재분사(presentando, hablando)를 이어 써도 돼요."
+  },
+  {
+   "title": "② 부정 명령 vs 긍정 명령 — 조언할 때",
+   "lead": "조언·지시는 tú 명령형으로 해요. 긍정은 직설법 3인칭 형태(usa, sé, ve), 부정은 <b>no + 접속법</b>(no des, no tengas).",
+   "table": {
+    "head": [
+     "동사",
+     "긍정 명령 (tú)",
+     "부정 명령 (tú)"
+    ],
+    "rows": [
+     [
+      "usar",
+      "usa un lenguaje sencillo",
+      "no uses palabras complicadas"
+     ],
+     [
+      "ser",
+      "sé conciso",
+      "no seas confuso"
+     ],
+     [
+      "ir",
+      "ve al grano",
+      "no vayas con rodeos"
+     ],
+     [
+      "dar",
+      "da ejemplos",
+      "no des vueltas"
+     ],
+     [
+      "tener",
+      "ten paciencia",
+      "no tengas miedo"
+     ],
+     [
+      "evitar",
+      "evita interrumpir",
+      "—"
+     ]
+    ]
+   },
+   "tip": "no des vueltas = 빙빙 돌리지 마세요 / ve al grano = 요점으로 가세요."
+  },
+  {
+   "title": "③ 접속법 과거 + 조건 — si practicáramos…",
+   "lead": "'만약 ~한다면 ~할 텐데'는 <b>si + 접속법 불완료과거, 조건법</b>. 현실이 아닌 가정이에요.",
+   "examples": [
+    [
+     "Pienso en cuántos problemas se podrían evitar si todos practicáramos la escucha activa.",
+     "모두가 적극적 경청을 연습한다면 얼마나 많은 문제를 피할 수 있을지 생각해요."
+    ],
+    [
+     "Si practicáramos más, hablaríamos con más claridad.",
+     "더 연습한다면 더 분명하게 말할 텐데요."
+    ]
+   ],
+   "tip": "practicar → practicáramos (nosotros). se podrían evitar = 수동의 se + 조건법."
+  },
+  {
+   "title": "④ 부정사 용법 — para + 동사원형, lo primero es + 동사원형",
+   "lead": "<b>para + 원형</b> = ~하기 위해 / <b>lo primero es + 원형</b> = 먼저 해야 할 것은 ~하는 것.",
+   "examples": [
+    [
+     "Lo primero es organizar tus pensamientos antes de hablar.",
+     "먼저 할 일은 말하기 전에 생각을 정리하는 거예요."
+    ],
+    [
+     "Lo primero es hacer contacto visual.",
+     "첫 번째는 눈을 맞추는 거예요."
+    ],
+    [
+     "Parafrasea para asegurarte de que has entendido bien.",
+     "제대로 이해했는지 확인하려고 바꿔 말하세요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ no solo A, sino también B — A뿐 아니라 B도",
+   "lead": "두 가지를 함께 강조할 때 써요. 뒤에 <b>sino también</b>.",
+   "examples": [
+    [
+     "No solo estás escuchando los hechos, sino también cómo se siente esa persona.",
+     "사실만이 아니라 그 사람이 어떻게 느끼는지도 듣는 거예요."
+    ],
+    [
+     "No solo ayuda a la otra persona, sino que también te ayuda a ti.",
+     "상대뿐 아니라 나에게도 도움이 돼요. (뒤에 절이 오면 sino que)"
+    ],
+    [
+     "No es solo qué dices, sino cómo lo dices.",
+     "무엇을 말하느냐뿐 아니라 어떻게 말하느냐도 중요해요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 재귀 표현 — sentirse + 형용사/과거분사",
+   "lead": "감정 상태는 <b>sentirse + 형용사</b>. 수동적 느낌은 과거분사(valorado, escuchado, ignorado)로 나타내요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "me siento estresado",
+      "스트레스를 받아요"
+     ],
+     [
+      "me siento valorado / no me siento valorado",
+      "인정받는 느낌이에요 / 인정받지 못해요"
+     ],
+     [
+      "me siento ignorado",
+      "무시당하는 기분이에요"
+     ],
+     [
+      "se siente escuchado",
+      "경청받는다고 느껴요"
+     ],
+     [
+      "no te sientas atacado",
+      "공격받는다고 느끼지 마"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "⑦ 정중한 의견 충돌 — Entiendo lo que dices, pero…",
+   "lead": "반박할 때는 <b>상대를 인정한 뒤 내 관점</b>을 덧붙여요. 비교 표현 mucho mejor / mucho más로 강조해요.",
+   "examples": [
+    [
+     "Entiendo lo que dices. Mi perspectiva es un poco diferente.",
+     "네 말은 이해해. 내 관점은 조금 달라."
+    ],
+    [
+     "Eso suena mucho mejor que «estás equivocado».",
+     "그건 '너 틀렸어'보다 훨씬 낫게 들려요."
+    ],
+    [
+     "Es natural sentirse frustrado en esa situación.",
+     "그런 상황에서 좌절하는 건 자연스러워요."
+    ]
+   ],
+   "tip": "Es natural + 원형 / Entiendo por qué + 직설법: 감정을 인정해 주는 틀이에요."
+  }
+ ],
+ "phrases": [
+  [
+   "Ya sea que estés en una entrevista de trabajo…",
+   "면접 자리에 있든…"
+  ],
+  [
+   "Marcar una gran diferencia",
+   "큰 차이를 만들다"
+  ],
+  [
+   "Es un proceso de doble vía.",
+   "쌍방향 과정이에요."
+  ],
+  [
+   "Ve al grano.",
+   "요점으로 바로 가세요."
+  ],
+  [
+   "No des vueltas.",
+   "빙빙 돌리지 마세요."
+  ],
+  [
+   "Ponerse en los zapatos del otro",
+   "상대의 입장이 되어 보다"
+  ],
+  [
+   "Leer entre líneas",
+   "행간을 읽다"
+  ],
+  [
+   "Entiendo lo que dices, pero mi perspectiva es un poco diferente.",
+   "네 말은 이해하지만 내 관점은 조금 달라요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "las habilidades de comunicación",
+   "ko": "의사소통 기술",
+   "ex": "Hoy vamos a hablar de las habilidades de comunicación.",
+   "exKo": "오늘은 의사소통 기술에 대해 이야기할 거예요."
+  },
+  {
+   "es": "la escucha activa",
+   "ko": "적극적 경청",
+   "ex": "La escucha activa construye confianza.",
+   "exKo": "적극적 경청은 신뢰를 쌓아요."
+  },
+  {
+   "es": "elocuente",
+   "ko": "말을 잘하는",
+   "ex": "No es solo ser elocuente.",
+   "exKo": "말을 잘하는 것만이 전부는 아니에요."
+  },
+  {
+   "es": "expresar",
+   "ko": "표현하다",
+   "ex": "Hay que expresar tus ideas claramente.",
+   "exKo": "생각을 분명히 표현해야 해요."
+  },
+  {
+   "es": "el lenguaje no verbal",
+   "ko": "비언어적 표현",
+   "ex": "Aprende a leer el lenguaje no verbal.",
+   "exKo": "비언어적 표현을 읽는 법을 배우세요."
+  },
+  {
+   "es": "el receptor",
+   "ko": "수신자, 받는 사람",
+   "ex": "El receptor debe sentirse escuchado.",
+   "exKo": "받는 사람은 경청받는다고 느껴야 해요."
+  },
+  {
+   "es": "el hablante",
+   "ko": "말하는 사람",
+   "ex": "Los gestos no interrumpen al hablante.",
+   "exKo": "몸짓은 말하는 사람을 방해하지 않아요."
+  },
+  {
+   "es": "prestar atención",
+   "ko": "주의를 기울이다",
+   "ex": "Presta toda tu atención a la persona.",
+   "exKo": "그 사람에게 온 신경을 기울이세요."
+  },
+  {
+   "es": "la intención",
+   "ko": "의도",
+   "ex": "Entiende la intención detrás de las palabras.",
+   "exKo": "말 뒤의 의도를 이해하세요."
+  },
+  {
+   "es": "la raíz del problema",
+   "ko": "문제의 뿌리",
+   "ex": "Das una solución sin entender la raíz del problema.",
+   "exKo": "문제의 뿌리를 이해하지 못한 채 해결책을 주네요."
+  },
+  {
+   "es": "validado",
+   "ko": "인정받은",
+   "ex": "Tu amigo se siente validado.",
+   "exKo": "친구는 인정받는다고 느껴요."
+  },
+  {
+   "es": "fortalecer",
+   "ko": "강화하다",
+   "ex": "Fortalecemos nuestras relaciones.",
+   "exKo": "우리는 관계를 단단히 해요."
+  },
+  {
+   "es": "la técnica",
+   "ko": "기술, 방법",
+   "ex": "¿Qué técnicas hay para escuchar mejor?",
+   "exKo": "더 잘 듣기 위한 방법에는 뭐가 있나요?"
+  },
+  {
+   "es": "interrumpir",
+   "ko": "끼어들다, 방해하다",
+   "ex": "Evita interrumpir a la otra persona.",
+   "exKo": "상대 말에 끼어들지 마세요."
+  },
+  {
+   "es": "asentir con la cabeza",
+   "ko": "고개를 끄덕이다",
+   "ex": "Asiente con la cabeza para mostrar atención.",
+   "exKo": "관심을 보이려고 고개를 끄덕여요."
+  },
+  {
+   "es": "parafrasear",
+   "ko": "바꿔 말하다",
+   "ex": "Es útil parafrasear lo que dijo.",
+   "exKo": "상대 말을 바꿔 말하는 게 유용해요."
+  },
+  {
+   "es": "sentirse valorado",
+   "ko": "인정받는다고 느끼다",
+   "ex": "No me siento valorado en mi equipo.",
+   "exKo": "나는 팀에서 인정받지 못해요."
+  },
+  {
+   "es": "el malentendido",
+   "ko": "오해",
+   "ex": "Evitamos malentendidos si escuchamos bien.",
+   "exKo": "잘 들으면 오해를 피할 수 있어요."
+  },
+  {
+   "es": "la discusión",
+   "ko": "다툼, 논쟁",
+   "ex": "Menos discusiones y más comprensión.",
+   "exKo": "다툼은 줄고 이해는 늘어요."
+  },
+  {
+   "es": "conciso",
+   "ko": "간결한",
+   "ex": "Sé claro y conciso.",
+   "exKo": "분명하고 간결하게 하세요."
+  },
+  {
+   "es": "claro",
+   "ko": "분명한",
+   "ex": "Usa un lenguaje claro y directo.",
+   "exKo": "분명하고 직접적인 말을 쓰세요."
+  },
+  {
+   "es": "el desastre",
+   "ko": "엉망, 재앙",
+   "ex": "La explicación fue un desastre confuso.",
+   "exKo": "설명이 혼란스러운 엉망이었어요."
+  },
+  {
+   "es": "enredarse",
+   "ko": "엉키다",
+   "ex": "Las palabras se enredan al salir.",
+   "exKo": "말이 나오면서 엉켜요."
+  },
+  {
+   "es": "organizar los pensamientos",
+   "ko": "생각을 정리하다",
+   "ex": "Organiza tus pensamientos antes de hablar.",
+   "exKo": "말하기 전에 생각을 정리하세요."
+  },
+  {
+   "es": "el punto clave",
+   "ko": "핵심 포인트",
+   "ex": "Piensa en los puntos clave.",
+   "exKo": "핵심 포인트를 생각하세요."
+  },
+  {
+   "es": "el esquema",
+   "ko": "개요",
+   "ex": "Haz un pequeño esquema mental.",
+   "exKo": "머릿속에 작은 개요를 만드세요."
+  },
+  {
+   "es": "la jerga",
+   "ko": "전문 용어, 속어",
+   "ex": "Evita la jerga técnica.",
+   "exKo": "전문 용어는 피하세요."
+  },
+  {
+   "es": "la barrera",
+   "ko": "장벽",
+   "ex": "Las palabras complicadas crean una barrera.",
+   "exKo": "복잡한 단어는 장벽을 만들어요."
+  },
+  {
+   "es": "ir al grano",
+   "ko": "요점으로 가다",
+   "ex": "Ve al grano, por favor.",
+   "exKo": "요점으로 바로 가 주세요."
+  },
+  {
+   "es": "divagar",
+   "ko": "옆길로 새다",
+   "ex": "A veces tiendo a divagar.",
+   "exKo": "가끔 말이 옆길로 새곤 해요."
+  },
+  {
+   "es": "abrumar",
+   "ko": "압도하다",
+   "ex": "No quiero abrumar a nadie con información.",
+   "exKo": "누구도 정보로 압도하고 싶지 않아요."
+  },
+  {
+   "es": "destilar",
+   "ko": "추려 내다, 증류하다",
+   "ex": "Debes destilar la esencia del mensaje.",
+   "exKo": "메시지의 본질을 추려 내야 해요."
+  },
+  {
+   "es": "tangible",
+   "ko": "손에 잡히는",
+   "ex": "Los ejemplos hacen los conceptos más tangibles.",
+   "exKo": "예시는 개념을 더 손에 잡히게 해요."
+  },
+  {
+   "es": "fluido",
+   "ko": "유창한",
+   "ex": "Tu expresión será más fluida.",
+   "exKo": "표현이 더 유창해질 거예요."
+  },
+  {
+   "es": "la postura",
+   "ko": "자세",
+   "ex": "Tu postura dice mucho de ti.",
+   "exKo": "자세는 당신에 대해 많은 걸 말해요."
+  },
+  {
+   "es": "el gesto",
+   "ko": "몸짓",
+   "ex": "Los gestos refuerzan las palabras.",
+   "exKo": "몸짓은 말을 강화해요."
+  },
+  {
+   "es": "accesible",
+   "ko": "다가가기 쉬운",
+   "ex": "Una postura abierta te hace parecer accesible.",
+   "exKo": "열린 자세는 다가가기 쉬워 보이게 해요."
+  },
+  {
+   "es": "mirar fijamente",
+   "ko": "빤히 쳐다보다",
+   "ex": "No hace falta mirar fijamente.",
+   "exKo": "빤히 쳐다볼 필요는 없어요."
+  },
+  {
+   "es": "la falta de respeto",
+   "ko": "무례",
+   "ex": "Puede considerarse una falta de respeto.",
+   "exKo": "무례로 여겨질 수 있어요."
+  },
+  {
+   "es": "el tono de voz",
+   "ko": "목소리 톤",
+   "ex": "El tono de voz expresa emociones.",
+   "exKo": "목소리 톤은 감정을 표현해요."
+  },
+  {
+   "es": "el ritmo",
+   "ko": "속도, 리듬",
+   "ex": "Si el ritmo es muy rápido, pareces nervioso.",
+   "exKo": "속도가 너무 빠르면 초조해 보여요."
+  },
+  {
+   "es": "el sarcasmo",
+   "ko": "빈정거림",
+   "ex": "Se nota el sarcasmo en el tono.",
+   "exKo": "톤에서 빈정거림이 느껴져요."
+  },
+  {
+   "es": "el delator",
+   "ko": "고자질쟁이, 폭로하는 것",
+   "ex": "El lenguaje corporal es un delator.",
+   "exKo": "몸짓 언어는 속마음을 폭로해요."
+  },
+  {
+   "es": "la empatía",
+   "ko": "공감",
+   "ex": "La empatía crea una conexión genuina.",
+   "exKo": "공감은 진정한 연결을 만들어요."
+  },
+  {
+   "es": "la perspectiva",
+   "ko": "관점",
+   "ex": "Entender su perspectiva es clave.",
+   "exKo": "그 사람의 관점을 이해하는 게 핵심이에요."
+  },
+  {
+   "es": "genuino",
+   "ko": "진정한",
+   "ex": "Es una conexión genuina.",
+   "exKo": "진정한 연결이에요."
+  },
+  {
+   "es": "la pregunta abierta",
+   "ko": "열린 질문",
+   "ex": "Haz preguntas abiertas.",
+   "exKo": "열린 질문을 하세요."
+  },
+  {
+   "es": "molesto",
+   "ko": "속상한, 짜증 난",
+   "ex": "Parece que estás molesto.",
+   "exKo": "속상해 보여요."
+  },
+  {
+   "es": "frustrado",
+   "ko": "좌절한",
+   "ex": "Es natural sentirse frustrado.",
+   "exKo": "좌절하는 건 자연스러워요."
+  },
+  {
+   "es": "exagerar",
+   "ko": "과장하다",
+   "ex": "No estás exagerando.",
+   "exKo": "네가 과장하는 게 아니야."
+  },
+  {
+   "es": "considerado",
+   "ko": "배려 깊은",
+   "ex": "Responde de una manera más considerada.",
+   "exKo": "더 배려 깊게 대답하세요."
+  },
+  {
+   "es": "el desacuerdo",
+   "ko": "의견 충돌",
+   "ex": "Manejamos los desacuerdos con respeto.",
+   "exKo": "의견 충돌을 존중하며 다뤄요."
+  },
+  {
+   "es": "la acusación",
+   "ko": "비난",
+   "ex": "«Tú siempre…» suena a acusación.",
+   "exKo": "'넌 항상…'은 비난처럼 들려요."
+  },
+  {
+   "es": "sentirse atacado",
+   "ko": "공격받는다고 느끼다",
+   "ex": "La otra persona no se siente atacada.",
+   "exKo": "상대가 공격받는다고 느끼지 않아요."
+  },
+  {
+   "es": "la validez",
+   "ko": "타당성",
+   "ex": "Reconoce la validez de su punto de vista.",
+   "exKo": "상대 관점의 타당성을 인정하세요."
+  },
+  {
+   "es": "equivocado",
+   "ko": "틀린",
+   "ex": "«Estás equivocado» suena agresivo.",
+   "exKo": "'너 틀렸어'는 공격적으로 들려요."
+  },
+  {
+   "es": "abrupto",
+   "ko": "퉁명스러운",
+   "ex": "Un mensaje corto puede sonar abrupto.",
+   "exKo": "짧은 메시지는 퉁명스럽게 들릴 수 있어요."
+  },
+  {
+   "es": "los signos de puntuación",
+   "ko": "문장부호",
+   "ex": "Usa los signos de puntuación correctamente.",
+   "exKo": "문장부호를 정확히 쓰세요."
+  },
+  {
+   "es": "la despedida",
+   "ko": "맺음말, 작별 인사",
+   "ex": "Un saludo y una despedida adecuados ayudan.",
+   "exKo": "적절한 인사말과 맺음말이 도움이 돼요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Según Sofía, ¿qué es la escucha activa?",
+   "options": [
+    "Hablar mucho y rápido",
+    "Prestar toda tu atención a la persona que habla",
+    "Dar una solución inmediata",
+    "Mirar el teléfono"
+   ],
+   "answer": 1,
+   "explain": "Escuchar activamente significa prestar toda tu atención a la persona que habla."
+  },
+  {
+   "q": "Cuando un amigo dice «Estoy muy estresado», ¿cuál es una respuesta de escucha activa?",
+   "options": [
+    "Pues relájate.",
+    "No es para tanto.",
+    "Entiendo que te sientes estresado por el trabajo.",
+    "Yo también tengo problemas."
+   ],
+   "answer": 2,
+   "explain": "Una respuesta de escucha activa reconoce el sentimiento: «Entiendo que te sientes estresado»."
+  },
+  {
+   "q": "¿Qué significa «parafrasear»?",
+   "options": [
+    "Repetir con tus propias palabras lo que dijo la otra persona",
+    "Interrumpir al hablante",
+    "Hablar más alto",
+    "Cambiar de tema"
+   ],
+   "answer": 0,
+   "explain": "Parafrasear es repetir con tus propias palabras lo que la otra persona ha dicho."
+  },
+  {
+   "q": "¿Para qué sirven las señales de escucha (back channeling)?",
+   "options": [
+    "Para cambiar de tema",
+    "Para confirmar que prestas atención sin interrumpir",
+    "Para terminar la conversación",
+    "Para dar órdenes"
+   ],
+   "answer": 1,
+   "explain": "Son pequeños gestos que confirman que estás prestando atención sin interrumpir."
+  },
+  {
+   "q": "Para expresarte con claridad, ¿qué es lo primero que recomienda Mateo?",
+   "options": [
+    "Usar palabras complicadas",
+    "Hablar muy rápido",
+    "Organizar tus pensamientos antes de hablar",
+    "Escribir un discurso largo"
+   ],
+   "answer": 2,
+   "explain": "Lo primero es organizar tus pensamientos antes de hablar."
+  },
+  {
+   "q": "¿Qué significa «Ve al grano»?",
+   "options": [
+    "Ve al mercado",
+    "Habla despacio",
+    "Pregunta más",
+    "Ve directamente al punto principal"
+   ],
+   "answer": 3,
+   "explain": "Ir al grano = hablar del punto principal sin dar vueltas."
+  },
+  {
+   "q": "¿Qué ejercicio propone Sofía para practicar la concisión?",
+   "options": [
+    "Leer en voz alta una hora",
+    "Explicar tu trabajo en 30 segundos",
+    "Escribir veinte palabras",
+    "Hablar sin parar"
+   ],
+   "answer": 1,
+   "explain": "Imaginar un límite de tiempo: «explícame tu trabajo en 30 segundos»."
+  },
+  {
+   "q": "¿Qué porcentaje de la comunicación dicen algunos estudios que es no verbal?",
+   "options": [
+    "Hasta el 10-20 %",
+    "Hasta el 30-40 %",
+    "Hasta el 50-60 %",
+    "Hasta el 70-80 %"
+   ],
+   "answer": 3,
+   "explain": "Algunos estudios dicen que hasta el 70-80 % de nuestra comunicación es no verbal."
+  },
+  {
+   "q": "¿Qué puede considerarse una falta de respeto en algunas culturas?",
+   "options": [
+    "Sonreír",
+    "Mirar directamente a los ojos a una persona mayor",
+    "Saludar",
+    "Asentir con la cabeza"
+   ],
+   "answer": 1,
+   "explain": "En algunas culturas, mirar directamente a los ojos a una persona mayor es una falta de respeto."
+  },
+  {
+   "q": "¿Qué significa «ponerse en los zapatos del otro»?",
+   "options": [
+    "Comprar zapatos",
+    "Estar de acuerdo con todo",
+    "Entender la situación desde el punto de vista de otra persona",
+    "Caminar con alguien"
+   ],
+   "answer": 2,
+   "explain": "Es la empatía: entender y compartir los sentimientos y la perspectiva del otro."
+  },
+  {
+   "q": "¿Qué es un «mensaje yo»?",
+   "options": [
+    "«Tú siempre haces X»",
+    "«Yo me siento Y cuando X ocurre»",
+    "«Estás equivocado»",
+    "«Nunca me escuchas»"
+   ],
+   "answer": 1,
+   "explain": "Expresas tu sentimiento en primera persona, sin acusar: «Yo me siento ignorado cuando no respondes»."
+  },
+  {
+   "q": "En los mensajes escritos, ¿qué recomiendan los presentadores?",
+   "options": [
+    "Escribir lo más corto posible",
+    "Evitar los saludos",
+    "Ser más claro y conciso, y usar emojis si es informal",
+    "No usar signos de puntuación"
+   ],
+   "answer": 2,
+   "explain": "En lo escrito perdemos el tono, por eso hay que ser aún más claro y conciso; los emojis ayudan si es informal."
+  }
+ ]
+}

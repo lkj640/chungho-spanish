@@ -1,0 +1,414 @@
+# 형식: [mm:ss.ss] 문장 시작 시각 / ## 섹션 제목 / 화자 | 원문 | 한국어
+# 화자: S = Sofía, M = Mateo.  END = 영상 끝 시각
+# 원본: 유튜브 스페인어 자막(es-ES). 붙어 버린 문장을 나누고 화자를 대화 맥락으로 나눴어요. jerglo las entienda→jerga que no todos entiendan, caímos→caemos, falta del respeto→falta de respeto, suena acusación→suena a acusación, Obliga uno→Te obliga, no solo a transmitir→no solo te ayuda a transmitir, 'Even if'→aunque, 70 80%→70-80 % 등을 바로잡았어요.
+# 시각은 자막 구간 시각을 글자 위치로 나눠 구한 문장별 시작 시각이에요.
+END 17:04
+
+## 인사 — 오늘의 주제는 의사소통 기술
+[00:00.32]
+S | Hola a todos y bienvenidos a Escucha y aprende. | 여러분 안녕하세요, '들으며 배워요(Escucha y aprende)'에 오신 걸 환영해요.
+[00:03.93]
+S | Soy Sofía. | 저는 소피아예요.
+[00:04.70]
+M | Y yo soy Mateo. | 그리고 저는 마테오예요.
+[00:05.85]
+M | Qué alegría tenerlos de nuevo con nosotros. | 다시 함께하게 되어 정말 기뻐요.
+[00:09.16]
+S | Hoy, Mateo, vamos a hablar de un tema que es fundamental en todos los aspectos de nuestra vida. | 오늘은, 마테오, 우리 삶의 모든 면에서 기본이 되는 주제를 이야기할 거예요.
+[00:16.16]
+S | Las habilidades de comunicación. | 바로 의사소통 기술이에요.
+[00:18.07]
+M | Absolutamente, Sofía. | 물론이죠, 소피아.
+[00:19.33]
+M | A menudo pensamos que comunicar es solo hablar, pero es mucho más que eso. | 우리는 흔히 소통이 말하는 것뿐이라고 생각하지만, 그보다 훨씬 많은 거예요.
+[00:23.76]
+M | Es la clave para el éxito personal y profesional, ¿no crees? | 개인적·직업적 성공의 열쇠잖아요, 그렇지 않아요?
+[00:31.16]
+S | Totalmente. | 맞아요.
+[00:31.85]
+S | Ya sea que estés en una entrevista de trabajo, presentando un proyecto en la universidad, hablando con un amigo o incluso pidiendo café, la forma en que te comunicas puede marcar una gran diferencia. | 면접 자리에 있든, 대학에서 프로젝트를 발표하든, 친구와 이야기하든, 심지어 커피를 주문하든, 소통하는 방식이 큰 차이를 만들 수 있어요.
+[00:44.24]
+M | Exacto. | 맞아요.
+[00:44.99]
+M | Pero, ¿qué significa realmente tener buenas habilidades de comunicación? | 그런데 좋은 의사소통 능력이 있다는 건 정확히 무슨 뜻일까요?
+[00:52.76]
+M | ¿Es solo ser elocuente o hablar mucho? | 말을 잘하거나 많이 하는 것뿐일까요?
+## 1. 적극적 경청 — 듣는 기술
+[00:59.60]
+S | Esa es una excelente pregunta, Mateo. | 아주 좋은 질문이에요, 마테오.
+[01:02.31]
+S | En realidad, una buena comunicación no es solo hablar bien, implica escuchar activamente, expresar tus ideas claramente, entender las emociones de los demás y saber leer el lenguaje no verbal. | 사실 좋은 소통은 말을 잘하는 것만이 아니라, 적극적으로 듣고, 생각을 분명히 표현하고, 다른 사람의 감정을 이해하고, 비언어적 표현을 읽을 줄 아는 것까지 포함해요.
+[01:16.40]
+M | Ah, entonces no es solo enviar un mensaje, sino asegurarse de que ese mensaje sea recibido y comprendido correctamente y que el receptor se sienta escuchado también. | 아, 그러니까 메시지를 보내는 것만이 아니라, 그 메시지가 제대로 전달되고 이해되는지, 그리고 받는 사람이 자신이 경청받고 있다고 느끼는지까지 확인하는 거군요.
+[01:32.28]
+S | Exacto. | 맞아요.
+[01:32.79]
+S | Es un proceso de doble vía. | 쌍방향 과정이에요.
+[01:34.78]
+S | Y para empezar hoy, hablemos de la primera y quizás más importante habilidad, la escucha activa. | 그럼 오늘은 첫 번째이자 어쩌면 가장 중요한 기술, 적극적 경청부터 이야기해 봐요.
+[01:41.84]
+M | Ah, la escucha activa, un tema del que se habla mucho, pero que a veces es difícil de poner en práctica. | 아, 적극적 경청, 말은 많이 하지만 때로는 실천하기 어려운 주제죠.
+[01:52.16]
+S | Sí, escuchar activamente significa prestar toda tu atención a la persona que habla. | 네, 적극적으로 듣는다는 건 말하는 사람에게 온 신경을 기울인다는 뜻이에요.
+[01:59.92]
+S | No solo escuchar las palabras, sino también entender el mensaje completo, las emociones y la intención detrás de ellas. | 단어만 듣는 게 아니라 전체 메시지, 그 뒤에 있는 감정과 의도까지 이해하는 거예요.
+[02:06.20]
+M | Como cuando alguien te cuenta un problema. | 누군가 고민을 털어놓을 때처럼요.
+[02:13.60]
+M | No solo estás escuchando los hechos, sino también cómo se siente esa persona al respecto. | 사실만 듣는 게 아니라 그 사람이 그것에 대해 어떻게 느끼는지도 듣는 거죠.
+[02:20.84]
+S | Justo así. | 바로 그거예요.
+[02:21.94]
+S | Imagina que tu amigo te dice: «Estoy muy estresado con el trabajo». | 친구가 "일 때문에 스트레스를 너무 받아"라고 말한다고 상상해 봐요.
+[02:29.28]
+S | Una respuesta típica podría ser: «Pues relájate». | 흔한 대답은 "그럼 긴장 풀어"일 수 있어요.
+[02:32.30]
+S | Pero eso no es escuchar activamente. | 하지만 그건 적극적 경청이 아니에요.
+[02:34.52]
+M | No, porque no estás reconociendo su sentimiento. | 맞아요, 그 사람의 감정을 인정하지 않으니까요.
+[02:37.48]
+M | Estás dando una solución sin entender la raíz del problema. | 문제의 뿌리를 이해하지 못한 채 해결책부터 주는 거죠.
+[02:45.32]
+S | Exacto. | 맞아요.
+[02:45.91]
+S | Una respuesta de escucha activa sería: «Entiendo que te sientes estresado por el trabajo. | 적극적 경청의 대답은 "네가 일 때문에 스트레스를 받는다는 걸 이해해.
+[02:53.40]
+S | ¿Quieres contarme más sobre lo que te está causando esa presión?». | 그런 압박을 주는 게 뭔지 더 얘기해 줄래?"겠죠.
+[02:58.65]
+M | Vaya diferencia. | 정말 차이가 크네요.
+[02:59.92]
+M | Con la segunda respuesta, tu amigo se siente validado. | 두 번째 대답에서는 친구가 인정받는다고 느껴요.
+[03:02.94]
+M | Sabe que lo estás escuchando de verdad y que te importa. | 네가 진심으로 듣고 있고 자기를 신경 쓴다는 걸 알게 되죠.
+[03:06.08]
+S | Y ese es un punto crucial, Mateo. | 그게 아주 중요한 점이에요, 마테오.
+[03:08.28]
+S | Cuando escuchamos activamente, construimos confianza y fortalecemos nuestras relaciones. | 적극적으로 들으면 신뢰를 쌓고 관계를 단단하게 만들 수 있어요.
+[03:14.16]
+S | ¿Cuáles dirías que son algunas técnicas para escuchar activamente? | 적극적으로 듣기 위한 기술로는 어떤 것들이 있을까요?
+[03:21.44]
+M | Hm. | 흠.
+[03:21.68]
+M | Bueno, lo primero es hacer contacto visual, mostrarle a la persona que tus ojos están en ella, no en tu teléfono. | 음, 먼저 눈을 맞추는 거예요. 내 눈이 전화기가 아니라 그 사람에게 있다는 걸 보여 주는 거죠.
+[03:30.68]
+S | Sí. | 네.
+[03:31.00]
+M | Y evitar interrumpir, dejar que la persona termine su idea antes de hablar tú. | 그리고 끼어들지 않기, 상대가 생각을 끝내도록 한 뒤에 내가 말하는 거예요.
+[03:39.32]
+M | También asentir con la cabeza o hacer pequeños sonidos como «mm» o «ya veo» para mostrar que estás siguiendo la conversación. | 또 고개를 끄덕이거나 "음", "그렇구나" 같은 작은 소리를 내서 대화를 따라가고 있음을 보여 주는 것도 있어요.
+[03:48.56]
+S | Eso se llama dar señales de escucha, ¿verdad? | 그걸 경청 신호를 준다고 하죠, 맞죠?
+[03:55.12]
+M | Correcto. | 맞아요.
+[03:55.54]
+M | Se llaman «back channeling» en inglés y son pequeños gestos que confirman que estás prestando atención sin interrumpir el flujo del hablante. | 영어로는 '백채널링(back channeling)'이라고 하고, 말하는 사람의 흐름을 끊지 않으면서 주의를 기울이고 있음을 확인해 주는 작은 몸짓이에요.
+[04:02.16]
+M | Y una que me parece muy útil es parafrasear, repetir con tus propias palabras lo que la otra persona ha dicho para asegurarte de que has entendido bien. | 그리고 아주 유용하다고 생각하는 건 바꿔 말하기예요. 상대가 한 말을 내 말로 다시 말해서 제대로 이해했는지 확인하는 거죠.
+[04:13.16]
+S | Excelente punto, Mateo. | 훌륭한 지적이에요, 마테오.
+[04:14.63]
+S | Por ejemplo, si alguien dice: «No me siento valorado en mi equipo», tú podrías responder: «Entonces, lo que me dices es que sientes que tu trabajo no es reconocido por tus compañeros. | 예를 들어 누가 "나는 팀에서 인정받지 못하는 느낌이야"라고 하면, "그러니까 네 말은 동료들이 네 일을 알아주지 않는다고 느낀다는 거구나.
+[04:26.36]
+S | ¿Es eso?». | 그래?"라고 답할 수 있어요.
+[04:27.19]
+S | Y si la persona dice: «Sí, exactamente», sabes que la has entendido. | 그리고 상대가 "응, 정확해"라고 하면 네가 이해했다는 걸 알 수 있죠.
+[04:32.80]
+S | Y si dice: «No, no es eso. | 그리고 "아니, 그게 아니야.
+[04:35.18]
+S | Es más bien...», entonces te da la oportunidad de corregir tu comprensión. | 오히려 이런 거야…"라고 하면, 이해를 바로잡을 기회가 생기는 거예요.
+[04:41.96]
+M | Así es. | 그렇죠.
+[04:42.48]
+M | La escucha activa no solo ayuda a la otra persona, sino que también te ayuda a ti a evitar malentendidos. | 적극적 경청은 상대뿐 아니라 나 자신도 오해를 피하도록 도와줘요.
+[04:50.36]
+M | Es una habilidad que requiere práctica, pero los beneficios son enormes. | 연습이 필요한 기술이지만 얻는 이점은 엄청나요.
+[04:56.96]
+S | Pienso en cuántos problemas se podrían evitar si todos practicáramos la escucha activa más a menudo: menos discusiones, más comprensión. | 모두가 적극적 경청을 더 자주 연습한다면 얼마나 많은 문제를 피할 수 있을지 생각해 보게 돼요. 다툼은 줄고 이해는 늘겠죠.
+## 2. 명확하고 간결하게 표현하기
+[05:14.80]
+M | Exacto. | 맞아요.
+[05:15.36]
+M | Y de la escucha pasamos a la otra parte fundamental de la comunicación: la expresión clara y concisa. | 그리고 듣기에서 소통의 또 다른 핵심, 분명하고 간결한 표현으로 넘어가요.
+[05:23.44]
+S | Ah, esto es crucial. | 아, 이건 정말 중요해요.
+[05:24.87]
+S | A veces tenemos una idea brillante en nuestra cabeza, pero al intentar explicarla se convierte en un desastre confuso. | 때로는 머릿속에 멋진 생각이 있는데, 설명하려고 하면 혼란스러운 엉망이 되어 버려요.
+[05:33.28]
+S | Me pasa todo el tiempo. | 저는 늘 그래요.
+[05:36.51]
+S | Es como si las palabras se enredaran al salir. | 말이 나오면서 엉키는 것 같아요.
+[05:42.96]
+S | Entonces, Mateo, ¿cómo podemos mejorar nuestra expresión? | 그럼 마테오, 표현력을 어떻게 키울 수 있을까요?
+[05:48.40]
+M | Mm, lo primero es organizar tus pensamientos antes de hablar. | 음, 먼저 말하기 전에 생각을 정리하는 거예요.
+[05:56.16]
+M | No tienes que escribir un discurso, pero piensa en los puntos clave que quieres comunicar. | 연설문을 쓸 필요는 없지만, 전하고 싶은 핵심 포인트는 생각해 두세요.
+[06:00.97]
+S | Sí, como un pequeño esquema mental. | 네, 작은 머릿속 개요처럼요.
+[06:02.84]
+S | Quiero decir A, luego B y terminar con C. | A를 말하고, 그다음 B, 마지막은 C로 끝내자 하는 식으로요.
+[06:07.15]
+M | Exacto. | 맞아요.
+[06:07.88]
+M | Y luego usa un lenguaje sencillo y directo. | 그리고 쉽고 직접적인 말을 쓰세요.
+[06:12.40]
+M | Evita las palabras complicadas o la jerga que no todos entiendan. | 복잡한 단어나 모든 사람이 이해하지 못하는 전문 용어는 피하세요.
+[06:21.72]
+M | El objetivo es ser comprendido, no impresionar con un vocabulario complejo. | 목표는 이해받는 것이지, 어려운 어휘로 감탄시키는 게 아니에요.
+[06:27.28]
+S | A veces caemos en la trampa de usar palabras grandes para sonar más inteligentes, pero eso puede crear una barrera. | 때로는 더 똑똑해 보이려고 거창한 단어를 쓰는 함정에 빠지는데, 그게 장벽이 될 수 있어요.
+[06:35.80]
+S | La claridad es más importante que la complejidad. | 명확함이 복잡함보다 더 중요해요.
+[06:41.07]
+M | Totalmente de acuerdo. | 전적으로 동의해요.
+[06:43.44]
+M | Y sé conciso. | 그리고 간결해지세요.
+[06:44.98]
+M | No des vueltas. | 빙빙 돌리지 마세요.
+[06:46.76]
+M | Ve al grano. | 요점으로 바로 가세요.
+[06:48.19]
+M | Si puedes decir algo en cinco palabras, no uses 20. | 다섯 단어로 말할 수 있으면 스무 단어를 쓰지 마세요.
+[06:54.24]
+S | Esa es una buena lección para mí. | 저한테 좋은 교훈이에요.
+[06:55.95]
+S | A veces tiendo a divagar un poco. | 가끔 말이 조금 옆길로 새는 편이거든요.
+[06:57.66]
+M | Es un equilibrio entre dar suficiente información y no abrumar. | 충분한 정보를 주면서도 압도하지 않는 균형이죠.
+[07:00.92]
+S | Sí, es un arte. | 네, 그건 하나의 기술이에요.
+[07:02.04]
+S | Una forma de practicar esto es imaginando que tienes un límite de tiempo para explicar algo. | 이걸 연습하는 한 가지 방법은 무언가를 설명할 시간 제한이 있다고 상상해 보는 거예요.
+[07:08.92]
+S | Por ejemplo, explícame tu trabajo en 30 segundos. | 예를 들어 "네 일을 30초 안에 설명해 봐"처럼요.
+[07:14.00]
+M | Oh, eso es un buen ejercicio. | 오, 그거 좋은 연습이네요.
+[07:17.00]
+M | Te obliga a destilar la esencia del mensaje. | 메시지의 본질만 추려 내게 하니까요.
+[07:20.18]
+M | También creo que usar ejemplos puede ayudar mucho a la claridad. | 또 예시를 쓰면 명확성에 큰 도움이 된다고 생각해요.
+[07:24.80]
+S | Sí, los ejemplos hacen que los conceptos abstractos sean más tangibles. | 네, 예시는 추상적인 개념을 더 손에 잡히게 만들어 줘요.
+[07:31.20]
+S | Es como si estuviéramos haciendo ahora. | 지금 우리가 하는 것처럼요.
+[07:34.07]
+S | Estamos hablando de comunicación, pero también estamos dando ejemplos para que sea más fácil de entender. | 우리는 소통에 대해 이야기하면서 더 이해하기 쉽도록 예시도 들고 있잖아요.
+[07:41.80]
+S | Y la práctica, por supuesto: cuanto más practiques hablar de diferentes temas, más fluida y clara se volverá tu expresión. | 그리고 물론 연습이에요. 다양한 주제로 말하는 연습을 많이 할수록 표현이 더 유창하고 분명해져요.
+## 3. 비언어적 소통 — 몸이 하는 말
+[07:49.72]
+M | Así es. | 그렇죠.
+[07:50.96]
+M | Y ahora, Sofía, ¿qué hay del lenguaje no verbal? | 그럼 이제 소피아, 비언어적 표현은 어떨까요?
+[07:59.44]
+M | ¿Qué papel juega en la comunicación? | 소통에서 어떤 역할을 하나요?
+[08:01.28]
+S | Un papel gigantesco, Mateo. | 엄청나게 큰 역할이에요, 마테오.
+[08:02.66]
+S | De hecho, algunos estudios dicen que hasta el 70-80 % de nuestra comunicación es no verbal. | 실제로 일부 연구에 따르면 우리 소통의 70~80%까지가 비언어적이라고 해요.
+[08:07.32]
+S | Es lo que decimos sin decir una palabra. | 한마디도 하지 않고 전하는 것이죠.
+[08:14.82]
+M | Wow, eso es mucho. | 와, 많네요.
+[08:18.20]
+M | Entonces, ¿qué incluye el lenguaje no verbal? | 그럼 비언어적 표현에는 뭐가 포함되나요?
+[08:23.01]
+S | Incluye todo. | 전부 포함돼요.
+[08:24.40]
+S | Tu postura, tus gestos, tu expresión facial, el contacto visual, el tono de tu voz, el ritmo al hablar, hasta cómo respiras. | 자세, 몸짓, 표정, 눈 맞춤, 목소리 톤, 말하는 속도, 심지어 숨 쉬는 방식까지요.
+[08:37.64]
+M | Así que incluso si mis palabras son amables, si mi cuerpo está tenso, mi mensaje no será completamente amable. | 그러니까 내 말이 친절해도 몸이 긴장해 있으면 내 메시지는 완전히 친절하지는 않겠네요.
+[08:48.20]
+S | Exactamente. | 정확해요.
+[08:49.74]
+S | Tu lenguaje no verbal puede reforzar o contradecir tus palabras. | 비언어적 표현은 말을 강화할 수도, 반박할 수도 있어요.
+[08:57.96]
+S | Si dices «estoy bien» con los brazos cruzados, una expresión seria y la mirada baja, ¿realmente estás bien? | 팔짱을 끼고, 굳은 표정에, 시선을 떨군 채 "나 괜찮아"라고 말하면 정말 괜찮은 걸까요?
+[09:04.88]
+S | Probablemente no. | 아마 아닐 거예요.
+[09:06.53]
+M | El lenguaje corporal es un delator. | 몸짓 언어는 고자질쟁이예요.
+[09:09.93]
+S | Lo es. | 그래요.
+[09:10.51]
+S | Por eso es importante ser consciente de él. | 그래서 그걸 의식하는 게 중요해요.
+[09:14.68]
+S | Por ejemplo, mantener una postura abierta con los brazos sin cruzar puede hacer que te veas más accesible. | 예를 들어 팔짱을 끼지 않고 열린 자세를 유지하면 더 다가가기 쉬워 보일 수 있어요.
+[09:21.96]
+M | Y el contacto visual, no mirar fijamente. | 그리고 눈 맞춤은 빤히 쳐다보는 게 아니에요.
+[09:25.06]
+M | Mantener un contacto visual adecuado demuestra confianza y honestidad. | 적절한 눈 맞춤을 유지하면 자신감과 정직함을 보여 줘요.
+[09:30.36]
+S | Sí, aunque es importante recordar que el contacto visual puede variar culturalmente. | 네, 하지만 눈 맞춤은 문화에 따라 다를 수 있다는 점을 기억하는 게 중요해요.
+[09:38.44]
+S | En algunas culturas, mirar directamente a los ojos a una persona mayor puede considerarse una falta de respeto. | 어떤 문화에서는 어른의 눈을 똑바로 바라보는 것이 무례로 여겨질 수 있어요.
+[09:45.12]
+M | Eso es muy cierto. | 정말 맞는 말이에요.
+[09:47.06]
+M | Siempre hay que tener en cuenta el contexto cultural. | 언제나 문화적 맥락을 고려해야 해요.
+[09:52.76]
+M | ¿Y qué hay del tono de voz y el ritmo al hablar? | 그럼 목소리 톤과 말하는 속도는요?
+[09:58.02]
+S | Son cruciales. | 아주 중요해요.
+[09:59.56]
+S | El tono de voz puede expresar emociones como alegría, enfado, tristeza o sarcasmo. | 목소리 톤은 기쁨, 화, 슬픔, 빈정거림 같은 감정을 표현할 수 있어요.
+[10:06.88]
+S | Y el ritmo: si hablas muy rápido, puedes parecer nervioso o impaciente. | 그리고 속도는요, 너무 빨리 말하면 초조하거나 참을성 없어 보일 수 있고,
+[10:17.00]
+S | Si hablas muy lento, puede sonar aburrido o inseguro. | 너무 느리게 말하면 지루하거나 자신 없게 들릴 수 있어요.
+[10:22.09]
+M | Así que no es solo qué dices, sino cómo lo dices y cómo tu cuerpo lo expresa. | 그러니까 무엇을 말하느냐뿐 아니라 어떻게 말하고 몸이 어떻게 표현하느냐도 중요하군요.
+[10:29.48]
+M | La comunicación es un paquete completo. | 소통은 하나의 완전한 패키지예요.
+[10:32.82]
+S | Ser consciente de tu lenguaje no verbal no solo te ayuda a transmitir mejor tu mensaje, sino también a interpretar mejor los mensajes de los demás. | 비언어적 표현을 의식하면 내 메시지를 더 잘 전달할 뿐 아니라 다른 사람의 메시지도 더 잘 해석할 수 있어요.
+[10:45.40]
+M | Es como leer entre líneas con los ojos y los oídos. | 눈과 귀로 행간을 읽는 것 같아요.
+[10:53.95]
+S | Justo. | 맞아요.
+## 4. 공감 — 상대의 신발을 신어 보기
+[10:54.96]
+S | Y esto nos lleva a otra habilidad crucial: la empatía. | 그리고 이것은 또 다른 핵심 기술, 공감으로 이어져요.
+[11:00.81]
+M | Ah, la empatía. | 아, 공감.
+[11:02.44]
+M | Ponerse en los zapatos del otro, ¿verdad? | 상대의 입장이 되어 보는 거죠, 맞죠?
+[11:06.88]
+S | Sí, exactamente. | 네, 정확해요.
+[11:08.35]
+S | Es la capacidad de entender y compartir los sentimientos de otra persona. | 다른 사람의 감정을 이해하고 함께 느끼는 능력이에요.
+[11:15.08]
+S | No significa necesariamente estar de acuerdo con ellos, significa entender su perspectiva. | 꼭 그 사람과 의견이 같다는 뜻은 아니고, 그 사람의 관점을 이해한다는 뜻이에요.
+[11:22.04]
+S | Como cuando un amigo está triste por algo que a ti no te parece tan grave. | 친구가 나한테는 그다지 심각해 보이지 않는 일로 슬퍼할 때처럼요.
+[11:28.80]
+S | La empatía te permite entender su tristeza, aunque tú no te sentirías igual en esa situación. | 공감은 내가 그 상황에서 같게 느끼지 않더라도 그 슬픔을 이해하게 해 줘요.
+[11:36.72]
+M | Es clave para una comunicación efectiva, porque crea una conexión genuina. | 진정한 연결을 만들기 때문에 효과적인 소통의 열쇠예요.
+[11:45.12]
+M | Cuando la gente siente que la entiendes, están más dispuestos a escucharte y a comunicarse contigo de forma abierta. | 사람들은 내가 자기를 이해한다고 느끼면 내 말을 더 기꺼이 듣고 마음을 열고 소통해 줘요.
+[11:52.24]
+S | ¿Cómo podemos practicar la empatía en nuestra comunicación diaria? | 일상 소통에서 공감을 어떻게 연습할 수 있을까요?
+[11:56.61]
+M | Una forma es haciendo preguntas abiertas. | 한 가지 방법은 열린 질문을 하는 거예요.
+[11:59.32]
+M | En lugar de decir: «Estás enojado, ¿verdad?», podrías decir: «Parece que estás molesto. | "너 화났지, 맞지?"라고 말하는 대신 "속상해 보여.
+[12:06.08]
+M | ¿Cómo te sientes al respecto?». | 그것에 대해 어떻게 느껴?"라고 말할 수 있어요.
+[12:08.12]
+S | Ah, para que la otra persona exprese sus propios sentimientos, para que yo no se los imponga. | 아, 내가 감정을 강요하지 않고 상대가 자기 감정을 스스로 표현하도록요.
+[12:14.24]
+M | Exacto. | 맞아요.
+[12:14.76]
+M | Y validar sus sentimientos, decir cosas como: «Entiendo por qué te sientes así» o «Es natural sentirse frustrado en esa situación». | 그리고 감정을 인정해 주는 거예요. "네가 왜 그렇게 느끼는지 이해해", "그런 상황에서 좌절하는 건 자연스러워" 같은 말로요.
+[12:24.40]
+S | Eso es poderoso. | 강력하네요.
+[12:27.50]
+S | Valida su experiencia. | 그 사람의 경험을 인정해 주는 거예요.
+[12:31.76]
+S | Estás diciendo: «Tus sentimientos son válidos, no estás exagerando». | "네 감정은 타당해, 네가 과장하는 게 아니야"라고 말하는 거죠.
+[12:35.77]
+S | Y también tratar de ver la situación desde su punto de vista. | 그리고 그 사람의 관점에서 상황을 보려고 노력하는 것도요.
+[12:39.36]
+M | ¿Qué experiencias pueden haber llevado a esta persona a sentir o pensar de esta manera? | 어떤 경험이 이 사람을 이렇게 느끼고 생각하게 만들었을까요?
+[12:45.24]
+M | Esto te ayuda a responder de una manera más considerada. | 이렇게 하면 더 배려 깊게 대답하는 데 도움이 돼요.
+[12:53.64]
+S | La empatía realmente transforma la comunicación de un simple intercambio de información a una conexión humana. | 공감은 소통을 단순한 정보 교환에서 인간적인 연결로 바꿔 줘요.
+## 5. 의견 충돌을 존중하며 다루기
+[13:00.64]
+M | Totalmente. | 맞아요.
+[13:01.55]
+M | Y esto nos lleva a cómo manejar los desacuerdos o las situaciones difíciles con respeto. | 그리고 이것은 의견 충돌이나 어려운 상황을 존중하며 다루는 방법으로 이어져요.
+[13:08.84]
+M | La comunicación no siempre es fácil, ¿verdad? | 소통이 항상 쉬운 건 아니죠, 그렇죠?
+[13:14.64]
+S | No, no lo es. | 네, 아니에요.
+[13:16.32]
+S | A veces tenemos opiniones muy diferentes. | 때로는 의견이 아주 다르죠.
+[13:18.63]
+M | ¿Cómo podemos comunicar esas diferencias sin que se convierta en una discusión? | 그 차이를 다툼으로 번지지 않게 어떻게 전달할 수 있을까요?
+[13:23.08]
+S | La clave es expresar tus opiniones y sentimientos usando mensajes «yo». | 열쇠는 '나 전달법(mensajes yo)'으로 의견과 감정을 표현하는 거예요.
+[13:31.60]
+S | En lugar de decir: «Tú siempre haces X», que suena a acusación, di: «Yo me siento Y cuando X ocurre». | "넌 항상 X를 해"처럼 비난으로 들리는 말 대신 "X가 일어나면 나는 Y하게 느껴"라고 말하세요.
+[13:42.84]
+M | Ah, entiendo. | 아, 알겠어요.
+[13:43.83]
+M | En lugar de «nunca me escuchas», sería «yo me siento ignorado cuando no respondes a mis mensajes». | "넌 나를 전혀 안 들어"라고 하는 대신 "네가 내 메시지에 답하지 않으면 나는 무시당하는 기분이 들어"라고 하는 거군요.
+[13:51.28]
+S | Perfecto. | 완벽해요.
+[13:51.84]
+S | Esto hace que la otra persona no se sienta atacada, esté más abierta a escuchar tu perspectiva y, por supuesto, siempre con respeto. | 그러면 상대가 공격받는다고 느끼지 않고 내 관점을 듣는 데 더 열려 있게 돼요. 물론 항상 존중하면서요.
+[14:00.08]
+S | Incluso si no estás de acuerdo, puedes reconocer la validez de su punto de vista. | 동의하지 않더라도 상대 관점의 타당성은 인정할 수 있어요.
+[14:08.04]
+S | «Entiendo lo que dices. | "네 말은 이해해.
+[14:10.71]
+S | Mi perspectiva es un poco diferente». | 내 관점은 조금 달라."
+[14:15.00]
+S | Eso suena mucho mejor que «estás equivocado». | "너 틀렸어"보다 훨씬 낫게 들려요.
+[14:18.70]
+M | Mucho mejor. | 훨씬 낫죠.
+[14:19.69]
+M | El objetivo es entenderse, no ganar un argumento. | 목표는 서로 이해하는 것이지 논쟁에서 이기는 게 아니에요.
+## 6. 디지털 소통
+[14:23.72]
+S | Y para terminar, hablemos brevemente de la comunicación en el mundo digital. | 마지막으로 디지털 세계의 소통에 대해 짧게 이야기해 봐요.
+[14:30.60]
+M | Ah, sí. | 아, 네.
+[14:31.79]
+M | Mensajes de texto, correos electrónicos, videollamadas. | 문자 메시지, 이메일, 화상 통화.
+[14:41.16]
+M | Es un campo de juego diferente, ¿no? | 다른 경기장이죠, 그렇지 않나요?
+[14:42.65]
+S | Totalmente. | 맞아요.
+[14:43.10]
+S | En los mensajes de texto o correos electrónicos perdemos el tono de voz y el lenguaje corporal, por lo que es más fácil que haya malentendidos. | 문자나 이메일에서는 목소리 톤과 몸짓 언어를 잃기 때문에 오해가 생기기 더 쉬워요.
+[14:49.00]
+M | Sí, un mensaje corto puede sonar abrupto, aunque en persona no lo sería. | 네, 짧은 메시지는 직접 말할 때는 안 그런데도 퉁명스럽게 들릴 수 있어요.
+[14:56.20]
+S | Por eso es importante ser aún más claro y conciso en la comunicación escrita. | 그래서 글로 하는 소통에서는 훨씬 더 명확하고 간결한 것이 중요해요.
+[15:04.00]
+S | Usa signos de puntuación correctamente y no tengas miedo de usar emojis si el contexto es informal para transmitir el tono. | 문장부호를 정확히 쓰고, 비격식적인 상황이라면 어조를 전하기 위해 이모지 쓰는 걸 두려워하지 마세요.
+[15:10.92]
+M | Emojis al rescate. | 이모지가 구원 투수네요.
+[15:12.25]
+M | Y en los correos electrónicos, una estructura clara, un saludo y una despedida adecuados hacen una gran diferencia. | 그리고 이메일에서는 분명한 구성과 적절한 인사말과 맺음말이 큰 차이를 만들어요.
+[15:20.76]
+S | Sí. | 네.
+[15:21.06]
+S | Y en videollamadas, aunque no es lo mismo que en persona, es importante mantener el contacto visual con la cámara y evitar distracciones. | 그리고 화상 통화에서는 직접 만나는 것과 같진 않지만, 카메라와 눈을 맞추고 방해 요소를 피하는 게 중요해요.
+[15:34.56]
+M | Así que la claridad y la consideración son aún más importantes. | 그러니까 명확함과 배려가 훨씬 더 중요하죠.
+[15:40.84]
+S | Absolutamente. | 물론이에요.
+## 마무리 — 한 가지 기술을 골라 연습하세요
+[15:42.24]
+S | Mateo, ha sido una conversación fascinante sobre las habilidades de comunicación. | 마테오, 의사소통 기술에 대한 정말 흥미로운 대화였어요.
+[15:50.76]
+M | Sí, Sofía, hemos hablado de la escucha activa, la expresión clara, el lenguaje no verbal, la empatía y la comunicación digital. | 네, 소피아, 적극적 경청, 명확한 표현, 비언어적 표현, 공감, 디지털 소통에 대해 이야기했어요.
+[15:58.84]
+M | Un montón de herramientas para nuestros oyentes. | 청취자 여러분을 위한 많은 도구예요.
+[16:07.24]
+S | Y lo más importante es recordar que estas son habilidades. | 그리고 가장 중요한 건 이것들이 '기술'이라는 점을 기억하는 거예요.
+[16:13.00]
+S | No nacemos sabiendo todo esto, pero podemos aprender y mejorar con la práctica. | 우리는 이 모든 걸 알고 태어나지 않지만 연습으로 배우고 나아질 수 있어요.
+[16:21.12]
+M | Así que claramente te animamos, querido oyente, a elegir una de estas habilidades esta semana. | 그래서 사랑하는 청취자 여러분, 이번 주에 이 기술 중 하나를 골라 보시길 권해요.
+[16:28.96]
+M | Tal vez escuchar activamente a un compañero de trabajo o intentar ser más conciso en tus correos electrónicos. | 어쩌면 직장 동료의 말을 적극적으로 들어 보거나 이메일을 더 간결하게 써 보는 거예요.
+[16:34.92]
+S | Pequeños pasos pueden llevar a grandes mejoras y, con una comunicación más efectiva, el éxito estará más cerca en todas las áreas de tu vida. | 작은 걸음이 큰 향상으로 이어질 수 있고, 더 효과적인 소통으로 삶의 모든 영역에서 성공이 더 가까워질 거예요.
+[16:42.44]
+S | Muchas gracias por acompañarnos en este episodio de Escucha y aprende. | '들으며 배워요' 이번 에피소드를 함께해 주셔서 정말 고마워요.
+[16:49.08]
+M | Esperamos que haya sido útil y divertido. | 도움이 되고 재미있었기를 바라요.
+[16:54.80]
+M | Nos vemos en el próximo episodio. | 다음 에피소드에서 만나요.
+[16:58.46]
+S | Hasta pronto. | 곧 만나요.
+[16:59.90]
+M | Adiós. | 안녕.
+[17:00.56]
+S | Y a practicar esas habilidades. | 그리고 이 기술들을 연습해 보세요.
