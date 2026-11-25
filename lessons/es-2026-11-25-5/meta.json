@@ -1,0 +1,436 @@
+{
+ "lang": "es",
+ "date": "2026-11-25",
+ "title": "음식과 식당 — 스페인어 어휘 5장 (1–7과)",
+ "es": "¡Qué bueno está este plato!",
+ "emoji": "🥘",
+ "level": "A1–A2",
+ "channel": "스페인어 어휘 교재 오디오",
+ "videoTitle": "Capítulo 5 · Unidad 1–7 (05-01 ~ 05-07)",
+ "audio": "audio.m4a",
+ "duration": "23:20",
+ "speakers": {
+  "N": "낭독"
+ },
+ "hideCast": true,
+ "summary": "스페인어 어휘 교재 5장 '음식'의 1~7과 오디오 일곱 개를 하나로 이었어요(1~4장은 11/23·11/25 강의). 1과 식사와 영양(desayuno, merienda, rico en vitaminas), 2과 식재료(patata, gamba, aceite de oliva), 3과 음료와 술(café con leche, vino tinto, cava, tener resaca), 4과 요리 이름(primer plato, tapa, gazpacho, cocido), 5과 조리법과 맛(asar, freír, poco hecho, soso, picante), 6과 식기와 상차림(sartén, poner la mesa), 7과 식당(reservar una mesa, pedir la cuenta, ¿para tomar aquí o para llevar?)까지, 스페인에서 먹고 마시고 주문할 때 필요한 단어가 다 들어 있어요.",
+ "topics": [
+  "1과 식사: desayuno · comida · merienda · cena · rico en … · alimentación equilibrada",
+  "2과 식재료: carne · pescado · patata · gamba · aceite de oliva",
+  "3과 음료: agua sin gas · café con leche · vino tinto · cava · tener resaca",
+  "4·5과 요리와 맛: tapa · gazpacho · asar · freír · poco hecho · soso · picante",
+  "6·7과 식탁과 식당: poner la mesa · reservar una mesa · pedir la cuenta · para llevar",
+  "문법: 식사 동사 · rico en / bajo en · saber a · estar + 맛 형용사 · 식당에서 주문하기"
+ ],
+ "grammar": [
+  {
+   "title": "① 스페인의 하루 식사 — 명사와 동사",
+   "lead": "식사 이름마다 짝이 되는 동사가 있어요. 스페인에서 comida는 '점심', merienda는 오후 간식이에요.",
+   "table": {
+    "head": [
+     "식사",
+     "동사",
+     "예문"
+    ],
+    "rows": [
+     [
+      "el desayuno (아침)",
+      "desayunar",
+      "¿Qué desayunas?"
+     ],
+     [
+      "la comida (점심, 보통 2~3시)",
+      "comer",
+      "La comida será en el restaurante de José."
+     ],
+     [
+      "la merienda (오후 간식)",
+      "merendar (e→ie)",
+      "Mis hijos no meriendan nunca."
+     ],
+     [
+      "la cena (저녁, 보통 9시 이후)",
+      "cenar",
+      "Hoy vamos a cenar fuera."
+     ]
+    ]
+   },
+   "tip": "tomar는 먹다·마시다 모두에 써요: ¿Tomamos una sopa de entrante?"
+  },
+  {
+   "title": "② rico en / bajo en / una fuente de — 영양 말하기",
+   "lead": "<b>rico en</b> = ~이 풍부한, <b>bajo en</b> = ~이 적은, <b>una fuente de</b> = ~의 공급원.",
+   "examples": [
+    [
+     "Las frutas son ricas en vitaminas.",
+     "과일은 비타민이 풍부해요."
+    ],
+    [
+     "La pechuga de pollo es rica en proteínas.",
+     "닭가슴살은 단백질이 풍부해요."
+    ],
+    [
+     "El bacalao es bajo en calorías.",
+     "대구는 칼로리가 낮아요."
+    ],
+    [
+     "La avena es una fuente de fibra.",
+     "귀리는 섬유질의 공급원이에요."
+    ]
+   ],
+   "tip": "rico는 '맛있다'라는 뜻도 있어요: unas galletas riquísimas (정말 맛있는 쿠키)."
+  },
+  {
+   "title": "③ 맛 말하기 — estar + 맛 형용사 / saber a",
+   "lead": "지금 먹는 음식의 맛은 <b>estar</b>로, '~ 맛이 나다'는 <b>saber a</b>로 말해요.",
+   "table": {
+    "head": [
+     "표현",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "estar bueno",
+      "맛있다",
+      "¡Qué bueno está este plato!"
+     ],
+     [
+      "estar soso",
+      "싱겁다",
+      "El arroz está soso. ¿Le echamos un poco de sal?"
+     ],
+     [
+      "estar salado",
+      "짜다",
+      "La comida española es bastante salada."
+     ],
+     [
+      "dulce / picante / amargo",
+      "달다 / 맵다 / 쓰다",
+      "Esta tarta es demasiado dulce para mí."
+     ],
+     [
+      "saber a …",
+      "~ 맛이 나다",
+      "Esta tarta sabe a zanahoria."
+     ],
+     [
+      "estar para chuparse los dedos",
+      "손가락까지 빨아 먹을 만큼 맛있다",
+      "La sopa estaba para chuparse los dedos."
+     ]
+    ]
+   }
+  },
+  {
+   "title": "④ 조리법 동사",
+   "lead": "요리할 때 쓰는 동사예요. freír의 과거분사는 frito(튀긴), hervir는 e→ie로 바뀌어요.",
+   "table": {
+    "head": [
+     "동사",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "asar",
+      "(오븐·불에) 굽다",
+      "Voy a asar la carne y las verduras."
+     ],
+     [
+      "a la plancha",
+      "철판에 구운",
+      "Me gusta comer carne a la plancha."
+     ],
+     [
+      "hervir",
+      "끓이다, 삶다",
+      "Suelo hervir el pescado."
+     ],
+     [
+      "cocer",
+      "익히다, 삶다",
+      "Mi hermana mayor no sabe cocer huevos."
+     ],
+     [
+      "freír",
+      "튀기다, 부치다",
+      "Voy a freír las patatas."
+     ],
+     [
+      "quemarse",
+      "타다",
+      "Se ha quemado un poco la comida."
+     ]
+    ]
+   },
+   "tip": "고기 굽기: poco hecho (레어) · en su punto (미디엄) · muy hecho (웰던)."
+  },
+  {
+   "title": "⑤ 식당에서 주문하기",
+   "lead": "스페인 식당의 코스 순서와 주문 표현이에요. 'de + 코스'로 말해요.",
+   "examples": [
+    [
+     "¿Hay mesas libres para este sábado?",
+     "이번 토요일에 빈 테이블 있어요?"
+    ],
+    [
+     "De primer plato, una ensalada mixta.",
+     "첫 번째 요리로는 믹스 샐러드 주세요."
+    ],
+    [
+     "Y de segundo, una ración de paella mixta, por favor.",
+     "두 번째 요리로는 믹스 파에야 1인분 주세요."
+    ],
+    [
+     "De postre, un helado de vainilla, por favor.",
+     "후식은 바닐라 아이스크림으로 주세요."
+    ],
+    [
+     "La cuenta, por favor.",
+     "계산서 주세요."
+    ],
+    [
+     "¿Para tomar aquí o para llevar?",
+     "드시고 가세요, 포장하세요?"
+    ]
+   ],
+   "tip": "menú del día = 점심 정식(첫 요리 + 두 번째 요리 + 후식 + 음료를 정해진 값에)."
+  },
+  {
+   "title": "⑥ 상차림 표현",
+   "lead": "식탁을 차리고 치우는 표현이에요. '치우다'는 recoger와 quitar 둘 다 써요.",
+   "examples": [
+    [
+     "Ya son las tres, vamos a poner la mesa.",
+     "벌써 세 시야, 상 차리자."
+    ],
+    [
+     "Mi hijo siempre me ayuda a recoger la mesa.",
+     "아들은 늘 상 치우는 걸 도와줘요."
+    ],
+    [
+     "Voy a fregar los platos mientras tú quitas la mesa.",
+     "네가 상을 치우는 동안 나는 설거지할게. (fregar = lavar los platos)"
+    ],
+    [
+     "¿Me pasas la sal, por favor?",
+     "소금 좀 건네줄래?"
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 스페인 음식 문화 단어",
+   "lead": "스페인에서 꼭 만나는 음식과 문화 단어예요.",
+   "table": {
+    "head": [
+     "단어",
+     "뜻",
+     "예문"
+    ],
+    "rows": [
+     [
+      "la tapa / ir de tapas",
+      "작은 안주 / 타파스 먹으러 다니다",
+      "Los fines de semana voy de tapas con mis amigos."
+     ],
+     [
+      "el gazpacho",
+      "차가운 토마토 수프",
+      "De niño no me gustaba el gazpacho."
+     ],
+     [
+      "el cocido",
+      "고기·콩 스튜",
+      "En el norte se toman muchos cocidos."
+     ],
+     [
+      "la tortilla de patatas",
+      "감자 오믈렛",
+      "Me gusta la tortilla de patatas."
+     ],
+     [
+      "las gambas al ajillo",
+      "감바스 알 아히요",
+      "Son un plato bastante famoso en Corea."
+     ],
+     [
+      "el bocadillo",
+      "바게트 샌드위치",
+      "Me gusta tomar un bocadillo como merienda."
+     ],
+     [
+      "el cava / el vino de la casa",
+      "스페인 스파클링 와인 / 하우스 와인",
+      "una botella de cava para celebrar la Nochevieja"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Hoy vamos a cenar fuera.",
+   "오늘은 밖에서 저녁을 먹을 거예요."
+  ],
+  [
+   "Hoy no tengo apetito.",
+   "오늘은 입맛이 없어요."
+  ],
+  [
+   "¿Me pasas la sal, por favor?",
+   "소금 좀 건네줄래?"
+  ],
+  [
+   "Sírvete lo que quieras.",
+   "먹고 싶은 거 마음껏 덜어 먹어."
+  ],
+  [
+   "¡Qué bueno está este plato!",
+   "이 요리 정말 맛있다!"
+  ],
+  [
+   "¿Cómo quieres la carne? — Poco hecha, por favor.",
+   "고기는 어떻게 익혀 줄까? — 레어로 해 주세요."
+  ],
+  [
+   "Llamo para reservar una mesa para este domingo.",
+   "이번 일요일에 테이블을 예약하려고 전화했어요."
+  ],
+  [
+   "La cuenta, por favor.",
+   "계산서 주세요."
+  ]
+ ],
+ "vocab": [
+  { "es": "el desayuno", "ko": "아침 식사", "ex": "El desayuno es muy importante.", "exKo": "아침 식사는 아주 중요해요." },
+  { "es": "la merienda", "ko": "오후 간식", "ex": "Los niños españoles toman la merienda sobre las seis.", "exKo": "스페인 아이들은 6시쯤 간식을 먹어요." },
+  { "es": "merendar", "ko": "간식을 먹다", "ex": "Mis hijos no meriendan nunca.", "exKo": "아이들은 간식을 절대 안 먹어요." },
+  { "es": "cenar fuera", "ko": "외식으로 저녁을 먹다", "ex": "Hoy vamos a cenar fuera.", "exKo": "오늘은 밖에서 저녁을 먹어요." },
+  { "es": "el entrante", "ko": "전채 요리", "ex": "¿Tomamos una sopa de entrante?", "exKo": "전채로 수프 먹을까?" },
+  { "es": "vegetariano/a", "ko": "채식주의자(의)", "ex": "Mis padres son vegetarianos.", "exKo": "부모님은 채식주의자예요." },
+  { "es": "alimentarse", "ko": "영양을 섭취하다", "ex": "Hay que alimentarse de manera equilibrada.", "exKo": "균형 있게 먹어야 해요." },
+  { "es": "el apetito", "ko": "식욕, 입맛", "ex": "Hoy no tengo apetito.", "exKo": "오늘은 입맛이 없어요." },
+  { "es": "la rosquilla", "ko": "도넛", "ex": "¿Cuántas calorías tiene una rosquilla?", "exKo": "도넛 하나에 몇 칼로리예요?" },
+  { "es": "rico en", "ko": "~이 풍부한", "ex": "Las frutas son ricas en vitaminas.", "exKo": "과일은 비타민이 풍부해요." },
+  { "es": "la pechuga de pollo", "ko": "닭가슴살", "ex": "La pechuga de pollo es rica en proteínas.", "exKo": "닭가슴살은 단백질이 풍부해요." },
+  { "es": "la avena", "ko": "귀리, 오트밀", "ex": "La avena es una fuente de fibra.", "exKo": "귀리는 섬유질 공급원이에요." },
+  { "es": "el hierro", "ko": "철분", "ex": "El marisco es una fuente importante de hierro.", "exKo": "해산물은 중요한 철분 공급원이에요." },
+  { "es": "ligero/a", "ko": "가벼운", "ex": "Es mejor tomar una comida ligera.", "exKo": "가벼운 식사가 좋아요." },
+  { "es": "ayunar", "ko": "단식하다", "ex": "Mañana ayunaré.", "exKo": "내일은 굶을 거예요." },
+  { "es": "engordar", "ko": "살찌다", "ex": "El pescado no engorda.", "exKo": "생선은 살이 안 쪄요." },
+  { "es": "el huevo duro", "ko": "삶은 달걀", "ex": "¿Quieres un huevo duro?", "exKo": "삶은 달걀 먹을래?" },
+  { "es": "saber a", "ko": "~ 맛이 나다", "ex": "Esta tarta sabe a zanahoria.", "exKo": "이 케이크는 당근 맛이 나요." },
+  { "es": "la patata", "ko": "감자 (스페인)", "ex": "Me gusta la tortilla de patatas.", "exKo": "감자 토르티야를 좋아해요." },
+  { "es": "un diente de ajo", "ko": "마늘 한 쪽", "ex": "Necesitamos un diente de ajo.", "exKo": "마늘 한 쪽이 필요해요." },
+  { "es": "la cebolla", "ko": "양파", "ex": "Es difícil cortar cebollas sin llorar.", "exKo": "울지 않고 양파 썰기는 어려워요." },
+  { "es": "el bote", "ko": "통, 병", "ex": "¿Compramos un bote de mayonesa?", "exKo": "마요네즈 한 통 살까?" },
+  { "es": "la lata", "ko": "캔", "ex": "Vamos a comprar tres latas de atún.", "exKo": "참치 캔 세 개 사자." },
+  { "es": "la gamba", "ko": "새우 (스페인)", "ex": "Las gambas al ajillo son famosas en Corea.", "exKo": "감바스 알 아히요는 한국에서 유명해요." },
+  { "es": "adelgazar", "ko": "살이 빠지다", "ex": "El chocolate negro es bueno para adelgazar.", "exKo": "다크 초콜릿은 살 빼는 데 좋대요." },
+  { "es": "la galleta", "ko": "쿠키, 비스킷", "ex": "Mi madre hace unas galletas riquísimas.", "exKo": "엄마는 정말 맛있는 쿠키를 만드세요." },
+  { "es": "aliñar", "ko": "(샐러드에) 드레싱하다", "ex": "Me gusta aliñar la ensalada con vinagre balsámico.", "exKo": "샐러드를 발사믹 식초로 드레싱해요." },
+  { "es": "el aceite de oliva", "ko": "올리브유", "ex": "El aceite de oliva es muy saludable.", "exKo": "올리브유는 아주 건강에 좋아요." },
+  { "es": "el agua sin gas", "ko": "탄산 없는 물", "ex": "Agua sin gas, por favor.", "exKo": "탄산 없는 물 주세요." },
+  { "es": "el vino tinto", "ko": "레드 와인", "ex": "Yo prefiero el vino tinto.", "exKo": "나는 레드 와인이 더 좋아요." },
+  { "es": "el zumo", "ko": "주스 (스페인)", "ex": "Quiero un zumo de naranja.", "exKo": "오렌지 주스 주세요." },
+  { "es": "el cava", "ko": "카바 (스페인 스파클링 와인)", "ex": "una botella de cava para celebrar la Nochevieja", "exKo": "섣달그믐을 축하할 카바 한 병" },
+  { "es": "la infusión", "ko": "허브차", "ex": "Tómate una infusión de manzanilla.", "exKo": "캐모마일 차를 마셔." },
+  { "es": "probar", "ko": "맛보다", "ex": "Me encanta probar nuevos platos.", "exKo": "새 요리 맛보는 걸 좋아해요." },
+  { "es": "servirse", "ko": "덜어 먹다", "ex": "Sírvete lo que quieras.", "exKo": "먹고 싶은 거 덜어 먹어." },
+  { "es": "tomar una copa", "ko": "한잔하다", "ex": "Me gusta tomar una copa de vino en cada comida.", "exKo": "식사 때마다 와인 한 잔이 좋아요." },
+  { "es": "borracho/a", "ko": "취한", "ex": "Juan estaba borracho anoche.", "exKo": "후안은 어젯밤 취했어요." },
+  { "es": "la resaca", "ko": "숙취", "ex": "Tengo una resaca monumental.", "exKo": "엄청난 숙취예요." },
+  { "es": "el primer plato", "ko": "첫 번째 요리", "ex": "De primer plato, una ensalada mixta.", "exKo": "첫 요리로 믹스 샐러드 주세요." },
+  { "es": "la ración", "ko": "1인분", "ex": "una ración de paella mixta", "exKo": "믹스 파에야 1인분" },
+  { "es": "ir de tapas", "ko": "타파스 먹으러 다니다", "ex": "Los fines de semana voy de tapas con mis amigos.", "exKo": "주말마다 친구들과 타파스 먹으러 가요." },
+  { "es": "chuparse los dedos", "ko": "손가락을 빨다 (아주 맛있다)", "ex": "estaba para chuparse los dedos", "exKo": "손가락까지 빨아 먹을 만큼 맛있었어요" },
+  { "es": "sentar bien", "ko": "(음식이) 잘 맞다", "ex": "Siempre me sienta bien el arroz.", "exKo": "밥은 늘 나한테 잘 맞아요." },
+  { "es": "la receta", "ko": "레시피", "ex": "Voy a seguir la receta de mi madre.", "exKo": "엄마 레시피대로 할 거예요." },
+  { "es": "asar", "ko": "굽다", "ex": "Voy a asar la carne y las verduras.", "exKo": "고기와 채소를 구울게요." },
+  { "es": "freír", "ko": "튀기다", "ex": "Voy a freír las patatas.", "exKo": "감자를 튀길게요." },
+  { "es": "crudo/a", "ko": "날것의", "ex": "¿Te gusta el pescado crudo?", "exKo": "날생선 좋아해?" },
+  { "es": "soso/a", "ko": "싱거운", "ex": "El arroz está soso.", "exKo": "밥이 싱거워요." },
+  { "es": "la sartén", "ko": "프라이팬", "ex": "¿Tienes una sartén más grande?", "exKo": "더 큰 프라이팬 있어?" },
+  { "es": "poner la mesa", "ko": "상을 차리다", "ex": "Vamos a poner la mesa.", "exKo": "상 차리자." },
+  { "es": "fregar los platos", "ko": "설거지하다", "ex": "Voy a fregar los platos.", "exKo": "설거지할게요." },
+  { "es": "el camarero", "ko": "웨이터", "ex": "Carlos trabaja de camarero.", "exKo": "카를로스는 웨이터로 일해요." },
+  { "es": "pedir la cuenta", "ko": "계산서를 달라고 하다", "ex": "¿Pedimos la cuenta?", "exKo": "계산서 달라고 할까?" },
+  { "es": "para llevar", "ko": "포장(테이크아웃)", "ex": "¿Para tomar aquí o para llevar?", "exKo": "드시고 가세요, 포장하세요?" }
+ ],
+ "quiz": [
+  {
+   "q": "스페인에서 'la merienda'는 언제 먹는 식사일까요?",
+   "options": ["아침", "점심", "오후 간식", "늦은 저녁"],
+   "answer": 2,
+   "explain": "Los niños españoles toman la merienda sobre las seis de la tarde."
+  },
+  {
+   "q": "'Las frutas son ricas en vitaminas.'의 뜻은?",
+   "options": ["과일은 비싸요.", "과일은 비타민이 풍부해요.", "과일은 맛있어요.", "과일은 비타민이 없어요."],
+   "answer": 1,
+   "explain": "rico en = ~이 풍부한."
+  },
+  {
+   "q": "'Hoy no tengo apetito.'의 뜻은?",
+   "options": ["오늘은 시간이 없어요.", "오늘은 입맛이 없어요.", "오늘은 배불러요.", "오늘은 요리를 안 해요."],
+   "answer": 1,
+   "explain": "tener apetito = 입맛이 있다."
+  },
+  {
+   "q": "'Esta tarta ___ a zanahoria.' (당근 맛이 나요)",
+   "options": ["sabe", "huele", "está", "es"],
+   "answer": 0,
+   "explain": "saber a = ~ 맛이 나다."
+  },
+  {
+   "q": "'El arroz está soso.'에서 soso는?",
+   "options": ["짠", "싱거운", "단", "매운"],
+   "answer": 1,
+   "explain": "soso = 싱거운. ¿Le echamos un poco de sal?"
+  },
+  {
+   "q": "고기를 '레어로' 주문할 때는?",
+   "options": ["Muy hecha, por favor.", "Poco hecha, por favor.", "Cruda, por favor.", "Quemada, por favor."],
+   "answer": 1,
+   "explain": "poco hecho = 덜 익힌(레어)."
+  },
+  {
+   "q": "'Tengo una resaca monumental.'의 뜻은?",
+   "options": ["기념비를 봤어요.", "엄청난 숙취에 시달려요.", "와인이 아주 많아요.", "배가 아주 아파요."],
+   "answer": 1,
+   "explain": "tener resaca = 숙취가 있다."
+  },
+  {
+   "q": "'Los fines de semana voy de tapas con mis amigos.'의 뜻은?",
+   "options": ["주말마다 친구들과 타파스를 먹으러 다녀요.", "주말마다 친구들과 요리해요.", "주말마다 뚜껑을 사요.", "주말마다 친구 집에 가요."],
+   "answer": 0,
+   "explain": "ir de tapas = 타파스 먹으러 다니다."
+  },
+  {
+   "q": "'freír'의 뜻은?",
+   "options": ["삶다", "튀기다", "굽다", "얼리다"],
+   "answer": 1,
+   "explain": "Voy a freír las patatas. = 감자를 튀길게요."
+  },
+  {
+   "q": "'상을 차리다'는?",
+   "options": ["quitar la mesa", "poner la mesa", "recoger la mesa", "lavar la mesa"],
+   "answer": 1,
+   "explain": "poner la mesa = 상을 차리다, recoger/quitar la mesa = 치우다."
+  },
+  {
+   "q": "식당에서 '계산서 주세요'는?",
+   "options": ["La carta, por favor.", "La cuenta, por favor.", "La mesa, por favor.", "El menú, por favor."],
+   "answer": 1,
+   "explain": "la cuenta = 계산서, la carta = 메뉴판."
+  },
+  {
+   "q": "'¿Para tomar aquí o para llevar?'의 뜻은?",
+   "options": ["여기서 드시겠어요, 포장하시겠어요?", "어디로 가져갈까요?", "여기 앉으시겠어요?", "무엇을 드시겠어요?"],
+   "answer": 0,
+   "explain": "para llevar = 포장(테이크아웃)."
+  }
+ ]
+}

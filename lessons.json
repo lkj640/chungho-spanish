@@ -1,6 +1,29 @@
 {
  "lessons": [
   {
+   "id": "es-2026-11-25-5",
+   "lang": "es",
+   "date": "2026-11-25",
+   "title": "음식과 식당 — 스페인어 어휘 5장 (1–7과)",
+   "es": "¡Qué bueno está este plato!",
+   "emoji": "🥘",
+   "level": "A1–A2",
+   "channel": "스페인어 어휘 교재 오디오",
+   "youtube": null,
+   "duration": "23:20",
+   "summary": "스페인어 어휘 교재 5장 '음식'의 1~7과 오디오 일곱 개를 하나로 이었어요(1~4장은 11/23·11/25 강의). 1과 식사와 영양(desayuno, merienda, rico en vitaminas), 2과 식재료(patata, gamba, aceite de oliva), 3과 음료와 술(café con leche, vino tinto, cava, tener resaca), 4과 요리 이름(primer plato, tapa, gazpacho, cocido), 5과 조리법과 맛(asar, freír, poco hecho, soso, picante), 6과 식기와 상차림(sartén, poner la mesa), 7과 식당(reservar una mesa, pedir la cuenta, ¿para tomar aquí o para llevar?)까지, 스페인에서 먹고 마시고 주문할 때 필요한 단어가 다 들어 있어요.",
+   "topics": [
+    "1과 식사: desayuno · comida · merienda · cena · rico en … · alimentación equilibrada",
+    "2과 식재료: carne · pescado · patata · gamba · aceite de oliva",
+    "3과 음료: agua sin gas · café con leche · vino tinto · cava · tener resaca",
+    "4·5과 요리와 맛: tapa · gazpacho · asar · freír · poco hecho · soso · picante",
+    "6·7과 식탁과 식당: poner la mesa · reservar una mesa · pedir la cuenta · para llevar",
+    "문법: 식사 동사 · rico en / bajo en · saber a · estar + 맛 형용사 · 식당에서 주문하기"
+   ],
+   "vocabCount": 54,
+   "lineCount": 304
+  },
+  {
    "id": "es-2026-11-25-4",
    "lang": "es",
    "date": "2026-11-25",
