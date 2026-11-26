@@ -1,0 +1,707 @@
+{
+ "lang": "es",
+ "date": "2026-11-26",
+ "title": "개인 재무 관리 마스터하기 — 예산·저축·빚·투자 네 기둥",
+ "es": "Págate a ti mismo primero.",
+ "emoji": "💰",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to Master Personal Finance ? (B1) | Learn español with Podcast | episode 70 | Easy Spanish",
+ "youtube": "I7eFjsnhTHU",
+ "duration": "19:18",
+ "speakers": {
+  "M": "Mateo",
+  "S": "Sofía"
+ },
+ "hideCast": true,
+ "summary": "마테오와 소피아가 개인 재무의 네 기둥을 차례로 풀어 줘요. 예산(고정비·변동비, 50-30-20 규칙), 저축(비상금 3~6개월치, 자동이체), 빚(좋은 빚 vs 나쁜 빚, 눈덩이·눈사태 방식), 그리고 투자(인플레이션, 분산, 복리). 명령형 조언과 para que + 접속법, si 조건문을 듣고 따라 말하기 좋은 B1 회화예요.",
+ "topics": [
+  "예산: ingresos netos · gastos fijos y variables · regla 50-30-20",
+  "저축: fondo de emergencia · de 3 a 6 meses · págate a ti mismo primero",
+  "빚: deuda buena y mala · método bola de nieve y avalancha",
+  "투자: inflación · diversificar · interés compuesto · fondos y ETFs",
+  "문법: 명령형 · para que + 접속법 · si + 현재 · 관계절 · 비교급"
+ ],
+ "grammar": [
+  {
+   "title": "① 명령형(tú) — 조언하기",
+   "lead": "팟캐스트 내내 청취자에게 <b>조언</b>합니다. tú 긍정 명령형은 대개 <b>현재형 él/ella 형태</b>와 같아요.",
+   "table": {
+    "head": [
+     "동사원형",
+     "명령형 (tú)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "crear",
+      "crea",
+      "만들어라"
+     ],
+     [
+      "seguir",
+      "sigue",
+      "따르라"
+     ],
+     [
+      "construir",
+      "construye",
+      "쌓아라"
+     ],
+     [
+      "configurar",
+      "configura",
+      "설정해라"
+     ],
+     [
+      "empezar",
+      "empieza",
+      "시작해라"
+     ],
+     [
+      "ser",
+      "sé",
+      "~해라(되어라)"
+     ],
+     [
+      "preguntarse",
+      "pregúntate",
+      "스스로에게 물어라"
+     ],
+     [
+      "pagarse",
+      "págate",
+      "(나에게) 지급해라"
+     ]
+    ]
+   },
+   "tip": "재귀동사는 대명사가 뒤에 붙어요: pregúntate, págate (악센트 주의)."
+  },
+  {
+   "title": "② 접속법 — 목적·바람의 para que",
+   "lead": "<b>para que + 접속법</b> = '~하도록'. 주어가 달라질 때 씁니다.",
+   "examples": [
+    [
+     "…desglosamos el mundo del dinero para que sea fácil de entender.",
+     "…돈의 세계를 이해하기 쉽도록 풀어 드려요."
+    ],
+    [
+     "Ofrecer una guía para que cualquiera pueda empezar.",
+     "누구나 시작할 수 있도록 안내를 드려요."
+    ],
+    [
+     "…separada de tu cuenta corriente para que no te tiente gastarlo.",
+     "쓰고 싶은 유혹이 들지 않도록 입출금 계좌와 분리해 두세요."
+    ],
+    [
+     "Queremos que te sientas empoderado.",
+     "여러분이 힘을 얻었다고 느끼길 바라요."
+    ]
+   ]
+  },
+  {
+   "title": "③ si + 현재형, 현재/명령형 — 가능한 조건",
+   "lead": "실현 가능한 조건은 <b>si + 직설법 현재</b>로 말해요.",
+   "examples": [
+    [
+     "Si tus gastos son mayores que tus ingresos, estás en un déficit.",
+     "지출이 소득보다 크면 적자예요."
+    ],
+    [
+     "Si tus ingresos son mayores, tienes un superávit.",
+     "소득이 더 크면 흑자예요."
+    ],
+    [
+     "Si uno falla, la estructura completa puede verse comprometida.",
+     "하나가 무너지면 구조 전체가 위태로워질 수 있어요."
+    ],
+    [
+     "Si no sabes dónde estás gastando, es imposible saber dónde ajustar.",
+     "어디에 쓰는지 모르면 어디를 조정할지 알 수 없어요."
+    ]
+   ],
+   "tip": "결과절은 현재형·명령형·ir a 모두 가능해요."
+  },
+  {
+   "title": "④ 관계절 — aquel que / el que / lo que",
+   "lead": "<b>es aquella que…</b>, <b>los que…</b>로 정의를 내릴 때 많이 써요.",
+   "examples": [
+    [
+     "La deuda buena es aquella que te ayuda a adquirir un activo.",
+     "좋은 빚은 자산을 얻게 도와주는 빚이에요."
+    ],
+    [
+     "Los gastos fijos son los que se mantienen constantes.",
+     "고정비는 일정하게 유지되는 지출이에요."
+    ],
+    [
+     "Los variables son aquellos que pueden cambiar de un mes a otro.",
+     "변동비는 달마다 달라질 수 있는 지출이에요."
+    ],
+    [
+     "Elige el método que te resulte más cómodo.",
+     "가장 편한 방법을 고르세요."
+    ]
+   ],
+   "tip": "el método que te resulte… 처럼 que 뒤에 접속법이 오면 '(그런) 방법'을 가리켜요."
+  },
+  {
+   "title": "⑤ 비교급과 수량 표현",
+   "lead": "<b>más/menos … que</b>, <b>mayor/menor</b>, 그리고 <b>de la más pequeña a la más grande</b>(~부터 ~까지).",
+   "examples": [
+    [
+     "Tus gastos son mayores que tus ingresos.",
+     "지출이 소득보다 커요."
+    ],
+    [
+     "Listar las deudas de la más pequeña a la más grande.",
+     "빚을 가장 작은 것부터 큰 것까지 나열해요."
+    ],
+    [
+     "De la tasa más alta a la más baja.",
+     "가장 높은 이자율부터 낮은 이자율까지요."
+    ],
+    [
+     "Es más matemático.",
+     "더 수학적이에요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 접속법 현재 — 감정·바람 뒤(querer que, esperar que)",
+   "lead": "<b>querer / esperar + que + 접속법</b>. 주어가 다를 때 쓰고, 같으면 동사원형을 써요.",
+   "examples": [
+    [
+     "Queremos que nuestros oyentes se sientan cómodos.",
+     "청취자분들이 편안히 느끼길 바라요."
+    ],
+    [
+     "Esperamos que este episodio haya sido una luz.",
+     "이 에피소드가 빛이 되었기를 바라요."
+    ],
+    [
+     "Que sus finanzas sean claras y prósperas.",
+     "여러분의 재정이 맑고 풍요롭기를."
+    ],
+    [
+     "Quiero ahorrar. (주어 같음 → 원형)",
+     "나는 저축하고 싶어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 숫자·퍼센트·금액 읽기",
+   "lead": "퍼센트는 <b>el cincuenta por ciento</b>, 범위는 <b>de 3 a 6 meses</b>.",
+   "table": {
+    "head": [
+     "표현",
+     "읽기",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "50 %",
+      "el cincuenta por ciento",
+      "50%"
+     ],
+     [
+      "la regla 50-30-20",
+      "cincuenta, treinta, veinte",
+      "50-30-20 규칙"
+     ],
+     [
+      "de 3 a 6 meses",
+      "de tres a seis meses",
+      "3~6개월"
+     ],
+     [
+      "10 o 50 € al mes",
+      "diez o cincuenta euros al mes",
+      "한 달에 10~50유로"
+     ],
+     [
+      "a largo plazo",
+      "—",
+      "장기적으로"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Un presupuesto no es una camisa de fuerza, sino un mapa.",
+   "예산은 구속복이 아니라 지도예요."
+  ],
+  [
+   "Págate a ti mismo primero.",
+   "나 자신에게 먼저 지급하세요."
+  ],
+  [
+   "No pongas todos los huevos en la misma canasta.",
+   "계란을 한 바구니에 담지 마세요."
+  ],
+  [
+   "El objetivo es que tú controles el dinero, no que el dinero te controle a ti.",
+   "목표는 내가 돈을 통제하는 것이지, 돈이 나를 통제하는 게 아니에요."
+  ],
+  [
+   "Tener de tres a seis meses de gastos esenciales cubiertos.",
+   "필수 지출 3~6개월치를 충당해 두세요."
+  ],
+  [
+   "Pregúntate si realmente necesitas algo antes de comprarlo.",
+   "사기 전에 정말 필요한지 스스로 물어보세요."
+  ],
+  [
+   "La paciencia es una virtud clave en la inversión.",
+   "인내는 투자에서 핵심 미덕이에요."
+  ],
+  [
+   "Es un viaje, no un destino.",
+   "목적지가 아니라 여정이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "las finanzas personales",
+   "ko": "개인 재무",
+   "ex": "Hablamos de finanzas personales.",
+   "exKo": "개인 재무에 대해 이야기해요."
+  },
+  {
+   "es": "el presupuesto",
+   "ko": "예산",
+   "ex": "Crea un presupuesto mensual.",
+   "exKo": "월간 예산을 만드세요."
+  },
+  {
+   "es": "los ingresos netos",
+   "ko": "순소득",
+   "ex": "Conoce tus ingresos netos.",
+   "exKo": "순소득을 파악하세요."
+  },
+  {
+   "es": "los gastos fijos",
+   "ko": "고정비",
+   "ex": "El alquiler es un gasto fijo.",
+   "exKo": "월세는 고정비예요."
+  },
+  {
+   "es": "los gastos variables",
+   "ko": "변동비",
+   "ex": "La comida es un gasto variable.",
+   "exKo": "식비는 변동비예요."
+  },
+  {
+   "es": "el alquiler",
+   "ko": "월세",
+   "ex": "Pago el alquiler cada mes.",
+   "exKo": "나는 매달 월세를 내요."
+  },
+  {
+   "es": "la hipoteca",
+   "ko": "주택담보대출",
+   "ex": "Tiene una hipoteca a veinte años.",
+   "exKo": "그는 20년 만기 주택담보대출이 있어요."
+  },
+  {
+   "es": "las facturas",
+   "ko": "청구서·공과금",
+   "ex": "Pago las facturas de la luz.",
+   "exKo": "전기 요금 청구서를 내요."
+  },
+  {
+   "es": "la hoja de cálculo",
+   "ko": "스프레드시트",
+   "ex": "Uso una hoja de cálculo.",
+   "exKo": "나는 스프레드시트를 써요."
+  },
+  {
+   "es": "el déficit",
+   "ko": "적자",
+   "ex": "Estás en déficit este mes.",
+   "exKo": "이번 달 너는 적자야."
+  },
+  {
+   "es": "el superávit",
+   "ko": "흑자",
+   "ex": "Tengo superávit y puedo ahorrar.",
+   "exKo": "흑자라서 저축할 수 있어요."
+  },
+  {
+   "es": "la meta",
+   "ko": "목표",
+   "ex": "Mi meta es ahorrar mil euros.",
+   "exKo": "내 목표는 천 유로를 저축하는 거예요."
+  },
+  {
+   "es": "las necesidades",
+   "ko": "필수 지출·필요",
+   "ex": "El 50 % va a las necesidades.",
+   "exKo": "50%는 필수 지출에 가요."
+  },
+  {
+   "es": "los deseos",
+   "ko": "원하는 것·욕구",
+   "ex": "El 30 % va a los deseos.",
+   "exKo": "30%는 원하는 것에 가요."
+  },
+  {
+   "es": "el ahorro",
+   "ko": "저축",
+   "ex": "El ahorro es vital.",
+   "exKo": "저축은 필수예요."
+  },
+  {
+   "es": "ahorrar",
+   "ko": "저축하다·아끼다",
+   "ex": "Quiero ahorrar más.",
+   "exKo": "나는 더 저축하고 싶어요."
+  },
+  {
+   "es": "el fondo de emergencia",
+   "ko": "비상금",
+   "ex": "Necesito un fondo de emergencia.",
+   "exKo": "나는 비상금이 필요해요."
+  },
+  {
+   "es": "el imprevisto",
+   "ko": "돌발 상황",
+   "ex": "Ahorro para los imprevistos.",
+   "exKo": "돌발 상황에 대비해 저축해요."
+  },
+  {
+   "es": "la cuenta corriente",
+   "ko": "입출금 계좌",
+   "ex": "Separa el fondo de la cuenta corriente.",
+   "exKo": "비상금을 입출금 계좌와 분리하세요."
+  },
+  {
+   "es": "la cuenta de ahorros",
+   "ko": "저축 계좌",
+   "ex": "Paso dinero a la cuenta de ahorros.",
+   "exKo": "저축 계좌로 돈을 옮겨요."
+  },
+  {
+   "es": "la transferencia automática",
+   "ko": "자동이체",
+   "ex": "Configura una transferencia automática.",
+   "exKo": "자동이체를 설정하세요."
+  },
+  {
+   "es": "el salario",
+   "ko": "월급",
+   "ex": "Recibo mi salario el día 25.",
+   "exKo": "나는 25일에 월급을 받아요."
+  },
+  {
+   "es": "apartar",
+   "ko": "따로 떼어 두다",
+   "ex": "Aparto el 20 % cada mes.",
+   "exKo": "매달 20%를 따로 떼어 둬요."
+  },
+  {
+   "es": "la jubilación",
+   "ko": "노후·은퇴",
+   "ex": "Ahorro para mi jubilación.",
+   "exKo": "노후를 위해 저축해요."
+  },
+  {
+   "es": "la deuda",
+   "ko": "빚",
+   "ex": "La deuda mala tiene intereses altos.",
+   "exKo": "나쁜 빚은 이자가 높아요."
+  },
+  {
+   "es": "el préstamo",
+   "ko": "대출",
+   "ex": "Pedí un préstamo estudiantil.",
+   "exKo": "나는 학자금 대출을 받았어요."
+  },
+  {
+   "es": "la tasa de interés",
+   "ko": "이자율",
+   "ex": "La tarjeta tiene una tasa de interés alta.",
+   "exKo": "그 카드는 이자율이 높아요."
+  },
+  {
+   "es": "el interés compuesto",
+   "ko": "복리",
+   "ex": "El interés compuesto es poderoso.",
+   "exKo": "복리는 강력해요."
+  },
+  {
+   "es": "la tarjeta de crédito",
+   "ko": "신용카드",
+   "ex": "Evita usar la tarjeta de crédito.",
+   "exKo": "신용카드 사용을 피하세요."
+  },
+  {
+   "es": "el método bola de nieve",
+   "ko": "눈덩이 방식(작은 빚부터 상환)",
+   "ex": "El método bola de nieve motiva.",
+   "exKo": "눈덩이 방식은 동기를 줘요."
+  },
+  {
+   "es": "el método avalancha",
+   "ko": "눈사태 방식(고금리 빚부터 상환)",
+   "ex": "El método avalancha ahorra intereses.",
+   "exKo": "눈사태 방식은 이자를 아껴 줘요."
+  },
+  {
+   "es": "el pago mínimo",
+   "ko": "최소 상환액",
+   "ex": "Haces el pago mínimo en todas.",
+   "exKo": "모든 빚에 최소 상환액만 내요."
+  },
+  {
+   "es": "la compra impulsiva",
+   "ko": "충동구매",
+   "ex": "Evita las compras impulsivas.",
+   "exKo": "충동구매를 피하세요."
+  },
+  {
+   "es": "la inversión",
+   "ko": "투자",
+   "ex": "La inversión busca multiplicar el dinero.",
+   "exKo": "투자는 돈을 불리려 해요."
+  },
+  {
+   "es": "invertir",
+   "ko": "투자하다",
+   "ex": "Quiero invertir poco a poco.",
+   "exKo": "조금씩 투자하고 싶어요."
+  },
+  {
+   "es": "la inflación",
+   "ko": "인플레이션",
+   "ex": "La inflación sube los precios.",
+   "exKo": "인플레이션은 물가를 올려요."
+  },
+  {
+   "es": "el poder adquisitivo",
+   "ko": "구매력",
+   "ex": "Pierdo poder adquisitivo.",
+   "exKo": "나는 구매력을 잃어요."
+  },
+  {
+   "es": "el riesgo",
+   "ko": "위험",
+   "ex": "Toda inversión tiene riesgo.",
+   "exKo": "모든 투자에는 위험이 있어요."
+  },
+  {
+   "es": "la tolerancia al riesgo",
+   "ko": "위험 감수 성향",
+   "ex": "Conoce tu tolerancia al riesgo.",
+   "exKo": "네 위험 감수 성향을 알아라."
+  },
+  {
+   "es": "diversificar",
+   "ko": "분산하다",
+   "ex": "Es importante diversificar.",
+   "exKo": "분산하는 게 중요해요."
+  },
+  {
+   "es": "el fondo de inversión",
+   "ko": "투자 펀드",
+   "ex": "Un fondo de inversión reduce el riesgo.",
+   "exKo": "투자 펀드는 위험을 줄여요."
+  },
+  {
+   "es": "las acciones",
+   "ko": "주식",
+   "ex": "Compra acciones de varias empresas.",
+   "exKo": "여러 회사의 주식을 사세요."
+  },
+  {
+   "es": "los bonos",
+   "ko": "채권",
+   "ex": "Los bonos son más estables.",
+   "exKo": "채권은 더 안정적이에요."
+  },
+  {
+   "es": "los bienes raíces",
+   "ko": "부동산",
+   "ex": "Invierte en bienes raíces.",
+   "exKo": "그는 부동산에 투자해요."
+  },
+  {
+   "es": "la riqueza",
+   "ko": "부",
+   "ex": "Quiero construir riqueza.",
+   "exKo": "나는 부를 쌓고 싶어요."
+  },
+  {
+   "es": "la constancia",
+   "ko": "꾸준함",
+   "ex": "La constancia es la clave.",
+   "exKo": "꾸준함이 열쇠예요."
+  },
+  {
+   "es": "la paciencia",
+   "ko": "인내",
+   "ex": "La paciencia es una virtud.",
+   "exKo": "인내는 미덕이에요."
+  },
+  {
+   "es": "abrumado/a",
+   "ko": "압도된",
+   "ex": "Me siento abrumado por tanta información.",
+   "exKo": "정보가 너무 많아 압도돼요."
+  },
+  {
+   "es": "la libertad financiera",
+   "ko": "재정적 자유",
+   "ex": "Busco la libertad financiera.",
+   "exKo": "나는 재정적 자유를 추구해요."
+  },
+  {
+   "es": "el asesor financiero",
+   "ko": "재무 상담사",
+   "ex": "Habla con un asesor financiero.",
+   "exKo": "재무 상담사와 이야기해 보세요."
+  },
+  {
+   "es": "a largo plazo",
+   "ko": "장기적으로",
+   "ex": "Ahorra más a largo plazo.",
+   "exKo": "장기적으로 더 아낄 수 있어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué es un presupuesto según Sofía?",
+   "options": [
+    "una camisa de fuerza",
+    "un mapa para tu dinero",
+    "una deuda",
+    "un impuesto"
+   ],
+   "answer": 1,
+   "explain": "Un presupuesto no es una camisa de fuerza, sino más bien un mapa."
+  },
+  {
+   "q": "¿Cuáles son ejemplos de gastos fijos?",
+   "options": [
+    "la comida y la ropa",
+    "el alquiler y la hipoteca",
+    "el entretenimiento",
+    "las vacaciones"
+   ],
+   "answer": 1,
+   "explain": "Los gastos fijos son constantes, como el alquiler o la hipoteca."
+  },
+  {
+   "q": "En la regla 50-30-20, ¿a qué se destina el 20 %?",
+   "options": [
+    "a las necesidades",
+    "a los deseos",
+    "al ahorro y al pago de deudas",
+    "a los impuestos"
+   ],
+   "answer": 2,
+   "explain": "El 20 % se destina al ahorro y al pago de deudas."
+  },
+  {
+   "q": "¿Qué significa tener un superávit?",
+   "options": [
+    "gastar más de lo que ganas",
+    "ingresos mayores que gastos",
+    "no tener ingresos",
+    "tener una deuda mala"
+   ],
+   "answer": 1,
+   "explain": "Si tus ingresos son mayores, tienes un superávit."
+  },
+  {
+   "q": "¿Cuántos meses de gastos esenciales recomienda tener en el fondo de emergencia?",
+   "options": [
+    "de 1 a 2",
+    "de 3 a 6",
+    "de 10 a 12",
+    "ninguno"
+   ],
+   "answer": 1,
+   "explain": "La recomendación general es de 3 a 6 meses de gastos esenciales."
+  },
+  {
+   "q": "¿Dónde debe estar el fondo de emergencia?",
+   "options": [
+    "en la cuenta corriente",
+    "en efectivo bajo la cama",
+    "en una cuenta de ahorro separada y de fácil acceso",
+    "en acciones"
+   ],
+   "answer": 2,
+   "explain": "Debe estar en una cuenta de ahorro de fácil acceso, pero separada de la cuenta corriente."
+  },
+  {
+   "q": "¿Qué significa «págate a ti mismo primero»?",
+   "options": [
+    "comprarte algo caro",
+    "apartar el ahorro antes de gastar",
+    "pagar solo tus deudas",
+    "no pagar facturas"
+   ],
+   "answer": 1,
+   "explain": "Se trata de automatizar el ahorro y apartarlo antes de gastar."
+  },
+  {
+   "q": "¿Cuál es un ejemplo de deuda buena?",
+   "options": [
+    "tarjeta para unas vacaciones de lujo",
+    "préstamo hipotecario o estudiantil",
+    "préstamo para artículos de lujo",
+    "compras impulsivas"
+   ],
+   "answer": 1,
+   "explain": "La deuda buena ayuda a adquirir un activo o a invertir en ti mismo."
+  },
+  {
+   "q": "¿En qué consiste el método avalancha?",
+   "options": [
+    "pagar primero la deuda más pequeña",
+    "pagar primero la de tasa de interés más alta",
+    "no pagar ninguna",
+    "pedir más préstamos"
+   ],
+   "answer": 1,
+   "explain": "En el método avalancha se prioriza la deuda con la tasa de interés más alta."
+  },
+  {
+   "q": "¿Por qué es importante invertir, según el podcast?",
+   "options": [
+    "por la inflación",
+    "por los impuestos",
+    "para gastar más",
+    "para no ahorrar"
+   ],
+   "answer": 0,
+   "explain": "La inflación reduce el poder adquisitivo del dinero ahorrado."
+  },
+  {
+   "q": "¿Qué significa «diversificar»?",
+   "options": [
+    "invertir todo en una empresa",
+    "no poner todos los huevos en la misma canasta",
+    "dejar de invertir",
+    "pedir un préstamo"
+   ],
+   "answer": 1,
+   "explain": "Diversificar es no poner todos los huevos en la misma canasta."
+  },
+  {
+   "q": "¿Qué pilar recomiendan empezar primero?",
+   "options": [
+    "la inversión",
+    "las deudas",
+    "el presupuesto",
+    "la jubilación"
+   ],
+   "answer": 2,
+   "explain": "Empiecen con el presupuesto, luego el ahorro, las deudas y la inversión."
+  }
+ ]
+}

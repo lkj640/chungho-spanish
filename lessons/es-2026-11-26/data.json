@@ -1,0 +1,1958 @@
+{
+ "id": "es-2026-11-26",
+ "lang": "es",
+ "date": "2026-11-26",
+ "title": "개인 재무 관리 마스터하기 — 예산·저축·빚·투자 네 기둥",
+ "es": "Págate a ti mismo primero.",
+ "emoji": "💰",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to Master Personal Finance ? (B1) | Learn español with Podcast | episode 70 | Easy Spanish",
+ "youtube": "I7eFjsnhTHU",
+ "duration": "19:18",
+ "speakers": {
+  "M": "Mateo",
+  "S": "Sofía"
+ },
+ "hideCast": true,
+ "summary": "마테오와 소피아가 개인 재무의 네 기둥을 차례로 풀어 줘요. 예산(고정비·변동비, 50-30-20 규칙), 저축(비상금 3~6개월치, 자동이체), 빚(좋은 빚 vs 나쁜 빚, 눈덩이·눈사태 방식), 그리고 투자(인플레이션, 분산, 복리). 명령형 조언과 para que + 접속법, si 조건문을 듣고 따라 말하기 좋은 B1 회화예요.",
+ "topics": [
+  "예산: ingresos netos · gastos fijos y variables · regla 50-30-20",
+  "저축: fondo de emergencia · de 3 a 6 meses · págate a ti mismo primero",
+  "빚: deuda buena y mala · método bola de nieve y avalancha",
+  "투자: inflación · diversificar · interés compuesto · fondos y ETFs",
+  "문법: 명령형 · para que + 접속법 · si + 현재 · 관계절 · 비교급"
+ ],
+ "grammar": [
+  {
+   "title": "① 명령형(tú) — 조언하기",
+   "lead": "팟캐스트 내내 청취자에게 <b>조언</b>합니다. tú 긍정 명령형은 대개 <b>현재형 él/ella 형태</b>와 같아요.",
+   "table": {
+    "head": [
+     "동사원형",
+     "명령형 (tú)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "crear",
+      "crea",
+      "만들어라"
+     ],
+     [
+      "seguir",
+      "sigue",
+      "따르라"
+     ],
+     [
+      "construir",
+      "construye",
+      "쌓아라"
+     ],
+     [
+      "configurar",
+      "configura",
+      "설정해라"
+     ],
+     [
+      "empezar",
+      "empieza",
+      "시작해라"
+     ],
+     [
+      "ser",
+      "sé",
+      "~해라(되어라)"
+     ],
+     [
+      "preguntarse",
+      "pregúntate",
+      "스스로에게 물어라"
+     ],
+     [
+      "pagarse",
+      "págate",
+      "(나에게) 지급해라"
+     ]
+    ]
+   },
+   "tip": "재귀동사는 대명사가 뒤에 붙어요: pregúntate, págate (악센트 주의)."
+  },
+  {
+   "title": "② 접속법 — 목적·바람의 para que",
+   "lead": "<b>para que + 접속법</b> = '~하도록'. 주어가 달라질 때 씁니다.",
+   "examples": [
+    [
+     "…desglosamos el mundo del dinero para que sea fácil de entender.",
+     "…돈의 세계를 이해하기 쉽도록 풀어 드려요."
+    ],
+    [
+     "Ofrecer una guía para que cualquiera pueda empezar.",
+     "누구나 시작할 수 있도록 안내를 드려요."
+    ],
+    [
+     "…separada de tu cuenta corriente para que no te tiente gastarlo.",
+     "쓰고 싶은 유혹이 들지 않도록 입출금 계좌와 분리해 두세요."
+    ],
+    [
+     "Queremos que te sientas empoderado.",
+     "여러분이 힘을 얻었다고 느끼길 바라요."
+    ]
+   ]
+  },
+  {
+   "title": "③ si + 현재형, 현재/명령형 — 가능한 조건",
+   "lead": "실현 가능한 조건은 <b>si + 직설법 현재</b>로 말해요.",
+   "examples": [
+    [
+     "Si tus gastos son mayores que tus ingresos, estás en un déficit.",
+     "지출이 소득보다 크면 적자예요."
+    ],
+    [
+     "Si tus ingresos son mayores, tienes un superávit.",
+     "소득이 더 크면 흑자예요."
+    ],
+    [
+     "Si uno falla, la estructura completa puede verse comprometida.",
+     "하나가 무너지면 구조 전체가 위태로워질 수 있어요."
+    ],
+    [
+     "Si no sabes dónde estás gastando, es imposible saber dónde ajustar.",
+     "어디에 쓰는지 모르면 어디를 조정할지 알 수 없어요."
+    ]
+   ],
+   "tip": "결과절은 현재형·명령형·ir a 모두 가능해요."
+  },
+  {
+   "title": "④ 관계절 — aquel que / el que / lo que",
+   "lead": "<b>es aquella que…</b>, <b>los que…</b>로 정의를 내릴 때 많이 써요.",
+   "examples": [
+    [
+     "La deuda buena es aquella que te ayuda a adquirir un activo.",
+     "좋은 빚은 자산을 얻게 도와주는 빚이에요."
+    ],
+    [
+     "Los gastos fijos son los que se mantienen constantes.",
+     "고정비는 일정하게 유지되는 지출이에요."
+    ],
+    [
+     "Los variables son aquellos que pueden cambiar de un mes a otro.",
+     "변동비는 달마다 달라질 수 있는 지출이에요."
+    ],
+    [
+     "Elige el método que te resulte más cómodo.",
+     "가장 편한 방법을 고르세요."
+    ]
+   ],
+   "tip": "el método que te resulte… 처럼 que 뒤에 접속법이 오면 '(그런) 방법'을 가리켜요."
+  },
+  {
+   "title": "⑤ 비교급과 수량 표현",
+   "lead": "<b>más/menos … que</b>, <b>mayor/menor</b>, 그리고 <b>de la más pequeña a la más grande</b>(~부터 ~까지).",
+   "examples": [
+    [
+     "Tus gastos son mayores que tus ingresos.",
+     "지출이 소득보다 커요."
+    ],
+    [
+     "Listar las deudas de la más pequeña a la más grande.",
+     "빚을 가장 작은 것부터 큰 것까지 나열해요."
+    ],
+    [
+     "De la tasa más alta a la más baja.",
+     "가장 높은 이자율부터 낮은 이자율까지요."
+    ],
+    [
+     "Es más matemático.",
+     "더 수학적이에요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ 접속법 현재 — 감정·바람 뒤(querer que, esperar que)",
+   "lead": "<b>querer / esperar + que + 접속법</b>. 주어가 다를 때 쓰고, 같으면 동사원형을 써요.",
+   "examples": [
+    [
+     "Queremos que nuestros oyentes se sientan cómodos.",
+     "청취자분들이 편안히 느끼길 바라요."
+    ],
+    [
+     "Esperamos que este episodio haya sido una luz.",
+     "이 에피소드가 빛이 되었기를 바라요."
+    ],
+    [
+     "Que sus finanzas sean claras y prósperas.",
+     "여러분의 재정이 맑고 풍요롭기를."
+    ],
+    [
+     "Quiero ahorrar. (주어 같음 → 원형)",
+     "나는 저축하고 싶어요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 숫자·퍼센트·금액 읽기",
+   "lead": "퍼센트는 <b>el cincuenta por ciento</b>, 범위는 <b>de 3 a 6 meses</b>.",
+   "table": {
+    "head": [
+     "표현",
+     "읽기",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "50 %",
+      "el cincuenta por ciento",
+      "50%"
+     ],
+     [
+      "la regla 50-30-20",
+      "cincuenta, treinta, veinte",
+      "50-30-20 규칙"
+     ],
+     [
+      "de 3 a 6 meses",
+      "de tres a seis meses",
+      "3~6개월"
+     ],
+     [
+      "10 o 50 € al mes",
+      "diez o cincuenta euros al mes",
+      "한 달에 10~50유로"
+     ],
+     [
+      "a largo plazo",
+      "—",
+      "장기적으로"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Un presupuesto no es una camisa de fuerza, sino un mapa.",
+   "예산은 구속복이 아니라 지도예요."
+  ],
+  [
+   "Págate a ti mismo primero.",
+   "나 자신에게 먼저 지급하세요."
+  ],
+  [
+   "No pongas todos los huevos en la misma canasta.",
+   "계란을 한 바구니에 담지 마세요."
+  ],
+  [
+   "El objetivo es que tú controles el dinero, no que el dinero te controle a ti.",
+   "목표는 내가 돈을 통제하는 것이지, 돈이 나를 통제하는 게 아니에요."
+  ],
+  [
+   "Tener de tres a seis meses de gastos esenciales cubiertos.",
+   "필수 지출 3~6개월치를 충당해 두세요."
+  ],
+  [
+   "Pregúntate si realmente necesitas algo antes de comprarlo.",
+   "사기 전에 정말 필요한지 스스로 물어보세요."
+  ],
+  [
+   "La paciencia es una virtud clave en la inversión.",
+   "인내는 투자에서 핵심 미덕이에요."
+  ],
+  [
+   "Es un viaje, no un destino.",
+   "목적지가 아니라 여정이에요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "las finanzas personales",
+   "ko": "개인 재무",
+   "ex": "Hablamos de finanzas personales.",
+   "exKo": "개인 재무에 대해 이야기해요."
+  },
+  {
+   "es": "el presupuesto",
+   "ko": "예산",
+   "ex": "Crea un presupuesto mensual.",
+   "exKo": "월간 예산을 만드세요."
+  },
+  {
+   "es": "los ingresos netos",
+   "ko": "순소득",
+   "ex": "Conoce tus ingresos netos.",
+   "exKo": "순소득을 파악하세요."
+  },
+  {
+   "es": "los gastos fijos",
+   "ko": "고정비",
+   "ex": "El alquiler es un gasto fijo.",
+   "exKo": "월세는 고정비예요."
+  },
+  {
+   "es": "los gastos variables",
+   "ko": "변동비",
+   "ex": "La comida es un gasto variable.",
+   "exKo": "식비는 변동비예요."
+  },
+  {
+   "es": "el alquiler",
+   "ko": "월세",
+   "ex": "Pago el alquiler cada mes.",
+   "exKo": "나는 매달 월세를 내요."
+  },
+  {
+   "es": "la hipoteca",
+   "ko": "주택담보대출",
+   "ex": "Tiene una hipoteca a veinte años.",
+   "exKo": "그는 20년 만기 주택담보대출이 있어요."
+  },
+  {
+   "es": "las facturas",
+   "ko": "청구서·공과금",
+   "ex": "Pago las facturas de la luz.",
+   "exKo": "전기 요금 청구서를 내요."
+  },
+  {
+   "es": "la hoja de cálculo",
+   "ko": "스프레드시트",
+   "ex": "Uso una hoja de cálculo.",
+   "exKo": "나는 스프레드시트를 써요."
+  },
+  {
+   "es": "el déficit",
+   "ko": "적자",
+   "ex": "Estás en déficit este mes.",
+   "exKo": "이번 달 너는 적자야."
+  },
+  {
+   "es": "el superávit",
+   "ko": "흑자",
+   "ex": "Tengo superávit y puedo ahorrar.",
+   "exKo": "흑자라서 저축할 수 있어요."
+  },
+  {
+   "es": "la meta",
+   "ko": "목표",
+   "ex": "Mi meta es ahorrar mil euros.",
+   "exKo": "내 목표는 천 유로를 저축하는 거예요."
+  },
+  {
+   "es": "las necesidades",
+   "ko": "필수 지출·필요",
+   "ex": "El 50 % va a las necesidades.",
+   "exKo": "50%는 필수 지출에 가요."
+  },
+  {
+   "es": "los deseos",
+   "ko": "원하는 것·욕구",
+   "ex": "El 30 % va a los deseos.",
+   "exKo": "30%는 원하는 것에 가요."
+  },
+  {
+   "es": "el ahorro",
+   "ko": "저축",
+   "ex": "El ahorro es vital.",
+   "exKo": "저축은 필수예요."
+  },
+  {
+   "es": "ahorrar",
+   "ko": "저축하다·아끼다",
+   "ex": "Quiero ahorrar más.",
+   "exKo": "나는 더 저축하고 싶어요."
+  },
+  {
+   "es": "el fondo de emergencia",
+   "ko": "비상금",
+   "ex": "Necesito un fondo de emergencia.",
+   "exKo": "나는 비상금이 필요해요."
+  },
+  {
+   "es": "el imprevisto",
+   "ko": "돌발 상황",
+   "ex": "Ahorro para los imprevistos.",
+   "exKo": "돌발 상황에 대비해 저축해요."
+  },
+  {
+   "es": "la cuenta corriente",
+   "ko": "입출금 계좌",
+   "ex": "Separa el fondo de la cuenta corriente.",
+   "exKo": "비상금을 입출금 계좌와 분리하세요."
+  },
+  {
+   "es": "la cuenta de ahorros",
+   "ko": "저축 계좌",
+   "ex": "Paso dinero a la cuenta de ahorros.",
+   "exKo": "저축 계좌로 돈을 옮겨요."
+  },
+  {
+   "es": "la transferencia automática",
+   "ko": "자동이체",
+   "ex": "Configura una transferencia automática.",
+   "exKo": "자동이체를 설정하세요."
+  },
+  {
+   "es": "el salario",
+   "ko": "월급",
+   "ex": "Recibo mi salario el día 25.",
+   "exKo": "나는 25일에 월급을 받아요."
+  },
+  {
+   "es": "apartar",
+   "ko": "따로 떼어 두다",
+   "ex": "Aparto el 20 % cada mes.",
+   "exKo": "매달 20%를 따로 떼어 둬요."
+  },
+  {
+   "es": "la jubilación",
+   "ko": "노후·은퇴",
+   "ex": "Ahorro para mi jubilación.",
+   "exKo": "노후를 위해 저축해요."
+  },
+  {
+   "es": "la deuda",
+   "ko": "빚",
+   "ex": "La deuda mala tiene intereses altos.",
+   "exKo": "나쁜 빚은 이자가 높아요."
+  },
+  {
+   "es": "el préstamo",
+   "ko": "대출",
+   "ex": "Pedí un préstamo estudiantil.",
+   "exKo": "나는 학자금 대출을 받았어요."
+  },
+  {
+   "es": "la tasa de interés",
+   "ko": "이자율",
+   "ex": "La tarjeta tiene una tasa de interés alta.",
+   "exKo": "그 카드는 이자율이 높아요."
+  },
+  {
+   "es": "el interés compuesto",
+   "ko": "복리",
+   "ex": "El interés compuesto es poderoso.",
+   "exKo": "복리는 강력해요."
+  },
+  {
+   "es": "la tarjeta de crédito",
+   "ko": "신용카드",
+   "ex": "Evita usar la tarjeta de crédito.",
+   "exKo": "신용카드 사용을 피하세요."
+  },
+  {
+   "es": "el método bola de nieve",
+   "ko": "눈덩이 방식(작은 빚부터 상환)",
+   "ex": "El método bola de nieve motiva.",
+   "exKo": "눈덩이 방식은 동기를 줘요."
+  },
+  {
+   "es": "el método avalancha",
+   "ko": "눈사태 방식(고금리 빚부터 상환)",
+   "ex": "El método avalancha ahorra intereses.",
+   "exKo": "눈사태 방식은 이자를 아껴 줘요."
+  },
+  {
+   "es": "el pago mínimo",
+   "ko": "최소 상환액",
+   "ex": "Haces el pago mínimo en todas.",
+   "exKo": "모든 빚에 최소 상환액만 내요."
+  },
+  {
+   "es": "la compra impulsiva",
+   "ko": "충동구매",
+   "ex": "Evita las compras impulsivas.",
+   "exKo": "충동구매를 피하세요."
+  },
+  {
+   "es": "la inversión",
+   "ko": "투자",
+   "ex": "La inversión busca multiplicar el dinero.",
+   "exKo": "투자는 돈을 불리려 해요."
+  },
+  {
+   "es": "invertir",
+   "ko": "투자하다",
+   "ex": "Quiero invertir poco a poco.",
+   "exKo": "조금씩 투자하고 싶어요."
+  },
+  {
+   "es": "la inflación",
+   "ko": "인플레이션",
+   "ex": "La inflación sube los precios.",
+   "exKo": "인플레이션은 물가를 올려요."
+  },
+  {
+   "es": "el poder adquisitivo",
+   "ko": "구매력",
+   "ex": "Pierdo poder adquisitivo.",
+   "exKo": "나는 구매력을 잃어요."
+  },
+  {
+   "es": "el riesgo",
+   "ko": "위험",
+   "ex": "Toda inversión tiene riesgo.",
+   "exKo": "모든 투자에는 위험이 있어요."
+  },
+  {
+   "es": "la tolerancia al riesgo",
+   "ko": "위험 감수 성향",
+   "ex": "Conoce tu tolerancia al riesgo.",
+   "exKo": "네 위험 감수 성향을 알아라."
+  },
+  {
+   "es": "diversificar",
+   "ko": "분산하다",
+   "ex": "Es importante diversificar.",
+   "exKo": "분산하는 게 중요해요."
+  },
+  {
+   "es": "el fondo de inversión",
+   "ko": "투자 펀드",
+   "ex": "Un fondo de inversión reduce el riesgo.",
+   "exKo": "투자 펀드는 위험을 줄여요."
+  },
+  {
+   "es": "las acciones",
+   "ko": "주식",
+   "ex": "Compra acciones de varias empresas.",
+   "exKo": "여러 회사의 주식을 사세요."
+  },
+  {
+   "es": "los bonos",
+   "ko": "채권",
+   "ex": "Los bonos son más estables.",
+   "exKo": "채권은 더 안정적이에요."
+  },
+  {
+   "es": "los bienes raíces",
+   "ko": "부동산",
+   "ex": "Invierte en bienes raíces.",
+   "exKo": "그는 부동산에 투자해요."
+  },
+  {
+   "es": "la riqueza",
+   "ko": "부",
+   "ex": "Quiero construir riqueza.",
+   "exKo": "나는 부를 쌓고 싶어요."
+  },
+  {
+   "es": "la constancia",
+   "ko": "꾸준함",
+   "ex": "La constancia es la clave.",
+   "exKo": "꾸준함이 열쇠예요."
+  },
+  {
+   "es": "la paciencia",
+   "ko": "인내",
+   "ex": "La paciencia es una virtud.",
+   "exKo": "인내는 미덕이에요."
+  },
+  {
+   "es": "abrumado/a",
+   "ko": "압도된",
+   "ex": "Me siento abrumado por tanta información.",
+   "exKo": "정보가 너무 많아 압도돼요."
+  },
+  {
+   "es": "la libertad financiera",
+   "ko": "재정적 자유",
+   "ex": "Busco la libertad financiera.",
+   "exKo": "나는 재정적 자유를 추구해요."
+  },
+  {
+   "es": "el asesor financiero",
+   "ko": "재무 상담사",
+   "ex": "Habla con un asesor financiero.",
+   "exKo": "재무 상담사와 이야기해 보세요."
+  },
+  {
+   "es": "a largo plazo",
+   "ko": "장기적으로",
+   "ex": "Ahorra más a largo plazo.",
+   "exKo": "장기적으로 더 아낄 수 있어요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué es un presupuesto según Sofía?",
+   "options": [
+    "una camisa de fuerza",
+    "un mapa para tu dinero",
+    "una deuda",
+    "un impuesto"
+   ],
+   "answer": 1,
+   "explain": "Un presupuesto no es una camisa de fuerza, sino más bien un mapa."
+  },
+  {
+   "q": "¿Cuáles son ejemplos de gastos fijos?",
+   "options": [
+    "la comida y la ropa",
+    "el alquiler y la hipoteca",
+    "el entretenimiento",
+    "las vacaciones"
+   ],
+   "answer": 1,
+   "explain": "Los gastos fijos son constantes, como el alquiler o la hipoteca."
+  },
+  {
+   "q": "En la regla 50-30-20, ¿a qué se destina el 20 %?",
+   "options": [
+    "a las necesidades",
+    "a los deseos",
+    "al ahorro y al pago de deudas",
+    "a los impuestos"
+   ],
+   "answer": 2,
+   "explain": "El 20 % se destina al ahorro y al pago de deudas."
+  },
+  {
+   "q": "¿Qué significa tener un superávit?",
+   "options": [
+    "gastar más de lo que ganas",
+    "ingresos mayores que gastos",
+    "no tener ingresos",
+    "tener una deuda mala"
+   ],
+   "answer": 1,
+   "explain": "Si tus ingresos son mayores, tienes un superávit."
+  },
+  {
+   "q": "¿Cuántos meses de gastos esenciales recomienda tener en el fondo de emergencia?",
+   "options": [
+    "de 1 a 2",
+    "de 3 a 6",
+    "de 10 a 12",
+    "ninguno"
+   ],
+   "answer": 1,
+   "explain": "La recomendación general es de 3 a 6 meses de gastos esenciales."
+  },
+  {
+   "q": "¿Dónde debe estar el fondo de emergencia?",
+   "options": [
+    "en la cuenta corriente",
+    "en efectivo bajo la cama",
+    "en una cuenta de ahorro separada y de fácil acceso",
+    "en acciones"
+   ],
+   "answer": 2,
+   "explain": "Debe estar en una cuenta de ahorro de fácil acceso, pero separada de la cuenta corriente."
+  },
+  {
+   "q": "¿Qué significa «págate a ti mismo primero»?",
+   "options": [
+    "comprarte algo caro",
+    "apartar el ahorro antes de gastar",
+    "pagar solo tus deudas",
+    "no pagar facturas"
+   ],
+   "answer": 1,
+   "explain": "Se trata de automatizar el ahorro y apartarlo antes de gastar."
+  },
+  {
+   "q": "¿Cuál es un ejemplo de deuda buena?",
+   "options": [
+    "tarjeta para unas vacaciones de lujo",
+    "préstamo hipotecario o estudiantil",
+    "préstamo para artículos de lujo",
+    "compras impulsivas"
+   ],
+   "answer": 1,
+   "explain": "La deuda buena ayuda a adquirir un activo o a invertir en ti mismo."
+  },
+  {
+   "q": "¿En qué consiste el método avalancha?",
+   "options": [
+    "pagar primero la deuda más pequeña",
+    "pagar primero la de tasa de interés más alta",
+    "no pagar ninguna",
+    "pedir más préstamos"
+   ],
+   "answer": 1,
+   "explain": "En el método avalancha se prioriza la deuda con la tasa de interés más alta."
+  },
+  {
+   "q": "¿Por qué es importante invertir, según el podcast?",
+   "options": [
+    "por la inflación",
+    "por los impuestos",
+    "para gastar más",
+    "para no ahorrar"
+   ],
+   "answer": 0,
+   "explain": "La inflación reduce el poder adquisitivo del dinero ahorrado."
+  },
+  {
+   "q": "¿Qué significa «diversificar»?",
+   "options": [
+    "invertir todo en una empresa",
+    "no poner todos los huevos en la misma canasta",
+    "dejar de invertir",
+    "pedir un préstamo"
+   ],
+   "answer": 1,
+   "explain": "Diversificar es no poner todos los huevos en la misma canasta."
+  },
+  {
+   "q": "¿Qué pilar recomiendan empezar primero?",
+   "options": [
+    "la inversión",
+    "las deudas",
+    "el presupuesto",
+    "la jubilación"
+   ],
+   "answer": 2,
+   "explain": "Empiecen con el presupuesto, luego el ahorro, las deudas y la inversión."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 오늘의 주제는 개인 재무",
+   "lines": [
+    {
+     "t": 0.3,
+     "s": "M",
+     "es": "Hola a todos, bienvenidos a Finanzas Claras, el podcast donde desglosamos el complejo mundo del dinero para que sea fácil de entender y aplicar en tu vida diaria.",
+     "ko": "여러분 안녕하세요, 복잡한 돈의 세계를 쉽게 이해하고 일상에 적용할 수 있도록 풀어 드리는 팟캐스트 '피난사스 클라라스'에 오신 걸 환영해요."
+    },
+    {
+     "t": 12.3,
+     "s": "M",
+     "es": "Estoy muy contento de estar aquí hoy.",
+     "ko": "오늘 여기 있게 되어 정말 기뻐요."
+    },
+    {
+     "t": 14.9,
+     "s": "S",
+     "es": "Hola, Mateo, y hola a todos nuestros oyentes.",
+     "ko": "안녕, 마테오, 그리고 청취자 여러분 모두 안녕하세요."
+    },
+    {
+     "t": 18.9,
+     "s": "S",
+     "es": "Yo también estoy emocionada de sumergirnos en un tema tan crucial como las finanzas personales.",
+     "ko": "나도 개인 재무처럼 중요한 주제에 푹 빠져 보게 되어 설레요."
+    },
+    {
+     "t": 26.4,
+     "s": "S",
+     "es": "A menudo la gente se siente abrumada o incluso asustada por este tema, ¿verdad?",
+     "ko": "사람들은 이 주제 앞에서 종종 압도되거나 심지어 겁을 먹잖아요, 그렇죠?"
+    },
+    {
+     "t": 32.5,
+     "s": "M",
+     "es": "Absolutamente, Sofía.",
+     "ko": "전적으로 그래요, 소피아."
+    },
+    {
+     "t": 34.4,
+     "s": "M",
+     "es": "Y ese es precisamente el objetivo de nuestro episodio de hoy: desmitificar las finanzas personales y ofrecer una guía práctica para que cualquiera, sin importar su nivel de ingresos o conocimientos previos, pueda empezar a tomar las riendas de su economía.",
+     "ko": "그리고 그게 바로 오늘 에피소드의 목표예요. 개인 재무의 신비감을 벗기고, 소득 수준이나 사전 지식과 상관없이 누구나 자기 경제의 고삐를 쥘 수 있도록 실용적인 안내를 드리는 거죠."
+    },
+    {
+     "t": 52.8,
+     "s": "M",
+     "es": "Queremos que te sientas empoderado.",
+     "ko": "여러분이 힘을 얻었다고 느끼셨으면 해요."
+    },
+    {
+     "t": 56.0,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 56.7,
+     "s": "S",
+     "es": "Hoy vamos a cubrir los pilares fundamentales: cómo crear un presupuesto, la importancia del ahorro, cómo manejar las deudas y una introducción muy básica al mundo de la inversión.",
+     "ko": "오늘은 기본 기둥들을 다룰 거예요. 예산을 세우는 법, 저축의 중요성, 빚을 관리하는 법, 그리고 투자 세계에 대한 아주 기초적인 소개예요."
+    },
+    {
+     "t": 70.8,
+     "s": "S",
+     "es": "¿Listos para empezar?",
+     "ko": "시작할 준비 됐나요?"
+    },
+    {
+     "t": 72.5,
+     "s": "M",
+     "es": "Claro que sí.",
+     "ko": "물론이죠."
+    }
+   ]
+  },
+  {
+   "title": "첫 번째 기둥 — 예산은 지도다",
+   "lines": [
+    {
+     "t": 73.6,
+     "s": "M",
+     "es": "Comencemos con el primer pilar, que para mí es el más importante: el presupuesto.",
+     "ko": "저에게 가장 중요한 첫 번째 기둥, 예산부터 시작해요."
+    },
+    {
+     "t": 80.7,
+     "s": "M",
+     "es": "Sofía, muchas personas escuchan la palabra «presupuesto» y piensan en restricciones, en no poder gastar, en algo aburrido.",
+     "ko": "소피아, 많은 사람이 '예산'이라는 말을 들으면 제약, 돈을 못 쓴다는 것, 지루한 무언가를 떠올려요."
+    },
+    {
+     "t": 89.2,
+     "s": "M",
+     "es": "¿Cómo podemos cambiar esa percepción?",
+     "ko": "그 인식을 어떻게 바꿀 수 있을까요?"
+    },
+    {
+     "t": 92.1,
+     "s": "S",
+     "es": "Esa es una excelente pregunta, Mateo.",
+     "ko": "아주 좋은 질문이에요, 마테오."
+    },
+    {
+     "t": 95.1,
+     "s": "S",
+     "es": "Un presupuesto no es una camisa de fuerza, sino más bien un mapa.",
+     "ko": "예산은 구속복이 아니라 오히려 지도예요."
+    },
+    {
+     "t": 100.5,
+     "s": "S",
+     "es": "Es una herramienta que te permite ver dónde va tu dinero cada mes, te da control y te ayuda a tomar decisiones informadas sobre tus gastos.",
+     "ko": "매달 돈이 어디로 가는지 볼 수 있게 해 주고, 통제력을 주며, 지출에 대해 정보에 근거한 결정을 내리도록 도와주는 도구예요."
+    },
+    {
+     "t": 110.5,
+     "s": "S",
+     "es": "En esencia, es simplemente un plan para tu dinero.",
+     "ko": "본질적으로는 그저 내 돈을 위한 계획이에요."
+    },
+    {
+     "t": 114.5,
+     "s": "M",
+     "es": "Me gusta la analogía del mapa.",
+     "ko": "지도 비유가 마음에 들어요."
+    },
+    {
+     "t": 116.8,
+     "s": "M",
+     "es": "Es cierto que, si no sabes dónde estás gastando, es imposible saber dónde puedes ajustar o mejorar.",
+     "ko": "어디에 쓰고 있는지 모르면 어디를 조정하거나 개선할 수 있는지 알 수 없다는 건 맞아요."
+    },
+    {
+     "t": 124.0,
+     "s": "M",
+     "es": "Entonces, ¿cuáles son los primeros pasos para crear un presupuesto efectivo?",
+     "ko": "그럼 효과적인 예산을 만들기 위한 첫걸음은 뭘까요?"
+    },
+    {
+     "t": 129.9,
+     "s": "S",
+     "es": "Lo primero, y quizás lo más importante, es conocer tus ingresos netos.",
+     "ko": "첫째이자 아마 가장 중요한 건 순소득을 아는 거예요."
+    },
+    {
+     "t": 135.9,
+     "s": "S",
+     "es": "Esto es, cuánto dinero entra en tu cuenta bancaria después de impuestos y deducciones.",
+     "ko": "세금과 공제를 뺀 뒤 은행 계좌에 실제로 들어오는 돈이 얼마인지 말이에요."
+    },
+    {
+     "t": 143.0,
+     "s": "S",
+     "es": "Luego, necesitas identificar y categorizar tus gastos.",
+     "ko": "그다음엔 지출을 파악하고 분류해야 해요."
+    },
+    {
+     "t": 147.7,
+     "s": "S",
+     "es": "Puedes dividirlos en gastos fijos y gastos variables.",
+     "ko": "고정비와 변동비로 나눌 수 있어요."
+    },
+    {
+     "t": 152.8,
+     "s": "M",
+     "es": "Ah, sí.",
+     "ko": "아, 그렇죠."
+    },
+    {
+     "t": 153.4,
+     "s": "S",
+     "es": "Los gastos fijos son los que se mantienen más o menos constantes cada mes, como el alquiler o la hipoteca, las facturas de servicios públicos o la cuota del coche.",
+     "ko": "고정비는 월세나 주택담보대출, 공과금, 자동차 할부금처럼 매달 거의 일정하게 유지되는 지출이에요."
+    },
+    {
+     "t": 165.1,
+     "s": "S",
+     "es": "Y los variables son aquellos que pueden cambiar de un mes a otro, como la comida, el entretenimiento, la ropa o el transporte, si no usas transporte público con una cuota fija.",
+     "ko": "그리고 변동비는 식비, 오락, 옷, 교통비처럼 달마다 달라질 수 있는 지출이에요. 정액 대중교통 이용권이 없다면 교통비도 그렇죠."
+    },
+    {
+     "t": 178.5,
+     "s": "S",
+     "es": "Registrar estos gastos puede parecer tedioso al principio, pero es fundamental.",
+     "ko": "이런 지출을 기록하는 게 처음엔 지루해 보일 수 있지만 꼭 필요해요."
+    },
+    {
+     "t": 185.6,
+     "s": "M",
+     "es": "Mm, entiendo.",
+     "ko": "음, 알겠어요."
+    },
+    {
+     "t": 187.0,
+     "s": "M",
+     "es": "¿Y cómo se registra todo esto?",
+     "ko": "그럼 이걸 다 어떻게 기록하죠?"
+    },
+    {
+     "t": 190.0,
+     "s": "M",
+     "es": "¿Hay alguna herramienta o método que recomiendes para nuestros oyentes?",
+     "ko": "청취자분들께 추천할 도구나 방법이 있나요?"
+    },
+    {
+     "t": 195.0,
+     "s": "S",
+     "es": "Hay muchas opciones.",
+     "ko": "선택지가 많아요."
+    },
+    {
+     "t": 196.5,
+     "s": "S",
+     "es": "Puedes usar una simple hoja de cálculo en Excel o Google Sheets, aplicaciones de presupuesto en tu teléfono o incluso el buen método de lápiz y papel.",
+     "ko": "엑셀이나 구글 시트의 간단한 스프레드시트, 휴대폰 예산 앱, 혹은 좋은 옛 방식인 연필과 종이도 쓸 수 있어요."
+    },
+    {
+     "t": 206.8,
+     "s": "S",
+     "es": "Lo importante es elegir el método que te resulte más cómodo y que puedas mantener de forma consistente.",
+     "ko": "중요한 건 가장 편하고 꾸준히 유지할 수 있는 방법을 고르는 거예요."
+    },
+    {
+     "t": 214.4,
+     "s": "S",
+     "es": "La consistencia es clave aquí.",
+     "ko": "여기서는 꾸준함이 핵심이에요."
+    },
+    {
+     "t": 216.7,
+     "s": "M",
+     "es": "La consistencia es, de hecho, clave en todo lo relacionado con las finanzas.",
+     "ko": "사실 꾸준함은 재무와 관련된 모든 일에서 핵심이죠."
+    },
+    {
+     "t": 223.5,
+     "s": "M",
+     "es": "Una vez que tenemos nuestros ingresos y gastos registrados, ¿cuál es el siguiente paso en la creación del presupuesto?",
+     "ko": "소득과 지출을 기록하고 나면 예산 만들기의 다음 단계는 뭔가요?"
+    },
+    {
+     "t": 231.9,
+     "s": "S",
+     "es": "Una vez que tienes una idea clara de tus ingresos y gastos, puedes empezar a ver dónde está el problema, si lo hay.",
+     "ko": "소득과 지출이 명확해지면, 문제가 있다면 어디에 있는지 보이기 시작해요."
+    },
+    {
+     "t": 239.8,
+     "s": "S",
+     "es": "Si tus gastos son mayores que tus ingresos, estás en un déficit y necesitas hacer ajustes.",
+     "ko": "지출이 소득보다 크다면 적자 상태이고 조정이 필요해요."
+    },
+    {
+     "t": 246.7,
+     "s": "S",
+     "es": "Si tus ingresos son mayores, felicidades: tienes un superávit que puedes destinar a tus metas financieras.",
+     "ko": "소득이 더 크다면 축하해요. 재무 목표에 쓸 수 있는 흑자가 있는 거예요."
+    },
+    {
+     "t": 254.9,
+     "s": "M",
+     "es": "Eso tiene mucho sentido.",
+     "ko": "아주 일리가 있네요."
+    },
+    {
+     "t": 256.8,
+     "s": "M",
+     "es": "¿Hay alguna regla general o método popular para asignar el dinero una vez que lo visualizamos?",
+     "ko": "돈을 눈으로 확인한 뒤 배분할 때 쓰는 일반 규칙이나 인기 있는 방법이 있나요?"
+    },
+    {
+     "t": 264.4,
+     "s": "S",
+     "es": "Sí.",
+     "ko": "네."
+    },
+    {
+     "t": 264.8,
+     "s": "S",
+     "es": "Una regla muy popular y sencilla es la regla 50-30-20.",
+     "ko": "아주 인기 있고 간단한 규칙은 50-30-20 규칙이에요."
+    },
+    {
+     "t": 269.9,
+     "s": "S",
+     "es": "Funciona así: el 50 % de tus ingresos netos se destina a tus necesidades: alquiler, comida básica, transporte esencial, servicios.",
+     "ko": "이렇게 돼요. 순소득의 50%는 필수 지출에 써요. 월세, 기본 식비, 필수 교통비, 공과금이요."
+    },
+    {
+     "t": 282.1,
+     "s": "S",
+     "es": "El 30 % se destina a tus deseos: comer fuera, entretenimiento, ropa no esencial, vacaciones.",
+     "ko": "30%는 원하는 것에 써요. 외식, 오락, 필수가 아닌 옷, 휴가요."
+    },
+    {
+     "t": 290.3,
+     "s": "S",
+     "es": "Y el 20 % se destina al ahorro y al pago de deudas.",
+     "ko": "그리고 20%는 저축과 빚 상환에 써요."
+    },
+    {
+     "t": 294.9,
+     "s": "M",
+     "es": "Me encanta esa regla: es fácil de recordar y ofrece una buena estructura sin ser demasiado rígida.",
+     "ko": "그 규칙이 정말 좋아요. 기억하기 쉽고, 너무 경직되지 않으면서 좋은 틀을 주니까요."
+    },
+    {
+     "t": 303.5,
+     "s": "M",
+     "es": "Así que, si mis gastos fijos y esenciales superan el 50 %, eso ya es una señal de que necesito revisar mis necesidades o aumentar mis ingresos.",
+     "ko": "그러니까 내 고정·필수 지출이 50%를 넘으면, 필요한 것들을 점검하거나 소득을 늘려야 한다는 신호겠네요."
+    },
+    {
+     "t": 316.1,
+     "s": "S",
+     "es": "Exactamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 317.3,
+     "s": "S",
+     "es": "Es una guía, no una ley estricta, pero te da un punto de partida excelente para evaluar tus hábitos de gasto.",
+     "ko": "엄격한 법이 아니라 가이드지만, 소비 습관을 평가하는 훌륭한 출발점을 줘요."
+    },
+    {
+     "t": 325.9,
+     "s": "S",
+     "es": "El objetivo final del presupuesto es que te sientas en control de tu dinero, no que el dinero te controle a ti.",
+     "ko": "예산의 최종 목표는 내가 돈을 통제한다고 느끼는 것이지, 돈이 나를 통제하게 하는 게 아니에요."
+    }
+   ]
+  },
+  {
+   "title": "두 번째 기둥 — 저축과 비상금",
+   "lines": [
+    {
+     "t": 334.0,
+     "s": "M",
+     "es": "Eso es muy liberador de escuchar.",
+     "ko": "듣기만 해도 마음이 홀가분해지네요."
+    },
+    {
+     "t": 337.0,
+     "s": "M",
+     "es": "Y creo que, una vez que uno tiene un presupuesto en marcha, el siguiente paso natural es el ahorro, ¿verdad?",
+     "ko": "그리고 예산이 굴러가기 시작하면 다음 자연스러운 단계는 저축이겠죠, 맞죠?"
+    },
+    {
+     "t": 345.1,
+     "s": "M",
+     "es": "¿Por qué es tan importante ahorrar, Sofía?",
+     "ko": "저축이 왜 그렇게 중요한가요, 소피아?"
+    },
+    {
+     "t": 348.5,
+     "s": "S",
+     "es": "El ahorro es vital, Mateo.",
+     "ko": "저축은 필수예요, 마테오."
+    },
+    {
+     "t": 350.9,
+     "s": "S",
+     "es": "Es tu colchón de seguridad, tu pasaporte hacia la libertad financiera y el camino para alcanzar tus metas.",
+     "ko": "안전 쿠션이자 재정적 자유로 가는 여권이고, 목표에 이르는 길이에요."
+    },
+    {
+     "t": 359.6,
+     "s": "S",
+     "es": "Primero, un fondo de emergencia.",
+     "ko": "먼저 비상금이에요."
+    },
+    {
+     "t": 362.2,
+     "s": "S",
+     "es": "Esto es dinero reservado para imprevistos como la pérdida de empleo, una enfermedad o una reparación inesperada del coche.",
+     "ko": "실직, 질병, 예상치 못한 자동차 수리 같은 돌발 상황을 위해 따로 떼어 둔 돈이에요."
+    },
+    {
+     "t": 371.7,
+     "s": "M",
+     "es": "Ah, el fondo de emergencia.",
+     "ko": "아, 비상금."
+    },
+    {
+     "t": 374.0,
+     "s": "M",
+     "es": "He escuchado mucho sobre eso.",
+     "ko": "그 얘긴 많이 들어 봤어요."
+    },
+    {
+     "t": 376.5,
+     "s": "M",
+     "es": "¿Cuánto dinero se recomienda tener en este fondo?",
+     "ko": "이 비상금에 얼마를 두라고 권장하나요?"
+    },
+    {
+     "t": 380.2,
+     "s": "S",
+     "es": "La recomendación general es tener de 3 a 6 meses de tus gastos esenciales cubiertos en tu fondo de emergencia.",
+     "ko": "일반적인 권장은 비상금으로 필수 지출 3~6개월치를 충당할 수 있게 두는 거예요."
+    },
+    {
+     "t": 388.2,
+     "s": "S",
+     "es": "Este dinero debe estar en una cuenta de ahorro de fácil acceso, pero separada de tu cuenta corriente, para que no te tiente gastarlo.",
+     "ko": "이 돈은 쉽게 꺼낼 수 있는 저축 계좌에 두되, 쓰고 싶은 유혹이 들지 않게 입출금 계좌와는 분리해야 해요."
+    },
+    {
+     "t": 396.6,
+     "s": "S",
+     "es": "Nunca lo toques para cosas que no sean una verdadera emergencia.",
+     "ko": "진짜 비상 상황이 아닌 일에는 절대 손대지 마세요."
+    },
+    {
+     "t": 401.6,
+     "s": "M",
+     "es": "Esa es una gran pauta.",
+     "ko": "아주 좋은 지침이네요."
+    },
+    {
+     "t": 403.3,
+     "s": "M",
+     "es": "Me parece que muchas personas no tienen un fondo de emergencia y eso las deja muy vulnerables ante cualquier imprevisto.",
+     "ko": "많은 사람이 비상금이 없고, 그래서 어떤 돌발 상황에도 아주 취약해지는 것 같아요."
+    },
+    {
+     "t": 411.7,
+     "s": "M",
+     "es": "Además del fondo de emergencia, ¿para qué más debemos ahorrar?",
+     "ko": "비상금 말고 또 무엇을 위해 저축해야 할까요?"
+    },
+    {
+     "t": 416.2,
+     "s": "S",
+     "es": "Para todo.",
+     "ko": "전부 다요."
+    },
+    {
+     "t": 417.0,
+     "s": "S",
+     "es": "Para una entrada, para una casa, para la educación de tus hijos, para un coche nuevo, para unas vacaciones de ensueño o incluso para tu jubilación.",
+     "ko": "집 계약금, 집, 자녀 교육, 새 차, 꿈같은 휴가, 심지어 노후를 위해서도요."
+    },
+    {
+     "t": 430.3,
+     "s": "S",
+     "es": "Te permite hacer realidad tus sueños sin tener que recurrir a la deuda.",
+     "ko": "빚에 기대지 않고도 꿈을 현실로 만들 수 있게 해 줘요."
+    },
+    {
+     "t": 436.8,
+     "s": "S",
+     "es": "Te da opciones.",
+     "ko": "선택지를 주는 거죠."
+    },
+    {
+     "t": 438.1,
+     "s": "M",
+     "es": "Me gusta esa idea de ahorrar para tus sueños.",
+     "ko": "꿈을 위해 저축한다는 생각이 마음에 들어요."
+    },
+    {
+     "t": 441.8,
+     "s": "M",
+     "es": "¿Hay alguna estrategia para hacer que el ahorro sea más fácil o automático?",
+     "ko": "저축을 더 쉽게, 혹은 자동으로 만드는 전략이 있나요?"
+    },
+    {
+     "t": 447.3,
+     "s": "S",
+     "es": "Absolutamente.",
+     "ko": "물론이죠."
+    },
+    {
+     "t": 448.8,
+     "s": "S",
+     "es": "La mejor estrategia es automatizar tus ahorros.",
+     "ko": "가장 좋은 전략은 저축을 자동화하는 거예요."
+    },
+    {
+     "t": 453.5,
+     "s": "S",
+     "es": "Configura una transferencia automática desde tu cuenta corriente a tu cuenta de ahorros cada vez que recibas tu salario.",
+     "ko": "월급을 받을 때마다 입출금 계좌에서 저축 계좌로 자동이체를 설정하세요."
+    },
+    {
+     "t": 461.4,
+     "s": "S",
+     "es": "Así, el dinero se va antes de que tengas la oportunidad de gastarlo.",
+     "ko": "그러면 쓸 기회가 생기기 전에 돈이 빠져나가요."
+    },
+    {
+     "t": 466.1,
+     "s": "S",
+     "es": "Es como pagarte a ti mismo primero.",
+     "ko": "나 자신에게 먼저 지급하는 셈이에요."
+    },
+    {
+     "t": 468.8,
+     "s": "M",
+     "es": "«Págate a ti mismo primero».",
+     "ko": "'나 자신에게 먼저 지급하라.'"
+    },
+    {
+     "t": 471.6,
+     "s": "M",
+     "es": "Esa es una frase muy poderosa.",
+     "ko": "아주 강력한 말이네요."
+    },
+    {
+     "t": 474.6,
+     "s": "M",
+     "es": "Así que, en lugar de esperar a ver cuánto me sobra al final del mes, primero aparto mi porcentaje de ahorro y luego me adapto al resto.",
+     "ko": "그러니까 월말에 얼마나 남는지 기다리는 대신, 먼저 저축 비율을 떼어 놓고 나머지에 맞춰 사는 거군요."
+    },
+    {
+     "t": 483.8,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 484.5,
+     "s": "S",
+     "es": "Y te sorprenderá lo rápido que se acostumbra uno a vivir con un poco menos cuando sabe que está construyendo un futuro financiero sólido.",
+     "ko": "그리고 탄탄한 재정적 미래를 쌓고 있다는 걸 알면 조금 덜 쓰고 사는 데 얼마나 빨리 익숙해지는지 놀랄 거예요."
+    },
+    {
+     "t": 493.9,
+     "s": "S",
+     "es": "Empieza con una cantidad pequeña si es necesario, pero sé constante.",
+     "ko": "필요하면 적은 금액으로 시작하되 꾸준하세요."
+    },
+    {
+     "t": 499.3,
+     "s": "S",
+     "es": "Lo importante es el hábito.",
+     "ko": "중요한 건 습관이에요."
+    },
+    {
+     "t": 501.6,
+     "s": "M",
+     "es": "El hábito y la disciplina.",
+     "ko": "습관과 절제죠."
+    }
+   ]
+  },
+  {
+   "title": "세 번째 기둥 — 좋은 빚과 나쁜 빚",
+   "lines": [
+    {
+     "t": 503.9,
+     "s": "M",
+     "es": "Y, hablando de disciplina, eso nos lleva a nuestro tercer pilar: el manejo de la deuda.",
+     "ko": "그리고 절제 얘기가 나왔으니, 세 번째 기둥인 빚 관리로 넘어가요."
+    },
+    {
+     "t": 511.8,
+     "s": "M",
+     "es": "La deuda puede ser un gran obstáculo para la libertad financiera.",
+     "ko": "빚은 재정적 자유에 큰 걸림돌이 될 수 있어요."
+    },
+    {
+     "t": 516.9,
+     "s": "M",
+     "es": "¿Qué debemos saber sobre ella?",
+     "ko": "빚에 대해 무엇을 알아야 할까요?"
+    },
+    {
+     "t": 519.3,
+     "s": "S",
+     "es": "La deuda es un tema delicado, Mateo.",
+     "ko": "빚은 민감한 주제예요, 마테오."
+    },
+    {
+     "t": 522.1,
+     "s": "S",
+     "es": "Puede ser una herramienta útil o una trampa muy peligrosa.",
+     "ko": "유용한 도구가 될 수도, 아주 위험한 함정이 될 수도 있어요."
+    },
+    {
+     "t": 526.9,
+     "s": "S",
+     "es": "Es importante distinguir entre deuda buena y deuda mala.",
+     "ko": "좋은 빚과 나쁜 빚을 구분하는 게 중요해요."
+    },
+    {
+     "t": 532.4,
+     "s": "M",
+     "es": "Interesante.",
+     "ko": "흥미롭네요."
+    },
+    {
+     "t": 533.6,
+     "s": "M",
+     "es": "¿Podrías explicarnos la diferencia entre deuda buena y deuda mala?",
+     "ko": "좋은 빚과 나쁜 빚의 차이를 설명해 주실 수 있나요?"
+    },
+    {
+     "t": 539.4,
+     "s": "S",
+     "es": "Claro.",
+     "ko": "물론이죠."
+    },
+    {
+     "t": 540.0,
+     "s": "S",
+     "es": "La deuda buena es aquella que te ayuda a adquirir un activo que se aprecia en valor, o que genera ingresos, o que te permite invertir en ti mismo.",
+     "ko": "좋은 빚은 가치가 오르는 자산을 얻게 해 주거나, 수입을 만들어 내거나, 나 자신에게 투자할 수 있게 해 주는 빚이에요."
+    },
+    {
+     "t": 551.5,
+     "s": "S",
+     "es": "Un préstamo hipotecario para una casa que generalmente aumenta de valor con el tiempo, o un préstamo estudiantil para una educación que mejorará tus ingresos futuros, son ejemplos de deuda buena.",
+     "ko": "보통 시간이 지나며 값이 오르는 집을 위한 주택담보대출이나, 미래 소득을 높여 줄 교육을 위한 학자금 대출이 좋은 빚의 예예요."
+    },
+    {
+     "t": 565.9,
+     "s": "M",
+     "es": "Ya veo.",
+     "ko": "그렇군요."
+    },
+    {
+     "t": 566.6,
+     "s": "M",
+     "es": "Entonces, la deuda buena es una inversión en tu futuro que te ayuda a construir riqueza.",
+     "ko": "그러니까 좋은 빚은 부를 쌓도록 돕는 미래에 대한 투자군요."
+    },
+    {
+     "t": 573.8,
+     "s": "M",
+     "es": "¿Y la deuda mala?",
+     "ko": "그럼 나쁜 빚은요?"
+    },
+    {
+     "t": 575.2,
+     "s": "S",
+     "es": "La deuda mala, por otro lado, es aquella que adquieres para comprar cosas que pierden valor rápidamente o que no generan ningún ingreso, y que además suele tener tasas de interés muy altas.",
+     "ko": "나쁜 빚은 반대로 빨리 가치가 떨어지거나 수입을 전혀 만들지 못하는 물건을 사려고 지는 빚이고, 게다가 보통 이자율이 아주 높아요."
+    },
+    {
+     "t": 588.5,
+     "s": "S",
+     "es": "La deuda de tarjetas de crédito para compras de consumo, o préstamos personales de alto interés para pagar vacaciones o artículos de lujo, son claros ejemplos de deuda mala.",
+     "ko": "소비성 구매를 위한 신용카드 빚이나 휴가·명품 비용을 대려는 고금리 개인 대출이 분명한 나쁜 빚의 예예요."
+    },
+    {
+     "t": 600.0,
+     "s": "M",
+     "es": "Entiendo.",
+     "ko": "이해해요."
+    },
+    {
+     "t": 600.8,
+     "s": "M",
+     "es": "Las tarjetas de crédito, en particular, pueden ser muy traicioneras con sus altas tasas de interés.",
+     "ko": "특히 신용카드는 높은 이자율 때문에 아주 배신적일 수 있어요."
+    },
+    {
+     "t": 607.9,
+     "s": "M",
+     "es": "¿Cuáles son las estrategias para salir de la deuda mala?",
+     "ko": "나쁜 빚에서 벗어나는 전략에는 어떤 것들이 있나요?"
+    },
+    {
+     "t": 611.7,
+     "s": "S",
+     "es": "Hay dos métodos principales que la gente usa para pagar la deuda mala.",
+     "ko": "사람들이 나쁜 빚을 갚을 때 쓰는 주된 방법은 두 가지예요."
+    },
+    {
+     "t": 616.5,
+     "s": "S",
+     "es": "Uno es el método bola de nieve y el otro es el método avalancha.",
+     "ko": "하나는 눈덩이 방식이고 다른 하나는 눈사태 방식이에요."
+    },
+    {
+     "t": 622.0,
+     "s": "S",
+     "es": "Ambos son efectivos, pero funcionan de manera diferente.",
+     "ko": "둘 다 효과적이지만 작동 방식이 달라요."
+    },
+    {
+     "t": 626.5,
+     "s": "M",
+     "es": "Explícanoslos, por favor.",
+     "ko": "설명해 주세요."
+    },
+    {
+     "t": 628.4,
+     "s": "M",
+     "es": "Son términos que he oído, pero no los tengo del todo claros.",
+     "ko": "들어 본 용어이긴 한데 완전히 명확하진 않아요."
+    },
+    {
+     "t": 632.8,
+     "s": "S",
+     "es": "El método bola de nieve consiste en listar todas tus deudas de la más pequeña a la más grande.",
+     "ko": "눈덩이 방식은 모든 빚을 가장 작은 것부터 큰 것 순으로 나열하는 거예요."
+    },
+    {
+     "t": 640.0,
+     "s": "S",
+     "es": "Haces los pagos mínimos en todas, excepto en la más pequeña, a la que le dedicas todo el dinero extra que puedas.",
+     "ko": "가장 작은 것을 뺀 모든 빚엔 최소 금액만 내고, 가장 작은 빚에 낼 수 있는 여윳돈을 전부 쏟아요."
+    },
+    {
+     "t": 648.0,
+     "s": "S",
+     "es": "Una vez que la pagas, tomas ese dinero que antes destinabas a esa deuda y lo sumas al pago de la siguiente deuda más pequeña.",
+     "ko": "그걸 다 갚고 나면, 전에 그 빚에 쓰던 돈을 다음으로 작은 빚의 상환액에 더해요."
+    },
+    {
+     "t": 656.3,
+     "s": "S",
+     "es": "La idea es que las pequeñas victorias te motivan a seguir adelante.",
+     "ko": "작은 승리가 계속 나아갈 동기를 준다는 아이디어예요."
+    },
+    {
+     "t": 662.4,
+     "s": "M",
+     "es": "Ah, la motivación psicológica: es como ir quitando obstáculos pequeños para ganar impulso.",
+     "ko": "아, 심리적 동기부여군요. 작은 장애물을 하나씩 치우며 추진력을 얻는 거네요."
+    },
+    {
+     "t": 670.2,
+     "s": "M",
+     "es": "¿Y el método avalancha?",
+     "ko": "그럼 눈사태 방식은요?"
+    },
+    {
+     "t": 672.1,
+     "s": "S",
+     "es": "El método avalancha es más matemático.",
+     "ko": "눈사태 방식은 더 수학적이에요."
+    },
+    {
+     "t": 675.4,
+     "s": "S",
+     "es": "Ordenas tus deudas por tasa de interés, de la más alta a la más baja.",
+     "ko": "빚을 이자율 순으로, 가장 높은 것부터 낮은 것까지 정렬해요."
+    },
+    {
+     "t": 681.4,
+     "s": "S",
+     "es": "Pagas los mínimos en todas, excepto en la que tiene la tasa de interés más alta, a la que le dedicas todo el dinero extra.",
+     "ko": "이자율이 가장 높은 것을 뺀 모든 빚엔 최소 금액만 내고, 그 빚에 여윳돈을 전부 쏟아요."
+    },
+    {
+     "t": 690.9,
+     "s": "S",
+     "es": "Una vez que la pagas, pasas a la siguiente con la tasa más alta.",
+     "ko": "그걸 갚고 나면 이자율이 그다음으로 높은 빚으로 넘어가요."
+    },
+    {
+     "t": 696.1,
+     "s": "S",
+     "es": "Este método te ahorra más dinero en intereses a largo plazo.",
+     "ko": "이 방법은 장기적으로 이자를 더 많이 아껴 줘요."
+    },
+    {
+     "t": 701.1,
+     "s": "M",
+     "es": "Ambas suenan muy lógicas.",
+     "ko": "둘 다 아주 논리적으로 들려요."
+    },
+    {
+     "t": 703.2,
+     "s": "M",
+     "es": "La elección dependerá de si uno necesita más motivación rápida —bola de nieve— o si prefiere ahorrar más dinero a largo plazo —avalancha—.",
+     "ko": "선택은 빠른 동기부여가 더 필요한지(눈덩이), 아니면 장기적으로 돈을 더 아끼고 싶은지(눈사태)에 달렸겠네요."
+    },
+    {
+     "t": 713.3,
+     "s": "M",
+     "es": "¿Algún consejo adicional para evitar caer de nuevo en deudas?",
+     "ko": "다시 빚에 빠지지 않기 위한 추가 조언이 있나요?"
+    },
+    {
+     "t": 718.5,
+     "s": "S",
+     "es": "Sí, por supuesto.",
+     "ko": "네, 물론이죠."
+    },
+    {
+     "t": 720.0,
+     "s": "S",
+     "es": "Primero, crea y sigue tu presupuesto para evitar gastar más de lo que tienes.",
+     "ko": "첫째, 가진 것보다 더 쓰지 않도록 예산을 만들고 지키세요."
+    },
+    {
+     "t": 726.7,
+     "s": "S",
+     "es": "Segundo, construye tu fondo de emergencia para no tener que usar tarjetas de crédito ante imprevistos.",
+     "ko": "둘째, 돌발 상황에 신용카드를 쓰지 않아도 되도록 비상금을 쌓으세요."
+    },
+    {
+     "t": 733.5,
+     "s": "S",
+     "es": "Y tercero, sé consciente de tus hábitos de gasto y evita las compras impulsivas.",
+     "ko": "셋째, 소비 습관을 의식하고 충동구매를 피하세요."
+    },
+    {
+     "t": 739.6,
+     "s": "S",
+     "es": "Pregúntate siempre si realmente necesitas algo antes de comprarlo.",
+     "ko": "사기 전에 정말 필요한지 항상 스스로에게 물어보세요."
+    },
+    {
+     "t": 744.8,
+     "s": "M",
+     "es": "Esos son consejos muy sólidos.",
+     "ko": "아주 탄탄한 조언이네요."
+    },
+    {
+     "t": 747.1,
+     "s": "M",
+     "es": "La deuda puede ser un lastre enorme, y manejarla adecuadamente es un paso gigante hacia la libertad financiera.",
+     "ko": "빚은 엄청난 짐이 될 수 있고, 이를 제대로 관리하는 건 재정적 자유로 가는 거대한 한 걸음이에요."
+    }
+   ]
+  },
+  {
+   "title": "네 번째 기둥 — 투자의 기초",
+   "lines": [
+    {
+     "t": 755.4,
+     "s": "M",
+     "es": "Ahora pasemos a un tema que a muchos les parece un poco más intimidante, pero que es crucial para el crecimiento de nuestro dinero: la inversión.",
+     "ko": "이제 많은 사람에게 조금 더 부담스럽게 느껴지지만 돈이 불어나는 데 꼭 필요한 주제, 투자로 넘어가요."
+    },
+    {
+     "t": 765.3,
+     "s": "S",
+     "es": "Ah, la inversión parece un campo solo para expertos, pero no tiene por qué ser así.",
+     "ko": "아, 투자는 전문가만의 분야처럼 보이지만 꼭 그럴 필요는 없어요."
+    },
+    {
+     "t": 772.2,
+     "s": "S",
+     "es": "La inversión, en su forma más simple, es poner tu dinero a trabajar para ti con la esperanza de que crezca con el tiempo.",
+     "ko": "투자는 가장 단순하게 말해 시간이 지나며 불어나길 바라면서 내 돈을 나를 위해 일하게 만드는 거예요."
+    },
+    {
+     "t": 780.6,
+     "s": "S",
+     "es": "A diferencia del ahorro, que guarda tu dinero, la inversión busca multiplicarlo.",
+     "ko": "돈을 보관하는 저축과 달리, 투자는 돈을 불리려 해요."
+    },
+    {
+     "t": 786.7,
+     "s": "M",
+     "es": "¿Y por qué es importante invertir?",
+     "ko": "그런데 왜 투자가 중요한가요?"
+    },
+    {
+     "t": 789.6,
+     "s": "M",
+     "es": "¿No es suficiente con ahorrar?",
+     "ko": "저축하는 것만으로는 충분하지 않나요?"
+    },
+    {
+     "t": 792.2,
+     "s": "S",
+     "es": "Ahorrar es fundamental para tu seguridad y para metas a corto plazo, pero la inversión es crucial para metas a largo plazo, como la jubilación o para construir una riqueza significativa.",
+     "ko": "저축은 안전과 단기 목표에 필수지만, 투자는 노후나 의미 있는 부를 쌓는 장기 목표에 결정적이에요."
+    },
+    {
+     "t": 807.6,
+     "s": "S",
+     "es": "La razón principal es la inflación.",
+     "ko": "주된 이유는 인플레이션이에요."
+    },
+    {
+     "t": 810.6,
+     "s": "S",
+     "es": "La inflación es el aumento general de los precios y la consiguiente pérdida de poder adquisitivo de la moneda.",
+     "ko": "인플레이션은 물가의 전반적인 상승과, 그에 따른 화폐 구매력의 손실이에요."
+    },
+    {
+     "t": 819.9,
+     "s": "M",
+     "es": "Ah, la inflación significa que el dinero que tengo hoy valdrá menos en el futuro.",
+     "ko": "아, 인플레이션은 오늘 내가 가진 돈이 미래에는 가치가 더 떨어진다는 뜻이군요."
+    },
+    {
+     "t": 826.3,
+     "s": "M",
+     "es": "Entonces, si solo ahorro, mi dinero está perdiendo valor.",
+     "ko": "그러니까 저축만 하면 내 돈은 가치를 잃고 있는 거네요."
+    },
+    {
+     "t": 830.6,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 831.2,
+     "s": "S",
+     "es": "Si tu dinero está simplemente sentado en una cuenta de ahorro tradicional con intereses muy bajos, la inflación se está comiendo su valor.",
+     "ko": "돈이 이자가 아주 낮은 전통적인 저축 계좌에 그냥 앉아 있다면, 인플레이션이 그 가치를 갉아먹고 있어요."
+    },
+    {
+     "t": 842.4,
+     "s": "S",
+     "es": "La inversión te permite que tu dinero crezca a una tasa superior a la inflación, manteniendo e incluso aumentando tu poder adquisitivo.",
+     "ko": "투자하면 돈이 인플레이션보다 높은 비율로 불어나, 구매력을 유지하거나 오히려 높일 수 있어요."
+    },
+    {
+     "t": 852.5,
+     "s": "M",
+     "es": "Eso lo hace mucho más claro.",
+     "ko": "훨씬 명확해지네요."
+    },
+    {
+     "t": 855.3,
+     "s": "M",
+     "es": "Pero ¿no es arriesgado invertir?",
+     "ko": "그런데 투자는 위험하지 않나요?"
+    },
+    {
+     "t": 858.5,
+     "s": "M",
+     "es": "Mucha gente tiene miedo de perder su dinero.",
+     "ko": "많은 사람이 돈을 잃을까 봐 두려워해요."
+    },
+    {
+     "t": 862.4,
+     "s": "S",
+     "es": "Esa es una preocupación válida, Mateo.",
+     "ko": "타당한 걱정이에요, 마테오."
+    },
+    {
+     "t": 865.5,
+     "s": "S",
+     "es": "Toda inversión conlleva un riesgo, pero el nivel de riesgo varía mucho.",
+     "ko": "모든 투자엔 위험이 따르지만 위험의 수준은 크게 달라요."
+    },
+    {
+     "t": 871.5,
+     "s": "S",
+     "es": "La clave es entender tu tolerancia al riesgo y diversificar.",
+     "ko": "핵심은 나의 위험 감수 성향을 이해하고 분산하는 거예요."
+    },
+    {
+     "t": 877.0,
+     "s": "S",
+     "es": "Diversificar significa no poner todos tus huevos en la misma canasta.",
+     "ko": "분산한다는 건 계란을 전부 한 바구니에 담지 않는다는 뜻이에요."
+    },
+    {
+     "t": 882.7,
+     "s": "M",
+     "es": "Diversificar.",
+     "ko": "분산 투자."
+    },
+    {
+     "t": 883.8,
+     "s": "M",
+     "es": "¿Puedes darnos algunos ejemplos de cómo uno puede empezar a invertir sin ser un experto y sin tomar riesgos excesivos?",
+     "ko": "전문가가 아니어도, 과도한 위험을 지지 않고 투자를 시작하는 예를 몇 가지 들어 줄 수 있나요?"
+    },
+    {
+     "t": 892.6,
+     "s": "S",
+     "es": "Claro.",
+     "ko": "물론이죠."
+    },
+    {
+     "t": 893.2,
+     "s": "S",
+     "es": "Para principiantes hay opciones como los fondos de inversión, los ETF —fondos cotizados en bolsa— o incluso los fondos de pensiones.",
+     "ko": "초보자에게는 투자 펀드, ETF(상장지수펀드), 심지어 연금 펀드 같은 선택지가 있어요."
+    },
+    {
+     "t": 903.8,
+     "s": "S",
+     "es": "Estos vehículos invierten en una gran variedad de activos —acciones, bonos, bienes raíces, etcétera—, lo que reduce el riesgo individual.",
+     "ko": "이런 상품은 주식, 채권, 부동산 등 매우 다양한 자산에 투자해서 개별 위험을 줄여 줘요."
+    },
+    {
+     "t": 914.4,
+     "s": "S",
+     "es": "Es como comprar una pequeña parte de muchas empresas diferentes en lugar de una sola.",
+     "ko": "한 회사가 아니라 여러 다른 회사의 작은 지분을 사는 것과 같아요."
+    },
+    {
+     "t": 920.6,
+     "s": "M",
+     "es": "Ah, eso suena mucho menos intimidante.",
+     "ko": "아, 훨씬 덜 부담스럽게 들리네요."
+    },
+    {
+     "t": 923.8,
+     "s": "M",
+     "es": "¿Y qué hay de la cantidad?",
+     "ko": "그럼 금액은요?"
+    },
+    {
+     "t": 926.0,
+     "s": "M",
+     "es": "¿Se necesita mucho dinero para empezar a invertir?",
+     "ko": "투자를 시작하려면 돈이 많이 필요한가요?"
+    },
+    {
+     "t": 930.1,
+     "s": "S",
+     "es": "Para nada.",
+     "ko": "전혀요."
+    },
+    {
+     "t": 930.9,
+     "s": "S",
+     "es": "Hoy en día muchas plataformas permiten empezar a invertir con cantidades muy pequeñas, incluso desde 10 o 50 euros al mes.",
+     "ko": "요즘은 많은 플랫폼에서 아주 적은 금액, 심지어 한 달에 10유로나 50유로부터 투자를 시작할 수 있어요."
+    },
+    {
+     "t": 941.0,
+     "s": "S",
+     "es": "Lo importante no es la cantidad inicial, sino la constancia y el tiempo.",
+     "ko": "중요한 건 처음 금액이 아니라 꾸준함과 시간이에요."
+    },
+    {
+     "t": 947.3,
+     "s": "S",
+     "es": "Gracias al interés compuesto, el dinero que inviertes y los rendimientos que genera vuelven a generar más rendimientos, y así sucesivamente.",
+     "ko": "복리 덕분에 투자한 돈과 그 수익이 다시 더 많은 수익을 만들고, 그렇게 계속 이어져요."
+    },
+    {
+     "t": 958.5,
+     "s": "S",
+     "es": "Es como una bola de nieve, pero de dinero.",
+     "ko": "돈으로 된 눈덩이 같아요."
+    },
+    {
+     "t": 962.4,
+     "s": "M",
+     "es": "El interés compuesto es realmente poderoso.",
+     "ko": "복리는 정말 강력해요."
+    },
+    {
+     "t": 966.6,
+     "s": "M",
+     "es": "Es como una magia financiera que hace que tu dinero trabaje más y más por sí mismo.",
+     "ko": "돈이 스스로 점점 더 많이 일하게 만드는 금융의 마법 같아요."
+    },
+    {
+     "t": 973.5,
+     "s": "M",
+     "es": "Así que, incluso con pequeñas cantidades, si uno es constante y tiene paciencia, puede ver crecer su dinero significativamente a largo plazo.",
+     "ko": "그러니 적은 금액이라도 꾸준하고 참을성이 있으면 장기적으로 돈이 상당히 불어나는 걸 볼 수 있겠네요."
+    },
+    {
+     "t": 983.5,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 984.2,
+     "s": "S",
+     "es": "La paciencia es una virtud clave en la inversión.",
+     "ko": "참을성은 투자에서 핵심 미덕이에요."
+    },
+    {
+     "t": 988.5,
+     "s": "S",
+     "es": "No intentes hacerte rico de la noche a la mañana.",
+     "ko": "하룻밤 사이에 부자가 되려 하지 마세요."
+    },
+    {
+     "t": 992.7,
+     "s": "S",
+     "es": "La inversión a largo plazo, con una estrategia diversificada y adaptada a tu perfil de riesgo, es la clave para construir riqueza.",
+     "ko": "분산되고 나의 위험 성향에 맞춘 전략으로 하는 장기 투자가 부를 쌓는 열쇠예요."
+    },
+    {
+     "t": 1002.9,
+     "s": "M",
+     "es": "Entonces, para resumir la inversión para nuestros oyentes B1: entender la importancia de combatir la inflación, empezar con opciones diversificadas y de bajo costo, como fondos, y ser constante y paciente suena mucho más manejable de lo que pensaba al principio.",
+     "ko": "그럼 B1 청취자분들을 위해 투자를 요약하면, 인플레이션과 싸우는 것의 중요성을 이해하고, 펀드 같은 분산되고 비용이 낮은 선택지로 시작하며, 꾸준하고 참을성 있게 하는 것이 처음 생각보다 훨씬 해 볼 만하게 들려요."
+    },
+    {
+     "t": 1022.5,
+     "s": "S",
+     "es": "Ese es el objetivo.",
+     "ko": "그게 목표예요."
+    },
+    {
+     "t": 1023.8,
+     "s": "S",
+     "es": "Queremos que nuestros oyentes se sientan cómodos para dar esos primeros pasos.",
+     "ko": "청취자분들이 편안한 마음으로 첫걸음을 떼도록 하고 싶어요."
+    }
+   ]
+  },
+  {
+   "title": "정리 — 네 기둥은 서로 연결되어 있다",
+   "lines": [
+    {
+     "t": 1030.3,
+     "s": "S",
+     "es": "Y estos cuatro pilares —presupuesto, ahorro, manejo de deudas e inversión— no son islas separadas, sino que están interconectados y se refuerzan mutuamente.",
+     "ko": "그리고 이 네 기둥, 즉 예산, 저축, 빚 관리, 투자는 따로 떨어진 섬이 아니라 서로 연결되어 서로를 강화해 줘요."
+    },
+    {
+     "t": 1043.5,
+     "s": "S",
+     "es": "Son como los cimientos de una casa financiera sólida.",
+     "ko": "탄탄한 재정의 집을 떠받치는 기초와 같아요."
+    },
+    {
+     "t": 1048.4,
+     "s": "S",
+     "es": "Si uno falla, la estructura completa puede verse comprometida.",
+     "ko": "하나가 무너지면 구조 전체가 위태로워질 수 있어요."
+    },
+    {
+     "t": 1053.9,
+     "s": "M",
+     "es": "Es un viaje, no un destino.",
+     "ko": "이건 목적지가 아니라 여정이에요."
+    },
+    {
+     "t": 1056.3,
+     "s": "M",
+     "es": "Empezar hoy, incluso con pequeños cambios, es lo más importante.",
+     "ko": "작은 변화로라도 오늘 시작하는 게 가장 중요해요."
+    },
+    {
+     "t": 1061.7,
+     "s": "S",
+     "es": "Totalmente de acuerdo.",
+     "ko": "전적으로 동의해요."
+    },
+    {
+     "t": 1063.5,
+     "s": "S",
+     "es": "Y para aquellos que se sienten un poco abrumados con tanta información, recuerden que no tienen que hacerlo todo a la vez.",
+     "ko": "그리고 정보가 너무 많아 조금 압도된다고 느끼는 분들은, 한꺼번에 다 할 필요는 없다는 걸 기억하세요."
+    },
+    {
+     "t": 1071.7,
+     "s": "S",
+     "es": "Empiecen con el presupuesto.",
+     "ko": "예산부터 시작하세요."
+    },
+    {
+     "t": 1074.1,
+     "s": "S",
+     "es": "Una vez que lo dominen, pasen al ahorro.",
+     "ko": "익숙해지면 저축으로 넘어가세요."
+    },
+    {
+     "t": 1077.5,
+     "s": "S",
+     "es": "Luego aborden las deudas y, finalmente, la inversión.",
+     "ko": "그다음 빚을 다루고, 마지막으로 투자를 하세요."
+    },
+    {
+     "t": 1082.2,
+     "s": "S",
+     "es": "Un paso a la vez.",
+     "ko": "한 번에 한 걸음씩."
+    },
+    {
+     "t": 1083.9,
+     "s": "M",
+     "es": "Y no tengan miedo de buscar más información o ayuda si la necesitan.",
+     "ko": "그리고 필요하면 더 많은 정보나 도움을 찾는 걸 두려워하지 마세요."
+    },
+    {
+     "t": 1090.1,
+     "s": "M",
+     "es": "Hay muchos recursos en línea, libros y asesores financieros que pueden guiarte.",
+     "ko": "온라인 자료, 책, 재무 상담사처럼 안내해 줄 수 있는 것이 많아요."
+    },
+    {
+     "t": 1096.8,
+     "s": "M",
+     "es": "La educación financiera es una inversión en ti mismo que siempre vale la pena.",
+     "ko": "금융 교육은 언제나 가치 있는 나 자신에 대한 투자예요."
+    },
+    {
+     "t": 1102.6,
+     "s": "S",
+     "es": "No podría haberlo dicho mejor, Mateo.",
+     "ko": "그보다 더 잘 말할 수는 없었을 거예요, 마테오."
+    },
+    {
+     "t": 1105.5,
+     "s": "S",
+     "es": "La información es poder, especialmente cuando se trata de tus finanzas.",
+     "ko": "정보는 힘이에요, 특히 재무에 관해서라면요."
+    },
+    {
+     "t": 1111.2,
+     "s": "S",
+     "es": "Esperamos que este episodio de Finanzas Claras haya sido una luz en el camino para muchos de nuestros oyentes.",
+     "ko": "이번 피난사스 클라라스 에피소드가 많은 청취자분들의 길에 빛이 되었기를 바라요."
+    },
+    {
+     "t": 1119.1,
+     "s": "M",
+     "es": "Eso esperamos de verdad.",
+     "ko": "정말 그러길 바라요."
+    },
+    {
+     "t": 1121.2,
+     "s": "M",
+     "es": "Muchas gracias, Sofía, por compartir tu conocimiento y hacer que un tema tan importante sea tan accesible.",
+     "ko": "소피아, 지식을 나눠 주고 이렇게 중요한 주제를 이렇게 쉽게 만들어 줘서 정말 고마워요."
+    },
+    {
+     "t": 1129.0,
+     "s": "M",
+     "es": "Y a todos ustedes, nuestros queridos oyentes, gracias por acompañarnos en este viaje hacia una mejor comprensión de sus finanzas personales.",
+     "ko": "그리고 사랑하는 청취자 여러분, 개인 재무를 더 잘 이해하기 위한 이 여정에 함께해 주셔서 감사해요."
+    },
+    {
+     "t": 1138.9,
+     "s": "S",
+     "es": "Gracias a ti, Mateo, por la excelente conversación, y a todos.",
+     "ko": "훌륭한 대화를 나눠 줘서 고마워요, 마테오, 그리고 여러분 모두에게도요."
+    },
+    {
+     "t": 1143.8,
+     "s": "S",
+     "es": "Nos vemos en el próximo episodio de Finanzas Claras.",
+     "ko": "다음 피난사스 클라라스 에피소드에서 만나요."
+    },
+    {
+     "t": 1147.9,
+     "s": "S",
+     "es": "Empiecen hoy a construir su futuro financiero.",
+     "ko": "오늘부터 여러분의 재정적 미래를 쌓기 시작하세요."
+    },
+    {
+     "t": 1151.0,
+     "s": "M",
+     "es": "Así es, hasta la próxima, y que sus finanzas sean claras y prósperas.",
+     "ko": "맞아요, 다음에 또 만나요. 여러분의 재정이 맑고 풍요롭기를 바랍니다."
+    }
+   ]
+  }
+ ]
+}
