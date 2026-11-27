@@ -71,6 +71,19 @@
       { k: "ebs", em: "📺", t: "EBS 방송 회화", d: "EBS 생활 스페인어 · 입에서 톡 스페인어", m: l => /EBS/.test(l.channel || "") },
       { k: "book", em: "📚", t: "교재 오디오", d: "어휘·문법 교재와 단어장의 음성", m: () => true },
     ],
+    ja: [
+      { k: "jdp", em: "🎙️", t: "Japanese Daily Podcast", d: "유튜브 · 하루키와 유이의 日本語デイリーポッドキャスト", m: l => /Japanese Daily Podcast|日本語デイリー/.test(l.channel || "") },
+      { k: "bite", em: "🍙", t: "Bite Size Japanese", d: "유튜브 · 레이라의 중급 일본어 혼잣말 팟캐스트", m: l => l.channel === "Bite Size Japanese" },
+      { k: "yt", em: "▶️", t: "다른 유튜브 영상", d: "그 밖의 유튜브 채널", m: l => !!l.youtube },
+      { k: "deep", em: "🎧", t: "딥다이브 오디오", d: "두 진행자가 한 주제를 깊이 파고드는 일본어 오디오 · 토론", m: l => /deep dive|딥다이브/i.test(l.channel || "") },
+      { k: "etc", em: "📖", t: "동화·토크 오디오", d: "어린 왕자 일본어판, 주말 토크 등 직접 만든 음성", m: () => true },
+    ],
+    zh: [
+      { k: "cdp", em: "🎙️", t: "Chinese Daily Podcast", d: "유튜브 · 매일 하나씩 올리는 중국어 팟캐스트", m: l => l.channel === "Chinese Daily Podcast" },
+      { k: "yt", em: "▶️", t: "다른 유튜브 영상", d: "그 밖의 유튜브 채널", m: l => !!l.youtube },
+      { k: "deep", em: "🎧", t: "딥다이브 오디오", d: "두 진행자가 한 주제를 깊이 파고드는 중국어 오디오", m: l => /deep dive|딥다이브/i.test(l.channel || "") },
+      { k: "etc", em: "📖", t: "동화 오디오", d: "어린 왕자 중국어판 등 직접 만든 음성", m: () => true },
+    ],
   };
 
   // ---------- 언어별 전체 목록 ----------
