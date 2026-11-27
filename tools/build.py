@@ -405,5 +405,6 @@ def build_vocab(index):
         print(f"✓ vocab/{lang}.json: 단어 {len(lst)}개")
 
 
+FORCE.update({"这倒是": "zhè dào shì", "舒舒服服地": "shū shū fú fú de"})  # 2026-11-27 zh
 if __name__ == "__main__":
     main()
