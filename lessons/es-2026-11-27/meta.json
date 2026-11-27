@@ -1,0 +1,668 @@
+{
+ "lang": "es",
+ "date": "2026-11-27",
+ "title": "기억력을 높이는 법 — 수면·영양·운동과 기억술",
+ "es": "La memoria no es algo fijo.",
+ "emoji": "🧠",
+ "level": "B1",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "How to Improve Your Memory ? (B1) | Learn español with Podcast | episode 69 | Easy Spanish",
+ "youtube": "llZxFAf_XKc",
+ "duration": "22:52",
+ "speakers": {
+  "S": "Sofía",
+  "M": "Mateo"
+ },
+ "hideCast": true,
+ "summary": "소피아와 마테오가 기억력을 높이는 방법을 두 부분으로 나눠 이야기해요. 먼저 수면·영양·운동·스트레스 관리라는 생활 습관 네 기둥, 그다음 주의 집중, 정교화, 기억술(두문자어·시각화·기억의 궁전), 능동적 인출과 간격 반복, 청킹. 사람 이름 외우기와 외국어 공부에 적용하는 법, 두뇌 훈련 게임에 대한 오해까지 다뤄요. 명령형과 'cuanto más…' 구문을 듣고 따라 말하기 좋은 B1 강의예요.",
+ "topics": [
+  "생활 습관: el sueño · la nutrición · el ejercicio · el estrés",
+  "주의와 정교화: prestar atención · conectar la información nueva",
+  "기억술: acrónimos · visualización · palacio de la memoria",
+  "능동적 인출과 간격 반복: la curva del olvido",
+  "청킹과 실생활 적용: 이름 기억 · 외국어 학습 · 두뇌 게임의 오해"
+ ],
+ "grammar": [
+  {
+   "title": "① 생활 습관 4가지 — 수면·영양·운동·스트레스",
+   "lead": "기억력을 받쳐 주는 <b>pilares(기둥)</b> 네 가지를 어휘와 함께 정리해요.",
+   "table": {
+    "head": [
+     "기둥",
+     "핵심 표현",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "el sueño",
+      "dormir entre 7 y 9 horas",
+      "7~9시간 자기"
+     ],
+     [
+      "la nutrición",
+      "pescado azul, nueces, arándanos",
+      "등푸른생선·호두·블루베리"
+     ],
+     [
+      "el ejercicio",
+      "caminar a paso ligero 30 minutos",
+      "30분 빠르게 걷기"
+     ],
+     [
+      "el estrés",
+      "meditación, respiración profunda",
+      "명상·깊은 호흡"
+     ]
+    ]
+   },
+   "tip": "요약 문장 — dormir bien, comer saludablemente, hacer ejercicio regularmente y manejar el estrés."
+  },
+  {
+   "title": "② 명령형 — 조언할 때 (tú)",
+   "lead": "조언은 tú 긍정 명령형으로 해요. 규칙형은 <b>3인칭 단수 직설법과 같은 모양</b>이에요.",
+   "examples": [
+    [
+     "Intenta dormir entre 7 y 9 horas.",
+     "7~9시간 자 보세요. (intentar → intenta)"
+    ],
+    [
+     "Mantén un horario de sueño regular.",
+     "규칙적인 수면 시간을 유지하세요. (mantener → mantén)"
+    ],
+    [
+     "Repite el nombre en voz alta.",
+     "이름을 소리 내어 반복하세요. (repetir → repite)"
+    ],
+    [
+     "Asegúrate de escuchar su nombre.",
+     "이름을 또렷이 들었는지 확인하세요. (재귀: asegurarse → asegúrate)"
+    ],
+    [
+     "Imagina que tienes que comprar leche.",
+     "우유를 사야 한다고 상상해 보세요. (imaginar → imagina)"
+    ]
+   ],
+   "tip": "부정 명령은 접속법: No memorices solo la traducción. (memorizar → no memorices)"
+  },
+  {
+   "title": "③ Cuanto más … más … — ~할수록 더 ~",
+   "lead": "<b>cuanto más A, más B</b> 형태로 비례 관계를 말해요. 형용사 비교는 <b>cuanto mejor/más + 접속법</b>.",
+   "examples": [
+    [
+     "Cuantas más conexiones hagas, más rutas tendrá tu cerebro.",
+     "연결을 많이 만들수록 뇌가 가질 길도 많아져요."
+    ],
+    [
+     "Es como un músculo, cuanto más lo usas, más fuerte se vuelve.",
+     "근육처럼 쓸수록 더 강해져요."
+    ],
+    [
+     "Cuanto más extraña sea la imagen, mejor la recordarás.",
+     "이미지가 낯설수록 더 잘 기억할 거예요."
+    ]
+   ],
+   "tip": "명사가 오면 cuantos/cuantas로 성·수를 맞춰요: cuantas más conexiones."
+  },
+  {
+   "title": "④ en lugar de + 명사/동사원형 — ~ 대신에",
+   "lead": "<b>en lugar de</b> 뒤에는 명사나 <b>동사원형</b>이 와요.",
+   "examples": [
+    [
+     "En lugar de memorizar algo de forma aislada, intenta entenderlo.",
+     "따로 떼어 외우는 대신 이해해 보세요."
+    ],
+    [
+     "En lugar de simplemente releer tus notas, intenta recordar.",
+     "필기를 다시 읽는 대신 떠올려 보세요."
+    ],
+    [
+     "En lugar de estudiar todo la noche anterior, distribuye el estudio.",
+     "전날 밤에 몰아 공부하는 대신 공부를 나누세요."
+    ]
+   ]
+  },
+  {
+   "title": "⑤ 비유 표현 — Es como si… / Es como un…",
+   "lead": "비유할 때 <b>es como + 명사</b>, 가정 비유는 <b>es como si + 접속법 불완료과거</b>.",
+   "examples": [
+    [
+     "El BDNF es como un fertilizante para el cerebro.",
+     "BDNF는 뇌의 비료 같아요."
+    ],
+    [
+     "Es como si el cerebro estuviera archivando los recuerdos del día.",
+     "뇌가 하루의 기억을 보관하는 것 같아요."
+    ],
+    [
+     "Es como si intentaras guardar un documento y apagaras la computadora.",
+     "문서를 저장하려다 컴퓨터를 꺼 버리는 것 같아요."
+    ]
+   ]
+  },
+  {
+   "title": "⑥ Se trata de / tener que ver con",
+   "lead": "주제나 관련성을 말할 때 쓰는 표현이에요.",
+   "examples": [
+    [
+     "No solo se trata de recordar hechos y cifras.",
+     "단순히 사실과 숫자를 기억하는 문제만은 아니에요."
+    ],
+    [
+     "Tiene que ver con nuestra salud mental.",
+     "우리의 정신 건강과 관련이 있어요."
+    ],
+    [
+     "Suena a algo que tiene que ver con los intervalos de estudio.",
+     "공부 간격과 관련 있는 것처럼 들려요."
+    ]
+   ],
+   "tip": "tratarse de + 명사/동사원형: ~에 관한 문제다. tener que ver con: ~와 관계가 있다."
+  },
+  {
+   "title": "⑦ para + 동사원형 — 목적 ('~하기 위해')",
+   "lead": "<b>para + 동사원형</b>으로 목적을 말해요. 이 에피소드에서 가장 많이 나오는 구조예요.",
+   "examples": [
+    [
+     "¿Qué podemos hacer para manejar el estrés?",
+     "스트레스를 다스리려면 무엇을 할 수 있나요?"
+    ],
+    [
+     "Para recordar los colores del arcoíris, crea una frase.",
+     "무지개 색을 외우려면 문장을 만들어 보세요."
+    ],
+    [
+     "Usa flashcards para recordar vocabulario.",
+     "어휘를 기억하려고 플래시카드를 쓰세요."
+    ]
+   ]
+  }
+ ],
+ "phrases": [
+  [
+   "¿Cómo mejorar nuestra memoria?",
+   "어떻게 하면 기억력을 키울 수 있을까요?"
+  ],
+  [
+   "La memoria no es algo fijo. Podemos trabajar en ella y mejorarla.",
+   "기억력은 고정된 게 아니에요. 노력해서 좋아지게 할 수 있어요."
+  ],
+  [
+   "Sin ella seríamos personas completamente diferentes.",
+   "그것이 없다면 우리는 완전히 다른 사람이 될 거예요."
+  ],
+  [
+   "Dormir bien es absolutamente esencial para la consolidación de la memoria.",
+   "잘 자는 것은 기억을 굳히는 데 꼭 필요해요."
+  ],
+  [
+   "El BDNF es como un fertilizante para el cerebro.",
+   "BDNF는 뇌의 비료 같은 거예요."
+  ],
+  [
+   "No puedes recordar algo si nunca le prestaste atención.",
+   "주의를 기울인 적이 없으면 기억할 수 없어요."
+  ],
+  [
+   "Cuanto más extraña y multisensorial sea la imagen, mejor la recordarás.",
+   "이미지가 낯설고 여러 감각을 쓸수록 더 잘 기억할 거예요."
+  ],
+  [
+   "Es mejor distribuir el estudio a lo largo del tiempo.",
+   "공부를 시간에 걸쳐 나누는 게 더 나아요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la memoria",
+   "ko": "기억력, 기억",
+   "ex": "La memoria no es algo fijo.",
+   "exKo": "기억력은 고정된 게 아니에요."
+  },
+  {
+   "es": "recordar (o→ue)",
+   "ko": "기억하다, 떠올리다",
+   "ex": "Quiero recordar todos los nombres.",
+   "exKo": "모든 이름을 기억하고 싶어요."
+  },
+  {
+   "es": "olvidar",
+   "ko": "잊다",
+   "ex": "A los 5 minutos ya he olvidado su nombre.",
+   "exKo": "5분 만에 벌써 이름을 잊어버렸어요."
+  },
+  {
+   "es": "el olvido",
+   "ko": "망각",
+   "ex": "La repetición espaciada lucha contra el olvido.",
+   "exKo": "간격 반복은 망각과 싸워요."
+  },
+  {
+   "es": "el cerebro",
+   "ko": "뇌",
+   "ex": "Nuestro cerebro es muy adaptable.",
+   "exKo": "우리 뇌는 적응력이 아주 좋아요."
+  },
+  {
+   "es": "mejorar",
+   "ko": "향상시키다, 나아지다",
+   "ex": "¿Cómo mejorar nuestra memoria?",
+   "exKo": "기억력을 어떻게 높일까요?"
+  },
+  {
+   "es": "potenciar",
+   "ko": "키우다, 강화하다",
+   "ex": "Podemos potenciar su capacidad de recordar.",
+   "exKo": "기억하는 능력을 키울 수 있어요."
+  },
+  {
+   "es": "el hábito",
+   "ko": "습관",
+   "ex": "Los hábitos de vida saludables influyen en el cerebro.",
+   "exKo": "건강한 생활 습관이 뇌에 영향을 줘요."
+  },
+  {
+   "es": "el pilar",
+   "ko": "기둥, 핵심 요소",
+   "ex": "¿Cuáles son los pilares fundamentales?",
+   "exKo": "기본 기둥은 무엇인가요?"
+  },
+  {
+   "es": "el sueño",
+   "ko": "잠, 수면",
+   "ex": "El sueño es esencial para la memoria.",
+   "exKo": "수면은 기억에 필수예요."
+  },
+  {
+   "es": "la consolidación",
+   "ko": "(기억의) 굳힘, 공고화",
+   "ex": "Dormir bien ayuda a la consolidación de la memoria.",
+   "exKo": "잘 자면 기억이 굳는 데 도움이 돼요."
+  },
+  {
+   "es": "el hipocampo",
+   "ko": "해마",
+   "ex": "El hipocampo es el almacén temporal.",
+   "exKo": "해마는 임시 창고예요."
+  },
+  {
+   "es": "la corteza cerebral",
+   "ko": "대뇌 피질",
+   "ex": "La información pasa a la corteza cerebral.",
+   "exKo": "정보가 대뇌 피질로 옮겨 가요."
+  },
+  {
+   "es": "el almacén",
+   "ko": "창고, 저장소",
+   "ex": "Es el almacén a largo plazo.",
+   "exKo": "장기 저장소예요."
+  },
+  {
+   "es": "archivar",
+   "ko": "보관하다, 파일로 정리하다",
+   "ex": "El cerebro archiva los recuerdos del día.",
+   "exKo": "뇌가 하루의 기억을 보관해요."
+  },
+  {
+   "es": "nublado/a",
+   "ko": "흐린, 멍한",
+   "ex": "Siento que mi cabeza está nublada.",
+   "exKo": "머리가 멍한 느낌이에요."
+  },
+  {
+   "es": "priorizar",
+   "ko": "우선순위에 두다",
+   "ex": "El primer consejo es priorizar el sueño.",
+   "exKo": "첫 조언은 수면을 우선하는 거예요."
+  },
+  {
+   "es": "el horario",
+   "ko": "시간표, 일정",
+   "ex": "Mantén un horario de sueño regular.",
+   "exKo": "규칙적인 수면 시간을 유지하세요."
+  },
+  {
+   "es": "la nutrición",
+   "ko": "영양",
+   "ex": "El siguiente pilar es la nutrición.",
+   "exKo": "다음 기둥은 영양이에요."
+  },
+  {
+   "es": "el pescado azul",
+   "ko": "등푸른생선",
+   "ex": "El pescado azul es rico en omega-3.",
+   "exKo": "등푸른생선은 오메가3가 풍부해요."
+  },
+  {
+   "es": "las nueces",
+   "ko": "호두",
+   "ex": "Las nueces son buenas para el cerebro.",
+   "exKo": "호두는 뇌에 좋아요."
+  },
+  {
+   "es": "el antioxidante",
+   "ko": "항산화제",
+   "ex": "Los antioxidantes protegen el cerebro.",
+   "exKo": "항산화제는 뇌를 보호해요."
+  },
+  {
+   "es": "el arándano",
+   "ko": "블루베리",
+   "ex": "Los arándanos y las espinacas son útiles.",
+   "exKo": "블루베리와 시금치가 도움이 돼요."
+  },
+  {
+   "es": "los alimentos procesados",
+   "ko": "가공식품",
+   "ex": "Evita los alimentos procesados.",
+   "exKo": "가공식품을 피하세요."
+  },
+  {
+   "es": "la hidratación",
+   "ko": "수분 섭취",
+   "ex": "No olvidemos la hidratación.",
+   "exKo": "수분 섭취를 잊지 말아요."
+  },
+  {
+   "es": "el ejercicio aeróbico",
+   "ko": "유산소 운동",
+   "ex": "El ejercicio aeróbico aumenta el flujo sanguíneo.",
+   "exKo": "유산소 운동은 혈류를 늘려요."
+  },
+  {
+   "es": "el flujo sanguíneo",
+   "ko": "혈류",
+   "ex": "Aumenta el flujo sanguíneo al cerebro.",
+   "exKo": "뇌로 가는 혈류를 늘려요."
+  },
+  {
+   "es": "el fertilizante",
+   "ko": "비료",
+   "ex": "El BDNF es como un fertilizante para el cerebro.",
+   "exKo": "BDNF는 뇌의 비료 같아요."
+  },
+  {
+   "es": "la neurona",
+   "ko": "신경세포",
+   "ex": "Promueve el crecimiento de nuevas neuronas.",
+   "exKo": "새 신경세포의 성장을 촉진해요."
+  },
+  {
+   "es": "caminar a paso ligero",
+   "ko": "빠른 걸음으로 걷다",
+   "ex": "Caminar a paso ligero 30 minutos al día ayuda.",
+   "exKo": "하루 30분 빠르게 걷는 게 도움이 돼요."
+  },
+  {
+   "es": "el estrés",
+   "ko": "스트레스",
+   "ex": "El manejo del estrés es fundamental.",
+   "exKo": "스트레스 관리는 핵심이에요."
+  },
+  {
+   "es": "encoger",
+   "ko": "줄어들게 하다, 오그라들다",
+   "ex": "El estrés crónico puede encoger partes del cerebro.",
+   "exKo": "만성 스트레스는 뇌 일부를 줄어들게 할 수 있어요."
+  },
+  {
+   "es": "la relajación",
+   "ko": "이완, 휴식",
+   "ex": "La relajación y la meditación ayudan.",
+   "exKo": "이완과 명상이 도움이 돼요."
+  },
+  {
+   "es": "la atención",
+   "ko": "주의, 관심",
+   "ex": "La memoria empieza con la atención.",
+   "exKo": "기억은 주의에서 시작해요."
+  },
+  {
+   "es": "prestar atención",
+   "ko": "주의를 기울이다",
+   "ex": "Nunca le prestaste atención.",
+   "exKo": "한 번도 주의를 기울이지 않았잖아요."
+  },
+  {
+   "es": "la codificación",
+   "ko": "부호화",
+   "ex": "La memoria comienza con la codificación.",
+   "exKo": "기억은 부호화에서 시작해요."
+  },
+  {
+   "es": "la distracción",
+   "ko": "방해, 산만함",
+   "ex": "Elimina las distracciones.",
+   "exKo": "방해 요소를 없애세요."
+  },
+  {
+   "es": "la elaboración",
+   "ko": "정교화",
+   "ex": "La elaboración conecta la información nueva con lo que ya sabes.",
+   "exKo": "정교화는 새 정보를 아는 것과 연결해요."
+  },
+  {
+   "es": "aislado/a",
+   "ko": "고립된, 따로 떨어진",
+   "ex": "No memorices de forma aislada.",
+   "exKo": "따로 떼어 외우지 마세요."
+  },
+  {
+   "es": "la mnemotécnica",
+   "ko": "기억술",
+   "ex": "Las mnemotécnicas son trucos para recordar.",
+   "exKo": "기억술은 기억을 돕는 요령이에요."
+  },
+  {
+   "es": "el acrónimo",
+   "ko": "두문자어",
+   "ex": "Usé acrónimos en la escuela.",
+   "exKo": "학교에서 두문자어를 썼어요."
+  },
+  {
+   "es": "vívido/a",
+   "ko": "생생한",
+   "ex": "Las imágenes vívidas se recuerdan mejor.",
+   "exKo": "생생한 이미지가 더 잘 기억돼요."
+  },
+  {
+   "es": "el palacio de la memoria",
+   "ko": "기억의 궁전",
+   "ex": "El palacio de la memoria usa lugares conocidos.",
+   "exKo": "기억의 궁전은 익숙한 장소를 이용해요."
+  },
+  {
+   "es": "la recuperación activa",
+   "ko": "능동적 인출",
+   "ex": "La recuperación activa es ponerse a prueba.",
+   "exKo": "능동적 인출은 스스로를 시험하는 거예요."
+  },
+  {
+   "es": "la repetición espaciada",
+   "ko": "간격 반복",
+   "ex": "La repetición espaciada usa intervalos crecientes.",
+   "exKo": "간격 반복은 점점 늘어나는 간격을 써요."
+  },
+  {
+   "es": "la curva del olvido",
+   "ko": "망각 곡선",
+   "ex": "La curva del olvido muestra cuánto olvidamos.",
+   "exKo": "망각 곡선은 우리가 얼마나 잊는지 보여 줘요."
+  },
+  {
+   "es": "repasar",
+   "ko": "복습하다",
+   "ex": "Lo repaso mañana y en tres días.",
+   "exKo": "내일과 사흘 뒤에 복습해요."
+  },
+  {
+   "es": "el chunking (la agrupación)",
+   "ko": "청킹(묶기)",
+   "ex": "El chunking agrupa elementos en unidades más grandes.",
+   "exKo": "청킹은 요소를 더 큰 단위로 묶어요."
+  },
+  {
+   "es": "la carga cognitiva",
+   "ko": "인지 부담",
+   "ex": "Agrupar reduce la carga cognitiva.",
+   "exKo": "묶으면 인지 부담이 줄어요."
+  },
+  {
+   "es": "la memoria a corto plazo",
+   "ko": "단기 기억",
+   "ex": "La memoria a corto plazo es limitada.",
+   "exKo": "단기 기억은 한정되어 있어요."
+  },
+  {
+   "es": "sumergirse",
+   "ko": "푹 빠지다, 몰입하다",
+   "ex": "Sumérgete en el idioma.",
+   "exKo": "그 언어에 푹 빠져 보세요."
+  },
+  {
+   "es": "el mito",
+   "ko": "오해, 신화",
+   "ex": "Un mito común es que los juegos mejoran la memoria.",
+   "exKo": "흔한 오해는 게임이 기억력을 높인다는 거예요."
+  },
+  {
+   "es": "el atajo",
+   "ko": "지름길",
+   "ex": "En lugar de buscar atajos, invierte en el trabajo real.",
+   "exKo": "지름길을 찾지 말고 진짜 노력에 투자하세요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Dónde pasa la información durante el sueño profundo?",
+   "options": [
+    "del hipocampo a la corteza cerebral",
+    "del corazón al cerebro",
+    "de la corteza al hipocampo",
+    "del estómago al cerebro"
+   ],
+   "answer": 0,
+   "explain": "El cerebro transfiere información del hipocampo (almacén temporal) a la corteza cerebral (almacén a largo plazo)."
+  },
+  {
+   "q": "¿Cuántas horas recomienda dormir Mateo?",
+   "options": [
+    "entre 5 y 6",
+    "entre 7 y 9",
+    "entre 10 y 12",
+    "solo 4"
+   ],
+   "answer": 1,
+   "explain": "Intenta dormir entre 7 y 9 horas cada noche."
+  },
+  {
+   "q": "¿Qué alimentos son ricos en omega-3?",
+   "options": [
+    "el azúcar y las grasas",
+    "pescado azul, nueces y semillas de chía",
+    "pan y pasta",
+    "refrescos"
+   ],
+   "answer": 1,
+   "explain": "Alimentos ricos en omega-3: pescado azul, salmón, sardinas, nueces y semillas de chía."
+  },
+  {
+   "q": "¿Qué es el BDNF según Mateo?",
+   "options": [
+    "una hormona del estrés",
+    "un fertilizante para el cerebro",
+    "un tipo de vitamina",
+    "un juego de memoria"
+   ],
+   "answer": 1,
+   "explain": "El BDNF es como un fertilizante para el cerebro: promueve nuevas neuronas y conexiones."
+  },
+  {
+   "q": "¿Qué hormona puede dañar el hipocampo con el estrés crónico?",
+   "options": [
+    "la insulina",
+    "el cortisol",
+    "la melatonina",
+    "la adrenalina solo"
+   ],
+   "answer": 1,
+   "explain": "En niveles altos y crónicos, el cortisol puede dañar el hipocampo."
+  },
+  {
+   "q": "¿Con qué empieza la memoria?",
+   "options": [
+    "con la codificación",
+    "con el olvido",
+    "con la repetición",
+    "con el sueño REM"
+   ],
+   "answer": 0,
+   "explain": "La memoria comienza con la codificación, y para eso hace falta atención."
+  },
+  {
+   "q": "¿Qué significa la elaboración?",
+   "options": [
+    "repetir mil veces",
+    "conectar la información nueva con lo que ya sabes",
+    "dormir más",
+    "evitar distracciones solamente"
+   ],
+   "answer": 1,
+   "explain": "La elaboración es conectar la nueva información con tus experiencias y conocimientos."
+  },
+  {
+   "q": "En el ejemplo de la lista de compras, ¿qué imagen propone Mateo?",
+   "options": [
+    "una vaca con alas que pone huevos gigantes en un horno que vuela",
+    "un gato en la nevera",
+    "un perro que compra pan",
+    "una casa de leche"
+   ],
+   "answer": 0,
+   "explain": "Imagina una vaca con alas que pone huevos gigantes en un horno de pan que vuela."
+  },
+  {
+   "q": "En el palacio de la memoria, ¿con qué se asocian los elementos?",
+   "options": [
+    "con números de teléfono",
+    "con lugares de un espacio que conoces bien",
+    "con colores",
+    "con canciones"
+   ],
+   "answer": 1,
+   "explain": "Se asocian con lugares específicos de un espacio muy conocido, como tu casa."
+  },
+  {
+   "q": "¿Qué es la repetición espaciada?",
+   "options": [
+    "repasar todo de golpe",
+    "revisar en intervalos crecientes de tiempo",
+    "no repasar nunca",
+    "estudiar solo de noche"
+   ],
+   "answer": 1,
+   "explain": "Revisar la información en intervalos crecientes: hoy, mañana, en tres días, en una semana…"
+  },
+  {
+   "q": "¿Cuántos elementos retiene la memoria a corto plazo generalmente?",
+   "options": [
+    "entre uno y dos",
+    "entre cinco y nueve",
+    "entre veinte y treinta",
+    "cien"
+   ],
+   "answer": 1,
+   "explain": "Generalmente podemos retener entre cinco y nueve elementos a la vez."
+  },
+  {
+   "q": "¿Qué dice la investigación sobre los juegos de entrenamiento cerebral?",
+   "options": [
+    "mejoran toda la memoria",
+    "suelen mejorar solo la habilidad en el juego específico",
+    "dañan el cerebro",
+    "son la mejor técnica"
+   ],
+   "answer": 1,
+   "explain": "Suelen mejorar la habilidad en ese juego, pero no necesariamente la memoria en la vida diaria."
+  }
+ ]
+}
