@@ -317,3 +317,10 @@ figure.secImg img { display: block; width: 100%; max-width: 560px; height: auto;
 .vcard .src { grid-column: 1 / -1; }
 .vocabcard { background: var(--g) !important; }
 @media (max-width: 480px) { .stats.four .stat b { font-size: 17px; } .stats.four { gap: 5px; } }
+
+/* 전체 목록 · 출처별 묶음 */
+#srcnav { flex-wrap: wrap; margin: 6px 0 2px; }
+#srcnav a { font-size: 13px; }
+.srcgrp { scroll-margin-top: 70px; }
+.month.srch { font-size: 15px; color: var(--fg); }
+.month.srch span { font-size: 12.5px; color: var(--mut); font-weight: 400; margin-left: 4px; }
