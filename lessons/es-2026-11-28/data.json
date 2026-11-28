@@ -1,0 +1,1897 @@
+{
+ "id": "es-2026-11-28",
+ "lang": "es",
+ "date": "2026-11-28",
+ "title": "시간 관리의 중요성 — 마테오와 소피아의 생산성 대화",
+ "es": "Hecho es mejor que perfecto.",
+ "emoji": "⏳",
+ "level": "B1-B2",
+ "channel": "Easy Spanish Podcast",
+ "videoTitle": "The Importance of Time Management | Learn español with Podcast | episode 68 | Easy Spanish",
+ "youtube": "4qvTt_H_I2E",
+ "duration": "16:41",
+ "speakers": {
+  "M": "Mateo",
+  "S": "Sofía"
+ },
+ "hideCast": true,
+ "summary": "마테오와 소피아가 시간 관리가 왜 중요한지 이야기해요. 시간 기록으로 '시간 도둑' 찾기, SMART 목표, 아이젠하워 매트릭스, 5분 규칙과 포모도로로 미루기 이기기, 방해 요소 줄이기와 위임, 일과 삶의 균형, 그리고 오늘부터 할 수 있는 다섯 가지 실천 팁까지. 명령법과 순서·요약 표현을 B1-B2 속도로 듣고 따라 말하기 좋아요.",
+ "topics": [
+  "시간 관리란: las mismas 24 horas · la clave está en cómo las utilizamos",
+  "첫걸음: llevar un registro del tiempo · ladrones de tiempo",
+  "목표와 우선순위: objetivos SMART · la matriz de Eisenhower",
+  "미루기 극복: la regla de los 5 minutos · la técnica Pomodoro",
+  "집중과 위임: agrupar tareas · delegar · establecer límites",
+  "문법: 명령법 · 서수 · 접속법(Espero que) · 연결어"
+ ],
+ "grammar": [
+  {
+   "title": "① 명령법(usted/ustedes·tú) — 조언하기",
+   "lead": "조언·지시는 <b>명령법</b>으로 해요. -ar 동사는 <b>-e</b>, -er/-ir 동사는 <b>-a</b>로 끝나는 형태(긍정 tú 명령은 3인칭 현재형과 같아요).",
+   "table": {
+    "head": [
+     "동사",
+     "tú 명령 (긍정)",
+     "뜻"
+    ],
+    "rows": [
+     [
+      "apagar",
+      "apaga las notificaciones",
+      "알림을 꺼라"
+     ],
+     [
+      "cerrar",
+      "cierra las pestañas",
+      "탭을 닫아라"
+     ],
+     [
+      "dedicar",
+      "dedica diez minutos",
+      "10분을 쏟아라"
+     ],
+     [
+      "planificar",
+      "planifica tu día",
+      "하루를 계획해라"
+     ],
+     [
+      "aprender",
+      "aprende a decir no",
+      "거절하는 법을 배워라"
+     ],
+     [
+      "utilizar",
+      "utiliza herramientas",
+      "도구를 활용해라"
+     ],
+     [
+      "revisar",
+      "revisa tu sistema",
+      "점검해라"
+     ]
+    ]
+   },
+   "tip": "여러 청취자에게 말할 때는 ustedes 명령: Recuerden que su tiempo es valioso. / Pruébenlo. (-ar → -en, -er/-ir → -an)"
+  },
+  {
+   "title": "② ser + 형용사 vs 명사 — 'es + 핵심 개념' 정의하기",
+   "lead": "무엇인지 정의하거나 평가할 때 <b>es</b>를 써요. <b>Es una habilidad fundamental</b>, <b>Es la diferencia entre A y B</b> 같은 틀을 외우면 말하기가 쉬워져요.",
+   "examples": [
+    [
+     "Es una habilidad fundamental para cualquier persona.",
+     "누구에게나 기본이 되는 능력이에요."
+    ],
+    [
+     "Es un proceso continuo.",
+     "계속 이어지는 과정이에요."
+    ],
+    [
+     "La procrastinación es el enemigo número uno.",
+     "미루기는 가장 큰 적이에요."
+    ],
+    [
+     "Es cuestión de flexibilidad.",
+     "유연성의 문제예요."
+    ]
+   ]
+  },
+  {
+   "title": "③ 서수와 순서 말하기 — primero, segundo, tercero…",
+   "lead": "조언을 나열할 때 <b>Primero, Segundo, Tercero, Cuarto, finalmente</b>로 순서를 표시해요. 남성 단수 명사 앞이 아닌 부사처럼 쓸 때는 어미 변화가 없어요.",
+   "examples": [
+    [
+     "Primero, planifica tu día la noche anterior.",
+     "첫째, 전날 밤에 하루를 계획하세요."
+    ],
+    [
+     "Segundo, aprende a decir no.",
+     "둘째, 거절하는 법을 배우세요."
+    ],
+    [
+     "Tercero, evita la perfección.",
+     "셋째, 완벽함을 피하세요."
+    ],
+    [
+     "Y finalmente, revisa tu sistema regularmente.",
+     "마지막으로 정기적으로 점검하세요."
+    ]
+   ],
+   "tip": "el siguiente paso(다음 단계) · el primer paso(첫걸음) — 남성 단수 명사 앞에서 primero/tercero는 primer/tercer로 줄어요."
+  },
+  {
+   "title": "④ ser consciente de / se trata de — 자주 쓰는 전치사 표현",
+   "lead": "동사·형용사마다 붙는 전치사가 정해져 있어요. 덩어리로 외우세요.",
+   "examples": [
+    [
+     "Sé consciente de cómo usas tu tiempo.",
+     "시간을 어떻게 쓰는지 의식하세요."
+    ],
+    [
+     "No se trata solo de trabajar más.",
+     "더 많이 일하는 것만의 문제가 아니에요."
+    ],
+    [
+     "Aprende a delegar.",
+     "위임하는 법을 배우세요."
+    ],
+    [
+     "Se enfoca en lo que importa.",
+     "중요한 것에 집중해요."
+    ]
+   ],
+   "tip": "aprender a + 동사원형 · empezar a + 동사원형 · dividir en + 명사 · hablar de + 명사"
+  },
+  {
+   "title": "⑤ 접속법 현재 — 목적·희망 뒤에서",
+   "lead": "희망·바람·목적 뒤의 종속절은 <b>접속법</b>이에요. <b>Espero que</b>, <b>para que</b>, <b>es útil que</b> 뒤에서요.",
+   "examples": [
+    [
+     "Espero que nuestros oyentes puedan empezar hoy mismo.",
+     "청취자 여러분이 오늘 바로 시작할 수 있기를 바라요."
+    ],
+    [
+     "Es útil que sean SMART.",
+     "SMART하면 유용해요."
+    ],
+    [
+     "Esperamos que este episodio les haya dado las herramientas.",
+     "이번 에피소드가 도구를 주었기를 바라요."
+    ],
+    [
+     "Encuentra una que funcione para ti.",
+     "나에게 맞는 것을 찾으세요."
+    ]
+   ],
+   "tip": "un/una que + 접속법 — 아직 정해지지 않은 대상을 가리킬 때: Encuentra una herramienta que funcione para ti."
+  },
+  {
+   "title": "⑥ 재귀 구조 — se me va el tiempo / se nos va el tiempo",
+   "lead": "<b>se + 간접목적 대명사</b>는 '뜻하지 않게 ~가 되다'는 느낌이에요. 시간이 '내게서 새어 나가다'처럼 표현해요.",
+   "examples": [
+    [
+     "Necesitamos saber dónde se nos va el tiempo.",
+     "시간이 어디로 새는지 알아야 해요."
+    ],
+    [
+     "A veces me olvido de descansar.",
+     "가끔 쉬는 걸 잊어요."
+    ],
+    [
+     "Nos quedamos estancados tratando de ser perfectos.",
+     "완벽하려다 막혀 버려요."
+    ],
+    [
+     "Te despertarás con un plan claro.",
+     "분명한 계획과 함께 깨어날 거예요."
+    ]
+   ]
+  },
+  {
+   "title": "⑦ 연결어 — 순서·대조·요약",
+   "lead": "대화를 이끄는 연결어를 익혀 두면 듣기와 말하기가 모두 쉬워져요.",
+   "table": {
+    "head": [
+     "연결어",
+     "뜻",
+     "예"
+    ],
+    "rows": [
+     [
+      "una vez que",
+      "일단 ~하면",
+      "Una vez que empiezas, sigues adelante."
+     ],
+     [
+      "en lugar de",
+      "~ 대신에",
+      "en lugar de cada vez que llega uno nuevo"
+     ],
+     [
+      "en resumen / para resumir",
+      "요약하면",
+      "Así que, para resumir…"
+     ],
+     [
+      "a largo plazo",
+      "장기적으로",
+      "a largo plazo aprender a delegar…"
+     ],
+     [
+      "sino",
+      "~가 아니라",
+      "no solo X, sino Y"
+     ],
+     [
+      "hablando de",
+      "~ 얘기가 나왔으니",
+      "Y hablando de paz…"
+     ]
+    ]
+   }
+  }
+ ],
+ "phrases": [
+  [
+   "Es una habilidad fundamental para cualquier persona.",
+   "누구에게나 기본이 되는 능력이에요."
+  ],
+  [
+   "Todos tenemos las mismas 24 horas al día.",
+   "우리 모두 하루 24시간이 똑같아요."
+  ],
+  [
+   "Necesitamos saber dónde se nos va el tiempo.",
+   "시간이 어디로 새는지 알아야 해요."
+  ],
+  [
+   "Si no sabes a dónde vas, cualquier camino te servirá.",
+   "어디로 가는지 모르면 어떤 길이든 괜찮겠죠."
+  ],
+  [
+   "Hecho es mejor que perfecto.",
+   "완벽한 것보다 끝낸 것이 낫습니다."
+  ],
+  [
+   "Decir no te permite decir sí a lo que realmente importa.",
+   "거절은 정말 중요한 것에 '네'라고 하게 해 줘요."
+  ],
+  [
+   "Es mejor hacer una cosa a la vez y terminarla.",
+   "한 번에 하나씩 끝내는 게 나아요."
+  ],
+  [
+   "Sé amable contigo mismo durante el proceso.",
+   "그 과정에서 자신에게 친절하세요."
+  ]
+ ],
+ "vocab": [
+  {
+   "es": "la gestión del tiempo",
+   "ko": "시간 관리",
+   "ex": "La gestión del tiempo es una habilidad fundamental.",
+   "exKo": "시간 관리는 기본이 되는 능력이에요."
+  },
+  {
+   "es": "abrumado/a",
+   "ko": "압도당한, 벅찬",
+   "ex": "Me siento abrumado con tantas tareas.",
+   "exKo": "할 일이 너무 많아 벅차요."
+  },
+  {
+   "es": "el estrés",
+   "ko": "스트레스",
+   "ex": "Quiero reducir el estrés.",
+   "exKo": "스트레스를 줄이고 싶어요."
+  },
+  {
+   "es": "la ansiedad",
+   "ko": "불안",
+   "ex": "Esto nos causa estrés y ansiedad.",
+   "exKo": "이것은 우리에게 스트레스와 불안을 줘요."
+  },
+  {
+   "es": "el plazo",
+   "ko": "기한, 마감",
+   "ex": "Perdí el plazo del informe.",
+   "exKo": "보고서 마감을 놓쳤어요."
+  },
+  {
+   "es": "el agotamiento",
+   "ko": "탈진, 소진",
+   "ex": "El exceso de trabajo lleva al agotamiento.",
+   "exKo": "과로는 탈진으로 이어져요."
+  },
+  {
+   "es": "atrasado/a",
+   "ko": "뒤처진, 늦은",
+   "ex": "Me siento siempre atrasado.",
+   "exKo": "늘 뒤처진 느낌이에요."
+  },
+  {
+   "es": "la meta",
+   "ko": "목표, 결승선",
+   "ex": "Una carrera sin línea de meta.",
+   "exKo": "결승선 없는 달리기."
+  },
+  {
+   "es": "el objetivo",
+   "ko": "목표",
+   "ex": "Establece objetivos claros.",
+   "exKo": "분명한 목표를 세우세요."
+  },
+  {
+   "es": "la conciencia",
+   "ko": "자각, 의식",
+   "ex": "El primer paso es la conciencia.",
+   "exKo": "첫걸음은 자각이에요."
+  },
+  {
+   "es": "el registro",
+   "ko": "기록",
+   "ex": "Lleva un registro de tu tiempo.",
+   "exKo": "시간 기록을 남기세요."
+  },
+  {
+   "es": "anotar",
+   "ko": "적어 두다",
+   "ex": "Anota todo lo que haces.",
+   "exKo": "하는 일을 전부 적어 두세요."
+  },
+  {
+   "es": "revelador/a",
+   "ko": "깨닫게 해 주는",
+   "ex": "Es muy revelador.",
+   "exKo": "아주 많은 걸 알려 줘요."
+  },
+  {
+   "es": "el ladrón de tiempo",
+   "ko": "시간 도둑",
+   "ex": "Las redes sociales son un ladrón de tiempo.",
+   "exKo": "SNS는 시간 도둑이에요."
+  },
+  {
+   "es": "lograr",
+   "ko": "이루다, 달성하다",
+   "ex": "¿Qué quieres lograr?",
+   "exKo": "무엇을 이루고 싶나요?"
+  },
+  {
+   "es": "el enfoque",
+   "ko": "집중, 초점",
+   "ex": "Esto te ayuda a mantener el enfoque.",
+   "exKo": "이렇게 하면 집중을 유지할 수 있어요."
+  },
+  {
+   "es": "medible",
+   "ko": "측정 가능한",
+   "ex": "Un objetivo medible.",
+   "exKo": "측정 가능한 목표."
+  },
+  {
+   "es": "alcanzable",
+   "ko": "달성 가능한",
+   "ex": "Las metas deben ser alcanzables.",
+   "exKo": "목표는 달성 가능해야 해요."
+  },
+  {
+   "es": "realista",
+   "ko": "현실적인",
+   "ex": "Esto lo hace más realista.",
+   "exKo": "그러면 더 현실적이에요."
+  },
+  {
+   "es": "la priorización",
+   "ko": "우선순위 정하기",
+   "ex": "Ahí entra la priorización.",
+   "exKo": "거기서 우선순위 정하기가 필요해요."
+  },
+  {
+   "es": "urgente",
+   "ko": "급한",
+   "ex": "Esta tarea es urgente.",
+   "exKo": "이 일은 급해요."
+  },
+  {
+   "es": "posponer",
+   "ko": "미루다",
+   "ex": "Siempre pospongo las tareas difíciles.",
+   "exKo": "어려운 일은 늘 미뤄요."
+  },
+  {
+   "es": "delegar",
+   "ko": "위임하다",
+   "ex": "Intenta delegar esa tarea.",
+   "exKo": "그 일은 위임해 보세요."
+  },
+  {
+   "es": "eliminar",
+   "ko": "없애다",
+   "ex": "Elimina lo que no importa.",
+   "exKo": "중요하지 않은 건 없애세요."
+  },
+  {
+   "es": "la procrastinación",
+   "ko": "미루는 습관",
+   "ex": "La procrastinación es el enemigo número uno.",
+   "exKo": "미루기는 가장 큰 적이에요."
+  },
+  {
+   "es": "procrastinar",
+   "ko": "미루다",
+   "ex": "Procrastinamos cuando la tarea es enorme.",
+   "exKo": "일이 클 때 우리는 미뤄요."
+  },
+  {
+   "es": "manejable",
+   "ko": "다룰 만한",
+   "ex": "Divide la tarea en partes manejables.",
+   "exKo": "일을 다룰 만한 단위로 나누세요."
+  },
+  {
+   "es": "el esquema",
+   "ko": "개요, 윤곽",
+   "ex": "Crea un esquema del informe.",
+   "exKo": "보고서 개요를 만드세요."
+  },
+  {
+   "es": "el logro",
+   "ko": "성취",
+   "ex": "Cada parte se siente como un logro.",
+   "exKo": "각 부분이 성취처럼 느껴져요."
+  },
+  {
+   "es": "comprometerse a",
+   "ko": "~하기로 약속하다",
+   "ex": "Comprométete a trabajar cinco minutos.",
+   "exKo": "5분 일하기로 약속하세요."
+  },
+  {
+   "es": "el descanso",
+   "ko": "휴식",
+   "ex": "Toma un descanso de cinco minutos.",
+   "exKo": "5분 쉬세요."
+  },
+  {
+   "es": "la concentración",
+   "ko": "집중력",
+   "ex": "Mejora tu concentración.",
+   "exKo": "집중력을 높이세요."
+  },
+  {
+   "es": "revitalizar",
+   "ko": "활력을 되찾게 하다",
+   "ex": "Un descanso puede revitalizarte.",
+   "exKo": "휴식이 활력을 되찾아 줄 수 있어요."
+  },
+  {
+   "es": "quemado/a",
+   "ko": "녹초가 된(번아웃)",
+   "ex": "Termino quemado si no descanso.",
+   "exKo": "쉬지 않으면 녹초가 돼요."
+  },
+  {
+   "es": "la distracción",
+   "ko": "산만함, 방해",
+   "ex": "Las distracciones son un gran problema.",
+   "exKo": "산만함은 큰 문제예요."
+  },
+  {
+   "es": "las notificaciones",
+   "ko": "알림",
+   "ex": "Apaga las notificaciones del teléfono.",
+   "exKo": "휴대폰 알림을 끄세요."
+  },
+  {
+   "es": "la pestaña",
+   "ko": "(브라우저) 탭",
+   "ex": "Cierra las pestañas que no necesitas.",
+   "exKo": "필요 없는 탭을 닫으세요."
+  },
+  {
+   "es": "los auriculares",
+   "ko": "헤드폰, 이어폰",
+   "ex": "Uso auriculares para concentrarme.",
+   "exKo": "집중하려고 헤드폰을 써요."
+  },
+  {
+   "es": "agrupar",
+   "ko": "묶다, 모으다",
+   "ex": "Agrupa tareas similares.",
+   "exKo": "비슷한 일을 묶으세요."
+  },
+  {
+   "es": "el cambio de contexto",
+   "ko": "작업(맥락) 전환",
+   "ex": "El cambio de contexto consume energía.",
+   "exKo": "작업 전환은 에너지를 소모해요."
+  },
+  {
+   "es": "subestimado/a",
+   "ko": "과소평가된",
+   "ex": "Es una habilidad muy subestimada.",
+   "exKo": "매우 과소평가된 능력이에요."
+  },
+  {
+   "es": "empoderar",
+   "ko": "힘을 실어 주다",
+   "ex": "Delegar empodera a otros.",
+   "exKo": "위임은 다른 사람에게 힘을 실어 줘요."
+  },
+  {
+   "es": "repartir",
+   "ko": "나누다, 분배하다",
+   "ex": "Repartimos las tareas del hogar.",
+   "exKo": "집안일을 나눠요."
+  },
+  {
+   "es": "las tareas del hogar",
+   "ko": "집안일",
+   "ex": "Las tareas del hogar se reparten.",
+   "exKo": "집안일은 나눠서 해요."
+  },
+  {
+   "es": "desconectar",
+   "ko": "(업무에서) 벗어나다",
+   "ex": "Es importante desconectar al final del día.",
+   "exKo": "하루 끝에 업무에서 벗어나는 게 중요해요."
+  },
+  {
+   "es": "las horas extras",
+   "ko": "야근, 초과 근무",
+   "ex": "Mucha gente trabaja horas extras.",
+   "exKo": "많은 사람이 야근을 해요."
+  },
+  {
+   "es": "el equilibrio",
+   "ko": "균형",
+   "ex": "Busca un equilibrio en tu vida.",
+   "exKo": "삶의 균형을 찾으세요."
+  },
+  {
+   "es": "pleno/a",
+   "ko": "충만한",
+   "ex": "Una vida más plena y equilibrada.",
+   "exKo": "더 충만하고 균형 잡힌 삶."
+  },
+  {
+   "es": "retomar el control",
+   "ko": "통제권을 되찾다",
+   "ex": "Es retomar el control de tu día.",
+   "exKo": "하루의 통제권을 되찾는 거예요."
+  },
+  {
+   "es": "estancado/a",
+   "ko": "막힌, 정체된",
+   "ex": "Me quedo estancado en los detalles.",
+   "exKo": "세부 사항에 막혀 버려요."
+  },
+  {
+   "es": "impecable",
+   "ko": "흠 잡을 데 없는",
+   "ex": "Quiere que todo sea impecable.",
+   "exKo": "모든 게 흠 없기를 원해요."
+  },
+  {
+   "es": "sutil",
+   "ko": "미묘한, 교묘한",
+   "ex": "El perfeccionismo es un ladrón muy sutil.",
+   "exKo": "완벽주의는 아주 교묘한 도둑이에요."
+  },
+  {
+   "es": "el hábito",
+   "ko": "습관",
+   "ex": "Lo importante es el hábito.",
+   "exKo": "중요한 건 습관이에요."
+  },
+  {
+   "es": "la autogestión",
+   "ko": "자기 관리",
+   "ex": "La gestión del tiempo es una forma de autogestión.",
+   "exKo": "시간 관리는 자기 관리의 한 형태예요."
+  },
+  {
+   "es": "el autoconocimiento",
+   "ko": "자기 이해",
+   "ex": "Es cuestión de flexibilidad y autoconocimiento.",
+   "exKo": "유연성과 자기 이해의 문제예요."
+  },
+  {
+   "es": "las riendas",
+   "ko": "고삐, 주도권",
+   "ex": "Toma las riendas de tu tiempo.",
+   "exKo": "시간의 주도권을 잡으세요."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Según el podcast, ¿qué tienen en común todas las personas?",
+   "options": [
+    "Las mismas 24 horas al día",
+    "El mismo trabajo",
+    "El mismo horario",
+    "Más tiempo libre"
+   ],
+   "answer": 0,
+   "explain": "todos tenemos las mismas 24 horas al día."
+  },
+  {
+   "q": "¿Cuál es el primer paso fundamental que propone Sofía?",
+   "options": [
+    "Delegar tareas",
+    "La conciencia: saber dónde se va el tiempo",
+    "Comprar una agenda",
+    "Trabajar más horas"
+   ],
+   "answer": 1,
+   "explain": "El primer paso fundamental es la conciencia. 시간이 어디로 가는지 아는 것이 출발점이에요."
+  },
+  {
+   "q": "¿Qué significa «ladrón de tiempo»?",
+   "options": [
+    "Alguien que roba el reloj",
+    "Una actividad que gasta tiempo sin valor",
+    "Un compañero de trabajo",
+    "Un tipo de agenda"
+   ],
+   "answer": 1,
+   "explain": "SNS, 급하지 않은 메일 등 시간을 쓸데없이 잡아먹는 활동이에요."
+  },
+  {
+   "q": "¿Qué letras forman SMART según el podcast?",
+   "options": [
+    "Específicos, medibles, alcanzables, relevantes, con plazo",
+    "Simples, mínimos, amplios, reales, tardíos",
+    "Seguros, medianos, altos, rápidos, tranquilos",
+    "Solo objetivos a largo plazo"
+   ],
+   "answer": 0,
+   "explain": "SMART는 구체적·측정 가능·달성 가능·관련성·기한 정해짐이에요."
+  },
+  {
+   "q": "En la matriz de Eisenhower, ¿qué se hace primero?",
+   "options": [
+    "Lo urgente e importante",
+    "Lo no urgente ni importante",
+    "Lo urgente pero no importante",
+    "Lo importante pero no urgente"
+   ],
+   "answer": 0,
+   "explain": "급하고 중요한 일은 가장 먼저 해요."
+  },
+  {
+   "q": "¿Qué se hace con las tareas ni urgentes ni importantes?",
+   "options": [
+    "Se hacen primero",
+    "Se planifican para después",
+    "Se eliminan o se minimizan",
+    "Se delegan siempre"
+   ],
+   "answer": 2,
+   "explain": "deberías eliminar o minimizar."
+  },
+  {
+   "q": "¿Por qué procrastinamos, según Sofía?",
+   "options": [
+    "Porque no tenemos tiempo",
+    "Porque la tarea parece demasiado grande",
+    "Porque nos gusta descansar",
+    "Porque trabajamos poco"
+   ],
+   "answer": 1,
+   "explain": "una tarea parece demasiado grande o abrumadora."
+  },
+  {
+   "q": "¿En qué consiste la regla de los 5 minutos?",
+   "options": [
+    "Descansar 5 minutos cada hora",
+    "Comprometerse a trabajar solo 5 minutos en la tarea",
+    "Hacer 5 tareas por día",
+    "Terminar en 5 minutos"
+   ],
+   "answer": 1,
+   "explain": "하기 싫은 일을 딱 5분만 하기로 약속하는 거예요."
+  },
+  {
+   "q": "En la técnica Pomodoro, ¿cuánto dura cada bloque de trabajo?",
+   "options": [
+    "10 minutos",
+    "25 minutos",
+    "45 minutos",
+    "60 minutos"
+   ],
+   "answer": 1,
+   "explain": "25분 일하고 5분 쉬어요. 네 번 뒤에는 15~30분 긴 휴식."
+  },
+  {
+   "q": "¿Qué hace Sofía a veces para señalar que está ocupada?",
+   "options": [
+    "Apaga las luces",
+    "Cierra la puerta",
+    "Usa auriculares, incluso sin música",
+    "Se va de la oficina"
+   ],
+   "answer": 2,
+   "explain": "Yo a veces uso auriculares, incluso sin música."
+  },
+  {
+   "q": "¿Cuándo es apropiado delegar una tarea?",
+   "options": [
+    "Nunca",
+    "Cuando otra persona puede hacerla bien y te libera tiempo",
+    "Solo en casa",
+    "Solo si es urgente"
+   ],
+   "answer": 1,
+   "explain": "다른 사람이 능숙하게 할 수 있고 내 시간이 생길 때 적절해요."
+  },
+  {
+   "q": "¿Qué mensaje final da Sofía sobre el proceso?",
+   "options": [
+    "Hay que ser perfecto",
+    "Sé amable contigo mismo; cada esfuerzo cuenta",
+    "No hay que cambiar nada",
+    "Hay que trabajar más"
+   ],
+   "answer": 1,
+   "explain": "sé amable contigo mismo durante el proceso. No siempre será perfecto, pero cada esfuerzo cuenta."
+  }
+ ],
+ "sections": [
+  {
+   "title": "인사 — 오늘의 주제는 시간 관리",
+   "lines": [
+    {
+     "t": 0.3,
+     "s": "M",
+     "es": "Hola a todos y bienvenidos a Escucha y Aprende, su podcast favorito para mejorar en español.",
+     "ko": "여러분 안녕하세요, 스페인어 실력을 높이는 여러분의 최애 팟캐스트 '들으며 배우기'에 오신 걸 환영해요."
+    },
+    {
+     "t": 7.9,
+     "s": "M",
+     "es": "Soy Mateo y, como siempre, estoy aquí con mi increíble coanfitriona, Sofía.",
+     "ko": "저는 마테오예요. 언제나처럼 멋진 공동 진행자 소피아와 함께하고 있어요."
+    },
+    {
+     "t": 14.4,
+     "s": "S",
+     "es": "Hola, Mateo, y hola a todos nuestros oyentes.",
+     "ko": "안녕, 마테오. 그리고 청취자 여러분도 안녕하세요."
+    },
+    {
+     "t": 17.5,
+     "s": "S",
+     "es": "Estoy muy contenta de estar aquí hoy.",
+     "ko": "오늘 여기 있게 되어 정말 기뻐요."
+    },
+    {
+     "t": 19.8,
+     "s": "S",
+     "es": "Tenemos un tema que creo que es superrelevante para la vida de cualquiera.",
+     "ko": "누구의 삶에나 아주 중요하다고 생각하는 주제가 있어요."
+    },
+    {
+     "t": 25.4,
+     "s": "M",
+     "es": "Absolutamente, Sofía.",
+     "ko": "물론이죠, 소피아."
+    },
+    {
+     "t": 27.1,
+     "s": "M",
+     "es": "Hoy vamos a hablar de algo que a menudo nos causa estrés y ansiedad, pero que, si lo dominamos, puede transformar nuestra vida.",
+     "ko": "오늘은 우리에게 종종 스트레스와 불안을 주지만, 잘 다루면 우리 삶을 바꿀 수 있는 것에 대해 이야기할 거예요."
+    },
+    {
+     "t": 37.3,
+     "s": "M",
+     "es": "Hablaremos de la importancia de la gestión del tiempo.",
+     "ko": "시간 관리의 중요성에 대해 이야기할 거예요."
+    }
+   ]
+  },
+  {
+   "title": "시간 관리란 무엇일까?",
+   "lines": [
+    {
+     "t": 43.3,
+     "s": "S",
+     "es": "Ah, la gestión del tiempo. ¡Qué tema tan crucial!",
+     "ko": "아, 시간 관리. 정말 핵심적인 주제네요!"
+    },
+    {
+     "t": 48.2,
+     "s": "S",
+     "es": "Muchas veces pensamos que gestionar el tiempo es solo hacer listas de tareas, ¿verdad?",
+     "ko": "우리는 흔히 시간 관리가 그저 할 일 목록을 만드는 것이라고 생각하죠, 그렇죠?"
+    },
+    {
+     "t": 55.1,
+     "s": "S",
+     "es": "Pero es mucho más que eso.",
+     "ko": "하지만 그보다 훨씬 많은 것이에요."
+    },
+    {
+     "t": 57.5,
+     "s": "M",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 58.3,
+     "s": "M",
+     "es": "Es una habilidad fundamental para cualquier persona, ya seas estudiante, profesional o simplemente alguien que quiere tener más control sobre su día a día.",
+     "ko": "학생이든 직장인이든, 혹은 그저 하루하루를 더 잘 통제하고 싶은 사람이든 누구에게나 기본이 되는 능력이에요."
+    },
+    {
+     "t": 69.7,
+     "s": "M",
+     "es": "Es la diferencia entre sentirte abrumado y sentirte en control.",
+     "ko": "압도당한다고 느끼느냐, 상황을 통제한다고 느끼느냐의 차이예요."
+    },
+    {
+     "t": 75.4,
+     "s": "S",
+     "es": "Sí. Y creo que es importante empezar por definir qué es realmente la gestión del tiempo.",
+     "ko": "네. 그리고 먼저 시간 관리가 정확히 무엇인지 정의하는 것부터 시작하는 게 중요하다고 생각해요."
+    },
+    {
+     "t": 82.4,
+     "s": "S",
+     "es": "No es solo encajar más cosas en nuestro horario, sino cómo usamos nuestro tiempo de la manera más efectiva y productiva posible para alcanzar nuestras metas y reducir el estrés.",
+     "ko": "일정에 더 많은 것을 끼워 넣는 게 아니라, 목표를 이루고 스트레스를 줄이기 위해 시간을 최대한 효과적이고 생산적으로 쓰는 방법이에요."
+    },
+    {
+     "t": 96.1,
+     "s": "M",
+     "es": "Muy bien dicho, Sofía.",
+     "ko": "아주 잘 말했어요, 소피아."
+    },
+    {
+     "t": 98.0,
+     "s": "M",
+     "es": "A menudo la gente piensa que no tiene suficiente tiempo, pero la verdad es que todos tenemos las mismas 24 horas al día.",
+     "ko": "사람들은 흔히 시간이 부족하다고 생각하지만, 사실 우리 모두에게 하루 24시간이 똑같이 주어져요."
+    },
+    {
+     "t": 107.6,
+     "s": "M",
+     "es": "La clave está en cómo las utilizamos, precisamente.",
+     "ko": "핵심은 바로 그 시간을 어떻게 쓰느냐예요."
+    },
+    {
+     "t": 112.0,
+     "s": "S",
+     "es": "Y la falta de gestión del tiempo puede llevar a muchas cosas negativas: plazos incumplidos, trabajo de baja calidad, agotamiento y una sensación constante de estar atrasado.",
+     "ko": "그리고 시간 관리가 부족하면 마감 못 지키기, 낮은 품질의 결과물, 탈진, 늘 뒤처진 듯한 느낌 같은 안 좋은 일이 많이 생길 수 있어요."
+    },
+    {
+     "t": 127.1,
+     "s": "M",
+     "es": "Sí. Esa sensación de estar siempre persiguiendo el reloj es horrible.",
+     "ko": "네. 늘 시계를 쫓아다니는 그 느낌은 정말 끔찍해요."
+    },
+    {
+     "t": 133.0,
+     "s": "M",
+     "es": "Yo mismo la he experimentado muchas veces.",
+     "ko": "저도 여러 번 겪어 봤어요."
+    },
+    {
+     "t": 136.3,
+     "s": "M",
+     "es": "Me sentía como si estuviera corriendo una carrera sin línea de meta.",
+     "ko": "결승선 없는 달리기를 하는 것 같았어요."
+    },
+    {
+     "t": 141.7,
+     "s": "S",
+     "es": "Me pasa lo mismo, especialmente cuando tengo muchos proyectos a la vez.",
+     "ko": "나도 마찬가지예요, 특히 프로젝트가 동시에 많을 때요."
+    },
+    {
+     "t": 147.6,
+     "s": "S",
+     "es": "Es cuando la gestión del tiempo se vuelve una necesidad, no un lujo.",
+     "ko": "그럴 때 시간 관리는 사치가 아니라 필수가 되죠."
+    },
+    {
+     "t": 153.2,
+     "s": "M",
+     "es": "Sofía, ¿cuál dirías que es el primer paso, la base para empezar a gestionar mejor nuestro tiempo?",
+     "ko": "소피아, 시간을 더 잘 관리하기 위한 첫걸음, 기초는 무엇이라고 할 수 있을까요?"
+    }
+   ]
+  },
+  {
+   "title": "첫걸음 — 알아차리기와 목표 세우기",
+   "lines": [
+    {
+     "t": 161.5,
+     "s": "S",
+     "es": "Buena pregunta, Mateo.",
+     "ko": "좋은 질문이에요, 마테오."
+    },
+    {
+     "t": 163.4,
+     "s": "S",
+     "es": "Creo que el primer paso fundamental es la conciencia.",
+     "ko": "가장 기본이 되는 첫걸음은 자각이라고 생각해요."
+    },
+    {
+     "t": 168.1,
+     "s": "S",
+     "es": "Necesitamos saber dónde se nos va el tiempo ahora mismo, en qué lo estamos invirtiendo.",
+     "ko": "지금 우리 시간이 어디로 새고 있는지, 무엇에 쓰고 있는지 알아야 해요."
+    },
+    {
+     "t": 175.9,
+     "s": "M",
+     "es": "Ah, sí, llevar un registro del tiempo.",
+     "ko": "아, 맞아요, 시간 기록을 남기는 것 말이죠."
+    },
+    {
+     "t": 179.4,
+     "s": "M",
+     "es": "Durante unos días anotas todo lo que haces y cuánto tiempo te lleva cada actividad.",
+     "ko": "며칠 동안 하는 일과 각 활동에 걸리는 시간을 전부 적어 두는 거예요."
+    },
+    {
+     "t": 185.7,
+     "s": "M",
+     "es": "Es increíble lo revelador que puede ser.",
+     "ko": "얼마나 많은 걸 깨닫게 해 주는지 놀라울 정도예요."
+    },
+    {
+     "t": 188.8,
+     "s": "S",
+     "es": "Absolutamente.",
+     "ko": "정말 그래요."
+    },
+    {
+     "t": 190.1,
+     "s": "S",
+     "es": "¿Te das cuenta de cuántas horas pasas revisando redes sociales, contestando correos que no son urgentes o viendo la televisión?",
+     "ko": "SNS를 확인하고, 급하지 않은 메일에 답하고, TV를 보면서 몇 시간을 보내는지 깨닫게 되죠?"
+    },
+    {
+     "t": 199.8,
+     "s": "S",
+     "es": "A veces nos sorprendemos de la cantidad de tiempo muerto, o ladrón de tiempo, que tenemos.",
+     "ko": "때로는 죽은 시간, 즉 '시간 도둑'이 얼마나 많은지 보고 놀라기도 해요."
+    },
+    {
+     "t": 206.9,
+     "s": "M",
+     "es": "Ladrones de tiempo. Me gusta esa expresión.",
+     "ko": "시간 도둑. 그 표현 마음에 드네요."
+    },
+    {
+     "t": 210.5,
+     "s": "M",
+     "es": "Y una vez que somos conscientes de cómo usamos nuestro tiempo, ¿cuál sería el siguiente paso lógico?",
+     "ko": "그럼 시간을 어떻게 쓰는지 알게 된 다음, 논리적으로 이어지는 단계는 뭘까요?"
+    },
+    {
+     "t": 217.8,
+     "s": "S",
+     "es": "El siguiente paso, y este es crucial, es establecer objetivos claros.",
+     "ko": "다음 단계는 아주 중요한데, 분명한 목표를 세우는 거예요."
+    },
+    {
+     "t": 224.4,
+     "s": "S",
+     "es": "¿Qué quieres lograr?",
+     "ko": "무엇을 이루고 싶은가요?"
+    },
+    {
+     "t": 226.3,
+     "s": "S",
+     "es": "Si no sabes a dónde vas, cualquier camino te servirá, pero no necesariamente el mejor.",
+     "ko": "어디로 가는지 모르면 어떤 길이든 괜찮겠지만, 꼭 최선의 길은 아니겠죠."
+    },
+    {
+     "t": 233.8,
+     "s": "M",
+     "es": "Muy cierto.",
+     "ko": "맞는 말이에요."
+    },
+    {
+     "t": 234.7,
+     "s": "M",
+     "es": "Y no son solo objetivos a largo plazo, sino también a corto plazo: metas semanales, diarias, incluso para una sola tarea grande.",
+     "ko": "그리고 장기 목표만이 아니라 단기 목표도 필요해요. 주간 목표, 일간 목표, 큰 과제 하나에 대한 목표까지요."
+    },
+    {
+     "t": 244.4,
+     "s": "M",
+     "es": "Esto te ayuda a mantener el enfoque.",
+     "ko": "이렇게 하면 집중을 유지하는 데 도움이 돼요."
+    },
+    {
+     "t": 247.5,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 248.2,
+     "s": "S",
+     "es": "Y cuando establecemos objetivos, es útil que sean SMART: específicos, medibles, alcanzables, relevantes y con plazo de tiempo definido.",
+     "ko": "그리고 목표를 세울 때는 SMART하면 좋아요. 구체적이고, 측정 가능하고, 달성 가능하고, 관련성이 있고, 기한이 정해진 것이죠."
+    },
+    {
+     "t": 259.5,
+     "s": "S",
+     "es": "Esto les da estructura y los hace más realistas.",
+     "ko": "그러면 목표에 틀이 생기고 더 현실적이 돼요."
+    }
+   ]
+  },
+  {
+   "title": "우선순위 — 아이젠하워 매트릭스",
+   "lines": [
+    {
+     "t": 263.9,
+     "s": "M",
+     "es": "Smart goals, sí, son muy efectivos.",
+     "ko": "SMART 목표, 네, 아주 효과적이에요."
+    },
+    {
+     "t": 266.5,
+     "s": "M",
+     "es": "Una vez que tenemos los objetivos, ¿cómo empezamos a organizar las tareas para alcanzarlos?",
+     "ko": "목표가 생기면, 그걸 이루기 위한 일들을 어떻게 정리하기 시작할까요?"
+    },
+    {
+     "t": 273.1,
+     "s": "M",
+     "es": "Porque a veces la lista de tareas puede ser abrumadora.",
+     "ko": "할 일 목록이 때로는 벅차게 느껴질 수 있으니까요."
+    },
+    {
+     "t": 277.0,
+     "s": "S",
+     "es": "Ahí entra la priorización.",
+     "ko": "거기서 우선순위 정하기가 등장해요."
+    },
+    {
+     "t": 279.0,
+     "s": "S",
+     "es": "No todas las tareas son iguales.",
+     "ko": "모든 일이 똑같지는 않아요."
+    },
+    {
+     "t": 281.5,
+     "s": "S",
+     "es": "Algunas son más importantes o más urgentes que otras.",
+     "ko": "어떤 일은 다른 일보다 더 중요하거나 더 급하죠."
+    },
+    {
+     "t": 285.8,
+     "s": "S",
+     "es": "Una herramienta muy útil aquí es la matriz de Eisenhower.",
+     "ko": "여기서 아주 유용한 도구가 아이젠하워 매트릭스예요."
+    },
+    {
+     "t": 291.6,
+     "s": "M",
+     "es": "La matriz de Eisenhower, eso es genial.",
+     "ko": "아이젠하워 매트릭스, 멋지네요."
+    },
+    {
+     "t": 295.6,
+     "s": "M",
+     "es": "Divide las tareas en cuatro categorías: urgente e importante; importante pero no urgente; urgente pero no importante; y ni urgente ni importante.",
+     "ko": "일을 네 가지로 나눠요. 급하고 중요한 일, 중요하지만 급하지 않은 일, 급하지만 중요하지 않은 일, 급하지도 중요하지도 않은 일이에요."
+    },
+    {
+     "t": 309.2,
+     "s": "S",
+     "es": "Justo.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 309.9,
+     "s": "S",
+     "es": "Las tareas urgentes e importantes son las que haces primero.",
+     "ko": "급하고 중요한 일은 가장 먼저 하는 일이에요."
+    },
+    {
+     "t": 315.3,
+     "s": "S",
+     "es": "Las importantes pero no urgentes son las que planificas para hacerlas después.",
+     "ko": "중요하지만 급하지 않은 일은 나중에 하도록 계획을 세우는 일이에요."
+    },
+    {
+     "t": 320.9,
+     "s": "S",
+     "es": "Estas son las que a menudo se posponen y se convierten en urgentes si no se manejan bien.",
+     "ko": "이런 일은 자주 미뤄지다가 제대로 다루지 않으면 급한 일이 되어 버려요."
+    },
+    {
+     "t": 327.6,
+     "s": "S",
+     "es": "Las urgentes pero no importantes son las que intentas delegar, si es posible, o hacer rápidamente si no te quitan mucho tiempo.",
+     "ko": "급하지만 중요하지 않은 일은 가능하면 위임하고, 시간이 많이 안 걸리면 빨리 처리해요."
+    },
+    {
+     "t": 337.8,
+     "s": "S",
+     "es": "Y las ni urgentes ni importantes, esas son las que deberías eliminar o minimizar.",
+     "ko": "그리고 급하지도 중요하지도 않은 일은 없애거나 최소화해야 해요."
+    },
+    {
+     "t": 345.1,
+     "s": "M",
+     "es": "Exacto. Así te aseguras de que estás dedicando tu energía a lo que realmente importa y hace avanzar tus objetivos.",
+     "ko": "맞아요. 그렇게 하면 정말 중요하고 목표를 앞으로 나아가게 하는 일에 에너지를 쓰고 있다고 확신할 수 있어요."
+    },
+    {
+     "t": 354.1,
+     "s": "M",
+     "es": "Es una excelente manera de ordenar el caos.",
+     "ko": "혼란을 정리하는 아주 좋은 방법이에요."
+    }
+   ]
+  },
+  {
+   "title": "미루는 습관 — 5분 규칙과 포모도로",
+   "lines": [
+    {
+     "t": 357.2,
+     "s": "M",
+     "es": "¿Y qué hay de la procrastinación, Sofía?",
+     "ko": "그럼 미루는 습관은요, 소피아?"
+    },
+    {
+     "t": 360.8,
+     "s": "M",
+     "es": "Esa es una batalla constante para mucha gente, incluyéndome a veces.",
+     "ko": "많은 사람에게 끊임없는 싸움이고, 가끔은 저도 그래요."
+    },
+    {
+     "t": 367.4,
+     "s": "S",
+     "es": "Oh, la procrastinación es el enemigo número uno de la gestión del tiempo.",
+     "ko": "아, 미루기는 시간 관리의 가장 큰 적이에요."
+    },
+    {
+     "t": 375.8,
+     "s": "S",
+     "es": "Todos la experimentamos.",
+     "ko": "우리 모두 겪죠."
+    },
+    {
+     "t": 377.5,
+     "s": "S",
+     "es": "Una de las razones por las que procrastinamos es porque una tarea parece demasiado grande o abrumadora.",
+     "ko": "우리가 미루는 이유 중 하나는 일이 너무 크거나 벅차 보이기 때문이에요."
+    },
+    {
+     "t": 385.4,
+     "s": "M",
+     "es": "Sí. Cuando ves una tarea enorme, tu cerebro dice: «No, esto es demasiado. Haré otra cosa más fácil».",
+     "ko": "네. 엄청나게 큰 일을 보면 뇌가 말하죠. \"아니, 이건 너무 많아. 더 쉬운 다른 걸 하자.\""
+    },
+    {
+     "t": 394.4,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 395.1,
+     "s": "S",
+     "es": "La clave aquí es dividir las tareas grandes en tareas más pequeñas y manejables.",
+     "ko": "여기서 핵심은 큰 일을 더 작고 다룰 만한 일로 나누는 거예요."
+    },
+    {
+     "t": 401.7,
+     "s": "S",
+     "es": "Si tienes que escribir un informe de 20 páginas, no pienses en escribir el informe.",
+     "ko": "20쪽짜리 보고서를 써야 한다면 '보고서 쓰기'라고 생각하지 마세요."
+    },
+    {
+     "t": 408.4,
+     "s": "S",
+     "es": "Piensa en investigar la sección uno, escribir la introducción, crear el esquema.",
+     "ko": "1절 조사하기, 서론 쓰기, 개요 만들기라고 생각하세요."
+    },
+    {
+     "t": 415.2,
+     "s": "S",
+     "es": "Eso lo hace mucho más fácil de empezar.",
+     "ko": "그러면 시작하기가 훨씬 쉬워져요."
+    },
+    {
+     "t": 418.6,
+     "s": "S",
+     "es": "Cada pequeña parte se siente como un logro.",
+     "ko": "작은 부분 하나하나가 성취처럼 느껴져요."
+    },
+    {
+     "t": 422.0,
+     "s": "M",
+     "es": "Sí. Y también ayuda la regla de los 5 minutos.",
+     "ko": "네. 그리고 5분 규칙도 도움이 돼요."
+    },
+    {
+     "t": 425.5,
+     "s": "M",
+     "es": "Si tienes una tarea que no quieres hacer, comprométete a trabajar en ella solo por 5 minutos.",
+     "ko": "하기 싫은 일이 있으면 딱 5분만 하겠다고 스스로 약속하는 거예요."
+    },
+    {
+     "t": 432.2,
+     "s": "M",
+     "es": "A menudo, una vez que empiezas, te das cuenta de que no es tan malo y sigues adelante.",
+     "ko": "시작하고 나면 생각만큼 나쁘지 않다는 걸 깨닫고 계속하게 되는 경우가 많아요."
+    },
+    {
+     "t": 438.8,
+     "s": "S",
+     "es": "Me encanta esa regla.",
+     "ko": "그 규칙 정말 좋아해요."
+    },
+    {
+     "t": 440.7,
+     "s": "S",
+     "es": "La uso mucho cuando no quiero ir al gimnasio: solo 5 minutos de ejercicio, y la mayoría de las veces termino haciendo la rutina completa.",
+     "ko": "헬스장에 가기 싫을 때 자주 써요. 운동 5분만 하자고 하면, 대부분 결국 루틴 전체를 하게 돼요."
+    },
+    {
+     "t": 453.4,
+     "s": "M",
+     "es": "Funciona para todo.",
+     "ko": "뭐든지 통해요."
+    },
+    {
+     "t": 455.1,
+     "s": "M",
+     "es": "Otra técnica muy popular y efectiva para combatir la procrastinación y mejorar la concentración es la técnica Pomodoro.",
+     "ko": "미루기와 싸우고 집중력을 높이는, 아주 인기 있고 효과적인 또 다른 기법은 포모도로 기법이에요."
+    },
+    {
+     "t": 465.8,
+     "s": "M",
+     "es": "¿La conoces, Sofía?",
+     "ko": "알고 있나요, 소피아?"
+    },
+    {
+     "t": 467.7,
+     "s": "S",
+     "es": "Sí, claro.",
+     "ko": "네, 물론이죠."
+    },
+    {
+     "t": 468.8,
+     "s": "S",
+     "es": "Trabajas durante 25 minutos sin interrupciones y luego tomas un descanso de 5 minutos.",
+     "ko": "방해 없이 25분 동안 일하고, 그다음 5분 쉬는 거예요."
+    },
+    {
+     "t": 476.6,
+     "s": "S",
+     "es": "Después de cuatro pomodoros, tomas un descanso más largo, de 15 a 30 minutos.",
+     "ko": "포모도로 네 번이 끝나면 15분에서 30분의 더 긴 휴식을 취해요."
+    },
+    {
+     "t": 484.0,
+     "s": "M",
+     "es": "Exacto. Es fantástica porque entrena tu cerebro para concentrarse intensamente durante periodos cortos y te permite recargar energías.",
+     "ko": "맞아요. 짧은 시간 동안 뇌가 강하게 집중하도록 훈련시키고 에너지를 충전하게 해 주니까 아주 좋아요."
+    },
+    {
+     "t": 494.2,
+     "s": "S",
+     "es": "Es increíble cómo esos pequeños descansos pueden revitalizarte.",
+     "ko": "그 짧은 휴식이 활력을 되찾아 준다는 게 놀라워요."
+    },
+    {
+     "t": 499.5,
+     "s": "S",
+     "es": "Me gusta porque te fuerza a tomar esos descansos, lo que es importante para evitar el agotamiento.",
+     "ko": "탈진을 막으려면 중요한 그 휴식을 억지로라도 취하게 해 줘서 좋아요."
+    },
+    {
+     "t": 507.0,
+     "s": "S",
+     "es": "A veces me olvido de descansar y termino quemada.",
+     "ko": "가끔 쉬는 걸 잊어버려서 결국 녹초가 돼요."
+    },
+    {
+     "t": 511.1,
+     "s": "M",
+     "es": "A mí también me pasa.",
+     "ko": "나도 그래요."
+    }
+   ]
+  },
+  {
+   "title": "방해 요소 줄이기와 위임",
+   "lines": [
+    {
+     "t": 513.0,
+     "s": "M",
+     "es": "Y, hablando de interrupciones, ¿qué hacemos con las distracciones hoy en día, con nuestros teléfonos y el internet?",
+     "ko": "그리고 방해 얘기가 나왔으니, 요즘 휴대폰과 인터넷이 주는 산만함은 어떻게 하죠?"
+    },
+    {
+     "t": 523.3,
+     "s": "M",
+     "es": "Es muy difícil concentrarse.",
+     "ko": "집중하기가 정말 어려워요."
+    },
+    {
+     "t": 526.0,
+     "s": "S",
+     "es": "Las distracciones son un gran problema.",
+     "ko": "산만함은 큰 문제예요."
+    },
+    {
+     "t": 528.9,
+     "s": "S",
+     "es": "Una estrategia es crear un entorno de trabajo libre de distracciones.",
+     "ko": "한 가지 전략은 방해 요소 없는 작업 환경을 만드는 거예요."
+    },
+    {
+     "t": 533.7,
+     "s": "S",
+     "es": "Apaga las notificaciones del teléfono, cierra las pestañas del navegador que no necesitas y, si es posible, trabaja en un lugar tranquilo.",
+     "ko": "휴대폰 알림을 끄고, 필요 없는 브라우저 탭을 닫고, 가능하면 조용한 곳에서 일하세요."
+    },
+    {
+     "t": 543.0,
+     "s": "M",
+     "es": "Sí, y a veces eso significa decirle a la gente que no te moleste durante ciertos bloques de tiempo.",
+     "ko": "네, 그리고 때로는 특정 시간대에는 방해하지 말라고 사람들에게 말하는 것도 포함돼요."
+    },
+    {
+     "t": 551.0,
+     "s": "M",
+     "es": "Establecer límites es crucial.",
+     "ko": "선을 정하는 게 중요해요."
+    },
+    {
+     "t": 553.6,
+     "s": "S",
+     "es": "Yo a veces uso auriculares, incluso sin música, solo para señalar que estoy ocupada.",
+     "ko": "나는 가끔 음악이 없어도 바쁘다는 신호로 헤드폰을 써요."
+    },
+    {
+     "t": 560.8,
+     "s": "M",
+     "es": "Esa es una buena táctica.",
+     "ko": "좋은 방법이네요."
+    },
+    {
+     "t": 562.8,
+     "s": "M",
+     "es": "Otra cosa que he encontrado útil es agrupar tareas similares.",
+     "ko": "제가 유용하다고 느낀 또 하나는 비슷한 일을 묶어서 하는 거예요."
+    },
+    {
+     "t": 567.5,
+     "s": "M",
+     "es": "Por ejemplo, responder todos los correos electrónicos a una hora específica del día, en lugar de cada vez que llega uno nuevo, o hacer todas las llamadas telefónicas de una vez.",
+     "ko": "예를 들면 새 메일이 올 때마다 답하는 대신 하루 중 정해진 시간에 모든 메일에 답하거나, 전화를 한꺼번에 다 하는 거예요."
+    },
+    {
+     "t": 579.3,
+     "s": "S",
+     "es": "Sí, eso es muy eficiente.",
+     "ko": "네, 아주 효율적이에요."
+    },
+    {
+     "t": 581.3,
+     "s": "S",
+     "es": "Evita el cambio de contexto constante, que consume mucha energía mental.",
+     "ko": "정신적 에너지를 많이 소모하는 끊임없는 작업 전환을 피하게 해 줘요."
+    },
+    {
+     "t": 586.0,
+     "s": "S",
+     "es": "Es mejor hacer una cosa a la vez y terminarla que empezar muchas y no terminar ninguna.",
+     "ko": "여러 개를 시작해 하나도 끝내지 못하는 것보다 한 번에 하나씩 끝내는 게 나아요."
+    },
+    {
+     "t": 592.6,
+     "s": "M",
+     "es": "¿Y qué hay de la delegación, Sofía?",
+     "ko": "그럼 위임은 어떨까요, 소피아?"
+    },
+    {
+     "t": 595.4,
+     "s": "M",
+     "es": "¿Cuándo es apropiado delegar tareas?",
+     "ko": "언제 일을 위임하는 게 적절할까요?"
+    },
+    {
+     "t": 598.6,
+     "s": "S",
+     "es": "La delegación es una habilidad de gestión del tiempo muy subestimada.",
+     "ko": "위임은 지나치게 과소평가된 시간 관리 기술이에요."
+    },
+    {
+     "t": 604.4,
+     "s": "S",
+     "es": "Es apropiada cuando otra persona puede hacer la tarea de manera competente y cuando te libera tiempo para concentrarte en tareas más importantes o en las que solo tú puedes hacer.",
+     "ko": "다른 사람이 그 일을 능숙하게 할 수 있고, 위임하면 더 중요한 일이나 나만 할 수 있는 일에 집중할 시간이 생길 때 적절해요."
+    },
+    {
+     "t": 618.0,
+     "s": "M",
+     "es": "Eso es clave.",
+     "ko": "그게 핵심이에요."
+    },
+    {
+     "t": 619.1,
+     "s": "M",
+     "es": "A veces pensamos que es más rápido hacer algo nosotros mismos, pero a largo plazo aprender a delegar eficazmente puede liberar una cantidad enorme de tiempo y también empodera a otros.",
+     "ko": "때로는 내가 직접 하는 게 더 빠르다고 생각하지만, 길게 보면 효과적으로 위임하는 법을 배우는 것이 엄청난 시간을 만들어 주고 다른 사람에게도 힘을 실어 줘요."
+    },
+    {
+     "t": 634.4,
+     "s": "S",
+     "es": "Exacto.",
+     "ko": "맞아요."
+    },
+    {
+     "t": 635.1,
+     "s": "S",
+     "es": "Y no solo en el trabajo; en casa también se puede delegar, repartir las tareas del hogar, por ejemplo.",
+     "ko": "직장에서만이 아니에요. 집에서도 위임할 수 있어요. 예를 들면 집안일을 나누는 거죠."
+    },
+    {
+     "t": 644.1,
+     "s": "M",
+     "es": "Sí, eso es vital para la paz en el hogar.",
+     "ko": "네, 집안의 평화를 위해 꼭 필요하죠."
+    }
+   ]
+  },
+  {
+   "title": "일과 삶의 균형",
+   "lines": [
+    {
+     "t": 649.1,
+     "s": "M",
+     "es": "Y, hablando de paz, ¿cómo ayuda la gestión del tiempo a lograr un mejor equilibrio entre la vida laboral y personal?",
+     "ko": "평화 얘기가 나왔으니, 시간 관리는 일과 개인 생활의 균형을 맞추는 데 어떻게 도움이 될까요?"
+    },
+    {
+     "t": 659.0,
+     "s": "S",
+     "es": "Esa es una pregunta excelente, Mateo.",
+     "ko": "아주 좋은 질문이에요, 마테오."
+    },
+    {
+     "t": 661.8,
+     "s": "S",
+     "es": "Cuando gestionamos nuestro tiempo eficazmente, somos más productivos durante nuestras horas de trabajo.",
+     "ko": "시간을 효과적으로 관리하면 일하는 시간 동안 더 생산적이 돼요."
+    },
+    {
+     "t": 668.7,
+     "s": "S",
+     "es": "Esto significa que podemos terminar nuestras tareas a tiempo y, crucialmente, desconectar al final del día.",
+     "ko": "그러면 일을 제때 끝내고, 무엇보다 하루가 끝날 때 업무에서 벗어날 수 있다는 뜻이에요."
+    },
+    {
+     "t": 677.8,
+     "s": "M",
+     "es": "Ah, sí, la desconexión, eso es tan importante.",
+     "ko": "아, 맞아요, 업무에서 벗어나는 것, 그게 정말 중요해요."
+    },
+    {
+     "t": 682.3,
+     "s": "M",
+     "es": "Muchas personas trabajan horas extras porque no son eficientes durante el día, y eso les roba tiempo personal y de descanso.",
+     "ko": "많은 사람이 낮에 효율적으로 일하지 못해 야근을 하고, 그게 개인 시간과 휴식 시간을 빼앗아 가요."
+    },
+    {
+     "t": 691.6,
+     "s": "S",
+     "es": "Exactamente.",
+     "ko": "정확해요."
+    },
+    {
+     "t": 692.7,
+     "s": "S",
+     "es": "Y esa falta de equilibrio lleva al agotamiento, al estrés y a problemas de salud.",
+     "ko": "그리고 그런 균형의 부족은 탈진과 스트레스, 건강 문제로 이어져요."
+    },
+    {
+     "t": 699.7,
+     "s": "S",
+     "es": "La gestión del tiempo no se trata solo de trabajar más, sino de trabajar de forma más inteligente para tener tiempo para todo: trabajo, familia, amigos, pasatiempos, descanso.",
+     "ko": "시간 관리는 더 많이 일하는 게 아니라, 일과 가족, 친구, 취미, 휴식 모두에 쓸 시간을 갖도록 더 똑똑하게 일하는 거예요."
+    },
+    {
+     "t": 715.9,
+     "s": "M",
+     "es": "Así que, en resumen, no es solo ser productivo, sino tener una vida más plena y equilibrada.",
+     "ko": "그러니까 요약하면, 생산적인 것만이 아니라 더 충만하고 균형 잡힌 삶을 사는 것이군요."
+    },
+    {
+     "t": 725.6,
+     "s": "S",
+     "es": "Precisamente.",
+     "ko": "바로 그거예요."
+    },
+    {
+     "t": 726.7,
+     "s": "S",
+     "es": "Es vivir intencionalmente en lugar de simplemente reaccionar a lo que venga.",
+     "ko": "닥치는 대로 반응하는 대신 의도를 갖고 사는 거예요."
+    },
+    {
+     "t": 733.5,
+     "s": "S",
+     "es": "Es retomar el control.",
+     "ko": "통제권을 되찾는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "오늘부터 해 볼 실천 팁 다섯 가지",
+   "lines": [
+    {
+     "t": 735.3,
+     "s": "M",
+     "es": "¿Qué otras herramientas o consejos prácticos recomendarías, Sofía, para nuestros oyentes que quieren empezar hoy mismo?",
+     "ko": "소피아, 오늘 당장 시작하고 싶은 청취자들에게 다른 어떤 도구나 실용적인 조언을 추천하겠어요?"
+    },
+    {
+     "t": 744.6,
+     "s": "S",
+     "es": "Bien. Primero, planifica tu día la noche anterior.",
+     "ko": "좋아요. 첫째, 전날 밤에 하루를 계획하세요."
+    },
+    {
+     "t": 749.8,
+     "s": "S",
+     "es": "Dedica 10 o 15 minutos antes de acostarte para organizar tus tareas del día siguiente.",
+     "ko": "자기 전에 10~15분을 들여 다음 날 할 일을 정리해 보세요."
+    },
+    {
+     "t": 757.8,
+     "s": "S",
+     "es": "Te despertarás con un plan claro y menos estrés.",
+     "ko": "분명한 계획과 줄어든 스트레스로 아침을 맞게 될 거예요."
+    },
+    {
+     "t": 761.8,
+     "s": "M",
+     "es": "Esa es una que uso mucho.",
+     "ko": "그건 제가 많이 쓰는 방법이에요."
+    },
+    {
+     "t": 764.0,
+     "s": "M",
+     "es": "Me ayuda a dormir mejor sabiendo lo que tengo que hacer.",
+     "ko": "해야 할 일을 알고 있으면 더 잘 자게 돼요."
+    },
+    {
+     "t": 768.7,
+     "s": "S",
+     "es": "Segundo, aprende a decir no.",
+     "ko": "둘째, 거절하는 법을 배우세요."
+    },
+    {
+     "t": 771.3,
+     "s": "S",
+     "es": "Es difícil, pero esencial.",
+     "ko": "어렵지만 꼭 필요해요."
+    },
+    {
+     "t": 773.9,
+     "s": "S",
+     "es": "Decir no a una solicitud que no se alinea con tus prioridades te permite decir sí a las cosas que realmente importan.",
+     "ko": "내 우선순위와 맞지 않는 부탁에 '아니요'라고 하면, 정말 중요한 일에 '네'라고 할 수 있어요."
+    },
+    {
+     "t": 784.9,
+     "s": "M",
+     "es": "Esa es una lección difícil de aprender, pero muy poderosa.",
+     "ko": "배우기 어렵지만 아주 강력한 교훈이에요."
+    },
+    {
+     "t": 790.6,
+     "s": "M",
+     "es": "No puedes hacerlo todo, y está bien.",
+     "ko": "모든 걸 다 할 수는 없고, 그래도 괜찮아요."
+    },
+    {
+     "t": 794.8,
+     "s": "S",
+     "es": "Exacto. Tercero, evita la perfección.",
+     "ko": "맞아요. 셋째, 완벽함을 피하세요."
+    },
+    {
+     "t": 799.8,
+     "s": "S",
+     "es": "Hecho es mejor que perfecto.",
+     "ko": "완벽한 것보다 끝낸 것이 낫습니다."
+    },
+    {
+     "t": 802.1,
+     "s": "S",
+     "es": "A veces nos quedamos estancados tratando de que algo sea absolutamente impecable, y eso nos hace perder un tiempo valioso.",
+     "ko": "가끔 뭔가를 완전히 흠 없이 만들려다 막혀 버리고, 그러다 소중한 시간을 잃어요."
+    },
+    {
+     "t": 812.0,
+     "s": "M",
+     "es": "Ah, el perfeccionismo puede ser un ladrón de tiempo muy sutil.",
+     "ko": "아, 완벽주의는 아주 교묘한 시간 도둑일 수 있어요."
+    },
+    {
+     "t": 817.7,
+     "s": "M",
+     "es": "Te hace revisar y revisar cuando la tarea ya está suficientemente bien.",
+     "ko": "일이 이미 충분히 괜찮은데도 검토하고 또 검토하게 만들죠."
+    },
+    {
+     "t": 825.3,
+     "s": "S",
+     "es": "Sí. Cuarto, utiliza herramientas.",
+     "ko": "네. 넷째, 도구를 활용하세요."
+    },
+    {
+     "t": 828.1,
+     "s": "S",
+     "es": "Hay muchas aplicaciones y calendarios digitales que pueden ayudarte: Google Calendar, Trello, Todoist, Notion.",
+     "ko": "도움이 되는 앱과 디지털 캘린더가 많아요. 구글 캘린더, 트렐로, 투두이스트, 노션 같은 거요."
+    },
+    {
+     "t": 836.6,
+     "s": "S",
+     "es": "Encuentra una que funcione para ti y úsala consistentemente.",
+     "ko": "나에게 맞는 걸 찾아서 꾸준히 쓰세요."
+    },
+    {
+     "t": 842.5,
+     "s": "M",
+     "es": "Y no tienen que ser herramientas complicadas.",
+     "ko": "그리고 복잡한 도구일 필요는 없어요."
+    },
+    {
+     "t": 845.9,
+     "s": "M",
+     "es": "A veces un simple cuaderno y un bolígrafo son suficientes para empezar.",
+     "ko": "때로는 평범한 공책과 펜만으로도 시작하기에 충분해요."
+    },
+    {
+     "t": 851.9,
+     "s": "M",
+     "es": "Lo importante es el hábito.",
+     "ko": "중요한 건 습관이에요."
+    },
+    {
+     "t": 854.8,
+     "s": "S",
+     "es": "Totalmente. Y, finalmente, revisa tu sistema regularmente.",
+     "ko": "완전히 동의해요. 그리고 마지막으로, 정기적으로 자신의 시스템을 점검하세요."
+    },
+    {
+     "t": 860.0,
+     "s": "S",
+     "es": "La gestión del tiempo no es algo que haces una vez y ya está.",
+     "ko": "시간 관리는 한 번 하고 끝나는 일이 아니에요."
+    },
+    {
+     "t": 864.8,
+     "s": "S",
+     "es": "Es un proceso continuo.",
+     "ko": "계속 이어지는 과정이에요."
+    },
+    {
+     "t": 866.9,
+     "s": "S",
+     "es": "Revisa tus objetivos, tus métodos y ajusta según sea necesario.",
+     "ko": "목표와 방법을 점검하고 필요에 따라 조정하세요."
+    },
+    {
+     "t": 872.5,
+     "s": "M",
+     "es": "Eso es muy importante.",
+     "ko": "그게 아주 중요해요."
+    },
+    {
+     "t": 874.4,
+     "s": "M",
+     "es": "Lo que funciona un mes puede que no funcione el siguiente.",
+     "ko": "한 달 동안 잘 되던 것이 다음 달에는 안 될 수도 있어요."
+    },
+    {
+     "t": 878.9,
+     "s": "M",
+     "es": "Es cuestión de flexibilidad y autoconocimiento.",
+     "ko": "유연성과 자기 이해의 문제예요."
+    },
+    {
+     "t": 883.1,
+     "s": "S",
+     "es": "Sí. Al final, la gestión del tiempo es una forma de autogestión.",
+     "ko": "네. 결국 시간 관리는 자기 관리의 한 형태예요."
+    },
+    {
+     "t": 889.0,
+     "s": "S",
+     "es": "Es entenderte a ti mismo, tus hábitos, tus prioridades, y diseñar una vida que te sirva.",
+     "ko": "자신과 자신의 습관, 우선순위를 이해하고 나에게 맞는 삶을 설계하는 거예요."
+    }
+   ]
+  },
+  {
+   "title": "마무리 — 한 가지 기법부터 시작해요",
+   "lines": [
+    {
+     "t": 895.9,
+     "s": "M",
+     "es": "Sofía, has compartido muchísimos consejos prácticos y muy valiosos.",
+     "ko": "소피아, 정말 많은, 그리고 아주 값진 실용적인 조언을 나눠 주었어요."
+    },
+    {
+     "t": 902.0,
+     "s": "M",
+     "es": "Espero que nuestros oyentes puedan empezar a aplicar algunos de ellos hoy mismo.",
+     "ko": "청취자 여러분이 오늘부터 그중 몇 가지를 적용해 보면 좋겠어요."
+    },
+    {
+     "t": 908.8,
+     "s": "S",
+     "es": "Eso espero.",
+     "ko": "그러길 바라요."
+    },
+    {
+     "t": 909.8,
+     "s": "S",
+     "es": "Incluso empezar con una sola técnica puede marcar una gran diferencia.",
+     "ko": "기법 하나만 시작해도 큰 차이를 만들 수 있어요."
+    },
+    {
+     "t": 915.4,
+     "s": "S",
+     "es": "No hay necesidad de cambiar todo de golpe: pequeños pasos.",
+     "ko": "한꺼번에 모든 걸 바꿀 필요 없어요. 작은 걸음이면 돼요."
+    },
+    {
+     "t": 920.2,
+     "s": "M",
+     "es": "Así es.",
+     "ko": "그렇죠."
+    },
+    {
+     "t": 921.1,
+     "s": "M",
+     "es": "Así que, para resumir: sé consciente de cómo usas tu tiempo.",
+     "ko": "그러니 정리하자면, 시간을 어떻게 쓰는지 의식하세요."
+    },
+    {
+     "t": 927.3,
+     "s": "M",
+     "es": "Establece objetivos claros.",
+     "ko": "분명한 목표를 세우세요."
+    },
+    {
+     "t": 929.7,
+     "s": "M",
+     "es": "Prioriza tus tareas.",
+     "ko": "일의 우선순위를 정하세요."
+    },
+    {
+     "t": 931.2,
+     "s": "M",
+     "es": "Combate la procrastinación dividiendo las tareas y usando técnicas como Pomodoro.",
+     "ko": "일을 나누고 포모도로 같은 기법을 써서 미루기와 싸우세요."
+    },
+    {
+     "t": 937.2,
+     "s": "M",
+     "es": "Minimiza las distracciones.",
+     "ko": "방해 요소를 최소화하세요."
+    },
+    {
+     "t": 939.2,
+     "s": "M",
+     "es": "Aprende a delegar y a decir no, y busca un equilibrio en tu vida.",
+     "ko": "위임하고 거절하는 법을 배우고, 삶의 균형을 찾으세요."
+    },
+    {
+     "t": 944.4,
+     "s": "M",
+     "es": "Y usa las herramientas que te convengan.",
+     "ko": "그리고 나에게 맞는 도구를 쓰세요."
+    },
+    {
+     "t": 947.8,
+     "s": "S",
+     "es": "Y, lo más importante, sé amable contigo mismo durante el proceso.",
+     "ko": "그리고 가장 중요한 건, 그 과정에서 자신에게 친절하세요."
+    },
+    {
+     "t": 953.1,
+     "s": "S",
+     "es": "No siempre será perfecto, pero cada esfuerzo cuenta.",
+     "ko": "늘 완벽하지는 않겠지만, 노력 하나하나가 의미 있어요."
+    },
+    {
+     "t": 957.6,
+     "s": "M",
+     "es": "Qué excelente punto final, Sofía.",
+     "ko": "정말 훌륭한 마무리네요, 소피아."
+    },
+    {
+     "t": 960.5,
+     "s": "M",
+     "es": "Gracias por esta conversación tan enriquecedora.",
+     "ko": "이렇게 알찬 대화를 해 줘서 고마워요."
+    },
+    {
+     "t": 964.7,
+     "s": "S",
+     "es": "Gracias a ti, Mateo. Siempre es un placer.",
+     "ko": "고마워요, 마테오. 늘 즐거워요."
+    },
+    {
+     "t": 968.5,
+     "s": "S",
+     "es": "Y a ustedes, queridos oyentes, esperamos que este episodio les haya dado las herramientas y la motivación para tomar las riendas de su tiempo.",
+     "ko": "그리고 사랑하는 청취자 여러분, 이번 에피소드가 여러분의 시간을 직접 이끌어 갈 도구와 동기를 주었기를 바라요."
+    },
+    {
+     "t": 979.0,
+     "s": "S",
+     "es": "Recuerden que su tiempo es un recurso limitado y valioso.",
+     "ko": "여러분의 시간은 한정되고 소중한 자원임을 기억하세요."
+    },
+    {
+     "t": 983.5,
+     "s": "S",
+     "es": "Pruébenlo.",
+     "ko": "직접 해 보세요."
+    },
+    {
+     "t": 984.3,
+     "s": "M",
+     "es": "¿Cuál de estas estrategias van a implementar primero?",
+     "ko": "이 전략 중 무엇을 먼저 실천할 건가요?"
+    },
+    {
+     "t": 985.3,
+     "s": "M",
+     "es": "Cuéntennos en nuestras redes sociales.",
+     "ko": "SNS에서 알려 주세요."
+    },
+    {
+     "t": 991.4,
+     "s": "M",
+     "es": "Gracias por escucharnos.",
+     "ko": "들어 주셔서 감사합니다."
+    },
+    {
+     "t": 993.3,
+     "s": "M",
+     "es": "Nos vemos en el próximo episodio de Escucha y Aprende.",
+     "ko": "다음 '들으며 배우기' 에피소드에서 만나요."
+    },
+    {
+     "t": 998.1,
+     "s": "S",
+     "es": "Adiós a todos.",
+     "ko": "모두 안녕히 계세요."
+    },
+    {
+     "t": 999.4,
+     "s": "S",
+     "es": "Hasta la próxima.",
+     "ko": "다음에 또 만나요."
+    }
+   ]
+  }
+ ]
+}
